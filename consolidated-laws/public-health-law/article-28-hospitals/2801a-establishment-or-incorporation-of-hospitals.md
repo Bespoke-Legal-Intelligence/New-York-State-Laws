@@ -89,47 +89,33 @@ to request a public hearing and, if so requested, a public hearing shall
 be held. Any public hearing held pursuant to this subdivision may be
 conducted by the public health and health planning council, or by any
 individual designated by the public health and health planning council.
-  2-b. (a) This subdivision applies with respect to an application under
-this section relating to the incorporation or establishment of any
+  * 2-b. (a) This subdivision applies with respect to an application
+under this section relating to the incorporation or establishment of any
 nursing home, in addition to subdivision two of this section.
-  (b) The council shall provide notice of the application to the public
-on the department's website within thirty days of receipt of it and
-provide it to the state office of the long-term care ombudsman and the
-regional office having geographical jurisdiction of the area where the
-nursing home is to be or is located. In the case of an application
-relating to an existing nursing home, the notice shall also be provided
-in writing or electronically to residents of the nursing home and their
-representatives, and the staff of the nursing home and their
-representatives.
-  (c) The council shall provide a mechanism for submitting written
-comments electronically on the application to the council; and provide
-at least ninety days for the comment period. The terms of the written
-comment process shall be included in the notice under paragraph (a) of
-this subdivision.
-  (d) The council shall forward a copy of the application, and
-accompanying documents, to the state office of the long-term care
-ombudsman and the regional office having geographical jurisdiction of
-the area where the nursing home is or is to be located within thirty
-days of receipt of the application. The council shall not act upon such
-application until after the state office of the long-term care
-ombudsman, regional office and the parties entitled to notice have had a
-reasonable time, but not less than ninety days, to submit their
-recommendations. At the time members of the council are notified that an
-application is scheduled for consideration, the applicant, and the
-parties entitled to the notice under paragraph (a) of this subdivision
-shall be so notified in writing or electronically. The council shall
-afford the applicant an opportunity to present information in person
-concerning the application to a committee designated by the council. The
-council shall not take any action contrary to the advice of the state
-office of the long-term care ombudsman or the regional office until it
-affords the state or regional office an opportunity to request a public
-hearing and, if so requested, the public hearing is held. If the council
-proposes to disapprove the application it shall afford the applicant an
-opportunity to request and testify at a public hearing. The council may
-hold a public hearing on the application on its own motion or upon the
-written request of any person.
-  (e) Where this subdivision is inconsistent with subdivision two of
-this section, this subdivision shall prevail.
+  (b) The department shall provide notice, in writing or electronically,
+of an application for establishment to the state office of long-term
+care ombudsman, within thirty days of acknowledgement of the application
+by the department. Thereafter, the state office of the long-term care
+ombudsman shall submit its recommendation to the department and to the
+public health and health planning council for consideration about such
+application. At the time members of such council are notified that an
+application is scheduled for consideration by a committee designated by
+the public health and health planning council, the department shall also
+notify the state office of the long-term care ombudsman, in writing or
+electronically.
+  (c) In the case of an application for establishment relating to an
+existing nursing home, the established operator and applicant shall
+provide notice of the application, in writing or electronically, to
+residents of the nursing home and their representatives and the staff of
+the nursing home, including their union representatives, within thirty
+days of acknowledgment of the application by the department. The
+established operator and applicant shall also immediately notify
+residents of the nursing home and their representatives and the staff of
+the nursing home, including their union representatives, when the
+established operator and applicant is notified that its application is
+scheduled for consideration by a committee designated by the public
+health and health planning council.
+  * NB Effective October 21, 2021
   3. The public health and health planning council shall not approve a
 certificate of incorporation, articles of organization or application
 for establishment unless it is satisfied, insofar as applicable, as to
@@ -184,46 +170,48 @@ requiring such services within one hospital. The public health council
 may approve the establishment of such hospitals without regard to the
 requirement of public need as set forth in subdivision three of this
 section.
-  3-b. (a) This subdivision applies to an application under this section
-relating to a nursing home, and applies in addition to subdivision three
-of this section.
+  * 3-b. (a) This subdivision applies to an application under this
+section relating to a nursing home, and applies in addition to
+subdivision three of this section.
   (b) The application shall provide information as to the character,
-competence and standing in the community of every present or proposed
-controlling person, principal stockholder or principal member of the
-applicant, the identity of every nursing home in which each of those
-individuals or entities is, or in the preceding five years has been, a
-controlling person, principal stockholder or principal member; and the
-nature of that interest. The council shall not approve the application
-unless it finds that each of those individuals and entities, in relation
-to each such nursing home, for at least the previous three years,
-demonstrated satisfactory character, competence and standing in the
-community and the nursing home provided a consistently high level of
-care. The council shall adopt rules and regulations, subject to the
-approval of the commissioner, to establish the criteria to be used to
-determine whether a consistently high level of care has or has not been
-rendered by an applicant where one or more controlling persons,
-principal stockholders or principal members of the applicant is a
-controlling person, principal stockholder or principal member of a
-nursing home located in the United States. The council shall not
-consider that a consistently high level of care has been delivered at a
-facility in the United States that has earned a two-star rating or less
-by the federal center for Medicare and Medicaid Services' (CMS) (or a
-comparable rating under a successor CMS rating system) or where there
-have been violations of the state or federal nursing home code, or other
-applicable rules and regulations, that threatened to directly affect the
-health, safety or welfare of any patient or resident, including but not
-limited to a finding of immediate jeopardy, or actual harm, and were
-recurrent or were not promptly corrected, including but not limited to
-repeat deficiencies for the same or similar violations over a three year
-period or during the entire duration of ownership if less than three
-years, or any facility which has been in receivership; closed as a
-result of a settlement agreement from a decertification action or
-licensure revocation; or has been involuntarily terminated from the
-Medicare or Medicaid program in the prior five years, provided however,
-that where an applicant has taken over a facility and promptly corrected
-such deficiencies, the council may consider the application.
-  (c) Where this subdivision is inconsistent with subdivision three of
-this section, this subdivision shall prevail.
+competence and standing in the community of every individual and entity
+of the applicant and specify the identity of every nursing home in which
+each of those individuals and entities is, or in the preceding seven
+years has held a controlling interest or has been a controlling person,
+principal stockholder or principal member; and the nature of that
+interest. As used in this subdivision, "individual and entity of the
+applicant" shall include but not be limited to an individual or entity
+that is a controlling person, principal stockholder, or principal member
+of the applicant. The council shall not approve the application unless
+it finds that each individual and entity, in relation to ownership of a
+nursing home located in the United States, for at least the previous
+seven years, demonstrated satisfactory character, competence and
+standing in the community and the nursing home provided a consistently
+high level of care. The council shall adopt rules and regulations,
+subject to the approval of the commissioner, to establish the criteria
+to be used to determine whether a consistently high level of care has or
+has not been rendered by an applicant at such nursing home. The council
+shall consider, at a minimum, the following occurrences to determine
+whether a consistently high level of care has been delivered at a
+facility, and shall require the applicant to disclose and provide an
+explanation for any of the following occurrences: (i) a facility that
+has earned a two-star rating or less by the federal centers for Medicare
+and Medicaid Services (CMS) (or a comparable rating under a successor
+CMS rating system) ;(ii) where there have been violations of the state
+or federal nursing home code, or other applicable rules and regulations,
+that threatened to directly affect the health, safety or welfare of any
+patient or resident, including but not limited to a finding of immediate
+jeopardy, or actual harm, and were recurrent or were not promptly
+corrected, including but not limited to repeat deficiencies for the same
+or similar violations over a three year period or during the entire
+duration of ownership if less than three years, or any facility which
+has been in receivership; (iii) where a facility has closed as a result
+of a settlement agreement from a decertification action or licensure
+revocation; or (iv) has been involuntarily terminated from the Medicare
+or Medicaid program in the prior five years, provided however, that
+where an applicant has taken over a facility and promptly corrected such
+deficiencies, the council may consider the application.
+  * NB Effective October 21, 2021
   4. (a) Any change in the person who is the operator of a hospital
 shall be approved by the public health and health planning council in
 accordance with the provisions of subdivisions two and three of this
@@ -488,12 +476,20 @@ hereunder shall be subject to review as provided in article
 seventy-eight of the civil practice law and rules. Application for such
 review must be made within sixty days after service in person or by
 registered mail of a copy of such order or determination.
-  11. Any person filing a proposed certificate of incorporation,
+  11. * Any person filing a proposed certificate of incorporation,
 articles of organization or an application for establishment of a
 residential health care facility for approval of the public health and
 health planning council shall file with the commissioner such
 information on the ownership of the property interests in such facility
 as shall be prescribed by regulation, including the following:
+  * NB Effective until October 21, 2021
+  * Any person filing a proposed certificate of incorporation, articles
+of organization or an application for establishment of a residential
+health care facility for approval of the public health and health
+planning council shall file with the commissioner such information as
+may be prescribed by regulation, including, but not limited to, the
+following:
+  * NB Effective October 21, 2021
   (a) The name and address and a description of the interest held by
 each of the following persons:
   (i) any person, who directly or indirectly, beneficially owns any
@@ -524,6 +520,9 @@ market or which is a commercial bank, savings bank or savings and loan
 association, then the name and address of the principal executive
 officers and each director and, if known, each principal stockholder of
 such corporation.
+  * (e) Information pertaining to staffing, the source of staffing, and
+staff skill mix.
+  * NB Effective October 21, 2021
   12. The following definitions shall be applicable to this section:
   (a) "Controlling person" of any corporation, partnership, limited
 liability company or other entity means any person who by reason of a

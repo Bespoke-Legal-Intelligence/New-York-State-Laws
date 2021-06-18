@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Obligations Law § 5-1514", "kind": "section", "law_id": "GOB", "location_id": "5-1514", "path": "ARTICLE 5 › TITLE 15 › SECTION 5-1514", "repealed": false, "repealed_date": null, "source": "nys-laws:GOB/5-1514.md", "title": "Certain gift transactions; formal requirements; statutory form"} -->
+﻿<!-- nyslaw {"citation": "General Obligations Law § 5-1514", "kind": "section", "law_id": "GOB", "location_id": "5-1514", "path": "ARTICLE 5 › TITLE 15 › SECTION 5-1514", "repealed": true, "repealed_date": "2021-06-18", "source": "nys-laws:GOB/5-1514.md", "title": "Certain gift transactions; formal requirements; statutory form"} -->
 # General Obligations Law § 5-1514 — Certain gift transactions; formal requirements; statutory form
 
 [General Obligations Law](../../README.md) › [Article 5 — Creation, Definition and Enforcement of Contractual Obligations](../README.md) › [Title 15 — Statutory Short Form and Other Powers of Attorney For Financial and Estate Planning](README.md)
+
+**Repealed** (18 Jun 2021). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 5-1514. Certain gift transactions; formal requirements; statutory

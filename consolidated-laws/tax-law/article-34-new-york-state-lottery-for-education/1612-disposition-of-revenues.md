@@ -122,11 +122,11 @@ operational expenses provided such vendor track has filed an affirmation
 with the gaming commission certifying that this additional amount is
 necessary to raise revenues to the same level as expenses during the
 previous quarter;
-  * NB Effective until June 21, 2021
+  * NB Effective until June 21, 2023
 * (i) less ten percent of the total revenue wagered after payout for
 prizes to be retained by the division for operation, administration, and
 procurement purposes;
-  * NB Effective June 21, 2021
+  * NB Effective June 21, 2023
   (ii) less a vendor's fee the amount of which is to be paid for serving
 as a lottery agent to the track operator of a vendor track or the
 operator of any other video lottery gaming facility authorized pursuant

@@ -8,7 +8,7 @@
 | Senate code | CVP |
 | Type | Consolidated law, chapter 8 |
 | Sections | 796 |
-| Last changed | 14 May 2021 |
+| Last changed | 18 Jun 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Civil Practice Law & Rules |
 
@@ -29,6 +29,7 @@ AN ACT in relation to civil practice and prescribing rules of civil
 
 ## Recent changes
 
+- [18 Jun 2021](../../changes/2021/2021-06-18.md): 9 amended, 1 added, 1 removed
 - [14 May 2021](../../changes/2021/2021-05-14.md): 3 amended
 - [23 Apr 2021](../../changes/2021/2021-04-23.md): 1 amended
 - [2 Apr 2021](../../changes/2021/2021-04-02.md): 2 amended
@@ -38,7 +39,6 @@ AN ACT in relation to civil practice and prescribing rules of civil
 - [19 Jun 2020](../../changes/2020/2020-06-19.md): 1 amended
 - [24 Apr 2020](../../changes/2020/2020-04-24.md): 2 amended
 - [17 Apr 2020](../../changes/2020/2020-04-17.md): 1 amended, 1 added
-- [10 Apr 2020](../../changes/2020/2020-04-10.md): 3 amended
 
 ## Contents
 
@@ -83,7 +83,7 @@ AN ACT in relation to civil practice and prescribing rules of civil
 - [Article 50-B — Periodic Payment of Judgments In Personal Injury, Injury to Property and Wrongful Death Actions](article-050b-periodic-payment-of-judgments-in-personal-injury/)
 - [Article 51 — Enforcement of Judgments and Orders Generally](article-051-enforcement-of-judgments-and-orders-generally/)
 - [Article 52 — Enforcement of Money Judgments](article-052-enforcement-of-money-judgments/)
-- [Article 53 — Recognition of Foreign Country Money Judgments Summary of Article](article-053-recognition-of-foreign-country-money-judgments/)
+- [Article 53 — Recognition of Foreign Country Money Judgments](article-053-recognition-of-foreign-country-money-judgments/)
 - [Article 54 — Enforcement of Judgments Entitled to Full Faith and Credit Summary of Article](article-054-enforcement-of-judgments-entitled-to-full-faith/)
 - [Article 55 — Appeals Generally](article-055-appeals-generally/)
 - [Article 56 — Appeals to the Court of Appeals](article-056-appeals-to-the-court-of-appeals/)

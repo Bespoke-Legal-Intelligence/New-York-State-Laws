@@ -47,7 +47,7 @@
 - [§ 2803-V\*2 Standing orders for newborn care in a hospital](2803v-2-standing-orders-for-newborn-care-in-a-hospital.md)
 - [§ 2803-W Independent quality monitors for residential health care facilities](2803w-independent-quality-monitors-for-residential-health-care-facilities.md)
 - [§ 2803-W\*2 Disclosure of information concerning pregnancy complications](2803w-2-disclosure-of-information-concerning-pregnancy-complications.md)
-- [§ 2803-X Requirements related to nursing homes and related assets and operations](2803x-requirements-related-to-nursing-homes-and-related-assets-and-operations.md)
+- [§ 2803-X Requirements related to residential health care facilities and related assets](2803x-requirements-related-to-residential-health-care-facilities-and-related-assets.md)
 - [§ 2803-Y Provision of residency agreement](2803y-provision-of-residency-agreement.md)
 - [§ 2803-Z Transfer, discharge and voluntary discharge requirements for residential health care facilities](2803z-transfer-discharge-and-voluntary-discharge-requirements-for-residential-health.md)
 - [§ 2804 Units for hospital and health-related affairs](2804-units-for-hospital-and-health-related-affairs.md)
@@ -142,6 +142,7 @@
 - [§ 2826 Temporary adjustment to reimbursement rates](2826-temporary-adjustment-to-reimbursement-rates.md)
 - [§ 2827 Plant-based food options](2827-plant-based-food-options.md)
 - [§ 2828 Residential health care facilities; minimum direct resident care spending](2828-residential-health-care-facilities-minimum-direct-resident-care-spending.md)
+- [§ 2829 Nursing homes; disclosure requirements](2829-nursing-homes-disclosure-requirements.md)
 
 <details>
 <summary>Official heading of Article 28, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -341,6 +342,7 @@ Section 2800.     Declaration of policy and statement of purpose.
         2827.     Plant-based food options.
         2828.     Residential health care facilities; minimum direct
                     resident care spending.
+        2829.     Nursing homes; disclosure requirements.
 ```
 
 </details>

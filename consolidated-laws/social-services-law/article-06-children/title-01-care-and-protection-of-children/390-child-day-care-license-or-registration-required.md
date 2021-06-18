@@ -361,6 +361,13 @@ department or to be registered with the department pursuant to this
 section shall not be exempt from such requirement through registration
 with another state agency, or certification, registration, or licensure
 by any local governmental agency or any authorized agency.
+  * 5-a. The office of children and family services shall provide, upon
+request, all applications and forms necessary to become a licensed or
+registered child day care provider in English, French, Polish, or any of
+the ten most common non-English languages spoken by individuals with
+limited-English proficiency in the state of New York, based on United
+States census data.
+  * NB Effective September 9, 2021
   6. Unless otherwise limited by law, a parent with legal custody or a
 legal guardian of any child in a child day care program shall have
 unlimited and on demand access to such child or ward. Such parent or

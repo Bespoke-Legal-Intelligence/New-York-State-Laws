@@ -32,7 +32,7 @@ grievance on behalf of the enrollee; and (iv) notice of the name,
 address, phone number and website of the department designated consumer
 assistance program and the independent substance use disorder and mental
 health ombudsman established by section 33.27 of the mental hygiene law
-on all notices of adverse determinations, grievances and appeals.
+within notices of adverse grievances and appeals determinations.
   (c) The organization shall assure that the grievance procedure is
 reasonably accessible to those who do not speak English.
   3. (a) The organization may require an enrollee to file a grievance in
@@ -97,8 +97,8 @@ including a form for the filing of such an appeal; and (iv) notice of
 the name, address, phone number and website of the department designated
 consumer assistance program and the independent substance use disorder
 and mental health ombudsman established by section 33.27 of the mental
-hygiene law on all notices of adverse determinations, grievances and
-appeals.
+hygiene law within notices of adverse grievances and appeals
+determinations.
   8. An enrollee or an enrollee's designee shall have not less than
 sixty business days after receipt of notice of the grievance
 determination to file a written appeal, which may be submitted by letter

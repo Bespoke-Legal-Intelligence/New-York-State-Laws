@@ -137,7 +137,7 @@ game, in the manner specified in column three.
   or portions thereof
   listed in item (i)
   of this paragraph
-** NB Effective until October 1, 2022
+** NB Effective until October 1, 2024
 ** (d) Eastern region,    Deer, first Monday       Pistol, shotgun,
   except Columbia,        after November 15        crossbow,
   Fulton, Orange,         through first Tuesday    muzzle loading
@@ -148,7 +148,7 @@ game, in the manner specified in column three.
   or portions thereof
   listed in item (i)
   of this paragraph
-** NB Effective October 1, 2022
+** NB Effective October 1, 2024
 (e) Fulton, Saratoga,     Deer, first Monday       Pistol, rifle,
   Schenectady,            after November 15        shotgun, crossbow
   Washington (parts       through first Tuesday    or long bow
@@ -220,7 +220,7 @@ game, in the manner specified in column three.
                           after December 7         rifle or long bow
                                                    only
 ** NB There are 2 item (m)'s
-** NB Repealed October 1, 2022
+** NB Repealed October 1, 2024
 ** (m) The county of      Deer, the first Saturday Pistol, shotgun,
    Livingston             after November 15        crossbow, muzzle
                           through first Sunday     loading firearm,

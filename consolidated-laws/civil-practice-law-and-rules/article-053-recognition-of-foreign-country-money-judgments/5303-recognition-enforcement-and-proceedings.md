@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 5303", "kind": "section", "law_id": "CVP", "location_id": "5303", "path": "ARTICLE 53 › SECTION 5303", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/5303.md", "title": "Recognition enforcement, and proceedings"} -->
+# Civil Practice Law and Rules § 5303 — Recognition enforcement, and proceedings
+
+[Civil Practice Law and Rules](../README.md) › [Article 53 — Recognition of Foreign Country Money Judgments](README.md)
+
+```text
+  § 5303. Recognition enforcement, and proceedings. (a) Except as is
+otherwise provided in section fifty-three hundred four of this article
+or any controlling law of the United States, a court of this state shall
+recognize a foreign country judgment to which this article applies as
+conclusive between the parties to the extent that it grants or denies
+recovery of a sum of money.
+  (b) If recognition of a foreign country judgment is sought as an
+original matter, the issue of recognition shall be raised by filing an
+action on the judgment or a motion for summary judgment in lieu of
+complaint seeking recognition of the foreign country judgment.
+  (c) If recognition of a foreign country judgment is sought in a
+pending action, the issue of recognition may be raised by counterclaim,
+cross-claim or affirmative defense.
+  (d) An action to recognize a foreign country judgment must be
+commenced within the earlier of the time during which the foreign
+country judgment is effective in the foreign country or twenty years
+from the date that the foreign country judgment became effective in the
+foreign country.
+```

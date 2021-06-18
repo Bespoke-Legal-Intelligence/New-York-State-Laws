@@ -61,5 +61,14 @@ be provided if the resident specifically requests that the family member
 or designated representative not be notified.
   3. A residential health care facility shall not compel or attempt to
 compel an individual to voluntarily transfer or discharge from the
-facility.
+facility. In the event a resident seeks a voluntary transfer or
+discharge, the facility shall document, as part of the resident's
+medical records, the reason the resident is seeking a transfer or
+discharge. If the resident declines to provide a reason, the facility
+shall document that in the resident's medical record.
+  4. Nothing in this section shall diminish a resident's rights to
+independent personal decisions and knowledge of available choices, nor
+shall it diminish the facility's responsibility to encourage and assist
+in the fullest possible exercise of those rights under section two
+thousand eight hundred three-c of this article, or other applicable law.
 ```

@@ -28,7 +28,7 @@ for care or services in any hospital, nursing home, infirmary or other
 eligible medical institutions when such care and services may be
 provided as medical assistance for needy persons pursuant to title
 eleven of article five.
-  (d) In accordance with the regulations of the department approved by
+  * (d) In accordance with the regulations of the department approved by
 the director of the budget, allowances granted under the provisions of
 this title may include the costs of maintaining an eligible child in a
 summer camp operated by a nonprofit organization, corporation or agency,
@@ -39,6 +39,7 @@ of such child to provide maintenance in such summer camp, provided,
 however, that such maintenance shall not be provided where funds
 therefor were available or could have been obtained from other sources
 in the absence of the authority granted in this paragraph.
+  * NB Repealed June 30, 2021
   (e) Any inconsistent provisions of this title notwithstanding, so long
 as federal law and regulations require, family planning services and
 supplies shall be offered and promptly furnished to eligible persons of

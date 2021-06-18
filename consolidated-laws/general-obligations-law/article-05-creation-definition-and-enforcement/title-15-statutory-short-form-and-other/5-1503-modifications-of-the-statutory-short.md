@@ -1,39 +1,15 @@
-﻿<!-- nyslaw {"citation": "General Obligations Law § 5-1503", "kind": "section", "law_id": "GOB", "location_id": "5-1503", "path": "ARTICLE 5 › TITLE 15 › SECTION 5-1503", "repealed": false, "repealed_date": null, "source": "nys-laws:GOB/5-1503.md", "title": "Modifications of the statutory short form power of attorney and of the statutory gifts rider"} -->
-# General Obligations Law § 5-1503 — Modifications of the statutory short form power of attorney and of the statutory gifts rider
+﻿<!-- nyslaw {"citation": "General Obligations Law § 5-1503", "kind": "section", "law_id": "GOB", "location_id": "5-1503", "path": "ARTICLE 5 › TITLE 15 › SECTION 5-1503", "repealed": false, "repealed_date": null, "source": "nys-laws:GOB/5-1503.md", "title": "Modifications of the statutory short form power of attorney"} -->
+# General Obligations Law § 5-1503 — Modifications of the statutory short form power of attorney
 
 [General Obligations Law](../../README.md) › [Article 5 — Creation, Definition and Enforcement of Contractual Obligations](../README.md) › [Title 15 — Statutory Short Form and Other Powers of Attorney For Financial and Estate Planning](README.md)
 
 ```text
-  * § 5-1503. Modifications of the statutory short form power of
-attorney and of the statutory gifts rider. A power of attorney which
-satisfies the requirements of paragraphs (a), (b) and (c) of subdivision
-one of section 5-1501B and section 5-1513 of this title is not prevented
-from being a "statutory short form power of attorney", and a document
-which satisfies the requirements of section 5-1514 of this title is not
-prevented from being a "statutory gifts rider" as either of these terms
-is used in the sections of this title, by the fact that it also contains
-additional language at the section labeled "modifications" which:
-  1. Eliminates from the statutory short form power of attorney or from
-the statutory gifts rider one or more of the powers enumerated in one or
-more of the constructional sections of this title with respect to a
-subdivision of the statutory short form power of attorney or of the
-statutory gifts rider, affirmatively chosen by the principal; or
-  2. Supplements one or more of the powers enumerated in one or more of
-the constructional sections in this title with respect to a subdivision
-of the statutory short form power of attorney or of the statutory gifts
-rider, affirmatively chosen by the principal, by specifically listing
-additional powers of the agent; or
-  3. Makes some additional provision which is not inconsistent with the
-other provisions of the statutory short form power of attorney or of the
-statutory gifts rider, including a provision revoking one or more powers
-of attorney previously executed by the principal.
-  * NB Effective until June 13, 2021
-  * § 5-1503. Modifications of the statutory short form power of
-attorney.  A power of attorney which satisfies the requirements of
-paragraphs (a), (b) and (c) of subdivision one of section 5-1501B and
-section 5-1513 of this title is not prevented from being a "statutory
-short form power of attorney", by the fact that it also contains
-additional language at the section labeled "modifications" which:
+  § 5-1503. Modifications of the statutory short form power of attorney.
+A power of attorney which satisfies the requirements of paragraphs (a),
+(b) and (c) of subdivision one of section 5-1501B and section 5-1513 of
+this title is not prevented from being a "statutory short form power of
+attorney", by the fact that it also contains additional language at the
+section labeled "modifications" which:
   1. Eliminates from the statutory short form power of attorney one or
 more of the powers enumerated in one or more of the constructional
 sections of this title with respect to a subdivision of the statutory
@@ -47,5 +23,4 @@ or
 other provisions of the statutory short form power of attorney,
 including a provision revoking one or more powers of attorney previously
 executed by the principal.
-  * NB Effective June 13, 2021
 ```

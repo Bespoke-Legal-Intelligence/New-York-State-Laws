@@ -19,12 +19,12 @@
 - [§ 5-1502H Construction--claims and litigation](5-1502h-construction-claims-and-litigation.md)
 - [§ 5-1502I Construction--personal and family maintenance](5-1502i-construction-personal-and-family.md)
 - [§ 5-1502J Construction--benefits from governmental programs or civil or military service](5-1502j-construction-benefits-from-governmental.md)
-- [§ 5-1502K Construction--health care billing and payment matters; records, reports and statements](5-1502k-construction-health-care-billing.md)
+- [§ 5-1502K Construction--matters related to health care](5-1502k-construction-matters-related-to-health.md)
 - [§ 5-1502L Construction--retirement benefit transactions](5-1502l-construction-retirement-benefit.md)
 - [§ 5-1502M Construction--tax matters](5-1502m-construction-tax-matters.md)
 - [§ 5-1502N Construction--all other matters](5-1502n-construction-all-other-matters.md)
-- [§ 5-1503 Modifications of the statutory short form power of attorney and of the statutory gifts rider](5-1503-modifications-of-the-statutory-short.md)
-- [§ 5-1504 Acceptance of statutory short form power of attorney](5-1504-acceptance-of-statutory-short-form-power.md)
+- [§ 5-1503 Modifications of the statutory short form power of attorney](5-1503-modifications-of-the-statutory-short.md)
+- [§ 5-1504 Acceptance of and reliance upon acknowledged and witnessed statutory short form power of attorney](5-1504-acceptance-of-and-reliance.md)
 - [§ 5-1505 Standard of care; fiduciary duties; compelling disclosure of record](5-1505-standard-of-care-fiduciary-duties.md)
 - [§ 5-1506 Compensation](5-1506-compensation.md)
 - [§ 5-1507 Signature of agent](5-1507-signature-of-agent.md)
@@ -34,7 +34,7 @@
 - [§ 5-1511 Termination or revocation of power of attorney; notice](5-1511-termination-or-revocation-of-power.md)
 - [§ 5-1512 Powers of attorney executed in other jurisdictions](5-1512-powers-of-attorney-executed-in-other.md)
 - [§ 5-1513 Statutory short form power of attorney](5-1513-statutory-short-form-power-of-attorney.md)
-- [§ 5-1514 Certain gift transactions; formal requirements; statutory form](5-1514-certain-gift-transactions-formal.md)
+- [§ 5-1514 Certain gift transactions; formal requirements; statutory form](5-1514-certain-gift-transactions-formal.md) *(repealed)*
 
 <details>
 <summary>Official heading of Title 15, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -76,8 +76,6 @@ Section 5-1501.  Application and definitions.
         5-1511.  Termination or revocation of power of attorney; notice.
         5-1512.  Powers of attorney executed in other jurisdictions.
         5-1513.  Statutory short form power of attorney.
-        5-1514.  Certain gift transactions; formal requirements;
-                   statutory form.
 ```
 
 </details>
