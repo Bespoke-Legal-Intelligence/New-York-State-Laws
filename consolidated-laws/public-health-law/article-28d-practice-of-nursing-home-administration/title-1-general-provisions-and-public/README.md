@@ -7,6 +7,7 @@
 
 - [§ 2895 Declaration of policy and statement of purpose](2895-declaration-of-policy-and-statement.md)
 - [§ 2895-A Definitions](2895a-definitions.md)
+- [§ 2895-B Nursing home staffing levels](2895b-nursing-home-staffing-levels.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -16,6 +17,7 @@
                   GENERAL PROVISIONS AND PUBLIC POLICY
 Section 2895.   Declaration of policy and statement of purpose.
         2895-a. Definitions.
+        2895-b. Nursing home staffing levels.
 ```
 
 </details>

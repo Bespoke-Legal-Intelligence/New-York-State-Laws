@@ -13,7 +13,7 @@
 - [§ 499-F Complaint; investigation; hearing and disposition](499f-complaint-investigation-hearing-and-disposition.md)
 - [§ 499-G Confidentiality of records](499g-confidentiality-of-records.md)
 - [§ 499-H Breach of confidentiality of commission information](499h-breach-of-confidentiality-of-commission-information.md)
-- [§ 499-I Resignation not to divest commission or presiding justices of the appellate division of jurisdiction](499i-resignation-not-to-divest-commission-or-presiding-justices-of-the-appellate.md)
+- [§ 499-I Resignation not to divest commission and the appellate division of jurisdiction](499i-resignation-not-to-divest-commission-and-the-appellate-division-of-jurisdiction.md)
 - [§ 499-J Effect](499j-effect.md)
 
 <details>
@@ -30,8 +30,8 @@ Section 499-a. Establishment of commission.
         499-f. Complaint; investigation; hearing and disposition.
         499-g. Confidentiality of records.
         499-h. Breach of confidentiality of commission information.
-        499-i. Resignation not to divest commission or presiding
-                 justices of the appellate division of jurisdiction.
+        499-i. Resignation not to divest commission and the appellate
+                 division of jurisdiction.
         499-j. Effect.
 ```
 

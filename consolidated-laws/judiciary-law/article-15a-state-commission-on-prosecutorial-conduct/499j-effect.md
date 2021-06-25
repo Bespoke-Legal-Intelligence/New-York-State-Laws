@@ -4,11 +4,8 @@
 [Judiciary Law](../README.md) › [Article 15-A — State Commission On Prosecutorial Conduct](README.md)
 
 ```text
-  § 499-j. Effect. 1. The powers, duties, and functions of the state
+  § 499-j. Effect. The powers, duties, and functions of the state
 commission on prosecutorial conduct shall not supersede the powers and
 duties of the governor as outlined in section thirteen of article
 thirteen of the New York state constitution.
-  2. Removal or retirement of a prosecutor pursuant to this article
-shall be considered a removal from office pursuant to section thirty of
-the public officers law.
 ```

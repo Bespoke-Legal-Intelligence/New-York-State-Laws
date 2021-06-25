@@ -72,7 +72,7 @@
 - [§ 2805-Q Hospital visitation by domestic partner](2805q-hospital-visitation-by-domestic-partner.md)
 - [§ 2805-R Patients unable to verbally communicate](2805r-patients-unable-to-verbally-communicate.md)
 - [§ 2805-S Circulating nurse required](2805s-circulating-nurse-required.md)
-- [§ 2805-T Disclosure of nursing quality indicators](2805t-disclosure-of-nursing-quality-indicators.md)
+- [§ 2805-T Clinical staffing committees and disclosure of nursing quality indicators](2805t-clinical-staffing-committees-and-disclosure-of-nursing-quality-indicators.md)
 - [§ 2805-U Credentialing and privileging of health care practitioners providing telemedicine services](2805u-credentialing-and-privileging-of-health-care-practitioners-providing.md)
 - [§ 2805-V Observation services](2805v-observation-services.md)
 - [§ 2805-W Patient notice of observation services](2805w-patient-notice-of-observation-services.md)
@@ -241,7 +241,8 @@ Section 2800.     Declaration of policy and statement of purpose.
         2805-q.   Hospital visitation by domestic partner.
         2805-r.   Patients unable to verbally communicate.
         2805-s.   Circulating nurse required.
-        2805-t.   Disclosure of nursing quality indicators.
+        2805-t.   Clinical staffing committees and disclosure of nursing
+                    quality indicators.
         2805-u.   Credentialing and privileging of health care
                     practitioners providing telemedicine services.
         2805-v.   Observation services.

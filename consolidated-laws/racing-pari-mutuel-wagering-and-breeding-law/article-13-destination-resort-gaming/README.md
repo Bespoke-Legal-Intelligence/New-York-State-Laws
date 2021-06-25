@@ -29,7 +29,6 @@ Title 1.  General provisions
       6.  Taxation and fees
       7.  Problem gambling
       8.  Miscellaneous provisions
-      9.  Gaming inspector general
 ```
 
 </details>
