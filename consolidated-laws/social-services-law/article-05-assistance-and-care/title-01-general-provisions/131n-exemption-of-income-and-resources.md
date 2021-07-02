@@ -64,7 +64,7 @@ and under title XX of the Social Security Act.
 income and resources. The department is further authorized to promulgate
 regulations it deems necessary to prevent the improper establishment and
 use of accounts for purchase of first or replacement vehicles.
-  * NB Effective until August 22, 2021
+  * NB Effective until August 22, 2023
   * § 131-n. Additional exemption of income and resources pursuant to
 federal law and regulations. 1. If federal law or regulations require,
 as a condition of qualifying for federal financial participation, the
@@ -91,5 +91,5 @@ and under title XX of the Social Security Act; provided, however, that
 such treatment shall be applied in the home relief program only to the
 extent that it is permitted under federal law in the program of aid to
 dependent children.
-  * NB Effective August 22, 2021
+  * NB Effective August 22, 2023
 ```

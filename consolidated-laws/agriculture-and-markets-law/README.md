@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | AGM |
 | Type | Consolidated law, chapter 69 |
-| Sections | 701 (26 repealed) |
-| Last changed | 19 Feb 2021 |
+| Sections | 677 |
+| Last changed | 2 Jul 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Agriculture & Markets |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [2 Jul 2021](../../changes/2021/2021-07-02.md): 6 amended, 4 added, 28 removed
 - [19 Feb 2021](../../changes/2021/2021-02-19.md): 1 amended
 - [29 Jan 2021](../../changes/2021/2021-01-29.md): 1 amended
 - [18 Dec 2020](../../changes/2020/2020-12-18.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [7 Aug 2020](../../changes/2020/2020-08-07.md): 1 amended
 - [24 Apr 2020](../../changes/2020/2020-04-24.md): 1 amended
 - [13 Mar 2020](../../changes/2020/2020-03-13.md): 17 amended, 26 repealed
-- [24 Jan 2020](../../changes/2020/2020-01-24.md): 37 amended, 5 added
 
 ## Contents
 
@@ -108,5 +108,4 @@ Assembly, do enact as follows:
 - [Article 26-B — Animal Response Teams](article-26b-animal-response-teams/)
 - [Article 28 — Special Powers and Duties of the Department With Respect to Retail Food Stores, Food Service Establishments and Food Warehouses](article-28-special-powers-and-duties-of-the-department/)
 - [Article 29 — Growth of Hemp](article-29-growth-of-hemp/)
-- [Article 29-A — Regulation of Hemp Extract](article-29a-regulation-of-hemp-extract/) *(repealed)*
 - [Article 30 — Saving Clauses; Laws Repealed; When to Take Effect](article-30-saving-clauses-laws-repealed-when-to-take-effect/)

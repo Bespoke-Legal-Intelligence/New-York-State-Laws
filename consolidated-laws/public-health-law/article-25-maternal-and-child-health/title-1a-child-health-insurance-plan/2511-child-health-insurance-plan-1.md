@@ -261,12 +261,12 @@ subparagraph (i) of this paragraph shall be provided only to children
 who apply for recertification of coverage under this title who appear to
 be eligible for medical assistance under title eleven of article five of
 the social services law.
-  * NB Expires July 1, 2021
+  * NB Expires July 1, 2023
   * (h) The commissioner may, in consultation with the superintendent,
 promulgate rules and regulations necessary to prevent fraud and abuse in
 eligibility determinations made by approved organizations pursuant to
 this subdivision.
-  * NB Expires July 1, 2021
+  * NB Expires July 1, 2023
   (i) Notwithstanding any inconsistent provision of law, rule or
 regulation:
   (i) A newborn child who meets the eligibility criteria set forth in

@@ -758,18 +758,24 @@ transportation authority in two thousand twenty; provided, however, this
 subtraction shall not exceed five hundred thousand dollars and shall not
 apply to any benefit payable under such program other than a lump sum
 death benefit.
-  (45) (A) The amount of an item that was included in New York adjusted
-gross income for a prior taxable year (or years) because it appeared
-that the taxpayer had an unrestricted right to such item but was repaid
-by the taxpayer during the taxable year because it was established after
-the close of such prior taxable year (or years) that the taxpayer did
-not have an unrestricted right to such item or to a portion of such
-item.
+  * (45) (A) The amount of an item that was included in New York
+adjusted gross income for a prior taxable year (or years) because it
+appeared that the taxpayer had an unrestricted right to such item but
+was repaid by the taxpayer during the taxable year because it was
+established after the close of such prior taxable year (or years) that
+the taxpayer did not have an unrestricted right to such item or to a
+portion of such item.
   (B) No subtraction shall be allowed under this paragraph if the
 repayment amount is included in the deduction allowed under section six
 hundred fifteen or any other provision of this article, or if the
 repayment amount is the basis for a credit claimed by the taxpayer
 pursuant to section six hundred sixty-two of this article.
+  * NB There are 2 par (45)'s
+  * (45) Grants received pursuant to the COVID-19 pandemic small
+business recovery grant program, established in section 16-ff of the New
+York state urban development corporation act, to the extent includable
+in federal adjusted gross income.
+  * NB There are 2 par (45)'s
   (d) Modification for New York fiduciary adjustment. There shall be
 added to or subtracted from federal adjusted gross income (as the case
 may be) the taxpayer's share, as beneficiary of an estate or trust, of

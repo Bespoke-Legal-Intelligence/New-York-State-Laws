@@ -15,6 +15,7 @@
 - [§ 25.13 Office is authorized state agency](25.13-office-is-authorized-state-agency.md)
 - [§ 25.15 Optimizing federal aid](25.15-optimizing-federal-aid.md)
 - [§ 25.17 Fees for services](25.17-fees-for-services.md)
+- [§ 25.18 Statewide opioid settlements](25.18-statewide-opioid-settlements.md)
 
 <details>
 <summary>Official heading of Article 25, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -34,6 +35,7 @@ Section 25.01 Definitions.
         25.13 Office is authorized state agency.
         25.15 Optimizing federal aid.
         25.17 Fees for services.
+        25.18 Statewide opioid settlements.
 ```
 
 </details>

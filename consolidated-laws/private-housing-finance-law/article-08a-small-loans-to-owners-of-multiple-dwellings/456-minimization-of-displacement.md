@@ -14,5 +14,5 @@ temporary physical displacement is required as a direct result of
 rehabilitation work which is performed in such multiple dwelling
 receiving a loan pursuant to this article suitable temporary relocation
 arrangements shall be provided.
-  * NB Expires July 1, 2021
+  * NB Expires July 1, 2024
 ```

@@ -77,7 +77,7 @@ activities. However, if temporary physical displacement is required as a
 direct result of rehabilitation work which is performed in such multiple
 dwelling receiving a loan pursuant to this article, suitable temporary
 relocation arrangements shall be provided.
-  * NB Effective until July 1, 2021
+  * NB Effective until July 1, 2024
   * § 576-c. Loans to housing development companies by a municipality.
 In addition to the powers granted to municipalities pursuant to this
 article, a municipality, acting by its supervising agency, may make
@@ -115,5 +115,5 @@ written determination that such reduction would be necessary to ensure
 the continued affordability or economic viability of such housing
 project. Such written determination shall document the basis upon which
 the loan was determined to be eligible for evaporation.
-  * NB Effective July 1, 2021
+  * NB Effective July 1, 2024
 ```

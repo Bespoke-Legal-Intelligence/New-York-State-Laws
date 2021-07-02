@@ -8,7 +8,7 @@
 | Senate code | COM |
 | Type | Consolidated law, chapter 15 |
 | Sections | 184 |
-| Last changed | 23 Apr 2021 |
+| Last changed | 2 Jul 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Economic Development Law |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [2 Jul 2021](../../changes/2021/2021-07-02.md): 1 amended
 - [23 Apr 2021](../../changes/2021/2021-04-23.md): 10 amended, 10 added
 - [5 Feb 2021](../../changes/2021/2021-02-05.md): 1 amended
 - [18 Dec 2020](../../changes/2020/2020-12-18.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [17 Apr 2020](../../changes/2020/2020-04-17.md): 7 amended
 - [13 Dec 2019](../../changes/2019/2019-12-13.md): 2 amended
 - [15 Nov 2019](../../changes/2019/2019-11-15.md): 3 amended
-- [18 Oct 2019](../../changes/2019/2019-10-18.md): 1 amended, 7 removed
 
 ## Contents
 

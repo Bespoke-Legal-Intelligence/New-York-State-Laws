@@ -40,7 +40,8 @@ Section 4130.   Births; registration.
         4137.   Births; notice of recording.
         4138.   Birth certificate; new certificate in case of subsequent
                   marriage of unwed parents; adoption; adjudication of
-                  parentage; change of name.
+                  parentage; change of name of registrant or parent;
+                  gender transition of registrant or parent.
         4138-a. Certificate of birth data.
         4138-b. Birth certificate: foreign country adoption.
         4138-c. Adoption information registry.

@@ -393,6 +393,10 @@ code.
 in a previous taxable year pursuant to subparagraph twenty-seven of
 paragraph (b) of subdivision nine of this section that is included in
 federal gross income for the taxable year.
+  (22) Grants received pursuant to the COVID-19 pandemic small business
+recovery grant program, established in section 16-ff of the New York
+state urban development corporation act, to the extent includable in
+federal taxable income.
   (b) Entire net income shall be determined without the exclusion,
 deduction or credit of:
   (1) in the case of an alien corporation that under any provision of

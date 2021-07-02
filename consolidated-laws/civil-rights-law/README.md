@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | CVR |
 | Type | Consolidated law, chapter 6 |
-| Sections | 124 |
-| Last changed | 4 Jun 2021 |
+| Sections | 127 |
+| Last changed | 2 Jul 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Civil Rights |
 
@@ -29,10 +29,11 @@
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (31 lines)](chapter-text.md)
+[Full chapter text (32 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [2 Jul 2021](../../changes/2021/2021-07-02.md): 4 amended, 3 added
 - [4 Jun 2021](../../changes/2021/2021-06-04.md): 2 amended
 - [26 Mar 2021](../../changes/2021/2021-03-26.md): 1 amended
 - [1 Jan 2021](../../changes/2021/2021-01-01.md): 1 amended, 1 added
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [13 Nov 2020](../../changes/2020/2020-11-13.md): 2 amended
 - [17 Jul 2020](../../changes/2020/2020-07-17.md): 1 amended
 - [3 Jul 2020](../../changes/2020/2020-07-03.md): 1 amended
-- [19 Jun 2020](../../changes/2020/2020-06-19.md): 1 amended, 2 added, 1 removed
 
 ## Contents
 
@@ -56,6 +56,7 @@ Assembly, do enact as follows:
 - [Article 5 — Right of Privacy](article-05-right-of-privacy/)
 - [Article 5-A — Membership Corporations and Unincorporated Associations](article-05a-membership-corporations-and-unincorporated/)
 - [Article 6 — Change of Name](article-06-change-of-name/)
+- [Article 6-A — Change of Sex Designation](article-06a-change-of-sex-designation/)
 - [Article 7 — Miscellaneous Rights and Immunities](article-07-miscellaneous-rights-and-immunities/)
 - [Article 8 — Causes of Action For Alienation of Affections, Criminal Conversation, Seduction and Breach of Contract to Marry Abolished](article-08-causes-of-action-for-alienation-of-affections/)
 - [Article 9 — Right to Call Police and Emergency Assistance/victim Protections](article-09-right-to-call-police-and-emergency-assistance/)

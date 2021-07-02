@@ -7,7 +7,7 @@
 
 - [§ 1800 Penalties for traffic infractions](1800-penalties-for-traffic-infractions.md)
 - [§ 1801 Penalties for misdemeanors](1801-penalties-for-misdemeanors.md)
-- [§ 1802 Receipts for fines or bail](1802-receipts-for-fines-or-bail.md)
+- [§ 1802 Receipts for fines or bail; installment payment plans](1802-receipts-for-fines-or-bail-installment-payment.md)
 - [§ 1803 Disposition of fines and forfeitures](1803-disposition-of-fines-and-forfeitures.md)
 - [§ 1804 Prohibition of imposition and collection of a fine, penalty, forfeiture, fee or surcharge](1804-prohibition-of-imposition-and-collection.md)
 - [§ 1805 Plea of guilty, how put in](1805-plea-of-guilty-how-put.md)
