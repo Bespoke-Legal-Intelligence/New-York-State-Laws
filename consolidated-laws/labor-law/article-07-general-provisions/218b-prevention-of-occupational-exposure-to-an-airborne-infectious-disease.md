@@ -4,9 +4,9 @@
 [Labor Law](../README.md) › [Article 7 — General Provisions](README.md)
 
 ```text
-  * § 218-b. Prevention of occupational exposure to an airborne
-infectious disease. 1. For purposes of this section, the following terms
-shall have the following meanings:
+  § 218-b. Prevention of occupational exposure to an airborne infectious
+disease. 1. For purposes of this section, the following terms shall have
+the following meanings:
   (a) "Employee" shall mean any person providing labor or services for
 remuneration for a private entity or business within the state, without
 regard to an individual's immigration status, and shall include
@@ -277,5 +277,4 @@ this chapter.
   13. The commissioner, in consultation with the commissioner of health,
 shall adopt and amend rules and regulations to effectuate the provisions
 and purposes of this section.
-  * NB Effective July 4, 2021
 ```

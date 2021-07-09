@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | GBS |
 | Type | Consolidated law, chapter 20 |
-| Sections | 1,263 |
-| Last changed | 4 Jun 2021 |
+| Sections | 1,269 |
+| Last changed | 9 Jul 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Business |
 
@@ -29,10 +29,11 @@ AN ACT relating to general business, constituting chapter twenty of the
   Assembly, do enact as follows:
 ```
 
-[Full chapter text (173 lines)](chapter-text.md)
+[Full chapter text (175 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [9 Jul 2021](../../changes/2021/2021-07-09.md): 6 added
 - [4 Jun 2021](../../changes/2021/2021-06-04.md): 1 amended, 1 removed
 - [14 May 2021](../../changes/2021/2021-05-14.md): 1 amended, 1 added
 - [23 Apr 2021](../../changes/2021/2021-04-23.md): 2 amended, 1 added
@@ -42,7 +43,6 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [12 Feb 2021](../../changes/2021/2021-02-12.md): 2 amended
 - [13 Nov 2020](../../changes/2020/2020-11-13.md): 5 amended, 2 added
 - [16 Oct 2020](../../changes/2020/2020-10-16.md): 1 amended, 2 added
-- [2 Oct 2020](../../changes/2020/2020-10-02.md): 1 amended
 
 ## Contents
 
@@ -165,6 +165,7 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 39-D — Auto Equity Promoters](article-39d-auto-equity-promoters/)
 - [Article 39-DD — Sale of Firearms, Rifles or Shotguns At Gun Shows](article-39dd-sale-of-firearms-rifles-or-shotguns-at-gun-shows/)
 - [Article 39-DDD — Private Sale or Disposal of Firearms, Rifles and Shotguns](article-39ddd-private-sale-or-disposal-of-firearms-rifles/)
+- [Article 39DDDD — Article 39-dddd Sale, Manufacturing, Importing and Marketing of Firearms](article-39dddd-article-39-dddd-sale-manufacturing-importing/)
 - [Article 39-E — Uniform Athlete Agents Act](article-39e-uniform-athlete-agents-act/)
 - [Article 39-F — Notification of Unauthorized Acquisition of Private Information; Data Security Protections](article-39f-notification-of-unauthorized-acquisition/)
 - [Article 39-G — Document Destruction Contractors](article-39g-document-destruction-contractors/)

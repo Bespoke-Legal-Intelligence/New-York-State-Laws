@@ -27,8 +27,8 @@
 - [§ 202-A False advertising](202a-false-advertising.md)
 - [§ 202-B Seizure and quarantine](202b-seizure-and-quarantine.md)
 - [§ 202-C Proceedings to review, violations and remedies](202c-proceedings-to-review-violations-and-remedies.md)
-- [§ 203 Manufacture and sale of imitation maple, birch or walnut sugar and syrup prohibited](203-manufacture-and-sale-of-imitation-maple-birch-or-walnut-sugar-and-syrup.md)
-- [§ 204 Branding and labeling of maple, birch or walnut sugar and syrup mixtures](204-branding-and-labeling-of-maple-birch-or-walnut-sugar-and-syrup-mixtures.md)
+- [§ 203 Manufacture and sale of imitation maple, birch, walnut or beech sugar and syrup prohibited](203-manufacture-and-sale-of-imitation-maple-birch-walnut-or-beech-sugar.md)
+- [§ 204 Branding and labeling of maple, birch, walnut or beech sugar and syrup mixtures](204-branding-and-labeling-of-maple-birch-walnut-or-beech-sugar-and-syrup.md)
 - [§ 204-A Olive oil mixtures](204a-olive-oil-mixtures.md)
 - [§ 204-B Foods containing fats and/or oils](204b-foods-containing-fats-and-or-oils.md)
 - [§ 204-C Prepared horseradish](204c-prepared-horseradish.md)
@@ -87,10 +87,10 @@ Section 198.   Definitions.
         202-a. False advertising.
         202-b. Seizure and quarantine.
         202-c. Proceedings to review, violations and remedies.
-        203.   Manufacture and sale of imitation maple, birch or walnut
-                 sugar and syrup prohibited.
-        204.   Branding and labeling of maple, birch or walnut sugar and
-                 syrup mixtures.
+        203.   Manufacture and sale of imitation maple, birch, walnut or
+                 beech sugar and syrup prohibited.
+        204.   Branding and labeling of maple, birch, walnut or beech
+                 sugar and syrup mixtures.
         204-a. Olive oil mixtures.
         204-b. Foods containing fats and/or oils.
         204-c. Prepared horseradish.

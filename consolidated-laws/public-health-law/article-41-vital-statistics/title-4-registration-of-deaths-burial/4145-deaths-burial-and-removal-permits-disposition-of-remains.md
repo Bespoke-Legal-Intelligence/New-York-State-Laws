@@ -60,4 +60,9 @@ disposed of on the premises under his charge, in each case stating the
 name of each deceased person, place of death, date of burial or
 disposal, and name and address of the funeral director or undertaker,
 which record shall at all time be open to official inspection.
+  6. For the purposes of this section, such documents required to be
+produced under this section may be signed by written instrument or the
+use of an electronic signature, as that term is defined in subdivision
+three of section three hundred two of the state technology law, with the
+intent to execute the instrument, writing or electronic record.
 ```

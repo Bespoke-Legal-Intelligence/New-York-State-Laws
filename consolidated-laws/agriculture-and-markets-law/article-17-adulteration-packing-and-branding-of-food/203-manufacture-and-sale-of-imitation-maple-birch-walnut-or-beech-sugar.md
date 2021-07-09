@@ -1,12 +1,12 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 203", "kind": "section", "law_id": "AGM", "location_id": "203", "path": "ARTICLE 17 › SECTION 203", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/203.md", "title": "Manufacture and sale of imitation maple, birch or walnut sugar and syrup prohibited"} -->
-# Agriculture and Markets Law § 203 — Manufacture and sale of imitation maple, birch or walnut sugar and syrup prohibited
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 203", "kind": "section", "law_id": "AGM", "location_id": "203", "path": "ARTICLE 17 › SECTION 203", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/203.md", "title": "Manufacture and sale of imitation maple, birch, walnut or beech sugar and syrup prohibited"} -->
+# Agriculture and Markets Law § 203 — Manufacture and sale of imitation maple, birch, walnut or beech sugar and syrup prohibited
 
 [Agriculture and Markets Law](../README.md) › [Article 17 — Adulteration, Packing, and Branding of Food and Food Products](README.md)
 
 ```text
-  § 203. Manufacture and sale of imitation maple, birch or walnut sugar
-and syrup prohibited. (a) 1. No person shall manufacture for sale, keep
-for sale, or offer or expose for sale, any sugar in imitation or
+  § 203. Manufacture and sale of imitation maple, birch, walnut or beech
+sugar and syrup prohibited. (a) 1. No person shall manufacture for sale,
+keep for sale, or offer or expose for sale, any sugar in imitation or
 semblance of maple sugar which is not pure maple sugar, nor any syrup in
 imitation or semblance of maple syrup, which is not pure maple syrup,
 nor shall any person manufacture, offer or expose for sale any sugar as
@@ -38,4 +38,15 @@ which is not walnut syrup.
 deemed to mean sugar made from pure walnut sap or pure walnut syrup, and
 the term "walnut syrup" shall be deemed to mean syrup made from pure
 walnut sap.
+  (d) 1. No person shall manufacture for sale, keep for sale, or offer
+or expose for sale, any sugar in imitation or semblance of beech sugar
+which is not pure beech sugar, nor any syrup in imitation or semblance
+of beech syrup, which is not pure beech syrup, nor shall any person
+manufacture, offer or expose for sale any sugar as and for beech sugar
+which is not pure beech sugar, nor any syrup as and for beech syrup
+which is not pure beech syrup.
+  2. For the purpose of this article the term "beech sugar" shall be
+deemed to mean sugar made from pure beech sap or pure beech syrup, and
+the term "beech syrup" shall be deemed to mean syrup made from pure
+beech sap.
 ```

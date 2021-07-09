@@ -24,9 +24,8 @@ residence.
 residential in character and physical structure and operated for the
 purpose of providing more than two hospice patients but not more than
 sixteen hospice patients with hospice care, which may include dually
-certified hospice in-patient beds up to twenty-five percent of the
-hospice residence's patient capacity, or up to fifty percent of the
-hospice residence's patient capacity with the commissioner's approval.
+certified hospice in-patient beds up to one hundred percent of the
+hospice residence's patient capacity.
   3. "Construction" means construction as defined in section thirty-six
 hundred two of this chapter.
   4. "Public health council" and "state hospital review and planning

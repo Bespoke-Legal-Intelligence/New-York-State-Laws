@@ -132,5 +132,5 @@ maximize the participation of programs operated by not-for-profit
 corporations or charitable organizations for the improvement,
 rehabilitation, reconstruction or redevelopment of one to four unit
 residences.
-  * NB Repealed July 23, 2021
+  * NB Repealed July 23, 2023
 ```

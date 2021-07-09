@@ -55,7 +55,7 @@ agricultural and technical colleges' offering credit and noncredit
 courses which would satisfy the educational requirements for
 certification and recertification of emergency medical technicians and
 advanced emergency medical technicians.
-  * 2-b. The commissioner, in consultation with the state emergency
+  2-b. The commissioner, in consultation with the state emergency
 medical services council, shall develop a program to allow certified
 first responders, emergency medical technicians and advanced emergency
 medical technicians who have been in continuous practice, who have
@@ -70,7 +70,6 @@ emergency medical technicians and advanced emergency medical
 technicians. Renewals of certification under the program shall be deemed
 equivalent to renewals under subdivision two of this section for
 purposes of this article.
-  * NB Repealed July 1, 2021
   3. Upon appeal from the appropriate regional council, the state
 council shall have the power, by an affirmative vote of a majority of
 those present, to amend, modify and reverse determinations of the

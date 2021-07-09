@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 410", "kind": "section", "law_id": "AGM", "location_id": "410", "path": "ARTICLE 26-B › SECTION 410", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/410.md", "title": "Establishment of animal response teams"} -->
 # Agriculture and Markets Law § 410 — Establishment of animal response teams
 
-[Agriculture and Markets Law](../README.md) › [Article 26-B — Animal Response Teams](README.md)
+[Agriculture and Markets Law](../README.md) › [Article 26-B — Emergency Response Services For Animals](README.md)
 
 ```text
   § 410. Establishment of animal response teams. 1. The commissioner is

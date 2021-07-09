@@ -12,7 +12,7 @@ but less than two hundred fifteen thousand inhabitants, acting through
 its local legislative body, is hereby authorized and empowered to adopt
 and amend local laws imposing in any such city, for taxable years
 beginning after nineteen hundred eighty-three and before two thousand
-twenty-two, a city income tax surcharge on residents of such city at a
+twenty-four, a city income tax surcharge on residents of such city at a
 rate not to exceed nineteen and one-quarter percent of the net state tax
 as defined in section thirteen hundred twenty-three of this article,
 such city income tax surcharge to be administered, collected and
@@ -26,7 +26,7 @@ such tax on the earnings of nonresidents.
 local law enacted pursuant to the authority of this section shall go
 into effect on the first day of January, nineteen hundred eighty-four
 and shall apply to taxable years beginning on or after such date and
-before two thousand twenty-two. Provided, however, no such local law
+before two thousand twenty-four. Provided, however, no such local law
 shall be so effective unless such local law is enacted by July
 thirty-first, nineteen hundred eighty-four and unless a certified copy
 of such local law is mailed by registered or certified mail to the
@@ -35,7 +35,7 @@ If the requirements of paragraph (i) of this subsection are not met, a
 local law enacted pursuant to the authority of this section shall go
 into effect on the first day of the next succeeding January and shall
 apply to taxable years beginning on or after such date and before two
-thousand twenty-two. Provided, however, no such local law shall be so
+thousand twenty-four. Provided, however, no such local law shall be so
 effective unless such local law is enacted at least ninety days prior to
 the date it is to become effective and unless a certified copy of such
 local law is mailed by registered or certified mail to the commissioner
