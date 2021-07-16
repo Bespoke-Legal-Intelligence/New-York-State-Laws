@@ -18,7 +18,7 @@
 - [§ 12 Forfeiture of commodities exposed for sale on Sunday](12-forfeiture-of-commodities-exposed-for-sale-on-sunday.md)
 - [§ 13 Maliciously serving process on Saturday on person who keeps Saturday as holy time](13-maliciously-serving-process-on-saturday-on-person-who-keeps-saturday-as-holy.md)
 - [§ 14 Processions and parades on Sunday](14-processions-and-parades-on-sunday.md)
-- [§ 16 Barbering on Sunday](16-barbering-on-sunday.md)
+- [§ 16 Barbering on Sunday](16-barbering-on-sunday.md) *(repealed)*
 - [§ 17 Days of rest and recreation](17-days-of-rest-and-recreation.md)
 
 <details>
@@ -26,7 +26,7 @@
 
 ```text
                                 ARTICLE 2
-                                  SABBATH
+                                 SABBATH
 Section 2.  The Sabbath.
         3.  Sabbath breaking.
         4.  Punishment for Sabbath breaking.
@@ -36,14 +36,13 @@ Section 2.  The Sabbath.
         8.  Trades, manufacturers, and mechanical employments prohibited
               on Sunday.
         9.  Public traffic on Sunday.
-        10. Prosecutions  for  conducting  business on Sunday by certain
+        10. Prosecutions for conducting business on Sunday by certain
               persons.
         11. Serving civil process on Sunday.
         12. Forfeiture of commodities exposed for sale on Sunday.
-        13. Maliciously serving process on Saturday on persons who  keep
+        13. Maliciously serving process on Saturday on persons who keep
               Saturday as holy time.
         14. Processions and parades on Sunday.
-        16. Barbering on Sunday.
         17. Days of rest and recreation.
 ```
 

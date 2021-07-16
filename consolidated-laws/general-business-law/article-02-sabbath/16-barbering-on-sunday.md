@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Business Law § 16", "kind": "section", "law_id": "GBS", "location_id": "16", "path": "ARTICLE 2 › SECTION 16", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/16.md", "title": "Barbering on Sunday"} -->
+﻿<!-- nyslaw {"citation": "General Business Law § 16", "kind": "section", "law_id": "GBS", "location_id": "16", "path": "ARTICLE 2 › SECTION 16", "repealed": true, "repealed_date": "2021-07-16", "source": "nys-laws:GBS/16.md", "title": "Barbering on Sunday"} -->
 # General Business Law § 16 — Barbering on Sunday
 
 [General Business Law](../README.md) › [Article 2 — Sabbath](README.md)
+
+**Repealed** (16 Jul 2021). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 16. Barbering on Sunday.  Any person who carries on or engages in

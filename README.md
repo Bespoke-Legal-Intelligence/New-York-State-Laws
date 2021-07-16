@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 9 Jul 2021.*
+*Current through the publication of 16 Jul 2021.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [16 Jul 2021](changes/2021/2021-07-16.md): General Business Law
 - [9 Jul 2021](changes/2021/2021-07-09.md): Agriculture and Markets Law; Banking Law; Civil Service Law; Criminal Procedure Law; Economic Development Law; Elder Law; Environmental Conservation Law; Executive Law; General Business Law; General Municipal Law; Insurance Law; Labor Law; Not-for-Profit Corporation Law; Penal Law; Private Housing Finance Law; Public Authorities Law; Public Health Law; Public Service Law; Racing, Pari-Mutuel Wagering and Breeding Law; Real Property Tax Law; Rural Electric Cooperative Law; Social Services Law; State Technology Law; Tax Law
 - [2 Jul 2021](changes/2021/2021-07-02.md): Agriculture and Markets Law; Canal Law; Civil Rights Law; Criminal Procedure Law; Economic Development Law; Education Law; Environmental Conservation Law; Executive Law; Family Court Act; General Municipal Law; Insurance Law; Judiciary Law; Labor Law; Local Finance Law; Medical Care Facilities Finance Agency; Mental Hygiene Law; NYS Financial Emergency Act for the city of NY; Navigation Law; Private Housing Finance Law; Public Health Law; Public Officers Law; Real Property Actions and Proceedings Law; Real Property Law; Real Property Tax Law; Social Services Law; State Finance Law; Tax Law; Vehicle and Traffic Law; Workers' Compensation Law
 - [25 Jun 2021](changes/2021/2021-06-25.md): Education Law; Judiciary Law; Public Health Law; Racing, Pari-Mutuel Wagering and Breeding Law
@@ -22,7 +23,6 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [11 Jun 2021](changes/2021/2021-06-11.md): Education Law; Labor Law
 - [4 Jun 2021](changes/2021/2021-06-04.md): Civil Rights Law; Correction Law; Education Law; Environmental Conservation Law; Executive Law; General Business Law; Public Health Law; Public Housing Law; Social Services Law
 - [28 May 2021](changes/2021/2021-05-28.md): Election Law
-- [21 May 2021](changes/2021/2021-05-21.md): Education Law; Public Health Law; Public Service Law
 
 ## Most changed in the past 12 months
 
@@ -79,7 +79,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 919 | 9 Jul 2021 |
 | [Financial Services Law](consolidated-laws/financial-services-law/README.md) | FIS | 59 | 19 Feb 2021 |
 | [General Associations Law](consolidated-laws/general-associations-law/README.md) | GAS | 24 | 23 Apr 2021 |
-| [General Business Law](consolidated-laws/general-business-law/README.md) | GBS | 1,269 | 9 Jul 2021 |
+| [General Business Law](consolidated-laws/general-business-law/README.md) | GBS | 1,269 | 16 Jul 2021 |
 | [General City Law](consolidated-laws/general-city-law/README.md) | GCT | 205 | 11 Dec 2020 |
 | [General Construction Law](consolidated-laws/general-construction-law/README.md) | GCN | 97 | 13 Nov 2020 |
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | GMU | 1,085 | 9 Jul 2021 |
