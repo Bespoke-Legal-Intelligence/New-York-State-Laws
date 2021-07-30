@@ -20,6 +20,7 @@
 - [§ 522 Total unemployment](522-total-unemployment.md)
 - [§ 523 Effective day](523-effective-day.md)
 - [§ 524 Week of employment](524-week-of-employment.md)
+- [§ 525 Partial benefit credit](525-partial-benefit-credit.md)
 - [§ 527 Valid original claim](527-valid-original-claim.md)
 - [§ 528 Transitional provisions](528-transitional-provisions.md)
 - [§ 529 Average annual wage; average weekly wage](529-average-annual-wage-average-weekly-wage.md)
@@ -42,9 +43,10 @@ Section 510. Application of definitions.
         519. Week.
         520. Base period.
         521. Benefit year.
-        522. Total unemployment.
-        523. Effective day.
+        522. Total unemployment and partial unemployment.
+        523. Effective week.
         524. Week of employment.
+        525. Partial benefit credit.
         527. Valid original claim.
         528. Transitional provisions.
         529. Average annual wage; average weekly wage.

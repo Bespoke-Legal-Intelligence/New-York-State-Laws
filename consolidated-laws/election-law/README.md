@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | ELN |
 | Type | Consolidated law, chapter 17 |
-| Sections | 423 |
-| Last changed | 28 May 2021 |
+| Sections | 424 |
+| Last changed | 30 Jul 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Election |
 
@@ -27,10 +27,11 @@ of section forty-two of the public officers law and amending such law in
     by a majority vote, three-fifths being present.
 ```
 
-[Full chapter text (673 lines)](chapter-text.md)
+[Full chapter text (674 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [30 Jul 2021](../../changes/2021/2021-07-30.md): 11 amended, 1 added
 - [28 May 2021](../../changes/2021/2021-05-28.md): 1 amended
 - [7 May 2021](../../changes/2021/2021-05-07.md): 3 amended
 - [16 Apr 2021](../../changes/2021/2021-04-16.md): 4 amended
@@ -40,7 +41,6 @@ of section forty-two of the public officers law and amending such law in
 - [29 Jan 2021](../../changes/2021/2021-01-29.md): 1 amended
 - [22 Jan 2021](../../changes/2021/2021-01-22.md): 1 amended
 - [8 Jan 2021](../../changes/2021/2021-01-08.md): 3 amended
-- [28 Dec 2020](../../changes/2020/2020-12-28.md): 1 amended, 5 added, 1 removed
 
 ## Contents
 

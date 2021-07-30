@@ -322,6 +322,11 @@
 - [§ 344-L\*6 Portion of the state highway system to be designated as the "Colchester Veterans Memorial Bridge"](344l-6-portion-of-the-state-highway-system-to-be-designated-as-the-colchester-veterans.md)
 - [§ 344-L\*7 Portion of the state highway system to be designated as the "Wappinger Veterans Memorial Highway"](344l-7-portion-of-the-state-highway-system-to-be-designated-as-the-wappinger-veterans.md)
 - [§ 344-L\*8 Portion of the state highway system to be designated as the "Charles W](344l-8-portion-of-the-state-highway-system-to-be-designated-as-the-charles-w.md)
+- [§ 344-M Portion of the state highway system to be designated as the "Sergeant David Lockwood Memorial Bridge"](344m-portion-of-the-state-highway-system-to-be-designated-as-the-sergeant-david.md)
+- [§ 344-M\*2 Portion of the state highway system to be designated as the "CPL William James Hillard II Memorial Bridge"](344m-2-portion-of-the-state-highway-system-to-be-designated-as-the-cpl-william-james.md)
+- [§ 344-M\*3 Portion of the state highway system to be designated as the "Tec](344m-3-portion-of-the-state-highway-system-to-be-designated-as-the-tec.md)
+- [§ 344-M\*4 Portion of the state highway system to be designated as the "Dr](344m-4-portion-of-the-state-highway-system-to-be-designated-as-the-dr.md)
+- [§ 344-M\*5 Portion of the state highway system to be designated as the "Trooper Joseph Gallagher Memorial Bridge"](344m-5-portion-of-the-state-highway-system-to-be-designated-as-the-trooper-joseph.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 
 <details>
@@ -1068,6 +1073,18 @@ Section 340-a.     Designation of state interstate routes.
                      as the "Wappinger Veterans Memorial Highway".
         344-l*8.   Portion of the state highway system to be designated
                      as the "Charles W. Howard Memorial Highway".
+        344-m.     Portion of the state highway system to be designated
+                     as the "Sergeant David Lockwood Memorial Bridge".
+        344-m*2.   Portion of the state highway system to be designated
+                     as the "CPL William James Hillard II Memorial
+                     Bridge".
+        344-m*3.   Portion of the state highway system to be designated
+                     as the "Tec. 5 Edward Enser Memorial Highway".
+        344-m*4.   Portion of the state highway system to be designated
+                     as the "Dr. Martin Luther King Jr. - Michael Henry
+                     Schwerner Memorial Bridge".
+        344-m*5.   Portion of the state highway system to be designated
+                     as the "Trooper Joseph Gallagher Memorial Bridge".
         345-a.     Abandonment and transfer of state highways.
 ```
 

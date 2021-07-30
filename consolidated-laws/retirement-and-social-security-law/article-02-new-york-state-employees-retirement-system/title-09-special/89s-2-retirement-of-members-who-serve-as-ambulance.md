@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"citation": "Retirement and Social Security Law § 89-S*2", "kind": "section", "law_id": "RSS", "location_id": "89-S*2", "path": "ARTICLE 2 › TITLE 9 › SECTION 89-S*2", "repealed": false, "repealed_date": null, "source": "nys-laws:RSS/89-S_2.md", "title": "Retirement of members who serve as ambulance medical technicians, ambulance medical technician/supervisors and members who perform ambula..."} -->
-# Retirement and Social Security Law § 89-S*2 — Retirement of members who serve as ambulance medical technicians, ambulance medical technician/supervisors and members who perform ambula...
+﻿<!-- nyslaw {"citation": "Retirement and Social Security Law § 89-S*2", "kind": "section", "law_id": "RSS", "location_id": "89-S*2", "path": "ARTICLE 2 › TITLE 9 › SECTION 89-S*2", "repealed": false, "repealed_date": null, "source": "nys-laws:RSS/89-S_2.md", "title": "Retirement of members who serve as ambulance medical technicians, ambulance medical technician/supervisors, members who perform ambulance..."} -->
+# Retirement and Social Security Law § 89-S*2 — Retirement of members who serve as ambulance medical technicians, ambulance medical technician/supervisors, members who perform ambulance...
 
 [Retirement and Social Security Law](../../README.md) › [Article 2 — New York State Employees' Retirement System](../README.md) › [Title 9 — Special Retirement Plans Applicable to Specified Classes of Members](README.md)
 
@@ -7,15 +7,18 @@
 
 ```text
   * § 89-s. Retirement of members who serve as ambulance medical
-technicians, ambulance medical technician/supervisors and members who
-perform ambulance medical technician related services in the Nassau
-county police department. a. Any member who serves as an ambulance
-medical technician, ambulance medical technician/supervisor or a member
-who performs ambulance medical technician related services and is
-employed in the Nassau county police department shall be eligible to
-retire pursuant to the provisions of this section. Such eligibility
-shall be an alternative to the eligibility provisions available under
-any other plan of this article to which such member is subject.
+technicians, ambulance medical technician/supervisors, members who
+perform ambulance medical technician related services, police medics,
+police medic supervisors and members who perform police medic related
+services in the Nassau county police department. a. Any member who
+serves as an ambulance medical technician, ambulance medical
+technician/supervisor or a member who performs ambulance medical
+technician related services, or a police medic, police medic supervisor
+or a member who performs police medic related services and is employed
+in the Nassau county police department shall be eligible to retire
+pursuant to the provisions of this section. Such eligibility shall be an
+alternative to the eligibility provisions available under any other plan
+of this article to which such member is subject.
   b. Such member shall be entitled to retire upon the completion of
 twenty-five years of total creditable service by filing an application
 therefor in the manner provided for in section seventy of this article.
@@ -30,7 +33,9 @@ one-half of his final average salary.
   d. As used in this section "creditable service" shall include any and
 all services performed as an ambulance medical technician, ambulance
 medical technician/supervisor or member who performs ambulance medical
-technician related services in the Nassau county police department.
+technician related services, or a police medic, police medic supervisor
+or a member who performs police medic related services in the Nassau
+county police department.
   e. Credit for service as a member or officer of the state police or as
 a paid firefighter, police officer or officer of any organized fire
 department or police force or department of any county, city, village,

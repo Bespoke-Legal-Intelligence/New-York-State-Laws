@@ -12,6 +12,7 @@
 - [§ 1394 Children's camps; standards and regulations](1394-childrens-camps-standards-and-regulations.md)
 - [§ 1394-A Requirement to check sex offender registry](1394a-requirement-to-check-sex-offender-registry.md)
 - [§ 1394-B Requirement to check sex offender registry](1394b-requirement-to-check-sex-offender-registry.md)
+- [§ 1394-C Camps for children with developmental disabilities](1394c-camps-for-children-with-developmental-disabilities.md)
 - [§ 1395 Violations; temporary restraining order](1395-violations-temporary-restraining-order.md)
 - [§ 1396 Separability](1396-separability.md)
 
@@ -19,7 +20,7 @@
 <summary>Official heading of Article 13-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                               ARTICLE 13-B
+                              ARTICLE 13-B
         REGULATION OF OVERNIGHT, SUMMER DAY, AND TRAVELING SUMMER
                          DAY CAMPS FOR CHILDREN
 Section  1391.   Declaration of public policy.
@@ -29,6 +30,7 @@ Section  1391.   Declaration of public policy.
          1394.   Children's camps; standards and regulations.
          1394-a. Requirement to check sex offender registry.
          1394-b. Requirement to check sex offender registry.
+         1394-c. Camps for children with developmental disabilities.
          1395.   Violations; temporary restraining order.
          1396.   Separability.
 ```

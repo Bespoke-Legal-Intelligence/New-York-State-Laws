@@ -5,7 +5,7 @@
 
 ```text
   § 230. Definitions. As used in this article:
-  1. "Building service employee" or " employee" means any person
+  1. "Building service employee" or "employee" means any person
 performing work in connection with the care or maintenance of an
 existing building, or in connection with the transportation of office
 furniture or equipment to or from such building, or in connection with
@@ -13,7 +13,7 @@ the transportation and delivery of fossil fuel to such building, for a
 contractor under a contract with a public agency which is in excess of
 one thousand five hundred dollars and the principal purpose of which is
 to furnish services through the use of building service employees.
-  "Building service employee" or " employee" includes, but is not
+  "Building service employee" or "employee" includes, but is not
 limited, to, watchman, guard, doorman, building cleaner, porter,
 handyman, janitor, gardener, groundskeeper, stationary fireman, elevator
 operator and starter, window cleaner, and occupations relating to the
@@ -21,7 +21,7 @@ collection of garbage or refuse, and to the transportation of office
 furniture and equipment, and to the transportation and delivery of
 fossil fuel but does not include clerical, sales, professional,
 technician and related occupations.
-  "Building service employee" or " employee" also does not include any
+  "Building service employee" or "employee" also does not include any
 employee to whom the provisions of articles eight and eight-a of this
 chapter are applicable.
   2. "Building service work" or "service work" means work performed by a

@@ -40,6 +40,7 @@
 - [§ 31 Rentals and selection of tenants](31-rentals-and-selection-of-tenants.md)
 - [§ 31-A Resale price of shares](31a-resale-price-of-shares.md)
 - [§ 31-B Assignment or pledge of tenant cooperator's shares](31b-assignment-or-pledge-of-tenant-cooperators-shares.md)
+- [§ 31-C Tenant-cooperators; application of shares](31c-tenant-cooperators-application-of-shares.md)
 - [§ 32 Supervision and regulation](32-supervision-and-regulation.md)
 - [§ 32-A Additional supervision and regulation](32a-additional-supervision-and-regulation.md)
 - [§ 32-B Annual reports](32b-annual-reports.md)
@@ -96,6 +97,7 @@ Section 10.   Short title.
         31.   Rentals and selection of tenants.
         31-a. Resale price of shares.
         31-b. Assignment or pledge of tenant cooperator's shares.
+        31-c. Tenant-cooperators; application of shares.
         32.   Supervision and regulation.
         32-a. Additional supervision and regulation.
         32-b. Annual reports.

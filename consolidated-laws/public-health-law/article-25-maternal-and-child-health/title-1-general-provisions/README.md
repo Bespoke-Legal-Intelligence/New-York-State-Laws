@@ -26,6 +26,7 @@
 - [§ 2503 Drug information to be furnished expectant mothers](2503-drug-information-to-be-furnished-expectant-mothers.md)
 - [§ 2504 Enabling certain persons to consent for certain medical, dental, health and hospital services](2504-enabling-certain-persons-to-consent-for-certain-medical-dental-health.md)
 - [§ 2504-A Hepatitis B immunization of a minor](2504a-hepatitis-b-immunization-of-a-minor.md)
+- [§ 2504-B Information concerning pelvic exams](2504b-information-concerning-pelvic-exams.md)
 - [§ 2505 Human breast milk; collection, storage and distribution; general powers of the commissioner](2505-human-breast-milk-collection-storage-and-distribution-general-powers.md)
 - [§ 2505-A Rights of breastfeeding mothers](2505a-rights-of-breastfeeding-mothers.md)
 - [§ 2506 Obstetric and pediatric practitioner incentive demonstration program](2506-obstetric-and-pediatric-practitioner-incentive-demonstration-program.md)
@@ -67,6 +68,7 @@ Section 2500.     Maternal and child health; duties of commissioner.
         2504.     Enabling certain persons to consent for certain
                     medical, dental, health and hospital services.
         2504-a.   Hepatitis B immunization of a minor.
+        2504-b.   Information concerning pelvic exams.
         2505.     Human breast milk; collection, storage and
                     distribution; general powers of the commissioner.
         2505-a.   Rights of breastfeeding mothers.

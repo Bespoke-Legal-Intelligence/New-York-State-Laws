@@ -4,7 +4,22 @@
 [Labor Law](../../README.md) › [Article 18 — Unemployment Insurance Law](../README.md) › [Title 2 — Definitions](README.md)
 
 ```text
-  § 522. Total unemployment.  "Total unemployment" means the total lack
+  * § 522. Total unemployment. "Total unemployment" means the total lack
 of any employment on any day. The term "employment" as used in this
 section means any employment including that not defined in this title.
+  * NB Effective until April 1, 2022 or 30 days after the commissioner
+of labor certifies that the department of labor has an information
+technology system capable of accomodating these amendments, whichever is
+earlier
+  * § 522. Total unemployment and partial unemployment. "Total
+unemployment" means the total lack of any employment during any week.
+"Partial employment" means any employment during any week that is less
+than full-time employment so long as the compensation paid is less than
+the claimant's weekly benefit rate plus the claimant's partial benefit
+credit. The term "employment" as used in this section means any
+employment including that not defined in this title.
+  * NB Effective April 1, 2022 or 30 days after the commissioner of
+labor certifies that the department of labor has an information
+technology system capable of accomodating these amendments, whichever is
+earlier
 ```

@@ -103,7 +103,7 @@ required under federal law, or (3) a request by the school district for
 a determination that maintaining the current educational placement of
 the student is substantially likely to result in injury to the student
 or to others.
-  * NB Effective until June 30, 2021
+  * NB Effective until June 30, 2024
   * 1. If the recommendation of the committee on special education is
 not acceptable to the parent or person in parental relationship of a
 student, or if the committee or board of education or trustees fails to
@@ -157,7 +157,7 @@ educational setting or other placement to the extent required under
 federal law, or (c) a request by the school district for a determination
 that maintaining the current educational placement of the student is
 substantially likely to result in injury to the student or to others.
-  * NB Effective June 30, 2021
+  * NB Effective June 30, 2024
   2. Review by state review officer. A state review officer of the
 education department shall review and may modify, in such cases and to
 the extent that the review officer deems necessary, in order to properly
@@ -181,13 +181,13 @@ article four of the civil practice law and rules, and paragraph b of
 this subdivision, or in United States district court. Any such
 proceeding shall be commenced within four months after the determination
 to be reviewed becomes final and binding on the parties.
-  * NB Effective until June 30, 2021
+  * NB Effective until June 30, 2024
   * a. Any final determination or order of a state review officer
 rendered pursuant to subdivision two of this section may only be
 reviewed in a proceeding brought in the supreme court pursuant to
 article four of the civil practice law and rules, and paragraph b of
 this subdivision, or in United States district court.
-  * NB Effective June 30, 2021
+  * NB Effective June 30, 2024
   * b. In any such proceeding under article four of the civil practice
 law and rules, the court may grant any relief authorized by the
 provisions of rule four hundred eleven of such law and rules, which
@@ -203,7 +203,7 @@ rules. The court shall receive the records of the administrative
 proceedings, shall hear additional evidence at the request of a party,
 and basing its decision on the preponderance of the evidence, shall
 grant the relief that the court determines to be appropriate.
-  * NB Effective until June 30, 2021
+  * NB Effective until June 30, 2024
   * b. In any such proceeding under article four of the civil practice
 law and rules, the court may grant any relief authorized by the
 provisions of rule four hundred eleven of such law and rules, which
@@ -220,7 +220,7 @@ administrative proceedings, shall hear additional evidence at the
 request of a party, and basing its decision on the preponderance of the
 evidence, shall grant the relief that the court determines to be
 appropriate.
-  * NB Effective June 30, 2021
+  * NB Effective June 30, 2024
   4. a. During the pendency of any proceedings conducted pursuant to
 this section, other than a proceeding subject to paragraph b of this
 subdivision, and during the initial identification, evaluation and
@@ -258,7 +258,7 @@ the current educational placement of the student is substantially likely
 to result in injury to the student or to others. Such procedure for
 extension of an interim alternative educational setting may be repeated
 as necessary.
-  * NB Effective until June 30, 2021
+  * NB Effective until June 30, 2024
   * b. For students with disabilities placed in an interim alternative
 educational setting pursuant to clause (iv) or (vii) of subparagraph
 three of paragraph g of subdivision three of section thirty-two hundred
@@ -285,7 +285,7 @@ a determination that maintaining the current educational placement of
 the student is substantially likely to result in injury to the student
 or to others. Such procedure for extension of an interim alternative
 educational setting may be repeated as necessary.
-  * NB Effective June 30, 2021
+  * NB Effective June 30, 2024
   5. For purposes of this section, to the extent required by federal
 law, a student presumed to have a disability for discipline purposes
 shall be deemed to be a student with a disability and the parents or

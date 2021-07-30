@@ -1,0 +1,76 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 4510", "kind": "section", "law_id": "CVP", "location_id": "4510", "path": "ARTICLE 45 › SECTION 4510", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/4510.md", "title": "Rape crisis counselor or domestic violence advocate"} -->
+# Civil Practice Law and Rules § 4510 — Rape crisis counselor or domestic violence advocate
+
+[Civil Practice Law and Rules](../README.md) › [Article 45 — Evidence](README.md)
+
+```text
+  § 4510. Rape crisis counselor or domestic violence advocate. (a)
+Definitions. When used in this section, the following terms shall have
+the following meanings:
+  1. "Rape crisis program" means any office, institution or center which
+has been approved pursuant to subdivision fifteen of section two hundred
+six of the public health law, as added by chapter 432 of the laws of
+1993, offering counseling and assistance to clients concerning sexual
+offenses, sexual abuses or incest.
+  2. "Rape crisis counselor" means any person who has been certified by
+an approved rape crisis program as having satisfied the training
+standards specified in subdivision fifteen of section two hundred six of
+the public health law, as added by chapter 432 of the laws of 1993, and
+who, regardless of compensation, is acting under the direction and
+supervision of an approved rape crisis program.
+  3. "Client" means (i) any person who is seeking or receiving the
+services of a rape crisis counselor for the purpose of securing
+counseling or assistance concerning any sexual offenses, sexual abuse,
+incest or attempts to commit sexual offenses, sexual abuse, or incest,
+as defined in the penal law; or
+  (ii) any victim of domestic violence as defined in section four
+hundred fifty-nine-a of the social services law.
+  4. "Domestic violence program" means a residential program for victims
+of domestic violence or a non-residential program for victims of
+domestic violence as defined in section four hundred fifty-nine-a of the
+social services law or any similar program operated by an Indian tribe,
+as defined by section two of the Indian law.
+  5. "Domestic violence advocate" means any person who is acting under
+the direction and supervision of a licensed and approved domestic
+violence program and has satisfied the training standards required by
+the office of children and family services.
+  (b) Confidential information privileged. A rape crisis counselor or
+domestic violence advocate shall not be required to disclose a
+communication made by his or her client to him or her, or advice given
+thereon, in the course of his or her services nor shall any clerk,
+stenographer or other person working for the same program as the rape
+crisis counselor or domestic violence advocate or for the rape crisis
+counselor or domestic violence advocate be allowed to disclose any such
+communication or advice given thereon nor shall any records made in the
+course of the services given to the client or recording of any
+communications made by or to a client be required to be disclosed, nor
+shall the client be compelled to disclose such communication or records,
+except:
+  1. that a rape crisis counselor or domestic violence advocate may
+disclose such otherwise confidential communication to the extent
+authorized by the client;
+  2. that a rape crisis counselor or domestic violence advocate shall
+not be required to treat as confidential a communication by a client
+which reveals the intent to commit a crime or harmful act;
+  3. that a domestic violence advocate shall not be required to treat as
+confidential a communication by a client which reveals a case of
+suspected child abuse or maltreatment pursuant to title six of article
+six of the social services law;
+  4. in a case in which the client waives the privilege by instituting
+charges against the rape crisis counselor or domestic violence advocate
+or the rape crisis program or domestic violence program and such action
+or proceeding involves confidential communications between the client
+and the rape crisis counselor or domestic violence advocate.
+  (c) Who may waive the privilege. The privilege may only be waived if
+the client, the personal representative of a deceased client, or, in the
+case of a client who has been adjudicated incompetent or for whom a
+conservator has been appointed, the committee or conservator provides
+the rape crisis counselor or domestic violence advocate with informed,
+written and reasonably time-limited consent.
+  (d) Limitation on waiver. A client who, for the purposes of obtaining
+compensation under article twenty-two of the executive law or insurance
+benefits, authorizes the disclosure of any privileged communication to
+an employee of the office of victim services or an insurance
+representative shall not be deemed to have waived the privilege created
+by this section.
+```

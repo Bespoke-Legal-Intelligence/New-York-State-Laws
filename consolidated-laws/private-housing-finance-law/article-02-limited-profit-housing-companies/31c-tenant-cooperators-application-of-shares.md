@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Private Housing Finance Law § 31-C", "kind": "section", "law_id": "PVH", "location_id": "31-C", "path": "ARTICLE 2 › SECTION 31-C", "repealed": false, "repealed_date": null, "source": "nys-laws:PVH/31-C.md", "title": "Tenant-cooperators; application of shares"} -->
+# Private Housing Finance Law § 31-C — Tenant-cooperators; application of shares
+
+[Private Housing Finance Law](../README.md) › [Article 2 — Limited-profit Housing Companies](README.md)
+
+```text
+  § 31-c. Tenant-cooperators; application of shares. 1. No mutual
+company shall require a current tenant-cooperator to use cash, loan or
+mortgage to make an initial payment for shares that would entitle the
+tenant-cooperator to occupancy upon transfer to another dwelling unit
+within the mutual company's facilities, but instead, subject to
+subdivision two of this section, shall first allow the tenant-cooperator
+the option to apply the value of his or her shares and equity in the
+mutual company toward any consideration required to be paid for such
+shares.
+  2. Within one hundred eighty days of the effective date of this
+section, the commissioner and the supervising agency, as the case may
+be, shall each promulgate regulations authorizing a current
+tenant-cooperator, entitled to occupancy by reason of ownership of
+shares in such mutual company, to apply all or a portion of the value of
+his or her shares and equity in the mutual company toward any
+consideration required to be paid for shares which would entitle the
+tenant-cooperator to occupancy of another unit owned and operated by the
+mutual company, regardless of the sale of the tenant-cooperator's
+current shares in such mutual company, but subject to such other charges
+due and owing to the mutual company for which such tenant-cooperator may
+be liable. Any dispute thereof may be determined by a court of
+appropriate jurisdiction and any requirement to waive such right as a
+condition of ownership or transfer shall be void as against public
+policy.
+```

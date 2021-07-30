@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 170-E", "kind": "section", "law_id": "EXC", "location_id": "170-E", "path": "ARTICLE 7 › SECTION 170-E", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/170-E.md", "title": "Disclosure of lawful source of income rights to prospective tenants"} -->
+# Executive Law § 170-E — Disclosure of lawful source of income rights to prospective tenants
+
+[Executive Law](../README.md) › [Article 7 — Miscellaneous Provisions](README.md)
+
+```text
+  * § 170-e. Disclosure of lawful source of income rights to prospective
+tenants. The division of human rights shall promulgate regulations
+requiring any state, county, municipal or other governmental entity,
+including but not limited to the division of housing and community
+renewal, or any agency or instrumentality of such an entity, and any
+public or private non-profit entity authorized to administer any public
+housing program or assistance, including, but not limited to, the
+section eight housing choice voucher program, or any other form of
+housing assistance, payment, subsidy or credit, regardless of whether or
+not such assistance, payment, subsidy or credit is paid or attributed
+directly to a landlord, to ensure that individuals who have applied for
+and are eligible to receive such assistance, payment, subsidy or credit
+are informed, in writing, of their rights and remedies available under
+law, with regard to lawful source of income discrimination pursuant to
+this section.
+  * NB Effective September 14, 2021
+```

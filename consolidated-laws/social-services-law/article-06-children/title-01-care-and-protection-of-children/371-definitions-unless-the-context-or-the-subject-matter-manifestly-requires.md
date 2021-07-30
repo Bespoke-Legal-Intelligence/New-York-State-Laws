@@ -204,6 +204,16 @@ experience for older youth in which such youth may live independently. A
 supervised setting includes, but is not limited to, placement in a
 supervised independent living program, as defined in subdivision
 twenty-one of this section.
+  * NB There are 2 sb 22's
   * NB Effective September 29, 2021 if certain conditions are met (see
 chapter 56 of 2021, Part L, § 17 sb (a))
+  * 22. "Kinship caregiver" means a relative or non-relative who is
+acting as a parent and who:
+  (a) is related to the child through blood, marriage or adoption;
+  (b) is related to a half-sibling of the child through blood, marriage
+or adoption; or
+  (c) is an adult with a positive prior relationship with the child, a
+half-sibling of the child or the child's parent, including, but not
+limited to, a step-parent, godparent, neighbor or family friend.
+  * NB There are 2 sb 22's
 ```

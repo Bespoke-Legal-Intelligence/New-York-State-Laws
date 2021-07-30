@@ -30,7 +30,7 @@
 - [§ 89-Q Retirement of traffic officers with the town of Elmira](89q-retirement-of-traffic-officers-with-the-town.md)
 - [§ 89-R Retirement of county park police officers in Suffolk county](89r-retirement-of-county-park-police-officers.md)
 - [§ 89-S Retirement of members who serve as peace officers in the Suffolk county probation department](89s-retirement-of-members-who-serve-as-peace.md)
-- [§ 89-S\*2 Retirement of members who serve as ambulance medical technicians, ambulance medical technician/supervisors and members who perform ambula...](89s-2-retirement-of-members-who-serve-as-ambulance.md)
+- [§ 89-S\*2 Retirement of members who serve as ambulance medical technicians, ambulance medical technician/supervisors, members who perform ambulance...](89s-2-retirement-of-members-who-serve-as-ambulance.md)
 - [§ 89-S\*3 Retirement of members who serve as peace officers in the Nassau county probation department](89s-3-retirement-of-members-who-serve-as-peace.md)
 - [§ 89-T Optional twenty-five year retirement plan for county probation officers](89t-optional-twenty-five-year-retirement-plan.md)
 - [§ 89-T\*2 Alternative retirement benefits for safety officers](89t-2-alternative-retirement-benefits-for-safety.md)

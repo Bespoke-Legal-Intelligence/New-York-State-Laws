@@ -4,8 +4,9 @@
 [Domestic Relations Law](../README.md) › [Article 6 — Guardians](README.md)
 
 ```text
-  § 84. Guardianship of a married minor. The lawful marriage of a person
-before he or she attains majority terminates a general guardianship with
-respect to his or her person, but not with respect to his or her
-property.
+  * § 84. Guardianship of a married minor. The lawful marriage of a
+person before he or she attains majority terminates a general
+guardianship with respect to his or her person, but not with respect to
+his or her property.
+  * NB Repealed August 21, 2021
 ```

@@ -26,7 +26,7 @@
 - [§ 604-H Twenty-five year retirement program for police communications members](604h-twenty-five-year-retirement-program-for-police-communications-members.md)
 - [§ 604-I Age fifty-five retirement program for New York city teachers and certain other members](604i-age-fifty-five-retirement-program-for-new-york-city-teachers-and-certain-other.md)
 - [§ 605 Disability retirement](605-disability-retirement.md)
-- [§ 605-A Accidental disability retirement for uniformed court officers and peace officers employed in the unified court system](605a-accidental-disability-retirement-for-uniformed-court-officers-and-peace.md)
+- [§ 605-A Accidental disability retirement for ambulance medical technician supervisors, ambulance medical technician coordinators, ambulance medic...](605a-accidental-disability-retirement-for-ambulance-medical-technician-supervisors.md)
 - [§ 605-B Accidental disability retirement for New York city uniformed sanitation members](605b-accidental-disability-retirement-for-new-york-city-uniformed-sanitation-members.md)
 - [§ 605-B\*2 Uniformed court officers and peace officers; certain disabilities](605b-2-uniformed-court-officers-and-peace-officers-certain-disabilities.md)
 - [§ 605-C Accidental disability retirement for deputy sheriffs employed by the city of New York](605c-accidental-disability-retirement-for-deputy-sheriffs-employed-by-the-city.md)

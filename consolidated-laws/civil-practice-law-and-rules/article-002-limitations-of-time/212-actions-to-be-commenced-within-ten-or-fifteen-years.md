@@ -1,14 +1,14 @@
-﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 212", "kind": "section", "law_id": "CVP", "location_id": "212", "path": "ARTICLE 2 › SECTION 212", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/212.md", "title": "Actions to be commenced within ten years"} -->
-# Civil Practice Law and Rules § 212 — Actions to be commenced within ten years
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 212", "kind": "section", "law_id": "CVP", "location_id": "212", "path": "ARTICLE 2 › SECTION 212", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/212.md", "title": "Actions to be commenced within ten or fifteen years"} -->
+# Civil Practice Law and Rules § 212 — Actions to be commenced within ten or fifteen years
 
 [Civil Practice Law and Rules](../README.md) › [Article 2 — Limitations of Time](README.md)
 
 ```text
-  § 212. Actions to be commenced within ten years. (a) Possession
-necessary to recover real property. An action to recover real property
-or its possession cannot be commenced unless the plaintiff, or his
-predecessor in interest, was seized or possessed of the premises within
-ten years before the commencement of the action.
+  § 212. Actions to be commenced within ten or fifteen years. (a)
+Possession necessary to recover real property. An action to recover real
+property or its possession cannot be commenced unless the plaintiff, or
+his predecessor in interest, was seized or possessed of the premises
+within ten years before the commencement of the action.
   (b) Annulment of letters patent. Where letters patent or a grant of
 real property, issued or made by the state, are declared void on the
 ground of fraudulent suggestion or concealment, forfeiture, mistake or
@@ -36,8 +36,8 @@ naturalization act has been signed.
 trafficking. An action by a victim of sex trafficking, compelling
 prostitution, labor trafficking or aggravated labor trafficking, brought
 pursuant to subdivision (c) of section four hundred eighty-three-bb of
-the social services law, may be commenced within ten years after such
-victimization occurs provided, however, that such ten year period shall
-not begin to run and shall be tolled during any period in which the
-victim is or remains subject to such conduct.
+the social services law, may be commenced within fifteen years after
+such victimization occurs provided, however, that such fifteen year
+period shall not begin to run and shall be tolled during any period in
+which the victim is or remains subject to such conduct.
 ```

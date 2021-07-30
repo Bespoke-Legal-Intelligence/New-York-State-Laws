@@ -13,6 +13,7 @@
 - [§ 270.25 Unlawful fleeing a police officer in a motor vehicle in the third degree](270.25-unlawful-fleeing-a-police-officer.md)
 - [§ 270.30 Unlawful fleeing a police officer in a motor vehicle in the second degree](270.30-unlawful-fleeing-a-police-officer.md)
 - [§ 270.35 Unlawful fleeing a police officer in a motor vehicle in the first degree](270.35-unlawful-fleeing-a-police-officer.md)
+- [§ 270.40 Unlawfully installing a gas meter](270.40-unlawfully-installing-a-gas-meter.md)
 
 <details>
 <summary>Official heading of Article 270, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -32,6 +33,7 @@ Section 270.00  Unlawfully dealing with fireworks and dangerous
                   the second degree.
         270.35  Unlawful fleeing a police officer in a motor vehicle in
                   the first degree.
+        270.40  Unlawfully installing a gas meter.
 ```
 
 </details>

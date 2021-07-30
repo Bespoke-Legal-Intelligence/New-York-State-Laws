@@ -14,7 +14,7 @@
 - [§ 4507 Psychologist](4507-psychologist.md)
 - [§ 4508 Social worker](4508-social-worker.md)
 - [§ 4509 Library records](4509-library-records.md)
-- [§ 4510 Rape crisis counselor](4510-rape-crisis-counselor.md)
+- [§ 4510 Rape crisis counselor or domestic violence advocate](4510-rape-crisis-counselor-or-domestic-violence-advocate.md)
 - [§ 4511 Judicial notice of law](4511-judicial-notice-of-law.md)
 - [§ 4512 Competency of interested witness or spouse](4512-competency-of-interested-witness-or-spouse.md)
 - [§ 4513 Competency of person convicted of crime](4513-competency-of-person-convicted-of-crime.md)
@@ -86,7 +86,7 @@
                  (a) Confidential information privileged.
                  (b) Limitations on waiver.
         4509.   Library records.
-        4510.   Rape crisis counselor.
+        4510.   Rape crisis counselor or domestic violence advocate.
                  (a) Definitions.
                  (b) Confidential information privileged.
                  (c) Who may waive the privilege.

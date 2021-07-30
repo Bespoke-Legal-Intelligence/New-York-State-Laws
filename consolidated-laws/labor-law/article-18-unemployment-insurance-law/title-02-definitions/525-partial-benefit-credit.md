@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 525", "kind": "section", "law_id": "LAB", "location_id": "525", "path": "ARTICLE 18 › TITLE 2 › SECTION 525", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/525.md", "title": "Partial benefit credit"} -->
+# Labor Law § 525 — Partial benefit credit
+
+[Labor Law](../../README.md) › [Article 18 — Unemployment Insurance Law](../README.md) › [Title 2 — Definitions](README.md)
+
+```text
+  * § 525. Partial benefit credit. "Partial benefit credit" means that
+part of the compensation, if any, paid to a claimant with respect to a
+week for which benefits are claimed under the provisions of this law
+which is not in excess of fifty per centum of the individual's weekly
+benefit rate, or one hundred dollars, whichever is the greater. Such
+partial benefit credit, if not a multiple of one dollar, shall be
+computed to the next higher multiple of one dollar.
+  * NB Effective April 1, 2022 or 30 days after the commissioner of
+labor certifies that the department of labor has an information
+technology system capable of accomodating these amendments, whichever is
+earlier
+```

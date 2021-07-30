@@ -28,6 +28,7 @@
 - [§ 170-B\*2 Racial references contained in state and municipal forms](170b-2-racial-references-contained-in-state-and-municipal-forms.md)
 - [§ 170-C Regulatory penalties for small businesses](170c-regulatory-penalties-for-small-businesses.md)
 - [§ 170-D Disclosure of disabled tenants' rights](170d-disclosure-of-disabled-tenants-rights.md)
+- [§ 170-E Disclosure of lawful source of income rights to prospective tenants](170e-disclosure-of-lawful-source-of-income-rights-to-prospective-tenants.md)
 
 <details>
 <summary>Official heading of Article 7, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -64,6 +65,8 @@ Section 161.     Certain searches, the filing of papers, and certified
                    forms.
         170-c.   Regulatory penalties for small businesses.
         170-d.   Disclosure of disabled tenants' rights.
+        170-e.   Disclosure of lawful source of income rights to
+                   prospective tenants.
 ```
 
 </details>
