@@ -31,6 +31,7 @@
 - [§ 89 State snack](89-state-snack.md)
 - [§ 90 State dog](90-state-dog.md)
 - [§ 91 State hymn of remembrance in honor of all American veterans](91-state-hymn-of-remembrance-in-honor-of-all-american-veterans.md)
+- [§ 92 State sport](92-state-sport.md)
 
 <details>
 <summary>Official heading of Article 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -63,6 +64,7 @@ Section 70.   Description of the arms of the state and the state flag.
         90.   State dog.
         91.   State hymn of remembrance in honor of all American
                 veterans.
+        92.   State sport.
 ```
 
 </details>

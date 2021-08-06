@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | RPP |
 | Type | Consolidated law, chapter 50 |
-| Sections | 421 |
-| Last changed | 2 Jul 2021 |
+| Sections | 423 |
+| Last changed | 6 Aug 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Real Property |
 
@@ -29,10 +29,11 @@ Passed, three-fifths being present.
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (36 lines)](chapter-text.md)
+[Full chapter text (37 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [6 Aug 2021](../../changes/2021/2021-08-06.md): 2 added
 - [2 Jul 2021](../../changes/2021/2021-07-02.md): 1 amended
 - [23 Apr 2021](../../changes/2021/2021-04-23.md): 3 amended
 - [16 Apr 2021](../../changes/2021/2021-04-16.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [7 Aug 2020](../../changes/2020/2020-08-07.md): 1 amended
 - [24 Apr 2020](../../changes/2020/2020-04-24.md): 1 amended
 - [17 Apr 2020](../../changes/2020/2020-04-17.md): 3 amended
-- [13 Mar 2020](../../changes/2020/2020-03-13.md): 1 amended
 
 ## Contents
 
@@ -57,6 +57,7 @@ Assembly, do enact as follows:
 - [Article 9 — Recording Instruments Affecting Real Property](article-09-recording-instruments-affecting-real-property/)
 - [Article 9-A — Subdivided Lands](article-09a-subdivided-lands/)
 - [Article 9-B — Condominium Act](article-09b-condominium-act/)
+- [Article 9-C — Solar Rights Act](article-09c-solar-rights-act/)
 - [Article 10 — Discharge of Ancient Mortgages](article-10-discharge-of-ancient-mortgages/)
 - [Article 12 — Registering Title to Real Property](article-12-registering-title-to-real-property/)
 - [Article 12-A — Real Estate Brokers and Real Estate Salesmen](article-12a-real-estate-brokers-and-real-estate-salesmen/)

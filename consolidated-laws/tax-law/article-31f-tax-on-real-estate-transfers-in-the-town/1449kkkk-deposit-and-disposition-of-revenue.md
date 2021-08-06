@@ -47,5 +47,5 @@ supervisor shall consider reasonable in view of the overpayment or
 underpayment and all other facts and circumstances.
   4. All monies received from the treasurer shall be deposited in the
 fund of the town, pursuant to section sixty-four-g of the town law.
-  * NB Repealed December 31, 2025
+  * NB Repealed December 31, 2050
 ```

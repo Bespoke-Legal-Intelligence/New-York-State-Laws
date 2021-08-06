@@ -11,5 +11,5 @@
 route eighty-six, crossing over West Main Street through the town of
 Randolph, county of Cattaraugus, shall be designated and known as the
 "CPL William James Hillard II Memorial Bridge".
-  * NB There are 5 § 344-m's
+  * NB There are 10 § 344-m's
 ```

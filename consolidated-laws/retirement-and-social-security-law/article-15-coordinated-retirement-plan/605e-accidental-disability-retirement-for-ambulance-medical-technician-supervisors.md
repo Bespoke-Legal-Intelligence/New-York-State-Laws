@@ -1,16 +1,18 @@
-﻿<!-- nyslaw {"citation": "Retirement and Social Security Law § 605-E", "kind": "section", "law_id": "RSS", "location_id": "605-E", "path": "ARTICLE 15 › SECTION 605-E", "repealed": false, "repealed_date": null, "source": "nys-laws:RSS/605-E.md", "title": "Accidental disability retirement for ambulance medical technician supervisors, ambulance medical technician coordinators and ambulance me..."} -->
-# Retirement and Social Security Law § 605-E — Accidental disability retirement for ambulance medical technician supervisors, ambulance medical technician coordinators and ambulance me...
+﻿<!-- nyslaw {"citation": "Retirement and Social Security Law § 605-E", "kind": "section", "law_id": "RSS", "location_id": "605-E", "path": "ARTICLE 15 › SECTION 605-E", "repealed": false, "repealed_date": null, "source": "nys-laws:RSS/605-E.md", "title": "Accidental disability retirement for ambulance medical technician supervisors, ambulance medical technician coordinators, ambulance medic..."} -->
+# Retirement and Social Security Law § 605-E — Accidental disability retirement for ambulance medical technician supervisors, ambulance medical technician coordinators, ambulance medic...
 
 [Retirement and Social Security Law](../README.md) › [Article 15 — Coordinated Retirement Plan](README.md)
 
 ```text
   § 605-e. Accidental disability retirement for ambulance medical
-technician supervisors, ambulance medical technician coordinators and
-ambulance medical technicians in Nassau county. a. A member employed as
-a ambulance medical technician supervisor, ambulance medical technician
-coordinator and ambulance medical technician in Nassau county shall be
-entitled to an accidental disability retirement allowance if, at the
-time application therefor is filed, such member is:
+technician supervisors, ambulance medical technician coordinators,
+ambulance medical technicians, police medic supervisors, police medic
+coordinators, and police medics in Nassau county. a. A member employed
+as an ambulance medical technician supervisor, ambulance medical
+technician coordinator, ambulance medical technician, police medic
+supervisor, police medic coordinator, or police medic in Nassau county
+shall be entitled to an accidental disability retirement allowance if,
+at the time application therefor is filed, such member is:
   1. Physically or mentally incapacitated for performance of duty as the
 natural and proximate result of an accident, unless the contrary be
 proved by competent evidence, not caused by his or her own willful
@@ -64,7 +66,8 @@ application is filed without prejudice to the application for accidental
 disability retirement.
   g. Notwithstanding any other provision of law, this section shall
 apply to ambulance medical technician supervisors, ambulance medical
-technician coordinators and ambulance medical technicians in Nassau
+technician coordinators, ambulance medical technicians, police medic
+supervisors, police medic coordinators, and police medics in Nassau
 county who were hired on or after July twenty-seventh, nineteen hundred
 seventy-six.
 ```

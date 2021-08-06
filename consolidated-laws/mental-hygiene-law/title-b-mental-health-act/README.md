@@ -6,7 +6,7 @@
 ## Contents
 
 - [Article 7 — Office of Mental Health](article-07-office-of-mental-health/)
-- [Article 9 — Hospitalization of the Mentally Ill](article-09-hospitalization-of-the-mentally-ill/)
+- [Article 9 — Hospitalization of Persons With a Mental Illness](article-09-hospitalization-of-persons/)
 - [Article 10 — Sex Offenders Requiring Civil Commitment or Supervision](article-10-sex-offenders-requiring-civil/)
 
 <details>

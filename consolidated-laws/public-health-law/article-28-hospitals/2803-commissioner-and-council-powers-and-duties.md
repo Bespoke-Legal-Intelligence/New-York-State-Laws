@@ -504,4 +504,15 @@ residential health care facility complies with its plan of correction
 and the applicable regulations.
   (d) The commissioner shall promulgate any rules and regulations
 necessary to implement the provisions of this subdivision.
+  * 13. The commissioner shall require each residential health care
+facility to provide residents and their families with a separate
+document, as part of an intake application, in no less than twelve-point
+font, that includes information on how a potential resident and their
+family members can look up complaints, citations, inspections,
+enforcement actions, and penalties taken against the facility including
+the web address for the New York state nursing home profiles website
+that is maintained by the department and the nursing home compare
+website maintained by the United States department of health and human
+services, if applicable.
+  * NB Effective October 1, 2021
 ```

@@ -30,6 +30,10 @@ which is providing elementary or secondary education or both, in
 accordance with the compulsory education requirements of the education
 law, provided that the kindergarten, pre-kindergarten, nursery school,
 or after school program is located on the premises or campus where the
+elementary or secondary education is provided. Provided however, a
+kindergarten or a pre-kindergarten operated by a public school district
+shall not be considered a child day care if the kindergarten or
+pre-kindergarten is not located on the premises or campus where the
 elementary or secondary education is provided.
   (b) "Child day care provider" shall mean any individual, association,
 corporation, partnership, institution or agency whose activities include

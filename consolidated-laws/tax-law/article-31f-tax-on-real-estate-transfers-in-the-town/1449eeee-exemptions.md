@@ -70,5 +70,5 @@ the consideration of the conveyance of improved real property or an
 interest therein, and an exemption of fifty thousand dollars shall be
 allowed on the consideration of the conveyance of unimproved real
 property.
-  * NB Repealed December 31, 2025
+  * NB Repealed December 31, 2050
 ```

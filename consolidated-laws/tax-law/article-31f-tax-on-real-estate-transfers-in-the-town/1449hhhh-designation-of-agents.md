@@ -11,5 +11,5 @@ provide for the manner in which such person may be designated as his or
 her agent subject to such terms and conditions as the treasurer shall
 prescribe. The real estate transfer tax shall be paid to such agent as
 provided in section fourteen hundred forty-nine-cccc of this article.
-  * NB Repealed December 31, 2025
+  * NB Repealed December 31, 2050
 ```

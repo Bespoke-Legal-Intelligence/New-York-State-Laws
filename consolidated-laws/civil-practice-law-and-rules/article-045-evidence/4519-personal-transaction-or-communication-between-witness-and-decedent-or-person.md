@@ -1,0 +1,52 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 4519", "kind": "section", "law_id": "CVP", "location_id": "4519", "path": "ARTICLE 45 › SECTION 4519", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/4519.md", "title": "Personal transaction or communication between witness and decedent or person with a mental illness"} -->
+# Civil Practice Law and Rules § 4519 — Personal transaction or communication between witness and decedent or person with a mental illness
+
+[Civil Practice Law and Rules](../README.md) › [Article 45 — Evidence](README.md)
+
+```text
+  § 4519. Personal transaction or communication between witness and
+decedent or person with a mental illness. Upon the trial of an action or
+the hearing upon the merits of a special proceeding, a party or a person
+interested in the event, or a person from, through or under whom such a
+party or interested person derives his interest or title by assignment
+or otherwise, shall not be examined as a witness in his own behalf or
+interest, or in behalf of the party succeeding to his title or interest
+against the executor, administrator or survivor of a deceased person or
+the committee of a person with a mental illness, or a person deriving
+his title or interest from, through or under a deceased person or person
+with a mental illness, by assignment or otherwise, concerning a personal
+transaction or communication between the witness and the deceased person
+or person with a mental illness, except where the executor,
+administrator, survivor, committee or person so deriving title or
+interest is examined in his own behalf, or the testimony of the person
+with a mental illness or deceased person is given in evidence,
+concerning the same transaction or communication. A person shall not be
+deemed interested for the purposes of this section by reason of being a
+stockholder or officer of any banking corporation which is a party to
+the action or proceeding, or interested in the event thereof. No party
+or person interested in the event, who is otherwise competent to
+testify, shall be disqualified from testifying by the possible
+imposition of costs against him or the award of costs to him. A party or
+person interested in the event or a person from, through or under whom
+such a party or interested person derives his interest or title by
+assignment or otherwise, shall not be qualified for the purposes of this
+section, to testify in his own behalf or interest, or in behalf of the
+party succeeding to his title or interest, to personal transactions or
+communications with the donee of a power of appointment in an action or
+proceeding for the probate of a will, which exercises or attempts to
+exercise a power of appointment granted by the will of a donor of such
+power, or in an action or proceeding involving the construction of the
+will of the donee after its admission to probate.
+  Nothing contained in this section, however, shall render a person
+incompetent to testify as to the facts of an accident or the results
+therefrom where the proceeding, hearing, defense or cause of action
+involves a claim of negligence or contributory negligence in an action
+wherein one or more parties is the representative of a deceased or
+incompetent person based upon, or by reason of, the operation or
+ownership of a motor vehicle being operated upon the highways of the
+state, or the operation or ownership of aircraft being operated in the
+air space over the state, or the operation or ownership of a vessel on
+any of the lakes, rivers, streams, canals or other waters of this state,
+but this provision shall not be construed as permitting testimony as to
+conversations with the deceased.
+```

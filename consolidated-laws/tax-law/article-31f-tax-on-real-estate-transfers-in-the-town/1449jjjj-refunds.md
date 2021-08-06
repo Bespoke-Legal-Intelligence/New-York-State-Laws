@@ -11,5 +11,5 @@ moneys to be refunded pursuant to such rules and regulations he or she
 may prescribe, provided that any application for such refund is filed
 with the treasurer within two years from the date the erroneous payment
 was made.
-  * NB Repealed December 31, 2025
+  * NB Repealed December 31, 2050
 ```

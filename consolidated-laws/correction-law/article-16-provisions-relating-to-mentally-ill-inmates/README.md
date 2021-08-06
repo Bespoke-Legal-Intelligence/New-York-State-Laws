@@ -8,7 +8,7 @@
 - [§ 400 Definitions](400-definitions.md)
 - [§ 401 Establishment of programs inside correctional facilities](401-establishment-of-programs-inside-correctional-facilities.md)
 - [§ 401-A Oversight responsibilities of the justice center for the protection of people with special needs](401a-oversight-responsibilities-of-the-justice-center-for-the-protection-of-people.md)
-- [§ 402 Commitment of mentally ill inmates](402-commitment-of-mentally-ill-inmates.md)
+- [§ 402 Commitment of inmates with a mental illness](402-commitment-of-inmates-with-a-mental-illness.md)
 - [§ 403 Department or superintendent to provide certain records](403-department-or-superintendent-to-provide-certain-records.md)
 - [§ 404 Disposition of mentally ill inmates upon release to parole, conditional release, or expiration of sentence](404-disposition-of-mentally-ill-inmates-upon-release-to-parole-conditional-release.md)
 - [§ 405 Duty of the department to the director of a hospital](405-duty-of-the-department-to-the-director-of-a-hospital.md)

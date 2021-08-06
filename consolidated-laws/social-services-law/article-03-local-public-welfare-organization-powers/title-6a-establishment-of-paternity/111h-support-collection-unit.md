@@ -51,38 +51,34 @@ relations law, where the petitioner is not a recipient of public
 assistance, shall upon payment into such support collection unit be
 deemed for all purposes to be the property of the person for whom such
 money is to be paid.
-  5. With respect to any funds paid to the support collection unit
-established by a social services district pursuant to an order of
-support under the provisions of article four, five, five-A or five-B of
-the family court act and which have remained unclaimed for not less than
-two years after diligent effort to locate the person entitled to such
-funds, the family court may enter an order decreeing
-  (a) that the funds be returned to the person who paid the funds
-pursuant to the order of support, or
-  (b) that the funds be deposited with the county treasurer or
-commissioner of finance of the city of New York, whose duty it shall be
-to receive such funds and invest them for a period of five years in such
-securities as are specified by law for investment by savings banks, the
-interest on such securities to accrue and become part of such funds.
-  6. If a claimant proves to the satisfaction of the family court within
-five years after the deposit of funds under paragraph (b) of subdivision
-five of this section his just and legal claim to any part of the funds,
-the court may require that repayment shall be made to the claimant as
-provided by order of the court. The clerk of the court shall issue a
-certificate under the official seal of the court embodying the terms and
-provisions of the order and transmit the certificate to the office of
-the county treasurer or commissioner of finance of the city of New York
-with whom the funds were deposited. The certificate shall constitute the
-authority of the county treasurer or commissioner of finance of the city
-of New York for making such repayment.
-  7. Upon the expiration of five years from the date of deposit with the
-county treasurer or commissioner of finance of the city of New York
-under paragraph (b) of subdivision five of this section, all such funds
-remaining in the custody of the county treasurer or commissioner of
-finance of the city of New York shall be paid to the state comptroller
-pursuant to the provisions of section six hundred two of the abandoned
-property law and such payment shall be accomplished by the report
-required by section six hundred three of the abandoned property law.
+  5. Except as provided in subdivision six of this section, any funds
+paid to a support collection unit established by a social services
+district which have not been disbursed after two years of diligent
+efforts to locate the person entitled to such funds shall be paid to the
+state comptroller in accordance with subdivision seven of this section
+unless information has been received that is likely to lead to the
+location of the person who is entitled to such funds; provided, however,
+where the support collection unit determines that the person entitled to
+the funds is deceased and cannot locate an estate for the person
+entitled to the funds, or the estate does not claim the funds, such
+funds may be paid to the state comptroller in accordance with
+subdivision seven of this section without two years of diligent efforts.
+  6. Any funds paid to a support collection unit established by a social
+services district for which the remitter of such funds has not provided
+sufficient identifying information to associate the funds with an
+existing or previously existing child support account, and such
+information cannot be determined after diligent efforts, shall be paid
+to the state comptroller in accordance with subdivision seven of this
+section.
+  7. In the month of April, on or before the tenth day thereof, such
+payment shall be delivered to the state comptroller pursuant to section
+thirteen hundred eighteen of the abandoned property law, and shall be
+accompanied by a written report, affirmed as true and accurate under the
+penalty of perjury, classified as the state comptroller shall prescribe,
+setting forth: (a) the names and last known addresses, if any, of the
+persons entitled to receive such abandoned property; (b) the title of
+any proceeding relating to such abandoned property; and (c) such other
+identifying information as the state comptroller may require.
   8. Banks and other fiduciary institutions are authorized and required
 to report to the support collection unit, when so requested, full
 information relative to any fund therein deposited by a petitioner or
@@ -114,80 +110,11 @@ unit in this chapter or any other law, the fiscal agent under contract
 with the department shall be deemed to be part of all support collection
 units for which the fiscal agent performs collection and disbursement
 functions.
-  12. In any case where the child support order was issued prior to
-September fifteenth, nineteen hundred eighty-nine in which there is an
-assignment of support rights or in which a request for an adjustment
-review is made, the support collection unit shall initiate a one-time
-review of the order for adjustment purposes unless: (i) the child is in
-receipt of public assistance, and the support collection unit determines
-that such review would not be in the best interest of the child or the
-custodial parent, and neither parent has requested review; or (ii) the
-child is not in receipt of public assistance and neither parent has
-requested such review. The support collection unit shall conduct such
-review in a manner consistent with section four hundred thirteen of the
-family court act and subdivision one-b of section two hundred forty of
-the domestic relations law, commonly referred to as the child support
-guidelines, and the definition of adjustment as set forth in subdivision
-three of section four hundred thirteen of the family court act and
-paragraph b of subdivision one of section two hundred forty of the
-domestic relations law.
-  13. Upon the conclusion of the adjustment review, the support
-collection unit shall send the findings of such review by first class
-mail to the parties, together with a notice describing the rights of the
-parties to seek adjustment pursuant to applicable provisions of law.
-  14. Where the support collection unit determines that there is a basis
-for an upward adjustment, it shall also file a proposed order together
-with an affidavit in support thereof with the clerk of the appropriate
-court, and send a copy of such proposed order and affidavit by first
-class mail to the parties.
-  15. Where the support collection unit has determined that an
-adjustment review is appropriate, and the child or children are in
-receipt of public assistance, the unit shall, at least thirty days
-before the commencement of such review, notify the parties that the
-support collection unit will commence review, and provide notice of
-their obligations pursuant to subdivision sixteen of this section. Such
-notice shall also be provided, whether or not a child is in receipt of
-public assistance, upon a request by any party for adjustment review.
-  16. Such notice shall include a statement that the party must, within
-thirty-five days of the date of mailing of the notice, send to the
-support collection unit:
-  (i) a current and representative paycheck stub with respect to each
-source of employment income;
-  (ii) copies of the most recently filed state and federal income tax
-returns; and
-  (iii) a sworn statement of net worth which shall also identify the
-carrier and policy number of all health insurance currently in place,
-for the benefit of the obligor and eligible dependents, and whether such
-coverage has been in place for the previous year.
-  The notice shall also include a statement that the party may schedule
-a conference with the support collection unit and submit a written
-explanation of his or her present tax and financial information to
-determine the appropriate modification, and thereby may avoid further
-administrative and judicial proceedings.
-  The notice shall also state that in the event the party fails to
-provide such information within thirty-five days of the date of the
-mailing of the notice, the department of social services shall be
-entitled to make use of certain tax data from the commissioner of
-taxation and finance pursuant to section one hundred seventy-one-g of
-the tax law and section one hundred eleven-c of the social services law
-to initiate proceedings to adjust the child support order.
-  17. The department shall develop and disseminate a notice informing
-both parties to child support orders issued prior to September
-fifteenth, nineteen hundred eighty-nine, of the availability of the
-one-time adjustment of child support orders pursuant to the provisions
-of subdivision three of section four hundred thirteen of the family
-court act and subdivision four of section two hundred forty of the
-domestic relations law. The department shall also develop a notice that
-shall set out the options for adjustment of child support orders issued
-prior to September fifteenth, nineteen hundred eighty-nine, and the
-methods for exercising those options. Said notice shall be sent by first
-class mail to persons in receipt of services pursuant to this title, and
-shall contain a reply form and envelope with postage pre-paid.
-  18. The support collection unit shall undertake a public service
+  12. The support collection unit shall undertake a public service
 campaign as soon as practicable to inform citizens of the possibility of
 driver, business and professional license suspension for support
 enforcement.
-  19. (1) A support obligor may challenge in writing the correctness of
+  13. (1) A support obligor may challenge in writing the correctness of
 the determination of the support collection unit pursuant to this
 section and section one hundred seventy-one-i of the tax law that the
 obligor's arrearage should be collected through the department of
@@ -233,7 +160,7 @@ timely files such objections with such bureau the support collection
 unit shall not notify the department of taxation and finance of their
 authority to collect the arrearages until fifteen days after entry of an
 order by the administrative law judge denying the objections.
-  20. If the support obligor is required to participate in work programs
+  14. If the support obligor is required to participate in work programs
 pursuant to section four hundred thirty-seven-a of the family court act,
 and the court enters an order of support on behalf of the persons in
 receipt of public assistance, the support collection unit shall not file

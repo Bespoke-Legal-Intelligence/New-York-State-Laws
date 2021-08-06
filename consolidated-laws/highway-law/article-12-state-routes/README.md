@@ -327,6 +327,11 @@
 - [§ 344-M\*3 Portion of the state highway system to be designated as the "Tec](344m-3-portion-of-the-state-highway-system-to-be-designated-as-the-tec.md)
 - [§ 344-M\*4 Portion of the state highway system to be designated as the "Dr](344m-4-portion-of-the-state-highway-system-to-be-designated-as-the-dr.md)
 - [§ 344-M\*5 Portion of the state highway system to be designated as the "Trooper Joseph Gallagher Memorial Bridge"](344m-5-portion-of-the-state-highway-system-to-be-designated-as-the-trooper-joseph.md)
+- [§ 344-M\*6 Portion of the state highway system to be designated as the "Peter V](344m-6-portion-of-the-state-highway-system-to-be-designated-as-the-peter-v.md)
+- [§ 344-M\*7 Portion of the state highway system to be designated as the "Assemblyman William 'Bill' Magee Memorial Highway"](344m-7-portion-of-the-state-highway-system-to-be-designated-as-the-assemblyman-william.md)
+- [§ 344-M\*8 Portion of the state highway system to be designated as the "Chief Warrant Officer 4 Christian J](344m-8-portion-of-the-state-highway-system-to-be-designated-as-the-chief-warrant.md)
+- [§ 344-M\*9 Portion of the state highway system to be designated as the "Lance Corporal Matthew A](344m-9-portion-of-the-state-highway-system-to-be-designated-as-the-lance-corporal.md)
+- [§ 344-M\*10 Portion of the state highway system to be designated and known as the "State Trooper Donald A](344m-10-portion-of-the-state-highway-system-to-be-designated-and-known-as-the-state.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 
 <details>
@@ -1085,6 +1090,20 @@ Section 340-a.     Designation of state interstate routes.
                      Schwerner Memorial Bridge".
         344-m*5.   Portion of the state highway system to be designated
                      as the "Trooper Joseph Gallagher Memorial Bridge".
+        344-m*6.   Portion of the state highway system to be designated
+                     as the "Peter V. Sobol Memorial Bridge".
+        344-m*7.   Portion of the state highway system to be designated
+                     as the "Assemblyman William 'Bill' Magee Memorial
+                     Highway".
+        344-m*8.   Portion of the state highway system to be designated
+                     as the "Chief Warrant Officer 4 Christian J. Koch
+                     Memorial Highway".
+        344-m*10.  Portion of the state highway system to be designated
+                     as the "Lance Corporal Matthew A. Falcone Memorial
+                     Bridge".
+        344-m*10.  Portion of the state highway system to be designated
+                     and known as the "State Trooper Donald A. Strand
+                     Memorial Bridge".
         345-a.     Abandonment and transfer of state highways.
 ```
 

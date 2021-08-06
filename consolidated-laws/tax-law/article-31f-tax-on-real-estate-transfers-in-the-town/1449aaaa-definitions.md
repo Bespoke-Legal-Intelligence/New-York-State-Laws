@@ -118,5 +118,5 @@ Orange.
   12. "Treasurer" means the treasurer of the county of Orange.
   13. "Town supervisor" means the town supervisor of the town of
 Warwick.
-  * NB Repealed December 31, 2025
+  * NB Repealed December 31, 2050
 ```

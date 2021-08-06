@@ -11,5 +11,5 @@
 highway system constituting route 75 from Langford Road south to Shirley
 Road in the town of North Collins, county of Erie, shall be designated
 and known as the "Tec. 5 Edward Enser Memorial Highway".
-  * NB There are 5 § 344-m's
+  * NB There are 10 § 344-m's
 ```

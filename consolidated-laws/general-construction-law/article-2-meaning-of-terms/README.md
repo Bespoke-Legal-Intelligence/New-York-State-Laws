@@ -36,7 +36,7 @@
 - [§ 26-A Judgment creditor](26a-judgment-creditor.md)
 - [§ 26-B Just compensation as including loss of mortgage financing](26b-just-compensation-as-including-loss-of-mortgage-financing.md)
 - [§ 27 Last, preceding, next and following](27-last-preceding-next-and-following.md)
-- [§ 28 Lunatic, mentally ill person, lunacy and mental illness](28-lunatic-mentally-ill-person-lunacy-and-mental-illness.md)
+- [§ 28 Mental disability, mental illness, developmental disability, addictive disorder and addiction disorder](28-mental-disability-mental-illness-developmental-disability-addictive-disorder.md)
 - [§ 28-A Mandate](28a-mandate.md)
 - [§ 28-B Magistrate](28b-magistrate.md)
 - [§ 28-C Down's syndrome](28c-downs-syndrome.md)

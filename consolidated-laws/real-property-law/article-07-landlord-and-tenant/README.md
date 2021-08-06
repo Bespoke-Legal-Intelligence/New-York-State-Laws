@@ -50,6 +50,7 @@
 - [§ 235-F Unlawful restrictions on occupancy](235f-unlawful-restrictions-on-occupancy.md)
 - [§ 235-G Electronic billing and/or payment of rent](235g-electronic-billing-and-or-payment-of-rent.md)
 - [§ 235-H Waiver of right to bring a declaratory judgment action](235h-waiver-of-right-to-bring-a-declaratory-judgment-action.md)
+- [§ 235-I Unreasonable tenant fees for reproductions of keys](235i-unreasonable-tenant-fees-for-reproductions-of-keys.md)
 - [§ 236 Assignment of lease of a deceased tenant](236-assignment-of-lease-of-a-deceased-tenant.md)
 - [§ 237 Discrimination in leases with respect to bearing of children](237-discrimination-in-leases-with-respect-to-bearing-of-children.md)
 - [§ 237-A Discrimination against children in dwelling houses and manufactured home parks](237a-discrimination-against-children-in-dwelling-houses-and-manufactured-home-parks.md)
@@ -126,6 +127,7 @@ Section  220.     Action for use and occupation.
          235-g.   Electronic billing and/or payment of rent.
          235-h.   Waiver of right to bring a declaratory judgment
                     action.
+         235-i.   Unreasonable tenant fees for reproductions of keys.
          236.     Assignment of lease of a deceased tenant.
          237.     Discrimination in leases with respect to bearing of
                     children.
