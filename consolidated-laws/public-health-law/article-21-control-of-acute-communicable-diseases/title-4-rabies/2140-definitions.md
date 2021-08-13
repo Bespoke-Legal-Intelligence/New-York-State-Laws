@@ -69,7 +69,7 @@ residence, vacation home or school within a county of the state of New
 York shall be deemed to have local residence in such county.
   10. "Qualification on residence." Local residence shall not include
 residence:
-  (a) as an inmate of any state or federal prison, or
+  (a) as an incarcerated individual of any state or federal prison, or
   (b) on a military reservation.
   11. "Initial treatment after human exposure to rabies" shall mean
 administration of the first postexposure dose of rabies vaccine and,

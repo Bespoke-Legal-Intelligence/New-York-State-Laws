@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Correction Law § 405", "kind": "section", "law_id": "COR", "location_id": "405", "path": "ARTICLE 16 › SECTION 405", "repealed": false, "repealed_date": null, "source": "nys-laws:COR/405.md", "title": "Duty of the department to the director of a hospital"} -->
+# Correction Law § 405 — Duty of the department to the director of a hospital
+
+[Correction Law](../README.md) › [Article 16 — Provisions Relating to Mentally Ill Incarcerated Individuals](README.md)
+
+```text
+  § 405. Duty of the department to the director of a hospital. The
+department shall notify the director of a hospital in advance of
+hearings to be held at such hospital as may be necessary to carry out
+the duties of the board of parole or the department. The department
+shall assist the department of mental hygiene in establishing or
+continuing the operation of grievance procedures at such hospital. Where
+the subject matter of the grievance primarily involves a policy or
+practice of the department of mental hygiene, the commissioner shall
+transfer the review of the grievance to the commissioner of mental
+hygiene for resolution pursuant to subdivision three of section one
+hundred thirty-nine of the correction law.
+```

@@ -1,0 +1,148 @@
+﻿<!-- nyslaw {"citation": "Correction Law § 611", "kind": "section", "law_id": "COR", "location_id": "611", "path": "ARTICLE 22 › SECTION 611", "repealed": false, "repealed_date": null, "source": "nys-laws:COR/611.md", "title": "Births to incarcerated individuals of correctional institutions and care of children of incarcerated individuals of correctional institut..."} -->
+# Correction Law § 611 — Births to incarcerated individuals of correctional institutions and care of children of incarcerated individuals of correctional institut...
+
+[Correction Law](../README.md) › [Article 22 — Miscellaneous Provisions](README.md)
+
+```text
+  § 611. Births to incarcerated individuals of correctional institutions
+and care of children of incarcerated individuals of correctional
+institutions. 1. (a) If a woman confined in any institution or local
+correctional facility be pregnant and about to give birth to a child,
+the superintendent or sheriff in charge of such institution or facility,
+a reasonable time before the anticipated birth of such child, shall
+cause such woman to be removed from such institution or facility and
+provided with comfortable accommodations, maintenance and medical care
+elsewhere, under such supervision and safeguards to prevent her escape
+from custody as the superintendent or sheriff or his or her designee may
+determine. No restraints of any kind shall be used during transport of
+such woman, a woman who is known to be pregnant by correctional
+personnel or personnel providing medical services to the institution or
+local correctional facility, or a woman within eight weeks after
+delivery or pregnancy outcome, absent extraordinary circumstances in
+which:
+  i. the superintendent or sheriff or his or her designee in
+consultation with the medical professional responsible for the
+institution has made an individualized determination that restraints are
+necessary to prevent such woman from injuring herself or medical or
+correctional personnel or others and cannot reasonably be restrained by
+other means, including the use of additional personnel; or
+  ii. the correctional personnel directly responsible for the transport
+of such a woman determine that an emergency has arisen in which
+restraints are necessary because the woman poses an immediate risk of
+serious injury to herself or medical or correctional personnel or others
+and cannot reasonably be restrained by other means.
+  (b) If a determination has been made pursuant to subparagraph i or ii
+of paragraph (a) of this subdivision that extraordinary circumstances
+exist then restraints shall be limited to wrist restraints in front of
+the body. The superintendent or sheriff or his or her designee pursuant
+to subparagraph i of paragraph (a) of this subdivision or correctional
+personnel pursuant to subparagraph ii of paragraph (a) of this
+subdivision shall document in writing the facts upon which the finding
+of extraordinary circumstances were based within five days of the use of
+such restraints and shall also document the type of restraints used and
+the length of time such restraints were used.
+  (c) No restraints of any kind shall be used when such woman is in
+labor, admitted to a hospital, institution or clinic for delivery, or
+recovering after giving birth. Any such personnel as may be necessary to
+supervise the woman during transport to and from and during her stay at
+the hospital, institution or clinic shall be provided to ensure adequate
+care, custody and control of the woman, except that no correctional
+staff shall be present in the delivery room during the birth of a baby
+unless requested by the medical staff supervising such delivery or by
+the woman giving birth. The superintendent or sheriff or his or her
+designee shall cause such woman to be subject to return to such
+institution or local correctional facility as soon after the birth of
+her child as the state of her health will permit as determined by the
+medical professional responsible for the care of such woman. If such
+woman is confined in a local correctional facility, the expense of such
+accommodation, maintenance and medical care shall be paid by such woman
+or her relatives or from any available funds of the local correctional
+facility and if not available from such sources, shall be a charge upon
+the county, city or town in which is located the court from which such
+incarcerated individual was committed to such local correctional
+facility. If such woman is confined in any institution under the control
+of the department, the expense of such accommodation, maintenance and
+medical care shall be paid by such woman or her relatives and if not
+available from such sources, such maintenance and medical care shall be
+paid by the state. In cases where payment of such accommodations,
+maintenance and medical care is assumed by the county, city or town from
+which such incarcerated individual was committed the payor shall make
+payment by issuing payment instrument in favor of the agency or
+individual that provided such accommodations and services, after
+certification has been made by the head of the institution to which the
+incarcerated individual was legally confined, that the charges for such
+accommodations, maintenance and medical care were necessary and are
+just, and that the institution has no available funds for such purpose.
+  (d) Any woman confined in an institution or local correctional
+facility shall receive notice in writing in a language and manner
+understandable to her about the requirements of this section upon her
+admission to an institution or local correctional facility and again
+when she is known to be pregnant. The superintendent or sheriff shall
+publish notice of the requirements of this section in prominent
+locations where medical care is provided. The department and the sheriff
+shall provide annual training on provisions of this section to all
+correctional personnel who are involved in the transportation,
+supervision or medical care of incarcerated women.
+  (e) The department shall report annually to the governor, the
+temporary president of the senate, the minority leader of the senate,
+the speaker of the assembly, the minority leader of the assembly, the
+chairperson of the senate crime victims, crime and correction committee
+and the chairperson of the assembly correction committee concerning
+every use of restraints on a woman under this section, including the
+reason such restraint was used, the type of restraint used and the
+length of time such restraint was used pursuant to paragraph (b) of this
+subdivision, but shall exclude individual identifying information. The
+sheriff of each county shall report, in a form and manner prescribed by
+the commission, every use of restraints on a woman under this section,
+including the reason such restraint was used, the type of restraint used
+and the length of time such restraint was used pursuant to paragraph (b)
+of this subdivision, annually to the commission. The commission shall
+include such information in its annual report pursuant to section
+forty-five of this chapter, but shall exclude identifying information
+from such report. Reports required by this section shall be posted on
+the websites maintained by the department and the commission.
+  2. A child so born may be returned with its mother to the correctional
+institution in which the mother is confined unless the chief medical
+officer of the correctional institution shall certify that the mother is
+physically unfit to care for the child, in which case the statement of
+the said medical officer shall be final. A child may remain in the
+correctional institution with its mother for such period as seems
+desirable for the welfare of such child, but not after it is one year of
+age, provided, however, if the mother is in a state reformatory and is
+to be paroled shortly after the child becomes one year of age, such
+child may remain at the state reformatory until its mother is paroled,
+but in no case after the child is eighteen months old. The officer in
+charge of such institution may cause a child cared for therein with its
+mother to be removed from the institution at any time before the child
+is one year of age. He shall make provision for a child removed from the
+institution without its mother or a child born to a woman incarcerated
+individual who is not returned to the institution with its mother as
+hereinafter provided. He may, upon proof being furnished by the father
+or other relatives of their ability to properly care for and maintain
+such child, give the child into the care and custody of such father or
+other relatives, who shall thereafter maintain the same at their own
+expense. If it shall appear that such father or other relatives are
+unable to properly care for and maintain such child, such officer shall
+place the child in the care of the commissioner of public welfare or
+other officer or board exercising in relation to children the power of a
+commissioner of public welfare of the county from which such
+incarcerated individual was committed as a charge upon such county. The
+officer in charge of the correctional institution shall send to such
+commissioner, officer or board a report of all information available in
+regard to the mother and the child. Such commissioner of public welfare
+or other officer or board shall care for or place out such child as
+provided by law in the case of a child becoming dependent upon the
+county.
+  3. If any woman, committed to any such correctional institution at the
+time of such commitment is the mother of a nursing child in her care
+under one year of age, such child may accompany her to such institution
+if she is physically fit to have the care of such child, subject to the
+provisions of subdivision two of this section. If any woman committed to
+any such institution at the time of such commitment is the mother of and
+has under her exclusive care a child more than one year of age the
+justice or magistrate committing such woman shall refer such child to
+the commissioner of public welfare or other officer or board exercising
+in relation to children the power of a commissioner of public welfare of
+the county from which the woman is committed to be cared for as provided
+by law in the case of a child becoming dependent upon the county.
+```

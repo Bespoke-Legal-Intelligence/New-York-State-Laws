@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Correction Law § 79-B", "kind": "section", "law_id": "COR", "location_id": "79-B", "path": "ARTICLE 4 › SECTION 79-B", "repealed": false, "repealed_date": null, "source": "nys-laws:COR/79-B.md", "title": "Adaptive reuse plan for consideration prior to prison closure"} -->
 # Correction Law § 79-B — Adaptive reuse plan for consideration prior to prison closure
 
-[Correction Law](../README.md) › [Article 4 — Establishment of Correctional Facilities, Commitments to Department and Custody of Inmates](README.md)
+[Correction Law](../README.md) › [Article 4 — Establishment of Correctional Facilities, Commitments to Department and Custody of Incarcerated Individuals](README.md)
 
 ```text
   § 79-b. Adaptive reuse plan for consideration prior to prison closure.

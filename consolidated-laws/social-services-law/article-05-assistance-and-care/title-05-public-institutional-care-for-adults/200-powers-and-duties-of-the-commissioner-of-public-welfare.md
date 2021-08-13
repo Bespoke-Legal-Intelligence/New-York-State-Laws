@@ -9,20 +9,21 @@ relation to the public farm. If the legislative body of a public welfare
 district shall authorize the maintenance of a public farm in connection
 with the public home, the commissioner of public welfare shall
   1. be responsible for the management of the public farm,
-  2. utilize the labor of such of the inmates of the public home as may
-in the judgment of the attending physician be able to work on the farm,
+  2. utilize the labor of such of the incarcerated individuals of the
+public home as may in the judgment of the attending physician be able to
+work on the farm,
   3. make all purchases necessary for the operation of the public farm
 unless such powers have been vested in some other purchasing agency,
   4. sell such surplus produce and proceeds of such farm and labor as
-may remain after the needs of the inmates of the public home have been
-supplied,
+may remain after the needs of the incarcerated individuals of the public
+home have been supplied,
   5. employ, within the limits of the appropriation made for the
 purpose, such laborers as may be necessary for the management of the
 farm,
   6. keep a record of the work of the farm, including the labor of the
-inmates of the public home on the farm and of the produce and proceeds
-of the farm supplied for the use of the public home, with the estimated
-value of such produce and proceeds,
+incarcerated individuals of the public home on the farm and of the
+produce and proceeds of the farm supplied for the use of the public
+home, with the estimated value of such produce and proceeds,
   7. when an appropriation has been made for the purpose, appoint an
 officer who shall be responsible for exercising such of the powers and
 carrying out such of the duties above mentioned as the commissioner may

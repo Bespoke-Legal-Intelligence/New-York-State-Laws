@@ -16,14 +16,15 @@ be charged when the department of corrections and community supervision
 or a local correctional facility as defined in subdivision sixteen of
 section two of the correction law requests a certificate of birth or
 certification of birth for the purpose of providing such certificate of
-birth or certification of birth to an inmate in anticipation of such
-inmate's release from custody or to obtain a death certificate to be
-used for administrative purposes for an inmate who has died under
-custody or when the office of children and family services or an
-authorized agency requests a certified copy or certified transcript of
-birth for a youth placed in the custody of the local commissioner of
-social services or the custody of the office of children and family
-services pursuant to article three of the family court act for the
-purpose of providing such certified copy or certified transcript of
-birth to such youth in anticipation of discharge from placement.
+birth or certification of birth to an incarcerated individual in
+anticipation of such incarcerated individual's release from custody or
+to obtain a death certificate to be used for administrative purposes for
+an incarcerated individual who has died under custody or when the office
+of children and family services or an authorized agency requests a
+certified copy or certified transcript of birth for a youth placed in
+the custody of the local commissioner of social services or the custody
+of the office of children and family services pursuant to article three
+of the family court act for the purpose of providing such certified copy
+or certified transcript of birth to such youth in anticipation of
+discharge from placement.
 ```

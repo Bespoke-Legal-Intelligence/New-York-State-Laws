@@ -71,7 +71,8 @@ of article twenty of this chapter.
 cigarettes seized pursuant to this section, except those that violate,
 or are suspected of violating, federal trademark laws or import laws, by
 transferring them to the department of corrections and community
-supervision for sale to or use by inmates in such institutions.
+supervision for sale to or use by incarcerated individuals in such
+institutions.
   (d) Cigarettes seized pursuant to a violation of section four hundred
 seventy-three-b of this chapter shall be destroyed. The department may
 also seize and destroy any vending machine or receptacle in which

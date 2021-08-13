@@ -4,21 +4,22 @@
 [General Municipal Law](../README.md) › [Article 10 — Firefighters and Police Officers](README.md)
 
 ```text
-  § 207-n. Performance of duty disability retirement.  Notwithstanding
+  § 207-n. Performance of duty disability retirement. Notwithstanding
 the provisions of any general, special or local law or administrative
 code to the contrary, but except for the purposes of the workers'
 compensation law and the labor law, a paid member of the uniformed force
 of a paid correction department, where such paid member is drawn from
 competitive civil service lists, who successfully passed a physical
 examination on entry into the service of such department, who contracts
-HIV (where there may have been exposure to a bodily fluid of an inmate
-or any person confined in an institution under the jurisdiction of the
-department of correction, or the department of health, or any person who
-has been committed to such institution by any court as a natural and
-proximate result of an act of any inmate or person described above, that
-may have involved transmission of a specified transmissible disease from
-an inmate or person described above to the member), tuberculosis or
-hepatitis will be presumed to have contracted such disease in the
-performance or discharge of his or her duties, unless the contrary be
-proved by competent evidence.
+HIV (where there may have been exposure to a bodily fluid of an
+incarcerated individual or any person confined in an institution under
+the jurisdiction of the department of corrections and community
+supervision, or the department of health, or any person who has been
+committed to such institution by any court as a natural and proximate
+result of an act of any incarcerated individual or person described
+above, that may have involved transmission of a specified transmissible
+disease from an incarcerated individual or person described above to the
+member), tuberculosis or hepatitis will be presumed to have contracted
+such disease in the performance or discharge of his or her duties,
+unless the contrary be proved by competent evidence.
 ```

@@ -94,6 +94,7 @@ illegal and void contract, and no recovery thereon shall be had.
   (d) The provisions of this article shall not be applicable to any sale
 as to which the tax imposed by section four hundred seventy-one of this
 chapter is not applicable or to a sale to the department of corrections
-and community supervision of this state for sale to or use by inmates in
-institutions under the jurisdiction of such department.
+and community supervision of this state for sale to or use by
+incarcerated individuals in institutions under the jurisdiction of such
+department.
 ```

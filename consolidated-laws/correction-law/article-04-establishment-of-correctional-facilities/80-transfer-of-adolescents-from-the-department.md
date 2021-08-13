@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Correction Law § 80", "kind": "section", "law_id": "COR", "location_id": "80", "path": "ARTICLE 4 › SECTION 80", "repealed": false, "repealed_date": null, "source": "nys-laws:COR/80.md", "title": "Transfer of adolescents from the department"} -->
 # Correction Law § 80 — Transfer of adolescents from the department
 
-[Correction Law](../README.md) › [Article 4 — Establishment of Correctional Facilities, Commitments to Department and Custody of Inmates](README.md)
+[Correction Law](../README.md) › [Article 4 — Establishment of Correctional Facilities, Commitments to Department and Custody of Incarcerated Individuals](README.md)
 
 ```text
   * § 80. Transfer of adolescents from the department. The department

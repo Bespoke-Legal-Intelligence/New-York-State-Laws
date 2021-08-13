@@ -8,7 +8,7 @@
 | Senate code | COR |
 | Type | Consolidated law, chapter 43 |
 | Sections | 329 |
-| Last changed | 6 Aug 2021 |
+| Last changed | 13 Aug 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Correction |
 
@@ -33,6 +33,7 @@ Became a law April 2, 1929, with the approval of the Governor.  Passed,
 
 ## Recent changes
 
+- [13 Aug 2021](../../changes/2021/2021-08-13.md): 132 amended
 - [6 Aug 2021](../../changes/2021/2021-08-06.md): 2 amended
 - [30 Jul 2021](../../changes/2021/2021-07-30.md): 1 amended
 - [4 Jun 2021](../../changes/2021/2021-06-04.md): 2 amended
@@ -42,14 +43,13 @@ Became a law April 2, 1929, with the approval of the Governor.  Passed,
 - [19 Feb 2021](../../changes/2021/2021-02-19.md): 2 amended
 - [1 Jan 2021](../../changes/2021/2021-01-01.md): 1 added, 1 removed
 - [4 Dec 2020](../../changes/2020/2020-12-04.md): 2 amended
-- [13 Nov 2020](../../changes/2020/2020-11-13.md): 1 amended
 
 ## Contents
 
 - [Article 1 — Short Title; Definitions](article-01-short-title-definitions/)
 - [Article 2 — Department of Corrections and Community Supervision](article-02-department-of-corrections-and-community/)
 - [Article 3 — State Commission of Correction](article-03-state-commission-of-correction/)
-- [Article 4 — Establishment of Correctional Facilities, Commitments to Department and Custody of Inmates](article-04-establishment-of-correctional-facilities/)
+- [Article 4 — Establishment of Correctional Facilities, Commitments to Department and Custody of Incarcerated Individuals](article-04-establishment-of-correctional-facilities/)
 - [Article 4-B — Alternate Correctional Facilities For the City of New York](article-04b-alternate-correctional-facilities-for-the-city/)
 - [Article 5 — Coordinated Use of State and Local Correctional Institutions](article-05-coordinated-use-of-state-and-local-correctional/)
 - [Article 5-A — Interstate Corrections Compact](article-05a-interstate-corrections-compact/)
@@ -63,7 +63,7 @@ Became a law April 2, 1929, with the approval of the Governor.  Passed,
 - [Article 12-B Resident Parole Facility For Youth](article-12b-resident-parole-facility-for-youth.md)
 - [Article 13 — Care of Property of Person Confined For Life](article-13-care-of-property-of-person-confined-for-life/)
 - [Article 14 — Care of Property of Person Confined For Less Than Life](article-14-care-of-property-of-person-confined-for-less/)
-- [Article 16 — Provisions Relating to Mentally Ill Inmates](article-16-provisions-relating-to-mentally-ill-inmates/)
+- [Article 16 — Provisions Relating to Mentally Ill Incarcerated Individuals](article-16-provisions-relating-to-mentally-ill-incarcerated/)
 - [Article 20 — Local Correctional Facilities](article-20-local-correctional-facilities/)
 - [Article 22 — Miscellaneous Provisions](article-22-miscellaneous-provisions/)
 - [Article 22-A — Prisoner Furloughs](article-22a-prisoner-furloughs/)

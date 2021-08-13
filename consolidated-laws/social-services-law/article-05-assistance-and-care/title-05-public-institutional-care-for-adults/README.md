@@ -9,10 +9,10 @@
 - [§ 194 Powers and duties of commissioners of public welfare in relation to public homes](194-powers-and-duties-of-commissioners-of-public-welfare.md)
 - [§ 194-A Additional power of work assignment granted to commissioner of public welfare of Monroe county](194a-additional-power-of-work-assignment-granted.md)
 - [§ 195 Medical care](195-medical-care.md)
-- [§ 196 Report on needs of inmates of public homes](196-report-on-needs-of-inmates-of-public-homes.md)
-- [§ 197 Inmates' right of appeal](197-inmates-right-of-appeal.md)
-- [§ 198 Control of inmates](198-control-of-inmates.md)
-- [§ 199 Power of commissioner of public welfare to detain certain inmates](199-power-of-commissioner-of-public-welfare-to-detain-certain.md)
+- [§ 196 Report on needs of incarcerated individuals of public homes](196-report-on-needs-of-incarcerated-individuals-of-public.md)
+- [§ 197 Incarcerated individuals' right of appeal](197-incarcerated-individuals-right-of-appeal.md)
+- [§ 198 Control of incarcerated individuals](198-control-of-incarcerated-individuals.md)
+- [§ 199 Power of commissioner of public welfare to detain certain incarcerated individuals](199-power-of-commissioner-of-public-welfare-to-detain-certain.md)
 - [§ 200 Powers and duties of the commissioner of public welfare in relation to the public farm](200-powers-and-duties-of-the-commissioner-of-public-welfare.md)
 - [§ 202 Construction and administration of public homes](202-construction-and-administration-of-public-homes.md)
 
@@ -24,17 +24,18 @@
                         PUBLIC INSTITUTIONAL CARE
                                FOR ADULTS
 Section 193.   Public homes.
-        194.   Powers  and  duties of commissioners of public welfare in
+        194.   Powers and duties of commissioners of public welfare in
                  relation to public homes.
-        194-a. Additional  power   of   work   assignment   granted   to
+        194-a. Additional power of work assignment granted to
                  commissioner of public welfare of Monroe county.
         195.   Medical care.
-        196.   Report on needs of inmates of public homes.
-        197.   Inmates' right of appeal.
-        198.   Control of inmates.
+        196.   Report on needs of incarcerated individuals of public
+                 homes.
+        197.   Incarcerated individuals' right of appeal.
+        198.   Control of incarcerated individuals.
         199.   Power of commissioner of public welfare to detain certain
-                 inmates.
-        200.   Powers  and  duties of the commissioner of public welfare
+                 incarcerated individuals.
+        200.   Powers and duties of the commissioner of public welfare
                  in relation to the public farm.
         202.   Construction and administration of public homes.
 ```

@@ -17,7 +17,7 @@
 - [§ 240.26 Harassment in the second degree](240.26-harassment-in-the-second-degree.md)
 - [§ 240.30 Aggravated harassment in the second degree](240.30-aggravated-harassment-in-the-second-degree.md)
 - [§ 240.31 Aggravated harassment in the first degree](240.31-aggravated-harassment-in-the-first-degree.md)
-- [§ 240.32 Aggravated harassment of an employee by an inmate](240.32-aggravated-harassment-of-an-employee.md)
+- [§ 240.32 Aggravated harassment of an employee by an incarcerated individual](240.32-aggravated-harassment-of-an-employee.md)
 - [§ 240.35 Loitering](240.35-loitering.md)
 - [§ 240.36 Loitering in the first degree](240.36-loitering-in-the-first-degree.md)
 - [§ 240.40 Appearance in public under the influence of narcotics or a drug other than alcohol](240.40-appearance-in-public-under-the-influence.md)
@@ -58,7 +58,8 @@ Section 240.00 Offenses against public order; definitions of terms.
         240.26 Harassment in the second degree.
         240.30 Aggravated harassment in the second degree.
         240.31 Aggravated harassment in the first degree.
-        240.32 Aggravated harassment of an employee by an inmate.
+        240.32 Aggravated harassment of an employee by an incarcerated
+                 individual.
         240.35 Loitering.
         240.36 Loitering in the first degree.
         240.40 Appearance in public under the influence of narcotics or

@@ -4,7 +4,7 @@
 [Correction Law](../README.md) › [Article 26 — Temporary Release Programs For State Correctional Institutions](README.md)
 
 ```text
-  § 858. Application of labor laws.  The laws of the state and its
+  § 858. Application of labor laws. The laws of the state and its
 political subdivisions with respect to employment conditions shall apply
-to inmates participating in work release programs.
+to incarcerated individuals participating in work release programs.
 ```

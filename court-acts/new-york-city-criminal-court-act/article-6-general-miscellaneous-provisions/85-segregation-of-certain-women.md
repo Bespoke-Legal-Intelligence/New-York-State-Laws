@@ -6,6 +6,7 @@
 ```text
   § 85. Segregation of certain women. Whenever any woman is accused or
 convicted before the court of any crime arising out of an industrial
-dispute, such woman shall be segregated from the other inmates thereof
-in any jail, prison or institution to which she may be committed.
+dispute, such woman shall be segregated from the other incarcerated
+individuals thereof in any jail, prison or institution to which she may
+be committed.
 ```

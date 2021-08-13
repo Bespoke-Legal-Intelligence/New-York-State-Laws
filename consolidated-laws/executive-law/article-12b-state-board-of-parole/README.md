@@ -11,7 +11,7 @@
 - [§ 259-C State board of parole; functions, powers and duties](259c-state-board-of-parole-functions-powers-and-duties.md)
 - [§ 259-D Hearing officers](259d-hearing-officers.md)
 - [§ 259-E Institutional parole services](259e-institutional-parole-services.md)
-- [§ 259-H Parole eligibility for certain inmates sentenced for crimes committed prior to September first, nineteen hundred sixty-seven](259h-parole-eligibility-for-certain-inmates-sentenced-for-crimes-committed-prior.md)
+- [§ 259-H Parole eligibility for certain incarcerated individuals sentenced for crimes committed prior to September first, nineteen hundred sixty-s...](259h-parole-eligibility-for-certain-incarcerated-individuals-sentenced-for-crimes.md)
 - [§ 259-I Procedures for the conduct of the work of the state board of parole](259i-procedures-for-the-conduct-of-the-work-of-the-state-board-of-parole.md)
 - [§ 259-J Discharge of sentence](259j-discharge-of-sentence.md)
 - [§ 259-K Access to records and institutions](259k-access-to-records-and-institutions.md)
@@ -21,8 +21,8 @@
 - [§ 259-O Interstate hearings for parole violations](259o-interstate-hearings-for-parole-violations.md)
 - [§ 259-P Interstate detention](259p-interstate-detention.md)
 - [§ 259-Q Civil actions against board personnel](259q-civil-actions-against-board-personnel.md)
-- [§ 259-R Release on medical parole for terminally ill inmates](259r-release-on-medical-parole-for-terminally-ill-inmates.md)
-- [§ 259-S Release on medical parole for inmates suffering significant debilitating illnesses](259s-release-on-medical-parole-for-inmates-suffering-significant-debilitating.md)
+- [§ 259-R Release on medical parole for terminally ill incarcerated individuals](259r-release-on-medical-parole-for-terminally-ill-incarcerated-individuals.md)
+- [§ 259-S Release on medical parole for incarcerated individuals suffering significant debilitating illnesses](259s-release-on-medical-parole-for-incarcerated-individuals-suffering-significant.md)
 
 <details>
 <summary>Official heading of Article 12-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -36,9 +36,9 @@ Section 259.    Definitions.
         259-c.  State board of parole; functions, powers and duties.
         259-d.  Hearing officers.
         259-e.  Institutional parole services.
-        259-h.  Parole eligibility for certain inmates sentenced for
-                  crimes committed prior to September first, nineteen
-                  hundred sixty-seven.
+        259-h.  Parole eligibility for certain incarcerated individuals
+                  sentenced for crimes committed prior to September
+                  first, nineteen hundred sixty-seven.
         259-i.  Procedures for the conduct of the work of the state
                   board of parole.
         259-j.  Discharge of sentence.
@@ -51,8 +51,8 @@ Section 259.    Definitions.
         259-p.  Interstate detention.
         259-q.  Civil actions against division personnel.
         259-r.  Release on medical parole for terminally ill inmates.
-        259-s.  Release on medical parole for inmates suffering
-                  significant debilitating illnesses.
+        259-s.  Release on medical parole for incarcerated individuals
+                  suffering significant debilitating illnesses.
 ```
 
 </details>

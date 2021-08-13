@@ -8,7 +8,7 @@
 | Senate code | CVS |
 | Type | Consolidated law, chapter 7 |
 | Sections | 173 |
-| Last changed | 6 Aug 2021 |
+| Last changed | 13 Aug 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Civil Service |
 
@@ -33,6 +33,7 @@ Became a law, February 17, 1909, with the approval of the Governor.
 
 ## Recent changes
 
+- [13 Aug 2021](../../changes/2021/2021-08-13.md): 1 amended
 - [6 Aug 2021](../../changes/2021/2021-08-06.md): 1 amended
 - [9 Jul 2021](../../changes/2021/2021-07-09.md): 1 amended, 1 added
 - [18 Jun 2021](../../changes/2021/2021-06-18.md): 3 amended
@@ -42,7 +43,6 @@ Became a law, February 17, 1909, with the approval of the Governor.
 - [13 Nov 2020](../../changes/2020/2020-11-13.md): 4 amended
 - [19 Jun 2020](../../changes/2020/2020-06-19.md): 1 amended
 - [24 Apr 2020](../../changes/2020/2020-04-24.md): 4 amended
-- [10 Apr 2020](../../changes/2020/2020-04-10.md): 3 amended
 
 ## Contents
 

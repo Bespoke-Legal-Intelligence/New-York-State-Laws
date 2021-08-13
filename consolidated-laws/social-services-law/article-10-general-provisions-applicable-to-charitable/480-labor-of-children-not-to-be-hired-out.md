@@ -4,10 +4,10 @@
 [Social Services Law](../README.md) › [Article 10 — General Provisions Applicable to Charitable Institutions](README.md)
 
 ```text
-  § 480.  Labor of children not to be hired out.  It shall be unlawful
-for the trustees or managers of any house of refuge, reformatory or
-other correctional institution, to contract, hire, or let by the day,
-week or month, or any longer period, the services or labor of any child
-or children, now or hereafter committed to or inmates of such
-institutions.
+  § 480. Labor of children not to be hired out. It shall be unlawful for
+the trustees or managers of any house of refuge, reformatory or other
+correctional institution, to contract, hire, or let by the day, week or
+month, or any longer period, the services or labor of any child or
+children, now or hereafter committed to or incarcerated individual of
+such institutions.
 ```

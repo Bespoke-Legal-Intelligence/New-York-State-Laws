@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Correction Law § 70", "kind": "section", "law_id": "COR", "location_id": "70", "path": "ARTICLE 4 › SECTION 70", "repealed": false, "repealed_date": null, "source": "nys-laws:COR/70.md", "title": "Establishment, use and designation of correctional facilities"} -->
 # Correction Law § 70 — Establishment, use and designation of correctional facilities
 
-[Correction Law](../README.md) › [Article 4 — Establishment of Correctional Facilities, Commitments to Department and Custody of Inmates](README.md)
+[Correction Law](../README.md) › [Article 4 — Establishment of Correctional Facilities, Commitments to Department and Custody of Incarcerated Individuals](README.md)
 
 ```text
   § 70. Establishment, use and designation of correctional facilities.
@@ -52,11 +52,12 @@ preservation or, in the sixth park region, by the commissioner of
 environmental conservation.
   4. Two or more correctional facilities may be maintained or
 established in the same building or on the same premises so long as the
-inmates of each are at all times kept separate and apart from each other
-except that the inmates of one may be permitted to have contact with
-inmates of the other in order to perform duties, receive therapeutic
-treatment, attend religious services and engage in like activities as
-specifically provided in the rules and regulations of the department.
+incarcerated individuals of each are at all times kept separate and
+apart from each other except that the incarcerated individuals of one
+may be permitted to have contact with incarcerated individuals of the
+other in order to perform duties, receive therapeutic treatment, attend
+religious services and engage in like activities as specifically
+provided in the rules and regulations of the department.
   5. Each correctional facility must be designated in the rules and
 regulations of the department and no correctional facility can be used
 by the department for confinement of persons unless the rules and

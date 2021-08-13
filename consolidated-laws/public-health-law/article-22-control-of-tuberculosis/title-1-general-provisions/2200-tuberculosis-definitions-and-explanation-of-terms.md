@@ -4,7 +4,7 @@
 [Public Health Law](../../README.md) › [Article 22 — Control of Tuberculosis](../README.md) › [Title 1 — General Provisions](README.md)
 
 ```text
-  § 2200. Tuberculosis; definitions and explanation of terms.  1. (a)
+  § 2200. Tuberculosis; definitions and explanation of terms. 1. (a)
 State residence. Under the conditions hereinafter specified, any person
 who has resided in the state of New York continuously for at least one
 year immediately preceding the date of admission to a hospital for the
@@ -28,12 +28,12 @@ residence in such county or in the city of New York, as the case may be.
   3. Qualification on residence. The continuous residence required to
 acquire either state residence or local residence shall not include any
 period during which the person was (a) a patient in a hospital, or (b)
-an inmate of any public institution, incorporated private institution,
-or private tuberculosis home, cottage or hospital, or (c) residing on
-any military reservation. If, however, the periods of residence
-immediately prior and subsequent to the periods specified in (a), (b),
-or (c) shall together equal the required period of residence, such
-person shall be deemed to have the required continuous residence.
+an incarcerated individual of any public institution, incorporated
+private institution, or private tuberculosis home, cottage or hospital,
+or (c) residing on any military reservation. If, however, the periods of
+residence immediately prior and subsequent to the periods specified in
+(a), (b), or (c) shall together equal the required period of residence,
+such person shall be deemed to have the required continuous residence.
   4. State charge. State charge shall mean any person suffering from
 tuberculosis or suspected of having tuberculosis and in need of
 tuberculosis hospital care and treatment therefor who is:

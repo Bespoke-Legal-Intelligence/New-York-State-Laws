@@ -80,18 +80,18 @@ this section.
   * NB Effective December 31, 2023
   * (a-1) Payments made by local governmental agencies to general
 hospitals for reimbursement of inpatient hospital services provided to
-inmates of local correctional facilities as defined in subdivision
-sixteen of section two of the correction law shall be at the rates of
-payment determined pursuant to this section for state governmental
-agencies, excluding adjustments pursuant to subdivision fourteen-f of
-this section.
+incarcerated individuals of local correctional facilities as defined in
+subdivision sixteen of section two of the correction law shall be at the
+rates of payment determined pursuant to this section for state
+governmental agencies, excluding adjustments pursuant to subdivision
+fourteen-f of this section.
   * NB Effective until December 31, 2023
   * (a-1) Payments made by local governmental agencies to general
 hospitals for reimbursement of inpatient hospital services provided to
-inmates of local correctional facilities as defined in subdivision
-sixteen of section two of the correction law shall be at the rates of
-payment determined pursuant to this section for state governmental
-agencies.
+incarcerated individuals of local correctional facilities as defined in
+subdivision sixteen of section two of the correction law shall be at the
+rates of payment determined pursuant to this section for state
+governmental agencies.
   * NB Effective December 31, 2023
   * (a-2) (i) With the exception of those enrollees covered under a
 payment rate methodology agreement negotiated with a general hospital,
@@ -3944,13 +3944,13 @@ person presented or proposed to be presented for admission to such
 general hospital by a representative of a correctional facility or a
 local correctional facility as defined respectively in subdivisions
 four, fifteen and sixteen of section two of the correction law based
-solely on the grounds such person is an inmate of such correctional
-facility or local correctional facility. No general hospital may demand
-or request any charge for hospital services provided to such person in
-addition to the charges or rates authorized in accordance with this
-article, except for charges for identifiable additional hospital costs
-associated with or reasonable additional charges associated with
-security arrangements for such person.
+solely on the grounds such person is an incarcerated individual of such
+correctional facility or local correctional facility. No general
+hospital may demand or request any charge for hospital services provided
+to such person in addition to the charges or rates authorized in
+accordance with this article, except for charges for identifiable
+additional hospital costs associated with or reasonable additional
+charges associated with security arrangements for such person.
   (p)(i) Notwithstanding any inconsistent provision of law, a general
 hospital that provides an inpatient component of hospice care for
 persons eligible for payments to a hospice by a government agency made

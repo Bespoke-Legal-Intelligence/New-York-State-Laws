@@ -8,8 +8,8 @@
 - [§ 630 Applicability](630-applicability.md)
 - [§ 631 Definitions](631-definitions.md)
 - [§ 632 Establishment of a furlough program](632-establishment-of-a-furlough-program.md)
-- [§ 633 Procedure for furlough release of eligible inmates](633-procedure-for-furlough-release-of-eligible-inmates.md)
-- [§ 634 Conduct of inmates participating in furlough program](634-conduct-of-inmates-participating-in-furlough-program.md)
+- [§ 633 Procedure for furlough release of eligible incarcerated individuals](633-procedure-for-furlough-release-of-eligible-incarcerated-individuals.md)
+- [§ 634 Conduct of incarcerated individuals participating in furlough program](634-conduct-of-incarcerated-individuals-participating-in-furlough-program.md)
 
 <details>
 <summary>Official heading of Article 22-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -20,8 +20,10 @@
 Section 630.  Applicability.
         631.  Definitions.
         632.  Establishment of a furlough program.
-        633.  Procedure for furlough release of eligible inmates.
-        634.  Conduct of inmates participating in furlough program.
+        633.  Procedure for furlough release of eligible incarcerated
+                individuals.
+        634.  Conduct of incarcerated individuals participating in
+                furlough program.
   * NB Repealed September 1, 2023
 ```
 

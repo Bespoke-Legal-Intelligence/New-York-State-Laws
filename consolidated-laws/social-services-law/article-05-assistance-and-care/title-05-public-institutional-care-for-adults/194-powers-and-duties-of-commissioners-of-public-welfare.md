@@ -7,8 +7,9 @@
   § 194. Powers and duties of commissioners of public welfare in
 relation to public homes. Commissioners of public welfare shall
   1. be responsible for the management of the home and for the care of
-its inmates,
-  2. have control of the admission and discharge of inmates of the home,
+its incarcerated individuals,
+  2. have control of the admission and discharge of incarcerated
+individuals of the home,
   3. within the limits of the appropriations made for the purpose,
 appoint qualified physicians, matrons, nurses, officers and employees,
 and vest in them such powers as he may deem necessary for the management
@@ -26,30 +27,31 @@ shall not be deemed to be employees of the public welfare district.
 necessary for the upkeep of the home and for the care of the needy in
 the home, unless such powers have been vested in some other purchasing
 agency,
-  5. classify the inmates of the home, and provide the type of care best
-fitted to their needs and carry out the recommendations of the attending
-physician in regard to their care,
+  5. classify the incarcerated individuals of the home, and provide the
+type of care best fitted to their needs and carry out the
+recommendations of the attending physician in regard to their care,
   6. establish rules for the administration of the public home and for
-the conduct and employment of the inmates thereof; but such rules shall
-not be valid unless approved in writing by the department,
-  7. as far as practicable provide suitable employment for any inmate
-whom the attending physician pronounces able to work, assigning such
-inmates to such labor in connection with the farm and garden, or the
-care and upkeep of the buildings or other suitable tasks in the public
-home as they may be deemed capable of performing, and providing
-occupational and other diversions as may be for the best interests of
-the inmates,
+the conduct and employment of the incarcerated individuals thereof; but
+such rules shall not be valid unless approved in writing by the
+department,
+  7. as far as practicable provide suitable employment for any
+incarcerated individual whom the attending physician pronounces able to
+work, assigning such inmates to such labor in connection with the farm
+and garden, or the care and upkeep of the buildings or other suitable
+tasks in the public home as they may be deemed capable of performing,
+and providing occupational and other diversions as may be for the best
+interests of the incarcerated individuals,
   8. when in their individual judgment and discretion it appears
 advisable, for purposes of rehabilitation, to provide incentive
-compensation to an inmate, in any amount or amounts totalling ten
-dollars or less per month, for work assigned and performed in or about
-the public home, farm and garden; but the payment of any such reward
-shall not be deemed, for the purposes of any law, to make the inmate
-receiving the same an employee of the public home or of the county or
-city maintaining such home,
+compensation to an incarcerated individual, in any amount or amounts
+totalling ten dollars or less per month, for work assigned and performed
+in or about the public home, farm and garden; but the payment of any
+such reward shall not be deemed, for the purposes of any law, to make
+the incarcerated individual receiving the same an employee of the public
+home or of the county or city maintaining such home,
   8-a. deposit as prescribed in section eighty-seven of this chapter,
-any and all moneys received by him for the use of a particular inmate or
-inmates of the public home.
+any and all moneys received by him or her for the use of a particular
+incarcerated individual or incarcerated individuals of the public home,
   9. when an appropriation is made for the purpose, appoint a
 superintendent of the public home who shall reside thereat and exercise
 such of the powers and carry out such of the duties above mentioned in

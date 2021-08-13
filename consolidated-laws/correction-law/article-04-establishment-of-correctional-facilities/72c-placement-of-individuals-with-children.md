@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Correction Law § 72-C", "kind": "section", "law_id": "COR", "location_id": "72-C", "path": "ARTICLE 4 › SECTION 72-C", "repealed": false, "repealed_date": null, "source": "nys-laws:COR/72-C.md", "title": "Placement of individuals with children"} -->
 # Correction Law § 72-C — Placement of individuals with children
 
-[Correction Law](../README.md) › [Article 4 — Establishment of Correctional Facilities, Commitments to Department and Custody of Inmates](README.md)
+[Correction Law](../README.md) › [Article 4 — Establishment of Correctional Facilities, Commitments to Department and Custody of Incarcerated Individuals](README.md)
 
 ```text
   * § 72-c. Placement of individuals with children. 1. In determining

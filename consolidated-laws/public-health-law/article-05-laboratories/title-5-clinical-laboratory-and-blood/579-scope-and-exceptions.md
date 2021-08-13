@@ -24,24 +24,24 @@ conducted pursuant to paragraph (c) of subdivision four of section
 eleven hundred ninety-four of the vehicle and traffic law and paragraph
 (c) of subdivision eight of section 25.24 of the parks, recreation and
 historic preservation law; (c) any examination performed by a state or
-local agency of materials derived from the body of an inmate, pretrial
-releasee, parolee, conditional releasee or probationer to (i) determine,
-measure or otherwise describe the presence or absence of any substance
-whose possession, ingestion or use is prohibited by law, the rules of
-the department of corrections and community supervision, the conditions
-of release established by the board of parole, the conditions of release
-established by a court or a local conditional release commission or the
-conditions of any program to which such individuals are referred and
-(ii) to determine whether there has been a violation thereof; or (d) any
-examination performed by a coroner or medical examiner for the
-medical-legal investigation of a death. Nothing herein shall prevent the
-department from consulting with the division of criminal justice
-services, the department of corrections and community supervision, the
-state police, or any other state agency or commission, at the request of
+local agency of materials derived from the body of an incarcerated
+individual, pretrial releasee, parolee, conditional releasee or
+probationer to (i) determine, measure or otherwise describe the presence
+or absence of any substance whose possession, ingestion or use is
+prohibited by law, the rules of the department of corrections and
+community supervision, the conditions of release established by the
+board of parole, the conditions of release established by a court or a
+local conditional release commission or the conditions of any program to
+which such individuals are referred and (ii) to determine whether there
+has been a violation thereof; or (d) any examination performed by a
+coroner or medical examiner for the medical-legal investigation of a
+death. Nothing herein shall prevent the department from consulting with
 the division of criminal justice services, the department of corrections
-and community supervision, the state police, or such other agency or
-commission, concerning examination of materials for purposes other than
-public health.
+and community supervision, the state police, or any other state agency
+or commission, at the request of the division of criminal justice
+services, the department of corrections and community supervision, the
+state police, or such other agency or commission, concerning examination
+of materials for purposes other than public health.
   3. (a) This title shall not be applicable to any person, partnership,
 corporation or other entity performing any waived test or
 provider-performed microscopy procedure, provided such person,

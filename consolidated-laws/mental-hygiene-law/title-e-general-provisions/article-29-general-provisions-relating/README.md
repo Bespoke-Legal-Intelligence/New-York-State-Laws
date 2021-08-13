@@ -20,8 +20,8 @@
 - [§ 29.21 Care of children born to patients](29.21-care-of-children-born-to-patients.md)
 - [§ 29.23 Powers with respect to property of persons receiving services](29.23-powers-with-respect-to-property-of-persons-receiving-services.md)
 - [§ 29.25 Sale or delivery of alcoholic beverages to patients prohibited](29.25-sale-or-delivery-of-alcoholic-beverages-to-patients-prohibited.md)
-- [§ 29.27 Inmate-patients placed in the custody of the department](29.27-inmate-patients-placed-in-the-custody-of-the-department.md)
-- [§ 29.28 Payment of costs for prosecution of inmate-patients](29.28-payment-of-costs-for-prosecution-of-inmate-patients.md)
+- [§ 29.27 Incarcerated individual-patients placed in the custody of the department](29.27-incarcerated-individual-patients-placed-in-the-custody.md)
+- [§ 29.28 Payment of costs for prosecution of incarcerated individual-patients](29.28-payment-of-costs-for-prosecution-of-incarcerated-individual.md)
 - [§ 29.29 Incident reporting procedures](29.29-incident-reporting-procedures.md)
 
 <details>
@@ -52,8 +52,10 @@ Section 29.01 Regulations and forms.
                 services.
         29.25 Sale or delivery of alcoholic beverages to patients
                 prohibited.
-        29.27 Inmate-patients placed in the custody of the department.
-        29.28 Payment of costs for prosecution of inmate-patients.
+        29.27 Incarcerated individual-patients placed in the custody of
+                the department.
+        29.28 Payment of costs for prosecution of incarcerated
+                individual-patients.
         29.29 Incident reporting procedures.
 ```
 

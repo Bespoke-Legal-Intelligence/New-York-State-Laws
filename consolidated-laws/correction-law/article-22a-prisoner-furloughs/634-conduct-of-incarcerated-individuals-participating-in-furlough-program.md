@@ -1,0 +1,45 @@
+﻿<!-- nyslaw {"citation": "Correction Law § 634", "kind": "section", "law_id": "COR", "location_id": "634", "path": "ARTICLE 22-A › SECTION 634", "repealed": false, "repealed_date": null, "source": "nys-laws:COR/634.md", "title": "Conduct of incarcerated individuals participating in furlough program"} -->
+# Correction Law § 634 — Conduct of incarcerated individuals participating in furlough program
+
+[Correction Law](../README.md) › [Article 22-A — Prisoner Furloughs](README.md)
+
+```text
+  * § 634. Conduct of incarcerated individuals participating in furlough
+program. 1. An incarcerated individual who is permitted to leave the
+premises of an institution to participate in a furlough program shall
+have on his or her person a copy of the memorandum of that program as
+signed by the warden of the institution and shall exhibit such copy to
+any peace officer or police officer upon request of such officer.
+  2. If the incarcerated individual violates any provision of the
+program, or any rule, or regulation promulgated by the commissioner for
+conduct of incarcerated individuals participating in furlough programs,
+he or she shall be subject to disciplinary measures to the same extent
+as if he or she violated a rule or regulation of the commissioner for
+conduct of incarcerated individuals within the premises of the
+institution.
+  3. The provisions of this section relating to good behavior of
+incarcerated individuals while participating in furlough programs
+outside the premises of institutions, and such allowances may be
+granted, withheld, forfeited or cancelled in whole or part for behavior
+outside the premises of an institution to the same extent and in the
+same manner as is provided for behavior of incarcerated individuals
+within the premises of the institutions.
+  4. An incarcerated individual who is in violation of the provisions of
+his or her furlough program may be taken into custody by any peace
+officer or police officer and, in such event the incarcerated individual
+shall be returned forthwith to the institution that released him or her.
+In any case where the institution is in a county other than the one in
+which the incarcerated individual is apprehended, the officer may
+deliver the incarcerated individual to the nearest institution, jail or
+lockup and it shall be the duty of the person in charge of said facility
+to hold such incarcerated individual securely until such time as he or
+she is delivered into the custody of an officer of the institution from
+which he or she was released. Upon delivering the incarcerated
+individual to an institution, jail or lockup, other than the one from
+which he or she was released, the officer who apprehended the
+incarcerated individual shall forthwith notify the warden of the
+institution from which the incarcerated individual was released and it
+shall be the duty of the warden to effect the expeditious return of the
+incarcerated individual to the institution.
+  * NB Repealed September 1, 2023
+```

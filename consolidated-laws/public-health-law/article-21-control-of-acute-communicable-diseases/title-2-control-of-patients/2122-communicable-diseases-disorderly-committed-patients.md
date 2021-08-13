@@ -5,8 +5,8 @@
 
 ```text
   § 2122. Communicable diseases; disorderly committed patients;
-commitment to penal institution.  1. Any person who has been committed
-to a hospital or institution pursuant to the provisions of section two
+commitment to penal institution. 1. Any person who has been committed to
+a hospital or institution pursuant to the provisions of section two
 thousand one hundred twenty of this chapter, who thereafter wilfully
 violates the rules and regulations of the institution or repeatedly
 conducts himself in a disorderly manner may be taken before a magistrate
@@ -19,5 +19,6 @@ institution to which persons convicted of disorderly conduct, vagrancy
 or similar violations are committed.
   3. The authorities of the institution to which such person is
 committed by the magistrate pursuant to the provisions of this section
-shall keep such person separate and apart from the other inmates.
+shall keep such person separate and apart from the other incarcerated
+individuals.
 ```

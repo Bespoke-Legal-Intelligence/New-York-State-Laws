@@ -16,11 +16,11 @@
 - [§ 500-H Payment of costs for medical and dental services](500h-payment-of-costs-for-medical-and-dental-services.md)
 - [§ 500-I County workhouses](500i-county-workhouses.md)
 - [§ 500-J Who may visit local correctional facilities](500j-who-may-visit-local-correctional-facilities.md)
-- [§ 500-K Treatment of inmates](500k-treatment-of-inmates.md)
+- [§ 500-K Treatment of incarcerated individuals](500k-treatment-of-incarcerated-individuals.md)
 - [§ 500-L Release on holidays, Saturdays and Sundays](500l-release-on-holidays-saturdays-and-sundays.md)
 - [§ 500-M Special provision relating to city of New York](500m-special-provision-relating-to-city-of-new-york.md)
 - [§ 500-N Prisoners; unlawful fees prohibited](500n-prisoners-unlawful-fees-prohibited.md)
-- [§ 500-O Agreements for custody of inmates from other states](500o-agreements-for-custody-of-inmates-from-other-states.md)
+- [§ 500-O Agreements for custody of incarcerated individuals from other states](500o-agreements-for-custody-of-incarcerated-individuals-from-other-states.md)
 - [§ 500-P Prohibition on the custody of youth in Rikers Island facilities](500p-prohibition-on-the-custody-of-youth-in-rikers-island-facilities.md)
 - [§ 501 Jail physician](501-jail-physician.md)
 - [§ 502 Use of liquor in jails](502-use-of-liquor-in-jails.md)
@@ -29,7 +29,7 @@
 - [§ 505 Provision of routine medical, dental and mental health services and treatment](505-provision-of-routine-medical-dental-and-mental-health-services-and-treatment.md)
 - [§ 507 Removal of prisoners in case of fire](507-removal-of-prisoners-in-case-of-fire.md)
 - [§ 508 Removal of sick prisoners from jail](508-removal-of-sick-prisoners-from-jail.md)
-- [§ 509 Absence of inmate for funeral and deathbed visits](509-absence-of-inmate-for-funeral-and-deathbed-visits.md)
+- [§ 509 Absence of incarcerated individual for funeral and deathbed visits](509-absence-of-incarcerated-individual-for-funeral-and-deathbed-visits.md)
 - [§ 510 Voting upon release](510-voting-upon-release.md)
 - [§ 514 Confinement of civil prisoner](514-confinement-of-civil-prisoner.md)
 - [§ 523 Revocation of designation of jail](523-revocation-of-designation-of-jail.md)
@@ -53,11 +53,12 @@ Section 500.   Application of article.
         500-h. Payment of costs for medical and dental services.
         500-i. County workhouses.
         500-j. Who may visit local correctional facilities.
-        500-k. Treatment of inmates.
+        500-k. Treatment of incarcerated individuals.
         500-l. Release on holidays, Saturdays and Sundays.
         500-m. Special provision relating to city of New York.
         500-n. Prisoners; unlawful fees prohibited.
-        500-o. Agreements for custody of inmates from other states.
+        500-o. Agreements for custody of incarcerated individuals from
+                 other states.
         500-p. Prohibition on the custody of youth in Rikers Island
                  facilities.
         501.   Jail physician.
@@ -68,7 +69,8 @@ Section 500.   Application of article.
                  services and treatment.
         507.   Removal of prisoners in case of fire.
         508.   Removal of sick prisoners from jail.
-        509.   Absence of inmate for funeral and deathbed visits.
+        509.   Absence of incarcerated individual for funeral and
+                 deathbed visits.
         510.   Voting upon release.
         514.   Confinement of civil prisoners.
         523.   Revocation of designation of jail.

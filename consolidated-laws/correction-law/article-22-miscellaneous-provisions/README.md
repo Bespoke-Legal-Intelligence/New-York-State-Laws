@@ -7,7 +7,7 @@
 
 - [§ 600 Certain correctional officers to administer oaths](600-certain-correctional-officers-to-administer-oaths.md)
 - [§ 600-A Jail time records and certificates](600a-jail-time-records-and-certificates.md)
-- [§ 601 Delivery of commitment with inmate; payment of fees for transportation](601-delivery-of-commitment-with-inmate-payment-of-fees-for-transportation.md)
+- [§ 601 Delivery of commitment with incarcerated individual; payment of fees for transportation](601-delivery-of-commitment-with-incarcerated-individual-payment-of-fees.md)
 - [§ 601-A Return of persons erroneously sentenced for the purpose of resentence](601a-return-of-persons-erroneously-sentenced-for-the-purpose-of-resentence.md)
 - [§ 601-B Coram nobis prisoners; reimbursement for costs](601b-coram-nobis-prisoners-reimbursement-for-costs.md)
 - [§ 601-C Felony prisoners; reimbursement for costs](601c-felony-prisoners-reimbursement-for-costs.md)
@@ -16,10 +16,10 @@
 - [§ 603 Rendering accounts for conveying of prisoners](603-rendering-accounts-for-conveying-of-prisoners.md)
 - [§ 604 Payment of accounts for transporting prisoners](604-payment-of-accounts-for-transporting-prisoners.md)
 - [§ 605 Prisoners sentenced at one session of court to be transported at same time](605-prisoners-sentenced-at-one-session-of-court-to-be-transported-at-same-time.md)
-- [§ 605-A Transportation of female inmates](605a-transportation-of-female-inmates.md)
-- [§ 606 Payment of costs for prosecution of inmates](606-payment-of-costs-for-prosecution-of-inmates.md)
+- [§ 605-A Transportation of female incarcerated individuals](605a-transportation-of-female-incarcerated-individuals.md)
+- [§ 606 Payment of costs for prosecution of incarcerated individuals](606-payment-of-costs-for-prosecution-of-incarcerated-individuals.md)
 - [§ 610 Freedom of worship](610-freedom-of-worship.md)
-- [§ 611 Births to inmates of correctional institutions and care of children of inmates of correctional institutions](611-births-to-inmates-of-correctional-institutions-and-care-of-children-of-inmates.md)
+- [§ 611 Births to incarcerated individuals of correctional institutions and care of children of incarcerated individuals of correctional institut...](611-births-to-incarcerated-individuals-of-correctional-institutions-and-care.md)
 - [§ 611-A Commitments to county or regional correctional institutions](611a-commitments-to-county-or-regional-correctional-institutions.md)
 - [§ 612 United States prisoners](612-united-states-prisoners.md)
 - [§ 613 Conveyance of prisoner after arrest](613-conveyance-of-prisoner-after-arrest.md)
@@ -29,8 +29,8 @@
 - [§ 620 Service of papers in civil judicial proceedings upon a prisoner](620-service-of-papers-in-civil-judicial-proceedings-upon-a-prisoner.md)
 - [§ 621 Interstate cooperation with law enforcement officers and agencies of other states and the federal government](621-interstate-cooperation-with-law-enforcement-officers-and-agencies-of-other.md)
 - [§ 622 Sex offender treatment program](622-sex-offender-treatment-program.md)
-- [§ 623 Inmate telephone services](623-inmate-telephone-services.md)
-- [§ 624 Next of kin; death of inmate](624-next-of-kin-death-of-inmate.md)
+- [§ 623 Incarcerated individual telephone services](623-incarcerated-individual-telephone-services.md)
+- [§ 624 Next of kin; death of incarcerated individual](624-next-of-kin-death-of-incarcerated-individual.md)
 - [§ 625 Feminine hygiene products](625-feminine-hygiene-products.md)
 
 <details>
@@ -41,8 +41,8 @@
                         MISCELLANEOUS PROVISIONS
 Section 600.   Certain correctional officers to administer oaths.
         600-a. Jail time records and certificates.
-        601.   Delivery of commitment with inmate; payment of fees for
-                 transportation.
+        601.   Delivery of commitment with incarcerated individual;
+                 payment of fees for transportation.
         601-a. Return of persons erroneously sentenced for the purpose
                  of resentence.
         601-b. Coram nobis prisoners; reimbursement for costs.
@@ -53,8 +53,9 @@ Section 600.   Certain correctional officers to administer oaths.
         604.   Payment of accounts for transporting prisoners.
         605.   Prisoners sentenced at one session of court to be
                  transported at same time.
-        605-a. Transportation of female inmates.
-        606.   Payment of costs for prosecution of inmates.
+        605-a. Transportation of female incarcerated individuals.
+        606.   Payment of costs for prosecution of incarcerated
+                 individuals.
         610.   Freedom of worship.
         611.   Births to inmates of correctional institutions and care
                  of children of inmates of correctional institutions.
@@ -72,8 +73,8 @@ Section 600.   Certain correctional officers to administer oaths.
         621.   Interstate cooperation with law enforcement officers and
                  agencies of other states and the federal government.
         622.   Sex offender treatment program.
-        623.   Inmate telephone services.
-        624.   Next of kin; death of inmate.
+        623.   Incarcerated individual telephone services.
+        624.   Next of kin; death of incarcerated individual.
         625.   Feminine hygiene products.
 ```
 

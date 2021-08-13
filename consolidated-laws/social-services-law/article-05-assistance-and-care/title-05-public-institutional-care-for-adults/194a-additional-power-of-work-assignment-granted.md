@@ -6,13 +6,14 @@
 ```text
   § 194-a. Additional power of work assignment granted to commissioner
 of public welfare of Monroe county. When, pursuant to the provisions of
-subdivision eight of section one hundred ninety-four of this chapter,
-the commissioner of public welfare of Monroe county deems it advisable
-to assign work to an inmate, such work may be assigned and performed in
-or about not only the public home, farm and garden but also any other
-property maintained under his supervision. The payment of any reward
-pursuant to such subdivision eight shall not be deemed, for the purposes
-of any law, to make the inmate receiving the same an employee of the
-public home or of the county or city maintaining such home or such other
-property maintained under the commissioner's jurisdiction.
+subdivision eight of section one hundred ninety-four of this title, the
+commissioner of public welfare of Monroe county deems it advisable to
+assign work to an incarcerated individual, such work may be assigned and
+performed in or about not only the public home, farm and garden but also
+any other property maintained under his supervision. The payment of any
+reward pursuant to such subdivision eight shall not be deemed, for the
+purposes of any law, to make the incarcerated individual receiving the
+same an employee of the public home or of the county or city maintaining
+such home or such other property maintained under the commissioner's
+jurisdiction.
 ```

@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Correction Law § 79", "kind": "section", "law_id": "COR", "location_id": "79", "path": "ARTICLE 4 › SECTION 79", "repealed": false, "repealed_date": null, "source": "nys-laws:COR/79.md", "title": "Leasing of state institutions to cities or counties for the confinement of prisoners"} -->
 # Correction Law § 79 — Leasing of state institutions to cities or counties for the confinement of prisoners
 
-[Correction Law](../README.md) › [Article 4 — Establishment of Correctional Facilities, Commitments to Department and Custody of Inmates](README.md)
+[Correction Law](../README.md) › [Article 4 — Establishment of Correctional Facilities, Commitments to Department and Custody of Incarcerated Individuals](README.md)
 
 ```text
   § 79. Leasing of state institutions to cities or counties for the

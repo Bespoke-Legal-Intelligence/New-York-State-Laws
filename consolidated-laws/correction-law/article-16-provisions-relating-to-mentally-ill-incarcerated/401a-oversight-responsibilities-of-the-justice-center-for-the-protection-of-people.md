@@ -1,0 +1,61 @@
+﻿<!-- nyslaw {"citation": "Correction Law § 401-A", "kind": "section", "law_id": "COR", "location_id": "401-A", "path": "ARTICLE 16 › SECTION 401-A", "repealed": false, "repealed_date": null, "source": "nys-laws:COR/401-A.md", "title": "Oversight responsibilities of the justice center for the protection of people with special needs"} -->
+# Correction Law § 401-A — Oversight responsibilities of the justice center for the protection of people with special needs
+
+[Correction Law](../README.md) › [Article 16 — Provisions Relating to Mentally Ill Incarcerated Individuals](README.md)
+
+```text
+  § 401-a. Oversight responsibilities of the justice center for the
+protection of people with special needs. 1. The justice center for the
+protection of people with special needs shall be responsible for
+monitoring the quality of mental health care provided to incarcerated
+individuals pursuant to article twenty of the executive law. The justice
+center shall have direct and immediate access to all areas where state
+prisoners are housed, and to clinical and department records relating to
+incarcerated individuals' clinical conditions. The justice center shall
+maintain the confidentiality of all patient-specific information.
+  2. The justice center shall monitor the quality of care in residential
+mental health treatment programs and shall ensure compliance with
+paragraphs (d) and (e) of subdivision six of section one hundred
+thirty-seven of this chapter and section four hundred one of this
+article. The justice center may recommend to the department and the
+office of mental health that incarcerated individuals in segregated
+confinement pursuant to subdivision six of section one hundred
+thirty-seven of this chapter be evaluated for placement in a residential
+mental health treatment unit. It may also recommend ways to further the
+goal of diverting and removing incarcerated individuals with serious
+mental illness from segregated confinement to residential mental health
+treatment units. The justice center shall include in its annual report
+to the governor and the legislature pursuant to section five hundred
+sixty of the executive law, a description of the state's progress in
+complying with this article, which shall be publicly available.
+  3. The justice center shall appoint an advisory committee on
+psychiatric correctional care ("committee"), which shall be composed of
+independent mental health experts and mental health advocates, and may
+include family members of former incarcerated individuals with serious
+mental illness. Such committee shall advise the justice center on its
+oversight responsibilities pursuant to this section. The committee may
+also make recommendations to the justice center regarding improvements
+to prison-based mental health care. Nothing in this subdivision shall be
+deemed to authorize members of the committee to have access to a
+correctional or mental hygiene facility or any part of such a facility.
+Provided, however, newly appointed members of the advisory committee
+shall be provided with a tour of a segregated confinement unit and a
+residential mental health treatment unit, as selected by the
+commissioner. Any such tour shall be arranged on a date and at a time
+selected by the commissioner and upon such terms and conditions as are
+within the sole discretion of the commissioner.
+  * 4. The justice center shall assess the department's compliance with
+the provisions of sections two, one hundred thirty-seven, and one
+hundred thirty-eight of this chapter relating to segregated confinement
+and residential rehabilitation units and shall issue a public report, no
+less than annually, with recommendations to the department and
+legislature, regarding all aspects of segregated confinement and
+residential rehabilitation units in state correctional facilities
+including but not limited to policies and practices concerning: (a)
+placement of persons in segregated confinement and residential
+rehabilitation units; (b) special populations; (c) length of time spent
+in such units; (d) hearings and procedures; (e) programs, treatment and
+conditions of confinement in such units; and (f) assessments and
+rehabilitation plans, procedures and discharge determinations.
+  * NB Effective March 31, 2022
+```

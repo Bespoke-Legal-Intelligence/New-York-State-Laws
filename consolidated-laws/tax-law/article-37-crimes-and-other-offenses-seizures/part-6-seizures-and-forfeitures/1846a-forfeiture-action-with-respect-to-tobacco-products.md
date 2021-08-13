@@ -59,5 +59,6 @@ violation of any provision of article twenty of this chapter.
 products seized pursuant to this section, except those that violate, or
 are suspected of violating, federal trademark or import laws, by
 transferring them to the department of corrections and community
-supervision for sale to or use by inmates in such institutions.
+supervision for sale to or use by incarcerated individuals in such
+institutions.
 ```

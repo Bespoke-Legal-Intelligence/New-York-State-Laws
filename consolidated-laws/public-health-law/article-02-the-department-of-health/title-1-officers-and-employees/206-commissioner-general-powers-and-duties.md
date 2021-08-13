@@ -1009,37 +1009,38 @@ facilities, as defined in subdivision sixteen of section two of the
 correction law, regarding human immunodeficiency virus (HIV), acquired
 immunodeficiency syndrome (AIDS), hepatitis C (HCV), and COVID-19,
 including the prevention of the transmission of and the treatment of
-such infections and diseases among inmates. Such review shall be
-performed at least annually, and shall focus on whether such policy or
-practice is consistent with current, generally accepted medical
-standards and procedures used to prevent the transmission of and to
-treat those infections and diseases among the general public. In
+such infections and diseases among incarcerated individuals. Such review
+shall be performed at least annually, and shall focus on whether such
+policy or practice is consistent with current, generally accepted
+medical standards and procedures used to prevent the transmission of and
+to treat those infections and diseases among the general public. In
 performing such reviews, in order to determine the quality and adequacy
 of care and treatment provided, department personnel are authorized to
 enter correctional facilities and inspect policy and procedure manuals
 and medical protocols, interview health services providers and
-inmate-patients, review medical grievances, and inspect a representative
-sample of medical records of inmates known to be infected with any such
-infections or diseases. Prior to initiating a review of a correctional
-system, the commissioner shall inform the public, including patients,
-their families and patient advocates, of the scheduled review and invite
-them to provide the commissioner with relevant information. Upon the
-completion of such review, the department shall, in writing, approve
-such policy or practice as instituted in facilities operated by the
-department of corrections and community supervision, and in any local
-correctional facility, or, based on specific, written recommendations,
-direct the department of corrections and community supervision, or the
-authority responsible for the provision of medical care to inmates in
-local correctional facilities to prepare and implement a corrective plan
-to address deficiencies in areas where such policy or practice fails to
-conform to current, generally accepted medical standards and procedures.
-The commissioner shall monitor the implementation of such corrective
-plans and shall conduct such further reviews as the commissioner deems
-necessary to ensure that identified deficiencies in those policies and
-practices are corrected. All written reports pertaining to reviews
-provided for in this subdivision shall be maintained, under such
-conditions as the commissioner shall prescribe, as public information
-available for public inspection.
+incarcerated individual-patients, review medical grievances, and inspect
+a representative sample of medical records of incarcerated individuals
+known to be infected with any such infections or diseases. Prior to
+initiating a review of a correctional system, the commissioner shall
+inform the public, including patients, their families and patient
+advocates, of the scheduled review and invite them to provide the
+commissioner with relevant information. Upon the completion of such
+review, the department shall, in writing, approve such policy or
+practice as instituted in facilities operated by the department of
+corrections and community supervision, and in any local correctional
+facility, or, based on specific, written recommendations, direct the
+department of corrections and community supervision, or the authority
+responsible for the provision of medical care to incarcerated
+individuals in local correctional facilities to prepare and implement a
+corrective plan to address deficiencies in areas where such policy or
+practice fails to conform to current, generally accepted medical
+standards and procedures.  The commissioner shall monitor the
+implementation of such corrective plans and shall conduct such further
+reviews as the commissioner deems necessary to ensure that identified
+deficiencies in those policies and practices are corrected. All written
+reports pertaining to reviews provided for in this subdivision shall be
+maintained, under such conditions as the commissioner shall prescribe,
+as public information available for public inspection.
   27. The commissioner shall promulgate regulations to require that a
 manufacturer or other entity selling, leasing, or otherwise providing
 any drug, device, or health care service shall not, directly or
