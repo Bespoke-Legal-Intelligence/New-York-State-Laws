@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PVH |
 | Type | Consolidated law, chapter 44-B |
-| Sections | 431 |
-| Last changed | 30 Jul 2021 |
+| Sections | 434 |
+| Last changed | 20 Aug 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Private Housing Finance |
 
@@ -27,10 +27,11 @@ Assembly, do enact as follows:
               CHAPTER FORTY-FOUR-B OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (64 lines)](chapter-text.md)
+[Full chapter text (65 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [20 Aug 2021](../../changes/2021/2021-08-20.md): 3 added
 - [30 Jul 2021](../../changes/2021/2021-07-30.md): 1 amended, 1 added, 7 removed
 - [9 Jul 2021](../../changes/2021/2021-07-09.md): 10 amended
 - [2 Jul 2021](../../changes/2021/2021-07-02.md): 5 amended
@@ -40,7 +41,6 @@ Assembly, do enact as follows:
 - [4 Dec 2020](../../changes/2020/2020-12-04.md): 3 amended
 - [13 Nov 2020](../../changes/2020/2020-11-13.md): 1 amended
 - [17 Apr 2020](../../changes/2020/2020-04-17.md): 3 amended
-- [10 Apr 2020](../../changes/2020/2020-04-10.md): 2 amended
 
 ## Contents
 
@@ -80,3 +80,4 @@ Assembly, do enact as follows:
 - [Article 27 — Rural and Urban Community Investment Fund Program](article-27-rural-and-urban-community-investment-fund/)
 - [Article 29 — Residential Emergency Services to Offer Home Repairs to the Elderly Program](article-29-residential-emergency-services-to-offer-home/)
 - [Article 30 — New York Access to Home For Heroes Program](article-30-new-york-access-to-home-for-heroes-program/)
+- [Article 31 — Housing Our Neighbors With Dignity Program](article-31-housing-our-neighbors-with-dignity-program/)

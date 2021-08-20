@@ -141,7 +141,6 @@ and pelvic inflammatory disease.
   * NB There are 3 par (p)'s
   * (p) Preeclampsia, including information about detection, risk
 factors and management, and possible options for treatment.
-  * NB Effective August 15, 2021
   * NB There are 3 par (p)'s
   2. Programs under this section, dealing with one or more subjects, may
 include but not be limited to any of the following elements:
