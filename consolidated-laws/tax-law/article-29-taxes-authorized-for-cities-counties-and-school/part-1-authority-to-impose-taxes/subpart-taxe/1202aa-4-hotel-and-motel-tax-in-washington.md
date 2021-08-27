@@ -1,41 +1,43 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1202-AA*6", "kind": "section", "law_id": "TAX", "location_id": "1202-AA*6", "path": "ARTICLE 29 › PART 1 › SUBPART A › SECTION 1202-AA*6", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1202-AA_6.md", "title": "Hotel or motel taxes in Orange county"} -->
-# Tax Law § 1202-AA*6 — Hotel or motel taxes in Orange county
+﻿<!-- nyslaw {"citation": "Tax Law § 1202-AA*4", "kind": "section", "law_id": "TAX", "location_id": "1202-AA*4", "path": "ARTICLE 29 › PART 1 › SUBPART A › SECTION 1202-AA*4", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1202-AA_4.md", "title": "Hotel and motel tax in Washington county"} -->
+# Tax Law § 1202-AA*4 — Hotel and motel tax in Washington county
 
 [Tax Law](../../../README.md) › [Article 29 — Taxes Authorized For Cities, Counties and School Districts](../../README.md) › [Part 1 — Authority to Impose Taxes](../README.md) › [Subpart A — Taxes Administered By Cities, Counties and School Districts](README.md)
 
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
 ```text
-  * § 1202-aa. Hotel or motel taxes in Orange county. (1)
-Notwithstanding any other provisions of law to the contrary, the county
-of Orange is hereby authorized and empowered to adopt and amend local
-laws imposing in such county a tax, in addition to any other tax
-authorized and imposed pursuant to this article such as the county
-legislature has or would have the power and authority to impose upon
-persons occupying hotel or motel rooms in such county. For the purposes
-of this section, the term "hotel" or "motel" shall mean and include any
-facility providing lodging on an overnight basis and shall include those
-facilities designated and commonly known as "bed and breakfast" and
-"tourist" facilities.
-  The rates of such tax shall not exceed five percent of the per diem
-rental rate for each room, provided however, that such tax shall not be
-applicable to a permanent resident of a hotel or motel. For the purposes
-of this section the term "permanent resident" shall mean a person
-occupying any room or rooms in a hotel or motel for at least thirty
-consecutive days.
+  * § 1202-aa. Hotel and motel tax in Washington county. (1)
+Notwithstanding any other provision of law to the contrary, the county
+of Washington is hereby authorized and empowered to adopt and amend
+local laws imposing in such county a tax, in addition to any other tax
+authorized and imposed pursuant to this article as the legislature has
+or would have the power and authority to impose upon persons occupying
+hotel or motel rooms in such county. For the purposes of this section,
+the term "hotel or motel" shall mean and include any facility providing
+lodging on an overnight basis and shall include those facilities
+designated and commonly known as "bed and breakfast", "inn",
+"housekeeping cottages with four or more units", and "tourist
+facilities".
+  The rates of such tax shall be one-half of one percent, any whole
+percent or any combination of a whole percent and one-half of one
+percent; provided that such rates shall not exceed four percent;
+provided, however, that such tax shall not be applicable to a permanent
+resident of a hotel or motel. For the purposes of this section, the term
+"permanent resident" shall mean a person occupying any room or rooms in
+a hotel or motel for at least thirty consecutive days.
   (2) Such tax may be collected and administered by the county treasurer
-or other fiscal officers of Orange county by such means and in such
-manner as other taxes which are now collected and administered by such
-officers or as otherwise may be provided by such local law.
+or other fiscal officers of the county of Washington by such means and
+in such manner as other taxes which are now collected and administered
+by such officers or as otherwise may be provided by such local law.
   (3) Such local laws may provide that any tax imposed shall be paid by
 the person liable therefor to the owner of the hotel or motel room
 occupied or to the person entitled to be paid the rent or charge for the
-hotel or motel room occupied for and on account of the county of Orange
-imposing the tax and that such owner or person entitled to be paid the
-rent or charge shall be liable for the collection and payment of the
-tax; and that such owner or person entitled to be paid the rent or
-charge shall have the same right in respect to collecting the tax from
-the person occupying the hotel or motel room, or in respect to
+hotel or motel room occupied for and on account of the county of
+Washington imposing the tax and that such owner or person entitled to be
+paid the rent or charge shall be liable for the collection and payment
+of the tax; and that such owner or person entitled to be paid the rent
+or charge shall have the same right in respect to collecting the tax
+from the person occupying the hotel or motel room, or in respect to
 nonpayment of the tax by the person occupying the hotel or motel room,
 as if the tax were a part of the rent or charge and payable at the same
 time as the rent or charge; provided, however, that the county treasurer
@@ -68,13 +70,13 @@ all of its profits are payable to one or more organizations described in
 this paragraph.
   (6) Any final determination of the amount of any tax payable pursuant
 to this section shall be reviewable for error, illegality or
-unconstitutionally or any other reason whatsoever by a proceeding under
+unconstitutionality or any other reason whatsoever by a proceeding under
 article seventy-eight of the civil practice law and rules if application
 therefor is made to the supreme court within thirty days after the
 giving of the notice of such final determination, provided, however,
 that any such proceeding under article seventy-eight of the civil
 practice law and rules shall not be instituted unless:
-  a. The amount of any tax sought to be reviewed, with such interest and
+  a. the amount of any tax sought to be reviewed, with such interest and
 penalties thereon as may be provided for by local law or regulation
 shall be first deposited and there is filed an undertaking, issued by a
 surety company authorized to transact business in this state and
@@ -83,7 +85,7 @@ solvency and responsibility, in such amount as a justice of the supreme
 court shall approve to the effect that if such proceeding be dismissed
 or the tax confirmed the petitioner will pay all costs and charges which
 may accrue in the prosecution of such proceeding; or
-  b. At the option of the petitioner such undertaking may be in a sum
+  b. at the option of the petitioner such undertaking may be in a sum
 sufficient to cover the taxes, interests and penalties stated in such
 determination plus the costs and charges which may accrue against it in
 the prosecution of the proceeding, in which event the petitioner shall
@@ -101,25 +103,36 @@ determination of tax due was not previously made, and that an
 undertaking is filed with the proper fiscal officer or officers in such
 amount and with such sureties as a justice of the supreme court shall
 approve to the effect that if such proceeding be dismissed or the tax
-confirmed, the petitioner will pay all costs and charges which may
-accrue in the prosecution of such proceeding.
+confirmed, the petitioner will pay all costs and charges which accrue in
+the prosecution of such proceeding.
   (8) Except in the case of a wilfully false or fraudulent return with
 intent to evade the tax, no assessment of additional tax shall be made
 after the expiration of more than three years from the date of the
 filing of a return, provided, however, that where no return has been
 filed as provided by law the tax may be assessed at any time.
   (9) All revenues resulting from the imposition of the tax under the
-local laws shall be paid into the treasury of the county of Orange and
-shall be credited to and deposited in the general fund of the county.
-  (10) If any provision of this section or the application thereof to
+local laws shall be paid into the treasury of the county of Washington
+and shall be credited to and deposited in the general fund of the
+county, thereafter to be allocated for tourism promotion and tourist and
+convention development; provided, however, that such local laws shall
+provide that the county of Washington shall be authorized to retain up
+to a maximum of fifteen percent of such revenues to defer the necessary
+expenses of such county in administering such tax. The revenues derived
+from such tax, after deducting the amount provided for administering the
+tax, as provided by local law, shall be allocated to promote tourism in,
+preserve the heritage of, and celebrate the agricultural community in
+the county of Washington through the promotion of tourist activities,
+conventions, trade shows, special events, and other directly related and
+supporting activities.
+  (10) Each enactment of such local law may provide for imposition of a
+hotel or motel tax for a period of time no longer than three years from
+the date of its enactment. Nothing in this section shall prohibit the
+adoption and enactment of local laws, pursuant to the provisions of this
+section, upon the expiration of any other local law adopted pursuant to
+this section.
+  (11) If any provision of this section or the application thereof to
 any person or circumstance shall be held invalid, the remainder of this
 section and the application of such provision to other persons or
 circumstances shall not be affected thereby.
-  (11) Each enactment of such local law may provide for the imposition
-of a hotel or motel tax for a period of time no longer than three years
-from the effective date of its enactment. Nothing in this section shall
-prohibit the adoption and enactment of local laws, pursuant to the
-provisions of this section, upon the expiration of any other local law
-adopted pursuant to this section.
-  * NB There are 8 § 1202-aa's
+  * NB There are 7 § 1202-aa's
 ```

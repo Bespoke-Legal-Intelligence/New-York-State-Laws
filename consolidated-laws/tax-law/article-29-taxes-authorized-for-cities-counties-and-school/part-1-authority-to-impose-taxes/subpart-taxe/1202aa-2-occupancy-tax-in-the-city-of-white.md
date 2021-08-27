@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1202-AA*3", "kind": "section", "law_id": "TAX", "location_id": "1202-AA*3", "path": "ARTICLE 29 › PART 1 › SUBPART A › SECTION 1202-AA*3", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1202-AA_3.md", "title": "Occupancy tax in the city of White Plains"} -->
-# Tax Law § 1202-AA*3 — Occupancy tax in the city of White Plains
+﻿<!-- nyslaw {"citation": "Tax Law § 1202-AA*2", "kind": "section", "law_id": "TAX", "location_id": "1202-AA*2", "path": "ARTICLE 29 › PART 1 › SUBPART A › SECTION 1202-AA*2", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1202-AA_2.md", "title": "Occupancy tax in the city of White Plains"} -->
+# Tax Law § 1202-AA*2 — Occupancy tax in the city of White Plains
 
 [Tax Law](../../../README.md) › [Article 29 — Taxes Authorized For Cities, Counties and School Districts](../../README.md) › [Part 1 — Authority to Impose Taxes](../README.md) › [Subpart A — Taxes Administered By Cities, Counties and School Districts](README.md)
 
@@ -119,5 +119,5 @@ section.
 any person or circumstance shall be held invalid, the remainder of this
 section and the application of such provision to other persons or
 circumstances shall not be affected thereby.
-  * NB There are 8 § 1202-aa's
+  * NB There are 7 § 1202-aa's
 ```

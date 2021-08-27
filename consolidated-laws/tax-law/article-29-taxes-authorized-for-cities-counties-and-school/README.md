@@ -33,13 +33,13 @@ Section 1201.      Taxes administered by cities of one million or more.
                      city.
         1202-a.    Hotel or motel taxes in Onondaga county.
         1202-aa.   Occupancy tax in the city of New Rochelle.
-        1202-aa*2. Occupancy tax in the city of Rye.
-        1202-aa*3. Occupancy tax in the city of White Plains.
-        1202-aa*4. Hotel or motel taxes in Schoharie county.
-        1202-aa*5. Hotel and motel tax in Washington county.
-        1202-aa*6. Hotel or motel taxes in Orange county.
-        1202-aa*7. Hotel or motel taxes in the city of Peekskill.
-        1202-aa*8. Hotel or motel taxes in Tioga county.
+        1202-aa*2. Occupancy tax in the city of White Plains.
+        1202-aa*3. Hotel or motel taxes in Schoharie county.
+        1202-aa*4. Hotel and motel tax in Washington county.
+        1202-aa*5. Hotel or motel taxes in Orange county.
+        1202-aa*6. Hotel or motel taxes in the city of Peekskill.
+        1202-aa*7. Hotel or motel taxes in Tioga county.
+        1202-aaa.  Occupancy tax in the city of Rye.
         1202-b.    Hotel or motel taxes in Broome county.
         1202-bb.   Occupancy tax in the Village of Rye Brook.
         1202-c.    Hotel or motel taxes in Jefferson county.

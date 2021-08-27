@@ -1,57 +1,57 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1202-AA*8", "kind": "section", "law_id": "TAX", "location_id": "1202-AA*8", "path": "ARTICLE 29 › PART 1 › SUBPART A › SECTION 1202-AA*8", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1202-AA_8.md", "title": "Hotel or motel taxes in Tioga county"} -->
-# Tax Law § 1202-AA*8 — Hotel or motel taxes in Tioga county
+﻿<!-- nyslaw {"citation": "Tax Law § 1202-AA*3", "kind": "section", "law_id": "TAX", "location_id": "1202-AA*3", "path": "ARTICLE 29 › PART 1 › SUBPART A › SECTION 1202-AA*3", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1202-AA_3.md", "title": "Hotel or motel taxes in Schoharie county"} -->
+# Tax Law § 1202-AA*3 — Hotel or motel taxes in Schoharie county
 
 [Tax Law](../../../README.md) › [Article 29 — Taxes Authorized For Cities, Counties and School Districts](../../README.md) › [Part 1 — Authority to Impose Taxes](../README.md) › [Subpart A — Taxes Administered By Cities, Counties and School Districts](README.md)
 
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
 ```text
-  * § 1202-aa. Hotel or motel taxes in Tioga county. (1) Notwithstanding
-any other provisions of law to the contrary, the county of Tioga is
-hereby authorized and empowered to adopt and amend local laws imposing
-in such county a tax, in addition to any other tax authorized and
-imposed pursuant to this article such as the legislature has or would
-have the power and authority to impose upon persons occupying hotel or
-motel rooms in such county. For the purposes of this section, the term
-"hotel" or "motel" shall mean and include any facility providing lodging
-on an overnight basis and shall include those facilities designated and
-commonly known as "bed and breakfast" and "tourist" facilities.
+  * § 1202-aa. Hotel or motel taxes in Schoharie county. (1)
+Notwithstanding any other provisions of law to the contrary, the county
+of Schoharie is hereby authorized and empowered to adopt and amend local
+laws imposing in such county a tax, in addition to any other tax
+authorized and imposed pursuant to this article such as the board of
+supervisors has or would have the power and authority to impose upon
+persons occupying hotel or motel rooms in such county. For the purposes
+of this section, the term "hotel" or "motel" shall mean and include any
+facility providing lodging on an overnight basis and shall include those
+facilities designated and commonly known as "bed and breakfast" and
+"tourist" facilities.
   The rates of such tax shall not exceed four percent of the per diem
 rental rate for each room, provided however, that such tax shall not be
 applicable to a permanent resident of a hotel or motel. For the purposes
 of this section the term "permanent resident" shall mean a person
-occupying any room or rooms in a hotel or motel for at least fourteen
+occupying any room or rooms in a hotel or motel for at least thirty
 consecutive days.
-  (2) Such tax may be collected and administered by the deputy county
-administrator of finance or other fiscal officers of Tioga county by
-such means and in such manner as other taxes which are now collected and
-administered by such officers or as otherwise may be provided by such
-local law.
+  (2) Such tax may be collected and administered by the county treasurer
+or other fiscal officers of Schoharie county by such means and in such
+manner as other taxes which are now collected and administered by such
+officers or as otherwise may be provided by such local law.
   (3) Such local laws may provide that any tax imposed shall be paid by
 the person liable therefor to the owner of the hotel or motel room
 occupied or to the person entitled to be paid the rent or charge for the
-hotel or motel room occupied for and on account of the county of Tioga
-imposing the tax and that such owner or person entitled to be paid the
-rent or charge shall be liable for the collection and payment of the
-tax; and that such owner or person entitled to be paid the rent or
-charge shall have the same right in respect to collecting the tax from
-the person occupying the hotel or motel room, or in respect to
+hotel or motel room occupied for and on account of the county of
+Schoharie imposing the tax and that such owner or person entitled to be
+paid the rent or charge shall be liable for the collection and payment
+of the tax; and that such owner or person entitled to be paid the rent
+or charge shall have the same right in respect to collecting the tax
+from the person occupying the hotel or motel room, or in respect to
 nonpayment of the tax by the person occupying the hotel or motel room,
 as if the tax were a part of the rent or charge and payable at the same
-time as the rent or charge; provided, however, that the deputy county
-administrator of finance or other fiscal officers of the county,
-specified in such local law, shall be joined as a party in any action or
-proceeding brought to collect the tax by the owner or by the person
-entitled to be paid the rent or charge.
+time as the rent or charge; provided, however, that the county treasurer
+or other fiscal officers of the county, specified in such local law,
+shall be joined as a party in any action or proceeding brought to
+collect the tax by the owner or by the person entitled to be paid the
+rent or charge.
   (4) Such local laws may provide for the filing of returns and the
 payment of the tax on a monthly basis or on the basis of any longer or
 shorter period of time.
   (5) This section shall not authorize the imposition of such tax upon
 any transaction, by or with any of the following in accordance with
-section twelve hundred thirty of this chapter:
+section twelve hundred thirty of this article:
   a. The state of New York, or any public corporation (including a
 public corporation created pursuant to agreement or compact with another
-state or the dominion of Canada), improvement district or other
+state or the Dominion of Canada), improvement district or other
 political subdivision of the state;
   b. The United States of America, insofar as it is immune from
 taxation;
@@ -109,28 +109,23 @@ after the expiration of more than three years from the date of the
 filing of a return, provided, however, that where no return has been
 filed as provided by law the tax may be assessed at any time.
   (9) All revenues resulting from the imposition of the tax under the
-local laws shall be paid into the treasury of Tioga county and shall be
-credited to and deposited in the general fund of the county, thereafter
-to be allocated at the discretion of the county legislature of the
-county of Tioga for the purposes of tourism and economic development;
-provided, however, that such local laws shall provide that the county
-shall be authorized to retain up to a maximum of five percent of such
-revenue to defer the necessary expenses of the county in administering
-such tax. The revenue derived from the tax, after deducting the amount
-provided for administering such tax, as so authorized by local law,
-shall be allocated to enhance the general economy of Tioga county, its
-cities, towns, and villages, through promotion of tourist activities,
-conventions, trade shows, special events, and other directly related and
-supporting activities.
-  (10) Each enactment of such a local law may provide for the imposition
+local laws shall be paid into the treasury of Schoharie county and shall
+be credited to and deposited in the general fund of the county;
+provided, however, that such local laws shall provide that: (a) the
+county shall be authorized to dedicate a portion of such revenue to
+promote tourism and other forms of business in the county; and (b) the
+county shall be authorized to retain up to a maximum of ten percent of
+such revenue to defer the necessary expenses of the county in
+administering such tax.
+  (10) If any provision of this section or the application thereof to
+any person or circumstance shall be held invalid, the remainder of this
+section and the application of such provision to other persons or
+circumstances shall not be affected thereby.
+  (11) Each enactment of such local law may provide for the imposition
 of a hotel or motel tax for a period of time no longer than three years
 from the date of its enactment. Nothing in this section shall prohibit
 the adoption and enactment of local laws, pursuant to the provisions of
 this section, upon the expiration of any other local law adopted
 pursuant to this section.
-  (11) If any provision of this act or the application thereof to any
-person or circumstance shall be held invalid, the remainder of this act
-and the application of such provision to other persons or circumstances
-shall not be affected thereby.
-  * NB There are 8 § 1202-aa's
+  * NB There are 7 § 1202-aa's
 ```

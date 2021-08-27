@@ -332,6 +332,9 @@
 - [§ 344-M\*8 Portion of the state highway system to be designated as the "Chief Warrant Officer 4 Christian J](344m-8-portion-of-the-state-highway-system-to-be-designated-as-the-chief-warrant.md)
 - [§ 344-M\*9 Portion of the state highway system to be designated as the "Lance Corporal Matthew A](344m-9-portion-of-the-state-highway-system-to-be-designated-as-the-lance-corporal.md)
 - [§ 344-M\*10 Portion of the state highway system to be designated and known as the "State Trooper Donald A](344m-10-portion-of-the-state-highway-system-to-be-designated-and-known-as-the-state.md)
+- [§ 344-M\*11 Portion of the state highway system to be designated as the "Detective Betsy Horner-Miller Cutrone Memorial Bridge"](344m-11-portion-of-the-state-highway-system-to-be-designated-as-the-detective-betsy.md)
+- [§ 344-M\*12 Portion of the state highway system to be designated as the "Rockland County Clerk Paul Piperato Memorial Highway"](344m-12-portion-of-the-state-highway-system-to-be-designated-as-the-rockland-county.md)
+- [§ 344-M\*13 Portion of the state highway system to be designated and known as the "State Trooper Jose A](344m-13-portion-of-the-state-highway-system-to-be-designated-and-known-as-the-state.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 
 <details>
@@ -1103,6 +1106,15 @@ Section 340-a.     Designation of state interstate routes.
                      Bridge".
         344-m*10.  Portion of the state highway system to be designated
                      and known as the "State Trooper Donald A. Strand
+                     Memorial Bridge".
+        344-m*11.  Portion of the state highway system to be designated
+                     as the "Detective Betsy Horner-Miller Cutrone
+                     Memorial Bridge".
+        344-m*12.  Portion of the state highway system to be designated
+                     as the "Rockland County Clerk Paul Piperato
+                     Memorial Highway".
+        344-m*13.  Portion of the state highway system to be designated
+                     and known as the "State Trooper Jose A. Rosado
                      Memorial Bridge".
         345-a.     Abandonment and transfer of state highways.
 ```

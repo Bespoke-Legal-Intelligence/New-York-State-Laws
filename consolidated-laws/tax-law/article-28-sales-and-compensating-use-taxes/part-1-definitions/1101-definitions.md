@@ -19,7 +19,7 @@ paragraph (4) of this subdivision.
   (2) Purchaser. A person who purchases property or to whom are rendered
 services, the receipts from which are taxable under this article,
 including a mobile telecommunications customer.
-  (3) Receipt. The amount of the sale price of any property and the
+  * (3) Receipt. The amount of the sale price of any property and the
 charge for any service taxable under this article, including gas and gas
 service and electricity and electric service of whatever nature, valued
 in money, whether received in money or otherwise, including any amount
@@ -36,6 +36,58 @@ or a third party, but excluding any credit for tangible personal
 property accepted in part payment and intended for resale. For special
 rules governing computation of receipts, see section eleven hundred
 eleven.
+  * NB Effective until December 1, 2021
+  * (3) Receipt. (i) The amount of the sale price of any property and
+the charge for any service taxable under this article, including gas and
+gas service and electricity and electric service of whatever nature,
+valued in money, whether received in money or otherwise, including any
+amount for which credit is allowed by the vendor to the purchaser,
+without any deduction for expenses or early payment discounts and also
+including any charges by the vendor to the purchaser for shipping or
+delivery, and, with respect to gas and gas service and electricity and
+electric service, any charges by the vendor for transportation,
+transmission or distribution, regardless of whether such charges are
+separately stated in the written contract, if any, or on the bill
+rendered to such purchaser and regardless of whether such shipping or
+delivery or transportation, transmission, or distribution is provided by
+such vendor or a third party, but excluding any credit for tangible
+personal property accepted in part payment and intended for resale. For
+special rules governing computation of receipts, see section eleven
+hundred eleven of this article.
+  (ii) Receipt shall include consideration received by the vendor from
+third parties if:
+  (A) The vendor receives consideration from a third party and the
+consideration is directly related to a rebate, discount or similar price
+reduction on the sale;
+  (B) The vendor has an obligation to pass such consideration through to
+the purchaser in the form of a rebate, discount or similar price
+reduction;
+  (C) The amount of the consideration to be paid by the third party is
+fixed and determinable by the vendor at the time of the sale of the
+property or service to the purchaser; and
+  (D) One of the following criteria is met:
+  (I) the purchaser presents a coupon, certificate or other
+documentation to the vendor to claim a rebate, discount or similar price
+reduction where the coupon, certificate or documentation is authorized,
+distributed or granted by a third party with the understanding that the
+third party shall reimburse any vendor to whom the coupon, certificate
+or documentation is presented;
+  (II) the purchaser presents identification as a member of a group or
+organization entitled to a rebate, discount or similar price reduction;
+or
+  (III) the rebate, discount or similar price reduction is identified as
+a third party rebate, discount or similar price reduction on the invoice
+received by the purchaser or on a coupon, certificate or other
+documentation presented by the purchaser.
+  (iii) Subparagraph (ii) of this paragraph shall not apply to rebates,
+discounts or similar price reductions that are reimbursed by a third
+party on sales of motor vehicles.
+  (iv) For the purposes of subclause (II) of clause (D) of subparagraph
+(ii) of this paragraph, "identification as a member of a group or
+organization entitled to a rebate, discount or similar price reduction"
+shall not include the presentation of a customer loyalty or related
+rewards program card.
+  * NB Effective November 1, 2021
   (4) Retail sale. (i) A sale of tangible personal property to any
 person for any purpose, other than (A) for resale as such or as a
 physical component part of tangible personal property, or (B) for use by

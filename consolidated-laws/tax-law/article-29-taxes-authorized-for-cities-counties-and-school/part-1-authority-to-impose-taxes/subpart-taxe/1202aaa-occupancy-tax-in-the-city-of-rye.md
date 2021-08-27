@@ -1,9 +1,7 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1202-AA*2", "kind": "section", "law_id": "TAX", "location_id": "1202-AA*2", "path": "ARTICLE 29 › PART 1 › SUBPART A › SECTION 1202-AA*2", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1202-AA_2.md", "title": "Occupancy tax in the city of Rye"} -->
-# Tax Law § 1202-AA*2 — Occupancy tax in the city of Rye
+﻿<!-- nyslaw {"citation": "Tax Law § 1202-AAA", "kind": "section", "law_id": "TAX", "location_id": "1202-AAA", "path": "ARTICLE 29 › PART 1 › SUBPART A › SECTION 1202-AAA", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1202-AAA.md", "title": "Occupancy tax in the city of Rye"} -->
+# Tax Law § 1202-AAA — Occupancy tax in the city of Rye
 
 [Tax Law](../../../README.md) › [Article 29 — Taxes Authorized For Cities, Counties and School Districts](../../README.md) › [Part 1 — Authority to Impose Taxes](../README.md) › [Subpart A — Taxes Administered By Cities, Counties and School Districts](README.md)
-
-*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
 ```text
   * § 1202-aa. Occupancy tax in the city of Rye. (1) Notwithstanding any
@@ -123,5 +121,5 @@ any person or circumstance shall be held invalid, the remainder of this
 section and the application of such provision to other persons or
 circumstances shall not be affected thereby.
   * NB There are 8 § 1202-aa's
-  * NB Repealed September 1, 2021
+  * NB Repealed September 1, 2024
 ```
