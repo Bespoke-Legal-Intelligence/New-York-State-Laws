@@ -4,7 +4,7 @@
 [Correction Law](../README.md) › [Article 20 — Local Correctional Facilities](README.md)
 
 ```text
-  * § 510. Voting upon release. Prior to the release from a local
+  § 510. Voting upon release. Prior to the release from a local
 correctional facility of any person convicted of a felony the chief
 administrative officer shall notify such person verbally and in writing
 that his or her voting rights will be restored upon release and provide
@@ -19,5 +19,4 @@ his or her behalf. Where such person chooses to have the department
 transmit the application, the chief administrative officer shall
 transmit the completed application upon such person's release to the
 state board or county board where such person resides.
-  * NB Effective September 1, 2021
 ```

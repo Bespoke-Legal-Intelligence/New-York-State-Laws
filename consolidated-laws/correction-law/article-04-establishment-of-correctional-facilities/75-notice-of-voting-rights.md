@@ -4,15 +4,7 @@
 [Correction Law](../README.md) › [Article 4 — Establishment of Correctional Facilities, Commitments to Department and Custody of Incarcerated Individuals](README.md)
 
 ```text
-  * § 75. Notice of voting rights. Upon the discharge from a
-correctional facility of any person whose maximum sentence of
-imprisonment has expired or upon a person's discharge from community
-supervision, the department shall notify such person of his or her right
-to vote and provide such person with a form of application for voter
-registration together with written information distributed by the board
-of elections on the importance and the mechanics of voting.
-  * NB Effective until September 1, 2021
-  * § 75. Notice of voting rights. Prior to the release from a
+  § 75. Notice of voting rights. Prior to the release from a
 correctional facility of any person the department shall notify such
 person verbally and in writing, that his or her voting rights will be
 restored upon release and provide such person with a form of application
@@ -26,5 +18,4 @@ transmit it on his or her behalf. Where such person chooses to have the
 department transmit the application, the department shall transmit the
 completed application upon such person's release to the state board or
 county board where such person resides.
-  * NB Effective September 1, 2021
 ```

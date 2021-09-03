@@ -561,7 +561,7 @@ exceeding four fluid ounces each, and each sample shall be a different
 beer than the others. Only a customer's first purchase during each
 calendar day at each licensed entity shall be exempt under this
 paragraph.
-  * (46) Breast pump replacement parts and breast pump collection and
+  (46) Breast pump replacement parts and breast pump collection and
 storage supplies to an individual purchaser for home use. For purposes
 of this subdivision:
   (A) "Breast pump replacement parts" shall mean items used in
@@ -576,7 +576,6 @@ or a component part of, a breast pump.
   (B) "Breast pump collection and storage supplies" shall mean breast
 milk storage bags used to collect breast milk and to store collected
 breast milk until it is ready for consumption.
-  * NB Effective September 1, 2021
   (b) (i) Telephony and telegraphy and telephone and telegraph service
 used by newspapers, electronic news services, radio broadcasters and
 television broadcasters in the collection or dissemination of news shall
