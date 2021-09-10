@@ -12,6 +12,7 @@
 - [§ 19-0305 Commissioner; enforcement power](19-0305-commissioner-enforcement-power.md)
 - [§ 19-0306 Municipal solid and regulated medical waste incineration facilities](19-0306-municipal-solid-and-regulated-medical-waste-incineration.md)
 - [§ 19-0306-A Personal watercraft emissions regulations](19-0306-a-personal-watercraft-emissions-regulations.md)
+- [§ 19-0306-B Zero-emissions cars and trucks](19-0306-b-zero-emissions-cars-and-trucks.md)
 - [§ 19-0307 Certificates of compliance for purposes of the Real Property Tax Law](19-0307-certificates-of-compliance-for-purposes-of-the-real.md)
 - [§ 19-0309 Certificates of compliance for purposes of the Tax Law](19-0309-certificates-of-compliance-for-purposes-of-the-tax-law.md)
 - [§ 19-0311 Operating permit program for sources subject to federal Clean Air Act](19-0311-operating-permit-program-for-sources-subject-to-federal.md)
@@ -40,6 +41,7 @@ Section 19-0301.   Powers and duties.
         19-0306.   Municipal solid and regulated medical waste
                      incineration facilities.
         19-0306-a. Personal watercraft emissions regulations.
+        19-0306-b. Zero-emissions cars and trucks.
         19-0307.   Certificates of compliance for purposes of the Real
                      Property Tax Law.
         19-0309.   Certificates of compliance for purposes of the Tax

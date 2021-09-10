@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Real Property Tax Law § 925-E", "kind": "section", "law_id": "RPT", "location_id": "925-E", "path": "ARTICLE 9 › TITLE 3 › SECTION 925-E", "repealed": false, "repealed_date": null, "source": "nys-laws:RPT/925-E.md", "title": "Furloughed or non-pay federal workers; temporary extension"} -->
+﻿<!-- nyslaw {"citation": "Real Property Tax Law § 925-E", "kind": "section", "law_id": "RPT", "location_id": "925-E", "path": "ARTICLE 9 › TITLE 3 › SECTION 925-E", "repealed": true, "repealed_date": "2021-09-10", "source": "nys-laws:RPT/925-E.md", "title": "Furloughed or non-pay federal workers; temporary extension"} -->
 # Real Property Tax Law § 925-E — Furloughed or non-pay federal workers; temporary extension
 
 [Real Property Tax Law](../../README.md) › [Article 9 — Levy and Collection of Taxes](../README.md) › [Title 3 — Collection of Taxes; Return of Collecting Officer](README.md)
+
+**Repealed** (10 Sep 2021). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 925-e. Furloughed or non-pay federal workers; temporary extension.

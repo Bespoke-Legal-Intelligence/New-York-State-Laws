@@ -11,6 +11,7 @@
 - [§ 756-C Retention](756c-retention.md)
 - [§ 756-D Exceptions for failure of lender to disburse funds](756d-exceptions-for-failure-of-lender-to-disburse-funds.md)
 - [§ 756-E Exceptions for lower Manhattan reconstruction](756e-exceptions-for-lower-manhattan-reconstruction.md)
+- [§ 756-F Wage theft prevention and enforcement](756f-wage-theft-prevention-and-enforcement.md)
 - [§ 757 Void provisions](757-void-provisions.md)
 - [§ 758 Severability](758-severability.md)
 
@@ -26,6 +27,7 @@ Section 756.   Definitions.
         756-c. Retention.
         756-d. Exceptions for failure of lender to disburse funds.
         756-e. Exceptions for lower Manhattan reconstruction.
+        756-f. Wage theft prevention and enforcement.
         757.   Void provisions.
         758.   Severability.
 ```

@@ -18,7 +18,6 @@
 - [§ 12 Forfeiture of commodities exposed for sale on Sunday](12-forfeiture-of-commodities-exposed-for-sale-on-sunday.md)
 - [§ 13 Maliciously serving process on Saturday on person who keeps Saturday as holy time](13-maliciously-serving-process-on-saturday-on-person-who-keeps-saturday-as-holy.md)
 - [§ 14 Processions and parades on Sunday](14-processions-and-parades-on-sunday.md)
-- [§ 16 Barbering on Sunday](16-barbering-on-sunday.md) *(repealed)*
 - [§ 17 Days of rest and recreation](17-days-of-rest-and-recreation.md)
 
 <details>

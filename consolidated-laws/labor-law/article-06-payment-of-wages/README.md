@@ -26,6 +26,7 @@
 - [§ 198-B "Kick-back" of wages prohibited](198b-kick-back-of-wages-prohibited.md)
 - [§ 198-C Benefits or wage supplements](198c-benefits-or-wage-supplements.md)
 - [§ 198-D Posting regulations on illegal wage deductions](198d-posting-regulations-on-illegal-wage-deductions.md)
+- [§ 198-E Construction industry wage theft](198e-construction-industry-wage-theft.md)
 - [§ 199 Rules and regulations](199-rules-and-regulations.md)
 - [§ 199-A Notification of process](199a-notification-of-process.md)
 
@@ -57,6 +58,7 @@ Section 190.   Definitions.
         198-b. "Kick-back" of wages prohibited.
         198-c. Benefits or wage supplements.
         198-d. Posting regulations on illegal wage deductions.
+        198-e. Construction industry wage theft.
         199.   Rules and regulations.
         199-a. Notification of process.
 ```
