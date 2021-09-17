@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 10 Sep 2021.*
+*Current through the publication of 17 Sep 2021.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [17 Sep 2021](changes/2021/2021-09-17.md): Executive Law; Public Health Law; Retirement and Social Security Law
 - [10 Sep 2021](changes/2021/2021-09-10.md): Agriculture and Markets Law; Arts and Cultural Affairs Law; Education Law; Environmental Conservation Law; General Business Law; Highway Law; Labor Law; Public Officers Law; Real Property Tax Law; Social Services Law; Vehicle and Traffic Law
 - [3 Sep 2021](changes/2021/2021-09-03.md): Agriculture and Markets Law; Correction Law; Criminal Procedure Law; Education Law; Election Law; Environmental Conservation Law; Executive Law; Highway Law; Mental Hygiene Law; Penal Law; Public Health Law; Tax Law; Vehicle and Traffic Law
 - [27 Aug 2021](changes/2021/2021-08-27.md): Civil Service Law; Domestic Relations Law; General Municipal Law; Highway Law; Insurance Law; Mental Hygiene Law; Tax Law; Vehicle and Traffic Law
@@ -22,20 +23,19 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [13 Aug 2021](changes/2021/2021-08-13.md): Civil Practice Law and Rules; Civil Rights Law; Civil Service Law; Correction Law; County Law; Court of Claims Act; Criminal Procedure Law; Defense Emergency Act of 1951; Education Law; Election Law; Environmental Conservation Law; Executive Law; General Business Law; General Municipal Law; Labor Law; Mental Hygiene Law; New York City Criminal Court Act; Penal Law; Public Buildings Law; Public Health Law; Public Officers Law; Retirement and Social Security Law; Social Services Law; State Finance Law; Surrogate's Court Procedure Act; Tax Law; Transportation Law; Vehicle and Traffic Law; Workers' Compensation Law
 - [6 Aug 2021](changes/2021/2021-08-06.md): Abandoned Property Law; Agriculture and Markets Law; Alcoholic Beverage Control Law; Banking Law; Civil Practice Law and Rules; Civil Service Law; Correction Law; Criminal Procedure Law; Debtor and Creditor Law; Domestic Relations Law; Education Law; Environmental Conservation Law; Executive Law; General City Law; General Construction Law; General Municipal Law; Highway Law; Insurance Law; Labor Law; Mental Hygiene Law; New York City Civil Court Act; Not-for-Profit Corporation Law; Public Authorities Law; Public Health Law; Public Officers Law; Public Service Law; Racing, Pari-Mutuel Wagering and Breeding Law; Real Property Actions and Proceedings Law; Real Property Law; Real Property Tax Law; Retirement and Social Security Law; Social Services Law; State Law; Tax Law; Uniform City Court Act; Uniform District Court Act; Uniform Justice Court Act; Vehicle and Traffic Law; Village Law
 - [30 Jul 2021](changes/2021/2021-07-30.md): Agriculture and Markets Law; Alcoholic Beverage Control Law; Civil Practice Law and Rules; Correction Law; Domestic Relations Law; Education Law; Elder Law; Election Law; Environmental Conservation Law; Executive Law; Financial Services Law; General Municipal Law; Highway Law; Insurance Law; Judiciary Law; Labor Law; Local Finance Law; Penal Law; Private Housing Finance Law; Public Authorities Law; Public Health Law; Public Officers Law; Racing, Pari-Mutuel Wagering and Breeding Law; Retirement and Social Security Law; Social Services Law; State Finance Law; Town Law; Village Law
-- [16 Jul 2021](changes/2021/2021-07-16.md): General Business Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | 212 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 215 |
 | [Racing, Pari-Mutuel Wagering and Breeding Law](consolidated-laws/racing-pari-mutuel-wagering-and-breeding-law/README.md) | 200 |
 | [Correction Law](consolidated-laws/correction-law/README.md) | 192 |
-| [Education Law](consolidated-laws/education-law/README.md) | 143 |
+| [Education Law](consolidated-laws/education-law/README.md) | 142 |
 | [Tax Law](consolidated-laws/tax-law/README.md) | 137 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 111 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 112 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 103 |
-| [Labor Law](consolidated-laws/labor-law/README.md) | 100 |
+| [Labor Law](consolidated-laws/labor-law/README.md) | 98 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | 94 |
 | [Family Court Act](court-acts/family-court-act/README.md) | 80 |
 | [Penal Law](consolidated-laws/penal-law/README.md) | 79 |
@@ -76,7 +76,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Energy Law](consolidated-laws/energy-law/README.md) | ENG | 67 | 24 Apr 2020 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,792 | 10 Sep 2021 |
 | [Estates, Powers and Trusts Law](consolidated-laws/estates-powers-and-trusts-law/README.md) | EPT | 361 | 19 Feb 2021 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 920 | 3 Sep 2021 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 920 | 17 Sep 2021 |
 | [Financial Services Law](consolidated-laws/financial-services-law/README.md) | FIS | 59 | 30 Jul 2021 |
 | [General Associations Law](consolidated-laws/general-associations-law/README.md) | GAS | 24 | 23 Apr 2021 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | GBS | 1,269 | 10 Sep 2021 |
@@ -109,7 +109,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Private Housing Finance Law](consolidated-laws/private-housing-finance-law/README.md) | PVH | 434 | 20 Aug 2021 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | PBA | 3,169 | 6 Aug 2021 |
 | [Public Buildings Law](consolidated-laws/public-buildings-law/README.md) | PBB | 54 | 13 Aug 2021 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,714 | 3 Sep 2021 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,714 | 17 Sep 2021 |
 | [Public Housing Law](consolidated-laws/public-housing-law/README.md) | PBG | 331 | 4 Jun 2021 |
 | [Public Lands Law](consolidated-laws/public-lands-law/README.md) | PBL | 78 | 20 Dec 2019 |
 | [Public Officers Law](consolidated-laws/public-officers-law/README.md) | PBO | 115 | 10 Sep 2021 |
@@ -121,7 +121,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Real Property Law](consolidated-laws/real-property-law/README.md) | RPP | 423 | 6 Aug 2021 |
 | [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | RPT | 773 | 10 Sep 2021 |
 | [Religious Corporations Law](consolidated-laws/religious-corporations-law/README.md) | RCO | 337 | 9 Apr 2021 |
-| [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | RSS | 551 | 13 Aug 2021 |
+| [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | RSS | 551 | 17 Sep 2021 |
 | [Rural Electric Cooperative Law](consolidated-laws/rural-electric-cooperative-law/README.md) | REL | 46 | 9 Jul 2021 |
 | [Second Class Cities Law](consolidated-laws/second-class-cities-law/README.md) | SCC | 147 | 11 Jan 2019 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | SOS | 704 | 10 Sep 2021 |

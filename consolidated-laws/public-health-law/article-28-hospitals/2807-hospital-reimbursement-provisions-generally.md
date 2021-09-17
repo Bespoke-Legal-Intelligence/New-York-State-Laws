@@ -884,7 +884,7 @@ reimbursement programs for general hospital outpatient services and
 diagnostic and treatment center services that would be prospective and
 associated to the resource use patterns in rendering ambulatory care
 services.
-  * NB Expires April 1, 2020
+  * NB Expired April 1, 2020
   12. (a) Notwithstanding any inconsistent provision of this article or
 any other law, for the purpose of improving access to and availability
 of comprehensive primary health care to persons receiving medical

@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 7 — Miscellaneous Provisions](README.md)
 
 ```text
-  * § 170-e. Disclosure of lawful source of income rights to prospective
+  § 170-e. Disclosure of lawful source of income rights to prospective
 tenants. The division of human rights shall promulgate regulations
 requiring any state, county, municipal or other governmental entity,
 including but not limited to the division of housing and community
@@ -19,5 +19,4 @@ and are eligible to receive such assistance, payment, subsidy or credit
 are informed, in writing, of their rights and remedies available under
 law, with regard to lawful source of income discrimination pursuant to
 this section.
-  * NB Effective September 14, 2021
 ```
