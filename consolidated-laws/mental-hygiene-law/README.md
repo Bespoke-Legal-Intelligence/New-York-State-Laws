@@ -8,7 +8,7 @@
 | Senate code | MHY |
 | Type | Consolidated law, chapter 27 |
 | Sections | 493 |
-| Last changed | 3 Sep 2021 |
+| Last changed | 24 Sep 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Mental Hygiene |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [24 Sep 2021](../../changes/2021/2021-09-24.md): 1 amended
 - [3 Sep 2021](../../changes/2021/2021-09-03.md): 1 amended
 - [27 Aug 2021](../../changes/2021/2021-08-27.md): 2 amended
 - [13 Aug 2021](../../changes/2021/2021-08-13.md): 5 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [23 Apr 2021](../../changes/2021/2021-04-23.md): 14 amended, 4 added, 2 removed
 - [12 Mar 2021](../../changes/2021/2021-03-12.md): 1 amended
 - [5 Mar 2021](../../changes/2021/2021-03-05.md): 1 repealed
-- [19 Feb 2021](../../changes/2021/2021-02-19.md): 1 amended, 1 repealed
 
 ## Contents
 

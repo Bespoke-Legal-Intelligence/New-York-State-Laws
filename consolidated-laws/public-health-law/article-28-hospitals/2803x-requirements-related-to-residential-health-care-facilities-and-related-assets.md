@@ -27,7 +27,7 @@ to the undepreciated value of capital assets for which the provider has
 been funded or reimbursed through Medicaid rate adjustments or otherwise
 funded or reimbursed with resources provided by the state for the
 purpose of improvement or transformation.
-  * NB Effective October 21, 2021
+  * NB Effective until October 21, 2021
   * § 2803-x. Requirements related to nursing homes and related assets
 and operations. 1. The operator of a nursing home shall notify the
 commissioner of any common or familial ownership of any corporation,
