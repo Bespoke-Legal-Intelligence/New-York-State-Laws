@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 24 Sep 2021.*
+*Current through the publication of 1 Oct 2021.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [1 Oct 2021](changes/2021/2021-10-01.md): Family Court Act; Social Services Law
 - [24 Sep 2021](changes/2021/2021-09-24.md): Executive Law; General Business Law; General Obligations Law; Mental Hygiene Law; Penal Law; Public Health Law
 - [17 Sep 2021](changes/2021/2021-09-17.md): Executive Law; Public Health Law; Retirement and Social Security Law
 - [10 Sep 2021](changes/2021/2021-09-10.md): Agriculture and Markets Law; Arts and Cultural Affairs Law; Education Law; Environmental Conservation Law; General Business Law; Highway Law; Labor Law; Public Officers Law; Real Property Tax Law; Social Services Law; Vehicle and Traffic Law
@@ -22,26 +23,25 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [27 Aug 2021](changes/2021/2021-08-27.md): Civil Service Law; Domestic Relations Law; General Municipal Law; Highway Law; Insurance Law; Mental Hygiene Law; Tax Law; Vehicle and Traffic Law
 - [20 Aug 2021](changes/2021/2021-08-20.md): Correction Law; Private Housing Finance Law; Public Health Law
 - [13 Aug 2021](changes/2021/2021-08-13.md): Civil Practice Law and Rules; Civil Rights Law; Civil Service Law; Correction Law; County Law; Court of Claims Act; Criminal Procedure Law; Defense Emergency Act of 1951; Education Law; Election Law; Environmental Conservation Law; Executive Law; General Business Law; General Municipal Law; Labor Law; Mental Hygiene Law; New York City Criminal Court Act; Penal Law; Public Buildings Law; Public Health Law; Public Officers Law; Retirement and Social Security Law; Social Services Law; State Finance Law; Surrogate's Court Procedure Act; Tax Law; Transportation Law; Vehicle and Traffic Law; Workers' Compensation Law
-- [6 Aug 2021](changes/2021/2021-08-06.md): Abandoned Property Law; Agriculture and Markets Law; Alcoholic Beverage Control Law; Banking Law; Civil Practice Law and Rules; Civil Service Law; Correction Law; Criminal Procedure Law; Debtor and Creditor Law; Domestic Relations Law; Education Law; Environmental Conservation Law; Executive Law; General City Law; General Construction Law; General Municipal Law; Highway Law; Insurance Law; Labor Law; Mental Hygiene Law; New York City Civil Court Act; Not-for-Profit Corporation Law; Public Authorities Law; Public Health Law; Public Officers Law; Public Service Law; Racing, Pari-Mutuel Wagering and Breeding Law; Real Property Actions and Proceedings Law; Real Property Law; Real Property Tax Law; Retirement and Social Security Law; Social Services Law; State Law; Tax Law; Uniform City Court Act; Uniform District Court Act; Uniform Justice Court Act; Vehicle and Traffic Law; Village Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | 215 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 214 |
 | [Racing, Pari-Mutuel Wagering and Breeding Law](consolidated-laws/racing-pari-mutuel-wagering-and-breeding-law/README.md) | 200 |
 | [Correction Law](consolidated-laws/correction-law/README.md) | 192 |
-| [Education Law](consolidated-laws/education-law/README.md) | 142 |
+| [Education Law](consolidated-laws/education-law/README.md) | 138 |
 | [Tax Law](consolidated-laws/tax-law/README.md) | 137 |
 | [Executive Law](consolidated-laws/executive-law/README.md) | 113 |
-| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 103 |
+| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 102 |
+| [Social Services Law](consolidated-laws/social-services-law/README.md) | 100 |
 | [Labor Law](consolidated-laws/labor-law/README.md) | 98 |
-| [Social Services Law](consolidated-laws/social-services-law/README.md) | 94 |
+| [Family Court Act](court-acts/family-court-act/README.md) | 90 |
 | [Penal Law](consolidated-laws/penal-law/README.md) | 81 |
-| [Family Court Act](court-acts/family-court-act/README.md) | 80 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 68 |
-| [Highway Law](consolidated-laws/highway-law/README.md) | 62 |
 | [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 62 |
+| [Highway Law](consolidated-laws/highway-law/README.md) | 61 |
 | [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | 57 |
 
 ## Consolidated Laws
@@ -124,7 +124,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | RSS | 551 | 17 Sep 2021 |
 | [Rural Electric Cooperative Law](consolidated-laws/rural-electric-cooperative-law/README.md) | REL | 46 | 9 Jul 2021 |
 | [Second Class Cities Law](consolidated-laws/second-class-cities-law/README.md) | SCC | 147 | 11 Jan 2019 |
-| [Social Services Law](consolidated-laws/social-services-law/README.md) | SOS | 704 | 10 Sep 2021 |
+| [Social Services Law](consolidated-laws/social-services-law/README.md) | SOS | 704 | 1 Oct 2021 |
 | [Soil and Water Conservation Districts Law](consolidated-laws/soil-and-water-conservation-districts-law/README.md) | SWC | 18 | 20 Apr 2018 |
 | [State Administrative Procedure Act](consolidated-laws/state-administrative-procedure-act/README.md) | SAP | 31 | 24 Apr 2020 |
 | [State Finance Law](consolidated-laws/state-finance-law/README.md) | STF | 553 | 13 Aug 2021 |
@@ -184,7 +184,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | Law | Code | Sections | Last changed |
 |---|---|---:|---|
 | [Court of Claims Act](court-acts/court-of-claims-act/README.md) | CTC | 35 | 13 Aug 2021 |
-| [Family Court Act](court-acts/family-court-act/README.md) | FCT | 692 | 2 Jul 2021 |
+| [Family Court Act](court-acts/family-court-act/README.md) | FCT | 692 | 1 Oct 2021 |
 | [New York City Civil Court Act](court-acts/new-york-city-civil-court-act/README.md) | CCA | 158 | 6 Aug 2021 |
 | [New York City Criminal Court Act](court-acts/new-york-city-criminal-court-act/README.md) | CRC | 33 | 13 Aug 2021 |
 | [Surrogate's Court Procedure Act](court-acts/surrogates-court-procedure-act/README.md) | SCP | 386 | 13 Aug 2021 |

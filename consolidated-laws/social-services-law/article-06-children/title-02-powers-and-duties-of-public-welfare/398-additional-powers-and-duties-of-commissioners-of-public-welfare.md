@@ -250,8 +250,8 @@ care and custody or its custody and guardianship in a federally funded
 job corps program and may receive reimbursement for the approved costs
 of appropriate program administration and supervision pursuant to a plan
 developed by the department and approved by the director of the budget.
-  * NB Effective until September 29, 2021 if certain conditions are met
-(see chapter 56 of 2021, Part L, § 17 sb (a))
+  * NB Effective until certain conditions are met (see chapter 56 of
+2021, Part L, § 17 sb (a))
   * (1) Place children in its care and custody or its custody and
 guardianship, in suitable instances, in supervised settings, family
 homes, agency boarding homes, group homes or institutions under the
@@ -285,8 +285,8 @@ custody or its custody and guardianship in a federally funded job corps
 program and may receive reimbursement for the approved costs of
 appropriate program administration and supervision pursuant to a plan
 developed by the department and approved by the director of the budget.
-  * NB Effective September 29, 2021 if certain conditions are met (see
-chapter 56 of 2021, Part L, § 17 sb (a))
+  * NB Effective when certain conditions are met (see chapter 56 of
+2021, Part L, § 17 sb (a))
   (2) A social services district may place a child in its care and
 custody or its custody and guardianship in a home or facility operated
 or licensed by any office of the department of mental hygiene, subject
@@ -457,8 +457,8 @@ behalf of said child had the child been cared for in a foster family
 boarding home, to such college or university in lieu of payment to the
 foster parents or authorized agency, for the purpose of room and board,
 if not otherwise provided.
-  * NB Effective until September 29, 2021 if certain conditions are met
-(see chapter 56 of 2021, Part L, § 17 sb (a))
+  * NB Effective until certain conditions are met (see chapter 56 of
+2021, Part L, § 17 sb (a))
   * 10. Any provision of this chapter or any other law notwithstanding,
 where a foster child for whom a social services official has been making
 foster care payments is in attendance at a college or university away
@@ -471,8 +471,8 @@ appropriate, in lieu of payment to the foster parents or authorized
 agency, for the purpose of room and board, if not otherwise provided.
 Such rate shall be no lower than the rate paid for a child's care in a
 foster family boarding home.
-  * NB Effective September 29, 2021 if certain conditions are met (see
-chapter 56 of 2021, Part L, § 17 sb (a))
+  * NB Effective when certain conditions are met (see chapter 56 of
+2021, Part L, § 17 sb (a))
   11. In the case of a child who is adjudicated a person in need of
 supervision or a juvenile delinquent and is placed by the family court
 with the division for youth and who is placed by the division for youth

@@ -102,6 +102,6 @@ role in case management or case planning decision making authority for
 the child for whom such assessment is being conducted, in accordance
 with 42 United States Code sections 672 and 675a and the state's
 approved title IV-E state plan.
-  * NB Effective September 29, 2021 if certain conditions are met (see
-chapter 56 of 2021, Part L, § 17 sb (a))
+  * NB Effective when certain conditions are met (see chapter 56 of
+2021, Part L, § 17 sb (a))
 ```

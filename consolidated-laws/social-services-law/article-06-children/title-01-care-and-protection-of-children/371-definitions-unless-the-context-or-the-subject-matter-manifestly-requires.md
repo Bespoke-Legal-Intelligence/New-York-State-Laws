@@ -205,8 +205,8 @@ supervised setting includes, but is not limited to, placement in a
 supervised independent living program, as defined in subdivision
 twenty-one of this section.
   * NB There are 2 sb 22's
-  * NB Effective September 29, 2021 if certain conditions are met (see
-chapter 56 of 2021, Part L, § 17 sb (a))
+  * NB Effective when certain conditions are met (see chapter 56 of
+2021, Part L, § 17 sb (a))
   * 22. "Kinship caregiver" means a relative or non-relative who is
 acting as a parent and who:
   (a) is related to the child through blood, marriage or adoption;
