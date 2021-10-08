@@ -275,7 +275,6 @@ forfeitures paid to a city, town or village pursuant to the provisions
 of this subdivision shall be credited to the general fund of such city,
 town or village, unless a different disposition is prescribed by
 charter, special law, local law or ordinance.
-  * NB Effective October 6, 2021
   * NB Repealed October 6, 2026
   * 12. Except as otherwise provided in paragraph e of subdivision one
 of this section, where the chair of the New York state thruway authority
@@ -315,6 +314,5 @@ paid to a city, town or village pursuant to the provisions of this
 subdivision shall be credited to the general fund of such city, town or
 village, unless a different disposition is prescribed by charter,
 special law, local law or ordinance.
-  * NB Effective October 6, 2021
   * NB Repealed October 6, 2026
 ```

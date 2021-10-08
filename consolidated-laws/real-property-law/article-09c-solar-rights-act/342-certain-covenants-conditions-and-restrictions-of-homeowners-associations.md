@@ -4,9 +4,9 @@
 [Real Property Law](../README.md) › [Article 9-C — Solar Rights Act](README.md)
 
 ```text
-  * § 342. Certain covenants, conditions, and restrictions of
-homeowners' associations prohibited. 1. Definitions. For the purposes of
-this section:
+  § 342. Certain covenants, conditions, and restrictions of homeowners'
+associations prohibited. 1. Definitions. For the purposes of this
+section:
   (a) "restriction on use" means any covenant, restriction, or condition
 contained in:
   (i) a deed;
@@ -45,5 +45,4 @@ homeowners' association's concerns, if applicable.
 local, state or federal law, rule or regulation on health and safety
 standards and those requirements imposed by state and local permitting
 authorities.
-  * NB Effective October 1, 2021
 ```

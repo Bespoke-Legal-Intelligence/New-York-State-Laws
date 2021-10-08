@@ -8,7 +8,7 @@
 | Senate code | PBH |
 | Type | Consolidated law, chapter 45 |
 | Sections | 1,714 |
-| Last changed | 24 Sep 2021 |
+| Last changed | 8 Oct 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Health |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [8 Oct 2021](../../changes/2021/2021-10-08.md): 2 amended
 - [24 Sep 2021](../../changes/2021/2021-09-24.md): 1 amended
 - [17 Sep 2021](../../changes/2021/2021-09-17.md): 3 amended
 - [3 Sep 2021](../../changes/2021/2021-09-03.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [30 Jul 2021](../../changes/2021/2021-07-30.md): 2 amended, 2 added
 - [9 Jul 2021](../../changes/2021/2021-07-09.md): 4 amended
 - [2 Jul 2021](../../changes/2021/2021-07-02.md): 8 amended
-- [25 Jun 2021](../../changes/2021/2021-06-25.md): 1 amended, 1 added
 
 ## Contents
 

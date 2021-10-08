@@ -11,11 +11,10 @@
 <summary>Official heading of Article 9-C, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              * ARTICLE 9-C
+                               ARTICLE 9-C
                             SOLAR RIGHTS ACT
 Section 342. Certain covenants, conditions, and restrictions of
                homeowners' associations prohibited.
-  * NB Effective October 1, 2021
 ```
 
 </details>

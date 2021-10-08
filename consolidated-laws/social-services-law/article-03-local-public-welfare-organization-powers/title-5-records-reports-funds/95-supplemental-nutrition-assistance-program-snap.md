@@ -185,4 +185,16 @@ the form in consultation with food stamp outreach organizations and
 consider how the form may be used to reach as many potential applicants
 as possible, especially those over sixty years of age and those who are
 employed.
+  * 11. (a) Notwithstanding any other provision of law to the contrary,
+the office shall establish a statewide restaurant meals program as part
+of SNAP. Under the restaurant meals program, households containing
+elderly or disabled members, and their spouses, as defined in 7 U.S.C.
+2012(j), or homeless individuals, as defined in 7 U.S.C. 2012(l), shall
+have the option in accordance with 7 U.S.C. 2012(k) to redeem their SNAP
+benefits at private establishments that contract with the office to
+offer meals for eligible individuals at concessional prices subject to 7
+U.S.C. 2018(h).
+  (b) The office shall adopt any rules necessary to implement the
+provisions of this subdivision.
+  * NB Effective January 1, 2021
 ```

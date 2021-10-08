@@ -12,11 +12,10 @@
 <summary>Official heading of Article 36, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE XXXVI
+                              ARTICLE XXXVI
             ADDICTION AND MENTAL HEALTH SERVICES AND SUPPORTS
 Section 36.01 Crisis stabilization centers.
         36.02 Referral to crisis stabilization centers.
-  * NB Effective October 1, 2021
 ```
 
 </details>
