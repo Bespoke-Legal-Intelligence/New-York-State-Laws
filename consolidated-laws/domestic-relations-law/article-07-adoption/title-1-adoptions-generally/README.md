@@ -11,6 +11,7 @@
 - [§ 111-A Notice in certain proceedings to fathers of children born out-of-wedlock](111a-notice-in-certain-proceedings-to-fathers-of-children-born-out-of-wedlock.md)
 - [§ 111-B Determination of issue of paternity by surrogate; limitations](111b-determination-of-issue-of-paternity-by-surrogate-limitations.md)
 - [§ 111-C Adoption order from foreign country or foreign jurisdiction](111c-adoption-order-from-foreign-country-or-foreign-jurisdiction.md)
+- [§ 111-D Consideration of blindness during adoption proceedings](111d-consideration-of-blindness-during-adoption-proceedings.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -27,6 +28,7 @@ Section 109.   Definitions.
                  limitations.
         111-c. Adoption order from foreign country or foreign
                  jurisdiction.
+        111-d. Consideration of blindness during adoption proceedings.
 ```
 
 </details>

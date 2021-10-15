@@ -74,22 +74,25 @@ opportunities. For the purposes of this paragraph, "affordable housing"
 shall mean housing opportunities exclusively for town residents of the
 towns whose income is at or below the median income for the town.
   3. (a) In the towns of East Hampton, Shelter Island and Southampton,
-an exemption of two hundred fifty thousand dollars shall be allowed on
-the consideration of the conveyance of improved real property or an
-interest therein and an exemption of one hundred thousand dollars shall
-be allowed on the consideration of the conveyance of unimproved real
+an exemption of four hundred thousand dollars shall be allowed on the
+consideration of the conveyance of improved real property or an interest
+therein and an exemption of one hundred thousand dollars shall be
+allowed on the consideration of the conveyance of unimproved real
 property.
-  (b) In the towns of Riverhead and Southold, an exemption of one
-hundred fifty thousand dollars shall be allowed on the consideration of
-the conveyance of improved real property or an interest therein and an
+  (b) In the towns of Riverhead and Southold, an exemption of two
+hundred thousand dollars shall be allowed on the consideration of the
+conveyance of improved real property or an interest therein and an
 exemption of seventy-five thousand dollars shall be allowed on the
 consideration of the conveyance of unimproved real property.
+  (c) The exemption granted pursuant to the provisions of this
+subdivision shall only apply to conveyances for residential property
+where the consideration is two million dollars or less.
   4. Primary residential property purchased by one or more persons, each
 of whom is a first-time homebuyer shall be exempt from the payment of
 the real estate transfer tax, in the towns of Southampton, East Hampton,
 Shelter Island and Southold, provided that:
-  (a)(1) in the towns of Southampton, East Hampton and Shelter Island,
-the primary residential property is within one hundred twenty percent of
+  (a) (1) in the towns of Southampton, East Hampton and Shelter Island,
+the primary residential property is within one hundred fifty percent of
 the purchase price limits defined by the state of New York mortgage
 agency low interest rate mortgage program in the non-target one family
 categories for Suffolk county in effect on the contract date for the

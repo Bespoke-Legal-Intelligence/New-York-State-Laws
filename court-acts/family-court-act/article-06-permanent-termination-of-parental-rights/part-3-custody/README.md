@@ -13,6 +13,7 @@
 - [§ 656 Order of protection](656-order-of-protection.md)
 - [§ 656-A Firearms; surrender and license suspension, revocation and ineligibility](656a-firearms-surrender-and-license-suspension-revocation-and-ineligibility.md)
 - [§ 657 Certain provisions relating to the guardianship and custody of children by persons who are not the parents of such children](657-certain-provisions-relating-to-the-guardianship-and-custody-of-children.md)
+- [§ 658 Consideration of blindness during guardianship, custody or visitation proceedings](658-consideration-of-blindness-during-guardianship-custody-or-visitation.md)
 
 <details>
 <summary>Official heading of Part 3, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -33,6 +34,8 @@ Section 651.   Jurisdiction over habeas corpus proceedings and petitions
         657.   Certain provisions relating to the guardianship and
                  custody of children by persons who are not the parents
                  of such children.
+        658.   Consideration of blindness during guardianship, custody
+                 or visitation proceedings.
 ```
 
 </details>

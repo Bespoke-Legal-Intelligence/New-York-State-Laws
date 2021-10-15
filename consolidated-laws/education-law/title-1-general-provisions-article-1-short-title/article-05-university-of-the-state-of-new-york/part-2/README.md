@@ -26,6 +26,7 @@
 - [§ 260-A Meetings of board of trustees](260a-meetings-of-board-of-trustees.md)
 - [§ 260-B Reduction of salaries for purchase of annuities](260b-reduction-of-salaries-for-purchase.md)
 - [§ 260-C Reduction of salaries for tax-deferred annuities](260c-reduction-of-salaries-for-tax.md)
+- [§ 260-D Board of trustees continuing education](260d-board-of-trustees-continuing.md)
 - [§ 261 Incorporation](261-incorporation.md)
 - [§ 262 Use of public and Indian libraries](262-use-of-public-and-indian-libraries.md)
 - [§ 263 Reports](263-reports.md)

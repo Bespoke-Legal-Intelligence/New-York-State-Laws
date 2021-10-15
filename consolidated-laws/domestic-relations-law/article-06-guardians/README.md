@@ -9,7 +9,6 @@
 - [§ 81 Appointment of guardians by parent](81-appointment-of-guardians-by-parent.md)
 - [§ 82 Powers and duties of such guardians](82-powers-and-duties-of-such-guardians.md)
 - [§ 83 Duties and liabilities of all general guardians](83-duties-and-liabilities-of-all-general-guardians.md)
-- [§ 84 Guardianship of a married minor](84-guardianship-of-a-married-minor.md) *(repealed)*
 - [§ 85 Investment of trust funds by guardian](85-investment-of-trust-funds-by-guardian.md)
 
 <details>

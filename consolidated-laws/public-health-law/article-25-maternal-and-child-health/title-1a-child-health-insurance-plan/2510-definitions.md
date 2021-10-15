@@ -64,16 +64,16 @@ optometrists, nurses, nurse practitioners, midwives and other related
 professional personnel which are provided on an outpatient basis,
 including routine well-child visits; diagnosis and treatment of illness
 and injury; inpatient health care services; laboratory tests; diagnostic
-x-rays; prescription and non-prescription drugs and durable medical
-equipment; radiation therapy; chemotherapy; hemodialysis; outpatient
-blood clotting factor products and other treatments and services
-furnished in connection with the care of hemophilia and other blood
-clotting protein deficiencies; emergency room services; hospice
-services; emergency, preventive and routine dental care, including
-medically necessary orthodontia but excluding cosmetic surgery;
-emergency, preventive and routine vision care, including eyeglasses;
-speech and hearing services; and, inpatient and outpatient mental
-health, alcohol and substance abuse services as defined by the
+x-rays; prescription and non-prescription drugs, ostomy supplies and
+durable medical equipment; radiation therapy; chemotherapy;
+hemodialysis; outpatient blood clotting factor products and other
+treatments and services furnished in connection with the care of
+hemophilia and other blood clotting protein deficiencies; emergency room
+services; hospice services; emergency, preventive and routine dental
+care, including medically necessary orthodontia but excluding cosmetic
+surgery; emergency, preventive and routine vision care, including
+eyeglasses; speech and hearing services; and, inpatient and outpatient
+mental health, alcohol and substance abuse services as defined by the
 commissioner in consultation with the superintendent. "Covered health
 care services" shall not include drugs, procedures and supplies for the
 treatment of erectile dysfunction when provided to, or prescribed for

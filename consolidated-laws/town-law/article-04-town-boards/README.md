@@ -25,6 +25,7 @@
 - [§ 64-I Town of Chatham preservation funds](64i-town-of-chatham-preservation-funds.md)
 - [§ 64-I\*2 Town of Fishkill preservation funds](64i-2-town-of-fishkill-preservation-funds.md)
 - [§ 64-J Town of Northeast preservation funds](64j-town-of-northeast-preservation-funds.md)
+- [§ 64-K Peconic Bay region community housing fund](64k-peconic-bay-region-community-housing-fund.md)
 - [§ 65 Actions and proceedings by and against towns](65-actions-and-proceedings-by-and-against-towns.md)
 - [§ 65-A Liability of towns and town superintendents of highways in certain actions](65a-liability-of-towns-and-town-superintendents-of-highways-in-certain-actions.md)
 - [§ 66 Place of trial of actions and proceedings against towns; inhabitants not incompetent to act thereat](66-place-of-trial-of-actions-and-proceedings-against-towns-inhabitants-not.md)
@@ -61,6 +62,7 @@ Section 60.     Town board constituted.
         64-i.   Town of Chatham preservation funds.
         64-i*2. Town of Fishkill preservation funds.
         64-j.   Town of Northeast preservation funds.
+        64-k.   Peconic Bay region community housing fund.
         65.     Actions and proceedings by and against towns.
         65-a.   Liability of towns and town superintendents of highways
                   in certain actions.

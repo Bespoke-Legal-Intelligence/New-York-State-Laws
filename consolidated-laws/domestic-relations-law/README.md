@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | DOM |
 | Type | Consolidated law, chapter 14 |
-| Sections | 172 (2 repealed) |
-| Last changed | 27 Aug 2021 |
+| Sections | 173 |
+| Last changed | 15 Oct 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Domestic Relations |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [15 Oct 2021](../../changes/2021/2021-10-15.md): 3 added, 2 removed
 - [27 Aug 2021](../../changes/2021/2021-08-27.md): 6 amended, 1 repealed
 - [6 Aug 2021](../../changes/2021/2021-08-06.md): 3 amended
 - [30 Jul 2021](../../changes/2021/2021-07-30.md): 7 amended
@@ -40,7 +41,6 @@ Assembly, do enact as follows:
 - [9 Oct 2020](../../changes/2020/2020-10-09.md): 1 amended
 - [8 May 2020](../../changes/2020/2020-05-08.md): 1 amended
 - [1 May 2020](../../changes/2020/2020-05-01.md): 1 amended
-- [24 Apr 2020](../../changes/2020/2020-04-24.md): 2 amended
 
 ## Contents
 

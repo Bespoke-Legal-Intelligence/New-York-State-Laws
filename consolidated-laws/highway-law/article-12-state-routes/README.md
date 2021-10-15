@@ -335,6 +335,12 @@
 - [§ 344-M\*11 Portion of the state highway system to be designated as the "Detective Betsy Horner-Miller Cutrone Memorial Bridge"](344m-11-portion-of-the-state-highway-system-to-be-designated-as-the-detective-betsy.md)
 - [§ 344-M\*12 Portion of the state highway system to be designated as the "Rockland County Clerk Paul Piperato Memorial Highway"](344m-12-portion-of-the-state-highway-system-to-be-designated-as-the-rockland-county.md)
 - [§ 344-M\*13 Portion of the state highway system to be designated and known as the "State Trooper Jose A](344m-13-portion-of-the-state-highway-system-to-be-designated-and-known-as-the-state.md)
+- [§ 344-M\*14 Portion of state highway system to be designated as the "Atomic Veterans Memorial Bridge"](344m-14-portion-of-state-highway-system-to-be-designated-as-the-atomic-veterans-memorial.md)
+- [§ 344-M\*15 Portion of the state highway system to be designated as the "Ulster County Korean War Veterans' Memorial Highway"](344m-15-portion-of-the-state-highway-system-to-be-designated-as-the-ulster-county-korean.md)
+- [§ 344-M\*16 Portion of the state highway system to be designated as the "SP4 C](344m-16-portion-of-the-state-highway-system-to-be-designated-as-the-sp4-c.md)
+- [§ 344-M\*17 Portion of the state highway system to be designated as the "CPL Gerald B](344m-17-portion-of-the-state-highway-system-to-be-designated-as-the-cpl-gerald-b.md)
+- [§ 344-M\*18 Portion of the state highway system to be designated and known as the "Sgt](344m-18-portion-of-the-state-highway-system-to-be-designated-and-known-as-the-sgt.md)
+- [§ 344-M\*19 Portion of the state highway system to be designated and known as the "Staff Sergeant Peter J](344m-19-portion-of-the-state-highway-system-to-be-designated-and-known-as-the-staff.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 
 <details>
@@ -1115,6 +1121,21 @@ Section 340-a.     Designation of state interstate routes.
                      Memorial Highway".
         344-m*13.  Portion of the state highway system to be designated
                      and known as the "State Trooper Jose A. Rosado
+                     Memorial Bridge".
+        344-m*14.  Portion of state highway system to be designated as
+                     the "Atomic Veterans Memorial Bridge".
+        344-m*15.  Portion of the state highway system to be designated
+                     as the "Ulster County Korean War Veterans' Memorial
+                     Highway".
+        344-m*16.  Portion of the state highway system to be designated
+                     as the "SP4 C. Jay Hall Memorial Highway".
+        344-m*17.  Portion of the state highway system to be designated
+                     as the "CPL Gerald B. Ramsey Memorial Highway".
+        344-m*18.  Portion of the state highway system to be designated
+                     and known as the "Sgt. Daniel J. Murtha Memorial
+                     Bridge".
+        344-m*19.  Portion of the state highway system to be designated
+                     and known as the "Staff Sergeant Peter J. Blidy
                      Memorial Bridge".
         345-a.     Abandonment and transfer of state highways.
 ```

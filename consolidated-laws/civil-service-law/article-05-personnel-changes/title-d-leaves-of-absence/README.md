@@ -7,6 +7,7 @@
 
 - [§ 82-A Authorized absence](82a-authorized-absence.md)
 - [§ 82-B Emergency service volunteers; paid leave](82b-emergency-service-volunteers-paid-leave.md)
+- [§ 82-C Civil air patrol volunteers; paid leave](82c-civil-air-patrol-volunteers-paid-leave.md)
 
 <details>
 <summary>Official heading of Title D, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -16,6 +17,7 @@
                             LEAVES OF ABSENCE
 Section 82-a. Authorized absence.
         82-b. Emergency service volunteers; paid leave.
+        82-c. Civil air patrol volunteers; paid leave.
 ```
 
 </details>

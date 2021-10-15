@@ -16,6 +16,7 @@
 - [§ 214-D Human trafficking awareness](214d-human-trafficking-awareness.md)
 - [§ 214-E Cardiopulmonary resuscitation training and retraining](214e-cardiopulmonary-resuscitation-training-and-retraining.md)
 - [§ 214-F Emergency situations involving people with autism spectrum disorder and other developmental disabilities](214f-emergency-situations-involving-people-with-autism-spectrum-disorder-and-other.md)
+- [§ 214-G Opioid antagonist awareness](214g-opioid-antagonist-awareness.md)
 - [§ 215 Organization; salaries; qualifications; appointment; term; rules and regulations](215-organization-salaries-qualifications-appointment-term-rules-and-regulations.md)
 - [§ 216 Bureau of criminal investigation](216-bureau-of-criminal-investigation.md)
 - [§ 216-A Scientific crime detection laboratory](216a-scientific-crime-detection-laboratory.md)
@@ -64,6 +65,7 @@ Section 210.   Division of state police.
         214-e. Cardiopulmonary resuscitation training and retraining.
         214-f. Emergency situations involving people with autism
                  spectrum disorder and other developmental disabilities.
+        214-g. Opioid antagonist awareness.
         215.   Organization; salaries; qualifications; appointment;
                  term; rules and regulations.
         216.   Bureau of criminal investigation.

@@ -4,8 +4,8 @@
 [Vehicle and Traffic Law](../../README.md) › [Title 2 — Department of Motor Vehicles; Commissioner](../README.md) › [Article 2-B — Adjudication of Parking Infractions](README.md)
 
 ```text
-  § 235. Jurisdiction. 1. Notwithstanding any inconsistent provision of
-any general, special or local law or administrative code to the
+  * § 235. Jurisdiction. 1. Notwithstanding any inconsistent provision
+of any general, special or local law or administrative code to the
 contrary, in any city which heretofore or hereafter is authorized to
 establish an administrative tribunal: (a) to hear and determine
 complaints of traffic infractions constituting parking, standing or
@@ -218,4 +218,5 @@ law, ordinance, order, rule, regulation, resolution or any other means,
 an administrative tribunal to hear and determine complaints of traffic
 infractions or jurisdiction to adjudicate any liability set forth in
 subdivision one of this section.
+  * NB There are 2 § 235's
 ```

@@ -7,6 +7,7 @@
 
 - [§ 641 Jurisdiction over adoption proceedings](641-jurisdiction-over-adoption-proceedings.md)
 - [§ 642 Rules of court](642-rules-of-court.md)
+- [§ 643 Consideration of blindness during adoption proceedings](643-consideration-of-blindness-during-adoption-proceedings.md)
 
 <details>
 <summary>Official heading of Part 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -16,6 +17,7 @@
                                 ADOPTION
 Section 641. Jurisdiction over adoption proceedings.
         642. Rules of court.
+        643. Consideration of blindness during adoption proceedings.
 ```
 
 </details>

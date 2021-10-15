@@ -6,6 +6,7 @@
 ## Contents
 
 - [§ 602 Application](602-application.md)
+- [§ 602-A Outreach](602a-outreach.md)
 - [§ 603 Definitions](603-definitions.md)
 - [§ 604 Eligibility conditions](604-eligibility-conditions.md)
 - [§ 605 Qualified employers; application](605-qualified-employers-application.md)
@@ -23,17 +24,18 @@
 ```text
                                 TITLE 7-A
                           SHARED WORK PROGRAMS
-Section 602. Application.
-        603. Definitions.
-        604. Eligibility conditions.
-        605. Qualified employers; application.
-        606. Revocation of approval.
-        607. Benefits.
-        608. Maximum payments.
-        609. Training.
-        610. Commencement.
-        611. Charging of benefits.
-        612. Severability.
+Section 602.   Application.
+        602-a. Outreach.
+        603.   Definitions.
+        604.   Eligibility conditions.
+        605.   Qualified employers; application.
+        606.   Revocation of approval.
+        607.   Benefits.
+        608.   Maximum payments.
+        609.   Training.
+        610.   Commencement.
+        611.   Charging of benefits.
+        612.   Severability.
 ```
 
 </details>

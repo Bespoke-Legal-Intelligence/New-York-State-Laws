@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 602-A", "kind": "section", "law_id": "LAB", "location_id": "602-A", "path": "ARTICLE 18 › TITLE 7-A › SECTION 602-A", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/602-A.md", "title": "Outreach"} -->
+# Labor Law § 602-A — Outreach
+
+[Labor Law](../../README.md) › [Article 18 — Unemployment Insurance Law](../README.md) › [Title 7-A — Shared Work Programs](README.md)
+
+```text
+  § 602-a. Outreach. 1. The commissioner shall have the obligation and
+duty of providing informational materials regarding shared work program
+eligibility. Such materials shall be made available on the department's
+website and provided to each employer within the state annually through
+such means as the commissioner deems appropriate.
+  2. The department shall conduct outreach to employers within the state
+for purposes of providing information regarding the benefits of shared
+work programs, including by remote and in-person information sessions,
+correspondence, assistance in completing an application for approval of
+a shared work program, and such other means as the commissioner may deem
+appropriate. The department shall consult and coordinate with the
+department of economic development, small business development centers
+and any other relevant agency, department, office, division, board,
+bureau, commission or authority.
+  3. The department shall report to the governor, the temporary
+president of the senate and the speaker of the assembly on any and all
+outreach efforts made pursuant to this section on an annual basis
+beginning one year after the effective date of this section.
+```

@@ -113,6 +113,7 @@
 - [§ 2808-C Reimbursement of general hospital inpatient services](2808c-reimbursement-of-general-hospital-inpatient-services.md)
 - [§ 2808-D Nursing home quality improvement demonstration program](2808d-nursing-home-quality-improvement-demonstration-program.md)
 - [§ 2808-E Residential health care for children with medical fragility in transition to young adults and young adults with medical fragility demonst...](2808e-residential-health-care-for-children-with-medical-fragility-in-transition.md)
+- [§ 2808-E\*2 Nursing home ratings](2808e-2-nursing-home-ratings.md)
 - [§ 2809 Residential health care facilities; powers to require security](2809-residential-health-care-facilities-powers-to-require-security.md)
 - [§ 2810 Residential health care facilities; receivership](2810-residential-health-care-facilities-receivership.md)
 - [§ 2811 Discounts and splitting fees with medical referral services; prohibited](2811-discounts-and-splitting-fees-with-medical-referral-services-prohibited.md)
@@ -302,6 +303,7 @@ Section 2800.     Declaration of policy and statement of purpose.
         2808-e.   Residential health care for children with medical
                     fragility in transition to young adults and young
                     adults with medical fragility demonstration program.
+        2808-e*2. Nursing home ratings.
         2809.     Residential health care facilities; powers to require
                     security.
         2810.     Residential health care facilities; receivership.

@@ -10,7 +10,7 @@
 - [§ 8-303 Initial voter identification](8-303-initial-voter-identification.md)
 - [§ 8-304 Voters; signature identification](8-304-voters-signature-identification.md)
 - [§ 8-306 Voters; assistance to](8-306-voters-assistance.md)
-- [§ 8-308 Voting; voting machine write-in](8-308-voting-voting-machine-write.md)
+- [§ 8-308 Voting; voting write-in](8-308-voting-voting-write.md)
 - [§ 8-312 Voting; election day paper ballots, marking and casting, delivery to voter](8-312-voting-election-day-paper-ballots-marking-and-casting-delivery-to-voter.md)
 - [§ 8-314 Voting; primary election, missing enrollment record](8-314-voting-primary-election-missing-enrollment-record.md)
 - [§ 8-316 Ballots; mutilated or spoiled](8-316-ballots-mutilated-or-spoiled.md)
@@ -26,7 +26,7 @@ Section 8-300. Voting; manner of.
         8-303. Initial voter identification.
         8-304. Voters; signature identification.
         8-306. Voters; assistance to.
-        8-308. Voting; voting machine write-in.
+        8-308. Voting; voting write-in.
         8-312. Voting;  election day paper ballots, marking and casting,
                  delivery to voter.
         8-314. Voting; primary election, missing enrollment record.

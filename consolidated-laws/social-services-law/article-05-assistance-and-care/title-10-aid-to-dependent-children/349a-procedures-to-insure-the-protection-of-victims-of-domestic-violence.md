@@ -17,15 +17,7 @@ Such notice shall also inform individuals that response to these
 inquiries is voluntary and confidential; provided, however, that
 information regarding neglect or abuse of children will be reported to
 child protective services.
-  * 2. Such inquiry shall be performed utilizing a universal screening
-form to be developed by the department after consultation with the
-office for the prevention of domestic violence and statewide domestic
-violence advocacy groups. An individual may request such screening at
-any time, and any individual who at any time self identifies as a victim
-of domestic violence shall be afforded the opportunity for such
-screening.
-  * NB Effective until October 9, 2021
-  * 2. Such inquiry shall be performed utilizing a universal screening
+  2. Such inquiry shall be performed utilizing a universal screening
 form to be developed by the department after consultation with the
 office for the prevention of domestic violence and statewide domestic
 violence advocacy groups. Such screening may be conducted by telephone
@@ -33,7 +25,6 @@ or other digital means at the request of the applicant or recipient. An
 individual may request such screening at any time, and any individual
 who at any time self identifies as a victim of domestic violence shall
 be afforded the opportunity for such screening.
-  * NB Effective October 9, 2021
   3. An individual indicating the presence of domestic violence, as a
 result of such screening, shall be promptly referred to a domestic
 violence liaison who meets training requirements established by the

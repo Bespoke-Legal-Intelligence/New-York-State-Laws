@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | GBS |
 | Type | Consolidated law, chapter 20 |
-| Sections | 1,269 |
-| Last changed | 24 Sep 2021 |
+| Sections | 1,275 |
+| Last changed | 15 Oct 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Business |
 
@@ -29,10 +29,11 @@ AN ACT relating to general business, constituting chapter twenty of the
   Assembly, do enact as follows:
 ```
 
-[Full chapter text (175 lines)](chapter-text.md)
+[Full chapter text (176 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [15 Oct 2021](../../changes/2021/2021-10-15.md): 5 amended, 6 added
 - [24 Sep 2021](../../changes/2021/2021-09-24.md): 1 amended
 - [10 Sep 2021](../../changes/2021/2021-09-10.md): 1 added, 1 removed
 - [13 Aug 2021](../../changes/2021/2021-08-13.md): 3 amended
@@ -42,7 +43,6 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [14 May 2021](../../changes/2021/2021-05-14.md): 1 amended, 1 added
 - [23 Apr 2021](../../changes/2021/2021-04-23.md): 2 amended, 1 added
 - [9 Apr 2021](../../changes/2021/2021-04-09.md): 1 amended
-- [2 Apr 2021](../../changes/2021/2021-04-02.md): 3 amended
 
 ## Contents
 
@@ -133,6 +133,7 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 29-K — Motor Vehicle Parts Warranty](article-29k-motor-vehicle-parts-warranty/)
 - [Article 30 — Health Club Services](article-30-health-club-services/)
 - [Article 30-A — Home-use Medical Diagnostic Device Marketing Practices](article-30a-home-use-medical-diagnostic-device-marketing/)
+- [Article 30-B — Weight Loss Services](article-30b-weight-loss-services/)
 - [Article 31 — Membership Campgrounds](article-31-membership-campgrounds/)
 - [Article 32 — Video Consumer Privacy Act](article-32-video-consumer-privacy-act/)
 - [Article 32\* — Wheelchair Warranties](article-32-wheelchair-warranties/)

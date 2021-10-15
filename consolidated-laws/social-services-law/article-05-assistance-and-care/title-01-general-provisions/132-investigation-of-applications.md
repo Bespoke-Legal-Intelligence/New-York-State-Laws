@@ -63,19 +63,7 @@ by federal law with the non-wage income file maintained by the United
 States internal revenue service, with the benefits and earnings data
 exchange maintained by the United States department of health and human
 services, and with the unemployment insurance benefit file.
-  4. * (a) Investigation into the cause of the condition of a head of
-household or of any adult applicant or recipient and the treatment which
-will be helpful to such person shall include a screening for alcohol
-and/or substance abuse using a standardized screening instrument to be
-developed by the office of alcoholism and substance abuse services in
-consultation with the department. Such screening shall be performed by a
-social services district at the time of application and periodically
-thereafter but not more frequently than every six months, unless the
-district has reason to believe that an applicant or recipient is abusing
-or dependent on alcohol or drugs, in accordance with regulations
-promulgated by the department.
-  * NB Effective until October 9, 2021
-  * (a) Investigation into the cause of the condition of a head of
+  4. (a) Investigation into the cause of the condition of a head of
 household or of any adult applicant or recipient and the treatment which
 will be helpful to such person shall include a screening for alcohol
 and/or substance abuse using a standardized screening instrument to be
@@ -88,21 +76,7 @@ or dependent on alcohol or drugs, in accordance with regulations
 promulgated by the department. Such screening may be conducted by
 telephone or other digital means at the request of the applicant or
 recipient.
-  * NB Effective October 9, 2021
-  * (b) When the screening process indicates that there is reason to
-believe that an applicant or recipient is abusing or dependent on
-alcohol or drugs, the social services district shall require a formal
-alcohol or substance abuse assessment, which may include drug testing,
-to be performed by an alcohol and/or substance abuse professional
-credentialed by the office of addiction services and supports. Provided
-however, if the applicant or recipient tests positive for the presence
-of cannabis, the positive result alone shall not be sufficient to
-establish a dependence for purposes of requiring an individual to
-participate in a treatment program pursuant to paragraph (c) of this
-subdivision. The assessment may be performed directly by the district or
-pursuant to contract with the district.
-  * NB Effective until October 9, 2021
-  * (b) When the screening process indicates that there is reason to
+  (b) When the screening process indicates that there is reason to
 believe that an applicant or recipient is abusing or dependent on
 alcohol or drugs, the social services district shall require a formal
 alcohol or substance abuse assessment, which may include drug testing,
@@ -116,7 +90,6 @@ subdivision. The assessment may be performed directly by the district or
 pursuant to contract with the district. Such assessment may be conducted
 by telephone or other digital means at the request of the applicant or
 recipient.
-  * NB Effective October 9, 2021
   (c) The social services official shall refer applicants and recipients
 whom it determines are presently unable to work by reason of their need
 for treatment for alcohol or substance abuse based on the formal

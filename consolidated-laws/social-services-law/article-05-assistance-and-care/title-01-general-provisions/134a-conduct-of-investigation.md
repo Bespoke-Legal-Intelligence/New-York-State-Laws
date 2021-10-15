@@ -44,21 +44,12 @@ shall, as a condition of receiving such aid, present proof of his
 identity to the social services official as the department may by
 regulation require, and he shall provide such proof thereafter whenever
 required by such official.
-  * 3. The social services official shall require that persons applying
-for or receiving public assistance and care be interviewed personally at
-a time and in a manner provided by the regulations of the department.
-Applicants or recipients shall be excused from such requirements to
-avoid hardship, as defined by regulations of the department. Hardship
-shall include but not be limited to circumstances including infirmity,
-serious illness or physical disability.
-  * NB Effective until October 9, 2021
-  * 3. The social services official shall require that persons applying
+  3. The social services official shall require that persons applying
 for or receiving public assistance and care be interviewed personally at
 a time and in a manner provided by the regulations of the department,
 and the social services official may provide the option of a phone
 interview or other digital means for such interview at the request of
 the applicant or recipient.
-  * NB Effective October 9, 2021
   4. Notwithstanding any other provisions of this chapter, the
 department may provide for a comparison of information identifying a
 recipient of benefits under any program authorized under this chapter

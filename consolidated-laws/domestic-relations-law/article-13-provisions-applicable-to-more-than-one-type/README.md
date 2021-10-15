@@ -19,6 +19,7 @@
 - [§ 240-A Judgment or decree; additional provision](240a-judgment-or-decree-additional-provision.md)
 - [§ 240-B Order of support by parent](240b-order-of-support-by-parent.md)
 - [§ 240-C Review and cost of living adjustment of child support orders](240c-review-and-cost-of-living-adjustment-of-child-support-orders.md)
+- [§ 240-D Support orders for certain adult dependents](240d-support-orders-for-certain-adult-dependents.md)
 - [§ 241 Interference with or withholding of visitation rights; alimony or maintenance suspension](241-interference-with-or-withholding-of-visitation-rights-alimony-or-maintenance.md)
 - [§ 243 Security for payments by defendant in action for divorce, separation or annulment; sequestration](243-security-for-payments-by-defendant-in-action-for-divorce-separation.md)
 - [§ 244 Enforcement by execution of judgment or order in action for divorce, separation or annulment](244-enforcement-by-execution-of-judgment-or-order-in-action-for-divorce.md)
@@ -64,6 +65,7 @@ Section 230.   Required residence of parties.
         240-b. Order of support by parent.
         240-c. Review and cost of living adjustment of child support
                  orders.
+        240-d. Support orders for certain adult dependents.
         241.   Interference with or withholding of visitation rights;
                  alimony or maintenance suspension.
         243.   Security for payments by defendant in action for divorce,

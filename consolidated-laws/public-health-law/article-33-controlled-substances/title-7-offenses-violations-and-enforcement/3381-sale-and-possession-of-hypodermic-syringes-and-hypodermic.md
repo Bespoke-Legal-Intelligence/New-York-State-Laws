@@ -19,14 +19,10 @@ twenty-eight of this chapter or a health care practitioner who is
 otherwise authorized to prescribe the use of hypodermic needles or
 syringes within his or her scope of practice; provided, however, that
 such sale or furnishing: (i) shall only be to a person eighteen years of
-age or older; (ii) shall be limited to a quantity of ten or less
-hypodermic needles or syringes; and (iii) shall be in accordance with
-subdivision five of this section.
-  2. It shall be unlawful for any person to obtain or possess a
-hypodermic syringe or hypodermic needle unless such possession has been
-authorized by the commissioner or is pursuant to a prescription, or is
-pursuant to subdivision five of this section.
-  3. Any person selling or furnishing a hypodermic syringe or hypodermic
+age or older; and (ii) shall be in accordance with subdivision four of
+this section; or
+  (d) under subdivision three of this section.
+  2. Any person selling or furnishing a hypodermic syringe or hypodermic
 needle pursuant to a prescription shall record upon the prescription,
 his or her signature or electronic signature, and the date of the sale
 or furnishing of the hypodermic syringe or hypodermic needle. Such
@@ -37,12 +33,12 @@ refilled not more than the number of times specifically authorized by
 the prescriber upon the prescription, provided however no such
 authorization shall be effective for a period greater than two years
 from the date the prescription is signed.
-  4. The commissioner shall, subject to subdivision five of this
+  3. The commissioner shall, subject to subdivision four of this
 section, designate persons, or by regulation, classes of persons who may
 obtain hypodermic syringes and hypodermic needles without prescription
 and the manner in which such transactions may take place and the records
 thereof which shall be maintained.
-  5. (a) A person eighteen years of age or older may obtain and possess
+  4. (a) A person eighteen years of age or older may obtain and possess
 a hypodermic syringe or hypodermic needle pursuant to paragraph (c) of
 subdivision one of this section.
   (b) Subject to regulations of the commissioner, a pharmacy licensed
@@ -52,9 +48,7 @@ health care practitioner who is otherwise authorized to prescribe the
 use of hypodermic needles or syringes within his or her scope of
 practice, may obtain and possess hypodermic needles or syringes for the
 purpose of selling or furnishing them pursuant to paragraph (c) of
-subdivision one of this section or for the purpose of disposing of them,
-provided that such pharmacy, health care facility or health care
-practitioner has registered with the department.
+subdivision one of this section or for the purpose of disposing of them.
   (c) Sale or furnishing of hypodermic syringes or hypodermic needles to
 direct consumers pursuant to this subdivision by a pharmacy, health care
 facility, or health care practitioner shall be accompanied by a safety
@@ -77,12 +71,9 @@ furnishing in brochure form.
   (d) In addition to the requirements of paragraph (c) of subdivision
 one of this section, a pharmacy licensed under article one hundred
 thirty-seven of the education law may sell or furnish hypodermic needles
-or syringes only if such pharmacy: (i) does not advertise to the public
-the availability for retail sale or furnishing of hypodermic needles or
-syringes without a prescription; and (ii) at any location where
-hypodermic needles or syringes are kept for retail sale or furnishing,
-stores such needles and syringes in a manner that makes them available
-only to authorized personnel and not openly available to customers.
+or syringes only if such pharmacy stores such needles and syringes in a
+manner that makes them available only to authorized personnel and not
+openly available to customers.
   (e) A pharmacy registered under article one hundred thirty-seven of
 the education law may offer counseling and referral services to
 customers purchasing hypodermic syringes for the purpose of: preventing
@@ -93,14 +84,16 @@ non-occupational post-exposure prophylaxis. The content of such
 counseling and referral shall be at the professional discretion of the
 pharmacist.
   (f) The commissioner shall promulgate rules and regulations necessary
-to implement the provisions of this subdivision which shall include a
-requirement that such pharmacies, health care facilities and health care
+to implement the provisions of this subdivision which shall include: (i)
+standards for advertising to the public the availability for retail sale
+or furnishing of hypodermic syringes or needles; and (ii) a requirement
+that such pharmacies, health care facilities and health care
 practitioners cooperate in a safe disposal of used hypodermic needles or
 syringes.
   (g) The commissioner may, upon the finding of a violation of this
 section, suspend for a determinate period of time the sale or furnishing
 of syringes by a specific entity.
-  6. The provisions of this section shall not apply to farmers engaged
+  5. The provisions of this section shall not apply to farmers engaged
 in livestock production or to those persons supplying farmers engaged in
 livestock production, provided that:
   (a) Hypodermic syringes and needles shall be stored in a secure,

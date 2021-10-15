@@ -18,6 +18,7 @@
 - [§ 75-J Taking testimony in another state](75j-taking-testimony-in-another-state.md)
 - [§ 75-K Cooperation between courts; preservation of records](75k-cooperation-between-courts-preservation-of-records.md)
 - [§ 75-L Military service by parent; effect on child custody orders pursuant to this article](75l-military-service-by-parent-effect-on-child-custody-orders.md)
+- [§ 75-M Consideration of blindness during guardianship, custody or visitation proceedings](75m-consideration-of-blindness-during-guardianship-custody.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -39,6 +40,8 @@ Section 75.   Short title and statement of legislative intent.
         75-k. Cooperation between courts; preservation of records.
         75-l. Military service by parent; effect on child custody orders
                 pursuant to this article.
+        75-m. Consideration of blindness during guardianship, custody or
+                visitation proceedings.
 ```
 
 </details>

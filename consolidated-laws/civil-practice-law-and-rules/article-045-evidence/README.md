@@ -24,6 +24,7 @@
 - [§ 4517 Prior testimony in a civil action](4517-prior-testimony-in-a-civil-action.md)
 - [§ 4518 Business records](4518-business-records.md)
 - [§ 4519 Personal transaction or communication between witness and decedent or person with a mental illness](4519-personal-transaction-or-communication-between-witness-and-decedent-or-person.md)
+- [§ 4519-A Possession of opioid antagonists; receipt into evidence](4519a-possession-of-opioid-antagonists-receipt-into-evidence.md)
 - [§ 4520 Certificate or affidavit of public officer](4520-certificate-or-affidavit-of-public-officer.md)
 - [§ 4521 Lack of record](4521-lack-of-record.md)
 - [§ 4522 Ancient filed maps, surveys and records affecting real property](4522-ancient-filed-maps-surveys-and-records-affecting-real-property.md)
@@ -120,6 +121,7 @@
                  (g) Pregnancy and childbirth costs.
         4519.   Personal transaction or communication between witness
                   and decedent or mentally ill person.
+        4519-a. Possession of opioid antagonists; receipt into evidence.
         4520.   Certificate or affidavit of public officer.
         4521.   Lack of record.
         4522.   Ancient filed maps, surveys and records affecting real
