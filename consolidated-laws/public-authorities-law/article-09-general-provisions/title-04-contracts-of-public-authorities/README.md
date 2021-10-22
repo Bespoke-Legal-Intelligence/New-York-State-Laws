@@ -21,7 +21,6 @@
 - [§ 2879-C Iranian energy sector divestment](2879c-iranian-energy-sector-divestment.md)
 - [§ 2880 Prompt payment](2880-prompt-payment.md)
 - [§ 2880-A Contracts for the financing of local water supply systems](2880a-contracts-for-the-financing-of-local-water-supply-systems.md)
-- [§ 2881 Purchases from federal general service administration supply schedules and other governmental agencies](2881-purchases-from-federal-general-service-administration.md)
 
 <details>
 <summary>Official heading of Title 4, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

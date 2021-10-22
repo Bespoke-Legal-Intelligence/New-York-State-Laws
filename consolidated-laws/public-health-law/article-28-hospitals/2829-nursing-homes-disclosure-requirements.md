@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 28 — Hospitals](README.md)
 
 ```text
-  * § 2829. Nursing homes; disclosure requirements. 1. A nursing home
+  § 2829. Nursing homes; disclosure requirements. 1. A nursing home
 shall post maximum rates to be charged for residency and services on a
 publicly accessible website. Such posting shall be updated on an annual
 basis no later than April first of each year. Such posting shall detail
@@ -24,5 +24,4 @@ its website within thirty days of execution of such agreement or
 contract.
   3. The commissioner may make regulations necessary or appropriate to
 implement this section.
-  * NB Effective October 21, 2021
 ```

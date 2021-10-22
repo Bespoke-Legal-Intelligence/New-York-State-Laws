@@ -73,6 +73,7 @@
 - [§ 1279-F Independent forensic audit](1279f-independent-forensic-audit.md)
 - [§ 1279-G Major construction review unit](1279g-major-construction-review-unit.md)
 - [§ 1279-H Debarment](1279h-debarment.md)
+- [§ 1279-I Open data reporting](1279i-open-data-reporting.md)
 - [§ 1279-L Right to share employees](1279l-right-to-share-employees.md)
 
 <details>
@@ -167,6 +168,7 @@ Section 1260.   Short title.
         1279-f. Independent forensic audit.
         1279-g. Major construction review unit.
         1279-h. Debarment.
+        1279-i. Open data reporting.
         1279-l. Right to share employees.
 ```
 

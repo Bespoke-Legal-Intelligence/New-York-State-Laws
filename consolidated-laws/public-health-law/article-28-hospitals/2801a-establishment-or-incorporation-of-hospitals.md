@@ -89,8 +89,8 @@ to request a public hearing and, if so requested, a public hearing shall
 be held. Any public hearing held pursuant to this subdivision may be
 conducted by the public health and health planning council, or by any
 individual designated by the public health and health planning council.
-  * 2-b. (a) This subdivision applies with respect to an application
-under this section relating to the incorporation or establishment of any
+  2-b. (a) This subdivision applies with respect to an application under
+this section relating to the incorporation or establishment of any
 nursing home, in addition to subdivision two of this section.
   (b) The department shall provide notice, in writing or electronically,
 of an application for establishment to the state office of long-term
@@ -115,7 +115,6 @@ the nursing home, including their union representatives, when the
 established operator and applicant is notified that its application is
 scheduled for consideration by a committee designated by the public
 health and health planning council.
-  * NB Effective October 21, 2021
   3. The public health and health planning council shall not approve a
 certificate of incorporation, articles of organization or application
 for establishment unless it is satisfied, insofar as applicable, as to
@@ -170,9 +169,9 @@ requiring such services within one hospital. The public health council
 may approve the establishment of such hospitals without regard to the
 requirement of public need as set forth in subdivision three of this
 section.
-  * 3-b. (a) This subdivision applies to an application under this
-section relating to a nursing home, and applies in addition to
-subdivision three of this section.
+  3-b. (a) This subdivision applies to an application under this section
+relating to a nursing home, and applies in addition to subdivision three
+of this section.
   (b) The application shall provide information as to the character,
 competence and standing in the community of every individual and entity
 of the applicant and specify the identity of every nursing home in which
@@ -197,8 +196,8 @@ facility, and shall require the applicant to disclose and provide an
 explanation for any of the following occurrences: (i) a facility that
 has earned a two-star rating or less by the federal centers for Medicare
 and Medicaid Services (CMS) (or a comparable rating under a successor
-CMS rating system) ;(ii) where there have been violations of the state
-or federal nursing home code, or other applicable rules and regulations,
+CMS rating system);(ii) where there have been violations of the state or
+federal nursing home code, or other applicable rules and regulations,
 that threatened to directly affect the health, safety or welfare of any
 patient or resident, including but not limited to a finding of immediate
 jeopardy, or actual harm, and were recurrent or were not promptly
@@ -211,7 +210,6 @@ revocation; or (iv) has been involuntarily terminated from the Medicare
 or Medicaid program in the prior five years, provided however, that
 where an applicant has taken over a facility and promptly corrected such
 deficiencies, the council may consider the application.
-  * NB Effective October 21, 2021
   4. (a) Any change in the person who is the operator of a hospital
 shall be approved by the public health and health planning council in
 accordance with the provisions of subdivisions two and three of this
@@ -476,20 +474,12 @@ hereunder shall be subject to review as provided in article
 seventy-eight of the civil practice law and rules. Application for such
 review must be made within sixty days after service in person or by
 registered mail of a copy of such order or determination.
-  11. * Any person filing a proposed certificate of incorporation,
+  11. Any person filing a proposed certificate of incorporation,
 articles of organization or an application for establishment of a
 residential health care facility for approval of the public health and
 health planning council shall file with the commissioner such
-information on the ownership of the property interests in such facility
-as shall be prescribed by regulation, including the following:
-  * NB Effective until October 21, 2021
-  * Any person filing a proposed certificate of incorporation, articles
-of organization or an application for establishment of a residential
-health care facility for approval of the public health and health
-planning council shall file with the commissioner such information as
-may be prescribed by regulation, including, but not limited to, the
-following:
-  * NB Effective October 21, 2021
+information as may be prescribed by regulation, including, but not
+limited to, the following:
   (a) The name and address and a description of the interest held by
 each of the following persons:
   (i) any person, who directly or indirectly, beneficially owns any

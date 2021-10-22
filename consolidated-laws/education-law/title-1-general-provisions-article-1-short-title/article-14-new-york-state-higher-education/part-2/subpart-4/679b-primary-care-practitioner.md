@@ -4,7 +4,7 @@
 [Education Law](../../../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../../../README.md) › [Article 14 — New York State Higher Education Services Corporation](../../README.md) › [Part 2 — Student Financial Aid](../README.md) › [Subpart 4 — Other Awards](README.md)
 
 ```text
-  * § 679-b. Primary care practitioner scholarship program. 1.
+  § 679-b. Primary care practitioner scholarship program. 1.
 Certification. Primary care practitioner scholarships may be awarded
 annually, subject to the availability of funds therefor. Such awards
 shall be allocated pursuant to section nine hundred four of the public
@@ -20,5 +20,4 @@ shall mean tuition, required fees, books, transportation, room and
 board.
   4. Award disbursement. Annual award disbursements shall be the
 responsibility of the president.
-  * NB Terminated July 18, 1996
 ```

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Legislative Law § 93", "kind": "section", "law_id": "LEG", "location_id": "93", "path": "ARTICLE 6-A › SECTION 93", "repealed": false, "repealed_date": null, "source": "nys-laws:LEG/93.md", "title": "Redistricting"} -->
+﻿<!-- nyslaw {"citation": "Legislative Law § 93", "kind": "section", "law_id": "LEG", "location_id": "93", "path": "ARTICLE 6-A › SECTION 93", "repealed": true, "repealed_date": "2021-10-22", "source": "nys-laws:LEG/93.md", "title": "Redistricting"} -->
 # Legislative Law § 93 — Redistricting
 
 [Legislative Law](../README.md) › [Article 6-A — Redistricting of Congressional and State Legislative Districts](README.md)
+
+**Repealed** (22 Oct 2021). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 93. Redistricting. 1. The independent redistricting commission

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Legislative Law § 94", "kind": "section", "law_id": "LEG", "location_id": "94", "path": "ARTICLE 6-A › SECTION 94", "repealed": false, "repealed_date": null, "source": "nys-laws:LEG/94.md", "title": "Independent redistricting commission"} -->
+﻿<!-- nyslaw {"citation": "Legislative Law § 94", "kind": "section", "law_id": "LEG", "location_id": "94", "path": "ARTICLE 6-A › SECTION 94", "repealed": true, "repealed_date": "2021-10-22", "source": "nys-laws:LEG/94.md", "title": "Independent redistricting commission"} -->
 # Legislative Law § 94 — Independent redistricting commission
 
 [Legislative Law](../README.md) › [Article 6-A — Redistricting of Congressional and State Legislative Districts](README.md)
+
+**Repealed** (22 Oct 2021). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 94. Independent redistricting commission. 1. On or before February

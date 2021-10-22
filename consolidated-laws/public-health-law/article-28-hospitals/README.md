@@ -47,7 +47,7 @@
 - [§ 2803-V\*2 Standing orders for newborn care in a hospital](2803v-2-standing-orders-for-newborn-care-in-a-hospital.md)
 - [§ 2803-W Independent quality monitors for residential health care facilities](2803w-independent-quality-monitors-for-residential-health-care-facilities.md)
 - [§ 2803-W\*2 Disclosure of information concerning pregnancy complications](2803w-2-disclosure-of-information-concerning-pregnancy-complications.md)
-- [§ 2803-X Requirements related to residential health care facilities and related assets](2803x-requirements-related-to-residential-health-care-facilities-and-related-assets.md)
+- [§ 2803-X Requirements related to nursing homes and related assets and operations](2803x-requirements-related-to-nursing-homes-and-related-assets-and-operations.md)
 - [§ 2803-Y Provision of residency agreement](2803y-provision-of-residency-agreement.md)
 - [§ 2803-Z Transfer, discharge and voluntary discharge requirements for residential health care facilities](2803z-transfer-discharge-and-voluntary-discharge-requirements-for-residential-health.md)
 - [§ 2804 Units for hospital and health-related affairs](2804-units-for-hospital-and-health-related-affairs.md)
