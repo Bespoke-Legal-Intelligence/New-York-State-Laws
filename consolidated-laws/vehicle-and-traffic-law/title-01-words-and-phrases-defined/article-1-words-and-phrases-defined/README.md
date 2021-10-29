@@ -54,6 +54,7 @@
 - [§ 117-B Hazardous operation](117b-hazardous-operation.md)
 - [§ 117-C Hazardous materials emergency vehicle](117c-hazardous-materials-emergency-vehicle.md)
 - [§ 117-D Blood delivery vehicle](117d-blood-delivery-vehicle.md)
+- [§ 117-E Human organ delivery vehicle](117e-human-organ-delivery-vehicle.md)
 - [§ 118 Highway](118-highway.md)
 - [§ 119 House coach](119-house-coach.md)
 - [§ 119-A Ignition interlock device](119a-ignition-interlock-device.md)
@@ -193,6 +194,7 @@ Section 100.   Definition of words and phrases.
         117-b. Hazardous operation.
         117-c. Hazardous materials emergency vehicle.
         117-d. Blood delivery vehicle.
+        117-e. Human organ delivery vehicle.
         118.   Highway.
         119.   House coach.
         119-a. Ignition interlock device.

@@ -4,7 +4,7 @@
 [Public Health Law](../../README.md) › [Article 25 — Maternal and Child Health](../README.md) › [Title 1 — General Provisions](README.md)
 
 ```text
-  * § 2504-b. Information concerning pelvic exams. 1. On or before July
+  § 2504-b. Information concerning pelvic exams. 1. On or before July
 first, two thousand twenty-two, the department shall develop an
 informational pamphlet for patients undergoing pelvic examinations. In
 developing the pamphlet, the department shall consult with state
@@ -39,5 +39,4 @@ developed pursuant to this section.
   5. For purposes of this section, "practitioner" means a health care
 professional licensed, certified, or otherwise authorized to practice
 under the education law, acting within the scope of practice.
-  * NB Effective October 24, 2021
 ```

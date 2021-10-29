@@ -8,7 +8,7 @@
 | Senate code | SCP |
 | Type | Court act |
 | Sections | 386 |
-| Last changed | 13 Aug 2021 |
+| Last changed | 29 Oct 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Surrogate's Court Procedure |
 
@@ -29,6 +29,7 @@ Passed by a majority vote, three-fifths being present
 
 ## Recent changes
 
+- [29 Oct 2021](../../changes/2021/2021-10-29.md): 1 amended
 - [13 Aug 2021](../../changes/2021/2021-08-13.md): 1 amended
 - [10 Jan 2020](../../changes/2020/2020-01-10.md): 6 amended
 - [13 Dec 2019](../../changes/2019/2019-12-13.md): 6 amended
@@ -38,7 +39,6 @@ Passed by a majority vote, three-fifths being present
 - [11 Oct 2019](../../changes/2019/2019-10-11.md): 2 amended
 - [5 Jul 2019](../../changes/2019/2019-07-05.md): 2 amended
 - [11 Jan 2019](../../changes/2019/2019-01-11.md): 1 amended
-- [6 Jul 2018](../../changes/2018/2018-07-06.md): 1 amended
 
 ## Contents
 

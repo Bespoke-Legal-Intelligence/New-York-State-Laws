@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 259-T", "kind": "section", "law_id": "EXC", "location_id": "259-T", "path": "ARTICLE 12-B › SECTION 259-T", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/259-T.md", "title": "Permitted activities"} -->
+# Executive Law § 259-T — Permitted activities
+
+[Executive Law](../README.md) › [Article 12-B — State Board of Parole](README.md)
+
+```text
+  * § 259-t. Permitted activities. Where any person is granted
+presumptive release, parole, conditional release, release to
+post-release supervision or any other type of supervised release, the
+state board of parole shall not deem a person to be in violation of and
+the state board of parole shall not terminate such granted presumptive
+release, parole, conditional release, release to post-release
+supervision or any other type of supervised release solely because such
+person engaged in bona fide work for an employer, including travel time
+to or from bona fide work, during curfew times set by conditions of
+probation, parole, presumptive release, conditional release or release
+to post-release supervision. For purposes of this section, bona fide
+work is work performed as an employee for an employer, as defined in
+section two of the labor law.
+  * NB There are 2 § 259-t's
+```

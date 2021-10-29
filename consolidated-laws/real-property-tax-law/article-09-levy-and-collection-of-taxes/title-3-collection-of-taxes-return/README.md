@@ -16,7 +16,6 @@
 - [§ 925-B Extension; certain persons sixty-five years of age or over](925b-extension-certain-persons-sixty-five-years-of-age.md)
 - [§ 925-C Payment of real property taxes via the internet](925c-payment-of-real-property-taxes-via-the-internet.md)
 - [§ 925-D Deployed military; extension](925d-deployed-military-extension.md)
-- [§ 925-E Furloughed or non-pay federal workers; temporary extension](925e-furloughed-or-non-pay-federal-workers-temporary.md) *(repealed)*
 - [§ 926 Personal liability for taxes; optional method of collection](926-personal-liability-for-taxes-optional-method.md)
 - [§ 926-A Liability for taxes of owners and renters of certain residential property](926a-liability-for-taxes-of-owners-and-renters-of-certain.md)
 - [§ 928-A Partial payment of taxes](928a-partial-payment-of-taxes.md)

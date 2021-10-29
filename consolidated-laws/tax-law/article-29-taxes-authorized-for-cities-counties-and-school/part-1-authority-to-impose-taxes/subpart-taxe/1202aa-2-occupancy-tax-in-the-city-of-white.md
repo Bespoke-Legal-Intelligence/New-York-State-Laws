@@ -111,10 +111,10 @@ and shall be credited to and deposited in the general fund of the city.
 Such revenues may be used for any lawful purpose.
   (10) Each enactment of such a local law may provide for the imposition
 of a hotel tax for a period to expire on December thirty-first, two
-thousand twenty-one. Nothing in this section shall prohibit the adoption
-and enactment of local laws, pursuant to the provisions of this section,
-upon the expiration of any other local law adopted pursuant to this
-section.
+thousand twenty-four. Nothing in this section shall prohibit the
+adoption and enactment of local laws, pursuant to the provisions of this
+section, upon the expiration of any other local law adopted pursuant to
+this section.
   (11) If any provision of this section or the application thereof to
 any person or circumstance shall be held invalid, the remainder of this
 section and the application of such provision to other persons or

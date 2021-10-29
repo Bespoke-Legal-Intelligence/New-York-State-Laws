@@ -4,7 +4,7 @@
 [Correction Law](../README.md) › [Article 8 — Community Supervision](README.md)
 
 ```text
-  § 209. Notice of voting rights. The department shall notify each
+  * § 209. Notice of voting rights. The department shall notify each
 person serving a period of community supervision verbally and in writing
 of his or her right to vote and provide such person with a form of
 application for voter registration and a declination form, offer such
@@ -17,4 +17,5 @@ his or her behalf. Where such person chooses to have the department
 transmit the application, the department shall transmit the completed
 application to the state board or county board where such person
 resides.
+  * NB There are 2 § 209's
 ```

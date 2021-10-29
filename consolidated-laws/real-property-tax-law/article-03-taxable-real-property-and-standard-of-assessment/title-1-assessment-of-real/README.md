@@ -10,6 +10,7 @@
 - [§ 302 Taxable status date](302-taxable-status-date.md)
 - [§ 304 Subject of assessment](304-subject-of-assessment.md)
 - [§ 305 Assessment methods and standard](305-assessment-methods-and-standard.md)
+- [§ 305-A Assessment using the comparable sales, income capitalization or cost method](305a-assessment-using-the-comparable-sales-income.md)
 - [§ 307-A Additional tax on class one property](307a-additional-tax-on-class-one-property.md)
 
 <details>
@@ -23,6 +24,8 @@ Section 300.   Property subject to taxation.
         302.   Taxable status date.
         304.   Subject of assessment.
         305.   Assessment methods and standard.
+        305-a. Assessment using the comparable sales, income
+                 capitalization or cost method.
         307-a. Additional tax on class one property.
 ```
 

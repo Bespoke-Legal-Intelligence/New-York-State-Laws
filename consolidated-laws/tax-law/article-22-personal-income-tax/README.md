@@ -77,6 +77,7 @@ Section 611.     New York taxable income of a resident individual.
                    family trust fund.
         630-g*3. Gift to the arts fund.
         630-h.   New York state campaign finance fund check-off.
+        630-i.   Gifts for the state library system.
                PART III-NONRESIDENTS AND PART-YEAR RESIDENTS
 Section 631.     New York source income of a nonresident individual.
         632.     Nonresident partners and electing shareholders of S

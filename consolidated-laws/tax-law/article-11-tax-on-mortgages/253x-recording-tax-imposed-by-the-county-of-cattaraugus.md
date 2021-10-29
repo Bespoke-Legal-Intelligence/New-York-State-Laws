@@ -80,6 +80,6 @@ effect.
 also be filed with the county clerk of the county of Cattaraugus, the
 secretary of state and the state comptroller within five days after the
 date it is duly enacted.
-  * NB Repealed December 1, 2021
+  * NB Repealed December 1, 2023
   * NB There are 2 § 253-x's
 ```

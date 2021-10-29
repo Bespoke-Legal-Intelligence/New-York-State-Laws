@@ -12,13 +12,24 @@ regarding each newly hired or re-hired employee.
   (2) Definitions. For the purposes of this section, the terms
 "employer," "employee," and "business day" shall have the following
 meanings:
-  (a) "employee" means an individual who is an employee within the
+  * (a) "employee" means an individual who is an employee within the
 meaning of chapter twenty-four of the internal revenue code of 1986, and
 does not include an employee of a federal or state agency performing
 intelligence or counterintelligence functions if the head of such agency
 has determined that a report made pursuant to this section with respect
 to the individual could endanger the safety of the employee or
 compromise an ongoing investigation or intelligence mission.
+  * NB Effective until January 1, 2022
+  * (a) "employee" means an individual who is an employee within the
+meaning of chapter twenty-four of the internal revenue code of 1986,
+including an individual under an independent contractor arrangement with
+contracts in excess of twenty-five hundred dollars, and does not include
+an employee of a federal or state agency performing intelligence or
+counterintelligence functions if the head of such agency has determined
+that a report made pursuant to this section with respect to the
+individual could endanger the safety of the employee or compromise an
+ongoing investigation or intelligence mission.
+  * NB Effective January 1, 2022
   (b) "employer" means an individual or entity within the meaning given
 the term employer in section three thousand four hundred one (d) of the
 internal revenue code of 1986 and includes:

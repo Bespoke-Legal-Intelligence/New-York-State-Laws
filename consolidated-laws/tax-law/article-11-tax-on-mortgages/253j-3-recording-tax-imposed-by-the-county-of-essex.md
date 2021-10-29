@@ -83,6 +83,6 @@ effect.
 also be filed with the county clerk of the county of Essex, the
 secretary of state and the state comptroller within five days after the
 date it is duly enacted.
-  * NB Repealed December 1, 2021
+  * NB Repealed December 1, 2024
   * NB There are 4 § 253-j's
 ```

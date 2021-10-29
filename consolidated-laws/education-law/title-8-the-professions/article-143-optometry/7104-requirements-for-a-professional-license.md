@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 143 — Optometry](README.md)
 
 ```text
-  § 7104. Requirements for a professional license.  To qualify for a
+  § 7104. Requirements for a professional license. To qualify for a
 license as an optometrist, an applicant shall fulfill the following
 requirements:
   (1) Application: file an application with the department;
@@ -19,7 +19,7 @@ accordance with the commissioner's regulations;
   (6) Citizenship: meet no requirement as to United States citizenship;
   (7) Character: be of good moral character as determined by the
 department; and
-  (8) Fees: pay a fee of two hundred twenty dollars to the department
+  * (8) Fees: pay a fee of two hundred twenty dollars to the department
 for admission to a department conducted examination and for an initial
 license, a fee of one hundred fifteen dollars for each reexamination, a
 fee of one hundred thirty-five dollars for an initial license for
@@ -27,4 +27,16 @@ persons not requiring admission to a department conducted examination,
 and a fee of two hundred ten dollars for each triennial registration
 period, and for additional authorization for the purpose of utilizing
 diagnostic pharmaceutical agents, a fee of sixty dollars.
+  * NB Effective until October 25, 2023
+  * (8) Fees: pay a fee of two hundred twenty dollars to the department
+for admission to a department conducted examination and for an initial
+license, a fee of one hundred fifteen dollars for each reexamination, a
+fee of one hundred thirty-five dollars for an initial license for
+persons not requiring admission to a department conducted examination, a
+fee of two hundred ten dollars for each triennial registration period,
+for additional authorization for the purpose of utilizing diagnostic
+pharmaceutical agents, a fee of sixty dollars, and for certification to
+use or prescribe oral therapeutic pharmaceutical agents, a fee of two
+hundred fifty dollars.
+  * NB Effective October 25, 2023
 ```

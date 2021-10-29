@@ -13,6 +13,7 @@
 - [§ 17-1011 Access to records and facilities](17-1011-access-to-records-and-facilities.md)
 - [§ 17-1013 State petroleum bulk storage advisory council](17-1013-state-petroleum-bulk-storage-advisory-council.md)
 - [§ 17-1015 State petroleum bulk storage standards](17-1015-state-petroleum-bulk-storage-standards.md)
+- [§ 17-1016 Reduction of air pollution from petroleum bulk storage facilities](17-1016-reduction-of-air-pollution-from-petroleum-bulk.md)
 - [§ 17-1017 Preemption of local law](17-1017-preemption-of-local-law.md)
 
 <details>
@@ -29,6 +30,8 @@ Section 17-1001. Legislative findings and declarations.
         17-1011. Access to records and facilities.
         17-1013. State petroleum bulk storage advisory council.
         17-1015. State petroleum bulk storage standards.
+        17-1016. Reduction of air pollution from petroleum bulk storage
+                   facilities.
         17-1017. Preemption of local law.
 ```
 

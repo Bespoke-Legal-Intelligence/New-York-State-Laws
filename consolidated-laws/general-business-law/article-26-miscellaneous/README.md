@@ -145,6 +145,7 @@
 - [§ 399-G Labeling of solder](399g-labeling-of-solder.md)
 - [§ 399-GG Packaging of electronic liquid](399gg-packaging-of-electronic-liquid.md)
 - [§ 399-H Disposal of records containing personal identifying information](399h-disposal-of-records-containing-personal-identifying-information.md)
+- [§ 399-HH Sale of whipped cream chargers](399hh-sale-of-whipped-cream-chargers.md)
 - [§ 399-I Prohibit the sale of unsafe cribs and restrict use of such cribs in certain settings](399i-prohibit-the-sale-of-unsafe-cribs-and-restrict-use-of-such-cribs-in-certain.md)
 - [§ 399-II Furniture tip restraint device](399ii-furniture-tip-restraint-device.md)
 - [§ 399-II\*2 Prohibit the sale of crib bumper pads and restrict use of such pads in certain settings](399ii-2-prohibit-the-sale-of-crib-bumper-pads-and-restrict-use-of-such-pads-in-certain.md)
@@ -376,6 +377,7 @@ Section 390.         Substitution of spurious oils for internal
         399-gg.      Packaging of electronic liquid.
         399-h.       Disposal of records containing personal identifying
                        information.
+        399-hh.      Sale of whipped cream chargers.
         399-i.       Prohibit the sale of unsafe cribs and restrict use
                        of such cribs in certain settings.
         399-ii.      Furniture tip restraint device.

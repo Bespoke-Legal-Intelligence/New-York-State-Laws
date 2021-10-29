@@ -10,6 +10,7 @@
 - [§ 603 Definitions](603-definitions.md)
 - [§ 604 Eligibility conditions](604-eligibility-conditions.md)
 - [§ 605 Qualified employers; application](605-qualified-employers-application.md)
+- [§ 605-A Shared work program](605a-shared-work-program.md)
 - [§ 606 Revocation of approval](606-revocation-of-approval.md)
 - [§ 607 Benefits](607-benefits.md)
 - [§ 608 Maximum payments](608-maximum-payments.md)
@@ -29,6 +30,7 @@ Section 602.   Application.
         603.   Definitions.
         604.   Eligibility conditions.
         605.   Qualified employers; application.
+        605-a. Shared work program.
         606.   Revocation of approval.
         607.   Benefits.
         608.   Maximum payments.
