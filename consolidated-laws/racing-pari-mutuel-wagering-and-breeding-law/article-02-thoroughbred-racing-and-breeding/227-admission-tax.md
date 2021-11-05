@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 227", "kind": "section", "law_id": "PML", "location_id": "227", "path": "ARTICLE 2 › SECTION 227", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/227.md", "title": "Admission tax"} -->
+﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 227", "kind": "section", "law_id": "PML", "location_id": "227", "path": "ARTICLE 2 › SECTION 227", "repealed": true, "repealed_date": "2021-11-05", "source": "nys-laws:PML/227.md", "title": "Admission tax"} -->
 # Racing, Pari-Mutuel Wagering and Breeding Law § 227 — Admission tax
 
 [Racing, Pari-Mutuel Wagering and Breeding Law](../README.md) › [Article 2 — Thoroughbred Racing and Breeding](README.md)
+
+**Repealed** (5 Nov 2021). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 227. Admission tax. 1. Every corporation holding a race meeting

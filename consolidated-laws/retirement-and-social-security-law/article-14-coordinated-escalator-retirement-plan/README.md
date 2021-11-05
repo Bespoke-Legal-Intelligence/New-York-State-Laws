@@ -30,6 +30,10 @@
 - [§ 507-I Disability benefits; Westchester county district attorney investigators](507i-disability-benefits-westchester-county-district-attorney.md)
 - [§ 508 Death benefits](508-death-benefits.md)
 - [§ 508-A Death benefit for vested members who die prior to retirement](508a-death-benefit-for-vested-members-who-die-prior-to-retirement.md)
+- [§ 508-B Death benefit for deputy sheriffs employed by Nassau county](508b-death-benefit-for-deputy-sheriffs-employed-by-nassau-county.md)
+- [§ 508-B\*2 Death benefits for correction officers employed by Nassau county](508b-2-death-benefits-for-correction-officers-employed-by-nassau-county.md)
+- [§ 508-B\*3 Death benefits for correction officers employed by Suffolk county](508b-3-death-benefits-for-correction-officers-employed-by-suffolk-county.md)
+- [§ 508-B\*4 Death benefits for deputy sheriffs employed by Suffolk county](508b-4-death-benefits-for-deputy-sheriffs-employed-by-suffolk-county.md)
 - [§ 509 Accidental death benefits](509-accidental-death-benefits.md)
 - [§ 509-A COVID-19 benefit](509a-covid-19-benefit.md)
 - [§ 509-A\*2 COVID-19 benefit](509a-2-covid-19-benefit.md)
@@ -93,6 +97,14 @@ Section 500.     Application.
         508.     Death benefits.
         508-a.   Death benefit for vested members who die prior to
                    retirement.
+        508-b.   Death benefit for deputy sheriffs employed by Nassau
+                   county.
+        508-b*2. Death benefits for correction officers employed by
+                   Nassau county.
+        508-b*3. Death benefits for correction officers employed by
+                   Suffolk county.
+        508-b*4. Death benefits for deputy sheriffs employed by Suffolk
+                   county.
         509.     Accidental death benefits.
         509-a.   COVID-19 benefit.
         509-a*2. COVID-19 benefit.

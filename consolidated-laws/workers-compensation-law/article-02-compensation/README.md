@@ -32,6 +32,7 @@
 - [§ 15 Schedule in case of disability](15-schedule-in-case-of-disability.md)
 - [§ 15-A Assessment on insolvent group self-insured trusts](15a-assessment-on-insolvent-group-self-insured-trusts.md)
 - [§ 16 Death benefits](16-death-benefits.md)
+- [§ 16-A Death benefits due to diesel exposure](16a-death-benefits-due-to-diesel-exposure.md)
 - [§ 17 Aliens](17-aliens.md)
 - [§ 18 Notice of injury or death](18-notice-of-injury-or-death.md)
 - [§ 18-A Notice: The New York Jockey Injury Compensation Fund, Inc](18a-notice-the-new-york-jockey-injury-compensation-fund-inc.md)
@@ -111,6 +112,7 @@ Section  9.    Definitions.
         15.    Schedule in case of disability.
         15-a.  Assessment on insolvent group self-insured trusts.
         16.    Death benefits.
+        16-a.  Death benefits due to diesel exposure.
         17.    Aliens.
         18.    Notice of injury or death.
         18-a.  Notice: The New York Jockey Injury Compensation Fund,

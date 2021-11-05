@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 406", "kind": "section", "law_id": "PML", "location_id": "406", "path": "ARTICLE 4 › SECTION 406", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/406.md", "title": "State admission tax"} -->
+﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 406", "kind": "section", "law_id": "PML", "location_id": "406", "path": "ARTICLE 4 › SECTION 406", "repealed": true, "repealed_date": "2021-11-05", "source": "nys-laws:PML/406.md", "title": "State admission tax"} -->
 # Racing, Pari-Mutuel Wagering and Breeding Law § 406 — State admission tax
 
 [Racing, Pari-Mutuel Wagering and Breeding Law](../README.md) › [Article 4 — Quarter Horse Racing and Breeding](README.md)
+
+**Repealed** (5 Nov 2021). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 406. State admission tax. 1. Every corporation, association or

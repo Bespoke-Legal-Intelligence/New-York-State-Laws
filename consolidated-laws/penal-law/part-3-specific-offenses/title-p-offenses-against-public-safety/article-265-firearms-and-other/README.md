@@ -17,6 +17,7 @@
 - [§ 265.04 Criminal possession of a weapon in the first degree](265.04-criminal-possession-of-a-weapon-in-the-first.md)
 - [§ 265.05 Unlawful possession of weapons by persons under sixteen](265.05-unlawful-possession-of-weapons-by-persons.md)
 - [§ 265.06 Unlawful possession of a weapon upon school grounds](265.06-unlawful-possession-of-a-weapon-upon-school.md)
+- [§ 265.07 Registration and serialization of firearms, rifles, shotguns, finished frames or receivers, and unfinished frames or receivers](265.07-registration-and-serialization-of-firearms.md)
 - [§ 265.08 Criminal use of a firearm in the second degree](265.08-criminal-use-of-a-firearm-in-the-second-degree.md)
 - [§ 265.09 Criminal use of a firearm in the first degree](265.09-criminal-use-of-a-firearm-in-the-first-degree.md)
 - [§ 265.10 Manufacture, transport, disposition and defacement of weapons and dangerous instruments and appliances](265.10-manufacture-transport-disposition.md)
@@ -40,6 +41,10 @@
 - [§ 265.50 Criminal manufacture, sale, or transport of an undetectable firearm, rifle or shotgun](265.50-criminal-manufacture-sale-or-transport.md)
 - [§ 265.50\*2 Failure to safely store rifles, shotguns, and firearms in the second degree](265.50-2-failure-to-safely-store-rifles-shotguns.md)
 - [§ 265.55 Criminal possession of an undetectable firearm, rifle or shotgun](265.55-criminal-possession-of-an-undetectable-firearm.md)
+- [§ 265.60 Criminal sale of a ghost gun in the second degree](265.60-criminal-sale-of-a-ghost-gun-in-the-second.md)
+- [§ 265.61 Criminal sale of a ghost gun in the first degree](265.61-criminal-sale-of-a-ghost-gun-in-the-first.md)
+- [§ 265.63 Criminal sale of an unfinished frame or receiver in the second degree](265.63-criminal-sale-of-an-unfinished-frame.md)
+- [§ 265.64 Criminal sale of an unfinished frame or receiver in the first degree](265.64-criminal-sale-of-an-unfinished-frame.md)
 
 <details>
 <summary>Official heading of Article 265, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -59,6 +64,9 @@ Section 265.00   Definitions.
         265.05   Unlawful possession of weapons by persons under
                    sixteen.
         265.06   Unlawful possession of a weapon upon school grounds.
+        265.07   Registration and serialization of firearms, rifles,
+                   shotguns, finished frames or receivers, and
+                   unfinished frames or receivers.
         265.08   Criminal use of a firearm in the second degree.
         265.09   Criminal use of a firearm in the first degree.
         265.10   Manufacture, transport, disposition and defacement of
@@ -90,6 +98,12 @@ Section 265.00   Definitions.
                    in the second degree.
         265.55   Criminal possession of an undetectable firearm, rifle
                    or shotgun.
+        265.60   Criminal sale of a ghost gun in the second degree.
+        265.61   Criminal sale of a ghost gun in the first degree.
+        265.63   Criminal sale of an unfinished frame or receiver in the
+                   second degree.
+        265.64   Criminal sale of an unfinished frame or receiver in the
+                   first degree.
 ```
 
 </details>

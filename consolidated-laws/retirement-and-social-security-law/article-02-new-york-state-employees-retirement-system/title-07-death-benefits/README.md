@@ -23,6 +23,8 @@
 - [§ 63-D Uniformed court officers and peace officers; certain disabilities](63d-uniformed-court-officers-and-peace.md)
 - [§ 63-E Retirement for disability incurred in performance of duty; Westchester county district attorney investigators](63e-retirement-for-disability-incurred.md)
 - [§ 63-F Disability benefits; Westchester county district attorney investigators](63f-disability-benefits-westchester-county.md)
+- [§ 63-G Performance of duty disability retirement](63g-performance-of-duty-disability-retirement.md)
+- [§ 63-H Certain impairments of health; presumption](63h-certain-impairments-of-health-presumption.md)
 - [§ 64 Payment of both pensions for accident and other benefits prohibited](64-payment-of-both-pensions-for-accident.md)
 
 <details>
@@ -56,6 +58,8 @@ Section 60.     Ordinary death benefit.
                   investigators.
         63-f.   Disability benefits; Westchester county district
                   attorney investigators.
+        63-g.   Performance of duty disability retirement.
+        63-h.   Certain impairments of health; presumption.
         64.     Payment of both pensions for accident and other benefits
                   prohibited.
 ```

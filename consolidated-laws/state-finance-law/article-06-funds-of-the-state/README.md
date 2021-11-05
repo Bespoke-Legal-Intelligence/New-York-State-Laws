@@ -40,6 +40,7 @@
 - [§ 89-G Accident prevention course internet, and other technology pilot program fund](89g-accident-prevention-course-internet-and-other-technology-pilot-program-fund.md)
 - [§ 89-H Medical cannabis trust fund](89h-medical-cannabis-trust-fund.md)
 - [§ 89-I Military family relief fund](89i-military-family-relief-fund.md)
+- [§ 89-J The school bus motorist education fund](89j-the-school-bus-motorist-education-fund.md)
 - [§ 90 New York state department of transportation highway safety program fund](90-new-york-state-department-of-transportation-highway-safety-program-fund.md)
 - [§ 90-A New York state passenger facility charge fund](90a-new-york-state-passenger-facility-charge-fund.md)
 - [§ 91 Transportation safety account](91-transportation-safety-account.md)
@@ -322,6 +323,7 @@ Section 70.        Classification of funds.
                      technology pilot program fund.
         89-h.      Medical cannabis trust fund.
         89-i.      Military family relief fund.
+        89-j.      The school bus motorist education fund.
         90.        New York state department of transportation highway
                      safety program fund.
         90-a.      New York state passenger facility charge fund.

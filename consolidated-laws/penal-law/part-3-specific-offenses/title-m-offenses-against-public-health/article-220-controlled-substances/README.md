@@ -20,7 +20,6 @@
 - [§ 220.41 Criminal sale of a controlled substance in the second degree](220.41-criminal-sale-of-a-controlled-substance.md)
 - [§ 220.43 Criminal sale of a controlled substance in the first degree](220.43-criminal-sale-of-a-controlled-substance.md)
 - [§ 220.44 Criminal sale of a controlled substance in or near school grounds](220.44-criminal-sale-of-a-controlled-substance.md)
-- [§ 220.45 Criminally possessing a hypodermic instrument](220.45-criminally-possessing-a-hypodermic.md) *(repealed)*
 - [§ 220.46 Criminal injection of a narcotic drug](220.46-criminal-injection-of-a-narcotic-drug.md)
 - [§ 220.48 Criminal sale of a controlled substance to a child](220.48-criminal-sale-of-a-controlled-substance.md)
 - [§ 220.50 Criminally using drug paraphernalia in the second degree](220.50-criminally-using-drug-paraphernalia.md)

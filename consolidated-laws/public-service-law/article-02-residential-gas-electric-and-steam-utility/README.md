@@ -25,6 +25,7 @@
 - [§ 46 Emergency disconnections to residences](46-emergency-disconnections-to-residences.md)
 - [§ 47 Inspection and examination of apparatus](47-inspection-and-examination-of-apparatus.md)
 - [§ 48 Emergency hotline](48-emergency-hotline.md)
+- [§ 48-A Utility services; domestic violence victims](48a-utility-services-domestic-violence-victims.md)
 - [§ 49 Residential steam service](49-residential-steam-service.md)
 - [§ 50 Residential water service](50-residential-water-service.md)
 - [§ 51 Rules and regulations](51-rules-and-regulations.md)
@@ -59,6 +60,7 @@ Section 30.   Residential gas, electric and steam service policy.
         46.   Emergency disconnections to residences.
         47.   Inspection and examination of apparatus.
         48.   Emergency hotline.
+        48-a. Utility services; domestic violence victims.
         49.   Residential steam service.
         50.   Residential water service.
         51.   Rules and regulations.

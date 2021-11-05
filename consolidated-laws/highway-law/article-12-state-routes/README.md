@@ -341,6 +341,8 @@
 - [§ 344-M\*17 Portion of the state highway system to be designated as the "CPL Gerald B](344m-17-portion-of-the-state-highway-system-to-be-designated-as-the-cpl-gerald-b.md)
 - [§ 344-M\*18 Portion of the state highway system to be designated and known as the "Sgt](344m-18-portion-of-the-state-highway-system-to-be-designated-and-known-as-the-sgt.md)
 - [§ 344-M\*19 Portion of the state highway system to be designated and known as the "Staff Sergeant Peter J](344m-19-portion-of-the-state-highway-system-to-be-designated-and-known-as-the-staff.md)
+- [§ 344-M\*20 Portion of the state highway system to be designated as the "SP4 Richard F](344m-20-portion-of-the-state-highway-system-to-be-designated-as-the-sp4-richard-f.md)
+- [§ 344-M\*21 Portion of the state highway system to be designated as the "Trooper Thomas J](344m-21-portion-of-the-state-highway-system-to-be-designated-as-the-trooper-thomas-j.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 
 <details>
@@ -1137,6 +1139,12 @@ Section 340-a.     Designation of state interstate routes.
         344-m*19.  Portion of the state highway system to be designated
                      and known as the "Staff Sergeant Peter J. Blidy
                      Memorial Bridge".
+        344-m*20.  Portion of the state highway system to be designated
+                     as the "SP4 Richard F. Walton, Jr. Memorial
+                     Highway".
+        344-m*21.  Portion of the state highway system to be designated
+                     as the "Trooper Thomas J. Consorte Memorial
+                     Bridge".
         345-a.     Abandonment and transfer of state highways.
 ```
 

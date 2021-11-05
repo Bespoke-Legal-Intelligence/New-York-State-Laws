@@ -292,23 +292,8 @@ any sales slip, invoice, receipt, or other statement given the occupant,
 and such rent is reasonable in relation to the value of such property,
 services, amusement charges or other items, only such separately stated
 rent will be subject to tax under paragraph one of this subdivision.
-  (f) * (1) Any admission charge where such admission charge is in
-excess of ten cents to or for the use of any place of amusement in the
-state, except charges for admission to race tracks or combative sports
-which charges are taxed under any other law of this state, or dramatic
-or musical arts performances, or live circus performances, or motion
-picture theaters, and except charges to a patron for admission to, or
-use of, facilities for sporting activities in which such patron is to be
-a participant, such as bowling alleys and swimming pools. For any person
-having the permanent use or possession of a box or seat or a lease or a
-license, other than a season ticket, for the use of a box or seat at a
-place of amusement, the tax shall be upon the amount for which a similar
-box or seat is sold for each performance or exhibition at which the box
-or seat is used or reserved by the holder, licensee or lessee, and shall
-be paid by the holder, licensee or lessee.
-  * NB Effective until November 1, 2021
-  * (1) Any admission charge where such admission charge is in excess of
-ten cents to or for the use of any place of amusement in the state,
+  (f) (1) Any admission charge where such admission charge is in excess
+of ten cents to or for the use of any place of amusement in the state,
 except charges for admission to combative sports which charges are taxed
 under any other law of this state, or dramatic or musical arts
 performances, or live circus performances, or motion picture theaters,
@@ -321,7 +306,6 @@ amusement, the tax shall be upon the amount for which a similar box or
 seat is sold for each performance or exhibition at which the box or seat
 is used or reserved by the holder, licensee or lessee, and shall be paid
 by the holder, licensee or lessee.
-  * NB Effective November 1, 2021
   (2) (i) The dues paid to any social or athletic club in this state if
 the dues of an active annual member, exclusive of the initiation fee,
 are in excess of ten dollars per year, and on the initiation fee alone,

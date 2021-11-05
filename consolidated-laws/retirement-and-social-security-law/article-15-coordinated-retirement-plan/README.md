@@ -34,6 +34,10 @@
 - [§ 605-E Accidental disability retirement for ambulance medical technician supervisors, ambulance medical technician coordinators, ambulance medic...](605e-accidental-disability-retirement-for-ambulance-medical-technician-supervisors.md)
 - [§ 606 Death benefits](606-death-benefits.md)
 - [§ 606-A Death benefit for vested members who die prior to retirement](606a-death-benefit-for-vested-members-who-die-prior-to-retirement.md)
+- [§ 606-B Death benefit for deputy sheriffs employed by Nassau county](606b-death-benefit-for-deputy-sheriffs-employed-by-nassau-county.md)
+- [§ 606-B\*2 Death benefits for correction officers employed by Nassau county](606b-2-death-benefits-for-correction-officers-employed-by-nassau-county.md)
+- [§ 606-B\*3 Death benefits for correction officers employed by Suffolk county](606b-3-death-benefits-for-correction-officers-employed-by-suffolk-county.md)
+- [§ 606-B\*4 Death benefits for deputy sheriffs employed by Suffolk county](606b-4-death-benefits-for-deputy-sheriffs-employed-by-suffolk-county.md)
 - [§ 607 Accidental death benefits](607-accidental-death-benefits.md)
 - [§ 607-A Performance of duty disability retirement](607a-performance-of-duty-disability-retirement.md)
 - [§ 607-B Performance of duty disability retirement](607b-performance-of-duty-disability-retirement.md)
@@ -45,6 +49,10 @@
 - [§ 607-H Disability benefits; Westchester county district attorney investigators](607h-disability-benefits-westchester-county-district-attorney-investigators.md)
 - [§ 607-I COVID-19 benefit](607i-covid-19-benefit.md)
 - [§ 607-I\*2 COVID-19 benefit](607i-2-covid-19-benefit.md)
+- [§ 607-J Performance of duty, disability retirement for chief fire marshals, assistant chief fire marshals, division supervising fire marshals, su...](607j-performance-of-duty-disability-retirement-for-chief-fire-marshals-assistant.md)
+- [§ 607-J\*2 Performance of duty disability retirement benefits for certain first responders in Nassau county](607j-2-performance-of-duty-disability-retirement-benefits-for-certain-first.md)
+- [§ 607-J\*3 Performance of duty disability retirement](607j-3-performance-of-duty-disability-retirement.md)
+- [§ 607-K Certain impairments of health; presumption](607k-certain-impairments-of-health-presumption.md)
 - [§ 608 Final average salary](608-final-average-salary.md)
 - [§ 609 Credit for service](609-credit-for-service.md)
 - [§ 610 Options](610-options.md)
@@ -119,6 +127,14 @@ Section 600.     Application.
         606.     Death benefits.
         606-a.   Death benefit for vested members who die prior to
                    retirement.
+        606-b.   Death benefit for deputy sheriffs employed by Nassau
+                   county.
+        606-b*2. Death benefits for correction officers employed by
+                   Nassau county.
+        606-b*3. Death benefits for correction officers employed by
+                   Suffolk county.
+        606-b*4. Death benefits for deputy sheriffs employed by Suffolk
+                   county.
         607.     Accidental death benefits.
         607-a.   Performance of duty disability retirement.
         607-b.   Performance of duty disability retirement.
@@ -136,6 +152,15 @@ Section 600.     Application.
                    attorney investigators.
         607-i.   COVID-19 benefit.
         607-i*2. COVID-19 benefit.
+        607-j.   Performance of duty, disability retirement for chief
+                   fire marshals, assistant chief fire marshals,
+                   division supervising fire marshals, supervising fire
+                   marshals, fire marshals and fire marshal trainees in
+                   Nassau county.
+        607-j*2. Performance of duty disability retirement benefits for
+                   certain first responders in Nassau county.
+        607-j*3. Performance of duty disability retirement.
+        607-k.   Certain impairments of health; presumption.
         608.     Final average salary.
         609.     Credit for service.
         610.     Options.

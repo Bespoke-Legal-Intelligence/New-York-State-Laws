@@ -31,6 +31,7 @@
 - [§ 221 Annual compilation of this chapter](221-annual-compilation-of-this-chapter.md)
 - [§ 222 Exemptions for testing, demonstration or experimentation](222-exemptions-for-testing-demonstration.md)
 - [§ 223 Motor vehicle theft prevention program](223-motor-vehicle-theft-prevention-program.md)
+- [§ 223-A School bus motorist education program](223a-school-bus-motorist-education-program.md)
 - [§ 224 Simplification of business application procedures and administration](224-simplification-of-business-application-procedures.md)
 - [§ 224-A Establishment of the highway construction and maintenance safety education program](224a-establishment-of-the-highway-construction.md)
 
@@ -68,6 +69,7 @@ Section 200.   Department of motor vehicles; commissioner.
         221.   Annual compilation of this chapter.
         222.   Exemptions for testing, demonstration or experimentation.
         223.   Motor vehicle theft prevention program.
+        223-a. School bus motorist education program.
         224.   Simplification of business application procedures and
                  administration.
         224-a. Establishment of the highway construction and maintenance
