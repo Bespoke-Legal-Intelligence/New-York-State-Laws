@@ -14,6 +14,7 @@
 - [§ 306-A Index number in an action or proceeding commenced in supreme or county court](306a-index-number-in-an-action-or-proceeding-commenced-in-supreme.md)
 - [§ 306-B Service of the summons and complaint, summons with notice, third-party summons and complaint, or petition with a notice of petition or or...](306b-service-of-the-summons-and-complaint-summons-with-notice-third.md)
 - [§ 306-C Notice of commencement of action for personal injuries by recipient of medical assistance](306c-notice-of-commencement-of-action-for-personal-injuries.md)
+- [§ 306-D Additional mailing of notice in an action arising out of a consumer credit transaction](306d-additional-mailing-of-notice-in-an-action-arising-out.md)
 - [§ 307 Personal service upon the state](307-personal-service-upon-the-state.md)
 - [§ 308 Personal service upon a natural person](308-personal-service-upon-a-natural-person.md)
 - [§ 309 Personal service upon an infant, incompetent or conservatee](309-personal-service-upon-an-infant-incompetent-or-conservatee.md)
@@ -41,7 +42,7 @@
 <summary>Official heading of Article 3, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                 ARTICLE 3
+                                ARTICLE 3
         JURISDICTION AND SERVICE, APPEARANCE AND CHOICE OF COURT
         301.   Jurisdiction over persons, property or status.
         302.   Personal jurisdiction by acts of non-domiciliaries.
@@ -69,6 +70,8 @@
                  with a notice of petition or order to show cause.
         306-c. Notice of commencement of action for personal injuries by
                  recipient of medical assistance.
+        306-d. Additional mailing of notice in an action arising out of
+                 a consumer credit transaction.
         307.   Personal service upon the state.
         308.   Personal service upon a natural person.
         309.   Personal service upon an infant, incompetent or

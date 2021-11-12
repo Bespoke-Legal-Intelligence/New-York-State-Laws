@@ -20,6 +20,7 @@
 - [§ 7513 Fees and expenses](7513-fees-and-expenses.md)
 - [§ 7514 Judgment on an award](7514-judgment-on-an-award.md)
 - [§ 7515 Mandatory arbitration clauses; prohibited](7515-mandatory-arbitration-clauses-prohibited.md)
+- [§ 7516 Confirmation of an award based on a consumer credit transaction](7516-confirmation-of-an-award-based-on-a-consumer-credit-transaction.md)
 
 <details>
 <summary>Official heading of Article 75, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -71,6 +72,8 @@
                     (ii) Exceptions.
                     (iii) Mandatory arbitration clause null and void.
                 (c)
+        7516.   Confirmation of an award based on a consumer credit
+                  transaction.
 ```
 
 </details>

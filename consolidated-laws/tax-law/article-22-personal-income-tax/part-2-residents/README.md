@@ -32,6 +32,7 @@
 - [§ 628 Gift for missing and exploited children clearinghouse fund](628-gift-for-missing-and-exploited-children-clearinghouse-fund.md)
 - [§ 629 Gift for Alzheimer's disease support services](629-gift-for-alzheimers-disease-support-services.md)
 - [§ 629-A Gift for eliminating the stigma relating to mental illness](629a-gift-for-eliminating-the-stigma-relating-to-mental-illness.md)
+- [§ 629-B Gift for substance use disorder education and recovery](629b-gift-for-substance-use-disorder-education-and-recovery.md)
 - [§ 630 Gift for prostate and testicular cancer research and education](630-gift-for-prostate-and-testicular-cancer-research-and-education.md)
 - [§ 630-A Gift for World Trade Center memorial foundation](630a-gift-for-world-trade-center-memorial-foundation.md)
 - [§ 630-B Gift for volunteer firefighting and volunteer emergency services fund](630b-gift-for-volunteer-firefighting-and-volunteer-emergency-services-fund.md)
@@ -50,6 +51,7 @@
 - [§ 630-G\*3 Gift to the arts fund](630g-3-gift-to-the-arts-fund.md)
 - [§ 630-H New York state campaign finance fund check-off](630h-new-york-state-campaign-finance-fund-check-off.md)
 - [§ 630-I Gifts for the state library system](630i-gifts-for-the-state-library-system.md)
+- [§ 630-I\*2 Gift for the gun violence research fund](630i-2-gift-for-the-gun-violence-research-fund.md)
 
 <details>
 <summary>Official heading of Part 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -88,6 +90,7 @@ Section 611.     New York taxable income of a resident individual.
                    fund.
         629-a.   Gift for eliminating the stigma relating to mental
                    illness.
+        629-b.   Gift for substance use disorder education and recovery.
         630.     Gift for prostate and testicular cancer research and
                    education.
         630-a.   Gift for World Trade Center memorial foundation.
@@ -111,6 +114,7 @@ Section 611.     New York taxable income of a resident individual.
         630-g*3. Gift to the arts fund.
         630-h.   New York state campaign finance fund check-off.
         630-i.   Gifts for the state library system.
+        630-i*2. Gift for the gun violence research fund.
 ```
 
 </details>

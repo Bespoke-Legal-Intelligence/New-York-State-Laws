@@ -18,6 +18,7 @@
 - [§ 605 Prisoners sentenced at one session of court to be transported at same time](605-prisoners-sentenced-at-one-session-of-court-to-be-transported-at-same-time.md)
 - [§ 605-A Transportation of female incarcerated individuals](605a-transportation-of-female-incarcerated-individuals.md)
 - [§ 606 Payment of costs for prosecution of incarcerated individuals](606-payment-of-costs-for-prosecution-of-incarcerated-individuals.md)
+- [§ 607 Prohibition of double-bunked housing](607-prohibition-of-double-bunked-housing.md)
 - [§ 610 Freedom of worship](610-freedom-of-worship.md)
 - [§ 611 Births to incarcerated individuals of correctional institutions and care of children of incarcerated individuals of correctional institut...](611-births-to-incarcerated-individuals-of-correctional-institutions-and-care.md)
 - [§ 611-A Commitments to county or regional correctional institutions](611a-commitments-to-county-or-regional-correctional-institutions.md)
@@ -57,6 +58,7 @@ Section 600.   Certain correctional officers to administer oaths.
         605-a. Transportation of female incarcerated individuals.
         606.   Payment of costs for prosecution of incarcerated
                  individuals.
+        607.   Prohibition of double-bunked housing.
         610.   Freedom of worship.
         611.   Births to inmates of correctional institutions and care
                  of children of inmates of correctional institutions.

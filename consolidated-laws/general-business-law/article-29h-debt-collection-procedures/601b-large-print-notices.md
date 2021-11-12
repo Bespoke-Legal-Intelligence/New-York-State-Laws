@@ -4,8 +4,8 @@
 [General Business Law](../README.md) › [Article 29-H — Debt Collection Procedures](README.md)
 
 ```text
-  * § 601-b. Large print notices. 1. Each and every principal creditor
-or debt collector shall, in each initial communication, clearly and
+  § 601-b. Large print notices. 1. Each and every principal creditor or
+debt collector shall, in each initial communication, clearly and
 conspicuously disclose to the debtor that each communication can be
 provided in an alternative, reasonably accommodatable, format. Such
 disclosure shall substantively contain the following:
@@ -19,5 +19,4 @@ request.
 collector providing reasonable accommodation in compliance with the
 Americans with Disabilities Act of 1990 shall not be deemed to have
 violated any provision herein.
-  * NB Effective November 7, 2021
 ```

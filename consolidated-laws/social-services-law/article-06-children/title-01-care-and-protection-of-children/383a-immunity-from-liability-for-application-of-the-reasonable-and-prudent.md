@@ -32,16 +32,9 @@ the regulations of the office of children and family services.
   (b) "Child" shall mean a child who is in foster care or who was in
 foster care at the time the reasonable and prudent parent standard was
 applied.
-  * (c) "Child care facility" shall mean an institution, group
-residence, group home, agency operated boarding home, or supervised
-independent living program.
-  * NB Effective until certain conditions are met (see chapter 56 of
-2021, Part L, § 17 sb (a))
-  * (c) "Child care facility" shall mean an institution, group
-residence, group home, agency operated boarding home, or supervised
-setting, including a supervised independent living program.
-  * NB Effective when certain conditions are met (see chapter 56 of
-2021, Part L, § 17 sb (a))
+  (c) "Child care facility" shall mean an institution, group residence,
+group home, agency operated boarding home, or supervised setting,
+including a supervised independent living program.
   (d) "Reasonable and prudent parent standard" shall mean, in accordance
 with 42 U.S.C. 675 as amended by P.L. 113-183, the standard
 characterized by careful and sensible parental decisions that maintain

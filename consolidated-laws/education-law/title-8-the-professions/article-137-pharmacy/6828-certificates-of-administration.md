@@ -4,12 +4,11 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 137 — Pharmacy](README.md)
 
 ```text
-  * § 6828. Certificates of administration. 1. No pharmacist shall
+  § 6828. Certificates of administration. 1. No pharmacist shall
 administer immunizing agents without a certificate of administration
 issued by the department pursuant to regulations of the commissioner.
   2. The fee for a certificate of administration shall be one hundred
 dollars and shall be paid on a triennial basis. A certificate may be
 suspended or revoked in the same manner as a license to practice
 pharmacy.
-  * NB Repealed July 1, 2022
 ```

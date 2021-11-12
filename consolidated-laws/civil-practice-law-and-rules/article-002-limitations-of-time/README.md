@@ -31,6 +31,7 @@
 - [§ 214-F Action to recover damages for personal injury caused by contact with or exposure to any substance or combination of substances found with...](214f-action-to-recover-damages-for-personal-injury-caused-by-contact-with-or-exposure.md)
 - [§ 214-G Certain child sexual abuse cases](214g-certain-child-sexual-abuse-cases.md)
 - [§ 214-H Certain actions by public water suppliers to recover damages for injury to property](214h-certain-actions-by-public-water-suppliers-to-recover-damages-for-injury.md)
+- [§ 214-I Certain actions arising out of consumer credit transactions to be commenced within three years](214i-certain-actions-arising-out-of-consumer-credit-transactions-to-be-commenced.md)
 - [§ 215 Actions to be commenced within one year: against sheriff, coroner or constable; for escape of prisoner; for assault, battery, false impri...](215-actions-to-be-commenced-within-one-year-against-sheriff-coroner-or-constable.md)
 - [§ 216 Abbreviation of period to one year after notice](216-abbreviation-of-period-to-one-year-after-notice.md)
 - [§ 217 Proceeding against body or officer; actions complaining about conduct that would constitute a union's breach of its duty of fair represen...](217-proceeding-against-body-or-officer-actions-complaining-about-conduct-that-would.md)
@@ -134,6 +135,8 @@
         214-g. Certain child sexual abuse cases.
         214-h. Certain actions by public water suppliers to recover
                  damages for injury to property.
+               214-i. Certain actions arising out of consumer credit
+                 transactions to be commenced within three years.
         215.   Actions to be commenced within one year: against sheriff,
                  coroner or constable; for escape of prisoner; for
                  assault, battery, false imprisonment, malicious

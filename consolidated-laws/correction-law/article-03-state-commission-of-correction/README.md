@@ -14,6 +14,7 @@
 - [§ 46 Additional functions, powers and duties of the commission](46-additional-functions-powers-and-duties-of-the-commission.md)
 - [§ 47 Functions, powers and duties of the board](47-functions-powers-and-duties-of-the-board.md)
 - [§ 48 Preference](48-preference.md)
+- [§ 49 Commission on prison education](49-commission-on-prison-education.md)
 
 <details>
 <summary>Official heading of Article 3, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -31,6 +32,7 @@ Section 40. Definitions.
         46. Additional functions, powers and duties of the commission.
         47. Functions, powers and duties of the board.
         48. Preference.
+        49. Commission on prison education.
 ```
 
 </details>

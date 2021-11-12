@@ -37,6 +37,7 @@
 - [§ 1525 Alteration of boundaries of city school district](1525-alteration-of-boundaries-of-city-school-district.md)
 - [§ 1526 Enlarged city school districts](1526-enlarged-city-school-districts.md)
 - [§ 1527 Payroll deductions for deposit to employee bank accounts](1527-payroll-deductions-for-deposit-to-employee-bank-accounts.md)
+- [§ 1527-A Prohibit symbols of hate](1527a-prohibit-symbols-of-hate.md)
 - [§ 1527-C Shared superintendent program](1527c-shared-superintendent-program.md)
 
 <details>
@@ -89,6 +90,7 @@ Section 1501.   Existing school districts continued.
         1526.   Enlarged city school districts.
         1527.   Payroll deductions for deposit to employee bank
                   accounts.
+        1527-a. Prohibit symbols of hate.
         1527-c. Shared superintendent program.
 ```
 

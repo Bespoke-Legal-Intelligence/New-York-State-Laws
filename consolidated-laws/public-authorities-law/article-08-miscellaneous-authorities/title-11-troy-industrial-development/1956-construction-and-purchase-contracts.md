@@ -8,5 +8,5 @@
 relating to the requirement of public bidding with respect to the
 construction of public facilities or projects shall not be applicable to
 the acquisition, construction, reconstruction, improvement, maintenance,
-equipping and furnishing of projects authorized by this act.
+equipping and furnishing of projects authorized by this title.
 ```

@@ -60,6 +60,7 @@ Section 611.     New York taxable income of a resident individual.
         629.     Gift for Alzheimer's disease support services.
         629-a.   Gift for eliminating the stigma relating to mental
                    illness.
+        629-b.   Gift for substance use disorder education and recovery.
         630.     Gift for prostate cancer research, detection and
                    education.
         630-a.   Gift for World Trade Center memorial foundation.
@@ -78,6 +79,7 @@ Section 611.     New York taxable income of a resident individual.
         630-g*3. Gift to the arts fund.
         630-h.   New York state campaign finance fund check-off.
         630-i.   Gifts for the state library system.
+        630-i*2. Gift for the gun violence research fund.
                PART III-NONRESIDENTS AND PART-YEAR RESIDENTS
 Section 631.     New York source income of a nonresident individual.
         632.     Nonresident partners and electing shareholders of S

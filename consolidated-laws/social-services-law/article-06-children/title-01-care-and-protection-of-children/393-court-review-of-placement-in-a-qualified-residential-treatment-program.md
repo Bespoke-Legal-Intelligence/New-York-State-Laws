@@ -75,7 +75,5 @@ placement in a qualified residential treatment program from occurring at
 the same time as another hearing scheduled for such child, including but
 not limited to the child's permanency hearing, provided such approval is
 completed within sixty days of the start of such placement.
-  * NB Effective when certain conditions are met (see chapter 56 of
-2021, Part L, § 17 sb (a))
   * NB There are 2 § 393's
 ```

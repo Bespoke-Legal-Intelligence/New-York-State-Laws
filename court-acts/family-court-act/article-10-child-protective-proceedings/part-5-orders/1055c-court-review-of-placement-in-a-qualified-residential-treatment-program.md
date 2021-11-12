@@ -4,7 +4,7 @@
 [Family Court Act](../../README.md) › [Article 10 — Child Protective Proceedings](../README.md) › [Part 5 — Orders](README.md)
 
 ```text
-  * §  1055-c. Court review of placement in a qualified residential
+  §  1055-c. Court review of placement in a qualified residential
 treatment program. 1. The provisions of this section shall apply when a
 child is placed on or after September twenty-ninth, two thousand
 twenty-one and resides in a qualified residential treatment program, as
@@ -71,6 +71,4 @@ placement in a qualified residential treatment program from occurring at
 the same time as another hearing scheduled for such child, including but
 not limited to the child's permanency hearing, provided such approval is
 completed within sixty days of the start of such placement.
-  * NB Effective when certain conditions are met (see chapter 56 of
-2021, Part L, § 17 sb (a))
 ```

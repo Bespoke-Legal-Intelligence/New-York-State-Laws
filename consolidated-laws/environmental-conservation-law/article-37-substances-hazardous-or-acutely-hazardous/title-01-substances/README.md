@@ -3,6 +3,8 @@
 
 [Environmental Conservation Law](../../README.md) › [Article 37 — Substances Hazardous or Acutely Hazardous to Public Health, Safety or the Environment](../README.md)
 
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
 ## Contents
 
 - [§ 37-0101 Definitions](37-0101-definitions.md)
@@ -15,6 +17,7 @@
 - [§ 37-0115 Lead-containing jewelry](37-0115-lead-containing-jewelry.md)
 - [§ 37-0117 Prohibition of cosmetic products and personal care products containing 1,4-dioxane](37-0117-prohibition-of-cosmetic-products-and-personal.md)
 - [§ 37-0119 Prohibition against certain uses of trichloroethylene](37-0119-prohibition-against-certain-uses.md)
+- [§ 37-0119\*2 Coal tar; prohibited](37-0119-2-coal-tar-prohibited.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -36,6 +39,7 @@ Section 37-0101.   Definitions.
                      products containing 1,4-dioxane.
         37-0119.   Prohibition against certain uses of
                      trichloroethylene.
+        37-0119*2. Coal tar; prohibited.
 ```
 
 </details>

@@ -45,6 +45,7 @@
 - [§ 125 Reports to superintendent; penalty for failure to make](125-reports-to-superintendent-penalty-for-failure-to-make.md)
 - [§ 128 Preservation of books and records](128-preservation-of-books-and-records.md)
 - [§ 129 Requirement of notice on withdrawal of certain time deposits; notice to superintendent](129-requirement-of-notice-on-withdrawal-of-certain-time-deposits-notice.md)
+- [§ 129-A Requirement of written notification; alternative payment schedules](129a-requirement-of-written-notification-alternative-payment-schedules.md)
 - [§ 130 Restrictions on officers, directors and employees](130-restrictions-on-officers-directors-and-employees.md)
 - [§ 131 Prohibitions against encroachments upon certain powers of banks and trust companies](131-prohibitions-against-encroachments-upon-certain-powers-of-banks-and-trust.md)
 - [§ 132 Use of sign, or words, indicating bank or trust company by unauthorized persons prohibited](132-use-of-sign-or-words-indicating-bank-or-trust-company-by-unauthorized-persons.md)
@@ -122,6 +123,8 @@ Section  94.    Change from bank to trust company; from trust company to
         128.    Preservation of books and records.
         129.    Requirement of notice on withdrawal of certain time
                   deposits; notice to superintendent.
+        129-a.  Requirement of written notification; alternative payment
+                  schedules.
         130.    Restrictions on officers, directors and employees.
         131.    Prohibitions against encroachments upon certain powers
                   of banks and trust companies.

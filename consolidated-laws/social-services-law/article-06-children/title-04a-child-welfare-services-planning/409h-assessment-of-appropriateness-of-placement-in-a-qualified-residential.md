@@ -4,7 +4,7 @@
 [Social Services Law](../../README.md) › [Article 6 — Children](../README.md) › [Title 4-A — Child Welfare Services Planning and Administration](README.md)
 
 ```text
-  * § 409-h. Assessment of appropriateness of placement in a qualified
+  § 409-h. Assessment of appropriateness of placement in a qualified
 residential treatment program. 1. (a) Prior to a child's placement in a
 qualified residential treatment program, as defined in subdivision four
 of this section, but at least within thirty days of the start of a
@@ -102,6 +102,4 @@ role in case management or case planning decision making authority for
 the child for whom such assessment is being conducted, in accordance
 with 42 United States Code sections 672 and 675a and the state's
 approved title IV-E state plan.
-  * NB Effective when certain conditions are met (see chapter 56 of
-2021, Part L, § 17 sb (a))
 ```

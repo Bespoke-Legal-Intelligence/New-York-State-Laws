@@ -174,6 +174,8 @@
 - [§ 399-YY Cable television company providing telephone services](399yy-cable-television-company-providing-telephone-services.md)
 - [§ 399-YYY Satellite television company providing television and/or telephone services](399yyy-satellite-television-company-providing-television-and-or-telephone-services.md)
 - [§ 399-Z Telemarketing; establishment of no telemarketing sales calls statewide registry; authorization of the transfer of telephone numbers on th...](399z-telemarketing-establishment-of-no-telemarketing-sales-calls-statewide-registry.md)
+- [§ 399-Z-1 Telecommunication companies blocking certain numbers](399z-1-telecommunication-companies-blocking-certain-numbers.md)
+- [§ 399-Z-1\*2 STIR/SHAKEN authentication framework](399z-1-2-stir-shaken-authentication-framework.md)
 - [§ 399-ZZ Telephone bills](399zz-telephone-bills.md)
 - [§ 399-ZZZ Prohibition of certain fee charges](399zzz-prohibition-of-certain-fee-charges.md)
 - [§ 399-ZZZZ Prohibition of certain fee charges for termination or early cancellation](399zzzz-prohibition-of-certain-fee-charges-for-termination-or-early-cancellation.md)
@@ -426,6 +428,9 @@ Section 390.         Substitution of spurious oils for internal
                        the transfer of telephone numbers on the no
                        telemarketing sales calls statewide registry to
                        the national "do-not-call" registry.
+        399-z-1.     Telecommunication companies blocking certain
+                       numbers.
+        399-z-1*2.   STIR/SHAKEN authentication framework.
         399-zz.      Telephone bills.
         399-zzz.     Prohibition of certain fee charges.
         399-zzzz.    Prohibition of certain fee charges for termination

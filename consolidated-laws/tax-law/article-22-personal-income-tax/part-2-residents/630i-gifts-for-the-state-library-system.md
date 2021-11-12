@@ -4,7 +4,7 @@
 [Tax Law](../../README.md) › [Article 22 — Personal Income Tax](../README.md) › [Part 2 — Residents](README.md)
 
 ```text
-  § 630-i. Gifts for the state library system. Effective for any tax
+  * § 630-i. Gifts for the state library system. Effective for any tax
 year commencing on or after January first, two thousand twenty-two, an
 individual in any taxable year may elect to contribute to the state
 library aid program for financial support for public libraries and
@@ -22,4 +22,5 @@ program and shall be used in addition to, not to supplant, existing
 funding under the state library aid program and used for only those
 purposes enumerated in section two hundred seventy-three of the
 education law.
+  * NB There are 2 § 630-i's
 ```

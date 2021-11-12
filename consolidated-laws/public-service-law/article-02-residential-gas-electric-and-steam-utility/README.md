@@ -31,6 +31,7 @@
 - [§ 51 Rules and regulations](51-rules-and-regulations.md)
 - [§ 52 Gas, electric and steam service to tenants provided through shared meters](52-gas-electric-and-steam-service-to-tenants-provided-through-shared-meters.md)
 - [§ 53 Application](53-application.md)
+- [§ 53-A Prohibition of utilities engaging in detrimental conduct towards a residential customer](53a-prohibition-of-utilities-engaging-in-detrimental-conduct-towards-a-residential.md)
 
 <details>
 <summary>Official heading of Article 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -67,6 +68,8 @@ Section 30.   Residential gas, electric and steam service policy.
         52.   Gas, electric and steam service to tenants provided
                 through shared meters.
         53.   Application.
+        53-a. Prohibition of utilities engaging in detrimental conduct
+                towards a residential customer.
 ```
 
 </details>

@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 137 — Pharmacy](README.md)
 
 ```text
-  * § 6801. Definition of practice of pharmacy.  1. The practice of the
+  § 6801. Definition of practice of pharmacy.  1. The practice of the
 profession of pharmacy is defined as the administering, preparing,
 compounding, preserving, or the dispensing of drugs, medicines and
 therapeutic devices on the basis of prescriptions or other legal
@@ -87,17 +87,4 @@ exceed a thirty-day emergency supply; and
 refills, the prescriber of the patient-specific prescription whose
 authorization could not be obtained, that an emergency prescription of
 insulin has been dispensed.
-  * NB Effective until July 1, 2022
-  * § 6801. Definition of practice of pharmacy. The practice of the
-profession of pharmacy is defined as the preparing, compounding,
-preserving, or the dispensing of drugs, medicines and therapeutic
-devices on the basis of prescriptions or other legal authority, and
-collaborative drug therapy management in accordance with the provisions
-of section sixty-eight hundred one-a of this article.
-  * NB Effective and Repealed July 1, 2022
-  * § 6801. Definition of practice of pharmacy. The practice of the
-profession of pharmacy is defined as the preparing, compounding,
-preserving, or the dispensing of drugs, medicines and therapeutic
-devices on the basis of prescriptions or other legal authority.
-  * NB Effective July 1, 2022
 ```

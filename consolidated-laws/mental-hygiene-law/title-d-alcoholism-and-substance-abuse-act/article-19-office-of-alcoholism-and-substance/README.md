@@ -35,6 +35,7 @@
 - [§ 19.41 Facilities; receivership](19.41-facilities-receivership.md)
 - [§ 19.42 Medical advisory panel](19.42-medical-advisory-panel.md)
 - [§ 19.43 Retaliatory personnel actions](19.43-retaliatory-personnel-actions.md)
+- [§ 19.45 Substance use disorder education and recovery grants](19.45-substance-use-disorder-education.md)
 
 <details>
 <summary>Official heading of Article 19, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -87,6 +88,7 @@ Section 19.01   Declaration of policy.
         19.41   Facilities; receivership.
         19.42   Medical advisory panel.
         19.43   Retaliatory personnel actions.
+        19.45   Substance use disorder education and recovery grants.
 ```
 
 </details>

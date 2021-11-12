@@ -268,25 +268,8 @@ chapter and the transfer of custody and guardianship or care and custody
 of the child to a local social services official the court shall
 determine in its order the services and assistance needed to assist the
 child in learning independent living skills.
-  * (g) In any case in which an order has been issued pursuant to this
+  (g) (i) In any case in which an order has been issued pursuant to this
 section approving a foster care placement instrument, the social
-services official or authorized agency charged with custody or care of
-the child shall report any anticipated change in placement to the court
-and the attorneys for the parties, including the attorney for the child,
-forthwith, but not later than one business day following either the
-decision to change the placement or the actual date the placement change
-occurred, whichever is sooner. Such notice shall indicate the date that
-the placement change is anticipated to occur or the date the placement
-change occurred, as applicable. Provided, however, if such notice lists
-an anticipated date for the placement change, the local social services
-district or authorized agency shall subsequently notify the court and
-attorneys for the parties, including the attorney for the child, of the
-date the placement change occurred; such notice shall occur no later
-than one business day following the placement change.
-  * NB Effective until certain conditions are met (see chapter 56 of
-2021, Pt. L, §17 sb (a))
-  * (g) (i) In any case in which an order has been issued pursuant to
-this section approving a foster care placement instrument, the social
 services official or authorized agency charged with custody or care of
 the child shall report the initial placement and any anticipated change
 in placement to the court and the attorneys for the parties, including
@@ -315,8 +298,6 @@ in accordance with section three hundred ninety-three of this chapter.
 Notwithstanding any other provision of law to the contrary, such court
 review shall occur no later than sixty days from the date the placement
 of the child in the qualified residential treatment program commenced.
-  * NB Effective when certain conditions are met (see chapter 56 of
-2021, Part L. § 17 sb (a))
   (4) Notice. (a) Upon the filing of a petition pursuant to this
 section, the family court judge shall direct that service of a notice of
 the proceeding and a copy of the petition shall be made upon such

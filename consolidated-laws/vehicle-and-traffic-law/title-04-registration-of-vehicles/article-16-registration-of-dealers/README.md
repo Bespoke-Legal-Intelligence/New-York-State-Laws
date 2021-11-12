@@ -18,6 +18,7 @@
 - [§ 417-C Mandatory disclosures by sellers prior to resale](417c-mandatory-disclosures-by-sellers-prior-to-resale.md)
 - [§ 418 Punishment for violations](418-punishment-for-violations.md)
 - [§ 419 Recreational vehicle shows or exhibits](419-recreational-vehicle-shows-or-exhibits.md)
+- [§ 419-A Inflatable restraint system, required equipment upon sale](419a-inflatable-restraint-system-required-equipment-upon-sale.md)
 
 <details>
 <summary>Official heading of Article 16, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -45,6 +46,8 @@ Section 415.   Registration of manufacturers, dealers, repairmen and
         417-c. Mandatory disclosures by sellers prior to resale.
         418.   Punishment for violations.
         419.   Recreational vehicle shows or exhibits.
+        419-a. Inflatable restraint system, required equipment upon
+                 sale.
 ```
 
 </details>

@@ -28,6 +28,7 @@
 - [§ 83-A Habitat conservation and access account](83a-habitat-conservation-and-access-account.md)
 - [§ 84 The United States Olympic Committee/Lake Placid Olympic Training Center Fund](84-the-united-states-olympic-committee-lake-placid-olympic-training-center-fund.md)
 - [§ 84-A Olympic games guaranty fund](84a-olympic-games-guaranty-fund.md)
+- [§ 86 Gun violence research fund](86-gun-violence-research-fund.md)
 - [§ 88 New York state infrastructure trust fund](88-new-york-state-infrastructure-trust-fund.md)
 - [§ 88-A Mass transportation operating assistance fund](88a-mass-transportation-operating-assistance-fund.md)
 - [§ 88-B Suburban transportation fund](88b-suburban-transportation-fund.md)
@@ -41,6 +42,7 @@
 - [§ 89-H Medical cannabis trust fund](89h-medical-cannabis-trust-fund.md)
 - [§ 89-I Military family relief fund](89i-military-family-relief-fund.md)
 - [§ 89-J The school bus motorist education fund](89j-the-school-bus-motorist-education-fund.md)
+- [§ 89-J\*2 Substance use disorder education and recovery fund](89j-2-substance-use-disorder-education-and-recovery-fund.md)
 - [§ 90 New York state department of transportation highway safety program fund](90-new-york-state-department-of-transportation-highway-safety-program-fund.md)
 - [§ 90-A New York state passenger facility charge fund](90a-new-york-state-passenger-facility-charge-fund.md)
 - [§ 91 Transportation safety account](91-transportation-safety-account.md)
@@ -112,6 +114,7 @@
 - [§ 97-G Centralized services fund](97g-centralized-services-fund.md)
 - [§ 97-H Lake George park trust fund](97h-lake-george-park-trust-fund.md)
 - [§ 97-I New York state local government records management improvement fund](97i-new-york-state-local-government-records-management-improvement-fund.md)
+- [§ 97-J Firearm violence research fund](97j-firearm-violence-research-fund.md)
 - [§ 97-L Sewage treatment program management and administration fund](97l-sewage-treatment-program-management-and-administration-fund.md)
 - [§ 97-P Community college tuition and instructional income fund](97p-community-college-tuition-and-instructional-income-fund.md)
 - [§ 97-Q New York state emergency medical services training account](97q-new-york-state-emergency-medical-services-training-account.md)
@@ -309,6 +312,7 @@ Section 70.        Classification of funds.
         84.        The United States Olympic Committee/Lake Placid
                      Olympic Training Center Fund.
         84-a.      Olympic games guaranty fund.
+        86.        Gun violence research fund.
         88.        New York state infrastructure trust fund.
         88-a.      Mass transportation operating assistance fund.
         88-b.      Suburban transportation fund.
@@ -324,6 +328,7 @@ Section 70.        Classification of funds.
         89-h.      Medical cannabis trust fund.
         89-i.      Military family relief fund.
         89-j.      The school bus motorist education fund.
+        89-j*2.    Substance use disorder education and recovery fund.
         90.        New York state department of transportation highway
                      safety program fund.
         90-a.      New York state passenger facility charge fund.
@@ -410,6 +415,7 @@ Section 70.        Classification of funds.
         97-h.      Lake George park trust fund.
         97-i.      New York state local government records management
                      improvement fund.
+        97-j.      Firearm violence research fund.
         97-l.      Sewage treatment program management and
                      administration fund.
         97-p.      Community college tuition and instructional income

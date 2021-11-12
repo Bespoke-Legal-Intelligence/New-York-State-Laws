@@ -4,7 +4,7 @@
 [Family Court Act](../README.md) › [Article 10-B — Former Foster Care Youth Re-entry Proceedings](README.md)
 
 ```text
-  * § 1091-a. Court review of placement in a qualified residential
+  § 1091-a. Court review of placement in a qualified residential
 treatment program. 1. The provisions of this section shall apply when a
 former foster care youth is placed on or after September twenty-ninth,
 two thousand twenty-one, and resides in a qualified residential
@@ -113,6 +113,4 @@ the same time as another hearing scheduled for such former foster care
 youth, including but not limited to the former foster care youth's
 permanency hearing, provided such approval is completed within sixty
 days of the start of such placement.
-  * NB Effective when certain conditions are met (see chapter 56 of
-2021, Part L, § 17 sb (a))
 ```

@@ -18,6 +18,7 @@
 - [§ 511 Change of place of trial](511-change-of-place-of-trial.md)
 - [§ 512 Change of place of trial of action or issue triable without a jury](512-change-of-place-of-trial-of-action-or-issue-triable-without-a-jury.md)
 - [§ 513 Misplacement of venue in consumer credit transactions](513-misplacement-of-venue-in-consumer-credit-transactions.md)
+- [§ 514 Actions relating to consumer goods](514-actions-relating-to-consumer-goods.md)
 
 <details>
 <summary>Official heading of Article 5, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -58,6 +59,7 @@
         512. Change of place of trial of action or issue triable without
                 a jury.
         513. Misplacement of venue in consumer credit transactions.
+        514. Actions relating to consumer goods.
 ```
 
 </details>
