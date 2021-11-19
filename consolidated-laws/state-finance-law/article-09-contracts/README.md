@@ -11,6 +11,7 @@
 - [§ 136-A Contracts for architectural, engineering, geological, landscape architecture and surveying services](136a-contracts-for-architectural-engineering-geological-landscape-architecture.md)
 - [§ 136-B Selection of underwriters by state agencies](136b-selection-of-underwriters-by-state-agencies.md)
 - [§ 136-C Contracts for employee training and organizational development services](136c-contracts-for-employee-training-and-organizational-development-services.md)
+- [§ 136-D Contracts involving industrial painting and industrial coatings](136d-contracts-involving-industrial-painting-and-industrial-coatings.md)
 - [§ 137 Bond to secure payment of certain claims arising from a public improvement; enforcement](137-bond-to-secure-payment-of-certain-claims-arising-from-a-public-improvement.md)
 - [§ 138 State contracts not to be assigned without consent](138-state-contracts-not-to-be-assigned-without-consent.md)
 - [§ 138-A Commencement of actions on state public works contracts](138a-commencement-of-actions-on-state-public-works-contracts.md)
@@ -51,6 +52,8 @@ Section 135.   Separate specifications for contract work for the state.
         136-b. Selection of underwriters by state agencies.
         136-c. Contracts for employee training and organizational
                  development services.
+        136-d. Contracts involving industrial painting and industrial
+                 coatings.
         137.   Bond to secure payment of certain claims arising from a
                  public improvement; enforcement.
         138.   State contracts not to be assigned without consent.

@@ -34,6 +34,7 @@
 - [§ 16 Death benefits](16-death-benefits.md)
 - [§ 16-A Death benefits due to diesel exposure](16a-death-benefits-due-to-diesel-exposure.md)
 - [§ 17 Aliens](17-aliens.md)
+- [§ 17-A Limited English proficiency](17a-limited-english-proficiency.md)
 - [§ 18 Notice of injury or death](18-notice-of-injury-or-death.md)
 - [§ 18-A Notice: The New York Jockey Injury Compensation Fund, Inc](18a-notice-the-new-york-jockey-injury-compensation-fund-inc.md)
 - [§ 18-B Notice; the New York black car operators' injury compensation fund, inc](18b-notice-the-new-york-black-car-operators-injury-compensation-fund-inc.md)
@@ -114,6 +115,7 @@ Section  9.    Definitions.
         16.    Death benefits.
         16-a.  Death benefits due to diesel exposure.
         17.    Aliens.
+        17-a.  Limited English proficiency.
         18.    Notice of injury or death.
         18-a.  Notice: The New York Jockey Injury Compensation Fund,
                  Inc.

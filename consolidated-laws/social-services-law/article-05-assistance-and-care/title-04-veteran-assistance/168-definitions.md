@@ -80,9 +80,9 @@ other than bad conduct or dishonorable from such service.
   (6) Korean conflict; from the twenty-seventh day of June, nineteen
 hundred fifty to and including the thirty-first day of January, nineteen
 hundred fifty-five.
-  (7) Viet Nam conflict; from the twenty-eighth day of February,
-nineteen hundred sixty-one to and including the seventh day of May,
-nineteen hundred seventy-five.
+  (7) Viet Nam conflict; from the first of November, nineteen hundred
+fifty-five to and including the seventh day of May, nineteen hundred
+seventy-five.
   (8) Persian Gulf conflict; from the second day of August, nineteen
 hundred ninety to and including the end of such conflict.
   3. Veteran organization means the:

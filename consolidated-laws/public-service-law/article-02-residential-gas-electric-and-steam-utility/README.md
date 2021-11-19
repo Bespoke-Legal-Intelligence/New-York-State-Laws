@@ -7,6 +7,7 @@
 
 - [§ 30 Residential gas, electric and steam service policy](30-residential-gas-electric-and-steam-service-policy.md)
 - [§ 31 Applications for service](31-applications-for-service.md)
+- [§ 31-A Use of preferred name and pronouns](31a-use-of-preferred-name-and-pronouns.md)
 - [§ 32 Termination of service](32-termination-of-service.md)
 - [§ 33 Discontinuance of residential utility service to multiple dwellings](33-discontinuance-of-residential-utility-service-to-multiple-dwellings.md)
 - [§ 34 Discontinuance of utility service in two family dwellings](34-discontinuance-of-utility-service-in-two-family-dwellings.md)
@@ -41,6 +42,7 @@
            RESIDENTIAL GAS, ELECTRIC AND STEAM UTILITY SERVICE
 Section 30.   Residential gas, electric and steam service policy.
         31.   Applications for service.
+        31-a. Use of preferred name and pronouns.
         32.   Termination of service.
         33.   Discontinuance of residential utility service to multiple
                 dwellings.

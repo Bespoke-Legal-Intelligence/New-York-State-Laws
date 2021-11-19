@@ -8,7 +8,7 @@
 | Senate code | SOS |
 | Type | Consolidated law, chapter 55 |
 | Sections | 706 |
-| Last changed | 12 Nov 2021 |
+| Last changed | 19 Nov 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Social Services |
 
@@ -33,6 +33,7 @@ Became a law April 18, 1940, with approval of the Governor.  Passed,
 
 ## Recent changes
 
+- [19 Nov 2021](../../changes/2021/2021-11-19.md): 1 amended
 - [12 Nov 2021](../../changes/2021/2021-11-12.md): 6 amended
 - [15 Oct 2021](../../changes/2021/2021-10-15.md): 4 amended, 2 added
 - [8 Oct 2021](../../changes/2021/2021-10-08.md): 3 amended
@@ -42,7 +43,6 @@ Became a law April 18, 1940, with approval of the Governor.  Passed,
 - [6 Aug 2021](../../changes/2021/2021-08-06.md): 2 amended
 - [30 Jul 2021](../../changes/2021/2021-07-30.md): 4 amended
 - [9 Jul 2021](../../changes/2021/2021-07-09.md): 1 amended
-- [2 Jul 2021](../../changes/2021/2021-07-02.md): 4 amended
 
 ## Contents
 

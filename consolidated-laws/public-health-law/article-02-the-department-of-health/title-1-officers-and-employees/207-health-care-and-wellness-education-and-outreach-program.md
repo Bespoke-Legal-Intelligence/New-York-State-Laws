@@ -137,7 +137,6 @@ including but not limited to polycystic ovary syndrome, endometriosis,
 and pelvic inflammatory disease.
   * NB There are 3 par (p)'s
   * (p) Postnatal donation of tissue and fluids.
-  * NB Effective November 13, 2021
   * NB There are 3 par (p)'s
   * (p) Preeclampsia, including information about detection, risk
 factors and management, and possible options for treatment.

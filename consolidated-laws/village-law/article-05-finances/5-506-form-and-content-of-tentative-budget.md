@@ -4,7 +4,7 @@
 [Village Law](../README.md) › [Article 5 — Finances](README.md)
 
 ```text
-  § 5-506 Form and content of tentative budget. l. The tentative budget
+  § 5-506 Form and content of tentative budget. 1. The tentative budget
 shall consist of the following schedules and statements:
   a. A schedule of appropriations for all expenses authorized or
 required by law, other than expenses of operation of a municipal
@@ -69,7 +69,7 @@ law.
 the purpose for which established and by parallel columns the amount
 therein as of a date not more than forty-five days prior to the filing
 of the tentative budget, and the amount, if any, recommended to be spent
-therefrom to meet appropriations for the ensuing fiscal year.  A
+therefrom to meet appropriations for the ensuing fiscal year. A
 requirement of law that an expenditure from any such reserve fund be
 subject to a permissive or mandatory referendum shall not prevent the
 inclusion of a recommendation for such expenditure in the tentative
@@ -85,12 +85,12 @@ to show such recommendations and estimates by funds in parallel columns.
 subdivided by administrative units and shall show in parallel columns,
 for each office or position of employment, the title, the number of
 persons in the title, the recommended rate of compensation for the title
-and the total recommended appropriation for the title.  g. A statement
-of the estimated income and proposed expenditures of a municipal
-electric, gas or steam utility service or a water utility for which an
-annual estimate is not filed, pursuant to subdivision five of section
-5-502 of this article which shall be in the form and detail prescribed
-in subdivision four of section 5-502 of this article.
+and the total recommended appropriation for the title.
+  g. A statement of the estimated income and proposed expenditures of a
+municipal electric, gas or steam utility service or a water utility for
+which an annual estimate is not filed, pursuant to subdivision five of
+section 5-502 of this article which shall be in the form and detail
+prescribed in subdivision four of section 5-502 of this article.
   2. The tentative budget shall include any other data which the board
 of trustees may, by resolution, require or which the budget officer
 shall deem advisable.

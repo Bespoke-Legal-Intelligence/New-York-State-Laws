@@ -94,8 +94,8 @@ conduct or dishonorable from such service; or
   (e) Korean conflict between June twenty-seventh, nineteen hundred
 fifty and January thirty-first, nineteen hundred fifty-five, both
 inclusive; or
-  (f) Viet Nam conflict between February twenty-eighth, nineteen hundred
-sixty-one and May seventh, nineteen hundred seventy-five, both
+  (f) Viet Nam conflict between November first, nineteen hundred
+fifty-five and May seventh, nineteen hundred seventy-five, both
 inclusive; or
   (g) veterans who served in the United States military and were exposed
 to radiation during military service in a "radiation-risk activity"

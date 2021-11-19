@@ -978,7 +978,7 @@ exceeding ten dollars. The commissioner shall forward a copy of such
 amended certificate to the clerk of the town or city which issued such
 certificate.
   * NB There are 2 sb 24's
-  * 25. (a) In assessing and reporting on the impact of section
+  25. (a) In assessing and reporting on the impact of section
 sixty-eight hundred one of the education law, pursuant to subdivision
 four of such section the commissioner may use: (1) influenza vaccine
 supply data from the federal centers for disease control and prevention;
@@ -1001,7 +1001,6 @@ the education law, manufacturers and distributors of adult immunizing
 agents doing business in this state, and others possessing such adult
 immunizing agents of additional information needed to respond to an
 imminent public health emergency.
-  * NB Repealed July 1, 2022
   26. The commissioner is hereby authorized and directed to review any
 policy or practice instituted in facilities operated by the department
 of corrections and community supervision, and in all local correctional

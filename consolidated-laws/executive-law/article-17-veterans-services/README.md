@@ -8,6 +8,7 @@
 - [§ 350 Definitions](350-definitions.md)
 - [§ 351 Division of veterans' services](351-division-of-veterans-services.md)
 - [§ 352 Veterans' services commission](352-veterans-services-commission.md)
+- [§ 352-A Veterans employment task force](352a-veterans-employment-task-force.md)
 - [§ 353 General functions, powers and duties of division](353-general-functions-powers-and-duties-of-division.md)
 - [§ 353-A Veteran speaker education program](353a-veteran-speaker-education-program.md)
 - [§ 354 Cooperation and facilities of other departments](354-cooperation-and-facilities-of-other-departments.md)
@@ -24,6 +25,7 @@
 - [§ 360 Local veterans' service committees](360-local-veterans-service-committees.md)
 - [§ 361 Appropriations for expenses and activities of local veterans' service agencies](361-appropriations-for-expenses-and-activities-of-local-veterans-service-agencies.md)
 - [§ 361-B Women veterans coordinator](361b-women-veterans-coordinator.md)
+- [§ 361-C Women veterans advisory committee](361c-women-veterans-advisory-committee.md)
 - [§ 362 Creation of annuity](362-creation-of-annuity.md)
 - [§ 363 Evidence of entitlement](363-evidence-of-entitlement.md)
 - [§ 364 Persons who may receive annuity](364-persons-who-may-receive-annuity.md)
@@ -31,6 +33,7 @@
 - [§ 366 Veterans health screening](366-veterans-health-screening.md)
 - [§ 367 Payment to parents of veterans](367-payment-to-parents-of-veterans.md)
 - [§ 368 Cremated remains of a veteran](368-cremated-remains-of-a-veteran.md)
+- [§ 368-A Intake forms for admission and residency](368a-intake-forms-for-admission-and-residency.md)
 
 <details>
 <summary>Official heading of Article 17, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -41,6 +44,7 @@
 Section 350.   Definitions.
         351.   Division of veterans' services.
         352.   Veterans' affairs commission.
+        352-a. Veterans employment task force.
         353.   General functions, powers and duties of division.
         353-a. Veteran speaker education program.
         354.   Cooperation and facilities of other departments.
@@ -66,6 +70,7 @@ Section 350.   Definitions.
         361.   Appropriations for expenses and activities of local
                  veterans' service agencies.
         361-b. Women veterans coordinator.
+        361-c. Women veterans advisory committee.
         362.   Creation of annuity.
         363.   Evidence of entitlement.
         364.   Persons who may receive annuity.
@@ -73,6 +78,7 @@ Section 350.   Definitions.
         366.   Veterans health screening.
         367.   Payment to parents of veterans.
         368.   Cremated remains of a veteran.
+        368-a. Intake forms for admission and residency.
 ```
 
 </details>

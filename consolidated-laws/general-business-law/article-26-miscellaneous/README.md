@@ -180,7 +180,8 @@
 - [§ 399-ZZZ Prohibition of certain fee charges](399zzz-prohibition-of-certain-fee-charges.md)
 - [§ 399-ZZZZ Prohibition of certain fee charges for termination or early cancellation](399zzzz-prohibition-of-certain-fee-charges-for-termination-or-early-cancellation.md)
 - [§ 399-ZZZZZ Broadband service for low-income consumers](399zzzzz-broadband-service-for-low-income-consumers.md)
-- [§ 399-ZZZZZ\*2](399zzzzz-2.md)
+- [§ 399-ZZZZZ\*2 Prohibition of certain broadband terminations or disconnections](399zzzzz-2-prohibition-of-certain-broadband-terminations-or-disconnections.md)
+- [§ 399-ZZZZZ\*3 Use of preferred name and pronouns](399zzzzz-3-use-of-preferred-name-and-pronouns.md)
 
 <details>
 <summary>Official heading of Article 26, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -438,6 +439,7 @@ Section 390.         Substitution of spurious oils for internal
         399-zzzzz.   Broadband service for low-income consumers.
         399-zzzzz*2. Prohibition of certain broadband terminations or
                        disconnections.
+        399-zzzzz.   Use of preferred name and pronouns.
 ```
 
 </details>
