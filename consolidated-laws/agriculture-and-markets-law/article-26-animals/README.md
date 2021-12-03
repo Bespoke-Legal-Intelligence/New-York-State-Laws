@@ -49,6 +49,7 @@
 - [§ 380 Use of elephants in entertainment acts](380-use-of-elephants-in-entertainment-acts.md)
 - [§ 380\*2 Examination of seized animals or animals taken possession of](380-2-examination-of-seized-animals-or-animals-taken-possession.md)
 - [§ 381 Prohibition of the declawing of cats](381-prohibition-of-the-declawing-of-cats.md)
+- [§ 382 Prohibition of the slaughter of race horses and race horse breeding stock](382-prohibition-of-the-slaughter-of-race-horses-and-race-horse-breeding-stock.md)
 
 <details>
 <summary>Official heading of Article 26, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -112,6 +113,8 @@ Section 350.   Definitions.
         380*2. Examination of seized animals or animals taken possession
                  of.
         381.   Prohibition of the declawing of cats.
+        382.   Prohibition of the slaughter of race horses and race
+                 horse breeding stock.
 ```
 
 </details>

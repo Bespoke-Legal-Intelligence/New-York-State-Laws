@@ -31,6 +31,7 @@
 - [§ 6-M Subprime home loans](6m-subprime-home-loans.md)
 - [§ 6-N Responsibility of banks for mortgages being processed for modification](6n-responsibility-of-banks-for-mortgages-being-processed-for-modification.md)
 - [§ 6-O Single point of contact for modifying delinquent home loans](6o-single-point-of-contact-for-modifying-delinquent-home-loans.md)
+- [§ 6-O\*2 Reverse cooperative apartment unit loans for persons sixty-two years of age or older](6o-2-reverse-cooperative-apartment-unit-loans-for-persons-sixty-two-years-of-age.md)
 - [§ 7 Payment of dividends or interest upon unclaimed deposits or shares; limitation of charges in connection with savings accounts](7-payment-of-dividends-or-interest-upon-unclaimed-deposits-or-shares-limitation.md)
 - [§ 8 Deposits by custodian designated by administrator of veterans' affairs, or by person certified by social security administration](8-deposits-by-custodian-designated-by-administrator-of-veterans-affairs.md)
 - [§ 9 Checks drawn against corporate funds or payable to corporations; no notice of defense against or claim to check](9-checks-drawn-against-corporate-funds-or-payable-to-corporations-no-notice.md)
@@ -104,6 +105,8 @@ Section 1.     Short title.
                  modification.
         6-o.   Single point of contact for modifying delinquent home
                  loans.
+        6-o*2. Reverse cooperative apartment unit loans for persons
+                 sixty-two years of age or older.
         7.     Payment of dividends or interest upon unclaimed deposits
                  or shares; limitation of charges in connection with
                  saving accounts.

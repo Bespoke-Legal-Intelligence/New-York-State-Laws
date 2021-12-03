@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 43-B — Organ, Tissue and Body Parts Procurement and Storage](README.md)
 
 ```text
-  * § 4369. Bone marrow registry information. 1. The commissioner, in
+  § 4369. Bone marrow registry information. 1. The commissioner, in
 consultation with health care practitioners and others with expertise in
 bone marrow donation and transplant and with the assistance of the
 transplant council as appropriate, shall develop and make available
@@ -22,5 +22,4 @@ access such information and for health care practitioners providing
 primary care to provide such information to patients who are eighteen
 years of age or older and under forty-five years of age who are not
 registered with a bone marrow registry.
-  * NB Effective November 27, 2021
 ```

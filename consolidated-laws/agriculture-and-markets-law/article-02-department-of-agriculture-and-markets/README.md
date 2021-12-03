@@ -19,6 +19,7 @@
 - [§ 15 Seal of department](15-seal-of-department.md)
 - [§ 16 General powers and duties of department](16-general-powers-and-duties-of-department.md)
 - [§ 16-A Food products containing nitrous oxide; packaging](16a-food-products-containing-nitrous-oxide-packaging.md)
+- [§ 16-B Public awareness campaign regarding Lyme disease and other tick-borne diseases](16b-public-awareness-campaign-regarding-lyme-disease-and-other-tick-borne.md)
 - [§ 17 Delegation of powers](17-delegation-of-powers.md)
 - [§ 18 Rules of department](18-rules-of-department.md)
 - [§ 19 Publication of rules](19-publication-of-rules.md)
@@ -53,6 +54,8 @@ Section 4.    Department of agriculture and markets.
         15.   Seal of department.
         16.   General powers and duties of department.
         16-a. Food products containing nitrous oxide; packaging.
+        16-b. Public awareness campaign regarding Lyme disease and other
+                tick-borne diseases.
         17.   Delegation of powers.
         18.   Rules of department.
         19.   Publication of rules.

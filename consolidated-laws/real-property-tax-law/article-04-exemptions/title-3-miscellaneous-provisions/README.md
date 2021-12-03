@@ -13,6 +13,7 @@
 - [§ 491-A Conservation easement agreement exemption; certain towns](491a-conservation-easement-agreement-exemption-certain-towns.md)
 - [§ 491-A\*2 Conservation easement agreement exemption; certain towns](491a-2-conservation-easement-agreement-exemption-certain-towns.md)
 - [§ 491-B Conservation easement agreement exemption; certain towns](491b-conservation-easement-agreement-exemption-certain-towns.md)
+- [§ 491-B\*2 Conservation easement agreement exemption; certain towns](491b-2-conservation-easement-agreement-exemption-certain-towns.md)
 - [§ 492 Ascertainment of amount of special assessment in certain cases](492-ascertainment-of-amount-of-special-assessment-in-certain-cases.md)
 - [§ 494 Taxation of exempt property upon transfer of title or possession in certain instances](494-taxation-of-exempt-property-upon-transfer-of-title-or-possession-in-certain.md)
 - [§ 494-A Exemption from taxation of property upon transfer of title in certain instances](494a-exemption-from-taxation-of-property-upon-transfer-of-title-in-certain.md)
@@ -37,6 +38,8 @@ Section 490.     Exemption from special ad valorem levies and special
         491-a*2. Conservation easement agreement exemption; certain
                    towns.
         491-b.   Conservation easement agreement exemption; certain
+                   towns.
+        491-b*2. Conservation easement agreement exemption; certain
                    towns.
         492.     Ascertainment of amount of special assessment in
                    certain cases.

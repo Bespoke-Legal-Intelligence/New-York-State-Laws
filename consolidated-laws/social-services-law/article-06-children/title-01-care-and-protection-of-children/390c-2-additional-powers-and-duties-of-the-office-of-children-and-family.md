@@ -35,5 +35,17 @@ children and family services shall report to the governor, the temporary
 president of the senate and the speaker of the assembly regarding the
 results of the study undertaken pursuant to subdivision two of this
 section.
+  4. The commissioner of children and family services is authorized and
+directed, no later than one year from the effective date of this
+subdivision, to promulgate rules and regulations to require that local
+social services districts offer child day care providers, as defined in
+section three hundred ninety of this title, the option to be paid any
+monies owed for providing subsidized child care by a deposit directly
+into a bank account of the child day care provider. Such direct deposit
+shall only be made at the express written consent of the provider and
+shall be requested on forms provided by the local social services
+district and duly filled in by the provider. Such written consent can be
+revoked at any time by the provider in writing on forms provided by the
+local social services district.
   * NB There are 2 § 390-c's
 ```

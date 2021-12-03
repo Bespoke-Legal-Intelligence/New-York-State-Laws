@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 26 — Miscellaneous](README.md)
 
 ```text
-  * § 399-hh. Sale of whipped cream chargers. 1. For purposes of this
+  § 399-hh. Sale of whipped cream chargers. 1. For purposes of this
 section, the term "whipped cream charger" shall mean a steel cylinder or
 cartridge filled with nitrous oxide (N2O) that is used as a whipping
 agent in a whipped cream dispenser.
@@ -27,5 +27,4 @@ firm or any other business entity that violates the provisions of this
 section shall be subject to a civil penalty of not more than two hundred
 fifty dollars for an initial offense and not more than five hundred
 dollars for the second and each subsequent offense.
-  * NB Effective November 25, 2021
 ```

@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 854", "kind": "section", "law_id": "LAB", "location_id": "854", "path": "ARTICLE 24-A › SECTION 854", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/854.md", "title": "Quarterly work opportunity tax credit reporting"} -->
+# Labor Law § 854 — Quarterly work opportunity tax credit reporting
+
+[Labor Law](../README.md) › [Article 24-A — New York State Workforce Investment Act](README.md)
+
+```text
+  § 854. Quarterly work opportunity tax credit reporting. The department
+shall make available on its website certain statistical information and
+target group eligibility information relating to work opportunity tax
+credit certifications approved by the department made pursuant to the
+federal Protecting Americans from Tax Hikes Act of 2015 (Pub. L. No.
+114-113)(PATH Act). The information relating to each certification
+issued by the department that shall be disclosed includes the employer,
+starting wage, target group, and position information as reported by
+employers to the department on employer applications for certification
+pursuant to the PATH Act. The department shall make available the
+information required to be disclosed by this section no later than
+ninety days after the effective date of this section and shall update
+such information every three months thereafter.
+```

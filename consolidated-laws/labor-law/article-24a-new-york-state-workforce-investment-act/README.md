@@ -9,6 +9,7 @@
 - [§ 851 Administration](851-administration.md)
 - [§ 852 New York state workforce investment board](852-new-york-state-workforce-investment-board.md)
 - [§ 853 Report](853-report.md)
+- [§ 854 Quarterly work opportunity tax credit reporting](854-quarterly-work-opportunity-tax-credit-reporting.md)
 
 <details>
 <summary>Official heading of Article 24-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -20,6 +21,7 @@ Section 850. Legislative findings and objectives.
         851. Administration.
         852. New York state workforce investment board.
         853. Report.
+        854. Quarterly work opportunity tax credit reporting.
 ```
 
 </details>

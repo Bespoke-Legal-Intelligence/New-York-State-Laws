@@ -22,5 +22,5 @@ program and shall be used in addition to, not to supplant, existing
 funding under the state library aid program and used for only those
 purposes enumerated in section two hundred seventy-three of the
 education law.
-  * NB There are 2 § 630-i's
+  * NB There are 3 § 630-i's
 ```

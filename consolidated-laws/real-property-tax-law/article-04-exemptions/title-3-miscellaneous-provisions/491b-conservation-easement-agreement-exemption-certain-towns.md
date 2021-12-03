@@ -4,8 +4,8 @@
 [Real Property Tax Law](../../README.md) › [Article 4 — Exemptions](../README.md) › [Title 3 — Miscellaneous Provisions](README.md)
 
 ```text
-  § 491-b. Conservation easement agreement exemption; certain towns. 1.
-Applicability. In a town having a population of not less than
+  * § 491-b. Conservation easement agreement exemption; certain towns.
+1.  Applicability. In a town having a population of not less than
 thirty-five thousand and not more than thirty-six thousand, that is
 located in a county having a population of not less than three hundred
 thousand and not more than three hundred seven thousand, based upon and
@@ -125,4 +125,5 @@ jurisdiction to the taxes levied on the assessment roll prepared on the
 basis of the first taxable status date after there is a violation of the
 terms and conditions of the conservation easement or such conservation
 easement agreement is canceled.
+  * NB There are 2 § 491-b's
 ```

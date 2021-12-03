@@ -36,6 +36,7 @@
 - [§ 131-W Limitations in the payment of rent arrears](131w-limitations-in-the-payment-of-rent-arrears.md)
 - [§ 131-X Reverse mortgage loans](131x-reverse-mortgage-loans.md)
 - [§ 131-Z Child assistance program](131z-child-assistance-program.md)
+- [§ 131-ZZ Child poverty reduction](131zz-child-poverty-reduction.md)
 - [§ 132 Investigation of applications](132-investigation-of-applications.md)
 - [§ 132-A Children born out of wedlock; special provisions](132a-children-born-out-of-wedlock-special-provisions.md)
 - [§ 133 Temporary preinvestigation emergency needs assistance or care](133-temporary-preinvestigation-emergency-needs-assistance-or-care.md)
@@ -114,6 +115,7 @@ Section 131.     Assistance, care and services to be given.
         131-w.   Limitations in the payment of rent arrears.
         131-x.   Reverse mortgage loans.
         131-z.   Child assistance program.
+        131-zz.  Child poverty reduction.
         132.     Investigation of applications.
         132-a.   Children born out of wedlock; special provisions.
         133.     Temporary preinvestigation emergency needs assistance

@@ -17,6 +17,7 @@
 - [§ 1374 Receivership](1374-receivership.md)
 - [§ 1375 Enforcement agencies](1375-enforcement-agencies.md)
 - [§ 1376-A Sale of consumer products containing lead or cadmium](1376a-sale-of-consumer-products-containing-lead-or-cadmium.md)
+- [§ 1376-B Manufacture and sale of seasonal and decorative lighting products containing lead](1376b-manufacture-and-sale-of-seasonal-and-decorative-lighting.md)
 
 <details>
 <summary>Official heading of Title 10, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -36,6 +37,8 @@ Section 1370.   Definitions.
         1374.   Receivership.
         1375.   Enforcement agencies.
         1376-a. Sale of consumer products containing lead or cadmium.
+        1376-b. Manufacture and sale of seasonal and decorative lighting
+                  products containing lead.
 ```
 
 </details>

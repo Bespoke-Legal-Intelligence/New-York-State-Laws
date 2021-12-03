@@ -17,5 +17,5 @@ enable a taxpayer to make such contribution. Notwithstanding any other
 provision of law, all revenues collected pursuant to this section shall
 be credited to the gun violence research fund and used only for those
 purposes enumerated in section eighty-six of the state finance law.
-  * NB There are 2 § 630-i's
+  * NB There are 3 § 630-i's
 ```

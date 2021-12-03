@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | BNK |
 | Type | Consolidated law, chapter 2 |
-| Sections | 861 |
-| Last changed | 12 Nov 2021 |
+| Sections | 862 |
+| Last changed | 3 Dec 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Banking |
 
@@ -33,6 +33,7 @@ Became a law April 16, 1914, with the approval of the Governor.  Passed,
 
 ## Recent changes
 
+- [3 Dec 2021](../../changes/2021/2021-12-03.md): 1 amended, 1 added
 - [12 Nov 2021](../../changes/2021/2021-11-12.md): 3 added
 - [29 Oct 2021](../../changes/2021/2021-10-29.md): 1 amended, 1 added
 - [6 Aug 2021](../../changes/2021/2021-08-06.md): 2 amended
@@ -42,7 +43,6 @@ Became a law April 16, 1914, with the approval of the Governor.  Passed,
 - [12 Feb 2021](../../changes/2021/2021-02-12.md): 1 amended
 - [13 Nov 2020](../../changes/2020/2020-11-13.md): 1 amended, 1 added
 - [19 Jun 2020](../../changes/2020/2020-06-19.md): 1 added
-- [10 Apr 2020](../../changes/2020/2020-04-10.md): 1 amended
 
 ## Contents
 

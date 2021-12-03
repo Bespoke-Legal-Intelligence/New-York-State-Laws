@@ -95,6 +95,7 @@
 - [§ 466-H\*2 Un-remarried spouses of deceased volunteer firefighters or volunteer ambulance workers](466h-2-un-remarried-spouses-of-deceased-volunteer-firefighters-or-volunteer-ambulance.md)
 - [§ 466-I Volunteer firefighters and volunteer ambulance workers; certain counties](466i-volunteer-firefighters-and-volunteer-ambulance-workers-certain-counties.md)
 - [§ 466-J Volunteer firefighters and volunteer ambulance workers; certain county](466j-volunteer-firefighters-and-volunteer-ambulance-workers-certain-county.md)
+- [§ 466-K Volunteer firefighters and volunteer ambulance workers; certain county](466k-volunteer-firefighters-and-volunteer-ambulance-workers-certain-county.md)
 - [§ 467 Persons sixty-five years of age or over](467-persons-sixty-five-years-of-age-or-over.md)
 - [§ 467-A Partial tax abatement for residential real property held in the cooperative or condominium form of ownership in a city having a populatio...](467a-partial-tax-abatement-for-residential-real-property-held-in-the-cooperative.md)
 - [§ 467-B Tax abatement for rent-controlled and rent regulated property occupied by senior citizens or persons with disabilities](467b-tax-abatement-for-rent-controlled-and-rent-regulated-property-occupied-by-senior.md)
@@ -160,6 +161,7 @@
 - [§ 485-T Owner occupied residential property exemption program](485t-owner-occupied-residential-property-exemption-program.md)
 - [§ 485-U Class one reassessment exemption](485u-class-one-reassessment-exemption.md)
 - [§ 485-V Residential revaluation exemption](485v-residential-revaluation-exemption.md)
+- [§ 485-V\*2 Residential and mixed-use investment exemption; certain cities and school districts](485v-2-residential-and-mixed-use-investment-exemption-certain-cities-and-school.md)
 - [§ 486 Non-profit medical and dental indemnity, or hospital service corporations](486-non-profit-medical-and-dental-indemnity-or-hospital-service-corporations.md)
 - [§ 486-A Non-profit corporations operating as health maintenance organizations](486a-non-profit-corporations-operating-as-health-maintenance-organizations.md)
 - [§ 487 Exemption from taxation for certain energy systems](487-exemption-from-taxation-for-certain-energy-systems.md)
@@ -324,6 +326,8 @@ Section 420-a.   Nonprofit organizations; mandatory class.
                    certain counties.
         466-j.   Volunteer firefighters and volunteer ambulance workers;
                    certain county.
+        466-k.   Volunteer firefighters and volunteer ambulance workers;
+                   certain county.
         467.     Persons sixty-five years of age or over.
         467-a.   Partial tax abatement for residential real property
                    held in the cooperative or condominium form of
@@ -428,6 +432,8 @@ Section 420-a.   Nonprofit organizations; mandatory class.
         485-t.   Owner occupied residential property exemption program.
         485-u.   Class one reassessment exemption.
         485-v.   Residential revaluation exemption.
+        485-v*2. Residential and mixed-use investment exemption; certain
+                   cities and school districts.
         486.     Non-profit medical and dental indemnity, or hospital
                    service corporations.
         486-a.   Non-profit corporations operating as health maintenance
