@@ -4,7 +4,7 @@
 [Public Service Law](../README.md) › [Article 2 — Residential Gas, Electric and Steam Utility Service](README.md)
 
 ```text
-  * § 53-a. Prohibition of utilities engaging in detrimental conduct
+  § 53-a. Prohibition of utilities engaging in detrimental conduct
 towards a residential customer. 1. A utility corporation or
 municipality, or energy services companies subject to the department's
 uniform business practices and section three hundred forty-nine and
@@ -23,5 +23,4 @@ against the prohibited behaviors described in subdivision one of this
 section.
   3. The commission shall promulgate rules and regulations necessary to
 implement and enforce the provisions of this section.
-  * NB Effective December 8, 2021
 ```

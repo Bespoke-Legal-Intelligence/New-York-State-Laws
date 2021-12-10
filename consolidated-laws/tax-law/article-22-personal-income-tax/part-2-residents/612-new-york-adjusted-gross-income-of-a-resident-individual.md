@@ -304,6 +304,14 @@ regulations thereunder.
   (42) The amount of any gain excluded from federal gross income for the
 taxable year by subparagraph (A) of paragraph (1) of subsection (a) of
 section 1400Z-2 of the internal revenue code.
+  (43) Pass-through entity tax deduction addback. (A) In the case of a
+taxpayer who claims a credit under subsection (kkk) of section six
+hundred six of this article, an amount equal to the amount of such
+credit; and (B) in the case of a taxpayer who claims a credit under
+subsection (b) of section six hundred twenty of this article, an amount
+equal to the amount of such credit as calculated without regard to the
+limitation under subsection (c) of section six hundred twenty of this
+article.
   (c) Modifications reducing federal adjusted gross income. There shall
 be subtracted from federal adjusted gross income:
   (1) Interest income on obligations of the United States and its
@@ -737,20 +745,10 @@ Revenue Code of 1986; or
   (ii) a private education loan, as defined in section 140(7) of the
 Consumer Credit Protection Act.
   * NB There are 3 par (42)'s
-  * (43) Pass-through entity tax deduction addback. (A) In the case of a
-taxpayer who claims a credit under subsection (kkk) of section six
-hundred six of this article, an amount equal to the amount of such
-credit; and (B) in the case of a taxpayer who claims a credit under
-subsection (b) of section six hundred twenty of this article, an amount
-equal to the amount of such credit as calculated without regard to the
-limitation under subsection (c) of section six hundred twenty of this
-article.
-  * NB There are 2 par (43)'s
-  * (43) The amount of any gain added back to federal adjusted gross
+  (43) The amount of any gain added back to federal adjusted gross
 income in a previous taxable year pursuant to paragraph forty-two of
 subdivision (b) of this section that is included in federal gross income
 for the taxable year.
-  * NB There are 2 par (43)'s
   (44) Any death benefit, to the extent includible in federal adjusted
 gross income, paid to the taxpayer in a lump sum pursuant to the
 COVID-19 family death benefit program established by the metropolitan
