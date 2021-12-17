@@ -415,7 +415,7 @@ defined in subparagraph (i) of paragraph four of subdivision (b) of
 section eleven hundred one of this chapter, of tangible personal
 property, and (C) otherwise eligible for the credit allowed pursuant to
 section thirty-eight of the internal revenue code.
-  (12) Rehabilitation credit for historic barns. A taxpayer shall be
+  * (12) Rehabilitation credit for historic barns. A taxpayer shall be
 allowed a credit, to be computed as hereinafter provided, against the
 tax imposed by this article. The amount of the credit shall be
 twenty-five percent of the taxpayer's qualified rehabilitation
@@ -439,6 +439,29 @@ residential purposes, or which converts a barn not suitable for
 residential purposes into one which is so suitable, nor shall a
 rehabilitation credit be allowed for any rehabilitation that materially
 alters the historic appearance of the barn.
+  * NB Effective until April 9, 2022
+  * (12) Rehabilitation credit for historic barns. A taxpayer shall be
+allowed a credit, to be computed as hereinafter provided, against the
+tax imposed by this article. The amount of the credit shall be
+twenty-five percent of the taxpayer's qualified rehabilitation
+expenditures paid or incurred within the five years immediately
+preceding the year in which such tax credit shall be applied with
+respect to any barn located in this state which qualifies as an historic
+barn pursuant to subdivision five of section four hundred eighty-three-b
+of the real property tax law. For purposes of this paragraph, the term
+"barn" means a building that is or was used as an agricultural facility
+or for purposes related to agriculture. Provided, however, such
+qualified rehabilitation expenditures shall not include any such
+expenditures which are included, directly or indirectly, in the
+computation of a credit claimed by the taxpayer pursuant to paragraph
+one of this subsection. Provided further that no rehabilitation credit
+shall be allowed for any rehabilitation of a barn which, immediately
+prior to the commencement of such rehabilitation, was used for
+residential purposes, or which converts a barn not suitable for
+residential purposes into one which is so suitable, nor shall a
+rehabilitation credit be allowed for any rehabilitation that materially
+alters the historic appearance of the barn.
+  * NB Effective April 9, 2022
   (13)(A)(i) If a taxpayer is required by paragraph seven of this
 subsection to add back a portion of the credit taken because property
 was destroyed or ceased to be in qualified use as a direct result of the
@@ -673,7 +696,7 @@ Over $25,000 but not over $28,000   $40.00 plus an amount equal to $5.00
                                     taxpayers)    is   entitled   to   a
                                     deduction for the taxable  year  for
                                     federal  income  tax  purposes under
-                                    subsections (b) and (c)  of  section
+                                    subsections  (b)  and (c) of section
                                     one   hundred   fifty-one   of   the
                                     internal revenue code
 Over $28,000 but not over $32,000   $20.00 plus such an amount

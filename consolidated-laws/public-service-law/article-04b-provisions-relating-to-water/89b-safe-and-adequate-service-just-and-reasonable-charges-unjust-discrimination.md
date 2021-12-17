@@ -193,5 +193,4 @@ subdivision; or
 identity or expression in order to use their preferred name and/or
 preferred pronouns.
   * NB There are 2 sb 12's
-  * NB Effective December 16, 2021
 ```

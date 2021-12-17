@@ -21,6 +21,7 @@
 - [§ 2802-A Transitional care unit demonstration program](2802a-transitional-care-unit-demonstration-program.md)
 - [§ 2803 Commissioner and council; powers and duties](2803-commissioner-and-council-powers-and-duties.md)
 - [§ 2803-A Authority to contract](2803a-authority-to-contract.md)
+- [§ 2803-AA Sickle cell disease information distribution](2803aa-sickle-cell-disease-information-distribution.md)
 - [§ 2803-B Uniform reports and accounting systems for hospital costs](2803b-uniform-reports-and-accounting-systems-for-hospital-costs.md)
 - [§ 2803-C Rights of patients in certain medical facilities](2803c-rights-of-patients-in-certain-medical-facilities.md)
 - [§ 2803-D Reporting abuses of persons receiving care or services in residential health care facilities](2803d-reporting-abuses-of-persons-receiving-care-or-services-in-residential-health.md)
@@ -170,6 +171,7 @@ Section 2800.     Declaration of policy and statement of purpose.
         2802-a.   Transitional care unit demonstration program.
         2803.     Commissioner and council; powers and duties.
         2803-a.   Authority to contract.
+        2803-aa.  Sickle cell disease information distribution.
         2803-b.   Uniform reports and accounting systems for hospital
                     costs.
         2803-c.   Rights of patients in certain medical facilities.

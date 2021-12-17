@@ -21,6 +21,7 @@
 - [§ 520-B Secured credit cards](520b-secured-credit-cards.md)
 - [§ 520-C Credit information](520c-credit-information.md)
 - [§ 520-D Unsolicited convenience checks](520d-unsolicited-convenience-checks.md)
+- [§ 520-E Grace period for use of credit card reward points](520e-grace-period-for-use-of-credit-card-reward-points.md)
 
 <details>
 <summary>Official heading of Article 29-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -51,6 +52,7 @@ Section 511.   Definitions.
         520-b. Secured credit cards.
         520-c. Credit information.
         520-d. Unsolicited convenience checks.
+        520-e. Grace period for use of credit card reward points.
 ```
 
 </details>

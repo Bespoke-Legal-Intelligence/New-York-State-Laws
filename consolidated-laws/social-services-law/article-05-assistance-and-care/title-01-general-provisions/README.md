@@ -12,6 +12,7 @@
 - [§ 131-AA Monthly statistical reports](131aa-monthly-statistical-reports.md)
 - [§ 131-AAA Availability of adverse childhood experiences services](131aaa-availability-of-adverse-childhood-experiences-services.md)
 - [§ 131-B Fees for services](131b-fees-for-services.md)
+- [§ 131-BB Family homelessness and eviction prevention supplement program](131bb-family-homelessness-and-eviction-prevention-supplement-program.md)
 - [§ 131-C Inclusion of parents and siblings of a minor in the public assistance household](131c-inclusion-of-parents-and-siblings-of-a-minor-in-the-public-assistance.md)
 - [§ 131-D Substance abuse rehabilitative and preventive services](131d-substance-abuse-rehabilitative-and-preventive-services.md)
 - [§ 131-E Family planning services](131e-family-planning-services.md)
@@ -86,6 +87,8 @@ Section 131.     Assistance, care and services to be given.
         131-aa.  Monthly statistical reports.
         131-aaa. Availability of adverse childhood experiences services.
         131-b.   Fees for services.
+        131-bb.  Family homelessness and eviction prevention supplement
+                   program.
         131-c.   Inclusion of parents and siblings of a minor in the
                    public assistance household.
         131-d.   Substance abuse rehabilitative and preventive services.

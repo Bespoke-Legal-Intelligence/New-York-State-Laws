@@ -12,6 +12,7 @@
 - [§ 6254 Social security](6254-social-security.md)
 - [§ 6255 City not liable for payment of benefits](6255-city-not-liable-for-payment-of-benefits.md)
 - [§ 6256 Inconsistent provisions of other acts superseded](6256-inconsistent-provisions-of-other-acts.md)
+- [§ 6257 Deductions from benefits of certain retired members](6257-deductions-from-benefits-of-certain-retired.md)
 
 <details>
 <summary>Official heading of Article 125-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -26,6 +27,7 @@ Section 6250. Definitions.
         6254. Social security.
         6255. City not liable for payment of benefits.
         6256. Inconsistent provisions of other acts superseded.
+        6257. Deductions from benefits of certain retired members.
 ```
 
 </details>

@@ -36,4 +36,35 @@ assistance, or from any other available source. If the victim or
 possible victim is under the age of eighteen, the office of temporary
 and disability assistance also shall notify the local department of
 social services in the county where the child was found.
+  (c) Promptly upon an encounter with a person who reasonably appears to
+a law enforcement agency or district attorney's office to be a human
+trafficking victim, or a person who identifies himself or herself as a
+human trafficking victim, such law enforcement agency or district
+attorney's office shall advise such person of the availability of the
+services of specific, established providers of social and legal services
+to human trafficking victims. Each local department of social services
+shall maintain and shall update, at least once annually, a list of
+established providers of social and legal services to human trafficking
+victims within the social services district, which shall be provided, at
+least once annually, to law enforcement agencies and district attorney's
+offices within the district. In order to communicate effectively with
+such person, the law enforcement agency or district attorney's office
+may provide such individual with a brochure or other written material
+translated into the six most common non-English languages spoken by
+individuals with limited English proficiency in the state or in the
+applicable county, city, or town; provided, however, where such person
+is not proficient in one of such languages, the law enforcement agency
+or district attorney's office shall make reasonable efforts to
+communicate effectively with such person, using an interpreter or
+interpretation services, where practicable. Unless, after receiving such
+advice, the apparent victim expresses that he or she does not wish the
+presence of a representative of such an established provider of social
+or legal services, the law enforcement agency or district attorney's
+office shall contact the appropriate provider and request that a
+representative be provided. If the apparent victim does not wish the
+presence of such a representative, that expression by the apparent
+victim shall be documented by the agency or office official in writing
+or other recorded form. Nothing in this subdivision shall affect any
+obligation such law enforcement agency or district attorney's office may
+have to provide any information or assistance to such person.
 ```

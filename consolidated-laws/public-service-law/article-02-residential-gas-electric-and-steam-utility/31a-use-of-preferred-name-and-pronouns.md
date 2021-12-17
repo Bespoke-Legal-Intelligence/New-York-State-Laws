@@ -4,7 +4,7 @@
 [Public Service Law](../README.md) › [Article 2 — Residential Gas, Electric and Steam Utility Service](README.md)
 
 ```text
-  * § 31-a. Use of preferred name and pronouns. 1. Every utility
+  § 31-a. Use of preferred name and pronouns. 1. Every utility
 corporation or municipality shall provide applicants for residential
 service and residential customers with a convenient option to request
 that the utility corporation or municipality use their preferred name
@@ -27,5 +27,4 @@ of this section; or
   (b) require an applicant or customer to specify their sexual
 orientation or gender identity or expression in order to use their
 preferred name and/or preferred pronouns.
-  * NB Effective December 16, 2021
 ```

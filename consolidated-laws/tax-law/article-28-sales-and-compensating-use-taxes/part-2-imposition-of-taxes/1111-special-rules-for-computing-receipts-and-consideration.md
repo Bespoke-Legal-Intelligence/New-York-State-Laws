@@ -278,26 +278,31 @@ or provision is one year or more and (2) receipts due and consideration
 given or contracted to be given under any such lease or other provision
 for excess mileage charges shall be subject to tax as and when paid or
 due.
-  (B) Notwithstanding any inconsistent provisions of this subdivision,
-with respect to a lease of a motor vehicle described in paragraph (A) of
-this subdivision for a term of one year or more (1) which includes an
-indeterminate number of options to renew or other similar contractual
-provisions or which includes thirty-six or more monthly options to renew
-beyond the initial term, and (2) under which lease the lessee of such
-motor vehicle has certified in the writing described in clause (i) of
-subparagraph (C) of paragraph two of subsection (h) of section 7701 of
-the internal revenue code of 1986, under penalty of perjury, that the
-lessee intends that more than fifty percent of the use of such vehicle
-is to be in a trade or business of the lessee, all receipts due or
-consideration given or contracted to be given under such lease for the
-first thirty-two months, or the period of the initial term if greater,
-of such lease shall be deemed to have been paid or given and shall be
-subject to tax in accordance with the provisions of this subdivision.
-For each such option to renew, or similar provision, or combination of
-them, exercised after the first thirty-two months, or the period of such
-initial term, if longer, of any such lease, tax due under this article
-shall be collected and paid or paid over without regard to this
-subdivision.
+  (B) (1) Notwithstanding any inconsistent provisions of this
+subdivision, with respect to a lease of a motor vehicle described in
+paragraph (A) of this subdivision for a term of one year or more which
+includes an indeterminate number of options to renew or other similar
+contractual provisions or which includes thirty-six or more monthly
+options to renew beyond the initial term, and under which lease the
+lessee of such motor vehicle has certified in the writing described in
+clause (i) of subparagraph (C) of paragraph two of subsection (h) of
+section 7701 of the internal revenue code of 1986, under penalty of
+perjury, that the lessee intends that more than fifty percent of the use
+of such vehicle is to be in a trade or business of the lessee, the
+lessor shall: (i) pay tax on the receipts from the sale of or
+consideration given or contracted to be given for the purchase, as
+measured by subdivision (b) of section eleven hundred ten of this part,
+of such vehicle for lease; or (ii) collect and pay tax as measured by
+all receipts due or consideration given or contracted to be given under
+such lease for the first thirty-two months, or the period of the initial
+term if greater, of such lease shall be deemed to have been paid or
+given.
+  (2) If a lessor collects and pays tax as measured under clause (ii) of
+subparagraph one of this paragraph, for each such option to renew, or
+similar provision, or combination of them, exercised after the first
+thirty-two months, or the period of such initial term, if longer, of any
+such lease, tax due under this article shall be collected and paid or
+paid over without regard to this subdivision.
   (C) Any receipts due or consideration given or contracted to be given
 under an option to renew a lease of a motor vehicle described in this
 subdivision or similar contractual provision, or combination of them,

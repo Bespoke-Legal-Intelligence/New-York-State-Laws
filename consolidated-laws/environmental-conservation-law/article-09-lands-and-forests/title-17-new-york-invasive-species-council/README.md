@@ -11,6 +11,7 @@
 - [§ 9-1707 New York invasive species advisory committee](9-1707-new-york-invasive-species-advisory-committee.md)
 - [§ 9-1709 General powers and duties of the department](9-1709-general-powers-and-duties-of-the-department.md)
 - [§ 9-1710 Aquatic invasive species; spread prevention](9-1710-aquatic-invasive-species-spread-prevention.md)
+- [§ 9-1711 Aquatic invasive species inspection stations in the Adirondack park](9-1711-aquatic-invasive-species-inspection-stations.md)
 
 <details>
 <summary>Official heading of Title 17, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -24,6 +25,8 @@ Section 9-1701. Legislative findings.
         9-1707. New York invasive species advisory committee.
         9-1709. General powers and duties of the department.
         9-1710. Aquatic invasive species; spread prevention.
+        9-1711. Aquatic invasive species inspection stations in the
+                  Adirondack park.
 ```
 
 </details>

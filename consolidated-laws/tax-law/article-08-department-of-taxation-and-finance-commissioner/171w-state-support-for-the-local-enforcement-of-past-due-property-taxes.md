@@ -182,4 +182,13 @@ personal income tax credits or personal income tax refunds to which the
 delinquent property owner would otherwise be entitled, and (b) pursuing
 any of the other remedies that are available to enforce a personal
 income tax debt under article twenty-two of this chapter.
+  (12) Notwithstanding any provision of this section to the contrary,
+the commissioner shall extend the date by which any delinquent property
+owner shall be required to pay his or her past-due property taxes in
+full in order to receive STAR credits or STAR exemptions, until after
+the end of the COVID-19 state disaster emergency declared by executive
+order number two hundred two and any further amendments or modifications
+thereto, and as may be further extended pursuant to section twenty-eight
+of the executive law. The department shall notify all delinquent
+property owners of such extension.
 ```

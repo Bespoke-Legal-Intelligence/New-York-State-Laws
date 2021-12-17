@@ -31,5 +31,4 @@ section; or
 identity or expression in order to use their preferred name and/or
 preferred pronouns.
   * NB There are 3 § 399-zzzzz's
-  * NB Effective December 16, 2021
 ```
