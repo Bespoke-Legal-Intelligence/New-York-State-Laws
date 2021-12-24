@@ -40,6 +40,7 @@
 - [§ 233-B Manufactured home parks; rent increases](233b-manufactured-home-parks-rent-increases.md)
 - [§ 233-B\*2 Campgrounds](233b-2-campgrounds.md)
 - [§ 234 Right to recover attorneys' fees in actions or summary proceedings arising out of leases of residential property](234-right-to-recover-attorneys-fees-in-actions-or-summary-proceedings-arising-out.md)
+- [§ 234-A Unauthorized legal fees](234a-unauthorized-legal-fees.md)
 - [§ 235 Wilful violations](235-wilful-violations.md)
 - [§ 235-A Tenant right to offset payments and entitlement to damages in certain cases](235a-tenant-right-to-offset-payments-and-entitlement-to-damages-in-certain-cases.md)
 - [§ 235-B Warranty of habitability](235b-warranty-of-habitability.md)
@@ -114,6 +115,7 @@ Section  220.     Action for use and occupation.
          234.     Right to recover attorneys' fees in actions or summary
                     proceedings arising out of leases of residential
                     property.
+         234-a.   Unauthorized legal fees.
          235.     Wilful violations.
          235-a.   Tenant right to offset payments and entitlement to
                     damages in certain cases.

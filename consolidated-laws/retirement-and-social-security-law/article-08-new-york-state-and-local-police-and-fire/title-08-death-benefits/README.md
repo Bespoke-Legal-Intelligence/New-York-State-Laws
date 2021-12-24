@@ -26,6 +26,7 @@
 - [§ 363-DD Impairments of health; presumption](363dd-impairments-of-health-presumption.md)
 - [§ 363-E Disability retirement allowance for members of the division of law enforcement in the department of environmental conservation and the re...](363e-disability-retirement-allowance.md)
 - [§ 363-F Firefighters; presumption in certain diseases](363f-firefighters-presumption-in-certain.md)
+- [§ 363-FF Firefighter certain impairments of health; presumption](363ff-firefighter-certain-impairments-of-health.md)
 - [§ 364 Payment of both pensions for accident and other benefits prohibited](364-payment-of-both-pensions-for-accident.md)
 
 <details>
@@ -62,6 +63,7 @@ Section 360.     Ordinary death benefit.
                    environmental conservation and the regional state
                    park police.
         363-f.   Firefighters; presumption in certain diseases.
+        363-ff.  Firefighter certain impairments of health; presumption.
         364.     Payment of both pensions for accident and other
                    benefits prohibited.
 ```

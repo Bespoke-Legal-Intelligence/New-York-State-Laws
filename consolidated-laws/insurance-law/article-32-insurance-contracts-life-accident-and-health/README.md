@@ -57,7 +57,6 @@
 - [§ 3233 Stabilization of health insurance markets and premium rates](3233-stabilization-of-health-insurance-markets-and-premium-rates.md)
 - [§ 3234 Pre-existing condition provisions in group and blanket disability policies](3234-pre-existing-condition-provisions-in-group-and-blanket-disability-policies.md)
 - [§ 3234\*2 Limitations on administrative services and stop-loss coverage](3234-2-limitations-on-administrative-services-and-stop-loss-coverage.md)
-- [§ 3234\*3 Explanation of benefits forms relating to claims under certain accident and health insurance policies](3234-3-explanation-of-benefits-forms-relating-to-claims-under-certain-accident.md)
 - [§ 3235 Explanation of benefits forms relating to claims under medicare supplemental insurance policies and limited benefits health insurance pol...](3235-explanation-of-benefits-forms-relating-to-claims-under-medicare-supplemental.md)
 - [§ 3235-A Payment for early intervention services](3235a-payment-for-early-intervention-services.md)
 - [§ 3236 Public health law assessments](3236-public-health-law-assessments.md)
@@ -69,6 +68,7 @@
 - [§ 3241 Network coverage](3241-network-coverage.md)
 - [§ 3242 Prescription drug coverage](3242-prescription-drug-coverage.md)
 - [§ 3243 Discrimination because of sex or marital status in hospital, surgical or medical expense insurance](3243-discrimination-because-of-sex-or-marital-status-in-hospital-surgical-or-medical.md)
+- [§ 3244 Explanation of benefits forms relating to claims under certain accident and health insurance policies](3244-explanation-of-benefits-forms-relating-to-claims-under-certain-accident.md)
 
 <details>
 <summary>Official heading of Article 32, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -163,8 +163,6 @@ Section 3201.   Approval of life, accident and health, credit
                   disability policies.
         3234*2. Limitations on administrative services and stop-loss
                   coverage.
-        3234*3. Explanation of benefits forms relating to claims under
-                  certain accident and health insurance policies.
         3235.   Explanation of benefits forms relating to claims under
                   medicare supplemental insurance policies and limited
                   benefits health insurance policies or certificates
@@ -181,6 +179,8 @@ Section 3201.   Approval of life, accident and health, credit
         3242.   Prescription drug coverage.
         3243.   Discrimination because of sex or marital status in
                   hospital, surgical or medical expense insurance.
+        3244.   Explanation of benefits forms relating to claims under
+                  certain accident and health insurance policies.
 ```
 
 </details>

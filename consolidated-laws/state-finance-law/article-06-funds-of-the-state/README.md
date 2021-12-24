@@ -22,6 +22,7 @@
 - [§ 78-B New York higher education loan program fixed rate default reserve fund](78b-new-york-higher-education-loan-program-fixed-rate-default-reserve-fund.md)
 - [§ 79 World Trade Center memorial foundation fund](79-world-trade-center-memorial-foundation-fund.md)
 - [§ 80 Real estate finance bureau fund](80-real-estate-finance-bureau-fund.md)
+- [§ 80-A Anti-discrimination in housing fund](80a-anti-discrimination-in-housing-fund.md)
 - [§ 81 Veterans' home assistance fund](81-veterans-home-assistance-fund.md)
 - [§ 82 Gifts to food banks fund](82-gifts-to-food-banks-fund.md)
 - [§ 83 Conservation fund](83-conservation-fund.md)
@@ -305,6 +306,7 @@ Section 70.        Classification of funds.
                      default reserve fund.
         79.        World Trade Center memorial foundation fund.
         80.        Real estate finance bureau fund.
+        80-a.      Anti-discrimination in housing fund.
         81.        Veterans' home assistance fund.
         82.        Gifts to food banks fund.
         83.        Conservation fund.

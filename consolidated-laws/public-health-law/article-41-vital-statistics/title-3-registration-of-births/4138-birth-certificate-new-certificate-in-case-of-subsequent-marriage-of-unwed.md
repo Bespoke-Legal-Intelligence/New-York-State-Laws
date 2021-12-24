@@ -1,18 +1,13 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 4138", "kind": "section", "law_id": "PBH", "location_id": "4138", "path": "ARTICLE 41 › TITLE 3 › SECTION 4138", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4138.md", "title": "Birth certificate; new certificate in case of subsequent marriage of unwed parents; adoption; adjudication of parentage; change of name"} -->
-# Public Health Law § 4138 — Birth certificate; new certificate in case of subsequent marriage of unwed parents; adoption; adjudication of parentage; change of name
+﻿<!-- nyslaw {"citation": "Public Health Law § 4138", "kind": "section", "law_id": "PBH", "location_id": "4138", "path": "ARTICLE 41 › TITLE 3 › SECTION 4138", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4138.md", "title": "Birth certificate; new certificate in case of subsequent marriage of unwed parents; adoption; adjudication of parentage; change of name o..."} -->
+# Public Health Law § 4138 — Birth certificate; new certificate in case of subsequent marriage of unwed parents; adoption; adjudication of parentage; change of name o...
 
 [Public Health Law](../../README.md) › [Article 41 — Vital Statistics](../README.md) › [Title 3 — Registration of Births](README.md)
 
 ```text
-  § 4138. * Birth certificate; new certificate in case of subsequent
+  § 4138. Birth certificate; new certificate in case of subsequent
 marriage of unwed parents; adoption; adjudication of parentage; change
-of name.
-  * NB Effective until December 21, 2021
-  * Birth certificate; new certificate in case of subsequent marriage of
-unwed parents; adoption; adjudication of parentage; change of name of
-registrant or parent; gender transition of registrant or parent.
-  * NB Effective December 21, 2021
-1. A new certificate of birth shall be made whenever:
+of name of registrant or parent; gender transition of registrant or
+parent. 1. A new certificate of birth shall be made whenever:
   (a) proof is submitted to the commissioner that the previously unwed
 parents of a person have intermarried subsequent to the birth of such
 person; or,
@@ -36,29 +31,17 @@ sufficient authority to make a new birth certificate with conforming
 change in surname for any of such person's children under the age of
 eighteen years whose record of birth is on file in the state health
 department; or,
-  * (e) the certificate of birth of a child born out of wedlock as
-defined in paragraph (b) of subdivision one of section four thousand one
-hundred thirty-five of this article has been filed without entry of the
-name of the signatory other than the person who gave birth and the
-commissioner thereafter receives the acknowledgment of parentage
-pursuant to section one hundred eleven-k of the social services law or
-section four thousand one hundred thirty-five-b of this article executed
-by the person who gave birth and the other signatory which authorizes
-the entry of the name of such other signatory, and which may also
-authorize a conforming change in the surname of the child.
-  * NB Effective until December 21, 2021
-  * (e) the certificate of birth of a child born out of wedlock as
-defined in paragraph (b) of subdivision one of section four thousand one
-hundred thirty-five of this article has been filed without entry of the
-name of the signatory other than the person who gave birth and the
-commissioner thereafter receives the acknowledgment of parentage
-pursuant to section one hundred eleven-k of the social services law or
-section four thousand one hundred thirty-five-b of this article executed
-by the person who gave birth and the other signatory which authorizes
-the entry of the name of such other signatory, and which may also
-authorize a conforming change in the surname of the child; or
-  * NB Effective December 21, 2021
-  * (f) any person born in New York state who submits an application to
+  (e) the certificate of birth of a child born out of wedlock as defined
+in paragraph (b) of subdivision one of section four thousand one hundred
+thirty-five of this article has been filed without entry of the name of
+the signatory other than the person who gave birth and the commissioner
+thereafter receives the acknowledgment of parentage pursuant to section
+one hundred eleven-k of the social services law or section four thousand
+one hundred thirty-five-b of this article executed by the person who
+gave birth and the other signatory which authorizes the entry of the
+name of such other signatory, and which may also authorize a conforming
+change in the surname of the child; or
+  (f) any person born in New York state who submits an application to
 change the gender on the birth certificate and an affidavit attesting
 under penalty of perjury that the request for a change of gender to
 (female, male, or X) is to conform the person's documents and records to
@@ -71,7 +54,6 @@ a change of name. If such application is made on behalf of a person
 younger than seventeen, such affidavit shall be signed by the person's
 parent, legal guardian, mental health or medical provider, or social
 services provider.
-  * NB Effective December 21, 2021
   2. (a) On every new certificate of birth made pursuant to this
 section, a notation that it is filed pursuant to section four thousand
 one hundred thirty-eight of the public health law shall be entered

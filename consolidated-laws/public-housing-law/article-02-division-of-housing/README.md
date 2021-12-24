@@ -16,6 +16,7 @@
 - [§ 17 Occupancy preference](17-occupancy-preference.md)
 - [§ 18 Effects of breach or of acquisition of projects by third persons](18-effects-of-breach-or-of-acquisition-of-projects-by-third-persons.md)
 - [§ 19 Rules and regulations](19-rules-and-regulations.md)
+- [§ 19-A Electronic lease regulations](19a-electronic-lease-regulations.md)
 - [§ 20 Annual reports](20-annual-reports.md)
 
 <details>
@@ -40,6 +41,7 @@ Section 10.   Division of housing and community renewal.
         18.   Effects of breach or of acquisition of projects by third
                 persons.
         19.   Rules and regulations.
+        19-a. Electronic lease regulations.
         20.   Annual reports.
 ```
 

@@ -11,6 +11,7 @@
 - [§ 573 Issuance of certificates of qualification](573-issuance-of-certificates-of-qualification.md)
 - [§ 574 Permits](574-permits.md)
 - [§ 575 Issuance of permits](575-issuance-of-permits.md)
+- [§ 575-A Source plasma donation centers](575a-source-plasma-donation-centers.md)
 - [§ 576 Duties and powers of the department](576-duties-and-powers-of-the-department.md)
 - [§ 576-A Clinical laboratories and cytotechnologists examining Pap smears](576a-clinical-laboratories-and-cytotechnologists-examining-pap-smears.md)
 - [§ 576-B Performance of certain clinical laboratory services upon request](576b-performance-of-certain-clinical-laboratory-services-upon-request.md)
@@ -33,6 +34,7 @@ Section 570.   Declaration of policy and statement of purpose.
         573.   Issuance of certificates of qualification.
         574.   Permits.
         575.   Issuance of permits.
+        575-a. Source plasma donation centers.
         576.   Duties and powers of the department.
         576-a. Clinical laboratories and cytotechnologists examining Pap
                  smears.

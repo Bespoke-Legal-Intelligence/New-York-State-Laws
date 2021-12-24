@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 28 — Hospitals](README.md)
 
 ```text
-  § 2828. Residential health care facilities; minimum direct resident
+  * § 2828. Residential health care facilities; minimum direct resident
 care spending. 1. (a) Notwithstanding any law to the contrary, the
 department shall promulgate regulations governing the disposition of
 revenue in excess of expenses for residential health care facilities
@@ -130,4 +130,5 @@ completed by residential health care facilities under section twenty-
 eight hundred five-e of this article to include information to ensure
 all items referred to in this section and organize such information
 consistent with the terms of this section.
+  * NB There are 2 § 2828-s
 ```

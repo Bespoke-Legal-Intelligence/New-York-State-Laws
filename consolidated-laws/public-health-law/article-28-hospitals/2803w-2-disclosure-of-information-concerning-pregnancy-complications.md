@@ -8,15 +8,6 @@
 ```text
   * § 2803-w. Disclosure of information concerning pregnancy
 complications. Every hospital offering maternity or women's wellness
-services shall provide the information developed pursuant to section two
-hundred sixty-six of this chapter, as added by chapter 342 of the laws
-of 2014, to pregnant patients as clinically appropriate, but prior to
-discharge. Such information shall also be provided by every diagnostic
-and treatment center offering prenatal care services upon the initial
-prenatal care visit.
-  * NB Effective until December 22, 2021
-  * § 2803-w. Disclosure of information concerning pregnancy
-complications. Every hospital offering maternity or women's wellness
 services shall provide the information developed pursuant to
 subdivisions two and four of section two hundred sixty-six of this
 chapter, as added by chapter 342 of the laws of 2014, to pregnant
@@ -26,6 +17,5 @@ prospective maternity patient and, upon request, to the general public.
 Such information shall also be provided by every diagnostic and
 treatment center offering prenatal care services upon the initial
 prenatal care visit.
-  * NB Effective December 22, 2021
   * NB There are 2 § 2803-w's
 ```

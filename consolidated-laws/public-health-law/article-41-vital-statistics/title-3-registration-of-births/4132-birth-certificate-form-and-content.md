@@ -21,8 +21,7 @@ registrar of such birth.
   4. The registrar shall enter the exact date of filing of the
 certificate of birth in his office attested by his official signature
 and registered number of birth.
-  * 5. Each parent of the child may choose to be designated on the
+  5. Each parent of the child may choose to be designated on the
 original certificate of birth or by amendment as "father" or "mother" or
 "parent".
-  * NB Effective December 21, 2021
 ```

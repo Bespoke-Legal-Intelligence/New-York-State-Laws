@@ -54,6 +54,7 @@
 - [§ 207-K Disabilities of policemen and firemen in certain cities](207k-disabilities-of-policemen-and-firemen-in-certain-cities.md)
 - [§ 207-K\*2 Disabilities of policemen and firemen in certain cities](207k-2-disabilities-of-policemen-and-firemen-in-certain-cities.md)
 - [§ 207-KK Disabilities of firefighters in certain cities caused by cancer](207kk-disabilities-of-firefighters-in-certain-cities-caused-by-cancer.md)
+- [§ 207-KKK Disabilities of firefighters in certain cities caused by Parkinson's Disease](207kkk-disabilities-of-firefighters-in-certain-cities-caused-by-parkinsons-disease.md)
 - [§ 207-L Temporary supplemental retirement allowances for certain police officers in towns and villages](207l-temporary-supplemental-retirement-allowances-for-certain-police-officers.md)
 - [§ 207-N Performance of duty disability retirement](207n-performance-of-duty-disability-retirement.md)
 - [§ 207-O Performance of duty disability retirement](207o-performance-of-duty-disability-retirement.md)
@@ -203,6 +204,8 @@ Section 200.      Defining qualifications of exempt volunteer
                     cities.
         207-kk.   Disabilities of firefighters in certain cities caused
                     by cancer.
+        207-kkk.  Disabilities of firefighters in certain cities caused
+                    by Parkinson's Disease.
         207-l.    Temporary supplemental retirement allowances for
                     certain police officers in towns and villages.
         207-n.    Performance of duty disability retirement.

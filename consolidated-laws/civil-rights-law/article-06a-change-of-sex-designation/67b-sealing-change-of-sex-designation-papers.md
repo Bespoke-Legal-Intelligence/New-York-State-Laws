@@ -4,7 +4,7 @@
 [Civil Rights Law](../README.md) › [Article 6-A — Change of Sex Designation](README.md)
 
 ```text
-  * § 67-b. Sealing change of sex designation papers. 1. Upon request of
+  § 67-b. Sealing change of sex designation papers. 1. Upon request of
 the applicant or sua sponte, the court shall order the records of such
 change of sex designation proceeding to be sealed, to be opened only by
 order of the court for good cause shown or at the request of the
@@ -17,5 +17,4 @@ business addresses, telephone numbers, and any other information
 contained in any pleadings or papers submitted to the court to be
 safeguarded and sealed in order to prevent their inadvertent or
 unauthorized use or disclosure while the matter is pending.
-  * NB Effective December 21, 2021
 ```

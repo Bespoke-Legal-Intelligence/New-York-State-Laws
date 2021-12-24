@@ -9,6 +9,7 @@
 - [§ 6501 Admission to a profession (licensing)](6501-admission-to-a-profession-licensing.md)
 - [§ 6501-B Affirmation of applications](6501b-affirmation-of-applications.md)
 - [§ 6502 Duration and registration of a license](6502-duration-and-registration-of-a-license.md)
+- [§ 6502-A Renewal of professional license, certification, or registration](6502a-renewal-of-professional-license-certification.md)
 - [§ 6503 Practice of a profession](6503-practice-of-a-profession.md)
 - [§ 6503-A Waiver for entities providing certain professional services](6503a-waiver-for-entities-providing-certain.md)
 - [§ 6503-B Waiver for certain special education schools and early intervention agencies](6503b-waiver-for-certain-special-education-schools.md)

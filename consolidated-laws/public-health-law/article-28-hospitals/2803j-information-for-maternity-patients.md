@@ -4,45 +4,23 @@
 [Public Health Law](../README.md) › [Article 28 — Hospitals](README.md)
 
 ```text
-  * § 2803-j. Information for maternity patients.  ** 1. The
-commissioner shall require that every hospital and birth center shall
-prepare in printed or photocopied form and distribute at the time of
-pre-booking directly to each prospective maternity patient and, upon
-request, to the general public an informational leaflet. Such leaflet
-shall be designed by the commissioner and shall contain brief
-definitions of maternity related procedures and practices as specified
-in subdivision two of this section and such other material as deemed
-appropriate by the commissioner. Hospitals and birth centers may also
-elect to distribute additional explanatory material along with the
-maternity patients informational leaflet. The commissioner shall make
-the information contained in the leaflet available on the department's
-website.
-  ** NB Effective until December 22, 2021
-  ** 1. The commissioner shall require that every hospital and birth
-center shall prepare in printed or photocopied form and distribute at
-the time of pre-booking directly to each prospective maternity patient
-and, upon request, to the general public an informational leaflet. Such
-leaflet shall be designed by the commissioner and shall contain brief
-definitions of maternity related procedures and practices as specified
-in subdivision two of this section and such other material as deemed
-appropriate by the commissioner. Hospitals and birth centers may also
-elect to distribute additional explanatory material along with the
-maternity patients informational leaflet. The commissioner shall make
-the information contained in the leaflet available on the department's
-website.
-  ** NB Effective December 22, 2021
-  ** 1-a. The informational leaflet shall also include an explanation of
-the special provisions relating to maternity care and coverage under the
-insurance law and section two thousand eight hundred three-n of this
-chapter, and suggest that expectant parents check their insurance
-policies for the details of their maternity coverage.
-  ** NB Effective until December 22, 2021
-  ** 1-a. The informational leaflet shall also include an explanation of
+  * § 2803-j. Information for maternity patients.  1. The commissioner
+shall require that every hospital and birth center shall prepare in
+printed or photocopied form and distribute at the time of pre-booking
+directly to each prospective maternity patient and, upon request, to the
+general public an informational leaflet. Such leaflet shall be designed
+by the commissioner and shall contain brief definitions of maternity
+related procedures and practices as specified in subdivision two of this
+section and such other material as deemed appropriate by the
+commissioner. Hospitals and birth centers may also elect to distribute
+additional explanatory material along with the maternity patients
+informational leaflet. The commissioner shall make the information
+contained in the leaflet available on the department's website.
+  1-a. The informational leaflet shall also include an explanation of
 the special provisions relating to maternity care and coverage under the
 insurance law and section twenty-eight hundred three-n of this article,
 and suggest that expectant parents check their insurance policies for
 the details of their maternity coverage.
-  ** NB Effective December 22, 2021
   1-b. The informational leaflet shall also include information relating
 to the physical and mental health of the maternity patient after
 discharge from the hospital, including, but not limited to, information
@@ -64,11 +42,6 @@ including sleep space and sleep position, and discussion on how to
 reduce the risk of infant death through safe sleep practices. The
 information described in this subdivision may take the form of a video
 in lieu of a leaflet.
-  ** 1-f. The informational leaflet shall also include information
-relating to pre-term labor and premature birth, including but not
-limited to definitions and information on the risks that pre-term labor
-and premature birth pose to the expectant mother and fetus.
-  ** NB Effective and Repealed December 22, 2021
   2. Such leaflet shall also include statistics relating to the annual
 percentage of maternity related procedures performed at such hospital or
 birth center, as provided by the commissioner, including but not limited

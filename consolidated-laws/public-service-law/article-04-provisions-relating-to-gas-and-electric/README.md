@@ -40,6 +40,7 @@
 - [§ 72-A Increased fuel costs](72a-increased-fuel-costs.md)
 - [§ 74 Energy storage deployment policy](74-energy-storage-deployment-policy.md)
 - [§ 74-A Westchester county renewable energy and energy efficiency resources program](74a-westchester-county-renewable-energy-and-energy-efficiency-resources-program.md)
+- [§ 74-B Long Island community choice aggregation programs](74b-long-island-community-choice-aggregation-programs.md)
 - [§ 75 Defense in case of excessive charges for gas or electricity](75-defense-in-case-of-excessive-charges-for-gas-or-electricity.md)
 - [§ 76 Rates charged veteran organizations, religious bodies and community residences](76-rates-charged-veteran-organizations-religious-bodies-and-community-residences.md)
 - [§ 77 Powers of local officers](77-powers-of-local-officers.md)
@@ -106,6 +107,7 @@ Section 64.     Application of article.
         74.     Energy storage deployment policy.
         74-a.   Westchester county renewable energy and energy
                   efficiency resources program.
+        74-b.   Long Island community choice aggregation programs.
         75.     Defense in case of excessive charges for gas or
                   electricity.
         76.     Rates charged veteran organizations, religious bodies

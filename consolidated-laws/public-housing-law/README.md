@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBG |
 | Type | Consolidated law, chapter 44-A |
-| Sections | 331 |
-| Last changed | 19 Nov 2021 |
+| Sections | 333 |
+| Last changed | 24 Dec 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Housing |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                          THE PUBLIC HOUSING LAW
 ```
 
-[Full chapter text (29 lines)](chapter-text.md)
+[Full chapter text (31 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [24 Dec 2021](../../changes/2021/2021-12-24.md): 2 added
 - [19 Nov 2021](../../changes/2021/2021-11-19.md): 1 amended
 - [4 Jun 2021](../../changes/2021/2021-06-04.md): 1 amended
 - [23 Apr 2021](../../changes/2021/2021-04-23.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [25 Sep 2020](../../changes/2020/2020-09-25.md): 1 amended
 - [24 Apr 2020](../../changes/2020/2020-04-24.md): 1 amended
 - [20 Dec 2019](../../changes/2019/2019-12-20.md): 4 amended, 1 added
-- [15 Nov 2019](../../changes/2019/2019-11-15.md): 1 amended
 
 ## Contents
 
@@ -60,3 +60,4 @@ Assembly, do enact as follows:
 - [Article 11 — Miscellaneous](article-11-miscellaneous/)
 - [Article 12 — Public Housing Drug Elimination Pilot Program](article-12-public-housing-drug-elimination-pilot-program/)
 - [Article 13 — Municipal Housing Authorities, Created](article-13-municipal-housing-authorities-created/)
+- [Article 14 — Obligation to Affirmatively Further Fair Housing](article-14-obligation-to-affirmatively-further-fair-housing/)

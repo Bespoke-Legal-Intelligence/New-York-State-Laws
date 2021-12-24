@@ -10,7 +10,7 @@
 - [§ 62 Notice](62-notice.md)
 - [§ 63 Order](63-order.md)
 - [§ 64 Effect](64-effect.md)
-- [§ 64-A Exemption from publication requirements](64a-exemption-from-publication-requirements.md)
+- [§ 64-A Sealing name change papers](64a-sealing-name-change-papers.md)
 - [§ 65 Optional change of name upon marriage, divorce or annulment](65-optional-change-of-name-upon-marriage-divorce-or-annulment.md)
 
 <details>

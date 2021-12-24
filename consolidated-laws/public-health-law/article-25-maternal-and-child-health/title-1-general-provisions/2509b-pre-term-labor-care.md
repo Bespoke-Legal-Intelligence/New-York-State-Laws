@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 2509-B", "kind": "section", "law_id": "PBH", "location_id": "2509-B", "path": "ARTICLE 25 › TITLE 1 › SECTION 2509-B", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2509-B.md", "title": "Pre-term labor care"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 2509-B", "kind": "section", "law_id": "PBH", "location_id": "2509-B", "path": "ARTICLE 25 › TITLE 1 › SECTION 2509-B", "repealed": true, "repealed_date": "2021-12-24", "source": "nys-laws:PBH/2509-B.md", "title": "Pre-term labor care"} -->
 # Public Health Law § 2509-B — Pre-term labor care
 
 [Public Health Law](../../README.md) › [Article 25 — Maternal and Child Health](../README.md) › [Title 1 — General Provisions](README.md)
+
+**Repealed** (24 Dec 2021). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 2509-b. Pre-term labor care. 1. When an expectant mother presents

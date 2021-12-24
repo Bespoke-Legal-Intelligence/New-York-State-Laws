@@ -499,9 +499,18 @@ program intended to accomplish the purpose of this section.
 federal Centers for Disease Control (CDC), provided by a community-based
 organization, and designed to prevent individuals at risk of developing
 diabetes from developing Type 2 diabetes.
-  (gg) addiction and mental health services and supports provided by
+  * (gg) addiction and mental health services and supports provided by
 facilities licensed pursuant to article thirty-six of the mental hygiene
 law.
+  * NB There are 2 par (gg)'s
+  * (gg) all buprenorphine products, methadone or long acting injectable
+naltrexone for detoxification or maintenance treatment of a substance
+use disorder prescribed according to generally accepted national
+professional guidelines for the treatment of a substance use disorder.
+Such medication assisted treatment shall not be subject to any prior
+authorization mandate.
+  * NB There are 2 par (gg)'s
+  * NB Effective March 22, 2022
   (hh) The commissioner is authorized to establish one or more maternal
 health promotion pilot programs in one or more counties or regions of
 the state, for the purpose of providing Medicaid reimbursement of the
@@ -511,6 +520,11 @@ of improving maternal outcomes and reducing maternal-infant mortality.
 The commissioner is authorized to establish fees for the reimbursement
 of such classes, subject to the approval of the state director of the
 budget.
+  * (ii) Care and services provided by clinical social workers licensed
+pursuant to article one hundred fifty-four of the education law acting
+within their scope of practice, where such services would otherwise be
+covered under this title.
+  * NB Effective March 21, 2022
   3. Any inconsistent provisions of this section notwithstanding,
 medical assistance shall include:
   (a) early and periodic screening and diagnosis of eligible persons

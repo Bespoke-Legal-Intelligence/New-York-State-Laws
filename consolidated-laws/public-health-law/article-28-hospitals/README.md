@@ -24,6 +24,7 @@
 - [§ 2803-AA Sickle cell disease information distribution](2803aa-sickle-cell-disease-information-distribution.md)
 - [§ 2803-B Uniform reports and accounting systems for hospital costs](2803b-uniform-reports-and-accounting-systems-for-hospital-costs.md)
 - [§ 2803-C Rights of patients in certain medical facilities](2803c-rights-of-patients-in-certain-medical-facilities.md)
+- [§ 2803-C-1 Rights of patients in certain medical facilities; long-term care ombudsman program](2803c-1-rights-of-patients-in-certain-medical-facilities-long-term-care-ombudsman.md)
 - [§ 2803-D Reporting abuses of persons receiving care or services in residential health care facilities](2803d-reporting-abuses-of-persons-receiving-care-or-services-in-residential-health.md)
 - [§ 2803-E Residential health care facilities; return and redistribution of unused medication](2803e-residential-health-care-facilities-return-and-redistribution-of-unused.md)
 - [§ 2803-E\*2 Reporting incidents of possible professional misconduct](2803e-2-reporting-incidents-of-possible-professional-misconduct.md)
@@ -144,6 +145,7 @@
 - [§ 2826 Temporary adjustment to reimbursement rates](2826-temporary-adjustment-to-reimbursement-rates.md)
 - [§ 2827 Plant-based food options](2827-plant-based-food-options.md)
 - [§ 2828 Residential health care facilities; minimum direct resident care spending](2828-residential-health-care-facilities-minimum-direct-resident-care-spending.md)
+- [§ 2828\*2 Essential support persons allowed for individuals with disabilities during a state of emergency](2828-2-essential-support-persons-allowed-for-individuals-with-disabilities-during.md)
 - [§ 2829 Nursing homes; disclosure requirements](2829-nursing-homes-disclosure-requirements.md)
 
 <details>
@@ -175,6 +177,8 @@ Section 2800.     Declaration of policy and statement of purpose.
         2803-b.   Uniform reports and accounting systems for hospital
                     costs.
         2803-c.   Rights of patients in certain medical facilities.
+        2803-c-1. Rights of patients in certain medical facilities;
+                    long-term care ombudsman program.
         2803-d.   Reporting abuses of persons receiving care or services
                     in residential health care facilities.
         2803-e.   Residential health care facilities; return and
@@ -347,6 +351,8 @@ Section 2800.     Declaration of policy and statement of purpose.
         2827.     Plant-based food options.
         2828.     Residential health care facilities; minimum direct
                     resident care spending.
+        2828*2.   Essential support persons allowed for individuals with
+                    disabilities during a state of emergency.
         2829.     Nursing homes; disclosure requirements.
 ```
 

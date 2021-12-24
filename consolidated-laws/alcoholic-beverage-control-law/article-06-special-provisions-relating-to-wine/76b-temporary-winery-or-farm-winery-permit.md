@@ -4,7 +4,7 @@
 [Alcoholic Beverage Control Law](../README.md) › [Article 6 — Special Provisions Relating to Wine](README.md)
 
 ```text
-  § 76-b. Temporary winery or farm winery permit. 1. Any person may
+  * § 76-b. Temporary winery or farm winery permit. 1. Any person may
 apply to the liquor authority for a temporary permit to operate a
 winery, farm winery, special winery, or special farm winery. Such
 application shall be in writing and verified and shall contain
@@ -65,4 +65,5 @@ entire record and grant it unless good cause is otherwise shown. A
 decision on an application shall be based on substantial evidence in the
 record and supported by a preponderance of the evidence in favor of the
 applicant.
+  * NB Repealed March 21, 2022
 ```

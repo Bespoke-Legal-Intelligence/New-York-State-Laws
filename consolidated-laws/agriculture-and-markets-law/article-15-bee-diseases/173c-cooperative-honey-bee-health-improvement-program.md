@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 15 — Bee Diseases](README.md)
 
 ```text
-  * § 173-c. Cooperative honey bee health improvement program. 1. In
+  § 173-c. Cooperative honey bee health improvement program. 1. In
 support of the duties outlined in this article, as well as the goals and
 objectives for pollinator protection; the commissioner shall create a
 cooperative honey bee health improvement program which will require
@@ -92,5 +92,4 @@ in the cooperative honey bee health improvement program.
 pursuant to this section may request that such information be exempted
 from disclosure pursuant to subdivision five of section eighty-nine of
 the public officers law.
-  * NB Effective December 23, 2021
 ```

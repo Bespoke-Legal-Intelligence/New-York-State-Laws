@@ -57,8 +57,30 @@ hazardous waste sites; and
   (v) recommendations from the drinking water quality council
 established pursuant to section eleven hundred thirteen of this title.
   c. The commissioner shall, at a minimum, include the following
-chemicals identified as emerging contaminants: 1,4-dioxane;
-perfluorooctanesulfonic acid; and perfluorooctanoic acid.
+chemicals identified as emerging contaminants in the first list of
+emerging contaminants: 1,2,3-trichloropropane; chloromethane (methyl
+chloride); 1,1-dichloroethane; bromomethane (methyl bromide);
+chlorodifluoromethene (HCFC-22); vanadium; molybdenum; cobalt;
+strontium; chromium-6; chlorate; perfluorononanoic acid (PFNA);
+perfluorohexanesulfonic acid (PFHxS); perfluoroheptanoic acid (PFHpA);
+perfluorobutanesulfonic acid (PFBS); hexafluoropropylene oxide dimer
+acid (HFPO-DA); N-ethyl perfluorooctanesulfonamidoacetic acid
+(NEtFOSAA); N-methyl perfluorooctanesulfonamidoacetic acid (NMeFOSAA);
+Perfluorodecanoic acid (PFDA); Perfluorododecanoic acid (PFDoA);
+Perfluorohexanoic acid (PFHxA); Perfluorotetradecanoic acid (PFTA);
+Perfluorotridecanoic acid (PFTrDA); Perfluoroundecanoic acid (PFUnA);
+11-chloroeicosafluoro-3-oxaundecane-1-sulfonic acid (11Cl-PF3OUdS);
+9-chlorohexadecafluoro-3-oxanonane-1-sulfonic acid (9Cl-PF3ONS);
+4,8-dioxa-3H-perfluorononanoic acid (ADONA);
+Nonafluoro-3,6-dioxaheptanoic acid (NFDHA); Perfluorobutanoic acid
+(PFBA); 1H, 1H, 2H, 2HPerfluorodecane sulfonic acid (8:2FTS);
+Perfluoro(2-ethoxyethane)sulfonic acid (PFEESA);
+Perfluoroheptanesulfonic acid (PFHpS); 1H,1H, 2H, 2H-Perfluorohexane
+sulfonic acid (4:2FTS); Perfluoro-3-methoxypropanoic acid (PFMPA);
+Perfluoro-4-methoxybutanoic acid (PFMBA); 1H,1H, 2H, 2H-Perfluorooctane
+sulfonic acid (6:2FTS); Perfluoropentanoic acid (PFPeA);
+Perfluoropentanesulfonic acid (PFPeS); testosterone; and 4-androstene-3,
+17-dione.
   d. The commissioner shall by regulation remove any substance from the
 list of emerging contaminants upon adopting a maximum contaminant level
 for such substance.
@@ -178,4 +200,13 @@ been identified as emerging contaminants pursuant to this section and
 determine if the department should establish a maximum contaminant level
 for the substance. Such review shall occur, at a minimum, once every
 three years.
+  13. The commissioner shall publish draft regulations containing the
+first list of emerging contaminants within ninety days of the effective
+date of this subdivision and shall make regulations implementing this
+subdivision within ninety days thereafter.
+  14. The commissioner shall make regulations updating the list of
+emerging contaminants and their associated notification levels to
+reflect the latest available scientific information at least once every
+three years. The commissioner shall add new emerging contaminants under
+subdivision three of this section at least once every three years.
 ```

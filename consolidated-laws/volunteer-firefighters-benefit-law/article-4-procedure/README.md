@@ -26,7 +26,7 @@
 - [§ 58 Application of provisions of workmen's compensation law](58-application-of-provisions-of-workmens-compensation-law.md)
 - [§ 59 Liberal construction](59-liberal-construction.md)
 - [§ 60 Assessment for expenses](60-assessment-for-expenses.md)
-- [§ 61 Death or disability due to disease or malfunction of heart or coronary arteries; claims and procedures](61-death-or-disability-due-to-disease-or-malfunction-of-heart-or-coronary-arteries.md)
+- [§ 61 Death or disability due to disease or malfunction of heart or coronary arteries or due to vascular rupture; claims and procedures](61-death-or-disability-due-to-disease-or-malfunction-of-heart-or-coronary-arteries.md)
 
 <details>
 <summary>Official heading of Article 4, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -56,7 +56,8 @@ Section 40.   Notice of injury or death.
         59.   Liberal construction.
         60.   Assessment for expenses.
         61.   Death or disability due to disease or malfunction of heart
-        or coronary arteries; claims and procedures.
+        or coronary arteries or due to vascular rupture; claims and
+        procedures.
 ```
 
 </details>

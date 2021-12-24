@@ -4,7 +4,7 @@
 [Labor Law](../README.md) › [Article 2 — The Department of Labor](README.md)
 
 ```text
-  * § 44. Workplace fatality registry; construction. 1. Registry. The
+  § 44. Workplace fatality registry; construction. 1. Registry. The
 department shall create and maintain a registry of workplace fatalities
 in the construction industry, which shall include information regarding
 all incidents under which a worker performing construction work suffers
@@ -110,5 +110,4 @@ worker's name or other personal identifying information be included in
 such database. The department shall update the database with the
 information reported to the registry pursuant to this section within
 five business days of the receipt of such reports by the department.
-  * NB Effective December 23, 2021
 ```

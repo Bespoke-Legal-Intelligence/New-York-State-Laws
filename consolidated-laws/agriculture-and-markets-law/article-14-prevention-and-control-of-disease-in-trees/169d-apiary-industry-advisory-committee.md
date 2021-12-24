@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 169-D", "kind": "section", "law_id": "AGM", "location_id": "169-D", "path": "ARTICLE 14 › SECTION 169-D", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/169-D.md", "title": "Apiary industry advisory committee"} -->
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 169-D", "kind": "section", "law_id": "AGM", "location_id": "169-D", "path": "ARTICLE 14 › SECTION 169-D", "repealed": true, "repealed_date": "2021-12-24", "source": "nys-laws:AGM/169-D.md", "title": "Apiary industry advisory committee"} -->
 # Agriculture and Markets Law § 169-D — Apiary industry advisory committee
 
 [Agriculture and Markets Law](../README.md) › [Article 14 — Prevention and Control of Disease In Trees and Plants; Insect Pests; Sale of Fruit-bearing Trees](README.md)
+
+**Repealed** (24 Dec 2021). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 169-d. Apiary industry advisory committee. 1. There is hereby

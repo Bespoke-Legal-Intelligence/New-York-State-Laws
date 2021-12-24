@@ -32,6 +32,7 @@
 - [§ 605-C Accidental disability retirement for deputy sheriffs employed by the city of New York](605c-accidental-disability-retirement-for-deputy-sheriffs-employed-by-the-city.md)
 - [§ 605-D Accidental disability retirement for chief fire marshals, assistant fire marshals, division supervising fire marshals, supervising fire m...](605d-accidental-disability-retirement-for-chief-fire-marshals-assistant-fire.md)
 - [§ 605-E Accidental disability retirement for ambulance medical technician supervisors, ambulance medical technician coordinators, ambulance medic...](605e-accidental-disability-retirement-for-ambulance-medical-technician-supervisors.md)
+- [§ 605-F Disability benefits; certain disabilities](605f-disability-benefits-certain-disabilities.md)
 - [§ 606 Death benefits](606-death-benefits.md)
 - [§ 606-A Death benefit for vested members who die prior to retirement](606a-death-benefit-for-vested-members-who-die-prior-to-retirement.md)
 - [§ 606-B Death benefit for deputy sheriffs employed by Nassau county](606b-death-benefit-for-deputy-sheriffs-employed-by-nassau-county.md)
@@ -124,6 +125,7 @@ Section 600.     Application.
                    technician supervisors, ambulance medical technician
                    coordinators and ambulance medical technicians in
                    Nassau county.
+        605-f.   Disability benefits; certain disabilities.
         606.     Death benefits.
         606-a.   Death benefit for vested members who die prior to
                    retirement.

@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 175", "kind": "section", "law_id": "AGM", "location_id": "175", "path": "ARTICLE 15 › SECTION 175", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/175.md", "title": "Rules and regulations"} -->
+# Agriculture and Markets Law § 175 — Rules and regulations
+
+[Agriculture and Markets Law](../README.md) › [Article 15 — Bee Diseases](README.md)
+
+```text
+  § 175.   Rules and regulations. The commissioner is hereby authorized,
+after public hearing, to adopt, promulgate and issue such rules and
+regulations as the commissioner may deem necessary to carry out and give
+full force and effect to the provisions of this article, including, but
+not limited to, the designation of species or subspecies of bees
+determined by him or her to cause injury, directly or indirectly, to the
+public safety or to this state's managed bee population, crops, or other
+plants. Such rules and regulations shall be filed and open for public
+inspection at the principal office of the department and shall have the
+force and effect of law.
+```

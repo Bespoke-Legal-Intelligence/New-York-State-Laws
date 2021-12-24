@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Education Law § 6502-A", "kind": "section", "law_id": "EDN", "location_id": "6502-A", "path": "TITLE 8 › ARTICLE 130* › SUBARTICLE 1 › SECTION 6502-A", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6502-A.md", "title": "Renewal of professional license, certification, or registration"} -->
+# Education Law § 6502-A — Renewal of professional license, certification, or registration
+
+[Education Law](../../../README.md) › [Title 8 — The Professions](../../README.md) › [Article 130* — General Provisions](../README.md) › [Subarticle 1 — Introductory Summary](README.md)
+
+```text
+  § 6502-a. Renewal of professional license, certification, or
+registration. 1. This section shall apply to healthcare professionals
+licensed, certified, registered or authorized pursuant to this title
+other than those licensed or registered pursuant to article one hundred
+thirty-one of this title.
+  2. In conjunction with and as a condition of each registration
+renewal, the professionals described in subdivision one of this section
+shall provide to the department, and the department shall collect, such
+information and documentation required by the department, in
+consultation with the department of health, as is necessary to enable
+the department of health to evaluate access to needed services in this
+state, including, but not limited to, the location and type of setting
+in which the professional practices and other relevant information. The
+department of health, in consultation with the department, shall make
+such data available in aggregate, de-identified form on a publicly
+accessible website.
+  3. The dates by which the professionals described in subdivision one
+of this section must comply with the requirements of subdivision two of
+this section shall be determined by the department and may vary by
+profession, to allow the development and refinement of necessary program
+features and to allow sufficient advanced notice to be provided to
+affected professionals. The provisions of this section shall be
+effective only if and for so long as an appropriation is made for the
+purposes of its implementation.
+```

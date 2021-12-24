@@ -13,12 +13,11 @@
 <summary>Official heading of Article 6-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              * ARTICLE 6-A
+                               ARTICLE 6-A
                         CHANGE OF SEX DESIGNATION
 Section 67.   Petition to change of sex designation.
         67-a. Order.
         67-b. Sealing change of sex designation papers.
-  * NB Effective December 21, 2021
 ```
 
 </details>

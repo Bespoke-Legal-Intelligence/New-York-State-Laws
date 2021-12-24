@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 15 — Bee Diseases](README.md)
 
 ```text
-  * § 173-b. Eradication of bee diseases and certain insects affecting
+  § 173-b. Eradication of bee diseases and certain insects affecting
 bees. The commissioner may cause inspections to be made of apiaries in
 the state for the discovery of infectious, contagious or communicable
 diseases and for the discovery of insects and parasitic organisms
@@ -31,5 +31,4 @@ capable of harboring insects or parasitic organisms adversely affecting
 bees, or species or subspecies of bees which have been determined by the
 commissioner to cause injury, directly or indirectly, to this state's
 managed bee population, crops, or other plants.
-  * NB Effective December 23, 2021
 ```

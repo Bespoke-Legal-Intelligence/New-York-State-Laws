@@ -4,7 +4,7 @@
 [Retirement and Social Security Law](../../README.md) › [Article 2 — New York State Employees' Retirement System](../README.md) › [Title 7 — Death Benefits and Disability Retirement](README.md)
 
 ```text
-  § 63-g. Performance of duty disability retirement. a. Any member of
+  * § 63-g. Performance of duty disability retirement. a. Any member of
 the retirement system employed by the division of military and naval
 affairs shall be eligible to retire pursuant to the provisions of this
 section if he or she is an airport firefighter apprentice, airport
@@ -50,4 +50,5 @@ section sixty-four of this title. Any benefit payable pursuant to the
 workers' compensation law to a member receiving a disability allowance
 pursuant to this section shall be in addition to such retirement for
 disability incurred in performance of duty allowance.
+  * NB There are 2 § 63-g's
 ```

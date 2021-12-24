@@ -71,7 +71,7 @@ patients as part of their wellness education or prenatal care
 activities.
   3. The department shall also consider making use of social media
 networks for the purposes of advancing such initiatives.
-  ** 4. Information pursuant to subdivision two of this section shall
+  4. Information pursuant to subdivision two of this section shall
 include information related to pre-term labor and premature birth,
 including but not limited to definitions and information on the risks of
 pre-term labor and premature birth to the expectant mother and fetus, as
@@ -92,10 +92,8 @@ them in the emergency room for close observation and continuous
 monitoring until it is deemed medically safe for discharge or transfer
 in accordance with state and federal requirements including the federal
 Emergency Medical Treatment and Labor Act (EMTALA).
-  ** NB Effective December 22, 2021
-  ** 5. The department shall develop educational materials to be
-provided to emergency room medical staff regarding the state and federal
+  5. The department shall develop educational materials to be provided
+to emergency room medical staff regarding the state and federal
 discharge and transfer requirements.
-  ** NB Effective December 22, 2021
   * NB There are 2 § 266's
 ```

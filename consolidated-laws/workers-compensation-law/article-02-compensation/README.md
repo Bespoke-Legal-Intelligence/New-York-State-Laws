@@ -48,6 +48,7 @@
 - [§ 21-A Temporary payment of compensation](21a-temporary-payment-of-compensation.md)
 - [§ 22 Modification of awards, decisions or orders](22-modification-of-awards-decisions-or-orders.md)
 - [§ 23 Appeals](23-appeals.md)
+- [§ 23-A Mistakes, defects and irregularities](23a-mistakes-defects-and-irregularities.md)
 - [§ 24 Costs and fees](24-costs-and-fees.md)
 - [§ 24-A Representation before the workers' compensation board](24a-representation-before-the-workers-compensation-board.md)
 - [§ 25 Compensation, how payable](25-compensation-how-payable.md)
@@ -132,6 +133,7 @@ Section  9.    Definitions.
         21-a.  Temporary payment of compensation.
         22.    Modification of awards, decisions or orders.
         23.    Appeals.
+        23-a.  Mistakes, defects and irregularities.
         24.    Costs and fees.
         24-a.  Representation before the workers' compensation board.
         25.    Compensation, how payable.

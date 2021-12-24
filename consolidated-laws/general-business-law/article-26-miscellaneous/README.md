@@ -38,6 +38,7 @@
 - [§ 391-T Sale of small animals; instructions on care](391t-sale-of-small-animals-instructions-on-care.md)
 - [§ 391-U Pricing goods and services on the basis of gender prohibited](391u-pricing-goods-and-services-on-the-basis-of-gender-prohibited.md)
 - [§ 391-U\*2 Restrictions on the sale and use of firefighting equipment containing PFAS chemicals](391u-2-restrictions-on-the-sale-and-use-of-firefighting-equipment-containing-pfas.md)
+- [§ 391-V Third-party food delivery agreements](391v-third-party-food-delivery-agreements.md)
 - [§ 392 Second-hand watches](392-second-hand-watches.md)
 - [§ 392-A Sale of new computers](392a-sale-of-new-computers.md)
 - [§ 392-B False labels and misrepresentations](392b-false-labels-and-misrepresentations.md)
@@ -235,6 +236,7 @@ Section 390.         Substitution of spurious oils for internal
                        prohibited.
         391-u*2.     Restrictions on the sale and use of firefighting
                        equipment containing PFAS chemicals.
+        391-v.       Third-party food delivery agreements.
         392.         Second-hand watches.
         392-a.       Sale of new computers.
         392-b.       False labels and misrepresentations.

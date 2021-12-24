@@ -4,7 +4,7 @@
 [Correction Law](../README.md) › [Article 4 — Establishment of Correctional Facilities, Commitments to Department and Custody of Incarcerated Individuals](README.md)
 
 ```text
-  * § 72-c. Placement of individuals with children. 1. In determining
+  § 72-c. Placement of individuals with children. 1. In determining
 placement for a person in custody of the department, whenever
 practicable the commissioner shall place such person in the correctional
 institution or facility which is located in closest proximity to the
@@ -36,5 +36,4 @@ general explanation of the reasons that such placement was not provided
 which shall not include any identifying information, and the amount of
 incarcerated parents who declined such placement pursuant to this
 section.
-  * NB Effective December 23, 2021
 ```

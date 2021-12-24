@@ -34,7 +34,7 @@
 - [§ 2508 Newborn health and safe sleep study](2508-newborn-health-and-safe-sleep-study.md)
 - [§ 2509 Maternal mortality review board](2509-maternal-mortality-review-board.md)
 - [§ 2509-A Corded window blind leaflet](2509a-corded-window-blind-leaflet.md)
-- [§ 2509-B Pre-term labor care](2509b-pre-term-labor-care.md)
+- [§ 2509-B Pre-term labor care](2509b-pre-term-labor-care.md) *(repealed)*
 - [§ 2509-C Availability of adverse childhood experiences services](2509c-availability-of-adverse-childhood-experiences-services.md)
 
 <details>
@@ -79,7 +79,6 @@ Section 2500.     Maternal and child health; duties of commissioner.
         2508.     Newborn health and safe sleep study.
         2509.     Maternal mortality review board.
         2509-a.   Corded window blind leaflet.
-        2509-b.   Pre-term labor care.
         2509-c.   Availability of adverse childhood experiences
                     services.
 ```

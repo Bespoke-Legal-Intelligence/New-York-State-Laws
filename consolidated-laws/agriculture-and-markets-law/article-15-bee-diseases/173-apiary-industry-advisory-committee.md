@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 173", "kind": "section", "law_id": "AGM", "location_id": "173", "path": "ARTICLE 15 › SECTION 173", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/173.md", "title": "Apiary industry advisory committee"} -->
+# Agriculture and Markets Law § 173 — Apiary industry advisory committee
+
+[Agriculture and Markets Law](../README.md) › [Article 15 — Bee Diseases](README.md)
+
+```text
+  § 173. Apiary industry advisory committee. 1. There is hereby
+established within the department an apiary industry advisory committee
+which shall consist of no more than fifteen members to be appointed by
+the commissioner based on their experience and expertise in the apiary
+industry. Of the members so appointed, at least two members shall
+represent each of the three sectors of the apiary industry, commercial
+beekeepers, part-time beekeepers and hobbyist beekeepers; at least one
+member shall represent the horticulture or vegetable industry and one
+member shall be an officer or employee of the Cornell cooperative
+extension service or the New York state college of agriculture and life
+sciences at Cornell university. Members shall be appointed for a term of
+three years and may serve until their successors are chosen provided,
+however, that of the members first appointed, five shall serve for a
+term of one year, five shall serve for a term of two years, and five
+shall serve for a term of three years. Members shall serve without
+salary. The commissioner or his or her designee shall be the chairperson
+of the committee.
+  2. The duties and responsibilities of the apiary industry advisory
+committee shall include providing advice, comments and recommendations
+to the commissioner regarding state government plans, policies and
+programs affecting the apiary industry and such other matters as the
+commissioner may request in relation to this article.
+  3. The advisory committee shall meet at least once annually, at times
+and places set by the commissioner.
+  4. The commissioner may ask other individuals to attend the
+committee's meetings or work with it as needed.
+```
