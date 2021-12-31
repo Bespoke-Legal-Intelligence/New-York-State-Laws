@@ -9,6 +9,7 @@
 
 - [§ 235 Jurisdiction](235-jurisdiction.md)
 - [§ 235\*2 Jurisdiction](235-2-jurisdiction.md)
+- [§ 235\*3 Jurisdiction](235-3-jurisdiction.md)
 - [§ 236 Creation, personnel](236-creation-personnel.md)
 - [§ 237 Functions, powers and duties](237-functions-powers-and-duties.md)
 - [§ 238 Notice of violation](238-notice-of-violation.md)
@@ -29,6 +30,7 @@
                    ADJUDICATION OF PARKING INFRACTIONS
 Section 235.   Jurisdiction.
         235*2. Jurisdiction.
+        235*3. Jurisdiction.
         236.   Creation, personnel.
         237.   Functions, powers and duties.
         238.   Notice of violation.

@@ -12,6 +12,7 @@
 - [§ 13 Limited-profit housing companies; how created](13-limited-profit-housing-companies-how-created.md)
 - [§ 13-A The applicability of not-for-profit corporation law](13a-the-applicability-of-not-for-profit-corporation-law.md)
 - [§ 13-B Verification of papers filed with supervising agency](13b-verification-of-papers-filed-with-supervising-agency.md)
+- [§ 13-C Voting, election and referendum procedures](13c-voting-election-and-referendum-procedures.md)
 - [§ 14 Consent of commissioner to incorporation](14-consent-of-commissioner-to-incorporation.md)
 - [§ 15 Participation by certain corporations and individuals](15-participation-by-certain-corporations-and-individuals.md)
 - [§ 16 Limited-profit housing companies; partnership relations](16-limited-profit-housing-companies-partnership-relations.md)
@@ -47,6 +48,7 @@
 - [§ 33 Tax exemptions](33-tax-exemptions.md)
 - [§ 34 Foreclosure and judgments](34-foreclosure-and-judgments.md)
 - [§ 35 Voluntary dissolution](35-voluntary-dissolution.md)
+- [§ 35-A Requirements regarding dissolution](35a-requirements-regarding-dissolution.md)
 - [§ 36 Sale of project prior to termination of tax exemption](36-sale-of-project-prior-to-termination-of-tax-exemption.md)
 - [§ 36-A Additional powers of municipalities](36a-additional-powers-of-municipalities.md)
 - [§ 37 Separability clause](37-separability-clause.md)
@@ -64,6 +66,7 @@ Section 10.   Short title.
         13.   Limited-profit housing companies; how created.
         13-a. The applicability of not-for-profit corporation law.
         13-b. Verification of papers filed with supervising agency.
+        13-c. Voting, election and referendum procedures.
         14.   Consent of commissioner to incorporation.
         15.   Participation by certain corporations and individuals.
         16.   Limited-profit housing companies; partnership relations.
@@ -104,6 +107,7 @@ Section 10.   Short title.
         33.   Tax exemptions.
         34.   Foreclosure and judgments.
         35.   Voluntary dissolution.
+        35-a. Requirements regarding dissolution.
         36.   Sale of project prior to termination of tax exemption.
         36-a. Additional powers of municipalities.
         37.   Separability clause.

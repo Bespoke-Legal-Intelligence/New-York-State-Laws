@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 918", "kind": "section", "law_id": "GBS", "location_id": "918", "path": "ARTICLE 40 › SECTION 918", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/918.md", "title": "Electronic notice authorized"} -->
+# General Business Law § 918 — Electronic notice authorized
+
+[General Business Law](../README.md) › [Article 40 — Peer-to-peer Car Sharing Programs](README.md)
+
+```text
+  * § 918. Electronic notice authorized. 1. Notwithstanding any other
+provision of this article, any notice or disclosure of general
+applicability required to be provided, delivered, posted, or otherwise
+made available by a peer-to-peer car sharing program pursuant to any
+provision of this article shall also be deemed timely and effectively
+made where such notice or disclosure is provided or delivered
+electronically to the shared vehicle owner and/or driver at or before
+the time required, provided that such shared vehicle owner and/or driver
+has given his or her express consent to receive such notice or
+disclosure in such a manner.
+  2. Electronic or written acceptance shall hereby be deemed a valid
+form of acceptance of any such notice or disclosure, and acceptance
+shall remain effective until such time as acceptance is affirmatively
+withdrawn by such shared vehicle driver. Notices and disclosures made
+electronically pursuant to this subdivision shall be exempt from any
+placement or stylistic display requirements, including but not limited
+to location, font size, typeset, or other specifically stated
+description; provided such disclosure is made in a clear and conspicuous
+manner.
+  * NB Effective March 22, 2022
+```

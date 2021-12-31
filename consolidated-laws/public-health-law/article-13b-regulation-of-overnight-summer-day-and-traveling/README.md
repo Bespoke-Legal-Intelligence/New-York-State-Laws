@@ -15,6 +15,7 @@
 - [§ 1394-C Camps for children with developmental disabilities](1394c-camps-for-children-with-developmental-disabilities.md)
 - [§ 1395 Violations; temporary restraining order](1395-violations-temporary-restraining-order.md)
 - [§ 1396 Separability](1396-separability.md)
+- [§ 1397 Separability](1397-separability.md)
 
 <details>
 <summary>Official heading of Article 13-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -32,7 +33,8 @@ Section  1391.   Declaration of public policy.
          1394-b. Requirement to check sex offender registry.
          1394-c. Camps for children with developmental disabilities.
          1395.   Violations; temporary restraining order.
-         1396.   Separability.
+         1396.   Pesticide alternatives.
+         1397.   Separability.
 ```
 
 </details>

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | AGM |
 | Type | Consolidated law, chapter 69 |
-| Sections | 683 (1 repealed) |
-| Last changed | 24 Dec 2021 |
+| Sections | 687 |
+| Last changed | 31 Dec 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Agriculture & Markets |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER 69 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (101 lines)](chapter-text.md)
+[Full chapter text (102 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [31 Dec 2021](../../changes/2021/2021-12-31.md): 1 amended, 5 added, 1 removed
 - [24 Dec 2021](../../changes/2021/2021-12-24.md): 9 amended, 1 repealed
 - [3 Dec 2021](../../changes/2021/2021-12-03.md): 1 amended, 5 added
 - [8 Oct 2021](../../changes/2021/2021-10-08.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [30 Jul 2021](../../changes/2021/2021-07-30.md): 3 amended
 - [9 Jul 2021](../../changes/2021/2021-07-09.md): 4 amended, 1 added
 - [2 Jul 2021](../../changes/2021/2021-07-02.md): 6 amended, 4 added, 28 removed
-- [19 Feb 2021](../../changes/2021/2021-02-19.md): 1 amended
 
 ## Contents
 
@@ -71,6 +71,7 @@ Assembly, do enact as follows:
 - [Article 10-A — Prevention of Fraud In Sale of Soil and Plant Inoculants](article-10a-prevention-of-fraud-in-sale-of-soil-and-plant/)
 - [Article 11 — Integrated Pest Management Program](article-11-integrated-pest-management-program/)
 - [Article 11-A — Agricultural Environmental Management](article-11a-agricultural-environmental-management/)
+- [Article 11-B — Soil Health and Climate Resiliency](article-11b-soil-health-and-climate-resiliency/)
 - [Article 12 — Adulteration and Sale of Turpentine and Linseed Oil](article-12-adulteration-and-sale-of-turpentine-and-linseed/)
 - [Article 12-A — Grading of Farm Products](article-12a-grading-of-farm-products/)
 - [Article 13 — No title](article-13-no-title/)

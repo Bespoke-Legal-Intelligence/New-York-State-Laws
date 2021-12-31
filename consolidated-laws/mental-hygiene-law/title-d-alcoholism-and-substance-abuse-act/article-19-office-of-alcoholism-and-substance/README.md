@@ -3,6 +3,8 @@
 
 [Mental Hygiene Law](../../README.md) › [Title D — Alcoholism and Substance Abuse Act](../README.md)
 
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
 ## Contents
 
 - [§ 19.01 Declaration of policy](19.01-declaration-of-policy.md)
@@ -36,6 +38,7 @@
 - [§ 19.42 Medical advisory panel](19.42-medical-advisory-panel.md)
 - [§ 19.43 Retaliatory personnel actions](19.43-retaliatory-personnel-actions.md)
 - [§ 19.45 Substance use disorder education and recovery grants](19.45-substance-use-disorder-education.md)
+- [§ 19.45\*2 The council for treatment equity](19.45-2-the-council-for-treatment-equity.md)
 
 <details>
 <summary>Official heading of Article 19, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -89,6 +92,7 @@ Section 19.01   Declaration of policy.
         19.42   Medical advisory panel.
         19.43   Retaliatory personnel actions.
         19.45   Substance use disorder education and recovery grants.
+        19.45*2 The council for treatment equity.
 ```
 
 </details>

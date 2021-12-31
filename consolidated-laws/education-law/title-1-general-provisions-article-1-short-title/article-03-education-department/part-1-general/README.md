@@ -19,6 +19,7 @@
 - [§ 110 Refunds](110-refunds.md)
 - [§ 111 Indian affairs](111-indian-affairs.md)
 - [§ 112 Children in care; responsibility for education](112-children-in-care-responsibility.md)
+- [§ 112-A Students confined in certain facilities; responsibility for issuance of diplomas](112a-students-confined-in-certain-facilities.md)
 - [§ 113 Leaves of absence to professional members of the department](113-leaves-of-absence-to-professional-members.md)
 - [§ 114 Reduction of salaries for investment in custodial accounts](114-reduction-of-salaries-for-investment.md)
 - [§ 140 Historical documentary heritage grants and aid](140-historical-documentary-heritage-grants.md)

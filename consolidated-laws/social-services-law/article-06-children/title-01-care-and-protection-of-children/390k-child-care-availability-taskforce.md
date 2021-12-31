@@ -13,21 +13,32 @@ chamber and the commissioners of the office of children and family
 services and the department of labor, or their designees. Members of the
 taskforce shall serve without compensation for three year terms, but may
 be reimbursed for actual costs incurred for participation on such
-taskforce. Ensuring adequate geographic representation, members of the
-taskforce shall be appointed by the governor and comprised as follows:
-  (a) three individuals shall be appointed upon the recommendation of
-the speaker of the assembly, at least one of whom shall be a parent who
-has utilized subsidized child care;
-  (b) three individuals shall be appointed upon the recommendation of
-the temporary president of the senate, at least one of whom shall be a
-parent who has utilized subsidized child care;
-  (c) two representatives of a child care resource and referral agency;
-  (d) two representatives of home-based child care providers;
-  (e) two representatives of center-based child care providers;
-  (f) two representatives from the business community;
-  (g) two representatives from unions that represent child care
+taskforce. Ensuring adequate geographic, racial and ethnic
+representation, members of the taskforce shall be appointed by the
+governor and comprised as follows:
+  (a) four individuals shall be appointed upon the recommendation of the
+speaker of the assembly, at least one of whom shall be a parent who has
+utilized subsidized child care and at least one of whom shall be a
+parent who has utilized unsubsidized child care, from different regions
+of the state;
+  (b) four individuals shall be appointed upon the recommendation of the
+temporary president of the senate, at least one of whom shall be a
+parent who has utilized subsidized child care and at least one of whom
+shall be a parent who has utilized unsubsidized child care, from
+different regions of the state;
+  (c) one individual shall be appointed upon the recommendation of the
+minority leader of the assembly;
+  (d) one individual shall be appointed upon the recommendation of the
+minority leader of the senate;
+  (e)two representatives of a child care resource and referral agency;
+  (f) a minimum of three and a maximum of four representatives of
+home-based child care providers;
+  (g) a minimum of three and a maximum of four representatives of
+center-based child care providers;
+  (h) two representatives from the business community;
+  (i) two representatives from unions that represent child care
 providers; and
-  (h) at least one representative from each of the following entities:
+  (j) at least one representative from each of the following entities:
   (i) the office of temporary and disability assistance;
   (ii) the council on children and families;
   (iii) the department of taxation and finance;
@@ -39,7 +50,9 @@ York;
   (viii) a social service district or county government or an entity
 that advocates on behalf of social services or county governments; and
   (ix) a non-profit child care advocacy organization.
-  3. The taskforce shall examine the following:
+  3. The taskforce shall examine the following with a focus on how each
+component has been affected by the implementation of policies supported
+by federally funded programs through various stimulus packages:
   (a) affordable child care with a focus on the cost of care for
 families and factors that contribute to such costs;
   (b) access to and availability of subsidized child care, including the
@@ -62,13 +75,21 @@ programs;
   (j) business incentives to increase child care access and the impact
 on tax credits and deductions relating to child care;
   (k) ways to address concerns identified in the course of the
-examination required by this subdivision; and
-  (l) anything else the taskforce deems necessary.
-  4. The taskforce shall report its interim findings and recommendations
-in accordance with subdivision three of this section to the governor,
-the speaker of the assembly and the temporary president of the senate no
-later than November first, two thousand eighteen and its final findings
-and recommendations no later than December thirty-first, two thousand
-twenty.
-  * NB Repealed December 31, 2021
+examination required by this subdivision;
+  (l) the implementation of policies supported by federally funded
+programs through various stimulus packages; and
+  (m) anything else the taskforce deems necessary.
+  4. (a) The taskforce shall report its interim findings and
+recommendations in accordance with subdivision three of this section to
+the governor, the speaker of the assembly and the temporary president of
+the senate no later than November first, two thousand twenty-two and its
+final findings and recommendations no later than December thirty-first,
+two thousand twenty-three.
+  (b) The taskforce shall also report on the implementation of any
+recommendations that resulted from the initial report required to be
+produced by the task force pursuant to subdivision four of chapter four
+hundred ninety-three of the laws of two thousand seventeen. Such
+additional report shall be provided annually, beginning July first two
+thousand twenty-two.
+  * NB Repealed December 31, 2024
 ```

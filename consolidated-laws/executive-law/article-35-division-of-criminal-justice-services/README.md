@@ -36,6 +36,7 @@
 - [§ 837-U The division of criminal justice services, in conjunction with the chief administrator of the courts, shall collect data and report annua...](837u-the-division-of-criminal-justice-services-in-conjunction-with-the-chief.md)
 - [§ 837-V Report of discharge of weapon](837v-report-of-discharge-of-weapon.md)
 - [§ 837-V\*2 Reporting duties of law enforcement departments with respect to arrest-related deaths](837v-2-reporting-duties-of-law-enforcement-departments-with-respect-to-arrest-related.md)
+- [§ 837-W Reporting on firearms, rifles and shotguns used in the commission of a crime](837w-reporting-on-firearms-rifles-and-shotguns-used-in-the-commission-of-a-crime.md)
 - [§ 838 Identification of unknown dead and missing persons](838-identification-of-unknown-dead-and-missing-persons.md)
 - [§ 838-A Maintenance of sexual offense evidence kits](838a-maintenance-of-sexual-offense-evidence-kits.md)
 - [§ 838-B Victim's right to notice](838b-victims-right-to-notice.md)
@@ -108,6 +109,8 @@ Section 835.     Definitions.
         837-v.   Report of discharge of weapon.
         837-v*2. Reporting duties of law enforcement departments with
                    respect to arrest-related deaths.
+        837-w.   Reporting on firearms, rifles and shotguns used in the
+                   commission of a crime.
         838.     Identification of unknown dead and missing persons.
         838-a.   Maintenance of sexual offense evidence kits.
         838-b.   Victim's right to notice.

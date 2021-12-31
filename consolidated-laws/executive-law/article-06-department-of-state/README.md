@@ -46,6 +46,7 @@
 - [§ 135-B Advertising by notaries public](135b-advertising-by-notaries-public.md)
 - [§ 136 Notarial fees](136-notarial-fees.md)
 - [§ 137 Statement as to authority of notaries public](137-statement-as-to-authority-of-notaries-public.md)
+- [§ 137-A Electronic notarization](137a-electronic-notarization.md)
 - [§ 138 Powers of notaries public or other officers who are stockholders, directors, officers or employees of a corporation](138-powers-of-notaries-public-or-other-officers-who-are-stockholders-directors.md)
 - [§ 139 Commissioners of deeds within the state](139-commissioners-of-deeds-within-the-state.md)
 - [§ 140 Commissioners of deeds in the city of New York](140-commissioners-of-deeds-in-the-city-of-new-york.md)
@@ -110,6 +111,7 @@ Section 90.    Department of state; secretary of state.
         135-b. Advertising by notaries public.
         136.   Notarial fees.
         137.   Statement as to authority of notaries public.
+        137-a. Electronic notarization.
         138.   Powers of notaries public or other officers who are
                  stockholders, directors, officers or employees of a
                  corporation.

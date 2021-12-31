@@ -3,8 +3,6 @@
 
 [Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md)
 
-*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
-
 ## Contents
 
 - [§ 1020 Short title](1020-short-title.md)
@@ -44,9 +42,10 @@
 - [§ 1020-HH Green jobs-green New York on-bill recovery](1020hh-green-jobs-green-new-york-on-bill-recovery.md)
 - [§ 1020-II Public notice before approval of utility transmission facilities](1020ii-public-notice-before-approval-of-utility.md)
 - [§ 1020-JJ Energy storage deployment policy](1020jj-energy-storage-deployment-policy.md)
-- [§ 1020-KK Liberal interpretation](1020kk-liberal-interpretation.md)
-- [§ 1020-LL Severability](1020ll-severability.md)
-- [§ 1020-LL\*2 Inconsistent provisions of other laws superseded](1020ll-2-inconsistent-provisions-of-other-laws-superseded.md)
+- [§ 1020-KK Semi-annual expenditure and lobbying report](1020kk-semi-annual-expenditure-and-lobbying-report.md)
+- [§ 1020-XX Liberal interpretation](1020xx-liberal-interpretation.md)
+- [§ 1020-YY Severability](1020yy-severability.md)
+- [§ 1020-ZZ Inconsistent provisions of other laws superseded](1020zz-inconsistent-provisions-of-other-laws-superseded.md)
 
 <details>
 <summary>Official heading of Title 1-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

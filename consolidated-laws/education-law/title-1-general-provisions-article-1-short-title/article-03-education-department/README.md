@@ -33,6 +33,8 @@ Section 101.   Education department; regents of the university.
         110.   Refunds.
         111.   Indian affairs.
         112.   Children in care; responsibility for education.
+        112-a. Students confined in certain facilities; responsibility
+                 for issuance of diplomas.
         113.   Leaves of absence to professional members of the
                  department.
         114.   Reduction of salaries for investment in custodial
@@ -41,7 +43,7 @@ Section 101.   Education department; regents of the university.
                                  PART IV
                      SCIENTIFIC AND HISTORIC PLACES
 Section 174. Powers formerly exercised by the state board of geographic
-                 names.
+               names.
                                  PART V
             EDUCATION DEPARTMENT OPTIONAL RETIREMENT PROGRAM
 Section 180. Definitions.

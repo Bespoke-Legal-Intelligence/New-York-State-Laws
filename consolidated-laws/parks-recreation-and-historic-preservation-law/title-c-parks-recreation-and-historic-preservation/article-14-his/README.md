@@ -11,6 +11,7 @@
 - [§ 14.07 State register of historic places; inventory of historic property; statewide comprehensive historic preservation plan](14.07-state-register-of-historic-places.md)
 - [§ 14.09 State agency activities affecting historic or cultural property; notice and comment](14.09-state-agency-activities-affecting.md)
 - [§ 14.11 Historic business preservation registry](14.11-historic-business-preservation-registry.md)
+- [§ 14.12 New York state two hundred fiftieth commemoration commission](14.12-new-york-state-two-hundred-fiftieth.md)
 
 <details>
 <summary>Official heading of Article 14, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -27,6 +28,8 @@ Section 14.01 Declaration of policy.
         14.09 State agency activities affecting historic or cultural
                 property; notice and comment.
         14.11 Historic business preservation registry.
+        14.12 New York state two hundred fiftieth commemoration
+                commission.
 ```
 
 </details>

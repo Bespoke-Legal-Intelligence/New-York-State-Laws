@@ -8,6 +8,7 @@
 - [§ 2855 Electronic method of payment; periodic charges](2855-electronic-method-of-payment-periodic-charges.md)
 - [§ 2856 Consideration of public authority debt](2856-consideration-of-public-authority-debt.md)
 - [§ 2857 Actions by an authority](2857-actions-by-an-authority.md)
+- [§ 2858 Public water and sewer authority powers](2858-public-water-and-sewer-authority-powers.md)
 
 <details>
 <summary>Official heading of Title 3-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -18,6 +19,7 @@
 Section 2855. Electronic method of payment; periodic charges.
         2856. Consideration of public authority debt.
         2857. Actions by an authority.
+        2858. Public water and sewer authority powers.
 ```
 
 </details>

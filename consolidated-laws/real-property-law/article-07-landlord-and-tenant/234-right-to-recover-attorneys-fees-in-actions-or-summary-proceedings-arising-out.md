@@ -5,7 +5,7 @@
 
 ```text
   § 234. Right to recover attorneys' fees in actions or summary
-proceedings arising out of leases of residential property. Whenever a
+proceedings arising out of leases of residential property. 1. Whenever a
 lease of residential property shall provide that in any action or
 summary proceeding the landlord may recover attorneys' fees and/or
 expenses incurred as the result of the failure of the tenant to perform
@@ -23,4 +23,12 @@ counterclaim in any action or summary proceeding commenced by the
 landlord against the tenant. A landlord may not recover attorneys' fees
 upon a default judgment. Any waiver of this section shall be void as
 against public policy.
+  2. Notwithstanding the provisions of subdivision one of this section,
+where a tenant is a dwelling unit owner or shareholder of a cooperative
+housing corporation, other than a cooperative housing corporation
+subject to the provisions of article two, article four, article five or
+article eleven of the private housing finance law, attorney's fees may
+be awarded to either party in the event of default judgment if recovery
+of attorney's fees is provided for in the proprietary lease or occupancy
+agreement.
 ```

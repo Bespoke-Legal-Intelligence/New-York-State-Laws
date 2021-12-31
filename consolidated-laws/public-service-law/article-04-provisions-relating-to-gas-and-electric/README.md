@@ -38,6 +38,7 @@
 - [§ 71 Complaints as to quality and price of gas and electricity; investigation by commission; forms of complaints](71-complaints-as-to-quality-and-price-of-gas-and-electricity-investigation.md)
 - [§ 72 Notice and hearing; order fixing price of gas or electricity or requiring improvement](72-notice-and-hearing-order-fixing-price-of-gas-or-electricity-or-requiring.md)
 - [§ 72-A Increased fuel costs](72a-increased-fuel-costs.md)
+- [§ 73 Compensation to customers experiencing widespread prolonged outages](73-compensation-to-customers-experiencing-widespread-prolonged-outages.md)
 - [§ 74 Energy storage deployment policy](74-energy-storage-deployment-policy.md)
 - [§ 74-A Westchester county renewable energy and energy efficiency resources program](74a-westchester-county-renewable-energy-and-energy-efficiency-resources-program.md)
 - [§ 74-B Long Island community choice aggregation programs](74b-long-island-community-choice-aggregation-programs.md)
@@ -104,6 +105,8 @@ Section 64.     Application of article.
         72.     Notice and hearing; order fixing price of gas or
                   electricity or requiring improvement.
         72-a.   Increased fuel costs.
+        73.     Compensation to customers experiencing widespread
+                  prolonged outages.
         74.     Energy storage deployment policy.
         74-a.   Westchester county renewable energy and energy
                   efficiency resources program.

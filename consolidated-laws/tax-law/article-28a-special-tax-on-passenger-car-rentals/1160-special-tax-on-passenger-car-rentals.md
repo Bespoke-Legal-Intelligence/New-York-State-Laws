@@ -37,4 +37,9 @@ not the motor vehicle is required to be or is registered by this state,
 for a consideration, without the transfer of the ownership of such motor
 vehicle, but not including a lease described in subdivision (i) of
 section eleven hundred eleven of this chapter.
+  * (c) The provisions of this section shall not apply to a peer-to-peer
+car sharing program as defined in section nine hundred of the general
+business law and which is subject to the assessment fees set forth in
+article twenty-nine-D of this chapter.
+  * NB Effective March 22, 2022
 ```

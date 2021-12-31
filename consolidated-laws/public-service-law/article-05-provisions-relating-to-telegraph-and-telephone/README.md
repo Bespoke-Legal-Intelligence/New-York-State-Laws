@@ -31,6 +31,7 @@
 - [§ 101-A Reorganization](101a-reorganization.md)
 - [§ 102 IntraLATA presubscribed interexchange carrier-change charge study](102-intralata-presubscribed-interexchange-carrier-change-charge-study.md)
 - [§ 103 Commercial landlord-tenant relationship](103-commercial-landlord-tenant-relationship.md)
+- [§ 104 Fiber-based services](104-fiber-based-services.md)
 
 <details>
 <summary>Official heading of Article 5, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

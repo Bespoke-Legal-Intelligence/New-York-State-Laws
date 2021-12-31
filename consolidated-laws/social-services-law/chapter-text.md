@@ -45,7 +45,7 @@ Article  1.   Short title; definitions (§§ 1-2).
                        departments: appointment (§ 116).
          4.   Residence and removal (§§ 117-122).
          5.   Assistance and care (§§ 131--370-aa).
-         Title  1.    General provisions (§§ 131--152-b).
+         Title  1.    General provisions (§§ 131--152-c).
                 2.    State reimbursement for public assistance and care
                         (§§ 153-154).
                 3.    Home relief (§§ 157-165).

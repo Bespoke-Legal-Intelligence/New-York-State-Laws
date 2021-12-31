@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 151-L", "kind": "section", "law_id": "AGM", "location_id": "151-L", "path": "ARTICLE 11-B › SECTION 151-L", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/151-L.md", "title": "Definitions"} -->
+# Agriculture and Markets Law § 151-L — Definitions
+
+[Agriculture and Markets Law](../README.md) › [Article 11-B — Soil Health and Climate Resiliency](README.md)
+
+```text
+  § 151-l. Definitions. As used in this article: 1. "Soil health" means
+soils that have the continuing capacity to function as a vital, living
+ecosystem that sustains plants, animals, and humans. The benefits of
+healthy soil include: supporting the production of food, feed, fiber,
+and fuel; facilitating infiltration, storage and filtration of water and
+protecting water quality; enhanced nutrient-holding capacity and
+nutrient cycling; providing habitat for diverse soil organisms; enhanced
+resilience to drought, extreme precipitation events, temperature
+extremes, pests, diseases and other stresses; breaking down harmful
+chemicals; reducing agricultural impacts on, and mitigating the impact
+on agriculture of, global climate change; and sequestering carbon and
+net long-term greenhouse gas benefits.
+  2. "Soil health practices" means agricultural and land management
+practices that improve the function of soils through actions that follow
+the principles of: minimizing soil disturbance from soil preparation;
+maximizing soil vegetation cover; maximizing the diversity of beneficial
+soil organisms; maximizing presence of living roots; and integrating
+animals into land management; and in support of such principles, include
+such practices as conservation tillage or no-till, cover-cropping,
+precision nitrogen and phosphorous application, planned rotational
+grazing, integrated crop-livestock systems, agroforestry, perennial
+crops, integrated pest management, nutrient best management practices,
+and those practices recommended by the United States Department of
+Agriculture Natural Resources Conservation Service and that are
+supported by the state soil and water conservation committee.
+```

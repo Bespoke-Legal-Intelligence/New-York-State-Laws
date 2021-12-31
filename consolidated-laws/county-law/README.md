@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | CNT |
 | Type | Consolidated law, chapter 11 |
-| Sections | 402 |
-| Last changed | 17 Dec 2021 |
+| Sections | 404 |
+| Last changed | 31 Dec 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | County |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                  CHAPTER ELEVEN OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (53 lines)](chapter-text.md)
+[Full chapter text (55 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [31 Dec 2021](../../changes/2021/2021-12-31.md): 2 added
 - [17 Dec 2021](../../changes/2021/2021-12-17.md): 1 amended
 - [19 Nov 2021](../../changes/2021/2021-11-19.md): 1 added
 - [12 Nov 2021](../../changes/2021/2021-11-12.md): 1 added
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [24 Apr 2020](../../changes/2020/2020-04-24.md): 1 amended
 - [3 Jan 2020](../../changes/2020/2020-01-03.md): 1 amended
 - [27 Dec 2019](../../changes/2019/2019-12-27.md): 3 amended, 2 added
-- [15 Nov 2019](../../changes/2019/2019-11-15.md): 3 amended, 1 added
 
 ## Contents
 
@@ -56,6 +56,7 @@ Assembly, do enact as follows:
 - [Article 5-D — County Small Watershed Protection Districts](article-05d-county-small-watershed-protection-districts/)
 - [Article 6 — Enhanced Emergency Telephone System Surcharge](article-06-enhanced-emergency-telephone-system-surcharge/)
 - [Article 6-A — Local Enhanced Wireless 911 Program](article-06a-local-enhanced-wireless-911-program/)
+- [Article 6-B — 9-8-8 Suicide Prevention and Mental Health Crisis Act](article-06b-9-8-8-suicide-prevention-and-mental-health/)
 - [Article 7 — Finance](article-07-finance/)
 - [Article 7-A — County Tuberculosis Hospitals](article-07a-county-tuberculosis-hospitals/)
 - [Article 7-B — County Medical Assistance Clinics](article-07b-county-medical-assistance-clinics/)

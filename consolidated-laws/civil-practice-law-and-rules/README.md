@@ -7,10 +7,12 @@
 |---|---|
 | Senate code | CVP |
 | Type | Consolidated law, chapter 8 |
-| Sections | 802 |
-| Last changed | 10 Dec 2021 |
+| Sections | 803 |
+| Last changed | 31 Dec 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Civil Practice Law & Rules |
+
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
 ## Chapter text as published
 
@@ -29,6 +31,7 @@ AN ACT in relation to civil practice and prescribing rules of civil
 
 ## Recent changes
 
+- [31 Dec 2021](../../changes/2021/2021-12-31.md): 1 amended, 1 added
 - [10 Dec 2021](../../changes/2021/2021-12-10.md): 3 amended
 - [3 Dec 2021](../../changes/2021/2021-12-03.md): 1 added
 - [12 Nov 2021](../../changes/2021/2021-11-12.md): 10 amended, 4 added
@@ -38,7 +41,6 @@ AN ACT in relation to civil practice and prescribing rules of civil
 - [30 Jul 2021](../../changes/2021/2021-07-30.md): 2 amended
 - [18 Jun 2021](../../changes/2021/2021-06-18.md): 9 amended, 1 added, 1 removed
 - [14 May 2021](../../changes/2021/2021-05-14.md): 3 amended
-- [23 Apr 2021](../../changes/2021/2021-04-23.md): 1 amended
 
 ## Contents
 

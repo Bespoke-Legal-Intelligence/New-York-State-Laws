@@ -75,6 +75,7 @@
 - [§ 152 Payments to the New York public welfare association; attendance at conventions of public welfare officials](152-payments-to-the-new-york-public-welfare-association-attendance.md)
 - [§ 152-A Burial reserves for certain recipients of public assistance or care from assigned assets](152a-burial-reserves-for-certain-recipients-of-public-assistance-or-care.md)
 - [§ 152-B Surplus after recovery of cost of public assistance and care; unclaimed funds](152b-surplus-after-recovery-of-cost-of-public-assistance-and-care-unclaimed.md)
+- [§ 152-C Feminine hygiene products](152c-feminine-hygiene-products.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -185,6 +186,7 @@ Section 131.     Assistance, care and services to be given.
                    assistance or care from assigned assets.
         152-b.   Surplus after recovery of cost of public assistance and
                    care; unclaimed funds.
+        152-c.   Feminine hygiene products.
 ```
 
 </details>

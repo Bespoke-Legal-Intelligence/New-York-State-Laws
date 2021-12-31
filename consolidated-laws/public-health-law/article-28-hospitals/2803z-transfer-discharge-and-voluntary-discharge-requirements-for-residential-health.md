@@ -4,14 +4,15 @@
 [Public Health Law](../README.md) › [Article 28 — Hospitals](README.md)
 
 ```text
-  § 2803-z. Transfer, discharge and voluntary discharge requirements for
-residential health care facilities. 1. (a) No residential health care
-facility shall transfer or discharge a resident unless such transfer or
-discharge is necessary for the resident's health, safety, or welfare,
-such transfer or discharge is necessary to preserve the health, safety,
-or welfare of other residents, the facility discontinues operation or
-the resident has failed to pay or make arrangements for payment for a
-stay at the facility, unless stated otherwise by this section.
+  * § 2803-z. Transfer, discharge and voluntary discharge requirements
+for residential health care facilities. 1. (a) No residential health
+care facility shall transfer or discharge a resident unless such
+transfer or discharge is necessary for the resident's health, safety, or
+welfare, such transfer or discharge is necessary to preserve the health,
+safety, or welfare of other residents, the facility discontinues
+operation or the resident has failed to pay or make arrangements for
+payment for a stay at the facility, unless stated otherwise by this
+section.
   (b) Prior to a facility initiating a transfer or discharge of a
 resident, the facility shall use its best efforts, including compliance
 with applicable federal and state regulations, to secure appropriate
@@ -71,4 +72,5 @@ independent personal decisions and knowledge of available choices, nor
 shall it diminish the facility's responsibility to encourage and assist
 in the fullest possible exercise of those rights under section two
 thousand eight hundred three-c of this article, or other applicable law.
+  * NB There are 2 § 2803-z's
 ```

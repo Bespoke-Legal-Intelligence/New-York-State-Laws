@@ -104,6 +104,7 @@
 - [§ 95-G Department of motor vehicles distinctive plate development fund](95g-department-of-motor-vehicles-distinctive-plate-development-fund.md)
 - [§ 95-H Mental illness anti-stigma fund](95h-mental-illness-anti-stigma-fund.md)
 - [§ 95-I New York state ALS research and education fund](95i-new-york-state-als-research-and-education-fund.md)
+- [§ 95-J The New York state two hundred fiftieth commemoration commission fund](95j-the-new-york-state-two-hundred-fiftieth-commemoration-commission-fund.md)
 - [§ 96 The World Trade Center memorial scholarship fund](96-the-world-trade-center-memorial-scholarship-fund.md)
 - [§ 97 Housing debt fund, and urban renewal debt fund](97-housing-debt-fund-and-urban-renewal-debt-fund.md)
 - [§ 97-A Environmental quality protection fund](97a-environmental-quality-protection-fund.md)
@@ -404,6 +405,8 @@ Section 70.        Classification of funds.
                      development fund.
         95-h.      Mental illness anti-stigma fund.
         95-i.      New York state ALS research and education fund.
+        95-j.      The New York state two hundred fiftieth commemoration
+                     commission fund.
         96.        The World Trade Center memorial scholarship fund.
         97.        Housing debt fund, and urban renewal debt fund.
         97-a.      Environmental quality protection fund.

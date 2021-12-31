@@ -30,7 +30,7 @@
 ```text
                                 ARTICLE 5
                            ASSISTANCE AND CARE
-Title  1.   General provisions (§§ 131--152-b).
+Title  1.   General provisions (§§ 131--152-c).
        2.   State reimbursement for public assistance and care
               (§§ 153--153-k).
        3.   Home relief (§§ 157-165).

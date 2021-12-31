@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | TAX |
 | Type | Consolidated law, chapter 60 |
-| Sections | 1,242 |
-| Last changed | 17 Dec 2021 |
+| Sections | 1,252 |
+| Last changed | 31 Dec 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Tax |
 
@@ -29,10 +29,11 @@ Became a law February 17, 1909, with the approval of the Governor.
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (96 lines)](chapter-text.md)
+[Full chapter text (97 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [31 Dec 2021](../../changes/2021/2021-12-31.md): 5 amended, 10 added
 - [17 Dec 2021](../../changes/2021/2021-12-17.md): 3 amended
 - [10 Dec 2021](../../changes/2021/2021-12-10.md): 1 amended
 - [3 Dec 2021](../../changes/2021/2021-12-03.md): 2 amended, 4 added
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [15 Oct 2021](../../changes/2021/2021-10-15.md): 2 amended
 - [3 Sep 2021](../../changes/2021/2021-09-03.md): 1 amended
 - [27 Aug 2021](../../changes/2021/2021-08-27.md): 8 amended, 1 added, 1 removed
-- [13 Aug 2021](../../changes/2021/2021-08-13.md): 3 amended
 
 ## Contents
 
@@ -80,6 +80,7 @@ Assembly, do enact as follows:
 - [Article 29-A — Tax On Medallion Taxicab Trips In the Metropolitan Commuter Transportation District](article-29a-tax-on-medallion-taxicab-trips/)
 - [Article 29-B — State Assessment Fee On Transportation Network Company Prearranged Trips](article-29b-state-assessment-fee-on-transportation-network/)
 - [Article 29-C — Congestion Surcharge](article-29c-congestion-surcharge/)
+- [Article 29-D — Assessment Fees](article-29d-assessment-fees/)
 - [Article 30 — City Personal Income Tax](article-30-city-personal-income-tax/)
 - [Article 30-A — City Income Tax Surcharge](article-30a-city-income-tax-surcharge/)
 - [Article 30-B — City Earnings Tax On Nonresidents](article-30b-city-earnings-tax-on-nonresidents/)

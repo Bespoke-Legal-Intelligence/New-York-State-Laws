@@ -61,6 +61,11 @@
 - [§ 3455 Transportation network company group insurance policies](3455-transportation-network-company-group-insurance-policies.md)
 - [§ 3456 Prohibition against cancellation of policy when motor vehicle is used or operated through a transportation network company program](3456-prohibition-against-cancellation-of-policy-when-motor-vehicle-is-used.md)
 - [§ 3457 Group insurance policies for certain for hire motor vehicles](3457-group-insurance-policies-for-certain-for-hire-motor-vehicles.md)
+- [§ 3458 Electronic notices and documents](3458-electronic-notices-and-documents.md)
+- [§ 3458\*2 Group insurance for peer-to-peer car sharing programs](3458-2-group-insurance-for-peer-to-peer-car-sharing-programs.md)
+- [§ 3459 Car share exclusions for personal motor vehicle liability insurance policies](3459-car-share-exclusions-for-personal-motor-vehicle-liability-insurance-policies.md)
+- [§ 3460 Prohibition against cancellation of policy when motor vehicle is used or operated through a peer-to-peer car sharing program](3460-prohibition-against-cancellation-of-policy-when-motor-vehicle-is-used.md)
+- [§ 3461 Notice of claim](3461-notice-of-claim.md)
 
 <details>
 <summary>Official heading of Article 34, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -164,6 +169,14 @@ Section 3401.   Insurable interest in property.
                   network company program.
         3457.   Group insurance policies for certain for hire motor
                   vehicles.
+        3458.   Electronic notices and documents.
+        3458*2. Group insurance for peer-to-peer car sharing programs.
+        3459.   Car share exclusions for personal motor vehicle
+                  liability insurance policies.
+        3460.   Prohibition against cancellation of policy when motor
+                  vehicle is used or operated through a peer-to-peer car
+                  sharing program.
+        3461.   Notice of claim.
 ```
 
 </details>

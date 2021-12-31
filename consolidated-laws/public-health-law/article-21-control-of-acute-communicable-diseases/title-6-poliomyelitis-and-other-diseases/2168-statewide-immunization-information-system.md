@@ -282,7 +282,7 @@ registrant upon reaching eighteen years of age.
   (d) The following authorized users shall have access to the statewide
 immunization information system and the blood lead information in such
 system and the citywide immunization registry for the purposes stated in
-this paragraph: (i) schools for the purpose of verifying immunization
+this paragraph:  (i) schools for the purpose of verifying immunization
 status for eligibility for admission, for the purpose of confirming a
 student has been screened for lead when enrolling in child care,
 pre-school or kindergarten, and for the provision of appropriate
@@ -293,21 +293,26 @@ levels to the parents or legal guardians of the student with an elevated
 blood lead level, as such term is defined in subdivision six of section
 thirteen hundred seventy of this chapter, as well as information on
 programs that may be available to the student and the parents or legal
-guardians of the student; (ii) colleges for verifying immunization
-status for eligibility for admission; (iii) professional and technical
-schools for verifying immunization status for eligibility for admission;
-(iv) children's overnight camps and summer day camps for verifying
-immunization status of children attending camp; (v) third party payer
-for performing quality assurance, accountability and outreach, relating
-to enrollees covered by the third party payer; (vi) commissioners of
-local social services districts with regard to a child in his/her legal
-custody; (vii) the commissioner of the office of children and family
-services with regard to children in their legal custody, and for quality
-assurance and accountability of commissioners of local social services
-districts, care and treatment of children in the custody of
-commissioners of local social services districts; and (viii) WIC
-programs for the purposes of verifying immunization and lead testing
-status for those seeking or receiving services.
+guardians of the student, provided that, for every school that has
+applied for and been granted access to identifiable registrant
+information pursuant to this subdivision, the department shall make
+available the capability to batch download sets of immunization records
+of only those children under their administrative responsibility; (ii)
+colleges for verifying immunization status for eligibility for
+admission; (iii) professional and technical schools for verifying
+immunization status for eligibility for admission; (iv) children's
+overnight camps and summer day camps for verifying immunization status
+of children attending camp; (v) third party payer for performing quality
+assurance, accountability and outreach, relating to enrollees covered by
+the third party payer; (vi) commissioners of local social services
+districts with regard to a child in his/her legal custody; (vii) the
+commissioner of the office of children and family services with regard
+to children in their legal custody, and for quality assurance and
+accountability of commissioners of local social services districts, care
+and treatment of children in the custody of commissioners of local
+social services districts; and (viii) WIC programs for the purposes of
+verifying immunization and lead testing status for those seeking or
+receiving services.
   (e) Institutes of higher education, medical research centers or other
 institutions engaged in epidemiological research or other public health
 research shall have access to de-identified registrant information in

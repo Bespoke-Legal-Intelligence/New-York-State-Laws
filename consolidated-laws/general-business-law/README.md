@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | GBS |
 | Type | Consolidated law, chapter 20 |
-| Sections | 1,281 |
-| Last changed | 24 Dec 2021 |
+| Sections | 1,300 |
+| Last changed | 31 Dec 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Business |
 
@@ -29,10 +29,11 @@ AN ACT relating to general business, constituting chapter twenty of the
   Assembly, do enact as follows:
 ```
 
-[Full chapter text (176 lines)](chapter-text.md)
+[Full chapter text (177 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [31 Dec 2021](../../changes/2021/2021-12-31.md): 2 amended, 19 added
 - [24 Dec 2021](../../changes/2021/2021-12-24.md): 1 added
 - [17 Dec 2021](../../changes/2021/2021-12-17.md): 3 amended, 1 added
 - [3 Dec 2021](../../changes/2021/2021-12-03.md): 1 amended
@@ -42,7 +43,6 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [22 Oct 2021](../../changes/2021/2021-10-22.md): 6 amended
 - [15 Oct 2021](../../changes/2021/2021-10-15.md): 5 amended, 6 added
 - [24 Sep 2021](../../changes/2021/2021-09-24.md): 1 amended
-- [10 Sep 2021](../../changes/2021/2021-09-10.md): 1 added, 1 removed
 
 ## Contents
 
@@ -170,7 +170,7 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 39-E — Uniform Athlete Agents Act](article-39e-uniform-athlete-agents-act/)
 - [Article 39-F — Notification of Unauthorized Acquisition of Private Information; Data Security Protections](article-39f-notification-of-unauthorized-acquisition/)
 - [Article 39-G — Document Destruction Contractors](article-39g-document-destruction-contractors/)
-- [Article 40 — Laws Repealed; When to Take Effect](article-40-laws-repealed-when-to-take-effect/)
+- [Article 40 — Peer-to-peer Car Sharing Programs](article-40-peer-to-peer-car-sharing-programs/)
 - [Article 41 — Combative Sports](article-41-combative-sports/)
 - [Article 43 — New York State Secure Choice Savings Program](article-43-new-york-state-secure-choice-savings-program/)
 - [Article 44 — Regulation of Surrogacy Programs and Assisted Reproduction Service Providers](article-44-regulation-of-surrogacy-programs-and-assisted/)

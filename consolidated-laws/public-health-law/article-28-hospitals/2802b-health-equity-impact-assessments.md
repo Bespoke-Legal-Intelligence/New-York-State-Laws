@@ -1,0 +1,101 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2802-B", "kind": "section", "law_id": "PBH", "location_id": "2802-B", "path": "ARTICLE 28 › SECTION 2802-B", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2802-B.md", "title": "Health equity impact assessments"} -->
+# Public Health Law § 2802-B — Health equity impact assessments
+
+[Public Health Law](../README.md) › [Article 28 — Hospitals](README.md)
+
+```text
+  * § 2802-b. Health equity impact assessments. 1. Definitions. As used
+in this section:
+  (a) "Application" means an application under this article for the
+construction, establishment, change in the establishment, merger,
+acquisition, closure, or substantial reduction, expansion, or addition
+of a hospital service or health-related service of a hospital that
+requires review or approval by the council or the commissioner, where
+the application is filed or submitted to the council, the commissioner
+or the department after this section takes effect.
+  (b) "Project" means the construction, establishment, change in the
+establishment, merger, acquisition, closure, or substantial reduction of
+a hospital service or health-related service of a hospital that is the
+subject of an application.
+  (c) "Health equity impact assessment" or "impact assessment" means an
+assessment of whether, and if so how, a project will improve access to
+hospital services and health care, health equity and reduction of health
+disparities, with particular reference to members of medically
+underserved groups, in the applicant's service area.
+  (d) "Medically underserved group" means: low-income people; racial and
+ethnic minorities; immigrants; women; lesbian, gay, bisexual,
+transgender, or other-than-cisgender people; people with disabilities;
+older adults; persons living with a prevalent infectious disease or
+condition; persons living in rural areas; people who are eligible for or
+receive public health benefits; people who do not have third-party
+health coverage or have inadequate third-party health coverage; and
+other people who are unable to obtain health care.
+  2. (a) (i) Every application shall include a health equity impact
+assessment of the project. The impact assessment shall be filed together
+with the application, and the application shall not be complete without
+the impact statement. The applicant shall promptly amend or modify the
+impact statement as necessary.
+  (ii) However, in the case of a diagnostic and treatment center whose
+patient population is over fifty percent combined patients enrolled in
+Medicaid or uninsured, a health equity impact assessment is not required
+unless the application includes a change in controlling person,
+principal stockholder, or principal member (as defined in section
+twenty-eight hundred one-a of this article) of the applicant.
+  (b) In considering whether and on what terms to approve an
+application, the commissioner and the council, as the case may be, shall
+consider the health equity impact statement.
+  3. Scope and contents of a health equity impact assessment. A health
+equity impact assessment shall include:
+  (a) A demonstration of whether, and if so how, the proposed project
+will improve access to hospital services and health care, health equity
+and reduction of health disparities, with particular reference to
+members of medically underserved groups, in the applicant's service
+area.
+  (b) The extent to which medically underserved groups in the
+applicant's service area use the applicant's hospital or health-related
+services or similar services at the time of the application and the
+extent to which they are expected to if the project is implemented.
+  (c) The performance of the applicant in meeting its obligations, if
+any, under section twenty-eight hundred seven-k of this article and
+federal regulations requiring providing uncompensated care, community
+services, and access by minorities and people with disabilities to
+programs receiving federal financial assistance, including the existence
+of any civil rights access complaints against the applicant, and how the
+applicant's meeting of these obligations will be affected by
+implementation of the project.
+  (d) How and to what extent the applicant will provide hospital and
+health-related services to the medically indigent, Medicare recipients,
+Medicaid recipients and members of medically underserved groups if the
+project is implemented.
+  (e) The amount of indigent care, both free and below cost, that will
+be provided by the applicant if the project is approved.
+  (f) Access by public or private transportation, including
+applicant-sponsored transportation services, to the applicant's hospital
+or health-related services if the project is implemented.
+  (g) The means of assuring effective communication between the
+applicant's hospital and health-related service staff and people of
+limited English-speaking ability and those with speech, hearing or
+visual impairments handicaps if the project is implemented.
+  (h) The extent to which implementation of the project will reduce
+architectural barriers for people with mobility impairments.
+  (i) A review of how the applicant will maintain or improve the quality
+of hospital and health-related services including a review of:
+  (i) demographics of the applicant's service area;
+  (ii) economic status of the population of the applicant's service
+area;
+  (iii) physician and professional staffing issues related to the
+project;
+  (iv) availability of similar services at other institutions in or near
+the applicant's service area; and
+  (v) historical and projected market shares of hospital and health care
+service providers in the applicant's service area.
+  4. The health equity impact assessment shall be prepared for the
+applicant by an independent entity and include the meaningful engagement
+of public health experts, organizations representing employees of the
+applicant, stakeholders, and community leaders and residents of the
+applicant's service area.
+  5. The department shall publicly post the application and the health
+equity impact assessment on the department's website within one week of
+the filing with the department, including any filing with the council.
+  * NB Effective June 20, 2022
+```

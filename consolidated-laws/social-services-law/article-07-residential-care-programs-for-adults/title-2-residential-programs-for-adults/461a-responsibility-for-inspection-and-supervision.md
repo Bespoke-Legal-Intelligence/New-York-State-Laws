@@ -15,23 +15,23 @@ providing residential care to a significant number of mentally disabled
 persons.
   2. (a) With respect to adult care facilities the department shall
 conduct a minimum of one unannounced inspection of each such facility to
-determine the  adequacy of care being rendered, pursuant to the
+determine the adequacy of care being rendered, pursuant to the
 following:
   (1) Such facilities receiving the department's highest rating shall be
 inspected at least once every eighteen months on an unannounced basis.
   (2) All other such facilities shall be inspected on an unannounced
-basis no less than annually.  The commissioner may provide for more
+basis no less than annually. The commissioner may provide for more
 frequent inspections of any such facilities. Such inspection shall not
 be required with respect to any facility for which the commissioner has
 delegated responsibility for inspection and supervision to a social
 services official pursuant to section four hundred sixty-c of this
-chapter.  Any employee of the department or a social services district
+chapter. Any employee of the department or a social services district
 who gives or causes to be given advance notice of such unannounced
 inspections to any unauthorized persons shall, in addition to any other
 penalty provided by law, be suspended by the department or the social
 services district from all duties without pay for at least five days or
 for such greater period of time as the department or social services
-district shall determine.  Any such suspension shall be made by the
+district shall determine. Any such suspension shall be made by the
 department or social services district in accordance with all other
 applicable provisions of law.
   (b) The department or a social services district, where appropriate,
@@ -43,8 +43,8 @@ safety standards, quality and adequacy of care, rights of residents,
 payments and all other areas of operation. The purpose of any inspection
 shall be to determine compliance with requirements of applicable
 provisions of law and regulations of the department.
-  (c) An inspection report shall be made of each inspection which shall
-clearly identify and indicate in detail each area of operation,
+  * (c) An inspection report shall be made of each inspection which
+shall clearly identify and indicate in detail each area of operation,
 including, but not limited to, the premises, equipment, personnel,
 resident care and services, and whether each such area of operation or
 any of its component parts is or is not in compliance with the
@@ -56,7 +56,7 @@ of the inspection in a manner to be determined by regulations of the
 department. Such notification shall contain directions as may be
 appropriate as to the manner and time in which compliance with
 applicable requirements of law or regulations of the department shall be
-effected.  The department shall also require the operator of an adult
+effected. The department shall also require the operator of an adult
 home or residence for adults to develop, biannually update and implement
 plans for quality assurance activities for each area of operation.
 Quality assurance activities include but are not limited to, development
@@ -64,6 +64,39 @@ and maintenance of performance standards, measurement of adherence to
 such standards and to applicable state and local laws and regulations,
 identification of performance failures, design, and implementation of
 corrective action.
+  * NB Effective until March 22, 2022
+  * (c) An inspection report shall be made of each inspection which
+shall clearly identify and indicate in detail each area of operation,
+including, but not limited to, the premises, equipment, personnel,
+resident care and services, and whether each such area of operation or
+any of its component parts is or is not in compliance with the
+regulations of the department and all other applicable requirements. It
+also shall identify those areas of operation or any of its component
+parts found not in compliance as a result of failure in systemic
+practices and procedures. The operator shall be notified of the results
+of the inspection in a manner to be determined by regulations of the
+department. Such notification shall contain directions as may be
+appropriate as to the manner and time in which compliance with
+applicable requirements of law or regulations of the department shall be
+effected. The department shall also require the operator of an adult
+home or residence for adults to develop, biannually update and implement
+plans for quality assurance activities for each area of operation.
+Quality assurance activities include but are not limited to, development
+and maintenance of performance standards including infection control,
+measurement of adherence to such standards and to applicable state and
+local laws and regulations, identification of performance failures,
+design, and implementation of corrective action. Each plan must also
+include the creation of a quality improvement committee that is charged
+with meeting periodically, at least once every six months, to review
+summary findings from monitoring implementation of the facility's plan,
+evaluating the effectiveness of corrective action policies, and
+identifying trends and improvement activities. While reviewing facility
+performance, the committee shall not examine personally identifiable
+resident incidents. Such committee shall include the administrator or
+operator of the facility, the resident council president or other
+resident representative, and representatives from frontline employees
+from each area of operation.
+  * NB Effective March 22, 2022
   (d) Systemic practices or procedures are those activities related to
 each area of operation which indicate a pattern or an inability to bring
 the operation of the facility into compliance with applicable provisions
@@ -119,7 +152,7 @@ subdivision.
 residential care and services for adults pursuant to subparagraphs (i),
 (ii) and (iii) of paragraph (b) of this subdivision shall be permitted
 during a period of at least ten hours between 9:00 o'clock a.m. and 8:00
-o'clock p.m.  unless extended by arrangement with the facility.
+o'clock p.m. unless extended by arrangement with the facility.
   (g) Notwithstanding any provision of paragraph (b) of this
 subdivision, the operator of a facility which provides residential care
 and services for adults may restrict or prohibit access to the facility
