@@ -6,7 +6,7 @@
 ## Contents
 
 - [§ 1301 Separate action for mortgage debt](1301-separate-action-for-mortgage-debt.md)
-- [§ 1302 Foreclosure of high-cost home loans and subprime home loans](1302-foreclosure-of-high-cost-home-loans-and-subprime-home-loans.md)
+- [§ 1302 Foreclosure of certain residential mortgages](1302-foreclosure-of-certain-residential-mortgages.md)
 - [§ 1302-A Defense of lack of standing; not waived](1302a-defense-of-lack-of-standing-not-waived.md)
 - [§ 1303 Foreclosures; required notices](1303-foreclosures-required-notices.md)
 - [§ 1304 Required prior notices](1304-required-prior-notices.md)

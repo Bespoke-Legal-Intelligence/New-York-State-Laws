@@ -433,12 +433,33 @@ correction of deficiencies or closure. The commissioner may also make
 grants to residential health care facilities that support facilities'
 activities and initiatives intended to improve residential quality of
 care pursuant to a request for proposals process.
-  * 11. The commissioner shall make regulations relating to midwifery
-birth centers, including relating to establishment, construction, and
-operation, considering the standards of state and national professional
-associations of midwifery birth centers, in consultation with
-representatives of midwives, midwifery birth centers, and general
-hospitals providing obstetric services.
+  * 11. (a) The commissioner shall make regulations relating to
+midwifery birth centers, including relating to establishment,
+construction, and operation, considering the standards of state and
+national professional associations of midwifery birth centers, in
+consultation with representatives of midwives, midwifery birth centers,
+and general hospitals providing obstetric services.
+  (b) (i) As used in this subdivision, "accrediting organization" means
+a national accrediting organization that provides accreditation to
+midwifery birth centers, recognized by the commissioner in consultation
+with representatives of midwives, midwifery birth centers, and general
+hospitals providing obstetric services. The commissioner shall not
+unreasonably withhold recognition of an organization seeking to be
+recognized under this paragraph.
+  (ii) Where a proposed midwifery birth center demonstrates the intent
+and capability to obtain and maintain accreditation by an accrediting
+organization, it shall be deemed to meet the requirements of this
+article for a midwifery birth center for approval of a certificate of
+incorporation, articles of organization and establishment, contingent on
+obtaining and maintaining that accreditation.
+  (iii) Regulations and requirements of the commissioner for approval of
+a certificate of incorporation, articles of organization, establishment,
+and operation of a midwifery birth center established or seeking to be
+established under this article, including a determination of public need
+and compliance with operational and physical plant standards, shall not
+be inconsistent with article one hundred forty of the education law and
+the standards of the accrediting organization from which the midwifery
+birth center proposes to seek, seeks or has obtained accreditation.
   * NB There are 2 sb 11's
   * 11. Notwithstanding any provision of this article, or any rule or
 regulation under this article to the contrary, the commissioner shall

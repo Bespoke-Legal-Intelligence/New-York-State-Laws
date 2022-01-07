@@ -4,7 +4,7 @@
 [Domestic Relations Law](../../README.md) › [Article 7 — Adoption](../README.md) › [Title 1 — Adoptions Generally](README.md)
 
 ```text
-  * § 111-d. Consideration of blindness during adoption proceedings. 1.
+  § 111-d. Consideration of blindness during adoption proceedings. 1.
 The court may not deny or decide a petition for adoption solely on the
 basis that the petitioner is blind. The blindness of the petitioner
 shall be considered relevant only to the extent that the court finds,
@@ -14,5 +14,4 @@ interests of the child whose adoption is the subject of the petition.
   a. vision that is 20/200 or less in the best corrected eye; or
   b. vision that subtends an angle of not greater than twenty degrees in
 the best corrected eye.
-  * NB Effective January 6, 2022
 ```

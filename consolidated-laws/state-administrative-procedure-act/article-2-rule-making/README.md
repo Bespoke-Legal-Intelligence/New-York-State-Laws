@@ -13,6 +13,7 @@
 - [§ 202-BB Rural area flexibility analysis](202bb-rural-area-flexibility-analysis.md)
 - [§ 202-D Regulatory agenda](202d-regulatory-agenda.md)
 - [§ 202-E Guidance documents; availability to public](202e-guidance-documents-availability-to-public.md)
+- [§ 202-F Public hearings](202f-public-hearings.md)
 - [§ 203 Filing; effective date](203-filing-effective-date.md)
 - [§ 204 Declaratory rulings by agencies](204-declaratory-rulings-by-agencies.md)
 - [§ 204-A Alternate methods for implementing regulatory mandates](204a-alternate-methods-for-implementing-regulatory-mandates.md)
@@ -26,20 +27,21 @@
 ```text
                                 ARTICLE 2
                                RULE MAKING
-Section  201.    Adoption of procedures; plain language.
-         201-a.  Job impact.
-         202.    Rule making procedure.
-         202-a.  Regulatory impact.
-         202-b.  Regulatory flexibility for small businesses.
-         202-bb. Rural area flexibility analysis.
-         202-d.  Regulatory agenda
-         202-e.  Guidance documents; availability to public.
-         203.    Filing; effective date.
-         204.    Declaratory rulings by agencies.
-         204-a.  Alternate methods for implementing regulatory mandates.
-         205.    Right to judicial review of rules.
-         206.    Overlapping regulations; compliance determinations.
-         207.    Review of existing rules.
+Section 201.    Adoption of procedures; plain language.
+        201-a.  Job impact.
+        202.    Rule making procedure.
+        202-a.  Regulatory impact.
+        202-b.  Regulatory flexibility for small businesses.
+        202-bb. Rural area flexibility analysis.
+        202-d.  Regulatory agenda
+        202-e.  Guidance documents; availability to public.
+        202-f.  Public hearings.
+        203.    Filing; effective date.
+        204.    Declaratory rulings by agencies.
+        204-a.  Alternate methods for implementing regulatory mandates.
+        205.    Right to judicial review of rules.
+        206.    Overlapping regulations; compliance determinations.
+        207.    Review of existing rules.
 ```
 
 </details>

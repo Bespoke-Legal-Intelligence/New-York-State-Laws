@@ -58,6 +58,7 @@
 - [§ 4546 Loss of earnings and impairment of earning ability in actions for medical, dental or podiatric malpractice](4546-loss-of-earnings-and-impairment-of-earning-ability-in-actions-for-medical-dental.md)
 - [§ 4547 Compromise and offers to compromise](4547-compromise-and-offers-to-compromise.md)
 - [§ 4548 Privileged communications; electronic communication thereof](4548-privileged-communications-electronic-communication-thereof.md)
+- [§ 4549 Admissibility of an opposing party's statement](4549-admissibility-of-an-opposing-partys-statement.md)
 
 <details>
 <summary>Official heading of Article 45, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -192,6 +193,7 @@
         4547.   Compromise and offers to compromise.
         4548.   Privileged communications; electronic communication
                   thereof.
+        4549.   Admissibility of an opposing party's statement.
 ```
 
 </details>

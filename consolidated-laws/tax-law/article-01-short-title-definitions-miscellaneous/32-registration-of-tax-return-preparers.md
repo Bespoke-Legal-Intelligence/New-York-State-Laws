@@ -270,15 +270,14 @@ factor applies; and
   (B) a copy of the most recent Consumer Bill of Rights Regarding Tax
 Preparers published by the department pursuant to section three hundred
 seventy-two of the general business law.
-  * (3) A tax return preparer or facilitator who fails to comply with
-any of the requirements of this subdivision must pay a penalty of five
+  (3) A tax return preparer or facilitator who fails to comply with any
+of the requirements of this subdivision must pay a penalty of five
 hundred dollars for the first month of non-compliance and five hundred
 dollars for each subsequent month of non-compliance thereafter. The
 maximum penalty that may be imposed under this subdivision on any tax
 return preparer or facilitator during any calendar year must not exceed
 ten thousand dollars. The penalty can be waived only for good cause
 shown by the tax return preparer or facilitator.
-  * NB Effective January 1, 2022
   (i) The provisions of this section will apply exclusively to the
 registration of tax return preparers and facilitators with the
 department, payment of the registration fee if required by commercial

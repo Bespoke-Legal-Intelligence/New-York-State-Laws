@@ -4,7 +4,7 @@
 [Financial Services Law](../README.md) › [Article 8 — Commercial Financing](README.md)
 
 ```text
-  * § 812. Penalties. (a) Upon a finding by the superintendent that a
+  § 812. Penalties. (a) Upon a finding by the superintendent that a
 provider has violated the provisions of this article or the rules or
 regulations promulgated hereunder, the provider shall be ordered to pay
 to the people of this state a civil penalty for each violation of this
@@ -17,5 +17,4 @@ knowingly violated this article, the superintendent may order additional
 relief, including, but not limited to, restitution or a permanent or
 preliminary injunction on behalf of any recipient affected by the
 violation.
-  * NB Effective January 1, 2022
 ```

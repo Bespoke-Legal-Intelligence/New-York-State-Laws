@@ -38,30 +38,20 @@ responsible for the child who has not been named in the report as
 allegedly responsible for causing injury, abuse or maltreatment to the
 child or as allegedly allowing such injury, abuse or maltreatment to be
 inflicted on such child;
-  * 6. An "unfounded report" means any report made pursuant to this
-title unless an investigation determines that some credible evidence of
-the alleged abuse or maltreatment exists;
-  * NB Effective until January 1, 2022
-  * 6. An "unfounded report" means any report made pursuant to this
-title unless an investigation: (i) commenced on or before December
+  6. An "unfounded report" means any report made pursuant to this title
+unless an investigation: (i) commenced on or before December
 thirty-first, two thousand twenty-one determines that some credible
 evidence of the alleged abuse or maltreatment exists; or (ii) commenced
 on or after January first, two thousand twenty-two determines that a
 fair preponderance of the evidence of the alleged abuse or maltreatment
 exists;
-  * NB Effective January 1, 2022
-  * 7. An "indicated report" means a report made pursuant to this title
-if an investigation determines that some credible evidence of the
-alleged abuse or maltreatment exists.
-  * NB Effective until January 1, 2022
-  * 7. An "indicated report" means a report made pursuant to this title
-if an investigation: (i) commenced on or before December thirty-first,
-two thousand twenty-one determines that some credible evidence of the
+  7. An "indicated report" means a report made pursuant to this title if
+an investigation: (i) commenced on or before December thirty-first, two
+thousand twenty-one determines that some credible evidence of the
 alleged abuse or maltreatment exists; or (ii) commenced on or after
 January first, two thousand twenty-two determines that a fair
 preponderance of the evidence of the alleged abuse or maltreatment
 exists;
-  * NB Effective January 1, 2022
   8. "Substance abuse counselor" or "alcoholism counselor" means any
 person who has been issued a credential therefor by the office of
 alcoholism and substance abuse services, pursuant to paragraphs one and

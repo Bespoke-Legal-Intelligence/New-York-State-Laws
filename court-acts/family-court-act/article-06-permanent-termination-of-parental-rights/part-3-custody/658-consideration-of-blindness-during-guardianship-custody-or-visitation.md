@@ -4,7 +4,7 @@
 [Family Court Act](../../README.md) › [Article 6 — Permanent Termination of Parental Rights, Adoption, Guardianship and Custody](../README.md) › [Part 3 — Custody](README.md)
 
 ```text
-  * § 658. Consideration of blindness during guardianship, custody or
+  § 658. Consideration of blindness during guardianship, custody or
 visitation proceedings. 1. The court may not deny or decide a petition
 for custody or visitation under this part or guardianship under part
 four of this article solely on the basis that the petitioner is blind.
@@ -16,5 +16,4 @@ custody or visitation is the subject of the petition.
   a. vision that is 20/200 or less in the best corrected eye; or
   b. vision that subtends an angle of not greater than twenty degrees in
 the best corrected eye.
-  * NB Effective January 6, 2022
 ```

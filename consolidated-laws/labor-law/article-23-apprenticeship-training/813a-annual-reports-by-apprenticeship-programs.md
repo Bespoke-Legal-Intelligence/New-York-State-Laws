@@ -4,7 +4,7 @@
 [Labor Law](../README.md) › [Article 23 — Apprenticeship Training](README.md)
 
 ```text
-  * § 813-a. Annual reports by apprenticeship programs. 1. On an annual
+  § 813-a. Annual reports by apprenticeship programs. 1. On an annual
 basis, all apprenticeship programs covered under the provisions of this
 article shall report to the department on the participation of
 apprentices currently enrolled in such apprenticeship program. The data
@@ -23,5 +23,4 @@ website by July first, two thousand twenty-two and on an annual basis,
 but no later than December thirty-first of each following year.
   3. The commissioner may promulgate rules and regulations necessary for
 the implementation of this section.
-  * NB Effective January 1, 2022
 ```

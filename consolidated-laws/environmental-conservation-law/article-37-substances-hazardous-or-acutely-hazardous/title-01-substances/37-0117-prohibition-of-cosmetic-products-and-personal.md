@@ -4,8 +4,8 @@
 [Environmental Conservation Law](../../README.md) › [Article 37 — Substances Hazardous or Acutely Hazardous to Public Health, Safety or the Environment](../README.md) › [Title 1 — Substances Hazardous to the Environment](README.md)
 
 ```text
-* § 37-0117. Prohibition of cosmetic products and personal care products
-               containing 1,4-dioxane.
+§ 37-0117. Prohibition of cosmetic products and personal care products
+             containing 1,4-dioxane.
   1. The term "cosmetic product" shall mean any article (a) intended to
 be rubbed, sprinkled, or sprayed on, introduced into, or otherwise
 applied to the human body or any part thereof for beautifying, promoting
@@ -52,5 +52,4 @@ that product and is unable to comply with the requirements of this
 section. Thereafter, a manufacturer may apply for one additional
 one-year waiver for such product, upon its satisfaction of such similar
 proof.
-  * NB Effective January 1, 2022
 ```

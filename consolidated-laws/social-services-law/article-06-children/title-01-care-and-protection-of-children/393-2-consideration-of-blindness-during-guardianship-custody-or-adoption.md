@@ -24,6 +24,5 @@ subject of the petition.
   a. vision that is 20/200 or less in the best corrected eye; or
   b. vision that subtends an angle of not greater than twenty degrees in
 the best corrected eye.
-  * NB Effective January 6, 2022
   * NB There are 2 § 393's
 ```

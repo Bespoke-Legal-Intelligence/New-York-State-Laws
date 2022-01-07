@@ -39,5 +39,5 @@ any other state agency from posting data collected pursuant to
 subdivision one of this section on the agency's internet web site, in
 the manner prescribed by this section.
   * NB There are 2 § 170-e's
-  * NB Effective June 20, 2022
+  * NB Effective April 21, 2022
 ```

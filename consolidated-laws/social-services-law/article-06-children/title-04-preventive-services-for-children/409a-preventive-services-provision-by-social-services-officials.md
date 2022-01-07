@@ -5,32 +5,33 @@
 
 ```text
   § 409-a. Preventive services; provision by social services officials.
-1.  (a) A social services official shall provide preventive services to
-a child and his or her family, in accordance with the family's service
-plan as required by section four hundred nine-e of this chapter and the
-social services district's child welfare services plan submitted and
-approved pursuant to section four hundred nine-d of this chapter, upon a
-finding by such official that (i) the child will be placed, returned to
-or continued in foster care unless such services are provided and that
-it is reasonable to believe that by providing such services the child
-will be able to remain with or be returned to his or her family, and for
-a former foster care youth under the age of twenty-one who was
-previously placed in the care and custody or custody and guardianship of
-the local commissioner of social services or other officer, board or
-department authorized to receive children as public charges where it is
-reasonable to believe that by providing such services the former foster
-care youth will avoid a return to foster care or * (ii) the child is the
-subject of a petition under article seven of the family court act, or
-has been determined by the assessment service established pursuant to
-section two hundred forty-three-a of the executive law, or by the
-probation service where no such assessment service has been designated,
-to be at risk of being the subject of such a petition, and the social
-services official determines that the child is at risk of placement into
-foster care. Such finding shall be entered in the child's uniform case
-record established and maintained pursuant to section four hundred
-nine-f of this chapter. The commissioner shall promulgate regulations to
-assist social services officials in making determinations of eligibility
-for mandated preventive services pursuant to this subparagraph.
+1.  ** (a) A social services official shall provide preventive services
+to a child and his or her family, in accordance with the family's
+service plan as required by section four hundred nine-e of this chapter
+and the social services district's child welfare services plan submitted
+and approved pursuant to section four hundred nine-d of this chapter,
+upon a finding by such official that (i) the child will be placed,
+returned to or continued in foster care unless such services are
+provided and that it is reasonable to believe that by providing such
+services the child will be able to remain with or be returned to his or
+her family, and for a former foster care youth under the age of
+twenty-one who was previously placed in the care and custody or custody
+and guardianship of the local commissioner of social services or other
+officer, board or department authorized to receive children as public
+charges where it is reasonable to believe that by providing such
+services the former foster care youth will avoid a return to foster care
+or * (ii) the child is the subject of a petition under article seven of
+the family court act, or has been determined by the assessment service
+established pursuant to section two hundred forty-three-a of the
+executive law, or by the probation service where no such assessment
+service has been designated, to be at risk of being the subject of such
+a petition, and the social services official determines that the child
+is at risk of placement into foster care. Such finding shall be entered
+in the child's uniform case record established and maintained pursuant
+to section four hundred nine-f of this chapter. The commissioner shall
+promulgate regulations to assist social services officials in making
+determinations of eligibility for mandated preventive services pursuant
+to this subparagraph.
   * NB Effective until June 30, 2022
 * (ii) the child is the subject of a petition under article seven of the
 family court act, or has been determined by the assessment service
@@ -46,6 +47,54 @@ this chapter. The commissioner shall promulgate regulations to assist
 social services officials in making determinations of eligibility for
 mandated preventive services pursuant to clause (ii) of this paragraph.
   * NB Effective June 30, 2022
+  ** NB Effective until December 29, 2022
+  ** (a) A social services official shall provide preventive services to
+a child and his or her family, in accordance with the family's service
+plan as required by section four hundred nine-e of this chapter and the
+social services district's child welfare services plan submitted and
+approved pursuant to section four hundred nine-d of this chapter, upon a
+finding by such official that (i) the child will be placed, returned to
+or continued in foster care unless such services are provided and that
+it is reasonable to believe that by providing such services the child
+will be able to remain with or be returned to his or her family, and for
+a former foster care youth under the age of twenty-one who was
+previously placed in the care and custody or custody and guardianship of
+the local commissioner of social services or other officer, board or
+department authorized to receive children as public charges where it is
+reasonable to believe that by providing such services the former foster
+care youth will avoid a return to foster care or * (ii) the child is the
+subject of a petition under article seven of the family court act or by
+the probation service, to be at risk of being the subject of such a
+petition, and the social services official determines that the child is
+at risk of placement into foster care or
+  * NB Effective until June 30, 2022
+* (ii) the child is the subject of a petition under article seven of the
+family court act, or has been determined by the assessment service
+established pursuant to section two hundred forty-three-a of the
+executive law, or by the probation service where no such assessment
+service has been designated, to be at risk of being the subject of such
+a petition, and the social services official determines according to
+standards promulgated pursuant to section three hundred ninety-eight-b
+of this chapter that the child is at risk of placement into foster care.
+Such finding shall be entered in the child's uniform case record
+established and maintained pursuant to section four hundred nine-f of
+this chapter. The commissioner shall promulgate regulations to assist
+social services officials in making determinations of eligibility for
+mandated preventive services pursuant to clause (ii) of this paragraph.
+  * NB Effective June 30, 2022
+(iii) the child is under the age of twelve, the child does not fall
+under the definition of a juvenile delinquent pursuant to paragraph (ii)
+of subdivision one of section 301.2 of the family court act and but for
+their age, their behavior would bring them within the jurisdiction of
+the family court pursuant to article three of the family court act, and
+the social services official determines that the child is at risk of
+placement into foster care. Such finding shall be entered in the child's
+uniform case record established and maintained pursuant to section four
+hundred nine-f of this article. The commissioner shall promulgate
+regulations to assist social services officials in making determinations
+of eligibility for mandated preventive services pursuant to this
+subparagraph.
+  ** NB Effective December 29, 2022
   (b) When a child and his family have received preventive services for
 a period of six months pursuant to this subdivision, the social services
 official shall continue to provide such services only upon making a new

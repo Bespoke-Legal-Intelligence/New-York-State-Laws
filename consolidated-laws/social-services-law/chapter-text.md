@@ -22,9 +22,9 @@ Article  1.   Short title; definitions (§§ 1-2).
                 2.   Single room occupancy support services program
                        (§§ 45--45-g).
                 4.   Homelessness intervention program (§§ 48-52).
-         3.   Local public welfare organization; powers and duties
+              Local public welfare organization; powers and duties
                        (§§ 56-116).
-         Title  1.   Application (§§ 56-58).
+                TitleApplication (§§ 56-58).
                 2.   Public welfare districts and their responsibility
                        for public assistance and care (§§ 61-64).
                 3.   County public welfare districts (§§ 65-73).
@@ -103,23 +103,25 @@ Article  1.   Short title; definitions (§§ 1-2).
                 11.   Education reform program (§ 458-l).
                 12.   Family support services programs (§§
                         458-m--458-n).
+                12-A. Differential response programs for children under
+                        twelve (§ 458-o).
          6-A. Domestic violence prevention act (§§ 459-a--459-h).
          7.   Residential care programs for adults and children
-                        (§§ 460--463-b).
+                (§§ 460--463-b).
          Title  1.    General provisions (§§ 460--460-h).
                 2.    Residential programs for adults (§§ 461--461-u).
                 3.    Residential programs for children (§§ 462--462-b).
                 4.    Registry of community residential facilities
                         (§§ 463--463-b).
         8.    New York state rural human services networking program
-                        (§§ 464--464-f)
+                (§§ 464--464-f)
         8-A.  Nutrition outreach and public education program
-                        (§§ 465--465-d).
+                (§§ 465--465-d).
         8-B.  Transitional care (§§ 466-a--466-b).
         9-A.  Berkshire Industrial Farm (§§ 472-e--472-q).
-        Title  2.     Berkshire Industrial Farm (§§ 472-e-472-q).
+        Title   2.    Berkshire Industrial Farm (§§ 472-e-472-q).
         9-B.  Adult protective services (§§ 473--473-e).
-        Title  1.     Protective services (§ 473).
+        Title   1.    Protective services (§ 473).
                 2.    Short-term involuntary protective services orders
                         (§§ 473-a--473-c).
                 3.    Community guardianship (§§ 473-d--473-e).
@@ -130,7 +132,7 @@ Article  1.   Short title; definitions (§§ 1-2).
          10-B. Statewide settlement house program (§§ 482-a--482-c).
          10-C. State council on children and families (§§ 483--483-h).
          10-D. Services for victims of human trafficking
-                        (§§ 483-aa--483-ff).
+                 (§§ 483-aa--483-ff).
          11.   Construction; laws repealed; when to take effect
-                        (§§ 484-486).
+                 (§§ 484-486).
 ```

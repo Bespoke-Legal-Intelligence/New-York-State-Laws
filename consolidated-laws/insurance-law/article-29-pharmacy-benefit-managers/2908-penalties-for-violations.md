@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 2908", "kind": "section", "law_id": "ISC", "location_id": "2908", "path": "ARTICLE 29 › SECTION 2908", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/2908.md", "title": "Penalties for violations"} -->
+# Insurance Law § 2908 — Penalties for violations
+
+[Insurance Law](../README.md) › [Article 29 — Pharmacy Benefit Managers](README.md)
+
+```text
+  * § 2908. Penalties for violations. (a) The superintendent, in lieu of
+revoking or suspending the registration or license of a registrant or
+licensee in accordance with the provisions of this article, may in any
+one proceeding by order, require the registrant or licensee to pay to
+the people of this state a penalty in a sum not exceeding the greater of
+(1) one thousand dollars for each offense and two thousand five hundred
+dollars for each subsequent violation or (2) the aggregate gross
+receipts attributable to all offenses.
+  (b) Upon the failure of such a registrant or licensee to pay the
+penalty ordered pursuant to subsection (a) of this section within twenty
+days after the mailing of the order, postage prepaid, registered, and
+addressed to the last known place of business of the licensee, unless
+the order is stayed by an order of a court of competent jurisdiction,
+the superintendent may revoke the registration or license of the
+registrant or licensee or may suspend the same for such period as the
+superintendent determines.
+  * NB Effective March 31, 2022
+```

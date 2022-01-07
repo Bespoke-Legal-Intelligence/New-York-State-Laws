@@ -20,6 +20,7 @@
 - [§ A1S16 Damages for injuries causing death](section-16-damages-for-injuries-causing-death.md)
 - [§ A1S17 Labor not a commodity; hours and wages in public work; right to            organize and bargain collectively](section-17-labor-not-a-commodity-hours-and-wages-in-public-work-right-to-organize.md)
 - [§ A1S18 Workers' compensation](section-18-workers-compensation.md)
+- [§ A1S19 Environmental rights](section-19-environmental-rights.md)
 
 <details>
 <summary>Official heading of Article I, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -56,6 +57,7 @@ ARTICLE I
      17. Labor not a commodity; hours and wages in public work; right to
            organize and bargain collectively.
      18. Workers' compensation.
+     19. Environmental rights.
 ```
 
 </details>

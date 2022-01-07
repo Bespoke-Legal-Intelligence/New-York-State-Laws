@@ -4,7 +4,7 @@
 [Public Health Law](../../README.md) › [Article 25 — Maternal and Child Health](../README.md) › [Title 2-A — Early Intervention Program For Infants and Toddlers With Disabilities and Their Families](README.md)
 
 ```text
-  § 2557. Financial responsibility and reimbursement.  1. The approved
+  § 2557. Financial responsibility and reimbursement. 1. The approved
 costs for an eligible child who receives an evaluation and early
 intervention services pursuant to this title shall be a charge upon the
 municipality wherein the eligible child resides or, where the services
@@ -19,22 +19,19 @@ regulations thereunder relating to the permissible exclusion of payments
 for services under governmental programs, no such exclusion shall apply
 with respect to payments made pursuant to this title. Notwithstanding
 the insurance law or any other law or agreement to the contrary,
-benefits under this title shall be considered secondary to any plan of
-insurance or state government benefit program under which an eligible
-child may have coverage. Nothing in this section shall increase or
-enhance coverages provided for within an insurance contract subject to
-the provisions of this title.
+benefits under this title shall be considered secondary to the medical
+assistance program under which an eligible child may have coverage.
   2. The department shall reimburse the approved costs paid by a
 municipality for the purposes of this title, other than those
-reimbursable by the medical assistance program or by third party payors,
-in an amount of fifty percent of the amount expended in accordance with
-the rules and regulations of the commissioner; provided, however, that
-in the discretion of the department and with the approval of the
-director of the division of the budget, the department may reimburse
-municipalities in an amount greater than fifty percent of the amount
-expended. Such state reimbursement to the municipality shall not be paid
-prior to April first of the year in which the approved costs are paid by
-the municipality, provided, however that, subject to the approval of the
+reimbursable by the medical assistance program, in an amount of fifty
+percent of the amount expended in accordance with the rules and
+regulations of the commissioner; provided, however, that in the
+discretion of the department and with the approval of the director of
+the division of the budget, the department may reimburse municipalities
+in an amount greater than fifty percent of the amount expended. Such
+state reimbursement to the municipality shall not be paid prior to April
+first of the year in which the approved costs are paid by the
+municipality, provided, however that, subject to the approval of the
 director of the budget, the department may pay such state aid
 reimbursement to the municipality prior to such date.
   3. The department may perform audits, which may include site

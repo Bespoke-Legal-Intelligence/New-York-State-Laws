@@ -156,92 +156,7 @@ eight hundred thirty-seven-k of the executive law or persons residing or
 regularly visiting said location are the subject of an indicated child
 abuse and maltreatment report on file with the statewide central
 register of child abuse and maltreatment.
-  * (e) (i) Subject to the provisions of subparagraph (ii) of this
-paragraph, the department shall inform the provider or licensing agency,
-or child care resource and referral programs pursuant to subdivision six
-of this section whether or not the person is the subject of an indicated
-child abuse and maltreatment report only if: (a) the time for the
-subject of the report to request an amendment of the record of the
-report pursuant to subdivision eight of section four hundred twenty-two
-has expired without any such request having been made; or (b) such
-request was made within such time and a fair hearing regarding the
-request has been finally determined by the commissioner and the record
-of the report has not been amended to unfound the report or delete the
-person as a subject of the report.
-  (ii) If the subject of an indicated report of child abuse or
-maltreatment has not requested an amendment of the record of the report
-within the time specified in subdivision eight of section four hundred
-twenty-two of this title or if the subject had a fair hearing pursuant
-to such section prior to January first, nineteen hundred eighty-six and
-an inquiry is made to the department pursuant to this subdivision
-concerning the subject of the report, the department shall, as
-expeditiously as possible but within no more than ten working days of
-receipt of the inquiry, determine whether, in fact, the person about
-whom an inquiry is made is the subject of an indicated report. Upon
-making a determination that the person about whom the inquiry is made is
-the subject of an indicated report of child abuse and maltreatment, the
-department shall immediately send a written request to the child
-protective service or state agency which was responsible for
-investigating the allegations of abuse or maltreatment for all records,
-reports and other information maintained by the service or state agency
-on the subject. The service or state agency shall, as expeditiously as
-possible but within no more than twenty working days of receiving such
-request, forward all records, reports and other information it maintains
-on the indicated report to the department. The department shall, within
-fifteen working days of receiving such records, reports and other
-information from the child protective service or state agency, review
-all records, reports and other information in its possession concerning
-the subject and determine whether there is some credible evidence to
-find that the subject had committed the act or acts of child abuse or
-maltreatment giving rise to the indicated report.
-  (iii) If it is determined, after affording such service or state
-agency a reasonable opportunity to present its views, that there is no
-credible evidence in the record to find that the subject committed such
-act or acts, the department shall amend the record to indicate that the
-report was unfounded and notify the inquiring party that the person
-about whom the inquiry is made is not the subject of an indicated
-report. If the subject of the report had a fair hearing pursuant to
-subdivision eight of section four hundred twenty-two of this title prior
-to January first, nineteen hundred eighty-six and the fair hearing had
-been finally determined by the commissioner and the record of the report
-had not been amended to unfound the report or delete the person as a
-subject of the report, then the department shall determine that there is
-some credible evidence to find that the subject had committed the act or
-acts of child abuse or maltreatment giving rise to the indicated report.
-  (iv) If it is determined after a review by the office of all records,
-reports and information in its possession concerning the subject of the
-report that there is a preponderance of the evidence to find that the
-subject committed the act or acts of child abuse or maltreatment giving
-rise to the indicated report, the office shall also determine whether
-such act or acts are relevant and reasonably related to issues
-concerning the employment of the subject by a provider agency or the
-subject being allowed to have regular and substantial contact with
-individuals cared for by a provider agency or the approval or
-disapproval of an application which has been submitted by the subject to
-a licensing agency, based on guidelines developed pursuant to
-subdivision five of this section. If it is determined that such act or
-acts are not relevant and related to such issues, the office shall be
-precluded from informing the provider or licensing agency which made the
-inquiry to the office pursuant to this section that the person about
-whom the inquiry is made is the subject of an indicated report of child
-abuse or maltreatment.
-  (v) If it is determined after a review by the department of all
-records, reports and information in its possession concerning the
-subject of the report that there is some credible evidence to prove that
-the subject committed the act or acts of abuse or maltreatment giving
-rise to the indicated report and that such act or acts are relevant and
-reasonably related to issues concerning the employment of the subject by
-a provider agency or to the subject being allowed to have regular and
-substantial contact with children cared for by a provider agency or the
-approval or disapproval of an application which has been submitted by
-the subject to a licensing agency, the department shall inform the
-inquiring party that the person about whom the inquiry is made is the
-subject of an indicated report of child abuse and maltreatment; the
-department shall also notify the subject of the inquiry of his or her
-fair hearing rights granted pursuant to paragraph (c) of subdivision two
-of this section.
-  * NB Effective until January 1, 2022
-  * (e) (i) Subject to the provisions of subparagraph (ii) of this
+  (e) (i) Subject to the provisions of subparagraph (ii) of this
 paragraph, the office of children and family services shall inform the
 provider or licensing agency, or child care resource and referral
 programs pursuant to subdivision six of this section whether or not the
@@ -399,7 +314,6 @@ services from informing a provider agency as defined in subdivision
 three of this section or licensing agency as defined in subdivision four
 of this section that such person is the subject of an indicated report
 of child abuse or maltreatment on that allegation.
-  * NB Effective January 1, 2022
   (f) The office of children and family services shall charge a fee of
 twenty-five dollars when it conducts a search of its records within the
 statewide central register for child abuse or maltreatment in accordance

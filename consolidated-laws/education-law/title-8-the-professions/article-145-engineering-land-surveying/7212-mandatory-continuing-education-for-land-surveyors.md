@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Education Law § 7212", "kind": "section", "law_id": "EDN", "location_id": "7212", "path": "TITLE 8 › ARTICLE 145 › SECTION 7212", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/7212.md", "title": "Mandatory continuing education for land surveyors"} -->
+﻿<!-- nyslaw {"citation": "Education Law § 7212", "kind": "section", "law_id": "EDN", "location_id": "7212", "path": "TITLE 8 › ARTICLE 145 › SECTION 7212", "repealed": true, "repealed_date": "2022-01-07", "source": "nys-laws:EDN/7212.md", "title": "Mandatory continuing education for land surveyors"} -->
 # Education Law § 7212 — Mandatory continuing education for land surveyors
 
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 145 — Engineering, Land Surveying and Geology](README.md)
+
+**Repealed** (7 Jan 2022). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 7212. Mandatory continuing education for land surveyors. 1. (a)

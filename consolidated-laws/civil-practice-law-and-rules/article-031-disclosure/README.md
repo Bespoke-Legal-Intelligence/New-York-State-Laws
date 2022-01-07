@@ -28,6 +28,7 @@
 - [§ 3121 Physical or mental examination](3121-physical-or-mental-examination.md)
 - [§ 3122 Objection to disclosure, inspection or examination; compliance](3122-objection-to-disclosure-inspection-or-examination-compliance.md)
 - [§ 3122-A Certification of business records](3122a-certification-of-business-records.md)
+- [§ 3122-B Certification of insurance disclosure](3122b-certification-of-insurance-disclosure.md)
 - [§ 3123 Admissions as to matters of fact, papers, documents and photographs](3123-admissions-as-to-matters-of-fact-papers-documents-and-photographs.md)
 - [§ 3124 Failure to disclose; motion to compel disclosure](3124-failure-to-disclose-motion-to-compel-disclosure.md)
 - [§ 3125 Place where motion to compel disclosure made](3125-place-where-motion-to-compel-disclosure-made.md)
@@ -135,6 +136,7 @@
          3122.    Objection to disclosure, inspection or examination;
                     compliance.
          3122-a.  Certification of business records.
+         3122-b.  Certification of insurance disclosure.
          3123.    Admissions as to matters of fact, papers, documents
                     and photographs.
                     (a) Notice to admit; admission unless denied or

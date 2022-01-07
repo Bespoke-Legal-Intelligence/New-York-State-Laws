@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | CNS |
 | Type | Constitution |
-| Sections | 200 |
-| Last changed | 5 Jan 2018 |
+| Sections | 201 |
+| Last changed | 7 Jan 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Constitution |
 
@@ -25,10 +25,11 @@
       3. Freedom of worship; religious liberty.
 ```
 
-[Full chapter text (379 lines)](chapter-text.md)
+[Full chapter text (380 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [7 Jan 2022](../changes/2022/2022-01-07.md): 1 amended, 1 added
 - [5 Jan 2018](../changes/2018/2018-01-05.md): 2 amended, 1 added
 - [16 Jan 2015](../changes/2015/2015-01-16.md): 1 amended
 - [9 Jan 2015](../changes/2015/2015-01-09.md): 2 amended, 1 added

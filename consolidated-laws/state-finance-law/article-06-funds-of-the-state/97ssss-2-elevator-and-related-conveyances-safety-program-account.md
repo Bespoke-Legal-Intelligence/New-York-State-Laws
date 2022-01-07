@@ -28,5 +28,4 @@ certificate filed with the comptroller. Such certificate may be amended
 from time to time by the director of the budget and a copy of each such
 amendment shall be filed with the comptroller.
   * NB There are 2 § 97-ssss's
-  * NB Effective January 1, 2022
 ```

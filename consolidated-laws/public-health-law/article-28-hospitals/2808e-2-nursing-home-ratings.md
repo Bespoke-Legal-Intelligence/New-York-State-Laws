@@ -18,6 +18,5 @@ or webpage relating to such facility maintained by an entity which owns
 or operates such facility. Each nursing home shall also conspicuously
 post its most recent overall CMS rating so that it is visible to the
 general public and to residents.
-  * NB Effective January 6, 2022
   * NB There are 2 § 2808-e's
 ```

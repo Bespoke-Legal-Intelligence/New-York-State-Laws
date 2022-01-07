@@ -11,6 +11,7 @@
 - [Title 5 — Bisphenol a](title-05-bisphenol/)
 - [Title 7 — Tris](title-07-tris/)
 - [Title 9 — Toxic Chemicals In Children's Products](title-09-toxic-chemicals/)
+- [Title 10 — Regulation of Chemicals In Upholstered Furniture, Mattresses and Electronic Enclosures](title-10-regulation/)
 
 <details>
 <summary>Official heading of Article 37, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -81,6 +82,16 @@ Section 37-0901. Definitions.
         37-0913. Notice to retailers and the public.
         37-0915. Enforcement and implementation.
         37-0917. Regulations.
+                                 TITLE X
+      REGULATION OF CHEMICALS IN UPHOLSTERED FURNITURE, MATTRESSES
+                        AND ELECTRONIC ENCLOSURES
+Section 37-1001. Definitions.
+        37-1003. Furniture and mattresses.
+        37-1005. Exemptions.
+        37-1007. Electronic display.
+        37-1009. Reporting.
+        37-1011. Severability.
+        37-1013. Regulations.
 ```
 
 </details>

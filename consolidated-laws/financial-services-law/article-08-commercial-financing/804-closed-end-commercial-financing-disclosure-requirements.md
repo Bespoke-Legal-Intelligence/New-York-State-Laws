@@ -4,7 +4,7 @@
 [Financial Services Law](../README.md) › [Article 8 — Commercial Financing](README.md)
 
 ```text
-  * § 804. Closed-end commercial financing disclosure requirements. A
+  § 804. Closed-end commercial financing disclosure requirements. A
 provider, subject to this article, shall provide the following
 disclosures to a recipient at the time of extending a specific offer for
 closed-end financing according to formatting prescribed by the
@@ -43,5 +43,4 @@ maximum dollar amount the recipient could be required to pay; and
 fees not already included in the finance charge.
   (i) A description of collateral requirements or security interests, if
 any.
-  * NB Effective January 1, 2022
 ```

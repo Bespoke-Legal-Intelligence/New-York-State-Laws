@@ -4,7 +4,7 @@
 [Financial Services Law](../README.md) › [Article 8 — Commercial Financing](README.md)
 
 ```text
-  * § 808. Disclosure requirements for renewal financing. If, as a
+  § 808. Disclosure requirements for renewal financing. If, as a
 condition of obtaining the commercial financing, the provider requires
 the recipient to pay off the balance of an existing commercial financing
 from the same provider, the provider must disclose:
@@ -25,5 +25,4 @@ amount}. If the amount is zero, the answer would be No."
   (b) If the disbursement amount will be reduced to pay down any unpaid
 portion of the outstanding balance, the actual dollar amount by which
 such disbursement amount will be reduced.
-  * NB Effective January 1, 2022
 ```

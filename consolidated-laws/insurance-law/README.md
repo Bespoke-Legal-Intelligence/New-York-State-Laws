@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | ISC |
 | Type | Consolidated law, chapter 28 |
-| Sections | 1,036 |
-| Last changed | 31 Dec 2021 |
+| Sections | 1,048 |
+| Last changed | 7 Jan 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Insurance |
 
@@ -29,10 +29,11 @@ ARTICLE   1. General provisions. (§§ 101-111)
           5. Certificates of insurance. (§§ 501-505)
 ```
 
-[Full chapter text (85 lines)](chapter-text.md)
+[Full chapter text (86 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [7 Jan 2022](../../changes/2022/2022-01-07.md): 4 amended, 13 added, 1 removed
 - [31 Dec 2021](../../changes/2021/2021-12-31.md): 6 added
 - [24 Dec 2021](../../changes/2021/2021-12-24.md): 4 amended, 1 added, 1 removed
 - [3 Dec 2021](../../changes/2021/2021-12-03.md): 1 amended
@@ -42,7 +43,6 @@ ARTICLE   1. General provisions. (§§ 101-111)
 - [27 Aug 2021](../../changes/2021/2021-08-27.md): 2 amended
 - [6 Aug 2021](../../changes/2021/2021-08-06.md): 6 amended
 - [30 Jul 2021](../../changes/2021/2021-07-30.md): 3 amended
-- [9 Jul 2021](../../changes/2021/2021-07-09.md): 1 amended
 
 ## Contents
 
@@ -66,6 +66,7 @@ ARTICLE   1. General provisions. (§§ 101-111)
 - [Article 26 — Unfair Claim Settlement Practices; Other Misconduct; Discrimination](article-26-unfair-claim-settlement-practices-other/)
 - [Article 27 — Holocaust Victims Insurance Act of 1998](article-27-holocaust-victims-insurance-act-of-1998/)
 - [Article 28 — Use of Credit Information](article-28-use-of-credit-information/)
+- [Article 29 — Pharmacy Benefit Managers](article-29-pharmacy-benefit-managers/)
 - [Article 31 — Insurance Contracts - General](article-31-insurance-contracts-general/)
 - [Article 32 — Insurance Contracts - Life, Accident and Health, Annuities](article-32-insurance-contracts-life-accident-and-health/)
 - [Article 34 — Insurance Contracts-property/casualty](article-34-insurance-contracts-property-casualty/)

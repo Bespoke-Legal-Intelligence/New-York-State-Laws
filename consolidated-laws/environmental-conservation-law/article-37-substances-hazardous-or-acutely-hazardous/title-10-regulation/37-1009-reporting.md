@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 37-1009", "kind": "section", "law_id": "ENV", "location_id": "37-1009", "path": "ARTICLE 37 › TITLE 10 › SECTION 37-1009", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/37-1009.md", "title": "Reporting"} -->
+# Environmental Conservation Law § 37-1009 — Reporting
+
+[Environmental Conservation Law](../../README.md) › [Article 37 — Substances Hazardous or Acutely Hazardous to Public Health, Safety or the Environment](../README.md) › [Title 10 — Regulation of Chemicals In Upholstered Furniture, Mattresses and Electronic Enclosures](README.md)
+
+```text
+§ 37-1009. Reporting.
+  1. For the purposes of this section, "manufacturer" shall mean a
+person who: (a) assembles or substantially assembles electronic displays
+for sale in the state; (b) manufactures electronic displays, under its
+own brand name or under any other brand name, for sale in the state; (c)
+sells, under its own brand name, electronic displays in the state; (d)
+owns a brand name that it licenses to another person for use on
+electronic displays sold in the state; (e) imports electronic displays
+for sale in the state; or (f) manufactures electronic displays for sale
+in the state without affixing a brand name.
+  2. Beginning one year after the effective date of this title, no
+electronic display shall be sold in the state unless the manufacturer
+has submitted an annual report to the department identifying all of the
+flame retardants used in the enclosure or stand of the electronic
+display in a form determined by the department.
+```

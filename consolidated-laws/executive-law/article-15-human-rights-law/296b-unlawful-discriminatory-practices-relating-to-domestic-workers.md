@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 296-B", "kind": "section", "law_id": "EXC", "location_id": "296-B", "path": "ARTICLE 15 › SECTION 296-B", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/296-B.md", "title": "Unlawful discriminatory practices relating to domestic workers"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 296-B", "kind": "section", "law_id": "EXC", "location_id": "296-B", "path": "ARTICLE 15 › SECTION 296-B", "repealed": true, "repealed_date": "2022-01-07", "source": "nys-laws:EXC/296-B.md", "title": "Unlawful discriminatory practices relating to domestic workers"} -->
 # Executive Law § 296-B — Unlawful discriminatory practices relating to domestic workers
 
 [Executive Law](../README.md) › [Article 15 — Human Rights Law](README.md)
+
+**Repealed** (7 Jan 2022). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 296-b. Unlawful discriminatory practices relating to domestic

@@ -24,6 +24,7 @@
 - [Title 10 — Kinship Guardianship Assistance Program](title-10-kinship-guardianship-assistance/)
 - [Title 11 — Education Reform Program](title-11-education-reform-program/)
 - [Title 12 — Family Support Services Programs](title-12-family-support-services-programs/)
+- [Title 12-A — Differential Response Programs For Children Under Twelve](title-12a-differential-response-programs/)
 
 <details>
 <summary>Official heading of Article 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

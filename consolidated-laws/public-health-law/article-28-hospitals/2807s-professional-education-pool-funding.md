@@ -254,6 +254,15 @@ dollars for each period prior to January first, two thousand fifteen.
 subdivision shall be allocated among the regions based on each region's
 allocated share of the AIDS drug assistance program expenditures for the
 latest annual period for which such data are available.
+  (g) A further gross statewide amount for the state fiscal year two
+thousand twenty-two and each state fiscal year thereafter shall be forty
+million dollars.
+  (h) The amount specified in paragraph (g) of this subdivision shall be
+allocated under section twenty-eight hundred seven-o of this article
+among the municipalities and the state of New York based on each
+municipality's share and the state's share of early intervention program
+expenditures not reimbursable by the medical assistance program for the
+latest twelve month period for which such data is available.
   7. Funds accumulated, including income from invested funds, from the
 allowances specified in this section and the assessments pursuant to
 section twenty-eight hundred seven-t of this article, including interest
@@ -349,6 +358,11 @@ dollars;
 dollars; and
   (iii) for the nineteen hundred ninety-nine period, one hundred one
 million dollars.
+  (d) funds shall be added to the funds collected by the commissioner
+for distribution in accordance with section twenty-eight hundred seven-o
+of this article, in the following amount: forty million dollars for the
+period beginning April first, two thousand twenty-two, and continuing
+each state fiscal year thereafter.
   8. Each exclusion from the allowances effective on or after January
 first, nineteen hundred ninety-seven established pursuant to this
 section shall be contingent upon either: (a) qualification of the

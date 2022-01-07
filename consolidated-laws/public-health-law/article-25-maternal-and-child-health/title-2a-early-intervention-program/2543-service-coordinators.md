@@ -14,10 +14,4 @@ or family, and shall promptly notify the parent of such designation.
 with the parent after such designation, provided that such contact must
 be in a time, place and manner reasonably convenient for the parent and
 consistent with the timeliness requirements of this title.
-  3. The parent of the eligible child shall provide and the early
-intervention official shall collect such information and or
-documentation as is necessary and sufficient to determine the eligible
-child's third party payor coverage and to seek payment from all third
-party payors including the medical assistance program and other
-governmental agency payors.
 ```

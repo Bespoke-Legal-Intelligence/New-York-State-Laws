@@ -102,6 +102,7 @@
 - [§ 2807-L Health care initiatives pool distributions](2807l-health-care-initiatives-pool-distributions.md)
 - [§ 2807-M Distribution of the professional education pools](2807m-distribution-of-the-professional-education-pools.md)
 - [§ 2807-N Palliative care education and training](2807n-palliative-care-education-and-training.md)
+- [§ 2807-O Early intervention services pool](2807o-early-intervention-services-pool.md)
 - [§ 2807-P Comprehensive diagnostic and treatment centers indigent care program](2807p-comprehensive-diagnostic-and-treatment-centers-indigent-care-program.md)
 - [§ 2807-R Funding for expansion of cancer services](2807r-funding-for-expansion-of-cancer-services.md)
 - [§ 2807-S Professional education pool funding](2807s-professional-education-pool-funding.md)
@@ -296,6 +297,7 @@ Section 2800.      Declaration of policy and statement of purpose.
         2807-l.    Health care initiatives pool distributions.
         2807-m.    Distribution of the professional education pools.
         2807-n.    Palliative care education and training.
+        2807-o.    Early intervention services pool.
         2807-p.    Comprehensive diagnostic and treatment centers
                      indigent care program.
         2807-r.    Funding for expansion of cancer services.

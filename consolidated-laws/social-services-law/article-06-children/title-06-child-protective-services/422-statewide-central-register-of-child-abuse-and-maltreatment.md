@@ -428,16 +428,8 @@ access to records, reports or other information or parts thereof
 maintained by a local department pursuant to this title may bring a
 proceeding for review of such denial pursuant to article seventy-eight
 of the civil practice law and rules.
-  5. (a) * Unless an investigation of a report conducted pursuant to
-this title determines that there is some credible evidence of the
-alleged abuse or maltreatment, all information identifying the subjects
-of the report and other persons named in the report shall be legally
-sealed forthwith by the central register and any local child protective
-services or the state agency which investigated the report. Such
-unfounded reports may only be unsealed and made available:
-  * NB Effective until January 1, 2022
-  * Unless an investigation of a report conducted pursuant to this title
-that is commenced on or before December thirty-first, two thousand
+  5. (a) Unless an investigation of a report conducted pursuant to this
+title that is commenced on or before December thirty-first, two thousand
 twenty-one determines that there is some credible evidence of the
 alleged abuse or maltreatment or unless an investigation of a report
 conducted pursuant to this title that is commenced on or after January
@@ -448,7 +440,6 @@ other persons named in the report shall be legally sealed forthwith by
 the central register and any local child protective services which
 investigated the report. Such unfounded reports may only be unsealed and
 made available:
-  * NB Effective January 1, 2022
   (i) to the office of children and family services for the purpose of
 supervising a social services district;
   (ii) to the office of children and family services and local or
@@ -493,38 +484,21 @@ the false reporting of child abuse or maltreatment; or (ii) in a
 criminal court for the purpose of prosecuting a violation of subdivision
 four of section 240.50 of the penal law. Legally sealed unfounded
 reports shall be expunged ten years after the receipt of the report.
-  * (c) Notwithstanding any other provision of law, the office of
-children and family services may, in its discretion, grant a request to
-expunge an unfounded report where: (i) the source of the report was
-convicted of a violation of subdivision three of section 240.55 of the
-penal law in regard to such report; or (ii) the subject of the report
-presents clear and convincing evidence that affirmatively refutes the
-allegation of abuse or maltreatment; provided however, that the absence
-of credible evidence supporting the allegation of abuse or maltreatment
-shall not be the sole basis to expunge the report. Nothing in this
-paragraph shall require the office of children and family services to
-hold an administrative hearing in deciding whether to expunge a report.
-Such office shall make its determination upon reviewing the written
-evidence submitted by the subject of the report and any records or
-information obtained from the state or local agency which investigated
-the allegations of abuse or maltreatment.
-  * NB Effective until January 1, 2022
-  * (c) Notwithstanding any other provision of law, the office of
-children and family services may, in its discretion, grant a request to
-expunge an unfounded report where: (i) the source of the report was
-convicted of a violation of subdivision three of section 240.55 of the
-penal law in regard to such report; or (ii) the subject of the report
-presents clear and convincing evidence that affirmatively refutes the
-allegation of abuse or maltreatment; provided however, that the absence
-of a fair preponderance of the evidence supporting the allegation of
-abuse or maltreatment shall not be the sole basis to expunge the report.
-Nothing in this paragraph shall require the office of children and
-family services to hold an administrative hearing in deciding whether to
+  (c) Notwithstanding any other provision of law, the office of children
+and family services may, in its discretion, grant a request to expunge
+an unfounded report where: (i) the source of the report was convicted of
+a violation of subdivision three of section 240.55 of the penal law in
+regard to such report; or (ii) the subject of the report presents clear
+and convincing evidence that affirmatively refutes the allegation of
+abuse or maltreatment; provided however, that the absence of a fair
+preponderance of the evidence supporting the allegation of abuse or
+maltreatment shall not be the sole basis to expunge the report. Nothing
+in this paragraph shall require the office of children and family
+services to hold an administrative hearing in deciding whether to
 expunge a report. Such office shall make its determination upon
 reviewing the written evidence submitted by the subject of the report
 and any records or information obtained from the state or local agency
 which investigated the allegations of abuse or maltreatment.
-  * NB Effective January 1, 2022
   5-a. Upon notification from a local social services district, that a
 report is part of the family assessment and services track pursuant to
 subparagraph (i) of paragraph (c) of subdivision four of section four
@@ -570,38 +544,7 @@ right to a fair hearing, held in accordance with paragraph (b) of this
 subdivision, to determine whether the record of the report in the
 central register should be amended on the grounds that it is inaccurate
 or it is being maintained in a manner inconsistent with this title.
-  * (ii) Upon receipt of a request to amend the record of a child abuse
-and maltreatment report the office of children and family services shall
-immediately send a written request to the child protective service or
-the state agency which was responsible for investigating the allegations
-of abuse or maltreatment for all records, reports and other information
-maintained by the service or state agency pertaining to such indicated
-report. The service or state agency shall as expeditiously as possible
-but within no more than twenty working days of receiving such request,
-forward all records, reports and other information it maintains on such
-indicated report to the office of children and family services. The
-office of children and family services shall as expeditiously as
-possible but within no more than fifteen working days of receiving such
-materials from the child protective service or state agency, review all
-such materials in its possession concerning the indicated report and
-determine, after affording such service or state agency a reasonable
-opportunity to present its views, whether there is a fair preponderance
-of the evidence to find that the subject committed the act or acts of
-child abuse or maltreatment giving rise to the indicated report and
-whether, based on guidelines developed by the office of children and
-family services pursuant to subdivision five of section four hundred
-twenty-four-a of this title, such act or acts could be relevant and
-reasonably related to employment of the subject of the report by a
-provider agency, as defined by subdivision three of section four hundred
-twenty-four-a of this title, or relevant and reasonably related to the
-subject of the report being allowed to have regular and substantial
-contact with children who are cared for by a provider agency, or
-relevant and reasonably related to the approval or disapproval of an
-application submitted by the subject of the report to a licensing
-agency, as defined by subdivision four of section four hundred
-twenty-four-a of this title.
-  * NB Effective until January 1, 2022
-  * (ii) Upon receipt of a request to amend the record of a child abuse
+  (ii) Upon receipt of a request to amend the record of a child abuse
 and maltreatment report the office of children and family services shall
 immediately send a written request to the child protective service which
 was responsible for investigating the allegations of abuse or
@@ -635,85 +578,44 @@ a provider agency, or relevant and reasonably related to the approval or
 disapproval of an application submitted by the subject of the report to
 a licensing agency, as defined by subdivision four of section four
 hundred twenty-four-a of this title.
-  * NB Effective January 1, 2022
-  * (iii) If it is determined at the review held pursuant to this
-paragraph (a) that there is no credible evidence in the record to find
-that the subject committed an act or acts of child abuse or
-maltreatment, the department shall amend the record to indicate that the
-report is "unfounded" and notify the subject forthwith.
-  * NB Effective until January 1, 2022
-  * (iii) If it is determined at the review held pursuant to this
+  (iii) If it is determined at the review held pursuant to this
 paragraph that there is not a fair preponderance of the evidence in the
 record to find that the subject committed an act or acts of child abuse
 or maltreatment, the office of children and family services shall amend
 the record to indicate that the report is "unfounded" and notify the
 subject forthwith.
-  * NB Effective January 1, 2022
-  * (iv) If it is determined at the review held pursuant to this
-paragraph (a) that there is some credible evidence in the record to find
+  (iv) If it is determined at the review held pursuant to this paragraph
+that there is a fair preponderance of the evidence in the record to find
 that the subject committed such act or acts but that such act or acts
 could not be relevant and reasonably related to the employment of the
 subject by a provider agency or to the subject being allowed to have
 regular and substantial contact with children who are cared for by a
 provider agency or the approval or disapproval of an application which
-could be submitted by the subject to a licensing agency, the department
-shall be precluded from informing a provider or licensing agency which
-makes an inquiry to the department pursuant to the provisions of section
-four hundred twenty-four-a of this title concerning the subject that the
-person about whom the inquiry is made is the subject of an indicated
-report of child abuse or maltreatment. The department shall notify
+could be submitted by the subject to a licensing agency, the office of
+children and family services shall be precluded from informing a
+provider or licensing agency which makes an inquiry to such office
+pursuant to the provisions of section four hundred twenty-four-a of this
+title concerning the subject that the person about whom the inquiry is
+made is the subject of an indicated report of child abuse or
+maltreatment. The office of children and family services shall notify
 forthwith the subject of the report of such determinations and that a
 fair hearing has been scheduled pursuant to paragraph (b) of this
-subdivision. The sole issue at such hearing shall be whether the subject
-has been shown by some credible evidence to have committed the act or
-acts of child abuse or maltreatment giving rise to the indicated report.
-  * NB Effective until January 1, 2022
-  * (iv) If it is determined at the review held pursuant to this
-paragraph that there is a fair preponderance of the evidence in the
-record to find that the subject committed such act or acts but that such
-act or acts could not be relevant and reasonably related to the
-employment of the subject by a provider agency or to the subject being
-allowed to have regular and substantial contact with children who are
-cared for by a provider agency or the approval or disapproval of an
-application which could be submitted by the subject to a licensing
-agency, the office of children and family services shall be precluded
-from informing a provider or licensing agency which makes an inquiry to
-such office pursuant to the provisions of section four hundred
-twenty-four-a of this title concerning the subject that the person about
-whom the inquiry is made is the subject of an indicated report of child
-abuse or maltreatment. The office of children and family services shall
-notify forthwith the subject of the report of such determinations and
-that a fair hearing has been scheduled pursuant to paragraph (b) of this
 subdivision. The sole issue at such hearing shall be whether the subject
 has been shown by a fair preponderance of the evidence to have committed
 the act or acts of child abuse or maltreatment giving rise to the
 indicated report.
-  * NB Effective January 1, 2022
-  * (v) If it is determined at the review held pursuant to this
-paragraph (a) that there is some credible evidence in the record to
+  (v) If it is determined at the review held pursuant to this paragraph
+that there is a fair preponderance of the evidence in the record to
 prove that the subject committed an act or acts of child abuse or
 maltreatment and that such act or acts could be relevant and reasonably
 related to the employment of the subject by a provider agency or to the
 subject being allowed to have regular and substantial contact with
 children cared for by a provider agency or the approval or disapproval
 of an application which could be submitted by the subject to a licensing
-agency, the department shall notify forthwith the subject of the report
-of such determinations and that a fair hearing has been scheduled
-pursuant to paragraph (b) of this subdivision.
-  * NB Effective until January 1, 2022
-  * (v) If it is determined at the review held pursuant to this
-paragraph that there is a fair preponderance of the evidence in the
-record to prove that the subject committed an act or acts of child abuse
-or maltreatment and that such act or acts could be relevant and
-reasonably related to the employment of the subject by a provider agency
-or to the subject being allowed to have regular and substantial contact
-with children cared for by a provider agency or the approval or
-disapproval of an application which could be submitted by the subject to
-a licensing agency, the office of children and family services shall
-notify forthwith the subject of the report of such determinations and
-that a fair hearing has been scheduled pursuant to paragraph (b) of this
+agency, the office of children and family services shall notify
+forthwith the subject of the report of such determinations and that a
+fair hearing has been scheduled pursuant to paragraph (b) of this
 subdivision.
-  * NB Effective January 1, 2022
   (b) (i) If the department, within ninety days of receiving a request
 from the subject that the record of a report be amended, does not amend
 the record in accordance with such request, the department shall
@@ -721,15 +623,7 @@ schedule a fair hearing and shall provide notice of the scheduled
 hearing date to the subject, the statewide central register and, as
 appropriate, to the child protective service or the state agency which
 investigated the report.
-  * (ii) The burden of proof in such a hearing shall be on the child
-protective service or the state agency which investigated the report, as
-the case may be. In such a hearing, the fact that there is a family
-court finding of abuse or neglect against the subject in regard to an
-allegation contained in the report shall create an irrebuttable
-presumption that said allegation is substantiated by some credible
-evidence.
-  * NB Effective until January 1, 2022
-  * (ii) The burden of proof in such a hearing shall be on the child
+  (ii) The burden of proof in such a hearing shall be on the child
 protective service which investigated the report. In such a hearing,
 where a family court proceeding pursuant to article ten of the family
 court act has occurred and where the petition for such proceeding
@@ -746,29 +640,18 @@ family court finds on the merits in favor of the respondent, there shall
 be an irrebuttable presumption in a fair hearing held pursuant to this
 subdivision that said allegation as to that respondent has not been
 proven by a fair preponderance of the evidence.
-  * NB Effective January 1, 2022
-  (c) * (i) If it is determined at the fair hearing that there is no
-credible evidence in the record to find that the subject committed an
-act or acts of child abuse or maltreatment, the department shall amend
-the record to reflect that such a finding was made at the administrative
-hearing, order any child protective service or state agency which
-investigated the report to similarly amend its records of the report,
-and shall notify the subject forthwith of the determination.
-  * NB Effective until January 1, 2022
-  * (i) If it is determined at the fair hearing that there is not a fair
-preponderance of the evidence in the record to find that the subject
-committed an act or acts of child abuse or maltreatment, the office of
-children and family services shall amend the record to reflect that such
-a finding was made at the administrative hearing, order any child
-protective service which investigated the report to similarly amend its
-records of the report, and shall notify the subject forthwith of the
-determination.
-  * NB Effective January 1, 2022
-  * (ii) Upon a determination made at a fair hearing held on or after
-January first, nineteen hundred eighty-six scheduled pursuant to the
-provisions of subparagraph (v) of paragraph (a) of this subdivision that
-the subject has been shown by a fair preponderance of the evidence to
-have committed the act or acts of child abuse or maltreatment giving
+  (c) (i) If it is determined at the fair hearing that there is not a
+fair preponderance of the evidence in the record to find that the
+subject committed an act or acts of child abuse or maltreatment, the
+office of children and family services shall amend the record to reflect
+that such a finding was made at the administrative hearing, order any
+child protective service which investigated the report to similarly
+amend its records of the report, and shall notify the subject forthwith
+of the determination.
+  (ii) Upon a determination made at a fair hearing scheduled pursuant to
+the provisions of subparagraph (v) of paragraph (a) of this subdivision
+that the subject has been shown by a fair preponderance of the evidence
+to have committed the act or acts of child abuse or maltreatment giving
 rise to the indicated report, the hearing officer shall determine, based
 on guidelines developed by the office of children and family services
 pursuant to subdivision five of section four hundred twenty-four-a of
@@ -780,45 +663,6 @@ regular and substantial contact with children who are cared for by a
 provider agency or relevant and reasonably related to the approval or
 disapproval of an application submitted by the subject to a licensing
 agency, as defined by subdivision four of section four hundred
-twenty-four-a of this title.
-  Upon a determination made at a fair hearing that the act or acts of
-abuse or maltreatment are relevant and reasonably related to employment
-of the subject by a provider agency or the subject being allowed to have
-regular and substantial contact with children who are cared for by a
-provider agency or the approval or denial of an application submitted by
-the subject to a licensing agency, the department shall notify the
-subject forthwith. The department shall inform a provider or licensing
-agency which makes an inquiry to the department pursuant to the
-provisions of section four hundred twenty-four-a of this title
-concerning the subject that the person about whom the inquiry is made is
-the subject of an indicated child abuse or maltreatment report.
-  The failure to determine at the fair hearing that the act or acts of
-abuse and maltreatment are relevant and reasonably related to the
-employment of the subject by a provider agency or to the subject being
-allowed to have regular and substantial contact with children who are
-cared for by a provider agency or the approval or denial of an
-application submitted by the subject to a licensing agency shall
-preclude the department from informing a provider or licensing agency
-which makes an inquiry to the department pursuant to the provisions of
-section four hundred twenty-four-a of this title concerning the subject
-that the person about whom the inquiry is made is the subject of an
-indicated child abuse or maltreatment report.
-  * NB Effective until January 1, 2022
-  * (ii) Upon a determination made at a fair hearing scheduled pursuant
-to the provisions of subparagraph (v) of paragraph (a) of this
-subdivision that the subject has been shown by a fair preponderance of
-the evidence to have committed the act or acts of child abuse or
-maltreatment giving rise to the indicated report, the hearing officer
-shall determine, based on guidelines developed by the office of children
-and family services pursuant to subdivision five of section four hundred
-twenty-four-a of this title, whether such act or acts are relevant and
-reasonably related to employment of the subject by a provider agency, as
-defined by subdivision three of section four hundred twenty-four-a of
-this title, or relevant and reasonably related to the subject being
-allowed to have regular and substantial contact with children who are
-cared for by a provider agency or relevant and reasonably related to the
-approval or disapproval of an application submitted by the subject to a
-licensing agency, as defined by subdivision four of section four hundred
 twenty-four-a of this title.
   Upon a determination made at a fair hearing that the act or acts of
 abuse or maltreatment are relevant and reasonably related to employment
@@ -843,25 +687,16 @@ provider or licensing agency which makes an inquiry to such office
 pursuant to the provisions of section four hundred twenty-four-a of this
 title concerning the subject that the person about whom the inquiry is
 made is the subject of an indicated child abuse or maltreatment report.
-  * NB Effective January 1, 2022
   (d) The commissioner or his or her designated agent is hereby
 authorized and empowered to make any appropriate order respecting the
 amendment of a record to make it accurate or consistent with the
 requirements of this title.
-  * (e) Should the department grant the request of the subject of the
-report pursuant to this subdivision either through an administrative
-review or fair hearing to amend an indicated report to an unfounded
-report. Such report shall be legally sealed and shall be released and
-expunged in accordance with the standards set forth in subdivision five
-of this section.
-  * NB Effective until January 1, 2022
-  * (e) Should the office of children and family services grant the
+  (e) Should the office of children and family services grant the
 request of the subject of the report pursuant to this subdivision either
 through an administrative review or fair hearing to amend an indicated
 report to an unfounded report, such report shall be legally sealed and
 shall be released and expunged in accordance with the standards set
 forth in subdivision five of this section.
-  * NB Effective January 1, 2022
   9. Written notice of any expungement or amendment of any record, made
 pursuant to the provisions of this title, shall be served forthwith upon
 each subject of such record, other persons named in the report, the

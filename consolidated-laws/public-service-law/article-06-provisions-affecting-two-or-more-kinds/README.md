@@ -12,6 +12,7 @@
 - [§ 109 Appearances of municipal corporations](109-appearances-of-municipal-corporations.md)
 - [§ 110 Control of holding companies and of transactions between affiliated interests](110-control-of-holding-companies-and-of-transactions-between-affiliated-interests.md)
 - [§ 111 Additional information in annual reports; disclosure of stockholdings](111-additional-information-in-annual-reports-disclosure-of-stockholdings.md)
+- [§ 111-A Additional information in annual reports; disclosure of compensation](111a-additional-information-in-annual-reports-disclosure-of-compensation.md)
 - [§ 112 Judicial enforcement of rate-fixing orders of the commission](112-judicial-enforcement-of-rate-fixing-orders-of-the-commission.md)
 - [§ 112-A Appointment of temporary operator](112a-appointment-of-temporary-operator.md)
 - [§ 113 Reparations and refunds](113-reparations-and-refunds.md)
@@ -46,6 +47,8 @@ Section 105.   Purposes of article.
                  affiliated interests.
         111.   Additional information in annual reports; disclosure of
                  stockholdings.
+        111-a. Additional information in annual reports; disclosure of
+                 compensation.
         112.   Judicial enforcement of rate-fixing orders of the
                  commission.
         112-a. Appointment of temporary operator.

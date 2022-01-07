@@ -24,7 +24,7 @@
 - [§ 2556 Administrative costs](2556-administrative-costs.md)
 - [§ 2557 Financial responsibility and reimbursement](2557-financial-responsibility-and-reimbursement.md)
 - [§ 2558 Responsibility for certain temporary-resident infants and toddlers with disabilities](2558-responsibility-for-certain-temporary-resident-infants.md)
-- [§ 2559 Third party insurance and medical assistance program payments](2559-third-party-insurance-and-medical-assistance-program-payments.md)
+- [§ 2559 Medical assistance program payments](2559-medical-assistance-program-payments.md)
 - [§ 2559-A Transportation](2559a-transportation.md)
 - [§ 2559-B Regulations](2559b-regulations.md)
 
@@ -56,8 +56,7 @@ Section 2540.   Establishment of early intervention program.
         2557.   Financial responsibility and reimbursement.
         2558.   Responsibility for certain temporary-resident infants
                   and toddlers with disabilities.
-        2559.   Third party insurance and medical assistance program
-                  payments.
+        2559.   Medical assistance program payments.
         2559-a. Transportation.
         2559-b. Regulations.
 ```

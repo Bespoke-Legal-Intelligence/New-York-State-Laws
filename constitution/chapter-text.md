@@ -38,6 +38,7 @@ The text the Senate publishes at the top level of this law. For some laws this i
      17. Labor not a commodity; hours and wages in public work; right to
            organize and bargain collectively.
      18. Workers' compensation.
+     19. Environmental rights.
                                      ARTICLE II
                                       Suffrage
      Sec.

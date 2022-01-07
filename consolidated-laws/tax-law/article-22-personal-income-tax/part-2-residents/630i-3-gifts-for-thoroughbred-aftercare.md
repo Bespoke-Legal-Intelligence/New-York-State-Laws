@@ -28,5 +28,4 @@ used only for those purposes enumerated in paragraph h of subdivision
 two of section two hundred fifty-four of the racing, pari-mutuel
 wagering and breeding law.
   * NB There are 3 § 630-i's
-  * NB Effective January 1, 2022
 ```

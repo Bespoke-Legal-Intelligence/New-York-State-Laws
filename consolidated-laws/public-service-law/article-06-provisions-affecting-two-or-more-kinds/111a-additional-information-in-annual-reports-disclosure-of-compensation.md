@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Public Service Law § 111-A", "kind": "section", "law_id": "PBS", "location_id": "111-A", "path": "ARTICLE 6 › SECTION 111-A", "repealed": false, "repealed_date": null, "source": "nys-laws:PBS/111-A.md", "title": "Additional information in annual reports; disclosure of compensation"} -->
+# Public Service Law § 111-A — Additional information in annual reports; disclosure of compensation
+
+[Public Service Law](../README.md) › [Article 6 — Provisions Affecting Two or More Kinds of the Public Service and the Persons and Corporations Furnishing Such Service](README.md)
+
+```text
+  § 111-a. Additional information in annual reports; disclosure of
+compensation. 1. Any gas corporation, electric corporation, water-works
+corporation, or service provider with a gross annual operating revenue
+of more than one million dollars shall prepare and file with the
+department, on or before October thirty-first of each year, a
+compensation statement showing for the preceding calendar year:
+  a. the names, titles, and duties of all executive officers and the
+compensation received by each such executive officer. For purposes of
+this section "executive officer" includes the president, secretary,
+treasurer, and vice president in charge of a principal business unit,
+division or function of such gas corporation, electric corporation,
+water-works corporation or service provider; or any other officer who
+performs a policy making function, or any other person who performs
+similar policy making functions for such gas corporation, electric
+corporation, water-works corporation, or service provider who receives a
+compensation at the rate of one hundred twenty-five thousand dollars or
+more per annum; and
+  b. the proportion of the compensation disclosed in paragraph a of this
+subdivision, that is paid, directly or indirectly, by the ratepayers.
+  2. Any gas corporation, electric corporation, water-works corporation,
+or service provider with a gross annual operating revenue of more than
+one million dollars shall provide a compensation statement for six years
+preceding the effective date of this section. Such report shall contain
+the information specified in subdivision one of this section.
+  3. The compensation statement for each such gas corporation, electric
+corporation, water-works corporation or service provider shall be made
+publicly available on the department's website.
+```

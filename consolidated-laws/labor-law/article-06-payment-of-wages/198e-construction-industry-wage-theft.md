@@ -4,7 +4,7 @@
 [Labor Law](../README.md) › [Article 6 — Payment of Wages](README.md)
 
 ```text
-  * § 198-e. Construction industry wage theft. 1. A contractor making or
+  § 198-e. Construction industry wage theft. 1. A contractor making or
 taking a construction contract shall assume liability for any debt
 resulting from an action under section one hundred ninety-eight of this
 article, owed to a wage claimant or third party on the wage claimant's
@@ -93,5 +93,4 @@ on a project, provided that for such waiver to be valid, it shall
 explicitly reference this section. Provided, however, that such waiver
 shall not diminish or impair the rights of an employee provided under
 any other section of this chapter.
-  * NB Effective January 4, 2022
 ```

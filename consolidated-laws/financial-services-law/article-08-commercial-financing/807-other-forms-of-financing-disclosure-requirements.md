@@ -4,7 +4,7 @@
 [Financial Services Law](../README.md) › [Article 8 — Commercial Financing](README.md)
 
 ```text
-  * § 807. Other forms of financing disclosure requirements. The
+  § 807. Other forms of financing disclosure requirements. The
 superintendent may require disclosure by a provider extending a specific
 offer of commercial financing which is not open-end financing,
 closed-end financing, sales-based financing, or factoring transaction
@@ -47,5 +47,4 @@ maximum dollar amount the recipient could be required to pay; and
 fees not already included in the finance charge.
   (i) A description of collateral requirements or security interests, if
 any.
-  * NB Effective January 1, 2022
 ```

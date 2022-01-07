@@ -4,7 +4,7 @@
 [Financial Services Law](../README.md) › [Article 8 — Commercial Financing](README.md)
 
 ```text
-  * § 806. Factoring transaction disclosure requirements. A provider,
+  § 806. Factoring transaction disclosure requirements. A provider,
 subject to this article, shall provide the following disclosures to a
 recipient at the time of extending a specific offer for a factoring
 transaction according to formatting prescribed by the superintendent:
@@ -31,5 +31,4 @@ finance charge.
 avoided by the recipient.
   (f) A description of the receivables purchased and any additional
 collateral requirements or security interests.
-  * NB Effective January 1, 2022
 ```

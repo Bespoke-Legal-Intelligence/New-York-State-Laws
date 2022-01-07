@@ -22,7 +22,7 @@
 <summary>Official heading of Article 8, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                               * ARTICLE 8
+                                ARTICLE 8
                           COMMERCIAL FINANCING
 Section 801. Definitions.
         802. Exemptions.
@@ -36,7 +36,6 @@ Section 801. Definitions.
         810. Additional information.
         811. Rules and regulations.
         812. Penalties.
-  * NB Effective January 1, 2022
 ```
 
 </details>
