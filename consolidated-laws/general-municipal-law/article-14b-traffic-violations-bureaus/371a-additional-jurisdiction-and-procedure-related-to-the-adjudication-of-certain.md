@@ -4,7 +4,7 @@
 [General Municipal Law](../README.md) › [Article 14-B — Traffic Violations Bureaus](README.md)
 
 ```text
-  * § 371-a. Additional jurisdiction and procedure related to the
+  § 371-a. Additional jurisdiction and procedure related to the
 adjudication of certain notices of liability. A traffic violations
 bureau established pursuant to subdivision one and a traffic and parking
 violations agency established pursuant to subdivision two of section
@@ -33,5 +33,4 @@ thereof to comply with such posted maximum speed limits within a highway
 construction or maintenance work area through the installation and
 operation of photo speed violation monitoring systems, in accordance
 with article thirty of this chapter.
-  * NB There are 2 § 371-a's
 ```

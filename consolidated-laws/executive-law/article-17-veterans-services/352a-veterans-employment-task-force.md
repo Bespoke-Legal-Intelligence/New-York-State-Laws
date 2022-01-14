@@ -45,6 +45,5 @@ meaningful employment opportunities;
   (e) the impact of tax credits and municipal grants for hiring
 unemployed veterans; and
   (f) any private sector initiatives.
-  * NB Effective January 10, 2022
   * NB Repealed December 31, 2025
 ```

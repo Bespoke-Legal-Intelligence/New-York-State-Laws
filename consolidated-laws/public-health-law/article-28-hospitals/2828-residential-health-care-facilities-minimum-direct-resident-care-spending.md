@@ -130,5 +130,5 @@ completed by residential health care facilities under section twenty-
 eight hundred five-e of this article to include information to ensure
 all items referred to in this section and organize such information
 consistent with the terms of this section.
-  * NB There are 2 § 2828-s
+  * NB There are 2 § 2828's
 ```

@@ -11,7 +11,7 @@
 - [§ 370-A Definitions](370a-definitions.md)
 - [§ 371 Jurisdiction and procedure](371-jurisdiction-and-procedure.md)
 - [§ 371-A Additional jurisdiction and procedure related to the adjudication of certain notices of liability](371a-additional-jurisdiction-and-procedure-related-to-the-adjudication-of-certain.md)
-- [§ 371-A\*2 Additional jurisdiction and procedure related to the adjudication of certain notices of liability](371a-2-additional-jurisdiction-and-procedure-related-to-the-adjudication-of-certain.md)
+- [§ 371-A\*2 Additional jurisdiction and procedure related to the adjudication of certain notices of liability](371a-2-additional-jurisdiction-and-procedure-related-to-the-adjudication-of-certain.md) *(repealed)*
 - [§ 372 Fines](372-fines.md)
 - [§ 373 Records](373-records.md)
 - [§ 374 Traffic prosecutor selection and oversight](374-traffic-prosecutor-selection-and-oversight.md)

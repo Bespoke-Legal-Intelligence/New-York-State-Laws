@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 371-A*2", "kind": "section", "law_id": "GMU", "location_id": "371-A*2", "path": "ARTICLE 14-B › SECTION 371-A*2", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/371-A_2.md", "title": "Additional jurisdiction and procedure related to the adjudication of certain notices of liability"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 371-A*2", "kind": "section", "law_id": "GMU", "location_id": "371-A*2", "path": "ARTICLE 14-B › SECTION 371-A*2", "repealed": true, "repealed_date": "2022-01-14", "source": "nys-laws:GMU/371-A_2.md", "title": "Additional jurisdiction and procedure related to the adjudication of certain notices of liability"} -->
 # General Municipal Law § 371-A*2 — Additional jurisdiction and procedure related to the adjudication of certain notices of liability
 
 [General Municipal Law](../README.md) › [Article 14-B — Traffic Violations Bureaus](README.md)
+
+**Repealed** (14 Jan 2022). The text below is what the Senate publishes for this repealed provision.
 
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
