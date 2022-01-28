@@ -8,7 +8,7 @@
 | Senate code | UCC |
 | Type | Consolidated law, chapter 38 |
 | Sections | 627 |
-| Last changed | 3 Dec 2021 |
+| Last changed | 28 Jan 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Uniform Commercial Code |
 
@@ -31,6 +31,7 @@ Section 1--101. Short Title
 
 ## Recent changes
 
+- [28 Jan 2022](../../changes/2022/2022-01-28.md): 1 amended
 - [3 Dec 2021](../../changes/2021/2021-12-03.md): 1 amended
 - [5 Oct 2018](../../changes/2018/2018-10-05.md): 1 amended
 - [31 Aug 2018](../../changes/2018/2018-08-31.md): 4 amended

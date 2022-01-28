@@ -10,14 +10,14 @@
 - [§ 37-1005 Exemptions](37-1005-exemptions.md)
 - [§ 37-1007 Electronic display](37-1007-electronic-display.md)
 - [§ 37-1009 Reporting](37-1009-reporting.md)
-- [§ 37-1011 Severability](37-1011-severability.md)
-- [§ 37-1013 Regulations](37-1013-regulations.md)
+- [§ 37-1011 Certification of compliance](37-1011-certification-of-compliance.md)
+- [§ 37-1013 Severability](37-1013-severability.md)
 
 <details>
 <summary>Official heading of Title 10, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                 TITLE X
+                                TITLE 10
       REGULATION OF CHEMICALS IN UPHOLSTERED FURNITURE, MATTRESSES
                         AND ELECTRONIC ENCLOSURES
 Section 37-1001. Definitions.
@@ -25,8 +25,9 @@ Section 37-1001. Definitions.
         37-1005. Exemptions.
         37-1007. Electronic display.
         37-1009. Reporting.
-        37-1011. Severability.
-        37-1013. Regulations.
+        37-1011. Certification of compliance.
+        37-1013. Severability.
+        37-1015. Regulations.
 ```
 
 </details>

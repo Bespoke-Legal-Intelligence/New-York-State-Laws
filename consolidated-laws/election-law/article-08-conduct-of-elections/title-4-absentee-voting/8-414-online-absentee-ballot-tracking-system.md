@@ -4,8 +4,8 @@
 [Election Law](../../README.md) › [Article 8 — Conduct of Elections](../README.md) › [Title 4 — Absentee Voting](README.md)
 
 ```text
-  § 8-414. Online absentee ballot tracking system. 1. The state board of
-elections shall establish and maintain an electronic absentee ballot
+  * § 8-414. Online absentee ballot tracking system. 1. The state board
+of elections shall establish and maintain an electronic absentee ballot
 tracking system. In accordance with technical specifications provided by
 the state board of elections, each local board of elections shall
 maintain an absentee ballot tracking system integrated with the state
@@ -31,4 +31,5 @@ such mailing or delivery, and the expected date of receipt;
   (f) determined the ballot envelope was subject to a cure; and
   (g) counted or rejected such voter's completed absentee ballot and, if
 rejected, a brief statement of the reason for rejection.
+  * NB Effective April 1, 2022
 ```
