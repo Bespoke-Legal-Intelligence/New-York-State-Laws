@@ -29,5 +29,4 @@ made in accordance with the provisions of the civil service law and such
 rules as the civil service commission may adopt and make applicable to
 the authority.
   * NB There are 2 § 1114-f's
-  * NB Effective February 1, 2022
 ```

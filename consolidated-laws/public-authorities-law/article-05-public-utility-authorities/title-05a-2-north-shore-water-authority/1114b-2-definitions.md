@@ -114,5 +114,4 @@ planning, development, financing or construction thereof.
 department of health pursuant to section eleven hundred of the public
 health law.
   * NB There are 2 § 1114-b's
-  * NB Effective February 1, 2022
 ```

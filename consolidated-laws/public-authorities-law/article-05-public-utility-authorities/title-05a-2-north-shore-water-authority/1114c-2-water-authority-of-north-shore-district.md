@@ -13,5 +13,4 @@ being serviced by the New York American water service corporation as its
 sea cliff operations district as of January first, two thousand eighteen
 and lying north of the area serviced by Jericho water district.
   * NB There are 2 § 1114-c's
-  * NB Effective February 1, 2022
 ```

@@ -28,5 +28,4 @@ such moneys may be secured in the same manner as moneys of the authority
 and all banks and trust companies are authorized to give such security
 for such deposits.
   * NB There are 2 § 1114-j's
-  * NB Effective February 1, 2022
 ```

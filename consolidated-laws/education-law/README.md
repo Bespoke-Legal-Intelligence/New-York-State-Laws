@@ -8,7 +8,7 @@
 | Senate code | EDN |
 | Type | Consolidated law, chapter 16 |
 | Sections | 1,908 (1 repealed) |
-| Last changed | 7 Jan 2022 |
+| Last changed | 4 Feb 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Education |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [4 Feb 2022](../../changes/2022/2022-02-04.md): 5 amended
 - [7 Jan 2022](../../changes/2022/2022-01-07.md): 4 amended, 1 repealed
 - [31 Dec 2021](../../changes/2021/2021-12-31.md): 1 added
 - [24 Dec 2021](../../changes/2021/2021-12-24.md): 1 amended, 1 added
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [5 Nov 2021](../../changes/2021/2021-11-05.md): 4 amended
 - [29 Oct 2021](../../changes/2021/2021-10-29.md): 4 amended, 1 added
 - [22 Oct 2021](../../changes/2021/2021-10-22.md): 1 amended
-- [15 Oct 2021](../../changes/2021/2021-10-15.md): 1 amended, 1 added, 1 removed
 
 ## Contents
 

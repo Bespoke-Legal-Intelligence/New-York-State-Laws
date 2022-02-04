@@ -4,7 +4,7 @@
 [Correction Law](../README.md) › [Article 22 — Miscellaneous Provisions](README.md)
 
 ```text
-  * § 607. Prohibition of double-bunked housing. 1. For purposes of this
+  § 607. Prohibition of double-bunked housing. 1. For purposes of this
 section "double-bunked housing" shall mean the practice of inmate
 housing where bunk beds are used in a dormitory setting, with inmates
 residing in an open space and sleeping on bunk beds.
@@ -17,5 +17,4 @@ in a more restrictive housing unit or correctional facility unless
 otherwise appropriate.
   3. The department is authorized to promulgate or repeal any rules and
 regulations necessary to facilitate the implementation of this section.
-  * NB Effective February 1, 2022
 ```
