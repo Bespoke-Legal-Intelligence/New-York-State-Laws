@@ -4,7 +4,7 @@
 [Education Law](../../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../../README.md) › [Article 5 — University of the State of New York](../README.md) › [Part 1 — General Organization](README.md)
 
 ```text
-  * § 239-c. New York state firearm violence research institute. 1.
+  § 239-c. New York state firearm violence research institute. 1.
 Institute formation and goals. Subject to amounts available by
 appropriation, the New York state firearm violence research institute,
 hereinafter the "institute", is hereby created within the university.
@@ -143,5 +143,4 @@ justice services shall enter into a written memorandum of understanding
 to facilitate the appropriate implementation of the firearm violence
 research institute and the goals, responsibilities, and programs
 established by this section.
-  * NB Effective February 6, 2022
 ```

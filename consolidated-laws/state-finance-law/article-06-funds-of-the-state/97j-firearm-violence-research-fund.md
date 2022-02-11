@@ -4,10 +4,10 @@
 [State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
 
 ```text
-  * § 97-j. Firearm violence research fund. 1. There is hereby
-established in the joint custody of the state comptroller and the
-commissioner of taxation and finance a fund to be known as the firearm
-violence research fund.
+  § 97-j. Firearm violence research fund. 1. There is hereby established
+in the joint custody of the state comptroller and the commissioner of
+taxation and finance a fund to be known as the firearm violence research
+fund.
   2. The firearm violence research fund shall consist of all moneys
 credited or transferred thereto from any other fund or source, including
 any federal, state, or private funds, pursuant to law for the purposes
@@ -25,5 +25,4 @@ appropriation by the legislature, shall be available to the New York
 firearm violence research institute for firearm violence research,
 education, and information transfer programs as set forth in section two
 hundred thirty-nine-c of the education law.
-  * NB Effective February 6, 2022
 ```

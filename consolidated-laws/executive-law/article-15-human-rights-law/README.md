@@ -13,7 +13,6 @@
 - [§ 295 General powers and duties of division](295-general-powers-and-duties-of-division.md)
 - [§ 296 Unlawful discriminatory practices](296-unlawful-discriminatory-practices.md)
 - [§ 296-A Unlawful discriminatory practices in relation to credit](296a-unlawful-discriminatory-practices-in-relation-to-credit.md)
-- [§ 296-B Unlawful discriminatory practices relating to domestic workers](296b-unlawful-discriminatory-practices-relating-to-domestic-workers.md) *(repealed)*
 - [§ 296-C Unlawful discriminatory practices relating to interns](296c-unlawful-discriminatory-practices-relating-to-interns.md)
 - [§ 296-D Unlawful discriminatory practices relating to non-employees](296d-unlawful-discriminatory-practices-relating-to-non-employees.md)
 - [§ 297 Procedure](297-procedure.md)
