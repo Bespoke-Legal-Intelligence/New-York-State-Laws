@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 11 Feb 2022.*
+*Current through the publication of 18 Feb 2022.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [18 Feb 2022](changes/2022/2022-02-18.md): Election Law; State Law; Workers' Compensation Law
 - [11 Feb 2022](changes/2022/2022-02-11.md): Alcoholic Beverage Control Law; Correction Law; Criminal Procedure Law; Education Law; Executive Law; Mental Hygiene Law; Public Health Law; State Finance Law; State Law; Vehicle and Traffic Law
 - [4 Feb 2022](changes/2022/2022-02-04.md): Banking Law; Business Corporation Law; Correction Law; Education Law; Executive Law; General Municipal Law; Limited Liability Company Law; Public Authorities Law; Vehicle and Traffic Law
 - [28 Jan 2022](changes/2022/2022-01-28.md): Banking Law; Civil Practice Law and Rules; County Law; Election Law; Environmental Conservation Law; General Business Law; Labor Law; Mental Hygiene Law; Town Law; Uniform Commercial Code
@@ -22,7 +23,6 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [14 Jan 2022](changes/2022/2022-01-14.md): Executive Law; General Municipal Law; Public Health Law; Vehicle and Traffic Law
 - [7 Jan 2022](changes/2022/2022-01-07.md): Banking Law; Civil Practice Law and Rules; Civil Rights Law; Civil Service Law; Criminal Procedure Law; Domestic Relations Law; Education Law; Election Law; Environmental Conservation Law; Executive Law; Family Court Act; Financial Services Law; General Business Law; Insurance Law; Labor Law; Mental Hygiene Law; New York State Constitution; Penal Law; Public Authorities Law; Public Health Law; Public Officers Law; Public Service Law; Racing, Pari-Mutuel Wagering and Breeding Law; Real Property Actions and Proceedings Law; Real Property Tax Law; Social Services Law; State Administrative Procedure Act; State Finance Law; Tax Law; Vehicle and Traffic Law; Workers' Compensation Law
 - [31 Dec 2021](changes/2021/2021-12-31.md): Agriculture and Markets Law; Alcoholic Beverage Control Law; Civil Practice Law and Rules; County Law; Economic Development Law; Education Law; Elder Law; Election Law; Environmental Conservation Law; Executive Law; Family Court Act; General Business Law; General Obligations Law; Insurance Law; Labor Law; Mental Hygiene Law; New York City Civil Court Act; Parks, Recreation and Historic Preservation Law; Penal Law; Private Housing Finance Law; Public Authorities Law; Public Health Law; Public Officers Law; Public Service Law; Real Property Actions and Proceedings Law; Real Property Law; Social Services Law; Soil and Water Conservation Districts Law; State Finance Law; State Technology Law; Tax Law; Transportation Law; Vehicle and Traffic Law; Workers' Compensation Law
-- [24 Dec 2021](changes/2021/2021-12-24.md): Agriculture and Markets Law; Alcoholic Beverage Control Law; Civil Rights Law; Civil Service Law; Correction Law; Education Law; Emergency Housing Rent Control Law; Emergency Tenant Protection Act; Environmental Conservation Law; Executive Law; General Business Law; General Municipal Law; Insurance Law; Labor Law; Mental Hygiene Law; Penal Law; Private Housing Finance Law; Public Authorities Law; Public Health Law; Public Housing Law; Public Officers Law; Public Service Law; Real Property Actions and Proceedings Law; Real Property Law; Real Property Tax Law; Retirement and Social Security Law; Social Services Law; State Finance Law; Transportation Law; Vehicle and Traffic Law; Volunteer Firefighters' Benefit Law; Workers' Compensation Law
 
 ## Most changed in the past 12 months
 
@@ -40,7 +40,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 110 |
 | [Labor Law](consolidated-laws/labor-law/README.md) | 102 |
 | [Penal Law](consolidated-laws/penal-law/README.md) | 93 |
-| [General Business Law](consolidated-laws/general-business-law/README.md) | 90 |
+| [General Business Law](consolidated-laws/general-business-law/README.md) | 88 |
 | [Highway Law](consolidated-laws/highway-law/README.md) | 78 |
 | [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | 75 |
 
@@ -70,7 +70,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Economic Development Law](consolidated-laws/economic-development-law/README.md) | COM | 185 | 31 Dec 2021 |
 | [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,908 | 11 Feb 2022 |
 | [Elder Law](consolidated-laws/elder-law/README.md) | ELD | 46 | 31 Dec 2021 |
-| [Election Law](consolidated-laws/election-law/README.md) | ELN | 426 | 28 Jan 2022 |
+| [Election Law](consolidated-laws/election-law/README.md) | ELN | 426 | 18 Feb 2022 |
 | [Eminent Domain Procedure Law](consolidated-laws/eminent-domain-procedure-law/README.md) | EDP | 50 | 27 Sep 2019 |
 | [Employers' Liability Law](consolidated-laws/employers-liability-law/README.md) | EML | 18 | no change since 22 Sep 2014 (start of history) |
 | [Energy Law](consolidated-laws/energy-law/README.md) | ENG | 67 | 24 Apr 2020 |
@@ -128,7 +128,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Soil and Water Conservation Districts Law](consolidated-laws/soil-and-water-conservation-districts-law/README.md) | SWC | 18 | 31 Dec 2021 |
 | [State Administrative Procedure Act](consolidated-laws/state-administrative-procedure-act/README.md) | SAP | 33 | 7 Jan 2022 |
 | [State Finance Law](consolidated-laws/state-finance-law/README.md) | STF | 561 | 11 Feb 2022 |
-| [State Law](consolidated-laws/state-law/README.md) | STL | 98 | 11 Feb 2022 |
+| [State Law](consolidated-laws/state-law/README.md) | STL | 98 | 18 Feb 2022 |
 | [State Technology Law](consolidated-laws/state-technology-law/README.md) | STT | 28 | 31 Dec 2021 |
 | [Statute of Local Governments](consolidated-laws/statute-of-local-governments/README.md) | SLG | 9 | no change since 22 Sep 2014 (start of history) |
 | [Tax Law](consolidated-laws/tax-law/README.md) | TAX | 1,252 | 7 Jan 2022 |
@@ -140,7 +140,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Village Law](consolidated-laws/village-law/README.md) | VIL | 241 | 19 Nov 2021 |
 | [Volunteer Ambulance Workers' Benefit Law](consolidated-laws/volunteer-ambulance-workers-benefit-law/README.md) | VAW | 55 | 5 Nov 2021 |
 | [Volunteer Firefighters' Benefit Law](consolidated-laws/volunteer-firefighters-benefit-law/README.md) | VOL | 59 | 24 Dec 2021 |
-| [Workers' Compensation Law](consolidated-laws/workers-compensation-law/README.md) | WKC | 318 | 7 Jan 2022 |
+| [Workers' Compensation Law](consolidated-laws/workers-compensation-law/README.md) | WKC | 318 | 18 Feb 2022 |
 
 ## Unconsolidated Laws
 
