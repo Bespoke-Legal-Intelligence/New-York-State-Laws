@@ -4,7 +4,7 @@
 [Insurance Law](../README.md) › [Article 34 — Insurance Contracts-property/casualty](README.md)
 
 ```text
-  * § 3421. Homeowners' liability insurance; dogs. 1. With respect to
+  § 3421. Homeowners' liability insurance; dogs. 1. With respect to
 homeowners' insurance policies as defined in section two thousand three
 hundred fifty-one of this chapter, no insurer shall refuse to issue or
 renew, cancel, or charge or impose an increased premium or rate for such
@@ -19,5 +19,4 @@ hundred twenty-three of the agriculture and markets law, based on sound
 underwriting and actuarial principles reasonably related to actual or
 anticipated loss experience subject to the applicable provisions of
 section three thousand four hundred twenty-five of this article.
-  * NB Effective January 28, 2022
 ```

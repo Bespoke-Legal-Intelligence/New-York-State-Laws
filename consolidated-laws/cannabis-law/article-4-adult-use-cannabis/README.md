@@ -15,7 +15,9 @@
 - [§ 68 Adult-use cultivator license](68-adult-use-cultivator-license.md)
 - [§ 68-A Registered organization adult-use cultivator processor distributor retail dispensary license](68a-registered-organization-adult-use-cultivator-processor-distributor-retail.md)
 - [§ 68-B Registered organization adult-use cultivator, processor and distributor license](68b-registered-organization-adult-use-cultivator-processor-and-distributor-license.md)
+- [§ 68-C Conditional adult-use cultivator license](68c-conditional-adult-use-cultivator-license.md)
 - [§ 69 Adult-use processor license](69-adult-use-processor-license.md)
+- [§ 69-A Conditional adult-use processor license](69a-conditional-adult-use-processor-license.md)
 - [§ 70 Adult-use cooperative license](70-adult-use-cooperative-license.md)
 - [§ 71 Adult-use distributor license](71-adult-use-distributor-license.md)
 - [§ 72 Adult-use retail dispensary license](72-adult-use-retail-dispensary-license.md)
@@ -56,7 +58,9 @@ Section 61.   License application.
                 distributor retail dispensary license.
         68-b. Registered organization adult-use cultivator, processor
                 and distributor license.
+        68-c. Conditional adult-use cultivator license.
         69.   Adult-use processor license.
+        69-a. Conditional adult-use processor license.
         70.   Adult-use cooperative license.
         71.   Adult-use distributor license.
         72.   Adult-use retail dispensary license.

@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [§ 140 Workmen's compensation board](140-workmens-compensation-board.md)
+- [§ 140 Workers' compensation board](140-workers-compensation-board.md)
 - [§ 141 General powers and duties of the chair](141-general-powers-and-duties-of-the-chair.md)
 - [§ 141-A Civil enforcement](141a-civil-enforcement.md)
 - [§ 141-B Suspension and debarment](141b-suspension-and-debarment.md)

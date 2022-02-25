@@ -4,7 +4,7 @@
 [Public Service Law](../README.md) › [Article 5 — Provisions Relating to Telegraph and Telephone Lines and to Telephone and Telegraph Corporations](README.md)
 
 ```text
-  * § 104. Fiber-based services. 1. Where a telephone line, as such term
+  § 104. Fiber-based services. 1. Where a telephone line, as such term
 is defined in subdivision eighteen of section two of this chapter, or a
 portion of a telephone line, has previously been placed by a telephone
 corporation in or on a building or other property of an owner other than
@@ -31,5 +31,4 @@ of the installation, operation or removal of such facilities; and (b)
 that the telephone corporation agrees to indemnify the landlord or
 property owner for any damage caused by the installation, operation or
 removal of such facilities.
-  * NB Effective February 20, 2022
 ```

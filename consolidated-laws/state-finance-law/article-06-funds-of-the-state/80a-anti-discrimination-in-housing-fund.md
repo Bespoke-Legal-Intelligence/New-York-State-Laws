@@ -4,7 +4,7 @@
 [State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
 
 ```text
-  * § 80-a. Anti-discrimination in housing fund. 1. There is hereby
+  § 80-a. Anti-discrimination in housing fund. 1. There is hereby
 established in the custody of the state comptroller a special fund to be
 known as the "anti-discrimination in housing fund".
   2. The anti-discrimination in housing fund shall consist of moneys
@@ -29,5 +29,4 @@ this section.
   5. The monies shall be payable from the fund on the audit and warrant
 of the comptroller on vouchers approved and certified by the attorney
 general.
-  * NB Effective February 19, 2022
 ```

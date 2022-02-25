@@ -4,7 +4,7 @@
 [Insurance Law](../../README.md) › [Article 49 — Utilization Review and External Appeal](../README.md) › [Title 1 — Registration of Agents and Review Process](README.md)
 
 ```text
-  * § 4909. Prescription drug formulary changes. (a) Except as otherwise
+  § 4909. Prescription drug formulary changes. (a) Except as otherwise
 provided in subsection (c) of this section, a health care plan shall
 not:
   (i) remove a prescription drug from a formulary;
@@ -51,5 +51,4 @@ the plan provides to the public.
   (e) The provisions of this section shall not supersede the terms of a
 collective bargaining agreement, or the rights of labor representation
 groups to collectively bargain changes to the formularies.
-  * NB Effective February 20, 2022
 ```
