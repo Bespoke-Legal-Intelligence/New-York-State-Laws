@@ -36,22 +36,30 @@ subject to a civil fine not to exceed fifty dollars per violation but in
 no event shall any fine exceed one thousand dollars.
   * NB Effective until March 11, 2022
   * § 2805-o. Identification of veterans and their spouses by nursing
-homes, residential health care facilities and assisted living
-residences. 1. Every nursing home and residential health care facility
-as defined in subdivisions two and three of section two thousand eight
-hundred one of this article and assisted living residences as defined in
-section forty-six hundred fifty-one of this chapter shall keep and
-maintain accurate records identifying veterans and their spouses
-residing within such facilities. Such information shall be solicited by
-nursing home and/or residential health care facility staff upon a
-patient's admission, noted on the admission form, and included with the
-patient's file by asking the question "Have you ever served in the
+homes, residential health care facilities, and adult care facilities. 1.
+Every nursing home and residential health care facility as defined in
+subdivisions two and three of section two thousand eight hundred one of
+this article and every adult care facility licensed and certified by the
+department pursuant to title two of article seven of the social services
+law or article forty-six-B of this chapter, including all adult homes,
+enriched housing programs, residences for adults, assisted living
+programs, and assisted living residences shall keep and maintain
+accurate records identifying veterans and their spouses residing within
+such facilities. Such information shall be solicited by nursing home
+and/or residential health care facility staff upon a patient's
+admission, noted on the admission form, and included with the patient's
+file by asking the question "Have you or your spouse ever served in the
 United States military?". In the case of patients currently residing at
 such nursing homes or residential health care facilities, staff shall
-solicit such information by asking the question "Have you ever served in
-the United States military?" from each patient residing at such
-institution and update the patient's file to indicate veteran status.
-  2. Every nursing home, residential health care facility and assisted
+solicit such information by asking the question "Have you or your spouse
+ever served in the United States military?" from each patient residing
+at such institution and update the patient's file to indicate veteran
+status.
+  2. Every nursing home, residential health care facility and every
+adult care facility licensed and certified by the department pursuant to
+title two of article seven of the social services law or article
+forty-six-B of this chapter, including all adult homes, enriched housing
+programs, residences for adults, assisted living programs, and assisted
 living residences shall in writing advise all individuals identifying
 themselves as veterans or spouses of veterans that the division of
 veterans' services and local veterans' service agencies established
@@ -62,8 +70,12 @@ name, address and telephone number of the New York state division of
 veterans' services, the nearest division of veterans' services office,
 the nearest county or city veterans' service agency and the nearest
 accredited veterans' service officer.
-  3. Every nursing home, residential health care facility and assisted
-living residence, with the permission of individuals identifying
+  3. Every nursing home, residential health care facility and every
+adult care facility licensed and certified by the department pursuant to
+title two of article seven of the social services law or article
+forty-six-B of this chapter, including all adult homes, enriched housing
+programs, residences for adults, assisted living programs, and assisted
+living residences, with the permission of individuals identifying
 themselves as veterans or spouses of veterans, shall transmit such
 veteran status information to the division of veterans' services.
   4. Any person who violates the provisions of this section shall be

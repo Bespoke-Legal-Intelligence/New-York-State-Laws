@@ -7,17 +7,18 @@
 
 - [§ 49-0501 Designation of geoparks and other sites](49-0501-designation-of-geoparks-and-other-sites.md)
 - [§ 49-0503 Establishment of state geological trail](49-0503-establishment-of-state-geological-trail.md)
-- [§ 49-0505 State geological planning and management board](49-0505-state-geological-planning-and-management.md)
+- [§ 49-0505 State geological planning and advisory council](49-0505-state-geological-planning-and-advisory.md)
 
 <details>
 <summary>Official heading of Title 5, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                 TITLE 5
+                                * TITLE 5
                          STATE GEOLOGICAL TRAIL
 Section 49-0501. Designation of geoparks and other sites.
         49-0503. Establishment of state geological trail.
-        49-0505. State geological planning and management board.
+        49-0505. State geological planning and advisory council.
+  * NB Effective December 22, 2022
 ```
 
 </details>

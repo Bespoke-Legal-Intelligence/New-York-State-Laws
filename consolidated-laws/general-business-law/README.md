@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | GBS |
 | Type | Consolidated law, chapter 20 |
-| Sections | 1,300 |
-| Last changed | 28 Jan 2022 |
+| Sections | 1,301 |
+| Last changed | 4 Mar 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Business |
 
@@ -29,10 +29,11 @@ AN ACT relating to general business, constituting chapter twenty of the
   Assembly, do enact as follows:
 ```
 
-[Full chapter text (177 lines)](chapter-text.md)
+[Full chapter text (178 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [4 Mar 2022](../../changes/2022/2022-03-04.md): 23 amended, 2 added, 1 removed
 - [28 Jan 2022](../../changes/2022/2022-01-28.md): 1 amended
 - [7 Jan 2022](../../changes/2022/2022-01-07.md): 1 amended
 - [31 Dec 2021](../../changes/2021/2021-12-31.md): 2 amended, 19 added
@@ -42,7 +43,6 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [19 Nov 2021](../../changes/2021/2021-11-19.md): 2 amended, 1 added
 - [12 Nov 2021](../../changes/2021/2021-11-12.md): 4 amended, 2 added
 - [29 Oct 2021](../../changes/2021/2021-10-29.md): 1 amended, 1 added
-- [22 Oct 2021](../../changes/2021/2021-10-22.md): 6 amended
 
 ## Contents
 
@@ -103,6 +103,7 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 25 — Fair Credit Reporting Act](article-25-fair-credit-reporting-act/)
 - [Article 25-A — Articles of Bedding](article-25a-articles-of-bedding/)
 - [Article 25-B — Use of Safety Glazing Materials](article-25b-use-of-safety-glazing-materials/)
+- [Article 25-C — Products Containing Lead](article-25c-products-containing-lead/)
 - [Article 26 — Miscellaneous](article-26-miscellaneous/)
 - [Article 27 — Licensing of Nail Specialty, Natural Hair Styling, Esthetics and Cosmetology](article-27-licensing-of-nail-specialty-natural-hair-styling/)
 - [Article 27-A — Licensing of Coin Processors](article-27a-licensing-of-coin-processors/)

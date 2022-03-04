@@ -11,6 +11,7 @@
 - [§ 2998-C Best practices](2998c-best-practices.md)
 - [§ 2998-D Voluntary and collaborative reporting system](2998d-voluntary-and-collaborative-reporting-system.md)
 - [§ 2998-E Reporting in office based surgery](2998e-reporting-in-office-based-surgery.md)
+- [§ 2998-F Reporting of the health risk factors of excessive alcohol consumption](2998f-reporting-of-the-health-risk-factors-of-excessive.md)
 - [§ 2999 Contracting with private entities](2999-contracting-with-private-entities.md)
 - [§ 2999-A Public access](2999a-public-access.md)
 
@@ -26,6 +27,8 @@ Section 2998.   Patient safety center.
         2998-c. Best practices.
         2998-d. Voluntary and collaborative reporting system.
         2998-e. Reporting in office based surgery.
+        2998-f. Reporting of the health risk factors of excessive
+                  alcohol consumption.
         2999.   Contracting with private entities.
         2999-a. Public access.
 ```

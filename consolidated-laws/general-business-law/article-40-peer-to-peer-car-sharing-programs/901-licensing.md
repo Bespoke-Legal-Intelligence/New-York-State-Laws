@@ -13,5 +13,5 @@ license, a peer-to-peer car sharing program shall be required to submit
 to the department of financial services proof of a group policy issued
 pursuant to section three thousand four hundred fifty-eight of the
 insurance law.
-  * NB Effective March 22, 2022
+  * NB Effective June 20, 2022
 ```

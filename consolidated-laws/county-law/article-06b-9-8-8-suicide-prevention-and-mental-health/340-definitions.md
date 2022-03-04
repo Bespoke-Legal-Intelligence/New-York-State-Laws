@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "County Law § 340", "kind": "section", "law_id": "CNT", "location_id": "340", "path": "ARTICLE 6-B › SECTION 340", "repealed": false, "repealed_date": null, "source": "nys-laws:CNT/340.md", "title": "Definitions"} -->
+﻿<!-- nyslaw {"citation": "County Law § 340", "kind": "section", "law_id": "CNT", "location_id": "340", "path": "ARTICLE 6-B › SECTION 340", "repealed": true, "repealed_date": "2022-03-04", "source": "nys-laws:CNT/340.md", "title": "Definitions"} -->
 # County Law § 340 — Definitions
 
 [County Law](../README.md) › [Article 6-B — 9-8-8 Suicide Prevention and Mental Health Crisis Act](README.md)
+
+**Repealed** (4 Mar 2022). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 340. Definitions. As used in this article, unless the context

@@ -101,5 +101,5 @@ vehicle driver, peer-to-peer car sharing program or any insurer of the
 shared vehicle owner, shared vehicle driver, or peer-to-peer car sharing
 program receiving such notice shall provide such notice to all
 appropriate parties.
-  * NB Effective March 22, 2022
+  * NB Effective June 20, 2022
 ```

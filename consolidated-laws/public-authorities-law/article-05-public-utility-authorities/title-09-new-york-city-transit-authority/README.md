@@ -16,6 +16,7 @@
 - [§ 1204-C Receipt of line of duty pay](1204c-receipt-of-line-of-duty-pay.md)
 - [§ 1204-D Special powers of the authority](1204d-special-powers-of-the-authority.md)
 - [§ 1204-E New York city transit authority advisory council](1204e-new-york-city-transit-authority-advisory-council.md)
+- [§ 1204-F Subway track safety](1204f-subway-track-safety.md)
 - [§ 1205 Rates of fare and levels of service](1205-rates-of-fare-and-levels-of-service.md)
 - [§ 1205-A Surrender of power plants](1205a-surrender-of-power-plants.md)
 - [§ 1206 Omnibus operations](1206-omnibus-operations.md)
@@ -71,6 +72,7 @@ Section 1200.     Definitions.
         1204-c.   Receipt of line of duty pay.
         1204-d.   Special powers of the authority.
         1204-e.   New York city transit authority advisory council.
+        1204-f.   Subway track safety.
         1205.     Rates of fare and levels of service.
         1205-a.   Surrender of power plants.
         1206.     Omnibus operations.

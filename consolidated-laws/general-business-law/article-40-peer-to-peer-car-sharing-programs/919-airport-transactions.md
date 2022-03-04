@@ -18,5 +18,5 @@ facilities;
 passengers on or off airport property; or
   4. promote or market a shared vehicle to transport airport passengers
 on or off airport property.
-  * NB Effective March 22, 2022
+  * NB Effective June 20, 2022
 ```

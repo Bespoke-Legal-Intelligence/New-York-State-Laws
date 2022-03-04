@@ -448,19 +448,51 @@ unreasonably withhold recognition of an organization seeking to be
 recognized under this paragraph.
   (ii) Where a proposed midwifery birth center demonstrates the intent
 and capability to obtain and maintain accreditation by an accrediting
-organization, it shall be deemed to meet the requirements of this
-article for a midwifery birth center for approval of a certificate of
-incorporation, articles of organization and establishment, contingent on
-obtaining and maintaining that accreditation.
-  (iii) Regulations and requirements of the commissioner for approval of
-a certificate of incorporation, articles of organization, establishment,
-and operation of a midwifery birth center established or seeking to be
-established under this article, including a determination of public need
-and compliance with operational and physical plant standards, shall not
-be inconsistent with article one hundred forty of the education law and
-the standards of the accrediting organization from which the midwifery
-birth center proposes to seek, seeks or has obtained accreditation.
+organization, and fully completes and files an application with the
+public health and health planning council on forms provided by the
+department, it shall be deemed upon approval of the public health and
+health planning council to meet the requirements of this article for a
+midwifery birth center for approval of a certificate of incorporation,
+articles of organization and establishment, contingent on obtaining and
+maintaining that accreditation. Notwithstanding any other provision of
+this article to the contrary, such application to the public health and
+health planning council shall include information to: (A) satisfy the
+character and competence criteria found in subdivision three of section
+twenty-eight hundred one-a of this article; (B) demonstrate that the
+legal structure of the proposed operator of the midwifery birth center
+complies with the requirements for establishment of hospitals under
+section twenty-eight hundred one-a of this article; (C) evidence the
+capability to fund any acquisition, renovations, and construction costs;
+and (D) demonstrate that the premises and equipment comply with required
+life safety and building standards necessary to protect the life, safety
+and welfare of patients and staff. Upon receipt of a completed
+application, the department shall schedule such application for
+consideration at the next available and appropriate committee meeting by
+the public health and health planning council. If the department
+receives an incomplete application, the department shall communicate
+with the applicant until such time as the application is completed and
+filed with the public health and health planning council for its
+approval or disapproval, or the applicant withdraws the application.
+  (iii) Regulations and requirements of the commissioner under paragraph
+(a) of this subdivision for approval of a certificate of incorporation,
+articles of organization, establishment, and operation of a midwifery
+birth center established or seeking to be established under this
+article, including a determination of public need and compliance with
+operational and physical plant standards, shall not be inconsistent
+with: (A) article one hundred forty of the education law; (B) the
+standards of the accrediting organization from which the midwifery birth
+center proposes to seek, seeks or has obtained accreditation; (C) life
+safety code or other building standards the commissioner deems necessary
+to protect the life, safety and welfare of patients and staff; and (D)
+subparagraph (ii) of this paragraph. Regulations, requirements and
+guidance under this subparagraph shall be made by the commissioner after
+consultation with representatives of midwives, midwifery birth centers,
+and general hospitals providing obstetric services. To the extent any of
+the standards in this subparagraph conflict, the commissioner shall
+accommodate or modify the application of any standard to harmonize and
+maximize the intent of the standards.
   * NB There are 2 sb 11's
+  * NB Effective June 29, 2022
   * 11. Notwithstanding any provision of this article, or any rule or
 regulation under this article to the contrary, the commissioner shall
 allow outpatient clinics of general hospitals and diagnostic and
@@ -498,10 +530,12 @@ each authorized family member or guardian; and
   (B) that includes a method to provide all residents with daily access,
 at no cost, to remote videoconference or equivalent communication
 methods with family members and guardians; and
-  (C) that includes a method to provide all residents with access, at no
-cost, to state long-term care ombudsman program staff and volunteers,
-and that provides state long-term care ombudsman program staff and
-volunteers with access to the facility; and
+  * (C) that includes a method, consistent with any guidance and
+regulations issued by the commissioner, to provide all residents with
+access, at no cost, to state long-term care ombudsman program staff and
+volunteers, and that provides state long-term care ombudsman program
+staff and volunteers with access to the facility; and
+  * NB Effective March 22, 2022
   (ii) protection plans against infection for staff, residents and
 families, including:
   (A) a plan for hospitalized residents to be readmitted to such
@@ -541,27 +575,24 @@ website maintained by the United States department of health and human
 services, if applicable.
   * NB There are 2 sb 13's
   * 13. (a) The commissioner, in consultation with the state long-term
-care ombudsman, shall promulgate rules and regulations establishing
-policies and procedures for: (i) reporting to the department, by staff
-and volunteers of the long-term care ombudsman program, issues
-identified or witnessed by such staff and volunteers that relate to
-actions, inactions or decisions that may adversely effect the health,
-safety and welfare of residents at residential health care facilities
-licensed or certified by the department in this state. Such policies and
-procedures shall include, but not be limited to, establishing a
-telephone hotline and reporting form on the department's website for use
-by long-term care ombudsman program staff and volunteers for the
-submission of reports;
+care ombudsman, shall establish policies and procedures for: (i)
+reporting to the department, by staff and volunteers of the long-term
+care ombudsman program, issues identified or witnessed by such staff and
+volunteers that relate to actions, inactions or decisions that may
+adversely affect the health, safety and welfare of residents at
+residential health care facilities licensed or certified by the
+department in this state. Such policies and procedures shall include,
+but not be limited to, establishing a telephone hotline number and
+reporting form on the department's website for use by long-term care
+ombudsman program staff and volunteers for the submission of reports;
   (ii) timely and regular communications by the department to the state
-long-term care ombudsman and long-term care ombudsman program staff and
-volunteers regarding such issues reported by such staff and volunteers
-pursuant to subparagraph (i) of this paragraph and the resolution of
-such issues; and
-  (iii) requiring the department to notify ombudsman program staff and
-volunteers at the facility where such staff and volunteers are assigned
-of the time when the department will conduct inspections of such
-facility, including surveillance of such facility, and of any complaints
-received by the department concerning such facility.
+long-term care ombudsman regarding such issues reported by staff and
+volunteers pursuant to subparagraph (i) of this paragraph and the
+resolution of such issues; and
+  (iii) requiring the department to notify the local ombudsman entity as
+defined in paragraph (c) of subdivision one of section two hundred
+eighteen of the elder law after the department conducts a
+recertification survey of a facility.
   (b) Nothing in this subdivision shall be construed to limit in any way
 a resident's right to privacy and confidentiality pursuant to the
 regulations of the long-term care ombudsman program or the right to

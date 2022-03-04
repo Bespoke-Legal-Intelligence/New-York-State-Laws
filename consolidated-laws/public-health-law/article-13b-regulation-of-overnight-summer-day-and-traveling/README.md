@@ -33,7 +33,7 @@ Section  1391.   Declaration of public policy.
          1394-b. Requirement to check sex offender registry.
          1394-c. Camps for children with developmental disabilities.
          1395.   Violations; temporary restraining order.
-         1396.   Pesticide alternatives.
+         1396.   Pesticide applications.
          1397.   Separability.
 ```
 

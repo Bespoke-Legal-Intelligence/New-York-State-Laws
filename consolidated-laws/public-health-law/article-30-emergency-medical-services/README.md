@@ -15,7 +15,7 @@
 - [§ 3002-A State emergency medical advisory committee](3002a-state-emergency-medical-advisory-committee.md)
 - [§ 3003 Regional emergency medical services councils](3003-regional-emergency-medical-services-councils.md)
 - [§ 3003-A EMS program agencies](3003a-ems-program-agencies.md)
-- [§ 3003-B Availability of air transport ambulance service providers to store and distribute blood and initiate and administer blood transfusions](3003b-availability-of-air-transport-ambulance-service-providers-to-store.md)
+- [§ 3003-B Availability of ambulance service that provides transportation by aircraft to store and distribute blood and initiate and administer bloo...](3003b-availability-of-ambulance-service-that-provides-transportation-by-aircraft.md)
 - [§ 3004-A Regional emergency medical advisory committees](3004a-regional-emergency-medical-advisory-committees.md)
 - [§ 3005 Ambulance service certificates](3005-ambulance-service-certificates.md)
 - [§ 3005-A Staffing standards; ambulance services and advanced life support first response services](3005a-staffing-standards-ambulance-services-and-advanced-life-support-first-response.md)
@@ -55,9 +55,9 @@ Section 3000.   Declaration of policy and statement of purpose.
         3002-a. State emergency medical advisory committee.
         3003.   Regional emergency medical services councils.
         3003-a. EMS program agencies.
-        3003-b. Availability of air transport ambulance service
-                  providers to store and distribute blood and initiate
-                  and administer blood transfusions.
+        3003-b. Availability of ambulance service that provides
+                  transportation by aircraft to store and distribute
+                  blood and initiate and administer blood transfusions.
         3004-a. Regional emergency medical advisory committees.
         3005.   Ambulance service certificates.
         3005-a. Staffing standards; ambulance services and advanced life

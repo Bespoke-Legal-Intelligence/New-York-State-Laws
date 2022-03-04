@@ -12,13 +12,13 @@ confined in its operation to the clause, sentence, paragraph,
 subdivision, section or part thereof directly involved in the
 controversy in which the judgment shall have been rendered.
   * NB Effective until June 20, 2022
-  * § 1396. Pesticide alternatives. 1. For purposes of this section
+  * § 1396. Pesticide applications. 1. For purposes of this section
 "pesticide" shall have the same meaning as set forth in subdivision
 thirty-five of section 33-0101 of the environmental conservation law,
-provided however that it shall not include:
-  (a) the application of anti-microbial pesticides and anti-microbial
-products as defined by FIFRA in 7 U.S.C. Section 136 (mm) and 136 q (h)
-(2);
+provided however that the following pesticide application shall be
+exempt:
+  (a) the application of anti-microbial pesticides as defined by FIFRA
+in 7 U.S.C. Section 136 (mm) and 136 q (h) (2);
   (b) the use of an aerosol product with a directed spray, in containers
 of eighteen fluid ounces or less, when used to protect individuals from
 an imminent threat from stinging and biting insects, including venomous
@@ -31,36 +31,20 @@ Environmental Protection Agency as an exempt material under 40 CFR Part
   (e) the use of boric acid and disodium octaborate tetrahydrate; or
   (f) the use of horticultural soap and oils that do not contain
 synthetic pesticides or synergists.
-  2. No camp defined in subdivisions one and two of section thirteen
-hundred ninety-two of this article, or children's non-regulated camp
-defined in section three hundred ninety-eight-f of the general business
-law, shall apply pesticide to any playgrounds, athletic or playing
-fields, other than those on publicly-owned or publicly-leased property
-in a city of more than one million, except that: (a) an emergency
-application of a pesticide may be made by a camp defined in subdivisions
-one and two of section thirteen hundred ninety-two of this article as
-determined by the county health department or for a county served by a
-district office of the department of health, such authority as the
-county legislature shall designate, the commissioner or his or her
-designee; and (b) an emergency application of a pesticide may be made by
-a children's non-regulated camp defined in section three hundred
-ninety-eight-f of the general business law as determined by the
-commissioner or his or her designee. If a response to a request for an
-emergency application of pesticide is not received by a camp within
-twenty-four hours, such camp may contract with a pesticide applicator
-certified under section 33-0905 of the environmental conservation law
-for a single application of pesticide, provided that the camp submit
-documentation of the emergency pesticide application to the county
-health department or the commissioner immediately thereafter. Such
-documentation shall include an explanation of the emergency, the date on
-which the camp requested approval for an emergency application of
-pesticide, the date and time the pesticide was applied, the pesticide or
-pesticides applied, and the name of the certified pesticide applicator
-who applied the pesticide.
-  3. The commissioner shall have the power to exempt from this section
-any camp defined in subdivisions one and two of section thirteen hundred
-ninety-two of this article to the extent that it is not practicable to
-use pesticide alternatives as defined in subdivision one of this
-section.
+  2. No person shall apply pesticide to any playground, turf or athletic
+or playing field at any camp as defined pursuant to subdivisions one and
+two of section thirteen hundred ninety-two of this article, or
+children's non-regulated camp as defined pursuant to section three
+hundred ninety-eight-f of the general business law, other than those on
+publicly-owned or publicly-leased property in a city of more than one
+million, except that: (a) an emergency application of a pesticide may be
+made by a camp defined in subdivisions one and two of section thirteen
+hundred ninety-two of this article as determined by the county health
+department or for a county served by a district office of the department
+of health, such authority as the county legislature shall designate, the
+commissioner or his or her designee; and (b) an emergency application of
+a pesticide may be made by a children's non-regulated camp defined in
+section three hundred ninety-eight-f of the general business law as
+determined by the commissioner or his or her designee.
   * NB Effective June 20, 2022
 ```

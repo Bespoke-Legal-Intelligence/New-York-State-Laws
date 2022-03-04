@@ -143,7 +143,6 @@
 - [§ 399-EE Zone pricing of gasoline prohibited](399ee-zone-pricing-of-gasoline-prohibited.md)
 - [§ 399-F Laundromat refund procedures](399f-laundromat-refund-procedures.md)
 - [§ 399-FF Petting zoos](399ff-petting-zoos.md)
-- [§ 399-G Labeling of solder](399g-labeling-of-solder.md)
 - [§ 399-GG Packaging of electronic liquid](399gg-packaging-of-electronic-liquid.md)
 - [§ 399-H Disposal of records containing personal identifying information](399h-disposal-of-records-containing-personal-identifying-information.md)
 - [§ 399-HH Sale of whipped cream chargers](399hh-sale-of-whipped-cream-chargers.md)

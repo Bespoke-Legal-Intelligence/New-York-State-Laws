@@ -84,10 +84,11 @@ include young children, and to eliminate the minimum income threshold;
   (c) investigate the effects that each of the proposals listed in
 paragraph (b) of this subdivision may have if enacted by itself, as well
 as the effect the proposals may have if enacted in conjunction with the
-other proposals. The advisory council shall include the cost to the
-state related to the implementation of such policies, as well as the
-projected savings in both the short and long term that the state could
-realize by reducing poverty.
+other proposals, including related changes to federal policies. The
+advisory council shall include the cost to the state related to the
+implementation of such policies, as well as the projected savings in
+both the short and long term that the state could realize by reducing
+poverty.
   (d) review agency programs that can be modified, suspended, or
 otherwise changed to immediately reduce the child poverty rate.
   (e) deliver to the governor, the speaker of the assembly and the
@@ -96,8 +97,8 @@ required pursuant to paragraph (a) of this subdivision, the review of
 the policy proposals required pursuant to paragraph (b) of this
 subdivision, the investigation of the effects of such policies pursuant
 to paragraph (c) of this subdivision and the review of agency programs
-required pursuant to paragraph (d) of this subdivision on or before six
-months from the effective date of this section.
+required pursuant to paragraph (d) of this subdivision on or before
+eighteen months from the effective date of this section.
   (f) develop recommendations for additional policies and procedures to
 reduce the state's child poverty rate by fifty percent in ten years from
 the effective date of this section. In developing such policies and
@@ -124,9 +125,9 @@ programs and the long-term savings from having such programs in place.
   (g) deliver to the governor, the speaker of the assembly and the
 temporary president of the senate the recommendations of the advisory
 council as required pursuant to paragraph (f) of this subdivision on or
-before one year after the effective date of this section.
-  (h) release bi-annual reports starting June first, two thousand
-twenty-two, detailing the progress that the state has made in reducing
+before two years after the effective date of this section.
+  (h) release annual reports starting September first, two thousand
+twenty-three, detailing the progress that the state has made in reducing
 the child poverty rate in line with the recommendations set forth in
 this subdivision.
   (i) collaborate with experts in the field of poverty research, utilize
@@ -180,5 +181,5 @@ communication or electronic communication, the public notice for such
 meeting shall inform the public that such equipment will be used, and
 further identify the means by which the public may listen to such
 meeting.
-  * NB Repealed December 1, 2031
+  * NB Repealed December 1, 2032
 ```

@@ -4,7 +4,7 @@
 [Election Law](../../README.md) › [Article 9 — Canvass of Results](../README.md) › [Title 2 — Canvass By Board of Elections](README.md)
 
 ```text
-  § 9-209. Canvass of absentee, military and special ballots, and
+  * § 9-209. Canvass of absentee, military and special ballots, and
 ballots cast in affidavit envelopes. Before completing the canvass of
 votes cast in any primary, general, special, or other election at which
 voters are required to sign their registration poll records before
@@ -384,4 +384,5 @@ ensure an efficient and fair review process that respects the privacy of
 the voter, (b) ensure the security of the central count scanners used
 before election day, and (c) ensure that ballots cast as provided in
 this section are canvassed and counted as if cast on election day.
+  * NB Effective April 1, 2022
 ```

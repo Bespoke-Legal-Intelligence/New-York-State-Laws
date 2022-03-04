@@ -288,21 +288,33 @@ lessee of such motor vehicle has certified in the writing described in
 clause (i) of subparagraph (C) of paragraph two of subsection (h) of
 section 7701 of the internal revenue code of 1986, under penalty of
 perjury, that the lessee intends that more than fifty percent of the use
-of such vehicle is to be in a trade or business of the lessee, the
-lessor shall: (i) pay tax on the receipts from the sale of or
-consideration given or contracted to be given for the purchase, as
-measured by subdivision (b) of section eleven hundred ten of this part,
-of such vehicle for lease; or (ii) collect and pay tax as measured by
-all receipts due or consideration given or contracted to be given under
-such lease for the first thirty-two months, or the period of the initial
-term if greater, of such lease shall be deemed to have been paid or
-given.
-  (2) If a lessor collects and pays tax as measured under clause (ii) of
-subparagraph one of this paragraph, for each such option to renew, or
-similar provision, or combination of them, exercised after the first
-thirty-two months, or the period of such initial term, if longer, of any
-such lease, tax due under this article shall be collected and paid or
-paid over without regard to this subdivision.
+of such vehicle is to be in a trade or business of the lessee, all
+receipts due or consideration given or contracted to be given under such
+lease for the first thirty-two months, or the period of the initial term
+if greater, of such lease shall be deemed to have been paid or given and
+shall be subject to tax in accordance with the provisions of this
+subdivision.
+  For each such option to renew, or similar provision, or combination of
+them, exercised after the first thirty-two months, or the period of such
+initial term, if longer, of any such lease, tax due under this article
+shall be collected and paid or paid over without regard to this
+subdivision.
+  (2) If at the termination of a lease described in subparagraph one of
+this paragraph the lessor refunds a portion of the receipt or
+consideration to the lessee as required by a terminal rental adjustment
+clause of such lease, either: (i) the lessee may claim a refund or
+credit for the sales tax it paid on such refunded receipt or
+consideration; or (ii) the lessor may claim a refund or credit of the
+sales tax paid by the lessee on such refunded receipt or consideration
+if it has demonstrated to the satisfaction of the commissioner that it
+first refunded such tax to the lessee. Notwithstanding the provisions of
+subdivision (c) of section eleven hundred thirty-nine of this article,
+such claim for refund or credit shall be considered timely if it is made
+within three years after the tax was paid by the lessor to the
+commissioner or one year after such receipt or consideration was
+refunded to the lessee, whichever is later; provided, however, that no
+interest shall be paid on a refund or credit made pursuant to this
+subparagraph.
   (C) Any receipts due or consideration given or contracted to be given
 under an option to renew a lease of a motor vehicle described in this
 subdivision or similar contractual provision, or combination of them,

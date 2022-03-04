@@ -55,6 +55,8 @@ Section 2998.   Patient safety center.
         2998-c. Best practices.
         2998-d. Voluntary and collaborative reporting system.
         2998-e. Reporting of adverse events in office based surgery.
+        2998-f. Reporting of the health risk factors of excessive
+                  alcohol consumption.
         2999.   Contracting with private entities.
         2999-a. Public access.
                                  TITLE 3

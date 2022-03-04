@@ -83,17 +83,17 @@ social services officials in making determinations of eligibility for
 mandated preventive services pursuant to clause (ii) of this paragraph.
   * NB Effective June 30, 2022
 (iii) the child is under the age of twelve, the child does not fall
-under the definition of a juvenile delinquent pursuant to paragraph (ii)
-of subdivision one of section 301.2 of the family court act and but for
-their age, their behavior would bring them within the jurisdiction of
-the family court pursuant to article three of the family court act, and
-the social services official determines that the child is at risk of
-placement into foster care. Such finding shall be entered in the child's
-uniform case record established and maintained pursuant to section four
-hundred nine-f of this article. The commissioner shall promulgate
-regulations to assist social services officials in making determinations
-of eligibility for mandated preventive services pursuant to this
-subparagraph.
+under the definition of a juvenile delinquent pursuant to subparagraph
+(iii) of paragraph (a) of subdivision one of section 301.2 of the family
+court act and but for their age, their behavior would bring them within
+the jurisdiction of the family court pursuant to article three of the
+family court act, and the social services official determines that the
+child is at risk of placement into foster care. Such finding shall be
+entered in the child's uniform case record established and maintained
+pursuant to section four hundred nine-f of this article. The
+commissioner shall promulgate regulations to assist social services
+officials in making determinations of eligibility for mandated
+preventive services pursuant to this subparagraph.
   ** NB Effective December 29, 2022
   (b) When a child and his family have received preventive services for
 a period of six months pursuant to this subdivision, the social services

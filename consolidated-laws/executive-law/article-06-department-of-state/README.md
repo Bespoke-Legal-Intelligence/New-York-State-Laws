@@ -44,6 +44,7 @@
 - [§ 135 Powers and duties; in general; of notaries public who are attorneys at law](135-powers-and-duties-in-general-of-notaries-public-who-are-attorneys-at-law.md)
 - [§ 135-A Notary public or commissioner of deeds; acting without appointment; fraud in office](135a-notary-public-or-commissioner-of-deeds-acting-without-appointment-fraud.md)
 - [§ 135-B Advertising by notaries public](135b-advertising-by-notaries-public.md)
+- [§ 135-C Remote ink notarization](135c-remote-ink-notarization.md)
 - [§ 136 Notarial fees](136-notarial-fees.md)
 - [§ 137 Statement as to authority of notaries public](137-statement-as-to-authority-of-notaries-public.md)
 - [§ 137-A Electronic notarization](137a-electronic-notarization.md)
@@ -109,9 +110,9 @@ Section 90.    Department of state; secretary of state.
         135-a. Notary public or commissioner of deeds; acting without
                  appointment; fraud in office.
         135-b. Advertising by notaries public.
+        135-c. Electronic notarization.
         136.   Notarial fees.
         137.   Statement as to authority of notaries public.
-        137-a. Electronic notarization.
         138.   Powers of notaries public or other officers who are
                  stockholders, directors, officers or employees of a
                  corporation.

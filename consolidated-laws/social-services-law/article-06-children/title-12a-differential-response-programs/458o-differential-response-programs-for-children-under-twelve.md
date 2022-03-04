@@ -5,26 +5,26 @@
 
 ```text
   * § 458-o. Differential response programs for children under twelve.
-1.  Each local social services district, upon the approval of the office
+1. Each local social services district, upon the approval of the office
 of children and family services, shall establish a program that
 implements differential responses to provide services to children under
 twelve years of age, who do not fall under the definition of juvenile
-delinquent pursuant to paragraph (ii) of subdivision one of section
-301.2 of the family court act and whose behavior, but for their age,
-would bring them within the jurisdiction of the family court pursuant to
-article three of the family court act. Such programs shall establish and
-utilize appropriate assessments and services for youth, in order to help
-reduce future interaction with the juvenile justice and/or child welfare
-systems. Such assessments shall be used to determine what, if any,
-services are needed, and such services shall utilize the least
-restrictive intervention protocols available. Notwithstanding any other
-provision of law to the contrary, the provisions of this section shall
-apply only to those cases involving children under twelve years of age,
-who do not fall under the definition of juvenile delinquent pursuant to
-paragraph (ii) of subdivision one of section 301.2 of the family court
-act and whose behavior, but for their age, would bring them within the
-jurisdiction of the family court pursuant to article three of the family
-court act.
+delinquent pursuant to subparagraph (iii) of paragraph (a) of
+subdivision one of section 301.2 of the family court act and whose
+behavior, but for their age, would bring them within the jurisdiction of
+the family court pursuant to article three of the family court act. Such
+programs shall establish and utilize appropriate assessments and
+services for youth, in order to help reduce future interaction with the
+juvenile justice and/or child welfare systems. Such assessments shall be
+used to determine what, if any, services are needed, and such services
+shall utilize the least restrictive intervention protocols available.
+Notwithstanding any other provision of law to the contrary, the
+provisions of this section shall apply only to those cases involving
+children under twelve years of age, who do not fall under the definition
+of juvenile delinquent pursuant to subparagraph (iii) of paragraph (a)
+of subdivision one of section 301.2 of the family court act and whose
+behavior, but for their age, would bring them within the jurisdiction of
+the family court pursuant to article three of the family court act.
   2. To establish a differential response program, each local social
 services district, as part of their district-wide child welfare services
 plan, as defined in section four hundred nine-d of this article, shall

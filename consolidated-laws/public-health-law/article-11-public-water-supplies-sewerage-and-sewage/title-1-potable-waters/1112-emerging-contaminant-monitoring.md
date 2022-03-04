@@ -58,20 +58,14 @@ hazardous waste sites; and
 established pursuant to section eleven hundred thirteen of this title.
   c. The commissioner shall, at a minimum, include the following
 chemicals identified as emerging contaminants in the first list of
-emerging contaminants: 1,2,3-trichloropropane; chloromethane (methyl
-chloride); 1,1-dichloroethane; bromomethane (methyl bromide);
-chlorodifluoromethene (HCFC-22); vanadium; molybdenum; cobalt;
-strontium; chromium-6; chlorate; perfluorononanoic acid (PFNA);
+emerging contaminants: perfluorononanoic acid (PFNA);
 perfluorohexanesulfonic acid (PFHxS); perfluoroheptanoic acid (PFHpA);
 perfluorobutanesulfonic acid (PFBS); hexafluoropropylene oxide dimer
-acid (HFPO-DA); N-ethyl perfluorooctanesulfonamidoacetic acid
-(NEtFOSAA); N-methyl perfluorooctanesulfonamidoacetic acid (NMeFOSAA);
-Perfluorodecanoic acid (PFDA); Perfluorododecanoic acid (PFDoA);
-Perfluorohexanoic acid (PFHxA); Perfluorotetradecanoic acid (PFTA);
-Perfluorotridecanoic acid (PFTrDA); Perfluoroundecanoic acid (PFUnA);
-11-chloroeicosafluoro-3-oxaundecane-1-sulfonic acid (11Cl-PF3OUdS);
-9-chlorohexadecafluoro-3-oxanonane-1-sulfonic acid (9Cl-PF3ONS);
-4,8-dioxa-3H-perfluorononanoic acid (ADONA);
+acid (HFPO-DA); Perfluorodecanoic acid (PFDA); Perfluorododecanoic acid
+(PFDoA); Perfluorohexanoic acid (PFHxA); Perfluoroundecanoic acid
+(PFUnA); 11-chloroeicosafluoro-3-oxaundecane-1-sulfonic acid
+(11Cl-PF3OUdS); 9-chlorohexadecafluoro-3-oxanonane-1-sulfonic acid
+(9Cl-PF3ONS); 4,8-dioxa-3H-perfluorononanoic acid (ADONA);
 Nonafluoro-3,6-dioxaheptanoic acid (NFDHA); Perfluorobutanoic acid
 (PFBA); 1H, 1H, 2H, 2HPerfluorodecane sulfonic acid (8:2FTS);
 Perfluoro(2-ethoxyethane)sulfonic acid (PFEESA);
@@ -79,9 +73,23 @@ Perfluoroheptanesulfonic acid (PFHpS); 1H,1H, 2H, 2H-Perfluorohexane
 sulfonic acid (4:2FTS); Perfluoro-3-methoxypropanoic acid (PFMPA);
 Perfluoro-4-methoxybutanoic acid (PFMBA); 1H,1H, 2H, 2H-Perfluorooctane
 sulfonic acid (6:2FTS); Perfluoropentanoic acid (PFPeA);
-Perfluoropentanesulfonic acid (PFPeS); testosterone; and 4-androstene-3,
+Perfluoropentanesulfonic acid (PFPeS).
+  d. The commissioner shall make regulations to list the following
+additional substances as emerging contaminants; provided however the
+commissioner may, upon review and recommendation by the drinking water
+quality council pursuant to section eleven hundred thirteen of this
+title determine not to include such chemicals as emerging contaminants
+by January first, two thousand twenty-four: 1,2,3-trichloropropane;
+chloromethane (methylchloride); 1,1-dichloroethane; bromomethane (methyl
+bromide); chlorodifluoromethene (HCFC-22); vanadium; molybdenum; cobalt;
+strontium; chromium-6; N-ethyl perfluorooctanesulfonamidoacetic acid
+(NEtFOSAA); N-methyl perfluorooctanesulfonamidoacetic acid (NMeFOSAA);
+Perfluorotetradecanoic acid (PFTA); Perfluorotridecanoic acid (PFTrDA).
+Provided, however, the commissioner may, upon review and recommendation
+by the drinking water quality council, determine not to include such
+chemicals as emerging contaminants: testosterone; and 4-androstene-3,
 17-dione.
-  d. The commissioner shall by regulation remove any substance from the
+  e. The commissioner shall by regulation remove any substance from the
 list of emerging contaminants upon adopting a maximum contaminant level
 for such substance.
   4. Every covered public water system shall test drinking water for the
@@ -200,10 +208,10 @@ been identified as emerging contaminants pursuant to this section and
 determine if the department should establish a maximum contaminant level
 for the substance. Such review shall occur, at a minimum, once every
 three years.
-  13. The commissioner shall publish draft regulations containing the
-first list of emerging contaminants within ninety days of the effective
-date of this subdivision and shall make regulations implementing this
-subdivision within ninety days thereafter.
+  13. The commissioner shall make draft regulations containing the first
+list of emerging contaminants within one hundred eighty days of the
+effective date of this subdivision and shall make regulations
+implementing this subdivision within ninety days thereafter.
   14. The commissioner shall make regulations updating the list of
 emerging contaminants and their associated notification levels to
 reflect the latest available scientific information at least once every

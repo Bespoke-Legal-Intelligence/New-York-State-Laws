@@ -78,7 +78,17 @@ diagnostically equivalent to or better than the urine polymerase chain
 reaction test, the commissioner may, by regulation under this section,
 allow or require the use of that other test.
   (i) Adrenoleukodystrophy.
-  (j) Glucose-6-phosphate dehydrogenase deficiency.
+  (j) Glucose-6-phosphate dehydrogenase deficiency using a quantitative
+enzymatic test or other diagnostic test in cases where: the newborn
+infant presents with hemolytic anemia, hemolytic jaundice, or
+early-onset increasing neonatal jaundice, that is, jaundice (bilirubin
+level greater than fortieth percentile for age in hours) persisting
+beyond the day of birth through the week after birth; the newborn infant
+has been admitted to the hospital for jaundice following birth; or the
+biological parent of the newborn infant indicates a family, racial, or
+ethnic risk of glucose-6-phosphate dehydrogenase deficiency, including
+having significant African, Asian, Mediterranean, or Middle Eastern
+ancestry.
   2. Testing, the recording of the results of such tests, tracking,
 follow-up reviews and educational activities shall be performed at such
 times and in such manner as may be prescribed by the commissioner. The

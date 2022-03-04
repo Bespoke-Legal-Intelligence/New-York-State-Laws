@@ -141,9 +141,11 @@ the facility's staff.
   5. Each facility shall prepare a written plan and provide appropriate
 staff training to implement each patient's right included in the
 statement.
-  6. The department shall translate and make available to all facilities
-the statement in the six most common non-English languages spoken by
-individuals with limited-English proficiency in New York state as based
-on the most recent census. Each facility shall post and make available
-copies of said statement for residents.
+  * 6. The department shall translate and make available to all
+facilities the statement in the ten most common non-English languages
+spoken by individuals with limited-English proficiency in New York state
+as based on the most recent United States census. Each facility shall
+post and make available copies of said statement for residents under
+subdivisions one, two, and four of this section.
+  * NB Effective April 20, 2022
 ```

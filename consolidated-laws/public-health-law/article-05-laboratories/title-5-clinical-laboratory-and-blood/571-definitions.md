@@ -16,9 +16,14 @@ presence or absence of various substances, components or organisms in
 the human body. The term clinical laboratory shall not include any
 facility or activity specifically excluded by section five hundred
 seventy-nine of this title.
-  2. "Blood bank" means a facility for the collection, processing,
+  * 2. "Blood bank" means a facility for the collection, processing,
 storage and/or distribution of human blood, blood components or blood
 derivatives.
+  * NB Effective until June 19, 2022
+  * 2. "Blood bank" means a facility for the collection, processing,
+storage and/or distribution of human blood, blood components or blood
+derivatives, but shall not mean a source plasma donation center.
+  * NB Effective June 19, 2022
   * 2-a. "Source plasma donation center" means a facility where source
 plasma is collected by plasmapheresis. "Source plasma" means the fluid
 portion of human blood collected by plasmapheresis and intended as
@@ -26,7 +31,7 @@ source material for plasma protein therapies. "Source plasma donation
 center" shall not include single donor plasma products intended for
 intravenous use.
   * NB Effective June 19, 2022
-  * 2-b. "Plasmapheresis" means a procedure in which, during a single
+  * 2-b. "Plasmapheresis" means a procedure by which, during a single
 visit to the facility, blood is removed from an individual, the source
 plasma separated from the formed elements, and at least the red blood
 cells are returned to the donor.

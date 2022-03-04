@@ -131,12 +131,11 @@ engages or is considering engaging to provide home care services.
 to implement this subdivision and to maintain a record of accessing or
 obtaining information from the registry by every home care services
 entity.
-  7-a. The department in consultation with the department of education
-shall maintain a schedule setting forth when training programs offer
-competency exams to qualified home care services workers residing
-outside this state in order to fill any shortage of home care services
-workers working in this state. Such schedule shall be made available on
-the department's website and readily accessible by the public.
+  * 7-a. The department shall make the contact details of
+department-approved education or training programs that offer competency
+exams to home health aides available on the department's website and
+readily accessible by the public.
+  * NB Effective June 8, 2022
   8. The department shall provide reasonable and appropriate timetables,
 notices and phase-in mechanisms for applying various provisions of this
 section to state-approved education and training programs, home care

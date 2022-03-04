@@ -4,7 +4,7 @@
 [Insurance Law](../README.md) › [Article 29 — Pharmacy Benefit Managers](README.md)
 
 ```text
-  * § 2909. Stay or suspension of superintendent's determination. The
+  § 2909. Stay or suspension of superintendent's determination. The
 commencement of a proceeding under article seventy-eight of the civil
 practice law and rules, to review the action of the superintendent in
 suspending or revoking or refusing to renew any certificate under this
@@ -15,5 +15,4 @@ superintendent is notified forty-eight hours in advance, that a stay of
 the superintendent's action pending the final determination or further
 order of the court will not unduly injure the interests of the people of
 the state.
-  * NB Effective March 31, 2022
 ```

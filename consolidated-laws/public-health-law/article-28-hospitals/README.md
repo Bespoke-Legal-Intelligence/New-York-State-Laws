@@ -252,8 +252,8 @@ Section 2800.      Declaration of policy and statement of purpose.
         2805-m.    Confidentiality.
         2805-n.    Child abuse prevention.
         2805-o.    Identification of veterans and their spouses by
-                     nursing homes, residential health care facilities
-                     and assisted living residences.
+                     nursing homes, residential health care facilities,
+                     and adult care facilities.
         2805-p.    Emergency treatment of rape survivors.
         2805-q.    Hospital visitation by domestic partner.
         2805-r.    Patients unable to verbally communicate.

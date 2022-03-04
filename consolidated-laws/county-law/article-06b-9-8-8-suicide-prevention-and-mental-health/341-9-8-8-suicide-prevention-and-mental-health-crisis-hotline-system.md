@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "County Law § 341", "kind": "section", "law_id": "CNT", "location_id": "341", "path": "ARTICLE 6-B › SECTION 341", "repealed": false, "repealed_date": null, "source": "nys-laws:CNT/341.md", "title": "9-8-8 suicide prevention and mental health crisis hotline system"} -->
+﻿<!-- nyslaw {"citation": "County Law § 341", "kind": "section", "law_id": "CNT", "location_id": "341", "path": "ARTICLE 6-B › SECTION 341", "repealed": true, "repealed_date": "2022-03-04", "source": "nys-laws:CNT/341.md", "title": "9-8-8 suicide prevention and mental health crisis hotline system"} -->
 # County Law § 341 — 9-8-8 suicide prevention and mental health crisis hotline system
 
 [County Law](../README.md) › [Article 6-B — 9-8-8 Suicide Prevention and Mental Health Crisis Act](README.md)
+
+**Repealed** (4 Mar 2022). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 341. 9-8-8 suicide prevention and mental health crisis hotline

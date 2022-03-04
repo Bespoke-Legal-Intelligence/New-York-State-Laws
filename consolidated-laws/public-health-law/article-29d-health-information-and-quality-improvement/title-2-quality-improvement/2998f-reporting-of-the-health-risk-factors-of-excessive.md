@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2998-F", "kind": "section", "law_id": "PBH", "location_id": "2998-F", "path": "ARTICLE 29-D › TITLE 2 › SECTION 2998-F", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2998-F.md", "title": "Reporting of the health risk factors of excessive alcohol consumption"} -->
+# Public Health Law § 2998-F — Reporting of the health risk factors of excessive alcohol consumption
+
+[Public Health Law](../../README.md) › [Article 29-D — Health Information and Quality Improvement](../README.md) › [Title 2 — Quality Improvement](README.md)
+
+```text
+  § 2998-f. Reporting of the health risk factors of excessive alcohol
+consumption. The department, in collaboration with the office of
+addiction services and supports and health care providers, shall collect
+data on and report the health risk factor of excessive alcohol
+consumption and alcohol poisoning, including the risk factors of heavy
+and binge drinking. The report shall be submitted annually, on or before
+November first, to the governor, the temporary president of senate, the
+speaker of the assembly and the chairpersons of the assembly and senate
+health committees. The report shall include, at a minimum, the following
+information on a county basis:
+  (a) information on excessive alcohol consumption and alcohol poisoning
+deaths, including age, gender, ethnicity, and geographic location;
+  (b) data on emergency room utilization for the treatment of alcohol
+poisoning; and
+  (c) any other information necessary to ascertain areas of the state
+which are experiencing particularly high rates of excessive alcohol
+consumption and alcohol poisoning, ways to determine if services,
+resources, and responses in particular areas of the state area having a
+positive impact on reducing excessive alcohol consumption and alcohol
+poisoning. Such reporting may be through a web-based dashboard.
+```

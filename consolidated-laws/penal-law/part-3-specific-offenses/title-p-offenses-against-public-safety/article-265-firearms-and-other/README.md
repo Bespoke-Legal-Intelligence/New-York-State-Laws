@@ -43,8 +43,8 @@
 - [§ 265.55 Criminal possession of an undetectable firearm, rifle or shotgun](265.55-criminal-possession-of-an-undetectable-firearm.md)
 - [§ 265.60 Criminal sale of a ghost gun in the second degree](265.60-criminal-sale-of-a-ghost-gun-in-the-second.md)
 - [§ 265.61 Criminal sale of a ghost gun in the first degree](265.61-criminal-sale-of-a-ghost-gun-in-the-first.md)
-- [§ 265.63 Criminal sale of an unfinished frame or receiver in the second degree](265.63-criminal-sale-of-an-unfinished-frame.md)
-- [§ 265.64 Criminal sale of an unfinished frame or receiver in the first degree](265.64-criminal-sale-of-an-unfinished-frame.md)
+- [§ 265.63 Criminal sale of a frame or receiver in the second degree](265.63-criminal-sale-of-a-frame-or-receiver.md)
+- [§ 265.64 Criminal sale of a frame or receiver in the first degree](265.64-criminal-sale-of-a-frame-or-receiver.md)
 
 <details>
 <summary>Official heading of Article 265, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

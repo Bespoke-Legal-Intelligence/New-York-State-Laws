@@ -32,7 +32,7 @@
 - [§ 25 Annual reports](25-annual-reports.md)
 - [§ 26 Transfer of property and records in custody of council of agriculture and markets](26-transfer-of-property-and-records-in-custody-of-council-of-agriculture.md)
 - [§ 27 Obtaining title to real property by purchase or acquisition](27-obtaining-title-to-real-property-by-purchase-or-acquisition.md)
-- [§ 28 Task force on improving urban and rural consumer access to locally produced, healthy foods](28-task-force-on-improving-urban-and-rural-consumer-access-to-locally-produced.md)
+- [§ 28 Advisory group for improving urban and rural consumer access to locally produced, healthy foods](28-advisory-group-for-improving-urban-and-rural-consumer-access-to-locally.md)
 
 <details>
 <summary>Official heading of Article 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -73,8 +73,8 @@ Section 4.    Department of agriculture and markets.
                 agriculture and markets.
         27.   Obtaining title to real property by purchase or
                 acquisition.
-        28.   Task force on improving urban and rural consumer access to
-                locally produced, healthy foods.
+        28.   Advisory group for improving urban and rural consumer
+                access to locally produced, healthy foods.
 ```
 
 </details>

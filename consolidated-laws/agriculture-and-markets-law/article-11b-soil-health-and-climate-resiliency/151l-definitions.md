@@ -4,10 +4,10 @@
 [Agriculture and Markets Law](../README.md) › [Article 11-B — Soil Health and Climate Resiliency](README.md)
 
 ```text
-  § 151-l. Definitions. As used in this article: 1. "Soil health" means
-soils that have the continuing capacity to function as a vital, living
-ecosystem that sustains plants, animals, and humans. The benefits of
-healthy soil include: supporting the production of food, feed, fiber,
+  * § 151-l. Definitions. As used in this article: 1. "Soil health"
+means soils that have the continuing capacity to function as a vital,
+living ecosystem that sustains plants, animals, and humans. The benefits
+of healthy soil include: supporting the production of food, feed, fiber,
 and fuel; facilitating infiltration, storage and filtration of water and
 protecting water quality; enhanced nutrient-holding capacity and
 nutrient cycling; providing habitat for diverse soil organisms; enhanced
@@ -29,4 +29,5 @@ crops, integrated pest management, nutrient best management practices,
 and those practices recommended by the United States Department of
 Agriculture Natural Resources Conservation Service and that are
 supported by the state soil and water conservation committee.
+  * NB Effective June 20, 2022
 ```

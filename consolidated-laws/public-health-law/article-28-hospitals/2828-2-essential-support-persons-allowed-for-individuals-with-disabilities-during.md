@@ -22,8 +22,9 @@ response to a pandemic or state disaster emergency declared by the
 governor, prohibiting a patient who suffers from a disability from
 having access to an essential support person for the duration of their
 hospitalization from intake to discharge.
-  (b) An individual with a disability shall be allowed to designate a
-single primary essential support person to assist with medical and
+  (b) An individual with a disability or the legal guardian for the
+individual shall be allowed to designate a single primary essential
+support person to assist with communicating medical needs and managing
 everyday needs during hospitalization and such essential support person
 shall be limited to such individual's parent, spouse or caretaker.
   * NB There are 2 § 2828's

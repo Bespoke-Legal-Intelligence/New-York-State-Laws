@@ -13,5 +13,5 @@ sharing program unless otherwise authorized under section three thousand
 four hundred twenty-five of this article.
   (b) The definitions set forth in section three thousand four hundred
 fifty-eight of this article shall apply to this section.
-  * NB Effective March 22, 2022
+  * NB Effective June 20, 2022
 ```

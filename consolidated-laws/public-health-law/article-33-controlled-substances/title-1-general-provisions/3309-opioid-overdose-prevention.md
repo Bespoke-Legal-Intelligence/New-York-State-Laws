@@ -87,21 +87,19 @@ or any person employed by the person or entity, acting reasonably and in
 good faith in compliance with this section, shall not be subject to
 criminal, civil or administrative liability solely by reason of such
 action.
-  5. The commissioner shall publish findings on statewide opioid and
-alcohol overdose data that reviews overdose death rates and other
-information to ascertain changes in the cause and rates of opioid and
-alcohol overdoses, including fatal opioid and alcohol overdoses. The
-report shall be submitted annually, on or before October first, to the
-governor, the temporary president of the senate, the speaker of the
-assembly and the chairs of the senate and assembly health committees,
-and shall be made public on the department's internet website. The
-report shall include, at a minimum, the following information on a
-county basis:
-  (a) information on opioid and alcohol overdoses and opioid and alcohol
-overdose deaths, including age, gender, ethnicity, and geographic
-location;
-  (b) data on emergency room utilization for the treatment of opioid and
-alcohol overdose;
+  5. The commissioner shall publish findings on statewide opioid
+overdose data that reviews overdose death rates and other information to
+ascertain changes in the cause and rates of opioid overdoses, including
+fatal opioid overdoses. The report shall be submitted annually, on or
+before October first, to the governor, the temporary president of the
+senate, the speaker of the assembly and the chairs of the senate and
+assembly health committees, and shall be made public on the department's
+internet website. The report shall include, at a minimum, the following
+information on a county basis:
+  (a) information on opioid overdoses and opioid overdose deaths,
+including age, gender, ethnicity, and geographic location;
+  (b) data on emergency room utilization for the treatment of opioid
+overdose;
   (c) data on utilization of pre-hospital services;
   (d) data on the dispensing and utilization of opioid antagonists; and
   (e) any other information necessary to ascertain the success of the
@@ -109,12 +107,13 @@ program, areas of the state which are experiencing particularly high
 rates of overdoses, ways to determine if services, resources and
 responses in particular areas of the state are having a positive impact
 on reducing overdoses, and ways to further reduce overdoses.
-  6. The commissioner shall provide the current information and data
+  * 6. The commissioner shall provide the current information and data
 specified by each type of drug included in the report required by
-subdivision five of this section to each county every three months. Such
-information and data shall be posted on the office of addiction services
-and supports' website and may be utilized by a county or any combination
-thereof as it works to address the opioid epidemic.
+subdivision five of this section to each county every three months. The
+office of addiction services and supports website shall include a
+hyperlink to such information and data which may be utilized by a county
+or any combination thereof as it works to address the opioid epidemic.
+  * NB Repealed March 31, 2027
   * 7. With the first prescription to a particular patient of an opioid
 of each year for use in a setting other than a general hospital or
 nursing home under article twenty-eight of this chapter or facility

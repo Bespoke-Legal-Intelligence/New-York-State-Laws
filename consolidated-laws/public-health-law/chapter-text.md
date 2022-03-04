@@ -42,8 +42,10 @@ Article
                   5-A.   Empire State Stem Cell Board (§§ 265--265-f).
                    VI.   Women's Health (§§ 266-268).
                     6.   The 21st century workgroup for disease
-                            elimination and reduction (§ 266).
+                           elimination and reduction (§ 266).
                   VII.   NY State of Health (§§ 268-268-h).
+                    8.   Hunger prevention and nutrition assistance
+                           program (§ 269).
    2-A.    Prescription drugs.
            Title    I.   Preferred drug and clinical drug review
                            programs (§§ 270-277).

@@ -3,10 +3,12 @@
 
 [County Law](../README.md)
 
+**Repealed.**
+
 ## Contents
 
-- [§ 340 Definitions](340-definitions.md)
-- [§ 341 9-8-8 suicide prevention and mental health crisis hotline system](341-9-8-8-suicide-prevention-and-mental-health-crisis-hotline-system.md)
+- [§ 340 Definitions](340-definitions.md) *(repealed)*
+- [§ 341 9-8-8 suicide prevention and mental health crisis hotline system](341-9-8-8-suicide-prevention-and-mental-health-crisis-hotline-system.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 6-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

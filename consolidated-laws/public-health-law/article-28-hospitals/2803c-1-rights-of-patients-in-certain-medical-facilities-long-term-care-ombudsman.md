@@ -5,17 +5,23 @@
 
 ```text
   * § 2803-c-1. Rights of patients in certain medical facilities;
-long-term care ombudsman program. The commissioner shall require that
-every nursing home and residential health care facility providing health
-related service, as defined in subdivisions two and three and paragraph
-(b) of subdivision four of section twenty-eight hundred one of this
-article, prominently post in each resident's room, contact information
-for the state and regional offices of the long term care ombudsman
-program as provided for in section two hundred eighteen of the elder
-law, as well as contact information for the facility representative.
-Such nursing homes and residential health care facilities shall also
-provide updated contact information for the state and regional offices
-and facility representatives to all residents and their families twice a
-year.
+long-term care ombudsman program. 1. Each nursing home and residential
+health care facility providing health related service, as defined in
+subdivisions two and three and paragraph (b) of subdivision four of
+section twenty-eight hundred one of this article, shall post in a
+conspicuous place or places where notices to residents are customarily
+posted, and shall provide each member of the facility's staff, and each
+patient and their appointed personal representative at or prior to the
+time of admission to the facility, or at the time of the
+representative's appointment, the following contact information:
+  (a) contact information for the state and relevant regional office of
+the long-term care ombudsman program as provided for in section two
+hundred eighteen of the elder law; and
+  (b) contact information for the department's nursing home complaint
+hotline.
+  2. Nursing homes and residential health care facilities shall provide
+updated contact information for the state and relevant regional offices
+of the long-term care ombudsman program to all residents and their
+appointed personal representatives twice a year.
   * NB Effective April 20, 2022
 ```

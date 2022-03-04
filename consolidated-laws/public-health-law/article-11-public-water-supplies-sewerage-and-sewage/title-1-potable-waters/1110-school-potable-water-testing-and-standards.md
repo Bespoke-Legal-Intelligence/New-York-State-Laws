@@ -86,7 +86,12 @@ of the code of federal regulations as such regulations may, from time to
 time, be amended; provided, however, that the lead action level is
 exceeded if the concentration of lead is greater than 0.005 milligrams
 per liter.
-  4. Each school district and board of cooperative educational services
+  4. The commissioner may grant a waiver from the testing requirements
+of this section for certain school buildings, provided that the school
+district has substantially complied with the testing requirements and
+has been found to be below lead levels as determined by regulations
+promulgated pursuant to this section, as amended, for such buildings.
+  5. Each school district and board of cooperative educational services
 conducting testing pursuant to subdivision one of this section and each
 school district classified as a public water system under parts 141 and
 142 of title 40 of the code of federal regulations, as such regulations
@@ -104,7 +109,7 @@ section. Such report shall be sent to the commissioner, the governor,
 the temporary president of the senate, and the speaker of the assembly
 and shall be made available on the department's and state education
 department's websites.
-  5. Expenses for remediation under this section and any regulations
+  6. Expenses for remediation under this section and any regulations
 promulgated thereto shall be fully reimbursable from funds appropriated
 through the department of environmental conservation for clean water
 infrastructure projects.

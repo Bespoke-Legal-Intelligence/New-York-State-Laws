@@ -37,7 +37,7 @@ punishable by a fine of not less than fifty nor more than one hundred
 fifty dollars for a first offense and by a fine of not less than one
 hundred fifty dollars nor more than three hundred dollars for a second
 offense and each subsequent offense.
-  * NB Effective until March 22, 2022
+  * NB Effective until June 20, 2022
   * § 601. Leaving scene of injury to certain animals without reporting.
 Any person operating a motor vehicle which shall strike and injure any
 horse, dog, cat or animal classified as cattle shall stop and endeavor
@@ -77,5 +77,5 @@ section shall be punishable by a fine of not less than fifty nor more
 than one hundred fifty dollars for a first offense and by a fine of not
 less than one hundred fifty dollars nor more than three hundred dollars
 for a second offense and each subsequent offense.
-  * NB Effective March 22, 2022
+  * NB Effective June 20, 2022
 ```

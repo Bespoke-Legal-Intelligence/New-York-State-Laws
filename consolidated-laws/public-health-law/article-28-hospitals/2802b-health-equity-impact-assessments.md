@@ -8,15 +8,22 @@
 in this section:
   (a) "Application" means an application under this article for the
 construction, establishment, change in the establishment, merger,
-acquisition, closure, or substantial reduction, expansion, or addition
-of a hospital service or health-related service of a hospital that
-requires review or approval by the council or the commissioner, where
-the application is filed or submitted to the council, the commissioner
-or the department after this section takes effect.
+acquisition, elimination or substantial reduction, expansion, or
+addition of a hospital service or health-related service of a hospital
+that requires review or approval by the council or the commissioner,
+where the application is filed or submitted to the council, the
+commissioner or the department after this section takes effect.
+Provided, however, that an application for the change in the
+establishment, merger or acquisition of a hospital shall not be included
+in this definition if the application would not result in the
+elimination, or substantial reduction, expansion, addition or change in
+location of a hospital service or health related service of the
+hospital.
   (b) "Project" means the construction, establishment, change in the
-establishment, merger, acquisition, closure, or substantial reduction of
-a hospital service or health-related service of a hospital that is the
-subject of an application.
+establishment, merger, acquisition, elimination, or substantial
+reduction, expansion, or addition of a hospital service or
+health-related service of a hospital that is the subject of an
+application.
   (c) "Health equity impact assessment" or "impact assessment" means an
 assessment of whether, and if so how, a project will improve access to
 hospital services and health care, health equity and reduction of health
@@ -31,10 +38,10 @@ receive public health benefits; people who do not have third-party
 health coverage or have inadequate third-party health coverage; and
 other people who are unable to obtain health care.
   2. (a) (i) Every application shall include a health equity impact
-assessment of the project. The impact assessment shall be filed together
-with the application, and the application shall not be complete without
-the impact statement. The applicant shall promptly amend or modify the
-impact statement as necessary.
+assessment of the project. The health equity impact assessment shall be
+filed together with the application, and the application shall not be
+complete without the impact statement. The applicant shall promptly
+amend or modify the impact statement as necessary.
   (ii) However, in the case of a diagnostic and treatment center whose
 patient population is over fifty percent combined patients enrolled in
 Medicaid or uninsured, a health equity impact assessment is not required
@@ -95,7 +102,10 @@ of public health experts, organizations representing employees of the
 applicant, stakeholders, and community leaders and residents of the
 applicant's service area.
   5. The department shall publicly post the application and the health
-equity impact assessment on the department's website within one week of
-the filing with the department, including any filing with the council.
-  * NB Effective June 20, 2022
+equity impact assessment on its website within one week of the filing
+with the department, including any filing with the council. The
+applicant shall publicly post the application and the health equity
+impact assessment on its website within one week of acknowledgement by
+the department.
+  * NB Effective June 22, 2023
 ```

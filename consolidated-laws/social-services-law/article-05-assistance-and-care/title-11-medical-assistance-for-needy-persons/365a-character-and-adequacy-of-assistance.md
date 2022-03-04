@@ -511,14 +511,14 @@ Such medication assisted treatment shall not be subject to any prior
 authorization mandate.
   * NB There are 3 par (gg)'s
   * NB Effective March 22, 2022
-  * (gg) care and services provided by mental health practitioners
+  * (gg) care and services provided by mental health counselors and
+marriage and family therapists licensed pursuant to article one hundred
+sixty-three of the education law acting within their scope of practice,
+where such services would otherwise be covered under this title. Nothing
+in this paragraph shall be construed to modify or expand the scope of
+practice of a mental health counselor or marriage and family therapist
 licensed pursuant to article one hundred sixty-three of the education
-law acting within their scope of practice, where such services would
-otherwise be covered under this title. Nothing in this paragraph shall
-be construed to modify or expand the scope of practice of a mental
-health counselor, marriage and family therapist, creative arts therapist
-or psychoanalyst licensed pursuant to article one hundred sixty-three of
-the education law.
+law.
   * NB There are 3 par (gg)'s
   * NB Effective March 29, 2022
   (hh) The commissioner is authorized to establish one or more maternal

@@ -14,12 +14,13 @@
 <summary>Official heading of Article 11-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              ARTICLE 11-B
+                             * ARTICLE 11-B
                    SOIL HEALTH AND CLIMATE RESILIENCY
 Section 151-l. Definitions.
         151-m. Soil health initiative.
         151-n. Climate resilient farming initiative.
         151-o. Soil health research.
+  * NB Effective June 20, 2022
 ```
 
 </details>

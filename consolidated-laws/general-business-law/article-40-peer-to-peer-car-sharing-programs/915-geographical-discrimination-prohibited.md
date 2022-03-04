@@ -17,5 +17,5 @@ time occurs;
 shared vehicle; or
   3. imposing any additional terms, conditions or privileges upon such
 peer-to-peer car sharing of a shared vehicle.
-  * NB Effective March 22, 2022
+  * NB Effective June 20, 2022
 ```

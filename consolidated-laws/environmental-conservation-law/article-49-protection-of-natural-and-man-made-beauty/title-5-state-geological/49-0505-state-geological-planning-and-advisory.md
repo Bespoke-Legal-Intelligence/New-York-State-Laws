@@ -1,15 +1,16 @@
-﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 49-0505", "kind": "section", "law_id": "ENV", "location_id": "49-0505", "path": "ARTICLE 49 › TITLE 5 › SECTION 49-0505", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/49-0505.md", "title": "State geological planning and management board"} -->
-# Environmental Conservation Law § 49-0505 — State geological planning and management board
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 49-0505", "kind": "section", "law_id": "ENV", "location_id": "49-0505", "path": "ARTICLE 49 › TITLE 5 › SECTION 49-0505", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/49-0505.md", "title": "State geological planning and advisory council"} -->
+# Environmental Conservation Law § 49-0505 — State geological planning and advisory council
 
 [Environmental Conservation Law](../../README.md) › [Article 49 — Protection of Natural and Man-made Beauty](../README.md) › [Title 5 — State Geological Trail](README.md)
 
 ```text
-§ 49-0505. State geological planning and management board.
-  1. For the purposes of this title, "board" means the state geological
-planning and management board established pursuant to this section.
+* § 49-0505. State geological planning and advisory council.
+  1. For the purposes of this title, "advisory council" means the state
+geological planning and advisory council established pursuant to this
+section.
   2. There shall be established within the department the state
-geological planning and management board. The board shall be composed of
-ten members as follows:
+geological planning and advisory council. The advisory council shall be
+composed of ten members as follows:
   a. the commissioner, or his or her designee who is an officer or
 employee of the department;
   b. the commissioner of economic development, or his or her designee
@@ -28,14 +29,14 @@ having expertise in the field of ecology, conservation or trail
 planning; and
   g. two members appointed by the speaker of the assembly, having
 expertise in the field of ecology, conservation or trail planning.
-  3. The members of the board appointed pursuant to paragraphs e, f and
-g of subdivision two of this section shall serve terms of four years.
-Vacancies in the membership of the board shall be filled in the manner
-provided for original appointments.
+  3. The members of the advisory council appointed pursuant to
+paragraphs e, f and g of subdivision two of this section shall serve
+terms of four years. Vacancies in the membership of the advisory council
+shall be filled in the manner provided for original appointments.
   4. The commissioner, or his or her designee, shall be the chair of the
-board. The board shall meet not less than three times each calendar
-year, and more frequently at the call of the chair of the board.
-  5. The board shall establish:
+advisory council. The advisory council shall meet not less than three
+times each calendar year, and more frequently at the call of the chair.
+  5. The advisory council may establish:
   a. criteria for signage on the state geological trail, including means
 of providing information about geological features associated with each
 particular portion of such trail. Provided, however, that all such
@@ -55,4 +56,5 @@ programs and themes relating to portions of the state geological trail,
 and an internet website providing directional information on educational
 institutions that have programs relating to the geological and
 conservation aspects of the portions of the state geological trail.
+  * NB Effective December 22, 2022
 ```

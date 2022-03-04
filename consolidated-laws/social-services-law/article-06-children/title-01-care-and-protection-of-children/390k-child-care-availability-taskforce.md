@@ -50,35 +50,19 @@ York;
   (viii) a social service district or county government or an entity
 that advocates on behalf of social services or county governments; and
   (ix) a non-profit child care advocacy organization.
-  3. The taskforce shall examine the following with a focus on how each
-component has been affected by the implementation of policies supported
-by federally funded programs through various stimulus packages:
-  (a) affordable child care with a focus on the cost of care for
-families and factors that contribute to such costs;
-  (b) access to and availability of subsidized child care, including the
-identification of barriers families eligible under state law face
-obtaining or utilizing such subsidies;
-  (c) availability of child care for non-traditional work hours;
-  (d) whether parents are voluntarily leaving the workforce due to lack
-of affordable or accessible child care, and the demographic information
-of such parents, if known;
-  (e) whether employers have identified lack of child care as a reason
-for a shortage of a qualified workforce;
-  (f) the impact of child care, or lack thereof, on economic development
-throughout the state;
-  (g) varying levels of quality of care throughout the state;
-  (h) availability of quality child care by economic development region
-including identification of underserved communities;
-  (i) whether regulatory or statutory changes could promote access to
-child care and improve health and safety standards in child care
-programs;
-  (j) business incentives to increase child care access and the impact
-on tax credits and deductions relating to child care;
-  (k) ways to address concerns identified in the course of the
-examination required by this subdivision;
-  (l) the implementation of policies supported by federally funded
-programs through various stimulus packages; and
-  (m) anything else the taskforce deems necessary.
+  3. The taskforce shall:
+  (a) examine the impact of the COVID-19 pandemic on child care in New
+York state;
+  (b) advise the state in developing an implementation framework leading
+to a phased-in rollout of universal child care using existing state and
+federal resources;
+  (c) recommend potential solutions, partnerships, or other ways to
+address chronic child care workforce issues and other concerns
+identified in the course of the examination required by this
+subdivision;
+  (d) assess the implementation of policies supported by federally
+funded programs through various stimulus packages; and
+  (e) anything else the taskforce deems necessary.
   4. (a) The taskforce shall report its interim findings and
 recommendations in accordance with subdivision three of this section to
 the governor, the speaker of the assembly and the temporary president of

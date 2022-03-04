@@ -282,7 +282,7 @@ registrant upon reaching eighteen years of age.
   (d) The following authorized users shall have access to the statewide
 immunization information system and the blood lead information in such
 system and the citywide immunization registry for the purposes stated in
-this paragraph:  (i) schools for the purpose of verifying immunization
+this paragraph:  * (i) schools for the purpose of verifying immunization
 status for eligibility for admission, for the purpose of confirming a
 student has been screened for lead when enrolling in child care,
 pre-school or kindergarten, and for the provision of appropriate
@@ -293,12 +293,29 @@ levels to the parents or legal guardians of the student with an elevated
 blood lead level, as such term is defined in subdivision six of section
 thirteen hundred seventy of this chapter, as well as information on
 programs that may be available to the student and the parents or legal
-guardians of the student, provided that, for every school that has
-applied for and been granted access to identifiable registrant
-information pursuant to this subdivision, the department shall make
-available the capability to batch download sets of immunization records
-of only those children under their administrative responsibility; (ii)
-colleges for verifying immunization status for eligibility for
+guardians of the student;
+  * NB Effective until July 1, 2022
+  * (i) schools for the purpose of verifying immunization status for
+eligibility for admission, for the purpose of confirming a student has
+been screened for lead when enrolling in child care, pre-school or
+kindergarten, and for the provision of appropriate educational materials
+developed by the department pursuant to section thirteen hundred
+seventy-a of this chapter on the dangers of lead exposure, and the
+health risks associated with elevated blood lead levels to the parents
+or legal guardians of the student with an elevated blood lead level, as
+such term is defined in subdivision six of section thirteen hundred
+seventy of this chapter, as well as information on programs that may be
+available to the student and the parents or legal guardians of the
+student. For each school that has the technical ability to batch
+download sets of immunization records, the department shall make
+available such sets of immunization records of only those children
+submitted by the school for which the school has obtained a certificate
+of immunization or for which the school has responsibility to verify the
+immunization status for school attendance purposes under section
+twenty-one hundred sixty-four of this article. Schools shall properly
+safeguard such information for use only as authorized by this section;
+  * NB Effective July 1, 2022
+(ii) colleges for verifying immunization status for eligibility for
 admission; (iii) professional and technical schools for verifying
 immunization status for eligibility for admission; (iv) children's
 overnight camps and summer day camps for verifying immunization status

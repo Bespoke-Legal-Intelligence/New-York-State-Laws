@@ -4,7 +4,7 @@
 [Insurance Law](../README.md) › [Article 29 — Pharmacy Benefit Managers](README.md)
 
 ```text
-  * § 2910. Revoked registrations or licenses. (a)(1) No person, firm,
+  § 2910. Revoked registrations or licenses. (a)(1) No person, firm,
 association, corporation or other entity subject to the provisions of
 this article whose registration or license under this article has been
 revoked, or whose registration or license to engage in the business of
@@ -54,5 +54,4 @@ shares of any corporation registered or licensed pursuant to this
 article if the shares of such corporation are publicly held and traded
 in the over-the-counter market or upon any national or regional
 securities exchange.
-  * NB Effective March 31, 2022
 ```

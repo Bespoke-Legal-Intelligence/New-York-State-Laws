@@ -83,6 +83,17 @@ law and provide such report to the office of victim services on or
 before September first of each year. Such report shall be provided to
 the governor, temporary president of the senate and the speaker of the
 assembly.
+  * (y) To develop a form by which a coroner, coroner's physician or
+medical examiner, pursuant to section six hundred seventy-seven of the
+county law, shall report to the division of veterans' services any death
+which appears to be caused by suicide by a person who, to the knowledge
+of the coroner, coroner's physician or medical examiner, is a veteran.
+This form shall at a minimum: (i) ensure compliance with the strictest
+privacy protections and encourage data aggregation to the extent
+feasible; (ii) provide the address to which the form is to be mailed or
+submitted electronically; and (iii) include the county of residence and
+the branch of service of deceased veterans during the reporting period.
+  * NB Effective June 7, 2022
   2. The department shall continue to exercise all of the functions,
 powers and duties which have been prescribed by law and which are being
 exercised by it when this chapter takes effect together with such

@@ -62,4 +62,5 @@ reflective of the different geographic regions, soil types, and farming
 operations. Such standards should include soil quality indicators for
 biological, physical, and chemical properties of soil and reflect the
 latest scientific advancements.
+  * NB Effective June 20, 2022
 ```

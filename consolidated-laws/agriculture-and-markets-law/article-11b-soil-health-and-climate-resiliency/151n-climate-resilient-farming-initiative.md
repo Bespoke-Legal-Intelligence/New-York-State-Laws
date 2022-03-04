@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 11-B — Soil Health and Climate Resiliency](README.md)
 
 ```text
-  § 151-n. Climate resilient farming initiative. 1. The department, in
+  * § 151-n. Climate resilient farming initiative. 1. The department, in
 cooperation with the state soil and water conservation committee, and
 other partners working on climate resilient farming shall encourage
 agricultural producers in urban, suburban and rural communities to
@@ -23,4 +23,9 @@ committee.
 initiative with the agricultural environmental management program
 established in article eleven-A of this chapter and section eleven of
 the soil and water conservation districts law.
+  4. The commissioner and the state soil and water conservation
+committee are each empowered to promulgate such rules and regulations
+and to prescribe such forms as each shall deem necessary to effectuate
+the purpose of this section.
+  * NB Effective June 20, 2022
 ```
