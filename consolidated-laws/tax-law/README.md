@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | TAX |
 | Type | Consolidated law, chapter 60 |
-| Sections | 1,252 |
-| Last changed | 4 Mar 2022 |
+| Sections | 1,260 |
+| Last changed | 11 Mar 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Tax |
 
@@ -29,10 +29,11 @@ Became a law February 17, 1909, with the approval of the Governor.
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (97 lines)](chapter-text.md)
+[Full chapter text (98 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [11 Mar 2022](../../changes/2022/2022-03-11.md): 15 amended, 8 added
 - [4 Mar 2022](../../changes/2022/2022-03-04.md): 1 amended
 - [7 Jan 2022](../../changes/2022/2022-01-07.md): 4 amended
 - [31 Dec 2021](../../changes/2021/2021-12-31.md): 5 amended, 10 added
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [12 Nov 2021](../../changes/2021/2021-11-12.md): 4 amended, 2 added
 - [5 Nov 2021](../../changes/2021/2021-11-05.md): 5 amended
 - [29 Oct 2021](../../changes/2021/2021-10-29.md): 6 amended, 1 added
-- [15 Oct 2021](../../changes/2021/2021-10-15.md): 2 amended
 
 ## Contents
 
@@ -76,6 +76,7 @@ Assembly, do enact as follows:
 - [Article 28-A — Special Tax On Passenger Car Rentals](article-28a-special-tax-on-passenger-car-rentals/)
 - [Article 28-B — Simplified Sales and Use Tax Administration](article-28b-simplified-sales-and-use-tax-administration/)
 - [Article 28-C — Supplemental Tax On Vapor Products](article-28c-supplemental-tax-on-vapor-products/)
+- [Article 28-D — Special Tax On Peer-to-peer Car Sharing](article-28d-special-tax-on-peer-to-peer-car-sharing/)
 - [Article 29 — Taxes Authorized For Cities, Counties and School Districts](article-29-taxes-authorized-for-cities-counties-and-school/)
 - [Article 29-A — Tax On Medallion Taxicab Trips In the Metropolitan Commuter Transportation District](article-29a-tax-on-medallion-taxicab-trips/)
 - [Article 29-B — State Assessment Fee On Transportation Network Company Prearranged Trips](article-29b-state-assessment-fee-on-transportation-network/)

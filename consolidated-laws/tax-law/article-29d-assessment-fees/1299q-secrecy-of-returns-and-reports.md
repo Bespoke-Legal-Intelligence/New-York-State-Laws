@@ -93,5 +93,5 @@ for three years and thereafter until the commissioner orders them to be
 destroyed.
   (e) Cross-reference: For criminal penalties, see article thirty-seven
 of this chapter.
-  * NB Effective March 22, 2022
+  * NB Repealed June 20, 2022 and Effective September 1, 2022
 ```

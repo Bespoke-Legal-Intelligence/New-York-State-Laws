@@ -63,7 +63,7 @@
 - [§ 3457 Group insurance policies for certain for hire motor vehicles](3457-group-insurance-policies-for-certain-for-hire-motor-vehicles.md)
 - [§ 3458 Electronic notices and documents](3458-electronic-notices-and-documents.md)
 - [§ 3458\*2 Group insurance for peer-to-peer car sharing programs](3458-2-group-insurance-for-peer-to-peer-car-sharing-programs.md)
-- [§ 3459 Car share exclusions for personal motor vehicle liability insurance policies](3459-car-share-exclusions-for-personal-motor-vehicle-liability-insurance-policies.md)
+- [§ 3459 Car share exclusions for motor vehicle insurance policies](3459-car-share-exclusions-for-motor-vehicle-insurance-policies.md)
 - [§ 3460 Prohibition against cancellation of policy when motor vehicle is used or operated through a peer-to-peer car sharing program](3460-prohibition-against-cancellation-of-policy-when-motor-vehicle-is-used.md)
 - [§ 3461 Notice of claim](3461-notice-of-claim.md)
 

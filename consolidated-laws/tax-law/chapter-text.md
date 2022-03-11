@@ -54,6 +54,7 @@ Article 1.      Short title; definitions; miscellaneous (§§ 1-46).
        28-B.     Simplified sales and use tax administration
                    (§§ 1170-1178).
        28-C.     Supplemental tax on vapor products (§§ 1180-1186).
+       28-D.     Special tax on peer-to-peer car sharing (§§ 1190-1197).
        29.       Taxes authorized for cities, counties and school
                    districts (§§ 1201-1264).
        29-A.     Tax on medallion taxicab trips in the metropolitan

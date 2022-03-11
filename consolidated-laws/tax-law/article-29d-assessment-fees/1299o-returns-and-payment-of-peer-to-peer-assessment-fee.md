@@ -34,5 +34,5 @@ period, without regard to whether a return is filed or whether the
 return that is filed correctly shows the correct number of trips, gross
 trip charges or amount of fees due thereon. The commissioner may require
 that the fee be paid electronically.
-  * NB Effective March 22, 2022
+  * NB Repealed June 20, 2022 and Effective September 1, 2022
 ```

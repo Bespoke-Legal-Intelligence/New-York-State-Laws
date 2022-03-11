@@ -1,15 +1,15 @@
-﻿<!-- nyslaw {"citation": "General Business Law § 910", "kind": "section", "law_id": "GBS", "location_id": "910", "path": "ARTICLE 40 › SECTION 910", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/910.md", "title": "Safety recalls"} -->
-# General Business Law § 910 — Safety recalls
+﻿<!-- nyslaw {"citation": "General Business Law § 909", "kind": "section", "law_id": "GBS", "location_id": "909", "path": "ARTICLE 40 › SECTION 909", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/909.md", "title": "Safety recalls"} -->
+# General Business Law § 909 — Safety recalls
 
 [General Business Law](../README.md) › [Article 40 — Peer-to-peer Car Sharing Programs](README.md)
 
 ```text
-  * § 910. Safety recalls. 1. At the time when a shared vehicle owner
-registers a shared vehicle on a peer-to-peer car sharing program, and
+  * § 909. Safety recalls. 1. At the time when a shared vehicle owner
+registers a shared vehicle in a peer-to-peer car sharing program, and
 prior to the time when the shared vehicle owner makes a shared vehicle
-available for car sharing on the peer-to-peer car sharing program, and
+available for car sharing in the peer-to-peer car sharing program, and
 no less than annually thereafter, the peer-to-peer car sharing program
-shall:
+administrator shall:
   (a) verify that the shared vehicle is not subject to any open safety
 recalls appearing on the National Highway Traffic Safety Administration
 recall database created under 49 C.F.R. 573.15 for which the recall
@@ -21,7 +21,7 @@ subdivision two of this section.
   2. (a) If the shared vehicle owner has received notice of a safety
 recall on a shared vehicle, before it is enrolled in a peer-to-peer car
 sharing program such shared vehicle owner shall not make such vehicle
-available as a shared vehicle on a peer-to-peer car sharing program
+available as a shared vehicle in a peer-to-peer car sharing program
 until the necessary safety recall repair has been made.
   (b) If a shared vehicle owner has received notice of a safety recall
 on a shared vehicle while the shared vehicle is available on a
@@ -34,17 +34,18 @@ completed.
   (c) If a shared vehicle owner has received notice of a safety recall
 on a shared vehicle while such shared vehicle is in the possession of a
 shared vehicle driver, the shared vehicle owner shall notify the
-peer-to-peer car sharing program about the safety recall as soon as
-practicable, and in no case longer than forty-eight hours after receipt
-of such notice, so that the shared vehicle driver can be notified and
-the shared vehicle can be removed from the peer-to-peer car sharing
-program until the necessary safety recall repair has been made.
+peer-to-peer car sharing program administrator about the safety recall
+as soon as practicable, and in no case longer than forty-eight hours
+after receipt of such notice, so that the shared vehicle driver can be
+notified and the shared vehicle can be removed from the peer-to-peer car
+sharing program until the necessary safety recall repair has been made.
   (d) A shared vehicle owner shall not enroll a vehicle in a
 peer-to-peer car sharing program unless such vehicle has been issued a
 valid safety inspection in compliance with article five of the vehicle
-and traffic law. A peer-to-peer car sharing program shall not permit a
-vehicle to be shared unless the shared vehicle owner has furnished proof
-to the program of such safety inspection in compliance with article five
-of the vehicle and traffic law within the preceding twelve months.
+and traffic law. A peer-to-peer car sharing program administrator shall
+not permit a vehicle to be shared unless the shared vehicle owner has
+furnished proof to the program of such safety inspection in compliance
+with article five of the vehicle and traffic law within the preceding
+twelve months.
   * NB Effective June 20, 2022
 ```

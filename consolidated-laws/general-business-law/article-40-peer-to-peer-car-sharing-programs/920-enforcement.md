@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Business Law § 920", "kind": "section", "law_id": "GBS", "location_id": "920", "path": "ARTICLE 40 › SECTION 920", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/920.md", "title": "Enforcement"} -->
+﻿<!-- nyslaw {"citation": "General Business Law § 920", "kind": "section", "law_id": "GBS", "location_id": "920", "path": "ARTICLE 40 › SECTION 920", "repealed": true, "repealed_date": "2022-03-11", "source": "nys-laws:GBS/920.md", "title": "Enforcement"} -->
 # General Business Law § 920 — Enforcement
 
 [General Business Law](../README.md) › [Article 40 — Peer-to-peer Car Sharing Programs](README.md)
+
+**Repealed** (11 Mar 2022). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 920. Enforcement. 1. Except where a different penalty is

@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 908", "kind": "section", "law_id": "GBS", "location_id": "908", "path": "ARTICLE 40 › SECTION 908", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/908.md", "title": "Responsibility for equipment"} -->
+# General Business Law § 908 — Responsibility for equipment
+
+[General Business Law](../README.md) › [Article 40 — Peer-to-peer Car Sharing Programs](README.md)
+
+```text
+  * § 908. Responsibility for equipment. A peer-to-peer car sharing
+program administrator shall have sole responsibility for any equipment,
+such as a global positioning system, or GPS, or other special equipment
+which is put in or on such shared vehicle to monitor or facilitate the
+peer-to-peer car sharing transaction, and shall agree to indemnify and
+hold harmless the shared vehicle owner for any damage to or theft of
+such equipment during the peer-to-peer car sharing period not caused by
+such shared vehicle owner. There shall be a rebuttable presumption that
+damage claimed during the peer-to-peer car sharing period was not caused
+by the shared vehicle owner. The peer-to-peer car sharing program
+administrator shall have the right to seek indemnity from the shared
+vehicle driver for any loss or damage to such equipment that shall occur
+during the peer-to-peer car sharing period.
+  * NB Effective June 20, 2022
+```

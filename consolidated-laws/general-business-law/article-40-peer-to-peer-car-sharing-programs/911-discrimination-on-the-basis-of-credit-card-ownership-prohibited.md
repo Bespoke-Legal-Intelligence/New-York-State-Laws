@@ -1,10 +1,10 @@
-﻿<!-- nyslaw {"citation": "General Business Law § 912", "kind": "section", "law_id": "GBS", "location_id": "912", "path": "ARTICLE 40 › SECTION 912", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/912.md", "title": "Discrimination on the basis of credit card ownership prohibited"} -->
-# General Business Law § 912 — Discrimination on the basis of credit card ownership prohibited
+﻿<!-- nyslaw {"citation": "General Business Law § 911", "kind": "section", "law_id": "GBS", "location_id": "911", "path": "ARTICLE 40 › SECTION 911", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/911.md", "title": "Discrimination on the basis of credit card ownership prohibited"} -->
+# General Business Law § 911 — Discrimination on the basis of credit card ownership prohibited
 
 [General Business Law](../README.md) › [Article 40 — Peer-to-peer Car Sharing Programs](README.md)
 
 ```text
-  * § 912. Discrimination on the basis of credit card ownership
+  * § 911. Discrimination on the basis of credit card ownership
 prohibited. 1. It shall be unlawful for any person, firm, partnership,
 institution, sole proprietorship, corporation or other entity engaged in
 the business of peer-to-peer car sharing to refuse to make a shared

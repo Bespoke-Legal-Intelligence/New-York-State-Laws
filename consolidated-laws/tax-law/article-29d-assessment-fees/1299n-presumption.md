@@ -10,5 +10,5 @@ fee imposed by this article, it shall be presumed that every
 peer-to-peer car sharing program that begins anywhere in the state is
 subject to the fees under this article. This presumption shall prevail
 until the contrary is proven by the person liable for the fee.
-  * NB Effective March 22, 2022
+  * NB Repealed June 20, 2022 and Effective September 1, 2022
 ```

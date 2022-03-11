@@ -1001,7 +1001,7 @@ person has not made or facilitated more than one hundred sales of
 property delivered in this state. However, such person may elect to
 register as a marketplace provider, and, once registered, will be
 subject to the provisions of this article.
-  * NB Effective until March 22, 2022
+  * NB Effective until September 1, 2022
   * (1) Marketplace provider. A person who, pursuant to an agreement
 with a marketplace seller, facilitates sales of tangible personal
 property by such marketplace seller or sellers. A person "facilitates a
@@ -1035,7 +1035,7 @@ that such person has not made or facilitated more than one hundred sales
 of property delivered in this state. However, such person may elect to
 register as a marketplace provider, and, once registered, will be
 subject to the provisions of this article.
-  * NB Effective March 22, 2022
+  * NB Effective September 1, 2022
   (2) Marketplace seller. Any person, whether or not such person is
 required to obtain a certificate of authority under section eleven
 hundred thirty-four of this article, who has an agreement with a

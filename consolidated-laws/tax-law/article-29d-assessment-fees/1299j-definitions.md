@@ -14,5 +14,5 @@ vehicle, including optional charges and fees, except for separately
 stated charges for taxes and government-imposed fees and airport
 facility fees, whether imposed on the shared vehicle driver or passed
 through to the shared vehicle driver.
-  * NB Effective March 22, 2022
+  * NB Repealed June 20, 2022 and Effective September 1, 2022
 ```

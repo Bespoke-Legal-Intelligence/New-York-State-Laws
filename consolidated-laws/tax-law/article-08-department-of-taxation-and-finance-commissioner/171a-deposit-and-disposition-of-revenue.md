@@ -105,85 +105,84 @@ twenty (except as otherwise provided in section four hundred eighty-two
 thereof), twenty-B, twenty-C, twenty-D, twenty-one, twenty-two,
 twenty-four, twenty-four-A, twenty-six, twenty-eight (except as
 otherwise provided in section eleven hundred two or eleven hundred three
-thereof), twenty-eight-A, twenty-nine-B, twenty-nine-D (except as
-otherwise provided in sections twelve hundred ninety-nine-L and twelve
-hundred ninety-nine-M), thirty-one (except as otherwise provided in
-section fourteen hundred twenty-one thereof), thirty-three and
-thirty-three-A of this chapter shall be deposited daily in one account
-with such responsible banks, banking houses or trust companies as may be
-designated by the comptroller, to the credit of the comptroller. Such an
-account may be established in one or more of such depositories. Such
-deposits shall be kept separate and apart from all other money in the
-possession of the comptroller. The comptroller shall require adequate
-security from all such depositories. Of the total revenue collected or
-received under such articles of this chapter, the comptroller shall
-retain in the comptroller's hands such amount as the commissioner may
-determine to be necessary for refunds or reimbursements under such
-articles of this chapter out of which amount the comptroller shall pay
-any refunds or reimbursements to which taxpayers shall be entitled under
-the provisions of such articles of this chapter. The commissioner and
-the comptroller shall maintain a system of accounts showing the amount
-of revenue collected or received from each of the taxes imposed by such
-articles. The comptroller, after reserving the amount to pay such
-refunds or reimbursements, shall, on or before the tenth day of each
-month, pay into the state treasury to the credit of the general fund all
-revenue deposited under this section during the preceding calendar month
-and remaining to the comptroller's credit on the last day of such
-preceding month, (i) except that the comptroller shall pay to the state
-department of social services that amount of overpayments of tax imposed
-by article twenty-two of this chapter and the interest on such amount
-which is certified to the comptroller by the commissioner as the amount
-to be credited against past-due support pursuant to subdivision six of
-section one hundred seventy-one-c of this article, (ii) and except that
-the comptroller shall pay to the New York state higher education
-services corporation and the state university of New York or the city
-university of New York respectively that amount of overpayments of tax
-imposed by article twenty-two of this chapter and the interest on such
-amount which is certified to the comptroller by the commissioner as the
-amount to be credited against the amount of defaults in repayment of
-guaranteed student loans and state university loans or city university
-loans pursuant to subdivision five of section one hundred seventy-one-d
-and subdivision six of section one hundred seventy-one-e of this
-article, (iii) and except further that, notwithstanding any law, the
-comptroller shall credit to the revenue arrearage account, pursuant to
-section ninety-one-a of the state finance law, that amount of
+thereof), twenty-eight-A, twenty-eight-D (except as otherwise provided
+in section eleven hundred ninety-seven, twenty-nine-B,, thirty-one
+(except as otherwise provided in section fourteen hundred twenty-one
+thereof), thirty-three and thirty-three-A of this chapter shall be
+deposited daily in one account with such responsible banks, banking
+houses or trust companies as may be designated by the comptroller, to
+the credit of the comptroller. Such an account may be established in one
+or more of such depositories. Such deposits shall be kept separate and
+apart from all other money in the possession of the comptroller. The
+comptroller shall require adequate security from all such depositories.
+Of the total revenue collected or received under such articles of this
+chapter, the comptroller shall retain in the comptroller's hands such
+amount as the commissioner may determine to be necessary for refunds or
+reimbursements under such articles of this chapter out of which amount
+the comptroller shall pay any refunds or reimbursements to which
+taxpayers shall be entitled under the provisions of such articles of
+this chapter. The commissioner and the comptroller shall maintain a
+system of accounts showing the amount of revenue collected or received
+from each of the taxes imposed by such articles. The comptroller, after
+reserving the amount to pay such refunds or reimbursements, shall, on or
+before the tenth day of each month, pay into the state treasury to the
+credit of the general fund all revenue deposited under this section
+during the preceding calendar month and remaining to the comptroller's
+credit on the last day of such preceding month, (i) except that the
+comptroller shall pay to the state department of social services that
+amount of overpayments of tax imposed by article twenty-two of this
+chapter and the interest on such amount which is certified to the
+comptroller by the commissioner as the amount to be credited against
+past-due support pursuant to subdivision six of section one hundred
+seventy-one-c of this article, (ii) and except that the comptroller
+shall pay to the New York state higher education services corporation
+and the state university of New York or the city university of New York
+respectively that amount of overpayments of tax imposed by article
+twenty-two of this chapter and the interest on such amount which is
+certified to the comptroller by the commissioner as the amount to be
+credited against the amount of defaults in repayment of guaranteed
+student loans and state university loans or city university loans
+pursuant to subdivision five of section one hundred seventy-one-d and
+subdivision six of section one hundred seventy-one-e of this article,
+(iii) and except further that, notwithstanding any law, the comptroller
+shall credit to the revenue arrearage account, pursuant to section
+ninety-one-a of the state finance law, that amount of overpayment of tax
+imposed by article nine, nine-A, twenty-two, thirty, thirty-A, thirty-B
+or thirty-three of this chapter, and any interest thereon, which is
+certified to the comptroller by the commissioner as the amount to be
+credited against a past-due legally enforceable debt owed to a state
+agency pursuant to paragraph (a) of subdivision six of section one
+hundred seventy-one-f of this article, provided, however, he shall
+credit to the special offset fiduciary account, pursuant to section
+ninety-one-c of the state finance law, any such amount creditable as a
+liability as set forth in paragraph (b) of subdivision six of section
+one hundred seventy-one-f of this article, (iv) and except further that
+the comptroller shall pay to the city of New York that amount of
 overpayment of tax imposed by article nine, nine-A, twenty-two, thirty,
-thirty-A, thirty-B or thirty-three of this chapter, and any interest
-thereon, which is certified to the comptroller by the commissioner as
-the amount to be credited against a past-due legally enforceable debt
-owed to a state agency pursuant to paragraph (a) of subdivision six of
-section one hundred seventy-one-f of this article, provided, however, he
-shall credit to the special offset fiduciary account, pursuant to
-section ninety-one-c of the state finance law, any such amount
-creditable as a liability as set forth in paragraph (b) of subdivision
-six of section one hundred seventy-one-f of this article, (iv) and
-except further that the comptroller shall pay to the city of New York
-that amount of overpayment of tax imposed by article nine, nine-A,
-twenty-two, thirty, thirty-A, thirty-B or thirty-three of this chapter
-and any interest thereon that is certified to the comptroller by the
-commissioner as the amount to be credited against city of New York tax
-warrant judgment debt pursuant to section one hundred seventy-one-l of
-this article, (v) and except further that the comptroller shall pay to a
-non-obligated spouse that amount of overpayment of tax imposed by
-article twenty-two of this chapter and the interest on such amount which
-has been credited pursuant to section one hundred seventy-one-c, one
-hundred seventy-one-d, one hundred seventy-one-e, one hundred
-seventy-one-f or one hundred seventy-one-l of this article and which is
-certified to the comptroller by the commissioner as the amount due such
-non-obligated spouse pursuant to paragraph six of subsection (b) of
-section six hundred fifty-one of this chapter; and (vi) the comptroller
-shall deduct a like amount which the comptroller shall pay into the
-treasury to the credit of the general fund from amounts subsequently
-payable to the department of social services, the state university of
-New York, the city university of New York, or the higher education
-services corporation, or the revenue arrearage account or special offset
-fiduciary account pursuant to section ninety-one-a or ninety-one-c of
-the state finance law, as the case may be, whichever had been credited
-the amount originally withheld from such overpayment, and (vii) with
-respect to amounts originally withheld from such overpayment pursuant to
-section one hundred seventy-one-l of this article and paid to the city
-of New York, the comptroller shall collect a like amount from the city
-of New York.
+thirty-A, thirty-B or thirty-three of this chapter and any interest
+thereon that is certified to the comptroller by the commissioner as the
+amount to be credited against city of New York tax warrant judgment debt
+pursuant to section one hundred seventy-one-l of this article, (v) and
+except further that the comptroller shall pay to a non-obligated spouse
+that amount of overpayment of tax imposed by article twenty-two of this
+chapter and the interest on such amount which has been credited pursuant
+to section one hundred seventy-one-c, one hundred seventy-one-d, one
+hundred seventy-one-e, one hundred seventy-one-f or one hundred
+seventy-one-l of this article and which is certified to the comptroller
+by the commissioner as the amount due such non-obligated spouse pursuant
+to paragraph six of subsection (b) of section six hundred fifty-one of
+this chapter; and (vi) the comptroller shall deduct a like amount which
+the comptroller shall pay into the treasury to the credit of the general
+fund from amounts subsequently payable to the department of social
+services, the state university of New York, the city university of New
+York, or the higher education services corporation, or the revenue
+arrearage account or special offset fiduciary account pursuant to
+section ninety-one-a or ninety-one-c of the state finance law, as the
+case may be, whichever had been credited the amount originally withheld
+from such overpayment, and (vii) with respect to amounts originally
+withheld from such overpayment pursuant to section one hundred
+seventy-one-l of this article and paid to the city of New York, the
+comptroller shall collect a like amount from the city of New York.
   * NB Effective March 22, 2022
   2. Notwithstanding subdivision one of this section or any other
 provision of law to the contrary, the taxes imposed pursuant to sections

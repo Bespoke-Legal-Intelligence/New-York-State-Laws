@@ -21,5 +21,5 @@ the commissioner under section twelve hundred ninety-nine-M of this
 article shall be deposited and disposed into the public transportation
 systems operating assistance account established by section
 eighty-eight-a of the state finance law.
-  * NB Effective March 22, 2022
+  * NB Repealed June 20, 2022 and Effective September 1, 2022
 ```

@@ -1,10 +1,10 @@
-﻿<!-- nyslaw {"citation": "General Business Law § 911", "kind": "section", "law_id": "GBS", "location_id": "911", "path": "ARTICLE 40 › SECTION 911", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/911.md", "title": "Discrimination based on age prohibited"} -->
-# General Business Law § 911 — Discrimination based on age prohibited
+﻿<!-- nyslaw {"citation": "General Business Law § 910", "kind": "section", "law_id": "GBS", "location_id": "910", "path": "ARTICLE 40 › SECTION 910", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/910.md", "title": "Discrimination based on age prohibited"} -->
+# General Business Law § 910 — Discrimination based on age prohibited
 
 [General Business Law](../README.md) › [Article 40 — Peer-to-peer Car Sharing Programs](README.md)
 
 ```text
-  * § 911. Discrimination based on age prohibited. 1. It shall be
+  * § 910. Discrimination based on age prohibited. 1. It shall be
 unlawful for any corporation, partnership, firm, institution, sole
 proprietorship or other entity or person engaged in the business of
 peer-to-peer car sharing to refuse to make a shared vehicle available to

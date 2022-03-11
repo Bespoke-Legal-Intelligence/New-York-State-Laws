@@ -16,5 +16,5 @@ or is not relevant to this article. The fees imposed under this article
 are in lieu of and replace any tax as may be imposed under sections
 eleven hundred sixty, eleven hundred sixty-six-a, and eleven hundred
 sixty-six-b of this chapter.
-  * NB Effective March 22, 2022
+  * NB Repealed June 20, 2022 and Effective September 1, 2022
 ```

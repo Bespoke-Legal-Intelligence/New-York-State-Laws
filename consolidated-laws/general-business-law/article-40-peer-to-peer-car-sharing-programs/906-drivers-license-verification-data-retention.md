@@ -1,14 +1,14 @@
-﻿<!-- nyslaw {"citation": "General Business Law § 907", "kind": "section", "law_id": "GBS", "location_id": "907", "path": "ARTICLE 40 › SECTION 907", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/907.md", "title": "Driver's license verification; data retention"} -->
-# General Business Law § 907 — Driver's license verification; data retention
+﻿<!-- nyslaw {"citation": "General Business Law § 906", "kind": "section", "law_id": "GBS", "location_id": "906", "path": "ARTICLE 40 › SECTION 906", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/906.md", "title": "Driver's license verification; data retention"} -->
+# General Business Law § 906 — Driver's license verification; data retention
 
 [General Business Law](../README.md) › [Article 40 — Peer-to-peer Car Sharing Programs](README.md)
 
 ```text
-  * § 907. Driver's license verification; data retention. 1. A
-peer-to-peer car sharing program shall not enter into a peer-to-peer car
-sharing program agreement with a driver unless the driver who will
-operate the shared vehicle furnishes proof, by electronic means or
-otherwise, of:
+  * § 906. Driver's license verification; data retention. 1. A
+peer-to-peer car sharing program administrator shall not enter into a
+peer-to-peer car sharing program agreement with a driver unless the
+driver who will operate the shared vehicle furnishes proof, by
+electronic means or otherwise, of:
   (a) a valid New York driver's license which authorizes the driver to
 operate vehicles of the class of the shared vehicle;
   (b) a valid driver's license issued by the state or country of the
@@ -17,7 +17,8 @@ to drive vehicles of the class of the shared vehicle and is the age
 required of a New York resident to operate that class of vehicle; or
   (c) being otherwise specifically authorized by a valid license to
 operate vehicles of the class of the shared vehicle.
-  2. A peer-to-peer car sharing program shall keep a record of:
+  2. A peer-to-peer car sharing program administrator shall keep a
+record of:
   (a) the name and address of the shared vehicle driver;
   (b) the identification number of the driver's license of the shared
 vehicle driver and each other person, if any, who shall operate the

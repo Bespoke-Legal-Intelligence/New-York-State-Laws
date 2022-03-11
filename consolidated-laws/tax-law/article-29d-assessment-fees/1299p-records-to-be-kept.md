@@ -14,5 +14,5 @@ records required to be kept by a state agency that is authorized to
 permit or regulate a peer-to-peer car sharing program; and
   (c) such other records and information as the commissioner may require
 to perform his or her duties under this article.
-  * NB Effective March 22, 2022
+  * NB Repealed June 20, 2022 and Effective September 1, 2022
 ```
