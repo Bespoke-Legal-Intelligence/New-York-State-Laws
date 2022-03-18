@@ -4,7 +4,7 @@
 [Public Housing Law](../README.md) › [Article 2 — Division of Housing](README.md)
 
 ```text
-§ 19-a. Electronic lease regulations. 1. The commissioner, in
+  § 19-a. Electronic lease regulations. 1. The commissioner, in
 consultation with the electronic facilitator as defined in section three
 hundred three of the state technology law, shall promulgate rules and
 regulations authorizing the use of electronic records or signatures on a

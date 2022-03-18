@@ -72,7 +72,7 @@
 - [§ 2805-L Adverse event reporting](2805l-adverse-event-reporting.md)
 - [§ 2805-M Confidentiality](2805m-confidentiality.md)
 - [§ 2805-N Child abuse prevention](2805n-child-abuse-prevention.md)
-- [§ 2805-O Identification of veterans and their spouses by nursing homes and residential health care facilities](2805o-identification-of-veterans-and-their-spouses-by-nursing-homes-and-residential.md)
+- [§ 2805-O Identification of veterans and their spouses by nursing homes, residential health care facilities, and adult care facilities](2805o-identification-of-veterans-and-their-spouses-by-nursing-homes-residential-health.md)
 - [§ 2805-P Emergency treatment of rape survivors](2805p-emergency-treatment-of-rape-survivors.md)
 - [§ 2805-Q Hospital visitation by domestic partner](2805q-hospital-visitation-by-domestic-partner.md)
 - [§ 2805-R Patients unable to verbally communicate](2805r-patients-unable-to-verbally-communicate.md)

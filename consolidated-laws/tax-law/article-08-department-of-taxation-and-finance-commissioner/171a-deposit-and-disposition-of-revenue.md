@@ -93,7 +93,7 @@ respect to amounts originally withheld from such overpayment pursuant to
 section one hundred seventy-one-l of this article and paid to the city
 of New York, the comptroller shall collect a like amount from the city
 of New York.
-  * NB Effective until March 22, 2022
+  * NB Effective until September 1, 2022
   * 1. All taxes, interest, penalties and fees collected or received by
 the commissioner or the commissioner's duly authorized agent under
 articles nine (except section one hundred eighty-two-a thereof and
@@ -183,7 +183,7 @@ from such overpayment, and (vii) with respect to amounts originally
 withheld from such overpayment pursuant to section one hundred
 seventy-one-l of this article and paid to the city of New York, the
 comptroller shall collect a like amount from the city of New York.
-  * NB Effective March 22, 2022
+  * NB Effective September 1, 2022
   2. Notwithstanding subdivision one of this section or any other
 provision of law to the contrary, the taxes imposed pursuant to sections
 one hundred eighty-three-a, one hundred eighty-four-a, one hundred
