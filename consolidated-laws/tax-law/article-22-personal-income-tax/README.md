@@ -79,7 +79,7 @@ Section 611.     New York taxable income of a resident individual.
         630-g*3. Gift to the arts fund.
         630-h.   New York state campaign finance fund check-off.
         630-i.   Gifts for the state library system.
-        630-i*2. Gift for the gun violence research fund.
+        630-i*2. Gift for the firearm violence research fund.
         630-i*3. Gifts for thoroughbred aftercare.
         630-j.   Gifts for standardbred aftercare.
                PART III-NONRESIDENTS AND PART-YEAR RESIDENTS

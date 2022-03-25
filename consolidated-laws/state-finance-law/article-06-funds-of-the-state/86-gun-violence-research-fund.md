@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "State Finance Law § 86", "kind": "section", "law_id": "STF", "location_id": "86", "path": "ARTICLE 6 › SECTION 86", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/86.md", "title": "Gun violence research fund"} -->
+﻿<!-- nyslaw {"citation": "State Finance Law § 86", "kind": "section", "law_id": "STF", "location_id": "86", "path": "ARTICLE 6 › SECTION 86", "repealed": true, "repealed_date": "2022-03-25", "source": "nys-laws:STF/86.md", "title": "Gun violence research fund"} -->
 # State Finance Law § 86 — Gun violence research fund
 
 [State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
+
+**Repealed** (25 Mar 2022). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 86. Gun violence research fund. 1. There is hereby established in

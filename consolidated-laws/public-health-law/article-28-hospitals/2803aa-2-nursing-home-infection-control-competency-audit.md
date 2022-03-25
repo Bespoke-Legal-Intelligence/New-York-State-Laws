@@ -6,30 +6,31 @@
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
 ```text
-  * § 2803-aa. Nursing home infection control competency audit. 1. The
+  * § 2803-aa. Nursing home infection control competency audit.  1. The
 commissioner shall establish in the department a program for audits of
 nursing homes to measure specific core competencies relating to
 infection control of each nursing home. The audits shall commence on
-October 1, 2021, and shall be conducted annually thereafter.
-  2. (a) The audit shall utilize a checklist to evaluate infection
-control competency of each nursing home.
-  (b) A nursing home meeting at least eighty-five percent of the
-criteria on the checklist shall be scored as "proficient" in infection
-control competency.
-  (c) If a nursing home meets between sixty percent and eighty-four
-percent of the required criteria within the checklist, the nursing home
-will be scored as "proficiency pending reinspection." Such nursing home
-will be audited by the department at least once before the next annual
-inspection.
-  (d) A nursing home that meets less than sixty percent of the criteria
-within the checklist, or fails a proficiency pending reinspection, shall
-be scored as "not proficient".
-  Facilities scored as "not proficient" shall continue to be audited at
-monthly intervals until such facilities meet at least eighty-five
-percent of the criteria within the checklist.
+December 1, 2022, and shall be conducted annually thereafter.
+  2. (a) The audit shall utilize a checklist that is consistent with
+focused infection control survey standards issued by the federal centers
+for Medicare and Medicaid services to evaluate infection control
+competency of each nursing home.
+  (b) A nursing home must meet all metrics on the checklist developed
+pursuant to paragraph (a) of this subdivision to be scored as in
+compliance with infection control.
+  (c) If a nursing home fails to meet all metrics on the checklist
+developed pursuant to paragraph (a) of this subdivision, the department
+shall conduct another infection control audit within ninety days of the
+initial determination. The department shall continue to conduct such
+ninety day audits until the nursing home is scored as in compliance with
+infection control competency. The department may also pursue
+administrative penalties, including but not limited to citation for
+violation of infection control standards and imposing civil monetary
+penalties pursuant to section twelve of this chapter.
   3. An audit of core competencies shall include, but not be limited to,
-the following, and shall be consistent with applicable federal, state
-and local guidelines and requirements:
+the following, and shall be consistent with focused infection control
+survey standards issued by the federal centers for Medicare and Medicaid
+services:
   (a) Infection control. (i) The nursing home shall assign an infection
 lead staff person to implement infection control based on federal and
 state public health advisories, guidelines and rules.
@@ -47,15 +48,21 @@ law, related to a contagious or infectious disease outbreak, the nursing
 home shall have screening requirements for every individual entering the
 facility, including staff, for symptoms associated with the infectious
 disease outbreak.
-  (iv) The nursing home shall have a staffing plan to limit transmission
-that shall include, but not be limited to:
-  (A) Dedicated, consistent staffing teams who directly interact with
-residents that are confirmed or suspected to be infected with a
-contagious or infectious disease; and
+  (iv) The nursing home shall have a staffing and cohorting plan to
+limit transmission, which is based on national (for example, centers of
+disease control and centers for Medicare and Medicaid services), state
+or local public health authority recommendations. Such staffing and
+cohorting plan may include, but not be limited to:
+  (A) Having dedicated, consistent staffing teams who directly interact
+with residents that are confirmed or suspected to be infected with a
+contagious or infectious disease;
   (B) Limiting clinical and other staff who have direct resident contact
-to specific areas of the facility. There shall be no rotation of staff
-between various areas of the facility during the period they are working
-each day during periods of recognized outbreaks.
+to specific areas of the facility and not rotating staff between various
+areas of the facility during the period they are working each day during
+periods of recognized outbreaks; and
+  (C) Having a dedicated space in the facility for cohorting and
+managing care for residents with an infectious disease, such as
+COVID-19.
   (v) The nursing home shall ensure ongoing access to the necessary
 supplies for hand hygiene for staff and residents, hospital
 disinfectants or alternatives to allow for necessary and appropriate
@@ -66,9 +73,9 @@ selecting, donning and doffing appropriate personal protective equipment
 and demonstrate competency during resident care. The nursing home must
 keep a record of staff training in proper storage, use, reuse, and
 disposal of personal protective equipment.
-  (vii) The nursing home must designate a staff member for every shift
-who is responsible for ensuring the proper use of personal protective
-equipment by all staff.
+  (vii) The nursing home must designate a staff member or members who is
+responsible for ensuring the proper use of personal protective equipment
+by all staff.
   (b) The nursing home shall demonstrate that there has been advanced
 planning, in alignment with the facility's emergency preparedness plans
 and pandemic emergency plan, for contingent staffing needs in the case

@@ -13,5 +13,5 @@ disabilities shall advocate on behalf of persons with disabilities and
 assure that persons with disabilities are afforded the opportunity to
 exercise all of the rights and responsibilities accorded to citizens of
 this state.
-  * NB Effective April 1, 2022
+  * NB Effective and Repealed April 1, 2022
 ```

@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [§ 67 Petition to change of sex designation](67-petition-to-change-of-sex-designation.md)
+- [§ 67 Petition for change of sex designation](67-petition-for-change-of-sex-designation.md)
 - [§ 67-A Order](67a-order.md)
 - [§ 67-B Sealing change of sex designation papers](67b-sealing-change-of-sex-designation-papers.md)
 
@@ -15,7 +15,7 @@
 ```text
                                ARTICLE 6-A
                         CHANGE OF SEX DESIGNATION
-Section 67.   Petition to change of sex designation.
+Section 67.   Petition for change of sex designation.
         67-a. Order.
         67-b. Sealing change of sex designation papers.
 ```

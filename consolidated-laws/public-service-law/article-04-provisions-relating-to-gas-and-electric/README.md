@@ -3,8 +3,6 @@
 
 [Public Service Law](../README.md)
 
-*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
-
 ## Contents
 
 - [§ 64 Application of article](64-application-of-article.md)
@@ -28,8 +26,8 @@
 - [§ 66-O Electric vehicle charging tariff](66o-electric-vehicle-charging-tariff.md)
 - [§ 66-P Establishment of a renewable energy program](66p-establishment-of-a-renewable-energy-program.md)
 - [§ 66-Q Gas and electric billing information for residential rental premises](66q-gas-and-electric-billing-information-for-residential-rental-premises.md)
-- [§ 66-Q\*2 Electric vehicle charging; commercial tariff](66q-2-electric-vehicle-charging-commercial-tariff.md)
 - [§ 66-R Requirements for certain renewable energy systems](66r-requirements-for-certain-renewable-energy-systems.md)
+- [§ 66-S Electric vehicle charging; commercial tariff](66s-electric-vehicle-charging-commercial-tariff.md)
 - [§ 67 Inspection of gas and electric meters](67-inspection-of-gas-and-electric-meters.md)
 - [§ 67-A Charges for past services](67a-charges-for-past-services.md)
 - [§ 68 Certificate of public convenience and necessity](68-certificate-of-public-convenience-and-necessity.md)
@@ -91,8 +89,8 @@ Section 64.     Application of article.
         66-p.   Establishment of a renewable energy program.
         66-q.   Gas and electric billing information for residential
                   rental premises.
-        66-q*2. Electric vehicle charging; commercial tariff.
         66-r.   Requirements for certain renewable energy systems.
+        66-s.   Electric vehicle charging; commercial tariff.
         67.     Inspection of gas and electric meters.
         67-a.   Charges for past services.
         68.     Certificate of public convenience and necessity.

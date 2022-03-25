@@ -22,7 +22,6 @@
 - [§ 7209 Special provisions](7209-special-provisions.md)
 - [§ 7210 Certificates of authorization](7210-certificates-of-authorization.md)
 - [§ 7211 Mandatory continuing education for professional engineers, land surveyors and professional geologists](7211-mandatory-continuing-education-for-professional-engineers-land-surveyors.md)
-- [§ 7212 Mandatory continuing education for land surveyors](7212-mandatory-continuing-education-for-land-surveyors.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 145, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

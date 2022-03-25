@@ -38,15 +38,20 @@ children's overnight, summer day, or traveling summer day camp, and has
 obtained a permit pursuant to section thirteen hundred ninety-three of
 this article, shall be authorized to employ or contract with a
 physician, nurse practitioner, physician assistant, registered nurse, or
-licensed practical nurse to act as a designated camp health director or
-to provide health services in assistance to the camp health director for
-the sole purpose of providing health services that benefit campers and
-staff at the camp while the camp is in operation. In cases where the
-camp health director's lawful scope of practice is more limited than
-that of the licensed professional providing services, the camp health
-director shall not supervise the provision of such treatment, but shall
-be informed of such treatment as medically necessary to ensure the
-well-being of the camper.
+licensed practical nurse or emergency medical technician to act as a
+designated camp health director or to provide health services in
+assistance to the camp health director for the sole purpose of providing
+health services that benefit campers and staff at the camp while the
+camp is in operation. In cases where the camp health director's lawful
+scope of practice is more limited than that of the licensed professional
+providing services, the camp health director shall not supervise the
+provision of such treatment, but shall be informed of such treatment as
+medically necessary to ensure the well-being of the camper and staff. In
+cases where an emergency medical technician is the camp health director,
+the emergency medical technician shall not supervise the provision of
+treatment by the licensed professional providing services, but shall be
+informed of such treatment as medically necessary to ensure the
+well-being of the camper and staff.
   * NB Effective July 16, 2022
   4. Each children's overnight camp, summer day camp and travelling
 summer day camp shall allow children attending such camp to carry and
@@ -72,24 +77,13 @@ obtained a permit pursuant to section thirteen hundred ninety-three of
 this article, shall be authorized to employ or contract with individuals
 licensed under articles one hundred fifty-three, one hundred fifty-four,
 one hundred sixty-three and one hundred sixty-seven of the education law
-to provide mental health services between June first and September
-fifteenth for the sole purpose of providing health services that benefit
-campers and staff at the camp while the camp is in operation.
-Individuals hired under this section shall communicate with the camp
-health director when medically necessary.
+to provide mental health services for any period during which the camp
+has a valid permit to operate and for the sole purpose of providing
+health services that benefit campers and staff at the camp while the
+camp is in operation. Individuals hired under this section shall
+communicate with the camp health director when medically necessary.
   * NB Effective July 16, 2022
-  * 7. (a) Any person, firm, corporation, or association that operates a
-children's overnight, summer day, or traveling summer day camp, and has
-obtained a permit pursuant to section thirteen hundred ninety-three of
-this article, shall be authorized to employ or contract with emergency
-medical technicians to provide health services in assistance or in
-communication with the camp health director for the sole purpose of
-providing health services that benefit campers and staff at the camp
-while the camp is in operation.
-  (b) Emergency medical technicians shall not be authorized to serve as
-a designated camp health director.
-  * NB Effective July 16, 2022
-  * 8. All decisions, identification or coordination of professional
+  * 7. All decisions, identification or coordination of professional
 services, or other professional interactions with campers and staff,
 must be made based on the professional judgment of such licensees to
 provide professional services within his or her lawful scope of practice
@@ -97,7 +91,7 @@ for the purpose of treating campers and staff during their attendance or
 employment at such camp, pursuant to applicable regulations promulgated
 by the commissioner in consultation with the commissioner of education.
   * NB Effective July 16, 2022
-  * 9. Nothing in this section shall be construed to limit the authority
+  * 8. Nothing in this section shall be construed to limit the authority
 of another state agency if such state agency is otherwise authorized
 under another provision of law to certify, license, contract or
 authorize such camp, nor shall the authority to hire individuals
@@ -106,7 +100,7 @@ of such camp from any certification, licensure, or any other such
 requirement established by such state agency or under any other
 provision of law.
   * NB Effective July 16, 2022
-  * 10. A camp that employs or contracts with an individual licensed
+  * 9. A camp that employs or contracts with an individual licensed
 under articles one hundred fifty-three, one hundred fifty-four, one
 hundred sixty-three and one hundred sixty-seven of the education law
 under this section shall list such individuals in their general consent

@@ -29,7 +29,7 @@
 - [§ 83-A Habitat conservation and access account](83a-habitat-conservation-and-access-account.md)
 - [§ 84 The United States Olympic Committee/Lake Placid Olympic Training Center Fund](84-the-united-states-olympic-committee-lake-placid-olympic-training-center-fund.md)
 - [§ 84-A Olympic games guaranty fund](84a-olympic-games-guaranty-fund.md)
-- [§ 86 Gun violence research fund](86-gun-violence-research-fund.md)
+- [§ 86 Gun violence research fund](86-gun-violence-research-fund.md) *(repealed)*
 - [§ 88 New York state infrastructure trust fund](88-new-york-state-infrastructure-trust-fund.md)
 - [§ 88-A Mass transportation operating assistance fund](88a-mass-transportation-operating-assistance-fund.md)
 - [§ 88-B Suburban transportation fund](88b-suburban-transportation-fund.md)
@@ -316,7 +316,6 @@ Section 70.        Classification of funds.
         84.        The United States Olympic Committee/Lake Placid
                      Olympic Training Center Fund.
         84-a.      Olympic games guaranty fund.
-        86.        Gun violence research fund.
         88.        New York state infrastructure trust fund.
         88-a.      Mass transportation operating assistance fund.
         88-b.      Suburban transportation fund.

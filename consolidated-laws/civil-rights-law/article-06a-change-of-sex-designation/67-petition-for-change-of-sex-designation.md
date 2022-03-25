@@ -1,10 +1,10 @@
-﻿<!-- nyslaw {"citation": "Civil Rights Law § 67", "kind": "section", "law_id": "CVR", "location_id": "67", "path": "ARTICLE 6-A › SECTION 67", "repealed": false, "repealed_date": null, "source": "nys-laws:CVR/67.md", "title": "Petition to change of sex designation"} -->
-# Civil Rights Law § 67 — Petition to change of sex designation
+﻿<!-- nyslaw {"citation": "Civil Rights Law § 67", "kind": "section", "law_id": "CVR", "location_id": "67", "path": "ARTICLE 6-A › SECTION 67", "repealed": false, "repealed_date": null, "source": "nys-laws:CVR/67.md", "title": "Petition for change of sex designation"} -->
+# Civil Rights Law § 67 — Petition for change of sex designation
 
 [Civil Rights Law](../README.md) › [Article 6-A — Change of Sex Designation](README.md)
 
 ```text
-  § 67. Petition to change of sex designation. 1. A petition for leave
+  § 67. Petition for change of sex designation. 1. A petition for leave
 to change sex designation may be made by a resident of the state to the
 county court of the county or the supreme court in the county in which
 such resident resides, or, if such resident resides in the city of New

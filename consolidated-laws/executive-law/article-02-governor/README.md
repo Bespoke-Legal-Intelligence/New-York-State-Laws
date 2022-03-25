@@ -9,6 +9,7 @@
 - [§ 3 Acting governor](03-acting-governor.md)
 - [§ 4 Secretary and counsel to the governor](04-secretary-and-counsel-to-the-governor.md)
 - [§ 4-A Chief diversity officer](04a-chief-diversity-officer.md)
+- [§ 4-B Chief disability officer](04b-chief-disability-officer.md)
 - [§ 5 Executive records](05-executive-records.md)
 - [§ 6 Examination and inspection by the governor](06-examination-and-inspection-by-the-governor.md)
 - [§ 7 Limited operation of holiday](07-limited-operation-of-holiday.md)
@@ -27,6 +28,7 @@ Section 2.   Office and residence of governor.
         3.   Acting governor.
         4.   Secretary and counsel to the governor.
         4-a. Chief diversity officer.
+        4-b. Chief disability officer.
         5.   Executive records.
         6.   Examination and inspection by the governor.
         7.   Limited operation of holiday.
