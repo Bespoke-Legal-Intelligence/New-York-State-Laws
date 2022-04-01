@@ -4,8 +4,8 @@
 [Alcoholic Beverage Control Law](../README.md) › [Article 7 — Special Permits](README.md)
 
 ```text
-  * § 97-c. Temporary manufacturing permit. 1. Any person may apply to
-the liquor authority for a temporary permit to operate any alcoholic
+  § 97-c. Temporary manufacturing permit. 1. Any person may apply to the
+liquor authority for a temporary permit to operate any alcoholic
 beverage manufacturing facility as may be licensed under this chapter.
 Such application shall be in writing and verified and shall contain
 information as the liquor authority shall require. Such application
@@ -52,5 +52,4 @@ entire record and grant the temporary permit unless good cause is
 otherwise shown. A decision on an application shall be based on
 substantial evidence in the record and supported by a preponderance of
 the evidence in favor of the applicant.
-  * NB Effective March 21, 2022
 ```

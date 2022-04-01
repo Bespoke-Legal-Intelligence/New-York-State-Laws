@@ -43,30 +43,8 @@ safety standards, quality and adequacy of care, rights of residents,
 payments and all other areas of operation. The purpose of any inspection
 shall be to determine compliance with requirements of applicable
 provisions of law and regulations of the department.
-  * (c) An inspection report shall be made of each inspection which
-shall clearly identify and indicate in detail each area of operation,
-including, but not limited to, the premises, equipment, personnel,
-resident care and services, and whether each such area of operation or
-any of its component parts is or is not in compliance with the
-regulations of the department and all other applicable requirements. It
-also shall identify those areas of operation or any of its component
-parts found not in compliance as a result of failure in systemic
-practices and procedures. The operator shall be notified of the results
-of the inspection in a manner to be determined by regulations of the
-department. Such notification shall contain directions as may be
-appropriate as to the manner and time in which compliance with
-applicable requirements of law or regulations of the department shall be
-effected. The department shall also require the operator of an adult
-home or residence for adults to develop, biannually update and implement
-plans for quality assurance activities for each area of operation.
-Quality assurance activities include but are not limited to, development
-and maintenance of performance standards, measurement of adherence to
-such standards and to applicable state and local laws and regulations,
-identification of performance failures, design, and implementation of
-corrective action.
-  * NB Effective until March 22, 2022
-  * (c) An inspection report shall be made of each inspection which
-shall clearly identify and indicate in detail each area of operation,
+  (c) An inspection report shall be made of each inspection which shall
+clearly identify and indicate in detail each area of operation,
 including, but not limited to, the premises, equipment, personnel,
 resident care and services, and whether each such area of operation or
 any of its component parts is or is not in compliance with the
@@ -96,7 +74,6 @@ resident incidents. Such committee shall include the administrator or
 operator of the facility, the resident council president or other
 resident representative, and representatives from frontline employees
 from each area of operation.
-  * NB Effective March 22, 2022
   (d) Systemic practices or procedures are those activities related to
 each area of operation which indicate a pattern or an inability to bring
 the operation of the facility into compliance with applicable provisions

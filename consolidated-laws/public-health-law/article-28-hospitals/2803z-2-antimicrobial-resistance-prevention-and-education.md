@@ -19,5 +19,4 @@ increasing utilization.
   2. The commissioner shall make such rules and regulations as may be
 necessary and proper to carry out the provisions of this section.
   * NB There are 2 § 2803-z's
-  * NB Effective March 22, 2022
 ```

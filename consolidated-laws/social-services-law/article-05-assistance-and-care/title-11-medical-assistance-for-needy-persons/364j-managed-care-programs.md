@@ -1258,19 +1258,11 @@ apply if the patient is a recipient of hospice care, has a diagnosis of
 cancer or sickle cell disease, or any other condition or diagnosis for
 which the commissioner of health determines prior authorization is not
 required.
-  ** 26-b. Managed care providers shall not require prior authorization
-for an initial or renewal prescription for buprenorphine or injectable
-naltrexone for detoxification or maintenance treatment of opioid
-addiction unless the prescription is for a non-preferred or
-non-formulary form of the drug or as otherwise required by section
-1927(k)(6) of the Social Security Act.
-  ** NB Effective until March 22, 2022
-  ** 26-b. Managed care providers shall not require prior authorization
-for any buprenorphine products, methadone or long acting injectable
+  26-b. Managed care providers shall not require prior authorization for
+any buprenorphine products, methadone or long acting injectable
 naltrexone for detoxification or maintenance treatment of a substance
 use disorder prescribed according to generally accepted national
 professional guidelines for the treatment of a substance use disorder.
-  ** NB Effective March 22, 2022
   26-c. Managed care providers shall not require prior authorization for
 methadone, when used for opioid use disorder and administered or
 dispensed in an opioid treatment program.

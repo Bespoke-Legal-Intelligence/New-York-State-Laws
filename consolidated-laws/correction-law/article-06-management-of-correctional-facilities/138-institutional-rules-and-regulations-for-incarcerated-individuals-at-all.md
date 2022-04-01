@@ -31,7 +31,7 @@ and all rules and regulations pertaining to incarcerated individuals
 established by any institutional staff at any state correctional
 facility shall be reviewed annually by the commissioner of the
 department of corrections and community supervision.
-  * 7. De-escalation, intervention, informational reports and the
+  7. De-escalation, intervention, informational reports and the
 withdrawal of incentives shall be the preferred methods of responding to
 misbehavior unless the department determines that non-disciplinary
 interventions have failed, or that non-disciplinary interventions would
@@ -41,5 +41,4 @@ thirty-seven of this article, in which case, as a last resort, the
 department shall have the authority to issue misbehavior reports, pursue
 disciplinary charges, or impose new or additional segregated confinement
 sanctions.
-  * NB Effective March 31, 2022
 ```

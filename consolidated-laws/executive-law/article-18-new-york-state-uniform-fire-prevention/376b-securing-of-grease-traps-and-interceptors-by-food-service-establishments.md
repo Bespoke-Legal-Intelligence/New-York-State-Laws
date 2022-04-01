@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 376-B", "kind": "section", "law_id": "EXC", "location_id": "376-B", "path": "ARTICLE 18 › SECTION 376-B", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/376-B.md", "title": "Securing of grease traps and interceptors by food service establishments"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 376-B", "kind": "section", "law_id": "EXC", "location_id": "376-B", "path": "ARTICLE 18 › SECTION 376-B", "repealed": true, "repealed_date": "2022-04-01", "source": "nys-laws:EXC/376-B.md", "title": "Securing of grease traps and interceptors by food service establishments"} -->
 # Executive Law § 376-B — Securing of grease traps and interceptors by food service establishments
 
 [Executive Law](../README.md) › [Article 18 — New York State Uniform Fire Prevention and Building Code Act](README.md)
+
+**Repealed** (1 Apr 2022). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 376-b. Securing of grease traps and interceptors by food service

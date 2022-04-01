@@ -4,7 +4,7 @@
 [Private Housing Finance Law](../README.md) › [Article 2 — Limited-profit Housing Companies](README.md)
 
 ```text
-  * § 35-a. Requirements regarding dissolution. Mutual housing companies
+  § 35-a. Requirements regarding dissolution. Mutual housing companies
 considering dissolution and/or reconstitution pursuant to section
 thirty-five of this article shall be subject to the following
 requirements:
@@ -108,5 +108,4 @@ financed by special assessment voted on and applicable to all
 shareholders as provided by subdivision three of this section, unless
 such housing company took any actions toward dissolution or
 reconstitution prior to the date this section took effect.
-  * NB Effective March 22, 2022
 ```

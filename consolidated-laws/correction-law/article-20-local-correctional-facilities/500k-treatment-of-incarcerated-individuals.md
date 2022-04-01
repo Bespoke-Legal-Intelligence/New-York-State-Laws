@@ -4,18 +4,7 @@
 [Correction Law](../README.md) › [Article 20 — Local Correctional Facilities](README.md)
 
 ```text
-  * § 500-k. Treatment of incarcerated individuals. Subdivisions five
-and six of section one hundred thirty-seven of this chapter, except
-paragraphs (d) and (e) of subdivision six of such section, relating to
-the treatment of incarcerated individuals in state correctional
-facilities are applicable to incarcerated individuals confined in county
-jails; except that the report required by paragraph (f) of subdivision
-six of such section shall be made to a person designated to receive such
-report in the rules and regulations of the state commission of
-correction, or in any county or city where there is a department of
-correction, to the head of such department.
-  * NB Effective until March 31, 2022
-  * § 500-k. Treatment of incarcerated individuals. 1. Subdivisions five
+  § 500-k. Treatment of incarcerated individuals. 1. Subdivisions five
 and six of section one hundred thirty-seven of this chapter, except
 paragraphs (d) and (e) of subdivision six of such section, relating to
 the treatment of incarcerated individuals in state correctional
@@ -31,5 +20,4 @@ subparagraphs (i), (iv) and (v) of paragraph (j) and subparagraph (ii)
 of paragraph (m) of subdivision six of section one hundred thirty-seven
 of this chapter shall not apply to local correctional facilities with a
 total combined capacity of five hundred inmates or fewer.
-  * NB Effective March 31, 2022
 ```

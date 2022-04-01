@@ -4,7 +4,7 @@
 [Public Service Law](../README.md) › [Article 6 — Provisions Affecting Two or More Kinds of the Public Service and the Persons and Corporations Furnishing Such Service](README.md)
 
 ```text
-  * § 111-a. Additional information in annual reports; disclosure of
+  § 111-a. Additional information in annual reports; disclosure of
 compensation. 1. Every gas corporation, electric corporation, steam
 corporation, and water-works corporation whose rates are regulated by
 the commission, and having a gross annual operating revenue of more than
@@ -40,5 +40,4 @@ provider containing the information listed in subdivision one of this
 section annually on or before May first of each year. The department is
 authorized to request and collect any information necessary from the
 service provider to comply with the requirements of this subdivision.
-  * NB Effective March 31, 2022
 ```

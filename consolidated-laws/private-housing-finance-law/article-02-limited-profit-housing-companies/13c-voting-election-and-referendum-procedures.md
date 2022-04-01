@@ -4,15 +4,15 @@
 [Private Housing Finance Law](../README.md) › [Article 2 — Limited-profit Housing Companies](README.md)
 
 ```text
-  * § 13-c. Voting, election and referendum procedures. 1. Any
-shareholder vote involving the election of board members, by-law
-amendments, or on dissolution or reconstitution or conversion of a
-mutual housing company including any votes for a special assessment
-pursuant to subdivisions one, two or three of section thirty-five-a of
-this article shall be conducted using secret ballots. Such ballots shall
-be cast in-person by tenants entitled to vote in the project; unless
-such tenant casts such ballot using an absentee ballot issued pursuant
-to subdivision two of this section.
+  § 13-c. Voting, election and referendum procedures. 1. Any shareholder
+vote involving the election of board members, by-law amendments, or on
+dissolution or reconstitution or conversion of a mutual housing company
+including any votes for a special assessment pursuant to subdivisions
+one, two or three of section thirty-five-a of this article shall be
+conducted using secret ballots. Such ballots shall be cast in-person by
+tenants entitled to vote in the project; unless such tenant casts such
+ballot using an absentee ballot issued pursuant to subdivision two of
+this section.
   2. Any shareholder entitled to vote may request an absentee ballot to
 cast a ballot in any shareholder vote. Such an absentee ballot may be
 delivered or mailed only to the primary residence address of the
@@ -54,5 +54,4 @@ supervising agency. Neither a mutual housing company nor the
 commissioner or the supervising agency may modify in any way the above
 limitation so as to restrict eligibility on the basis of fewer than two
 months of arrears.
-  * NB Effective March 22, 2022
 ```

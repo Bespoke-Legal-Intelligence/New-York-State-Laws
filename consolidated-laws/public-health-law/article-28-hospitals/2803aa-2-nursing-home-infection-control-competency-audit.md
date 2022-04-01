@@ -96,5 +96,4 @@ article. The nursing home must designate one or more staff members who
 are responsible for these communications with staff, residents and
 residents' families.
   * NB There are 2 § 2803-aa's
-  * NB Effective March 22, 2022
 ```

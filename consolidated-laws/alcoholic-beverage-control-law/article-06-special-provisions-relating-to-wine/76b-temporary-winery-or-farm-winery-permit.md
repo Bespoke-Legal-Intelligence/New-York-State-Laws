@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Alcoholic Beverage Control Law § 76-B", "kind": "section", "law_id": "ABC", "location_id": "76-B", "path": "ARTICLE 6 › SECTION 76-B", "repealed": false, "repealed_date": null, "source": "nys-laws:ABC/76-B.md", "title": "Temporary winery or farm winery permit"} -->
+﻿<!-- nyslaw {"citation": "Alcoholic Beverage Control Law § 76-B", "kind": "section", "law_id": "ABC", "location_id": "76-B", "path": "ARTICLE 6 › SECTION 76-B", "repealed": true, "repealed_date": "2022-04-01", "source": "nys-laws:ABC/76-B.md", "title": "Temporary winery or farm winery permit"} -->
 # Alcoholic Beverage Control Law § 76-B — Temporary winery or farm winery permit
 
 [Alcoholic Beverage Control Law](../README.md) › [Article 6 — Special Provisions Relating to Wine](README.md)
+
+**Repealed** (1 Apr 2022). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 76-b. Temporary winery or farm winery permit. 1. Any person may

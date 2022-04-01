@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 30 — Emergency Medical Services](README.md)
 
 ```text
-  * § 3003-b. Availability of ambulance service that provides
+  § 3003-b. Availability of ambulance service that provides
 transportation by aircraft to store and distribute blood and initiate
 and administer blood transfusions. 1. An ambulance service licensed
 under this article that provides transportation by aircraft may store
@@ -37,5 +37,4 @@ such care.
   4. The state emergency medical services council, with the approval of
 the commissioner, shall promulgate rules and regulations to effectuate
 the purposes of this section.
-  * NB Effective March 22, 2022
 ```

@@ -124,19 +124,9 @@ and to enforce applicable federal and state laws.
 required for any prescription under EPIC until the panel has made prior
 authorization applicable to EPIC under section two hundred seventy-five
 of this article.
-  * 10. Prior authorization shall not be required for an initial or
-renewal prescription for buprenorphine or injectable naltrexone for
-detoxification or maintenance treatment of opioid addiction unless the
-prescription is for a non-preferred or non-formulary form of such drug
-as otherwise required by section 1927(k)(6) of the Social Security Act.
-Further, prior authorization shall not be required for methadone, when
-used for opioid use disorder and administered or dispensed in an opioid
-treatment program.
-  * NB Effective until March 22, 2022
-  * 10. Prior authorization shall not be required for any buprenorphine
+  10. Prior authorization shall not be required for any buprenorphine
 products, methadone, or long acting injectable naltrexone for
 detoxification or maintenance treatment of a substance use disorder
 prescribed according to generally accepted national professional
 guidelines for the treatment of a substance use disorder.
-  * NB Effective March 22, 2022
 ```

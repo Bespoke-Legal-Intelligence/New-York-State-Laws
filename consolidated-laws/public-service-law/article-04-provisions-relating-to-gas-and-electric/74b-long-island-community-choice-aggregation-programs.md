@@ -4,8 +4,8 @@
 [Public Service Law](../README.md) › [Article 4 — Provisions Relating to Gas and Electric Corporations; Regulation of Price of Gas and Electricity](README.md)
 
 ```text
-  * § 74-b. Long Island community choice aggregation programs. 1. For
-the purposes of this section:
+  § 74-b. Long Island community choice aggregation programs. 1. For the
+purposes of this section:
   (a) a "Long Island community choice aggregation program" or "CCA"
 means a program serving the interests of its residents and appropriately
 protecting consumer data, in which an eligible municipality either alone
@@ -57,5 +57,4 @@ at a minimum: number of customers served; number of customers cancelling
 during the year; number of complaints received by CCA administrators;
 commodity prices paid; value-added services provided during the year;
 and administrative costs collected, if any.
-  * NB Effective March 21, 2022
 ```

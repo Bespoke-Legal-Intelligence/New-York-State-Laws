@@ -4,14 +4,7 @@
 [Real Property Actions and Proceedings Law](../README.md) › [Article 7 — Summary Proceeding to Recover Possession of Real Property](README.md)
 
 ```text
-  * § 746. Stipulations. In any proceeding under this article, if a
-stipulation is made, on the occasion of a court appearance in the
-proceeding, setting forth an agreement between the parties, other than a
-stipulation solely to adjourn or stay the proceeding, and either the
-petitioner or the respondent is not represented by counsel, the court
-shall fully describe the terms of the stipulation to that party.
-  * NB Effective until March 22, 2022
-  * § 746. Stipulations. 1. In any proceeding under this article, if a
+  § 746. Stipulations. 1. In any proceeding under this article, if a
 stipulation is made, on the occasion of a court appearance in the
 proceeding, setting forth an agreement between the parties, other than a
 stipulation solely to adjourn or stay the proceeding, and either the
@@ -74,5 +67,4 @@ necessary given the history of the case, prior appearances or other
 factors, excluding a court attorney conference provided for in
 subdivision three above, such finding or findings may be omitted and the
 reason for such omission shall be set forth on the record.
-  * NB Effective March 22, 2022
 ```

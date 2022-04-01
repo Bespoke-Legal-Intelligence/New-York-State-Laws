@@ -530,12 +530,11 @@ each authorized family member or guardian; and
   (B) that includes a method to provide all residents with daily access,
 at no cost, to remote videoconference or equivalent communication
 methods with family members and guardians; and
-  * (C) that includes a method, consistent with any guidance and
+  (C) that includes a method, consistent with any guidance and
 regulations issued by the commissioner, to provide all residents with
 access, at no cost, to state long-term care ombudsman program staff and
 volunteers, and that provides state long-term care ombudsman program
 staff and volunteers with access to the facility; and
-  * NB Effective March 22, 2022
   (ii) protection plans against infection for staff, residents and
 families, including:
   (A) a plan for hospitalized residents to be readmitted to such
@@ -598,5 +597,4 @@ a resident's right to privacy and confidentiality pursuant to the
 regulations of the long-term care ombudsman program or the right to
 refuse to consent to the involvement of the long-term care ombudsman.
   * NB There are 2 sb 13's
-  * NB Effective March 22, 2022
 ```

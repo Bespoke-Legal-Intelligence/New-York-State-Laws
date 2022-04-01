@@ -510,7 +510,6 @@ professional guidelines for the treatment of a substance use disorder.
 Such medication assisted treatment shall not be subject to any prior
 authorization mandate.
   * NB There are 3 par (gg)'s
-  * NB Effective March 22, 2022
   * (gg) care and services provided by mental health counselors and
 marriage and family therapists licensed pursuant to article one hundred
 sixty-three of the education law acting within their scope of practice,
@@ -520,7 +519,6 @@ practice of a mental health counselor or marriage and family therapist
 licensed pursuant to article one hundred sixty-three of the education
 law.
   * NB There are 3 par (gg)'s
-  * NB Effective March 29, 2022
   (hh) The commissioner is authorized to establish one or more maternal
 health promotion pilot programs in one or more counties or regions of
 the state, for the purpose of providing Medicaid reimbursement of the
@@ -530,11 +528,10 @@ of improving maternal outcomes and reducing maternal-infant mortality.
 The commissioner is authorized to establish fees for the reimbursement
 of such classes, subject to the approval of the state director of the
 budget.
-  * (ii) Care and services provided by clinical social workers licensed
+  (ii) Care and services provided by clinical social workers licensed
 pursuant to article one hundred fifty-four of the education law acting
 within their scope of practice, where such services would otherwise be
 covered under this title.
-  * NB Effective March 21, 2022
   3. Any inconsistent provisions of this section notwithstanding,
 medical assistance shall include:
   (a) early and periodic screening and diagnosis of eligible persons
