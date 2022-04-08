@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 462", "kind": "section", "law_id": "EXC", "location_id": "462", "path": "ARTICLE 19-E › SECTION 462", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/462.md", "title": "Office of the advocate for people with disabilities"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 462", "kind": "section", "law_id": "EXC", "location_id": "462", "path": "ARTICLE 19-E › SECTION 462", "repealed": true, "repealed_date": "2022-04-08", "source": "nys-laws:EXC/462.md", "title": "Office of the advocate for people with disabilities"} -->
 # Executive Law § 462 — Office of the advocate for people with disabilities
 
 [Executive Law](../README.md) › [Article 19-E — Office of the Advocate For People With Disabilities](README.md)
+
+**Repealed** (8 Apr 2022). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 462. Office of the advocate for people with disabilities. (a)

@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 20-C — Tax On Adult-use Cannabis Products](README.md)
 
 ```text
-  * § 496-a. Returns to be secret. (a) Except in accordance with proper
+  § 496-a. Returns to be secret. (a) Except in accordance with proper
 judicial order or as in this section or otherwise provided by law, it
 shall be unlawful for the commissioner, any officer or employee of the
 department, or any officer or person who, pursuant to this section, is
@@ -88,5 +88,4 @@ provisions of subdivision (a) or (b) of this section shall be dismissed
 from office and be incapable of holding any public office in this state
 for a period of five years thereafter.
   (2) For criminal penalties, see article thirty-seven of this chapter.
-  * NB Effective April 1, 2022
 ```

@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 30-B — Weight Loss Services](README.md)
 
 ```text
-  * § 642. Weight loss services; notice. 1. Any person, firm or
+  § 642. Weight loss services; notice. 1. Any person, firm or
 corporation offering weight loss services or weight loss services and
 products in this state by means of selling or offering to sell such
 services or products to the public shall either (i) conspicuously post a
@@ -45,5 +45,4 @@ corporation which provides weight loss services incidental to their
 primary professional services to such individual and which does not
 offer to sell weight loss services or weight loss products to the
 public.
-  * NB Effective April 6, 2022
 ```

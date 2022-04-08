@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 20-C — Tax On Adult-use Cannabis Products](README.md)
 
 ```text
-  * § 493. Imposition of tax. (a) There is hereby imposed a tax on
+  § 493. Imposition of tax. (a) There is hereby imposed a tax on
 adult-use cannabis products sold by a distributor to a person who sells
 adult-use cannabis products at retail at the following rates:
   (1) cannabis flower at the rate of five-tenths of one cent per
@@ -39,5 +39,4 @@ retail dispensary is located.
   (d) The taxes imposed by this section shall not apply to sales of
 adult-use cannabis to a person holding a cannabis research license under
 section thirty-nine of the cannabis law.
-  * NB Effective April 1, 2022
 ```

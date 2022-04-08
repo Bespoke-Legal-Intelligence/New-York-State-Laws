@@ -18,7 +18,7 @@
 <summary>Official heading of Article 20-C, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 20-C
+                              ARTICLE 20-C
                    TAX ON ADULT-USE CANNABIS PRODUCTS
 Section 492.   Definitions.
         493.   Imposition of tax.
@@ -28,7 +28,6 @@ Section 492.   Definitions.
         496-a. Returns to be secret.
         496-b. Administrative provisions.
         496-c. Illicit cannabis penalty.
-  * NB Effective April 1, 2022
 ```
 
 </details>

@@ -4,8 +4,8 @@
 [General Business Law](../README.md) › [Article 30-B — Weight Loss Services](README.md)
 
 ```text
-  * § 644. Local regulation. Nothing in this article shall be construed
-to restrict the power of any county, city, town or village to adopt and
+  § 644. Local regulation. Nothing in this article shall be construed to
+restrict the power of any county, city, town or village to adopt and
 enforce local laws, ordinances or regulations which exceed the minimum
 requirements of this article, as long as such local laws, ordinances or
 regulations are not inconsistent with the provisions of this article.
@@ -14,5 +14,4 @@ a city having a population of one million or more and which were in
 effect prior to the effective date of this article and any notice
 provided pursuant to such law or rule, shall be deemed to be consistent
 with the provisions of this article.
-  * NB Effective April 6, 2022
 ```

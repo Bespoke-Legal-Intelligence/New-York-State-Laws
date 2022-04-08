@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 461", "kind": "section", "law_id": "EXC", "location_id": "461", "path": "ARTICLE 19-E › SECTION 461", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/461.md", "title": "Definitions"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 461", "kind": "section", "law_id": "EXC", "location_id": "461", "path": "ARTICLE 19-E › SECTION 461", "repealed": true, "repealed_date": "2022-04-08", "source": "nys-laws:EXC/461.md", "title": "Definitions"} -->
 # Executive Law § 461 — Definitions
 
 [Executive Law](../README.md) › [Article 19-E — Office of the Advocate For People With Disabilities](README.md)
+
+**Repealed** (8 Apr 2022). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 461. Definitions. For purposes of this article:

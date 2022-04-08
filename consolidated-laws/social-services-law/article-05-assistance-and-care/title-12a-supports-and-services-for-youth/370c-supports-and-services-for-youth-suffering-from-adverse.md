@@ -4,7 +4,7 @@
 [Social Services Law](../../README.md) › [Article 5 — Assistance and Care](../README.md) › [Title 12-A — Supports and Services For Youth Suffering From Adverse Childhood Experiences](README.md)
 
 ```text
-  * § 370-c. Supports and services for youth suffering from adverse
+  § 370-c. Supports and services for youth suffering from adverse
 childhood experiences. 1. Youth suffering from or at risk of adverse
 childhood experiences, as defined in paragraph (c) of subdivision one of
 section twenty-d of this chapter, may be eligible for a range of
@@ -35,5 +35,4 @@ protective factors and the availability of services for children at risk
 of or suffering from adverse childhood experiences. Such information
 shall be made available electronically and shall be posted on each
 agency's website.
-  * NB Effective April 1, 2022
 ```

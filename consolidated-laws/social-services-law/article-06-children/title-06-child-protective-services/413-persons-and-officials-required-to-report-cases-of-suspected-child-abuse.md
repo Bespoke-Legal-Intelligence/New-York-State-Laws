@@ -123,6 +123,5 @@ recognizing signs of abuse or maltreatment while interacting virtually.
 Such persons and officials shall have three years from the effective
 date of the chapter of the laws of two thousand twenty-one that added
 this subdivision to receive such updated mandated reported training.
-  * NB Effective April 1, 2022
   * NB Repealed April 1, 2025
 ```

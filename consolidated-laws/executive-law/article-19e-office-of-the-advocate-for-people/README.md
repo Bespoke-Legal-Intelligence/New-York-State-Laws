@@ -3,12 +3,14 @@
 
 [Executive Law](../README.md)
 
+**Repealed.**
+
 ## Contents
 
-- [§ 460 Legislative intent](460-legislative-intent.md)
-- [§ 461 Definitions](461-definitions.md)
-- [§ 462 Office of the advocate for people with disabilities](462-office-of-the-advocate-for-people-with-disabilities.md)
-- [§ 463 Director; general responsibilities](463-director-general-responsibilities.md)
+- [§ 460 Legislative intent](460-legislative-intent.md) *(repealed)*
+- [§ 461 Definitions](461-definitions.md) *(repealed)*
+- [§ 462 Office of the advocate for people with disabilities](462-office-of-the-advocate-for-people-with-disabilities.md) *(repealed)*
+- [§ 463 Director; general responsibilities](463-director-general-responsibilities.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 19-E, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

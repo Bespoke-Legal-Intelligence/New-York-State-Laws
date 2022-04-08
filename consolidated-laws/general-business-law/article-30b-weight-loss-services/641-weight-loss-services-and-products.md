@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 30-B — Weight Loss Services](README.md)
 
 ```text
-  * § 641. Weight loss services and products. For the purposes of this
+  § 641. Weight loss services and products. For the purposes of this
 article:
   1. "Weight loss services" shall mean counseling and educational
 activities, including, but not limited to, recommending the use of
@@ -34,5 +34,4 @@ written contract between such person and the person for whom the
 services are performed and such contract provides that the person will
 not be treated as an employee with respect to such services for state
 and federal tax purposes.
-  * NB Effective April 6, 2022
 ```

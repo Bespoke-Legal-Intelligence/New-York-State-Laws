@@ -4,7 +4,7 @@
 [Public Health Law](../../README.md) › [Article 25 — Maternal and Child Health](../README.md) › [Title 1 — General Provisions](README.md)
 
 ```text
-  * § 2509-c. Availability of adverse childhood experiences services.
+  § 2509-c. Availability of adverse childhood experiences services.
 Every pediatrics health care provider licensed pursuant to article one
 hundred thirty-one of the education law shall be required to provide the
 parent, guardian, custodian or other authorized individual of a child
@@ -15,5 +15,4 @@ electronically and shall be used to inform and educate them about
 adverse childhood experiences, the importance of protective factors and
 the availability of services for children at risk for or experiencing
 adverse childhood experiences.
-  * NB Effective April 1, 2022
 ```

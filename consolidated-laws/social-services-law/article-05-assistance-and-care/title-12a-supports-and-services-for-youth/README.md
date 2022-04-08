@@ -11,12 +11,11 @@
 <summary>Official heading of Title 12-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              * TITLE 12-A
+                               TITLE 12-A
          SUPPORTS AND SERVICES FOR YOUTH SUFFERING FROM ADVERSE
                           CHILDHOOD EXPERIENCES
 Section 370-c. Supports and services for youth suffering from adverse
                  childhood experiences.
-  * NB Effective April 1, 2022
 ```
 
 </details>

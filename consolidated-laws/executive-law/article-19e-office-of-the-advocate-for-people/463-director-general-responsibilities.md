@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 463", "kind": "section", "law_id": "EXC", "location_id": "463", "path": "ARTICLE 19-E › SECTION 463", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/463.md", "title": "Director; general responsibilities"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 463", "kind": "section", "law_id": "EXC", "location_id": "463", "path": "ARTICLE 19-E › SECTION 463", "repealed": true, "repealed_date": "2022-04-08", "source": "nys-laws:EXC/463.md", "title": "Director; general responsibilities"} -->
 # Executive Law § 463 — Director; general responsibilities
 
 [Executive Law](../README.md) › [Article 19-E — Office of the Advocate For People With Disabilities](README.md)
+
+**Repealed** (8 Apr 2022). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 463. Director; general responsibilities. The head of the office of

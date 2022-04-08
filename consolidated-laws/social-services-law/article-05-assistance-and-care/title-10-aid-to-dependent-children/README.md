@@ -25,7 +25,7 @@
 - [§ 358-A Dependent children in foster care](358a-dependent-children-in-foster-care.md)
 - [§ 358-B Limitations on state reimbursement for foster care](358b-limitations-on-state-reimbursement-for-foster-care.md)
 - [§ 358-C Rules of court](358c-rules-of-court.md)
-- [§ 360 Real property of legally responsible relatives; deeds and mortgages may be required](360-real-property-of-legally-responsible-relatives-deeds-and-mortgages.md)
+- [§ 360 Real property of legally responsible relatives](360-real-property-of-legally-responsible-relatives.md)
 
 <details>
 <summary>Official heading of Title 10, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

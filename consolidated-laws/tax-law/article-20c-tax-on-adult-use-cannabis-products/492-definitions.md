@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 20-C — Tax On Adult-use Cannabis Products](README.md)
 
 ```text
-  * § 492. Definitions. For purposes of this article, the following
+  § 492. Definitions. For purposes of this article, the following
 definitions shall apply:
   (a) "Adult-use cannabis product" or "adult-use cannabis" has the same
 meaning as the term is defined in section three of the cannabis law. For
@@ -51,5 +51,4 @@ otherwise, in any manner or by any means whatsoever for a consideration
 or any agreement therefor.
   (k) "Total THC" has the same meaning as the term defined in section
 three of the cannabis law.
-  * NB Effective April 1, 2022
 ```

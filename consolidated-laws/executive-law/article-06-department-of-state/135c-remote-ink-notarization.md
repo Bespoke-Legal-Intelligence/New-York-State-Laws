@@ -228,7 +228,7 @@ electronic record after its creation or execution.
           (Signature and title of notary public)
           (official stamp or registration number, with the expiration
 date of the notary public's commission)
-  * NB Effective until January 1, 2023
+  * NB Effective until January 31, 2023
   * § 135-c. Electronic notarization. 1. Definitions. (a) "Communication
 technology" means an electronic device or process that: (i) allows a
 notary public and a remotely located individual to communicate with each
@@ -404,5 +404,5 @@ electronic record after its creation or execution.
           (Signature and title of notary public)
           (official stamp or registration number, with the expiration
 date of the notary public's commission)
-  * NB Effective January 1, 2023
+  * NB Effective January 31, 2023
 ```

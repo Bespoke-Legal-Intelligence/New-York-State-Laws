@@ -4,8 +4,8 @@
 [General Business Law](../README.md) › [Article 30-B — Weight Loss Services](README.md)
 
 ```text
-  * § 643. Deceptive practices. It shall be a deceptive trade practice
-for any person, firm or corporation offering or providing weight loss
+  § 643. Deceptive practices. It shall be a deceptive trade practice for
+any person, firm or corporation offering or providing weight loss
 services or weight loss products to misrepresent, directly or
 indirectly:
   1. the potential health risks of the weight loss services or products
@@ -30,5 +30,4 @@ providing weight loss services or weight loss products;
   4. the total charges for any weight loss services and products; or
   5. the actual or estimated duration of the use of the weight loss
 services or products offered.
-  * NB Effective April 6, 2022
 ```

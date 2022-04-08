@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 20-C — Tax On Adult-use Cannabis Products](README.md)
 
 ```text
-  * § 496. Records to be kept; penalties. (a) Records to be kept. Every
+  § 496. Records to be kept; penalties. (a) Records to be kept. Every
 distributor on whom tax is imposed under this article and every person
 who sells adult-use cannabis products at retail shall maintain complete
 and accurate records in such form as the commissioner may require
@@ -27,5 +27,4 @@ If the commissioner determines that a failure to maintain or make
 available records in any month was entirely due to reasonable cause and
 not to willful neglect, the commissioner must remit the penalty for that
 month.
-  * NB Effective April 1, 2022
 ```

@@ -40,9 +40,8 @@ and medicines, purchased at retail for use in performing medical and
 similar services for compensation.
   (3-a) Feminine hygiene products, including, but not limited to,
 sanitary napkins, tampons and panty liners.
-  * (3-b) Adult-use cannabis products as defined by article twenty-C of
+  (3-b) Adult-use cannabis products as defined by article twenty-C of
 this chapter.
-  * NB Effective April 1, 2022
   (4) Prosthetic aids, hearing aids, eyeglasses and artificial devices
 and component parts thereof purchased to correct or alleviate physical
 incapacity in human beings.

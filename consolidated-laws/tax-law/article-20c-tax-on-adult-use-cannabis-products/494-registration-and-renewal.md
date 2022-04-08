@@ -4,8 +4,8 @@
 [Tax Law](../README.md) › [Article 20-C — Tax On Adult-use Cannabis Products](README.md)
 
 ```text
-  * § 494. Registration and renewal. (a) (i) Every distributor on whom
-tax is imposed under this article and every person who sells adult-use
+  § 494. Registration and renewal. (a) (i) Every distributor on whom tax
+is imposed under this article and every person who sells adult-use
 cannabis products at retail must file with the commissioner a properly
 completed application for a certificate of registration before engaging
 in business. An application for a certificate of registration must be
@@ -87,5 +87,4 @@ products without such certificate shall be subject to a penalty of five
 hundred dollars for each month or part thereof during which adult-use
 cannabis products are possessed without such certificate, not to exceed
 ten thousand dollars in the aggregate.
-  * NB Effective April 1, 2022
 ```

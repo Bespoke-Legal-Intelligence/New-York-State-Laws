@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 20-C — Tax On Adult-use Cannabis Products](README.md)
 
 ```text
-  * § 496-b. Administrative provisions. (a) The provisions of article
+  § 496-b. Administrative provisions. (a) The provisions of article
 twenty-seven of this chapter shall apply to the taxes imposed by section
 four hundred ninety-three of this article in the same manner and with
 the same force and effect as if the language of such article had been
@@ -57,5 +57,4 @@ such town and village. Such counties shall distribute the monies
 received for each quarter ending on the last day of February, May,
 August or November to such towns, villages and cities no later than the
 thirtieth day after receipt of such monies from the comptroller.
-  * NB Effective April 1, 2022
 ```

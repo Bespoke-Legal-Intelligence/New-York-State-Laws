@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | EXC |
 | Type | Consolidated law, chapter 18 |
-| Sections | 934 (1 repealed) |
-| Last changed | 1 Apr 2022 |
+| Sections | 934 (5 repealed) |
+| Last changed | 8 Apr 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Executive |
 
@@ -29,10 +29,11 @@ The People of the State of New York, represented in Senate and Assembly,
                  CHAPTER EIGHTEEN OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (120 lines)](chapter-text.md)
+[Full chapter text (118 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [8 Apr 2022](../../changes/2022/2022-04-08.md): 3 amended, 4 repealed
 - [1 Apr 2022](../../changes/2022/2022-04-01.md): 1 amended, 1 repealed
 - [25 Mar 2022](../../changes/2022/2022-03-25.md): 7 amended, 1 added
 - [18 Mar 2022](../../changes/2022/2022-03-18.md): 7 amended
@@ -42,7 +43,6 @@ The People of the State of New York, represented in Senate and Assembly,
 - [4 Feb 2022](../../changes/2022/2022-02-04.md): 2 amended
 - [21 Jan 2022](../../changes/2022/2022-01-21.md): 1 amended
 - [14 Jan 2022](../../changes/2022/2022-01-14.md): 1 amended
-- [7 Jan 2022](../../changes/2022/2022-01-07.md): 7 amended, 1 repealed
 
 ## Contents
 
@@ -92,7 +92,7 @@ The People of the State of New York, represented in Senate and Assembly,
 - [Article 19-A — Delinquency and Youth Crime Prevention](article-19a-delinquency-and-youth-crime-prevention/)
 - [Article 19-B — State Bingo Control Commission](article-19b-state-bingo-control-commission/)
 - [Article 19-D — Developmental Disabilities Planning Council](article-19d-developmental-disabilities-planning-council/)
-- [Article 19-E — Office of the Advocate For People With Disabilities](article-19e-office-of-the-advocate-for-people/)
+- [Article 19-E — Office of the Advocate For People With Disabilities](article-19e-office-of-the-advocate-for-people/) *(repealed)*
 - [Article 19-F — Rural Affairs Act](article-19f-rural-affairs-act/)
 - [Article 19-G — Office of Children and Family Services](article-19g-office-of-children-and-family-services/)
 - [Article 19-H — Runaway and Homeless Youth Act of Nineteen Hundred Seventy-eight](article-19h-runaway-and-homeless-youth-act-of-nineteen/)

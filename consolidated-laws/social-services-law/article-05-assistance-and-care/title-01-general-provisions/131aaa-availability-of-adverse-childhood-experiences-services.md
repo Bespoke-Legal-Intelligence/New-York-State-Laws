@@ -4,7 +4,7 @@
 [Social Services Law](../../README.md) › [Article 5 — Assistance and Care](../README.md) › [Title 1 — General Provisions](README.md)
 
 ```text
-  * § 131-aaa. Availability of adverse childhood experiences services.
+  § 131-aaa. Availability of adverse childhood experiences services.
 Each local social services district shall be required to make available
 to applicants and recipients of public assistance who are a parent,
 guardian, custodian or otherwise responsible for a child's care,
@@ -15,5 +15,4 @@ availability of services for children at risk for or suffering from
 adverse childhood experiences. The educational materials may be made
 available electronically and shall be offered at the time of application
 and recertification.
-  * NB Effective April 1, 2022
 ```
