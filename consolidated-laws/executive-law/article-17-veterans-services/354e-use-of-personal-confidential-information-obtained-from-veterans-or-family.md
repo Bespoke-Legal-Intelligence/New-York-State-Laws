@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
 
 ```text
-  § 354-e. Use of personal confidential information obtained from
+  * § 354-e. Use of personal confidential information obtained from
 veterans or family members of veterans receiving services from the state
 and political subdivisions thereof. 1. Departments, divisions, bureaus,
 boards, commissions and agencies of the state and political subdivisions
@@ -30,4 +30,5 @@ problems within the agency requesting such information and in referring
 the veteran or family member to the division of veterans' services for
 the information and assistance with regard to benefits and entitlements
 under federal and state law.
+  * NB Repealed April 1, 2023
 ```

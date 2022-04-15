@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
 
 ```text
-  § 350. Definitions. When used in this article:
+  * § 350. Definitions. When used in this article:
   1. The term "division" means the division of veterans' services.
   2. The term "state director" means the New York state director of
 veterans' services.
@@ -43,4 +43,5 @@ qualifies as a discharged LGBT veteran under this subdivision,
 including, at a minimum, standards for verifying a veteran's status as a
 discharged LGBT veteran, and a method of demonstrating eligibility as a
 discharged LGBT veteran.
+  * NB Repealed April 1, 2023
 ```

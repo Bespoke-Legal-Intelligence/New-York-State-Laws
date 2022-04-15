@@ -8,7 +8,7 @@
 | Senate code | CNT |
 | Type | Consolidated law, chapter 11 |
 | Sections | 404 (2 repealed) |
-| Last changed | 4 Mar 2022 |
+| Last changed | 15 Apr 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | County |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                  CHAPTER ELEVEN OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (55 lines)](chapter-text.md)
+[Full chapter text (53 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [15 Apr 2022](../../changes/2022/2022-04-15.md): 1 amended
 - [4 Mar 2022](../../changes/2022/2022-03-04.md): 1 amended, 2 repealed
 - [28 Jan 2022](../../changes/2022/2022-01-28.md): 1 amended
 - [31 Dec 2021](../../changes/2021/2021-12-31.md): 2 added
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [13 Aug 2021](../../changes/2021/2021-08-13.md): 3 amended
 - [13 Nov 2020](../../changes/2020/2020-11-13.md): 1 amended
 - [16 Oct 2020](../../changes/2020/2020-10-16.md): 1 amended
-- [24 Apr 2020](../../changes/2020/2020-04-24.md): 1 amended
 
 ## Contents
 

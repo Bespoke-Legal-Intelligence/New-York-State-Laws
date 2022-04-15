@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
 
 ```text
-  § 361-b. Women veterans coordinator. 1. Definitions. (a) "Veteran"
+  * § 361-b. Women veterans coordinator. 1. Definitions. (a) "Veteran"
 shall have the same meaning as provided in subdivision one of section
 three hundred sixty-four of this article.
   (b) "Division" shall mean the state division of veterans' services.
@@ -52,4 +52,5 @@ developed pursuant to the provisions of this section. The director shall
 submit the report or a synopsis of the report to the governor in
 accordance with the provisions of section three hundred fifty-three of
 this article.
+  * NB Repealed April 1, 2023
 ```

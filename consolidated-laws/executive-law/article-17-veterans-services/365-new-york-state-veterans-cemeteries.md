@@ -4,10 +4,10 @@
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
 
 ```text
-  § 365. New York state veterans cemeteries. 1. Legislative intent. The
-legislature finds and determines that the devoted service and sacrifice
-of veterans deserve important, unique and eternal recognition by the
-state of New York. That it is by means of the devoted service and
+  * § 365. New York state veterans cemeteries. 1. Legislative intent.
+The legislature finds and determines that the devoted service and
+sacrifice of veterans deserve important, unique and eternal recognition
+by the state of New York. That it is by means of the devoted service and
 sacrifice of veterans that the liberty, freedom and prosperity enjoyed
 by all New Yorkers is maintained and preserved.
   The legislature further finds and determines that to provide this
@@ -370,4 +370,5 @@ veterans cemetery, may provide for the expansion and/or improvement of
 the cemetery. Such expansion and improvement shall be conducted in
 accordance with the rules and regulations of the division under
 paragraph (h) of subdivision two of this section.
+  * NB Repealed April 1, 2023
 ```

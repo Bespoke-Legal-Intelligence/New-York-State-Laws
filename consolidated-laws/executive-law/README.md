@@ -7,14 +7,14 @@
 |---|---|
 | Senate code | EXC |
 | Type | Consolidated law, chapter 18 |
-| Sections | 934 (5 repealed) |
-| Last changed | 8 Apr 2022 |
+| Sections | 930 |
+| Last changed | 15 Apr 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Executive |
 
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
-**Short title (from the law itself):** § 369. Short title. This article shall be known and may be cited as the "veterans employment act".
+**Short title (from the law itself):** * § 369. Short title. This article shall be known and may be cited as the "veterans employment act". * NB Repealed April 1, 2023
 
 ## Chapter text as published
 
@@ -33,6 +33,7 @@ The People of the State of New York, represented in Senate and Assembly,
 
 ## Recent changes
 
+- [15 Apr 2022](../../changes/2022/2022-04-15.md): 46 amended, 1 added, 5 removed
 - [8 Apr 2022](../../changes/2022/2022-04-08.md): 3 amended, 4 repealed
 - [1 Apr 2022](../../changes/2022/2022-04-01.md): 1 amended, 1 repealed
 - [25 Mar 2022](../../changes/2022/2022-03-25.md): 7 amended, 1 added
@@ -42,7 +43,6 @@ The People of the State of New York, represented in Senate and Assembly,
 - [11 Feb 2022](../../changes/2022/2022-02-11.md): 1 amended, 4 added, 1 removed
 - [4 Feb 2022](../../changes/2022/2022-02-04.md): 2 amended
 - [21 Jan 2022](../../changes/2022/2022-01-21.md): 1 amended
-- [14 Jan 2022](../../changes/2022/2022-01-14.md): 1 amended
 
 ## Contents
 
@@ -92,7 +92,6 @@ The People of the State of New York, represented in Senate and Assembly,
 - [Article 19-A — Delinquency and Youth Crime Prevention](article-19a-delinquency-and-youth-crime-prevention/)
 - [Article 19-B — State Bingo Control Commission](article-19b-state-bingo-control-commission/)
 - [Article 19-D — Developmental Disabilities Planning Council](article-19d-developmental-disabilities-planning-council/)
-- [Article 19-E — Office of the Advocate For People With Disabilities](article-19e-office-of-the-advocate-for-people/) *(repealed)*
 - [Article 19-F — Rural Affairs Act](article-19f-rural-affairs-act/)
 - [Article 19-G — Office of Children and Family Services](article-19g-office-of-children-and-family-services/)
 - [Article 19-H — Runaway and Homeless Youth Act of Nineteen Hundred Seventy-eight](article-19h-runaway-and-homeless-youth-act-of-nineteen/)

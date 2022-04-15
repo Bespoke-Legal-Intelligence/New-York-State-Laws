@@ -4,9 +4,10 @@
 [Executive Law](../README.md) › [Article 17-A — Veterans Employment Act](README.md)
 
 ```text
-  § 369-c. Temporary hiring. Notwithstanding any provision of law to the
-contrary, a state agency shall select a veteran from the veteran
+  * § 369-c. Temporary hiring. Notwithstanding any provision of law to
+the contrary, a state agency shall select a veteran from the veteran
 temporary hiring list when making a temporary appointment provided such
 veteran possesses the applicable skills needed for the temporary
 assignment.
+  * NB Repealed April 1, 2023
 ```

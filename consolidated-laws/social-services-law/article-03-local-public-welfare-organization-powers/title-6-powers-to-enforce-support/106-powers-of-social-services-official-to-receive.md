@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Social Services Law § 106", "kind": "section", "law_id": "SOS", "location_id": "106", "path": "ARTICLE 3 › TITLE 6 › SECTION 106", "repealed": false, "repealed_date": null, "source": "nys-laws:SOS/106.md", "title": "Powers of social services official to receive and dispose of a deed, mortgage, or lien"} -->
+﻿<!-- nyslaw {"citation": "Social Services Law § 106", "kind": "section", "law_id": "SOS", "location_id": "106", "path": "ARTICLE 3 › TITLE 6 › SECTION 106", "repealed": true, "repealed_date": "2022-04-15", "source": "nys-laws:SOS/106.md", "title": "Powers of social services official to receive and dispose of a deed, mortgage, or lien"} -->
 # Social Services Law § 106 — Powers of social services official to receive and dispose of a deed, mortgage, or lien
 
 [Social Services Law](../../README.md) › [Article 3 — Local Public Welfare Organization; Powers and Duties](../README.md) › [Title 6 — Powers to Enforce Support](README.md)
+
+**Repealed** (15 Apr 2022). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 106. Powers of social services official to receive and dispose of a

@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
 
 ```text
-  § 352. Veterans' services commission. 1. There shall be in the
+  * § 352. Veterans' services commission. 1. There shall be in the
 division a veterans' services commission, which shall consist of the
 members and the ex officio members provided for in this section.
   2. There shall be thirteen members of the commission who shall be
@@ -48,4 +48,5 @@ commission.
 assist the state director in the formulation of policies affecting
 veterans and in the coordination of all operations of state agencies
 relating to veterans' services.
+  * NB Repealed April 1, 2023
 ```

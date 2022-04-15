@@ -39,7 +39,7 @@
 <summary>Official heading of Article 17, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                               ARTICLE 17
+                              * ARTICLE 17
                            VETERANS' SERVICES
 Section 350.   Definitions.
         351.   Division of veterans' services.
@@ -79,6 +79,7 @@ Section 350.   Definitions.
         367.   Payment to parents of veterans.
         368.   Cremated remains of a veteran.
         368-a. Intake forms for admission and residency.
+  * NB Repealed April 1, 2023
 ```
 
 </details>

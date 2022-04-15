@@ -8,7 +8,6 @@
 - [§ 75 Kinds of licenses](75-kinds-of-licenses.md)
 - [§ 76 Winery license](76-winery-license.md)
 - [§ 76-A Farm winery license](76a-farm-winery-license.md)
-- [§ 76-B Temporary winery or farm winery permit](76b-temporary-winery-or-farm-winery-permit.md) *(repealed)*
 - [§ 76-C Special winery license](76c-special-winery-license.md)
 - [§ 76-D Special farm winery license](76d-special-farm-winery-license.md)
 - [§ 76-E Special provisions relating to wineries and farm wineries holding a distiller's license](76e-special-provisions-relating-to-wineries-and-farm-wineries-holding.md)

@@ -15,7 +15,7 @@ thirty-nine of this chapter and pursuant to this chapter, shall, if
 approved by the department of family assistance, be subject to
 reimbursement by the state, in accordance with the regulations of the
 department, as follows:
-  * NB Effective until June 30, 2022
+  * NB Effective until June 30, 2027
   * Expenditures made by social services districts, cities and towns for
 public assistance and care and its administration, pursuant to this
 chapter and expenditures made by any Indian tribe for foster care
@@ -25,7 +25,7 @@ department in accordance with section thirty-nine of this chapter and
 pursuant to this chapter, shall, if approved by the department, be
 subject to reimbursement by the state, in accordance with the
 regulations of the department, as follows:
-  * NB Effective June 30, 2022
+  * NB Effective June 30, 2027
   There shall be paid to each such district, city or town
   a. the amount of federal funds, if any, properly received or to be
 received on account of such expenditures;
@@ -205,7 +205,7 @@ relief is a town charge, such payment as the towns therein shall be
 entitled to shall be made to the fiscal officer of the county for the
 account of and reimbursement to such towns, except in the case of a town
 which is a public welfare district.
-  8. Any inconsistent provision of the law or regulation of the
+  * 8. Any inconsistent provision of the law or regulation of the
 department notwithstanding, state reimbursement shall not be made for
 any expenditure made for the duplication of any grant and allowance for
 any period, except as authorized by subdivision eleven of section one
@@ -217,6 +217,16 @@ eviction. Notwithstanding any other provision of law, social services
 districts are not required to provide home relief to any person,
 otherwise eligible, if state reimbursement is not available in
 accordance with this subdivision.
+  * NB Effective until October 1, 2022
+  * 8. Any inconsistent provision of the law or regulation of the
+department notwithstanding, state reimbursement shall not be made for
+any expenditure made for the duplication of any grant and allowance for
+any period, except as authorized by subdivision eleven of section one
+hundred thirty-one of this chapter. Notwithstanding any other provision
+of law, social services districts are not required to provide safety net
+assistance to any person, otherwise eligible, if state reimbursement is
+not available in accordance with this subdivision.
+  * NB Effective October 1, 2022
   9. Any inconsistent provision of this chapter or other law
 notwithstanding, any loss of federal funds assessed by the department of
 health, education and welfare against the state by reason of the failure
@@ -263,7 +273,7 @@ education that such funds are overdue and owed by such school district.
 The commissioner of the office of children and family services, in
 consultation with the commissioner of education, shall promulgate
 regulations to implement the provisions of this subdivision.
-  * NB Effective until April 1, 2022
+  * NB Effective until April 1, 2023
   * 10. Expenditures made by a social services district for the
 maintenance of children with disabilities, placed by school districts,
 pursuant to section forty-four hundred five of the education law shall,
@@ -297,7 +307,7 @@ such funds are overdue and owed by such school district. The
 commissioner of the office of children and family services, in
 consultation with the commissioner of education, shall promulgate
 regulations to implement the provisions of this subdivision.
-  * NB Effective April 1, 2022 until June 30, 2022
+  * NB Effective April 1, 2023 until June 30, 2027
   * 10. Expenditures made by a social services district for the
 maintenance of handicapped children, placed by school districts,
 pursuant to section forty-four hundred five of the education law shall,
@@ -307,7 +317,7 @@ or to be received on account of such expenditure. Such expenditures
 shall not be subject to the limitations on state reimbursement contained
 in sections one hundred fifty-three-d or one hundred fifty-three-e of
 this chapter.
-  * NB Effective June 30, 2022
+  * NB Effective June 30, 2027
   * 11. Expenditures made by a social services district for approved
 tuition costs pursuant to section four thousand four of the education
 law, after first deducting therefrom any federal funds received or to be
@@ -320,7 +330,7 @@ as applicable; provided, however, that the amount that a school district
 reimburses the state for its expenditure for such children pursuant to
 section four thousand four of the education law shall be credited to
 each applicable social services district.
-  * NB Effective until June 30, 2022
+  * NB Effective until June 30, 2027
   * 11. Expenditures made by a social services district for approved
 tuition costs of certain children pursuant to section four thousand four
 of the education law, after first deducting therefrom any federal funds
@@ -329,7 +339,7 @@ percent reimbursement by the state; provided, however, that the amount
 that a school district reimburses the state for its expenditure for such
 children pursuant to section four thousand four of the education law
 shall be credited to each applicable social services district.
-  * NB Effective June 30, 2022
+  * NB Effective June 30, 2027
   * 12. Expenditures made by a social services district for the
 detention in foster care facilities or certified or approved family
 boarding homes of a person alleged to be or adjudicated as a person in
@@ -338,7 +348,7 @@ shall be subject to reimbursement by the state in accordance with the
 provisions of section five hundred thirty of the executive law. The care
 of such person shall not be required to comply with the requirements of
 sections four hundred nine-e and four hundred nine-f of this chapter.
-  * NB Effective until June 30, 2022
+  * NB Effective until June 30, 2027
   * 12. Expenditures made by a social services district for the
 detention in foster care facilities of a person alleged to be or
 adjudicated as a person in need of supervision, pursuant to article
@@ -348,7 +358,7 @@ of the executive law.  The care of such person shall not be required to
 comply with the requirements of sections four hundred nine-e and four
 hundred nine-f, nor be subject to the provisions of section one hundred
 fifty-three-d or three hundred ninety-eight-b of this chapter.
-  * NB Effective June 30, 2022
+  * NB Effective June 30, 2027
   15. Notwithstanding the provisions of this section or any other law to
 the contrary, expenditures made by a social services district for
 brokers' fees, finders' fees or security deposits paid pursuant to this

@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
 
 ```text
-  § 366. Veterans health screening. 1. As used in this section: a.
+  * § 366. Veterans health screening. 1. As used in this section: a.
 "Eligible member" means a member of the New York army national guard or
 the New York air national guard who served in the Persian Gulf War, as
 defined in 38 USC 101, or in an area designated as a combat zone by the
@@ -52,4 +52,5 @@ predeployment training concerning potential exposure to depleted uranium
 and other toxic chemical substances and the precautions recommended
 under combat and noncombat conditions while in a combat theater or
 combat zone of operations.
+  * NB Repealed April 1, 2023
 ```

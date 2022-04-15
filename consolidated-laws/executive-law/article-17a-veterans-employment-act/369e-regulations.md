@@ -4,7 +4,8 @@
 [Executive Law](../README.md) › [Article 17-A — Veterans Employment Act](README.md)
 
 ```text
-  § 369-e. Regulations. The president of the state civil service
+  * § 369-e. Regulations. The president of the state civil service
 commission shall promulgate such rules and regulations as shall be
 necessary to implement the provisions of this article.
+  * NB Repealed April 1, 2023
 ```

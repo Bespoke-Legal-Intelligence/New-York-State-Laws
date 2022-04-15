@@ -4,8 +4,8 @@
 [Executive Law](../README.md) › [Article 17-A — Veterans Employment Act](README.md)
 
 ```text
-  § 369-a. Legislative findings. The legislature hereby finds that it is
-estimated that over the next five years, forty-four thousand veterans
+  * § 369-a. Legislative findings. The legislature hereby finds that it
+is estimated that over the next five years, forty-four thousand veterans
 are expected to return to this state from their military posts, making
 the Empire State home to one of the largest veteran populations in the
 country. Shockingly, the unemployment rate for Post-9/11 veterans in New
@@ -29,4 +29,5 @@ workforce.
 veterans for temporary appointments in state agencies rather than
 utilizing temporary employment service companies in order to provide
 employment opportunities for returning military veterans.
+  * NB Repealed April 1, 2023
 ```

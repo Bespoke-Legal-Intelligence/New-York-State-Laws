@@ -267,12 +267,22 @@ or for whom an application for such aid has been made, who is a
 full-time student or part-time student attending a school, college, or
 university, or a course of vocational or technical training designed to
 fit him for gainful employment;
-  (ii) from the earned income of any child or relative applying for or
+  * (ii) from the earned income of any child or relative applying for or
 receiving aid pursuant to such program, or of any other individual
 living in the same household as such relative and child whose needs are
 taken into account in making such determination, the first ninety
 dollars of the total of such earned income for such month;
-  (iii) forty-two percent of the earned income for such month of any
+  * NB Effective until October 1, 2022
+  * (ii) fifty percent of the earned income for such month of any
+recipient; provided, however, that such percentage amount shall be
+adjusted in June of each year to reflect changes in the most recently
+issued poverty guidelines of the United States Bureau of the Census,
+such that a household of three without special needs, living in a heated
+apartment in New York city and without unearned income would become
+ineligible for assistance with gross earnings equal to the poverty level
+in such guidelines;
+  * NB Effective October 1, 2022
+  * (iii) forty-two percent of the earned income for such month of any
 recipient in a household containing a dependent child which remains
 after application of all other subparagraphs of this paragraph;
 provided, however, that such percentage amount shall be adjusted in June
@@ -286,6 +296,14 @@ however, that no assistance shall be given to any household with gross
 earned and unearned income, exclusive of income described in
 subparagraphs (i) and (vi) of this paragraph, in excess of such poverty
 level;
+  * NB Effective until October 1, 2022
+  * (iii) from the earned income of any child, applicant, recipient, or
+relative applying for or receiving aid pursuant to such program, or of
+any other individual living in the same household as such relative and
+child whose needs are taken into account in making such determination,
+one hundred fifty dollars of the earned income for such month that
+remains after application of subparagraph (ii) of this paragraph;
+  * NB Effective October 1, 2022
   (v) the first one hundred dollars received in such month which
 represent support payments timely paid in and for such month for one
 child, and the first two hundred dollars received in such month which
@@ -361,7 +379,7 @@ household and claimed by such stepparent as dependents for purposes of
 determining such stepparent's federal personal income tax liability; and
   (d) payments of alimony or child support made by such stepparent with
 respect to individuals not living in such household.
-  10. (a) Notwithstanding the provisions of this section or any other
+  * 10. (a) Notwithstanding the provisions of this section or any other
 law to the contrary, no person or family shall be eligible for public
 assistance for any month in which the total income of the family,
 excluding benefits received under such programs and without application
@@ -380,6 +398,7 @@ energy payments provided pursuant to subdivision three-c of this section
 and amounts for other items when required by individual case
 circumstances for which specific provision is otherwise made in this
 article.
+  * NB Repealed October 1, 2022
   12. (a) No public assistance household having income which, after
 application of applicable disregards, exceeds the household standard of
 need, because of the receipt in any month of a nonrecurring lump sum of

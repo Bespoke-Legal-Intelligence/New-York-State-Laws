@@ -4,7 +4,8 @@
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
 
 ```text
-  § 368. Cremated remains of a veteran. The cremated remains of a
+  * § 368. Cremated remains of a veteran. The cremated remains of a
 veteran may be disposed of pursuant to the provisions of section
 forty-two hundred three of the public health law.
+  * NB Repealed April 1, 2023
 ```

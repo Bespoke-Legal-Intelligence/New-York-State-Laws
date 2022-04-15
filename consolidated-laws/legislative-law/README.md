@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | LEG |
 | Type | Consolidated law, chapter 32 |
-| Sections | 128 (3 repealed) |
-| Last changed | 22 Oct 2021 |
+| Sections | 126 |
+| Last changed | 15 Apr 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Legislative |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [15 Apr 2022](../../changes/2022/2022-04-15.md): 14 amended, 1 added, 3 removed
 - [22 Oct 2021](../../changes/2021/2021-10-22.md): 2 repealed
 - [23 Apr 2021](../../changes/2021/2021-04-23.md): 14 amended
 - [17 Apr 2020](../../changes/2020/2020-04-17.md): 14 amended
@@ -40,7 +41,6 @@ Assembly, do enact as follows:
 - [11 Jan 2019](../../changes/2019/2019-01-11.md): 1 amended
 - [31 Aug 2018](../../changes/2018/2018-08-31.md): 1 amended
 - [27 Apr 2018](../../changes/2018/2018-04-27.md): 15 amended
-- [12 Jan 2018](../../changes/2018/2018-01-12.md): 1 amended
 
 ## Contents
 
@@ -56,5 +56,4 @@ Assembly, do enact as follows:
 - [Article 5-A — Legislative Commissions](article-5a-legislative-commissions/)
 - [Article 5-B — Legislative Review of Administrative Regulations](article-5b-legislative-review-of-administrative-regulations/)
 - [Article 6 — Internal Control Responsibilities of the State Legislature](article-6-internal-control-responsibilities-of-the-state/)
-- [Article 6-A — Redistricting of Congressional and State Legislative Districts](article-6a-redistricting-of-congressional-and-state/) *(repealed)*
 - [Article 7 — Laws Repealed; When to Take Effect](article-7-laws-repealed-when-to-take-effect/)

@@ -13,7 +13,7 @@
 - [§ 104-A Transfer of property for the purpose of qualifying for assistance; presumption](104a-transfer-of-property-for-the-purpose.md)
 - [§ 104-B Liens for public assistance and care on claims and suits for personal injuries](104b-liens-for-public-assistance-and-care-on-claims.md)
 - [§ 105 Claim on insurance](105-claim-on-insurance.md)
-- [§ 106 Powers of social services official to receive and dispose of a deed, mortgage, or lien](106-powers-of-social-services-official-to-receive.md)
+- [§ 106 Powers of social services official to receive and dispose of a deed, mortgage, or lien](106-powers-of-social-services-official-to-receive.md) *(repealed)*
 - [§ 106-A Exemption from payment of fees for instruments affecting real or personal property; exemption of mortgages from mortgage recording tax](106a-exemption-from-payment-of-fees-for-instruments.md)
 - [§ 106-B Adjustment for incorrect payments](106b-adjustment-for-incorrect-payments.md)
 - [§ 106-C Crediting of overpayment of tax to obligation of public assistance recipients](106c-crediting-of-overpayment-of-tax-to-obligation.md)
@@ -41,8 +41,6 @@ Section 101.   Liability of relatives to support.
         104-b. Liens for public assistance and care on claims and suits
                  for personal injuries.
         105.   Claim on insurance.
-        106.   Powers of social services official to receive and dispose
-                 of a deed, mortgage, or lien.
         106-a. Exemption from payment of fees for instruments affecting
                  real or personal property; exemption of mortgages from
                  mortgage recording tax.

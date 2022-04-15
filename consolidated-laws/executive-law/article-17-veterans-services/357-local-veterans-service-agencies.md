@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
 
 ```text
-  § 357. Local veterans' service agencies. 1. County veterans' service
+  * § 357. Local veterans' service agencies. 1. County veterans' service
 agencies. There shall be established a county veterans' service agency
 in each county not wholly included within a city, and there shall be a
 county director of each county veterans' service agency. Any county
@@ -86,4 +86,5 @@ may provide services to veterans and their family members as defined in
 section three hundred fifty-eight of this article other than the
 preparation, presentation, and prosecution of claims for benefits under
 federal statutes and regulations.
+  * NB Repealed April 1, 2023
 ```

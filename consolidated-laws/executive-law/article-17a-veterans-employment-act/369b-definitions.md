@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 17-A — Veterans Employment Act](README.md)
 
 ```text
-  § 369-b. Definitions. As used in this article:
+  * § 369-b. Definitions. As used in this article:
   1. "State agency" shall mean any department, board, bureau, division,
 commission, council or committee within the executive branch, the state
 university of New York, the city University of New York, and all public
@@ -20,4 +20,5 @@ such service otherwise then by dishonorable discharge after September
 eleventh, two thousand one.
   4. "Veteran temporary hiring list" shall mean a hiring list maintained
 by the department of civil service.
+  * NB Repealed April 1, 2023
 ```

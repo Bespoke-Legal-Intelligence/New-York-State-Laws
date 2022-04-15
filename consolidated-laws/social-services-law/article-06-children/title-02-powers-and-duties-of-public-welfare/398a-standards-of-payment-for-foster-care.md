@@ -27,7 +27,7 @@ care. When the office of children and family services has established
 such standards, reimbursement under subdivision two of section one
 hundred fifty-three-k of this chapter, for the care of foster children
 shall be limited in accordance with such standards.
-  * NB Effective until June 30, 2022
+  * NB Effective until June 30, 2027
   * (2) The department shall promulgate, subject to consultation with
 appropriate state agencies, the approval of the director of the budget
 and certification to the chairmen of the senate finance and assembly
@@ -40,7 +40,7 @@ be provided for the foster child and the cost of such care. When the
 department has established such standards, reimbursement under section
 one hundred fifty-three of this chapter, for the care of foster children
 shall be limited in accordance with such standards.
-  * NB Effective June 30, 2022
+  * NB Effective June 30, 2027
   (2-a) Those social services districts that as of January first, two
 thousand five were paying at least one hundred percent of the applicable
 rates published by the office of children and family services for the
@@ -81,6 +81,35 @@ services. The office of children and family services may enter into
 contracts on behalf of social services districts for such direct deposit
 or debit card services in accordance with section twenty-one-a of this
 chapter.
+  (2-c) Those social services districts that as of July first, two
+thousand twenty-two were paying at least one hundred percent of the
+applicable rates published by the office of children and family services
+for the two thousand twenty-two--two thousand twenty-three rate year for
+care provided to foster children in regular, therapeutic, special needs,
+and emergency foster boarding homes shall pay for the two thousand
+twenty-two--two thousand twenty-three rate year and for each subsequent
+rate year thereafter at least one hundred percent of the applicable
+rates published by the office of children and family services for that
+rate year. Those social services districts that as of July first, two
+thousand twenty-two were paying less than the applicable rates published
+by the office of children and family services for the two thousand
+twenty-two--two thousand twenty-three rate year for care provided to
+foster children in regular, therapeutic, special needs and emergency
+foster boarding homes shall increase their rates of payment so that:
+effective July first, two thousand twenty-two the difference between the
+percentage of the applicable rates published by the office of children
+and family services for the two thousand twenty-two--two thousand
+twenty-three rate year and the rates such districts are paying is at
+least one-half less than the difference between the percentage of the
+applicable rates published by the office of children and family services
+for the two thousand twenty-two--two thousand twenty-three rate year and
+the rates that such districts were paying for such programs on July
+first, two thousand twenty-two; and effective July first, two thousand
+twenty-three for the two thousand twenty-three--two thousand twenty-four
+rate year and for each subsequent year thereafter all social services
+districts shall pay at least one hundred percent of the applicable rates
+published by the office of children and family services for the
+applicable rate year.
   (3) If the commissioner finds that a social services district or a
 city containing a social services district has adopted regulations
 establishing standards of payment for care provided foster children by

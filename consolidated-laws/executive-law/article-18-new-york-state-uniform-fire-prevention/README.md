@@ -14,7 +14,6 @@
 - [§ 375 Powers of the council](375-powers-of-the-council.md)
 - [§ 376 Powers of the secretary](376-powers-of-the-secretary.md)
 - [§ 376-A Code enforcement training and certification](376a-code-enforcement-training-and-certification.md)
-- [§ 376-B Securing of grease traps and interceptors by food service establishments](376b-securing-of-grease-traps-and-interceptors-by-food-service-establishments.md) *(repealed)*
 - [§ 377 New York state uniform fire prevention and building code](377-new-york-state-uniform-fire-prevention-and-building-code.md)
 - [§ 378 Standards for New York state uniform fire prevention and building code](378-standards-for-new-york-state-uniform-fire-prevention-and-building-code.md)
 - [§ 379 Incorporation of higher standards by council upon recommendation of local government; local building regulations](379-incorporation-of-higher-standards-by-council-upon-recommendation-of-local.md)

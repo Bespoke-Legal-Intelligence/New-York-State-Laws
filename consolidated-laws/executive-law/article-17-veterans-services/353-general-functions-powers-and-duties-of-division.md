@@ -4,9 +4,10 @@
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
 
 ```text
-  § 353. General functions, powers and duties of division. The division,
-by and through the state director or his duty authorized officer or
-employee shall have the following functions, powers and duties:
+  * § 353. General functions, powers and duties of division. The
+division, by and through the state director or his duty authorized
+officer or employee shall have the following functions, powers and
+duties:
   1. To coordinate the program and activities of departments, divisions,
 boards, bureaus, commissions or agencies of the state or of any
 political subdivision of the state in providing services and facilities
@@ -329,4 +330,5 @@ pursuant to subdivision (g) of section 7.07 of the mental hygiene law in
 a timely manner; and (ii) compile such information for inclusion in the
 annual report pursuant to this section.
   * NB Effective June 7, 2022
+  * NB Repealed April 1, 2023
 ```

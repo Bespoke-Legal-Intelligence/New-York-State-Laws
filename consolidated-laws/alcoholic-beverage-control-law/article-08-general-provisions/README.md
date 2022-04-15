@@ -56,6 +56,7 @@
 - [§ 128 Certain officials not to be interested in manufacture or sale of alcoholic beverages](128-certain-officials-not-to-be-interested-in-manufacture-or-sale-of-alcoholic.md)
 - [§ 128-A Police officers allowed to work in licensed premises in certain cases](128a-police-officers-allowed-to-work-in-licensed-premises-in-certain-cases.md)
 - [§ 128-B Police officers allowed to serve as an officer of a volunteer firefighters' organization](128b-police-officers-allowed-to-serve-as-an-officer-of-a-volunteer-firefighters.md)
+- [§ 128-C Police officers allowed to serve as an officer of veterans' organization](128c-police-officers-allowed-to-serve-as-an-officer-of-veterans-organization.md)
 - [§ 129 Surrender of license; notice to police officials](129-surrender-of-license-notice-to-police-officials.md)
 - [§ 130 Penalties for violations of chapter](130-penalties-for-violations-of-chapter.md)
 - [§ 131 New York alcoholic beverage control problem premises task force](131-new-york-alcoholic-beverage-control-problem-premises-task-force.md)
@@ -137,6 +138,8 @@ Section 100.     Alcoholic beverages generally.
                    certain cases.
         128-b.   Police officers allowed to serve as an officer of a
                    volunteer firefighters' organization.
+        128-c.   Police officers allowed to serve as an officer of
+                   veterans' organization.
         129.     Surrender of license; notice to police officials.
         130.     Penalties for violations of chapter.
         131.     New York alcoholic beverage control problem premises

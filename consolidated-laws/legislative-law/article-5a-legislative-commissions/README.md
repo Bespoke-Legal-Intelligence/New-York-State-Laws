@@ -19,6 +19,7 @@
 - [§ 83-K Legislative commission on toxic substances and hazardous wastes](83k-legislative-commission-on-toxic-substances-and-hazardous-wastes.md)
 - [§ 83-L Legislative commission on water resource needs of New York state and Long Island](83l-legislative-commission-on-water-resource-needs-of-new-york-state-and-long-island.md)
 - [§ 83-M Legislative task force on demographic research and reapportionment](83m-legislative-task-force-on-demographic-research-and-reapportionment.md)
+- [§ 83-N Legislative commission on the future of the Long Island Power Authority](83n-legislative-commission-on-the-future-of-the-long-island-power-authority.md)
 
 <details>
 <summary>Official heading of Article 5-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -47,7 +48,10 @@ Section 82.    Legislative commissions.
                  York state and Long Island.
         83-m.  Legislative task force on demographic research and reap-
                  portionment.
-  * NB Repealed June 30, 2022
+  * NB Repealed June 30, 2023
+     *  83-n.  Legislative commission on the future of the Long Island
+                 Power Authority.
+  * NB § 83-n survives the repeal of this article
 ```
 
 </details>

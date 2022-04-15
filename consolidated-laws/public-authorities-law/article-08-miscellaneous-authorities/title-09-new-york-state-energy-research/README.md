@@ -47,6 +47,7 @@
 - [§ 1881 High phase order electric transmission research project](1881-high-phase-order-electric-transmission-research.md)
 - [§ 1882 School energy efficiency collaboration program](1882-school-energy-efficiency-collaboration-program.md)
 - [§ 1883 State oversight and funding](1883-state-oversight-and-funding.md)
+- [§ 1884 Zero-emission bus roadmap](1884-zero-emission-bus-roadmap.md)
 
 <details>
 <summary>Official heading of Title 9, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -105,6 +106,7 @@ Section 1850.   Short title.
         1881.   High phase order electric transmission research project.
         1882.   School energy efficiency collaboration program.
         1883.   State oversight and funding.
+        1884.   Zero-emission bus roadmap.
 ```
 
 </details>

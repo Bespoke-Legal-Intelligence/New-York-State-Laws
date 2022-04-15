@@ -72,5 +72,15 @@ Temporary housing assistance recipients shall not be required to
 contribute to the cost of such shelter, as provided for in this section.
 Such project shall not be implemented so as to compromise the federal
 benefits of a recipient or any of his or her household members.
-  * NB Repealed March 31, 2022
+  5. Upon the effective date of this subdivision, such social services
+district shall suspend implementation of the demonstration program,
+provided that (a) the recipient's need for the shelter component of
+temporary housing assistance shall not be reduced by the portion of a
+recipient's earned income that the recipient would have been required
+under subdivision two of this section to deposit in a savings plan, and
+(b) funds collected from recipients pursuant to this section prior to
+the effective date of this subdivision shall continue to be treated and
+made payable to recipients in accordance with the provisions of
+subdivision three of this section.
+  * NB Repealed March 31, 2030
 ```

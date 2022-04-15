@@ -4,8 +4,8 @@
 [Executive Law](../README.md) › [Article 17-A — Veterans Employment Act](README.md)
 
 ```text
-  § 369-d. Department of civil services responsibilities. The department
-of civil service shall:
+  * § 369-d. Department of civil services responsibilities. The
+department of civil service shall:
   1. establish and maintain a veteran temporary hiring list, for use by
 state agencies in the implementation of this article;
   2. assist state agencies by making available services of the
@@ -14,4 +14,5 @@ article; and
   3. establish and maintain, together with the director of the division
 of veterans' services, a program to educate separating service members
 as to the benefits available to veterans under this article.
+  * NB Repealed April 1, 2023
 ```

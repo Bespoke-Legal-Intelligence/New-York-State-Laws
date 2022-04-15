@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
 
 ```text
-  § 356. State veterans' service agency.  1. A state veterans' service
+  * § 356. State veterans' service agency. 1. A state veterans' service
 agency established by the division pursuant to this article shall have
 power and it shall be its duty to inform military and naval authorities
 of the United States and assist members of the armed forces and
@@ -29,4 +29,5 @@ veterans' service agency may appoint such officers, consultants, clerks
 and other employees as may be necessary to administer the functions of
 the state veterans' service agency, fix their compensation within the
 limitation provided by law, and prescribe their duties.
+  * NB Repealed April 1, 2023
 ```

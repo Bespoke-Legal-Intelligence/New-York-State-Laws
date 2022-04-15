@@ -11,6 +11,7 @@
 - [§ 3635-C Standing passengers prohibited](3635c-standing-passengers-prohibited.md)
 - [§ 3636 Passage of school buses across railroad crossings](3636-passage-of-school-buses-across-railroad.md)
 - [§ 3637 Idling school buses on school grounds](3637-idling-school-buses-on-school-grounds.md)
+- [§ 3638 Zero-emission school buses](3638-zero-emission-school-buses.md)
 
 <details>
 <summary>Official heading of Part 3, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -25,6 +26,7 @@ Section 3635.   Transportation.
         3635-c. Standing passengers prohibited.
         3636.   Passage of school buses across railroad crossings.
         3637.   Idling school buses on school grounds.
+        3638.   Zero-emission school buses.
 ```
 
 </details>

@@ -70,7 +70,7 @@ fee of twenty dollars for each hour or fractional part of an hour of
 time of search, together with a fee of two dollars for each uncertified
 copy or abstract of such record requested by the applicant or for a
 certification that a search discloses no record.
-  4. No fee shall be charged for a search, certification, certificate,
+  * 4. No fee shall be charged for a search, certification, certificate,
 certified copy or certified transcript of a record to be used for school
 entrance, employment certificate or for purposes of public relief or
 when required by the veterans administration to be used in determining
@@ -91,6 +91,36 @@ care and custody or custody and guardianship of the local commissioner
 of social services or the care and custody or custody and guardianship
 of the office of children and family services in anticipation of such
 youth's discharge from placement or foster care.
+  * NB Effective until September 1, 2022
+  * 4. No fee shall be charged for a search, certification, certificate,
+certified copy or certified transcript of a record to be used for school
+entrance, employment certificate or for purposes of public relief or
+when required by the veterans administration to be used in determining
+the eligibility of any person to participate in the benefits made
+available by the veterans administration or when required by a board of
+elections for the purposes of determining voter eligibility or when
+requested by the department of corrections and community supervision or
+a local correctional facility as defined in subdivision sixteen of
+section two of the correction law for the purpose of providing a
+certified copy or certified transcript of birth to an incarcerated
+individual in anticipation of such incarcerated individual's release
+from custody or to obtain a death certificate to be used for
+administrative purposes for an incarcerated individual who has died
+under custody or when requested by the office of children and family
+services or an authorized agency for the purpose of providing a
+certified copy or certified transcript of birth to a youth placed in the
+care and custody or custody and guardianship of the local commissioner
+of social services or the care and custody or custody and guardianship
+of the office of children and family services in anticipation of such
+youth's discharge from placement or foster care. Whenever a request is
+made by the department of corrections and community supervision for a
+certified copy or certified transcript of birth on behalf of an
+incarcerated individual pursuant to this section, a certified copy of
+the sentence and commitment or certificate of conviction shall be deemed
+to grant authorization by the incarcerated individual to the department
+to submit such request on their behalf, and no other authorization shall
+be required.
+  * NB Effective September 1, 2022
   5. (a) The United States social security administration may obtain
 information from death certificates needed in the administration of
 old-age and survivors insurance benefits laws, subject to the provisions

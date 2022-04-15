@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
 
 ```text
-  § 363. Evidence of entitlement. 1. The evidence of such service,
+  * § 363. Evidence of entitlement. 1. The evidence of such service,
 blindness, residence and domicile, or of such marriage, widowhood,
 residence and domicile in each case shall be furnished in the manner and
 form prescribed by the director of veterans' services who shall examine
@@ -28,4 +28,5 @@ division of finance, on the audit and warrant of the comptroller, shall
 pay such veteran or widow such sum as is authorized by the provisions of
 this article in monthly installments for so long as such veteran or
 widow shall meet the requirements of this article.
+  * NB Repealed April 1, 2023
 ```

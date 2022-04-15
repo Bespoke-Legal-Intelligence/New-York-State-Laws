@@ -257,5 +257,5 @@ models of service provision to be considered for replication.
 first, two thousand twenty, the state shall not reimburse for the cost
 of any placement of persons in need of supervision under article seven
 of the family court act.
-  * NB Repealed June 30, 2022
+  * NB Repealed June 30, 2027
 ```

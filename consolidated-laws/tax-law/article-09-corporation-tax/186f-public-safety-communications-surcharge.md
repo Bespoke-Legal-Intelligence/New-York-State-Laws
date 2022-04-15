@@ -143,8 +143,9 @@ thousand fifteen, two thousand fifteen--two thousand sixteen, two
 thousand sixteen--two thousand seventeen, two thousand seventeen--two
 thousand eighteen, two thousand eighteen--two thousand nineteen, two
 thousand nineteen--two thousand twenty, two thousand twenty--two
-thousand twenty-one and two thousand twenty-one--two thousand
-twenty-two;
+thousand twenty-one, two thousand twenty-one--two thousand twenty-two,
+two thousand twenty-two--two thousand twenty-three, and two thousand
+twenty-three--two thousand twenty-four;
   (c) Up to the sum of seventy-five million dollars annually may be used
 for the provision of grants or reimbursements to counties for the
 development, consolidation, or operation of public safety communications

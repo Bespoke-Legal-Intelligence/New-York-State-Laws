@@ -74,11 +74,18 @@ made a voluntary assignment or transfer of property for the purpose of
 qualifying for such aid. A transfer of property made within one year of
 the date of application shall be presumed to have been made for the
 purpose of qualifying for such assistance.
-  4. Social services officials shall determine eligibility for safety
+  * 4. Social services officials shall determine eligibility for safety
 net assistance within forty-five days of receiving an application for
 safety net assistance. Such officials shall notify applicants of safety
 net assistance about the availability of assistance to meet emergency
 circumstances or to prevent eviction.
+  * NB Effective until October 1, 2022
+  * 4. Social services officials shall determine eligibility for safety
+net assistance within thirty days of receiving an application for safety
+net assistance. Such officials shall notify applicants of safety net
+assistance about the availability of assistance to meet emergency
+circumstances or to prevent eviction.
+  * NB Effective October 1, 2022
   5. Application for or receipt of safety net assistance shall operate
 as an assignment to the state and the social services district concerned
 of any rights to support that accrue during the period that a family

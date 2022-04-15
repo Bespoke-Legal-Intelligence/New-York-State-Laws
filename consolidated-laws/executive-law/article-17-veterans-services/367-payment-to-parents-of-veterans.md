@@ -4,8 +4,8 @@
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
 
 ```text
-  § 367. Payment to parents of veterans. 1. Annuity established.  (a) A
-parent, identified in 10 USC 1126 as a gold star parent, of a veteran
+  * § 367. Payment to parents of veterans. 1. Annuity established.  (a)
+A parent, identified in 10 USC 1126 as a gold star parent, of a veteran
 who heretofore has died or parent of a veteran dying hereafter, shall
 upon application to the state director, be paid an annual annuity out of
 the treasury of the state for the sum of five hundred dollars for such
@@ -76,4 +76,5 @@ ways and means committee not later than January fifteenth of each year
 this section is in effect. Such report shall include, but not be limited
 to regulations promulgated pursuant to this section, and a description
 and evaluation of the program.
+  * NB Repealed April 1, 2023
 ```

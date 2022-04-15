@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
 
 ```text
-  § 353-a. Veteran speaker education program. 1. There is hereby
+  * § 353-a. Veteran speaker education program. 1. There is hereby
 established within the division a veteran speaker education program to
 be developed and implemented by the director in consultation with the
 director of the New York state military museum and veterans resource
@@ -53,4 +53,5 @@ evaluations and make them available upon request to other teachers who
 plan to participate.
   6. The division may consult with other veterans organizations and any
 branch of the U.S. military in the development of this program.
+  * NB Repealed April 1, 2023
 ```

@@ -13,8 +13,14 @@ experience.
   (c) To institute and operate a veterans health manpower recruiting
 service including, but not limited to, a guidance and counselling
 service.
-  2. In the exercise of the foregoing powers and duties the commissioner
-shall consult with the director of the division of veterans' services
-and the heads of state agencies charged with responsibility for manpower
-and health resources.
+  * 2. In the exercise of the foregoing powers and duties the
+commissioner shall consult with the director of the division of
+veterans' services and the heads of state agencies charged with
+responsibility for manpower and health resources.
+  * NB Effective until April 1, 2023
+  * 2. In the exercise of the foregoing powers and duties the
+commissioner shall consult with the commissioner of the department of
+veterans' services and the heads of state agencies charged with
+responsibility for manpower and health resources.
+  * NB Effective April 1, 2023
 ```

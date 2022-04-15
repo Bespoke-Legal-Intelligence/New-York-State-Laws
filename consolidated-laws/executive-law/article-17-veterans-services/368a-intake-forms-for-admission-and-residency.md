@@ -4,9 +4,9 @@
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
 
 ```text
-  § 368-a. Intake forms for admission and residency. 1. The division, in
-cooperation with the office of temporary and disability assistance and
-any other state department, office, division or agency the division
+  * § 368-a. Intake forms for admission and residency. 1. The division,
+in cooperation with the office of temporary and disability assistance
+and any other state department, office, division or agency the division
 deems necessary, shall require that all intake forms for admission or
 residency to any temporary shelter that is reimbursed from state or
 state-administered grants or funds shall ask an applicant: "Have you or
@@ -44,4 +44,5 @@ officers; and
   (b) facilitating the transmission of such veteran's status
 information, with the permission of individuals identifying themselves
 as a veteran, to the division.
+  * NB Repealed April 1, 2023
 ```

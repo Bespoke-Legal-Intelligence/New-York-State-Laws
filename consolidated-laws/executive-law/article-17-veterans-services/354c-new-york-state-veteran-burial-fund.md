@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
 
 ```text
-  § 354-c. New York state veteran burial fund. 1. As used in this
+  * § 354-c. New York state veteran burial fund. 1. As used in this
 section, "agent in control of the disposition of remains" means the
 person responsible or designated to control the disposition of a
 deceased veteran's remains as defined and outlined in section forty-two
@@ -46,4 +46,5 @@ director; upon being satisfied that the facts in the application are
 true, the state director shall certify to the state comptroller the name
 and address of such agent in control of the disposition of remains for
 reimbursement as provided in this section.
+  * NB Repealed April 1, 2023
 ```

@@ -4,10 +4,11 @@
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
 
 ```text
-  § 355. Acceptance of gifts.  The division with the approval of the
+  * § 355. Acceptance of gifts. The division with the approval of the
 governor, may accept any gift or grant for any of the purposes of this
 article. Any moneys so received may be expended by the division to
 effectuate any of the purposes of this article, subject to the same
 limitations as to authorization, audit and approval as are prescribed
 for state moneys appropriated for the purposes of this article.
+  * NB Repealed April 1, 2023
 ```

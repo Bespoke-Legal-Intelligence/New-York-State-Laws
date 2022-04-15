@@ -60,11 +60,11 @@ to such law;
 chapter;
   * (e) Aggrieved persons, agencies or social services districts
 described in section three hundred seventy-two-e of this chapter;
-  * NB Effective until June 30, 2022
+  * NB Effective until June 30, 2027
   * (e) Aggrieved persons, agencies or social services districts
 described in sections one hundred fifty-three-d, three hundred
 seventy-two-e and three hundred ninety-eight-b of this chapter;
-  * NB Effective June 30, 2022
+  * NB Effective June 30, 2027
   (f) Unless an agreement is in effect for federal administration of
 additional state payments pursuant to section two hundred eleven of this
 chapter, applicants for and recipients of additional state payments as

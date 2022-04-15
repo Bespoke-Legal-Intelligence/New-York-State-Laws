@@ -8,7 +8,7 @@
 | Senate code | CAN |
 | Type | Consolidated law, chapter 7-A |
 | Sections | 104 |
-| Last changed | 25 Feb 2022 |
+| Last changed | 15 Apr 2022 |
 | First in this history | 2 Apr 2021 |
 | Senate name | Cannabis |
 
@@ -25,6 +25,7 @@
 
 ## Recent changes
 
+- [15 Apr 2022](../../changes/2022/2022-04-15.md): 1 amended
 - [25 Feb 2022](../../changes/2022/2022-02-25.md): 1 amended, 2 added
 
 ## Contents

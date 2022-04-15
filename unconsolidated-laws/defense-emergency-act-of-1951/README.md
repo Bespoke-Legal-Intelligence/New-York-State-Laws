@@ -9,7 +9,7 @@
 | Type | Unconsolidated law |
 | Session law | L. 1951, ch. 784 |
 | Sections | 89 |
-| Last changed | 13 Aug 2021 |
+| Last changed | 15 Apr 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Defense Emergency Act 1951 784/51 |
 
@@ -32,6 +32,7 @@ Article I. Short title; definitions.
 
 ## Recent changes
 
+- [15 Apr 2022](../../changes/2022/2022-04-15.md): 1 amended
 - [13 Aug 2021](../../changes/2021/2021-08-13.md): 1 amended
 - [19 Apr 2019](../../changes/2019/2019-04-19.md): 2 amended
 
