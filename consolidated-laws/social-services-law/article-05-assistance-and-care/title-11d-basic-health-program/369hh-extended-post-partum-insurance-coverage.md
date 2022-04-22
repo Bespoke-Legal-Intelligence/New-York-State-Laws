@@ -4,8 +4,8 @@
 [Social Services Law](../../README.md) › [Article 5 — Assistance and Care](../README.md) › [Title 11-D — Basic Health Program](README.md)
 
 ```text
-  § 369-hh. Extended post-partum insurance coverage. 1. Definitions. For
-purposes of this section:
+  * § 369-hh. Extended post-partum insurance coverage. 1. Definitions.
+For purposes of this section:
   (a) "Qualified individual" shall mean a person who is eligible to
 enroll in a qualified health plan according to the definition found in
 subdivision nine of section two hundred sixty-eight-a of the public
@@ -61,4 +61,5 @@ premium obligation directly to their qualified health plan after
 applying the individual's maximum premium assistance amount, under
 section 1401(a) of the Patient Protection and Affordable Care Act, 26
 U.S.C. § 36B(b)(2) and (3).
+  * NB Repealed March 1, 2023
 ```

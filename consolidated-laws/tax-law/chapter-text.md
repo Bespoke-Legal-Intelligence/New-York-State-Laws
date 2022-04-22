@@ -18,7 +18,7 @@ Assembly, do enact as follows:
                                  TAX LAW
 Article 1.      Short title; definitions; miscellaneous (§§ 1-46).
         8.      Department of taxation and finance; commissioner of
-                  taxation and finance (§§ 170-179).
+                  taxation and finance (§§ 170-180).
         9.      Corporation tax (§§ 182--207-b).
         9-A.    Franchise tax on business corporations
                   (§§ 208--219-a).

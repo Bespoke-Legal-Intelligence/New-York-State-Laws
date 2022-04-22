@@ -45,5 +45,5 @@ health shall report to the governor and the legislature on the impact of
 the statewide patient centered medical home program on quality, cost and
 outcomes for enrollees in Medicaid fee-for-service, Medicaid managed
 care, Family Health Plus and Child Health Plus.
-  * NB Repealed April 1, 2022
+  * NB Repealed April 1, 2025
 ```

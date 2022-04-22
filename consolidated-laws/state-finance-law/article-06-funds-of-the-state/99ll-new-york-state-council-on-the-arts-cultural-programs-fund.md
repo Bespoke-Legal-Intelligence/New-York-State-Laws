@@ -4,8 +4,8 @@
 [State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
 
 ```text
-  * § 99-ll. New York state council on the arts cultural programs fund.
-1.  There is hereby established in the joint custody of the state
+  § 99-ll. New York state council on the arts cultural programs fund. 1.
+There is hereby established in the joint custody of the state
 comptroller and commissioner of taxation and finance a special fund to
 be known as the "New York state council on the arts cultural program
 fund".
@@ -38,8 +38,9 @@ fiscal year.
 the comptroller on vouchers approved and certified by the executive
 director of the New York state council on the arts.
   5. The moneys in such fund shall be expended for the purpose of
-supplementing art and cultural programs for secondary and elementary
-children, including programs that increase access to art and cultural
-programs and events for children in underserved communities.
-  * NB Repealed January 1, 2024
+supplementing art and cultural grant programs of the New York state
+council on the arts, including but not limited to: arts education
+programs, and art and cultural programs for children and adults,
+including programs that increase access to art and cultural programs and
+events in underserved communities.
 ```

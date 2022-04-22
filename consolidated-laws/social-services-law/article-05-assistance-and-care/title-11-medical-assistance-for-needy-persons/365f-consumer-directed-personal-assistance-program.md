@@ -97,24 +97,16 @@ continuing ability to fulfill those responsibilities documented in his
 or her records. Failure of the individual to carry out his or her agreed
 to responsibilities may be considered in determining such individual's
 continued appropriateness for the program.
-  4. Participating providers. All agencies or individuals who meet the
-qualifications to provide home health, personal care or nursing services
-and who elect to provide such services to persons receiving medical
-assistance may participate in the program. Any agency or individuals
-providing services under a patient managed home care program authorized
-under the former section thirty-six hundred twenty-two of the public
-health law or the former sections three hundred sixty-five-f of this
-chapter may continue to provide such services under this section.
   4-a. Fiscal intermediary services. (a) For the purposes of this
 section:
   (i) "Fiscal intermediary" means an entity that provides fiscal
 intermediary services and has a contract for providing such services
 with the department of health and is selected through the procurement
-process described in paragraph (b) of this subdivision. Eligible
-applicants for contracts shall be entities that are capable of
-appropriately providing fiscal intermediary services, performing the
-responsibilities of a fiscal intermediary, and complying with this
-section, including but not limited to entities that:
+process described in paragraphs (b), (b-1), (b-2) and (b-3) of this
+subdivision. Eligible applicants for contracts shall be entities that
+are capable of appropriately providing fiscal intermediary services,
+performing the responsibilities of a fiscal intermediary, and complying
+with this section, including but not limited to entities that:
   (A) are a service center for independent living under section one
 thousand one hundred twenty-one of the education law; or
   (B) have been established as fiscal intermediaries prior to January
@@ -212,107 +204,44 @@ hundred sixty-three of the state finance law; and
   (vi) the commissioner is authorized to either reoffer contracts or
 utilize the previous offer, to ensure that all provisions of this
 section are met.
-  (b-1) Following the initial selection of contractors pursuant to this
-subdivision the commissioner is instructed to survey for information
-relating to the additional selection criteria under this paragraph and
-paragraph (b-2) of this subdivision, in writing in a manner determined
-by the commissioner, from all applicants that were qualified by the
-commissioner as meeting minimum requirements of the procurement process
-described in paragraph (b) of this subdivision including those that were
-not awarded contracts under that process:
-  (i) whether the applicant is formed as a charitable corporation under
-article two of the not-for-profit corporation law or authorized as a
-foreign corporation under article thirteen of the not-for-profit
-corporation law;
-  (ii) was the applicant performing administrative services as a fiscal
-intermediary prior to January first, two thousand twelve and has it
-continuously provided such services for eligible individuals pursuant to
-this section since that date;
-  (iii) the address the applicant listed as its primary mailing address
-on its most recently filed state corporate tax return or its Federal
-Return of Organization Exempt From Income Tax form (form 990);
-  (iv) whether the applicant is currently authorized, funded, approved
-or certified to deliver state plan or home and community-based waiver
-supports and services to individuals with intellectual and developmental
-disabilities by the office for people with developmental disabilities;
-  (v) whether the applicant has historically provided fiscal
-intermediary administrative services to racial and ethnic minority
-residents or new Americans, as defined in section ninety-four-b of the
-executive law, in such consumers' primary language, as evidenced by
-information and materials provided to consumers in the consumers'
-primary language or languages; and
-  (vi) whether the applicant is verified as a minority or woman-owned
-business enterprise pursuant to section three hundred fourteen of the
-executive law.
-  (b-2) The commissioner shall give applicants thirty days to respond to
-the survey. The failure of any applicants to respond to the survey and
-provide the information sought within such thirty-day period shall
-disqualify such applicants from consideration of any additional awards.
-Following receipt of the survey responses from applicants, the
-commissioner shall make awards to qualified applicants that previously
-submitted applications, in addition to any awards already announced, as
-may be necessary to ensure the commissioner has made awards as follows:
-  (i) the commissioner shall make awards to one or two additional
-applicants, to the extent that such applications were received, that are
-located in each county with a population of more than two hundred
-thousand but less than five hundred thousand as evidenced by the primary
-mailing address from the information surveyed under subparagraph (iii)
-of paragraph (b-1) of this subdivision.
-  (ii) the commissioner shall make awards to one or two additional
-applicants, to the extent that such applications were received, that are
-located in each county with a population of five hundred thousand or
-more as evidenced by the primary mailing address from the information
-surveyed under subparagraph (iii) of paragraph (b-1) of this
-subdivision.
-  (iii) to provide geographic distribution that would ensure access in
-different regions of the state the commissioner shall make awards to at
-least two additional applicants, to the extent that such applications
-were received, that are currently authorized, funded, approved or
-certified to deliver state plan or home and community-based waiver
-supports and services to individuals with intellectual and developmental
-disabilities by the office for people with developmental disabilities
-and meet the following criteria:
-  (A) are organized as a not-for-profit corporation pursuant to article
-two of the not-for-profit corporation law or authorized as a foreign
-corporation under article thirteen of the not-for-profit corporation
-law; or
-  (B) have been performing administrative services as fiscal
-intermediaries prior to January first, two thousand twelve and have been
-continuously providing such services for eligible individuals pursuant
-to this section since that date.
-  (iv) to provide geographic distribution that would ensure access in
-different regions of the state the commissioner shall make awards to at
-least two additional applicants, to the extent that such applications
-were received, that serve racial and ethnic minority residents,
-religious minority residents, or new Americans in those consumers'
-primary language, as evidenced by information and materials provided to
-consumers in the consumers' primary language or languages and meet the
-following criteria:
-  (A) are organized as a not-for-profit corporation pursuant to the
-not-for-profit corporation law or authorized as a foreign corporation
-under article thirteen of the not-for-profit corporation law; or
-  (B) have been performing administrative services as fiscal
-intermediaries prior to January first, two thousand twelve and have been
-continuously providing such services for eligible individuals pursuant
-to this section since that date.
-  (v) to provide geographic distribution that would ensure access in
-different regions of the state the commissioner shall make awards to at
-least two additional applicants, to the extent that such applications
-were received, that have been verified as a minority or woman-owned
-business enterprise pursuant to section three hundred fourteen of the
-executive law.
-  (vi) Notwithstanding the requirements of this paragraph, the
-commissioner may only make awards to the extent that applicants that
-meet the prescribed criteria, as evidenced by the results of the survey
-required under paragraph (b-1) of this subdivision, submitted qualifying
-applications and the commissioner shall not be required to make awards
-where no applicant meets the prescribed criteria.
-  (b-3) In awarding any new contracts pursuant to paragraph (b-2) of
-this subdivision, the commissioner shall not rescore the offers based on
-the results of the survey required under paragraph (b-1) of this
-subdivision, but shall award such contracts to the next highest scoring
-applicant or applicants that meet the criteria under paragraph (b-2) of
-this subdivision.
+  (b-1) Following the initial selection of contractors on February
+eleventh, two thousand twenty-one, pursuant to the commissioner's
+request for offers #20039 ("RFO") in accordance with this subdivision,
+the commissioner is instructed to accept the offer to enter into
+contracts with all applicants that were not initially selected on
+February eleventh, two thousand twenty-one, but that were qualified by
+the commissioner as meeting minimum requirements of the RFO, provided
+that such qualified applicants that were not initially selected attest
+that:
+  (i) the applicant was providing fiscal intermediary services for at
+least two hundred consumers in a city with a population of more than one
+million at any time between January first, two thousand twenty and March
+thirty-first, two thousand twenty; or
+  (ii) the applicant was providing fiscal intermediary services for at
+least fifty consumers in another area of the state at any time between
+January first, two thousand twenty and March thirty-first, two thousand
+twenty.
+  (b-2) Upon the publication of an attestation form or process to the
+department's website, the remaining qualified applicants described in
+paragraph (b-1) of this subdivision shall have sixty days to submit an
+attestation and all required supporting documentation to the
+commissioner.
+  (i) Any late submission shall disqualify the applicant from receiving
+a contract award under paragraph (b-1) of this subdivision.
+  (ii) The number of consumers served by an applicant during the period
+between January first, two thousand twenty and March thirty-first, two
+thousand twenty may be measured by the greatest number of consumers
+served in the specified region by the applicant on any day during that
+period.
+  (iii) Applicant attestations shall be audited by the office of
+Medicaid inspector general, and any false or inaccurate attestation
+shall render any contract awarded under paragraph (b-1) of this
+subdivision null and void; this provision shall not be construed to
+limit or supersede any other applicable sanctions or penalties that may
+be imposed under the medical assistance program.
+  (b-3) Contracts awarded under paragraph (b-1) of this subdivision
+shall be limited to the service areas indicated on the applicants'
+submission to the RFO.
   (c) (i) The commissioner shall require a fiscal intermediary to report
 annually on the direct care and administrative costs of personal
 assistance services as accounted for by the fiscal intermediary. The

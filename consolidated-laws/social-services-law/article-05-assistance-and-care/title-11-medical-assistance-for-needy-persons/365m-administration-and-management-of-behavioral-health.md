@@ -165,42 +165,46 @@ sufficiently address the behavioral health and health services needs of
 enrollees; and monitor the application of such standards to ensure that
 they sufficiently address the behavioral health and health services
 needs of enrollees.
-  5. Pursuant to appropriations, the department of health shall reinvest
-funds allocated for behavioral health services, which are general fund
-savings directly related to savings realized through the transition of
-populations covered by this section from the applicable Medicaid
-fee-for-service system to a managed care model, including savings
-resulting from the reduction of inpatient and outpatient behavioral
-health services provided under the Medicaid programs licensed or
-certified pursuant to article thirty-one or thirty-two of the mental
-hygiene law, or programs that are licensed pursuant to both article
-thirty-one of the mental hygiene law and article twenty-eight of the
-public health law, or certified under both article thirty-two of the
-mental hygiene law and article twenty-eight of the public health law,
-for the purpose of increasing investment in community based behavioral
-health services, including residential services certified by the office
-of alcoholism and substance abuse services. The methodologies used to
-calculate the savings shall be developed by the commissioner of health
-and the director of the budget in consultation with the commissioners of
-the office of mental health and the office of alcoholism and substance
-abuse services. In no event shall the full annual value of the community
-based behavioral health service reinvestment savings attributable to the
-transition to managed care exceed the twelve month value of the
-department of health general fund reductions resulting from such
-transition. Within any fiscal year where appropriation increases are
-recommended for reinvestment, insofar as managed care transition savings
-do not occur as estimated, and general fund savings do not result, then
-spending for such reinvestment may be reduced in the next year's annual
-budget itemization. The commissioner of health shall promulgate
-regulations, and prior to October first, two thousand fifteen, may
-promulgate emergency regulations as required to distribute funds
-pursuant to this subdivision; provided, however, that any emergency
-regulations promulgated pursuant to this section shall expire no later
-than December thirty-first, two thousand fifteen. The commissioner shall
-include detailed descriptions of the methodology used to calculate
-savings for reinvestment, the results of applying such methodologies,
-the details regarding implementation of such reinvestment pursuant to
-this section, and any regulations promulgated under this subdivision, in
-the annual report required under section forty-five-c of part A of
-chapter fifty-six of the laws of two thousand thirteen.
+  5. (a) Pursuant to appropriations within the offices of mental health
+or addiction services and supports, the department of health shall
+reinvest savings realized through the transition of populations covered
+by this section from the applicable Medicaid fee-for-service system to a
+managed care model, including savings realized through the recovery of
+premiums from managed care providers which represent a reduction of
+spending on qualifying behavioral health services against established
+premium targets for behavioral health services and the medical loss
+ratio applicable to special needs managed care plans, for the purpose of
+increasing investment in community based behavioral health services,
+including residential services certified by the office of addiction
+services and supports. The methodologies used to calculate the savings
+shall be developed by the commissioner of health and the director of the
+budget in consultation with the commissioners of the office of mental
+health and the office of addiction services and supports. In no event
+shall the full annual value of the reinvestment pursuant to this
+subdivision exceed the value of the premiums recovered from managed care
+providers which represent a reduction of spending on qualifying
+behavioral health services. Within any fiscal year where appropriation
+increases are recommended for reinvestment, insofar as managed care
+transition savings do not occur as estimated, then spending for such
+reinvestment may be reduced in the next year's annual budget
+itemization.
+  (b) Beginning April first, two thousand twenty-two, the department
+shall post on its website information about the recovery of premiums
+from managed care providers which represent a reduction of spending on
+qualifying behavioral health services against established premium
+targets for behavioral health services and the medical loss ratio
+applicable to special needs managed care plans. Such information shall
+include at a minimum: (i) a copy of the department's notification to
+each managed care provider that seeks a recovery of such premiums; and
+(ii) a list of managed care providers by name that have been subject to
+a recovery of such premiums, specifying the amount of premium that has
+been recovered from each managed care provider and year. In the initial
+posting, the department shall include all premiums recovered to date as
+required by this subdivision, by named managed care provider, amount and
+year.
+  (c) The commissioner shall include information regarding the funds
+available for reinvestment, including how savings are calculated and how
+the reinvestment was utilized pursuant to this section in the annual
+report required under section forty-five-c of part A of chapter
+fifty-six of the laws of two thousand thirteen.
 ```

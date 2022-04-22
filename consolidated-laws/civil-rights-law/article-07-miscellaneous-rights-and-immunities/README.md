@@ -37,6 +37,7 @@
 - [§ 79-O Closed captioning in places of public accommodation, resort or amusement](79o-closed-captioning-in-places-of-public-accommodation-resort-or-amusement.md)
 - [§ 79-P Recording certain activities](79p-recording-certain-activities.md)
 - [§ 79-P\*2 Gender neutral single-occupancy bathroom facilities](79p-2-gender-neutral-single-occupancy-bathroom-facilities.md)
+- [§ 79-Q Collection of gender or sex designation information by state agencies](79q-collection-of-gender-or-sex-designation-information-by-state-agencies.md)
 
 <details>
 <summary>Official heading of Article 7, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -84,6 +85,8 @@ Section 70.     Vexatious suits.
                   resort or amusement.
         79-p.   Recording certain activities.
         79-p*2. Gender neutral single-occupancy bathroom facilities.
+        79-q.   Collection of gender or sex designation information by
+                  state agencies.
 ```
 
 </details>

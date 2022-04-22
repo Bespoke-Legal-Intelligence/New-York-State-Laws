@@ -19,23 +19,22 @@ percent and the sum of the qualified production expenditures paid for
 during the qualified New York city musical and theatrical production's
 credit period. Provided however that the amount of the credit cannot
 exceed three million dollars per qualified New York city musical and
-theatrical production for productions whose first performance is during
-the first year in which applications are accepted. For productions whose
-first performance is during the second year in which applications are
-accepted, such cap shall decrease to one million five hundred thousand
-dollars per qualified New York city musical and theatrical production
-unless the New York city tourism economy has not sufficiently recovered,
-as determined by the department of economic development in consultation
-with the division of the budget. In determining whether the New York
-city tourism economy has sufficiently recovered, the department of
-economic development will perform an analysis of key New York city
-economic indicators which shall include, but not be limited to, hotel
-occupancy rates and travel metrics. The department of economic
-development's analysis shall also be informed by the status of any
-remaining COVID-19 restrictions affecting New York city musical and
-theatrical productions. In no event shall a qualified New York city
-musical and theatrical production be eligible for more than one credit
-under this program.
+theatrical production for productions whose first performance is prior
+to January first, two thousand twenty-three. For productions whose first
+performance is on or after January first, two thousand twenty-three,
+such cap shall decrease to one million five hundred thousand dollars per
+qualified New York city musical and theatrical production unless the New
+York city tourism economy has not sufficiently recovered, as determined
+by the department of economic development in consultation with the
+division of the budget. In determining whether the New York city tourism
+economy has sufficiently recovered, the department of economic
+development will perform an analysis of key New York city economic
+indicators which shall include, but not be limited to, hotel occupancy
+rates and travel metrics. The department of economic development's
+analysis shall also be informed by the status of any remaining COVID-19
+restrictions affecting New York city musical and theatrical productions.
+In no event shall a qualified New York city musical and theatrical
+production be eligible for more than one credit under this program.
   (3) No qualified production expenditures used by a taxpayer either as
 the basis for the allowance of the credit provided pursuant to this
 section or used in the calculation of the credit provided pursuant to
@@ -82,7 +81,7 @@ performed in a qualified New York city production facility.
 theatrical production company" is the period starting on the production
 start date and ending on the earlier of the date the qualified musical
 and theatrical production has expended sufficient qualified production
-expenditures to reach its credit cap, March thirty-first, two thousand
+expenditures to reach its credit cap, September thirtieth, two thousand
 twenty-three or the date the qualified musical and theatrical production
 closes.
   (ii) "The production start date" is the date that is up to twelve
@@ -109,11 +108,11 @@ commissioner and the commissioner of the department of economic
 development may release the names and addresses of any qualified New
 York city musical and theatrical production company entitled to claim
 this credit and the amount of the credit earned by such company.
-  (f) Maximum amount of credits. (1) The aggregate amount of tax credits
-allowed under this section, subdivision fifty-seven of section two
-hundred ten-B and subsection (mmm) of section six hundred six of this
-chapter shall be one hundred million dollars. Such aggregate amount of
-credits shall be allocated by the department of economic development
+  (f) Maximum amount of credits.  (1) The aggregate amount of tax
+credits allowed under this section, subdivision fifty-seven of section
+two hundred ten-B and subsection (mmm) of section six hundred six of
+this chapter shall be two hundred million dollars. Such aggregate amount
+of credits shall be allocated by the department of economic development
 among taxpayers based on the date of first performance of the qualified
 musical and theatrical production.
   (2) The commissioner of economic development, after consulting with
@@ -128,8 +127,8 @@ other provisions as deemed necessary and appropriate. Notwithstanding
 any other provisions to the contrary in the state administrative
 procedure act, such rules and regulations may be adopted on an emergency
 basis. In no event shall a qualified New York city musical and
-theatrical production submit an application for this program after
-December thirty-first, two thousand twenty-two.
+theatrical production submit an application for this program after June
+thirtieth, two thousand twenty-three.
   (g) Any qualified New York city musical and theatrical production
 company that performs in a qualified New York city production facility
 and applies to receive a credit under this section shall be required to:
@@ -144,6 +143,8 @@ of its ongoing production costs, with such amount payable from
 twenty-five percent of net operating profits, such amounts payable on a
 monthly basis, up until such fifty percent of the total credit amount is
 reached. Any funds deposited pursuant to this subdivision may be used
-for arts and cultural educational and workforce development programs.
+for arts and cultural grant programs of the New York state council on
+the arts as specified in subdivision five of section ninety-nine-ll of
+the state finance law.
   * NB Repealed January 1, 2024
 ```

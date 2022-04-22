@@ -88,7 +88,22 @@ hospital, as determined by the physician arranging the patient's
 hospital services, and who are employees of the hospital or contracted
 by the hospital to provide services including anesthesiology, radiology
 and/or pathology.
-  8. For purposes of this section:
+  8. A health care professional, or a group practice of health care
+professionals, a diagnostic and treatment center or a health center
+defined under 42 U.S.C. § 254b on behalf of health care professionals
+rendering services at the group practice, diagnostic and treatment
+center or health center, and a hospital shall make publicly available,
+and if applicable, post on their public websites, and provide to
+individuals who are enrollees of health care plans, a one-page written
+notice, in clear and understandable language, containing information on
+the requirements and prohibitions under 42 U.S.C. §§ 300gg-131 and
+300gg-132 and article six of the financial services law relating to
+prohibitions on balance billing for emergency services and surprise
+bills, and information on contacting appropriate state and federal
+agencies if an individual believes a health care provider has violated
+any requirement described in 42 U.S.C. §§ 300gg-131 and 300gg-132 or
+article six of the financial services law.
+  9. For purposes of this section:
   (a) "Health care plan" means a health insurer including an insurer
 licensed to write accident and health insurance subject to article
 thirty-two of the insurance law; a corporation organized pursuant to

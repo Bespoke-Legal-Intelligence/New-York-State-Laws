@@ -229,12 +229,21 @@ private residence conducted by an auctioneer, sheriff or other third
 party, (B) a sale held to liquidate an estate or (C) the sale of boats,
 snowmobiles or motor vehicles except such sales of motor vehicles within
 the exemptions of paragraph fourteen of subdivision (a) of this section.
-  (18-a) Tangible personal property manufactured and sold by a veteran,
-as defined in section three hundred sixty-four of the executive law, for
-the benefit of a veteran's service organization, provided that such
+  * (18-a) Tangible personal property manufactured and sold by a
+veteran, as defined in section three hundred sixty-four of the executive
+law, for the benefit of a veteran's service organization, provided that
+such person or any member of his or her household does not conduct a
+trade or business in which similar items are sold, the first two
+thousand five hundred dollars of receipts from such sales in a calendar
+year.
+  * NB Effective until April 1, 2023
+  * (18-a) Tangible personal property manufactured and sold by a
+veteran, as defined in section twenty-two of the veterans' services law,
+for the benefit of a veteran's service organization, provided that such
 person or any member of his or her household does not conduct a trade or
 business in which similar items are sold, the first two thousand five
 hundred dollars of receipts from such sales in a calendar year.
+  * NB Effective April 1, 2023
   (19) Cartons, containers, and wrapping and packaging materials and
 supplies, and components thereof for use and consumption by a vendor in
 packaging or packing tangible personal property for sale, and actually

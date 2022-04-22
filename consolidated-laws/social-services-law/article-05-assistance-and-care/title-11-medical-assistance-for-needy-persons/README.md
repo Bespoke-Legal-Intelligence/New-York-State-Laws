@@ -74,6 +74,7 @@
 - [§ 367-T Payment for emergency physician services](367t-payment-for-emergency-physician-services.md)
 - [§ 367-U Payment for home telehealth services](367u-payment-for-home-telehealth-services.md)
 - [§ 367-V County long-term care financing demonstration program](367v-county-long-term-care-financing-demonstration-program.md)
+- [§ 367-W Health care and mental hygiene worker bonuses](367w-health-care-and-mental-hygiene-worker-bonuses.md)
 - [§ 368 Quarterly estimates](368-quarterly-estimates.md)
 - [§ 368-A State reimbursement](368a-state-reimbursement.md)
 - [§ 368-B State reimbursement to local health districts; chargebacks](368b-state-reimbursement-to-local-health-districts.md)
@@ -180,6 +181,7 @@ Section 363.     Declaration of objects.
         367-t.   Payment for emergency physician services.
         367-u.   Payment for home telehealth services.
         367-v.   County long-term care financing demonstration program.
+        367-w.   Health care and mental hygiene worker bonuses.
         368.     Quarterly estimates.
         368-a.   State reimbursement.
         368-b.   State reimbursement to local health districts;

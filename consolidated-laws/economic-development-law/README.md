@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | COM |
 | Type | Consolidated law, chapter 15 |
-| Sections | 185 |
-| Last changed | 15 Apr 2022 |
+| Sections | 195 |
+| Last changed | 22 Apr 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Economic Development Law |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER XV OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (46 lines)](chapter-text.md)
+[Full chapter text (47 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [22 Apr 2022](../../changes/2022/2022-04-22.md): 1 amended, 10 added
 - [15 Apr 2022](../../changes/2022/2022-04-15.md): 1 amended
 - [18 Mar 2022](../../changes/2022/2022-03-18.md): 1 amended
 - [4 Mar 2022](../../changes/2022/2022-03-04.md): 3 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [2 Jul 2021](../../changes/2021/2021-07-02.md): 1 amended
 - [23 Apr 2021](../../changes/2021/2021-04-23.md): 10 amended, 10 added
 - [5 Feb 2021](../../changes/2021/2021-02-05.md): 1 amended
-- [18 Dec 2020](../../changes/2020/2020-12-18.md): 1 amended
 
 ## Contents
 
@@ -83,3 +83,4 @@ Assembly, do enact as follows:
 - [Article 21 — Start-up Ny Program](article-21-start-up-ny-program/)
 - [Article 22 — Employee Training Incentive Program](article-22-employee-training-incentive-program/)
 - [Article 25 — Restaurant Return-to-work Tax Credit Program](article-25-restaurant-return-to-work-tax-credit-program/)
+- [Article 26 — Covid-19 Capital Costs Tax Credit Program](article-26-covid-19-capital-costs-tax-credit-program/)

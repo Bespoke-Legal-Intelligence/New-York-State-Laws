@@ -9,6 +9,7 @@
 - [§ 32.02 Regulation and quality control of compulsive gambling services](32.02-regulation-and-quality-control-of-compulsive-gambling-services.md)
 - [§ 32.03 Evaluation of chemical dependence services](32.03-evaluation-of-chemical-dependence-services.md)
 - [§ 32.05 Operating certificate required](32.05-operating-certificate-required.md)
+- [§ 32.05-A Certified recovery residences](32.05-a-certified-recovery-residences.md)
 - [§ 32.06 Prohibited practices by providers of substance use disorder services](32.06-prohibited-practices-by-providers-of-substance-use-disorder.md)
 - [§ 32.07 Regulatory powers of the commissioner](32.07-regulatory-powers-of-the-commissioner.md)
 - [§ 32.09 Issuance of operating certificates](32.09-issuance-of-operating-certificates.md)
@@ -46,6 +47,7 @@ Section 32.01    Regulation and quality control of chemical dependence
                    services.
         32.03    Evaluation of chemical dependence services.
         32.05    Operating certificate required.
+        32.05-a  Certified recovery residences.
         32.06    Prohibited practices by providers of substance use
                    disorder services.
         32.07    Regulatory powers of the commissioner.

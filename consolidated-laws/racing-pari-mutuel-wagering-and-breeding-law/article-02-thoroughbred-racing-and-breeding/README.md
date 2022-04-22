@@ -36,7 +36,6 @@
 - [§ 224 Penalty for unlawful racing and betting](224-penalty-for-unlawful-racing-and-betting.md)
 - [§ 225 Registration of race horses](225-registration-of-race-horses.md)
 - [§ 226 Increased or additional entrance fees](226-increased-or-additional-entrance-fees.md)
-- [§ 227 Admission tax](227-admission-tax.md) *(repealed)*
 - [§ 228 Pension plans for backstretch employees](228-pension-plans-for-backstretch-employees.md)
 - [§ 229 Backstretch employees drug and alcohol rehabilitation eligibility](229-backstretch-employees-drug-and-alcohol-rehabilitation-eligibility.md)
 - [§ 230 Membership in a national thoroughbred racing association](230-membership-in-a-national-thoroughbred-racing-association.md)

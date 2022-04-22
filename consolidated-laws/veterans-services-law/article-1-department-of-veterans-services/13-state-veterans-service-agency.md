@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Veterans' Services Law § 13", "kind": "section", "law_id": "VET", "location_id": "13", "path": "ARTICLE 1 › SECTION 13", "repealed": false, "repealed_date": null, "source": "nys-laws:VET/13.md", "title": "State veterans' service agency"} -->
+# Veterans' Services Law § 13 — State veterans' service agency
+
+[Veterans' Services Law](../README.md) › [Article 1 — Department of Veterans' Services](README.md)
+
+```text
+  * § 13. State veterans' service agency. 1. A state veterans' service
+agency established by the department pursuant to this article shall have
+power and it shall be its duty to inform military and naval authorities
+of the United States and assist members of the uniformed services and
+veterans, who are residents of this state, and their families, in
+relation to (1) matters pertaining to educational training and
+retraining services and facilities, (2) health, medical and
+rehabilitation services and facilities, (3) provisions of federal, state
+and local laws and regulations affording special rights and privileges
+to members of the uniformed services and war veterans and their
+families, (4) employment and re-employment services, and (5) other
+matters of similar, related or appropriate nature. The state veterans'
+service agency also shall perform such other duties as may be assigned
+by the state commissioner.
+  2. The state commissioner may, with the approval of the governor,
+appoint and remove a director of the state veterans' service agency. The
+state commissioner may from time to time establish, alter or abolish
+state veterans' service agency districts within the state, establish or
+abolish offices therefor, and appoint and at pleasure remove a deputy
+director of the state veterans' service agency for each such district
+office. With the approval of the state commissioner, the director of the
+veterans' service agency may appoint such officers, consultants, clerks
+and other employees as may be necessary to administer the functions of
+the state veterans' service agency, fix their compensation within the
+limitation provided by law, and prescribe their duties.
+  * NB Effective April 1, 2023
+```

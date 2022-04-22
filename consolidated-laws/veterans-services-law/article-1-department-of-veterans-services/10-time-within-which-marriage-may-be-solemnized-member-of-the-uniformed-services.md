@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Veterans' Services Law § 10", "kind": "section", "law_id": "VET", "location_id": "10", "path": "ARTICLE 1 › SECTION 10", "repealed": false, "repealed_date": null, "source": "nys-laws:VET/10.md", "title": "Time within which marriage may be solemnized; member of the uniformed services"} -->
+# Veterans' Services Law § 10 — Time within which marriage may be solemnized; member of the uniformed services
+
+[Veterans' Services Law](../README.md) › [Article 1 — Department of Veterans' Services](README.md)
+
+```text
+  * § 10. Time within which marriage may be solemnized; member of the
+uniformed services. Notwithstanding section thirteen-b of the domestic
+relations law, where either of the parties making application for a
+marriage license, pursuant to section thirteen of the domestic relations
+law, is a member of the uniformed services of the United States on
+active duty the marriage of the parties shall not be solemnized within
+twenty-four hours after the issuance of the marriage license, nor shall
+it be solemnized after one hundred eighty days from the date of the
+issuance of the marriage license. Proof that the applicant is a member
+of the uniformed services of the United States shall be furnished to the
+satisfaction of the official issuing the marriage license. Every license
+to marry issued pursuant to the provisions of this section shall state
+the day and hour the license is issued and shall contain a recital that
+it is issued pursuant to the provisions of this section.
+  * NB Effective April 1, 2023
+```

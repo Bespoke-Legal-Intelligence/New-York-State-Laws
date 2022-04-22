@@ -50,46 +50,48 @@ program is located, costs of certified home health agencies, providers
 of long term home health care programs or providers of AIDS home care
 programs of comparable size, and the need for incentives to improve
 services and institute economies.
-  3-a. Medically fragile children. Rates of payment for continuous
-nursing services for medically fragile children provided by a certified
-home health agency, a licensed home care services agency or a long term
-home health care program shall be established to ensure the availability
-of such services, whether provided by registered nurses or licensed
-practical nurses who are employed by or under contract with such
-agencies or programs, and shall be established at a rate that is at
-least equal to rates of payment for such services rendered to patients
-eligible for AIDS home care programs; provided, however, that a
-certified home health agency, a licensed home care services agency or a
-long term home health care program that receives such enhanced rates for
-continuous nursing services for medically fragile children shall use
-such enhanced rates to increase payments to registered nurses and
-licensed practical nurses who provide such services. In the case of
+  3-a. Medically fragile children and medically fragile adults. Rates of
+payment for continuous nursing services for medically fragile children
+and medically fragile adults provided by a certified home health agency,
+a licensed home care services agency or a long term home health care
+program shall be established to ensure the availability of such
+services, whether provided by registered nurses or licensed practical
+nurses who are employed by or under contract with such agencies or
+programs, and shall be established at a rate that is at least equal to
+rates of payment for such services rendered to patients eligible for
+AIDS home care programs; provided, however, that a certified home health
+agency, a licensed home care services agency or a long term home health
+care program that receives such enhanced rates for continuous nursing
+services for medically fragile children and medically fragile adults
+shall use such enhanced rates to increase payments to registered nurses
+and licensed practical nurses who provide such services. In the case of
 services provided by certified home health agencies and long term home
 health care programs through contracts with licensed home care services
 agencies, rate increases received by such certified home health agencies
 and long term home health care programs pursuant to this subdivision
 shall be reflected in payments made to the registered nurses or licensed
 practical nurses employed by such licensed home care services agencies
-to render services to these children. In establishing rates of payment
-under this subdivision, the commissioner shall consider the cost
-neutrality of such rates as related to the cost effectiveness of caring
-for medically fragile children in a non-institutional setting as
-compared to an institutional setting. For the purposes of this
-subdivision, a medically fragile child shall mean a child who is at risk
-of hospitalization or institutionalization, including but not limited to
-children who are technologically-dependent for life or health-sustaining
-functions, require complex medication regimen or medical interventions
-to maintain or to improve their health status or are in need of ongoing
-assessment or intervention to prevent serious deterioration of their
-health status or medical complications that place their life, health or
-development at risk, but who are capable of being cared for at home if
-provided with appropriate home care services, including but not limited
-to case management services and continuous nursing services. The
-commissioner shall promulgate regulations to implement provisions of
-this subdivision and may also direct the providers specified in this
-subdivision to provide such additional information and in such form as
-the commissioner shall determine is reasonably necessary to implement
-the provisions of this subdivision.
+to render services to these children and medically fragile adults. In
+establishing rates of payment under this subdivision, the commissioner
+shall consider the cost neutrality of such rates as related to the cost
+effectiveness of caring for medically fragile children and medically
+fragile adults in a non-institutional setting as compared to an
+institutional setting. For the purposes of this subdivision, a medically
+fragile child shall mean a child who is at risk of hospitalization or
+institutionalization, including but not limited to children who are
+technologically-dependent for life or health-sustaining functions,
+require complex medication regimen or medical interventions to maintain
+or to improve their health status or are in need of ongoing assessment
+or intervention to prevent serious deterioration of their health status
+or medical complications that place their life, health or development at
+risk, but who are capable of being cared for at home if provided with
+appropriate home care services, including but not limited to case
+management services and continuous nursing services. The commissioner
+shall promulgate regulations to implement provisions of this subdivision
+and may also direct the providers specified in this subdivision to
+provide such additional information and in such form as the commissioner
+shall determine is reasonably necessary to implement the provisions of
+this subdivision.
   3-c. Home telehealth. (a) Demonstration rates of payment or fees shall
 be established for telehealth services provided by a certified home
 health agency, a long term home health care program or AIDS home care

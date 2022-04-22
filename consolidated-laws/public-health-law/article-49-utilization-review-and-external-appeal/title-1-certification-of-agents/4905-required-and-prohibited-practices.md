@@ -46,9 +46,7 @@ when necessary to verify that the health care services subject to such
 review are medically necessary. In such cases, only the necessary or
 relevant sections of the medical record shall be required. A utilization
 review agent may request copies of partial or complete medical records
-retrospectively. This subdivision shall not apply to health maintenance
-organizations licensed pursuant to article forty-three of the insurance
-law or certified pursuant to article forty-four of this chapter.
+retrospectively.
   8. In no event shall information be obtained from the health care
 providers for the use of the utilization review agent by persons other
 than health care professionals, medical record technologists or
@@ -98,7 +96,7 @@ health care provider shall contain any clause purporting to transfer to
 the health care provider by indemnification or otherwise any liability
 relating to activities, actions or omissions of the utilization review
 agent as opposed to the health care provider.
-  15.  A health care professional providing health care services to an
+  15. A health care professional providing health care services to an
 enrollee shall be prohibited from serving as the clinical peer reviewer
 for such enrollee in connection with the health care services being
 provided to the enrollee.

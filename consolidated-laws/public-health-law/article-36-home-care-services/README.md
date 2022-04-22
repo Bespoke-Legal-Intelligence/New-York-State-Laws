@@ -27,6 +27,7 @@
 - [§ 3614-C Home care worker wage parity](3614c-home-care-worker-wage-parity.md)
 - [§ 3614-D Universal standards for coding of payment for medical assistance claims for long term care](3614d-universal-standards-for-coding-of-payment-for-medical-assistance-claims-for-long.md)
 - [§ 3614-E Electronic payment of claims](3614e-electronic-payment-of-claims.md)
+- [§ 3614-F Home care minimum wage increase](3614f-home-care-minimum-wage-increase.md)
 - [§ 3615 State aid to certified home health agencies](3615-state-aid-to-certified-home-health-agencies.md)
 - [§ 3616 Provision of certified home health agency services, long term home health care programs and AIDS home care programs](3616-provision-of-certified-home-health-agency-services-long-term-home-health-care.md)
 - [§ 3616-A Quality assurance](3616a-quality-assurance.md)
@@ -72,6 +73,7 @@ Section 3600.   Declaration of legislative findings and intent.
         3614-d. Universal standards for coding of payment for medical
                   assistance claims for long term care.
         3614-e. Electronic payment of claims.
+        3614-f. Home care minimum wage increase.
         3615.   State aid to certified home health agencies.
         3616.   Provision of certified home health agency services, long
                   term home health care programs and AIDS home care

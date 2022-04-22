@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 1313", "kind": "section", "law_id": "PML", "location_id": "1313", "path": "ARTICLE 13 › TITLE 2 › SECTION 1313", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/1313.md", "title": "Form of application"} -->
 # Racing, Pari-Mutuel Wagering and Breeding Law § 1313 — Form of application
 
-[Racing, Pari-Mutuel Wagering and Breeding Law](../../README.md) › [Article 13 — Destination Resort Gaming](../README.md) › [Title 2 — Facility Determination and Licensing](README.md)
+[Racing, Pari-Mutuel Wagering and Breeding Law](../../README.md) › [Article 13 — Destination Resort Gaming](../README.md) › [Title 2 — Facility Determination and Licensing: Upstate Gaming Facilities](README.md)
 
 ```text
   § 1313. Form of application. 1. The commission and the board shall

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | ENV |
 | Type | Consolidated law, chapter 43-B |
-| Sections | 1,810 |
-| Last changed | 15 Apr 2022 |
+| Sections | 1,812 |
+| Last changed | 22 Apr 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Environmental Conservation |
 
@@ -33,6 +33,7 @@ An ACT to repeal and reenact chapter forty-three-B of the consolidated
 
 ## Recent changes
 
+- [22 Apr 2022](../../changes/2022/2022-04-22.md): 43 amended, 2 added
 - [15 Apr 2022](../../changes/2022/2022-04-15.md): 1 amended
 - [1 Apr 2022](../../changes/2022/2022-04-01.md): 2 amended
 - [4 Mar 2022](../../changes/2022/2022-03-04.md): 15 amended
@@ -42,7 +43,6 @@ An ACT to repeal and reenact chapter forty-three-B of the consolidated
 - [31 Dec 2021](../../changes/2021/2021-12-31.md): 4 amended, 7 added
 - [24 Dec 2021](../../changes/2021/2021-12-24.md): 4 amended
 - [17 Dec 2021](../../changes/2021/2021-12-17.md): 2 amended, 1 added
-- [10 Dec 2021](../../changes/2021/2021-12-10.md): 2 amended
 
 ## Contents
 
@@ -91,7 +91,7 @@ An ACT to repeal and reenact chapter forty-three-B of the consolidated
 - [Article 55 — Sole Source Aquifer Protection](article-55-sole-source-aquifer-protection/)
 - [Article 56 — Implementation of the Clean Water/clean Air Bond Act of 1996](article-56-implementation-of-the-clean-water-clean-air-bond/)
 - [Article 57 — Long Island Pine Barrens Maritime Reserve Act](article-57-long-island-pine-barrens-maritime-reserve-act/)
-- [Article 58 — Implementation of the Environmental Bond Act of 2022 "restore Mother Nature"](article-58-implementation-of-the-environmental-bond-act/)
+- [Article 58 — Implementation of the "clean Water, Clean Air, and Green Jobs Environmental Bond Act of 2022 "](article-58-implementation-of-the-clean-water-clean-air/)
 - [Article 70 — Uniform Procedures](article-70-uniform-procedures/)
 - [Article 71 — Enforcement](article-71-enforcement/)
 - [Article 72 — Environmental Regulatory Program Fees](article-72-environmental-regulatory-program-fees/)

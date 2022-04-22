@@ -8,8 +8,8 @@
 | Senate code | UDA |
 | Type | Unconsolidated law |
 | Session law | L. 1968, ch. 174 |
-| Sections | 100 |
-| Last changed | 23 Apr 2021 |
+| Sections | 106 |
+| Last changed | 22 Apr 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Urban Development Corporation Act 174/68 |
 
@@ -21,19 +21,20 @@
 
 ```text
                      Chapter 174 of the laws of 1968
-Section  1.     Short title.
-         2.     Statement of legislative findings and purposes.
-         3.     Definitions.
-         4.     New York state urban development corporation.
-         5.     Powers of the corporation.
-         6.     Sale or lease of land use improvement projects.
-        *6-a.   Sale or lease of infrastructure projects.
+Section   1.       Short title.
+          2.       Statement of legislative findings and purposes.
+          3.       Definitions.
+          4.       New York state urban development corporation.
+          5.       Powers of the corporation.
+          6.       Sale or lease of land use improvement projects.
+          6-a*.    Sale or lease of infrastructure projects.
 ```
 
-[Full chapter text (127 lines)](chapter-text.md)
+[Full chapter text (135 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [22 Apr 2022](../../changes/2022/2022-04-22.md): 8 amended, 6 added
 - [23 Apr 2021](../../changes/2021/2021-04-23.md): 10 amended, 5 added
 - [9 Apr 2021](../../changes/2021/2021-04-09.md): 1 added
 - [17 Apr 2020](../../changes/2020/2020-04-17.md): 7 amended, 3 added
@@ -43,7 +44,6 @@ Section  1.     Short title.
 - [31 Aug 2018](../../changes/2018/2018-08-31.md): 1 amended
 - [27 Apr 2018](../../changes/2018/2018-04-27.md): 3 amended
 - [20 Apr 2018](../../changes/2018/2018-04-20.md): 5 amended, 2 added
-- [5 Jan 2018](../../changes/2018/2018-01-05.md): 1 amended
 
 ## Contents
 
@@ -102,6 +102,8 @@ Section  1.     Short title.
 - [§ 16-DD Community development revolving loan program](16dd-community-development-revolving-loan-program.md)
 - [§ 16-EE Loans to social and economic equity applicants](16ee-loans-to-social-and-economic-equity-applicants.md)
 - [§ 16-FF COVID-19 pandemic small business recovery grant program](16ff-covid-19-pandemic-small-business-recovery-grant-program.md)
+- [§ 16-GG Small business seed funding grant program](16gg-small-business-seed-funding-grant-program.md)
+- [§ 16-GG\*2 Division of Broadband Access](16gg-2-division-of-broadband-access.md)
 - [§ 17 Bonds and notes of the corporation](17-bonds-and-notes-of-the-corporation.md)
 - [§ 18 Bond authorization](18-bond-authorization.md)
 - [§ 19 Security for bonds or notes; construction and acquisition of projects](19-security-for-bonds-or-notes-construction-and-acquisition-of-projects.md)
@@ -142,8 +144,12 @@ Section  1.     Short title.
 - [§ 53 No title](53-no-title.md)
 - [§ 54 No title](54-no-title.md)
 - [§ 54-A Personal income tax notes; 2022](54a-personal-income-tax-notes-2022.md)
+- [§ 54-B Personal income tax notes](54b-personal-income-tax-notes.md)
 - [§ 55 No title](55-no-title.md)
 - [§ 55-A Line of credit facilities; 2022](55a-line-of-credit-facilities-2022.md)
 - [§ 56 State-supported debt; 2021](56-state-supported-debt-2021.md)
 - [§ 56-A State-supported debt; 2022](56a-state-supported-debt-2022.md)
 - [§ 57 No title](57-no-title.md)
+- [§ 58](58.md)
+- [§ 58\*2 Reporting](58-2-reporting.md)
+- [§ 59 The dormitory authority of the state of New York, the New York state urban development corporation, and the New York state thruway author...](59-the-dormitory-authority-of-the-state-of-new-york-the-new-york-state-urban.md)

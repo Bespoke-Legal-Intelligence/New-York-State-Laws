@@ -287,7 +287,7 @@ hundred million dollars, to be withheld in four quarterly installments
 on January fifteenth, April fifteenth, July fifteenth and October
 fifteenth of each year, and shall deposit such amounts into the New York
 State Agency Trust Fund, Distressed Provider Assistance Account.
-  * NB Effective until April 3, 2022
+  * NB Effective until April 3, 2025
   * (ii) After withholding the taxes, penalties and interest imposed by
 the city of New York on and after August first, two thousand eight as
 provided in subparagraph (i) of this paragraph, the comptroller shall
@@ -307,7 +307,7 @@ and make payments described in this paragraph, the city of New York has
 no right, title or interest in or to those taxes, penalties and interest
 required to be paid into the above referenced central business district
 tolling capital lockbox.
-  * NB Effective April 3, 2022
+  * NB Effective April 3, 2025
   * (5-a) However, after the comptroller has made the payments to the
 Nassau county interim finance authority, the Buffalo fiscal stability
 authority, and the Erie county fiscal stability authority required by
@@ -351,26 +351,6 @@ amount of any such underpayment to such number of subsequent payments
 and distributions as the comptroller and the commissioner shall consider
 reasonable in view of the amount of the overpayment or underpayment and
 all other facts and circumstances.
-  * (7) In order to provide critical support to financially distressed
-hospitals and nursing home facilities throughout the state, the
-comptroller shall, by April fifteenth, two thousand twenty, and by
-January first of each year thereafter, determine each county's
-percentage share of the total aggregate net collections of all counties,
-excluding a city with a population of one million or more, for the
-one-year period ending November thirtieth of the preceding year, and
-withhold from the taxes, penalties and interest imposed by each county,
-excluding a city having a population of one million or more, an amount
-equal to the product of such county's percentage share and fifty million
-dollars. Such amounts shall be withheld in four quarterly installments
-on January fifteenth, April fifteenth, July fifteenth and October
-fifteenth, and shall be deposited into the New York State Agency Trust
-Fund, Distressed Provider Assistance Account. Provided, however, for the
-tax jurisdictions that are subject to paragraphs three and five-a of
-this subdivision, the comptroller shall deposit such amount to the New
-York State Agency Trust Fund, Distressed Provider Assistance Account
-after funds are distributed pursuant to such paragraphs three and five-a
-of this subdivision.
-  * NB Repealed April 3, 2022
   (d) All of the provisions of this section shall apply to the taxes,
 penalties and interest from sales and compensating use taxes on sales
 and uses of motor fuel or diesel motor fuel imposed pursuant to this

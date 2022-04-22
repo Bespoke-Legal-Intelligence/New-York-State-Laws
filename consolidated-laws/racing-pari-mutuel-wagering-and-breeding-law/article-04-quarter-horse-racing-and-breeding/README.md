@@ -10,7 +10,6 @@
 - [§ 403 Filing of information concerning stock transfers; necessity for commission approval](403-filing-of-information-concerning-stock-transfers-necessity.md)
 - [§ 404 Right to hold quarter horse race meetings and races](404-right-to-hold-quarter-horse-race-meetings-and-races.md)
 - [§ 405 Pari-mutuel betting at quarter horse races](405-pari-mutuel-betting-at-quarter-horse-races.md)
-- [§ 406 State admission tax](406-state-admission-tax.md) *(repealed)*
 - [§ 407 Licenses for quarter horse race meetings](407-licenses-for-quarter-horse-race-meetings.md)
 - [§ 408 Officials at quarter horse race meetings](408-officials-at-quarter-horse-race-meetings.md)
 - [§ 409 Licenses for participants and employees at quarter horse race meetings](409-licenses-for-participants-and-employees-at-quarter-horse-race.md)

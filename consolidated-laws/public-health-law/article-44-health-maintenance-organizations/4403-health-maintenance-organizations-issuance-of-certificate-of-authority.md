@@ -196,24 +196,24 @@ disease or condition for which it is accredited or designated.
 maintenance organization's network of providers for reasons other than
 those for which the provider would not be eligible to receive a hearing
 pursuant to paragraph a of subdivision two of section forty-four hundred
-six-d of this chapter, the health maintenance organization shall permit
-the enrollee to continue an ongoing course of treatment with the
-enrollee's current health care provider during a transitional period of
-(i) up to ninety days from the date of notice to the enrollee of the
-provider's disaffiliation from the organization's network; or (ii) if
-the enrollee has entered the second trimester of pregnancy at the time
-of the provider's disaffiliation, for a transitional period that
-includes the provision of post-partum care directly related to the
-delivery.
-  (2) Notwithstanding the provisions of subparagraph one of this
-paragraph, such care shall be authorized by the health maintenance
-organization during the transitional period only if the health care
-provider agrees (i) to continue to accept reimbursement from the health
-maintenance organization at the rates applicable prior to the start of
-the transitional period as payment in full; (ii) to adhere to the
+six-d of this chapter, the health maintenance organization shall provide
+written notice to the enrollee of the provider's disaffiliation and
+permit the enrollee to continue an ongoing course of treatment with the
+enrollee's current health care provider during a transitional period of:
+(i) ninety days from the later of the date of the notice to the enrollee
+of the provider's disaffiliation from the organization's network or the
+effective date of the provider's disaffiliation from the organization's
+network; or (ii) if the enrollee is pregnant at the time of the
+provider's disaffiliation, the duration of the pregnancy and post-partum
+care directly related to the delivery.
+  (2) During the transitional period the health care provider shall: (i)
+continue to accept reimbursement from the health maintenance
+organization at the rates applicable prior to the start of the
+transitional period, and continue to accept the in-network cost-sharing
+from the enrollee, if any, as payment in full; (ii) adhere to the
 organization's quality assurance requirements and to provide to the
 organization necessary medical information related to such care; and
-(iii) to otherwise adhere to the organization's policies and procedures,
+(iii) otherwise adhere to the organization's policies and procedures,
 including but not limited to procedures regarding referrals and
 obtaining pre-authorization and a treatment plan approved by the
 organization.

@@ -337,6 +337,12 @@ only for an individual who is not older than age twenty-four at the time
 of enrollment in the summer youth employment program and such disregard
 must be applied for the length of the individual's participation in such
 program.
+  (x) all of the income of a head of household or any person in the
+household, who is receiving such aid or for whom an application for such
+aid has been made, which is derived from the health care and mental
+hygiene worker bonuses under section three hundred sixty-seven-w of this
+article or under the chapter of the laws of two thousand twenty-two
+which added this subparagraph.
   (b) Notwithstanding the provisions of paragraph (a) of this
 subdivision, there shall not be disregarded under subparagraphs (ii) and
 (iii) of such paragraph any earned income of any of the persons to which

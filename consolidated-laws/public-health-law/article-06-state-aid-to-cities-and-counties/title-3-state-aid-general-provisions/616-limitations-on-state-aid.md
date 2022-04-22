@@ -18,10 +18,15 @@ provided pursuant to subdivision one of section six hundred five of this
 article.
   2. No payments shall be made from moneys appropriated for the purpose
 of this article to a municipality for contributions by the municipality
-for indirect costs and fringe benefits, including but not limited to,
-employee retirement funds, health insurance and federal old age and
-survivors insurance.
+for indirect costs.
   3. Administrative policy changes relating to state aid shall not be
 implemented without reasonable and statewide advance written notice to
 municipalities.
+  4. Moneys appropriated for the purposes of this article to a
+municipality may include reimbursement of a municipality's fringe
+benefits, including but not limited to employee retirement funds, health
+insurance and federal old age and survivor's insurance. However, costs
+submitted under an application for state aid must be consistent with a
+municipality's documented fringe benefit costs and shall not exceed
+fifty per centum of the municipality's eligible personnel services.
 ```

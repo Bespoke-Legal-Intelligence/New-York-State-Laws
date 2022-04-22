@@ -160,21 +160,28 @@ finance committee and the chair of the assembly ways and means committee
 on the distribution and disbursement of such funds.
   (g) Notwithstanding subdivision (a) of this section, and within
 amounts appropriated for such purposes as described herein, for the
-period of April first, two thousand fifteen through March thirty-first,
-two thousand sixteen, the commissioner may award a temporary adjustment
-to the non-capital components of rates, or make temporary lump-sum
-Medicaid payments to eligible general hospitals in severe financial
-distress to enable such facilities to maintain operations and vital
-services while such facilities establish long term solutions to achieve
-sustainable health services.
-  (i) Eligible general hospitals shall include:
+period of April first, two thousand twenty-two through March
+thirty-first, two thousand twenty-three, the commissioner may award a
+temporary adjustment to the non-capital components of rates, or make
+temporary lump-sum Medicaid payments to eligible facilities in severe
+financial distress to enable such facilities to maintain operations and
+vital services while such facilities establish long term solutions to
+achieve sustainable health services. Provided, however, the commissioner
+is authorized to make such a temporary adjustment or make such temporary
+lump sum payment only pursuant to criteria, an evaluation process, and
+transformation plan acceptable to the commissioner in consultation with
+the director of the division of the budget. The department shall publish
+on its website the criteria, evaluation process and guidance for
+transformation plans and notification of any award recipients.
+  (i) Eligible facilities shall include:
   (A) a public hospital, which for purposes of this subdivision, shall
 mean a general hospital operated by a county or municipality, but shall
 exclude any such hospital operated by a public benefit corporation;
   (B) a federally designated critical access hospital;
-  (C) a federally designated sole community hospital; or
-  (D) a general hospital that is a safety net hospital, which for
-purposes of this subdivision shall mean:
+  (C) a federally designated sole community hospital;
+  (D) a residential health care facility;
+  (E) a general hospital that is a safety net hospital, which for
+purpose of this subdivision shall mean:
   (1) such hospital has at least thirty percent of its inpatient
 discharges made up of Medicaid eligible individuals, uninsured
 individuals or Medicaid dually eligible individuals and with at least
@@ -183,7 +190,11 @@ eligible individuals, uninsured individuals or Medicaid dually-eligible
 individuals; or
   (2) such hospital serves at least thirty percent of the residents of a
 county or a multi-county area who are Medicaid eligible individuals,
-uninsured individuals or Medicaid dually-eligible individuals.
+uninsured individuals or Medicaid dually-eligible individuals; or
+  (F) an independent practice association or accountable care
+organization authorized under applicable regulations that participate in
+managed care provider network arrangements with any of the provider
+types in subparagraphs (A) through (F) of this paragraph.
   (ii) Eligible applicants must demonstrate that without such award,
 they will be in severe financial distress through March thirty-first,
 two thousand sixteen, as evidenced by:

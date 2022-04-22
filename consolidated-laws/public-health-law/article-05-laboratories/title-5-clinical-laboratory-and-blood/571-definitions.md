@@ -53,12 +53,22 @@ findings of tests.
 designated as a waived test or is otherwise subject to certificate of
 waiver requirements pursuant to the federal clinical laboratory
 improvement act of nineteen hundred eighty-eight, as amended.
-  6. "Qualified health care professional" means a physician, dentist,
+  * 6. "Qualified health care professional" means a physician, dentist,
+podiatrist, optometrist performing a clinical laboratory test that does
+not use an invasive modality as defined in section seventy-one hundred
+one of the education law, pharmacist administering COVID-19 and
+influenza tests pursuant to subdivision seven of section sixty-eight
+hundred one of the education law, physician assistant, specialist
+assistant, nurse practitioner, or midwife, who is licensed and
+registered with the state education department.
+  * NB Effective until April 9, 2024
+  * 6. "Qualified health care professional" means a physician, dentist,
 podiatrist, optometrist performing a clinical laboratory test that does
 not use an invasive modality as defined in section seventy-one hundred
 one of the education law, physician assistant, specialist assistant,
 nurse practitioner, or midwife, who is licensed and registered with the
 state education department.
+  * NB Effective April 9, 2024
   7. "Provider-performed microscopy procedure" means a procedure
 performed by a qualified health care professional acting within the
 scope of his or her licensed profession, which has been designated as a

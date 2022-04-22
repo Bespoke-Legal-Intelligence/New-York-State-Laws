@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 1320", "kind": "section", "law_id": "PML", "location_id": "1320", "path": "ARTICLE 13 › TITLE 2 › SECTION 1320", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/1320.md", "title": "Siting evaluation"} -->
 # Racing, Pari-Mutuel Wagering and Breeding Law § 1320 — Siting evaluation
 
-[Racing, Pari-Mutuel Wagering and Breeding Law](../../README.md) › [Article 13 — Destination Resort Gaming](../README.md) › [Title 2 — Facility Determination and Licensing](README.md)
+[Racing, Pari-Mutuel Wagering and Breeding Law](../../README.md) › [Article 13 — Destination Resort Gaming](../README.md) › [Title 2 — Facility Determination and Licensing: Upstate Gaming Facilities](README.md)
 
 ```text
   § 1320. Siting evaluation. In determining whether an applicant shall

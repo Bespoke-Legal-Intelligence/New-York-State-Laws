@@ -90,13 +90,29 @@ thirty-first two thousand sixteen, no less than the prevailing rate of
 total compensation as of January first, two thousand eleven, or the
 total compensation mandated by the living wage law of such city,
 whichever is greater;
-  (iv) for all periods on or after April first, two thousand sixteen,
+  * (iv) for all periods on or after April first, two thousand sixteen,
 the cash portion of the minimum rate of home care aide total
 compensation shall be ten dollars or the minimum wage as laid out in
 paragraph (a) of subdivision one of section six hundred fifty-two of the
 labor law, whichever is higher. The benefit portion of the minimum rate
 of home care aide total compensation shall be four dollars and nine
 cents.
+  * NB Effective until October 1, 2022
+  * (iv) for all periods on or after April first, two thousand sixteen,
+the cash portion of the minimum rate of home care aide total
+compensation shall be ten dollars or the minimum wage as laid out in
+paragraph (a) of subdivision one of section six hundred fifty-two of the
+labor law, whichever is higher. The benefit portion of the minimum rate
+of home care aide total compensation shall be four dollars and nine
+cents;
+  * NB Effective October 1, 2022
+  * (v) for all periods on or after January first, two thousand
+twenty-three, the cash portion of the minimum rate of home care aide
+total compensation shall be the minimum wage for home care aides in the
+applicable region, as defined in section thirty-six hundred fourteen-f
+of this article. The benefit portion of the minimum rate of home care
+aide total compensation shall be four dollars and nine cents.
+  * NB Effective October 1, 2022
   (b) The minimum rate of home care aide total compensation in the
 counties of Nassau, Suffolk and Westchester shall be:
   (i) for the period March first, two thousand thirteen through February
@@ -113,13 +129,29 @@ February twenty-eighth, two thousand sixteen, one hundred percent of the
 total compensation mandated by the living wage law as set on March
 first, two thousand fifteen of a city with a population of a million or
 more;
-  (iv) for all periods on or after March first, two thousand sixteen,
+  * (iv) for all periods on or after March first, two thousand sixteen,
 the cash portion of the minimum rate of home care aide total
 compensation shall be ten dollars or the minimum wage as laid out in
 paragraph (b) of subdivision one of section six hundred fifty-two of the
 labor law, whichever is higher. The benefit portion of the minimum rate
 of home care aide total compensation shall be three dollars and
 twenty-two cents.
+  * NB Effective until October 1, 2022
+  * (iv) for all periods on or after March first, two thousand sixteen,
+the cash portion of the minimum rate of home care aide total
+compensation shall be ten dollars or the minimum wage as laid out in
+paragraph (b) of subdivision one of section six hundred fifty-two of the
+labor law, whichever is higher. The benefit portion of the minimum rate
+of home care aide total compensation shall be three dollars and
+twenty-two cents;
+  * NB Effective October 1, 2022
+  * (v) for all periods on or after January first, two thousand
+twenty-three, the cash portion of the minimum rate of home care aide
+total compensation shall be the minimum wage for the applicable region,
+as defined in section thirty-six hundred fourteen-f of this article. The
+benefit portion of the minimum rate of home care aide total compensation
+shall be three dollars and twenty-two cents.
+  * NB Effective October 1, 2022
   4. The terms of this section shall apply equally to services provided
 by home care aides who work on episodes of care as direct employees of
 certified home health agencies, long term home health care programs, or

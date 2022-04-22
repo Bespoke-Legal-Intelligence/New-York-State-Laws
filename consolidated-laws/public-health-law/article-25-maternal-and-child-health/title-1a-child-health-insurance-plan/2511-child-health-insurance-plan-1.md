@@ -518,12 +518,20 @@ coverage in the event of termination of coverage under this title;
 program participants who are ineligible for subsidy payments; and
   (xii) include such other information as the commissioner and the
 superintendent may deem appropriate.
-  (b) The commissioner, in consultation with the superintendent, shall
+  * (b) The commissioner, in consultation with the superintendent, shall
 make a determination whether to approve, disapprove or recommend
 modification of the proposal. In order for a proposal to be approved by
 the commissioner, the proposal must also be approved by the
 superintendent with respect to the provisions of subparagraphs (viii)
 through (xii) of paragraph (a) of this subdivision.
+  * NB Effective until January 1, 2023
+  * (b) The commissioner, in consultation with the superintendent, shall
+make a determination whether to approve, disapprove or recommend
+modification of the proposal. In order for a proposal to be approved by
+the commissioner, the proposal must also be approved by the
+superintendent with respect to the provisions of subparagraphs (ix) and
+(xii) of paragraph (a) of this subdivision.
+  * NB Effective January 1, 2023
   (c) The commissioner, in consultation with the superintendent, shall
 ensure, to the extent possible, that child health insurance plan
 coverage is available in all geographic areas. The commissioner may
@@ -601,6 +609,33 @@ section eleven hundred twenty of the insurance law, for the period April
 first, two thousand fourteen through March thirty-first, two thousand
 fifteen, subsidy payments made to approved organizations shall be at
 amounts approved prior to April first, two thousand fourteen.
+  * (i) Notwithstanding any inconsistent provision of this title,
+articles thirty-two and forty-three of the insurance law and subsection
+(e) of section eleven hundred twenty of the insurance law:
+  (i) The commissioner shall, subject to approval of the director of the
+division of the budget, develop reimbursement methodologies for
+determining the amount of subsidy payments made to approved
+organizations for the cost of covered health care services coverage
+provided pursuant to this title for payments made on and after January
+first, two thousand twenty-four.
+  (ii) Effective January first, two thousand twenty-three, the
+commissioner shall coordinate with the superintendent of financial
+services for the transition of the subsidy payment rate setting function
+to the department and, in conjunction with its independent actuary,
+review reimbursement methodologies developed in accordance with
+subparagraph (i) of this paragraph. Notwithstanding section one hundred
+sixty-three of the state finance law, the commissioner may select and
+contract with the independent actuary selected pursuant to subdivision
+eighteen of section three hundred sixty-four-j of the social services
+law, without a competitive bid or request for proposal process. Such
+independent actuary shall review and make recommendations concerning
+appropriate actuarial assumptions relevant to the establishment of
+reimbursement methodologies, including but not limited to the adequacy
+of subsidy payment amounts in relation to the population to be served
+adjusted for case mix, the scope of services approved organizations must
+provide, the utilization of such services and the network of providers
+required to meet state standards.
+  * NB Effective January 1, 2023
   9. The commissioner shall, within amounts available therefor, contract
 with community-based and other marketing organizations for purposes of
 public education, outreach, and recruitment of eligible children,
@@ -912,4 +947,20 @@ plan in a state health benefit exchange established pursuant to the
 federal Patient Protection and Affordable Care Act (P.L. 111-148), as
 amended by the federal Health Care and Education Reconciliation Act of
 2010 (P.L. 111-152).
+  22. Notwithstanding the provisions of this title and effective on and
+after January first, two thousand twenty-three, the consultative,
+review, and approval functions of the superintendent of financial
+services related to administration of the child health insurance plan
+are no longer applicable and references to those functions in this title
+shall be null and void. The child health insurance plan set forth in
+this title shall be administered solely by the commissioner. All child
+health insurance plan policies reviewed and approved by the
+superintendent of financial services in accordance with section eleven
+hundred twenty of the insurance law shall remain in effect until the
+commissioner establishes a process to review and approve member
+handbooks in accordance with the requirements of Title XXI of the
+federal social security act and implementing regulations, and such
+member handbooks are issued by approved organizations to enrollees in
+place of child health insurance plan policies which were subject to
+review under section eleven hundred twenty of the insurance law.
 ```

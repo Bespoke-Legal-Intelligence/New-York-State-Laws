@@ -62,10 +62,12 @@
 - [§ 40 The tax-free NY area tax elimination credit](40-the-tax-free-ny-area-tax-elimination-credit.md)
 - [§ 41 Limitations on tax credit eligibility](41-limitations-on-tax-credit-eligibility.md)
 - [§ 42 Farm workforce retention credit](42-farm-workforce-retention-credit.md)
+- [§ 42-A Farm employer overtime credit](42a-farm-employer-overtime-credit.md)
 - [§ 43 Life sciences research and development tax credit](43-life-sciences-research-and-development-tax-credit.md)
 - [§ 43\*2 Single member limited liability companies and eligibility for tax credits](43-2-single-member-limited-liability-companies-and-eligibility-for-tax-credits.md)
 - [§ 44 Employer-provided child care credit](44-employer-provided-child-care-credit.md)
 - [§ 46 Restaurant return-to-work tax credit](46-restaurant-return-to-work-tax-credit.md)
+- [§ 47 COVID-19 capital costs tax credit](47-covid-19-capital-costs-tax-credit.md)
 
 <details>
 <summary>Official heading of Article 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -148,11 +150,13 @@ Section  1.   Short title.
         40.   The tax-free NY area tax elimination credit.
         41.   Limitations on tax credit eligibility.
         42.   Farm workforce retention credit.
+        42-a. Farm employer overtime credit.
         43.   Life sciences research and development tax credit.
         43*2. Single member limited liability companies and eligibility
                 for tax credits.
         44.   Employer-provided child care credit.
         46.   Restaurant return-to-work tax credit.
+        47.   COVID-19 capital costs tax credit.
 ```
 
 </details>

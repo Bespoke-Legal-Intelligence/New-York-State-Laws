@@ -10,6 +10,7 @@
 - [§ 8 Testing of certain applicants for employment](08-testing-of-certain-applicants-for-employment.md)
 - [§ 9 Access to information of incarcerated individuals via the internet](09-access-to-information-of-incarcerated-individuals-via-the-internet.md)
 - [§ 10 Parole officers](10-parole-officers.md)
+- [§ 11 Identification card program](11-identification-card-program.md)
 - [§ 15-B Education](15b-education.md)
 - [§ 15-C Acceptance of grants or gifts](15c-acceptance-of-grants-or-gifts.md)
 - [§ 16 Expense of autopsy; state charge](16-expense-of-autopsy-state-charge.md)
@@ -41,6 +42,7 @@ Section 5.     Department of corrections and community supervision;
         9.     Access to information of incarcerated individuals via the
                  internet.
         10.    Parole officers.
+        11.    Identification card program.
         15-b.  Education.
         15-c.  Acceptance of grants or gifts.
         16.    Expense of autopsy; state charge.

@@ -10,6 +10,7 @@
 - [§ 4803 Health care professional applications and terminations](4803-health-care-professional-applications-and-terminations.md)
 - [§ 4804 Access to specialty care](4804-access-to-specialty-care.md)
 - [§ 4805 Access to end of life care](4805-access-to-end-of-life-care.md)
+- [§ 4806 Health care facility applications](4806-health-care-facility-applications.md)
 
 <details>
 <summary>Official heading of Article 48, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -22,6 +23,7 @@ Section 4801. Application.
         4803. Health care professional applications and terminations.
         4804. Access to specialty care.
         4805. Access to end of life care.
+        4806. Health care facility applications.
 ```
 
 </details>

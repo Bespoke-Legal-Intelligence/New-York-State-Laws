@@ -75,17 +75,35 @@ developmental disabilities Care Coordination Organization (CCO), hospice
 or a voluntary foster care agency certified by the office of children
 and family services certified and licensed pursuant to article
 twenty-nine-i of this chapter;
-  (x) certified peer recovery advocate services providers certified by
+  * (x) certified peer recovery advocate services providers certified by
+the commissioner of addiction services and supports pursuant to section
+19.18-b of the mental hygiene law, peer providers credentialed by the
+commissioner of addiction services and supports and peers certified or
+credentialed by the office of mental health;
+  * NB Effective until April 1, 2024
+  * (x) certified peer recovery advocate services providers certified by
 the commissioner of addiction services and supports pursuant to section
 19.18-b of the mental hygiene law, peer providers credentialed by the
 commissioner of addiction services and supports and peers certified or
 credentialed by the office of mental health; and
-  (y) any other provider as determined by the commissioner pursuant to
+  * NB Effective April 1, 2024
+  * (y) a mental health practitioner licensed pursuant to article one
+hundred sixty-three of the education law; and
+  * NB Effective until April 1, 2024
+  * (y) any other provider as determined by the commissioner pursuant to
 regulation or, in consultation with the commissioner, by the
 commissioner of the office of mental health, the commissioner of the
 office of addiction services and supports, or the commissioner of the
 office for people with developmental disabilities pursuant to
 regulation.
+  * NB Effective April 1, 2024
+  * (z) any other provider as determined by the commissioner pursuant to
+regulation or, in consultation with the commissioner, by the
+commissioner of the office of mental health, the commissioner of the
+office of addiction services and supports, or the commissioner of the
+office for people with developmental disabilities pursuant to
+regulation.
+  * NB Effective April 1, 2024
   3. "Originating site" means a site at which a patient is located at
 the time health care services are delivered to him or her by means of
 telehealth.

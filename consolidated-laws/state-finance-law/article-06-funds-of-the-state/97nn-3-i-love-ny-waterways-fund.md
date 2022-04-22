@@ -6,14 +6,18 @@
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
 ```text
-  § 97-nn. "I love NY waterways" fund. 1. There is hereby established in
-the joint custody of the commissioner of taxation and finance and the
+  * § 97-nn. "I love NY waterways" fund. 1. There is hereby established
+in the joint custody of the commissioner of taxation and finance and the
 state comptroller a special fund to be known as the "I love NY
 waterways" fund.
-  2. The "I love NY waterways" fund shall consist of two accounts: (a)
-the "I love NY waterways" boating safety account; and (b) the "I love NY
-waterways" vessel access account. Moneys in each account shall be kept
-separate and not commingled with any other moneys of the state.
+  ** 2. The "I love NY waterways" fund shall consist of two accounts:
+(a) the "I love NY waterways" boating safety account; and (b) the "I
+love NY waterways" vessel access account. Moneys in each account shall
+be kept separate and not commingled with any other moneys of the state.
+  ** NB Effective until April 1, 2024
+  ** 2. The "I love NY waterways" fund shall consist of the "I love NY
+waterways" boating safety account.
+  ** NB Effective April 1, 2024
   3. The "I love NY waterways" boating safety account shall consist of
 the revenues required to be deposited pursuant to the provisions of
 sections seventy-eight and two hundred one of the navigation law, and
@@ -24,7 +28,7 @@ for expenditures incurred in connection with such county's waterway
 boating safety program pursuant to section seventy-nine-b of the
 navigation law, including costs and expenses incidental and appurtenant
 thereto.
-  4. The "I love NY waterways" vessel access account shall consist of
+  **4. The "I love NY waterways" vessel access account shall consist of
 the revenues derived from the vessel access surcharge collected upon the
 registration of vessels pursuant to section twenty-two hundred fifty-one
 of the vehicle and traffic law and shall be available for the creation,
@@ -33,9 +37,11 @@ to provide boating access to the waters of the state, provided that the
 state share of the cost of any project for the creation, enhancement or
 maintenance of municipal facilities or services shall not exceed fifty
 percent of such cost.
+  ** NB Repealed April 1, 2024
   5. The moneys in such fund shall be paid out as appropriated by the
 legislature. No moneys in the "I love NY waterways" fund shall be paid
 except upon the audit and warrant of the state comptroller on vouchers
 certified by the commissioner of parks, recreation and historic
 preservation.
+  * NB There are 3 § 97-nn's
 ```

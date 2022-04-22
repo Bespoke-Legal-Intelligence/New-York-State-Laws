@@ -59,7 +59,20 @@ child becomes eligible for medical assistance; and
   (c) the period of eligibility for a child for whom an applicable
 premium payment has not been paid shall end in accordance with time
 frames and procedures determined by the commissioner.
-  7. "Covered health care services" means: the services of physicians,
+  (d) effective on or after March first, two thousand twenty-three
+through March thirty-first, two thousand twenty-seven, subject to
+extension under Title XXI of the federal social security act, the period
+of eligibility for pregnant individuals enrolled in the child health
+insurance plan shall include twelve months postpartum coverage
+commencing on the first day of the month following the last day of
+pregnancy and ending on the last day of the month in which the
+twelve-month postpartum period ends; provided, however, such postpartum
+coverage may end prior to the end of the twelve-month period only under
+the following circumstances: (i) the individual requests voluntary
+termination; (ii) the individual ceases to be a state resident; (iii)
+eligibility was determined incorrectly because of error, fraud, abuse,
+or perjury attributed to the individual; or (iv) the individual dies.
+  * 7. "Covered health care services" means: the services of physicians,
 optometrists, nurses, nurse practitioners, midwives and other related
 professional personnel which are provided on an outpatient basis,
 including routine well-child visits; diagnosis and treatment of illness
@@ -82,6 +95,41 @@ to article six-C of the correction law, provided that any denial of
 coverage of such drugs, procedures or supplies shall provide the patient
 with the means of obtaining additional information concerning both the
 denial and the means of challenging such denial.
+  * NB Effective until January 1, 2023
+  * 7. "Covered health care services" means: the services of physicians,
+optometrists, nurses, nurse practitioners, midwives and other related
+professional personnel which are provided on an outpatient basis,
+including routine well-child visits; diagnosis and treatment of illness
+and injury; inpatient health care services; laboratory tests; diagnostic
+x-rays; prescription and non-prescription drugs, ostomy and other
+medical supplies and durable medical equipment; radiation therapy;
+chemotherapy; hemodialysis; outpatient blood clotting factor products
+and other treatments and services furnished in connection with the care
+of hemophilia and other blood clotting protein deficiencies; emergency
+room services; ambulance services; hospice services; emergency,
+preventive and routine dental care, including orthodontia but excluding
+cosmetic surgery; emergency, preventive and routine vision care,
+including eyeglasses; speech and hearing services; inpatient and
+outpatient mental health, alcohol and substance abuse services,
+including children and family treatment and support services, children's
+home and community based services, assertive community treatment
+services and residential rehabilitation for youth services which shall
+be reimbursed in accordance with the ambulatory patient group (APG)
+rate-setting methodology as utilized by the department of health, the
+office of addiction services and supports, or the office of mental
+health for rate-setting purposes or any such other fees established
+pursuant to article forty-three of the mental hygiene law; and
+health-related services provided by voluntary foster care agency health
+facilities licensed pursuant to article twenty-nine-I of this chapter;
+as defined by the commissioner. "Covered health care services" shall not
+include drugs, procedures and supplies for the treatment of erectile
+dysfunction when provided to, or prescribed for use by, a person who is
+required to register as a sex offender pursuant to article six-C of the
+correction law, provided that any denial of coverage of such drugs,
+procedures or supplies shall provide the patient with the means of
+obtaining additional information concerning both the denial and the
+means of challenging such denial.
+  * NB Effective January 1, 2023
   8. "Subsidy payment" means a payment made to an approved organization
 for the cost of covered health care services coverage to an eligible
 child or children.
@@ -171,6 +219,31 @@ household income is between three hundred one percent and three hundred
 fifty percent of the non-farm federal poverty level, but no more than
 one hundred thirty-five dollars per month per family; and
   (vi) sixty dollars per month for each eligible child whose family
+household income is between three hundred fifty-one percent and four
+hundred percent of the non-farm federal poverty level, but no more than
+one hundred eighty dollars per month per family.
+  (e) for periods on or after October first, two thousand twenty-two,
+amounts as follows:
+  (i) no payments are required for eligible children whose family
+household income is less than two hundred twenty-three percent of the
+non-farm federal poverty level and for eligible children who are
+American Indians or Alaskan Natives, as defined by the United States
+department of health and human services, whose family household income
+is less than two hundred fifty-one percent of the non-farm federal
+poverty level; and
+  (ii) fifteen dollars per month for each eligible child whose family
+household income is between two hundred twenty-three percent and two
+hundred fifty percent of the non-farm federal poverty level, but no more
+than forty-five dollars per month per family; and
+  (iii) thirty dollars per month for each eligible child whose family
+household income is between two hundred fifty-one percent and three
+hundred percent of the non-farm federal poverty level, but no more than
+ninety dollars per month per family; and
+  (iv) forty-five dollars per month for each eligible child whose family
+household income is between three hundred one percent and three hundred
+fifty percent of the non-farm federal poverty level, but no more than
+one hundred thirty-five dollars per month per family; and
+  (v) sixty dollars per month for each eligible child whose family
 household income is between three hundred fifty-one percent and four
 hundred percent of the non-farm federal poverty level, but no more than
 one hundred eighty dollars per month per family.

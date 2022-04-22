@@ -17,7 +17,9 @@ governmental health benefit program, denied on appeal, in whole or in
 part, pursuant to title one of this article on the grounds that such
 health care service does not meet the health care plan's requirements
 for medical necessity, appropriateness, health care setting, level of
-care, or effectiveness of a covered benefit, and
+care, effectiveness of a covered benefit, or other ground consistent
+with 42 U.S.C. § 300gg-19 as determined by the commissioner in
+consultation with the superintendent of financial services, and
   (ii) the health care plan has rendered a final adverse determination
 with respect to such health care service or both the plan and the
 enrollee have jointly agreed to waive any internal appeal, or the

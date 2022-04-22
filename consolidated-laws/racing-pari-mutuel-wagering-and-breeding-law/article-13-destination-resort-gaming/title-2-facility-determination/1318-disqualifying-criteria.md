@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 1318", "kind": "section", "law_id": "PML", "location_id": "1318", "path": "ARTICLE 13 › TITLE 2 › SECTION 1318", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/1318.md", "title": "Disqualifying criteria"} -->
 # Racing, Pari-Mutuel Wagering and Breeding Law § 1318 — Disqualifying criteria
 
-[Racing, Pari-Mutuel Wagering and Breeding Law](../../README.md) › [Article 13 — Destination Resort Gaming](../README.md) › [Title 2 — Facility Determination and Licensing](README.md)
+[Racing, Pari-Mutuel Wagering and Breeding Law](../../README.md) › [Article 13 — Destination Resort Gaming](../README.md) › [Title 2 — Facility Determination and Licensing: Upstate Gaming Facilities](README.md)
 
 ```text
   § 1318. Disqualifying criteria. 1. The commission shall deny a license

@@ -657,23 +657,41 @@ qualified entity at its location in or as part of a New York state
 innovation hot spot, as provided in section thirty-eight of this
 chapter.
   * NB There are 2 par (39)'s
-  * (39) In the case of a taxpayer who is a small business who has
-business income and/or farm income as defined in the laws of the United
-States, an amount equal to three percent of the net items of income,
-gain, loss and deduction attributable to such business or farm entering
-into federal adjusted gross income, but not less than zero, for taxable
-years beginning after two thousand thirteen, an amount equal to three
-and three-quarters percent of the net items of income, gain, loss and
-deduction attributable to such business or farm entering into federal
-adjusted gross income, but not less than zero, for taxable years
-beginning after two thousand fourteen, and an amount equal to five
+  * (39) (A) In the case of a taxpayer who is a small business or a
+taxpayer who is a member, partner, or shareholder of a limited liability
+company, partnership, or New York S corporation, respectively, that is a
+small business, who or which has business income and/or farm income as
+defined in the laws of the United States, an amount equal to fifteen
 percent of the net items of income, gain, loss and deduction
 attributable to such business or farm entering into federal adjusted
-gross income, but not less than zero, for taxable years beginning after
-two thousand fifteen. For the purposes of this paragraph, the term small
-business shall mean a sole proprietor or a farm business who employs one
-or more persons during the taxable year and who has net business income
-or net farm income of less than two hundred fifty thousand dollars.
+gross income, but not less than zero.
+  (B) (i) For the purposes of this paragraph, the term small business
+shall mean: (I) a sole proprietor who employs one or more persons during
+the taxable year and who has net business income or net farm income of
+greater than zero but less than two hundred fifty thousand dollars;
+  (II) a limited liability company, partnership, or New York S
+corporation that during the taxable year employs one or more persons and
+has net farm income attributable to a farm business that is greater than
+zero but less than two hundred fifty thousand dollars; or
+  (III) a limited liability company, partnership, or New York S
+corporation that during the taxable year employs one or more persons and
+has New York gross business income attributable to a non-farm business
+that is greater than zero but less than one million five hundred
+thousand dollars.
+  (ii) For purposes of this paragraph, the term New York gross business
+income shall mean: (I) in the case of a limited liability company or a
+partnership, New York source gross income as defined in subparagraph (B)
+of paragraph three of subsection (c) of section six hundred fifty-eight
+of this article; and (II) in the case of a New York S corporation, New
+York receipts included in the numerator of the apportionment factor
+determined under section two hundred ten-A of this chapter for the
+taxable year.
+  (C) To qualify for this modification in relation to a non-farm small
+business that is a limited liability company, partnership, or New York S
+corporation, the taxpayer's income attributable to the net business
+income from its ownership interests in non-farm limited liability
+companies, partnerships, or New York S corporations must be less than
+two hundred fifty thousand dollars.
   * NB There are 2 par (39)'s
   (40) Any wages received by an individual as an employee of a business
 located within a tax-free NY area during the first five years of such
@@ -774,6 +792,10 @@ business recovery grant program, established in section 16-ff of the New
 York state urban development corporation act, to the extent includable
 in federal adjusted gross income.
   * NB There are 2 par (45)'s
+  (46) The amount of any student loan forgiveness award made by the
+state, including any awards made pursuant to a program established under
+article fourteen of the education law to the extent included in federal
+adjusted gross income.
   (d) Modification for New York fiduciary adjustment. There shall be
 added to or subtracted from federal adjusted gross income (as the case
 may be) the taxpayer's share, as beneficiary of an estate or trust, of

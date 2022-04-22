@@ -26,6 +26,7 @@
 - [§ 307.3 Rules of court authorizing release before filing of petition](307.3-rules-of-court-authorizing-release-before-filing-of-petition.md)
 - [§ 307.4 Hearing following detention](307.4-hearing-following-detention.md)
 - [§ 308.1 Rules of court for preliminary procedure](308.1-rules-of-court-for-preliminary-procedure.md)
+- [§ 309.1 Community based treatment referrals](309.1-community-based-treatment-referrals.md)
 - [§ 310.1 Originating a juvenile delinquency proceeding](310.1-originating-a-juvenile-delinquency-proceeding.md)
 - [§ 310.2 Speedy trial](310.2-speedy-trial.md)
 - [§ 311.1 The petition; definition and contents](311.1-the-petition-definition-and-contents.md)
@@ -71,6 +72,7 @@ Section 301.1. Purpose.
                  petition.
         307.4. Hearing following detention.
         308.1. Rules of court for preliminary procedure.
+        309.1. Community based treatment referrals.
         310.1. Originating a juvenile delinquency proceeding.
         310.2. Speedy trial.
         311.1. The petition; definition and contents.

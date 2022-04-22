@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"kind": "container", "law_id": "PML", "location_id": "A13T2", "path": "ARTICLE 13 › TITLE 2", "source": "nys-laws:PML/A13T2.md", "title": "Facility Determination and Licensing"} -->
-# Title 2 — Facility Determination and Licensing
+﻿<!-- nyslaw {"kind": "container", "law_id": "PML", "location_id": "A13T2", "path": "ARTICLE 13 › TITLE 2", "source": "nys-laws:PML/A13T2.md", "title": "Facility Determination and Licensing: Upstate Gaming Facilities"} -->
+# Title 2 — Facility Determination and Licensing: Upstate Gaming Facilities
 
 [Racing, Pari-Mutuel Wagering and Breeding Law](../../README.md) › [Article 13 — Destination Resort Gaming](../README.md)
 
@@ -22,9 +22,8 @@
 
 ```text
                                  TITLE 2
-                  FACILITY DETERMINATION AND LICENSING
-Section 1310. Development zones and regions.
-        1311. License authorization; restrictions.
+     FACILITY DETERMINATION AND LICENSING: UPSTATE GAMING FACILITIES
+Section 1311. License authorization; restrictions.
         1312. Requests for applications.
         1313. Form of application.
         1314. License applicant eligibility.

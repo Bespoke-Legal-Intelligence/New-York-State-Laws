@@ -141,7 +141,7 @@ human services, or a child who is at least one year of age but younger
 than nineteen years of age who meets the presumptive eligibility
 requirements of subdivision four of section three hundred sixty-four-i
 of this title.
-  (4) An individual who is a pregnant woman or is a member of a family
+  * (4) An individual who is a pregnant woman or is a member of a family
 that contains a dependent child living with a parent or other caretaker
 relative is eligible for standard coverage if his or her MAGI household
 income does not exceed the MAGI-equivalent of one hundred thirty percent
@@ -156,6 +156,23 @@ and a full-time student, who is deprived of parental support or care by
 reason of the death, continued absence, or physical or mental incapacity
 of a parent, or by reason of the unemployment of the parent, as defined
 by the department of health.
+  * NB Effective until January 1, 2023 subject to federal financial
+participation
+  * (4) An individual who is a pregnant woman or is a member of a family
+that contains a dependent child living with a parent or other caretaker
+relative is eligible for standard coverage if their MAGI household
+income does not exceed one hundred thirty-three percent of the federal
+poverty line for the applicable family size, which shall be calculated
+in accordance with guidance issued by the Secretary of the United States
+department of health and human services; for purposes of this
+subparagraph, the term dependent child means a person who is under
+eighteen years of age, or is eighteen years of age and a full-time
+student, who is deprived of parental support or care by reason of the
+death, continued absence, or physical or mental incapacity of a parent,
+or by reason of the unemployment of the parent, as defined by the
+department of health.
+  * NB Effective January 1, 2023 subject to federal financial
+participation
   (5) A child who is under twenty-one years of age and who was in foster
 care under the responsibility of the state on his or her eighteenth
 birthday is eligible for standard coverage; notwithstanding any
@@ -308,7 +325,7 @@ person who is eligible for medical assistance under this title and on
 whose behalf the individual has the legal authority to execute an
 assignment of such rights, to support specified as support for the
 purpose of medical care by a court or administrative order; and
-  (3) cooperates with the appropriate social services official or the
+  * (3) cooperates with the appropriate social services official or the
 department in establishing paternity or in establishing, modifying, or
 enforcing a support order with respect to his or her child; provided,
 however, that nothing herein contained shall be construed to require a
@@ -321,6 +338,21 @@ recipient, or with respect to pregnant women during pregnancy and during
 the sixty-day period beginning on the last day of pregnancy, in
 accordance with procedures and criteria established by regulations of
 the department consistent with federal law; and
+  * NB Effective until March 1, 2023
+  * (3) cooperates with the appropriate social services official or the
+department in establishing paternity or in establishing, modifying, or
+enforcing a support order with respect to his or her child; provided,
+however, that nothing herein contained shall be construed to require a
+payment under this title for care or services, the cost of which may be
+met in whole or in part by a third party; notwithstanding the foregoing,
+a social services official shall not require such cooperation if the
+social services official or the department determines that such actions
+would be detrimental to the best interest of the child, applicant, or
+recipient, or with respect to pregnant women during pregnancy and during
+the one year period beginning on the last day of pregnancy, in
+accordance with procedures and criteria established by regulations of
+the department consistent with federal law; and
+  * NB Effective March 1, 2023
   (4) applies for and utilizes group health insurance benefits available
 through a current or former employer, including benefits for a spouse
 and dependent children, in accordance with the regulations of the
@@ -388,6 +420,21 @@ by the standard health plan.
 subparagraph one of this paragraph from qualifying for or receiving
 medical assistance while his or her enrollment in a standard health plan
 is pending, in accordance with applicable provisions of this title.
+  * (4) (a) Applicants and recipients who are age sixty-five or older,
+who are otherwise eligible for medical assistance under this section,
+but for their immigration status, are eligible for medical assistance
+according to the following:
+  (b) individuals eligible for medical assistance pursuant to
+subparagraph (a) of this paragraph shall participate in and receive
+covered benefits available through a managed care provider under section
+three hundred sixty-four-j of this article that is certified pursuant to
+section forty-four hundred three of the public health law; provided,
+however, to the extent that any covered benefits available through such
+managed care providers as of January first, two thousand twenty-three
+are transitioned to fee-for-service coverage, then such individuals
+shall continue to be entitled to these benefits in the fee-for-service
+program, rather than through a managed care provider.
+  * NB Effective January 1, 2023
   1-a. Notwithstanding any other provision of law, in the event that a
 person who is an incarcerated individual of a state or local
 correctional facility, as defined in section two of the correction law,
@@ -437,7 +484,7 @@ time during which such person is an inpatient in an institution for
 mental diseases shall not be included in any calculation of when the
 person must recertify his or her eligibility for medical assistance in
 accordance with this article.
-  2. (a) The following income and resources shall be exempt and shall
+  2. * (a) The following income and resources shall be exempt and shall
 not be taken into consideration in determining a person's eligibility
 for medical care, services and supplies available under this title:
   (1) (i) for applications for medical assistance filed on or before
@@ -561,6 +608,124 @@ law, any contributions to such NY ABLE account, and any distribution for
 qualified disability expenses from such account; provided however, that
 such exemption shall be consistent with section 529A of the Internal
 Revenue Code of 1986, as amended.
+  * NB Effective until January 1, 2023 subject to federal financial
+participation
+  * (a) The following income and resources shall be exempt and shall not
+be taken into consideration in determining a person's eligibility for
+medical care, services and supplies available under this title:
+  (1) (i) for applications for medical assistance filed on or before
+December thirty-first, two thousand five, a homestead which is essential
+and appropriate to the needs of the household;
+  (ii) for applications for medical assistance filed on or after January
+first, two thousand six, a homestead which is essential and appropriate
+to the needs of the household; provided, however, that in determining
+eligibility of an individual for medical assistance for nursing facility
+services and other long term care services, the individual shall not be
+eligible for such assistance if the individual's equity interest in the
+homestead exceeds seven hundred fifty thousand dollars; provided
+further, that the dollar amount specified in this clause shall be
+increased, beginning with the year two thousand eleven, from year to
+year, in an amount to be determined by the secretary of the federal
+department of health and human services, based on the percentage
+increase in the consumer price index for all urban consumers, rounded to
+the nearest one thousand dollars. If such secretary does not determine
+such an amount, the department of health shall increase such dollar
+amount based on such increase in the consumer price index. Nothing in
+this clause shall be construed as preventing an individual from using a
+reverse mortgage or home equity loan to reduce the individual's total
+equity interest in the homestead. The home equity limitation established
+by this clause shall be waived in the case of a demonstrated hardship,
+as determined pursuant to criteria established by such secretary. The
+home equity limitation shall not apply if one or more of the following
+persons is lawfully residing in the individual's homestead: (A) the
+spouse of the individual; or (B) the individual's child who is under the
+age of twenty-one, or is blind or permanently and totally disabled, as
+defined in section 1614 of the federal social security act.
+  (2) essential personal property;
+  (3) a burial fund, to the extent allowed as an exempt resource under
+the cash assistance program to which the applicant is most closely
+related;
+  (4) savings in amounts equal to one hundred fifty percent of the
+income amount permitted under subparagraph seven of this paragraph,
+provided, however, that the amounts for one and two person households
+shall not be less than the amounts permitted to be retained by
+households of the same size in order to qualify for benefits under the
+federal supplemental security income program;
+  (5) (i) such income as is disregarded or exempt under the cash
+assistance program to which the applicant is most closely related for
+purposes of this subparagraph, cash assistance program means either the
+aid to dependent children program as it existed on the sixteenth day of
+July, nineteen hundred ninety-six, or the supplemental security income
+program; and
+  (ii) such income of a disabled person (as such term is defined in
+section 1614(a)(3) of the federal social security act (42 U.S.C. section
+1382c(a)(3)) or in accordance with any other rules or regulations
+established by the social security administration), that is deposited in
+trusts as defined in clause (iii) of subparagraph two of paragraph (b)
+of this subdivision in the same calendar month within which said income
+is received;
+  (6) health insurance premiums;
+  (7) income based on the number of family members in the medical
+assistance household, as defined in regulations by the commissioner
+consistent with federal regulations under title XIX of the federal
+social security act that does not exceed one hundred thirty-eight
+percent of the federal poverty line for the applicable family size,
+which shall be calculated in accordance with guidance issued by the
+United States secretary for health and human services and with other
+applicable provisions of this section;
+  (8) No other income or resources, including federal old-age, survivors
+and disability insurance, state disability insurance or other payroll
+deductions, whether mandatory or optional, shall be exempt and all other
+income and resources shall be taken into consideration and required to
+be applied toward the payment or partial payment of the cost of medical
+care and services available under this title, to the extent permitted by
+federal law.
+  (9) Subject to subparagraph eight, the department, upon the
+application of a local social services district, after passage of a
+resolution by the local legislative body authorizing such application,
+may adjust the income exemption based upon the variations between cost
+of shelter in urban areas and rural areas in accordance with standards
+prescribed by the United States secretary of health, education and
+welfare.
+  (10) (i) A person who is receiving or is eligible to receive federal
+supplemental security income payments and/or additional state payments
+is entitled to a personal needs allowance as follows:
+  (A) for the personal expenses of a resident of a residential health
+care facility, as defined by section twenty-eight hundred one of the
+public health law, the amount of fifty-five dollars per month;
+  (B) for the personal expenses of a resident of an intermediate care
+facility operated or licensed by the office for people with
+developmental disabilities or a patient of a hospital operated by the
+office of mental health, as defined by subdivision ten of section 1.03
+of the mental hygiene law, the amount of thirty-five dollars per month.
+  (ii) A person who neither receives nor is eligible to receive federal
+supplemental security income payments and/or additional state payments
+is entitled to a personal needs allowance as follows:
+  (A) for the personal expenses of a resident of a residential health
+care facility, as defined by section twenty-eight hundred one of the
+public health law, the amount of fifty dollars per month;
+  (B) for the personal expenses of a resident of an intermediate care
+facility operated or licensed by the office for people with
+developmental disabilities or a patient of a hospital operated by the
+office of mental health, as defined by subdivision ten of section 1.03
+of the mental hygiene law, the amount of thirty-five dollars per month.
+  (iii) Notwithstanding the provisions of clauses (i) and (ii) of this
+subparagraph, the personal needs allowance for a person who is a veteran
+having neither a spouse nor a child, or a surviving spouse of a veteran
+having no child, who receives a reduced pension from the federal
+veterans administration, and who is a resident of a nursing facility, as
+defined in section 1919 of the federal social security act, shall be
+equal to such reduced monthly pension but shall not exceed ninety
+dollars per month.
+  (11) subject to the availability of federal financial participation,
+any amount, including earnings thereon, in a qualified NY ABLE account
+as established pursuant to article eighty-four of the mental hygiene
+law, any contributions to such NY ABLE account, and any distribution for
+qualified disability expenses from such account; provided however, that
+such exemption shall be consistent with section 529A of the Internal
+Revenue Code of 1986, as amended.
+  * NB Effective January 1, 2023 subject to federal financial
+participation
   * (b) (1) In establishing standards for determining eligibility for
 and amount of such assistance, the department shall take into account
 only such income and resources, in accordance with federal requirements,
@@ -916,7 +1081,7 @@ for medical assistance pursuant to subparagraph four of paragraph (b) of
 subdivision one of this section for an additional four calendar months
 beginning with the month ineligibility for such assistance begins.
   (b) Pregnant women and children.
-  (1) A pregnant woman eligible for medical assistance under
+  * (1) A pregnant woman eligible for medical assistance under
 subparagraph two or four of paragraph (b) of subdivision one of this
 section on any day of her pregnancy will continue to be eligible for
 such care and services through the end of the month in which the
@@ -924,6 +1089,15 @@ sixtieth day following the end of the pregnancy occurs, without regard
 to any change in the income of the family that includes the pregnant
 woman, even if such change otherwise would have rendered her ineligible
 for medical assistance.
+  * NB Effective until March 1, 2023
+  * (1) A pregnant woman eligible for medical assistance under
+subparagraph two or four of paragraph (b) of subdivision one of this
+section on any day of her pregnancy will continue to be eligible for
+such care and services for a period of one year beginning on the last
+day of pregnancy, without regard to any change in the income of the
+family that includes the pregnant woman, even if such change otherwise
+would have rendered her ineligible for medical assistance.
+  * NB Effective March 1, 2023
   (2) A child born to a woman eligible for and receiving medical
 assistance on the date of the child's birth shall be deemed to have
 applied for medical assistance and to have been found eligible for such

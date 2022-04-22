@@ -532,6 +532,21 @@ budget.
 pursuant to article one hundred fifty-four of the education law acting
 within their scope of practice, where such services would otherwise be
 covered under this title.
+  (jj) pre-natal and post-partum care and services for the purpose of
+improving maternal health outcomes and reduction of maternal mortality
+when such services are recommended by a physician or other health care
+practitioner authorized under title eight of the education law, and
+provided by qualified practitioners. Such services shall include but not
+be limited to nutrition services provided by certified dietitians and
+certified nutritionists; care coordination, case management, and peer
+support; patient navigation services; services by licensed clinical
+social workers; dyadic services; Bluetooth-enabled devices for remote
+patient monitoring; and other services determined by the commissioner of
+health; provided, however, that the provisions of this paragraph shall
+not take effect unless there is federal financial participation. Nothing
+in this paragraph shall be construed to modify any licensure,
+certification or scope of practice provision under title eight of the
+education law.
   3. Any inconsistent provisions of this section notwithstanding,
 medical assistance shall include:
   (a) early and periodic screening and diagnosis of eligible persons
@@ -739,42 +754,9 @@ law, or sections one hundred forty-two and one hundred forty-three of
 the economic development law, or any contrary provision of law,
 contracts may be entered or the commissioner may amend and extend the
 terms of a contract awarded prior to the effective date and entered into
-pursuant to subdivision twenty-four of section two hundred six of the
-public health law, as added by section thirty-nine of part C of chapter
-fifty-eight of the laws of two thousand eight, and a contract awarded
-prior to the effective date and entered into to conduct enrollment
-broker and conflict-free evaluation services for the Medicaid program,
-if such contract or contract amendment is for the purpose of procuring
-such assessment services from an independent assessor; provided,
-however, in the case of a contract entered into after the effective date
-of this section, that:
-  (a) The department of health shall post on its website, for a period
-of no less than thirty days:
-  (i) A description of the proposed services to be provided pursuant to
-the contract or contracts;
-  (ii) The criteria for selection of a contractor or contractors
-including, but not limited to, being unaffiliated with any entity
-certified under article forty-four of the public health law or any
-service provider licensed under article thirty-six of the public health
-law, demonstrated cultural and linguistic competence, experience in
-evaluating the service needs of individuals with disabilities seeking to
-live in the community, and demonstrated compliance with all applicable
-state and federal laws. Furthermore, the selection criteria shall
-consider and give preference to whether a prospective contractor is a
-not-for-profit organization;
-  (iii) The period of time during which a prospective contractor may
-seek selection, which shall be no less than thirty days after such
-information is first posted on the website; and
-  (iv) The manner by which a prospective contractor may submit a
-proposal for selection, which may include submission by electronic
-means;
-  (b) All reasonable and responsive submissions that are received from
-prospective contractors in a timely fashion shall be reviewed by the
-commissioner of health;
-  (c) The commissioner of health shall select such contractor or
-contractors that are best suited to serve the purposes of this section
-and the needs of recipients; and
-  (d) All decisions made and approaches taken pursuant to this section
-shall be documented in a procurement record as defined in section one
-hundred sixty-three of the state finance law.
+to conduct enrollment broker and conflict-free evaluation services for
+the Medicaid program, if such contract or contract amendment is for the
+purpose of procuring such assessment services from an independent
+assessor. Contracts entered into, amended, or extended pursuant to this
+subdivision shall not remain in force beyond September 30, 2025.
 ```

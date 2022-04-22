@@ -219,7 +219,7 @@
 - [§ 97-RRRR Lupus education and prevention fund](97rrrr-lupus-education-and-prevention-fund.md)
 - [§ 97-SSSS Leukemia, lymphoma and myeloma research, education and treatment fund](97ssss-leukemia-lymphoma-and-myeloma-research-education-and-treatment-fund.md)
 - [§ 97-SSSS\*2 Elevator and related conveyances safety program account](97ssss-2-elevator-and-related-conveyances-safety-program-account.md)
-- [§ 97-TTTT Restore mother nature bond fund](97tttt-restore-mother-nature-bond-fund.md)
+- [§ 97-TTTT Clean water, clean air, and green jobs bond fund](97tttt-clean-water-clean-air-and-green-jobs-bond-fund.md)
 - [§ 97-XXXX State health innovation plan account](97xxxx-state-health-innovation-plan-account.md)
 - [§ 97-YYYY Arts fund](97yyyy-arts-fund.md)
 - [§ 97-AAAAA Opioid stewardship fund](97aaaaa-opioid-stewardship-fund.md)

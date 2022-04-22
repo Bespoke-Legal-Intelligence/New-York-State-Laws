@@ -3,15 +3,12 @@
 
 [General Municipal Law](../README.md)
 
-*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
-
 ## Contents
 
 - [§ 370 Establishment](370-establishment.md)
 - [§ 370-A Definitions](370a-definitions.md)
 - [§ 371 Jurisdiction and procedure](371-jurisdiction-and-procedure.md)
 - [§ 371-A Additional jurisdiction and procedure related to the adjudication of certain notices of liability](371a-additional-jurisdiction-and-procedure-related-to-the-adjudication-of-certain.md)
-- [§ 371-A\*2 Additional jurisdiction and procedure related to the adjudication of certain notices of liability](371a-2-additional-jurisdiction-and-procedure-related-to-the-adjudication-of-certain.md) *(repealed)*
 - [§ 372 Fines](372-fines.md)
 - [§ 373 Records](373-records.md)
 - [§ 374 Traffic prosecutor selection and oversight](374-traffic-prosecutor-selection-and-oversight.md)

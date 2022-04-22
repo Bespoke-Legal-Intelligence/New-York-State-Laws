@@ -33,6 +33,13 @@ respect to the investment credit base in excess of three hundred fifty
 million dollars, except that in the case of research and development
 property at the option of the taxpayer the applicable percentage shall
 be nine.
+  (a-1) For a taxpayer that is an eligible farmer, as defined in
+subdivision eleven of this section, the percentage to be used to compute
+the credit allowed under this subdivision shall be twenty percent for
+property described in subparagraph (i) of paragraph (b) of this
+subdivision that is principally used by the taxpayer in the production
+of goods by farming, agriculture, horticulture, floriculture or
+viticulture.
   (b) (i) A credit shall be allowed under this subdivision with respect
 to tangible personal property and other tangible property, including
 buildings and structural components of buildings, which are: depreciable
@@ -1824,33 +1831,52 @@ whether the credit is carried from a New York C year to a New York S
 year or vice-versa.
   29. Hire a vet credit.  (a) Allowance of credit. For taxable years
 beginning on or after January first, two thousand fifteen and before
-January first, two thousand twenty-three, a taxpayer shall be allowed a
+January first, two thousand twenty-six, a taxpayer shall be allowed a
 credit, to be computed as provided in this subdivision, against the tax
-imposed by this article, for hiring and employing, for not less than one
-year and for not less than thirty-five hours each week, a qualified
-veteran within the state.  The taxpayer may claim the credit in the year
-in which the qualified veteran completes one year of employment by the
-taxpayer. If the taxpayer claims the credit allowed under this
-subdivision, the taxpayer may not use the hiring of a qualified veteran
-that is the basis for this credit in the basis of any other credit
-allowed under this article.
+imposed by this article, for hiring and employing, for not less than
+twelve continuous and uninterrupted months (hereinafter referred to as
+the twelve-month period) in a full-time or part-time position, a
+qualified veteran within the state. The taxpayer may claim the credit in
+the year in which the qualified veteran completes the twelve-month
+period of employment by the taxpayer. If the taxpayer claims the credit
+allowed under this subdivision, the taxpayer may not use the hiring of a
+qualified veteran that is the basis for this credit in the basis of any
+other credit allowed under this article.
   (b) Qualified veteran. A qualified veteran is an individual:
-  (1) who served on active duty in the United States army, navy, air
-force, marine corps, coast guard or the reserves thereof, or who served
-in active military service of the United States as a member of the army
-national guard, air national guard, New York guard or New York naval
-militia; who (i) was released from active duty by general or honorable
-discharge after September eleventh, two thousand one, or (ii) has a
+  * (1) who served on active duty in the United States army, navy, air
+force, space force, marine corps, coast guard or the reserves thereof,
+or who served in active military service of the United States as a
+member of the army national guard, air national guard, New York guard or
+New York naval militia, or who served in the active uniformed services
+of the United States as a member of the commissioned corps of the
+national oceanic and atmospheric administration or the commissioned
+corps of the United States public health service; who (i) was released
+from active duty by general or honorable discharge, or (ii) has a
 qualifying condition, as defined in section three hundred fifty of the
 executive law, and has received a discharge other than bad conduct or
-dishonorable from such service after September eleventh, two thousand
-one, or (iii) is a discharged LGBT veteran, as defined in section three
-hundred fifty of the executive law, and has received a discharge other
-than bad conduct or dishonorable from such service after September
-eleventh, two thousand one;
+dishonorable from such service, or (iii) is a discharged LGBT veteran,
+as defined in section three hundred fifty of the executive law, and has
+received a discharge other than bad conduct or dishonorable from such
+service;
+  * NB Effective until April 1, 2023
+  * (1) who served on active duty in the United States army, navy, air
+force, space force, marine corps, coast guard or the reserves thereof,
+or who served in active military service of the United States as a
+member of the army national guard, air national guard, New York guard or
+New York naval militia, or who served in the active uniformed services
+of the United States as a member of the commissioned corps of the
+national oceanic and atmospheric administration or the commissioned
+corps of the United States public health service; who (i) was released
+from such service, or (ii) has a qualifying condition, as defined in
+section one of the veterans' services law, and has received a discharge
+other than bad conduct or dishonorable from such service, or (iii) is a
+discharged LGBT veteran, as defined in section one of the veterans'
+services law, and has received a discharge other than bad conduct or
+dishonorable from such service;
+  * NB Effective April 1, 2023
   (2) who commences employment by the qualified taxpayer on or after
 January first, two thousand fourteen, and before January first, two
-thousand twenty-two; and
+thousand twenty-five; and
   (3) who certifies by signed affidavit, under penalty of perjury, that
 he or she has not been employed for thirty-five or more hours during any
 week in the one hundred eighty day period immediately prior to his or
@@ -1858,17 +1884,28 @@ her employment by the taxpayer.
   (c) Employer prohibition. An employer shall not discharge an employee
 and hire a qualifying veteran solely for the purpose of qualifying for
 this credit.
-  (d) Amount of credit. The amount of the credit shall be ten percent of
-the total amount of wages paid to the qualified veteran during the
-veteran's first full year of employment. Provided, however, that, if the
-qualified veteran is a disabled veteran, as defined in paragraph (b) of
-subdivision one of section eighty-five of the civil service law, the
-amount of the credit shall be fifteen percent of the total amount of
-wages paid to the qualified veteran during the veteran's first full year
-of employment. The credit allowed pursuant to this subdivision shall not
-exceed in any taxable year, five thousand dollars for any qualified
-veteran and fifteen thousand dollars for any qualified veteran who is a
-disabled veteran.
+  (d) Amount of credit. The amount of the credit shall be fifteen
+percent of the total amount of wages paid to the qualified veteran
+during the veteran's first twelve-month period of employment. Provided,
+however, that, if the qualified veteran is a disabled veteran, as
+defined in paragraph (b) of subdivision one of section eighty-five of
+the civil service law, the amount of the credit shall be twenty percent
+of the total amount of wages paid to the qualified veteran during the
+veteran's first twelve-month period of employment. The credit allowed
+pursuant to this subdivision shall not exceed in any taxable year: (1)
+fifteen thousand dollars for any qualified veteran, other than a
+disabled veteran, employed in a full-time position for one thousand
+eight hundred twenty or more hours in one twelve-month period, (2)
+twenty thousand dollars for any qualified veteran who is a disabled
+veteran employed in a full-time position for one thousand eight hundred
+twenty or more hours in one twelve-month period, (3) seven thousand five
+hundred dollars for any qualified veteran, other than a disabled
+veteran, employed in a part-time position for at least one thousand
+forty hours but not more than one thousand eight hundred nineteen hours
+in one twelve-month period, and (4) ten thousand dollars for any
+qualified veteran who is a disabled veteran employed in a part-time
+position for at least one thousand forty hours but not more than one
+thousand eight hundred nineteen hours in one twelve-month period.
   (e) Carryover. The credit allowed under this subdivision for any
 taxable year shall not reduce the tax due for such year to less than the
 amount prescribed in paragraph (d) of subdivision one of section two
@@ -2605,4 +2642,55 @@ thousand eighty-six of this chapter. Provided, however, the provisions
 of subsection (c) of section one thousand eighty-eight of this chapter
 notwithstanding, no interest shall be paid thereon.
   * NB Repealed January 1, 2024
+  * 58. Farm employer overtime credit. (a) Allowance of credit. A
+taxpayer shall be allowed a credit, to be computed as provided in
+section forty-two-a of this chapter, against the tax imposed by this
+article.
+  (b) Application of credit. The credit allowed under this subdivision
+for any taxable year shall not reduce the tax due for such year to less
+than the amount prescribed in paragraph (d) of subdivision one of
+section two hundred ten of this article. However, if the amount of
+credit allowed under this subdivision for any taxable year reduces the
+tax to such amount or if the taxpayer otherwise pays tax based on the
+fixed dollar minimum amount, any amount of credit thus not deductible in
+such taxable year shall be treated as an overpayment of tax to be
+credited or refunded in accordance with the provisions of section one
+thousand eighty-six of this chapter. Provided, however, the provisions
+of subsection (c) of section one thousand eighty-eight of this chapter
+notwithstanding, no interest shall be paid thereon.
+  * NB There are 3 sb 58's
+  * 58. COVID-19 capital costs tax credit. (a) Allowance of credit. A
+taxpayer shall be allowed a credit, to be computed as provided in
+section forty-seven of this chapter, against the taxes imposed by this
+article.
+  (b) Application of credit. The credit allowed under this subdivision
+for the taxable year shall not reduce the tax due for such year to less
+than the amount prescribed in paragraph (d) of subdivision one of
+section two hundred ten of this article. However, if the amount of
+credit allowed under this subdivision for the taxable year reduces the
+tax to such amount or if the taxpayer otherwise pays tax based on the
+fixed dollar minimum amount, any amount of credit thus not deductible in
+such taxable year shall be treated as an overpayment of tax to be
+credited or refunded in accordance with the provisions of section one
+thousand eighty-six of this chapter. Provided, however, the provisions
+of subsection (c) of section one thousand eighty-eight of this chapter
+notwithstanding, no interest will be paid thereon.
+  * NB There are 3 sb 58's
+  * 58. Grade no. 6 heating oil conversion tax credit. (a) Allowance of
+credit. A taxpayer will be allowed a credit, to be computed as provided
+in section forty-seven of this chapter, against the taxes imposed by
+this article.
+  (b) Application of credit. The credit allowed under this subdivision
+for the taxable year will not reduce the tax due for such year to less
+than the amount prescribed in paragraph (d) of subdivision one of
+section two hundred ten of this article. However, if the amount of
+credit allowed under this subdivision for the taxable year reduces the
+tax to such amount or if the taxpayer otherwise pays tax based on the
+fixed dollar minimum amount, any amount of credit not deductible in such
+taxable year will be treated as an overpayment of tax to be credited or
+refunded in accordance with the provisions of section one thousand
+eighty-six of this chapter. Provided, however, the provisions of
+subsection (c) of section one thousand eighty-eight of this chapter
+notwithstanding, no interest will be paid thereon.
+  * NB There are 3 sb 58's
 ```

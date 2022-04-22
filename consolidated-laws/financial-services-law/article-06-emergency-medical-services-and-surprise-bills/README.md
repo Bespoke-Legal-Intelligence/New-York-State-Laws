@@ -10,7 +10,7 @@
 - [§ 603 Definitions](603-definitions.md)
 - [§ 604 Criteria for determining a reasonable fee](604-criteria-for-determining-a-reasonable-fee.md)
 - [§ 605 Dispute resolution for emergency services](605-dispute-resolution-for-emergency-services.md)
-- [§ 606 Hold harmless and assignment of benefits for insureds](606-hold-harmless-and-assignment-of-benefits-for-insureds.md)
+- [§ 606 Hold harmless for insureds from bills for emergency services and surprise bills](606-hold-harmless-for-insureds-from-bills-for-emergency-services-and-surprise.md)
 - [§ 607 Dispute resolution for surprise bills](607-dispute-resolution-for-surprise-bills.md)
 - [§ 608 Payment for independent dispute resolution entity](608-payment-for-independent-dispute-resolution-entity.md)
 
@@ -25,8 +25,8 @@ Section 601. Dispute resolution process established.
         603. Definitions.
         604. Criteria for determining a reasonable fee.
         605. Dispute resolution for emergency services.
-        606. Hold harmless and assignment of benefits for surprise bills
-               for insureds.
+        606. Hold harmless for insureds from bills for emergency
+               services and surprise bills.
         607. Dispute resolution for surprise bills.
         608. Payment for independent dispute resolution entity.
 ```

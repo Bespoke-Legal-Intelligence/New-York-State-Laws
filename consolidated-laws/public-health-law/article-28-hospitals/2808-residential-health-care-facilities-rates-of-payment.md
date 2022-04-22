@@ -444,15 +444,18 @@ rate-setting methodology established by this subdivision and may also
 include, but not be limited to, provisions for facilitating quality
 improvements in residential health care facilities. For purposes of
 facilitating quality improvements through the establishment of a nursing
-home quality pool, those facilities that contribute to the quality pool,
-but are deemed ineligible for quality pool payments due exclusively to a
-specific case of employee misconduct, shall nevertheless be eligible for
-a quality pool payment if the facility properly reported the incident,
-did not receive a survey citation from the commissioner or the Centers
-for Medicare and Medicaid Services establishing the facility's
-culpability with regard to such misconduct and, but for the specific
-case of employee misconduct, the facility would have otherwise received
-a quality pool payment. Regulations pertaining to the facilitation of
+home quality pool to be funded at the discretion of the commissioner by
+(i) adjustments in medical assistance rates, (ii) funds made available
+through state appropriations, or (iii) a combination thereof, those
+facilities that contribute to the quality pool, but are deemed
+ineligible for quality pool payments due exclusively to a specific case
+of employee misconduct, shall nevertheless be eligible for a quality
+pool payment if the facility properly reported the incident, did not
+receive a survey citation from the commissioner or the Centers for
+Medicare and Medicaid Services establishing the facility's culpability
+with regard to such misconduct and, but for the specific case of
+employee misconduct, the facility would have otherwise received a
+quality pool payment. Regulations pertaining to the facilitation of
 quality improvement may be made effective for periods on and after
 January first, two thousand thirteen.
   (e) With the exception of those enrollees covered under a payment rate

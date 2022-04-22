@@ -32,6 +32,7 @@ Section 1300. Legislative findings and purpose.
         1307. Required regulations.
         1308. Reports and recommendations.
         1309. Severability and preemption.
+        1310. Development zones and regions.
 ```
 
 </details>

@@ -1,18 +1,22 @@
 ﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 1312", "kind": "section", "law_id": "PML", "location_id": "1312", "path": "ARTICLE 13 › TITLE 2 › SECTION 1312", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/1312.md", "title": "Requests for applications"} -->
 # Racing, Pari-Mutuel Wagering and Breeding Law § 1312 — Requests for applications
 
-[Racing, Pari-Mutuel Wagering and Breeding Law](../../README.md) › [Article 13 — Destination Resort Gaming](../README.md) › [Title 2 — Facility Determination and Licensing](README.md)
+[Racing, Pari-Mutuel Wagering and Breeding Law](../../README.md) › [Article 13 — Destination Resort Gaming](../README.md) › [Title 2 — Facility Determination and Licensing: Upstate Gaming Facilities](README.md)
 
 ```text
   § 1312. Requests for applications. 1. The board shall issue within
 ninety days of a majority of members being appointed a request for
 applications for a gaming facility license in regions one, two and five
 in zone two; provided, however, that the board shall not issue any
-requests for applications for any region in zone one; and further
-provided that the board shall not issue any requests for applications
-with respect to any gaming facility subsequently legislatively
-authorized until seven years following the commencement of gaming
-activities in zone two. All requests for applications shall include:
+requests for applications for any region in zone one under this title;
+and further provided that the board shall not issue any requests for
+applications with respect to any gaming facility subsequently
+legislatively authorized until seven years following the commencement of
+gaming activities in zone two, unless such request for application with
+respect to any subsequently legislatively authorized gaming facility
+adheres to the procedure as described in section one thousand three
+hundred eleven of this title. All requests for applications shall
+include:
   (a) the time and date for receipt of responses to the request for
 applications, the manner they are to be received and the address of the
 office to which the applications shall be delivered;

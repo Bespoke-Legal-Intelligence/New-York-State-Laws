@@ -22,18 +22,90 @@ essential health benefits as defined by the commissioner in accordance
 with the provisions of the patient protection and affordable care act
 (P.L. 111-148) and consistent with the benefits provided by the
 reference plan selected by the commissioner for the purposes of defining
-such benefits, and (ii) dental and vision services as defined by the
-commissioner;
-  * NB Repealed if federal approval is withdrawn or 42 U.S.C. 18051 is
-repealed
-  * (c) "Health care services" means the services and supplies as
+such benefits, (ii) dental and vision services as defined by the
+commissioner, and (iii) as defined by the commissioner and subject to
+federal approval, certain services and supports provided to enrollees
+eligible pursuant to subparagraph one of paragraph (g) of subdivision
+one of section three hundred sixty-six of this article who have
+functional limitations and/or chronic illnesses that have the primary
+purpose of supporting the ability of the enrollee to live or work in the
+setting of their choice, which may include the individual's home, a
+worksite, or a provider-owned or controlled residential setting;
+  * NB Effective until January 1, 2023
+  * (c) "Health care services" means (i) the services and supplies as
 defined by the commissioner in consultation with the superintendent of
 financial services, and shall be consistent with and subject to the
 essential health benefits as defined by the commissioner in accordance
 with the provisions of the patient protection and affordable care act
-(P.L.  111-148) and consistent with the benefits provided by the
+(P.L. 111-148) and consistent with the benefits provided by the
 reference plan selected by the commissioner for the purposes of defining
-such benefits;
+such benefits, and shall include coverage of and access to the services
+of any national cancer institute-designated cancer center licensed by
+the department of health within the service area of the approved
+organization that is willing to agree to provide cancer-related
+inpatient, outpatient and medical services to all enrollees in approved
+organizations' plans in such cancer center's service area under the
+prevailing terms and conditions that the approved organization requires
+of other similar providers to be included in the approved organization's
+network, provided that such terms shall include reimbursement of such
+center at no less than the fee-for-service medicaid payment rate and
+methodology applicable to the center's inpatient and outpatient
+services; (ii) dental and vision services as defined by the
+commissioner, and (iii) as defined by the commissioner and subject to
+federal approval, certain services and supports provided to enrollees
+eligible pursuant to subparagraph one of paragraph (g) of subdivision
+one of section three hundred sixty-six of this article who have
+functional limitations and/or chronic illnesses that have the primary
+purpose of supporting the ability of the enrollee to live or work in the
+setting of their choice, which may include the individual's home, a
+worksite, or a provider-owned or controlled residential setting;
+  * NB Effective January 1, 2023 and Repealed December 31, 2024 and if
+federal approval is withdrawn or 42 U.S.C. 18051 is repealed
+  * (c) "Health care services" means (i) the services and supplies as
+defined by the commissioner in consultation with the superintendent of
+financial services, and shall be consistent with and subject to the
+essential health benefits as defined by the commissioner in accordance
+with the provisions of the patient protection and affordable care act
+(P.L. 111-148) and consistent with the benefits provided by the
+reference plan selected by the commissioner for the purposes of defining
+such benefits, and (ii) as defined by the commissioner and subject to
+federal approval, certain services and supports provided to enrollees
+eligible pursuant to subparagraph one of paragraph (g) of subdivision
+one of section three hundred sixty-six of this article who have
+functional limitations and/or chronic illnesses that have the primary
+purpose of supporting the ability of the enrollee to live or work in the
+setting of their choice, which may include the individual's home, a
+worksite, or a provider-owned or controlled residential setting;
+  * NB Effective and Repealed December 31, 2024
+  * (c) "Health care services" means (i) the services and supplies as
+defined by the commissioner in consultation with the superintendent of
+financial services, and shall be consistent with and subject to the
+essential health benefits as defined by the commissioner in accordance
+with the provisions of the patient protection and affordable care act
+(P.L. 111-148) and consistent with the benefits provided by the
+reference plan selected by the commissioner for the purposes of defining
+such benefits, (ii) dental and vision services as defined by the
+commissioner, and (iii) as defined by the commissioner and subject to
+federal approval, certain services and supports provided to enrollees
+who have functional limitations and/or chronic illnesses that have the
+primary purpose of supporting the ability of the enrollee to live or
+work in the setting of their choice, which may include the individual's
+home, a worksite, or a provider-owned or controlled residential setting;
+  * NB Effective January 1, 2025 unless federal approval is withdrawn or
+42 U.S.C. 18051 is repealed
+  * (c) "Health care services" means (i) the services and supplies as
+defined by the commissioner in consultation with the superintendent of
+financial services, and shall be consistent with and subject to the
+essential health benefits as defined by the commissioner in accordance
+with the provisions of the patient protection and affordable care act
+(P.L. 111-148) and consistent with the benefits provided by the
+reference plan selected by the commissioner for the purposes of defining
+such benefits, and (ii) as defined by the commissioner and subject to
+federal approval, certain services and supports provided to enrollees
+who have functional limitations and/or chronic illnesses that have the
+primary purpose of supporting the ability of the enrollee to live or
+work in the setting of their choice, which may include the individual's
+home, a worksite, or a provider-owned or controlled residential setting;
   * NB Effective if federal approval is withdrawn or 42 U.S.C. 18051 is
 repealed
   (d) "Qualified health plan" means a health plan that meets the
@@ -79,38 +151,102 @@ of article twenty-five of the public health law;
 section 5000A(f) of the Internal Revenue Service Code of 1986, or is
 eligible for an employer-sponsored plan that is not affordable, in
 accordance with section 5000A of such code; and
-  * (d) (i) has household income at or below two hundred percent of the
+  * (d) (i) except as provided by subparagraph (ii) of this paragraph,
+has household income at or below two hundred percent of the federal
+poverty line defined and annually revised by the United States
+department of health and human services for a household of the same
+size; and has household income that exceeds one hundred thirty-three
+percent of the federal poverty line defined and annually revised by the
+United States department of health and human services for a household of
+the same size; however, MAGI eligible aliens lawfully present in the
+United States with household incomes at or below one hundred
+thirty-three percent of the federal poverty line shall be eligible to
+receive coverage for health care services pursuant to the provisions of
+this title if such alien would be ineligible for medical assistance
+under title eleven of this article due to their immigration status;
+  (ii) subject to federal approval and the use of state funds, unless
+the commissioner may use funds under subdivision seven of this section,
+has household income at or below two hundred fifty percent of the
 federal poverty line defined and annually revised by the United States
 department of health and human services for a household of the same
-size; and (ii) has household income that exceeds one hundred
-thirty-three percent of the federal poverty line defined and annually
-revised by the United States department of health and human services for
-a household of the same size; however, MAGI eligible aliens lawfully
-present in the United States with household incomes at or below one
-hundred thirty-three percent of the federal poverty line shall be
-eligible to receive coverage for health care services pursuant to the
-provisions of this title if such alien would be ineligible for medical
-assistance under title eleven of this article due to his or her
-immigration status.
+size; and has household income that exceeds one hundred thirty-three
+percent of the federal poverty line defined and annually revised by the
+United States department of health and human services for a household of
+the same size; however, MAGI eligible aliens lawfully present in the
+United States with household incomes at or below one hundred
+thirty-three percent of the federal poverty line shall be eligible to
+receive coverage for health care services pursuant to the provisions of
+this title if such alien would be ineligible for medical assistance
+under title eleven of this article due to their immigration status;
+  (iii) subject to federal approval if required and the use of state
+funds, unless the commissioner may use funds under subdivision seven of
+this section, a pregnant individual who is eligible for and receiving
+coverage for health care services pursuant to this title is eligible to
+continue to receive health care services pursuant to this title during
+the pregnancy and for a period of one year following the end of the
+pregnancy without regard to any change in the income of the household
+that includes the pregnant individual, even if such change would render
+the pregnant individual ineligible to receive health care services
+pursuant to this title;
+  (iv) subject to federal approval, a child born to an individual
+eligible for and receiving coverage for health care services pursuant to
+this title who would be eligible for coverage pursuant to subparagraphs
+(2) or (4) of paragraph (b) of subdivision 1 of section three hundred
+and sixty-six of the social services law shall be deemed to have applied
+for medical assistance and to have been found eligible for such
+assistance on the date of such birth and to remain eligible for such
+assistance for a period of one year.
   An applicant who fails to make an applicable premium payment, if any,
 shall lose eligibility to receive coverage for health care services in
 accordance with time frames and procedures determined by the
 commissioner.
   * NB Repealed if federal approval is withdrawn or 42 U.S.C. 18051 is
 repealed
-  * (d) (i) has household income at or below two hundred percent of the
+  * (d) (i) except as provided by subparagraph (ii) of this paragraph,
+has household income at or below two hundred percent of the federal
+poverty line defined and annually revised by the United States
+department of health and human services for a household of the same
+size; and has household income that exceeds one hundred thirty-three
+percent of the federal poverty line defined and annually revised by the
+United States department of health and human services for a household of
+the same size; however, MAGI eligible aliens lawfully present in the
+United States with household incomes at or below one hundred
+thirty-three percent of the federal poverty line shall be eligible to
+receive coverage for health care services pursuant to the provisions of
+this title if such alien would be ineligible for medical assistance
+under title eleven of this article due to their immigration status;
+  (ii) subject to federal approval and the use of state funds, unless
+the commissioner may use funds under subdivision seven of this section,
+has household income at or below two hundred fifty percent of the
 federal poverty line defined and annually revised by the United States
 department of health and human services for a household of the same
-size; and (ii) has household income that exceeds one hundred
-thirty-three percent of the federal poverty line defined and annually
-revised by the United States department of health and human services for
-a household of the same size; however, MAGI eligible aliens lawfully
-present in the United States with household incomes at or below one
-hundred thirty-three percent of the federal poverty line shall be
-eligible to receive coverage for health care services pursuant to the
-provisions of this title if such alien would be ineligible for medical
-assistance under title eleven of this article due to his or her
-immigration status.
+size; and has household income that exceeds one hundred thirty-three
+percent of the federal poverty line defined and annually revised by the
+United States department of health and human services for a household of
+the same size; however, MAGI eligible aliens lawfully present in the
+United States with household incomes at or below one hundred
+thirty-three percent of the federal poverty line shall be eligible to
+receive coverage for health care services pursuant to the provisions of
+this title if such alien would be ineligible for medical assistance
+under title eleven of this article due to their immigration status;
+  (iii) subject to federal approval if required and the use of state
+funds, unless the commissioner may use funds under subdivision seven of
+this section, a pregnant individual who is eligible for and receiving
+coverage for health care services pursuant to this title is eligible to
+continue to receive health care services pursuant to this title during
+the pregnancy and for a period of one year following the end of the
+pregnancy without regard to any change in the income of the household
+that includes the pregnant individual, even if such change would render
+the pregnant individual ineligible to receive health care services
+pursuant to this title;
+  (iv) subject to federal approval, a child born to an individual
+eligible for and receiving coverage for health care services pursuant to
+this title who would be eligible for coverage pursuant to subparagraphs
+(2) or (4) of paragraph (b) of subdivision 1 of section three hundred
+and sixty-six of the social services law shall be deemed to have applied
+for medical assistance and to have been found eligible for such
+assistance on the date of such birth and to remain eligible for such
+assistance for a period of one year.
   An applicant who fails to make an applicable premium payment shall
 lose eligibility to receive coverage for health care services in
 accordance with time frames and procedures determined by the
@@ -155,7 +291,11 @@ and human services for a household of the same size.
   (b) The commissioner shall establish cost sharing obligations for
 enrollees, subject to federal approval. There shall be no cost-sharing
 obligations for enrollees for dental and vision services as defined in
-subparagraph (ii) of paragraph (c) of subdivision one of this section.
+subparagraph (ii) of paragraph (c) of subdivision one of this section;
+services and supports as defined in subparagraph (iii) of paragraph (c)
+of subdivision one of this section; and health care services authorized
+under subparagraphs (iii) and (iv) of paragraph (d) of subdivision three
+of this section.
   * NB Repealed if federal approval is withdrawn or 42 U.S.C. 18051 is
 repealed
   * 5. Premiums and cost sharing. (a) Subject to federal approval, the
@@ -173,7 +313,11 @@ or below one hundred and fifty percent of the federal poverty line
 defined and annually revised by the United States department of health
 and human services for a household of the same size.
   (b) The commissioner shall establish cost sharing obligations for
-enrollees, subject to federal approval.
+enrollees, subject to federal approval. There shall be no cost-sharing
+obligations for services and supports as defined in subparagraph (iii)
+of paragraph (c) of subdivision one of this section; and health care
+services authorized under subparagraphs (iii) and (iv) of paragraph (d)
+of subdivision three of this section.
   * NB Effective if federal approval is withdrawn or 42 U.S.C. 18051 is
 repealed
   6. Rates of payment. (a) The commissioner shall select the contract

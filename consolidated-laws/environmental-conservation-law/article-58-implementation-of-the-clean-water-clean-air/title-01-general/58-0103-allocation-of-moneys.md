@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 58-0103", "kind": "section", "law_id": "ENV", "location_id": "58-0103", "path": "ARTICLE 58 › TITLE 1 › SECTION 58-0103", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/58-0103.md", "title": "Allocation of moneys"} -->
+# Environmental Conservation Law § 58-0103 — Allocation of moneys
+
+[Environmental Conservation Law](../../README.md) › [Article 58 — Implementation of the "clean Water, Clean Air, and Green Jobs Environmental Bond Act of 2022 "](../README.md) › [Title 1 — General Provisions](README.md)
+
+```text
+* § 58-0103. Allocation of moneys.
+  The moneys received by the state from the sale of bonds pursuant to
+the environmental bond act of 2022 shall be disbursed in the following
+amounts pursuant to appropriations as specifically provided for in
+titles three, five, seven, and nine of this article:
+  1. Not less than one billion one hundred million dollars
+($1,100,000,000) for restoration and flood risk reduction as set forth
+in title three of this article.
+  2. Up to six hundred fifty million dollars ($650,000,000) for open
+space land conservation and recreation as set forth in title five of
+this article.
+  3. Up to one billion five hundred million dollars ($1,500,000,000) for
+climate change mitigation as set forth in title seven of this article.
+  4. Not less than six hundred fifty million dollars ($650,000,000) for
+water quality improvement and resilient infrastructure as set forth in
+title nine of this article.
+  * NB Takes effect only if section 1 of part TT of chapter 59 of the
+laws of 2021 enacting the "clean water, clean air, and green jobs
+environmental bond act of 2022" is submitted to the people at the
+general election to be held in November 2022 and is approved by the
+majority of votes
+```

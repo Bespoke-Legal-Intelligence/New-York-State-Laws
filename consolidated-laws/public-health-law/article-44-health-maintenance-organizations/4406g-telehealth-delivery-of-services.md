@@ -25,4 +25,23 @@ electronic information and communication technologies by a health care
 provider to deliver health care services to an enrollee while such
 enrollee is located at a site that is different from the site where the
 health care provider is located.
+  * 3. A health maintenance organization that provides comprehensive
+coverage for hospital, medical or surgical care shall reimburse covered
+services delivered via telehealth on the same basis, at the same rate,
+and to the extent that such services are reimbursed when delivered in
+person; provided that reimbursement of covered services delivered by
+means of telehealth shall not require reimbursement of costs not
+actually incurred in the provision of the telehealth services, including
+charges related to the use of a clinic or other facility when neither
+the originating site nor the distant site occur within the clinic or
+other facility. The commissioner, in consultation with the
+superintendent, may promulgate regulations to implement the provisions
+of this section.
+  * NB Repealed April 1, 2024
+  * 4. A health maintenance organization that provides comprehensive
+coverage for hospital, medical, or surgical care with a network of
+health care providers shall ensure that such network is adequate to meet
+the telehealth needs of insured individuals for services covered under
+the policy when medically appropriate.
+  * NB Repealed April 1, 2024
 ```

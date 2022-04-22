@@ -8,7 +8,7 @@
 | Senate code | TCP |
 | Type | Consolidated law, chapter 63 |
 | Sections | 73 |
-| Last changed | 3 May 2019 |
+| Last changed | 22 Apr 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Transportation Corporations |
 
@@ -31,6 +31,7 @@ nineteen of the laws of nineteen hundred and nine, entitled "An act in
 
 ## Recent changes
 
+- [22 Apr 2022](../../changes/2022/2022-04-22.md): 1 amended
 - [3 May 2019](../../changes/2019/2019-05-03.md): 4 amended
 - [19 Apr 2019](../../changes/2019/2019-04-19.md): 1 added
 - [11 Jan 2019](../../changes/2019/2019-01-11.md): 1 amended

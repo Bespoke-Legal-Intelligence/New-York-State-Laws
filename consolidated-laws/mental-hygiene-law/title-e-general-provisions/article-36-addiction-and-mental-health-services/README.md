@@ -7,6 +7,7 @@
 
 - [§ 36.01 Crisis stabilization centers](36.01-crisis-stabilization-centers.md)
 - [§ 36.02 Referral to crisis stabilization centers](36.02-referral-to-crisis-stabilization-centers.md)
+- [§ 36.03 9-8-8 suicide prevention and behavioral health crisis hotline system](36.03-9-8-8-suicide-prevention-and-behavioral-health-crisis.md)
 
 <details>
 <summary>Official heading of Article 36, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -16,6 +17,8 @@
             ADDICTION AND MENTAL HEALTH SERVICES AND SUPPORTS
 Section 36.01 Crisis stabilization centers.
         36.02 Referral to crisis stabilization centers.
+        36.03 9-8-8 suicide prevention and behavioral health crisis
+                hotline system.
 ```
 
 </details>

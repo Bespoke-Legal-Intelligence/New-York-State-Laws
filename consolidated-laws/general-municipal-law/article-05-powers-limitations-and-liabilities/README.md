@@ -116,6 +116,7 @@
 - [§ 99-V Veterans services; display of events](99v-veterans-services-display-of-events.md)
 - [§ 99-W Land for monument erection](99w-land-for-monument-erection.md)
 - [§ 99-X Prohibit symbols of hate](99x-prohibit-symbols-of-hate.md)
+- [§ 99-Y Internet access and communications](99y-internet-access-and-communications.md)
 
 <details>
 <summary>Official heading of Article 5, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -299,6 +300,7 @@ Section 70.     Payment of judgments against municipal corporation.
         99-v.   Veterans services; display of events.
         99-w.   Land for monument erection.
         99-x.   Prohibit symbols of hate.
+        99-y.   Internet access and communications.
 ```
 
 </details>

@@ -31,6 +31,7 @@
 - [§ 20 Records to be kept by the state department of health and the city clerk of the city of New York](20-records-to-be-kept-by-the-state-department-of-health-and-the-city-clerk.md)
 - [§ 20-A Certified transcripts of records; state commissioner of health may furnish](20a-certified-transcripts-of-records-state-commissioner-of-health-may-furnish.md)
 - [§ 20-B Certification of marriage; state commissioner of health may furnish](20b-certification-of-marriage-state-commissioner-of-health-may-furnish.md)
+- [§ 20-C Certification of marriage; new certificate in case of subsequent change of name or gender](20c-certification-of-marriage-new-certificate-in-case-of-subsequent-change.md)
 - [§ 21 Forms and books to be furnished](21-forms-and-books-to-be-furnished.md)
 - [§ 22 Penalty for violation](22-penalty-for-violation.md)
 - [§ 23 Supervision of and inspection of town and city clerks' records by state commissioner of health](23-supervision-of-and-inspection-of-town-and-city-clerks-records-by-state.md)
@@ -78,6 +79,8 @@ Section 10.    Marriage a civil contract.
                  health may furnish.
         20-b.  Certification of marriage; state commissioner of health
                  may furnish.
+        20-c.  Certification of marriage; new certificate in case of
+                 subsequent change of name or gender.
         21.    Forms and books to be furnished.
         22.    Penalty for violation.
         23.    Supervision of and inspection of town and city clerks'

@@ -251,4 +251,45 @@ Contracts or other arrangements subject to this subdivision existing and
 in force at the time of enactment of this subdivision shall be submitted
 to the department for review and approval on or before July first, two
 thousand nineteen.
+  11. A contract between a health care plan and a health care provider
+shall include a provision that requires the health care provider to have
+in place business processes to ensure the timely provision of provider
+directory information to the health care plan. A health care provider
+shall submit such provider directory information to a health care plan,
+at a minimum, when a provider begins or terminates a network agreement
+with a health care plan, when there are material changes to the content
+of the provider directory information of such health care provider, and
+at any other time, including upon the health care plan's request, as the
+health care provider determines to be appropriate. For purposes of this
+subsection, "provider directory information" shall include the name,
+address, specialty, telephone number, and digital contact information of
+such health care provider; whether the provider is accepting new
+patients; for mental health and substance use disorder services
+providers, any affiliations with participating facilities certified or
+authorized by the office of mental health or the office of addiction
+services and supports, and any restrictions regarding the availability
+of the individual provider's services; and in the case of physicians,
+board certification, languages spoken, and any affiliations with
+participating hospitals.
+  12. A contract between a health care plan and a health care provider
+shall include a provision that states that the provider shall reimburse
+the enrollee for the full amount paid by the enrollee in excess of the
+in-network cost-sharing amount, plus interest at an interest rate
+determined by the commissioner in accordance with 42 U.S.C. §
+300gg-139(b), for the services involved when the enrollee is provided
+with inaccurate network status information by the health care plan in a
+provider directory or in response to a request that stated that the
+provider was a participating provider when the provider was not a
+participating provider. In the event the health care plan provides
+inaccurate network status information to the enrollee indicating the
+provider was a participating provider when such provider was not a
+participating provider, the health care plan shall reimburse the
+provider for the out-of-network services regardless of whether the
+enrollee's coverage includes out-of-network services. Nothing in this
+subdivision shall prohibit a health care provider from requiring in the
+terms of a contract with a health care plan that the health care plan
+remove, at the time of termination of such contract, the provider from
+the health care plan's provider directory or that the health care plan
+bear financial responsibility for providing inaccurate network status
+information to an enrollee.
 ```

@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 1315", "kind": "section", "law_id": "PML", "location_id": "1315", "path": "ARTICLE 13 › TITLE 2 › SECTION 1315", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/1315.md", "title": "Required capital investment"} -->
 # Racing, Pari-Mutuel Wagering and Breeding Law § 1315 — Required capital investment
 
-[Racing, Pari-Mutuel Wagering and Breeding Law](../../README.md) › [Article 13 — Destination Resort Gaming](../README.md) › [Title 2 — Facility Determination and Licensing](README.md)
+[Racing, Pari-Mutuel Wagering and Breeding Law](../../README.md) › [Article 13 — Destination Resort Gaming](../README.md) › [Title 2 — Facility Determination and Licensing: Upstate Gaming Facilities](README.md)
 
 ```text
   § 1315. Required capital investment. 1. The board shall establish the

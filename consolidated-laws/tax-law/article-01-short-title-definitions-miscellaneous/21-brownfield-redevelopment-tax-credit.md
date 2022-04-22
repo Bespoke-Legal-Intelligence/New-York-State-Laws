@@ -23,7 +23,12 @@ certificate of completion occurs. The credit component amount determined
 other than with respect to such qualification shall be allowed for the
 taxable year in which the improvement to which the applicable costs
 apply is placed in service for up to five taxable years after the
-issuance of such certificate of completion.
+issuance of such certificate of completion; provided, however, that for
+any qualified site to which a certificate of completion is issued on or
+after July first, two thousand fifteen but on or before June
+twenty-fourth, two thousand twenty-one, the site preparation credit
+component for such costs shall be allowed for up to seven taxable years
+after the issuance of such certificate of completion.
   (3) Tangible property credit component.
   (i) The tangible property credit component shall be equal to the
 applicable percentage of the cost or other basis for federal income tax
@@ -33,40 +38,58 @@ constitute qualified tangible property and may include any related party
 service fee paid; provided that in determining the cost or other basis
 of such property, the taxpayer shall exclude the acquisition cost of any
 item of property with respect to which a credit under this section was
-allowable to another taxpayer. A related party service fee shall be
-allowed only in the calculation of the tangible property credit
-component and shall not be allowed in the calculation of the site
-preparation credit component or the on-site groundwater remediation
-credit component. The portion of the tangible property credit component
-which is attributable to related party service fees shall be allowed
-only as follows: (A) in the taxable year in which the qualified tangible
-property described in subparagraph (iii) of this paragraph is placed in
-service, for that portion of the related party service fees which have
-been earned and actually paid to the related party on or before the last
-day of such taxable year; and (B) with respect to any other taxable year
-for which the tangible property credit component may be claimed under
-this subparagraph and in which the amount of any additional related
-party service fees are actually paid by the taxpayer to the related
-party, the tangible property credit component for such amount shall be
-allowed in such taxable year. The credit component amount so determined
-shall be allowed for the taxable year in which such qualified tangible
-property is first placed in service on a qualified site with respect to
-which a certificate of completion has been issued to the taxpayer, or
-for the taxable year in which the certificate of completion is issued if
-the qualified tangible property is placed in service prior to the
-issuance of the certificate of completion. This credit component shall
-only be allowed for up to one hundred twenty months after the date of
-the issuance of such certificate of completion, provided, however, that
-for qualified sites to which a certificate of completion is issued on or
-after March twentieth, two thousand ten, but prior to January first, two
-thousand twelve, the commissioner may extend the credit component for up
-to one hundred forty-four months after the date of such issuance, if the
-commissioner, in consultation with the commissioner of environmental
-conservation, determines that the requirements for the credit would have
-been met if not for the restrictions related to the state disaster
-emergency declared pursuant to executive order 202 of 2020 or any
-extension thereof or subsequent executive order issued in response to
-the novel coronavirus (COVID-19) pandemic.
+allowable to another taxpayer; and provided further that for the
+purposes of this section, starting with taxable year two thousand
+twenty-two, on sites that comply with the track one remediation
+standards promulgated pursuant to subdivision four of section 27-1415 of
+the environmental conservation law, stadiums, baseball parks, basketball
+courts and other athletic facilities shall be considered buildings, and
+that components of stadiums, baseball parks, basketball courts, and
+other athletic facilities constructed on such sites, including sports
+field turf, site lighting, sidewalks, access and entry ways, and other
+improvements added to land, shall be considered structural components of
+buildings under the internal revenue code, and shall be included in the
+definition of tangible property for the purposes of this section. A
+related party service fee shall be allowed only in the calculation of
+the tangible property credit component and shall not be allowed in the
+calculation of the site preparation credit component or the on-site
+groundwater remediation credit component. The portion of the tangible
+property credit component which is attributable to related party service
+fees shall be allowed only as follows: (A) in the taxable year in which
+the qualified tangible property described in subparagraph (iii) of this
+paragraph is placed in service, for that portion of the related party
+service fees which have been earned and actually paid to the related
+party on or before the last day of such taxable year; and (B) with
+respect to any other taxable year for which the tangible property credit
+component may be claimed under this subparagraph and in which the amount
+of any additional related party service fees are actually paid by the
+taxpayer to the related party, the tangible property credit component
+for such amount shall be allowed in such taxable year. The credit
+component amount so determined shall be allowed for the taxable year in
+which such qualified tangible property is first placed in service on a
+qualified site with respect to which a certificate of completion has
+been issued to the taxpayer, or for the taxable year in which the
+certificate of completion is issued if the qualified tangible property
+is placed in service prior to the issuance of the certificate of
+completion. This credit component shall only be allowed for up to one
+hundred twenty months after the date of the issuance of such certificate
+of completion, provided, however, that for qualified sites to which a
+certificate of completion is issued on or after March twentieth, two
+thousand ten, but prior to January first, two thousand twelve, the
+commissioner may extend the credit component for up to one hundred
+forty-four months after the date of such issuance, if the commissioner,
+in consultation with the commissioner of environmental conservation,
+determines that the requirements for the credit would have been met if
+not for the restrictions related to the state disaster emergency
+declared pursuant to executive order 202 of 2020 or any extension
+thereof or subsequent executive order issued in response to the novel
+coronavirus (COVID-19) pandemic; provided, however, with respect to any
+qualified site for which the department of environmental conservation
+has issued a certificate of completion to the taxpayer on or after March
+twentieth, two thousand ten and before December thirty-first, two
+thousand fifteen, this credit component shall be allowed for up to one
+hundred eighty months after the date of the issuance of such certificate
+of completion.
   (ii) The tangible property credit component shall be allowed with
 respect to property leased to a second party only if such second party
 is either (A) not a party responsible for the disposal of hazardous
@@ -205,7 +228,14 @@ of a certificate of completion occurs. The credit component amount
 determined in taxable years after the effective date of the issuance of
 a certificate of completion shall be allowed in the taxable year such
 qualified costs are incurred and paid for up to five taxable years after
-the issuance of such certificate of completion.
+the issuance of such certificate of completion; provided, however, that
+with respect to any qualified site for which a certificate of completion
+has been issued on or after July first, two thousand fifteen but on or
+before June twenty-fourth, two thousand twenty-one, the credit component
+amount determined in taxable years after the effective date of the
+issuance of a certificate of completion shall be allowed in the taxable
+year such qualified costs are incurred and paid for up to seven taxable
+years after the issuance of such certificate of completion.
   (5) Applicable percentage. (A) For purposes of computing the site
 preparation and on-site groundwater remediation credit components
 pursuant to paragraphs two and four of this subdivision, with respect to
@@ -244,32 +274,44 @@ percentage set forth in the first sentence of this paragraph shall be
 increased by an additional two percent.
   (B) With respect to such qualified site for which the department of
 environmental conservation has issued a notice to the taxpayer on or
-after July first, two thousand fifteen or the date of publication in the
-state register of proposed regulations defining "underutilized" as
-provided in subdivision thirty of section 27-1405 of the environmental
-conservation law, whichever shall be later, that its request for
+after July first, two thousand fifteen, that its request for
 participation has been accepted under subdivision six of section 27-1407
 of the environmental conservation law, the applicable percentage for the
 tangible property credit component of the brownfield redevelopment tax
-credit pursuant to paragraph three of subdivision (a) of this section
-shall be the sum of ten percent and the following additional
-percentages, provided that if the sum is greater than twenty-four
-percent, the total percentage of the tangible property credit component
-shall be twenty-four percent and is otherwise subject to the limitations
-set forth in paragraphs three and three-a of subdivision (a) of this
-section:
-  (i) five percent for a site within an environmental zone;
+credit pursuant to paragraph three of this subdivision shall be the sum
+of ten percent and the following additional percentages, provided that
+if the sum is greater than twenty-four percent, the total percentage of
+the tangible property credit component shall be twenty-four percent and
+is otherwise subject to the limitations set forth in paragraphs three
+and three-a of this subdivision:
+  (i) five percent for a site which:
+  (1) is located within an environmental zone; or
+  (2) is in a disadvantaged community as that term is defined in section
+27-1405 of the environmental conservation law for which the department
+of environmental conservation has issued a notice to the taxpayer on or
+after January first, two thousand twenty-three that its request for
+participation has been accepted under subdivision six of section 27-1407
+of the environmental conservation law;
   (ii) five percent for a site located within a designated brownfield
 opportunity area and is developed in conformance with the goals and
-priorities established for that applicable brownfield opportunity area;
+priorities established for that applicable brownfield opportunity area
+and meets the conformance determinations pursuant to subdivision ten of
+section nine hundred seventy-r of the general municipal law;
   (iii) five percent for a site developed as affordable housing, as
 defined in section 27-1405 of the environmental conservation law;
   (iv) five percent for a site to be used primarily for manufacturing
 activities as such term is defined in subparagraph (B) of paragraph
-three-a of this subdivision; and
+three-a of this subdivision;
   (v) five percent for sites remediated to Track 1 as that term is
 defined in subdivision four of section 27-1415 of the environmental
-conservation law.
+conservation law; and
+  (vi) for a qualified site for which the department of environmental
+conservation has issued a notice to the taxpayer on or after January
+first, two thousand twenty-three that its request for participation has
+been accepted under subdivision six of section 27-1407 of the
+environmental conservation law, five percent for sites developed as
+renewable energy facility sites as defined in section 27-1405 of the
+environmental conservation law.
   (C) The taxpayer shall submit, in the manner prescribed by the
 commissioner, information sufficient to demonstrate that the site
 qualifies for any credit components available under subparagraph (B) of
@@ -325,10 +367,23 @@ compliance with the certificate of completion or subsequent
 modifications thereof, or the remedial program defined in such
 certificate of completion including but not limited to institutional
 controls, engineering controls, an approved site management plan, and an
-environmental easement with respect to the qualified site. Site
-preparation cost shall not include the costs of foundation systems that
-exceed the cover system requirements in the regulations applicable to
-the qualified site.
+environmental easement with respect to the qualified site; provided,
+however, with respect to any qualified site for which the department of
+environmental conservation has issued a notice to the taxpayer on or
+after July first, two thousand fifteen but on or before June
+twenty-fourth, two thousand twenty-one that its request for
+participation has been accepted under subdivision six of section 27-1407
+of the environmental conservation law, site preparation shall include
+all costs paid or incurred within eighty-four months after the last day
+of the tax year in which the certificate of completion is issued that
+are necessary for compliance with the certificate of completion or
+subsequent modifications thereof, or the remedial program defined in
+such certificate of completion including but not limited to
+institutional controls, engineering controls, an approved site
+management plan, and an environmental easement with respect to the
+qualified site. Site preparation cost shall not include the costs of
+foundation systems that exceed the cover system requirements in the
+regulations applicable to the qualified site.
   (3) Qualified tangible property. "Qualified tangible property" is
 property described in either subparagraph (A) or (B) of this paragraph
 which:
@@ -379,7 +434,13 @@ modifications thereof, or the groundwater remedial program defined in
 such certificate of completion including but not limited to
 institutional controls, engineering controls, an approved site
 management plan specific to on-site groundwater remediation, and an
-environmental easement with respect to the qualified site.
+environmental easement with respect to the qualified site. Provided,
+however, with respect to any qualified site for which a certificate of
+completion has been issued on or after July first, two thousand fifteen
+but on or before June twenty-fourth, two thousand twenty-one, on-site
+groundwater remediation costs shall include all such costs paid or
+incurred within eighty-four months after the last day of the tax year in
+which the certificate of completion is issued.
   (5) Certificate of completion. A "certificate of completion" issued by
 the commissioner of environmental conservation pursuant to section
 27-1419 of the environmental conservation law.

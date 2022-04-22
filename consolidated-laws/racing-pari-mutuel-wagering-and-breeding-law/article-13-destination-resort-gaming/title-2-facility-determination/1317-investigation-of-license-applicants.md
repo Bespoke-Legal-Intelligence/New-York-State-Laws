@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 1317", "kind": "section", "law_id": "PML", "location_id": "1317", "path": "ARTICLE 13 › TITLE 2 › SECTION 1317", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/1317.md", "title": "Investigation of license applicants"} -->
 # Racing, Pari-Mutuel Wagering and Breeding Law § 1317 — Investigation of license applicants
 
-[Racing, Pari-Mutuel Wagering and Breeding Law](../../README.md) › [Article 13 — Destination Resort Gaming](../README.md) › [Title 2 — Facility Determination and Licensing](README.md)
+[Racing, Pari-Mutuel Wagering and Breeding Law](../../README.md) › [Article 13 — Destination Resort Gaming](../README.md) › [Title 2 — Facility Determination and Licensing: Upstate Gaming Facilities](README.md)
 
 ```text
   § 1317. Investigation of license applicants. 1. Upon receipt of an

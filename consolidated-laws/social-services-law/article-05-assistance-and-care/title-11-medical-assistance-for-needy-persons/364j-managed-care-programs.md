@@ -725,6 +725,21 @@ alcoholism and substance abuse services, even if such services are
 rendered by a practitioner who would not otherwise be separately
 reimbursed, including but not limited to a credentialed alcoholism and
 substance abuse counselor (CASAC).
+  ** (w) A managed care provider shall provide or arrange, directly or
+indirectly, including by referral, for access to and coverage of
+services provided by any national cancer institute-designated cancer
+center licensed by the department of health within the managed care
+provider's service area that is willing to agree to provide
+cancer-related inpatient, outpatient and medical services to
+participants in all managed care providers offering coverage to medical
+assistance recipients in such cancer center's service area under the
+prevailing terms and conditions that the managed care provider requires
+of other similar providers to be included in the managed care provider's
+network, provided that such terms shall include reimbursement of such
+center at no less than the fee-for-service medicaid payment rate and
+methodology applicable to the center's inpatient and outpatient
+services.
+  ** NB Effective January 1, 2023 and Repealed January 1, 2028
   5. Managed care programs shall be conducted in accordance with the
 requirements of this section and, to the extent practicable, encourage
 the provision of comprehensive medical services, pursuant to this

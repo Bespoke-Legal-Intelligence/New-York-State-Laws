@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 1310", "kind": "section", "law_id": "PML", "location_id": "1310", "path": "ARTICLE 13 › TITLE 2 › SECTION 1310", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/1310.md", "title": "Development zones and regions"} -->
 # Racing, Pari-Mutuel Wagering and Breeding Law § 1310 — Development zones and regions
 
-[Racing, Pari-Mutuel Wagering and Breeding Law](../../README.md) › [Article 13 — Destination Resort Gaming](../README.md) › [Title 2 — Facility Determination and Licensing](README.md)
+[Racing, Pari-Mutuel Wagering and Breeding Law](../../README.md) › [Article 13 — Destination Resort Gaming](../README.md) › [Title 2 — Facility Determination and Licensing: Upstate Gaming Facilities](README.md)
 
 ```text
   § 1310. Development zones and regions. 1. There are hereby created two
@@ -15,8 +15,7 @@ counties:
   (1) Region one shall consist of Putnam, Rockland and Westchester
 counties;
   (2) Region two shall consist of Bronx, Kings, New York, Queens and
-Richmond counties. No gaming facility shall be authorized in region two;
-and
+Richmond counties; and
   (3) Region three shall consist of Nassau and Suffolk counties.
   (b) The six development regions in zone two shall be comprised of the
 following counties:

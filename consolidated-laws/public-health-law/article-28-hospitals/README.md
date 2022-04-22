@@ -89,6 +89,7 @@
 - [§ 2806-B Residential health care facilities; revocation of operating certificate](2806b-residential-health-care-facilities-revocation-of-operating-certificate.md)
 - [§ 2807 Hospital reimbursement provisions; generally](2807-hospital-reimbursement-provisions-generally.md)
 - [§ 2807-A General hospital nineteen hundred eighty-six and nineteen hundred eighty-seven inpatient rates and charges](2807a-general-hospital-nineteen-hundred-eighty-six-and-nineteen-hundred-eighty-seven.md)
+- [§ 2807-AA Nurse loan repayment program](2807aa-nurse-loan-repayment-program.md)
 - [§ 2807-B Outstanding payments and reports due under subdivision eighteen of section twenty-eight hundred seven-c, sections twenty-eight hundred se...](2807b-outstanding-payments-and-reports-due-under-subdivision-eighteen-of-section.md)
 - [§ 2807-C General hospital inpatient reimbursement for annual rate periods beginning on or after January first, nineteen hundred eighty-eight](2807c-general-hospital-inpatient-reimbursement-for-annual-rate-periods-beginning.md)
 - [§ 2807-D Hospital assessments](2807d-hospital-assessments.md)
@@ -277,6 +278,7 @@ Section 2800.      Declaration of policy and statement of purpose.
         2807-a.    General hospital nineteen hundred eighty-six and
                      nineteen hundred eighty-seven inpatient rates and
                      charges.
+        2807-aa.   Nurse loan repayment program.
         2807-b.    Outstanding payments and reports due under
                      subdivision eighteen of section twenty-eight
                      hundred seven-c, sections twenty-eight hundred
@@ -360,6 +362,8 @@ Section 2800.      Declaration of policy and statement of purpose.
                      statewide II.
         2825-f.    Health care facility transformation program:
                      statewide III.
+        2825-g.    Health care facility transformation program:
+                     statewide IV.
         2826.      Temporary adjustment to reimbursement rates.
         2827.      Plant-based food options.
         2828.      Residential health care facilities; minimum direct

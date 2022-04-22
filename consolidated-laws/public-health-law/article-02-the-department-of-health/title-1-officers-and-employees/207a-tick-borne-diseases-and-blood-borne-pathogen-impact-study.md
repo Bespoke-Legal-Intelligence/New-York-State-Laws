@@ -24,9 +24,9 @@ individuals who exhibit mental illness symptoms as well as those who
 have both physical and mental health indicators.
   2. Such report shall be submitted to the temporary president of the
 senate and the speaker of the assembly no later than October first, two
-thousand nineteen. The department and the commissioner of mental health
-may engage stakeholders in the compilation of the report, including but
-not limited to, medical research institutions, health care
+thousand twenty-two. The department and the commissioner of mental
+health may engage stakeholders in the compilation of the report,
+including but not limited to, medical research institutions, health care
 practitioners, mental health providers, county and local government, and
 advocates.
 ```

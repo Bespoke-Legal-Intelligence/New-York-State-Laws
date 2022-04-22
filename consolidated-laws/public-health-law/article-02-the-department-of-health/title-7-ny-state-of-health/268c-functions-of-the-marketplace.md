@@ -129,4 +129,20 @@ prevent the application of regulations promulgated by the secretary.
   24. Determine eligibility, provide notices, and provide opportunities
 for appeal and redetermination in accordance with the requirements of
 federal and state law.
+  25. The commissioner is authorized to submit the appropriate waiver
+applications to the United States secretary of health and human services
+and/or the department of the treasury to waive any applicable provisions
+of the Patient Protection and Affordable Care Act, Pub. L. 111-148 as
+amended, or successor provisions, as provided for by 42 U.S.C. 18052,
+and any other waivers necessary to achieve the purposes of high quality,
+affordable coverage through NY State of Health, the official health plan
+marketplace. The commissioner shall implement the state plans of any
+such waiver in a manner consistent with applicable state and federal
+laws, as authorized by the secretary of health and human services and/or
+the secretary of the treasury pursuant to 42 U.S.C. 18052. Copies of
+such original waiver applications and amendments thereto shall be
+provided to the chair of the senate finance committee, the chair of the
+assembly ways and means committee and the chairs of the senate and
+assembly health committees simultaneously with their submission to the
+federal government.
 ```

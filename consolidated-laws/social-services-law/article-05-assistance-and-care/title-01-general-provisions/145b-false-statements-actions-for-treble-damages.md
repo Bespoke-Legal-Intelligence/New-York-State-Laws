@@ -109,12 +109,18 @@ sixty-three-d of this article;
 otherwise, with an individual or entity that the person knows or should
 know is suspended or excluded from the medical assistance program at the
 time such arrangement or contract regarding activities related to the
-medical assistance program is made.
-  (v) For purposes of this paragraph, "person" as used in subparagraph
-(i) does not include recipients of the medical assistance program; and
-"person" as used in subparagraphs (ii) -- (iv), is as defined in
-paragraph (e) of subdivision (6) of section three hundred sixty-three-d
-of this chapter.
+medical assistance program is made;
+  (v) such person had an obligation to identify, claim, and pay a bonus
+under subdivision three of section three hundred sixty-seven-w of this
+article and such person failed to identify, claim and pay such bonus.
+  (vi) For purposes of this paragraph, "person" as used in subparagraph
+(i) of this paragraph does not include recipients of the medical
+assistance program; and "person" as used in subparagraphs (ii), (iii)
+and (iv) of this paragraph, is as defined in paragraph (e) of
+subdivision six of section three hundred sixty-three-d of this article;
+and "person" as used in subparagraph (v) of this paragraph includes
+employers as defined in section three hundred sixty-seven-w of this
+article.
   (b) In determining the amount of any monetary penalty to be imposed,
 the Medicaid inspector general, in consultation with the department of
 health, shall take into consideration the following:
@@ -141,6 +147,12 @@ service which was the subject of the determination herein.
   (ii) For subparagraph (ii) of paragraph (a) of this subdivision, in no
 event shall the monetary penalty exceed fifteen thousand dollars for
 each day of the failure described in such subparagraph.
+  (iii) For subparagraph (v) of paragraph (a) of this subdivision, a
+monetary penalty shall be imposed for conduct described in subparagraphs
+(i), (ii) and (iii) of paragraph (a) of subdivision five of section
+three hundred sixty-seven-w of this article and shall not exceed one
+thousand dollars per failure to identify, claim and pay a bonus for each
+employee.
   (d) Amounts collected pursuant to this subdivision shall be
 apportioned between the local social services district and the state in
 accordance with the regulations of the department of health.

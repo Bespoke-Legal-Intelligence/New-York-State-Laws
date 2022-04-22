@@ -122,20 +122,21 @@ to a pregnancy;
   (q) notice of all appropriate mailing addresses and telephone numbers
 to be utilized by enrollees seeking information or authorization;
   (r) a listing by specialty, which may be in a separate document that
-is updated annually, of the name, address and telephone number of all
-participating providers, including facilities, and: (i) whether the
-provider is accepting new patients; (ii) in the case of mental health or
-substance use disorder services providers, any affiliations with
-participating facilities certified or authorized by the office of mental
-health or the office of alcoholism and substance abuse services, and any
-restrictions regarding the availability of the individual provider's
-services; and (iii) in the case of physicians, board certification,
-languages spoken and any affiliations with participating hospitals. The
-listing shall also be posted on the health maintenance organization's
-website and the health maintenance organization shall update the website
-within fifteen days of the addition or termination of a provider from
-the health maintenance organization's network or a change in a
-physician's hospital affiliation;
+is updated annually, of the name, address, telephone number, and digital
+contact information of all participating providers, including
+facilities, and: (i) whether the provider is accepting new patients;
+(ii) in the case of mental health or substance use disorder services
+providers, any affiliations with participating facilities certified or
+authorized by the office of mental health or the office of addiction
+services and supports, and any restrictions regarding the availability
+of the individual provider's services; and (iii) in the case of
+physicians, board certification, languages spoken and any affiliations
+with participating hospitals. The listing shall also be posted on the
+health maintenance organization's website and the health maintenance
+organization shall update the website within fifteen days of the
+addition or termination of a provider from the health maintenance
+organization's network or a change in a physician's hospital
+affiliation;
   (s) where applicable, a description of the method by which an enrollee
 may submit a claim for health care services;
   (t) with respect to out-of-network coverage:

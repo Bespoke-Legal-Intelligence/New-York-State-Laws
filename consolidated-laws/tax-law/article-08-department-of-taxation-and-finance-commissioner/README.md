@@ -43,6 +43,7 @@
 - [§ 176 Transfer of the powers and duties of the comptroller in relation to the assessment or collection of certain taxes](176-transfer-of-the-powers-and-duties-of-the-comptroller-in-relation.md)
 - [§ 177 Construction](177-construction.md)
 - [§ 179 Definitions](179-definitions.md)
+- [§ 180 Independent analysis](180-independent-analysis.md)
 
 <details>
 <summary>Official heading of Article 8, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -106,6 +107,7 @@ Section 170.     Department of taxation and finance.
                    taxes.
         177.     Construction.
         179.     Definitions.
+        180.     Independent analysis.
 ```
 
 </details>

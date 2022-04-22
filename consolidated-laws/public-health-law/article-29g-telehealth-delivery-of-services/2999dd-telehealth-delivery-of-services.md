@@ -4,15 +4,46 @@
 [Public Health Law](../README.md) › [Article 29-G — Telehealth Delivery of Services](README.md)
 
 ```text
-  § 2999-dd. Telehealth delivery of services. 1. Health care services
+  § 2999-dd. Telehealth delivery of services. * 1. Health care services
 delivered by means of telehealth shall be entitled to reimbursement
-under section three hundred sixty-seven-u of the social services law;
-provided however, reimbursement for additional modalities, provider
+under section three hundred sixty-seven-u of the social services law on
+the same basis, at the same rate, and to the same extent the equivalent
+services, as may be defined in regulations promulgated by the
+commissioner, are reimbursed when delivered in person; provided,
+however, that health care services delivered by means of telehealth
+shall not require reimbursement to a telehealth provider for certain
+costs, including but not limited to facility fees or costs reimbursed
+through ambulatory patient groups or other clinic reimbursement
+methodologies set forth in section twenty-eight hundred seven of this
+chapter, if such costs were not incurred in the provision of telehealth
+services due to neither the originating site nor the distant site
+occurring within a facility or other clinic setting; and further
+provided, however, reimbursement for additional modalities, provider
 categories and originating sites specified in accordance with section
 twenty-nine hundred ninety-nine-ee of this article, and audio-only
 telephone communication defined in regulations promulgated pursuant to
 subdivision four of section twenty-nine hundred ninety-nine-cc of this
 article, shall be contingent upon federal financial participation.
+Notwithstanding the provisions of this subdivision, for services
+licensed, certified or otherwise authorized pursuant to article sixteen,
+article thirty-one or article thirty-two of the mental hygiene law, such
+services provided by telehealth, as deemed appropriate by the relevant
+commissioner, shall be reimbursed at the applicable in person rates or
+fees established by law, or otherwise established or certified by the
+office for people with developmental disabilities, office of mental
+health, or the office of addiction services and supports pursuant to
+article forty-three of the mental hygiene law.
+  * NB Effective until April 1, 2024
+  * 1. Health care services delivered by means of telehealth shall be
+entitled to reimbursement under section three hundred sixty-seven-u of
+the social services law; provided however, reimbursement for additional
+modalities, provider categories and originating sites specified in
+accordance with section twenty-nine hundred ninety-nine-ee of this
+article, and audio-only telephone communication defined in regulations
+promulgated pursuant to subdivision four of section twenty-nine hundred
+ninety-nine-cc of this article, shall be contingent upon federal
+financial participation.
+  * NB Effective April 1, 2024
   2. The department of health, the office of mental health, the office
 of alcoholism and substance abuse services, and the office for people
 with developmental disabilities shall coordinate on the issuance of a

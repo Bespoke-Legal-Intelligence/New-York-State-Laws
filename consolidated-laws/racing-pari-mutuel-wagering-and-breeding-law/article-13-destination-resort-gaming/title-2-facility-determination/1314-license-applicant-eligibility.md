@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 1314", "kind": "section", "law_id": "PML", "location_id": "1314", "path": "ARTICLE 13 › TITLE 2 › SECTION 1314", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/1314.md", "title": "License applicant eligibility"} -->
 # Racing, Pari-Mutuel Wagering and Breeding Law § 1314 — License applicant eligibility
 
-[Racing, Pari-Mutuel Wagering and Breeding Law](../../README.md) › [Article 13 — Destination Resort Gaming](../README.md) › [Title 2 — Facility Determination and Licensing](README.md)
+[Racing, Pari-Mutuel Wagering and Breeding Law](../../README.md) › [Article 13 — Destination Resort Gaming](../README.md) › [Title 2 — Facility Determination and Licensing: Upstate Gaming Facilities](README.md)
 
 ```text
   § 1314. License applicant eligibility. 1. Gaming facility licenses

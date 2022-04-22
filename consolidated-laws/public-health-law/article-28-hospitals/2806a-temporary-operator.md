@@ -263,5 +263,5 @@ be limited to, the name of the established operator, the name of the
 appointed temporary operator and a description of the reasons for such
 appointment to the extent practicable under the circumstances and in the
 sole discretion of the commissioner.
-  * NB Repealed March 28, 2022
+  * NB Repealed April 1, 2031
 ```

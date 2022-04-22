@@ -30,6 +30,7 @@
 - [§ 4406-E Access to end of life care](4406e-access-to-end-of-life-care.md)
 - [§ 4406-F Maternal depression screenings](4406f-maternal-depression-screenings.md)
 - [§ 4406-G Telehealth delivery of services](4406g-telehealth-delivery-of-services.md)
+- [§ 4406-H Health care facility applications](4406h-health-care-facility-applications.md)
 - [§ 4407 Health maintenance organizations; employer requirements](4407-health-maintenance-organizations-employer-requirements.md)
 - [§ 4408 Disclosure of information](4408-disclosure-of-information.md)
 - [§ 4408-A Integrated delivery systems](4408a-integrated-delivery-systems.md)
@@ -80,6 +81,7 @@ Section 4400.     Statement of policy and purposes.
         4406-e.   Access to end of life care.
         4406-f.   Maternal depression screenings.
         4406-g.   Telehealth delivery of services.
+        4406-h.   Health care facility applications.
         4407.     Health maintenance organizations; employer
                     requirements.
         4408.     Disclosure of information.

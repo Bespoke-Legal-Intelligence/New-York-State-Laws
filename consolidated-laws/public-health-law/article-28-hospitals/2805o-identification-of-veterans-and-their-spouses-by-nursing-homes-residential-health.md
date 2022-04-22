@@ -24,7 +24,7 @@ solicit such information by asking the question "Have you or your spouse
 ever served in the United States military?" from each patient residing
 at such institution and update the patient's file to indicate veteran
 status.
-  2. Every nursing home, residential health care facility and every
+  * 2. Every nursing home, residential health care facility and every
 adult care facility licensed and certified by the department pursuant to
 title two of article seven of the social services law or article
 forty-six-B of this chapter, including all adult homes, enriched housing
@@ -39,6 +39,23 @@ name, address and telephone number of the New York state division of
 veterans' services, the nearest division of veterans' services office,
 the nearest county or city veterans' service agency and the nearest
 accredited veterans' service officer.
+  * NB Effective until April 1, 2023
+  * 2. Every nursing home, residential health care facility and every
+adult care facility licensed and certified by the department pursuant to
+title two of article seven of the social services law or article
+forty-six-B of this chapter, including all adult homes, enriched housing
+programs, residences for adults, assisted living programs, and assisted
+living residences shall in writing advise all individuals identifying
+themselves as veterans or spouses of veterans that the department of
+veterans' services and local veterans' service agencies established
+pursuant to section fourteen of the veterans' services law to provide
+assistance to veterans and their spouses regarding benefits under
+federal and state law. Such written information shall include the name,
+address and telephone number of the New York state department of
+veterans' services, the nearest department of veterans' services office,
+the nearest county or city veterans' service agency and the nearest
+accredited veterans' service officer.
+  * NB Effective April 1, 2023
   3. Every nursing home, residential health care facility and every
 adult care facility licensed and certified by the department pursuant to
 title two of article seven of the social services law or article

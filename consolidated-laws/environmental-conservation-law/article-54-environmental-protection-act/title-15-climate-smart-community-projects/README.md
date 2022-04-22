@@ -17,6 +17,7 @@
 - [§ 54-1519 Powers and duties of a municipality](54-1519-powers-and-duties-of-a-municipality.md)
 - [§ 54-1521 Clean vehicle projects](54-1521-clean-vehicle-projects.md)
 - [§ 54-1523 Climate adaptation and mitigation projects](54-1523-climate-adaptation-and-mitigation.md)
+- [§ 54-1525 Restriction on alienation](54-1525-restriction-on-alienation.md)
 
 <details>
 <summary>Official heading of Title 15, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -39,6 +40,7 @@ Section 54-1501. Definition.
         54-1519. Powers and duties of a municipality.
         54-1521. Clean vehicle projects.
         54-1523. Climate adaptation and mitigation projects.
+        54-1525. Restriction on alienation.
 ```
 
 </details>

@@ -7714,14 +7714,23 @@ bypass grafts and percutaneous coronary interventions;
 sufficient to cover the costs of auditing the institutional cost reports
 submitted by general hospitals, which shall be deposited in the Health
 Care Reform Act (HCRA) resources account.
-  (c) The base period reported costs and statistics used for
+  (c) 1. The base period reported costs and statistics used for
 rate-setting for operating cost components, including the weights
 assigned to diagnostic related groups, shall be updated no less
 frequently than every four years and the new base period shall be no
 more than four years prior to the first applicable rate period that
 utilizes such new base period provided, however, that the first updated
 base period shall begin on or after April first, two thousand fourteen,
-but no later than July first, two thousand fourteen.
+but no later than July first, two thousand fourteen; and further
+provided that the updated base period subsequent to July first, two
+thousand eighteen shall begin on or after January first, two thousand
+twenty-four.
+  2. In the event of a declaration of a federal public health emergency,
+as defined in 42 USC § 247d, or a state disaster emergency, as defined
+in section twenty of the executive law, that severely impacts general
+hospitals within the state, the department may exclude, for purposes of
+this paragraph, the audited reported costs and statistics during such
+declaration.
   (d) Capital cost reimbursement for general hospitals otherwise subject
 to the provisions of this subdivision shall remain subject to the
 provisions of subdivision eight of this section.

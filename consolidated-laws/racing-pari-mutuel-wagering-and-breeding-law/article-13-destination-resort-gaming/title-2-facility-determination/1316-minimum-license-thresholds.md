@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 1316", "kind": "section", "law_id": "PML", "location_id": "1316", "path": "ARTICLE 13 › TITLE 2 › SECTION 1316", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/1316.md", "title": "Minimum license thresholds"} -->
 # Racing, Pari-Mutuel Wagering and Breeding Law § 1316 — Minimum license thresholds
 
-[Racing, Pari-Mutuel Wagering and Breeding Law](../../README.md) › [Article 13 — Destination Resort Gaming](../README.md) › [Title 2 — Facility Determination and Licensing](README.md)
+[Racing, Pari-Mutuel Wagering and Breeding Law](../../README.md) › [Article 13 — Destination Resort Gaming](../README.md) › [Title 2 — Facility Determination and Licensing: Upstate Gaming Facilities](README.md)
 
 ```text
   § 1316. Minimum license thresholds. No applicant shall be eligible to

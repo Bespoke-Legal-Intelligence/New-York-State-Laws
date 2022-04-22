@@ -293,7 +293,7 @@ living program beds for which a solicitation is made under subparagraph
 (i) of this paragraph, but which are not awarded, to applicants that
 meet all applicable criteria pursuant to a solicitation made under
 subparagraph (ii) of this paragraph.
-  (m) Beginning April first, two thousand twenty-three, additional
+  (m) Beginning April first, two thousand twenty-five, additional
 assisted living program beds shall be approved on a case by case basis
 whenever the commissioner of health is satisfied that public need exists
 at the time and place and under circumstances proposed by the applicant.

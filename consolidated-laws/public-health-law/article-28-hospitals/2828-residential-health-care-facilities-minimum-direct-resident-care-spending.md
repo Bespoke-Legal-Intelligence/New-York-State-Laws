@@ -27,28 +27,33 @@ exceeds total operating and non-operating expenses by more than five
 percent of total operating and non-operating expenses or that fails to
 spend the minimum amount necessary to comply with the minimum spending
 standards for resident-facing staffing or direct resident care,
-calculated on an annual basis, shall remit such excess revenue, or the
-difference between the minimum spending requirement and the actual
-amount of spending on resident-facing staffing or direct care staffing,
-as the case may be, to the state, with such excess revenue which shall
-be payable, in a manner to be determined by such regulations, by
-November first in the year following the year in which the expenses are
-incurred. The department shall collect such payments by methods
-including, but not limited to, bringing suit in a court of competent
-jurisdiction on its own behalf after giving notice of such suit to the
-attorney general, deductions or offsets from payments made pursuant to
-the Medicaid program, and shall deposit such recouped funds into the
-nursing home quality pool, as set forth in paragraph d of subdivision
-two-c of section two thousand eight hundred eight of this article.
-Provided further that such payments of excess revenue shall be in
-addition to and shall not affect a residential health care facility's
-obligations to make any other payments required by state or federal law
-into the nursing home quality pool, including but not limited to
-medicaid rate reductions required pursuant to paragraph g of subdivision
-two-c of section two thousand eight hundred eight of this article and
-department regulations promulgated pursuant thereto. The commissioner or
-their designees shall have authority to audit the residential health
-care facilities' reports for compliance in accordance with this section.
+calculated on an annual basis, or for the year two thousand twenty-two,
+on a pro-rata basis for only that portion of the year during which the
+failure of a residential health care facility to spend a minimum of
+seventy percent of revenue on direct resident care, and forty percent of
+revenue on resident-facing staffing, may be held to be a violation of
+this chapter, shall remit such excess revenue, or the difference between
+the minimum spending requirement and the actual amount of spending on
+resident-facing staffing or direct care staffing, as the case may be, to
+the state, with such excess revenue which shall be payable, in a manner
+to be determined by such regulations, by November first in the year
+following the year in which the expenses are incurred. The department
+shall collect such payments by methods including, but not limited to,
+bringing suit in a court of competent jurisdiction on its own behalf
+after giving notice of such suit to the attorney general, deductions or
+offsets from payments made pursuant to the Medicaid program, and shall
+deposit such recouped funds into the nursing home quality pool, as set
+forth in paragraph d of subdivision two-c of section two thousand eight
+hundred eight of this article. Provided further that such payments of
+excess revenue shall be in addition to and shall not affect a
+residential health care facility's obligations to make any other
+payments required by state or federal law into the nursing home quality
+pool, including but not limited to medicaid rate reductions required
+pursuant to paragraph g of subdivision two-c of section two thousand
+eight hundred eight of this article and department regulations
+promulgated pursuant thereto. The commissioner or their designees shall
+have authority to audit the residential health care facilities' reports
+for compliance in accordance with this section.
   2. For the purposes of this section the following terms shall have the
 following meanings:
   (a) "Revenue" shall mean the total operating revenue from or on behalf
@@ -57,8 +62,28 @@ or third-party payers, to pay for a resident's occupancy of the
 residential health care facility, resident care, and the operation of
 the residential health care facility as reported in the residential
 health care facility cost reports submitted to the department; provided,
-however, that revenue shall exclude the average increase in the capital
-portion of the Medicaid reimbursement rate from the prior three years.
+however, that revenue shall exclude:
+  (i) the average increase in the capital portion of the Medicaid
+reimbursement rate from the prior three years;
+  (ii) funding received as reimbursement for the assessment under
+subparagraph (vi) of paragraph (b) of subdivision two of section
+twenty-eight hundred seven-d of this article, as reconciled pursuant to
+paragraph (c) of subdivision ten of section twenty-eight hundred seven-d
+of this article;
+  (iii) the capital per diem portion of the reimbursement rate for
+nursing homes that have an overall four- or five-star rating assigned
+pursuant to the inspection rating system of the U.S. Centers for
+Medicare and Medicaid Services (CMS rating), provided however that such
+exclusion shall not apply to any amount of the capital per diem portion
+of the reimbursement rate that is attributable to a capital expenditure
+made to a corporation, other entity, or individual, with a common or
+familial ownership to the operator or the facility as reported under
+subdivision one of section twenty-eight hundred three-x of this chapter;
+and
+  (iv) any grant funds from the federal government for reimbursement of
+COVID-19 pandemic-related expenses, including but not limited to funds
+received from the federal emergency management agency or health
+resources and services administration.
   (b) "Expenses" shall include all operating and non-operating expenses,
 before extraordinary gains, reported in cost reports submitted pursuant
 to section twenty-eight hundred five-e of this article, except as

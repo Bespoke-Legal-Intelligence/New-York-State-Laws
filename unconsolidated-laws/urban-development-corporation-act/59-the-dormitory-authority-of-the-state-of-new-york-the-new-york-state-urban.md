@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Urban Development Corporation Act § 59", "kind": "section", "law_id": "UDA", "location_id": "59", "path": "SECTION 59", "repealed": false, "repealed_date": null, "source": "nys-laws:UDA/59.md", "title": "The dormitory authority of the state of New York, the New York state urban development corporation, and the New York state thruway author..."} -->
+# Urban Development Corporation Act § 59 — The dormitory authority of the state of New York, the New York state urban development corporation, and the New York state thruway author...
+
+[Urban Development Corporation Act](README.md)
+
+```text
+  § 59. The dormitory authority of the state of New York, the New York
+state urban development corporation, and the New York state thruway
+authority are hereby authorized to issue bonds in one or more series
+under either article 5-C or article 5-F of the state finance law for the
+purpose of refunding obligations of the power authority of the state of
+New York to fund energy efficiency projects at state agencies including,
+but not limited to, the state university of New York, city university of
+New York, the New York state office of general services, New York state
+office of mental health, state education department, and New York state
+department of agriculture and markets. The aggregate principal amount of
+bonds authorized to be issued pursuant to this section shall not exceed
+two hundred million dollars ($200,000,000), excluding bonds issued to
+pay costs of issuance of such bonds and to refund or otherwise repay
+such bonds. Such bonds issued by the dormitory authority of the state of
+New York, the New York state urban development corporation, and New York
+state thruway authority shall not be a debt of the state, and the state
+shall not be liable thereon, nor shall they be payable out of any funds
+other than those appropriated by the state under article 5-C or article
+5-F of the state finance law, as applicable.
+```
