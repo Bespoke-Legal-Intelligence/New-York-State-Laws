@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Retirement and Social Security Law § 61-B*2", "kind": "section", "law_id": "RSS", "location_id": "61-B*2", "path": "ARTICLE 2 › TITLE 7 › SECTION 61-B*2", "repealed": false, "repealed_date": null, "source": "nys-laws:RSS/61-B_2.md", "title": "COVID-19 benefit"} -->
+﻿<!-- nyslaw {"citation": "Retirement and Social Security Law § 61-B*2", "kind": "section", "law_id": "RSS", "location_id": "61-B*2", "path": "ARTICLE 2 › TITLE 7 › SECTION 61-B*2", "repealed": true, "repealed_date": "2022-04-29", "source": "nys-laws:RSS/61-B_2.md", "title": "COVID-19 benefit"} -->
 # Retirement and Social Security Law § 61-B*2 — COVID-19 benefit
 
 [Retirement and Social Security Law](../../README.md) › [Article 2 — New York State Employees' Retirement System](../README.md) › [Title 7 — Death Benefits and Disability Retirement](README.md)
+
+**Repealed** (29 Apr 2022). The text below is what the Senate publishes for this repealed provision.
 
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 

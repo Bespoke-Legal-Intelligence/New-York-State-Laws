@@ -4,7 +4,7 @@
 [Tax Law](../../README.md) › [Article 22 — Personal Income Tax](../README.md) › [Part 5 — Withholding of Tax](README.md)
 
 ```text
-  § 671. Requirement of withholding tax from wages. (a) General. (1)
+  § 671. Requirement of withholding tax from wages. (a) General.  (1)
 Every employer maintaining an office or transacting business within this
 state and making payment of any wages taxable under this article shall
 deduct and withhold from such wages for each payroll period a tax
@@ -12,11 +12,17 @@ computed in such manner as to result, so far as practicable, in
 withholding from the employee's wages during each calendar year an
 amount substantially equivalent to the tax reasonably estimated to be
 due under this article resulting from the inclusion in the employee's
-New York adjusted gross income or New York source income of his wages
-received during such calendar year. The method of determining the amount
-to be withheld shall be prescribed by regulations of the commissioner,
-with due regard to the New York withholding exemptions of the employee
-and the sum of any credits allowable against his tax.
+New York adjusted gross income or New York source income of the
+employee's wages received during such calendar year. The method of
+determining the amount to be withheld shall be prescribed by the
+commissioner, with due regard to the New York withholding exemptions of
+the employee and the sum of any credits allowable against the employee's
+tax. The commissioner shall publish any changes to such method of
+determining the amount of tax to be withheld on the website of the
+department of taxation and finance. The commissioner shall also cause
+notice of such changes to be published in the section for miscellaneous
+notices in the state register and shall give other appropriate general
+notice of such changes.
   (2) The tax commission may provide, by regulations, for withholding--
   (A) from remuneration for services performed by an employee for his
 employer which does not constitute wages, and

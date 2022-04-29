@@ -4,7 +4,7 @@
 [Public Service Law](../README.md) › [Article 4 — Provisions Relating to Gas and Electric Corporations; Regulation of Price of Gas and Electricity](README.md)
 
 ```text
-  * § 73. Compensation to customers experiencing widespread prolonged
+  § 73. Compensation to customers experiencing widespread prolonged
 outages. 1. Notwithstanding any other provision of law, in the event
 that a residential utility customer or a small business customer
 experiences a widespread prolonged outage lasting at least seventy-two
@@ -76,5 +76,4 @@ petition.
 methodologies and rules necessary to implement the provisions of this
 section. Such rules and regulations shall define the terms "widespread
 prolonged outage", "small business customer" and "proof of loss".
-  * NB Effective April 21, 2022
 ```

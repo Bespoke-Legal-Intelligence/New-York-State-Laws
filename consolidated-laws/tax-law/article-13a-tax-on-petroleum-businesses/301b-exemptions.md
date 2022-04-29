@@ -269,4 +269,10 @@ product was used and consumed by a passenger commuter ferry exclusively
 in providing mass transportation service. Provided, that the
 commissioner shall require such documentary proof to qualify for any
 exemption provided hereunder as the commissioner deems appropriate.
+  * (j) Exemption for tugboats and towboats. The use by a tugboat or
+towboat of motor fuel, diesel motor fuel, or residual petroleum product.
+Provided, that the commissioner shall require such documentary proof to
+qualify for any exemption provided hereunder as the commissioner deems
+appropriate.
+  * NB Effective September 1, 2022
 ```

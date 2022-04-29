@@ -11,6 +11,7 @@
 - [§ 473 Eligibility criteria](473-eligibility-criteria.md)
 - [§ 474 Application and approval process](474-application-and-approval-process.md)
 - [§ 475 Restaurant return-to-work tax credit](475-restaurant-return-to-work-tax-credit.md)
+- [§ 475-A Additional restaurant return-to-work tax credit](475a-additional-restaurant-return-to-work-tax-credit.md)
 - [§ 476 Powers and duties of the commissioner](476-powers-and-duties-of-the-commissioner.md)
 - [§ 477 Maintenance of records](477-maintenance-of-records.md)
 - [§ 478 Reporting](478-reporting.md)
@@ -22,16 +23,17 @@
 ```text
                                ARTICLE 25
               RESTAURANT RETURN-TO-WORK TAX CREDIT PROGRAM
-Section 470. Short title.
-        471. Statement of legislative findings and declaration.
-        472. Definitions.
-        473. Eligibility criteria.
-        474. Application and approval process.
-        475. Restaurant return-to-work tax credit.
-        476. Powers and duties of the commissioner.
-        477. Maintenance of records.
-        478. Reporting.
-        479. Cap on tax credit.
+Section 470.   Short title.
+        471.   Statement of legislative findings and declaration.
+        472.   Definitions.
+        473.   Eligibility criteria.
+        474.   Application and approval process.
+        475.   Restaurant return-to-work tax credit.
+        475-a. Additional restaurant return-to-work tax credit.
+        476.   Powers and duties of the commissioner.
+        477.   Maintenance of records.
+        478.   Reporting.
+        479.   Cap on tax credit.
 ```
 
 </details>

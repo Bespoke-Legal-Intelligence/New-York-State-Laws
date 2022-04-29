@@ -27,10 +27,26 @@ tax.
 S corporation, with respect to taxes imposed upon or payable by the
 corporation, the term "income taxes" in subparagraph (A) of this
 paragraph shall also include the taxes imposed under article nine-A of
-this chapter, regardless of the measure of such tax, but shall not
-otherwise include taxes imposed by this or any other state of the United
-States, or any political subdivision of this or any other state, or the
-District of Columbia.
+this chapter, regardless of the measure of such tax.
+  (C) Pass-through entity tax deduction. (i) In the case of a partner,
+member or shareholder of an electing partnership or electing S
+corporation, the term "income taxes" in subparagraph (A) of this
+paragraph shall not include the taxes imposed under article
+twenty-four-A of this chapter to the extent such taxes are added to
+federal adjusted gross income under subparagraph (A) of paragraph
+forty-three of this subsection or the taxes imposed under article
+twenty-four-B of this chapter to the extent such taxes are added to the
+federal adjusted gross income under paragraph forty-three-a of this
+subsection.
+  (ii) In the case of a partner, member or shareholder of a partnership
+or S corporation, the term "income taxes" in subparagraph (A) of this
+paragraph shall not include pass-through entity taxes substantially
+similar to the tax imposed pursuant to article twenty-four-A of this
+chapter imposed by another state of the United States, a political
+subdivision of such state, or the District of Columbia upon income both
+derived therefrom and subject to tax under this article to the extent
+such taxes are added to federal adjusted gross income under subparagraph
+(B) of paragraph forty-three of this subsection.
   (4) Interest on indebtedness incurred or continued to purchase or
 carry obligations or securities the interest on which is exempt from tax
 under this article, to the extent deductible in determining federal
@@ -312,6 +328,10 @@ subsection (b) of section six hundred twenty of this article, an amount
 equal to the amount of such credit as calculated without regard to the
 limitation under subsection (c) of section six hundred twenty of this
 article.
+  (43-a) City pass-through entity tax deduction addback. In the case of
+a taxpayer who claims a credit allowed under subsection (g) of section
+thirteen hundred ten of this chapter, an amount equal to the amount of
+such credit.
   (c) Modifications reducing federal adjusted gross income. There shall
 be subtracted from federal adjusted gross income:
   (1) Interest income on obligations of the United States and its
@@ -792,10 +812,19 @@ business recovery grant program, established in section 16-ff of the New
 York state urban development corporation act, to the extent includable
 in federal adjusted gross income.
   * NB There are 2 par (45)'s
-  (46) The amount of any student loan forgiveness award made by the
+  * (46) The amount of any student loan forgiveness award made by the
 state, including any awards made pursuant to a program established under
 article fourteen of the education law to the extent included in federal
 adjusted gross income.
+  * NB There are 2 par (46)'s
+  * (46) The amount of any federal deduction disallowed pursuant to
+section 280E of the internal revenue code related to the production and
+distribution of adult-use cannabis products, as defined by article
+twenty-C of this chapter, not used as the basis for any other tax
+deduction, exemption, or credit and not otherwise required to be added
+back by subsection (b) of this section in computing New York adjusted
+gross income.
+  * NB There are 2 par (46)'s
   (d) Modification for New York fiduciary adjustment. There shall be
 added to or subtracted from federal adjusted gross income (as the case
 may be) the taxpayer's share, as beneficiary of an estate or trust, of

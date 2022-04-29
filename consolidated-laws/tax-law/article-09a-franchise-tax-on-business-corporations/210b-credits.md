@@ -1717,7 +1717,7 @@ allowed a credit against the tax imposed by this article. Such credit,
 to be computed as hereinafter provided, shall be allowed for bioheating
 fuel, used for space heating or hot water production for residential
 purposes within this state purchased before January first, two thousand
-twenty-three. Such credit shall be $0.01 per percent of biodiesel per
+twenty-six. Such credit shall be $0.01 per percent of biodiesel per
 gallon of bioheating fuel, not to exceed twenty cents per gallon,
 purchased by such taxpayer.  Provided, however, that on or after January
 first, two thousand seventeen, this credit shall not apply to bioheating
@@ -1973,7 +1973,7 @@ of recovery years prior to, but not including, the recapture year, and
 the denominator of which is the total recovery period.
   (f) Termination. The credit allowed by paragraph (b) of this
 subdivision shall not apply in taxable years beginning after December
-thirty-first, two thousand twenty-two.
+thirty-first, two thousand twenty-five.
   31. Excelsior jobs program credit. (a) Allowance of credit. A taxpayer
 will be allowed a credit, to be computed as provided in section
 thirty-one of this chapter, against the tax imposed by this article.
@@ -2114,7 +2114,7 @@ thousand eighty-six of this chapter. Provided, however, the provisions
 of subsection (c) of section one thousand eighty-eight of this chapter
 notwithstanding, no interest will be paid thereon.
   38. Credit for companies who provide transportation to individuals
-with disabilities. (a) Allowance and amount of credit. A taxpayer, who
+with disabilities.  (a) Allowance and amount of credit. A taxpayer, who
 provides a taxicab service as defined in section one hundred
 forty-eight-a of the vehicle and traffic law, or a livery service as
 defined in section one hundred twenty-one-e of the vehicle and traffic
@@ -2123,22 +2123,26 @@ subdivision, against the tax imposed by this article. The amount of the
 credit shall be equal to the incremental cost associated with upgrading
 a vehicle so that it is accessible by individuals with disabilities as
 defined in paragraph (b) of this subdivision. Provided, however, that
-such credit shall not exceed ten thousand dollars per vehicle. For
-purposes of this subdivision, purchases of new vehicles that are
-initially manufactured to be accessible for individuals with
-disabilities and for which there is no comparable make and model that
-does not include the equipment necessary to provide accessibility to
-individuals with disabilities, the credit shall be ten thousand dollars
-per vehicle.
-  (b) Definition. The term "accessible by individuals with disabilities"
-shall, for the purposes of this subdivision, refer to a vehicle that
-complies with federal regulations promulgated pursuant to the Americans
-with Disabilities Act applicable to vans under twenty-two feet in
-length, by the federal Department of Transportation, in Code of Federal
-Regulations, title 49, parts 37 and 38, and by the federal Architecture
-and Transportation Barriers Compliance Board, in Code of Federal
-Regulations, title 36, section 1192.23, and the Federal Motor Vehicle
-Safety Standards, Code of Federal Regulations, title 49, part 57.
+such credit shall not exceed fifteen thousand dollars per electric
+vehicle and ten thousand dollars per any other vehicle. For purposes of
+this subdivision, purchases of new vehicles that are initially
+manufactured to be accessible for individuals with disabilities and for
+which there is no comparable make and model that does not include the
+equipment necessary to provide accessibility to individuals with
+disabilities, the credit shall be fifteen thousand dollars per electric
+vehicle and ten thousand dollars per any other vehicle.
+  (b) Definitions. The term "accessible by individuals with
+disabilities" shall, for the purposes of this subdivision, refer to a
+vehicle that complies with federal regulations promulgated pursuant to
+the Americans with Disabilities Act applicable to vans under twenty-two
+feet in length, by the federal Department of Transportation, in Code of
+Federal Regulations, title 49, parts 37 and 38, and by the federal
+Architecture and Transportation Barriers Compliance Board, in Code of
+Federal Regulations, title 36, section 1192.23, and the Federal Motor
+Vehicle Safety Standards, Code of Federal Regulations, title 49, part
+57. The term "electric vehicle" shall, for the purposes of this
+subdivision, have the same meaning as in section sixty-six-s of the
+public service law.
   (c) Application of credit. In no event shall the credit allowed under
 this subdivision for any taxable year reduce the tax due for such year
 to less than the amount prescribed in paragraph (d) of subdivision one
@@ -2150,7 +2154,7 @@ such taxable year shall be carried over to the following year or years,
 and may be deducted from the taxpayer's tax for such year or years. The
 tax credit allowed pursuant to this subdivision shall not apply to
 taxable years beginning on or after January first, two thousand
-twenty-three.
+twenty-nine.
   39. Alcoholic beverage production credit. A taxpayer shall be allowed
 a credit, to be computed as provided in section thirty-seven of this
 chapter, against the tax imposed by this article. In no event shall the
@@ -2609,10 +2613,41 @@ interest shall be paid thereon.
 department of economic development provides notice to the legislative
 bill drafting commission of a determination pursuant to § 6 sb 2 (b) of
 chapter 683 of 2019
+  55. Empire state digital gaming media production credit. (a) Allowance
+of credit. A taxpayer who is eligible pursuant to section forty-five of
+this chapter shall be allowed a credit to be computed as provided in
+such section forty-five against the tax imposed by this article. Under
+no circumstances may a single taxpayer receive more than one million
+five hundred thousand dollars in tax credits per year.
+  (b) Application of credit. The credit allowed under this subdivision
+for any taxable year shall not reduce the tax due for such year to less
+than the amount prescribed in paragraph (d) of subdivision one of
+section two hundred ten of this article. Provided, however, that if the
+amount of the credit allowable under this subdivision for any taxable
+year reduces the tax to such amount, the excess shall be treated as an
+overpayment of tax to be credited or refunded in accordance with the
+provisions of section one thousand eighty-six of this chapter, provided,
+however, no interest shall be paid thereon.
   56. Restaurant return-to-work tax credit. (a) Allowance of credit. A
 taxpayer shall be allowed a credit, to be computed as provided in
 section forty-six of this chapter, against the taxes imposed by this
 article.
+  (b) Application of credit. The credit allowed under this subdivision
+for the taxable year shall not reduce the tax due for such year to less
+than the amount prescribed in paragraph (d) of subdivision one of
+section two hundred ten of this article. However, if the amount of
+credit allowed under this subdivision for the taxable year reduces the
+tax to such amount or if the taxpayer otherwise pays tax based on the
+fixed dollar minimum amount, any amount of credit thus not deductible in
+such taxable year shall be treated as an overpayment of tax to be
+credited or refunded in accordance with the provisions of section one
+thousand eighty-six of this chapter. Provided, however, the provisions
+of subsection (c) of section one thousand eighty-eight of this chapter
+notwithstanding, no interest will be paid thereon.
+  56-a. Additional restaurant return-to-work tax credit. (a) Allowance
+of credit. A taxpayer shall be allowed a credit, to be computed as
+provided in section forty-six-a of this chapter, against the taxes
+imposed by this article.
   (b) Application of credit. The credit allowed under this subdivision
 for the taxable year shall not reduce the tax due for such year to less
 than the amount prescribed in paragraph (d) of subdivision one of

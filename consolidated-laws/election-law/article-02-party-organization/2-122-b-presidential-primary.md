@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Election Law § 2-122-B", "kind": "section", "law_id": "ELN", "location_id": "2-122-B", "path": "ARTICLE 2 › SECTION 2-122-B", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/2-122-B.md", "title": "Presidential primary"} -->
+﻿<!-- nyslaw {"citation": "Election Law § 2-122-B", "kind": "section", "law_id": "ELN", "location_id": "2-122-B", "path": "ARTICLE 2 › SECTION 2-122-B", "repealed": true, "repealed_date": "2022-04-29", "source": "nys-laws:ELN/2-122-B.md", "title": "Presidential primary"} -->
 # Election Law § 2-122-B — Presidential primary
 
 [Election Law](../README.md) › [Article 2 — Party Organization](README.md)
+
+**Repealed** (29 Apr 2022). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 2-122-b. Presidential primary. 1. Applicability. The selection of

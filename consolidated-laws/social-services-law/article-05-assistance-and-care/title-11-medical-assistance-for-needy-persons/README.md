@@ -133,7 +133,7 @@ Section 363.     Declaration of objects.
         365-e.   Optional or continued membership in entities offering
                    comprehensive health services plans.
         365-f.   Consumer directed personal assistance program.
-        365-g.   Utilization thresholds for certain care, services and
+        365-g.   Utilization review for certain care, services and
                    supplies.
         365-h.   Provision and reimbursement of transportation costs.
         365-j.   Advisory opinions.

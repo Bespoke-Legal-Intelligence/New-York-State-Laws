@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | TAX |
 | Type | Consolidated law, chapter 60 |
-| Sections | 1,263 |
-| Last changed | 22 Apr 2022 |
+| Sections | 1,273 |
+| Last changed | 29 Apr 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Tax |
 
@@ -29,10 +29,11 @@ Became a law February 17, 1909, with the approval of the Governor.
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (98 lines)](chapter-text.md)
+[Full chapter text (99 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [29 Apr 2022](../../changes/2022/2022-04-29.md): 22 amended, 10 added
 - [22 Apr 2022](../../changes/2022/2022-04-22.md): 12 amended, 3 added
 - [15 Apr 2022](../../changes/2022/2022-04-15.md): 3 amended
 - [8 Apr 2022](../../changes/2022/2022-04-08.md): 9 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [4 Mar 2022](../../changes/2022/2022-03-04.md): 1 amended
 - [7 Jan 2022](../../changes/2022/2022-01-07.md): 4 amended
 - [31 Dec 2021](../../changes/2021/2021-12-31.md): 5 amended, 10 added
-- [17 Dec 2021](../../changes/2021/2021-12-17.md): 3 amended
 
 ## Contents
 
@@ -69,6 +69,7 @@ Assembly, do enact as follows:
 - [Article 23 — Metropolitan Commuter Transportation Mobility Tax](article-23-metropolitan-commuter-transportation-mobility/)
 - [Article 24 — Employer Compensation Expense Program](article-24-employer-compensation-expense-program/)
 - [Article 24-A — Pass-through Entity Tax](article-24a-pass-through-entity-tax/)
+- [Article 24-B — City Pass-through Entity Tax](article-24b-city-pass-through-entity-tax/)
 - [Article 25 — Reciprocal Enforcement of Tax Liabilities](article-25-reciprocal-enforcement-of-tax-liabilities/)
 - [Article 26 — Estate Tax](article-26-estate-tax/)
 - [Article 27 — Corporate Tax Procedure and Administration](article-27-corporate-tax-procedure-and-administration/)

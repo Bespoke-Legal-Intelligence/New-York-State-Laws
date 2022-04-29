@@ -9,7 +9,7 @@
 | Type | Unconsolidated law |
 | Session law | L. 1968, ch. 174 |
 | Sections | 106 |
-| Last changed | 22 Apr 2022 |
+| Last changed | 29 Apr 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Urban Development Corporation Act 174/68 |
 
@@ -34,6 +34,7 @@ Section   1.       Short title.
 
 ## Recent changes
 
+- [29 Apr 2022](../../changes/2022/2022-04-29.md): 1 amended
 - [22 Apr 2022](../../changes/2022/2022-04-22.md): 8 amended, 6 added
 - [23 Apr 2021](../../changes/2021/2021-04-23.md): 10 amended, 5 added
 - [9 Apr 2021](../../changes/2021/2021-04-09.md): 1 added
@@ -43,7 +44,6 @@ Section   1.       Short title.
 - [14 Dec 2018](../../changes/2018/2018-12-14.md): 4 amended
 - [31 Aug 2018](../../changes/2018/2018-08-31.md): 1 amended
 - [27 Apr 2018](../../changes/2018/2018-04-27.md): 3 amended
-- [20 Apr 2018](../../changes/2018/2018-04-20.md): 5 amended, 2 added
 
 ## Contents
 
@@ -150,6 +150,6 @@ Section   1.       Short title.
 - [§ 56 State-supported debt; 2021](56-state-supported-debt-2021.md)
 - [§ 56-A State-supported debt; 2022](56a-state-supported-debt-2022.md)
 - [§ 57 No title](57-no-title.md)
-- [§ 58](58.md)
+- [§ 58 Gateway project](58-gateway-project.md)
 - [§ 58\*2 Reporting](58-2-reporting.md)
 - [§ 59 The dormitory authority of the state of New York, the New York state urban development corporation, and the New York state thruway author...](59-the-dormitory-authority-of-the-state-of-new-york-the-new-york-state-urban.md)

@@ -20,10 +20,11 @@ amount as the commissioner may determine to be necessary for refunds in
 respect to the taxes imposed pursuant to the authority of this article
 or former article two-E of the general city law and for reasonable costs
 of the commissioner in administering, collecting and distributing such
-taxes, out of which the comptroller shall pay any refunds of such taxes
-to which taxpayers shall be entitled under any law enacted pursuant to
-the authority of this article or former article two-E of the general
-city law.
+taxes and the tax imposed pursuant to article twenty-four-B of this
+chapter, out of which the comptroller shall pay any refunds of such
+taxes to which taxpayers shall be entitled under any law enacted
+pursuant to the authority of this article or former article two-E of the
+general city law.
   (c) Subject to the provisions of subsection (g) of this section, the
 comptroller, after reserving such refund fund and such costs shall,
 commencing on or before the fifteenth day of each month, pay to the New

@@ -44,6 +44,7 @@ Article 1.      Short title; definitions; miscellaneous (§§ 1-46).
                    (§§ 800-807).
        24.       Employer compensation expense program (§§ 850-857).
        24-A.     Pass-through entity tax (§§ 860-866).
+       24-B.     City pass-through entity tax (§§ 867-873).
        25.       Reciprocal enforcement of tax liabilities
                    (§§ 901-903).
        26.       Estate tax (§§ 951-999-a).

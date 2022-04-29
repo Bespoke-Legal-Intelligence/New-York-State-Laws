@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 1 — Short Title; Definitions; Miscellaneous](README.md)
 
 ```text
-  § 47. COVID-19 capital costs tax credit. (a) Allowance of credit. A
+  * § 47. COVID-19 capital costs tax credit. (a) Allowance of credit. A
 taxpayer subject to tax under article nine-A or twenty-two of this
 chapter shall be allowed a credit against such tax, pursuant to the
 provisions referenced in subdivision (f) of this section. The amount of
@@ -55,4 +55,5 @@ any such revocation becomes final.
 this section, see the following provisions of this chapter:
   (1) article 9-A: section 210-B, subdivision 58;
   (2) article 22: section 606, subsection (nnn).
+  * NB There are 3 § 47's
 ```

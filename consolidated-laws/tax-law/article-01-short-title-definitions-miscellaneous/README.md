@@ -66,8 +66,12 @@
 - [§ 43 Life sciences research and development tax credit](43-life-sciences-research-and-development-tax-credit.md)
 - [§ 43\*2 Single member limited liability companies and eligibility for tax credits](43-2-single-member-limited-liability-companies-and-eligibility-for-tax-credits.md)
 - [§ 44 Employer-provided child care credit](44-employer-provided-child-care-credit.md)
+- [§ 45 Empire state digital gaming media production credit](45-empire-state-digital-gaming-media-production-credit.md)
 - [§ 46 Restaurant return-to-work tax credit](46-restaurant-return-to-work-tax-credit.md)
+- [§ 46-A Additional restaurant return-to-work tax credit](46a-additional-restaurant-return-to-work-tax-credit.md)
 - [§ 47 COVID-19 capital costs tax credit](47-covid-19-capital-costs-tax-credit.md)
+- [§ 47\*2 Grade no](47-2-grade-no.md)
+- [§ 47\*3 Suspension of certain taxes on motor fuel and Diesel motor fuel](47-3-suspension-of-certain-taxes-on-motor-fuel-and-diesel-motor-fuel.md)
 
 <details>
 <summary>Official heading of Article 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -155,8 +159,13 @@ Section  1.   Short title.
         43*2. Single member limited liability companies and eligibility
                 for tax credits.
         44.   Employer-provided child care credit.
+        45.   Empire state digital gaming media production credit.
         46.   Restaurant return-to-work tax credit.
+        46-a. Additional restaurant return-to-work tax credit.
         47.   COVID-19 capital costs tax credit.
+        47*2. Grade no. 6 heating oil conversion tax credit.
+        47*3. Suspension of certain taxes on motor fuel and Diesel motor
+                fuel.
 ```
 
 </details>

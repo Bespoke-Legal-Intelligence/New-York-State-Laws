@@ -59,8 +59,7 @@ functional limitations and/or chronic illnesses that have the primary
 purpose of supporting the ability of the enrollee to live or work in the
 setting of their choice, which may include the individual's home, a
 worksite, or a provider-owned or controlled residential setting;
-  * NB Effective January 1, 2023 and Repealed December 31, 2024 and if
-federal approval is withdrawn or 42 U.S.C. 18051 is repealed
+  * NB Effective January 1, 2023 until December 31, 2024
   * (c) "Health care services" means (i) the services and supplies as
 defined by the commissioner in consultation with the superintendent of
 financial services, and shall be consistent with and subject to the
@@ -68,31 +67,25 @@ essential health benefits as defined by the commissioner in accordance
 with the provisions of the patient protection and affordable care act
 (P.L. 111-148) and consistent with the benefits provided by the
 reference plan selected by the commissioner for the purposes of defining
-such benefits, and (ii) as defined by the commissioner and subject to
-federal approval, certain services and supports provided to enrollees
-eligible pursuant to subparagraph one of paragraph (g) of subdivision
-one of section three hundred sixty-six of this article who have
-functional limitations and/or chronic illnesses that have the primary
-purpose of supporting the ability of the enrollee to live or work in the
-setting of their choice, which may include the individual's home, a
-worksite, or a provider-owned or controlled residential setting;
-  * NB Effective and Repealed December 31, 2024
-  * (c) "Health care services" means (i) the services and supplies as
-defined by the commissioner in consultation with the superintendent of
-financial services, and shall be consistent with and subject to the
-essential health benefits as defined by the commissioner in accordance
-with the provisions of the patient protection and affordable care act
-(P.L. 111-148) and consistent with the benefits provided by the
-reference plan selected by the commissioner for the purposes of defining
-such benefits, (ii) dental and vision services as defined by the
+such benefits, and shall include coverage of and access to the services
+of any national cancer institute-designated cancer center licensed by
+the department of health within the service area of the approved
+organization that is willing to agree to provide cancer-related
+inpatient, outpatient and medical services to all enrollees in approved
+organizations' plans in such cancer center's service area under the
+prevailing terms and conditions that the approved organization requires
+of other similar providers to be included in the approved organization's
+network, provided that such terms shall include reimbursement of such
+center at no less than the fee-for-service medicaid payment rate and
+methodology applicable to the center's inpatient and outpatient
+services; and (ii) dental and vision services as defined by the
 commissioner, and (iii) as defined by the commissioner and subject to
 federal approval, certain services and supports provided to enrollees
 who have functional limitations and/or chronic illnesses that have the
 primary purpose of supporting the ability of the enrollee to live or
 work in the setting of their choice, which may include the individual's
 home, a worksite, or a provider-owned or controlled residential setting;
-  * NB Effective January 1, 2025 unless federal approval is withdrawn or
-42 U.S.C. 18051 is repealed
+  * NB Effective January 1, 2025 until January 1, 2028
   * (c) "Health care services" means (i) the services and supplies as
 defined by the commissioner in consultation with the superintendent of
 financial services, and shall be consistent with and subject to the
@@ -106,8 +99,8 @@ who have functional limitations and/or chronic illnesses that have the
 primary purpose of supporting the ability of the enrollee to live or
 work in the setting of their choice, which may include the individual's
 home, a worksite, or a provider-owned or controlled residential setting;
-  * NB Effective if federal approval is withdrawn or 42 U.S.C. 18051 is
-repealed
+  * NB Effective January 1, 2028 if federal approval is withdrawn or 42
+U.S.C. 18051 is repealed
   (d) "Qualified health plan" means a health plan that meets the
 criteria for certification described in § 1311(c) of the Patient
 Protection and Affordable Care Act (P.L. 111-148), and is offered to

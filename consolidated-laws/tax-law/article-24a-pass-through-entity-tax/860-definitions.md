@@ -25,7 +25,8 @@ partnership that made a valid, timely election pursuant to section eight
 hundred sixty-one of this article.
   (d) Electing S corporation. Electing S corporation means any eligible
 S corporation that made a valid, timely election pursuant to section
-eight hundred sixty-one of this article.
+eight hundred sixty-one of this article that is either an electing
+resident S corporation or electing standard S corporation.
   (e) Taxpayer. Taxpayer means any electing partnership or electing S
 corporation.
   (f) Pass-through entity tax. Pass-through entity tax means the total
@@ -46,14 +47,25 @@ under paragraph one of subsection (a) of section six hundred thirty-two
 of this chapter; and (ii) all items of income, gain, loss, or deduction
 to the extent they are included in the taxable income of a resident
 partner subject to tax under article twenty-two of this chapter.
-  (2) In the case of an electing S corporation, the sum of (i) all items
-of income, gain, loss, or deduction derived from or connected with New
-York sources to the extent they would be included under paragraph two of
-subsection (a) of section six hundred thirty-two of this chapter in the
-taxable income of a shareholder subject to tax under article twenty-two
-of this chapter.
+  (2) In the case of an electing standard S corporation, the sum of all
+items of income, gain, loss, or deduction derived from or connected with
+New York sources to the extent they would be included under paragraph
+two of subsection (a) of section six hundred thirty-two of this chapter
+in the taxable income of a shareholder subject to tax under article
+twenty-two of this chapter.
+  (3) In the case of an electing resident S corporation, the sum of all
+items of income, gain, loss, or deduction to the extent they are
+included in the taxable income of a shareholder subject to tax under
+article twenty-two of this chapter.
   (i) Taxable year. An electing partnership's or electing S
 corporation's taxable year pursuant to this article shall be the same as
 the electing partnership's or electing S corporation's taxable year for
 federal income tax purposes.
+  (j) Electing resident S corporation. An electing resident S
+corporation is an electing S corporation that certifies at the time of
+its election that all of its shareholders are residents of New York for
+purposes of article twenty-two of this chapter.
+  (k) Electing standard S corporation. An electing standard S
+corporation is an electing S corporation that is not an electing
+resident S corporation.
 ```

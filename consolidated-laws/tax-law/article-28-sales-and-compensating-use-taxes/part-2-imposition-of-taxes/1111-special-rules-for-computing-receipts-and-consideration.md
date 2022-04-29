@@ -470,9 +470,9 @@ by local law, ordinance or resolution in exactly the form prepared by
 the commissioner, may elect that its sales and compensating use taxes,
 in regard to the retail sale of motor fuel and diesel motor fuel, shall
 be computed, as determined by the commissioner, at a rate of cents per
-gallon, rounded to the nearest cent, equal to two or three dollars, as
-determined by the municipality, multiplied by the percentage rate of
-such taxes within the municipality.
+gallon, rounded to the nearest cent, equal to two, three or four
+dollars, as determined by the municipality, multiplied by the percentage
+rate of such taxes within the municipality.
   (5)(i) Prior to the start of any sales tax quarter, the commissioner
 shall apply the local percentage sales tax rate of each county or city
 that has elected a cents per gallon rate pursuant to paragraph three or

@@ -19,7 +19,7 @@ and compensating use taxes, whether or not the item is sold in liquid
 form. Nothing in this subparagraph shall be construed as exempting food
 or drink from the tax imposed under subdivision (d) of section eleven
 hundred five of this article.
-  (B) Until May thirty first, two thousand twenty-two, the food and
+  (B) Until May thirty first, two thousand twenty-three, the food and
 drink excluded from the exemption provided by clauses (i), (ii) and
 (iii) of subparagraph (A) of this paragraph, and bottled water, shall be
 exempt under this subparagraph when sold for one dollar and fifty cents

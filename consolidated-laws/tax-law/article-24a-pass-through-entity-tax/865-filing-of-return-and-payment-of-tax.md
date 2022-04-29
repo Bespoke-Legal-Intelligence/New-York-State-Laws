@@ -79,6 +79,8 @@ electing partnership; and
   (h) Information provided to shareholders. Each electing S corporation
 subject to tax under this article shall report to each shareholder its:
   (1) direct share of the pass-through entity tax imposed on the
-electing S corporation; and
-  (2) any other information as required by the commissioner.
+electing S corporation;
+  (2) the electing S corporation's status as an electing resident S
+corporation or electing standard S corporation; and
+  (3) any other information as required by the commissioner.
 ```

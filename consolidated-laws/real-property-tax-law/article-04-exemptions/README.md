@@ -19,6 +19,7 @@
 - [Title 4-B — Green Roof Tax Abatement For Certain Properties In a City of One Million or More Persons](title-4b-green-roof-tax-abatement-for-certain/)
 - [Title 4-C — Solar Electric Generating System and Electric Energy Storage Equipment Tax Abatement For Certain Properties In a City of One Million or More Persons](title-4c-solar-electric-generating-system/)
 - [Title 5 — Assessment Ceilings For Local Public Utility Mass Real Property](title-5-assessment-ceilings-for-local-public/)
+- [Title 6 — Childcare Center Tax Abatement For Certain Properties In a City Having a Population of One Million or More](title-6-childcare-center-tax-abatement/)
 
 <details>
 <summary>Official heading of Article 4, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -52,6 +53,8 @@ Title 1.   Public property.
              properties in a city of one million or more persons.
       5.   Assessment ceilings for local public utility mass real
              property.
+      6.   Childcare center tax abatement for certain properties in a
+             city having a population of one million or more.
 ```
 
 </details>

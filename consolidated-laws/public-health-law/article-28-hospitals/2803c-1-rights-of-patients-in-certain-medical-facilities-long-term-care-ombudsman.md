@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 28 — Hospitals](README.md)
 
 ```text
-  * § 2803-c-1. Rights of patients in certain medical facilities;
+  § 2803-c-1. Rights of patients in certain medical facilities;
 long-term care ombudsman program. 1. Each nursing home and residential
 health care facility providing health related service, as defined in
 subdivisions two and three and paragraph (b) of subdivision four of
@@ -23,5 +23,4 @@ hotline.
 updated contact information for the state and relevant regional offices
 of the long-term care ombudsman program to all residents and their
 appointed personal representatives twice a year.
-  * NB Effective April 20, 2022
 ```

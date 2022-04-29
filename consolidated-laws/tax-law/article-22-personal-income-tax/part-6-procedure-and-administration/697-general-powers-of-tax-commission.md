@@ -580,14 +580,15 @@ preceding sentence shall not apply for purposes of computing the amount
 of any addition to tax for failure to pay estimated tax under subsection
 (c) of section six hundred eighty-five.
   (6) Publication of interest rates. The commissioner of taxation and
-finance shall cause to be published in the section for miscellaneous
-notices in the state register, and give other appropriate general notice
-of, the interest rates to be set under this subsection no later than
-twenty days preceding the first day of the calendar quarter during which
-such interest rates apply. The setting and publication of such interest
-rates shall not be included within paragraph (a) of subdivision two of
-section one hundred two of the state administrative procedure act
-relating to the definition of a rule.
+finance shall publish the interest rates set under this subsection on
+the website of the department of taxation and finance. Immediately
+following such publication, the commissioner shall cause such interest
+rates to be published in the section for miscellaneous notices in the
+state register and give other appropriate general notice of such
+interest rates. The setting and publication of such interest rates shall
+not be included within paragraph (a) of subdivision two of section one
+hundred two of the state administrative procedure act relating to the
+definition of a rule.
   (7) Cross-reference. For provisions relating to the power of the
 commissioner of taxation and finance to abate small amounts of interest,
 see subsection (c) of this section.

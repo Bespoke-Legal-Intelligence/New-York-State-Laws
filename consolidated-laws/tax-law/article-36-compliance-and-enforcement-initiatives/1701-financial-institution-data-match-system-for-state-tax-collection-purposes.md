@@ -21,10 +21,11 @@ department of state.
   (b) "Tax debtor" means a natural person or any entity other than a
 natural person named on a New York state tax warrant and identified
 thereon as a judgment debtor.
-  (c) "Financial institution" means any financial institution authorized
-or required to participate in a financial institution data match system
-or program for child support enforcement purposes under federal or state
-law.
+  (c) "Financial institution" means (i) any financial institution
+authorized or required to participate in a financial institution data
+match system or program for child support enforcement purposes under
+federal or state law, and (ii) any virtual currency business licensed by
+the superintendent of financial services.
   2. Financial institution data match system for state tax collection
 purposes.  * (a) To assist the commissioner in the collection of debts,
 the department must develop and operate a financial institution data

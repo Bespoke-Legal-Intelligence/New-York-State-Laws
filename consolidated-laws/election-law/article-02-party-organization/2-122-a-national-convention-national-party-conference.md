@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Election Law § 2-122-A", "kind": "section", "law_id": "ELN", "location_id": "2-122-A", "path": "ARTICLE 2 › SECTION 2-122-A", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/2-122-A.md", "title": "National convention; national party conference"} -->
+﻿<!-- nyslaw {"citation": "Election Law § 2-122-A", "kind": "section", "law_id": "ELN", "location_id": "2-122-A", "path": "ARTICLE 2 › SECTION 2-122-A", "repealed": true, "repealed_date": "2022-04-29", "source": "nys-laws:ELN/2-122-A.md", "title": "National convention; national party conference"} -->
 # Election Law § 2-122-A — National convention; national party conference
 
 [Election Law](../README.md) › [Article 2 — Party Organization](README.md)
+
+**Repealed** (29 Apr 2022). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 2-122-a. National convention; national party conference. 1. The

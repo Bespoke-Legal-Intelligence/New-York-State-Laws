@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PAR |
 | Type | Consolidated law, chapter 36-B |
-| Sections | 181 (1 repealed) |
-| Last changed | 22 Apr 2022 |
+| Sections | 181 (11 repealed) |
+| Last changed | 29 Apr 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Parks, Recreation and Historic Preservation |
 
@@ -29,10 +29,11 @@
   nineteen hundred thirty, entitled "An act to provide for the
 ```
 
-[Full chapter text (62 lines)](chapter-text.md)
+[Full chapter text (60 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [29 Apr 2022](../../changes/2022/2022-04-29.md): 10 repealed
 - [22 Apr 2022](../../changes/2022/2022-04-22.md): 2 amended, 1 repealed
 - [4 Mar 2022](../../changes/2022/2022-03-04.md): 1 amended
 - [31 Dec 2021](../../changes/2021/2021-12-31.md): 1 added
@@ -42,7 +43,6 @@
 - [22 Nov 2019](../../changes/2019/2019-11-22.md): 10 amended
 - [6 Sep 2019](../../changes/2019/2019-09-06.md): 2 amended
 - [8 Feb 2019](../../changes/2019/2019-02-08.md): 1 amended
-- [4 Jan 2019](../../changes/2019/2019-01-04.md): 1 added
 
 ## Contents
 

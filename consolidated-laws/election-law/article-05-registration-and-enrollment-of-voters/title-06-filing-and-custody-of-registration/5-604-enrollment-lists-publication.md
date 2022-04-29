@@ -4,13 +4,13 @@
 [Election Law](../../README.md) › [Article 5 — Registration and Enrollment of Voters](../README.md) › [Title 6 — Filing and Custody of Registration Records](README.md)
 
 ```text
-  § 5-604. Enrollment lists; publication of.
-  1. The board of elections shall also cause to be published for each
-election district a complete list of the registered voters of each
-election district. Such list shall, in addition to the information
-required for registration lists, include the party enrollment of each
-voter. At least as many copies of such list shall be prepared as the
-required minimum number of registration lists.
+  § 5-604. Enrollment lists; publication of. 1. The board of elections
+shall also cause to be published for each election district a complete
+list of the registered voters of each election district. Such list
+shall, in addition to the information required for registration lists,
+include the party enrollment of each voter. At least as many copies of
+such list shall be prepared as the required minimum number of
+registration lists.
   Lists for all the election districts in a ward or assembly district
 may be bound together in one volume. The board of elections shall also
 cause to be published a complete list of names and residence addresses

@@ -17,8 +17,20 @@ is not an S corporation, by any member, partner, owner, or other
 individual with authority to bind the entity or sign returns pursuant to
 section six hundred fifty-three of this chapter.
   (c) The annual election must be made by the due date of the first
-estimated payment under section eight hundred sixty-four of this chapter
+estimated payment under section eight hundred sixty-four of this article
 and will take effect for the current taxable year. Only one election may
 be made during each calendar year. An election made under this section
-is irrevocable.
+is irrevocable as of the due date.
+  (d) Special rules for electing S corporations. (1) An electing S
+corporation must certify at the time of its election that all
+shareholders are residents of New York for purposes of article
+twenty-two of this chapter to be considered an electing resident S
+corporation.
+  (2) If an electing S corporation does not make a certification under
+paragraph one of this subsection at the time of its election, the
+electing S corporation is automatically treated as an electing standard
+S corporation.
+  (3) If an electing S corporation makes a certification under paragraph
+one of this subsection to be an electing resident S corporation, this
+certification is irrevocable as of the due date of the election.
 ```

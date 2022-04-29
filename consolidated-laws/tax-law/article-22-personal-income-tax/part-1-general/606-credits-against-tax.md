@@ -882,6 +882,27 @@ article, provided, however, that no interest shall be paid thereon.
 but who are required to determine their New York taxes separately, the
 credit allowed pursuant to this subsection may be applied against the
 tax imposed of either or divided between them as they may elect.
+  (4) (A) For tax year two thousand twenty-one, the commissioner shall
+issue a payment of a supplemental empire state child credit in the
+amount of (i) one hundred percent of the empire state child credit
+calculated and allowed pursuant to this subsection to taxpayers whose
+federal adjusted gross income was less than ten thousand dollars; (ii)
+seventy-five percent of the empire state child credit calculated and
+allowed pursuant to this subsection to taxpayers whose federal adjusted
+gross income was greater than or equal to ten thousand dollars but less
+than twenty-five thousand dollars; (iii) fifty percent of the empire
+state child credit calculated and allowed pursuant to this subsection to
+taxpayers whose federal adjusted gross income was greater than or equal
+to twenty-five thousand dollars but less than fifty thousand dollars;
+and (iv) twenty-five percent of the empire state child credit calculated
+and allowed pursuant to this subsection to taxpayers whose federal
+adjusted gross income was greater than or equal to fifty thousand
+dollars. Provided, however, that no payment shall be issued if it is
+less than twenty-five dollars.
+  (B) The supplemental payment pursuant to this paragraph will be
+allowed to taxpayers who timely filed returns pursuant to section six
+hundred fifty-one of this article, determined with regard to extensions
+pursuant to section sex hundred fifty-seven of this article.
   (d) Earned income credit. (1) General. A taxpayer shall be allowed a
 credit as provided herein equal to (i) the applicable percentage of the
 earned income credit allowed under section thirty-two of the internal
@@ -994,6 +1015,15 @@ six hundred one of this part; and of those, the number of credits and
 the average amount of such credits allowed to taxpayers whose number of
 qualifying children falls within the categories set forth in such
 section thirty-two of the internal revenue code.
+  (8) For tax year two thousand twenty-one, the commissioner shall issue
+a payment of a supplemental earned income tax credit to resident
+taxpayers in the amount of twenty-five percent of the earned income tax
+credit calculated and allowed pursuant to this subsection. Such payment
+will be allowed to resident taxpayers who timely filed returns pursuant
+to section six hundred fifty-one of this article, determined with regard
+to extensions pursuant to section six hundred fifty-seven of this
+article.  Provided, however, that no payment shall be issued if it is
+less than twenty-five dollars.
   (d-1) Enhanced earned income tax credit. (1) A taxpayer described in
 paragraph two of this subsection shall be allowed a credit equal to the
 greater of:
@@ -1077,6 +1107,15 @@ the office of temporary and disability assistance is prohibited from
 using the individual taxpayer information except for the purpose of
 analyzing the impact of the credit and its effect on child support
 payments.
+  (9) For tax year two thousand twenty-one, the commissioner shall issue
+a payment of a supplemental enhanced earned income tax credit in the
+amount of twenty-five percent of the enhanced earned income tax credit
+calculated and allowed pursuant to this subsection. Such payment will be
+allowed to taxpayers who timely filed returns pursuant to section six
+hundred fifty-one of this article, determined with regard to extensions
+pursuant to section six hundred fifty-seven of this article. Provided,
+however, that no payment shall be issued if it is less than twenty-five
+dollars.
   (e) Real property tax circuit breaker credit. (1) For purposes of this
 subsection:
   (A) "Qualified taxpayer" means a resident individual of the state who
@@ -1862,6 +1901,88 @@ shall exceed the taxpayer's tax for such year, such excess amount may be
 carried over to the five taxable years next following the taxable year
 with respect to which the credit is allowed and may be deducted from the
 taxpayer's tax for such year or years.
+  (g-4) Geothermal energy systems credit. (1) General. An individual
+taxpayer shall be allowed a credit against the tax imposed by this
+article equal to twenty-five percent of qualified geothermal energy
+system expenditures, except as provided in subparagraph (D) of paragraph
+two of this subsection, not to exceed five thousand dollars.
+  (2) Qualified geothermal energy systems expenditures. (A) The term
+"qualified geothermal energy system expenditures" means expenditures
+for:
+  (i) the purchase of geothermal energy system equipment which is
+installed in connection with residential property which is (I) located
+in this state and (II) which is the taxpayer's residence at the time the
+geothermal energy system is placed in service; or
+  (ii) the lease of geothermal energy system equipment under a written
+agreement that spans at least ten years where such equipment owned by a
+person other than the taxpayer is installed in connection with
+residential property which is (I) located in this state and (II) which
+is the taxpayer's residence at the time the geothermal energy system
+equipment is placed in service.
+  (B) Such qualified expenditures shall include expenditures for
+materials, labor costs properly allocable to on-site preparation,
+assembly and original installation, architectural and engineering
+services, and designs and plans directly related to the construction or
+installation of the geothermal energy system equipment.
+  (C) Such qualified expenditures for the purchase of geothermal energy
+system equipment shall not include interest or other finance charges or
+costs that have been used to qualify for any other credit.
+  (D) Such qualified expenditures for the lease of geothermal energy
+system equipment under an agreement described in clause (ii) of
+subparagraph (A) of this paragraph shall include an amount equal to all
+payments made during the taxable year under such agreement. Provided,
+however, such credits shall only be allowed for fourteen years after the
+first taxable year in which such credit is allowed. Provided further,
+however, the twenty-five percent limitation in paragraph one of this
+subsection shall only apply to the total aggregate amount of all
+payments to be made pursuant to an agreement referenced in clause (ii)
+of subparagraph (A) of this paragraph, and shall not apply to individual
+payments made during a taxable year under such agreement except to the
+extent such limitation on an aggregate basis has been reached.
+  (3) Geothermal energy system equipment. The term "geothermal energy
+system equipment" shall mean a system whose original use begins with the
+taxpayer; which meets the eligibility criteria, if any, prescribed by
+the department; and which is a ground coupled solar thermal system that
+utilizes the solar thermal energy stored in the ground or in bodies of
+water to produce heat, and which is commonly known as or referred to as
+a ground source heat pump system.
+  (4) Multiple taxpayers. Where geothermal energy system equipment is
+purchased and installed in a residence shared by two or more taxpayers,
+the amount of the credit allowable under this subsection for each such
+taxpayer shall be prorated according to the percentage of the total
+expenditure for such geothermal energy system equipment contributed by
+each taxpayer.
+  (5) Proportionate share. Where geothermal energy system equipment is
+purchased and installed by a condominium management association or a
+cooperative housing corporation, a taxpayer who is a member of the
+condominium management association or who is a tenant-stockholder in the
+cooperative housing corporation may for the purpose of this subsection
+claim a proportionate share of the total expense as the expenditure for
+the purposes of the credit attributable to the taxpayer's residence.
+  (6) Grants. For purposes of determining the amount of the expenditure
+incurred in purchasing and installing geothermal energy system
+equipment, the amount of any federal, state or local grant received by
+the taxpayer, which was used for the purchase and/or installation of
+such equipment and which was not included in the federal gross income of
+the taxpayer, shall not be included in the amount of such expenditures.
+  (7) Limitation. The credit shall only be allowed for geothermal energy
+system equipment installed in connection with residential property used
+exclusively for personal purposes by the taxpayer. No credit shall be
+allowed for geothermal energy system equipment installed in connection
+with residential property that is rented at any time during the taxable
+year for which the credit is being claimed.
+  (8) When credit allowed. The credit provided for herein shall be
+allowed with respect to the taxable year in which the geothermal energy
+system equipment is placed in service and shall be allowed only for
+geothermal energy system equipment placed into service after January
+first, two thousand twenty-two. However, the taxpayer shall be allowed a
+credit for only one such system in any taxable year.
+  (9) Carryover of credit. If the amount of the credit, and carryovers
+of such credit, allowable under this subsection for any taxable year
+shall exceed the taxpayer's tax for such year, such excess amount may be
+carried over to the five taxable years next following the taxable year
+with respect to which the credit is allowed and may be deducted from the
+taxpayer's tax for such year or years.
   (h) Research and development tax credit.  (1) For taxable years
 commencing prior to January first, nineteen hundred eighty-seven, a
 taxpayer shall be allowed a credit against the tax imposed by this
@@ -2119,7 +2240,7 @@ retention program credit             subdivision thirty-seven
 provide transportation to            subdivision thirty-eight
 individuals with disabilities        of section
 under subsection (tt)                two hundred ten-B
-  * NB Repealed December 31, 2022
+  * NB Repealed December 31, 2028
   * NB There are 3 clause (xxxiii)'s
 (xxxiv) Alcoholic beverage           Amount of credit
 production credit under              under subdivision thirty-nine of
@@ -2152,11 +2273,10 @@ subsection (u)                       production expenditures and
                                      subdivision forty-seven of
                                      section two hundred ten-B
   ** NB Repealed January 1, 2026
-** (xl) Workers with disabilities    Amount of
+(xl) Workers with disabilities       Amount of
 tax credit under subsection (zz)     credit under subdivision
                                      forty-eight of section two
                                      hundred ten-B
-  ** NB Repealed January 1, 2023
 (xli) Farm workforce retention       Amount of credit under
 credit under subsection (fff)        subdivision fifty-one of
                                      section two hundred ten-B
@@ -2192,6 +2312,10 @@ credit under subsection (v)          directors' salaries credit
 department of economic development provides notice to the legislative
 bill drafting commission of a determination pursuant to § 6 sb 2 (b) of
 chapter 683 of 2019
+(xlvi) Empire state digital          Amount of credit
+gaming media production              under subdivision
+credit under subsection (nnn)        fifty-five of section
+                                     two hundred ten-B
 (xlvii) Restaurant return-to-work    Amount of credit under
 tax credit                           subdivision fifty-six of
                                      section two hundred ten-B
@@ -3208,80 +3332,53 @@ income or farm indebtedness principal payments of the corporation, for
 any taxable year of the corporation for which the election under this
 paragraph is in effect, which is the basis for denial in whole or in
 part of the credit claimed by such shareholders.
-  (n-1) Property tax relief credit. (1) An individual taxpayer who meets
-the eligibility standards in paragraph two of this subsection shall be
-allowed a credit against the taxes imposed by this article in the amount
-specified in paragraph three of this subsection for tax years two
-thousand sixteen, two thousand seventeen, two thousand eighteen, and two
-thousand nineteen.
-  (2) (a) To be eligible for the credit, the taxpayer (or taxpayers
-filing joint returns) on the personal income tax return filed for the
-taxable year two years prior, must have (i) been a resident, (ii) owned
-and primarily resided in real property receiving either the STAR
-exemption authorized by section four hundred twenty-five of the real
-property tax law or the school tax relief credit authorized by
-subsection (eee) of this section, and (iii) had qualified gross income
-no greater than two hundred seventy-five thousand dollars. Provided,
-however, that no credit shall be allowed if any of the following apply:
-  (i) Such property is located in an independent school district that is
-subject to the provisions of section two thousand twenty-three-a of the
-education law and that has adopted a budget in excess of the tax levy
-limit prescribed by that section. To render its taxpayers eligible for
-the credit authorized by this subsection, the school district must
-certify its compliance with such tax levy limit in the manner prescribed
-by subdivision two of section two thousand twenty-three-b of the
-education law.
-  (ii) Such property is located in a city with a dependent school
-district that is subject to the provisions of section three-c of the
-general municipal law and that has adopted a budget in excess of the tax
-levy limit prescribed by that section. To render its taxpayers eligible
-for the credit authorized by this subsection, the city must certify its
-compliance with such tax levy limit in the manner prescribed by
-subdivision two of section three-d of the general municipal law.
-  (iii) Such property is located in the city of New York.
-  (3) Amount of credit. (a) For the two thousand sixteen taxable year
-(i) for a taxpayer residing in real property located within the
-metropolitan commuter transportation district (MCTD) and outside the
-city of New York, the amount of the credit shall be $130; (ii) for a
-taxpayer residing in real property located outside the MCTD, the amount
-of the credit shall be $185.
-  (b) For the two thousand seventeen, two thousand eighteen and two
-thousand nineteen taxable years (i) For a taxpayer who owned and
-primarily resided in real property receiving the basic STAR exemption,
-the amount of the credit shall equal the STAR tax savings associated
-with such basic STAR exemption, multiplied by the following percentage:
-  (A) for the two thousand seventeen taxable year:
+  (n-1) Homeowner tax rebate credit. (1) An individual taxpayer who
+meets the eligibility standards in paragraph two of this subsection
+shall be allowed a credit against the taxes imposed by this article in
+the amount specified in paragraph three of this subsection for tax year
+two thousand twenty-two.
+  (2) To be eligible for the credit, the taxpayer (or taxpayers filing
+joint returns) (a) must own and primarily reside in real property
+receiving either the STAR exemption authorized by section four hundred
+twenty-five of the real property tax law or the school tax relief credit
+authorized by subsection (eee) of this section, and (b) must have had
+qualified gross income no greater than two hundred fifty thousand
+dollars in tax year two thousand twenty.
+  (3) Amount of credit. (a) For a taxpayer who owned and primarily
+resided in real property receiving the basic STAR exemption or who
+received the basic STAR credit, the amount of the credit shall equal the
+STAR tax savings associated with such basic STAR exemption in the two
+thousand twenty-one--two thousand twenty-two school year, multiplied by
+the following percentage:
+  (i) For a taxpayer whose primary residence is located outside the city
+of New York:
 Qualified Gross Income                  Percentage
-Not over $75,000                        28%
-Over $75,000 but not over $150,000      20.5%
-Over $150,000 but not over $200,000     13%
-Over $200,000 but not over $275,000     5.5%
-Over $275,000                           No credit
-  (B) for the two thousand eighteen taxable year:
+Not over $75,000                        163%
+Over $75,000 but not over $150,000      115%
+Over $150,000 but not over $200,000     66%
+Over $200,000 but not over $250,000     18%
+Over $250,000                           No credit
+  (ii) For a taxpayer whose primary residence is located within the city
+of New York:
 Qualified Gross Income                  Percentage
-Not over $75,000                        60%
-Over $75,000 but not over $150,000      42.5%
-Over $150,000 but not over $200,000     25%
-Over $200,000 but not over $275,000     7.5%
-Over $275,000                           No credit
-  (C) for the two thousand nineteen taxable year:
-Qualified Gross Income                  Percentage
-Not over $75,000                        85%
-Over $75,000 but not over $150,000      60%
-Over $150,000 but not over $200,000     35%
-Over $200,000 but not over $275,000     10%
-Over $275,000                           No credit
-  (c) For a taxpayer who owned and primarily resided in real property
-receiving the enhanced STAR exemption, the amount of the credit shall
-equal the STAR tax savings associated with such enhanced STAR exemption,
-multiplied by the following percentage:
-Taxable Year                            Percentage
-two thousand seventeen                  12%
-two thousand eighteen                   26%
-two thousand nineteen                   34%
-  (d) In no case may the amount of the credit allowed under this
+Not over $75,000                        125%
+Over $75,000 but not over $150,000      115%
+Over $150,000 but not over $200,000     105%
+Over $200,000 but not over $250,000     100%
+Over $250,000                           No credit
+  (b) For a taxpayer who owned and primarily resided in real property
+receiving the enhanced STAR exemption or who received the enhanced STAR
+credit, the amount of the credit shall equal the STAR tax savings
+associated with such enhanced STAR exemption in the two thousand
+twenty-one--two thousand twenty-two school year, multiplied by sixty-six
+percent if the taxpayer's primary residence is located outside the city
+of New York, or one hundred ten percent if the taxpayer's primary
+residence is located within the city of New York.
+  (c) In no case may the amount of the credit allowed under this
 subsection exceed the school district taxes due with respect to the
-residence for that school year.
+residence for that school year, nor shall any credit be allowed under
+this subsection if the amount determined pursuant to this paragraph is
+less than one hundred dollars.
   (4) For purposes of this subsection:
   (a) "Qualified gross income" means the adjusted gross income of the
 qualified taxpayer for the taxable year as reported for federal income
@@ -3298,9 +3395,6 @@ or enhanced STAR exemption, whichever is applicable, within a portion of
 a school district, as determined by the commissioner pursuant to
 subdivision two of section thirteen hundred six-a of the real property
 tax law.
-  (c) "Metropolitan commuter transportation district" or "MCTD" means
-the metropolitan commuter transportation district as defined in section
-twelve hundred sixty-two of the public authorities law.
   (5) If the amount of the credit allowed under this subsection shall
 exceed the taxpayer's tax for the taxable year, the excess shall be
 treated as an overpayment of tax to be credited or refunded in
@@ -3501,7 +3595,7 @@ of recovery years prior to, but not including, the recapture year, and
 the denominator of which is the total recovery period.
   (6) Termination. The credit allowed by this subsection shall not apply
 in taxable years beginning after December thirty-first, two thousand
-twenty-two.
+twenty-five.
   (q) Qualified emerging technology company employment credit. (1) A
 taxpayer shall be allowed a credit, to be computed as hereinafter
 provided, against the tax imposed by this article, provided:
@@ -4024,7 +4118,7 @@ computed as hereinafter provided, shall be allowed for bioheating fuel,
 used for space heating or hot water production for residential purposes
 within this state and purchased on or after July first, two thousand six
 and before July first, two thousand seven and on or after January first,
-two thousand eight and before January first, two thousand twenty-three.
+two thousand eight and before January first, two thousand twenty-six.
 Such credit shall be $0.01 per percent of biodiesel per gallon of
 bioheating fuel, not to exceed twenty cents per gallon, purchased by
 such taxpayer. Provided, however, that on or after January first, two
@@ -4598,7 +4692,7 @@ eighty-six of this article, provided, however, that no interest will be
 paid thereon.
   * NB There are 3 sb (tt)'s
   * (tt) Credit for companies who provide transportation to individuals
-with disabilities. (1) Allowance and amount of credit. A taxpayer, who
+with disabilities.  (1) Allowance and amount of credit. A taxpayer, who
 provides a taxicab service as defined in section one hundred
 forty-eight-a of the vehicle and traffic law, or a livery service as
 defined in section one hundred twenty-one-e of the vehicle and traffic
@@ -4607,27 +4701,31 @@ subsection, against the tax imposed by this article. The amount of the
 credit shall be equal to the incremental cost associated with upgrading
 a vehicle so that it is accessible by individuals with disabilities as
 defined in paragraph two of this subsection. Provided, however, that
-such credit shall not exceed ten thousand dollars per vehicle. For
-purposes of this subsection, purchases of new vehicles that are
-initially manufactured to be accessible for individuals with
-disabilities and for which there is no comparable make and model that
-does not include the equipment necessary to provide accessibility to
-individuals with disabilities, the credit shall be ten thousand dollars
-per vehicle.
-  (2) Definition. The term "accessible by individuals with disabilities"
-shall, for the purposes of this subsection, refer to a vehicle that
-complies with federal regulations promulgated pursuant to the Americans
-with Disabilities Act applicable to vans under twenty-two feet in
-length, by the federal Department of Transportation, in Code of Federal
-Regulations, title 49, parts 37 and 38, and by the federal Architecture
-and Transportation Barriers Compliance Board, in Code of Federal
-Regulations, title 36, section 1192.23, and the Federal Motor Vehicle
-Safety Standards, Code of Federal Regulations, title 29, part 57.
+such credit shall not exceed fifteen thousand dollars per electric
+vehicle and ten thousand dollars per any other vehicle. For purposes of
+this subsection, purchases of new vehicles that are initially
+manufactured to be accessible for individuals with disabilities and for
+which there is no comparable make and model that does not include the
+equipment necessary to provide accessibility to individuals with
+disabilities, the credit shall be fifteen thousand dollars per electric
+vehicle and ten thousand dollars per any other vehicle.
+  (2) Definitions. The term "accessible by individuals with
+disabilities" shall, for the purposes of this subsection, refer to a
+vehicle that complies with federal regulations promulgated pursuant to
+the Americans with Disabilities Act applicable to vans under twenty-two
+feet in length, by the federal Department of Transportation, in Code of
+Federal Regulations, title 49, parts 37 and 38, and by the federal
+Architecture and Transportation Barriers Compliance Board, in Code of
+Federal Regulations, title 36, section 1192.23, and the Federal Motor
+Vehicle Safety Standards, Code of Federal Regulations, title 29, part
+57. The term "electric vehicle" shall, for the purposes of this
+subsection, have the same meaning as in section sixty-six-s of the
+public service law.
   (3) Application of credit. If the amount of the credit shall exceed
 the taxpayer's tax for such year the excess shall be carried over to the
 following year or years, and may be deducted from the taxpayer's tax for
 such year or years.
-  * NB Repealed December 31, 2022
+  * NB Repealed December 31, 2028
   * NB There are 3 sb (tt)'s
   (uu) Alcoholic beverage production credit. A taxpayer shall be allowed
 a credit, to be computed as provided in section thirty-seven of this
@@ -4753,7 +4851,7 @@ taxpayer's tax for such year, the excess will be treated as an
 overpayment to be credited or refunded in accordance with the provisions
 of section six hundred eighty-six of this article, provided, however,
 that no interest will be paid thereon.
-  * (zz) Workers with disabilities tax credit. (1) A qualified employer,
+  (zz) Workers with disabilities tax credit. (1) A qualified employer,
 as defined in paragraph one of subdivision (b) of section twenty-five-b
 of the labor law, shall be entitled to a credit against the tax imposed
 by this article. The amount of the credit shall be: fifteen percent of
@@ -4788,7 +4886,6 @@ tax credit if it claims any of the other credits for employment of
 persons with disabilities under either subsection (o) of section six
 hundred six, subdivision twelve of section two hundred ten-B, or
 subdivision (j) of section fifteen hundred eleven of this chapter.
-  * NB Effective until January 1, 2023
   (aaa) Minimum wage reimbursement credit. (1) A taxpayer shall be
 allowed a credit, to be computed as provided in section thirty-eight of
 this chapter, against the tax imposed by this article.
@@ -4989,11 +5086,13 @@ to file a return pursuant to section six hundred fifty-one of this
 article, a qualified taxpayer may nevertheless receive the full amount
 of the credit to be credited or repaid as an overpayment, without
 interest.
-  (3) Determination of basic STAR credit. (A) Beginning with taxable
+  (3) Determination of basic STAR credit.  (A) Beginning with taxable
 years after two thousand fifteen, a basic STAR credit shall be available
 to a qualified taxpayer if the affiliated income of the parcel that
 serves as the taxpayer's primary residence is less than or equal to five
-hundred thousand dollars. The income limit established for the basic
+hundred thousand dollars for the applicable income tax year specified by
+paragraph (b-1) of subdivision three of section four hundred twenty-five
+of the real property tax law. The income limit established for the basic
 STAR exemption by paragraph (b-1) of subdivision three of section four
 hundred twenty-five of the real property tax law shall not be taken into
 account when determining eligibility for the basic STAR credit.
@@ -5144,12 +5243,12 @@ the computation of such affiliated income.
 and addresses of individuals who have applied for or are receiving the
 credit authorized by this subsection may be disclosed to assessors,
 county directors of real property tax services, and municipal tax
-collecting officers. In addition, where an agreement is in place between
-the commissioner and the head of the tax department of another state,
-such information may be disclosed to such official or his or her
-designees. Such information shall be considered confidential and shall
-not be subject to further disclosure pursuant to the freedom of
-information law or otherwise.
+collecting officers within New York state. In addition, such information
+may be exchanged with assessors and tax officials from jurisdictions
+outside New York state if the laws of the other jurisdiction allow it to
+provide similar information to this state. Such information shall be
+considered confidential and shall not be subject to further disclosure
+pursuant to the freedom of information law or otherwise.
   (8) Proof of claim. The commissioner may require a qualified taxpayer
 to furnish the following information in support of his or her claim for
 credit under this subsection: affiliated income, the total school

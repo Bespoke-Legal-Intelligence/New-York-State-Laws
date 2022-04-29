@@ -277,14 +277,54 @@ mailing of such certified copy by registered mail within such period if
 it deems such action to be consistent with its duties under this
 article.
   * NB There are 2 sub§ (e)'s
-  (f) Earned income tax credit. (1) Notwithstanding any other provision
+  (f) Earned income tax credit.  (1) Notwithstanding any other provision
 of law to the contrary, any city having a population of one million or
 more, acting through its local legislative body, is hereby authorized
 and empowered to adopt and amend local laws granting in any such city,
 for taxable years beginning after two thousand three, a credit against
 the city personal income tax equal to five percent of the earned income
 credit allowed under section thirty-two of the internal revenue code for
-the same taxable year.
+the same taxable year, and, for taxable years beginning after two
+thousand twenty-one, a credit against the city personal income tax equal
+to a percentage, determined pursuant to subparagraphs (A) through (I) of
+this paragraph, of the earned income credit allowed under section
+thirty-two of the internal revenue code for the same taxable year. For
+purposes of this paragraph, "adjusted gross income" means New York
+adjusted gross income as determined pursuant to article twenty-two of
+this chapter. The percentage shall be:
+  (A) thirty percent, where the taxpayer's adjusted gross income for
+such taxable year is less than $5,000;
+  (B) thirty percent reduced by the product of two-tenths of a
+percentage point (0.002) and the amount of the taxpayer's adjusted gross
+income for such taxable year in excess of $4,999, where such taxpayer's
+adjusted gross income for such taxable year is equal to or greater than
+$5,000 and less than $7,500;
+  (C) twenty-five percent, where the taxpayer's adjusted gross income
+for such taxable year is equal to or greater than $7,500 and less than
+$15,000;
+  (D) twenty-five percent reduced by the product of two-tenths of a
+percentage point (0.002) and the amount of the taxpayer's adjusted gross
+income for such taxable year in excess of $14,999, where such taxpayer's
+adjusted gross income for such taxable year is equal to or greater than
+$15,000 and less than $17,500;
+  (E) twenty percent, where the taxpayer's adjusted gross income for
+such taxable year is equal to or greater than $17,500 and less than
+$20,000;
+  (F) twenty percent reduced by the product of two-tenths of a
+percentage point (0.002) and the amount of the taxpayer's adjusted gross
+income for such taxable year in excess of $19,999, where such taxpayer's
+adjusted gross income for such taxable year is equal to or greater than
+$20,000 and less than $22,500;
+  (G) fifteen percent, where the taxpayer's adjusted gross income for
+such taxable year is equal to or greater than $22,500 and less than
+$40,000;
+  (H) fifteen percent reduced by the product of two-tenths of a
+percentage point (0.002) and the amount of the taxpayer's adjusted gross
+income for such taxable year in excess of $39,999, where such taxpayer's
+adjusted gross income for such taxable year is equal to or greater than
+$40,000 and less than $42,500; and
+  (I) ten percent where the taxpayer's adjusted gross income for such
+taxable year is equal to or greater than $42,500.
   (2) In the case of a resident taxpayer, the credit provided by local
 law adopted pursuant to this subsection shall be allowed against the
 taxes authorized by this article for the taxable year reduced by the
@@ -332,4 +372,41 @@ subsection. Any refund paid pursuant to this paragraph shall be deemed
 to be a refund of an overpayment of tax as provided in section six
 hundred eighty-six of this chapter, provided, however, that no interest
 shall be paid thereon.
+  (g) Credit for city pass-through entity tax. (1) A taxpayer who is a
+partner or member of an electing city partnership and a taxpayer
+shareholder of an electing city resident S corporation subject to tax
+under article twenty-four-B of this chapter shall be entitled to a
+credit against the tax imposed pursuant to the authority of this article
+as provided in this subsection. For purposes of this subsection, the
+terms "electing city partnership," "electing city resident S
+corporation," "city pass-through entity tax," and "direct share of city
+pass-through entity tax" shall have the same meanings provided in
+article twenty-four-B of this chapter.
+  (2) The amount of the credit shall be equal to the partner's, member's
+or shareholder's direct share of the city pass-through entity tax.
+  (3) If a taxpayer is a partner, member or shareholder in more than one
+electing city partnership and/or electing city resident S corporation
+that is subject to tax pursuant to article twenty-four-B of this
+chapter, the amount of the credit of such taxpayer shall be equal to the
+sum of the amounts of such credits calculated pursuant to paragraph two
+of this subsection with regard to each entity in which such taxpayer has
+a direct ownership interest.
+  (4) If the amount of the credit allowable pursuant to this subsection
+for any taxable year exceeds the tax due for such year pursuant to this
+article, the excess amount shall be treated as an overpayment, to be
+credited or refunded, without interest.
+  (5) Limitation on credit. No credit shall be allowed to a taxpayer
+under this subsection unless the electing city partnership or electing
+city resident S corporation provided sufficient information to identify
+such taxpayer on its city pass-through entity tax return as required
+under paragraph two of subsection (c) of section eight hundred
+seventy-two of this chapter for an electing city partnership or
+paragraph two of subsection (d) of section eight hundred seventy-two of
+this chapter for an electing city resident S corporation. The credit
+allowed to a taxpayer under this subsection shall not exceed the direct
+share of city pass-through entity tax reported by such electing city
+partnership or electing city resident S corporation attributable to such
+taxpayer on such electing city partnership or electing city resident S
+corporation's return filed pursuant to section eight hundred seventy-two
+of this chapter.
 ```

@@ -397,6 +397,13 @@ federal gross income for the taxable year.
 recovery grant program, established in section 16-ff of the New York
 state urban development corporation act, to the extent includable in
 federal taxable income.
+  (23) The amount of any federal deduction disallowed pursuant to
+section 280E of the internal revenue code related to the production and
+distribution of adult-use cannabis products, as defined by article
+twenty-C of this chapter, not used as the basis for any other tax
+deduction, exemption, or credit and not otherwise required to be added
+back by paragraph (b) of this subdivision in computing entire net
+income.
   (b) Entire net income shall be determined without the exclusion,
 deduction or credit of:
   (1) in the case of an alien corporation that under any provision of
