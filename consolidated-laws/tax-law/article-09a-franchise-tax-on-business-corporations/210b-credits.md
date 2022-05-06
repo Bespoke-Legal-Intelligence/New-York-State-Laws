@@ -2360,11 +2360,11 @@ this chapter. Provided, further, the provisions of subsection (c) of
 section one thousand eighty-eight of this chapter notwithstanding, no
 interest shall be paid thereon.
   * NB Repealed January 1, 2026
-  * 48. Workers with disabilities tax credit. (a) A qualified employer,
-as defined in paragraph one of subdivision (b) of section twenty-five-b
-of the labor law, shall be entitled to a credit against the tax imposed
-by this article. The amount of the credit shall be: fifteen percent of
-the qualified wages paid after January first, two thousand fifteen to a
+  48. Workers with disabilities tax credit. (a) A qualified employer, as
+defined in paragraph one of subdivision (b) of section twenty-five-b of
+the labor law, shall be entitled to a credit against the tax imposed by
+this article. The amount of the credit shall be: fifteen percent of the
+qualified wages paid after January first, two thousand fifteen to a
 qualified full-time employee who is employed for not less than six
 months and who works at least thirty hours per week; and shall be ten
 percent of the qualified wages paid after January first, two thousand
@@ -2400,7 +2400,6 @@ tax credit if it claims any of the other credits for employment of
 persons with disabilities under either subsection (o) of section six
 hundred six, subdivision twelve of this section, or subdivision (j) of
 section fifteen hundred eleven of this chapter.
-  * NB Repealed January 1, 2023
   49. Empire state apprenticeship tax credit. (a) A taxpayer that has
 been certified by the commissioner of labor as a certified employer
 pursuant to section twenty-five-c of the labor law shall be allowed a

@@ -4,7 +4,7 @@
 [Education Law](../../../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../../../README.md) › [Article 14 — New York State Higher Education Services Corporation](../../README.md) › [Part 2 — Student Financial Aid](../README.md) › [Subpart 1 — General Provisions](README.md)
 
 ```text
-  § 665-a. Institutional participation in award programs. * 1.
+  § 665-a. Institutional participation in award programs.  1.
 Participation agreement. No institution may participate in the general,
 academic or other award programs described in this article unless it
 shall have entered into a written agreement with the corporation under
@@ -13,23 +13,7 @@ such programs. The participation agreement may contain such other terms
 and conditions, consistent with such applicable laws, rules and
 procedures, as the president may require in accordance with rules
 adopted for this purpose by the board and shall be developed in
-consultation with the commissioner of education. In accordance with
-rules adopted by the board for this purpose, the president, may suspend,
-limit or terminate an institution's participation in these programs in
-the event it shall be determined after a hearing conducted in accordance
-with the state administrative procedure act that the institution has
-violated any applicable laws, rules or procedures provided for under the
-agreement in accordance with law and the rules of the board.
-  * NB Effective until May 2, 2022
-  * 1. Participation agreement. No institution may participate in the
-general, academic or other award programs described in this article
-unless it shall have entered into a written agreement with the
-corporation under which it shall be bound to comply with all laws and
-rules applicable to such programs. The participation agreement may
-contain such other terms and conditions, consistent with such applicable
-laws, rules and procedures, as the president may require in accordance
-with rules adopted for this purpose by the board and shall be developed
-in consultation with the commissioner of education.
+consultation with the commissioner of education.
   In accordance with rules adopted by the board for this purpose, the
 president, may suspend, limit or terminate an institution's
 participation in these programs in the event it shall be determined
@@ -37,7 +21,6 @@ after a hearing conducted in accordance with the state administrative
 procedure act that the institution has violated any applicable laws,
 rules or procedures provided for under the agreement in accordance with
 law and the rules of the board.
-  * NB Effective May 2, 2022
   2. Reports. In accordance with rules adopted by the board for this
 purpose, the president may require an institution participating in the
 general, academic and other award programs to certify on such forms as
@@ -54,7 +37,7 @@ shall be determined after a hearing conducted in accordance with the
 state administrative procedure act that the institution has failed or
 refused to submit such certified report after written demand therefor,
 or shall have willfully submitted a materially false report.
-  * 3. Contingencies on the receipt of state funding. (a) An institution
+  3. Contingencies on the receipt of state funding. (a) An institution
 shall not, as a condition of any award or loan pursuant to this article,
 require any student to:
   (i) submit to mandatory arbitration to resolve any matter relating to
@@ -89,5 +72,4 @@ this subdivision reasonable attorneys' fees.
   (e) Nothing in this subdivision is intended to invalidate a written
 arbitration agreement that is otherwise enforceable under the Federal
 Arbitration Act.
-  * NB Effective May 2, 2022
 ```

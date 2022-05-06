@@ -27,6 +27,7 @@
 - [Article 13 — Higher Education Student Financial Aid Programs](article-13-higher-education-student-financial/)
 - [Article 13-A — Liberty Scholarships](article-13a-liberty-scholarships/)
 - [Article 13-B — Student Lending Accountability, Transparency and Enforcement Act](article-13b-student-lending-accountability/)
+- [Article 13-C — Student Debt; Prohibited Practices](article-13c-student-debt-prohibited-practices/)
 - [Article 14 — New York State Higher Education Services Corporation](article-14-new-york-state-higher-education/)
 - [Article 14-A — New York State College Choice Tuition Savings Program](article-14a-new-york-state-college-choice/)
 - [Article 15 — Text-books](article-15-text-books/)

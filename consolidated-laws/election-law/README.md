@@ -8,7 +8,7 @@
 | Senate code | ELN |
 | Type | Consolidated law, chapter 17 |
 | Sections | 426 (2 repealed) |
-| Last changed | 29 Apr 2022 |
+| Last changed | 6 May 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Election |
 
@@ -31,6 +31,7 @@ of section forty-two of the public officers law and amending such law in
 
 ## Recent changes
 
+- [6 May 2022](../../changes/2022/2022-05-06.md): 1 amended
 - [29 Apr 2022](../../changes/2022/2022-04-29.md): 11 amended, 2 repealed
 - [22 Apr 2022](../../changes/2022/2022-04-22.md): 2 amended
 - [15 Apr 2022](../../changes/2022/2022-04-15.md): 5 amended
@@ -40,7 +41,6 @@ of section forty-two of the public officers law and amending such law in
 - [11 Mar 2022](../../changes/2022/2022-03-11.md): 2 amended
 - [4 Mar 2022](../../changes/2022/2022-03-04.md): 7 amended
 - [18 Feb 2022](../../changes/2022/2022-02-18.md): 1 amended
-- [28 Jan 2022](../../changes/2022/2022-01-28.md): 4 amended
 
 ## Contents
 
