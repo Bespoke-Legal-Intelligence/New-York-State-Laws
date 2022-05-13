@@ -4,13 +4,14 @@
 [Tax Law](../README.md) › [Article 33 — Franchise Taxes On Insurance Corporations](README.md)
 
 ```text
-  § 1502-b. Computation of tax for captive insurance companies.  (a) In
+  § 1502-b. Computation of tax for captive insurance companies. (a) In
 lieu of the taxes and tax surcharge imposed by sections fifteen hundred
 one, fifteen hundred two-a, fifteen hundred five-a, and fifteen hundred
 ten of this article, every captive insurance company licensed by the
 superintendent of financial services pursuant to the provisions of
 article seventy of the insurance law, other than the metropolitan
-transportation authority and a public benefit corporation or
+transportation authority, the power authority of New York or any
+statutory subsidiary thereof, and a public benefit corporation or
 not-for-profit corporation formed by a city with a population of one
 million or more pursuant to subsection (a) of section seven thousand
 five of the insurance law, each of which is expressly exempt from the

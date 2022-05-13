@@ -45,5 +45,4 @@ mail or internet usage of a particular individual, and that are
 performed solely for the purpose of computer system maintenance and/or
 protection.
   * NB There are 2 § 52-c's
-  * NB Effective May 7, 2022
 ```

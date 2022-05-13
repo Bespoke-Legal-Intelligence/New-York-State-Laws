@@ -24,7 +24,8 @@ such provisions. The term "insurance corporation" shall also include a
 captive insurance company doing a captive insurance business, as defined
 in subsections (c) and (b), respectively, of section seven thousand two
 of the insurance law; provided, however, "insurance corporation" shall
-not include the metropolitan transportation authority, or a public
+not include the metropolitan transportation authority, the power
+authority of New York or any statutory subsidiary thereof, or a public
 benefit corporation or not-for-profit corporation formed by a city with
 a population of one million or more pursuant to subsection (a) of
 section seven thousand five of the insurance law, each of which is

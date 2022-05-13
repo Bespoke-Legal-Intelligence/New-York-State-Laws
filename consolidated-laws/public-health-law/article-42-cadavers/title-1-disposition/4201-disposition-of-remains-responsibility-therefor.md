@@ -39,7 +39,12 @@ related by blood in a manner that would bar marriage in New York state
 to a person who is the lawful spouse of the other person.
   (d) "Person" means a natural person eighteen years of age or older.
   2. (a) The following persons in descending priority shall have the
-right to control the disposition of the remains of such decedent:
+right to control the disposition of the remains of such decedent;
+provided that if there are more than two members of a class listed in
+subparagraph (iii), (v), or (vii) of this paragraph entitled to control
+the disposition of remains of a decedent, the disposition shall be
+determined by a majority of the members of the class who are reasonably
+available:
   (i) the person designated in a written instrument executed pursuant to
 the provisions of this section;
   (ii) the decedent's surviving spouse;

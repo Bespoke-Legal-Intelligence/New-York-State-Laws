@@ -82,5 +82,5 @@ cancer clusters.
   The department shall make such maps available on its public website,
 and shall, in consultation with the department of environmental
 conservation, update the maps not less than once every five years.
-  * NB Repealed March 31, 2022
+  * NB Repealed May 1, 2028
 ```

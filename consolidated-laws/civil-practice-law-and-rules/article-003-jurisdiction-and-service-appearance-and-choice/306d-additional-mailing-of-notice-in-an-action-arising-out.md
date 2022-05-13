@@ -4,7 +4,7 @@
 [Civil Practice Law and Rules](../README.md) › [Article 3 — Jurisdiction and Service, Appearance and Choice of Court](README.md)
 
 ```text
-* § 306-d. Additional mailing of notice in an action arising out of a
+  § 306-d. Additional mailing of notice in an action arising out of a
 consumer credit transaction. (a) At the time of filing with the clerk of
 the proof of service of the summons and complaint in an action arising
 out of a consumer credit transaction, the plaintiff shall submit to the
@@ -66,5 +66,4 @@ process.
 of the notice in subdivision (a) of this section and shall maintain and
 publish the URL address for the web page containing consumer resources
 for unrepresented litigants.
-  * NB Effective May 7, 2022
 ```

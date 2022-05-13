@@ -4,7 +4,7 @@
 [Civil Practice Law and Rules](../README.md) › [Article 75 — Arbitration](README.md)
 
 ```text
-  * § 7516. Confirmation of an award based on a consumer credit
+  § 7516. Confirmation of an award based on a consumer credit
 transaction. In any proceeding under section 7510 of this article to
 confirm an award based on a consumer credit transaction, the party
 seeking to confirm the award shall plead the actual terms and conditions
@@ -18,5 +18,4 @@ arbitrator in arriving at the award, then the petition shall contain
 such a statement. The court shall not grant confirmation of an award
 based on a consumer credit transaction unless the party seeking to
 confirm the award has complied with this section.
-  * NB Effective May 7, 2022
 ```
