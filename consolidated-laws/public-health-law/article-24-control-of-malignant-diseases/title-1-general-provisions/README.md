@@ -25,7 +25,7 @@
                            GENERAL PROVISIONS
 Section 2400.   Cancer; powers and duties of commissioner.
         2401.   Cancer; duty to report.
-        2401-a. Reporting.
+        2401-a. Skin cancer reporting.
         2401-b. Cancer incidence and environmental facility maps.
         2402.   Cancer; reports confidential.
         2403.   Cancer; compulsory submission for supervision or

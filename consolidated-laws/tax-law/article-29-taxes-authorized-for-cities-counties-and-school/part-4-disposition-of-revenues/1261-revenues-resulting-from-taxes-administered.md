@@ -282,11 +282,12 @@ and make payments described in this paragraph, the city of New York has
 no right, title or interest in or to those taxes, penalties and interest
 required to be paid into the above referenced central business district
 tolling capital lockbox. In addition, the comptroller shall withhold a
-portion of such taxes, penalties and interest in the amount of two
-hundred million dollars, to be withheld in four quarterly installments
-on January fifteenth, April fifteenth, July fifteenth and October
-fifteenth of each year, and shall deposit such amounts into the New York
-State Agency Trust Fund, Distressed Provider Assistance Account.
+portion of such taxes, penalties and interest in the amount of one
+hundred fifty million dollars, to be withheld in four quarterly
+installments on January fifteenth, April fifteenth, July fifteenth and
+October fifteenth of each year, and shall deposit such amounts into the
+New York State Agency Trust Fund, Distressed Provider Assistance
+Account.
   * NB Effective until April 3, 2025
   * (ii) After withholding the taxes, penalties and interest imposed by
 the city of New York on and after August first, two thousand eight as
