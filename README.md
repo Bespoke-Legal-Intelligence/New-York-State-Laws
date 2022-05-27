@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 20 May 2022.*
+*Current through the publication of 27 May 2022.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [27 May 2022](changes/2022/2022-05-27.md): Civil Practice Law and Rules; Judiciary Law
 - [20 May 2022](changes/2022/2022-05-20.md): Education Law; Executive Law; Retirement and Social Security Law; State Finance Law; Tax Law; Transportation Law; Vehicle and Traffic Law
 - [13 May 2022](changes/2022/2022-05-13.md): Civil Practice Law and Rules; Civil Rights Law; Criminal Procedure Law; Education Law; Environmental Conservation Law; Executive Law; General Business Law; General Municipal Law; Insurance Law; Labor Law; Mental Hygiene Law; Penal Law; Public Authorities Law; Public Health Law; Racing, Pari-Mutuel Wagering and Breeding Law; Tax Law; Vehicle and Traffic Law
 - [6 May 2022](changes/2022/2022-05-06.md): Banking Law; Civil Practice Law and Rules; Domestic Relations Law; Education Law; Election Law; Public Health Law; Real Property Tax Law; State Finance Law; Tax Law
@@ -22,15 +23,14 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [22 Apr 2022](changes/2022/2022-04-22.md): Civil Rights Law; Correction Law; Criminal Procedure Law; Domestic Relations Law; Economic Development Law; Education Law; Election Law; Environmental Conservation Law; Executive Law; Family Court Act; Financial Services Law; General Business Law; General Construction Law; General Municipal Law; Highway Law; Insurance Law; Judiciary Law; Labor Law; Legislative Law; Medical Care Facilities Finance Agency; Mental Hygiene Law; Military Law; Parks, Recreation and Historic Preservation Law; Penal Law; Private Housing Finance Law; Public Authorities Law; Public Health Law; Public Housing Law; Public Officers Law; Racing, Pari-Mutuel Wagering and Breeding Law; Real Property Tax Law; Retirement and Social Security Law; Social Services Law; State Finance Law; Tax Law; Town Law; Transportation Corporations Law; Transportation Law; Urban Development Corporation Act; Vehicle and Traffic Law; Workers' Compensation Law
 - [15 Apr 2022](changes/2022/2022-04-15.md): Alcoholic Beverage Control Law; Cannabis Law; Civil Service Law; Correction Law; County Law; Defense Emergency Act of 1951; Domestic Relations Law; Economic Development Law; Education Law; Election Law; Environmental Conservation Law; Executive Law; General Municipal Law; Labor Law; Legislative Law; Local Finance Law; Mental Hygiene Law; Military Law; Not-for-Profit Corporation Law; Public Authorities Law; Public Buildings Law; Public Health Law; Real Property Tax Law; Retirement and Social Security Law; Social Services Law; State Finance Law; State Technology Law; Tax Law; Town Law
 - [8 Apr 2022](changes/2022/2022-04-08.md): Civil Practice Law and Rules; Education Law; Election Law; Executive Law; General Business Law; Labor Law; Mental Hygiene Law; Public Health Law; Public Housing Law; Social Services Law; Tax Law; Town Law; Vehicle and Traffic Law; Village Law
-- [1 Apr 2022](changes/2022/2022-04-01.md): Alcoholic Beverage Control Law; Correction Law; Education Law; Environmental Conservation Law; Executive Law; Insurance Law; Mental Hygiene Law; New York City Civil Court Act; Private Housing Finance Law; Public Authorities Law; Public Health Law; Public Service Law; Real Property Actions and Proceedings Law; Social Services Law; Vehicle and Traffic Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
 | [Executive Law](consolidated-laws/executive-law/README.md) | 200 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | 190 |
-| [Education Law](consolidated-laws/education-law/README.md) | 186 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 189 |
+| [Education Law](consolidated-laws/education-law/README.md) | 181 |
 | [Tax Law](consolidated-laws/tax-law/README.md) | 176 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 174 |
 | [Correction Law](consolidated-laws/correction-law/README.md) | 173 |
@@ -58,7 +58,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Business Corporation Law](consolidated-laws/business-corporation-law/README.md) | BSC | 250 | 4 Feb 2022 |
 | [Canal Law](consolidated-laws/canal-law/README.md) | CAL | 88 | 17 Dec 2021 |
 | [Cannabis Law](consolidated-laws/cannabis-law/README.md) | CAN | 104 | 15 Apr 2022 |
-| [Civil Practice Law and Rules](consolidated-laws/civil-practice-law-and-rules/README.md) | CVP | 805 | 13 May 2022 |
+| [Civil Practice Law and Rules](consolidated-laws/civil-practice-law-and-rules/README.md) | CVP | 806 | 27 May 2022 |
 | [Civil Rights Law](consolidated-laws/civil-rights-law/README.md) | CVR | 129 | 13 May 2022 |
 | [Civil Service Law](consolidated-laws/civil-service-law/README.md) | CVS | 175 | 29 Apr 2022 |
 | [Cooperative Corporations Law](consolidated-laws/cooperative-corporations-law/README.md) | CCO | 64 | 20 Dec 2019 |
@@ -87,7 +87,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Highway Law](consolidated-laws/highway-law/README.md) | HAY | 644 | 22 Apr 2022 |
 | [Indian Law](consolidated-laws/indian-law/README.md) | IND | 97 | 11 Jan 2019 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | ISC | 1,050 | 13 May 2022 |
-| [Judiciary Law](consolidated-laws/judiciary-law/README.md) | JUD | 539 | 22 Apr 2022 |
+| [Judiciary Law](consolidated-laws/judiciary-law/README.md) | JUD | 540 | 27 May 2022 |
 | [Labor Law](consolidated-laws/labor-law/README.md) | LAB | 721 | 13 May 2022 |
 | [Legislative Law](consolidated-laws/legislative-law/README.md) | LEG | 126 | 22 Apr 2022 |
 | [Lien Law](consolidated-laws/lien-law/README.md) | LIE | 175 | 24 Apr 2020 |
