@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [§ 740 Retaliatory personnel action by employers; prohibition](740-retaliatory-personnel-action-by-employers-prohibition.md)
+- [§ 740 Retaliatory action by employers; prohibition](740-retaliatory-action-by-employers-prohibition.md)
 - [§ 741 Prohibition; health care employer who penalizes employees because of complaints of employer violations](741-prohibition-health-care-employer-who-penalizes-employees-because-of-complaints.md)
 
 <details>
