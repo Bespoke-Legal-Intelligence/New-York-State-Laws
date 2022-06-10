@@ -36,6 +36,7 @@
 - [§ 265.35 Prohibited use of weapons](265.35-prohibited-use-of-weapons.md)
 - [§ 265.36 Unlawful possession of a large capacity ammunition feeding device](265.36-unlawful-possession-of-a-large-capacity.md)
 - [§ 265.37 Unlawful possession of certain ammunition feeding devices](265.37-unlawful-possession-of-certain-ammunition.md)
+- [§ 265.38 Unlawful sale of a non-microstamping-enabled firearm](265.38-unlawful-sale-of-a-non-microstamping-enabled.md)
 - [§ 265.40 Purchase of rifles and/or shotguns in contiguous states](265.40-purchase-of-rifles-and-or-shotguns.md)
 - [§ 265.45 Failure to safely store rifles, shotguns, and firearms in the first degree](265.45-failure-to-safely-store-rifles-shotguns.md)
 - [§ 265.50 Criminal manufacture, sale, or transport of an undetectable firearm, rifle or shotgun](265.50-criminal-manufacture-sale-or-transport.md)
@@ -45,6 +46,8 @@
 - [§ 265.61 Criminal sale of a ghost gun in the first degree](265.61-criminal-sale-of-a-ghost-gun-in-the-first.md)
 - [§ 265.63 Criminal sale of a frame or receiver in the second degree](265.63-criminal-sale-of-a-frame-or-receiver.md)
 - [§ 265.64 Criminal sale of a frame or receiver in the first degree](265.64-criminal-sale-of-a-frame-or-receiver.md)
+- [§ 265.65 Criminal purchase of a semiautomatic rifle](265.65-criminal-purchase-of-a-semiautomatic-rifle.md)
+- [§ 265.66 Criminal sale of a semiautomatic rifle](265.66-criminal-sale-of-a-semiautomatic-rifle.md)
 
 <details>
 <summary>Official heading of Article 265, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -89,6 +92,7 @@ Section 265.00   Definitions.
                    feeding device.
         265.37   Unlawful possession of certain ammunition feeding
                    devices.
+        265.38   Unlawful sale of a non-microstamping-enabled firearm.
         265.40   Purchase of rifles and/or shotguns in contiguous
                    states.
         265.45   Safe storage of rifles, shotguns, and firearms.
@@ -104,6 +108,8 @@ Section 265.00   Definitions.
                    second degree.
         265.64   Criminal sale of an unfinished frame or receiver in the
                    first degree.
+        265.65   Criminal purchase of a semiautomatic rifle.
+        265.66   Criminal sale of a semiautomatic rifle.
 ```
 
 </details>

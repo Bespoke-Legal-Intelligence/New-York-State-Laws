@@ -10,6 +10,8 @@
 - [§ 270.10 Creating a hazard](270.10-creating-a-hazard.md)
 - [§ 270.15 Unlawfully refusing to yield a party line](270.15-unlawfully-refusing-to-yield-a-party-line.md)
 - [§ 270.20 Unlawful wearing of a body vest](270.20-unlawful-wearing-of-a-body-vest.md)
+- [§ 270.21 Unlawful purchase of a body vest](270.21-unlawful-purchase-of-a-body-vest.md)
+- [§ 270.22 Unlawful sale of a body vest](270.22-unlawful-sale-of-a-body-vest.md)
 - [§ 270.25 Unlawful fleeing a police officer in a motor vehicle in the third degree](270.25-unlawful-fleeing-a-police-officer.md)
 - [§ 270.30 Unlawful fleeing a police officer in a motor vehicle in the second degree](270.30-unlawful-fleeing-a-police-officer.md)
 - [§ 270.35 Unlawful fleeing a police officer in a motor vehicle in the first degree](270.35-unlawful-fleeing-a-police-officer.md)
@@ -27,6 +29,8 @@ Section 270.00  Unlawfully dealing with fireworks and dangerous
         270.10  Creating a hazard.
         270.15  Unlawfully refusing to yield a party line.
         270.20  Unlawful wearing of a body vest.
+        270.21  Unlawful purchase of a body vest.
+        270.22  Unlawful sale of a body vest.
         270.25  Unlawful fleeing a police officer in a motor vehicle in
                   the third degree.
         270.30  Unlawful fleeing a police officer in a motor vehicle in

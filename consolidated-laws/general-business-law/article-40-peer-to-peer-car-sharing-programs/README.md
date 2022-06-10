@@ -25,7 +25,6 @@
 - [§ 917 Electronic notice authorized](917-electronic-notice-authorized.md)
 - [§ 918 Airport transactions](918-airport-transactions.md)
 - [§ 919 Enforcement](919-enforcement.md)
-- [§ 920 Enforcement](920-enforcement.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 40, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

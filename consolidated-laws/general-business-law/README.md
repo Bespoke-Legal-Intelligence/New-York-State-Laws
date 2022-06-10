@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | GBS |
 | Type | Consolidated law, chapter 20 |
-| Sections | 1,301 (1 repealed) |
-| Last changed | 13 May 2022 |
+| Sections | 1,311 |
+| Last changed | 10 Jun 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Business |
 
@@ -29,10 +29,11 @@ AN ACT relating to general business, constituting chapter twenty of the
   Assembly, do enact as follows:
 ```
 
-[Full chapter text (178 lines)](chapter-text.md)
+[Full chapter text (181 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [10 Jun 2022](../../changes/2022/2022-06-10.md): 1 amended, 11 added, 1 removed
 - [13 May 2022](../../changes/2022/2022-05-13.md): 1 amended
 - [22 Apr 2022](../../changes/2022/2022-04-22.md): 5 amended
 - [8 Apr 2022](../../changes/2022/2022-04-08.md): 5 amended
@@ -42,7 +43,6 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [28 Jan 2022](../../changes/2022/2022-01-28.md): 1 amended
 - [7 Jan 2022](../../changes/2022/2022-01-07.md): 1 amended
 - [31 Dec 2021](../../changes/2021/2021-12-31.md): 2 amended, 19 added
-- [24 Dec 2021](../../changes/2021/2021-12-24.md): 1 added
 
 ## Contents
 
@@ -163,6 +163,7 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 39 — Drug-related Paraphernalia](article-39-drug-related-paraphernalia/)
 - [Article 39-A — Merchants of Torah Scrolls](article-39a-merchants-of-torah-scrolls/)
 - [Article 39-B — Imitation Weapons](article-39b-imitation-weapons/)
+- [Article 39-BB — Preventing the Unlawful Sale of Firearms, Rifles, and Shotguns to Individuals With a Criminal Record](article-39bb-preventing-the-unlawful-sale-of-firearms-rifles/)
 - [Article 39-C — Imitation Hypodermic Instruments](article-39c-imitation-hypodermic-instruments/)
 - [Article 39-D — Auto Equity Promoters](article-39d-auto-equity-promoters/)
 - [Article 39-DD — Sale of Firearms, Rifles or Shotguns At Gun Shows](article-39dd-sale-of-firearms-rifles-or-shotguns-at-gun-shows/)

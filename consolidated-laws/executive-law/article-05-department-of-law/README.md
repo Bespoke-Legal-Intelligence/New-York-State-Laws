@@ -20,6 +20,7 @@
 - [§ 70 Deputy attorney-general to act as special district attorney](70-deputy-attorney-general-to-act-as-special-district-attorney.md)
 - [§ 70-A Statewide organized crime task force](70a-statewide-organized-crime-task-force.md)
 - [§ 70-B Office of special investigation](70b-office-of-special-investigation.md)
+- [§ 70-C Task force on social media and violent extremism](70c-task-force-on-social-media-and-violent-extremism.md)
 - [§ 71 Attorney-general authorized to appear in cases involving the constitutionality of an act of the legislature, or a rule or regulation adop...](71-attorney-general-authorized-to-appear-in-cases-involving-the-constitutionality.md)
 - [§ 72 When costs payable to relator](72-when-costs-payable-to-relator.md)
 - [§ 73 Power to administer oaths and take acknowledgments](73-power-to-administer-oaths-and-take-acknowledgments.md)
@@ -52,6 +53,7 @@ Section 60.   Department of law.
                 attorney.
         70-a. Statewide organized crime task force.
         70-b. Office of special investigation.
+        70-c. Task force on social media and violent extremism.
         71.   Attorney-general authorized to appear in cases involving
                 the constitutionality of an act of the legislature, or a
                 rule or regulation adopted pursuant thereto.

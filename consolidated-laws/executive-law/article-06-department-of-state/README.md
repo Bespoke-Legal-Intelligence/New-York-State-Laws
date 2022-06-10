@@ -56,6 +56,7 @@
 - [§ 142-A Validity of acts of notaries public and commissioners of deeds notwithstanding certain defects](142a-validity-of-acts-of-notaries-public-and-commissioners-of-deeds-notwithstanding.md)
 - [§ 143 Fees of such commissioners](143-fees-of-such-commissioners.md)
 - [§ 144 Saving clause](144-saving-clause.md)
+- [§ 144-A Eligible professions for the purchase, sale, and use of body vests](144a-eligible-professions-for-the-purchase-sale-and-use-of-body-vests.md)
 
 <details>
 <summary>Official heading of Article 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -123,6 +124,8 @@ Section 90.    Department of state; secretary of state.
                  deeds notwithstanding certain defects.
         143.   Fees of such commissioners.
         144.   Saving clause.
+        144-a. Eligible professions for the purchase, sale, and use of
+                 body vests.
 ```
 
 </details>

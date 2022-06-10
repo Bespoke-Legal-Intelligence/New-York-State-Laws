@@ -61,6 +61,7 @@
 - [§ 394-B Limitations on certain contracts for instruction or use of physical or social training facilities](394b-limitations-on-certain-contracts-for-instruction-or-use-of-physical-or-social.md)
 - [§ 394-C Limitations on certain contracts involving social referral services](394c-limitations-on-certain-contracts-involving-social-referral-services.md)
 - [§ 394-CC Internet dating safety](394cc-internet-dating-safety.md)
+- [§ 394-CCC Social media networks; hateful conduct prohibited](394ccc-social-media-networks-hateful-conduct-prohibited.md)
 - [§ 394-D Privity of contract between franchise seller and customer or patron of dealer](394d-privity-of-contract-between-franchise-seller-and-customer-or-patron-of-dealer.md)
 - [§ 394-E Report on request for abortional services](394e-report-on-request-for-abortional-services.md)
 - [§ 395 Required disclosure of prior use](395-required-disclosure-of-prior-use.md)
@@ -80,6 +81,7 @@
 - [§ 396-DD Renting of horses; helmets and safety information](396dd-renting-of-horses-helmets-and-safety-information.md)
 - [§ 396-E Marking articles made of linen](396e-marking-articles-made-of-linen.md)
 - [§ 396-EE Sale of certain weapons; locking devices therefor](396ee-sale-of-certain-weapons-locking-devices-therefor.md)
+- [§ 396-EEE Unlawful sale or delivery of body vests](396eee-unlawful-sale-or-delivery-of-body-vests.md)
 - [§ 396-F Sale of blind made products](396f-sale-of-blind-made-products.md)
 - [§ 396-G Sale of products processed by the blind](396g-sale-of-products-processed-by-the-blind.md)
 - [§ 396-H Fraudulent sale of poppies, forget-me-nots, daisies, flags and other articles sold for patriotic purposes](396h-fraudulent-sale-of-poppies-forget-me-nots-daisies-flags-and-other-articles-sold.md)
@@ -262,6 +264,7 @@ Section 390.         Substitution of spurious oils for internal
         394-c.       Limitations on certain contracts involving social
                        referral services.
         394-cc.      Internet dating safety.
+        394-ccc.     Social media networks; hateful conduct prohibited.
         394-d.       Privity of contract between franchise seller and
                        customer or patron of dealer.
         394-e.       Report on request for abortional services.
@@ -285,6 +288,7 @@ Section 390.         Substitution of spurious oils for internal
         396-dd.      Renting of horses; helmets and safety information.
         396-e.       Marking articles made of linen.
         396-ee.      Sale of certain weapons; locking devices therefor.
+        396-eee.     Unlawful sale or delivery of body vests.
         396-f.       Sale of blind made products.
         396-g.       Sale of products processed by the blind.
         396-h.       Fraudulent sale of poppies, forget-me-nots,

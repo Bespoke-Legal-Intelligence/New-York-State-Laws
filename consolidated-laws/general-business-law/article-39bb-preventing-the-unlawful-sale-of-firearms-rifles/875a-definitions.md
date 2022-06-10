@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 875-A", "kind": "section", "law_id": "GBS", "location_id": "875-A", "path": "ARTICLE 39-BB › SECTION 875-A", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/875-A.md", "title": "Definitions"} -->
+# General Business Law § 875-A — Definitions
+
+[General Business Law](../README.md) › [Article 39-BB — Preventing the Unlawful Sale of Firearms, Rifles, and Shotguns to Individuals With a Criminal Record](README.md)
+
+```text
+  * § 875-a. Definitions. For the purposes of this article:
+  1. "Dealer" means a gunsmith or dealers in firearms licensed pursuant
+to section 400.00 of the penal law.
+  2. "Dispose of" or "disposition of" means to give, give away, lease,
+lend, keep for sale, offer, offer for sale, sell, or transfer.
+  3. "Firearm" has the same meaning as that term is defined in
+subdivision three of section 265.00 of the penal law.
+  4. "Rifle" has the same meaning as that term is defined in subdivision
+eleven of section 265.00 of the penal law.
+  5. "Shotgun" has the same meaning as that term is defined in
+subdivision twelve of section 265.00 of the penal law.
+  6. "Straw purchase" means the purchase, or attempt to purchase, by a
+person of a firearm, rifle, shotgun or ammunition for, on behalf of, or
+for the use of another person known or unknown. The term shall not
+include a bona fide gift to a person who is not prohibited from
+possessing or receiving such a firearm. For purposes of this
+subdivision, a gift to a person shall not be a bona fide gift if the
+person has offered or given the purchaser a service or thing of value to
+acquire the firearm for the person.
+  7. "Superintendent" means the superintendent of state police.
+  * NB Effective December 3, 2022
+```

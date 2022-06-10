@@ -11,10 +11,9 @@
 <summary>Official heading of Article 13-C, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 13-C
+                              ARTICLE 13-C
                    STUDENT DEBT; PROHIBITED PRACTICES
 Section 640. Student debt; prohibited practices.
-  * NB Effective June 3, 2022
 ```
 
 </details>

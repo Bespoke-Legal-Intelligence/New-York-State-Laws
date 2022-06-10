@@ -13,6 +13,7 @@
 - [§ 6345 Request for renewal of an extreme risk protection order](6345-request-for-renewal-of-an-extreme-risk-protection-order.md)
 - [§ 6346 Expiration of an extreme risk protection order](6346-expiration-of-an-extreme-risk-protection-order.md)
 - [§ 6347 Effect of findings and determinations in subsequent proceedings](6347-effect-of-findings-and-determinations-in-subsequent-proceedings.md)
+- [§ 6348 Protections for health care providers applying for an extreme risk protection order](6348-protections-for-health-care-providers-applying-for-an-extreme-risk-protection.md)
 
 <details>
 <summary>Official heading of Article 63-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -30,6 +31,8 @@ Section 6340. Definitions.
         6346. Expiration of an extreme risk protection order.
         6347. Effect of findings and determinations in subsequent
                 proceedings.
+        6348. Protections for health care providers applying for an
+                extreme risk protection order.
 ```
 
 </details>

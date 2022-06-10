@@ -38,6 +38,8 @@
 - [§ 240.75 Aggravated family offense](240.75-aggravated-family-offense.md)
 - [§ 240.76 Directing a laser at an aircraft in the second degree](240.76-directing-a-laser-at-an-aircraft.md)
 - [§ 240.77 Directing a laser at an aircraft in the first degree](240.77-directing-a-laser-at-an-aircraft.md)
+- [§ 240.78 Making a threat of mass harm](240.78-making-a-threat-of-mass-harm.md)
+- [§ 240.79 Aggravated threat of mass harm](240.79-aggravated-threat-of-mass-harm.md)
 
 <details>
 <summary>Official heading of Article 240, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -89,6 +91,8 @@ Section 240.00 Offenses against public order; definitions of terms.
         240.75 Aggravated family offense.
         240.76 Directing a laser at an aircraft in the second degree.
         240.77 Directing a laser at an aircraft in the first degree.
+        240.78 Making a threat of mass harm.
+        240.79 Aggravated threat of mass harm.
 ```
 
 </details>

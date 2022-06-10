@@ -8,7 +8,7 @@
 | Senate code | FIS |
 | Type | Consolidated law, chapter 18-A |
 | Sections | 59 |
-| Last changed | 22 Apr 2022 |
+| Last changed | 10 Jun 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Financial Services Law |
 
@@ -25,6 +25,7 @@
 
 ## Recent changes
 
+- [10 Jun 2022](../../changes/2022/2022-06-10.md): 1 amended
 - [22 Apr 2022](../../changes/2022/2022-04-22.md): 9 amended
 - [7 Jan 2022](../../changes/2022/2022-01-07.md): 12 amended
 - [30 Jul 2021](../../changes/2021/2021-07-30.md): 1 amended
@@ -34,7 +35,6 @@
 - [24 Apr 2020](../../changes/2020/2020-04-24.md): 1 amended
 - [17 Apr 2020](../../changes/2020/2020-04-17.md): 2 amended, 6 added
 - [10 Jan 2020](../../changes/2020/2020-01-10.md): 3 amended
-- [20 Dec 2019](../../changes/2019/2019-12-20.md): 1 amended
 
 ## Contents
 

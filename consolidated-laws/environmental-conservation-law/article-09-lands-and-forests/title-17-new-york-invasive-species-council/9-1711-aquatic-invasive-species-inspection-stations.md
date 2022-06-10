@@ -4,8 +4,8 @@
 [Environmental Conservation Law](../../README.md) › [Article 9 — Lands and Forests](../README.md) › [Title 17 — New York Invasive Species Council](README.md)
 
 ```text
-* § 9-1711. Aquatic invasive species inspection stations in the
-            Adirondack park.
+§ 9-1711. Aquatic invasive species inspection stations in the Adirondack
+            park.
   1. The department may establish aquatic invasive species inspection
 stations at any location in the Adirondack park and within a ten-mile
 radius of the Adirondack park boundary, including, but not limited to
@@ -47,5 +47,4 @@ limited to recognized uniform standards.
 invasive species inspection stations, including any data from designated
 entities, to identify practical improvements to reduce the potential
 spread of aquatic invasive species.
-  * NB Effective June 8, 2022
 ```
