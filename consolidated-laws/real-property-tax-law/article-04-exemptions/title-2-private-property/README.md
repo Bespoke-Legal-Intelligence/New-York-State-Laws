@@ -109,6 +109,7 @@
 - [§ 467-J Exemption for certain residential properties located in certain counties](467j-exemption-for-certain-residential-properties-located-in-certain-counties.md)
 - [§ 467-K Senior citizen longtime resident exemption](467k-senior-citizen-longtime-resident-exemption.md)
 - [§ 467-K\*2 Exemption for certain residential property required to participate in the federal flood insurance program](467k-2-exemption-for-certain-residential-property-required-to-participate.md)
+- [§ 467-L Rebate for owners of certain real property in the city of New York](467l-rebate-for-owners-of-certain-real-property-in-the-city-of-new-york.md)
 - [§ 468 Fire patrol and salvage corps](468-fire-patrol-and-salvage-corps.md)
 - [§ 469 Assessment exemption for living quarters for parent or grandparent](469-assessment-exemption-for-living-quarters-for-parent-or-grandparent.md)
 - [§ 470 Exemption for improvements to real property meeting certification standards for green buildings](470-exemption-for-improvements-to-real-property-meeting-certification-standards.md)
@@ -363,6 +364,8 @@ Section 420-a.   Nonprofit organizations; mandatory class.
         467-k.   Senior citizen longtime resident exemption.
         467-k*2. Exemption for certain residential property required to
                    participate in the federal flood insurance program.
+        467-l.   Rebate for owners of certain real property in the city
+                   of New York.
         468.     Fire patrol and salvage corps.
         469.     Assessment exemption for living quarters for parent or
                    grandparent.

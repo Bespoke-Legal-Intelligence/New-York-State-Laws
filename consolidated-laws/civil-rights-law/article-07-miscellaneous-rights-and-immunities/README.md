@@ -9,6 +9,7 @@
 
 - [§ 70 Vexatious suits](70-vexatious-suits.md)
 - [§ 70-A Actions involving public petition and participation; recovery of damages](70a-actions-involving-public-petition-and-participation-recovery-of-damages.md)
+- [§ 70-B Unlawful interference with protected rights](70b-unlawful-interference-with-protected-rights.md)
 - [§ 71 Damages in action for suing in name of another](71-damages-in-action-for-suing-in-name-of-another.md)
 - [§ 72 Term of imprisonment of civil prisoner](72-term-of-imprisonment-of-civil-prisoner.md)
 - [§ 73 Code of fair procedure for investigating agencies](73-code-of-fair-procedure-for-investigating-agencies.md)
@@ -48,6 +49,7 @@
 Section 70.     Vexatious suits.
         70-a.   Actions involving public petition and participation;
                   recovery of damages.
+        70-b.   Unlawful interference with protected rights.
         71.     Damages in action for suing in name of another.
         72.     Term of imprisonment of civil prisoner.
         73.     Code of fair procedure for investigating agencies.

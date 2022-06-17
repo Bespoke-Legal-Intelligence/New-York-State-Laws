@@ -4,23 +4,23 @@
 [Public Health Law](../README.md) › [Article 13-B — Regulation of Overnight, Summer Day, and Traveling Summer Day Camps For Children](README.md)
 
 ```text
-  * § 1394-c. Camps for children with developmental disabilities. 1.
-Camps for children with developmental disabilities, as defined in
-regulations, and in compliance with the justice center for the
-protection of people with special needs, shall be authorized to employ
-or contract with any of the individuals licensed under articles one
-hundred thirty-two, one hundred thirty-six, one hundred fifty-six, one
-hundred fifty-nine, one hundred sixty-two and one hundred sixty-seven of
-the education law, to provide professional services for any period
-during which the camp has a valid permit to operate. Individuals hired
-under this section shall communicate with the camp health director when
-medically necessary for the sole purpose of providing health services
-that benefit campers and staff at the camp while the camp is in
-operation. In cases where the camp health director's lawful scope of
-practice is more limited than that of the licensed professional
-providing services, the camp health director shall not supervise the
-provision of such treatment, but shall be informed of such treatment as
-medically necessary to ensure the well-being of the camper and staff.
+  § 1394-c. Camps for children with developmental disabilities. 1. Camps
+for children with developmental disabilities, as defined in regulations,
+and in compliance with the justice center for the protection of people
+with special needs, shall be authorized to employ or contract with any
+of the individuals licensed under articles one hundred thirty-two, one
+hundred thirty-six, one hundred fifty-six, one hundred fifty-nine, one
+hundred sixty-two and one hundred sixty-seven of the education law, to
+provide professional services for any period during which the camp has a
+valid permit to operate. Individuals hired under this section shall
+communicate with the camp health director when medically necessary for
+the sole purpose of providing health services that benefit campers and
+staff at the camp while the camp is in operation. In cases where the
+camp health director's lawful scope of practice is more limited than
+that of the licensed professional providing services, the camp health
+director shall not supervise the provision of such treatment, but shall
+be informed of such treatment as medically necessary to ensure the
+well-being of the camper and staff.
   2. All decisions, identification or coordination of professional
 services, or other professional interactions with campers and staff,
 must be made based on the professional judgment of such licensees to
@@ -36,5 +36,4 @@ professionals pursuant to this section be construed to provide an
 exemption of such camp from any certification, licensure, or any other
 such requirement established by such state agency or under any other
 provision of law.
-  * NB Effective July 16, 2022
 ```

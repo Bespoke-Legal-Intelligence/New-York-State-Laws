@@ -8,7 +8,7 @@
 | Senate code | RAT |
 | Type | Consolidated law, chapter 48-A |
 | Sections | 79 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 17 Jun 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Rapid Transit |
 
@@ -28,6 +28,10 @@ Assembly, do enact as follows:
 ```
 
 [Full chapter text (17 lines)](chapter-text.md)
+
+## Recent changes
+
+- [17 Jun 2022](../../changes/2022/2022-06-17.md): 2 amended
 
 ## Contents
 

@@ -156,6 +156,29 @@ the licensee is treating a patient, the recommendation or provision of
 that modality to a particular patient shall not, by itself, constitute
 professional misconduct. The licensee shall otherwise abide by all other
 applicable professional requirements.
+  9-c. (a) Neither the board for professional medical conduct nor the
+office of professional medical conduct shall charge a licensee, acting
+within their scope of practice, with misconduct as defined in sections
+sixty-five hundred thirty and sixty-five hundred thirty-one of the
+education law, or cause a report made to the director of such office to
+be investigated beyond a preliminary review as set forth in clause (A)
+of subparagraph (i) of paragraph (a) of subdivision ten of this section,
+where such report is determined to be based solely upon the performance,
+recommendation, or provision of any reproductive health services as
+defined in section sixty-five hundred thirty-one-b of the education law
+for a particular patient by such licensee where such patient resides in
+a state wherein the performance, recommendation or provision of such
+reproductive health services is illegal.
+  (b) When a licensee, acting within their scope of practice, and in
+accordance with paragraph e of subdivision four of section sixty-five
+hundred twenty-seven of the education law, performs, recommends or
+provides any reproductive health services for a patient who resides in a
+state wherein the performance, recommendation, or provision of any such
+reproductive health services is illegal, such performance,
+recommendation, or provision of such reproductive health services for
+such patient, shall not, by itself, constitute professional misconduct.
+The licensee shall otherwise abide by all other applicable professional
+requirements.
   10. Professional misconduct proceedings shall consist of:
   * (a) Investigation.  (i) (A) The board for professional medical
 conduct, by the director of the office of professional medical conduct,
@@ -180,6 +203,15 @@ forty-four hundred five-b of this chapter, and section three hundred
 fifteen of the insurance law, to determine if such report reasonably
 appears to reflect physician conduct warranting further investigation
 pursuant to this subparagraph.
+  (i-a) The director shall, in addition to the determination required by
+clause (A) of subparagraph (i) of this paragraph, determine if a report
+is based solely upon conduct which is otherwise permissible pursuant to
+section sixty-five hundred thirty-one-b of the education law and
+subdivision nine-c of this section, and upon a determination by the
+director that a report is based solely upon such permissible conduct, no
+further review shall be conducted and no charges shall be brought.
+Nothing in this section shall preclude the director from making such a
+determination earlier in, or subsequent to, a preliminary review.
   (ii) If the investigation of cases referred to an investigation
 committee involves issues of clinical practice, medical experts, shall
 be consulted. Experts may be made available by the state medical society

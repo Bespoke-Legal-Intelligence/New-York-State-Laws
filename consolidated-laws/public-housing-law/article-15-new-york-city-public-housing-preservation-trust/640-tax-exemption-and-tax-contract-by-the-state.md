@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Public Housing Law § 640", "kind": "section", "law_id": "PBG", "location_id": "640", "path": "ARTICLE 15 › SECTION 640", "repealed": false, "repealed_date": null, "source": "nys-laws:PBG/640.md", "title": "Tax exemption and tax contract by the state"} -->
+# Public Housing Law § 640 — Tax exemption and tax contract by the state
+
+[Public Housing Law](../README.md) › [Article 15 — New York City Public Housing Preservation Trust](README.md)
+
+```text
+  * § 640. Tax exemption and tax contract by the state. 1. It is hereby
+determined that the creation of the trust and the carrying out of its
+corporate purposes is in all respects for the benefit of the people of
+the state of New York and is a public purpose. Accordingly, the trust
+shall be regarded as performing an essential governmental function in
+the exercise of the powers conferred upon it by this article, and the
+trust shall not be required to pay any fees, taxes, special ad valorem
+levies or assessments of any kind, including, but not limited to,
+franchise taxes, sales taxes or other taxes, upon or with respect to any
+property owned by it or under its jurisdiction, control or supervision,
+or upon the uses thereof, or upon or with respect to its activities or
+operations in furtherance of the powers conferred upon it by this
+article, or upon or with respect to any fares, tolls, rentals, rates,
+charges, fees, revenues or other income received by the trust.
+  2. Any bonds, notes or other obligations issued pursuant to this
+article together with the income therefrom shall at all times be exempt
+from taxation.
+  3. The state hereby covenants with the purchasers and with all
+subsequent holders and transferees of bonds, notes or other obligations
+issued by the trust pursuant to this article, in consideration of the
+acceptance of and payment for the bonds, notes or other obligations,
+that the bonds, notes or other obligations of the trust issued pursuant
+to this article and the income therefrom and all revenues, monies, and
+other property pledged to pay or to secure the payment of such bonds,
+notes or other obligations shall at all times be free from taxation.
+  * NB Effective August 15, 2022
+```

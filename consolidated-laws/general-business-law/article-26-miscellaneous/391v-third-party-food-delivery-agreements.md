@@ -4,8 +4,8 @@
 [General Business Law](../README.md) › [Article 26 — Miscellaneous](README.md)
 
 ```text
-  * § 391-v. Third-party food delivery agreements. 1. For the purposes
-of this section, the following terms shall have the following meanings:
+  § 391-v. Third-party food delivery agreements. 1. For the purposes of
+this section, the following terms shall have the following meanings:
   (a) "Agreement" means a written contractual agreement between a food
 service establishment and a third-party food delivery service
 authorizing the inclusion of the food service establishment's products
@@ -50,5 +50,4 @@ Each day a food service establishment is included on a third-party food
 delivery platform and each food service establishment included on a
 third-party food delivery platform shall be considered a separate
 violation.
-  * NB Effective February 19, 2022
 ```

@@ -18,6 +18,7 @@
 - [§ 6505-A Professional referrals](6505a-professional-referrals.md)
 - [§ 6505-B Course work or training in infection control practices](6505b-course-work-or-training-in-infection-control.md)
 - [§ 6505-C Articulation between military and civilian professional careers](6505c-articulation-between-military-and-civilian.md)
+- [§ 6505-D Evaluation of prior disciplinary history for authorization to practice](6505d-evaluation-of-prior-disciplinary-history.md)
 
 <details>
 <summary>Official heading of Subarticle 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

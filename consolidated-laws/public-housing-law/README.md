@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBG |
 | Type | Consolidated law, chapter 44-A |
-| Sections | 333 |
-| Last changed | 29 Apr 2022 |
+| Sections | 358 |
+| Last changed | 17 Jun 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Housing |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                          THE PUBLIC HOUSING LAW
 ```
 
-[Full chapter text (31 lines)](chapter-text.md)
+[Full chapter text (33 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [17 Jun 2022](../../changes/2022/2022-06-17.md): 25 added
 - [29 Apr 2022](../../changes/2022/2022-04-29.md): 1 amended
 - [22 Apr 2022](../../changes/2022/2022-04-22.md): 1 amended
 - [8 Apr 2022](../../changes/2022/2022-04-08.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [19 Nov 2021](../../changes/2021/2021-11-19.md): 1 amended
 - [4 Jun 2021](../../changes/2021/2021-06-04.md): 1 amended
 - [23 Apr 2021](../../changes/2021/2021-04-23.md): 1 amended
-- [8 Jan 2021](../../changes/2021/2021-01-08.md): 1 amended
 
 ## Contents
 
@@ -61,3 +61,4 @@ Assembly, do enact as follows:
 - [Article 12 — Public Housing Drug Elimination Pilot Program](article-12-public-housing-drug-elimination-pilot-program/)
 - [Article 13 — Municipal Housing Authorities, Created](article-13-municipal-housing-authorities-created/)
 - [Article 14 — Obligation to Affirmatively Further Fair Housing](article-14-obligation-to-affirmatively-further-fair-housing/)
+- [Article 15 — New York City Public Housing Preservation Trust](article-15-new-york-city-public-housing-preservation-trust/)
