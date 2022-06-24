@@ -6,7 +6,7 @@
 ## Contents
 
 - [§ 900 Definitions](900-definitions.md)
-- [§ 901 Licensing](901-licensing.md)
+- [§ 901 Requirements for doing business](901-requirements-for-doing-business.md)
 - [§ 902 Program liability](902-program-liability.md)
 - [§ 903 Lien implications; notification](903-lien-implications-notification.md)
 - [§ 904 Insurable interest](904-insurable-interest.md)
@@ -30,7 +30,7 @@
 <summary>Official heading of Article 40, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              * ARTICLE 40
+                               ARTICLE 40
                     PEER-TO-PEER CAR SHARING PROGRAMS
 Section 900. Liscensing.
         901. Requirements for doing business.
@@ -53,7 +53,6 @@ Section 900. Liscensing.
         917. Electronic notice authorized.
         918. Airport transactions.
         919. Enforcement.
-  * NB Effective June 20, 2022
 ```
 
 </details>

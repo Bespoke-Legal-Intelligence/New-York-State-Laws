@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 40 — Peer-to-peer Car Sharing Programs](README.md)
 
 ```text
-* § 913. Optional vehicle protection; requirements. 1. (a) (i) A
+  § 913. Optional vehicle protection; requirements. 1. (a) (i) A
 peer-to-peer car sharing program administrator shall not charge a
 separately itemized fee solely for optional vehicle protection, except
 as follows:
@@ -485,5 +485,4 @@ paragraph (f) of subdivision three of this section.
   8. A shared vehicle driver shall provide notice to the peer-to-peer
 car sharing program administrator and appropriate law enforcement agency
 immediately upon learning of the theft of a shared vehicle.
-  * NB Effective June 20, 2022
 ```

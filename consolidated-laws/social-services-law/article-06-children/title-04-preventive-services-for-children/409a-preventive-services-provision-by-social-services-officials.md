@@ -67,7 +67,7 @@ subject of a petition under article seven of the family court act or by
 the probation service, to be at risk of being the subject of such a
 petition, and the social services official determines that the child is
 at risk of placement into foster care or
-  * NB Effective until June 30, 2022
+  * NB Effective until June 30, 2027
 * (ii) the child is the subject of a petition under article seven of the
 family court act, or has been determined by the assessment service
 established pursuant to section two hundred forty-three-a of the
@@ -81,7 +81,7 @@ established and maintained pursuant to section four hundred nine-f of
 this chapter. The commissioner shall promulgate regulations to assist
 social services officials in making determinations of eligibility for
 mandated preventive services pursuant to clause (ii) of this paragraph.
-  * NB Effective June 30, 2022
+  * NB Effective June 30, 2027
 (iii) the child is under the age of twelve, the child does not fall
 under the definition of a juvenile delinquent pursuant to subparagraph
 (iii) of paragraph (a) of subdivision one of section 301.2 of the family

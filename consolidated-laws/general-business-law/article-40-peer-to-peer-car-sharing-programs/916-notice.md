@@ -4,8 +4,8 @@
 [General Business Law](../README.md) › [Article 40 — Peer-to-peer Car Sharing Programs](README.md)
 
 ```text
-  * § 916. Notice. In accordance with any applicable federal law or
-rule, every peer-to-peer car sharing program shall display the following
+  § 916. Notice. In accordance with any applicable federal law or rule,
+every peer-to-peer car sharing program shall display the following
 notice prominently and in a clear and conspicuous location on its
 website, with lettering that is legible: "NOTICE: New York State Law
 prohibits the following practices by peer-to-peer car sharing program
@@ -18,5 +18,4 @@ where the shared vehicle driver is under the age of 25). In addition, it
 is unlawful for any peer-to-peer car sharing program administrator to
 refuse to allow participation in the program to any person solely on the
 requirement of ownership of a credit card."
-  * NB Effective June 20, 2022
 ```

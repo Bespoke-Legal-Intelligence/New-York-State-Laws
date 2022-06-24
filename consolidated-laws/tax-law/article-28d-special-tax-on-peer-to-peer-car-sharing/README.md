@@ -29,7 +29,7 @@ Section 1190. Definitions.
         1195. Presumption.
         1196. Administrative provisions.
         1197. Deposit and disposition of revenue.
-  * NB Effective June 20, 2022
+  * NB Effective September 1, 2022
 ```
 
 </details>

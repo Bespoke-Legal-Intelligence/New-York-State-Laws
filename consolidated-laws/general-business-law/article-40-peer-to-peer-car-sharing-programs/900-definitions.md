@@ -4,8 +4,8 @@
 [General Business Law](../README.md) › [Article 40 — Peer-to-peer Car Sharing Programs](README.md)
 
 ```text
-  * § 900. Definitions. As used in this article, the following terms
-shall have the following meanings:
+  § 900. Definitions. As used in this article, the following terms shall
+have the following meanings:
   1. "Peer-to-peer car sharing" shall mean the authorized use of a
 shared vehicle by an individual other than the vehicle's owner through a
 peer-to-peer car sharing program.
@@ -85,5 +85,4 @@ vehicle owner may be liable; and
 in the vehicle renting or sharing industry such as, but not limited to,
 "collision damage waiver", "CDW", "damage waiver", "loss damage waiver",
 "LDW", and "physical damage waiver".
-  * NB Effective June 20, 2022
 ```

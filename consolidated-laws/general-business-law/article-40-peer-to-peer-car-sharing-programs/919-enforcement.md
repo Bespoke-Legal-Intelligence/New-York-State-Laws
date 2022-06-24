@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 40 — Peer-to-peer Car Sharing Programs](README.md)
 
 ```text
-  * § 919. Enforcement. 1. Except where a different penalty is
+  § 919. Enforcement. 1. Except where a different penalty is
 specifically imposed pursuant to any provision of this article, any
 peer-to-peer car sharing program found by a court of competent
 jurisdiction to have violated a provision of this article shall be
@@ -30,5 +30,4 @@ and issue subpoenas in accordance with the civil practice law and rules.
   3. Any clause or provision of a peer-to-peer car sharing agreement
 inconsistent with the provisions of this article shall be deemed void as
 against public policy.
-  * NB Effective June 20, 2022
 ```

@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 40 — Peer-to-peer Car Sharing Programs](README.md)
 
 ```text
-  * § 907. Data privacy protections. Notwithstanding any other provision
+  § 907. Data privacy protections. Notwithstanding any other provision
 of the law to the contrary, all trip data, personal information, images,
 videos, and other recorded images collected by any peer-to-peer car
 sharing program administrator that is authorized to operate pursuant to
@@ -34,5 +34,4 @@ purposes of this section, "personal information" shall mean information
 that identifies an individual, including but not limited to name,
 address, telephone number, and the type and form of payment including
 credit card number, debit card number, or other payment method.
-  * NB Effective June 20, 2022
 ```

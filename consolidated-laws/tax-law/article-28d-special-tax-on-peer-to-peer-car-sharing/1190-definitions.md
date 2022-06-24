@@ -19,5 +19,5 @@ other entity or person that is responsible for operating, facilitating,
 or administering the means, digital or otherwise, by which a business
 platform facilitates a peer-to-peer car sharing program for financial
 consideration.
-  * NB Effective June 20, 2022
+  * NB Effective September 1, 2022
 ```

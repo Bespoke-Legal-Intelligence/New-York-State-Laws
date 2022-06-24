@@ -33,7 +33,7 @@ Section 1299-J. Definitions.
         1299-Q. Secrecy of returns and reports.
         1299-R. Practice and procedure.
         1299-S. Deposit and disposition of revenue.
-  * NB Repealed June 20, 2022 and Effective September 1, 2022
+  * NB Effective and Repealed September 1, 2022
 ```
 
 </details>

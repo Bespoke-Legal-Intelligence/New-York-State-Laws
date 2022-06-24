@@ -12,5 +12,5 @@ when the car sharing period begins anywhere in the state and terminates
 anywhere in the state. The tax imposed under this section shall increase
 to three percent of gross charges paid by the shared vehicle driver on
 the first of January, two thousand twenty-three.
-  * NB Repealed June 20, 2022 and Effective September 1, 2022
+  * NB Effective and Repealed September 1, 2022
 ```

@@ -9,5 +9,5 @@ administrator shall collect the tax from the shared vehicle driver when
 collecting the gross receipts to which it applies. The tax shall be paid
 to the peer-to-peer car sharing program administrator as trustee for and
 on account of the state.
-  * NB Effective June 20, 2022
+  * NB Effective September 1, 2022
 ```

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | ELN |
 | Type | Consolidated law, chapter 17 |
-| Sections | 426 (2 repealed) |
-| Last changed | 6 May 2022 |
+| Sections | 436 |
+| Last changed | 24 Jun 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Election |
 
@@ -27,10 +27,11 @@ of section forty-two of the public officers law and amending such law in
     by a majority vote, three-fifths being present.
 ```
 
-[Full chapter text (674 lines)](chapter-text.md)
+[Full chapter text (691 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [24 Jun 2022](../../changes/2022/2022-06-24.md): 12 added, 2 removed
 - [6 May 2022](../../changes/2022/2022-05-06.md): 1 amended
 - [29 Apr 2022](../../changes/2022/2022-04-29.md): 11 amended, 2 repealed
 - [22 Apr 2022](../../changes/2022/2022-04-22.md): 2 amended
@@ -40,7 +41,6 @@ of section forty-two of the public officers law and amending such law in
 - [18 Mar 2022](../../changes/2022/2022-03-18.md): 1 amended
 - [11 Mar 2022](../../changes/2022/2022-03-11.md): 2 amended
 - [4 Mar 2022](../../changes/2022/2022-03-04.md): 7 amended
-- [18 Feb 2022](../../changes/2022/2022-02-18.md): 1 amended
 
 ## Contents
 
@@ -60,4 +60,4 @@ of section forty-two of the public officers law and amending such law in
 - [Article 14 — Campaign Receipts and Expenditures](article-14-campaign-receipts-and-expenditures/)
 - [Article 15 — Village Elections](article-15-village-elections/)
 - [Article 16 — Judicial Proceedings](article-16-judicial-proceedings/)
-- [Article 17 — Violations of the Elective Franchise](article-17-violations-of-the-elective-franchise/)
+- [Article 17 — Protecting of the Elective Franchise](article-17-protecting-of-the-elective-franchise/)

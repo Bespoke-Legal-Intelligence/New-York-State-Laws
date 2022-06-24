@@ -14,7 +14,7 @@
 - [§ 1394-B Requirement to check sex offender registry](1394b-requirement-to-check-sex-offender-registry.md)
 - [§ 1394-C Camps for children with developmental disabilities](1394c-camps-for-children-with-developmental-disabilities.md)
 - [§ 1395 Violations; temporary restraining order](1395-violations-temporary-restraining-order.md)
-- [§ 1396 Separability](1396-separability.md)
+- [§ 1396 Pesticide applications](1396-pesticide-applications.md)
 - [§ 1397 Separability](1397-separability.md)
 
 <details>

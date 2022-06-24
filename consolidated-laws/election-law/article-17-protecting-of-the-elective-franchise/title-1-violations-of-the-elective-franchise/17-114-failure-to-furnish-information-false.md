@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Election Law § 17-114", "kind": "section", "law_id": "ELN", "location_id": "17-114", "path": "ARTICLE 17 › TITLE 1 › SECTION 17-114", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/17-114.md", "title": "Failure to furnish information; false information"} -->
+# Election Law § 17-114 — Failure to furnish information; false information
+
+[Election Law](../../README.md) › [Article 17 — Protecting of the Elective Franchise](../README.md) › [Title 1 — Violations of the Elective Franchise](README.md)
+
+```text
+  § 17-114. Failure to furnish information; false information. 1.  Any
+person who knowingly harbors or conceals any person who falsely
+registered as a voter, or who shall rent any room or bed to any person
+to be used by such person for himself or any other person for the
+purpose of unlawfully registering or voting therefrom is guilty of a
+misdemeanor.
+  2. A keeper of a hotel, lodging-house, boarding-house or
+rooming-house, who neglects to give to an election officer requesting
+the same, a sworn list of persons residing in such hotel, lodging-house,
+boarding-house, dwelling or apartment, together with the other
+particulars or information in relation to such persons required to be
+given by or pursuant to this chapter, is guilty of a misdemeanor.
+  3. A keeper of a hotel, lodging house, boarding-house, or
+rooming-house or the owner or lessee of a dwelling or apartment who
+makes a report or furnishes a list required by this chapter which
+knowingly and falsely states that a person has resided on the premises
+to which the report or list relates for a longer period than he has
+actually resided therein, or puts upon such a list or in such a report a
+name under which no person resides in said premises, is guilty of a
+felony.
+```

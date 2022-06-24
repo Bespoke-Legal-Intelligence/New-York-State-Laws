@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 40 — Peer-to-peer Car Sharing Programs](README.md)
 
 ```text
-  * § 903. Lien implications; notification. When a vehicle owner first
+  § 903. Lien implications; notification. When a vehicle owner first
 registers as a shared vehicle owner in a peer-to-peer car sharing
 program and prior to such time as when the shared vehicle owner makes a
 shared vehicle available for peer-to-peer car sharing in the
@@ -14,5 +14,4 @@ vehicle owner that, if the shared vehicle shall have a lien against it,
 the use of the shared vehicle through a peer-to-peer car sharing
 program, including use without physical damage coverage, may violate the
 terms of the contract with the lienholder.
-  * NB Effective June 20, 2022
 ```

@@ -4,7 +4,7 @@
 [Public Health Law](../../README.md) › [Article 5 — Laboratories](../README.md) › [Title 5 — Clinical Laboratory and Blood Banking Services](README.md)
 
 ```text
-  * § 575-a. Source plasma donation centers. 1. Notwithstanding section
+  § 575-a. Source plasma donation centers. 1. Notwithstanding section
 five hundred seventy-four and subdivision one of section five hundred
 seventy-one of this chapter, a source plasma donation center may collect
 source plasma through plasmapheresis, and may employ a person to perform
@@ -20,5 +20,4 @@ governing source plasma donation centers, including requirements for
 registration as a source plasma donation center and payment of a
 reasonable registration fee. Rules and regulations applicable to source
 plasma donation centers shall be consistent with this section.
-  * NB Effective June 19, 2022
 ```

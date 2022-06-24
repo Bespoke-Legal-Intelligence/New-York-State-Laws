@@ -103,7 +103,7 @@ commissioner of the office of mental health, the commissioner of the
 office of addiction services and supports, or the commissioner of the
 office for people with developmental disabilities pursuant to
 regulation.
-  * NB Effective April 1, 2024
+  * NB Effective until April 1, 2024
   3. "Originating site" means a site at which a patient is located at
 the time health care services are delivered to him or her by means of
 telehealth.

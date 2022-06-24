@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 40 — Peer-to-peer Car Sharing Programs](README.md)
 
 ```text
-  * § 902. Program liability. 1. Notwithstanding any other provision of
+  § 902. Program liability. 1. Notwithstanding any other provision of
 law, or any provision in a shared vehicle owner's policy of motor
 vehicle liability insurance, in the event of a loss, death, or injury
 that shall occur during the peer-to-peer car sharing period, the
@@ -109,5 +109,4 @@ program administrator or any insurer of the shared vehicle owner, shared
 vehicle driver, or peer-to-peer car sharing program administrator
 receiving such notice shall provide such notice to all appropriate
 parties.
-  * NB Effective June 20, 2022
 ```

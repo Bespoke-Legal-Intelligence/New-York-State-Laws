@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 40 — Peer-to-peer Car Sharing Programs](README.md)
 
 ```text
-  * § 911. Discrimination on the basis of credit card ownership
+  § 911. Discrimination on the basis of credit card ownership
 prohibited. 1. It shall be unlawful for any person, firm, partnership,
 institution, sole proprietorship, corporation or other entity engaged in
 the business of peer-to-peer car sharing to refuse to make a shared
@@ -18,5 +18,4 @@ or credit, or to purchase or rent property or services on the credit of
 the person issuing the credit card or the holder.
   3. A knowing violation of this section shall be punishable by a fine
 not to exceed one thousand dollars.
-  * NB Effective June 20, 2022
 ```

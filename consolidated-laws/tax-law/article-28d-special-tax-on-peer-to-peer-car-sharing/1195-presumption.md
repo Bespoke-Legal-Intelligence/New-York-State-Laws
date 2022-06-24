@@ -10,5 +10,5 @@ it shall be presumed that every transfer of possession of a shared
 vehicle to a shared vehicle driver anywhere in this state is subject to
 the tax under this article. This presumption shall prevail until the
 contrary is established.
-  * NB Effective June 20, 2022
+  * NB Effective September 1, 2022
 ```

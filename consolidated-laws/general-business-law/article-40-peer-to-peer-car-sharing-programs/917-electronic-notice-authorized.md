@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 40 — Peer-to-peer Car Sharing Programs](README.md)
 
 ```text
-  * § 917. Electronic notice authorized. 1. Notwithstanding any other
+  § 917. Electronic notice authorized. 1. Notwithstanding any other
 provision of this article, and the peer-to-peer car sharing act,
 including, without limitation, sections two thousand three hundred five,
 three thousand four hundred fifty-nine, three thousand four hundred
@@ -31,5 +31,4 @@ pursuant to this subdivision shall be exempt from any placement or
 stylistic display requirements, including but not limited to location,
 font size, typeset, or other specifically stated description; provided
 such disclosure is made in a clear and conspicuous manner.
-  * NB Effective June 20, 2022
 ```

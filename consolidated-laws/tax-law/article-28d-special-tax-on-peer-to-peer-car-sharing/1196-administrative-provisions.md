@@ -28,5 +28,5 @@ not relevant to the taxes imposed by this article.
   (b) The tax imposed by this article is in lieu of and replaces any tax
 as may be imposed under sections eleven hundred sixty, eleven hundred
 sixty-six-a, and eleven hundred sixty-six-b of this chapter.
-  * NB Effective June 20, 2022
+  * NB Effective September 1, 2022
 ```

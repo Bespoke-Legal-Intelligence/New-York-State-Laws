@@ -8,7 +8,7 @@
 | Senate code | SWC |
 | Type | Consolidated law, chapter 9-B |
 | Sections | 18 |
-| Last changed | 4 Mar 2022 |
+| Last changed | 24 Jun 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Soil & Water Conservation Districts |
 
@@ -31,6 +31,7 @@ Became a law April 23, 1940, with the approval of the Governor.  Passed,
 
 ## Recent changes
 
+- [24 Jun 2022](../../changes/2022/2022-06-24.md): 2 amended
 - [4 Mar 2022](../../changes/2022/2022-03-04.md): 2 amended
 - [31 Dec 2021](../../changes/2021/2021-12-31.md): 2 amended
 - [20 Apr 2018](../../changes/2018/2018-04-20.md): 1 amended

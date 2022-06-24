@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 40 — Peer-to-peer Car Sharing Programs](README.md)
 
 ```text
-  * § 914. Geographical discrimination prohibited. It shall be unlawful
+  § 914. Geographical discrimination prohibited. It shall be unlawful
 for any peer-to-peer car sharing program administrator to engage in any
 of the following practices solely on the basis of the geographical
 location of the residence of a New York state resident attempting to
@@ -17,5 +17,4 @@ start time or termination time occurs;
 shared vehicle; or
   3. imposing any additional terms, conditions or privileges upon such
 peer-to-peer car sharing of a shared vehicle.
-  * NB Effective June 20, 2022
 ```

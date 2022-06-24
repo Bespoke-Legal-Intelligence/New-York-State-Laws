@@ -19,5 +19,5 @@ within this state of any shared vehicle by the shared vehicle driver.
 For purposes of this subdivision, the tax shall be at the rate of three
 percent of the gross receipts paid or contracted to be paid for such
 shared vehicle.
-  * NB Effective June 20, 2022
+  * NB Effective September 1, 2022
 ```

@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 40 — Peer-to-peer Car Sharing Programs](README.md)
 
 ```text
-  * § 912. Discrimination in peer-to-peer car sharing prohibited. 1. No
+  § 912. Discrimination in peer-to-peer car sharing prohibited. 1. No
 corporation, partnership, firm, institution, sole proprietorship or
 other entity or person engaged in the business of peer-to-peer car
 sharing shall refuse to make a shared vehicle available to any person
@@ -78,5 +78,4 @@ to accept, review and investigate any potential or actual violations
 with respect to compliance with nondiscrimination laws and accessibility
 laws in a form and manner consistent with authority under article
 fifteen of the executive law.
-  * NB Effective June 20, 2022
 ```

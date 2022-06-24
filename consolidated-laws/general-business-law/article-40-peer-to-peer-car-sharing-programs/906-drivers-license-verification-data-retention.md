@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 40 — Peer-to-peer Car Sharing Programs](README.md)
 
 ```text
-  * § 906. Driver's license verification; data retention. 1. A
+  § 906. Driver's license verification; data retention. 1. A
 peer-to-peer car sharing program administrator shall not enter into a
 peer-to-peer car sharing program agreement with a driver unless the
 driver who will operate the shared vehicle furnishes proof, by
@@ -25,5 +25,4 @@ vehicle driver and each other person, if any, who shall operate the
 shared vehicle; and
   (c) the date and place of issuance of the driver's license for each
 such vehicle operator.
-  * NB Effective June 20, 2022
 ```

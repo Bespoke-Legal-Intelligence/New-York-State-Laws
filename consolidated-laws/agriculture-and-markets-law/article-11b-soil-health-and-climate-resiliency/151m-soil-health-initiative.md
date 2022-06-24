@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 11-B — Soil Health and Climate Resiliency](README.md)
 
 ```text
-  * § 151-m. Soil health initiative. 1. The department, in cooperation
+  § 151-m. Soil health initiative. 1. The department, in cooperation
 with the state soil and water conservation committee, and other partners
 working on soil health shall encourage agricultural producers in urban,
 suburban and rural communities to improve and maintain the health of
@@ -62,5 +62,4 @@ reflective of the different geographic regions, soil types, and farming
 operations. Such standards should include soil quality indicators for
 biological, physical, and chemical properties of soil and reflect the
 latest scientific advancements.
-  * NB Effective June 20, 2022
 ```

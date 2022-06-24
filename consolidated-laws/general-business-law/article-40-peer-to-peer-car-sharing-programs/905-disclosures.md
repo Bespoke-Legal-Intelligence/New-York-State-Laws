@@ -4,9 +4,9 @@
 [General Business Law](../README.md) › [Article 40 — Peer-to-peer Car Sharing Programs](README.md)
 
 ```text
-  * § 905. Disclosures. 1. Each peer-to-peer car sharing program
-agreement made in this state shall disclose and separately state or
-itemize to the shared vehicle owner and the shared vehicle driver:
+  § 905. Disclosures. 1. Each peer-to-peer car sharing program agreement
+made in this state shall disclose and separately state or itemize to the
+shared vehicle owner and the shared vehicle driver:
   (a) the daily rate, fees, and, if applicable, any insurance or
 protection package costs that shall be charged to the shared vehicle
 owner or the shared vehicle driver; and
@@ -21,5 +21,4 @@ car sharing program administrator may separately state itemized optional
 items and/or services or any mileage below the final quoted rate in the
 same font and on the same page or webpage on which the rate quote is
 provided.
-  * NB Effective June 20, 2022
 ```

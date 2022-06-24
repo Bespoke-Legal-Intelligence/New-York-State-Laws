@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 40 — Peer-to-peer Car Sharing Programs](README.md)
 
 ```text
-  * § 908. Responsibility for equipment. A peer-to-peer car sharing
+  § 908. Responsibility for equipment. A peer-to-peer car sharing
 program administrator shall have sole responsibility for any equipment,
 such as a global positioning system, or GPS, or other special equipment
 which is put in or on such shared vehicle to monitor or facilitate the
@@ -17,5 +17,4 @@ by the shared vehicle owner. The peer-to-peer car sharing program
 administrator shall have the right to seek indemnity from the shared
 vehicle driver for any loss or damage to such equipment that shall occur
 during the peer-to-peer car sharing period.
-  * NB Effective June 20, 2022
 ```

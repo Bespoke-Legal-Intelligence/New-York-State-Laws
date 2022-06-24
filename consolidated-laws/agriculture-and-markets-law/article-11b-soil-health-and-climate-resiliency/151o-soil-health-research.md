@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 11-B — Soil Health and Climate Resiliency](README.md)
 
 ```text
-  * § 151-o. Soil health research. The commissioner shall make available
+  § 151-o. Soil health research. The commissioner shall make available
 practical information from soil health research to agricultural
 producers in urban, suburban and rural communities with goals to:
 continue accelerating the percentage of farmers who actively utilize
@@ -14,5 +14,4 @@ with various farming practices, including but not limited to no-till,
 cover cropping, managed grazing, perennial pasture, and precise
 application of added nutrients to achieve nitrous oxide emissions
 reduction.
-  * NB Effective June 20, 2022
 ```
