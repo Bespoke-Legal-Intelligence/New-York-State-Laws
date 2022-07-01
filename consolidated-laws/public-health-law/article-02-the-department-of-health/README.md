@@ -38,7 +38,7 @@ Title    I.   Officers and employees (§§ 200--211-a).
         II-C. Charles D. Cook office of rural health (§§ 234-237).
         II-D. Health care practitioner referrals (§§ 238--238-e).
         II-E. HIV/HBV/HCV prevention training (§§ 239--239-b).
-        II-F. Office of minority health (§§ 240-243).
+        II-F. Office of minority health (§§ 240-244).
        III.   State health areas (§§ 240-243).
         IV.   Spinal cord injury research board (§§ 250-251).
          V.   Health care practitioner volunteer pilot program (§ 260).

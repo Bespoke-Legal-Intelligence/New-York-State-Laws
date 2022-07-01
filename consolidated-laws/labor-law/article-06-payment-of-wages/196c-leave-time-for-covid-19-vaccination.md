@@ -19,5 +19,5 @@ collective bargaining agreement.
   3. The provisions of this section may be waived by a collective
 bargaining agreement, provided that for such waiver to be valid, it
 shall explicitly reference this section of law.
-  * NB Repealed December 31, 2022
+  * NB Repealed December 31, 2023
 ```

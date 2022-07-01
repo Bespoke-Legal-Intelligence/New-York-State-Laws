@@ -492,7 +492,6 @@ the standards in this subparagraph conflict, the commissioner shall
 accommodate or modify the application of any standard to harmonize and
 maximize the intent of the standards.
   * NB There are 2 sb 11's
-  * NB Effective June 29, 2022
   * 11. Notwithstanding any provision of this article, or any rule or
 regulation under this article to the contrary, the commissioner shall
 allow outpatient clinics of general hospitals and diagnostic and

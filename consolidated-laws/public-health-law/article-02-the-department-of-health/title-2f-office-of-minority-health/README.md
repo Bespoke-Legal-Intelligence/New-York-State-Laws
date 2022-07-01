@@ -11,6 +11,7 @@
 - [§ 241\*2 Office of minority health created](241-2-office-of-minority-health-created.md)
 - [§ 242\*2 Preparation and distribution of reports](242-2-preparation-and-distribution-of-reports.md)
 - [§ 243\*2 Minority health council](243-2-minority-health-council.md)
+- [§ 244 Transgender and gender non-binary (TGNB) wellness and equity program](244-transgender-and-gender-non-binary-tgnb-wellness-and-equity.md)
 
 <details>
 <summary>Official heading of Title 2-F, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -22,6 +23,8 @@ Section 240*2. Definitions.
         241*2. Office of minority health created.
         242*2. Preparation and distribution of reports.
         243*2. Minority health council.
+        244.   Transgender and gender non-binary (TGNB) wellness and
+                 equity program.
 ```
 
 </details>

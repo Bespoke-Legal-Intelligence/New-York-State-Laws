@@ -4,7 +4,7 @@
 [Social Services Law](../../README.md) › [Article 3 — Local Public Welfare Organization; Powers and Duties](../README.md) › [Title 6 — Powers to Enforce Support](README.md)
 
 ```text
-  * § 110-b. Recovery from a person discovered to have property; notice.
+  § 110-b. Recovery from a person discovered to have property; notice.
 Notwithstanding any law, rule or regulation to the contrary, an
 applicant for public assistance shall be fully informed in writing that
 he or she may be liable to reimburse the state for public assistance
@@ -14,5 +14,4 @@ and disability services and as a standalone document on his or her
 rights and responsibilities. Nothing in this section shall be deemed to
 prevent the local social services district from maintaining its records
 electronically.
-  * NB Effective June 30, 2022
 ```

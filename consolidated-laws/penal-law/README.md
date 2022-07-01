@@ -8,7 +8,7 @@
 | Senate code | PEN |
 | Type | Consolidated law, chapter 40 |
 | Sections | 884 |
-| Last changed | 10 Jun 2022 |
+| Last changed | 1 Jul 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Penal |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [1 Jul 2022](../../changes/2022/2022-07-01.md): 1 amended
 - [10 Jun 2022](../../changes/2022/2022-06-10.md): 6 amended, 7 added
 - [13 May 2022](../../changes/2022/2022-05-13.md): 3 amended
 - [29 Apr 2022](../../changes/2022/2022-04-29.md): 7 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [7 Jan 2022](../../changes/2022/2022-01-07.md): 1 amended
 - [31 Dec 2021](../../changes/2021/2021-12-31.md): 3 amended
 - [24 Dec 2021](../../changes/2021/2021-12-24.md): 1 amended
-- [12 Nov 2021](../../changes/2021/2021-11-12.md): 2 amended
 
 ## Contents
 

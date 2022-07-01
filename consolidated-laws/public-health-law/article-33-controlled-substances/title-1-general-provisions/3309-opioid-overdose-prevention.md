@@ -114,17 +114,16 @@ office of addiction services and supports website shall include a
 hyperlink to such information and data which may be utilized by a county
 or any combination thereof as it works to address the opioid epidemic.
   * NB Repealed March 31, 2027
-  * 7. With the first prescription to a particular patient of an opioid
-of each year for use in a setting other than a general hospital or
-nursing home under article twenty-eight of this chapter or facility
-under article thirty-one of the mental hygiene law, or when a
-practitioner is prescribing a controlled substance to a patient under
-the care of hospice as defined by section four thousand two of this
-chapter, the prescriber shall prescribe an opioid antagonist when any of
-the following risk factors are present: (a) a history of substance use
+  7. With the first prescription to a particular patient of an opioid of
+each year for use in a setting other than a general hospital or nursing
+home under article twenty-eight of this chapter or facility under
+article thirty-one of the mental hygiene law, or when a practitioner is
+prescribing a controlled substance to a patient under the care of
+hospice as defined by section four thousand two of this chapter, the
+prescriber shall prescribe an opioid antagonist when any of the
+following risk factors are present: (a) a history of substance use
 disorder; (b) high dose or cumulative prescriptions that result in
 ninety morphine milligram equivalents or higher per day; (c) concurrent
 use of opioids and benzodiazepine or nonbenzodiazepine sedative
 hypnotics.
-  * NB Effective June 27, 2022
 ```

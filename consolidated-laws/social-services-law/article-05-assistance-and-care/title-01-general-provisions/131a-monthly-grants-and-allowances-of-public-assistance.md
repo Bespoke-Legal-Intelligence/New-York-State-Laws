@@ -228,14 +228,7 @@ provided provision therefor cannot otherwise be made;
 refrigerators used by persons in need of public assistance in their
 homes, provided provision therefor cannot otherwise be made except that
 replacement may be authorized when less expensive than repair;
-  * (d) camp fees when funds cannot be obtained from other sources for
-children receiving aid to dependent children assistance not in excess of
-maximum fees as established by regulations of the department; life
-insurance premiums provided the policy is assigned to the department, or
-in cases where the recipient is aged, his or her life expectancy is
-short, or he or she is deemed uninsurable.
-  * NB Effective until June 30, 2021
-  * (d) camp fees for a camp operated by a not-for-profit organization,
+  (d) camp fees for a camp operated by a not-for-profit organization,
 corporation or agency, which has been issued an operating certificate by
 the appropriate health official in whose jurisdiction such camp is
 located, when in the judgment of the social services official it is
@@ -247,7 +240,6 @@ temporary and disability assistance; life insurance premiums provided
 the policy is assigned to the office of temporary and disability
 assistance, or in cases where the recipient is aged, his or her life
 expectancy is short, or he or she is deemed uninsurable;
-  * NB Effective June 30, 2021
   (e) Provision of allowances as prescribed by regulations of the
 department to meet the needs of a pregnant woman, beginning with the
 fourth month of pregnancy which has been medically verified.

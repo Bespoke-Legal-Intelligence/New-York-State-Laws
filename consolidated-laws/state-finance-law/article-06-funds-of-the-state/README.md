@@ -29,7 +29,6 @@
 - [§ 83-A Habitat conservation and access account](83a-habitat-conservation-and-access-account.md)
 - [§ 84 The United States Olympic Committee/Lake Placid Olympic Training Center Fund](84-the-united-states-olympic-committee-lake-placid-olympic-training-center-fund.md)
 - [§ 84-A Olympic games guaranty fund](84a-olympic-games-guaranty-fund.md)
-- [§ 86 Gun violence research fund](86-gun-violence-research-fund.md) *(repealed)*
 - [§ 88 New York state infrastructure trust fund](88-new-york-state-infrastructure-trust-fund.md)
 - [§ 88-A Mass transportation operating assistance fund](88a-mass-transportation-operating-assistance-fund.md)
 - [§ 88-B Suburban transportation fund](88b-suburban-transportation-fund.md)
@@ -105,6 +104,7 @@
 - [§ 95-H Mental illness anti-stigma fund](95h-mental-illness-anti-stigma-fund.md)
 - [§ 95-I New York state ALS research and education fund](95i-new-york-state-als-research-and-education-fund.md)
 - [§ 95-J The New York state two hundred fiftieth commemoration commission fund](95j-the-new-york-state-two-hundred-fiftieth-commemoration-commission-fund.md)
+- [§ 95-K Transgender and gender non-binary (TGNB) wellness and equity program fund](95k-transgender-and-gender-non-binary-tgnb-wellness-and-equity-program-fund.md)
 - [§ 96 The World Trade Center memorial scholarship fund](96-the-world-trade-center-memorial-scholarship-fund.md)
 - [§ 97 Housing debt fund, and urban renewal debt fund](97-housing-debt-fund-and-urban-renewal-debt-fund.md)
 - [§ 97-A Environmental quality protection fund](97a-environmental-quality-protection-fund.md)
@@ -407,6 +407,8 @@ Section 70.        Classification of funds.
         95-i.      New York state ALS research and education fund.
         95-j.      The New York state two hundred fiftieth commemoration
                      commission fund.
+        95-k.      Transgender and gender non-binary (TGNB) wellness and
+                     equity program fund.
         96.        The World Trade Center memorial scholarship fund.
         97.        Housing debt fund, and urban renewal debt fund.
         97-a.      Environmental quality protection fund.
