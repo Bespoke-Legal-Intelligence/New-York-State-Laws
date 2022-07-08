@@ -141,6 +141,11 @@ and pelvic inflammatory disease.
   * (p) Preeclampsia, including information about detection, risk
 factors and management, and possible options for treatment.
   * NB There are 3 par (p)'s
+  * (q) Myalgic encephalomyelitis/chronic fatigue syndrome ("ME/CFS"), a
+multi-system disease associated with neurological, immunological and
+energy metabolism impairment characterized by long-standing and
+debilitating fatigue.
+  * NB Effective December 27, 2022
   2. Programs under this section, dealing with one or more subjects, may
 include but not be limited to any of the following elements:
   (a) educational and informational materials in print, audio, visual,

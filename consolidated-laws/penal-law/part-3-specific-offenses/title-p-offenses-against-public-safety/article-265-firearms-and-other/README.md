@@ -12,6 +12,8 @@
 - [§ 265.01-A Criminal possession of a weapon on school grounds](265.01-a-criminal-possession-of-a-weapon-on-school.md)
 - [§ 265.01-B Criminal possession of a firearm](265.01-b-criminal-possession-of-a-firearm.md)
 - [§ 265.01-C Criminal possession of a rapid-fire modification device](265.01-c-criminal-possession-of-a-rapid-fire.md)
+- [§ 265.01-D Criminal possession of a weapon in a restricted location](265.01-d-criminal-possession-of-a-weapon.md)
+- [§ 265.01-E Criminal possession of a firearm, rifle or shotgun in a sensitive location](265.01-e-criminal-possession-of-a-firearm-rifle.md)
 - [§ 265.02 Criminal possession of a weapon in the third degree](265.02-criminal-possession-of-a-weapon-in-the-third.md)
 - [§ 265.03 Criminal possession of a weapon in the second degree](265.03-criminal-possession-of-a-weapon-in-the-second.md)
 - [§ 265.04 Criminal possession of a weapon in the first degree](265.04-criminal-possession-of-a-weapon-in-the-first.md)
@@ -61,6 +63,10 @@ Section 265.00   Definitions.
         265.01-b Criminal possession of a firearm.
         265.01-c Criminal possession of a rapid-fire modification
                    device.
+        265.01-d Criminal possession of a weapon in a restricted
+                   location.
+        265.01-e Criminal possession of a firearm, rifle or shotgun in a
+                   sensitive location.
         265.02   Criminal possession of a weapon in the third degree.
         265.03   Criminal possession of a weapon in the second degree.
         265.04   Criminal possession of a weapon in the first degree.

@@ -8,6 +8,7 @@
 - [§ 25.01 Legislative findings](25.01-legislative-findings.md)
 - [§ 25.03 Definitions](25.03-definitions.md)
 - [§ 25.05 Ticket speculators](25.05-ticket-speculators.md)
+- [§ 25.06 Resale of tickets issued at no charge](25.06-resale-of-tickets-issued-at-no-charge.md)
 - [§ 25.07 Ticket prices](25.07-ticket-prices.md)
 - [§ 25.08 Additional printing on tickets](25.08-additional-printing-on-tickets.md)
 - [§ 25.09 Ticket speculators](25.09-ticket-speculators.md)
@@ -38,6 +39,7 @@
                    TICKETS TO PLACES OF ENTERTAINMENT
 Section 25.01. Legislative findings.
         25.03. Definitions.
+        25.06. Resale of tickets issued at no charge.
         25.07. Ticket prices.
         25.08. Additional printing on tickets.
         25.09. Ticket speculators.
@@ -59,7 +61,7 @@ Section 25.01. Legislative findings.
         25.33. Private right of action.
         25.34. Ticket websites.
         25.35. Criminal penalties.
-  * NB Effective until July 1, 2022
+  * NB Effective until July 1, 2025
                               * ARTICLE 25
                              THEATRE TICKETS
 Section 25.01. Matters of public interest.
@@ -77,7 +79,7 @@ Section 25.01. Matters of public interest.
         25.24. Ticket purchasing software.
         25.25. Violations; penalties.
         25.27. Unlawful charges in connection with theatre tickets.
-  * NB Effective July 1, 2022
+  * NB Effective July 1, 2025
 ```
 
 </details>

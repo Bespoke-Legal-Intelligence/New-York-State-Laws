@@ -43,6 +43,7 @@
 - [§ 1020-II Public notice before approval of utility transmission facilities](1020ii-public-notice-before-approval-of-utility.md)
 - [§ 1020-JJ Energy storage deployment policy](1020jj-energy-storage-deployment-policy.md)
 - [§ 1020-KK Semi-annual expenditure and lobbying report](1020kk-semi-annual-expenditure-and-lobbying-report.md)
+- [§ 1020-LL Pilot thermal energy network projects](1020ll-pilot-thermal-energy-network-projects.md)
 - [§ 1020-XX Liberal interpretation](1020xx-liberal-interpretation.md)
 - [§ 1020-YY Severability](1020yy-severability.md)
 - [§ 1020-ZZ Inconsistent provisions of other laws superseded](1020zz-inconsistent-provisions-of-other-laws-superseded.md)

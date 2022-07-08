@@ -81,7 +81,7 @@
 - [§ 396-DD Renting of horses; helmets and safety information](396dd-renting-of-horses-helmets-and-safety-information.md)
 - [§ 396-E Marking articles made of linen](396e-marking-articles-made-of-linen.md)
 - [§ 396-EE Sale of certain weapons; locking devices therefor](396ee-sale-of-certain-weapons-locking-devices-therefor.md)
-- [§ 396-EEE Unlawful sale or delivery of body vests](396eee-unlawful-sale-or-delivery-of-body-vests.md)
+- [§ 396-EEE Unlawful sale or delivery of body armor](396eee-unlawful-sale-or-delivery-of-body-armor.md)
 - [§ 396-F Sale of blind made products](396f-sale-of-blind-made-products.md)
 - [§ 396-G Sale of products processed by the blind](396g-sale-of-products-processed-by-the-blind.md)
 - [§ 396-H Fraudulent sale of poppies, forget-me-nots, daisies, flags and other articles sold for patriotic purposes](396h-fraudulent-sale-of-poppies-forget-me-nots-daisies-flags-and-other-articles-sold.md)
@@ -288,7 +288,7 @@ Section 390.         Substitution of spurious oils for internal
         396-dd.      Renting of horses; helmets and safety information.
         396-e.       Marking articles made of linen.
         396-ee.      Sale of certain weapons; locking devices therefor.
-        396-eee.     Unlawful sale or delivery of body vests.
+        396-eee.     Unlawful sale or delivery of body armor.
         396-f.       Sale of blind made products.
         396-g.       Sale of products processed by the blind.
         396-h.       Fraudulent sale of poppies, forget-me-nots,

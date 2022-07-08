@@ -26,5 +26,5 @@ deduction for purposes of computing the tax imposed by section nine
 hundred fifty-two of this part, without requiring that such disposition
 pass to the surviving spouse in a qualified domestic trust as required
 for federal purposes by internal revenue code section 2056(d)(2).
-  * NB Repealed July 1, 2022
+  * NB Repealed July 1, 2025
 ```

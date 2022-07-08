@@ -37,7 +37,7 @@
 - [§ 365-D Medicaid evidence based benefit review advisory committee](365d-medicaid-evidence-based-benefit-review-advisory.md)
 - [§ 365-E Optional or continued membership in entities offering comprehensive health services plans](365e-optional-or-continued-membership-in-entities-offering.md)
 - [§ 365-F Consumer directed personal assistance program](365f-consumer-directed-personal-assistance-program.md)
-- [§ 365-G Utilization thresholds for certain care, services and supplies](365g-utilization-thresholds-for-certain-care-services.md)
+- [§ 365-G Utilization review for certain care, services and supplies](365g-utilization-review-for-certain-care-services.md)
 - [§ 365-H Provision and reimbursement of transportation costs](365h-provision-and-reimbursement-of-transportation-costs.md)
 - [§ 365-J Advisory opinions](365j-advisory-opinions.md)
 - [§ 365-K Provision of prenatal care services](365k-provision-of-prenatal-care-services.md)

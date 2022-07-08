@@ -26,7 +26,7 @@
 - [§ 604-H Twenty-five year retirement program for police communications members](604h-twenty-five-year-retirement-program-for-police-communications-members.md)
 - [§ 604-I Age fifty-five retirement program for New York city teachers and certain other members](604i-age-fifty-five-retirement-program-for-new-york-city-teachers-and-certain-other.md)
 - [§ 605 Disability retirement](605-disability-retirement.md)
-- [§ 605-A Accidental disability retirement for ambulance medical technician supervisors, ambulance medical technician coordinators, ambulance medic...](605a-accidental-disability-retirement-for-ambulance-medical-technician-supervisors.md)
+- [§ 605-A Accidental disability retirement for uniformed court officers and peace officers employed in the unified court system](605a-accidental-disability-retirement-for-uniformed-court-officers-and-peace.md)
 - [§ 605-B Accidental disability retirement for New York city uniformed sanitation members](605b-accidental-disability-retirement-for-new-york-city-uniformed-sanitation-members.md)
 - [§ 605-B\*2 Uniformed court officers and peace officers; certain disabilities](605b-2-uniformed-court-officers-and-peace-officers-certain-disabilities.md)
 - [§ 605-C Accidental disability retirement for deputy sheriffs employed by the city of New York](605c-accidental-disability-retirement-for-deputy-sheriffs-employed-by-the-city.md)
@@ -107,11 +107,9 @@ Section 600.     Application.
         604-i.   Age fifty-five retirement program for New York city
                    teachers and certain other members.
         605.     Disability retirement.
-        605-a.   Accidental disability retirement for ambulance medical
-                   technician supervisors, ambulance medical technician
-                   coordinators, ambulance medical technicians, police
-                   medic supervisors, police medic coordinators, and
-                   police medics in Nassau county.
+        605-a.   Accidental disability retirement for uniformed court
+                   officers and peace officers employed in the unified
+                   court system.
         605-b.   Accidental disability retirement for New York city
                    uniformed sanitation members.
         605-b*2. Uniformed court officers and peace officers; certain
@@ -125,8 +123,9 @@ Section 600.     Application.
                    county.
         605-e.   Accidental disability retirement for ambulance medical
                    technician supervisors, ambulance medical technician
-                   coordinators and ambulance medical technicians in
-                   Nassau county.
+                   coordinators, ambulance medical technicians, police
+                   medic supervisors, police medic coordinators, and
+                   police medics in Nassau county.
         605-f.   Disability benefits; certain disabilities.
         606.     Death benefits.
         606-a.   Death benefit for vested members who die prior to

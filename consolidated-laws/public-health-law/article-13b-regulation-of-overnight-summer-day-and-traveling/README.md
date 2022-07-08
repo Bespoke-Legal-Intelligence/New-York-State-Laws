@@ -13,6 +13,7 @@
 - [§ 1394-A Requirement to check sex offender registry](1394a-requirement-to-check-sex-offender-registry.md)
 - [§ 1394-B Requirement to check sex offender registry](1394b-requirement-to-check-sex-offender-registry.md)
 - [§ 1394-C Camps for children with developmental disabilities](1394c-camps-for-children-with-developmental-disabilities.md)
+- [§ 1394-D Requirement to check sex offender registry](1394d-requirement-to-check-sex-offender-registry.md)
 - [§ 1395 Violations; temporary restraining order](1395-violations-temporary-restraining-order.md)
 - [§ 1396 Pesticide applications](1396-pesticide-applications.md)
 - [§ 1397 Separability](1397-separability.md)
@@ -32,6 +33,7 @@ Section  1391.   Declaration of public policy.
          1394-a. Requirement to check sex offender registry.
          1394-b. Requirement to check sex offender registry.
          1394-c. Camps for children with developmental disabilities.
+         1394-d. Requirement to check sex offender registry.
          1395.   Violations; temporary restraining order.
          1396.   Pesticide applications.
          1397.   Separability.

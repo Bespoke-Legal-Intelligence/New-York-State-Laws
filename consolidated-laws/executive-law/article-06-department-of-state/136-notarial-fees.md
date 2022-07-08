@@ -16,5 +16,5 @@ dollars.
   * 3. For electronic notarial services, established in section one
 hundred thirty-five-c of this chapter, a fee set through regulation by
 the secretary of state.
-  * NB Effective January 1, 2023
+  * NB Effective January 31, 2023
 ```

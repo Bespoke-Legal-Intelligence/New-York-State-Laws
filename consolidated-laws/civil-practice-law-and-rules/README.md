@@ -8,7 +8,7 @@
 | Senate code | CVP |
 | Type | Consolidated law, chapter 8 |
 | Sections | 807 |
-| Last changed | 17 Jun 2022 |
+| Last changed | 8 Jul 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Civil Practice Law & Rules |
 
@@ -31,6 +31,7 @@ AN ACT in relation to civil practice and prescribing rules of civil
 
 ## Recent changes
 
+- [8 Jul 2022](../../changes/2022/2022-07-08.md): 4 amended
 - [17 Jun 2022](../../changes/2022/2022-06-17.md): 2 amended
 - [10 Jun 2022](../../changes/2022/2022-06-10.md): 2 amended, 1 added
 - [3 Jun 2022](../../changes/2022/2022-06-03.md): 1 amended
@@ -40,7 +41,6 @@ AN ACT in relation to civil practice and prescribing rules of civil
 - [8 Apr 2022](../../changes/2022/2022-04-08.md): 1 amended
 - [4 Mar 2022](../../changes/2022/2022-03-04.md): 1 amended
 - [25 Feb 2022](../../changes/2022/2022-02-25.md): 1 amended
-- [28 Jan 2022](../../changes/2022/2022-01-28.md): 1 amended
 
 ## Contents
 

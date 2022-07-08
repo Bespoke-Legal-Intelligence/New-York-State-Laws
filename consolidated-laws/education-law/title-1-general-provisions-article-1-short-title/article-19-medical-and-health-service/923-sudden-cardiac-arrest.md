@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 19 — Medical and Health Service](README.md)
 
 ```text
-  * § 923. Sudden cardiac arrest. a. The commissioner shall review the
+  § 923. Sudden cardiac arrest. a. The commissioner shall review the
 information developed by the commissioner of health required by
 subdivision thirty-one of section two hundred six of the public health
 law to assist in the education and awareness of the signs and symptoms
@@ -24,5 +24,4 @@ activities and shall not resume athletic activity until he or she has
 been evaluated by and received written and signed authorization from a
 licensed physician. Such authorization shall be kept on file in the
 pupil's permanent health record.
-  * NB Effective July 1, 2022
 ```

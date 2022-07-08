@@ -10,8 +10,10 @@
 - [§ 400.02 Statewide license and record database](400.02-statewide-license-and-record-database.md)
 - [§ 400.03 Sellers of ammunition](400.03-sellers-of-ammunition.md)
 - [§ 400.05 Disposition of weapons and dangerous instruments, appliances and substances](400.05-disposition-of-weapons-and-dangerous.md)
+- [§ 400.06 National instant criminal background checks](400.06-national-instant-criminal-background-checks.md)
 - [§ 400.10 Report of theft or loss of a firearm, rifle or shotgun](400.10-report-of-theft-or-loss-of-a-firearm-rifle.md)
 - [§ 400.20 Waiting period in connection with the sale or transfer of a rifle or shotgun](400.20-waiting-period-in-connection-with-the-sale.md)
+- [§ 400.30 Application](400.30-application.md)
 
 <details>
 <summary>Official heading of Article 400, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -27,9 +29,11 @@ Section 400.00 Licenses to carry, possess, repair and dispose of
         400.03 Sellers of ammunition.
         400.05 Disposition of weapons and dangerous instruments,
                  appliances and substances.
+        400.06 National instant criminal background checks.
         400.10 Report of theft or loss of a firearm, rifle or shotgun.
         400.20 Waiting period in connection with the sale or transfer of
                  a rifle or shotgun.
+        400.30 Application.
 ```
 
 </details>

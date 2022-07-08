@@ -41,12 +41,14 @@
 - [§ 226 Employment of state police in towns, villages, police districts](226-employment-of-state-police-in-towns-villages-police-districts.md)
 - [§ 227 Disability benefits](227-disability-benefits.md)
 - [§ 227-A Death benefits](227a-death-benefits.md)
+- [§ 228 National instant criminal background checks](228-national-instant-criminal-background-checks.md)
 - [§ 229 Retirement for cause](229-retirement-for-cause.md)
 - [§ 230 Gun trafficking interdiction program](230-gun-trafficking-interdiction-program.md)
 - [§ 231 Uniform identification cards for retired police officers](231-uniform-identification-cards-for-retired-police-officers.md)
 - [§ 232 Sexual assault victims unit](232-sexual-assault-victims-unit.md)
 - [§ 233 Municipal gun buyback program](233-municipal-gun-buyback-program.md)
 - [§ 234 New York state police body-worn cameras program](234-new-york-state-police-body-worn-cameras-program.md)
+- [§ 235 Firearms safety training, and licensing appeals](235-firearms-safety-training-and-licensing-appeals.md)
 
 <details>
 <summary>Official heading of Article 11, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -98,12 +100,14 @@ Section 210.   Division of state police.
                  districts.
         227.   Disability benefits.
         227-a. Death benefits.
+        228.   National instant criminal background checks.
         229.   Retirement for cause.
         230.   Gun trafficking interdiction program.
         231.   Uniform identification cards for retired police officers.
         232.   Sexual assault victims unit.
         233.   Municipal gun buyback program.
         234.   New York state police body-worn cameras program.
+        235.   Firearms safety training, and licensing appeals.
 ```
 
 </details>

@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 10 — Office of General Services](README.md)
 
 ```text
-  * § 202-a. Language translation services. 1. Each state agency that
+  § 202-a. Language translation services. 1. Each state agency that
 provides direct public services in New York state shall translate all
 vital documents relevant to services offered by the agency into the
 twelve most common non-English languages spoken by limited-English
@@ -68,5 +68,4 @@ completed by law.
 this section and shall prepare an annual report, which shall be made
 public on the office of general services website, detailing each
 agency's progress and compliance with this section.
-  * NB Effective July 1, 2022
 ```

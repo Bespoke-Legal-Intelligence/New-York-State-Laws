@@ -77,6 +77,9 @@ Section 300.   Private road.
                  regard thereto.
         330.   Ramps in street curbing.
         331.   Consideration of complete street design.
+        332.   Portion of the Mohawk-Hudson Bike-Hike Trail to be
+                 designated as the "Ronald H. Miller Memorial Bike
+                 Trail".
 ```
 
 </details>

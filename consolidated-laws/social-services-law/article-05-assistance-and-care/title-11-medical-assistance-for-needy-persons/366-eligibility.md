@@ -435,7 +435,7 @@ are transitioned to fee-for-service coverage, then such individuals
 shall continue to be entitled to these benefits in the fee-for-service
 program, rather than through a managed care provider.
   * NB Effective January 1, 2023
-  1-a. Notwithstanding any other provision of law, in the event that a
+  * 1-a. Notwithstanding any other provision of law, in the event that a
 person who is an incarcerated individual of a state or local
 correctional facility, as defined in section two of the correction law,
 was in receipt of medical assistance pursuant to this title immediately
@@ -463,6 +463,41 @@ provide medical assistance for transitional services including but not
 limited to medical, prescription, and care coordination services for
 high needs incarcerated individuals in state and local correctional
 facilities during the thirty days prior to release.
+  * NB Effective until January 1, 2023
+  * 1-a. Notwithstanding any other provision of law, in the event that a
+person who is an incarcerated individual of a state or local
+correctional facility, as defined in section two of the correction law,
+or an eligible juvenile inmate of a public institution, as defined in
+subsection (nn) of section nineteen hundred two of the social security
+act, was in receipt of medical assistance pursuant to this title
+immediately prior to being admitted to such facility or public
+institution, or for juveniles determined eligible for such medical
+assistance while an inmate of a public institution, such person shall
+remain eligible for medical assistance while an incarcerated individual,
+except that no medical assistance shall be furnished pursuant to this
+title for any care, services, or supplies provided during such time as
+the person is an incarcerated individual; provided, however, that
+nothing herein shall be deemed as preventing the provision of medical
+assistance for inpatient hospital services furnished to an incarcerated
+individual at a hospital outside of the premises of such correctional
+facility or public institution, or pursuant to other federal authority
+authorizing the provision of medical assistance to an incarcerated
+individual of a state or local correctional facility during the thirty
+days prior to release, to the extent that federal financial
+participation is available for the costs of such services. Upon release
+from such facility or public institution, such person shall continue to
+be eligible for receipt of medical assistance furnished pursuant to this
+title until such time as the person is determined to no longer be
+eligible for receipt of such assistance. To the extent permitted by
+federal law, the time during which such person is an incarcerated
+individual shall not be included in any calculation of when the person
+must recertify his or her eligibility for medical assistance in
+accordance with this article. The state may seek federal authority to
+provide medical assistance for transitional services including but not
+limited to medical, prescription, and care coordination services for
+high needs incarcerated individuals in state and local correctional
+facilities during the thirty days prior to release.
+  * NB Effective January 1, 2023
   1-b. Notwithstanding any other provision of law, in the event that a
 person who is an inpatient in an institution for mental diseases, as
 defined by federal law and regulations, and who was in receipt of

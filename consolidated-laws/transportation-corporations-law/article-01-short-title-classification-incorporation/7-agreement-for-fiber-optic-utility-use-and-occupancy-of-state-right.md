@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Transportation Corporations Law § 7", "kind": "section", "law_id": "TCP", "location_id": "7", "path": "ARTICLE 1 › SECTION 7", "repealed": false, "repealed_date": null, "source": "nys-laws:TCP/7.md", "title": "Agreement for fiber optic utility use and occupancy of state right of way"} -->
+﻿<!-- nyslaw {"citation": "Transportation Corporations Law § 7", "kind": "section", "law_id": "TCP", "location_id": "7", "path": "ARTICLE 1 › SECTION 7", "repealed": true, "repealed_date": "2022-07-08", "source": "nys-laws:TCP/7.md", "title": "Agreement for fiber optic utility use and occupancy of state right of way"} -->
 # Transportation Corporations Law § 7 — Agreement for fiber optic utility use and occupancy of state right of way
 
 [Transportation Corporations Law](../README.md) › [Article 1 — Short Title; Classification; Incorporation; Application](README.md)
+
+**Repealed** (8 Jul 2022). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 7. Agreement for fiber optic utility use and occupancy of state

@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 235", "kind": "section", "law_id": "EXC", "location_id": "235", "path": "ARTICLE 11 › SECTION 235", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/235.md", "title": "Firearms safety training, and licensing appeals"} -->
+# Executive Law § 235 — Firearms safety training, and licensing appeals
+
+[Executive Law](../README.md) › [Article 11 — Division of State Police](README.md)
+
+```text
+  * § 235. Firearms safety training, and licensing appeals. 1. The
+superintendent shall, in conjunction with the commissioner of the
+division of criminal justice services, promulgate policies and
+procedures with regard to standardization of firearms safety training
+required under subdivision nineteen of section 400.00 of the penal law,
+which shall include the approval of course materials and the
+promulgation of proficiency standards for live fire training.
+  2. The superintendent, in conjunction with the commissioner of the
+division of criminal justice services, shall create an appeals board for
+the purpose of hearing appeals as provided in subdivision four-a of
+section 400.00 of the penal law and promulgate rules and regulations
+governing such appeals.
+  * NB Effective September 1, 2022
+```

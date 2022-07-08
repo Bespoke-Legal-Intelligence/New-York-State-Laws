@@ -43,14 +43,19 @@ be used for low-cost residential weatherization or other energy-related
 home repair for low-income households, as follows:
   a. No less than ten percent of the funds available to New York state
 under the federal low-income home energy assistance program shall be
-allocated to the division of housing and community renewal for its
-weatherization assistance program and shall be expended as provided in
-the annual New York state weatherization plan.
+allocated to the division of housing and community renewal, the housing
+trust fund corporation, or the housing finance agency as designated by
+the division of housing and community renewal for the weatherization
+assistance program and other low-cost residential weatherization or
+other energy-related home repair for low-income households. All such
+programs and expenditures shall be provided in the annual New York state
+weatherization assistance program state plan or by agreement with the
+office of temporary and disability assistance.
   b. Administrative funds to implement the program described in this
 subdivision at the state and local levels shall be set at ten percent of
 the total amount allocated to the division of housing and community
-renewal.  Administrative monies shall be derived from funds identified
-by the division of the budget as that portion of the home energy
-assistance program grant reported to the federal department of health
-and human services for state administration of such program.
+renewal. Administrative monies shall be derived from funds identified by
+the division of the budget as that portion of the home energy assistance
+program grant reported to the federal department of health and human
+services for state administration of such program.
 ```

@@ -141,6 +141,16 @@ or, if the seller does not have that address, at such address that
 reasonably reflects the customer's location at the time of the sale of
 the prepaid wireless communications service.
   * NB Effective December 20, 2029
+  * (d) In addition to the surcharge on wireless communications service
+authorized to be imposed under paragraph (b) of this subdivision and the
+surcharge on the retail sale of each prepaid wireless communications
+service authorized to be imposed under paragraph (c) of this
+subdivision, the county of Albany may impose an additional surcharge at
+the rate of: (i) ninety-five cents per month for surcharges authorized
+under paragraph (b) of this subdivision; and (ii) ninety-five cents per
+retail sale for surcharges authorized under paragraph (c) of this
+subdivision.
+  * NB Repealed June 30, 2032
   3. Any such local law, ordinance or resolution adopted pursuant to
 this section shall state the amount of the surcharges and the date on
 which both the wireless communications service supplier shall begin to

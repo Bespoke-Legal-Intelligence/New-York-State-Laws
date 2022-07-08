@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | CNT |
 | Type | Consolidated law, chapter 11 |
-| Sections | 404 (2 repealed) |
-| Last changed | 10 Jun 2022 |
+| Sections | 403 |
+| Last changed | 8 Jul 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | County |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [8 Jul 2022](../../changes/2022/2022-07-08.md): 1 added, 2 removed
 - [10 Jun 2022](../../changes/2022/2022-06-10.md): 1 amended
 - [15 Apr 2022](../../changes/2022/2022-04-15.md): 1 amended
 - [4 Mar 2022](../../changes/2022/2022-03-04.md): 1 amended, 2 repealed
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [19 Nov 2021](../../changes/2021/2021-11-19.md): 1 added
 - [12 Nov 2021](../../changes/2021/2021-11-12.md): 1 added
 - [13 Aug 2021](../../changes/2021/2021-08-13.md): 3 amended
-- [13 Nov 2020](../../changes/2020/2020-11-13.md): 1 amended
 
 ## Contents
 
@@ -56,7 +56,6 @@ Assembly, do enact as follows:
 - [Article 5-D — County Small Watershed Protection Districts](article-05d-county-small-watershed-protection-districts/)
 - [Article 6 — Enhanced Emergency Telephone System Surcharge](article-06-enhanced-emergency-telephone-system-surcharge/)
 - [Article 6-A — Local Enhanced Wireless 911 Program](article-06a-local-enhanced-wireless-911-program/)
-- [Article 6-B — 9-8-8 Suicide Prevention and Mental Health Crisis Act](article-06b-9-8-8-suicide-prevention-and-mental-health/) *(repealed)*
 - [Article 7 — Finance](article-07-finance/)
 - [Article 7-A — County Tuberculosis Hospitals](article-07a-county-tuberculosis-hospitals/)
 - [Article 7-B — County Medical Assistance Clinics](article-07b-county-medical-assistance-clinics/)

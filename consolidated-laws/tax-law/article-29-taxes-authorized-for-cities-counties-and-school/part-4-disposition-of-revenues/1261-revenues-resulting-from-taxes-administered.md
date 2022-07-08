@@ -74,98 +74,8 @@ the special sales and compensating use tax fund for the city of Yonkers
 established by section ninety-two-f of the state finance law at the
 times set forth in the preceding sentence.
   * NB Effective November 30, 2023
-  * (3) However, the taxes, penalties and interest which (i) the county
-of Nassau, (ii) the county of Erie, to the extent the county of Erie is
-contractually or statutorily obligated to allocate and apply or pay net
-collections to the city of Buffalo and to the extent that such county
-has set aside net collections for educational purposes attributable to
-the Buffalo school district, or the city of Buffalo or (iii) the county
-of Erie is authorized to impose pursuant to section twelve hundred ten
-of this article, other than such taxes in the amounts described,
-respectively, in subdivisions one and two of section one thousand two
-hundred sixty-two-e of this part, during the period that such section
-authorizes Nassau county to establish special or local assistance
-programs thereunder, together with any penalties and interest related
-thereto, and after the comptroller has reserved such refund fund and
-such costs, shall, commencing on the next payment date after the
-effective date of this sentence and of each month thereafter, until such
-date as (i) the Nassau county interim finance authority shall have no
-obligations outstanding, or (ii) the Buffalo fiscal stability authority
-shall cease to exist, or (iii) the Erie county fiscal stability
-authority shall cease to exist, be paid by the comptroller,
-respectively, to (i) the Nassau county interim finance authority to be
-applied by the Nassau county interim finance authority, or (ii) to the
-Buffalo fiscal stability authority to be applied by the Buffalo fiscal
-stability authority, or (iii) to the Erie county fiscal stability
-authority to be applied by the Erie county fiscal stability authority,
-as the case may be, in the following order of priority: first pursuant
-to the Nassau county interim finance authority's contracts with
-bondholders or the Buffalo fiscal stability authority's contracts with
-bondholders or the Erie county fiscal stability authority's contracts
-with bondholders, respectively, then to pay the Nassau county interim
-finance authority's operating expenses not otherwise provided for or the
-Buffalo fiscal stability authority's operating expenses not otherwise
-provided for or the Erie county fiscal stability authority's operating
-expenses not otherwise provided for, respectively, then (i) for the
-Nassau county interim finance authority to pay to the state as soon as
-practicable in the months of May and December each year, the amount
-necessary to fulfill the town and village distribution requirement on
-behalf of Nassau county pursuant to paragraph five-a of this
-subdivision, or (ii) for the Buffalo fiscal stability authority to pay
-to the state as soon as practicable in the months of May and December
-each year, the percentage of the amount necessary to fulfill the town
-and village distribution requirement on behalf of Erie county pursuant
-to paragraph five-a of this subdivision that equates to the percentage
-of the county net collections that the city of Buffalo and the Buffalo
-city school district, together, are due in the months of May and
-December each year, or (iii) for the Erie county fiscal stability
-authority to pay to the state as soon as practicable in the months of
-May and December each year, the amount necessary to fulfill the town and
-village distribution requirement on behalf of Erie county pursuant to
-paragraph five-a of this subdivision, less the amount being paid to the
-state by the Buffalo fiscal stability authority in each respective
-month, and then (i) pursuant to the Nassau county interim finance
-authority's agreements with the county of Nassau, which agreements shall
-require the Nassau county interim finance authority to transfer such
-taxes, penalties and interest remaining after providing for contractual
-or other obligations of the Nassau county interim finance authority, and
-subject to any agreement between such authority and the county of
-Nassau, to the county of Nassau as frequently as practicable; or (ii)
-pursuant to the Buffalo fiscal stability authority's agreements with the
-city of Buffalo, which agreements shall require the Buffalo fiscal
-stability authority to transfer such taxes, penalties and interest
-remaining after providing for contractual or other obligations of the
-Buffalo fiscal stability authority, and subject to any agreement between
-such authority and the city of Buffalo, to the city of Buffalo or the
-city of Buffalo school district, as the case may be, as frequently as
-practicable; or (iii) pursuant to the Erie county fiscal stability
-authority's agreements with the county of Erie, which agreements shall
-require the Erie county fiscal stability authority to transfer such
-taxes, penalties and interest remaining after providing for contractual
-or other obligations of the Erie county fiscal stability authority, and
-subject to any agreement between such authority and the county of Erie,
-to the county of Erie as frequently as practicable. During the period
-that the comptroller is required to make payments to the Nassau county
-interim finance authority described in the previous sentence, the county
-of Nassau shall have no right, title or interest in or to such taxes,
-penalties and interest required to be paid to the Nassau county interim
-finance authority, except as provided in such authority's agreements
-with the county of Nassau. During the period that the comptroller is
-required to make payments to the Buffalo fiscal stability authority
-described in the second previous sentence, the city of Buffalo and such
-school district shall have no right, title or interest in or to such
-taxes, penalties and interest required to be paid to the Buffalo fiscal
-stability authority, except as provided in such authority's agreements
-with the city of Buffalo. During the period that the comptroller is
-required to make payments to the Erie county fiscal stability authority
-described in the third previous sentence, the county of Erie shall have
-no right, title or interest in or to such taxes, penalties and interest
-required to be paid to the Erie county fiscal stability authority,
-except as provided in such authority's agreements with the county of
-Erie.
-  * NB Effective until July 1, 2022
-  * (3) However, the taxes, penalties and interest which (i) the county
-of Nassau, (ii) the county of Erie, to the extent the county of Erie is
+  (3) However, the taxes, penalties and interest which (i) the county of
+Nassau, (ii) the county of Erie, to the extent the county of Erie is
 contractually or statutorily obligated to allocate and apply or pay net
 collections to the city of Buffalo and to the extent that such county
 has set aside net collections for educational purposes attributable to
@@ -236,7 +146,6 @@ no right, title or interest in or to such taxes, penalties and interest
 required to be paid to the Erie county fiscal stability authority,
 except as provided in such authority's agreements with the county of
 Erie.
-  * NB Effective July 1, 2022
   (4) The amount so payable shall be certified to the comptroller by the
 commissioner or the commissioner's delegate, who shall not be held
 liable for any inaccuracy in such certificate. Provided, however, any
@@ -309,31 +218,6 @@ no right, title or interest in or to those taxes, penalties and interest
 required to be paid into the above referenced central business district
 tolling capital lockbox.
   * NB Effective April 3, 2025
-  * (5-a) However, after the comptroller has made the payments to the
-Nassau county interim finance authority, the Buffalo fiscal stability
-authority, and the Erie county fiscal stability authority required by
-paragraph three of this subdivision, for each municipality that received
-a base level grant in state fiscal year two thousand eighteen-two
-thousand nineteen but not in state fiscal year two thousand nineteen-two
-thousand twenty under the aid and incentives for municipalities program
-pursuant to subdivision ten of section fifty-four of the state finance
-law, the comptroller shall annually withhold from each county except
-Nassau and Erie from the remaining taxes, penalties and interest imposed
-by the county in which a majority of the population of such municipality
-resides, and on behalf of Nassau and Erie counties the comptroller shall
-annually receive from the Nassau county interim finance authority, the
-Buffalo fiscal stability authority, and the Erie county fiscal stability
-authority, an amount equal to the base level grant received by such
-municipality in state fiscal year two thousand eighteen-two thousand
-nineteen and shall annually distribute, by December fifteenth, two
-thousand nineteen and by such date annually thereafter, such amount
-directly to such municipality, unless such municipality has a fiscal
-year ending May thirty-first, then such annual distribution shall be
-made by May fifteenth, two thousand twenty and by such date annually
-thereafter. No county shall have any right, title or interest in or to
-the taxes, penalties and interest required to be withheld or distributed
-pursuant to this paragraph.
-  * NB Repealed July 1, 2022
   (6) Where the amount so paid over to any city, county, school district
 or the special sales and compensating use tax fund for the city of
 Yonkers in any such distribution or to any such authority is more or

@@ -76,7 +76,7 @@ with any person named in response to subparagraph (iv), (v), (vi) or
 of the transactions, naming the parties thereto and describing the
 relationships which require the transactions to be described and the
 goods, services, payments or other consideration received by each party
-to the transactions.  Such facility must make available to the
+to the transactions. Such facility must make available to the
 department, when requested, adequate documentation to support the costs
 involved including access to books and records related to such
 transactions.
@@ -134,9 +134,9 @@ procedure.
   (e) Each enriched housing program shall file financial statements with
 the department on at least an annual basis, in accordance with
 regulations.
-  5. The department may promulgate regulations which require each adult
-care facility to maintain the following written records and any other
-such records, under such conditions and for such time, as may be
+  * 5. The department may promulgate regulations which require each
+adult care facility to maintain the following written records and any
+other such records, under such conditions and for such time, as may be
 prescribed pursuant to such regulations: (i) a chronological admission
 and discharge register consisting of a listing of residents registered
 in and discharged from such facility by name, age, sex of resident, and
@@ -150,6 +150,24 @@ concerning the resident, (iv) a financial record for each resident,
 including but not limited to, copies of all agreements, resident account
 records and a current inventory of personal property being held by the
 operator.
+  * NB Effective until September 28, 2022
+  * 5. The department may promulgate regulations which require each
+adult care facility to maintain the following written records and any
+other such records, under such conditions and for such time, as may be
+prescribed pursuant to such regulations: (i) a chronological admission
+and discharge register consisting of a listing of residents registered
+in and discharged from such facility by name, age, race or ethnicity,
+sex of resident, and place from or to which the resident is registered
+or discharged, (ii) a daily census record, (iii) a personal non-medical
+record for each resident, including but not limited to, identification
+of his or her next-of-kin, family and sponsor, the name and address of
+the person or persons to be contacted in the event of an emergency, and
+all details of the referral and registration and non-medical
+correspondence and papers concerning the resident, (iv) a financial
+record for each resident, including but not limited to, copies of all
+agreements, resident account records and a current inventory of personal
+property being held by the operator.
+  * NB Effective September 28, 2022
   6. No facts and information retained as part of individual resident
 records by an operator of an adult care facility may be released to
 anyone other than the resident, the resident's next-of-kin or authorized
@@ -175,7 +193,7 @@ the investigating officer or district attorney; or to a court or to the
 presiding officer of an administrative proceeding and the parties to
 such proceeding if, with the consent of the persons providing such
 information, it is to be utilized by the department or any other state
-or local agency or subdivision in such proceeding.  If a party is not
+or local agency or subdivision in such proceeding. If a party is not
 provided with the identity of a person providing information in
 accordance with the provisions of this section, the fact that such
 confidential report was made shall in no way be relied upon by any court

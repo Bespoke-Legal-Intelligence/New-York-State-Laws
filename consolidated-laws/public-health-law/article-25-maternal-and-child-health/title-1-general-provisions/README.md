@@ -29,6 +29,7 @@
 - [§ 2504-B Information concerning pelvic exams](2504b-information-concerning-pelvic-exams.md)
 - [§ 2505 Human breast milk; collection, storage and distribution; general powers of the commissioner](2505-human-breast-milk-collection-storage-and-distribution-general-powers.md)
 - [§ 2505-A Rights of breastfeeding mothers](2505a-rights-of-breastfeeding-mothers.md)
+- [§ 2505-B Lactation accommodations in airports](2505b-lactation-accommodations-in-airports.md)
 - [§ 2506 Obstetric and pediatric practitioner incentive demonstration program](2506-obstetric-and-pediatric-practitioner-incentive-demonstration-program.md)
 - [§ 2507 Special supplemental nutrition program for women, infants and children; specialty formula](2507-special-supplemental-nutrition-program-for-women-infants-and-children.md)
 - [§ 2508 Newborn health and safe sleep study](2508-newborn-health-and-safe-sleep-study.md)
@@ -71,6 +72,7 @@ Section 2500.     Maternal and child health; duties of commissioner.
         2505.     Human breast milk; collection, storage and
                     distribution; general powers of the commissioner.
         2505-a.   Rights of breastfeeding mothers.
+        2505-b.   Lactation accommodations in airports.
         2506.     Obstetric and pediatric practitioner incentive
                     demonstration program.
         2507.     Special supplemental nutrition program for women,

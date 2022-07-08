@@ -1075,11 +1075,10 @@ improper behavior while supervising an advanced home health aide
 pursuant to subdivision two of section sixty-nine hundred eight of the
 education law.
   * NB Repealed March 31, 2023
-  * 31. The commissioner shall develop information, in conjunction with
+  31. The commissioner shall develop information, in conjunction with
 the commissioner of education related to students who exhibit signs or
 symptoms of pending or increased risk of sudden cardiac arrest. Such
 information shall include, but not be limited to, the definition of
 sudden cardiac arrest, signs and symptoms of sudden cardiac arrest. Such
 information shall be posted on the department's website.
-  * NB Effective July 1, 2022
 ```
