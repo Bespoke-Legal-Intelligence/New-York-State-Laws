@@ -10,7 +10,7 @@
 - [§ 92 Deputies](092-deputies.md)
 - [§ 93 Custody of records](093-custody-of-records.md)
 - [§ 93-A Examination of reports](093a-examination-of-reports.md)
-- [§ 94 Joint commission on public ethics; functions, powers and duties; review of financial disclosure statements; advisory opinions; investigat...](094-joint-commission-on-public-ethics-functions-powers-and-duties-review.md)
+- [§ 94 Commission on ethics and lobbying in government](094-commission-on-ethics-and-lobbying-in-government.md)
 - [§ 94-A Consumer protection division](094a-consumer-protection-division.md)
 - [§ 94-B Office for new Americans](094b-office-for-new-americans.md)
 - [§ 94-C Major renewable energy development program](094c-major-renewable-energy-development-program.md)

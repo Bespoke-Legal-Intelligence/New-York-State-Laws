@@ -36,6 +36,7 @@
 - [§ 329 Land monuments and markers; duty of highway superintendents and commissioner of transportation in regard thereto](329-land-monuments-and-markers-duty-of-highway-superintendents-and-commissioner.md)
 - [§ 330 Ramps in street curbing](330-ramps-in-street-curbing.md)
 - [§ 331 Consideration of complete street design](331-consideration-of-complete-street-design.md)
+- [§ 332 Portion of the Mohawk-Hudson Bike-Hike Trail to be designated as the "Ronald H](332-portion-of-the-mohawk-hudson-bike-hike-trail-to-be-designated-as-the-ronald-h.md)
 
 <details>
 <summary>Official heading of Article 11, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
