@@ -22,6 +22,7 @@
 - [§ 65-B Offense for one under age of twenty-one years to purchase or attempt to purchase an alcoholic beverage through fraudulent means](65b-offense-for-one-under-age-of-twenty-one-years-to-purchase-or-attempt.md)
 - [§ 65-C Unlawful possession of an alcoholic beverage with the intent to consume by persons under the age of twenty-one years](65c-unlawful-possession-of-an-alcoholic-beverage-with-the-intent-to-consume.md)
 - [§ 65-D Posting of signs](65d-posting-of-signs.md)
+- [§ 65-E Posting of signs relating to human trafficking](65e-posting-of-signs-relating-to-human-trafficking.md)
 - [§ 66 License fees](66-license-fees.md)
 - [§ 67 License fees, duration of licenses; fee for part of year](67-license-fees-duration-of-licenses-fee-for-part-of-year.md)
 
@@ -59,7 +60,8 @@ Section 60.   Kinds of licenses.
                 intent to consume by persons under the age of twenty-one
                 years.
         65-d. Posting of signs.
-        6     6.  License fees.
+        65-e. Posting of signs relating to human trafficking.
+        66.   License fees.
         67.   License fees, duration of licenses; fee for part of year.
 ```
 

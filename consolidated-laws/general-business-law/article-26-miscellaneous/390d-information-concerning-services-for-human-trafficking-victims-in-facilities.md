@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 390-D", "kind": "section", "law_id": "GBS", "location_id": "390-D", "path": "ARTICLE 26 › SECTION 390-D", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/390-D.md", "title": "Information concerning services for human trafficking victims in facilities at truck stops"} -->
+# General Business Law § 390-D — Information concerning services for human trafficking victims in facilities at truck stops
+
+[General Business Law](../README.md) › [Article 26 — Miscellaneous](README.md)
+
+```text
+  * § 390-d. Information concerning services for human trafficking
+victims in facilities at truck stops. 1. The operator of any truck stop
+shall make available in plain view and in a conspicuous place and manner
+in all sanitary facilities available for public use, informational cards
+and/or signs developed by:
+  (i) the office of temporary and disability assistance in consultation
+with the New York state interagency task force on human trafficking; or
+  (ii) the United States Department of Homeland Security.
+  2. All informational cards and signs shall only contain information
+concerning services for human trafficking victims and shall prominently
+include the national human trafficking hotline telephone number.
+  3. For purposes of this section, "truck stop" shall mean a facility
+that has the capacity to provide fuel or service, or both, to any
+commercial motor vehicle as defined by subdivision four of section five
+hundred one-a of the vehicle and traffic law operating in commerce which
+is located within twenty-five hundred feet of a controlled-access
+highway as defined by section one hundred nine of the vehicle and
+traffic law which has been functionally classified by the department of
+transportation as principal arterial - interstate or principal arterial
+- other freeway/expressway on official functional classification maps
+approved by the federal highway administration pursuant to part 470.105
+of title 23 of the code of federal regulations, as amended from time to
+time.
+  * NB Effective September 18, 2022
+```

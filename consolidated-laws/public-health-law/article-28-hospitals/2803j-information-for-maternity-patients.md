@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 28 — Hospitals](README.md)
 
 ```text
-  * § 2803-j. Information for maternity patients.  1. The commissioner
+  * § 2803-j. Information for maternity patients. 1. The commissioner
 shall require that every hospital and birth center shall prepare in
 printed or photocopied form and distribute at the time of pre-booking
 directly to each prospective maternity patient and, upon request, to the
@@ -15,7 +15,10 @@ section and such other material as deemed appropriate by the
 commissioner. Hospitals and birth centers may also elect to distribute
 additional explanatory material along with the maternity patients
 informational leaflet. The commissioner shall make the information
-contained in the leaflet available on the department's website.
+contained in the leaflet available on the department's website and shall
+present all annual statistical information compiled pursuant to
+subdivision three of this section on the department's website for the
+most recent five years for which such data is available.
   1-a. The informational leaflet shall also include an explanation of
 the special provisions relating to maternity care and coverage under the
 insurance law and section twenty-eight hundred three-n of this article,

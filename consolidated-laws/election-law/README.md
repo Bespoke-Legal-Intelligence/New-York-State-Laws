@@ -60,4 +60,4 @@ of section forty-two of the public officers law and amending such law in
 - [Article 14 — Campaign Receipts and Expenditures](article-14-campaign-receipts-and-expenditures/)
 - [Article 15 — Village Elections](article-15-village-elections/)
 - [Article 16 — Judicial Proceedings](article-16-judicial-proceedings/)
-- [Article 17 — Protecting of the Elective Franchise](article-17-protecting-of-the-elective-franchise/)
+- [Article 17 — Protecting the Elective Franchise](article-17-protecting-the-elective-franchise/)

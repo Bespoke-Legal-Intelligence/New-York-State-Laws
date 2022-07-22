@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Election Law § 17-200", "kind": "section", "law_id": "ELN", "location_id": "17-200", "path": "ARTICLE 17 › TITLE 2 › SECTION 17-200", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/17-200.md", "title": "Legislative purpose and statement of public policy"} -->
+# Election Law § 17-200 — Legislative purpose and statement of public policy
+
+[Election Law](../../README.md) › [Article 17 — Protecting the Elective Franchise](../README.md) › [Title 2 — John R Lewis Voting Rights Act of New York](README.md)
+
+```text
+  § 17-200. Legislative purpose and statement of public policy. In
+recognition of the protections for the right to vote provided by the
+constitution of the state of New York, which substantially exceed the
+protections for the right to vote provided by the constitution of the
+United States, and in conjunction with the constitutional guarantees of
+equal protection, freedom of expression, and freedom of association
+under the law and against the denial or abridgement of the voting rights
+of members of a race, color, or language-minority group, it is the
+public policy of the state of New York to:
+  1. Encourage participation in the elective franchise by all eligible
+voters to the maximum extent; and
+  2. Ensure that eligible voters who are members of racial, color, and
+language-minority groups shall have an equal opportunity to participate
+in the political processes of the state of New York, and especially to
+exercise the elective franchise.
+```

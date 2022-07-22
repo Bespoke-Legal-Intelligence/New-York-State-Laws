@@ -13,6 +13,7 @@
 - [§ 203-B Posting of statute](203b-posting-of-statute.md)
 - [§ 204 Register to be kept](204-register-to-be-kept.md)
 - [§ 204-A Safety chain latches required](204a-safety-chain-latches-required.md)
+- [§ 205 Human trafficking awareness and training](205-human-trafficking-awareness-and-training.md)
 - [§ 206 Rates to be posted; penalty for violation](206-rates-to-be-posted-penalty-for-violation.md)
 - [§ 206-A Advertising of rates for motels and motor courts](206a-advertising-of-rates-for-motels-and-motor-courts.md)
 - [§ 206-B Posting of rates for motels and motor courts](206b-posting-of-rates-for-motels-and-motor-courts.md)
@@ -47,6 +48,7 @@ Section 200.   Safes; limited liability.
         203-b. Posting of statute.
         204.   Register to be kept.
         204-a. Safety chain latches required.
+        205.   Human trafficking awareness and training.
         206.   Rates to be posted; penalty for violation.
         206-a. Advertising of rates for motels and motor courts.
         206-b. Posting of rates for motels and motor courts.

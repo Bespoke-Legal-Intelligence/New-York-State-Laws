@@ -360,6 +360,9 @@ given or contracted to be given is less than one hundred ten dollars per
 article of clothing, per pair of shoes or other articles of footwear or
 per item used or consumed to make or repair such clothing and which
 becomes a physical component part of such clothing.
+  * (30-a) Diapers intended for human use including, but not limited to:
+disposable, reusable, adult, and children's diapers.
+  * NB Effective December 1, 2022
   * (31) Copies sold through coin operated photocopying machines at
 fifty cents or less. As used in this paragraph, "photocopying machine"
 means a vending machine which, upon insertion of a coin, copies a

@@ -8,7 +8,7 @@
 | Senate code | ENG |
 | Type | Consolidated law, chapter 17-A |
 | Sections | 70 |
-| Last changed | 8 Jul 2022 |
+| Last changed | 22 Jul 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Energy |
 
@@ -31,6 +31,7 @@ Article 1. Short title; definitions (§§ 1-101 to 1-103).
 
 ## Recent changes
 
+- [22 Jul 2022](../../changes/2022/2022-07-22.md): 1 amended
 - [8 Jul 2022](../../changes/2022/2022-07-08.md): 8 amended, 3 added
 - [24 Apr 2020](../../changes/2020/2020-04-24.md): 1 amended
 - [20 Dec 2019](../../changes/2019/2019-12-20.md): 1 amended

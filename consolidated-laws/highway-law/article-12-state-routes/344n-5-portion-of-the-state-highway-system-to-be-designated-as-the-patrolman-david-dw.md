@@ -11,5 +11,5 @@
 state highway system constituting state route 17C within the village of
 Johnson City, county of Broome, shall be designated and known as the
 "Patrolman David 'DW' Smith Memorial Highway".
-  * NB There are 7 § 344-n's
+  * NB There are 8 § 344-n's
 ```

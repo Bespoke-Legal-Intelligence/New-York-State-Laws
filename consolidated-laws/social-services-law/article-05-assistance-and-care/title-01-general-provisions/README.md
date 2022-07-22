@@ -45,6 +45,7 @@
 - [§ 134 Supervision](134-supervision.md)
 - [§ 134-A Conduct of investigation](134a-conduct-of-investigation.md)
 - [§ 134-B Front end detection system](134b-front-end-detection-system.md)
+- [§ 134-C Requirement to publicly post information](134c-requirement-to-publicly-post-information.md)
 - [§ 135 Cooperation of public welfare officials](135-cooperation-of-public-welfare-officials.md)
 - [§ 136 Protection of public welfare records](136-protection-of-public-welfare-records.md)
 - [§ 136-A Information from state tax commission and the comptroller](136a-information-from-state-tax-commission-and-the-comptroller.md)
@@ -128,6 +129,7 @@ Section 131.     Assistance, care and services to be given.
         134.     Supervision.
         134-a.   Conduct of investigation.
         134-b.   Front end detection system.
+        134-c.   Requirement to publicly post information.
         135.     Cooperation of public welfare officials.
         136.     Protection of public welfare records.
         136-a.   Information from state tax commission and the

@@ -350,6 +350,7 @@
 - [§ 344-N\*5 Portion of the state highway system to be designated as the "Patrolman David 'DW' Smith Memorial Highway"](344n-5-portion-of-the-state-highway-system-to-be-designated-as-the-patrolman-david-dw.md)
 - [§ 344-N\*6 Portion of the state highway system to be designated as the "Chief Samuel A](344n-6-portion-of-the-state-highway-system-to-be-designated-as-the-chief-samuel.md)
 - [§ 344-N\*7 Portion of the state highway system to be designated as the "Detective Anastasios Tsakos Memorial Bridge"](344n-7-portion-of-the-state-highway-system-to-be-designated-as-the-detective-anastasios.md)
+- [§ 344-N\*8 Portion of state highway system to be designated as "New York Medal of Honor Highway"](344n-8-portion-of-state-highway-system-to-be-designated-as-new-york-medal-of-honor.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 
 <details>
@@ -554,7 +555,8 @@ Section 340-a.     Designation of state interstate routes.
                      as the "Senator Ralph Quattrociocchi Memorial
                      Highway".
         343-a*3.   Portion of state highway system to be designated as
-                     "The Disabled American Veterans Memorial Highway."
+                     "The Disabled American Veterans - New York Medal of
+                     Honor Highway".
         343-a*4.   Portion of the state highway system to be designated
                      as the "General Philip Schuyler Commemorative
                      Highway".
@@ -1031,8 +1033,8 @@ Section 340-a.     Designation of state interstate routes.
         344-h*8.   Portion of the state highway system to be designated
                      as the "Roger J. Mazal Memorial Bridge".
         344-h*9.   Portion of the state highway system to be designated
-                     as the "Sergeant Jonathan Gollnitz Memorial
-                     Highway".
+                     as the "Sergeant Jonathan Gollnitz - New York Medal
+                     of Honor Highway".
         344-h*10.  Portion of the state highway system to be designated
                      as the "PFC David P. Coveny Memorial Highway".
         344-h*11.  Portion of the state highway system to be designated
@@ -1170,6 +1172,8 @@ Section 340-a.     Designation of state interstate routes.
         344-n*7.   Portion of the state highway system to be designated
                      as the "Detective Anastasios Tsakos Memorial
                      Bridge".
+        344-n*8.   Portion of state highway system to be designated as
+                     "New York Medal of Honor Highway".
         345-a.     Abandonment and transfer of state highways.
 ```
 

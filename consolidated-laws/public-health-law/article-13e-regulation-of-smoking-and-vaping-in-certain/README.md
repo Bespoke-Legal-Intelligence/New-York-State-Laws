@@ -8,6 +8,7 @@
 - [§ 1399-N Definitions](1399n-definitions.md)
 - [§ 1399-O Smoking and vaping restrictions](1399o-smoking-and-vaping-restrictions.md)
 - [§ 1399-O-1 Smoking and vaping restrictions; certain outdoor areas](1399o-1-smoking-and-vaping-restrictions-certain-outdoor-areas.md)
+- [§ 1399-O-2 Smoking restrictions; certain outdoor areas](1399o-2-smoking-restrictions-certain-outdoor-areas.md)
 - [§ 1399-P Posting of signs](1399p-posting-of-signs.md)
 - [§ 1399-Q Smoking and vaping restrictions inapplicable](1399q-smoking-and-vaping-restrictions-inapplicable.md)
 - [§ 1399-R General provisions](1399r-general-provisions.md)
@@ -28,6 +29,7 @@ Section 1399-n.   Definitions.
         1399-o.   Smoking and vaping restrictions.
         1399-o-1. Smoking and vaping restrictions; certain outdoor
                     areas.
+        1399-o-2. Smoking restrictions; certain outdoor areas.
         1399-p.   Posting of signs.
         1399-q.   Smoking and vaping restrictions inapplicable.
         1399-r.   General provisions.

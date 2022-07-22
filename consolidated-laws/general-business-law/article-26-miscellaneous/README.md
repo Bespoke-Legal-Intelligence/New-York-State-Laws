@@ -13,6 +13,7 @@
 - [§ 390-BB Cramming prohibited](390bb-cramming-prohibited.md)
 - [§ 390-C Prohibit persons under eighteen years of age in certain facilities](390c-prohibit-persons-under-eighteen-years-of-age-in-certain-facilities.md)
 - [§ 390-C\*2 Posting of warnings by commercial entities offering internet access to the public](390c-2-posting-of-warnings-by-commercial-entities-offering-internet-access.md)
+- [§ 390-D Information concerning services for human trafficking victims in facilities at truck stops](390d-information-concerning-services-for-human-trafficking-victims-in-facilities.md)
 - [§ 391 Marking retreaded, recapped or recut tires](391-marking-retreaded-recapped-or-recut-tires.md)
 - [§ 391-A Unlawful acts relating to liquid fuels, lubricating oils and similar products](391a-unlawful-acts-relating-to-liquid-fuels-lubricating-oils-and-similar-products.md)
 - [§ 391-B Prohibit any sale of dangerous clothing articles](391b-prohibit-any-sale-of-dangerous-clothing-articles.md)
@@ -200,6 +201,8 @@ Section 390.         Substitution of spurious oils for internal
                        certain facilities.
         390-c*2.     Posting of warnings by commercial entities offering
                        internet access to the public.
+        390-d.       Information concerning services for human
+                       trafficking victims in facilities at truck stops.
         391.         Marking retreaded, recapped or recut tires.
         391-a.       Unlawful acts relating to liquid fuels, lubricating
                        oils and similar products.

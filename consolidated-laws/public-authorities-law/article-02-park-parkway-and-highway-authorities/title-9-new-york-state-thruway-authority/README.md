@@ -56,6 +56,7 @@
 - [§ 386-B Financing of peace bridge and transportation capital projects](386b-financing-of-peace-bridge.md)
 - [§ 387 Fees for searches and copies of accident and accident reconstruction reports](387-fees-for-searches-and-copies-of-accident.md)
 - [§ 388 Limitation on powers of the authority](388-limitation-on-powers-of-the-authority.md)
+- [§ 389 Information concerning services for human trafficking victims in facilities at service areas](389-information-concerning-services-for-human.md)
 
 <details>
 <summary>Official heading of Title 9, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -134,6 +135,8 @@ Section 350.   Short title.
         387.   Fees for searches and copies of accident and accident
                  reconstruction reports.
         388.   Limitation on powers of the authority.
+        389.   Information concerning services for human trafficking
+                 victims in facilities at service areas.
 ```
 
 </details>
