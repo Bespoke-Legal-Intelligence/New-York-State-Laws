@@ -209,4 +209,8 @@ long term home health agency or personal care provider with total
 medicaid reimbursements, including reimbursements through the managed
 care program established pursuant to section three hundred sixty-four-j
 of this chapter, exceeding fifteen million dollars per calendar year.
+  39. "Mental illness" shall have the same meaning as defined in section
+1.03 of the mental hygiene law.
+  40. "Developmental disability" shall have the same meaning as defined
+in section 1.03 of the mental hygiene law.
 ```

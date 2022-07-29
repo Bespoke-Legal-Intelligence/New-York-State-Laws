@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"kind": "container", "law_id": "MHY", "location_id": "TEA75", "path": "TITLE E › ARTICLE 75", "source": "nys-laws:MHY/TEA75.md", "title": "Community Mental Health Services and Mental Retardation Services Companies"} -->
-# Article 75 — Community Mental Health Services and Mental Retardation Services Companies
+﻿<!-- nyslaw {"kind": "container", "law_id": "MHY", "location_id": "TEA75", "path": "TITLE E › ARTICLE 75", "source": "nys-laws:MHY/TEA75.md", "title": "Community Mental Health Services and Developmental Disabilities Services Companies"} -->
+# Article 75 — Community Mental Health Services and Developmental Disabilities Services Companies
 
 [Mental Hygiene Law](../../README.md) › [Title E — General Provisions](../README.md)
 
@@ -27,8 +27,8 @@
 
 ```text
                                ARTICLE 75
-         COMMUNITY MENTAL HEALTH SERVICES AND MENTAL RETARDATION
-                           SERVICES COMPANIES
+COMMUNITY MENTAL HEALTH SERVICES AND DEVELOPMENTAL DISABILITIES SERVICES
+                                COMPANIES
 Section 75.01 Short title.
         75.03 Policy and purposes of article.
         75.05 Definitions.

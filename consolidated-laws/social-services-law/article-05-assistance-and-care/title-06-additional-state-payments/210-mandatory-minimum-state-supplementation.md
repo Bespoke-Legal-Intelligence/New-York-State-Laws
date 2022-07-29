@@ -4,7 +4,7 @@
 [Social Services Law](../../README.md) › [Article 5 — Assistance and Care](../README.md) › [Title 6 — Additional State Payments For Eligible Aged, Blind and Disabled Persons](README.md)
 
 ```text
-  § 210. Mandatory minimum state supplementation. 1. Any inconsistent
+  § 210. Mandatory minimum state supplementation.  1. Any inconsistent
 provisions of this title or any other law notwithstanding, but subject
 to the provisions of subdivisions two and three of this section, an
 individual who is deemed to have met the eligibility criteria for
@@ -32,81 +32,85 @@ eighty-one, plus for any month after June, nineteen hundred
 eighty-three, an amount equal to $17.70 for individuals, $26.55 for
 couples who are living alone or living with others and $35.40 for
 couples receiving family care, residential care or care in schools for
-the mentally retarded, plus for any month after December, nineteen
-hundred eighty-three, an amount equal to $9.70 for individuals, $15.60
-for couples who are living alone or living with others and $19.40 for
+individuals with developmental disabilities, plus for any month after
+December, nineteen hundred eighty-three, an amount equal to $9.70 for
+individuals, $15.60 for couples who are living alone or living with
+others and $19.40 for couples receiving family care, residential care or
+care in schools for individuals with developmental disabilities, plus
+for any month after December, nineteen hundred eighty-four, an amount
+equal to $11.00 for individuals, $16.00 for couples who are living alone
+or living with others and $22.00 for couples receiving family care,
+residential care or care in schools for individuals with developmental
+disabilities, plus for any month after December, nineteen hundred
+eighty-five, an amount equal to $11.00 for individuals, $16.00 for
+couples who are living alone or living with others and $22.00 for
 couples receiving family care, residential care or care in schools for
-the mentally retarded, plus for any month after December, nineteen
-hundred eighty-four, an amount equal to $11.00 for individuals, $16.00
-for couples who are living alone or living with others and $22.00 for
-couples receiving family care, residential care or care in schools for
-the mentally retarded, plus for any month after December, nineteen
-hundred eighty-five, an amount equal to $11.00 for individuals, $16.00
-for couples who are living alone or living with others and $22.00 for
-couples receiving family care, residential care or care in schools for
-the mentally retarded, plus for any month after December, nineteen
-hundred eighty-six an amount equal to $4.00 for individuals, $6.00 for
-couples who are living alone or living with others and $8.00 for couples
-receiving family care, residential care or care in schools for the
-mentally retarded, plus for any month after December, nineteen hundred
-eighty-seven an amount equal to $14.00 for individuals, $22.00 for
+individuals with developmental disabilities, plus for any month after
+December, nineteen hundred eighty-six an amount equal to $4.00 for
+individuals, $6.00 for couples who are living alone or living with
+others and $8.00 for couples receiving family care, residential care or
+care in schools for individuals with developmental disabilities, plus
+for any month after December, nineteen hundred eighty-seven an amount
+equal to $14.00 for individuals, $22.00 for couples who are living alone
+or living with others and $28.00 for couples receiving family care,
+residential care or care in schools for individuals with developmental
+disabilities, plus for any month after December, nineteen hundred
+eighty-eight an amount equal to $14.00 for individuals, $21.00 for
 couples who are living alone or living with others and $28.00 for
 couples receiving family care, residential care or care in schools for
-the mentally retarded, plus for any month after December, nineteen
-hundred eighty-eight an amount equal to $14.00 for individuals, $21.00
-for couples who are living alone or living with others and $28.00 for
+individuals with developmental disabilities, plus for any other month
+after December, nineteen hundred eighty-nine an amount equal to $18.00
+for individuals, $27.00 for couples who are living alone or living with
+others and $36.00 for couples receiving family care, residential care or
+care in schools for individuals with developmental disabilities, plus
+for any month after December, nineteen hundred ninety an amount equal to
+$21.00 for individuals, $31.00 for couples who are living alone or
+living with others and $42.00 for couples receiving family care,
+residential care or care in schools for individuals with developmental
+disabilities, plus for any month after December, nineteen hundred
+ninety-one an amount equal to $15.00 for individuals, $23.00 for couples
+who are living alone or living with others and $30.00 for couples
+receiving family care, residential care or care in schools for
+individuals with developmental disabilities, plus for any month after
+December, nineteen hundred ninety-two, an amount equal to $12.00 for
+individuals, $19.00 for couples who are living alone or living with
+others and $24.00 for couples receiving family care, residential care or
+care in schools for individuals with developmental disabilities, plus
+for any month after December, nineteen hundred ninety-three an amount
+equal to $12.00 for individuals, $17.00 for couples who are living alone
+or living with others and $24.00 for couples receiving family care,
+residential care or care in schools for individuals with developmental
+disabilities, plus for any month after December, nineteen hundred
+ninety-four an amount equal to $12.00 for individuals, $18.00 for
+couples who are living alone or living with others and $24.00 for
 couples receiving family care, residential care or care in schools for
-the mentally retarded, plus for any other month after December, nineteen
-hundred eighty-nine an amount equal to $18.00 for individuals, $27.00
-for couples who are living alone or living with others and $36.00 for
-couples receiving family care, residential care or care in schools for
-the mentally retarded, plus for any month after December, nineteen
-hundred ninety an amount equal to $21.00 for individuals, $31.00 for
-couples who are living alone or living with others and $42.00 for
-couples receiving family care, residential care or care in schools for
-the mentally retarded, plus for any month after December, nineteen
-hundred ninety-one an amount equal to $15.00 for individuals, $23.00 for
-couples who are living alone or living with others and $30.00 for
-couples receiving family care, residential care or care in schools for
-the mentally retarded, plus for any month after December, nineteen
-hundred ninety-two, an amount equal to $12.00 for individuals, $19.00
-for couples who are living alone or living with others and $24.00 for
-couples receiving family care, residential care or care in schools for
-the mentally retarded plus for any month after December, nineteen
-hundred ninety-three an amount equal to $12.00 for individuals, $17.00
-for couples who are living alone or living with others and $24.00 for
-couples receiving family care, residential care or care in schools for
-the mentally retarded plus for any month after December, nineteen
-hundred ninety-four an amount equal to $12.00 for individuals, $18.00
-for couples who are living alone or living with others and $24.00 for
-couples receiving family care, residential care or care in schools for
-the mentally retarded, plus for any month after December, nineteen
-hundred ninety-five an amount equal to $12.00 for individuals, $18.00
-for couples who are living alone or living with others and $24.00 for
-couples receiving family care, residential care or care in schools for
-the mentally retarded, plus for any month after December, nineteen
-hundred ninety-six, an amount equal to $14.00 for individuals and $21.00
-for couples plus for any month after December, nineteen hundred
-ninety-seven an amount equal to $10.00 for individuals and $15.00 for
-couples plus for any month after December, nineteen hundred ninety-eight
-an amount equal to $6.00 for individuals and $11.00 for couples plus for
-any month after December, nineteen hundred ninety-nine an amount equal
-to $13.00 for individuals and $18.00 for couples plus for any month
-after December, two thousand an amount equal to $18.00 for individuals
-and $27.00 for couples plus for any month after December, two thousand
-one an amount equal to $15.00 for individuals and $21.00 for couples
-plus for any month after December, two thousand two an amount equal to
-$7.00 for individuals and $12.00 for couples plus for any month after
-December, two thousand three an amount equal to $12.00 for individuals
-and $17.00 for couples plus for any month after December, two thousand
-four an amount equal to $15.00 for individuals and $23.00 for couples
-plus for any month after December, two thousand five an amount equal to
-$24.00 for individuals and $35.00 for couples plus for any month after
-December, two thousand six an amount equal to the amount of any
-increases in federal supplemental security income benefits for
-individuals or couples pursuant to section 1617 of the Social Security
-Act (42 USC § 1382f) which become effective on or after January first,
-two thousand seven.
+individuals with developmental disabilities, plus for any month after
+December, nineteen hundred ninety-five an amount equal to $12.00 for
+individuals, $18.00 for couples who are living alone or living with
+others and $24.00 for couples receiving family care, residential care or
+care in schools for individuals with developmental disabilities, plus
+for any month after December, nineteen hundred ninety-six, an amount
+equal to $14.00 for individuals and $21.00 for couples plus for any
+month after December, nineteen hundred ninety-seven an amount equal to
+$10.00 for individuals and $15.00 for couples plus for any month after
+December, nineteen hundred ninety-eight an amount equal to $6.00 for
+individuals and $11.00 for couples plus for any month after December,
+nineteen hundred ninety-nine an amount equal to $13.00 for individuals
+and $18.00 for couples plus for any month after December, two thousand
+an amount equal to $18.00 for individuals and $27.00 for couples plus
+for any month after December, two thousand one an amount equal to $15.00
+for individuals and $21.00 for couples plus for any month after
+December, two thousand two an amount equal to $7.00 for individuals and
+$12.00 for couples plus for any month after December, two thousand three
+an amount equal to $12.00 for individuals and $17.00 for couples plus
+for any month after December, two thousand four an amount equal to
+$15.00 for individuals and $23.00 for couples plus for any month after
+December, two thousand five an amount equal to $24.00 for individuals
+and $35.00 for couples plus for any month after December, two thousand
+six an amount equal to the amount of any increases in federal
+supplemental security income benefits for individuals or couples
+pursuant to section 1617 of the Social Security Act (42 USC § 1382f)
+which become effective on or after January first, two thousand seven.
   2. An individual who is entitled to receive the minimum state
 supplement in accordance with subdivision one of this section shall
 remain entitled to receive such supplement for each month after

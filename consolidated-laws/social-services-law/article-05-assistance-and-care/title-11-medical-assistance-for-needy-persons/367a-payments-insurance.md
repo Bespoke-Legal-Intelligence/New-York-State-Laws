@@ -544,8 +544,8 @@ security act:
   (i) in-patient care in a general hospital, as defined in subdivision
 ten of section twenty-eight hundred one of the public health law;
   (ii) out-patient hospital and clinic services except for mental health
-services, mental retardation and developmental disability services,
-alcohol and substance abuse services and methadone maintenance services;
+services, and developmental disability services, alcohol and substance
+abuse services and methadone maintenance services;
   (iii) home health services, including services provided under the long
 term home health care program, provided however, home health providers
 shall not require employees providing services in the home to collect

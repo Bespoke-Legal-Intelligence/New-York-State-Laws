@@ -54,6 +54,7 @@
 - [§ 630-I\*2 Gift for the firearm violence research fund](630i-2-gift-for-the-firearm-violence-research-fund.md)
 - [§ 630-I\*3 Gifts for thoroughbred aftercare](630i-3-gifts-for-thoroughbred-aftercare.md)
 - [§ 630-J Gifts for standardbred aftercare](630j-gifts-for-standardbred-aftercare.md)
+- [§ 630-K Gift for Lyme and tick-borne diseases education, research and prevention](630k-gift-for-lyme-and-tick-borne-diseases-education-research-and-prevention.md)
 
 <details>
 <summary>Official heading of Part 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -119,6 +120,8 @@ Section 611.     New York taxable income of a resident individual.
         630-i*2. Gift for the firearm violence research fund.
         630-i*3. Gifts for thoroughbred aftercare.
         630-j.   Gifts for standardbred aftercare.
+        630-k.   Gift for Lyme and tick-borne diseases education,
+                   research and prevention.
 ```
 
 </details>

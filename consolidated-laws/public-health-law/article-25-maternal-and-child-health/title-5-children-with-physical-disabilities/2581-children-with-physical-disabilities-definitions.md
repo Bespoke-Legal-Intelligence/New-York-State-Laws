@@ -22,7 +22,7 @@ vascular/lymphatic malformations and syndromes, brain injured, and
 chronic asthma, or from any disease or condition likely to result in a
 disability in the absence of treatment, provided, however, no child
 shall be deprived of a service under the provisions of this chapter
-solely because of the degree of mental retardation.
+solely because of the degree of developmental disability.
   2. "Medical service" means such diagnostic, therapeutic, and
 rehabilitative care by medical and paramedical personnel, including
 hospital and related care, and drugs, prostheses, appliances, equipment

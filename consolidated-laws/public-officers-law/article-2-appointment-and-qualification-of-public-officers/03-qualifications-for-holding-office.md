@@ -1866,7 +1866,7 @@ any person holding the office of chief assistant district attorney, the
 holder of which would assume the duties of the district attorney upon
 the district attorney's absence from the county or upon the district
 attorney's inability to perform his or her duties.
-  * NB There are 8 sb 72's
+  * NB There are 10 sb 72's
   * 72. In the county of Orange, the provisions of this section
 requiring a person to be a resident of the political subdivision or
 municipal corporation of the state for which he or she shall be chosen
@@ -1882,7 +1882,7 @@ any person holding the office of chief assistant district attorney, the
 holder of which would assume the duties of the district attorney upon
 the district attorney's absence from the county or upon the district
 attorney's inability to perform his or her duties.
-  * NB There are 8 sb 72's
+  * NB There are 10 sb 72's
   * 72. In the city of Saratoga Springs, in the county of Saratoga, the
 provisions of this section requiring a person to be a resident of the
 political subdivision or municipal corporation of the state for which
@@ -1894,7 +1894,7 @@ county within the state of New York; provided, however that any person
 performing such functions or holding such office of the city attorney in
 any other city shall be a resident of such city unless otherwise
 provided by law.
-  * NB There are 8 sb 72's
+  * NB There are 10 sb 72's
   * 72. In the village of Scarsdale, Westchester county, the provisions
 of this section requiring a person to be a resident of the political
 subdivision or municipal corporation of the state for which he or she
@@ -1909,7 +1909,7 @@ treasurer may also reside within Dutchess county. Provided, however that
 persons performing the functions of such appointed positions in any
 other municipality shall be a resident of such municipality unless
 otherwise provided by an act of the state legislature.
-  * NB There are 8 sb 72's
+  * NB There are 10 sb 72's
   * 72. In the city of Johnstown, in the county of Fulton, the
 provisions of this section requiring a person to be a resident of the
 political subdivision or municipal corporation of the state for which he
@@ -1920,7 +1920,7 @@ person resides in Fulton county or an adjoining county within the state
 of New York; provided, however that any person performing such functions
 or holding the office of the city attorney in any other city shall be a
 resident of such county unless otherwise provided by law.
-  * NB There are 8 sb 72's
+  * NB There are 10 sb 72's
   * 72. In the county of Oneida, the provisions of this section
 requiring a person to be a resident of the political subdivision or
 municipal corporation of the state for which he or she shall be chosen
@@ -1936,7 +1936,7 @@ assistant district attorney or chief assistant district attorney, the
 holder of which would assume the duties of the district attorney upon
 the district attorney's absence from the county or upon the district
 attorney's inability to perform his or her duties.
-  * NB There are 8 sb 72's
+  * NB There are 10 sb 72's
   * 72. In the village of Voorheesville, in the county of Albany, the
 provisions of this section requiring a person to be a resident of the
 political subdivision or municipal corporation of the state for which he
@@ -1949,7 +1949,7 @@ located or an adjoining county within the state of New York. Provided,
 however, the person performing the functions of an appointed village
 officer in any other village shall be an elector of such village, unless
 otherwise provided by law.
-  * NB There are 8 sb 72's
+  * NB There are 10 sb 72's
   * 72. In the village of Chestnut Ridge, in the county of Rockland, the
 provisions of this section requiring a person to be a resident of the
 political subdivision or municipal corporation of the state for which he
@@ -1960,5 +1960,27 @@ that such person resides in the county of Rockland. Provided, however,
 the person performing the functions of village justice in any other
 village shall be a resident of such village unless otherwise provided by
 law.
-  * NB There are 8 sb 72's
+  * NB There are 10 sb 72's
+  * 72. In the town of Van Etten, in the county of Chemung, the
+provisions of this section requiring a person to be a resident of the
+political subdivision or municipal corporation of the state for which he
+or she shall be chosen or within which his or her official functions are
+required to be exercised, shall not prevent a person from holding the
+office of town justice of the town of Van Etten; provided that such
+person resides in a town which is in the county of Chemung. Provided,
+however, the person performing the function of town justice in any other
+town shall be a resident of such town, unless otherwise provided by law.
+  * NB There are 10 sb 72's
+  * 72. In the county of Herkimer, the provisions of this section
+requiring a person to be a resident of the political subdivision or
+municipal corporation of the state for which he or she shall be chosen
+or within which his or her official functions are required to be
+exercised, shall not prevent a person from holding the office of
+information services director for the county of Herkimer, provided that
+such person resides in a county adjoining Herkimer county within the
+state of New York; provided, however that any person performing such
+functions or holding the office of the information services director in
+any other county shall be a resident of such county unless otherwise
+provided by law.
+  * NB There are 10 sb 72's
 ```

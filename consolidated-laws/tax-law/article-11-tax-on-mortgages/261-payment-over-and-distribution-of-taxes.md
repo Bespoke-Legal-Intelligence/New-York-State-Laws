@@ -107,13 +107,13 @@ into the general fund in the state treasury to the credit of the state
 purposes account; provided that money paid to the comptroller with
 respect to any such remaining county in which on the date of such
 payment any mass transportation, airport or aviation, municipal historic
-site, municipal park, community mental health and retardation facility,
-or sewage treatment capital project is being carried out by a
-municipality with state aid, or for which state aid will be paid,
-pursuant to the provisions of title one of chapter seven hundred
-seventeen of the laws of nineteen hundred sixty-seven, section 17.05 of
-the parks, recreation and historic preservation law, section 41.18 of
-the mental hygiene law, or section 17-1903 of the environmental
+site, municipal park, community mental health and developmental
+disabilities facility, or sewage treatment capital project is being
+carried out by a municipality with state aid, or for which state aid
+will be paid, pursuant to the provisions of title one of chapter seven
+hundred seventeen of the laws of nineteen hundred sixty-seven, section
+17.05 of the parks, recreation and historic preservation law, section
+41.18 of the mental hygiene law, or section 17-1903 of the environmental
 conservation law, shall be applied by him or her to increase the amount
 of aid for which the state is obligated in respect to such project on
 such date, provided that any such increase in state aid may not,

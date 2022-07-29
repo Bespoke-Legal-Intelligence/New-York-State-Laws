@@ -5,12 +5,13 @@
 
 ```text
   § 131-o. Personal allowances accounts. 1. Each individual receiving
-family care, residential care or care in a school for the mentally
-retarded, or enhanced residential care as those terms are defined in
-section two hundred nine of this chapter, and who is receiving benefits
-under the program of additional state payments pursuant to this chapter
-while receiving such care, shall be entitled to a monthly personal
-allowance out of such benefits in the following amount:
+family care, residential care or care in a school for individuals with
+developmental disabilities, or enhanced residential care as those terms
+are defined in section two hundred nine of this chapter, and who is
+receiving benefits under the program of additional state payments
+pursuant to this chapter while receiving such care, shall be entitled to
+a monthly personal allowance out of such benefits in the following
+amount:
   * (a) in the case of each individual receiving family care, an amount
 equal to at least $152.00 for each month beginning on or after January
 first, two thousand twenty-one.

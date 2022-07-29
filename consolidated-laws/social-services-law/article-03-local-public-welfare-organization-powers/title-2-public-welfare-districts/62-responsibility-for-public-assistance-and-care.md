@@ -79,8 +79,8 @@ empower towns or cities of a county public welfare district to exercise
 responsibilities with relation to public assistance and care
 inconsistent with the responsibilities imposed or conferred on them by
 other provisions of this chapter.
-  (c) When a mentally ill, mentally retarded or epileptic person is in
-need of public assistance or care while on convalescent status or
+  (c) When a person with a mental illness or developmental disability is
+in need of public assistance or care while on convalescent status or
 community status from a state hospital or institution under the
 provisions of section 29.15 of the mental hygiene law, the public
 welfare district, town or city from which he was admitted to such
@@ -90,11 +90,11 @@ public assistance and care, except that such responsibility shall
 continue during any period such person is on convalescent status or
 community status outside the territory of such public welfare district,
 town or city and shall continue thereafter in accordance with the
-provisions of this paragraph and paragraph (b) if such person was
-receiving or should have been receiving public assistance or care from
-such public welfare district, town or city outside its territory at the
-time he was discharged from such convalescent status or community
-status.
+provisions of this paragraph and paragraph (b) of this subdivision if
+such person was receiving or should have been receiving public
+assistance or care from such public welfare district, town or city
+outside its territory at the time he was discharged from such
+convalescent status or community status.
   (d) When a person, either upon admission to a hospital, nursing home,
 intermediate care facility, adult home, enriched housing program or
 residence for adults located in a social services district other than

@@ -6,7 +6,7 @@
 ## Contents
 
 - [Article 13 — Office For People With Developmental Disabilities](article-13-office-for-people-with-developmental/)
-- [Article 15 — Admission of the Mentally Retarded to Schools](article-15-admission-of-the-mentally-retarded/)
+- [Article 15 — Admission of People With Developmental Disabilities to Schools](article-15-admission-of-people/)
 - [Article 16 — Regulation and Quality of Services](article-16-regulation-and-quality-of-services/)
 
 <details>
@@ -16,7 +16,8 @@
                                  TITLE C
                      DEVELOPMENTAL DISABILITIES ACT
 Article 13 Office for people with developmental disabilities
-        15 Admission of the mentally retarded to schools
+        15 Admission of people with developmental disabilities to
+             schools
         16 Regulation and Quality of Services
 ```
 

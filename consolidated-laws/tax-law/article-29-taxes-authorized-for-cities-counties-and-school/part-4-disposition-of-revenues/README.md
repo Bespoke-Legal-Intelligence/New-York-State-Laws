@@ -36,6 +36,7 @@
 - [§ 1262-S Disposition of net collections from the additional one-quarter of one percent rate of sales and compensating use taxes in the county of H...](1262s-disposition-of-net-collections-from-the-additional-one.md)
 - [§ 1262-T City of Yonkers - disposition of net collections from the additional one-half of one percent rate of sales and compensating use taxes in ...](1262t-city-of-yonkers-disposition-of-net-collections.md)
 - [§ 1262-U Allocation and distribution of certain net collections in Genesee county](1262u-allocation-and-distribution-of-certain-net-collections.md)
+- [§ 1262-V Allocation of net collections from the additional one percent rate of sales and compensating use taxes in the county of St](1262v-allocation-of-net-collections-from-the-additional-one.md)
 - [§ 1263 Deposit of funds and use of funds not having assigned purposes](1263-deposit-of-funds-and-use-of-funds-not-having-assigned.md)
 - [§ 1264 References to certain taxes or revenues from certain taxes administered by the commissioner](1264-references-to-certain-taxes-or-revenues-from-certain.md)
 

@@ -33,11 +33,28 @@ summary and electronically through the department's websites.
   (d) The need and importance of organ and tissue donation, including
 information about being registered as an organ and tissue donor and
 executing documents of gift under article forty-three of this chapter.
-  (e) The need and importance for consumers and patients to have an
+  * (e) The need and importance for consumers and patients to have an
 advance directive, particularly a health care proxy, and the need and
 importance for health care providers to play a leadership role in
 discussing end-of-life care preferences and values with patients and to
 provide patients with health care proxy forms.
+  * NB Effective until January 17, 2023
+  * (e) The commissioner shall establish a statewide advance care
+planning campaign to:
+  (i) promote public awareness of hospice and palliative care services;
+and palliative care options for patients with a terminal illness or
+condition;
+  (ii) inform the public of the importance of advance care planning and
+the individual's right to direct and participate in health care
+decisions affecting the individual;
+  (iii) educate individuals on the tools available to ensure their
+health care decisions are honored; and
+  (iv) the need and importance for consumers and patients to have an
+advance directive, particularly a health care proxy, and the need and
+importance for health care providers to play a leadership role in
+discussing end-of-life care preferences and values with patients and to
+provide patients with health care proxy forms.
+  * NB Effective January 17, 2023
   (f) Uterine fibroids, an abnormal growth that occurs in the uterus,
 including the causes and symptoms of uterine fibroids, the value of
 early detection, possible options for treatment including their benefits
@@ -54,8 +71,9 @@ at the end of the first month of pregnancy which involves the incomplete
 development of the spinal cord or its coverings, and the importance of
 encouraging all women in their child-bearing years to increase their
 folic acid intake in order to reduce the incidence of spina bifida.
-  (h) Palliative care options for patients with a terminal illness or
+  * (h) Palliative care options for patients with a terminal illness or
 condition.
+  * NB Repealed January 17, 2023
   (i) About the short term and long term adverse health risks to adults
 and children who become overweight, obese or underweight. The
 information shall include, but need not be limited to providing

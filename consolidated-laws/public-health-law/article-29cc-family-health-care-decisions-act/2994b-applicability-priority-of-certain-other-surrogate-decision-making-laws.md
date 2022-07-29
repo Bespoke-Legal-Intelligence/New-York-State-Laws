@@ -21,14 +21,13 @@ proxy.
   3. Prior to seeking or relying upon a health care decision by a
 surrogate for a patient under this article, if the attending
 practitioner has reason to believe that the patient has a history of
-receiving services for mental retardation or a developmental disability;
-it reasonably appears to the attending practitioner that the patient has
-mental retardation or a developmental disability; or the practitioner
-has reason to believe that the patient has been transferred from a
-mental hygiene facility operated or licensed by the office of mental
-health, then such physician, nurse practitioner or physician assistant
-shall make reasonable efforts to determine whether paragraphs (a), (b)
-or (c) of this subdivision are applicable:
+receiving services for a developmental disability; it reasonably appears
+to the attending practitioner that the patient has a developmental
+disability; or the practitioner has reason to believe that the patient
+has been transferred from a mental hygiene facility operated or licensed
+by the office of mental health, then such physician, nurse practitioner
+or physician assistant shall make reasonable efforts to determine
+whether paragraphs (a), (b) or (c) of this subdivision are applicable:
   (a) If the patient has a guardian appointed by a court pursuant to
 article seventeen-A of the surrogate's court procedure act, health care
 decisions for the patient shall be governed by section seventeen hundred

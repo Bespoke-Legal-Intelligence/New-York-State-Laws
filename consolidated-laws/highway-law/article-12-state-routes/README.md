@@ -343,6 +343,7 @@
 - [§ 344-M\*19 Portion of the state highway system to be designated and known as the "Staff Sergeant Peter J](344m-19-portion-of-the-state-highway-system-to-be-designated-and-known-as-the-staff.md)
 - [§ 344-M\*20 Portion of the state highway system to be designated as the "SP4 Richard F](344m-20-portion-of-the-state-highway-system-to-be-designated-as-the-sp4-richard-f.md)
 - [§ 344-M\*21 Portion of the state highway system to be designated as the "Trooper Thomas J](344m-21-portion-of-the-state-highway-system-to-be-designated-as-the-trooper-thomas-j.md)
+- [§ 344-M\*22 Portion of the state highway system to be designated as the "Medal of Honor Recipient Francis S](344m-22-portion-of-the-state-highway-system-to-be-designated-as-the-medal-of-honor.md)
 - [§ 344-N Portion of the state highway system to be designated as the "Marylou Whitney Way"](344n-portion-of-the-state-highway-system-to-be-designated-as-the-marylou-whitney-way.md)
 - [§ 344-N\*2 Portion of state highway system to be designated as the "Trooper Martin J](344n-2-portion-of-state-highway-system-to-be-designated-as-the-trooper-martin-j.md)
 - [§ 344-N\*3 Portion of the state highway system to be designated as the "Firefighter Jared Lloyd Memorial Highway"](344n-3-portion-of-the-state-highway-system-to-be-designated-as-the-firefighter-jared.md)
@@ -351,6 +352,11 @@
 - [§ 344-N\*6 Portion of the state highway system to be designated as the "Chief Samuel A](344n-6-portion-of-the-state-highway-system-to-be-designated-as-the-chief-samuel.md)
 - [§ 344-N\*7 Portion of the state highway system to be designated as the "Detective Anastasios Tsakos Memorial Bridge"](344n-7-portion-of-the-state-highway-system-to-be-designated-as-the-detective-anastasios.md)
 - [§ 344-N\*8 Portion of state highway system to be designated as "New York Medal of Honor Highway"](344n-8-portion-of-state-highway-system-to-be-designated-as-new-york-medal-of-honor.md)
+- [§ 344-N\*9 Portion of the state highway system to be designated as the "Trooper Brian S](344n-9-portion-of-the-state-highway-system-to-be-designated-as-the-trooper-brian-s.md)
+- [§ 344-N\*10 Portion of the state highway system to be designated as the "Putnam Valley First Responders Bridge"](344n-10-portion-of-the-state-highway-system-to-be-designated-as-the-putnam-valley-first.md)
+- [§ 344-N\*11 Portion of the state highway system to be designated as the "Firefighter Robert Fowler Memorial Highway"](344n-11-portion-of-the-state-highway-system-to-be-designated-as-the-firefighter-robert.md)
+- [§ 344-N\*12 Portion of the state highway system to be designated as the "Chief John 'Jody' Rossitz Memorial Bridge"](344n-12-portion-of-the-state-highway-system-to-be-designated-as-the-chief-john-jody.md)
+- [§ 344-N\*13 Portion of the state highway system in Oneida county to be designated as the "Oneida County Korean War Veterans Memorial Highway"](344n-13-portion-of-the-state-highway-system-in-oneida-county-to-be-designated.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 
 <details>
@@ -1154,6 +1160,9 @@ Section 340-a.     Designation of state interstate routes.
         344-m*21.  Portion of the state highway system to be designated
                      as the "Trooper Thomas J. Consorte Memorial
                      Bridge".
+        344-m*22.  Portion of the state highway system to be designated
+                     as the "Medal of Honor Recipient Francis S. Currey
+                     Memorial Highway".
         344-n.     Portion of the state highway system to be designated
                      as the "Marylou Whitney Way".
         344-n*2.   Portion of state highway system to be designated as
@@ -1174,6 +1183,18 @@ Section 340-a.     Designation of state interstate routes.
                      Bridge".
         344-n*8.   Portion of state highway system to be designated as
                      "New York Medal of Honor Highway".
+        344-n*9.   Portion of the state highway system to be designated
+                     as the "Trooper Brian S. Falb Memorial Bridge".
+        344-n*10.  Portion of the state highway system to be designated
+                     as the "Putnam Valley First Responders Bridge".
+        344-n*11.  Portion of the state highway system to be designated
+                     as the "Firefighter Robert Fowler Memorial
+                     Highway".
+        344-n*12.  Portion of the state highway system to be designated
+                     as the "Chief John 'Jody' Rossitz Memorial Bridge".
+        344-n*13.  Portion of the state highway system in Oneida county
+                     to be designated as the "Oneida County Korean War
+                     Veterans Memorial Highway".
         345-a.     Abandonment and transfer of state highways.
 ```
 

@@ -12,6 +12,7 @@
 - [§ 2799-EEE Advances on behalf of authority, transfer of property to authority, acquisition of property by city or authority](2799eee-advances-on-behalf-of-authority-transfer.md)
 - [§ 2799-FFF Transfer of officers and employees](2799fff-transfer-of-officers-and-employees.md)
 - [§ 2799-GGG General powers of the authority](2799ggg-general-powers-of-the-authority.md)
+- [§ 2799-GGG-1 Authority police force](2799ggg-1-authority-police-force.md)
 - [§ 2799-HHH Special powers of the authority](2799hhh-special-powers-of-the-authority.md)
 - [§ 2799-III City approval required](2799iii-city-approval-required.md)
 - [§ 2799-JJJ Bonds of the authority](2799jjj-bonds-of-the-authority.md)
@@ -48,6 +49,7 @@ Section 2799-aaa.   Short title.
                       city or authority.
         2799-fff.   Transfer of officers and employees.
         2799-ggg.   General powers of the authority.
+        2799-ggg-1. Authority police force.
         2799-hhh.   Special powers of the authority.
         2799-iii.   City approval required.
         2799-jjj.   Bonds of the authority.

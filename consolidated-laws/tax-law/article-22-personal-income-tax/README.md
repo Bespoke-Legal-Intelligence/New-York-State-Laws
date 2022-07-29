@@ -82,6 +82,8 @@ Section 611.     New York taxable income of a resident individual.
         630-i*2. Gift for the firearm violence research fund.
         630-i*3. Gifts for thoroughbred aftercare.
         630-j.   Gifts for standardbred aftercare.
+        630-k.   Gift for Lyme and tick-borne diseases education,
+                   research and prevention.
                PART III-NONRESIDENTS AND PART-YEAR RESIDENTS
 Section 631.     New York source income of a nonresident individual.
         632.     Nonresident partners and electing shareholders of S

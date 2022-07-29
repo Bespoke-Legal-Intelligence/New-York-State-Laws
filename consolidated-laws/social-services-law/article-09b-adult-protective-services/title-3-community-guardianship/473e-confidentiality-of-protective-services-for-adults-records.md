@@ -58,8 +58,9 @@ prosecution, such records may be related to the criminal investigation
 or prosecution;
   (f) a person named as a court-appointed evaluator or guardian in
 accordance with article eighty-one of the mental hygiene law, or a
-person named as a guardian for the mentally retarded in accordance with
-article seventeen-A of the surrogate's court procedure act; or
+person named as a guardian for individuals with developmental
+disabilities in accordance with article seventeen-A of the surrogate's
+court procedure act; or
   (g) any person considered entitled to such record in accordance with
 applicable law.
   3. The commissioner or a social services official may withhold, in

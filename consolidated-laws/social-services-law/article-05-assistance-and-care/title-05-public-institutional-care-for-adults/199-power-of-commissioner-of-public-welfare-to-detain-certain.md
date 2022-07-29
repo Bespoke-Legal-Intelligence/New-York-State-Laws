@@ -8,10 +8,10 @@
 incarcerated individuals. The commissioner of public welfare shall have
 power to detain in the public home, pending a vacancy for such person in
 a state institution, a person over the age of sixteen who has been
-certified as mentally retarded or epileptic in accordance with the
-provisions of the mental hygiene law and for whom an application for
-admission to a state institution has been made. Whenever the
-commissioner shall so detain an incarcerated individual in the public
-home he or she shall at once notify the state department of mental
-hygiene.
+certified as an individual with a developmental disability in accordance
+with the provisions of the mental hygiene law and for whom an
+application for admission to a state institution has been made. Whenever
+the commissioner shall so detain an incarcerated individual in the
+public home he or she shall at once notify the state department of
+mental hygiene.
 ```

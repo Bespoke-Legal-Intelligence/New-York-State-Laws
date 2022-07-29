@@ -27,6 +27,7 @@
 - [§ 59-A Placement of detectives and investigators in classified service](59a-placement-of-detectives-and-investigators-in-classified.md)
 - [§ 59-B Promotions of supervisory personnel of the emergency medical service](59b-promotions-of-supervisory-personnel-of-the-emergency-medical.md)
 - [§ 59-C State employment of persons and veterans with disabilities study](59c-state-employment-of-persons-and-veterans-with-disabilities.md)
+- [§ 59-D Public posting of employment opportunities](59d-public-posting-of-employment-opportunities.md)
 
 <details>
 <summary>Official heading of Title A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -63,6 +64,7 @@ Section 50.     Examinations generally.
                   medical service.
         59-c.   State employment of persons and veterans with
                   disabilities study.
+        59-d.   Public posting of employment opportunities.
 ```
 
 </details>

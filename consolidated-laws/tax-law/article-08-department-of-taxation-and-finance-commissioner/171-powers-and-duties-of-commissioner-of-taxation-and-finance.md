@@ -401,12 +401,15 @@ hundred eight-A of the internal revenue code to be affected by a
 presidentially declared disaster, or who is determined under regulations
 promulgated by the commissioner to be affected by a presidentially
 declared disaster or by a disaster emergency declared by the governor,
-have authority to provide that a period of up to ninety days may be
-disregarded in determining under the tax law, or under a law enacted
-pursuant to the authority of the tax law or article 2-E of the general
-city law where administered by the commissioner, in respect of any tax
-liability (including any interest, penalty, additional amount, or
-addition to the tax) of such taxpayer:
+have authority to provide that a period of up to ninety days, or a
+longer period when necessary to align with relief that has already been
+provided by the Internal Revenue Service under the authority to postpone
+certain deadlines in section seven thousand five hundred eight-A of the
+internal revenue code, may be disregarded in determining under the tax
+law, or under a law enacted pursuant to the authority of the tax law or
+former article 2-E of the general city law where administered by the
+commissioner, in respect of any tax liability (including any interest,
+penalty, additional amount, or addition to the tax) of such taxpayer:
   1. Whether any of the acts described in paragraph one of subsection
 (a) of section six hundred ninety-six of the tax law in relation to the
 personal income tax (or any comparable acts with respect to taxes under

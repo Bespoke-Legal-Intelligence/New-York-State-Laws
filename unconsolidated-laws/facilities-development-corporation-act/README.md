@@ -9,7 +9,7 @@
 | Type | Unconsolidated law |
 | Session law | L. 1968, ch. 359 |
 | Sections | 25 |
-| Last changed | 20 Dec 2019 |
+| Last changed | 29 Jul 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Facilities Development Corporation Act 359/68 |
 
@@ -17,6 +17,7 @@
 
 ## Recent changes
 
+- [29 Jul 2022](../../changes/2022/2022-07-29.md): 5 amended
 - [20 Dec 2019](../../changes/2019/2019-12-20.md): 2 amended
 - [19 Apr 2019](../../changes/2019/2019-04-19.md): 1 amended
 - [27 Apr 2018](../../changes/2018/2018-04-27.md): 2 amended

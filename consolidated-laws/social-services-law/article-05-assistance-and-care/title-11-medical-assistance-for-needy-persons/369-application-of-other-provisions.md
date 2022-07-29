@@ -15,17 +15,17 @@ paid on his or her behalf under this title, except:
   (i) pursuant to the judgment of a court on account of benefits
 incorrectly paid on behalf of such individual, or
   (ii) with respect to the real property of an individual who is an
-inpatient in a nursing facility, intermediate care facility for the
-mentally retarded, or other medical institution, who is not reasonably
-expected to be discharged from the medical institution and to return
-home, and who is required, as a condition of receiving services in such
-institution under the state plan for medical assistance, to spend for
-costs of medical care all but a minimal amount of his or her income
-required for personal needs; provided, however, any such lien will
-dissolve upon the individual's discharge from the medical institution
-and return home; in addition, no such lien may be imposed on the
-individual's home if one of the following persons is lawfully residing
-in the home:
+inpatient in a nursing facility, intermediate care facility for
+individuals with developmental disabilities, or other medical
+institution, who is not reasonably expected to be discharged from the
+medical institution and to return home, and who is required, as a
+condition of receiving services in such institution under the state plan
+for medical assistance, to spend for costs of medical care all but a
+minimal amount of his or her income required for personal needs;
+provided, however, any such lien will dissolve upon the individual's
+discharge from the medical institution and return home; in addition, no
+such lien may be imposed on the individual's home if one of the
+following persons is lawfully residing in the home:
   (A) the spouse of the individual;
   (B) a child of the individual who is under twenty-one years of age or
 who is blind or permanently and totally disabled; or

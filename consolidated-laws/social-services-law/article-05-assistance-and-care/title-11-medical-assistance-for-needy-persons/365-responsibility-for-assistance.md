@@ -42,22 +42,22 @@ services will no longer be necessary; in the case of a person who,
 during the course of hospitalization attains the age of twenty-one, such
 services may continue until he reaches the age of twenty-two; (c) who
 are patients in that part of a public institution operated for the care
-of the mentally retarded that has been approved pursuant to law as a
-hospital or nursing home; (d) who are under care and treatment for drug
-dependence in a facility, or part thereof, operated pursuant to the
-provisions of the mental hygiene law if and so long as federal aid is
-available therefor; (e) who are under care in a hospital while they are
-on release from an institution in the state department of mental hygiene
-or who are drug dependent persons under care in a hospital while they
-are on release from a drug abuse treatment facility or part thereof
-operated in compliance with applicable provisions of law and supervised
-by the state division of substance abuse services, for the purpose of
-receiving care in such hospital. The department may at its option
-discharge such responsibility, in whole or in part, through social
-services districts designated to act as agents of the department. While
-so designated, a social services district shall act as agent of the
-department and shall be entitled to reimbursement as provided in section
-three hundred sixty-eight-a of this title.
+of individuals with developmental disabilities that has been approved
+pursuant to law as a hospital or nursing home; (d) who are under care
+and treatment for drug dependence in a facility, or part thereof,
+operated pursuant to the provisions of the mental hygiene law if and so
+long as federal aid is available therefor; (e) who are under care in a
+hospital while they are on release from an institution in the state
+department of mental hygiene or who are drug dependent persons under
+care in a hospital while they are on release from a drug abuse treatment
+facility or part thereof operated in compliance with applicable
+provisions of law and supervised by the state division of substance
+abuse services, for the purpose of receiving care in such hospital. The
+department may at its option discharge such responsibility, in whole or
+in part, through social services districts designated to act as agents
+of the department. While so designated, a social services district shall
+act as agent of the department and shall be entitled to reimbursement as
+provided in section three hundred sixty-eight-a of this title.
   3. Any inconsistent provision of this chapter or other law
 notwithstanding, the department shall be responsible for furnishing
 medical assistance to eligible veterans and their dependents (a) in that
@@ -73,25 +73,26 @@ three hundred sixty-eight-a of this title.
   4. Any inconsistent provision of this chapter or other law
 notwithstanding, the department shall be responsible for furnishing
 medical assistance to eligible individuals: (a) who are patients in that
-part of a public institution operated for the care of the mentally
-retarded that has been approved pursuant to law as an intermediate care
-facility or who are participating in a program operated by the
-department of mental hygiene or by a voluntary agency under an agreement
-with such department, in that part of such a facility that has been
-approved as a day treatment program in accordance with the regulations
-of the state commissioner of mental hygiene; (b) who are veterans and
-their dependents in that part of the New York state home for veterans
-and their dependents at Oxford that has been approved pursuant to law as
-an intermediate care facility; (c) such persons under care in a hospital
-while they are on release from such home for the purpose of receiving
-care in such hospital; and (d) who are included in either one of the
-model waivers or the general waiver described in subdivisions seven and
-nine of section three hundred sixty-six of this chapter. The department
-may, at its option, discharge such responsibility, in whole or in part,
-through social services districts designated to act as agents of the
-department. While so designated, a social services district shall act as
-agent of the department and shall be entitled to reimbursements as
-provided in section three hundred sixty-eight-a of this chapter.
+part of a public institution operated for the care of individuals with
+developmental disabilities that has been approved pursuant to law as an
+intermediate care facility or who are participating in a program
+operated by the department of mental hygiene or by a voluntary agency
+under an agreement with such department, in that part of such a facility
+that has been approved as a day treatment program in accordance with the
+regulations of the state commissioner of mental hygiene; (b) who are
+veterans and their dependents in that part of the New York state home
+for veterans and their dependents at Oxford that has been approved
+pursuant to law as an intermediate care facility; (c) such persons under
+care in a hospital while they are on release from such home for the
+purpose of receiving care in such hospital; and (d) who are included in
+either one of the model waivers or the general waiver described in
+subdivisions seven and nine of section three hundred sixty-six of this
+chapter. The department may, at its option, discharge such
+responsibility, in whole or in part, through social services districts
+designated to act as agents of the department. While so designated, a
+social services district shall act as agent of the department and shall
+be entitled to reimbursements as provided in section three hundred
+sixty-eight-a of this chapter.
   5. Any inconsistent provision of this chapter or other law
 notwithstanding the department shall be responsible for determining
 eligibility of and furnishing medical assistance to eligible persons

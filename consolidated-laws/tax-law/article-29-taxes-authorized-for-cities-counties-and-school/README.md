@@ -71,6 +71,10 @@ Section 1201.      Taxes administered by cities of one million or more.
         1202-gg*5. Hotel or motel taxes in the town of Wallkill.
         1202-h.    Hotel or motel taxes in Chemung county.
         1202-h*2.  Hotel or motel taxes in the county of Oswego.
+        1202-hh.   Hotel or motel taxes in the city of Newburgh.
+        1202-hh*2. Hotel or motel taxes in the village of Cold Spring.
+        1202-hh*3. Occupancy tax in the village of Briarcliff Manor.
+        1202-hh*4. Occupancy tax in the village of Nyack.
         1202-i.    Hotel or motel taxes in Schuyler county.
         1202-j.    Hotel or motel taxes in Otsego county.
         1202-j*2.  Hotel and motel taxes in Sullivan county.
@@ -107,6 +111,7 @@ Section 1201.      Taxes administered by cities of one million or more.
         1202-z.    Hotel or motel taxes in Clinton county.
         1202-z-1.  Occupancy tax in the village of Tuckahoe.
         1202-z-3.  Occupancy tax in the village of Mount Kisco.
+        1202-zz.   Occupancy tax in the village of Highland Falls.
         1203.      Taxes administered by cities under one million.
         1204.      Taxes administered by cities with populations of less
                      than one hundred twenty-five thousand on request of
@@ -252,6 +257,9 @@ Section 1260.     Revenues resulting from taxes administered by cities
                      Yonkers.
         1262-u.   Allocation and distribution of certain net collections
                      in Genesee county.
+        1262-v.   Allocation of net collections from the additional one
+                     percent rate of sales and compensating use taxes in
+                     the county of St. Lawrence.
         1263.     Deposit of funds and use of funds not having assigned
                      purposes.
         1264.     References to certain taxes or revenues from certain

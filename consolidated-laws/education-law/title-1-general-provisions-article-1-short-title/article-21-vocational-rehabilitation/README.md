@@ -9,7 +9,7 @@
 - [§ 1002 Definitions](1002-definitions.md)
 - [§ 1003 Application for vocational rehabilitation](1003-application-for-vocational-rehabilitation.md)
 - [§ 1004 Powers and duties of the education department](1004-powers-and-duties-of-the-education-department.md)
-- [§ 1004-A Sheltered workshops for the mentally retarded, mentally ill and severely physically handicapped](1004a-sheltered-workshops-for-the-mentally-retarded.md)
+- [§ 1004-A Sheltered workshops for individuals with developmental disabilities, mental illness or a severe physical handicap](1004a-sheltered-workshops-for-individuals.md)
 - [§ 1004-B Integrated employment opportunities for individuals with severe disabilities](1004b-integrated-employment-opportunities-for-individuals.md)
 - [§ 1005 Gifts and donations](1005-gifts-and-donations.md)
 - [§ 1006 Acceptance of law of the United States](1006-acceptance-of-law-of-the-united-states.md)

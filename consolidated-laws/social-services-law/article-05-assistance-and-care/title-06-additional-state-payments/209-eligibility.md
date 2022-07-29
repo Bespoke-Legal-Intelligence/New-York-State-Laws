@@ -208,12 +208,12 @@ or by the appropriate office of the department of mental hygiene, or
 receiving respite services shall not be deemed to be receiving
 residential care.
   (e) "Receiving enhanced residential care" shall mean residing in a
-privately operated school for the mentally retarded and developmentally
-disabled which is certified by the office for people with developmental
-disabilities of the department of mental hygiene, in accordance with
-applicable provisions of law and regulations or an adult home, or
-enriched housing program certified by the department of health in
-accordance with applicable law, rules and regulations to the extent
+privately operated school for individuals with developmental
+disabilities which is certified by the office for people with
+developmental disabilities of the department of mental hygiene, in
+accordance with applicable provisions of law and regulations or an adult
+home, or enriched housing program certified by the department of health
+in accordance with applicable law, rules and regulations to the extent
 permitted by federal law and regulations.
   4. An eligible individual or an eligible couple shall be entitled to
 receive monthly an additional state payment in an amount equal to the

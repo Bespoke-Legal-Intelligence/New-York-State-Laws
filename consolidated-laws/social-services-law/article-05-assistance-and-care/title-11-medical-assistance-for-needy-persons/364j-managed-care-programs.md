@@ -62,9 +62,8 @@ or federal government or by a voluntary national health organization as
 having special expertise in treating the disease or condition for which
 it is accredited or designated.
   (k) "Special care". Care, services and supplies relating to the
-treatment of mental illness, mental retardation, developmental
-disabilities, alcoholism, alcohol abuse or substance abuse, or HIV
-infection/AIDS.
+treatment of mental illness, developmental disabilities, alcoholism,
+alcohol abuse or substance abuse, or HIV infection/AIDS.
   (l) "Responsible special care agency". Whichever of the following
 state agencies has responsibility for the special care in question: the
 department of health, the office of mental health, the office for people

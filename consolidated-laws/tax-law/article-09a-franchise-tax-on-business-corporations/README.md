@@ -26,6 +26,7 @@
 - [§ 209-M\*2 Gift for home delivered meals for seniors](209m-2-gift-for-home-delivered-meals-for-seniors.md)
 - [§ 209-N Retired and rescued thoroughbred race horse aftercare](209n-retired-and-rescued-thoroughbred-race-horse-aftercare.md)
 - [§ 209-O Retired and rescued standardbred race horse aftercare](209o-retired-and-rescued-standardbred-race-horse-aftercare.md)
+- [§ 209-P Gift for Lyme and tick-borne diseases education, research and prevention](209p-gift-for-lyme-and-tick-borne-diseases-education-research-and-prevention.md)
 - [§ 210 Computation of tax](210-computation-of-tax.md)
 - [§ 210-A Apportionment](210a-apportionment.md)
 - [§ 210-B Credits](210b-credits.md)
@@ -68,6 +69,8 @@ Section 208.     Definitions.
         209-M*2. Gift for home delivered meals for seniors.
         209-N.   Retired and rescued thoroughbred race horse aftercare.
         209-O.   Retired and rescued standardbred race horse aftercare.
+        209-P.   Gift for Lyme and tick-borne diseases education,
+                   research and prevention.
         210.     Computation of tax.
         210-A.   Apportionment.
         210-B.   Credits.

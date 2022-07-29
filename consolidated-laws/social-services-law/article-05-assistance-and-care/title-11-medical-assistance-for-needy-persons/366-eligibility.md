@@ -372,13 +372,13 @@ patient in any such institution; (ii) a person under twenty-one years of
 age and receiving in-patient psychiatric services in a public
 institution operated primarily for the care of the mentally disabled;
 (iii) a patient in a public institution operated primarily for the care
-of the mentally retarded who is receiving medical care or treatment in
-that part of such institution that has been approved pursuant to law as
-a hospital or nursing home; (iv) a patient in an institution operated by
-the state department of mental hygiene, while under care in a hospital
-on release from such institution for the purpose of receiving care in
-such hospital; or (v) is a person residing in a community residence or a
-residential care center for adults.
+of individuals with developmental disabilities who is receiving medical
+care or treatment in that part of such institution that has been
+approved pursuant to law as a hospital or nursing home; (iv) a patient
+in an institution operated by the state department of mental hygiene,
+while under care in a hospital on release from such institution for the
+purpose of receiving care in such hospital; or (v) is a person residing
+in a community residence or a residential care center for adults.
   (f) Notwithstanding any inconsistent provision of this title, for an
 individual who has income in excess of an applicable income eligibility
 standard and is allowed to achieve eligibility for medical assistance
@@ -1404,19 +1404,19 @@ an institutionalized individual is both institutionalized and has
 applied for medical assistance.
   (vii) "institutionalized individual" means any individual who is an
 in-patient in a nursing facility, including an intermediate care
-facility for the mentally retarded, or who is an in-patient in a medical
-facility and is receiving a level of care provided in a nursing
-facility, or who is receiving care, services or supplies pursuant to a
-waiver granted pursuant to subsection (c) of section 1915 of the federal
-social security act.
-  (viii) "intermediate care facility for the mentally retarded" means a
-facility certified under article sixteen of the mental hygiene law and
-which has a valid agreement with the department for providing
-intermediate care facility services and receiving payment therefor under
-title XIX of the federal social security act.
+facility for individuals with developmental disabilities, or who is an
+in-patient in a medical facility and is receiving a level of care
+provided in a nursing facility, or who is receiving care, services or
+supplies pursuant to a waiver granted pursuant to subsection (c) of
+section 1915 of the federal social security act.
+  (viii) "intermediate care facility for individuals with developmental
+disabilities" means a facility certified under article sixteen of the
+mental hygiene law and which has a valid agreement with the department
+for providing intermediate care facility services and receiving payment
+therefor under title XIX of the federal social security act.
   (ix) "nursing facility" means a nursing home as defined by section
 twenty-eight hundred one of the public health law and an intermediate
-care facility for the mentally retarded.
+care facility for individuals with developmental disabilities.
   (x) "nursing facility services" means nursing care and health related
 services provided in a nursing facility; a level of care provided in a
 hospital which is equivalent to the care which is provided in a nursing
@@ -1535,18 +1535,18 @@ during the three months prior to the month of application for medical
 assistance.
   (vii) "institutionalized individual" means any individual who is an
 in-patient in a nursing facility, including an intermediate care
-facility for the mentally retarded, or who is an in-patient in a medical
-facility and is receiving a level of care provided in a nursing
-facility, or who is described in section 1902(a)(10)(A)(ii)(VI) of the
-federal social security act.
-  (viii) "intermediate care facility for the mentally retarded" means a
-facility certified under article sixteen of the mental hygiene law and
-which has a valid agreement with the department for providing
-intermediate care facility services and receiving payment therefor under
-title XIX of the federal social security act.
+facility for individuals with developmental disabilities, or who is an
+in-patient in a medical facility and is receiving a level of care
+provided in a nursing facility, or who is described in section
+1902(a)(10)(A)(ii)(VI) of the federal social security act.
+  (viii) "intermediate care facility for individuals with developmental
+disabilities" means a facility certified under article sixteen of the
+mental hygiene law and which has a valid agreement with the department
+for providing intermediate care facility services and receiving payment
+therefor under title XIX of the federal social security act.
   (ix) "nursing facility" means a nursing home as defined by section
 twenty-eight hundred one of the public health law and an intermediate
-care facility for the mentally retarded.
+care facility for individuals with developmental disabilities.
   (x) "nursing facility services" means nursing care and health related
 services provided in a nursing facility; a level of care provided in a
 hospital which is equivalent to the care which is provided in a nursing
