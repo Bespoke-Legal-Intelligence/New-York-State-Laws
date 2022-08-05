@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Labor Law § 202-M", "kind": "section", "law_id": "LAB", "location_id": "202-M", "path": "ARTICLE 7 › SECTION 202-M", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/202-M.md", "title": "Healthcare professionals who volunteer to fight the Ebola virus disease overseas"} -->
+﻿<!-- nyslaw {"citation": "Labor Law § 202-M", "kind": "section", "law_id": "LAB", "location_id": "202-M", "path": "ARTICLE 7 › SECTION 202-M", "repealed": true, "repealed_date": "2022-08-05", "source": "nys-laws:LAB/202-M.md", "title": "Healthcare professionals who volunteer to fight the Ebola virus disease overseas"} -->
 # Labor Law § 202-M — Healthcare professionals who volunteer to fight the Ebola virus disease overseas
 
 [Labor Law](../README.md) › [Article 7 — General Provisions](README.md)
+
+**Repealed** (5 Aug 2022). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 202-m. Healthcare professionals who volunteer to fight the Ebola

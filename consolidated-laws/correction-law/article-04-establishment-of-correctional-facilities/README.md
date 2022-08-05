@@ -20,7 +20,7 @@
 - [§ 79 Leasing of state institutions to cities or counties for the confinement of prisoners](79-leasing-of-state-institutions-to-cities-or-counties-for-the-confinement.md)
 - [§ 79-A Closure of correctional facilities; notice](79a-closure-of-correctional-facilities-notice.md)
 - [§ 79-B Adaptive reuse plan for consideration prior to prison closure](79b-adaptive-reuse-plan-for-consideration-prior-to-prison-closure.md)
-- [§ 80 Transfer of adolescents from the department](80-transfer-of-adolescents-from-the-department.md)
+- [§ 80 Transfer of adolescents from the department](80-transfer-of-adolescents-from-the-department.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 4, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -49,7 +49,6 @@ Section 70.   Establishment, use and designation of correctional
         79-a. Closure of correctional facilities; notice.
         79-b. Adaptive reuse plan for consideration prior to prison
                 closure.
-        80.   Transfer of adolescents from the department.
 ```
 
 </details>

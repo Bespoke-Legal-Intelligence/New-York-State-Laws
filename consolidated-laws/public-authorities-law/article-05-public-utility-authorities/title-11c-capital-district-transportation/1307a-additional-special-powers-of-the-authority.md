@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Authorities Law § 1307-A", "kind": "section", "law_id": "PBA", "location_id": "1307-A", "path": "ARTICLE 5 › TITLE 11-C › SECTION 1307-A", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1307-A.md", "title": "Additional special powers of the authority"} -->
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1307-A", "kind": "section", "law_id": "PBA", "location_id": "1307-A", "path": "ARTICLE 5 › TITLE 11-C › SECTION 1307-A", "repealed": true, "repealed_date": "2022-08-05", "source": "nys-laws:PBA/1307-A.md", "title": "Additional special powers of the authority"} -->
 # Public Authorities Law § 1307-A — Additional special powers of the authority
 
 [Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 11-C — Capital District Transportation Authority](README.md)
+
+**Repealed** (5 Aug 2022). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 1307-a. Additional special powers of the authority. 1. For the
