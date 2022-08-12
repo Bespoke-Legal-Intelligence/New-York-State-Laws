@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 5 Aug 2022.*
+*Current through the publication of 12 Aug 2022.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [12 Aug 2022](changes/2022/2022-08-12.md): Executive Law; Insurance Law; Judiciary Law
 - [5 Aug 2022](changes/2022/2022-08-05.md): Correction Law; Education Law; Election Law; Executive Law; Labor Law; Public Authorities Law; Real Property Actions and Proceedings Law; State Finance Law; Urban Development Corporation Act
 - [29 Jul 2022](changes/2022/2022-07-29.md): Abandoned Property Law; Arts and Cultural Affairs Law; Banking Law; Business Corporation Law; Civil Service Law; Criminal Procedure Law; Debtor and Creditor Law; Domestic Relations Law; Education Law; Environmental Conservation Law; Executive Law; Facilities Development Corporation Act; Family Court Act; General Municipal Law; Highway Law; Insurance Law; Judiciary Law; Labor Law; Medical Care Facilities Finance Agency; Mental Hygiene Law; Multiple Dwelling Law; Navigation Law; Private Housing Finance Law; Public Authorities Law; Public Health Law; Public Lands Law; Public Officers Law; Public Service Law; Real Property Actions and Proceedings Law; Real Property Law; Real Property Tax Law; Social Services Law; State Finance Law; Tax Law; Town Law; Vehicle and Traffic Law
 - [22 Jul 2022](changes/2022/2022-07-22.md): Alcoholic Beverage Control Law; Energy Law; General Business Law; Highway Law; Port of New York Authority; Public Authorities Law; Public Health Law; Public Housing Law; Social Services Law; State Finance Law; Tax Law; Transportation Law; Vehicle and Traffic Law
@@ -22,27 +23,26 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [8 Jul 2022](changes/2022/2022-07-08.md): Alcoholic Beverage Control Law; Arts and Cultural Affairs Law; Canal Law; Civil Practice Law and Rules; Civil Service Law; Correction Law; County Law; Criminal Procedure Law; Education Law; Election Law; Energy Law; Environmental Conservation Law; Executive Law; Family Court Act; General Business Law; General Municipal Law; Highway Law; Judiciary Law; Labor Law; Local Finance Law; Mental Hygiene Law; NYS Financial Emergency Act for the city of NY; Navigation Law; New York City Civil Court Act; Not-for-Profit Corporation Law; Penal Law; Public Authorities Law; Public Health Law; Public Officers Law; Public Service Law; Racing, Pari-Mutuel Wagering and Breeding Law; Real Property Law; Real Property Tax Law; Retirement and Social Security Law; Social Services Law; State Finance Law; State Law; Tax Law; Transportation Corporations Law; Vehicle and Traffic Law; Village Law; Workers' Compensation Law
 - [1 Jul 2022](changes/2022/2022-07-01.md): Civil Service Law; Education Law; Election Law; Labor Law; Penal Law; Public Health Law; Public Officers Law; Social Services Law; State Finance Law; Vehicle and Traffic Law
 - [24 Jun 2022](changes/2022/2022-06-24.md): Agriculture and Markets Law; Education Law; Election Law; Environmental Conservation Law; Executive Law; General Business Law; Insurance Law; Mental Hygiene Law; Public Health Law; Social Services Law; Soil and Water Conservation Districts Law; State Finance Law; Tax Law; Vehicle and Traffic Law
-- [17 Jun 2022](changes/2022/2022-06-17.md): Civil Practice Law and Rules; Civil Rights Law; Criminal Procedure Law; Education Law; Executive Law; General Business Law; Highway Law; Insurance Law; Labor Law; Public Health Law; Public Housing Law; Railroad Law; Rapid Transit Law; Real Property Tax Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
-| [Tax Law](consolidated-laws/tax-law/README.md) | 230 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 223 |
-| [Education Law](consolidated-laws/education-law/README.md) | 214 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | 185 |
-| [Correction Law](consolidated-laws/correction-law/README.md) | 172 |
-| [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 164 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 224 |
+| [Tax Law](consolidated-laws/tax-law/README.md) | 213 |
+| [Education Law](consolidated-laws/education-law/README.md) | 211 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 183 |
+| [Correction Law](consolidated-laws/correction-law/README.md) | 170 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | 163 |
-| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 161 |
-| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 151 |
-| [Insurance Law](consolidated-laws/insurance-law/README.md) | 143 |
-| [Social Services Law](consolidated-laws/social-services-law/README.md) | 142 |
-| [Highway Law](consolidated-laws/highway-law/README.md) | 129 |
+| [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 160 |
+| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 157 |
+| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 149 |
+| [Social Services Law](consolidated-laws/social-services-law/README.md) | 140 |
+| [Insurance Law](consolidated-laws/insurance-law/README.md) | 138 |
+| [Highway Law](consolidated-laws/highway-law/README.md) | 119 |
 | [Election Law](consolidated-laws/election-law/README.md) | 116 |
-| [Mental Hygiene Law](consolidated-laws/mental-hygiene-law/README.md) | 96 |
-| [Labor Law](consolidated-laws/labor-law/README.md) | 90 |
+| [Mental Hygiene Law](consolidated-laws/mental-hygiene-law/README.md) | 92 |
+| [Labor Law](consolidated-laws/labor-law/README.md) | 89 |
 
 ## Consolidated Laws
 
@@ -76,7 +76,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Energy Law](consolidated-laws/energy-law/README.md) | ENG | 70 | 22 Jul 2022 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,812 | 29 Jul 2022 |
 | [Estates, Powers and Trusts Law](consolidated-laws/estates-powers-and-trusts-law/README.md) | EPT | 361 | 19 Feb 2021 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 937 | 5 Aug 2022 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 937 | 12 Aug 2022 |
 | [Financial Services Law](consolidated-laws/financial-services-law/README.md) | FIS | 59 | 10 Jun 2022 |
 | [General Associations Law](consolidated-laws/general-associations-law/README.md) | GAS | 24 | 23 Apr 2021 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | GBS | 1,313 | 22 Jul 2022 |
@@ -86,8 +86,8 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [General Obligations Law](consolidated-laws/general-obligations-law/README.md) | GOB | 209 | 4 Mar 2022 |
 | [Highway Law](consolidated-laws/highway-law/README.md) | HAY | 659 | 29 Jul 2022 |
 | [Indian Law](consolidated-laws/indian-law/README.md) | IND | 97 | 11 Jan 2019 |
-| [Insurance Law](consolidated-laws/insurance-law/README.md) | ISC | 1,051 | 29 Jul 2022 |
-| [Judiciary Law](consolidated-laws/judiciary-law/README.md) | JUD | 540 | 29 Jul 2022 |
+| [Insurance Law](consolidated-laws/insurance-law/README.md) | ISC | 1,051 | 12 Aug 2022 |
+| [Judiciary Law](consolidated-laws/judiciary-law/README.md) | JUD | 540 | 12 Aug 2022 |
 | [Labor Law](consolidated-laws/labor-law/README.md) | LAB | 721 | 5 Aug 2022 |
 | [Legislative Law](consolidated-laws/legislative-law/README.md) | LEG | 126 | 15 Jul 2022 |
 | [Lien Law](consolidated-laws/lien-law/README.md) | LIE | 175 | 24 Apr 2020 |
