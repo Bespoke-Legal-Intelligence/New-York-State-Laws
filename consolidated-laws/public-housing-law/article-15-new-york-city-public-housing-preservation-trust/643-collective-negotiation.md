@@ -4,7 +4,7 @@
 [Public Housing Law](../README.md) › [Article 15 — New York City Public Housing Preservation Trust](README.md)
 
 ```text
-  * § 643. Collective negotiation. 1. The city of New York collective
+  § 643. Collective negotiation. 1. The city of New York collective
 bargaining law shall apply to the trust.
   2. For the purpose of article fourteen of the civil service law and
 the New York city collective bargaining law, as applicable, the trust,
@@ -28,5 +28,4 @@ represented by a public employee organization, shall be accreted to the
 appropriate bargaining certificates for which such public employee
 organization shall be voluntarily recognized as the bargaining agent
 under procedures acceptable to the office of collective bargaining.
-  * NB Effective August 15, 2022
 ```

@@ -4,7 +4,7 @@
 [Public Housing Law](../README.md) › [Article 15 — New York City Public Housing Preservation Trust](README.md)
 
 ```text
-  * § 627. Definitions. As used or referred to in this article:
+  § 627. Definitions. As used or referred to in this article:
   1. "Alternative project delivery contract" means any project delivery
 method authorized by this article, including construction manager build,
 construction manager at risk, and design-build, pursuant to which one or
@@ -142,5 +142,4 @@ permit or suffer any transfer, conveyance, assignment, mortgage, pledge
 or other encumbrance of any interest in such housing facility. The
 voting process shall be further defined as set forth in requirements
 promulgated pursuant to section six hundred thirty of this article.
-  * NB Effective August 15, 2022
 ```

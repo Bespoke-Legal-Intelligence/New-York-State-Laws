@@ -9,7 +9,7 @@
 - [§ 1370-A Lead poisoning prevention program](1370a-lead-poisoning-prevention-program.md)
 - [§ 1370-B Advisory council on lead poisoning prevention](1370b-advisory-council-on-lead-poisoning-prevention.md)
 - [§ 1370-C Screening by health care providers](1370c-screening-by-health-care-providers.md)
-- [§ 1370-D Lead screening of child care or pre-school enrollees](1370d-lead-screening-of-child-care-or-pre-school-enrollees.md)
+- [§ 1370-D Lead screening of child care, pre-school, pre-kindergarten or kindergarten enrollees](1370d-lead-screening-of-child-care-pre-school-pre-kindergarten.md)
 - [§ 1370-E Reporting lead exposure levels](1370e-reporting-lead-exposure-levels.md)
 - [§ 1371 Manufacture and sale of lead painted toys and furniture](1371-manufacture-and-sale-of-lead-painted-toys-and-furniture.md)
 - [§ 1372 Use of leaded paint](1372-use-of-leaded-paint.md)

@@ -8,7 +8,7 @@
 | Senate code | RPP |
 | Type | Consolidated law, chapter 50 |
 | Sections | 424 |
-| Last changed | 29 Jul 2022 |
+| Last changed | 19 Aug 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Real Property |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [19 Aug 2022](../../changes/2022/2022-08-19.md): 19 amended
 - [29 Jul 2022](../../changes/2022/2022-07-29.md): 2 amended
 - [8 Jul 2022](../../changes/2022/2022-07-08.md): 1 amended
 - [29 Apr 2022](../../changes/2022/2022-04-29.md): 2 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [25 Feb 2022](../../changes/2022/2022-02-25.md): 1 amended
 - [31 Dec 2021](../../changes/2021/2021-12-31.md): 4 amended
 - [24 Dec 2021](../../changes/2021/2021-12-24.md): 5 amended, 1 added
-- [8 Oct 2021](../../changes/2021/2021-10-08.md): 1 amended
 
 ## Contents
 
@@ -60,7 +60,7 @@ Assembly, do enact as follows:
 - [Article 9-C — Solar Rights Act](article-09c-solar-rights-act/)
 - [Article 10 — Discharge of Ancient Mortgages](article-10-discharge-of-ancient-mortgages/)
 - [Article 12 — Registering Title to Real Property](article-12-registering-title-to-real-property/)
-- [Article 12-A — Real Estate Brokers and Real Estate Salesmen](article-12a-real-estate-brokers-and-real-estate-salesmen/)
+- [Article 12-A — Real Estate Brokers and Real Estate Salespersons](article-12a-real-estate-brokers-and-real-estate-salespersons/)
 - [Article 12-B — Home Inspection Professional Licensing](article-12b-home-inspection-professional-licensing/)
 - [Article 12-C — Apartment Information Vendors](article-12c-apartment-information-vendors/)
 - [Article 13 — Cemetery Lands](article-13-cemetery-lands/)

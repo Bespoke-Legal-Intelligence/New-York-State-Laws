@@ -285,10 +285,10 @@ system and the citywide immunization registry for the purposes stated in
 this paragraph: (i) schools for the purpose of verifying immunization
 status for eligibility for admission, for the purpose of confirming a
 student has been screened for lead when enrolling in child care,
-pre-school or kindergarten, and for the provision of appropriate
-educational materials developed by the department pursuant to section
-thirteen hundred seventy-a of this chapter on the dangers of lead
-exposure, and the health risks associated with elevated blood lead
+pre-school, pre-kindergarten or kindergarten, and for the provision of
+appropriate educational materials developed by the department pursuant
+to section thirteen hundred seventy-a of this chapter on the dangers of
+lead exposure, and the health risks associated with elevated blood lead
 levels to the parents or legal guardians of the student with an elevated
 blood lead level, as such term is defined in subdivision six of section
 thirteen hundred seventy of this chapter, as well as information on

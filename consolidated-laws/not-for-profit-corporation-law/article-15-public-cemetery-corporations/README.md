@@ -33,6 +33,7 @@
 - [§ 1515 Actions affecting cemetery corporations](1515-actions-affecting-cemetery-corporations.md)
 - [§ 1516 Sale of monuments](1516-sale-of-monuments.md)
 - [§ 1517 Crematory operations](1517-crematory-operations.md)
+- [§ 1518 Crematory operations during emergency declaration](1518-crematory-operations-during-emergency-declaration.md)
 
 <details>
 <summary>Official heading of Article 15, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -72,6 +73,7 @@ Section 1501.   Declaration of policy.
         1515.   Actions affecting cemetery corporations.
         1516.   Sale of monuments.
         1517.   Crematory operations.
+        1518.   Crematory operations during emergency declaration.
 ```
 
 </details>

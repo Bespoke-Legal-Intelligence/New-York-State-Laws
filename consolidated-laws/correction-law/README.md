@@ -8,7 +8,7 @@
 | Senate code | COR |
 | Type | Consolidated law, chapter 43 |
 | Sections | 335 (1 repealed) |
-| Last changed | 5 Aug 2022 |
+| Last changed | 19 Aug 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Correction |
 
@@ -33,6 +33,7 @@ Became a law April 2, 1929, with the approval of the Governor.  Passed,
 
 ## Recent changes
 
+- [19 Aug 2022](../../changes/2022/2022-08-19.md): 12 amended
 - [5 Aug 2022](../../changes/2022/2022-08-05.md): 1 repealed
 - [8 Jul 2022](../../changes/2022/2022-07-08.md): 1 amended
 - [22 Apr 2022](../../changes/2022/2022-04-22.md): 1 added
@@ -42,7 +43,6 @@ Became a law April 2, 1929, with the approval of the Governor.  Passed,
 - [18 Mar 2022](../../changes/2022/2022-03-18.md): 1 amended
 - [11 Feb 2022](../../changes/2022/2022-02-11.md): 2 amended
 - [4 Feb 2022](../../changes/2022/2022-02-04.md): 1 amended
-- [21 Jan 2022](../../changes/2022/2022-01-21.md): 1 amended
 
 ## Contents
 
@@ -72,6 +72,6 @@ Became a law April 2, 1929, with the approval of the Governor.  Passed,
 - [Article 23-A — Licensure and Employment of Persons Previously Convicted of One or More Criminal Offenses](article-23a-licensure-and-employment-of-persons-previously/)
 - [Article 24 — Provisions Applicable to Sentences Imposed Under the the Revised Penal Plan](article-24-provisions-applicable-to-sentences-imposed/)
 - [Article 26 — Temporary Release Programs For State Correctional Institutions](article-26-temporary-release-programs-for-state/)
-- [Article 26-A — Shock Incarceration Program For State Correctional Inmates](article-26a-shock-incarceration-program-for-state/)
+- [Article 26-A — Shock Incarceration Program For State Correctional Incarcerated Individuals](article-26a-shock-incarceration-program-for-state/)
 - [Article 27 — Work Release Program For County Jails](article-27-work-release-program-for-county-jails/)
 - [Article 35 — Laws Repealed; When to Take Effect](article-35-laws-repealed-when-to-take-effect/)

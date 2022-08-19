@@ -11,5 +11,5 @@
 state parkway on Pudding Street, in the town of Putnam Valley, county of
 Putnam, shall be designated and known as the "Putnam Valley First
 Responders Bridge".
-  * NB There are 13 § 344-n's
+  * NB There are 15 § 344-n's
 ```

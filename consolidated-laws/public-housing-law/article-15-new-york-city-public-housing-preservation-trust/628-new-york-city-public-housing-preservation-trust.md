@@ -4,7 +4,7 @@
 [Public Housing Law](../README.md) › [Article 15 — New York City Public Housing Preservation Trust](README.md)
 
 ```text
-  * § 628. New York city public housing preservation trust. 1. There is
+  § 628. New York city public housing preservation trust. 1. There is
 hereby established a public benefit corporation to be known as the "New
 York city public housing preservation trust". The purpose of such trust
 shall be the design, development, construction, reconstruction,
@@ -101,5 +101,4 @@ maintained by the state or by the civil divisions thereof, or by any
 such public corporation, by reason of such person's acceptance of
 membership on the board of the trust or by virtue of such person being
 an officer or employee of the trust.
-  * NB Effective August 15, 2022
 ```

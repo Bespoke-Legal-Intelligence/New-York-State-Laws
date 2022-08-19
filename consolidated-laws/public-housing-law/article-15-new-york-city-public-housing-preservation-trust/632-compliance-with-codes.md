@@ -4,7 +4,7 @@
 [Public Housing Law](../README.md) › [Article 15 — New York City Public Housing Preservation Trust](README.md)
 
 ```text
-  * § 632. Compliance with codes. 1. The trust shall, in the design,
+  § 632. Compliance with codes. 1. The trust shall, in the design,
 development, construction, reconstruction, improvement, modernization,
 rehabilitation, repair, and operation of or otherwise providing for
 housing facilities, comply and cause all contractors of the trust to
@@ -16,5 +16,4 @@ otherwise providing for, housing facilities, which shall include
 criteria for beneficial electrification and renewable energy production
 in furtherance of the goals of decarbonized buildings, use of
 sustainable materials, and energy and water efficiency.
-  * NB Effective August 15, 2022
 ```

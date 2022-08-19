@@ -91,7 +91,7 @@ and effective for its labeled indications for use, and a new-drug
 application or an abbreviated new-drug application approved pursuant to
 the Federal Food, Drug, and Cosmetic Act is held for such drug product;
 and
-  * (2) The commissioner of the Federal Food and Drug Administration has
+  (2) The commissioner of the Federal Food and Drug Administration has
 evaluated such drug product as:
   (i) pharmaceutically and therapeutically equivalent and has listed
 such drug product on the list of approved drugs products with the
@@ -101,16 +101,6 @@ the commissioner of the Federal Food and Drug Administration has
 identified as having an actual or potential bioequivalence problem; or
   (ii) as an interchangeable biological product and has listed such
 product on the list of approved drug products with interchangeability.
-  * NB Effective until October 23, 2022
-  * (2) The commissioner of the Federal Food and Drug Administration has
-evaluated such drug product as pharmaceutically and therapeutically
-equivalent and has listed such drug product on the list of approved
-drugs products with the therapeutic equivalence evaluations, provided,
-however, that the list prepared by the commissioner shall not include
-any drug product which the commissioner of the Federal Food and Drug
-Administration has identified as having an actual or potential
-bioequivalence problem.
-  * NB Effective October 23, 2022
   (p) promulgate rules and regulations establishing procedures to be
 used in implementing the provisions of article thirteen-E of this
 chapter as limited by section thirteen hundred ninety-nine-x of article

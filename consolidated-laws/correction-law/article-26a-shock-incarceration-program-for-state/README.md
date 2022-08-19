@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"kind": "container", "law_id": "COR", "location_id": "A26-A", "path": "ARTICLE 26-A", "source": "nys-laws:COR/A26-A.md", "title": "Shock Incarceration Program For State Correctional Inmates"} -->
-# Article 26-A — Shock Incarceration Program For State Correctional Inmates
+﻿<!-- nyslaw {"kind": "container", "law_id": "COR", "location_id": "A26-A", "path": "ARTICLE 26-A", "source": "nys-laws:COR/A26-A.md", "title": "Shock Incarceration Program For State Correctional Incarcerated Individuals"} -->
+# Article 26-A — Shock Incarceration Program For State Correctional Incarcerated Individuals
 
 [Correction Law](../README.md)
 
@@ -15,10 +15,11 @@
 ```text
                               ARTICLE 26-A
                        SHOCK INCARCERATION PROGRAM
-                     FOR STATE CORRECTIONAL INMATES
+                   FOR STATE CORRECTIONAL INCARCERATED
+                               INDIVIDUALS
 Section 865. Definitions.
         866. Establishment of shock incarceration program.
-        867. Procedure   for   selection   of   participants   in  shock
+        867. Procedure for selection of participants in shock
                incarceration program.
 ```
 

@@ -41,7 +41,7 @@
 - [§ 25 Pastoral relation](25-pastoral-relation.md)
 - [§ 26 Worship](26-worship.md)
 - [§ 27 Reservation as to Baptist churches, churches of the United Church of Christ and Congregational Christian churches](27-reservation-as-to-baptist-churches-churches-of-the-united-church-of-christ.md)
-- [§ 28 Meetings for the duration of the state disaster emergency declared by executive order two hundred two that began on March seventh, two th...](28-meetings-for-the-duration-of-the-state-disaster-emergency-declared-by-executive.md)
+- [§ 28 Electronic meetings](28-electronic-meetings.md)
 
 <details>
 <summary>Official heading of Article 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

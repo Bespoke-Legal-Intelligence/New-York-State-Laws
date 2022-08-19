@@ -4,7 +4,7 @@
 [Public Housing Law](../README.md) › [Article 15 — New York City Public Housing Preservation Trust](README.md)
 
 ```text
-  * § 640. Tax exemption and tax contract by the state. 1. It is hereby
+  § 640. Tax exemption and tax contract by the state. 1. It is hereby
 determined that the creation of the trust and the carrying out of its
 corporate purposes is in all respects for the benefit of the people of
 the state of New York and is a public purpose. Accordingly, the trust
@@ -29,5 +29,4 @@ that the bonds, notes or other obligations of the trust issued pursuant
 to this article and the income therefrom and all revenues, monies, and
 other property pledged to pay or to secure the payment of such bonds,
 notes or other obligations shall at all times be free from taxation.
-  * NB Effective August 15, 2022
 ```

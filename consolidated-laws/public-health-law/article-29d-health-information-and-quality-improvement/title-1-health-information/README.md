@@ -18,6 +18,7 @@
 - [§ 2997-D Hospital, nursing home, home care, special needs assisted living residences and enhanced assisted living residences palliative care support](2997d-hospital-nursing-home-home-care-special-needs.md)
 - [§ 2997-E Provision of contact information relating to long term care](2997e-provision-of-contact-information-relating-to-long.md)
 - [§ 2997-F Provision of information relating to aging services](2997f-provision-of-information-relating-to-aging-services.md)
+- [§ 2997-F-1 Provision of information relating to sudden unexpected death in epilepsy](2997f-1-provision-of-information-relating-to-sudden.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -25,23 +26,25 @@
 ```text
                                  TITLE 1
                            HEALTH INFORMATION
-Section 2995.   Structure and definitions.
-        2995-a. Physician profiles.
-        2995-b. Hospital report cards.
-        2995-c. Health care plan and preferred provider organization
-                  data.
-        2995-d. Further study of other health care practitioner data.
-        2996.   Study of physician credentialing.
-        2997.   Patient privacy.
-        2997-a. Public access.
-        2997-b. Pamphlet of department programs.
-        2997-c. Palliative care patient information.
-        2997-d. Hospital, nursing home, home care, special needs
-                  assisted living residences and enhanced assisted
-                  living residences palliative care support.
-        2997-e. Provision of contact information relating to long term
-                  care.
-        2997-f. Provision of information relating to aging services.
+Section 2995.     Structure and definitions.
+        2995-a.   Physician profiles.
+        2995-b.   Hospital report cards.
+        2995-c.   Health care plan and preferred provider organization
+                    data.
+        2995-d.   Further study of other health care practitioner data.
+        2996.     Study of physician credentialing.
+        2997.     Patient privacy.
+        2997-a.   Public access.
+        2997-b.   Pamphlet of department programs.
+        2997-c.   Palliative care patient information.
+        2997-d.   Hospital, nursing home, home care, special needs
+                    assisted living residences and enhanced assisted
+                    living residences palliative care support.
+        2997-e.   Provision of contact information relating to long term
+                    care.
+        2997-f.   Provision of information relating to aging services.
+        2997-f-1. Provision of information relating to sudden unexpected
+                    death in epilepsy.
 ```
 
 </details>

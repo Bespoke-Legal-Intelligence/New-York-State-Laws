@@ -4,7 +4,7 @@
 [Public Housing Law](../README.md) › [Article 15 — New York City Public Housing Preservation Trust](README.md)
 
 ```text
-  * § 647. Jurisdiction over trust. 1. The trust shall not be deemed a
+  § 647. Jurisdiction over trust. 1. The trust shall not be deemed a
 "covered organization" as defined in the New York state financial
 emergency act for the city of New York.
   2. The department of investigation of the city shall be authorized to
@@ -15,5 +15,4 @@ representative, is hereby authorized and empowered from time to time to
 examine the books and accounts of the trust including its receipts,
 disbursements, contracts, reserve funds, sinking funds, investments, and
 any other matters relating to its financial standing.
-  * NB Effective August 15, 2022
 ```

@@ -240,7 +240,7 @@ Article
   29-CCCC. CARE act (caregiver advise, record and enable act)
             (§§ 2994-hh--2994-mm).
   29-D.    Health information and quality improvement.
-           Title   I.    Health information (§§2995--2997-f).
+           Title   I.    Health information (§§2995--2997-f-1).
                  1-A.    Safe patient handling (§§2997-g--2997-l).
                   II.    Quality improvement (§§2998--2999-a).
                    3.    Pay for performance (§§2999-b--2999-f).

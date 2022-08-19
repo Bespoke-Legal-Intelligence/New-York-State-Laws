@@ -17,6 +17,7 @@
 - [§ 14-F Power of the superintendent of financial services to require the provision of basic banking services](14f-power-of-the-superintendent-of-financial-services-to-require-the-provision.md)
 - [§ 18 Fees for copies and certifications](18-fees-for-copies-and-certifications.md)
 - [§ 18-A Application fees](18a-application-fees.md)
+- [§ 18-B Holocaust reparations payment fees](18b-holocaust-reparations-payment-fees.md)
 - [§ 19 Assessments for deficiency in reserves against deposits](19-assessments-for-deficiency-in-reserves-against-deposits.md)
 - [§ 20 Assessments, penalties and forfeitures entitled to priority](20-assessments-penalties-and-forfeitures-entitled-to-priority.md)
 - [§ 21 Collection of assessments, penalties and forfeitures; proceedings by attorney general](21-collection-of-assessments-penalties-and-forfeitures-proceedings-by-attorney.md)
@@ -85,6 +86,7 @@ Section 10.   Declaration of policy.
                 require the provision of basic banking services.
         18.   Fees for copies and certifications.
         18-a. Application fees.
+        18-b. Holocaust reparations payment fees.
         19.   Assessments for deficiency in reserves against deposits.
         20.   Assessments, penalties and forfeitures entitled to
                 priority.

@@ -4,7 +4,7 @@
 [Public Housing Law](../README.md) › [Article 15 — New York City Public Housing Preservation Trust](README.md)
 
 ```text
-  * § 629. Powers and duties of the trust. The trust shall have the
+  § 629. Powers and duties of the trust. The trust shall have the
 following powers and duties:
   1. to sue and be sued;
   2. to have a seal and alter the same at pleasure;
@@ -105,5 +105,4 @@ be undertaken in compliance with language access requirements in federal
 and state law, as applicable; and
   17. to do any and all things necessary or convenient to carry out and
 exercise the powers given and granted by this article.
-  * NB Effective August 15, 2022
 ```

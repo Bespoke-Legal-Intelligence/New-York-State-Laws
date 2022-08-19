@@ -62,9 +62,9 @@ practitioners, persons licensed under this article and unlicensed
 personnel employed at a local correctional facility may, in a manner
 permitted by the regulations promulgated pursuant to this subdivision,
 utilize body imaging scanning equipment that applies ionizing radiation
-to humans for purposes of screening inmates committed to such facility,
-in connection with the implementation of such facility's security
-program.
+to humans for purposes of screening incarcerated individuals committed
+to such facility, in connection with the implementation of such
+facility's security program.
   (ii) The utilization of such body imaging scanning equipment shall be
 in accordance with regulations promulgated by the department, or in
 cities having a population of two million or more, such utilization
@@ -87,11 +87,11 @@ New York city department of health and mental hygiene, and that such
 personnel receive additional training on an annual basis;
   (ii) Limitations on exposure which shall be no more than fifty percent
 of the annual exposure limits for non-radiation workers as specified by
-applicable regulations, except that inmates under the age of eighteen
-shall not be subject to more than five percent of such annual exposure
-limits, and pregnant women shall not be subject to such scanning at any
-time. Procedures for identifying pregnant women shall be set forth in
-the regulations;
+applicable regulations, except that incarcerated individuals under the
+age of eighteen shall not be subject to more than five percent of such
+annual exposure limits, and pregnant women shall not be subject to such
+scanning at any time. Procedures for identifying pregnant women shall be
+set forth in the regulations;
   (iii) Registration with the department of each body imaging scanning
 machine purchased or installed at a local correctional facility;
   (iv) Inspection and regular reviews of the use of body imaging
@@ -113,11 +113,13 @@ and the temporary president of the senate. Such report shall be
 submitted within eighteen months after the initial date of registration
 of such equipment with the department, and annually thereafter, and
 shall contain the following information as to each such facility:
-  (i) the number of times the equipment was used on inmates upon intake,
-after visits, and upon the suspicion of contraband, as well as any other
-event that triggers the use of such equipment;
+  (i) the number of times the equipment was used on incarcerated
+individuals upon intake, after visits, and upon the suspicion of
+contraband, as well as any other event that triggers the use of such
+equipment;
   (ii) the average, median, and highest number of times the equipment
-was used on any inmate, with corresponding exposure levels;
+was used on any incarcerated individual, with corresponding exposure
+levels;
   (iii) the number of times the use of the equipment detected the
 presence of drug contraband, weapon contraband, and any other illegal or
 impermissible object or substance;

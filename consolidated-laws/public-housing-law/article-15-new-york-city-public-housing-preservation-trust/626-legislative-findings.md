@@ -4,12 +4,12 @@
 [Public Housing Law](../README.md) › [Article 15 — New York City Public Housing Preservation Trust](README.md)
 
 ```text
-  * § 626. Legislative findings. The legislature hereby finds and
-declares that significant capital investment is required to design,
-develop, construct, reconstruct, improve, modernize, rehabilitate, and
-repair the aging buildings owned or operated by the New York city
-housing authority which are deteriorating due to decades of diminishing
-capital investment. Restrictions relating to the New York city housing
+  § 626. Legislative findings. The legislature hereby finds and declares
+that significant capital investment is required to design, develop,
+construct, reconstruct, improve, modernize, rehabilitate, and repair the
+aging buildings owned or operated by the New York city housing authority
+which are deteriorating due to decades of diminishing capital
+investment. Restrictions relating to the New York city housing
 authority's construction process, and its inability to utilize
 innovative project delivery methods, have exacerbated its capital needs.
 A new public entity with greater flexibility to leverage capital
@@ -28,5 +28,4 @@ transferred to this new public entity and operated by the New York city
 housing authority shall continue to be subject to the obligations
 imposed by Maribel Baez et al. v. New York City Housing Authority, No.
 13-Civ-8916.
-  * NB Effective August 15, 2022
 ```

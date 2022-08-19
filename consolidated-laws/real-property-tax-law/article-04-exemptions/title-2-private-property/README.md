@@ -163,6 +163,7 @@
 - [§ 485-U Class one reassessment exemption](485u-class-one-reassessment-exemption.md)
 - [§ 485-V Residential revaluation exemption](485v-residential-revaluation-exemption.md)
 - [§ 485-V\*2 Residential and mixed-use investment exemption; certain cities and school districts](485v-2-residential-and-mixed-use-investment-exemption-certain-cities-and-school.md)
+- [§ 485-W Newly constructed single-family and multi-family residential exemption; certain villages](485w-newly-constructed-single-family-and-multi-family-residential-exemption-certain.md)
 - [§ 486 Non-profit medical and dental indemnity, or hospital service corporations](486-non-profit-medical-and-dental-indemnity-or-hospital-service-corporations.md)
 - [§ 486-A Non-profit corporations operating as health maintenance organizations](486a-non-profit-corporations-operating-as-health-maintenance-organizations.md)
 - [§ 487 Exemption from taxation for certain energy systems](487-exemption-from-taxation-for-certain-energy-systems.md)
@@ -437,6 +438,8 @@ Section 420-a.   Nonprofit organizations; mandatory class.
         485-v.   Residential revaluation exemption.
         485-v*2. Residential and mixed-use investment exemption; certain
                    cities and school districts.
+        485-w.   Newly constructed single-family and multi-family
+                   residential exemption; certain villages.
         486.     Non-profit medical and dental indemnity, or hospital
                    service corporations.
         486-a.   Non-profit corporations operating as health maintenance

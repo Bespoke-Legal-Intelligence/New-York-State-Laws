@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Correction Law § 866", "kind": "section", "law_id": "COR", "location_id": "866", "path": "ARTICLE 26-A › SECTION 866", "repealed": false, "repealed_date": null, "source": "nys-laws:COR/866.md", "title": "Establishment of shock incarceration program"} -->
 # Correction Law § 866 — Establishment of shock incarceration program
 
-[Correction Law](../README.md) › [Article 26-A — Shock Incarceration Program For State Correctional Inmates](README.md)
+[Correction Law](../README.md) › [Article 26-A — Shock Incarceration Program For State Correctional Incarcerated Individuals](README.md)
 
 ```text
   § 866. Establishment of shock incarceration program. 1. The

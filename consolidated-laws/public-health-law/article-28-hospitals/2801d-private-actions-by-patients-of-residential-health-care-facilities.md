@@ -46,13 +46,18 @@ damages as provided by subdivision two of this section, may be recovered
 in any action which a court may authorize to be brought as a class
 action pursuant to article nine of the civil practice law and rules. The
 remedies provided in this section are in addition to and cumulative with
-any other remedies available to a patient, at law or in equity or by
+any other remedies available to a patient, the patient's legal
+representative, or the patient's estate at law or in equity or by
 administrative proceedings, including tort causes of action, and may be
 granted regardless of whether such other remedies are available or are
 sought. A violation of subdivision three of section twenty-eight hundred
 three-c of this article is not a prerequisite for a claim under this
 section. Exhaustion of any available administrative remedies shall not
 be required prior to commencement of suit hereunder.
+  4-a. Under this section, any action that may be brought, and any
+relief that may be sought or received, may be brought, sought or
+received in an appropriate case by the patient's legal representative or
+the patient's estate.
   5. The amount of any damages recovered by a patient, in an action
 brought pursuant to this section shall be exempt for purposes of
 determining initial or continuing eligibility for medical assistance

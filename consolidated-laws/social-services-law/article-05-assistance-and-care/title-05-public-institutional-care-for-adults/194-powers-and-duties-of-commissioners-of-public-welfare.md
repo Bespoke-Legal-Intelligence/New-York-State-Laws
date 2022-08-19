@@ -36,11 +36,12 @@ such rules shall not be valid unless approved in writing by the
 department,
   7. as far as practicable provide suitable employment for any
 incarcerated individual whom the attending physician pronounces able to
-work, assigning such inmates to such labor in connection with the farm
-and garden, or the care and upkeep of the buildings or other suitable
-tasks in the public home as they may be deemed capable of performing,
-and providing occupational and other diversions as may be for the best
-interests of the incarcerated individuals,
+work, assigning such incarcerated individuals to such labor in
+connection with the farm and garden, or the care and upkeep of the
+buildings or other suitable tasks in the public home as they may be
+deemed capable of performing, and providing occupational and other
+diversions as may be for the best interests of the incarcerated
+individuals,
   8. when in their individual judgment and discretion it appears
 advisable, for purposes of rehabilitation, to provide incentive
 compensation to an incarcerated individual, in any amount or amounts

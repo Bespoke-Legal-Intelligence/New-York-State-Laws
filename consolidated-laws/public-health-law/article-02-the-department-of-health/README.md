@@ -14,7 +14,7 @@
 - [Title 2-C — Charles D Cook Office of Rural Health](title-2c-charles-d-cook-office-of-rural/)
 - [Title 2-D — Health Care Practitioner Referrals](title-2d-health-care-practitioner-referrals/)
 - [Title 2-E — Hiv/hbv/hcv Prevention Training](title-2e-hiv-hbv-hcv-prevention-training/)
-- [Title 2-F — Office of Minority Health](title-2f-office-of-minority-health/)
+- [Title 2-F — Office of Health Equity](title-2f-office-of-health-equity/)
 - [Title 3 — State Health Areas](title-3-state-health-areas/)
 - [Title 4 — Spinal Cord Injury Research Board](title-4-spinal-cord-injury-research-board/)
 - [Title 5 — Health Care Practitioner Volunteer Pilot Program](title-5-health-care-practitioner-volunteer/)

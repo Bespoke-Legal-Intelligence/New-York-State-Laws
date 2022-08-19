@@ -4,7 +4,7 @@
 [Public Housing Law](../README.md) › [Article 15 — New York City Public Housing Preservation Trust](README.md)
 
 ```text
-  * § 639. Legal investment and deposit. The bonds, notes or other
+  § 639. Legal investment and deposit. The bonds, notes or other
 obligations of the trust are hereby made securities in which all public
 officers and bodies of the state and all public corporations,
 municipalities and municipal subdivisions, all insurance companies and
@@ -22,5 +22,4 @@ and may be received by all public officers and bodies of the state and
 all municipalities and public corporations for any purpose for which the
 deposit of bonds, notes or other obligations of the state is now or may
 hereafter be authorized.
-  * NB Effective August 15, 2022
 ```

@@ -4,7 +4,7 @@
 [Public Housing Law](../README.md) › [Article 15 — New York City Public Housing Preservation Trust](README.md)
 
 ```text
-  * § 636. Additional requirements for alternative project delivery
+  § 636. Additional requirements for alternative project delivery
 contracts. Construction performed under a contract entered into by the
 trust pursuant to this article shall be deemed a "public work" to be
 performed in accordance with the provisions of article eight of the
@@ -23,5 +23,4 @@ labor agreement referenced in section six hundred thirty-four of this
 article, and shall include project labor agreement compliance monitoring
 and enforcement provisions consistent with any such project labor
 agreement.
-  * NB Effective August 15, 2022
 ```

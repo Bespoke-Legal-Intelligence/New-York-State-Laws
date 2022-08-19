@@ -3,6 +3,8 @@
 
 [Executive Law](../README.md)
 
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
 ## Contents
 
 - [§ 210 Division of state police](210-division-of-state-police.md)
@@ -18,6 +20,7 @@
 - [§ 214-F Emergency situations involving people with autism spectrum disorder and other developmental disabilities](214f-emergency-situations-involving-people-with-autism-spectrum-disorder-and-other.md)
 - [§ 214-G Opioid antagonist awareness](214g-opioid-antagonist-awareness.md)
 - [§ 214-H Extreme risk protection orders](214h-extreme-risk-protection-orders.md)
+- [§ 214-H\*2 Model law enforcement death notification policy](214h-2-model-law-enforcement-death-notification-policy.md)
 - [§ 215 Organization; salaries; qualifications; appointment; term; rules and regulations](215-organization-salaries-qualifications-appointment-term-rules-and-regulations.md)
 - [§ 216 Bureau of criminal investigation](216-bureau-of-criminal-investigation.md)
 - [§ 216-A Scientific crime detection laboratory](216a-scientific-crime-detection-laboratory.md)
@@ -56,58 +59,61 @@
 ```text
                                ARTICLE 11
                         DIVISION OF STATE POLICE
-Section 210.   Division of state police.
-        211.   Employees.
-        212.   Equipment.
-        213.   Acquisition of real property.
-        214.   Establishment of training school.
-        214-a. Child abuse prevention.
-        214-b. Family offense intervention.
-        214-c. Elder abuse awareness.
-        214-d. Human trafficking awareness.
-        214-e. Cardiopulmonary resuscitation training and retraining.
-        214-f. Emergency situations involving people with autism
-                 spectrum disorder and other developmental disabilities.
-        214-g. Opioid antagonist awareness.
-        214-h. Extreme risk protection orders.
-        215.   Organization; salaries; qualifications; appointment;
-                 term; rules and regulations.
-        216.   Bureau of criminal investigation.
-        216-a. Scientific crime detection laboratory.
-        216-b. Salary increments.
-        216-c. Holiday compensation.
-        216-d. Consumer product protection.
-        217.   Communication.
-        218.   Installation, operation and maintenance of basic system;
-                 personnel.
-        219.   Availability.
-        220.   Orders, rules or regulations.
-        221.   System of criminal justice information.
-        221-a. Computer system to carry information of orders of
-                 protection and warrants of arrest.
-        221-b. Reporting to New York state violent crimes analysis
-                 program.
-        221-c. Statewide repository of data relating to unlawful
-                 methamphetamine laboratories.
-        221-d. Discovery of an unlawful methamphetamine laboratory.
-        222.   Radio communication system.
-        223.   Duties and powers of the superintendent of state police
-                 and of members of the state police.
-        224.   Verification of complaint.
-        225.   Enforcement of conservation law.
-        225-a. Lost and found property.
-        226.   Employment of state police in towns, villages, police
-                 districts.
-        227.   Disability benefits.
-        227-a. Death benefits.
-        228.   National instant criminal background checks.
-        229.   Retirement for cause.
-        230.   Gun trafficking interdiction program.
-        231.   Uniform identification cards for retired police officers.
-        232.   Sexual assault victims unit.
-        233.   Municipal gun buyback program.
-        234.   New York state police body-worn cameras program.
-        235.   Firearms safety training, and licensing appeals.
+Section 210.     Division of state police.
+        211.     Employees.
+        212.     Equipment.
+        213.     Acquisition of real property.
+        214.     Establishment of training school.
+        214-a.   Child abuse prevention.
+        214-b.   Family offense intervention.
+        214-c.   Elder abuse awareness.
+        214-d.   Human trafficking awareness.
+        214-e.   Cardiopulmonary resuscitation training and retraining.
+        214-f.   Emergency situations involving people with autism
+                   spectrum disorder and other developmental
+                   disabilities.
+        214-g.   Opioid antagonist awareness.
+        214-h.   Extreme risk protection orders.
+        214-h*2. Model law enforcement death notification policy.
+        215.     Organization; salaries; qualifications; appointment;
+                   term; rules and regulations.
+        216.     Bureau of criminal investigation.
+        216-a.   Scientific crime detection laboratory.
+        216-b.   Salary increments.
+        216-c.   Holiday compensation.
+        216-d.   Consumer product protection.
+        217.     Communication.
+        218.     Installation, operation and maintenance of basic
+                   system; personnel.
+        219.     Availability.
+        220.     Orders, rules or regulations.
+        221.     System of criminal justice information.
+        221-a.   Computer system to carry information of orders of
+                   protection and warrants of arrest.
+        221-b.   Reporting to New York state violent crimes analysis
+                   program.
+        221-c.   Statewide repository of data relating to unlawful
+                   methamphetamine laboratories.
+        221-d.   Discovery of an unlawful methamphetamine laboratory.
+        222.     Radio communication system.
+        223.     Duties and powers of the superintendent of state police
+                   and of members of the state police.
+        224.     Verification of complaint.
+        225.     Enforcement of conservation law.
+        225-a.   Lost and found property.
+        226.     Employment of state police in towns, villages, police
+                   districts.
+        227.     Disability benefits.
+        227-a.   Death benefits.
+        228.     National instant criminal background checks.
+        229.     Retirement for cause.
+        230.     Gun trafficking interdiction program.
+        231.     Uniform identification cards for retired police
+                   officers.
+        232.     Sexual assault victims unit.
+        233.     Municipal gun buyback program.
+        234.     New York state police body-worn cameras program.
+        235.     Firearms safety training, and licensing appeals.
 ```
 
 </details>

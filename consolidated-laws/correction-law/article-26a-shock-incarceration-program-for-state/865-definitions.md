@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Correction Law § 865", "kind": "section", "law_id": "COR", "location_id": "865", "path": "ARTICLE 26-A › SECTION 865", "repealed": false, "repealed_date": null, "source": "nys-laws:COR/865.md", "title": "Definitions"} -->
 # Correction Law § 865 — Definitions
 
-[Correction Law](../README.md) › [Article 26-A — Shock Incarceration Program For State Correctional Inmates](README.md)
+[Correction Law](../README.md) › [Article 26-A — Shock Incarceration Program For State Correctional Incarcerated Individuals](README.md)
 
 ```text
   § 865. Definitions. As used in this article, the following terms mean:

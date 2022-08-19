@@ -8,7 +8,7 @@
 | Senate code | CCA |
 | Type | Court act |
 | Sections | 158 |
-| Last changed | 8 Jul 2022 |
+| Last changed | 19 Aug 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | New York City Civil Court |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [19 Aug 2022](../../changes/2022/2022-08-19.md): 8 amended
 - [8 Jul 2022](../../changes/2022/2022-07-08.md): 1 amended
 - [1 Apr 2022](../../changes/2022/2022-04-01.md): 1 amended
 - [31 Dec 2021](../../changes/2021/2021-12-31.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [9 Apr 2021](../../changes/2021/2021-04-09.md): 1 amended
 - [16 Oct 2020](../../changes/2020/2020-10-16.md): 1 amended
 - [24 Apr 2020](../../changes/2020/2020-04-24.md): 1 amended
-- [20 Dec 2019](../../changes/2019/2019-12-20.md): 1 amended
 
 ## Contents
 

@@ -12,7 +12,7 @@
 - [§ 23-A Residence requirement for comptroller of the town of Cortlandt](23a-residence-requirement-for-comptroller-of-the-town-of-cortlandt.md)
 - [§ 24 Terms of office](24-terms-of-office.md)
 - [§ 24-A Terms of office of elective officers](24a-terms-of-office-of-elective-officers.md)
-- [§ 24-B Election of councilmen and town justices in the town of Pawling](24b-election-of-councilmen-and-town-justices-in-the-town-of-pawling.md)
+- [§ 24-B Election of council members and town justices in the town of Pawling](24b-election-of-council-members-and-town-justices-in-the-town-of-pawling.md)
 - [§ 25 Oaths of office and undertaking](25-oaths-of-office-and-undertaking.md)
 - [§ 25-A Fingerprints of persons before appointment as town police officers, or as constables possessing powers in criminal matters](25a-fingerprints-of-persons-before-appointment-as-town-police-officers.md)
 - [§ 26 Resignation of town officers](26-resignation-of-town-officers.md)
@@ -52,8 +52,8 @@ Section 20.   Town officers.
                 Cortlandt.
         24.   Terms of office.
         24-a. Terms of office of elective officers.
-        24-b. Election of councilmen and town justices in the town of
-                Pawling.
+        24-b. Election of council members and town justices in the town
+                of Pawling.
         25.   Oaths of office and undertaking.
         25-a. Fingerprints of persons before appointment as town police
                 officers, or as constables possessing powers in criminal

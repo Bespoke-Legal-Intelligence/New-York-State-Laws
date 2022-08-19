@@ -4,7 +4,7 @@
 [Public Housing Law](../README.md) › [Article 15 — New York City Public Housing Preservation Trust](README.md)
 
 ```text
-  * § 646. Audit and annual reports. The trust shall have an internal
+  § 646. Audit and annual reports. The trust shall have an internal
 audit function and shall annually prepare and submit reports as required
 by this section, provided that no report shall be required during the
 earlier of the first year after the trust commences its operations or
@@ -69,5 +69,4 @@ comments to the trust until a specified date prior to the date on which
 the report is finalized. The trust shall consider all comments received
 during such period prior to finalizing the report required by this
 subdivision.
-  * NB Effective August 15, 2022
 ```

@@ -24,9 +24,20 @@ such information is maintained as confidential except for (i) disclosure
 for medical treatment purposes; (ii) disclosure of non-identifying
 epidemiological data; and (iii) disclosure of information from such
 registry to the statewide immunization information system established by
-section twenty-one hundred sixty-eight of this chapter; and
+section twenty-one hundred sixty-eight of this chapter;
   (d) develop and implement public education and community outreach
-programs on lead exposure, detection and risk reduction.
+programs on lead exposure, detection and risk reduction;
+  (e) require primary health care providers to provide the parent or
+guardian of each child under six years of age anticipatory guidance on
+lead poisoning prevention as part of routine care, including but not
+limited to contact information for the state-designated childhood lead
+poisoning primary prevention program serving their county; and
+  (f) develop and update as necessary, in consultation with the New York
+state advisory council on lead poisoning prevention, a standardized lead
+exposure risk assessment questionnaire that shall be available on the
+department's website for primary health care providers to utilize
+pursuant to subdivision two-a of section thirteen hundred seventy-c of
+this title.
   3. The department shall identify and designate areas in the state with
 significant concentrations of children identified with elevated blood
 lead levels as communities of concern for purposes of implementing a

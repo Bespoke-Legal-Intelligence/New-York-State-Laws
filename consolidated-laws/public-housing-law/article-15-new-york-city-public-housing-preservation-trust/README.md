@@ -35,7 +35,7 @@
 <summary>Official heading of Article 15, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              * ARTICLE XV
+                               ARTICLE XV
              NEW YORK CITY PUBLIC HOUSING PRESERVATION TRUST
 Section 625. Short title.
         626. Legislative findings.
@@ -64,7 +64,6 @@ Section 625. Short title.
         647. Jurisdiction over trust.
         648. Effect of inconsistent provisions.
         649. Severability.
-  * NB Effective August 15, 2022
 ```
 
 </details>

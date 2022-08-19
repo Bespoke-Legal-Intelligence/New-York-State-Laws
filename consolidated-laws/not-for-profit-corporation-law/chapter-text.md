@@ -1,4 +1,4 @@
-﻿<!-- nyslaw {"kind": "chapter", "law_id": "NPC", "location_id": "-CH35", "source": "nys-laws:NPC/-CH35.md", "title": "Not-For-Profit Corporation"} -->
+﻿<!-- nyslaw {"kind": "chapter", "law_id": "NPC", "location_id": "-CH35", "source": "nys-laws:NPC/-CH35.md", "title": "Not-for-Profit Corporation"} -->
 # Not-for-Profit Corporation Law — chapter text as published
 
 [Not-for-Profit Corporation Law](README.md)
@@ -33,6 +33,6 @@ Article 1.    Short   title;   definitions;  application;  certificates;
         12.   Receivership. (§§ 1201-1218)
         13.   Foreign corporations. (§§ 1301-1321)
         14.   Special not-for-profit corporations. (§§ 1401-1412)
-        15.   Public cemetery corporations. (§§ 1501-1516)
+        15.   Public cemetery corporations. (§§ 1501-1518)
         16.   Land banks. (§§ 1600-1617)
 ```

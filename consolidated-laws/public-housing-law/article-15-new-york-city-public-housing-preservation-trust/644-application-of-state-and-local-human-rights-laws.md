@@ -4,9 +4,8 @@
 [Public Housing Law](../README.md) › [Article 15 — New York City Public Housing Preservation Trust](README.md)
 
 ```text
-  * § 644. Application of state and local human rights laws.
+  § 644. Application of state and local human rights laws.
 Notwithstanding any provision of law to the contrary, article fifteen of
 the executive law and title eight of the administrative code of the city
 of New York shall apply to the trust.
-  * NB Effective August 15, 2022
 ```

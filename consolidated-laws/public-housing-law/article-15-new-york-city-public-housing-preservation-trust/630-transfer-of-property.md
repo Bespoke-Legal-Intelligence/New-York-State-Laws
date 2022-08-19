@@ -4,7 +4,7 @@
 [Public Housing Law](../README.md) › [Article 15 — New York City Public Housing Preservation Trust](README.md)
 
 ```text
-  * § 630. Transfer of property. 1. NYCHA, acting by NYCHA board
+  § 630. Transfer of property. 1. NYCHA, acting by NYCHA board
 resolution and in accordance with a disposition or similar plan approved
 by the United States department of housing and urban development in
 accordance with applicable federal law, which shall include a letter of
@@ -109,5 +109,4 @@ detailing the proposed options; and
 final date for submission of such comments. NYCHA shall consider and
 respond to all comments received in such period prior to completing a
 transfer pursuant to this subdivision.
-  * NB Effective August 15, 2022
 ```

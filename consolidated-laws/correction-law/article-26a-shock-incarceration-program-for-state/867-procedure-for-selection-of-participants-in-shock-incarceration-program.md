@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Correction Law § 867", "kind": "section", "law_id": "COR", "location_id": "867", "path": "ARTICLE 26-A › SECTION 867", "repealed": false, "repealed_date": null, "source": "nys-laws:COR/867.md", "title": "Procedure for selection of participants in shock incarceration program"} -->
 # Correction Law § 867 — Procedure for selection of participants in shock incarceration program
 
-[Correction Law](../README.md) › [Article 26-A — Shock Incarceration Program For State Correctional Inmates](README.md)
+[Correction Law](../README.md) › [Article 26-A — Shock Incarceration Program For State Correctional Incarcerated Individuals](README.md)
 
 ```text
   § 867. Procedure for selection of participants in shock incarceration

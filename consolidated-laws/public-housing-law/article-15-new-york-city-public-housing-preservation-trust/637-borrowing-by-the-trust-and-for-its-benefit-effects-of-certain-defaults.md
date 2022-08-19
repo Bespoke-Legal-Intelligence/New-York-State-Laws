@@ -4,11 +4,11 @@
 [Public Housing Law](../README.md) › [Article 15 — New York City Public Housing Preservation Trust](README.md)
 
 ```text
-  * § 637. Borrowing by the trust and for its benefit; effects of
-certain defaults. 1. For the purposes of this section, the term
-"project" means the acquisition, development, design, construction,
-reconstruction, improvement, rehabilitation, repairing and operation of
-housing facilities.
+  § 637. Borrowing by the trust and for its benefit; effects of certain
+defaults. 1. For the purposes of this section, the term "project" means
+the acquisition, development, design, construction, reconstruction,
+improvement, rehabilitation, repairing and operation of housing
+facilities.
   2. The trust shall have the power and is hereby authorized from time
 to time to issue bonds, notes or other obligations in conformity with
 applicable provisions of the uniform commercial code, in such principal
@@ -204,5 +204,4 @@ facilities as part of a financing arrangement.
 the director of management and budget of the city of New York containing
 such information as the director of management and budget of the city of
 New York may request.
-  * NB Effective August 15, 2022
 ```

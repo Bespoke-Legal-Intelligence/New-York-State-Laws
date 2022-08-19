@@ -20,6 +20,7 @@
 - [§ 159-B Excused leave to undertake a screening for cancer](159b-excused-leave-to-undertake-a-screening-for-cancer.md)
 - [§ 159-C Leave time for COVID-19 vaccination](159c-leave-time-for-covid-19-vaccination.md)
 - [§ 159-C\*2 Prohibition of retaliation for use of sick leave due to COVID-19; public employers](159c-2-prohibition-of-retaliation-for-use-of-sick-leave-due-to-covid-19-public.md)
+- [§ 159-D Excused leave to donate blood](159d-excused-leave-to-donate-blood.md)
 
 <details>
 <summary>Official heading of Article 10, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -39,7 +40,7 @@ Section 150.     Suspension of pension and annuity during public
         156.     Unauthorized soliciting in behalf of civil service
                    employees.
         157.     Deductions from retirement allowances.
-        158.      Group term life insurance plan and group accident and
+        158.     Group term life insurance plan and group accident and
                    health benefit plan.
         159.     Group insurance or mass merchandising policies or
                    programs.
@@ -48,6 +49,7 @@ Section 150.     Suspension of pension and annuity during public
         159-c.   Leave time for COVID-19 vaccination.
         159-c*2. Prohibition of retaliation for use of sick leave due to
                    COVID-19; public employers.
+        159-d.   Excused leave to donate blood.
 ```
 
 </details>

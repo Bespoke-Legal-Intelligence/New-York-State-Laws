@@ -4,7 +4,7 @@
 [Public Health Law](../../README.md) › [Article 13 — Nuisances and Sanitation](../README.md) › [Title 10 — Control of Lead Poisoning](README.md)
 
 ```text
-  § 1370-c. Screening by health care providers.  1. The department is
+  § 1370-c. Screening by health care providers. 1. The department is
 authorized to promulgate regulations establishing the means by which and
 the intervals at which children and pregnant women shall be screened for
 elevated lead levels. The department is also authorized to require
@@ -18,6 +18,11 @@ but not limited to hospitals, clinics and health maintenance
 organizations, shall ensure, by providing screenings or by referring for
 screenings, that their patients receive screening for lead at the
 intervals and using the methods specified in such regulations.
+  2-a. Every primary health care provider shall conduct a lead exposure
+risk assessment questionnaire provided by the department for each child
+who is at least six months of age and continuing until six years of age
+at each routine well-child visit, or at least annually if a child has
+not had routine well-child visits.
   3. The health practitioner who screens any child for lead shall give a
 certificate of screening to the parent or guardian of the child.
   4. The department shall establish a separate level of payment, subject

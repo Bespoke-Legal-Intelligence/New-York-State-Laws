@@ -32,6 +32,7 @@
 - [§ 102 IntraLATA presubscribed interexchange carrier-change charge study](102-intralata-presubscribed-interexchange-carrier-change-charge-study.md)
 - [§ 103 Commercial landlord-tenant relationship](103-commercial-landlord-tenant-relationship.md)
 - [§ 104 Fiber-based services](104-fiber-based-services.md)
+- [§ 104-A Notice to customers on fiber optic-based telephone lines](104a-notice-to-customers-on-fiber-optic-based-telephone-lines.md)
 
 <details>
 <summary>Official heading of Article 5, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -78,6 +79,8 @@ Section 90.   Application of article.
        102.   IntraLATA presubscribed interexchange carrier-change
                 charge study.
        103.   Commercial landlord-tenant relationship.
+       104.   Fiber-based services.
+       104-a. Notice to customers on fiber optic-based telephone lines.
 ```
 
 </details>

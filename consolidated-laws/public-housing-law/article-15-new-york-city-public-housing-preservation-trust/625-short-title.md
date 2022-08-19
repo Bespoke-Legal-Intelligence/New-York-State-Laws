@@ -4,7 +4,6 @@
 [Public Housing Law](../README.md) › [Article 15 — New York City Public Housing Preservation Trust](README.md)
 
 ```text
-  * § 625. Short title. This article shall be known and may be cited as
+  § 625. Short title. This article shall be known and may be cited as
 the "New York city public housing preservation trust act".
-  * NB Effective August 15, 2022
 ```

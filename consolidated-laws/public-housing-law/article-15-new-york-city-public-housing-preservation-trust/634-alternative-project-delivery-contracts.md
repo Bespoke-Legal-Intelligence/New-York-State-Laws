@@ -4,14 +4,14 @@
 [Public Housing Law](../README.md) › [Article 15 — New York City Public Housing Preservation Trust](README.md)
 
 ```text
-  * § 634. Alternative project delivery contracts. 1. Notwithstanding
-any provision of law to the contrary, including but not limited to
-section seventy-two hundred ten of the education law, and in conformity
-with the requirements of this article, for any public work undertaken
-pursuant to a project labor agreement the trust may use alternative
-project delivery contracts, provided that the authority to advertise a
-request for qualification in accordance with this section shall expire
-five years after the effective date of this section.
+  § 634. Alternative project delivery contracts. 1. Notwithstanding any
+provision of law to the contrary, including but not limited to section
+seventy-two hundred ten of the education law, and in conformity with the
+requirements of this article, for any public work undertaken pursuant to
+a project labor agreement the trust may use alternative project delivery
+contracts, provided that the authority to advertise a request for
+qualification in accordance with this section shall expire five years
+after the effective date of this section.
   (a) A contractor selected by the trust to enter into an alternative
 project delivery contract may be selected through a two-step method, as
 follows:
@@ -208,5 +208,4 @@ this subdivision shall not be construed to modify or limit contractors'
 obligations to perform the work in strict accordance with the applicable
 alternative project delivery contract or the contractors' or any
 subcontractors' obligations or liabilities under any law.
-  * NB Effective August 15, 2022
 ```

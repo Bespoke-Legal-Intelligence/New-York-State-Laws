@@ -344,6 +344,7 @@
 - [§ 344-M\*20 Portion of the state highway system to be designated as the "SP4 Richard F](344m-20-portion-of-the-state-highway-system-to-be-designated-as-the-sp4-richard-f.md)
 - [§ 344-M\*21 Portion of the state highway system to be designated as the "Trooper Thomas J](344m-21-portion-of-the-state-highway-system-to-be-designated-as-the-trooper-thomas-j.md)
 - [§ 344-M\*22 Portion of the state highway system to be designated as the "Medal of Honor Recipient Francis S](344m-22-portion-of-the-state-highway-system-to-be-designated-as-the-medal-of-honor.md)
+- [§ 344-M\*23 Portion of the state highway system to be designated as the "Rensselaer County Purple Heart Highway"](344m-23-portion-of-the-state-highway-system-to-be-designated-as-the-rensselaer-county.md)
 - [§ 344-N Portion of the state highway system to be designated as the "Marylou Whitney Way"](344n-portion-of-the-state-highway-system-to-be-designated-as-the-marylou-whitney-way.md)
 - [§ 344-N\*2 Portion of state highway system to be designated as the "Trooper Martin J](344n-2-portion-of-state-highway-system-to-be-designated-as-the-trooper-martin-j.md)
 - [§ 344-N\*3 Portion of the state highway system to be designated as the "Firefighter Jared Lloyd Memorial Highway"](344n-3-portion-of-the-state-highway-system-to-be-designated-as-the-firefighter-jared.md)
@@ -357,6 +358,8 @@
 - [§ 344-N\*11 Portion of the state highway system to be designated as the "Firefighter Robert Fowler Memorial Highway"](344n-11-portion-of-the-state-highway-system-to-be-designated-as-the-firefighter-robert.md)
 - [§ 344-N\*12 Portion of the state highway system to be designated as the "Chief John 'Jody' Rossitz Memorial Bridge"](344n-12-portion-of-the-state-highway-system-to-be-designated-as-the-chief-john-jody.md)
 - [§ 344-N\*13 Portion of the state highway system in Oneida county to be designated as the "Oneida County Korean War Veterans Memorial Highway"](344n-13-portion-of-the-state-highway-system-in-oneida-county-to-be-designated.md)
+- [§ 344-N\*14 Portion of the state highway system to be designated as the "Petty Officer Robert Segool Memorial Highway"](344n-14-portion-of-the-state-highway-system-to-be-designated-as-the-petty-officer-robert.md)
+- [§ 344-N\*15 Portion of the state highway system to be designated as the "Staff Sergeant Shawn M](344n-15-portion-of-the-state-highway-system-to-be-designated-as-the-staff-sergeant-shawn.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 
 <details>
@@ -1163,6 +1166,8 @@ Section 340-a.     Designation of state interstate routes.
         344-m*22.  Portion of the state highway system to be designated
                      as the "Medal of Honor Recipient Francis S. Currey
                      Memorial Highway".
+        344-m*23.  Portion of the state highway system to be designated
+                     as the "Rensselaer County Purple Heart Highway".
         344-n.     Portion of the state highway system to be designated
                      as the "Marylou Whitney Way".
         344-n*2.   Portion of state highway system to be designated as
@@ -1195,6 +1200,12 @@ Section 340-a.     Designation of state interstate routes.
         344-n*13.  Portion of the state highway system in Oneida county
                      to be designated as the "Oneida County Korean War
                      Veterans Memorial Highway".
+        344-n*14.  Portion of the state highway system to be designated
+                     as the "Petty Officer Robert Segool Memorial
+                     Highway".
+        344-n*15.  Portion of the state highway system to be designated
+                     as the "Staff Sergeant Shawn M. Clemens Memorial
+                     Highway".
         345-a.     Abandonment and transfer of state highways.
 ```
 

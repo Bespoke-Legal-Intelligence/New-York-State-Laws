@@ -4,7 +4,7 @@
 [Public Housing Law](../README.md) › [Article 15 — New York City Public Housing Preservation Trust](README.md)
 
 ```text
-  * § 645. Limited liability. 1. As used in this section, the term
+  § 645. Limited liability. 1. As used in this section, the term
 "employee" shall mean the members of the board, president, officers,
 employees, or a former employee, his or her estate or judicially
 appointed personal representative.
@@ -103,5 +103,4 @@ set forth in such section.
   13. The provisions of this section shall apply to the actions and
 proceedings set forth herein notwithstanding any inconsistent provisions
 of state or local law.
-  * NB Effective August 15, 2022
 ```
