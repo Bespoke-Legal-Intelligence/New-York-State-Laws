@@ -4,7 +4,7 @@
 [Alcoholic Beverage Control Law](../README.md) › [Article 5 — Special Provisions Relating to Liquor](README.md)
 
 ```text
-  * § 65-e. Posting of signs relating to human trafficking. 1. The
+  § 65-e. Posting of signs relating to human trafficking. 1. The
 authority shall require any person with a license to sell alcoholic
 beverages for consumption on the premises who indicated, pursuant to
 paragraph (f) of subdivision one of section one hundred ten of this
@@ -42,5 +42,4 @@ consumption on the premises that is subject to the posting requirement
 of this section who violates the provisions of this section shall be
 subject to a civil penalty, not to exceed one hundred dollars for each
 day of violation.
-  * NB Effective August 19, 2022
 ```

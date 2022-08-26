@@ -8,7 +8,7 @@
 | Senate code | ABC |
 | Type | Consolidated law, chapter 3-B |
 | Sections | 181 |
-| Last changed | 19 Aug 2022 |
+| Last changed | 26 Aug 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Alcoholic Beverage Control |
 
@@ -31,6 +31,7 @@ Article  1.   Short title; policy of state and purpose of chapter;
 
 ## Recent changes
 
+- [26 Aug 2022](../../changes/2022/2022-08-26.md): 2 amended
 - [19 Aug 2022](../../changes/2022/2022-08-19.md): 2 amended
 - [22 Jul 2022](../../changes/2022/2022-07-22.md): 2 amended, 1 added
 - [8 Jul 2022](../../changes/2022/2022-07-08.md): 7 amended
@@ -40,7 +41,6 @@ Article  1.   Short title; policy of state and purpose of chapter;
 - [25 Feb 2022](../../changes/2022/2022-02-25.md): 2 amended
 - [11 Feb 2022](../../changes/2022/2022-02-11.md): 1 amended
 - [31 Dec 2021](../../changes/2021/2021-12-31.md): 1 amended
-- [24 Dec 2021](../../changes/2021/2021-12-24.md): 5 amended, 1 added
 
 ## Contents
 
