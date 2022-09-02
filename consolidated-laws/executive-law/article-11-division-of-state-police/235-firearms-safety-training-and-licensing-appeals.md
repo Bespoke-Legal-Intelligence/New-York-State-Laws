@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 11 — Division of State Police](README.md)
 
 ```text
-  * § 235. Firearms safety training, and licensing appeals. 1. The
+  § 235. Firearms safety training, and licensing appeals. 1. The
 superintendent shall, in conjunction with the commissioner of the
 division of criminal justice services, promulgate policies and
 procedures with regard to standardization of firearms safety training
@@ -16,5 +16,4 @@ division of criminal justice services, shall create an appeals board for
 the purpose of hearing appeals as provided in subdivision four-a of
 section 400.00 of the penal law and promulgate rules and regulations
 governing such appeals.
-  * NB Effective September 1, 2022
 ```

@@ -19,7 +19,7 @@ paragraph (4) of this subdivision.
   (2) Purchaser. A person who purchases property or to whom are rendered
 services, the receipts from which are taxable under this article,
 including a mobile telecommunications customer.
-  * (3) Receipt. The amount of the sale price of any property and the
+  (3) Receipt. (i) The amount of the sale price of any property and the
 charge for any service taxable under this article, including gas and gas
 service and electricity and electric service of whatever nature, valued
 in money, whether received in money or otherwise, including any amount
@@ -35,25 +35,7 @@ transportation, transmission, or distribution is provided by such vendor
 or a third party, but excluding any credit for tangible personal
 property accepted in part payment and intended for resale. For special
 rules governing computation of receipts, see section eleven hundred
-eleven.
-  * NB Effective until December 1, 2021
-  * (3) Receipt. (i) The amount of the sale price of any property and
-the charge for any service taxable under this article, including gas and
-gas service and electricity and electric service of whatever nature,
-valued in money, whether received in money or otherwise, including any
-amount for which credit is allowed by the vendor to the purchaser,
-without any deduction for expenses or early payment discounts and also
-including any charges by the vendor to the purchaser for shipping or
-delivery, and, with respect to gas and gas service and electricity and
-electric service, any charges by the vendor for transportation,
-transmission or distribution, regardless of whether such charges are
-separately stated in the written contract, if any, or on the bill
-rendered to such purchaser and regardless of whether such shipping or
-delivery or transportation, transmission, or distribution is provided by
-such vendor or a third party, but excluding any credit for tangible
-personal property accepted in part payment and intended for resale. For
-special rules governing computation of receipts, see section eleven
-hundred eleven of this article.
+eleven of this article.
   (ii) Receipt shall include consideration received by the vendor from
 third parties if:
   (A) The vendor receives consideration from a third party and the
@@ -87,7 +69,6 @@ party on sales of motor vehicles.
 organization entitled to a rebate, discount or similar price reduction"
 shall not include the presentation of a customer loyalty or related
 rewards program card.
-  * NB Effective December 1, 2021
   (4) Retail sale. (i) A sale of tangible personal property to any
 person for any purpose, other than (A) for resale as such or as a
 physical component part of tangible personal property, or (B) for use by
@@ -969,46 +950,13 @@ privileges.
 under subdivision (a) of section eleven hundred five of this article and
 by section eleven hundred ten of this article, the following terms shall
 mean:
-  * (1) Marketplace provider. A person who, pursuant to an agreement
-with a marketplace seller, facilitates sales of tangible personal
-property by such marketplace seller or sellers. A person "facilitates a
-sale of tangible personal property" for purposes of this paragraph when
-the person meets both of the following conditions: (A) such person
-provides the forum in which, or by means of which, the sale takes place
-or the offer of sale is accepted, including a shop, store, or booth, an
-internet website, catalog, or similar forum; and (B) such person or an
-affiliate of such person collects the receipts paid by a customer to a
-marketplace seller for a sale of tangible personal property, or
-contracts with a third party to collect such receipts. For purposes of
-this paragraph, a "sale of tangible personal property" shall not include
-the rental of a passenger car as described in section eleven hundred
-sixty of this chapter but shall include a lease described in subdivision
-(i) of section eleven hundred eleven of this article. For purposes of
-this paragraph, persons are affiliated if one person has an ownership
-interest of more than five percent, whether direct or indirect, in
-another, or where an ownership interest of more than five percent,
-whether direct or indirect, is held in each of such persons by another
-person or by a group of other persons that are affiliated persons with
-respect to each other. Notwithstanding anything in this paragraph, a
-person who is not otherwise registered pursuant to section eleven
-hundred thirty four of this article is not a marketplace provider if
-such person has no physical presence in New York and, for the
-immediately preceding four quarterly periods ending on the last day of
-February, May, August and November, can show that the cumulative total
-gross receipts of sales it has made or facilitated of property delivered
-in this state does not exceed five hundred thousand dollars or that such
-person has not made or facilitated more than one hundred sales of
-property delivered in this state. However, such person may elect to
-register as a marketplace provider, and, once registered, will be
-subject to the provisions of this article.
-  * NB Effective until September 1, 2022
-  * (1) Marketplace provider. A person who, pursuant to an agreement
-with a marketplace seller, facilitates sales of tangible personal
-property by such marketplace seller or sellers. A person "facilitates a
-sale of tangible personal property" for purposes of this paragraph when
-the person meets both of the following conditions: (A) such person
-provides the forum in which, or by means of which, the sale takes place
-or the offer of sale is accepted, including a shop, store, or booth, an
+  (1) Marketplace provider. A person who, pursuant to an agreement with
+a marketplace seller, facilitates sales of tangible personal property by
+such marketplace seller or sellers. A person "facilitates a sale of
+tangible personal property" for purposes of this paragraph when the
+person meets both of the following conditions: (A) such person provides
+the forum in which, or by means of which, the sale takes place or the
+offer of sale is accepted, including a shop, store, or booth, an
 internet website, catalog, or similar forum; and (B) such person or an
 affiliate of such person collects the receipts paid by a customer to a
 marketplace seller for a sale of tangible personal property, or
@@ -1035,7 +983,6 @@ that such person has not made or facilitated more than one hundred sales
 of property delivered in this state. However, such person may elect to
 register as a marketplace provider, and, once registered, will be
 subject to the provisions of this article.
-  * NB Effective September 1, 2022
   (2) Marketplace seller. Any person, whether or not such person is
 required to obtain a certificate of authority under section eleven
 hundred thirty-four of this article, who has an agreement with a

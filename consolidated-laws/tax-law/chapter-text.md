@@ -63,7 +63,6 @@ Article 1.      Short title; definitions; miscellaneous (§§ 1-46).
        29-B.     State assessment fee on transportation network company
                    prearranged trips (§§ 1291-1298).
        29-C.     Congestion surcharge (§§ 1299--1299-I).
-       29-D.     Assessment fees (§§ 1299-J--1299-S).
        30.       City personal income tax (§§ 1300-1313).
        30-A.     City income tax surcharge (§§ 1320-1333)
        30-B.     City earnings tax on nonresidents (§§ 1340-1343).

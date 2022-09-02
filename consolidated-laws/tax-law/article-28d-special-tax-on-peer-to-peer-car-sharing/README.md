@@ -18,7 +18,7 @@
 <summary>Official heading of Article 28-D, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 28-D
+                              ARTICLE 28-D
                  SPECIAL TAX ON PEER-TO-PEER CAR SHARING
 Section 1190. Definitions.
         1191. Imposition of state-wide peer-to-peer tax.
@@ -29,7 +29,6 @@ Section 1190. Definitions.
         1195. Presumption.
         1196. Administrative provisions.
         1197. Deposit and disposition of revenue.
-  * NB Effective September 1, 2022
 ```
 
 </details>

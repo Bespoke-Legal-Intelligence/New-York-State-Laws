@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1299-R", "kind": "section", "law_id": "TAX", "location_id": "1299-R", "path": "ARTICLE 29-D › SECTION 1299-R", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1299-R.md", "title": "Practice and procedure"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 1299-R", "kind": "section", "law_id": "TAX", "location_id": "1299-R", "path": "ARTICLE 29-D › SECTION 1299-R", "repealed": true, "repealed_date": "2022-09-02", "source": "nys-laws:TAX/1299-R.md", "title": "Practice and procedure"} -->
 # Tax Law § 1299-R — Practice and procedure
 
 [Tax Law](../README.md) › [Article 29-D — Assessment Fees](README.md)
+
+**Repealed** (2 Sep 2022). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 1299-R. Practice and procedure. The provisions of article

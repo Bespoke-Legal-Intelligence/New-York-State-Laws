@@ -12,7 +12,7 @@ injustices and disadvantages as a result of their race, ethnicity,
 sexual orientation, gender identity, gender expression, disability
 status, age, immigration status, and/or socioeconomic status, among
 others as determined by the commissioner of health.
-  2. " Racially and ethnically diverse area" shall mean a county with a
+  2. "Racially and ethnically diverse area" shall mean a county with a
 non-white population of forty percent or more, or the service area of an
 agency, corporation, facility or individual providing medical and/or
 health services whose non-white population is forty percent or more.
@@ -21,7 +21,7 @@ individual providing medical and/or health care services to underserved
 populations.
   4. "Office" shall mean the office of health equity, as created
 pursuant to section two hundred forty-one of this title.
-  5. " Health equity council" shall mean that advisory body to the
+  5. "Health equity council" shall mean that advisory body to the
 commissioner, created pursuant to the provisions of section two hundred
 forty-three of this title.
   6. "Health disparities" shall mean measurable differences in health

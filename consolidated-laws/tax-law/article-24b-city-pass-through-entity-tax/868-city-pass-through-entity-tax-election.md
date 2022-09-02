@@ -20,15 +20,10 @@ in subsection (c) of section eight hundred sixty-one of this chapter and
 in the same manner as the election to be taxed pursuant to article
 twenty-four-A of this chapter.
   (b) In order to be effective, the annual election to be taxed pursuant
-to this article must be made by a city taxpayer and (1) if the entity is
-an S corporation, by any officer, manager or shareholder of the S
-corporation who is authorized under the law of the state where the
-corporation is incorporated or under the S corporation's organizational
-documents to make the election and who represents to having such
-authorization under penalty of perjury; or (2) if the entity is not an S
-corporation, by any member, partner, owner, or other individual with
-authority to bind the entity or sign returns pursuant to section six
-hundred fifty-three of this chapter.
+to this article must be made by an individual as described in subsection
+(b) of section eight hundred sixty-one of this chapter who made the
+annual election to be taxed pursuant to article twenty-four-A of this
+chapter for the taxable year.
   (c) The annual election to be taxed pursuant to this article must be
 made by the due date of the first estimated payment under section eight
 hundred sixty-four of this chapter and will take effect for the current

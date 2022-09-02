@@ -30,9 +30,8 @@ property, including any charges for shipping or delivery as described in
 paragraph three of subdivision (b) of section eleven hundred one of this
 chapter, but excluding any credit for tangible personal property
 accepted in part payment and intended for resale.
-  * (c) The provisions of this section shall not apply to peer-to-peer
-car sharing as defined in section nine hundred of the general business
-law and which is subject to the taxes set forth in article
-twenty-eight-D of this chapter.
-  * NB Effective September 1, 2022
+  (c) The provisions of this section shall not apply to peer-to-peer car
+sharing as defined in section nine hundred of the general business law
+and which is subject to the taxes set forth in article twenty-eight-D of
+this chapter.
 ```

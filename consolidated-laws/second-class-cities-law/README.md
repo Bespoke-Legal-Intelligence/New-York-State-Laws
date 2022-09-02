@@ -8,7 +8,7 @@
 | Senate code | SCC |
 | Type | Consolidated law, chapter 53 |
 | Sections | 147 |
-| Last changed | 11 Jan 2019 |
+| Last changed | 2 Sep 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Second Class Cities |
 
@@ -31,6 +31,7 @@ The People of the State of New York, represented in Senate and Assembly,
 
 ## Recent changes
 
+- [2 Sep 2022](../../changes/2022/2022-09-02.md): 1 amended
 - [11 Jan 2019](../../changes/2019/2019-01-11.md): 1 amended
 
 ## Contents

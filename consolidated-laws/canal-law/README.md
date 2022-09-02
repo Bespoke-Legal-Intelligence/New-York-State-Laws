@@ -27,7 +27,7 @@ Assembly, do enact as follows:
                                 CANAL LAW
 ```
 
-[Full chapter text (27 lines)](chapter-text.md)
+[Full chapter text (28 lines)](chapter-text.md)
 
 ## Recent changes
 

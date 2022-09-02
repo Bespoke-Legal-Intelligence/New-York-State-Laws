@@ -32,23 +32,24 @@ or through a disregarded entity, shall be severally liable for such
 taxpayer's direct share of city pass-through entity tax to the extent
 the tax due pursuant to this article is not paid by the electing city
 partnership or electing city resident S corporation.
-  (3) Any city taxpayer eligible to claim a credit authorized pursuant
-to subsection (g) of section thirteen hundred ten of this chapter
-because such taxpayer is a partner or member in an electing city
-partnership or a shareholder in an electing city resident S corporation,
-either directly or through a disregarded entity, that is a general,
-managing or controlling partner of the electing city partnership or
-managing or controlling shareholder of the electing city resident S
-corporation, or owns greater than fifty percent of the interests or
-profits of the electing city partnership or electing city resident S
-corporation, or is under a duty to act for the electing city partnership
-or electing city resident S corporation in complying with the provisions
-of this article, or was the individual that made the election on behalf
-of the electing city partnership or electing city resident S corporation
-authorized by section eight hundred sixty-eight of this article, shall
-be jointly and severally liable for the tax imposed pursuant to this
-article on such electing city partnership or electing city resident S
-corporation.
+  (3) Any taxpayer eligible to claim a credit authorized pursuant to
+subsection (g) of section thirteen hundred ten of this chapter or a
+credit authorized pursuant to subsection (kkk) of section six hundred
+six of this chapter because such taxpayer is a partner or member in an
+electing city partnership or a shareholder in an electing city resident
+S corporation, either directly or through a disregarded entity, that is
+a general, managing or controlling partner of the electing city
+partnership or managing or controlling shareholder of the electing city
+resident S corporation, or owns greater than fifty percent of the
+interests or profits of the electing city partnership or electing city
+resident S corporation, or is under a duty to act for the electing city
+partnership or electing city resident S corporation in complying with
+the provisions of this article, or was the individual that made the
+election on behalf of the electing city partnership or electing city
+resident S corporation authorized by section eight hundred sixty-eight
+of this article, shall be jointly and severally liable for the tax
+imposed pursuant to this article on such electing city partnership or
+electing city resident S corporation.
   (d) Deposit and disposition of revenue. All taxes, interest,
 penalties, and fees collected or received by the commissioner pursuant
 to this article shall be deposited and disposed of in the manner set

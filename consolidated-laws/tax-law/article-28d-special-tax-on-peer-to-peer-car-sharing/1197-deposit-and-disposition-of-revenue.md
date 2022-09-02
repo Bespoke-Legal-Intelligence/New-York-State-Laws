@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 28-D — Special Tax On Peer-to-peer Car Sharing](README.md)
 
 ```text
-  * § 1197. Deposit and disposition of revenue. (a) All taxes, fees,
+  § 1197. Deposit and disposition of revenue. (a) All taxes, fees,
 interest and penalties collected or received by the commissioner under
 section eleven hundred ninety-one of this article shall be deposited and
 disposed of pursuant to the provisions of section one hundred
@@ -21,5 +21,4 @@ the commissioner under section eleven hundred ninety-three of this
 article shall be deposited and disposed into the public transportation
 systems operating assistance account established by section
 eighty-eight-a of the state finance law.
-  * NB Effective September 1, 2022
 ```

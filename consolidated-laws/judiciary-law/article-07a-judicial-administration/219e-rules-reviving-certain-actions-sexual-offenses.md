@@ -4,9 +4,8 @@
 [Judiciary Law](../README.md) › [Article 7-A — Judicial Administration](README.md)
 
 ```text
-  * § 219-e. Rules reviving certain actions; sexual offenses. The chief
+  § 219-e. Rules reviving certain actions; sexual offenses. The chief
 administrator of the courts shall promulgate rules for the timely
 adjudication of revived actions brought pursuant to section two hundred
 fourteen-j of the civil practice law and rules.
-  * NB Effective August 24, 2022
 ```

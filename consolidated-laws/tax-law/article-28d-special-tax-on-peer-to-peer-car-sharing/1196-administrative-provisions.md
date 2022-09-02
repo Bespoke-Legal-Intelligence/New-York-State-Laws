@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 28-D — Special Tax On Peer-to-peer Car Sharing](README.md)
 
 ```text
-  * § 1196. Administrative provisions. (a) Except as otherwise provided
+  § 1196. Administrative provisions. (a) Except as otherwise provided
 for in this article, the taxes imposed by this article shall be
 administered and collected in a like manner as and jointly with the
 taxes imposed by sections eleven hundred five and eleven hundred ten of
@@ -28,5 +28,4 @@ not relevant to the taxes imposed by this article.
   (b) The tax imposed by this article is in lieu of and replaces any tax
 as may be imposed under sections eleven hundred sixty, eleven hundred
 sixty-six-a, and eleven hundred sixty-six-b of this chapter.
-  * NB Effective September 1, 2022
 ```

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1299-Q", "kind": "section", "law_id": "TAX", "location_id": "1299-Q", "path": "ARTICLE 29-D › SECTION 1299-Q", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1299-Q.md", "title": "Secrecy of returns and reports"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 1299-Q", "kind": "section", "law_id": "TAX", "location_id": "1299-Q", "path": "ARTICLE 29-D › SECTION 1299-Q", "repealed": true, "repealed_date": "2022-09-02", "source": "nys-laws:TAX/1299-Q.md", "title": "Secrecy of returns and reports"} -->
 # Tax Law § 1299-Q — Secrecy of returns and reports
 
 [Tax Law](../README.md) › [Article 29-D — Assessment Fees](README.md)
+
+**Repealed** (2 Sep 2022). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 1299-Q. Secrecy of returns and reports. (a) Except in accordance

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1299-O", "kind": "section", "law_id": "TAX", "location_id": "1299-O", "path": "ARTICLE 29-D › SECTION 1299-O", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1299-O.md", "title": "Returns and payment of peer-to-peer assessment fee"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 1299-O", "kind": "section", "law_id": "TAX", "location_id": "1299-O", "path": "ARTICLE 29-D › SECTION 1299-O", "repealed": true, "repealed_date": "2022-09-02", "source": "nys-laws:TAX/1299-O.md", "title": "Returns and payment of peer-to-peer assessment fee"} -->
 # Tax Law § 1299-O — Returns and payment of peer-to-peer assessment fee
 
 [Tax Law](../README.md) › [Article 29-D — Assessment Fees](README.md)
+
+**Repealed** (2 Sep 2022). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 1299-O. Returns and payment of peer-to-peer assessment fee. (a)

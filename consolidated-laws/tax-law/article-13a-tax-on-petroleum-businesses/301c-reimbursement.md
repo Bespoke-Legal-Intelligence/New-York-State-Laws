@@ -4,22 +4,14 @@
 [Tax Law](../README.md) › [Article 13-A — Tax On Petroleum Businesses](README.md)
 
 ```text
-  § 301-c. Reimbursement. * A subsequent purchaser shall be eligible for
-reimbursement of tax with respect to the following gallonage,
+  § 301-c. Reimbursement.  * A subsequent purchaser shall be eligible
+for reimbursement of tax with respect to the following gallonage,
 subsequently sold by such purchaser in accordance with subdivision (a),
 (b), (e), (h), (j), (k), (n) or (o) of this section or used by such
-purchaser in accordance with subdivision (c), (d), (f), (g), (i), (l) or
-(m) of this section, which gallonage has been included in the measure of
-the tax imposed by this article on a petroleum business:
-  * NB Effective until September 1, 2022
-  * A subsequent purchaser shall be eligible for reimbursement of tax
-with respect to the following gallonage, subsequently sold by such
-purchaser in accordance with subdivision (a), (b), (e), (h), (j), (k),
-(n) or (o) of this section or used by such purchaser in accordance with
-subdivision (c), (d), (f), (g), (i), (l), (m) or (q) of this section,
-which gallonage has been included in the measure of the tax imposed by
-this article on a petroleum business:
-  * NB Effective September 1, 2022 until September 1, 2026
+purchaser in accordance with subdivision (c), (d), (f), (g), (i), (l),
+(m) or (q) of this section, which gallonage has been included in the
+measure of the tax imposed by this article on a petroleum business:
+  * NB Effective until September 1, 2026
   * A subsequent purchaser shall be eligible for reimbursement of tax
 with respect to the following gallonage, subsequently sold by such
 purchaser in accordance with subdivision (a), (b), (e), (h), (j) or (k)
@@ -339,7 +331,7 @@ proof satisfactory to the commissioner evidencing the absorption by such
 purchaser of the entire amount of such tax. Provided, that the
 commissioner shall require such documentary proof to qualify for any
 reimbursement provided hereunder as the commissioner deems appropriate.
-  * (q) Reimbursement for tugboats and towboats. A use by a tugboat or
+  (q) Reimbursement for tugboats and towboats. A use by a tugboat or
 towboat of motor fuel, diesel motor fuel, or residual petroleum product.
 This reimbursement may be claimed only where (1) any tax imposed
 pursuant to this article has been paid with respect to such gallonage
@@ -349,5 +341,4 @@ to the commissioner evidencing the absorption by it of the entire amount
 of such tax. Provided, that the commissioner shall require such
 documentary proof to qualify for any reimbursement provided hereunder as
 the commissioner deems appropriate.
-  * NB Effective September 1, 2022
 ```

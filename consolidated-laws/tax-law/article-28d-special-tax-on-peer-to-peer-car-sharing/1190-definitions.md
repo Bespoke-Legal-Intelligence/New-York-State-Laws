@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 28-D — Special Tax On Peer-to-peer Car Sharing](README.md)
 
 ```text
-  * § 1190. Definitions. Terms used in this article shall have the same
+  § 1190. Definitions. Terms used in this article shall have the same
 meaning as in section nine hundred of the general business law unless
 expressly provided otherwise. For purposes of this article, the
 following terms shall have the following meanings:
@@ -19,5 +19,4 @@ other entity or person that is responsible for operating, facilitating,
 or administering the means, digital or otherwise, by which a business
 platform facilitates a peer-to-peer car sharing program for financial
 consideration.
-  * NB Effective September 1, 2022
 ```

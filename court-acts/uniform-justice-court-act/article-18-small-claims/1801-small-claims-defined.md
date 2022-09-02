@@ -4,20 +4,7 @@
 [Uniform Justice Court Act](../README.md) › [Article 18 — Small Claims](README.md)
 
 ```text
-* § 1801. Small claims defined.
-  The term "small claim" or "small claims" as used in this act shall
-mean and include any cause of action for money only not in excess of
-three thousand dollars exclusive of interest and costs, provided that
-the defendant either resides, or has an office for the transaction of
-business or a regular employment, within the municipality where the
-court is located. However, where a judge of the county court, pursuant
-to subdivision (g) of section three hundred twenty-five of the civil
-practice law and rules, transfers a small claim from the town or village
-court having jurisdiction over the matter to another town or village
-court within the same county, the court to which it is transferred shall
-have jurisdiction to determine the claim.
-  * NB Effective until September 1, 2022
-* § 1801. Small claims defined.
+§ 1801. Small claims defined.
   The term "small claim" or "small claims" as used in this act shall
 mean and include any cause of action for money only not in excess of
 three thousand dollars exclusive of interest and costs, provided that
@@ -32,5 +19,4 @@ civil practice law and rules, transfers a small claim from the town or
 village court having jurisdiction over the matter to another town or
 village court within the same county, the court to which it is
 transferred shall have jurisdiction to determine the claim.
-  * NB Effective September 1, 2022
 ```

@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 28-D — Special Tax On Peer-to-peer Car Sharing](README.md)
 
 ```text
-  * § 1192. Imposition of metropolitan commuter transportation district
+  § 1192. Imposition of metropolitan commuter transportation district
 tax. (a) In addition to the statewide tax imposed under section eleven
 hundred ninety-one of this article and in addition to any tax imposed
 under any other article of this chapter, there is hereby imposed on
@@ -26,5 +26,4 @@ twelve hundred sixty-two of the public authorities law of any shared
 vehicle by the shared vehicle driver. For purposes of this subdivision,
 the tax shall be at the rate of three percent of the gross receipts paid
 or contracted to be paid for such shared vehicle.
-  * NB Effective September 1, 2022
 ```

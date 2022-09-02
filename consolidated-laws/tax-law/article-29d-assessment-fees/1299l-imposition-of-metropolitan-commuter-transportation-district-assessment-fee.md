@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1299-L", "kind": "section", "law_id": "TAX", "location_id": "1299-L", "path": "ARTICLE 29-D › SECTION 1299-L", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1299-L.md", "title": "Imposition of metropolitan commuter transportation district assessment fee"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 1299-L", "kind": "section", "law_id": "TAX", "location_id": "1299-L", "path": "ARTICLE 29-D › SECTION 1299-L", "repealed": true, "repealed_date": "2022-09-02", "source": "nys-laws:TAX/1299-L.md", "title": "Imposition of metropolitan commuter transportation district assessment fee"} -->
 # Tax Law § 1299-L — Imposition of metropolitan commuter transportation district assessment fee
 
 [Tax Law](../README.md) › [Article 29-D — Assessment Fees](README.md)
+
+**Repealed** (2 Sep 2022). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 1299-L. Imposition of metropolitan commuter transportation

@@ -4,8 +4,8 @@
 [Retirement and Social Security Law](../../README.md) › [Article 8 — New York State and Local Police and Fire Retirement System](../README.md) › [Title 10 — Special Retirement Plans Applicable to Specified Classes of Members](README.md)
 
 ```text
-  § 384-d.  Optional twenty year retirement plan for certain
-firefighters and police officers whose employer elects to provide same.
+  § 384-d. Optional twenty year retirement plan for certain firefighters
+and police officers whose employer elects to provide same.
   a. Any member of the retirement system who is a firefighter, police
 officer or officer of any organized fire department or organized police
 force or police department of any county, city, town, village, fire
@@ -32,10 +32,11 @@ retirement under this section, an annuity equal to one-eightieth of his
 final average salary for each year of service as a member rendered after
 his employer elects the provisions of this section, and prior to the
 attainment of the age when he shall first become eligible for
-retirement. Such member's rate of contribution pursuant to this section
-shall be appropriately reduced pursuant to section three hundred
-seventy-a of this article for such period of time as his employer
-contributes pursuant to such section toward
+retirement.
+  Such member's rate of contribution pursuant to this section shall be
+appropriately reduced pursuant to section three hundred seventy-a of
+this article for such period of time as his employer contributes
+pursuant to such section toward
 pensions-providing-for-increased-take-home-pay provided, however, that
 such member may by written notice duly acknowledged and filed with the
 comptroller, make an election to waive such reduction as provided by

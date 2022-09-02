@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [§ 400.00 Licenses to carry, possess, repair and dispose of firearms](400.00-licenses-to-carry-possess-repair-and-dispose.md)
+- [§ 400.00 Licensing and other provisions relating to firearms](400.00-licensing-and-other-provisions-relating.md)
 - [§ 400.01 License to carry and possess firearms for retired sworn members of the division of state police](400.01-license-to-carry-and-possess-firearms.md)
 - [§ 400.02 Statewide license and record database](400.02-statewide-license-and-record-database.md)
 - [§ 400.03 Sellers of ammunition](400.03-sellers-of-ammunition.md)

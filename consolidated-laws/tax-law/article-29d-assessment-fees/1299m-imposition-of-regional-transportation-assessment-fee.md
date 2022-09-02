@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1299-M", "kind": "section", "law_id": "TAX", "location_id": "1299-M", "path": "ARTICLE 29-D › SECTION 1299-M", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1299-M.md", "title": "Imposition of regional transportation assessment fee"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 1299-M", "kind": "section", "law_id": "TAX", "location_id": "1299-M", "path": "ARTICLE 29-D › SECTION 1299-M", "repealed": true, "repealed_date": "2022-09-02", "source": "nys-laws:TAX/1299-M.md", "title": "Imposition of regional transportation assessment fee"} -->
 # Tax Law § 1299-M — Imposition of regional transportation assessment fee
 
 [Tax Law](../README.md) › [Article 29-D — Assessment Fees](README.md)
+
+**Repealed** (2 Sep 2022). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 1299-M. Imposition of regional transportation assessment fee. In
