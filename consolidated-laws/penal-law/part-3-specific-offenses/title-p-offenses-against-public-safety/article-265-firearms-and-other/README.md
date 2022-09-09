@@ -36,7 +36,7 @@
 - [§ 265.26 Burn injury and wounds to be reported](265.26-burn-injury-and-wounds-to-be-reported.md)
 - [§ 265.30 Certain convictions to be reported](265.30-certain-convictions-to-be-reported.md)
 - [§ 265.35 Prohibited use of weapons](265.35-prohibited-use-of-weapons.md)
-- [§ 265.36 Unlawful possession of a large capacity ammunition feeding device](265.36-unlawful-possession-of-a-large-capacity.md)
+- [§ 265.36 Unlawful possession of a large capacity ammunition feeding device](265.36-unlawful-possession-of-a-large-capacity.md) *(repealed)*
 - [§ 265.37 Unlawful possession of certain ammunition feeding devices](265.37-unlawful-possession-of-certain-ammunition.md)
 - [§ 265.38 Unlawful sale of a non-microstamping-enabled firearm](265.38-unlawful-sale-of-a-non-microstamping-enabled.md)
 - [§ 265.40 Purchase of rifles and/or shotguns in contiguous states](265.40-purchase-of-rifles-and-or-shotguns.md)
@@ -94,8 +94,6 @@ Section 265.00   Definitions.
         265.26   Burn injury and wounds to be reported.
         265.30   Certain convictions to be reported.
         265.35   Prohibited use of weapons.
-        265.36   Unlawful possession of a large capacity ammunition
-                   feeding device.
         265.37   Unlawful possession of certain ammunition feeding
                    devices.
         265.38   Unlawful sale of a non-microstamping-enabled firearm.
