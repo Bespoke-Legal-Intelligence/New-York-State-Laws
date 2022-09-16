@@ -360,6 +360,7 @@
 - [§ 344-N\*13 Portion of the state highway system in Oneida county to be designated as the "Oneida County Korean War Veterans Memorial Highway"](344n-13-portion-of-the-state-highway-system-in-oneida-county-to-be-designated.md)
 - [§ 344-N\*14 Portion of the state highway system to be designated as the "Petty Officer Robert Segool Memorial Highway"](344n-14-portion-of-the-state-highway-system-to-be-designated-as-the-petty-officer-robert.md)
 - [§ 344-N\*15 Portion of the state highway system to be designated as the "Staff Sergeant Shawn M](344n-15-portion-of-the-state-highway-system-to-be-designated-as-the-staff-sergeant-shawn.md)
+- [§ 344-N\*16 Portion of the state highway system to be designated as the "Port Authority Police Officer James W](344n-16-portion-of-the-state-highway-system-to-be-designated-as-the-port-authority.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 
 <details>
@@ -1206,6 +1207,9 @@ Section 340-a.     Designation of state interstate routes.
         344-n*15.  Portion of the state highway system to be designated
                      as the "Staff Sergeant Shawn M. Clemens Memorial
                      Highway".
+        344-n*16.  Portion of the state highway system to be designated
+                     as the "Port Authority Police Officer James W.
+                     Kennelly Memorial Highway".
         345-a.     Abandonment and transfer of state highways.
 ```
 
