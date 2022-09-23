@@ -4,7 +4,7 @@
 [Public Authorities Law](../../README.md) › [Article 2 — Park, Parkway and Highway Authorities](../README.md) › [Title 9 — New York State Thruway Authority](README.md)
 
 ```text
-  * § 389. Information concerning services for human trafficking victims
+  § 389. Information concerning services for human trafficking victims
 in facilities at service areas. 1. In addition to providing information
 concerning services for human trafficking victims, including the
 national human trafficking hotline telephone number on its closed
@@ -18,5 +18,4 @@ with the New York state interagency task force on human trafficking; or
   2. All informational cards and signs shall only contain information
 concerning services for human trafficking victims and shall prominently
 include the national human trafficking hotline telephone number.
-  * NB Effective September 18, 2022
 ```

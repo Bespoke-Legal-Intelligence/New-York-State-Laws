@@ -4,12 +4,12 @@
 [Transportation Law](../README.md) › [Article 2 — Powers, Duties and Jurisdiction of the Department of Transportation](README.md)
 
 ```text
-  * § 14-n. Information concerning services for human trafficking
-victims in commercial service airports and general aviation airports. 1.
-The operator of a commercial service airport and the operator of a
-general aviation airport shall make available in the public restrooms,
-in plain view and in a conspicuous place and manner, informational cards
-and/or signs developed by:
+  § 14-n. Information concerning services for human trafficking victims
+in commercial service airports and general aviation airports. 1. The
+operator of a commercial service airport and the operator of a general
+aviation airport shall make available in the public restrooms, in plain
+view and in a conspicuous place and manner, informational cards and/or
+signs developed by:
   (a) the office of temporary and disability assistance in consultation
 with the New York state interagency task force on human trafficking; or
   (b) the United States Department of Homeland Security.
@@ -52,5 +52,4 @@ authority; and
 the general public without a requirement for the prior approval of the
 owner or operator thereof except as may be required by federal law or
 regulation.
-  * NB Effective September 18, 2022
 ```

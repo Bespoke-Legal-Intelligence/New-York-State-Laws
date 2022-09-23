@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"citation": "Highway Law § 344-H*9", "kind": "section", "law_id": "HAY", "location_id": "344-H*9", "path": "ARTICLE 12 › SECTION 344-H*9", "repealed": false, "repealed_date": null, "source": "nys-laws:HAY/344-H_9.md", "title": "Portion of the state highway system to be designated as the \"Sergeant Jonathan Gollnitz Memorial Highway\""} -->
-# Highway Law § 344-H*9 — Portion of the state highway system to be designated as the "Sergeant Jonathan Gollnitz Memorial Highway"
+﻿<!-- nyslaw {"citation": "Highway Law § 344-H*9", "kind": "section", "law_id": "HAY", "location_id": "344-H*9", "path": "ARTICLE 12 › SECTION 344-H*9", "repealed": false, "repealed_date": null, "source": "nys-laws:HAY/344-H_9.md", "title": "Portion of the state highway system to be designated as the \"Sergeant Jonathan Gollnitz - New York Medal of Honor Highway\""} -->
+# Highway Law § 344-H*9 — Portion of the state highway system to be designated as the "Sergeant Jonathan Gollnitz - New York Medal of Honor Highway"
 
 [Highway Law](../README.md) › [Article 12 — State Routes](README.md)
 
@@ -7,17 +7,10 @@
 
 ```text
   * § 344-h. Portion of the state highway system to be designated as the
-"Sergeant Jonathan Gollnitz Memorial Highway". All that portion of the
-state highway system constituting state route twenty in the village of
-Fredonia, county of Chautauqua, shall be designated and known as the
-"Sergeant Jonathan Gollnitz Memorial Highway".
-  * NB Effective until September 16, 2022
-  * § 344-h. Portion of the state highway system to be designated as the
 "Sergeant Jonathan Gollnitz - New York Medal of Honor Highway". All that
 portion of the state highway system constituting state route twenty in
 the village of Fredonia, county of Chautauqua, shall be designated and
 known as the "Sergeant Jonathan Gollnitz - New York Medal of Honor
 Highway".
-  * NB Effective September 16, 2022
   * NB There are 14 § 344-h's
 ```

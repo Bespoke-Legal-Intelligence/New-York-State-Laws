@@ -4,10 +4,10 @@
 [General Business Law](../README.md) › [Article 26 — Miscellaneous](README.md)
 
 ```text
-  * § 390-d. Information concerning services for human trafficking
-victims in facilities at truck stops. 1. The operator of any truck stop
-shall make available in plain view and in a conspicuous place and manner
-in all sanitary facilities available for public use, informational cards
+  § 390-d. Information concerning services for human trafficking victims
+in facilities at truck stops. 1. The operator of any truck stop shall
+make available in plain view and in a conspicuous place and manner in
+all sanitary facilities available for public use, informational cards
 and/or signs developed by:
   (i) the office of temporary and disability assistance in consultation
 with the New York state interagency task force on human trafficking; or
@@ -27,5 +27,4 @@ transportation as principal arterial - interstate or principal arterial
 approved by the federal highway administration pursuant to part 470.105
 of title 23 of the code of federal regulations, as amended from time to
 time.
-  * NB Effective September 18, 2022
 ```
