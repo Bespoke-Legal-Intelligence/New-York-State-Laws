@@ -205,20 +205,7 @@ relief is a town charge, such payment as the towns therein shall be
 entitled to shall be made to the fiscal officer of the county for the
 account of and reimbursement to such towns, except in the case of a town
 which is a public welfare district.
-  * 8. Any inconsistent provision of the law or regulation of the
-department notwithstanding, state reimbursement shall not be made for
-any expenditure made for the duplication of any grant and allowance for
-any period, except as authorized by subdivision eleven of section one
-hundred thirty-one of this chapter, or for any home relief payment made
-for periods prior to forty-five days after the filing of an application
-unless the district determines pursuant to department regulations that
-such assistance is required to meet emergency circumstances or prevent
-eviction. Notwithstanding any other provision of law, social services
-districts are not required to provide home relief to any person,
-otherwise eligible, if state reimbursement is not available in
-accordance with this subdivision.
-  * NB Effective until October 1, 2022
-  * 8. Any inconsistent provision of the law or regulation of the
+  8. Any inconsistent provision of the law or regulation of the
 department notwithstanding, state reimbursement shall not be made for
 any expenditure made for the duplication of any grant and allowance for
 any period, except as authorized by subdivision eleven of section one
@@ -226,7 +213,6 @@ hundred thirty-one of this chapter. Notwithstanding any other provision
 of law, social services districts are not required to provide safety net
 assistance to any person, otherwise eligible, if state reimbursement is
 not available in accordance with this subdivision.
-  * NB Effective October 1, 2022
   9. Any inconsistent provision of this chapter or other law
 notwithstanding, any loss of federal funds assessed by the department of
 health, education and welfare against the state by reason of the failure

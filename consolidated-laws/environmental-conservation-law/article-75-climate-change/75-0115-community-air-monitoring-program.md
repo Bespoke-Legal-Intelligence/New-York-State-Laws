@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../README.md) › [Article 75 — Climate Change](README.md)
 
 ```text
-* § 75-0115. Community air monitoring program.
+§ 75-0115. Community air monitoring program.
   1. For purposes of this section, the following definitions and related
 provisions shall apply:
   a. "Community air monitoring system" means advanced sensing monitoring
@@ -57,5 +57,4 @@ locations annually thereafter, as appropriate.
 establishing programs to achieve emissions reductions for the locations
 selected using the most cost-effective measures identified pursuant to
 paragraph c of subdivision three of this section.
-  * NB Effective October 1, 2022
 ```

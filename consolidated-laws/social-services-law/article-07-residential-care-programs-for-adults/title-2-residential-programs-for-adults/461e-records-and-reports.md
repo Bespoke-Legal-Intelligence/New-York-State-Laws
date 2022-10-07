@@ -134,26 +134,9 @@ procedure.
   (e) Each enriched housing program shall file financial statements with
 the department on at least an annual basis, in accordance with
 regulations.
-  * 5. The department may promulgate regulations which require each
-adult care facility to maintain the following written records and any
-other such records, under such conditions and for such time, as may be
-prescribed pursuant to such regulations: (i) a chronological admission
-and discharge register consisting of a listing of residents registered
-in and discharged from such facility by name, age, sex of resident, and
-place from or to which the resident is registered or discharged, (ii) a
-daily census record, (iii) a personal non-medical record for each
-resident, including but not limited to, identification of his or her
-next-of-kin, family and sponsor, the name and address of the person or
-persons to be contacted in the event of an emergency, and all details of
-the referral and registration and non-medical correspondence and papers
-concerning the resident, (iv) a financial record for each resident,
-including but not limited to, copies of all agreements, resident account
-records and a current inventory of personal property being held by the
-operator.
-  * NB Effective until September 28, 2022
-  * 5. The department may promulgate regulations which require each
-adult care facility to maintain the following written records and any
-other such records, under such conditions and for such time, as may be
+  5. The department may promulgate regulations which require each adult
+care facility to maintain the following written records and any other
+such records, under such conditions and for such time, as may be
 prescribed pursuant to such regulations: (i) a chronological admission
 and discharge register consisting of a listing of residents registered
 in and discharged from such facility by name, age, race or ethnicity,
@@ -167,7 +150,6 @@ correspondence and papers concerning the resident, (iv) a financial
 record for each resident, including but not limited to, copies of all
 agreements, resident account records and a current inventory of personal
 property being held by the operator.
-  * NB Effective September 28, 2022
   6. No facts and information retained as part of individual resident
 records by an operator of an adult care facility may be released to
 anyone other than the resident, the resident's next-of-kin or authorized

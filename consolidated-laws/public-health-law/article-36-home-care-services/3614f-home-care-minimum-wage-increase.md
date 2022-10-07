@@ -4,8 +4,8 @@
 [Public Health Law](../README.md) › [Article 36 — Home Care Services](README.md)
 
 ```text
-  * § 3614-f. Home care minimum wage increase. 1. For the purpose of
-this section, "home care aide" shall have the same meaning as defined in
+  § 3614-f. Home care minimum wage increase. 1. For the purpose of this
+section, "home care aide" shall have the same meaning as defined in
 section thirty-six hundred fourteen-c of this article.
   2. In addition to the otherwise applicable minimum wage under section
 six hundred fifty-two of the labor law, or any otherwise applicable wage
@@ -24,5 +24,4 @@ acting on behalf of the home care aide, may bring a civil action under
 article six or nineteen of the labor law; provided that this shall not
 preclude the commissioner of labor from taking direct administrative
 enforcement action under article six of the labor law.
-  * NB Effective October 1, 2022
 ```
