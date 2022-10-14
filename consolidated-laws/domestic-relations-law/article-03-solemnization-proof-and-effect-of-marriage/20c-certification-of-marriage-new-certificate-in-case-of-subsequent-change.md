@@ -4,7 +4,7 @@
 [Domestic Relations Law](../README.md) › [Article 3 — Solemnization, Proof and Effect of Marriage](README.md)
 
 ```text
-  * § 20-c. Certification of marriage; new certificate in case of
+  § 20-c. Certification of marriage; new certificate in case of
 subsequent change of name or gender. 1. A new marriage certificate shall
 be issued by the town or city clerk where the marriage license and
 certificate was issued, upon receipt of proper proof of a change of name
@@ -37,5 +37,4 @@ section.  The attorney general shall thereupon, in the name of the state
 commissioner of health or the people of the state, institute such action
 or proceeding as may be necessary to compel the issuance of such new
 marriage certificate.
-  * NB Effective October 9, 2022
 ```

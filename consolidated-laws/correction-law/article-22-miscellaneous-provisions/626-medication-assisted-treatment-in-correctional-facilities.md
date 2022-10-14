@@ -4,7 +4,7 @@
 [Correction Law](../README.md) › [Article 22 — Miscellaneous Provisions](README.md)
 
 ```text
-  * § 626. Medication assisted treatment in correctional facilities. 1.
+  § 626. Medication assisted treatment in correctional facilities. 1.
 For purposes of this section "medication assisted treatment" means
 treatment of chemical dependence or abuse and concomitant conditions
 with medications requiring a prescription or order from an authorized
@@ -79,5 +79,4 @@ infraction for such positive drug screening. No person shall be removed
 from, or denied participation in the program on the basis of having
 received any disciplinary infraction: (a) before entry into the program;
 or (b) during participation in the program.
-  * NB Effective October 7, 2022
 ```

@@ -4,7 +4,7 @@
 [Social Services Law](../../README.md) › [Article 5 — Assistance and Care](../README.md) › [Title 1 — General Provisions](README.md)
 
 ```text
-  * § 134-c. Requirement to publicly post information. 1. Each local
+  § 134-c. Requirement to publicly post information. 1. Each local
 social services district shall be required to post information in
 accordance with this section, in a form and manner to be determined by
 the commissioner. Such poster shall be conspicuous and visible to all
@@ -23,5 +23,4 @@ right to:
   (f) screening and special services if experiencing domestic violence;
 and
   (g) a written adequate notice.
-  * NB Effective October 12, 2022
 ```

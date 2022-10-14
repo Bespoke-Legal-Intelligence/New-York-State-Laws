@@ -118,6 +118,7 @@
 - [§ 97-H Lake George park trust fund](97h-lake-george-park-trust-fund.md)
 - [§ 97-I New York state local government records management improvement fund](97i-new-york-state-local-government-records-management-improvement-fund.md)
 - [§ 97-J Firearm violence research fund](97j-firearm-violence-research-fund.md)
+- [§ 97-K Minority and women-owned business enterprise fund](97k-minority-and-women-owned-business-enterprise-fund.md)
 - [§ 97-L Sewage treatment program management and administration fund](97l-sewage-treatment-program-management-and-administration-fund.md)
 - [§ 97-P Community college tuition and instructional income fund](97p-community-college-tuition-and-instructional-income-fund.md)
 - [§ 97-Q New York state emergency medical services training account](97q-new-york-state-emergency-medical-services-training-account.md)
@@ -427,6 +428,7 @@ Section 70.        Classification of funds.
         97-i.      New York state local government records management
                      improvement fund.
         97-j.      Firearm violence research fund.
+        97-k.      Minority and women-owned business enterprise fund.
         97-l.      Sewage treatment program management and
                      administration fund.
         97-p.      Community college tuition and instructional income

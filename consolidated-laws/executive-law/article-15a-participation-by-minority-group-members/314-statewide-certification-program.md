@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 15-A — Participation By Minority Group Members and Women With Respect to State Contracts](README.md)
 
 ```text
-  * § 314. Statewide certification program. 1. The director shall
+  * § 314. Statewide certification program.  1. The director shall
 promulgate rules and regulations providing for the establishment of a
 statewide certification program including rules and regulations
 governing the approval, denial or revocation of any such certification
@@ -26,7 +26,8 @@ to establish such thresholds. Such rules and regulations shall include,
 but not be limited to, such matters as may be required to ensure that
 the established procedures thereunder shall at least be in compliance
 with the code of fair procedure set forth in section seventy-three of
-the civil rights law.
+the civil rights law, and consistent with the provisions of article
+twenty-three-A of the correction law.
   2. For the purposes of this article, the office shall be responsible
 for verifying businesses as being owned, operated, and controlled by
 minority group members or women and for certifying such verified
