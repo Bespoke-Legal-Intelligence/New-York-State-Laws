@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 13-E — Regulation of Smoking and Vaping In Certain Public Areas](README.md)
 
 ```text
-  * § 1399-o-2. Smoking restrictions; certain outdoor areas. 1. Smoking
+  § 1399-o-2. Smoking restrictions; certain outdoor areas. 1. Smoking
 shall not be permitted and no person shall smoke in any public park.
   2. For the purposes of this section "park" shall mean:
   (a) public parks, beaches, pools, boardwalks, marinas, playgrounds,
@@ -25,5 +25,4 @@ for park purposes, except when smoking has been specifically prohibited
 in a state park or portion thereof by the office of parks, recreation
 and historic preservation. This subdivision shall not limit the
 applicability of any other laws to such places.
-  * NB Effective October 13, 2022
 ```

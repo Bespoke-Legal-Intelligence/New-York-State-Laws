@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | AGM |
 | Type | Consolidated law, chapter 69 |
-| Sections | 687 |
-| Last changed | 19 Aug 2022 |
+| Sections | 688 |
+| Last changed | 21 Oct 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Agriculture & Markets |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER 69 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (102 lines)](chapter-text.md)
+[Full chapter text (103 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [21 Oct 2022](../../changes/2022/2022-10-21.md): 2 amended, 1 added
 - [19 Aug 2022](../../changes/2022/2022-08-19.md): 3 amended
 - [24 Jun 2022](../../changes/2022/2022-06-24.md): 5 amended
 - [4 Mar 2022](../../changes/2022/2022-03-04.md): 9 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [3 Dec 2021](../../changes/2021/2021-12-03.md): 1 amended, 5 added
 - [8 Oct 2021](../../changes/2021/2021-10-08.md): 1 amended
 - [10 Sep 2021](../../changes/2021/2021-09-10.md): 1 amended
-- [3 Sep 2021](../../changes/2021/2021-09-03.md): 2 amended
 
 ## Contents
 
@@ -89,6 +89,7 @@ Assembly, do enact as follows:
 - [Article 17-A — Enrichment of Certain Foods](article-17a-enrichment-of-certain-foods/)
 - [Article 17-B — Licensing of Food Salvagers](article-17b-licensing-of-food-salvagers/)
 - [Article 18 — Wood Products Development](article-18-wood-products-development/)
+- [Article 18-A — Natural Fiber Textile Development](article-18a-natural-fiber-textile-development/)
 - [Article 19 — Refrigerated Warehouses and Locker Plants](article-19-refrigerated-warehouses-and-locker-plants/)
 - [Article 20 — Licensing of Farm Products Dealers](article-20-licensing-of-farm-products-dealers/)
 - [Article 20-C — Licensing of Food Processing Establishments](article-20c-licensing-of-food-processing-establishments/)

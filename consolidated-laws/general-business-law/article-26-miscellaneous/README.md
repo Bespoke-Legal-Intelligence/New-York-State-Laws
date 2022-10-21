@@ -135,6 +135,7 @@
 - [§ 399-CC Wireless telephone numbers](399cc-wireless-telephone-numbers.md)
 - [§ 399-CC\*2 Transcripts and stenographic services](399cc-2-transcripts-and-stenographic-services.md)
 - [§ 399-CCC Smoke detecting devices](399ccc-smoke-detecting-devices.md)
+- [§ 399-CCCC Wireless telephone services; domestic violence victims](399cccc-wireless-telephone-services-domestic-violence-victims.md)
 - [§ 399-D Children attending public bowling alleys under certain conditions](399d-children-attending-public-bowling-alleys-under-certain-conditions.md)
 - [§ 399-DD Sale of alcohol vaporizing devices prohibited](399dd-sale-of-alcohol-vaporizing-devices-prohibited.md)
 - [§ 399-DD\*2 Construction or installation of playground or playground equipment](399dd-2-construction-or-installation-of-playground-or-playground-equipment.md)
@@ -370,6 +371,8 @@ Section 390.         Substitution of spurious oils for internal
         399-cc.      Wireless telephone numbers.
         399-cc*2.    Transcripts and stenographic services.
         399-ccc.     Smoke detecting devices.
+        399-cccc.    Wireless telephone services; domestic violence
+                       victims.
         399-d.       Children attending public bowling alleys under
                        certain conditions.
         399-dd.      Sale of alcohol vaporizing devices prohibited.

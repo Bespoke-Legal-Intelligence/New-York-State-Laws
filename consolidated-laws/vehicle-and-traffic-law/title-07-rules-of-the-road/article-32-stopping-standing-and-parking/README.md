@@ -13,7 +13,7 @@
 - [§ 1203-B Parking spaces; handicapped](1203b-parking-spaces-handicapped.md)
 - [§ 1203-C Off street parking spaces for the handicapped](1203c-off-street-parking-spaces-for-the-handicapped.md)
 - [§ 1203-D Out-of-state vehicles bearing special identification](1203d-out-of-state-vehicles-bearing-special-identification.md)
-- [§ 1203-E Dumping snow onto parking places for handicapped prohibited](1203e-dumping-snow-onto-parking-places-for-handicapped-prohibited.md)
+- [§ 1203-E Dumping or plowing snow onto parking places for handicapped prohibited](1203e-dumping-or-plowing-snow-onto-parking-places-for-handicapped.md)
 - [§ 1203-F Handicapped parking enforcement](1203f-handicapped-parking-enforcement.md)
 - [§ 1203-G Establishment of the handicapped parking education program](1203g-establishment-of-the-handicapped-parking-education-program.md)
 - [§ 1203-H Metered parking waiver for certain disabilities](1203h-metered-parking-waiver-for-certain-disabilities.md)
