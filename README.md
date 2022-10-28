@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 21 Oct 2022.*
+*Current through the publication of 28 Oct 2022.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [28 Oct 2022](changes/2022/2022-10-28.md): Mental Hygiene Law
 - [21 Oct 2022](changes/2022/2022-10-21.md): Agriculture and Markets Law; Criminal Procedure Law; Economic Development Law; Elder Law; Election Law; Family Court Act; General Business Law; Insurance Law; Public Health Law; Public Service Law; State Finance Law; Vehicle and Traffic Law
 - [14 Oct 2022](changes/2022/2022-10-14.md): Correction Law; Domestic Relations Law; Executive Law; Mental Hygiene Law; Social Services Law; State Finance Law; Urban Development Corporation Act
 - [7 Oct 2022](changes/2022/2022-10-07.md): Civil Practice Law and Rules; Correction Law; Environmental Conservation Law; Executive Law; Highway Law; Mental Hygiene Law; Public Authorities Law; Public Health Law; Social Services Law; State Finance Law; Vehicle and Traffic Law
@@ -22,25 +23,24 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [23 Sep 2022](changes/2022/2022-09-23.md): General Business Law; Highway Law; Public Authorities Law; Real Property Law; Transportation Law
 - [16 Sep 2022](changes/2022/2022-09-16.md): Education Law; Estates, Powers and Trusts Law; Executive Law; Highway Law; Labor Law; Retirement and Social Security Law; Workers' Compensation Law
 - [9 Sep 2022](changes/2022/2022-09-09.md): Banking Law; Penal Law
-- [2 Sep 2022](changes/2022/2022-09-02.md): Arts and Cultural Affairs Law; Civil Practice Law and Rules; Correction Law; Criminal Procedure Law; Economic Development Law; Executive Law; Family Court Act; General Business Law; Judiciary Law; New York City Civil Court Act; Penal Law; Public Health Law; Racing, Pari-Mutuel Wagering and Breeding Law; Retirement and Social Security Law; Second Class Cities Law; Tax Law; Town Law; Uniform City Court Act; Uniform District Court Act; Uniform Justice Court Act
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
 | [Tax Law](consolidated-laws/tax-law/README.md) | 226 |
-| [Education Law](consolidated-laws/education-law/README.md) | 219 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 215 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | 184 |
-| [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 167 |
-| [General Business Law](consolidated-laws/general-business-law/README.md) | 153 |
+| [Education Law](consolidated-laws/education-law/README.md) | 218 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 208 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 181 |
+| [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 164 |
+| [General Business Law](consolidated-laws/general-business-law/README.md) | 147 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 146 |
 | [Highway Law](consolidated-laws/highway-law/README.md) | 139 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | 137 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 126 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | 120 |
 | [Election Law](consolidated-laws/election-law/README.md) | 111 |
-| [Penal Law](consolidated-laws/penal-law/README.md) | 84 |
+| [Penal Law](consolidated-laws/penal-law/README.md) | 83 |
 | [Labor Law](consolidated-laws/labor-law/README.md) | 82 |
 | [Mental Hygiene Law](consolidated-laws/mental-hygiene-law/README.md) | 80 |
 
@@ -93,7 +93,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Lien Law](consolidated-laws/lien-law/README.md) | LIE | 175 | 24 Apr 2020 |
 | [Limited Liability Company Law](consolidated-laws/limited-liability-company-law/README.md) | LLC | 119 | 4 Feb 2022 |
 | [Local Finance Law](consolidated-laws/local-finance-law/README.md) | LFN | 164 | 19 Aug 2022 |
-| [Mental Hygiene Law](consolidated-laws/mental-hygiene-law/README.md) | MHY | 513 | 14 Oct 2022 |
+| [Mental Hygiene Law](consolidated-laws/mental-hygiene-law/README.md) | MHY | 513 | 28 Oct 2022 |
 | [Military Law](consolidated-laws/military-law/README.md) | MIL | 305 | 19 Aug 2022 |
 | [Multiple Dwelling Law](consolidated-laws/multiple-dwelling-law/README.md) | MDW | 189 | 29 Jul 2022 |
 | [Multiple Residence Law](consolidated-laws/multiple-residence-law/README.md) | MRE | 105 | 8 Nov 2019 |
