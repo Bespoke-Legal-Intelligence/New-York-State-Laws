@@ -14,6 +14,7 @@
 - [§ 6436 Bias related crime prevention information](6436-bias-related-crime-prevention-information.md)
 - [§ 6437 Prohibition on the marketing of credit cards](6437-prohibition-on-the-marketing-of-credit-cards.md)
 - [§ 6438 Notification of fire safety standards and measures in all college-owned or college-operated housing](6438-notification-of-fire-safety-standards.md)
+- [§ 6438-A Opioid overdose prevention in college housing](6438a-opioid-overdose-prevention-in-college-housing.md)
 
 <details>
 <summary>Official heading of Article 129-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -33,6 +34,7 @@ Section 6430. General provisions.
         6437. Prohibition on the marketing of credit cards.
         6438. Notification of fire safety standards and measures in all
                 college-owned or college-operated housing.
+        6438-aOpioid overdose prevention in college housing.
 ```
 
 </details>
