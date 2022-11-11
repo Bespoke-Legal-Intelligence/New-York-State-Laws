@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 4 Nov 2022.*
+*Current through the publication of 11 Nov 2022.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [11 Nov 2022](changes/2022/2022-11-11.md): Election Law; Environmental Conservation Law
 - [4 Nov 2022](changes/2022/2022-11-04.md): Banking Law; Education Law; Vehicle and Traffic Law
 - [28 Oct 2022](changes/2022/2022-10-28.md): Mental Hygiene Law
 - [21 Oct 2022](changes/2022/2022-10-21.md): Agriculture and Markets Law; Criminal Procedure Law; Economic Development Law; Elder Law; Election Law; Family Court Act; General Business Law; Insurance Law; Public Health Law; Public Service Law; State Finance Law; Vehicle and Traffic Law
@@ -22,27 +23,26 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [7 Oct 2022](changes/2022/2022-10-07.md): Civil Practice Law and Rules; Correction Law; Environmental Conservation Law; Executive Law; Highway Law; Mental Hygiene Law; Public Authorities Law; Public Health Law; Social Services Law; State Finance Law; Vehicle and Traffic Law
 - [30 Sep 2022](changes/2022/2022-09-30.md): Mental Hygiene Law; Penal Law
 - [23 Sep 2022](changes/2022/2022-09-23.md): General Business Law; Highway Law; Public Authorities Law; Real Property Law; Transportation Law
-- [16 Sep 2022](changes/2022/2022-09-16.md): Education Law; Estates, Powers and Trusts Law; Executive Law; Highway Law; Labor Law; Retirement and Social Security Law; Workers' Compensation Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
-| [Tax Law](consolidated-laws/tax-law/README.md) | 219 |
-| [Education Law](consolidated-laws/education-law/README.md) | 214 |
+| [Tax Law](consolidated-laws/tax-law/README.md) | 214 |
+| [Education Law](consolidated-laws/education-law/README.md) | 210 |
 | [Executive Law](consolidated-laws/executive-law/README.md) | 204 |
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | 179 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 163 |
+| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 146 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | 145 |
-| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 145 |
-| [Highway Law](consolidated-laws/highway-law/README.md) | 139 |
-| [Insurance Law](consolidated-laws/insurance-law/README.md) | 137 |
-| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 124 |
+| [Insurance Law](consolidated-laws/insurance-law/README.md) | 136 |
+| [Election Law](consolidated-laws/election-law/README.md) | 123 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | 120 |
-| [Election Law](consolidated-laws/election-law/README.md) | 109 |
-| [Penal Law](consolidated-laws/penal-law/README.md) | 83 |
-| [Labor Law](consolidated-laws/labor-law/README.md) | 81 |
+| [Highway Law](consolidated-laws/highway-law/README.md) | 118 |
+| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 117 |
 | [Mental Hygiene Law](consolidated-laws/mental-hygiene-law/README.md) | 79 |
+| [Labor Law](consolidated-laws/labor-law/README.md) | 78 |
+| [Penal Law](consolidated-laws/penal-law/README.md) | 74 |
 
 ## Consolidated Laws
 
@@ -70,11 +70,11 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Economic Development Law](consolidated-laws/economic-development-law/README.md) | COM | 197 | 21 Oct 2022 |
 | [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,915 | 4 Nov 2022 |
 | [Elder Law](consolidated-laws/elder-law/README.md) | ELD | 46 | 21 Oct 2022 |
-| [Election Law](consolidated-laws/election-law/README.md) | ELN | 437 | 21 Oct 2022 |
+| [Election Law](consolidated-laws/election-law/README.md) | ELN | 437 | 11 Nov 2022 |
 | [Eminent Domain Procedure Law](consolidated-laws/eminent-domain-procedure-law/README.md) | EDP | 50 | 27 Sep 2019 |
 | [Employers' Liability Law](consolidated-laws/employers-liability-law/README.md) | EML | 18 | no change since 22 Sep 2014 (start of history) |
 | [Energy Law](consolidated-laws/energy-law/README.md) | ENG | 70 | 22 Jul 2022 |
-| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,812 | 7 Oct 2022 |
+| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,812 | 11 Nov 2022 |
 | [Estates, Powers and Trusts Law](consolidated-laws/estates-powers-and-trusts-law/README.md) | EPT | 361 | 16 Sep 2022 |
 | [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 939 | 14 Oct 2022 |
 | [Financial Services Law](consolidated-laws/financial-services-law/README.md) | FIS | 59 | 10 Jun 2022 |
