@@ -51,6 +51,7 @@
 - [§ 226-C\*2 Waiver of fees for veterans organizations](226c-2-waiver-of-fees-for-veterans-organizations.md)
 - [§ 226-C\*3 Waiver of fees for veterans' organizations](226c-3-waiver-of-fees-for-veterans-organizations.md)
 - [§ 226-D Waiver of fees for veterans' organizations](226d-waiver-of-fees-for-veterans-organizations.md)
+- [§ 226-E Waiver of fees for veterans' organizations](226e-waiver-of-fees-for-veterans-organizations.md)
 - [§ 227 Legalizing acts](227-legalizing-acts.md)
 - [§ 228 Disputed town boundaries](228-disputed-town-boundaries.md)
 - [§ 229 Erection and dissolution of towns](229-erection-and-dissolution-of-towns.md)
@@ -125,6 +126,7 @@ Section 200.     Compensation of supervisors.
         226-c*2. Waiver of fees for veterans organizations.
         226-c*3. Waiver of fees for veterans' organizations.
         226-d.   Waiver of fees for veterans' organizations.
+        226-e.   Waiver of fees for veterans' organizations.
         227.     Legalizing acts.
         228.     Disputed town boundaries.
         229.     Erection and dissolution of towns.

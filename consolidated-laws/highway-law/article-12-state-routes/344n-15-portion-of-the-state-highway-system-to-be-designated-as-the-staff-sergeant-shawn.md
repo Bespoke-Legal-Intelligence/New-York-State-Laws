@@ -11,5 +11,5 @@
 the state highway system constituting state route 417 in the town of
 Allegany, county of Cattaraugus, shall be designated and known as the
 "Staff Sergeant Shawn M. Clemens Memorial Highway".
-  * NB There are 16 § 344-n's
+  * NB There are 26 § 344-n's
 ```

@@ -34,6 +34,7 @@
 - [§ 367 Payment to parents of veterans](367-payment-to-parents-of-veterans.md)
 - [§ 368 Cremated remains of a veteran](368-cremated-remains-of-a-veteran.md)
 - [§ 368-A Intake forms for admission and residency](368a-intake-forms-for-admission-and-residency.md)
+- [§ 368-B Veterans memorial registry](368b-veterans-memorial-registry.md)
 
 <details>
 <summary>Official heading of Article 17, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -79,6 +80,7 @@ Section 350.   Definitions.
         367.   Payment to parents of veterans.
         368.   Cremated remains of a veteran.
         368-a. Intake forms for admission and residency.
+        368-b. Veterans memorial registry.
   * NB Repealed April 1, 2023
 ```
 

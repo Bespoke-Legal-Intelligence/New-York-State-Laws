@@ -4,7 +4,7 @@
 [Public Health Law](../../README.md) › [Article 29-D — Health Information and Quality Improvement](../README.md) › [Title 1 — Health Information](README.md)
 
 ```text
-  * § 2997-f-1. Provision of information relating to sudden unexpected
+  § 2997-f-1. Provision of information relating to sudden unexpected
 death in epilepsy. 1. Any health care practitioner who is treating a
 patient diagnosed with epilepsy and at elevated risk for sudden
 unexpected death in epilepsy, who has primary responsibility for the
@@ -40,5 +40,4 @@ symptoms have subsided in response to medicinal or surgical treatment.
 shall be issued a warning and shall suffer no further civil penalty or
 discipline on any first offense, provided such violation was not
 committed willfully and knowingly.
-  * NB Effective November 15, 2022
 ```

@@ -63,12 +63,10 @@ or a municipal cooperative health benefit plan certified pursuant to
 article forty-seven of the insurance law, with respect to preferred
 provider organization (PPO) products, as defined by the commissioner in
 consultation with the superintendent, offered by such entities.
-  * (f) "Health care practitioner" shall mean a physician, nurse
+  (f) "Health care practitioner" shall mean a physician, nurse
 practitioner, or physician assistant licensed or certified pursuant to
 title eight of the education law.
-  * NB Effective November 15, 2022
-  * (g) "Sudden unexpected death in epilepsy" shall mean sudden,
+  (g) "Sudden unexpected death in epilepsy" shall mean sudden,
 unexpected death in patients with epilepsy, with or without evidence of
 a seizure.
-  * NB Effective November 15, 2022
 ```

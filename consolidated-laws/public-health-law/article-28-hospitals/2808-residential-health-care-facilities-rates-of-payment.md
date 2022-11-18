@@ -1816,6 +1816,32 @@ services provided on behalf of such person; and
   (ii) payment to a facility for reserved bed days provided on behalf of
 such person for therapeutic leaves of absence may not exceed ten days in
 any twelve month period.
+  * 25-a. Reserved bed days for state veterans' homes. (a) For purposes
+of this subdivision, a "reserved bed day" is a day for which the state
+pays New York State Veterans' Home at Oxford, the New York State
+Veterans' Home at St. Albans, the New York State Veterans' Home at
+Batavia, the New York State Veterans' Home at Montrose or the Long
+Island State Veterans' Home to reserve a bed for a person eligible for
+medical assistance pursuant to title eleven of article five of the
+social services law while he or she is temporarily hospitalized.
+  (b) (i) Payments for reserved bed days shall be made at fifty percent
+of the Medicaid rate otherwise payable to the facility for services
+provided on behalf of the person.
+  (ii) Payment to a facility for reserved bed days provided on behalf of
+the person for temporary hospitalizations may not exceed fourteen days
+in any twelve-month period.
+  (iii) The person must have resided in the applicable State Veterans'
+home for at least thirty days since the date of his or her initial
+admission.
+  (iv) Unless medically contraindicated, the applicable State Veterans'
+home shall reserve the same bed and room the person occupied before
+being hospitalized or placed on a therapeutic leave of absence.
+  (v) Reserved bed days under this subdivision are in addition to
+reserve bed days for therapeutic leave of absence under subdivision
+twenty-five of this section.
+  (vi) This subdivision shall apply subject to the availability of
+federal financial participation.
+  * NB Effective February 8, 2023
   26. Notwithstanding any inconsistent provision of law, for rate
 periods on and after April first, two thousand ten, residential health
 care facility Medicaid rates of payment shall not include reimbursement

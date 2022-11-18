@@ -361,6 +361,16 @@
 - [§ 344-N\*14 Portion of the state highway system to be designated as the "Petty Officer Robert Segool Memorial Highway"](344n-14-portion-of-the-state-highway-system-to-be-designated-as-the-petty-officer-robert.md)
 - [§ 344-N\*15 Portion of the state highway system to be designated as the "Staff Sergeant Shawn M](344n-15-portion-of-the-state-highway-system-to-be-designated-as-the-staff-sergeant-shawn.md)
 - [§ 344-N\*16 Portion of the state highway system to be designated as the "Port Authority Police Officer James W](344n-16-portion-of-the-state-highway-system-to-be-designated-as-the-port-authority.md)
+- [§ 344-N\*17 Portion of the state highway system to be designated as the "Kalinowski Brothers Memorial Bridge"](344n-17-portion-of-the-state-highway-system-to-be-designated-as-the-kalinowski-brothers.md)
+- [§ 344-N\*18 Portion of the state highway system to be designated and known as the "MSgt Thomas P](344n-18-portion-of-the-state-highway-system-to-be-designated-and-known-as-the-msgt.md)
+- [§ 344-N\*19 Portion of the state highway system to be designated as the "Staff Sergeant David Textor Memorial Highway"](344n-19-portion-of-the-state-highway-system-to-be-designated-as-the-staff-sergeant-david.md)
+- [§ 344-N\*20 Portion of the state highway system to be designated as the "1LT Stephen H](344n-20-portion-of-the-state-highway-system-to-be-designated-as-the-1lt-stephen-h.md)
+- [§ 344-N\*21 Portion of the state highway system to be designated as the "Ralph Calabrese Memorial Highway"](344n-21-portion-of-the-state-highway-system-to-be-designated-as-the-ralph-calabrese.md)
+- [§ 344-N\*22 Portion of the state highway system to be designated as the "WWII Rapone Brothers Memorial Highway"](344n-22-portion-of-the-state-highway-system-to-be-designated-as-the-wwii-rapone-brothers.md)
+- [§ 344-N\*23 Portion of the state highway system to be designated as the "Specialist Jason Hasenauer Memorial Highway"](344n-23-portion-of-the-state-highway-system-to-be-designated-as-the-specialist-jason.md)
+- [§ 344-N\*24 Portion of the state highway system to be designated as the "Trooper John J](344n-24-portion-of-the-state-highway-system-to-be-designated-as-the-trooper-john-j.md)
+- [§ 344-N\*25 Portion of the state highway system to be designated as the "Colonel Michael Plummer Memorial Highway"](344n-25-portion-of-the-state-highway-system-to-be-designated-as-the-colonel-michael.md)
+- [§ 344-N\*26 Portion of the state highway system to be designated as the "Sergeant Gary Beikirch Memorial Highway"](344n-26-portion-of-the-state-highway-system-to-be-designated-as-the-sergeant-gary.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 
 <details>
@@ -1210,6 +1220,29 @@ Section 340-a.     Designation of state interstate routes.
         344-n*16.  Portion of the state highway system to be designated
                      as the "Port Authority Police Officer James W.
                      Kennelly Memorial Highway".
+        344-n*17.  Portion of the state highway system to be designated
+                     as the "Kalinowski Brothers Memorial Bridge".
+        344-n*18.  Portion of the state highway system to be designated
+                     and known as the "MSgt Thomas P. Madison Memorial
+                     Highway".
+        344-n*19.  Portion of the state highway system to be designated
+                     as the "Staff Sergeant David Textor Memorial
+                     Highway".
+        344-n*20.  Portion of the state highway system to be designated
+                     as the "1LT Stephen H. Doane Memorial Bridge".
+        344-n*21.  Portion of the state highway system to be designated
+                     as the "Ralph Calabrese Memorial Highway".
+        344-n*22.  Portion of the state highway system to be designated
+                     as the "WWII Rapone Brothers Memorial Highway".
+        344-n*23.  Portion of the state highway system to be designated
+                     as the "Specialist Jason Hasenauer Memorial
+                     Highway".
+        344-n*24.  Portion of the state highway system to be designated
+                     as the "Trooper John J. Lane Memorial Bridge".
+        344-n*25.  Portion of the state highway system to be designated
+                     as the "Colonel Michael Plummer Memorial Highway".
+        344-n*26.  Portion of the state highway system to be designated
+                     as the "Sergeant Gary Beikirch Memorial Highway".
         345-a.     Abandonment and transfer of state highways.
 ```
 
