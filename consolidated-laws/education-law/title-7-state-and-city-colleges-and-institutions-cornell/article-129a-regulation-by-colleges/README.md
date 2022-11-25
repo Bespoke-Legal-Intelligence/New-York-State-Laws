@@ -3,6 +3,8 @@
 
 [Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md)
 
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
 ## Contents
 
 - [§ 6430 General provisions](6430-general-provisions.md)
@@ -15,6 +17,7 @@
 - [§ 6437 Prohibition on the marketing of credit cards](6437-prohibition-on-the-marketing-of-credit-cards.md)
 - [§ 6438 Notification of fire safety standards and measures in all college-owned or college-operated housing](6438-notification-of-fire-safety-standards.md)
 - [§ 6438-A Opioid overdose prevention in college housing](6438a-opioid-overdose-prevention-in-college-housing.md)
+- [§ 6438-A\*2 Student-athlete compensation](6438a-2-student-athlete-compensation.md)
 
 <details>
 <summary>Official heading of Article 129-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -35,6 +38,7 @@ Section 6430. General provisions.
         6438. Notification of fire safety standards and measures in all
                 college-owned or college-operated housing.
         6438-aOpioid overdose prevention in college housing.
+        6438-aStudent-athlete compensation.
 ```
 
 </details>

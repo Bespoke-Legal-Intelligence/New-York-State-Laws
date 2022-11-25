@@ -35,6 +35,7 @@
 - [§ 1371 Deficiency judgment](1371-deficiency-judgment.md)
 - [§ 1391 Proceeding for share of unknown heirs](1391-proceeding-for-share-of-unknown-heirs.md)
 - [§ 1392 Foreclosure actions involving abandoned properties](1392-foreclosure-actions-involving-abandoned-properties.md)
+- [§ 1393 Mortgages in default](1393-mortgages-in-default.md)
 
 <details>
 <summary>Official heading of Article 13, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -75,6 +76,7 @@ Section 1301.   Separate action for mortgage debt.
         1371.   Deficiency judgment.
         1391.   Proceeding for share of unknown heirs.
         1392.   Foreclosure actions involving abandoned properties.
+        1393.   Mortgages in default.
 ```
 
 </details>

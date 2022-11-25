@@ -415,7 +415,9 @@ certificate, license or permit; or not to hire a consultant, use a
 volunteer, or allow access to children cared for by the agency.
   3. For purposes of this section, the term "provider" or "provider
 agency" shall mean: an authorized agency; the office of children and
-family services; juvenile detention facilities subject to the
+family services; a private, nonprofit incorporated agency that meets the
+state office of children and family services program standards for child
+advocacy centers; juvenile detention facilities subject to the
 certification of the office of children and family services; programs
 established pursuant to article nineteen-H of the executive law;
 non-residential or residential programs or facilities licensed or
