@@ -285,6 +285,7 @@
 - [§ 99-NN Opioid settlement fund](99nn-opioid-settlement-fund.md)
 - [§ 99-OO Pharmacy benefit manager regulatory fund](99oo-pharmacy-benefit-manager-regulatory-fund.md)
 - [§ 99-PP Background check fund](99pp-background-check-fund.md)
+- [§ 99-PP\*2 Agricultural and farmland viability protection fund](99pp-2-agricultural-and-farmland-viability-protection-fund.md)
 
 <details>
 <summary>Official heading of Article 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -631,6 +632,7 @@ Section 70.        Classification of funds.
         99-nn.     Opioid settlement fund.
         99-oo.     Pharmacy benefit manager regulatory fund.
         99-pp.     Background check fund.
+        99-pp 2.   Agricultural and farmland viability protection fund.
 ```
 
 </details>

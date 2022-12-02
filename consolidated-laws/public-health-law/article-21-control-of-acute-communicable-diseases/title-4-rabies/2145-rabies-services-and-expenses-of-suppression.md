@@ -36,13 +36,21 @@ that occurs after such persons return to their local residences.
   3. Human postexposure treatment specifically authorized by the county
 health authority shall be rendered by the provider or providers selected
 by the county health authority, located within the county or the
-vicinity thereof, and approved by the person's health insurance carrier
-or managed care plan if pre-approval is required by the health insurance
-carrier or managed care plan, provided that:
+vicinity thereof, and shall be considered sufficient authorization for
+pre-approval by the person's health insurance carrier or managed care
+plan if pre-approval is required, and shall be approved, by the health
+insurance carrier or managed care plan, provided that:
   (a) any person may, at his or her option, be treated at his or her own
-expense by the health care provider of his or her choice,
+expense by the health care provider of his or her choice without
+approval by the county health authority,
   (b) the county health authority may, at its option, assume financial
-responsibility for necessary treatment rendered by other providers,
+responsibility for necessary treatment rendered by other providers;
+provided, however, that the county health authority shall not be
+obligated to assume financial responsibility if notified after the
+completion of treatment. If evidence of approval of the county health
+authority has not been provided, health care providers must report
+initiation of rabies postexposure prophylaxis within twenty-four hours
+of the first treatment,
   (c) the county shall authorize initial treatment from a provider or
 providers geographically accessible to the location of the exposed
 person at the time that treatment is determined to be necessary, and
@@ -60,13 +68,19 @@ authority.
 by the county health authority for information regarding human
 postexposure treatment rendered to an enrollee whose treatment was
 authorized by the county health authority.
+  5-a. Health care providers shall accept payments by the county health
+authority for human postexposure treatment at a rate set by the
+commissioner; provided that such reimbursement shall be no less than the
+Medicaid rate.
   6. Under the terms of this title, the county health authority is not
 responsible for:
   (a) services and expenses of human postexposure treatment that were
 not specifically authorized by the county health authority, except for
 completion of treatment for their residents exposed and started on
 rabies treatment in New York city or elsewhere outside of New York
-state,
+state. Treatment started in New York city shall be confirmed as
+necessary treatment by the New York city department of health and mental
+hygiene, or the department,
   (b) services and expenses of medical treatment unrelated to the
 prevention of rabies infection such as wound suturing and measures to
 control bacterial infection of bite wounds, and

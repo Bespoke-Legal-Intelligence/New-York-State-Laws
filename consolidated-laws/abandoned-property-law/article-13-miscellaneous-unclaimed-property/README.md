@@ -22,6 +22,7 @@
 - [§ 1316 Unclaimed insurance proceeds other than life insurance](1316-unclaimed-insurance-proceeds-other-than-life-insurance.md)
 - [§ 1317 Unclaimed security deposits held by the title insurance companies](1317-unclaimed-security-deposits-held-by-the-title-insurance-companies.md)
 - [§ 1318 Unclaimed spousal and child support](1318-unclaimed-spousal-and-child-support.md)
+- [§ 1319 Unclaimed virtual currency](1319-unclaimed-virtual-currency.md)
 
 <details>
 <summary>Official heading of Article 13, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -55,6 +56,7 @@ Section 1300. Unclaimed surplus from sale of pledged property.
         1317. Unclaimed security deposits held by the title insurance
                 companies.
         1318. Unclaimed spousal and child support.
+        1319. Unclaimed virtual currency.
 ```
 
 </details>

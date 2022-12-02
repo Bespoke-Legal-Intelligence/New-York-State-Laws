@@ -18,8 +18,11 @@
 - [§ 706 Prevention of unfair labor practices](706-prevention-of-unfair-labor-practices.md)
 - [§ 707 Judicial review](707-judicial-review.md)
 - [§ 708 Investigatory powers](708-investigatory-powers.md)
+- [§ 708-A E-filing program for the purpose of filing papers electronically](708a-e-filing-program-for-the-purpose-of-filing-papers-electronically.md)
 - [§ 709 Punitive provision](709-punitive-provision.md)
 - [§ 710 Public records and proceedings](710-public-records-and-proceedings.md)
+- [§ 710-A Publicly accessible decision index](710a-publicly-accessible-decision-index.md)
+- [§ 710-B Electronically available information](710b-electronically-available-information.md)
 - [§ 711 Cooperation](711-cooperation.md)
 - [§ 712 Repeal of inconsistent provisions](712-repeal-of-inconsistent-provisions.md)
 - [§ 713 Limitations](713-limitations.md)
@@ -49,8 +52,12 @@ Section 700.   Findings and policy.
         706.   Prevention of unfair labor practices.
         707.   Judicial review.
         708.   Investigatory powers.
+        708-a. E-filing program for the purpose of filing papers
+                 electronically.
         709.   Punitive provision.
         710.   Public records and proceedings.
+        710-a. Publicly accessible decision index.
+        710-b. Electronically available information.
         711.   Cooperation.
         712.   Repeal of inconsistent provisions.
         713.   Limitations.

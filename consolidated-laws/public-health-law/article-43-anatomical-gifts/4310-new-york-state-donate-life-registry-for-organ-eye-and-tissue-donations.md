@@ -35,7 +35,9 @@ recommendations that would streamline and enhance the cost-effective
 operation of the donate life registry;
   (c) provision of written or electronic notification of registration in
 the donate life registry to an individual enrolling in the donate life
-registry; and
+registry; provided, however, that written in-person or electronic
+notifications shall be utilized wherever possible as methods for
+fulfillment of the purposes of this paragraph; and
   (d) preparation and submission of an annual written report to the
 department. Such report shall include:
   (i) a performance matrix including the number of registrants on the
@@ -150,7 +152,10 @@ suitable mechanisms including unique identifiers to provide confidence
 in the identity of the person providing the electronic signature. The
 registration shall take effect upon the provision of written or
 electronic notice of the registration to the individual enrolling in the
-donate life registry.
+donate life registry and the registry's receipt of the individual's
+enrollment data; provided, however, that written in-person or electronic
+notifications shall be utilized wherever possible as methods for
+fulfillment of the purposes of this paragraph.
   (d) Amendments or revocations from the donate life registry shall be
 made by the following, subject to the requirements of the commissioner:
   (i) registrants submitting an amendment or revocation in writing to

@@ -41,8 +41,8 @@ Article
                    V*.   Obesity prevention act (§§260*-263).
                   5-A.   Empire State Stem Cell Board (§§ 265--265-f).
                    VI.   Women's Health (§§ 266-268).
-                    6.   The 21st century workgroup for disease
-                           elimination and reduction (§ 266).
+                  6-A.   The 21st century workgroup for disease
+                           elimination and reduction (§ 266-a).
                   VII.   NY State of Health (§§ 268-268-h).
                     8.   Hunger prevention and nutrition assistance
                            program (§ 269).

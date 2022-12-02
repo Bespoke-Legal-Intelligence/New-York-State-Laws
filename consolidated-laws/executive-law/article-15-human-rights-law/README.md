@@ -10,6 +10,7 @@
 - [§ 292 Definitions](292-definitions.md)
 - [§ 293 Division of human rights](293-division-of-human-rights.md)
 - [§ 294 General policies of division](294-general-policies-of-division.md)
+- [§ 294-A Statewide campaign for the acceptance, inclusion, tolerance and understanding of diversity](294a-statewide-campaign-for-the-acceptance-inclusion-tolerance-and-understanding.md)
 - [§ 295 General powers and duties of division](295-general-powers-and-duties-of-division.md)
 - [§ 296 Unlawful discriminatory practices](296-unlawful-discriminatory-practices.md)
 - [§ 296-A Unlawful discriminatory practices in relation to credit](296a-unlawful-discriminatory-practices-in-relation-to-credit.md)
@@ -33,6 +34,8 @@ Section 290.   Purposes of article.
         292.   Definitions.
         293.   Division of human rights.
         294.   General policies of division.
+        294-a. Statewide campaign for the acceptance, inclusion,
+                 tolerance and understanding of diversity.
         295.   General powers and duties of division.
         296.   Unlawful discriminatory practices.
         296-a. Unlawful discriminatory practices in relation to credit.

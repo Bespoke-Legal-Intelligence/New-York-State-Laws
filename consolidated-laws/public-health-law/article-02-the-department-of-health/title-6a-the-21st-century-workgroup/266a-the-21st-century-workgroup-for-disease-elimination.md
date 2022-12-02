@@ -1,12 +1,10 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 266*2", "kind": "section", "law_id": "PBH", "location_id": "266*2", "path": "ARTICLE 2 › TITLE 6* › SECTION 266*2", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/266_2.md", "title": "The 21st century workgroup for disease elimination and reduction"} -->
-# Public Health Law § 266*2 — The 21st century workgroup for disease elimination and reduction
+﻿<!-- nyslaw {"citation": "Public Health Law § 266-A", "kind": "section", "law_id": "PBH", "location_id": "266-A", "path": "ARTICLE 2 › TITLE 6-A › SECTION 266-A", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/266-A.md", "title": "The 21st century workgroup for disease elimination and reduction"} -->
+# Public Health Law § 266-A — The 21st century workgroup for disease elimination and reduction
 
-[Public Health Law](../../README.md) › [Article 2 — The Department of Health](../README.md) › [Title 6* — The 21st Century Workgroup For Disease Elimination and Reduction](README.md)
-
-*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+[Public Health Law](../../README.md) › [Article 2 — The Department of Health](../README.md) › [Title 6-A — The 21st Century Workgroup For Disease Elimination and Reduction](README.md)
 
 ```text
-  * § 266. The 21st century workgroup for disease elimination and
+  § 266-a. The 21st century workgroup for disease elimination and
 reduction. The 21st century workgroup for disease elimination and
 reduction is hereby created within the department. The workgroup shall:
   1. Be comprised of experts within the department's bureau of
@@ -32,5 +30,4 @@ purposes set forth herein; and
 eighteen, to the commissioner, the temporary president of the senate,
 the speaker of the assembly, the chair of the senate standing committee
 on health, and the chair of the assembly health committee.
-  * NB There are 2 § 266's
 ```

@@ -4,7 +4,7 @@
 [Public Health Law](../../README.md) › [Article 2 — The Department of Health](../README.md) › [Title 6 — Women's Health](README.md)
 
 ```text
-  * § 266. Department website. 1. The department shall establish and
+  § 266. Department website. 1. The department shall establish and
 maintain an internet website for the purpose of advancing women's health
 initiatives. The website shall provide information for the purposes of
 educating the public and raising awareness of women's health issues,
@@ -95,5 +95,20 @@ Emergency Medical Treatment and Labor Act (EMTALA).
   5. The department shall develop educational materials to be provided
 to emergency room medical staff regarding the state and federal
 discharge and transfer requirements.
-  * NB There are 2 § 266's
+  * 6. Cytomegalovirus. (a) In addition to information provided pursuant
+to this section, the commissioner shall also develop comprehensive
+informational materials, which shall include, but not be limited to, the
+symptoms, the risks, the transmission and the prevention of
+cytomegalovirus and the effects that such virus may have on a pregnant
+individual, an individual who may become pregnant, and children.
+  (b) i. The commissioner shall distribute such cytomegalovirus
+informational materials to:
+  (1) licensed physicians who practice obstetric and/or gynecology in
+this state; and
+  (2) those licensed to practice midwifery pursuant to article one
+hundred forty of the education law.
+  ii. Such physicians or midwives shall provide the cytomegalovirus
+informational materials to each pregnant patient during such patient's
+first appointment with such physician or midwife.
+  * NB Effective May 22, 2023
 ```

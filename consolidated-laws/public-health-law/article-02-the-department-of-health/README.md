@@ -21,7 +21,7 @@
 - [Title 5\* — Obesity Prevention Act](title-5-obesity-prevention-act/)
 - [Title 5-A — Empire State Stem Cell Board](title-5a-empire-state-stem-cell-board/)
 - [Title 6 — Women's Health](title-6-womens-health/)
-- [Title 6\* — The 21st Century Workgroup For Disease Elimination and Reduction](title-6-the-21st-century-workgroup/)
+- [Title 6-A — The 21st Century Workgroup For Disease Elimination and Reduction](title-6a-the-21st-century-workgroup/)
 - [Title 7 — Ny State of Health](title-7-ny-state-of-health/)
 - [Title 8 — Hunger Prevention and Nutrition Assistance Program](title-8-hunger-prevention-and-nutrition/)
 

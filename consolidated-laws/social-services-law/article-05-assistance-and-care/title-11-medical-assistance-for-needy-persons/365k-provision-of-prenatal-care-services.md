@@ -4,7 +4,7 @@
 [Social Services Law](../../README.md) › [Article 5 — Assistance and Care](../README.md) › [Title 11 — Medical Assistance For Needy Persons](README.md)
 
 ```text
-  § 365-k. Provision of prenatal care services. 1. The commissioner
+  § 365-k. Provision of prenatal care services. 1. (a) The commissioner
 shall establish standards and guidelines for the provision of prenatal
 care services under the medical assistance program. In establishing such
 standards and guidelines, the commissioner shall consider generally
@@ -12,6 +12,11 @@ accepted standards of professional practice, including, but not limited
 to, standards issued by the American College of Obstetricians and
 Gynecologists and the American Academy of Pediatrics, and shall consult
 with prenatal care providers and other interested parties.
+  (b) The standards and guidelines established under this section for
+providing non-invasive prenatal testing shall not limit availability and
+coverage for a test based on the age of the pregnant patient, unless the
+limit is explicitly called for by the generally accepted standards of
+professional practice.
   2. For purposes of this title, "prenatal care provider" means a
 medical care facility or public or private not-for-profit agency or
 organization, physician, licensed nurse practitioner, or licensed

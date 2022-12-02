@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | RPP |
 | Type | Consolidated law, chapter 50 |
-| Sections | 424 |
-| Last changed | 23 Sep 2022 |
+| Sections | 425 |
+| Last changed | 2 Dec 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Real Property |
 
@@ -29,10 +29,11 @@ Passed, three-fifths being present.
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (37 lines)](chapter-text.md)
+[Full chapter text (38 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [2 Dec 2022](../../changes/2022/2022-12-02.md): 1 added
 - [23 Sep 2022](../../changes/2022/2022-09-23.md): 1 amended
 - [19 Aug 2022](../../changes/2022/2022-08-19.md): 19 amended
 - [29 Jul 2022](../../changes/2022/2022-07-29.md): 2 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [11 Mar 2022](../../changes/2022/2022-03-11.md): 1 amended
 - [4 Mar 2022](../../changes/2022/2022-03-04.md): 3 amended
 - [25 Feb 2022](../../changes/2022/2022-02-25.md): 1 amended
-- [31 Dec 2021](../../changes/2021/2021-12-31.md): 4 amended
 
 ## Contents
 
@@ -58,6 +58,7 @@ Assembly, do enact as follows:
 - [Article 9-A — Subdivided Lands](article-09a-subdivided-lands/)
 - [Article 9-B — Condominium Act](article-09b-condominium-act/)
 - [Article 9-C — Solar Rights Act](article-09c-solar-rights-act/)
+- [Article 9-D — Electric Vehicle Rights Act](article-09d-electric-vehicle-rights-act/)
 - [Article 10 — Discharge of Ancient Mortgages](article-10-discharge-of-ancient-mortgages/)
 - [Article 12 — Registering Title to Real Property](article-12-registering-title-to-real-property/)
 - [Article 12-A — Real Estate Brokers and Real Estate Salespersons](article-12a-real-estate-brokers-and-real-estate-salespersons/)

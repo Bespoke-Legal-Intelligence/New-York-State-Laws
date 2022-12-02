@@ -27,6 +27,7 @@
 - [§ 19-0325 Sulfur reduction requirements](19-0325-sulfur-reduction-requirements.md)
 - [§ 19-0327 Bioheating fuel requirements](19-0327-bioheating-fuel-requirements.md)
 - [§ 19-0329 Certain fuel oil; prohibited](19-0329-certain-fuel-oil-prohibited.md)
+- [§ 19-0331 Moratorium on air permit issuance and renewal](19-0331-moratorium-on-air-permit-issuance-and-renewal.md)
 
 <details>
 <summary>Official heading of Title 3, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -64,6 +65,7 @@ Section 19-0301.   Powers and duties.
         19-0325.   Sulfur reduction requirements.
         19-0327.   Bioheating fuel requirements.
         19-0329.   Certain fuel oil; prohibited.
+        19-0331.   Moratorium on air permit issuance and renewal.
 ```
 
 </details>

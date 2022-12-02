@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 19-0331", "kind": "section", "law_id": "ENV", "location_id": "19-0331", "path": "ARTICLE 19 › TITLE 3 › SECTION 19-0331", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/19-0331.md", "title": "Moratorium on air permit issuance and renewal"} -->
+# Environmental Conservation Law § 19-0331 — Moratorium on air permit issuance and renewal
+
+[Environmental Conservation Law](../../README.md) › [Article 19 — Air Pollution Control](../README.md) › [Title 3 — Powers and Duties](README.md)
+
+```text
+§ 19-0331. Moratorium on air permit issuance and renewal.
+  1. For the period commencing on the effective date of this section and
+ending two years after such date, the department, after consultation
+with the department of public service, shall not approve a new
+application for or issue a new permit pursuant to this article, or
+article seventy of this chapter, for an electric generating facility
+that utilizes a carbon-based fuel and that provides, in whole or in
+part, behind-the-meter electric energy consumed or utilized by
+cryptocurrency mining operations that use proof-of-work authentication
+methods to validate blockchain transactions.
+  2. For the period commencing on the effective date of this section and
+ending two years after such date, the department shall not approve an
+application to renew an existing permit or issue a renewal permit
+pursuant to this article for an electric generating facility that
+utilizes a carbon-based fuel and that provides, in whole or in part,
+behind-the-meter electric energy consumed or utilized by a
+cryptocurrency mining operation that uses proof-of-work authentication
+methods to validate blockchain transactions if the renewal application
+seeks to increase or will allow or result in an increase in the amount
+of electric energy consumed or utilized by a cryptocurrency mining
+operation that uses proof-of-work authentication methods to validate
+blockchain transactions.
+```
