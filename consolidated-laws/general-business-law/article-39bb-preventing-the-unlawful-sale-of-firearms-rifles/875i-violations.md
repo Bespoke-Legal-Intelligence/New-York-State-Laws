@@ -4,8 +4,7 @@
 [General Business Law](../README.md) › [Article 39-BB — Preventing the Unlawful Sale of Firearms, Rifles, and Shotguns to Individuals With a Criminal Record](README.md)
 
 ```text
-  * § 875-i. Violations. Any person, firm, or corporation who knowingly
+  § 875-i. Violations. Any person, firm, or corporation who knowingly
 violates any provision of this article shall be guilty of a class A
 misdemeanor punishable as provided for in the penal law.
-  * NB Effective December 3, 2022
 ```

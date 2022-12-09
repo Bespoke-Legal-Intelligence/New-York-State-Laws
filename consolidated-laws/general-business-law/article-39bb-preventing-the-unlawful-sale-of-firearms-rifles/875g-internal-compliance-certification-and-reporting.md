@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 39-BB — Preventing the Unlawful Sale of Firearms, Rifles, and Shotguns to Individuals With a Criminal Record](README.md)
 
 ```text
-  * § 875-g. Internal compliance, certification, and reporting. 1. Every
+  § 875-g. Internal compliance, certification, and reporting. 1. Every
 dealer shall:
   (a) implement and maintain sufficient internal compliance procedures
 to ensure compliance with the requirements of this article; and
@@ -29,5 +29,4 @@ majority leader of the senate and the speaker of the assembly, and shall
 be made available to the public on the division of state police website,
 on or before January first, two thousand twenty-four and annually
 thereafter.
-  * NB Effective December 3, 2022
 ```

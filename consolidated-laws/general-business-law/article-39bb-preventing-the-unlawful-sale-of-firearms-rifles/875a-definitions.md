@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 39-BB — Preventing the Unlawful Sale of Firearms, Rifles, and Shotguns to Individuals With a Criminal Record](README.md)
 
 ```text
-  * § 875-a. Definitions. For the purposes of this article:
+  § 875-a. Definitions. For the purposes of this article:
   1. "Dealer" means a gunsmith or dealers in firearms licensed pursuant
 to section 400.00 of the penal law.
   2. "Dispose of" or "disposition of" means to give, give away, lease,
@@ -24,5 +24,4 @@ subdivision, a gift to a person shall not be a bona fide gift if the
 person has offered or given the purchaser a service or thing of value to
 acquire the firearm for the person.
   7. "Superintendent" means the superintendent of state police.
-  * NB Effective December 3, 2022
 ```

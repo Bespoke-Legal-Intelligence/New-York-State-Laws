@@ -4,9 +4,8 @@
 [General Business Law](../README.md) › [Article 39-BB — Preventing the Unlawful Sale of Firearms, Rifles, and Shotguns to Individuals With a Criminal Record](README.md)
 
 ```text
-  * § 875-h. Rules and regulations. The superintendent may promulgate
-such additional rules and regulations as the superintendent shall deem
+  § 875-h. Rules and regulations. The superintendent may promulgate such
+additional rules and regulations as the superintendent shall deem
 necessary to prevent firearms, rifles, and shotguns from being diverted
 from the legal stream of commerce.
-  * NB Effective December 3, 2022
 ```

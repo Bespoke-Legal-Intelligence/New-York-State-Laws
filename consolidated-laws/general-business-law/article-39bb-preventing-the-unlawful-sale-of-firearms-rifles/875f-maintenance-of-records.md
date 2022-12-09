@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 39-BB — Preventing the Unlawful Sale of Firearms, Rifles, and Shotguns to Individuals With a Criminal Record](README.md)
 
 ```text
-  * § 875-f. Maintenance of records. Every dealer shall establish and
+  § 875-f. Maintenance of records. Every dealer shall establish and
 maintain a book, or if the dealer should choose, an electronic-based
 record of purchase, sale, inventory, and other records at the dealer's
 place of business in such form and for such period as the superintendent
@@ -32,5 +32,4 @@ shotgun traces initiated by the federal bureau of alcohol, tobacco,
 firearms and explosives ("ATF"). All ATF Form 4473 transaction records
 shall be retained on the dealer's business premises in a secure
 container designed to prevent loss by fire, theft, or flood.
-  * NB Effective December 3, 2022
 ```

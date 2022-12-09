@@ -19,7 +19,7 @@
 <summary>Official heading of Article 39-BB, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 39-BB
+                              ARTICLE 39-BB
                 PREVENTING THE UNLAWFUL SALE OF FIREARMS,
        RIFLES, AND SHOTGUNS TO INDIVIDUALS WITH A CRIMINAL RECORD
 Section 875-a. Definitions.
@@ -31,7 +31,6 @@ Section 875-a. Definitions.
         875-g. Internal compliance, certification, and reporting.
         875-h. Rules and regulations.
         875-i. Violations.
-  * NB Effective December 3, 2022
 ```
 
 </details>
