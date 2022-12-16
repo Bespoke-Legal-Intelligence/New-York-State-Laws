@@ -12,7 +12,7 @@
 - [§ 50-C Discrimination based upon history of cancerous condition prohibited](50c-discrimination-based-upon-history-of-cancerous-condition.md)
 - [§ 51 Filling vacancies by open competitive examination](51-filling-vacancies-by-open-competitive-examination.md)
 - [§ 52 Promotion examinations](52-promotion-examinations.md)
-- [§ 53 Alienage](53-alienage.md)
+- [§ 53 Noncitizen status](53-noncitizen-status.md)
 - [§ 54 Age requirements](54-age-requirements.md)
 - [§ 55 Examination of blind or physically handicapped applicants](55-examination-of-blind-or-physically-handicapped-applicants.md)
 - [§ 55-A Employment of persons with disabilities by municipalities](55a-employment-of-persons-with-disabilities-by-municipalities.md)
@@ -41,7 +41,7 @@ Section 50.     Examinations generally.
                   prohibited.
         51.     Filling vacancies by open competitive examination.
         52.     Promotion examinations.
-        53.     Alienage.
+        53.     Noncitizen status.
         54.     Age requirements.
         55.     Examination of blind or physically handicapped
                   applicants.

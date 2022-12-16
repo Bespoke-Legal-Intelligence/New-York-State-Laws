@@ -68,6 +68,7 @@
 - [§ 464 Incorporated associations of volunteer firefighters](464-incorporated-associations-of-volunteer-firefighters.md)
 - [§ 466 Volunteer firefighters and fire companies in villages](466-volunteer-firefighters-and-fire-companies-in-villages.md)
 - [§ 466-A Volunteer firefighters and volunteer ambulance workers; certain counties](466a-volunteer-firefighters-and-volunteer-ambulance-workers-certain-counties.md)
+- [§ 466-A\*2 Volunteer firefighters and volunteer ambulance workers](466a-2-volunteer-firefighters-and-volunteer-ambulance-workers.md)
 - [§ 466-B Volunteer firefighters and volunteer ambulance workers; certain additional counties](466b-volunteer-firefighters-and-volunteer-ambulance-workers-certain-additional.md)
 - [§ 466-C Volunteer firefighters and volunteer ambulance workers; certain county](466c-volunteer-firefighters-and-volunteer-ambulance-workers-certain-county.md)
 - [§ 466-C\*2 Volunteer firefighters and volunteer ambulance workers; certain counties](466c-2-volunteer-firefighters-and-volunteer-ambulance-workers-certain-counties.md)
@@ -274,6 +275,7 @@ Section 420-a.   Nonprofit organizations; mandatory class.
         466.     Volunteer firefighters and fire companies in villages.
         466-a.   Volunteer firefighters and volunteer ambulance workers;
                    certain counties.
+        466-a*2. Volunteer firefighters and volunteer ambulance workers.
         466-b.   Volunteer firefighters and volunteer ambulance workers;
                    certain additional counties.
         466-c.   Volunteer firefighters and volunteer ambulance workers;

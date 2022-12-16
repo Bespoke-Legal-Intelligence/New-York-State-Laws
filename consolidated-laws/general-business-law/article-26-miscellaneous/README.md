@@ -25,6 +25,7 @@
 - [§ 391-H Lubricating oils; container; notice required](391h-lubricating-oils-container-notice-required.md)
 - [§ 391-I Sale of urea-formaldehyde foam insulation; notice](391i-sale-of-urea-formaldehyde-foam-insulation-notice.md)
 - [§ 391-J Sale of fire extinguishers](391j-sale-of-fire-extinguishers.md)
+- [§ 391-JJ Sale of electric space heaters](391jj-sale-of-electric-space-heaters.md)
 - [§ 391-K Automatic garage door opening systems](391k-automatic-garage-door-opening-systems.md)
 - [§ 391-L Personal emergency response service agreements; required cancellation provisions](391l-personal-emergency-response-service-agreements-required-cancellation-provisions.md)
 - [§ 391-L\*2 Rental of motor vehicles; discrimination on the basis of credit card ownership](391l-2-rental-of-motor-vehicles-discrimination-on-the-basis-of-credit-card-ownership.md)
@@ -218,6 +219,7 @@ Section 390.         Substitution of spurious oils for internal
         391-h.       Lubricating oils; container; notice required.
         391-i.       Sale of urea-formaldehyde foam insulation; notice.
         391-j.       Sale of fire extinguishers.
+        391-jj.      Sale of electric space heaters.
         391-k.       Automatic garage door opening systems.
         391-l.       Personal emergency response service agreements;
                        required cancellation provisions.

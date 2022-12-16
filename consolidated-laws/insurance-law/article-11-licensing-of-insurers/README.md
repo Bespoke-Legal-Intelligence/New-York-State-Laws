@@ -30,6 +30,7 @@
 - [§ 1120 Child health insurance plan](1120-child-health-insurance-plan.md)
 - [§ 1121 Voucher insurance program](1121-voucher-insurance-program.md)
 - [§ 1122 New York state health insurance continuation assistance demonstration project](1122-new-york-state-health-insurance-continuation-assistance-demonstration-project.md)
+- [§ 1123 Immigration bail business](1123-immigration-bail-business.md)
 - [§ 1124 Institutions of higher education exempt; certificate of authority](1124-institutions-of-higher-education-exempt-certificate-of-authority.md)
 - [§ 1124\*2 Managed care health savings account](1124-2-managed-care-health-savings-account.md)
 
@@ -69,6 +70,7 @@ Section 1101.   Definitions; doing an insurance business.
         1121.   Voucher insurance program.
         1122.   New York state health insurance continuation assistance
                   demonstration project.
+        1123.   Immigration bail business.
         1124.   Institutions of higher education exempt; certificate of
                   authority.
         1124*2. Managed care health savings account.

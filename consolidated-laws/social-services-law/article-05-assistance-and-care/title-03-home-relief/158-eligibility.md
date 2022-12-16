@@ -33,8 +33,8 @@ section one hundred thirty-two of this article, or
 funded under the temporary assistance for needy families block grant
 solely because of section four hundred three of the federal personal
 responsibility and work opportunity reconciliation act of 1996 (P.L.
-104-193) or is an alien who is permanently residing under color of law
-but is not a qualified alien.
+104-193) or is a noncitizenwho is permanently residing under color of
+law but is not a qualified alien.
   2. A person who shall be eligible for family assistance according to
 the provisions of title ten of this article shall be granted family
 assistance and while receiving such aid shall not be eligible for safety

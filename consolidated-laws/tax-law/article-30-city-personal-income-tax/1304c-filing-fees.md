@@ -47,12 +47,12 @@ gain, loss and deduction and such other pertinent information as the
 commissioner may by regulations and instructions prescribe. Such return
 shall be filed on or before the fifteenth day of the fourth month
 following the close of each taxable year except that the due date for
-the return of a partnership consisting entirely of nonresident aliens
-shall be the date prescribed for the filing of its federal partnership
-return for the taxable year. For purposes of this subsection, "taxable
-year" means a year or a period which would be a taxable year of the
-partnership if it were subject to the taxes imposed under the authority
-of this article.
+the return of a partnership consisting entirely of nonresident
+noncitizens shall be the date prescribed for the filing of its federal
+partnership return for the taxable year. For purposes of this
+subsection, "taxable year" means a year or a period which would be a
+taxable year of the partnership if it were subject to the taxes imposed
+under the authority of this article.
   (c) Except as otherwise provided in this section, any filing fee
 imposed pursuant to the authority of this section shall be administered
 and collected by the commissioner in the same manner as the filing fee

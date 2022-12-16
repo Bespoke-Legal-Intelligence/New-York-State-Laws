@@ -83,7 +83,7 @@
 - [§ 335 Filing of maps and abandonment of subdivisions in Suffolk county; penalty for nonfiling](335-filing-of-maps-and-abandonment-of-subdivisions-in-suffolk-county-penalty.md)
 - [§ 335-A Easements of necessity](335a-easements-of-necessity.md)
 - [§ 335-B Recording of solar energy easements](335b-recording-of-solar-energy-easements.md)
-- [§ 336 Effect of recording demands or requirements of alien property custodian](336-effect-of-recording-demands-or-requirements-of-alien-property-custodian.md)
+- [§ 336 Effect of recording demands or requirements of noncitizen property custodian](336-effect-of-recording-demands-or-requirements-of-noncitizen-property-custodian.md)
 
 <details>
 <summary>Official heading of Article 9, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -201,8 +201,8 @@ Section 290.    Definitions; effect of article.
                   Suffolk county; penalty for nonfiling.
         335-a.  Easements of necessity.
         335-b.  Recording of solar energy easements.
-        336.    Effect of recording demands or requirements of alien
-                  property custodian.
+        336.    Effect of recording demands or requirements of
+                  noncitizen property custodian.
 ```
 
 </details>

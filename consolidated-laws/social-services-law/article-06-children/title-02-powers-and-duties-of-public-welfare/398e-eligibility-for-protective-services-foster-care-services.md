@@ -5,7 +5,7 @@
 
 ```text
   § 398-e. Eligibility for protective services, foster care services,
-and residential services for victims of domestic violence. An alien,
+and residential services for victims of domestic violence. A noncitizen,
 including a non-qualified alien, as determined by applicable federal
 statute and regulation, is eligible for protective services for adults
 and children, foster care services, and residential services for victims

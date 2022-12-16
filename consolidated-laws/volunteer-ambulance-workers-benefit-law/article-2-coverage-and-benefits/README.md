@@ -21,7 +21,7 @@
 - [§ 14 Previous disability](14-previous-disability.md)
 - [§ 15 Expense for rehabilitating injured volunteer ambulance workers](15-expense-for-rehabilitating-injured-volunteer-ambulance-workers.md)
 - [§ 16 Treatment and care](16-treatment-and-care.md)
-- [§ 17 Aliens](17-aliens.md)
+- [§ 17 Noncitizens](17-noncitizens.md)
 - [§ 18 Disposition of accrued benefits upon death](18-disposition-of-accrued-benefits-upon-death.md)
 - [§ 19 Exclusiveness of remedy](19-exclusiveness-of-remedy.md)
 - [§ 20 Other remedies of volunteer ambulance workers; subrogation](20-other-remedies-of-volunteer-ambulance-workers-subrogation.md)
@@ -56,7 +56,7 @@ Section 5.    Coverage.
        15.    Expense for rehabilitating injured volunteer ambulance
                 workers.
        16.    Treatment and care.
-       17.    Aliens.
+       17.    Noncitizens.
        18.    Disposition of accrued benefits upon death.
        19.    Exclusiveness of remedy.
        20.    Other remedies of volunteer ambulance workers;

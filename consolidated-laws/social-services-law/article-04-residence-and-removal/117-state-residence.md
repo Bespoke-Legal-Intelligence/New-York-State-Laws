@@ -39,7 +39,7 @@ of need applicable to the person under the laws of the state, if any, in
 which he or she resided immediately prior to arrival in this state, but
 under no circumstances may such allowances exceed the amounts payable to
 a resident under this chapter; and no assistance shall be provided for
-any alien during the first twelve months such person resides in the
+any noncitizen during the first twelve months such person resides in the
 United States, except as set forth in paragraph (b) of this subdivision
 and except persons domiciled in the state on the effective date of this
 section, and except as otherwise required by federal law. For purposes

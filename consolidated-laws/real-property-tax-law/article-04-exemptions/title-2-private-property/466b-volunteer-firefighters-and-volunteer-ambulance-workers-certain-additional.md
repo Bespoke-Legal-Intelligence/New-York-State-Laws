@@ -4,7 +4,7 @@
 [Real Property Tax Law](../../README.md) › [Article 4 — Exemptions](../README.md) › [Title 2 — Private Property](README.md)
 
 ```text
-  § 466-b. Volunteer firefighters and volunteer ambulance workers;
+  * § 466-b. Volunteer firefighters and volunteer ambulance workers;
 certain additional counties. 1. Real property owned by an enrolled
 member of an incorporated volunteer fire company, fire department or
 incorporated voluntary ambulance service or such enrolled member and
@@ -62,4 +62,5 @@ worker who by reason of such status is receiving any benefit under the
 provisions of this article on the effective date of this section shall
 suffer any diminution of such benefit because of the provisions of this
 section.
+  * NB Repealed December 9, 2025
 ```

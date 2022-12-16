@@ -19,7 +19,7 @@
 - [§ 1412 Preliminary letters testamentary 1](1412-preliminary-letters-testamentary-1.md)
 - [§ 1413 Revocation of letters upon proof of will Where temporary letters of administration, preliminary letters testamentary or letters of admini...](1413-revocation-of-letters-upon-proof-of-will-where-temporary-letters.md)
 - [§ 1414 When letters testamentary may be issued 1](1414-when-letters-testamentary-may-be-issued-1.md)
-- [§ 1415 Supplementary letters, executors not named in letters not to act If the disability of an infant or an alien named as an executor in a wil...](1415-supplementary-letters-executors-not-named-in-letters-not-to-act-if.md)
+- [§ 1415 Supplementary letters, executors not named in letters not to act If the disability of an infant or a noncitizen named as an executor in a...](1415-supplementary-letters-executors-not-named-in-letters-not-to-act-if.md)
 - [§ 1416 Executor failing to qualify or renounce; how excluded 1](1416-executor-failing-to-qualify-or-renounce-how-excluded-1.md)
 - [§ 1417 Renunciation by nominated executor; retraction thereof 1](1417-renunciation-by-nominated-executor-retraction-thereof-1.md)
 - [§ 1418 Letters of administration with will annexed; when and to whom granted 1](1418-letters-of-administration-with-will-annexed-when-and-to-whom-granted-1.md)

@@ -44,6 +44,7 @@
 - [§ 2137 Life settlement brokers; licensing](2137-life-settlement-brokers-licensing.md)
 - [§ 2138 Health benefit exchange navigators](2138-health-benefit-exchange-navigators.md)
 - [§ 2139 Title insurance agents; licensing](2139-title-insurance-agents-licensing.md)
+- [§ 2140 Restrictions on insurance producers procuring immigration bonds](2140-restrictions-on-insurance-producers-procuring-immigration-bonds.md)
 
 <details>
 <summary>Official heading of Article 21, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -104,6 +105,8 @@ Section 2101. Definitions.
         2137. Life settlement brokers; licensing.
         2138. Health benefit exchange navigators.
         2139. Title insurance agents; licensing.
+        2140. Restrictions on insurance producers procuring immigration
+                bonds.
 ```
 
 </details>

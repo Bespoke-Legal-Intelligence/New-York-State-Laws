@@ -16,8 +16,8 @@ evidence of good moral character.
 to examination any applicant who pays a fee of forty dollars and submits
 evidence subscribed and affirmed as true under the penalties of perjury
 and satisfactory to the department that the applicant:
-  (a) is a citizen of the United States or an alien lawfully admitted
-for permanent residence in the United States;
+  (a) is a citizen of the United States or a noncitizen lawfully
+admitted for permanent residence in the United States;
   (b) has satisfactorily completed a course of collegiate level study in
 funeral service, the curriculum of which has been approved by the
 department, consisting of not less than ninety quarter credits or sixty

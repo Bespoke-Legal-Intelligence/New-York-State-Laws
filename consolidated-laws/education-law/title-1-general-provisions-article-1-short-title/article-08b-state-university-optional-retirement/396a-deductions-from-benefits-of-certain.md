@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 8-B — State University Optional Retirement Program](README.md)
 
 ```text
-  * § 396-a. Deductions from benefits of certain retired members. 1.
+  § 396-a. Deductions from benefits of certain retired members. 1.
 Notwithstanding any other provision of law, an electing employee who is
 retired from the optional retirement system shall have the right, at any
 time after such electing employee's retirement, to execute and file a
@@ -58,5 +58,4 @@ shall determine the cost of administering deductions for voluntary
 contributions to the political committee and the cost incurred for
 administering such contributions shall be paid from the funds of the
 political committee.
-  * NB Effective December 10, 2022
 ```

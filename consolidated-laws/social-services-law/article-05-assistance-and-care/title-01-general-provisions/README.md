@@ -22,7 +22,7 @@
 - [§ 131-I Social services districts; agreements](131i-social-services-districts-agreements.md)
 - [§ 131-I\*2 Family loan program](131i-2-family-loan-program.md)
 - [§ 131-J Certain utility deposits](131j-certain-utility-deposits.md)
-- [§ 131-K Illegal aliens](131k-illegal-aliens.md)
+- [§ 131-K Undocumented noncitizens](131k-undocumented-noncitizens.md)
 - [§ 131-L Exclusion of agent orange benefits](131l-exclusion-of-agent-orange-benefits.md)
 - [§ 131-M Information on resource referral services](131m-information-on-resource-referral-services.md)
 - [§ 131-N Exemption of income and resources](131n-exemption-of-income-and-resources.md)
@@ -101,7 +101,7 @@ Section 131.     Assistance, care and services to be given.
         131-i.   Social services districts; agreements.
         131-i*2. Family loan program.
         131-j.   Certain utility deposits.
-        131-k.   Illegal aliens.
+        131-k.   Undocumented noncitizens.
         131-l.   Exclusion of agent orange benefits.
         131-m.   Information on resource referral services.
         131-n.   Exemption of income and resources.

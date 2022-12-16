@@ -137,11 +137,11 @@ property), or by his duly authorized agent.
 made and filed by the fiduciary.
   (f) Joint fiduciaries. If two or more fiduciaries are acting jointly,
 the return may be made by any one of them.
-  (g) Nonresident aliens. Notwithstanding the provisions of subsection
-(a) of this section, the due date for the filing of an income tax return
-under this article for the taxable year by a nonresident alien
-individual shall be the date prescribed for the filing of his federal
-income tax return for the taxable year.
+  (g) Nonresident noncitizens. Notwithstanding the provisions of
+subsection (a) of this section, the due date for the filing of an income
+tax return under this article for the taxable year by a nonresident
+noncitizen individual shall be the date prescribed for the filing of his
+or her federal income tax return for the taxable year.
   (h) Tax a debt. Any tax under this article, and any increase, interest
 or penalty thereon, shall, from the time it is due and payable, be a
 personal debt of the person liable to pay the same, to the state of New

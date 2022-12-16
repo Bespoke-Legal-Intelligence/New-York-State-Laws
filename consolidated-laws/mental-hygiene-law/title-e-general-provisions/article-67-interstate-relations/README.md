@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [§ 67.01 Report of aliens](67.01-report-of-aliens.md)
+- [§ 67.01 Report of noncitizens](67.01-report-of-noncitizens.md)
 - [§ 67.03 Residents](67.03-residents.md)
 - [§ 67.05 Nonresidents](67.05-nonresidents.md)
 - [§ 67.07 Interstate compact](67.07-interstate-compact.md)
@@ -18,7 +18,7 @@
 ```text
                                ARTICLE 67
                           INTERSTATE RELATIONS
-Section 67.01 Report of aliens.
+Section 67.01 Report of noncitizens.
         67.03 Residents.
         67.05 Nonresidents.
         67.07 Interstate compact.

@@ -76,7 +76,7 @@ individuals through the Marketplace;
 incarceration pending the disposition of charges; and
   (d) is, and is reasonably expected to be, for the entire period for
 which enrollment is sought, a citizen or national of the United States
-or an alien lawfully present in the United States.
+or a noncitizen lawfully present in the United States.
   11. "Secretary" means the secretary of the United States department of
 health and human services.
   12. "SHOP" means the small business health options program operated by

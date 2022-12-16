@@ -151,11 +151,11 @@ department of health and human services for a household of the same
 size; and has household income that exceeds one hundred thirty-three
 percent of the federal poverty line defined and annually revised by the
 United States department of health and human services for a household of
-the same size; however, MAGI eligible aliens lawfully present in the
-United States with household incomes at or below one hundred
+the same size; however, MAGI eligible noncitizens lawfully present in
+the United States with household incomes at or below one hundred
 thirty-three percent of the federal poverty line shall be eligible to
 receive coverage for health care services pursuant to the provisions of
-this title if such alien would be ineligible for medical assistance
+this title if such noncitizen would be ineligible for medical assistance
 under title eleven of this article due to their immigration status;
   (ii) subject to federal approval and the use of state funds, unless
 the commissioner may use funds under subdivision seven of this section,
@@ -202,11 +202,11 @@ department of health and human services for a household of the same
 size; and has household income that exceeds one hundred thirty-three
 percent of the federal poverty line defined and annually revised by the
 United States department of health and human services for a household of
-the same size; however, MAGI eligible aliens lawfully present in the
-United States with household incomes at or below one hundred
+the same size; however, MAGI eligible noncitizens lawfully present in
+the United States with household incomes at or below one hundred
 thirty-three percent of the federal poverty line shall be eligible to
 receive coverage for health care services pursuant to the provisions of
-this title if such alien would be ineligible for medical assistance
+this title if such noncitizen would be ineligible for medical assistance
 under title eleven of this article due to their immigration status;
   (ii) subject to federal approval and the use of state funds, unless
 the commissioner may use funds under subdivision seven of this section,

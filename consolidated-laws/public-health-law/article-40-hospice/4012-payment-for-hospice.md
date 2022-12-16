@@ -21,6 +21,13 @@ factors in the area in which the hospice is located, costs of hospice
 programs of comparable size, the need for incentives to improve services
 and institute economies, and applicable medicare reimbursement
 regulations.
+  * 4. Eligible individuals shall be permitted to receive hospice
+services from a provider under this article while continuing to reside
+in an adult care facility under title two of article seven of the social
+services law and enrolled in the assisted living program. The
+commissioner shall make regulations and take other actions reasonably
+necessary and appropriate to implement this subdivision.
+  * NB Effective June 7, 2023
   5. The commissioner shall establish a methodology as of July first,
 two thousand eighteen subject to federal financial participation that
 shall ensure a prospective ten-percent increase in the medicaid

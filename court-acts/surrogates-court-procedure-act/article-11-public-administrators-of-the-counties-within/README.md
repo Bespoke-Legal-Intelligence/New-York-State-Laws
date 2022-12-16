@@ -23,7 +23,7 @@
 - [§ 1116 Application for letters; when court may direct probate 1](1116-application-for-letters-when-court-may-direct-probate-1.md)
 - [§ 1117 No separate bond or oath The public administrators within the counties of the city of New York shall not be required to file the designat...](1117-no-separate-bond-or-oath-the-public-administrators-within-the-counties.md)
 - [§ 1118 Powers before issuance of letters Before letters are issued to him and subject to the provisions of section 1128 of this article the publ...](1118-powers-before-issuance-of-letters-before-letters-are-issued-to-him.md)
-- [§ 1119 Notice to consuls When the estate is that of an alien it shall be the duty of the public administrator when making application for letter...](1119-notice-to-consuls-when-the-estate-is-that-of-an-alien-it-shall-be.md)
+- [§ 1119 Notice to consuls When the estate is that of a noncitizen it shall be the duty of the public administrator when making application for le...](1119-notice-to-consuls-when-the-estate-is-that-of-a-noncitizen-it-shall-be.md)
 - [§ 1120 Appearance by consuls 1](1120-appearance-by-consuls-1.md)
 - [§ 1121 Grant of letters to others If any eligible distributee of the decedent shall petition to supersede the public administrator within 4 mont...](1121-grant-of-letters-to-others-if-any-eligible-distributee-of-the-decedent.md)
 - [§ 1122 Delivery of estate assets to fiduciary; expenses, costs and commissions When the public administrator has been superseded he shall accoun...](1122-delivery-of-estate-assets-to-fiduciary-expenses-costs-and-commissions.md)

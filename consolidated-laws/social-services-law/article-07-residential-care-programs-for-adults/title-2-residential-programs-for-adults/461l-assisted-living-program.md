@@ -110,6 +110,13 @@ than once every six months. No person shall be admitted to or retained
 in an assisted living program unless the person can be safely and
 adequately cared for with the provision of services determined by such
 assessment or reassessment.
+  * (iv) Eligible individuals shall be permitted to receive hospice
+services from a provider under article forty of the public health law
+while continuing to reside in an adult care facility under this title
+and enrolled in the assisted living program. The commissioner shall make
+regulations and take other actions reasonably necessary and appropriate
+to implement this subparagraph.
+  * NB Effective June 7, 2023
   3. Assisted living program approval. (a) An eligible applicant
 proposing to operate an assisted living program shall submit an
 application to the department. Upon receipt, the department shall

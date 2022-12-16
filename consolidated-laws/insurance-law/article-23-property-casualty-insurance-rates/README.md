@@ -16,6 +16,7 @@
 - [§ 2309 Excess rate](2309-excess-rate.md)
 - [§ 2310 Informational filings](2310-informational-filings.md)
 - [§ 2311 Suspension of filing requirement](2311-suspension-of-filing-requirement.md)
+- [§ 2312 Immigration bond premium](2312-immigration-bond-premium.md)
 - [§ 2313 Rate service organization; defined](2313-rate-service-organization-defined.md)
 - [§ 2314 Charging of rates](2314-charging-of-rates.md)
 - [§ 2315 Recording and reporting of experience; statistical plans](2315-recording-and-reporting-of-experience-statistical-plans.md)
@@ -78,6 +79,7 @@ Section 2301.   Purpose.
         2309.   Excess rate.
         2310.   Informational filings.
         2311.   Suspension of filing requirement.
+        2312.   Immigration bond premium.
         2313.   Rate service organization; defined.
         2314.   Charging of rates.
         2315.   Recording and reporting of experience; statistical

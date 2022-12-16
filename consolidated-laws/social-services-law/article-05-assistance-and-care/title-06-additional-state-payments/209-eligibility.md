@@ -21,8 +21,9 @@ greater than the amount of resources an individual or couple may have
 and remain eligible for supplemental security income benefits pursuant
 to federal law and regulations of the department; and
   (iv) is a resident of the state and is either a citizen of the United
-States or is not an alien who is or would be ineligible for federal
-supplemental security income benefits solely by reason of alien status.
+States or is not a noncitizen who is or would be ineligible for federal
+supplemental security income benefits solely by reason of noncitizen
+status.
   (b) A person who is properly receiving supplemental security income
 benefits shall be deemed to have met the eligibility criteria contained
 in subparagraphs (i), (ii) and (iii) of paragraph (a) of this

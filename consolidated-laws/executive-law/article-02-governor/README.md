@@ -13,7 +13,7 @@
 - [§ 5 Executive records](05-executive-records.md)
 - [§ 6 Examination and inspection by the governor](06-examination-and-inspection-by-the-governor.md)
 - [§ 7 Limited operation of holiday](07-limited-operation-of-holiday.md)
-- [§ 8 Registration of aliens](08-registration-of-aliens.md)
+- [§ 8 Registration of noncitizens](08-registration-of-noncitizens.md)
 - [§ 9 Lease or loan of state property; temporary transfer of personnel](09-lease-or-loan-of-state-property-temporary-transfer-of-personnel.md)
 - [§ 11 Indian settlement agreements](11-indian-settlement-agreements.md)
 - [§ 12 Tribal-state compact](12-tribal-state-compact.md)
@@ -32,7 +32,7 @@ Section 2.   Office and residence of governor.
         5.   Executive records.
         6.   Examination and inspection by the governor.
         7.   Limited operation of holiday.
-        8.   Registration of aliens.
+        8.   Registration of noncitizens.
         9.   Lease or loan of state property; temporary transfer of
                personnel.
         11.  Indian settlement agreements.

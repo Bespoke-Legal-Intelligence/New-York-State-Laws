@@ -51,20 +51,21 @@ necessary to assign an identifying number to any person.
   (1) Partnerships. Every partnership having a resident partner or
 having any income derived from New York sources, determined in
 accordance with the applicable rules of section six hundred thirty-one
-as in the case of a nonresident individual, shall make a return for the
-taxable year setting forth all items of income, gain, loss and deduction
-and such other pertinent information as the commissioner may by
-regulations and instructions prescribe. Such return shall be filed on or
-before the fifteenth day of the fourth month following the close of each
-taxable year, for taxable years beginning before January first, two
-thousand sixteen, and on or before the fifteenth day of the third month
-following the close of each taxable year, for taxable years beginning on
-or after January first, two thousand sixteen, except that the due date
-for the return of a partnership consisting entirely of nonresident
-aliens shall be the date prescribed for the filing of its federal
-partnership return for the taxable year. For purposes of this paragraph,
-"taxable year" means a year or a period which would be a taxable year of
-the partnership if it were subject to tax under this article.
+of this article as in the case of a nonresident individual, shall make a
+return for the taxable year setting forth all items of income, gain,
+loss and deduction and such other pertinent information as the
+commissioner may by regulations and instructions prescribe. Such return
+shall be filed on or before the fifteenth day of the fourth month
+following the close of each taxable year, for taxable years beginning
+before January first, two thousand sixteen, and on or before the
+fifteenth day of the third month following the close of each taxable
+year, for taxable years beginning on or after January first, two
+thousand sixteen, except that the due date for the return of a
+partnership consisting entirely of nonresident noncitizens shall be the
+date prescribed for the filing of its federal partnership return for the
+taxable year. For purposes of this paragraph, "taxable year" means a
+year or a period which would be a taxable year of the partnership if it
+were subject to tax under this article.
   (2) S corporations. Every S corporation for which the election
 provided for in subsection (a) of section six hundred sixty is in effect
 shall make a return for the taxable year setting forth all items of

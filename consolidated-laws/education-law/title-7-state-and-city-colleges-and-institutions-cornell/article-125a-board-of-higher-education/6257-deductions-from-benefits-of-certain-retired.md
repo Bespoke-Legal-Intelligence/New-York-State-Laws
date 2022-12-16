@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 125-A — Board of Higher Education Optional Retirement Program](README.md)
 
 ```text
-  * § 6257. Deductions from benefits of certain retired members. 1.
+  § 6257. Deductions from benefits of certain retired members. 1.
 Notwithstanding any other provision of law, a member who is retired from
 the board of higher education optional retirement program shall have the
 right, at any time after such member's retirement, to execute and file a
@@ -49,5 +49,4 @@ shall determine the cost of administering deductions for voluntary
 contributions to the political committee and the cost incurred for
 administering such contributions shall be paid from the funds of the
 political committee.
-  * NB Effective December 10, 2022
 ```

@@ -31,7 +31,7 @@
 - [§ 142 Fire in facility](142-fire-in-facility.md)
 - [§ 143 Custody of persons convicted of crimes against the United States](143-custody-of-persons-convicted-of-crimes-against-the-united-states.md)
 - [§ 146 Persons authorized to visit correctional facilities](146-persons-authorized-to-visit-correctional-facilities.md)
-- [§ 147 Alien incarcerated individuals of correctional facilities](147-alien-incarcerated-individuals-of-correctional-facilities.md)
+- [§ 147 Noncitizen incarcerated individuals of correctional facilities](147-noncitizen-incarcerated-individuals-of-correctional-facilities.md)
 - [§ 148 Psychiatric and diagnostic clinics](148-psychiatric-and-diagnostic-clinics.md)
 - [§ 149 Released incarcerated individuals; notification to sheriff, police, and district attorney](149-released-incarcerated-individuals-notification-to-sheriff-police-and-district.md)
 
@@ -81,7 +81,7 @@ Section 112.   Powers and duties of commissioner relating to
         143.   Custody of persons convicted of crimes against the United
                  States.
         146.   Persons authorized to visit correctional facilities.
-        147.   Alien incarcerated individuals of correctional
+        147.   Noncitizen incarcerated individuals of correctional
                  facilities.
         148.   Psychiatric and diagnostic clinics.
         149.   Released incarcerated individuals; notification to
