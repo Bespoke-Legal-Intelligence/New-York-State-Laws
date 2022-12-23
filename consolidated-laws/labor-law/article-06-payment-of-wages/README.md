@@ -14,6 +14,7 @@
 - [§ 193 Deductions from wages](193-deductions-from-wages.md)
 - [§ 194 Differential in rate of pay because of protected class status prohibited](194-differential-in-rate-of-pay-because-of-protected-class-status-prohibited.md)
 - [§ 194-A Wage or salary history inquiries prohibited](194a-wage-or-salary-history-inquiries-prohibited.md)
+- [§ 194-B Mandatory disclosure of compensation or range of compensation](194b-mandatory-disclosure-of-compensation-or-range-of-compensation.md)
 - [§ 195 Notice and record-keeping requirements](195-notice-and-record-keeping-requirements.md)
 - [§ 196 Powers of commissioner](196-powers-of-commissioner.md)
 - [§ 196-A Complaints by employees to commissioner](196a-complaints-by-employees-to-commissioner.md)
@@ -46,6 +47,8 @@ Section 190.   Definitions.
         194.   Differential in rate of pay because of protected class
                  status prohibited.
         194-a. Wage or salary history inquiries prohibited.
+        194-b. Mandatory disclosure of compensation or range of
+                 compensation.
         195.   Notice and record-keeping requirements.
         196.   Powers of commissioner.
         196-a. Complaints by employees to commissioner.

@@ -46,7 +46,7 @@ include the department of taxation and finance, the workers'
 compensation board nor the department of financial services.
   3. Nothing herein shall prevent or preclude any other waivers of
 penalties that may be applicable by this or any other agency.
-  ** 4. Every state agency shall provide to the division for small
+  4. Every state agency shall provide to the division for small
 business, created pursuant to section one hundred thirty-two of the
 economic development law, the following information covering the
 previous calendar year, annually by July first following the effective
@@ -66,6 +66,5 @@ prepare a report compiling this information, by agency, and shall post
 this report on its website and shall provide a copy of such report to
 the governor, the speaker of the assembly and the temporary president of
 the senate.
-  ** NB Effective December 22, 2022
   * NB Repealed December 20, 2024
 ```

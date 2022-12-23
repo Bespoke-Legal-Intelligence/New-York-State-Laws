@@ -129,6 +129,7 @@
 - [§ 399-AA Prohibition of the selling of fur, hair, skin or flesh of a dog or cat](399aa-prohibition-of-the-selling-of-fur-hair-skin-or-flesh-of-a-dog-or-cat.md)
 - [§ 399-AAA Selling and manufacturing of fur-bearing articles of clothing](399aaa-selling-and-manufacturing-of-fur-bearing-articles-of-clothing.md)
 - [§ 399-AAAA Menstrual product labeling](399aaaa-menstrual-product-labeling.md)
+- [§ 399-AAAAA Selling of animal tested cosmetics](399aaaaa-selling-of-animal-tested-cosmetics.md)
 - [§ 399-B Contracts for the use of the streets for hack stands](399b-contracts-for-the-use-of-the-streets-for-hack-stands.md)
 - [§ 399-BB Certain dry cleaning institutions; option for six months donation of articles of clothing](399bb-certain-dry-cleaning-institutions-option-for-six-months-donation-of-articles.md)
 - [§ 399-BBB Solicitations by container; disclosures](399bbb-solicitations-by-container-disclosures.md)
@@ -363,6 +364,7 @@ Section 390.         Substitution of spurious oils for internal
         399-aaa.     Selling and manufacturing of fur-bearing articles
                        of clothing.
         399-aaaa.    Menstrual product labeling.
+        399-aaaaa.   Selling of animal tested cosmetics.
         399-b.       Contracts for the use of the streets for hack
                        stands.
         399-bb.      Certain dry cleaning institutions; option for six

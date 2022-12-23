@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Alcoholic Beverage Control Law § 64-E", "kind": "section", "law_id": "ABC", "location_id": "64-E", "path": "ARTICLE 5 › SECTION 64-E", "repealed": false, "repealed_date": null, "source": "nys-laws:ABC/64-E.md", "title": "License to sell liquor at retail as an off-premises catering establishment"} -->
+# Alcoholic Beverage Control Law § 64-E — License to sell liquor at retail as an off-premises catering establishment
+
+[Alcoholic Beverage Control Law](../README.md) › [Article 5 — Special Provisions Relating to Liquor](README.md)
+
+```text
+  § 64-e. License to sell liquor at retail as an off-premises catering
+establishment. 1. Any person may make an application to the authority
+for a license to sell liquor at a site remote from the licensed premises
+of an off-premises catering establishment as defined pursuant to
+paragraph (b) of subdivision seven-a of section three of this chapter,
+and such licenses shall be issued to all applicants except for good
+cause shown.
+  2. Such application shall be in such form and shall contain such
+information as shall be required by the rules of the authority and shall
+be accompanied by a check or draft or other form of payment acceptable
+to the authority in the amount required by this article for such
+license.
+  3. Section fifty-four of this chapter shall control the procedure in
+connection with such application, so far as applicable.
+  4. Such license shall in form and in substance be a license to the
+person specifically licensed to sell liquors at retail, to be consumed
+only at sites at which a permit has been applied for and granted as
+provided for in section ninety-eight of this chapter. Such license shall
+also be deemed to include a license to sell wine and beer at retail to
+be consumed under the same terms and conditions, without the payment of
+any additional fee.
+```

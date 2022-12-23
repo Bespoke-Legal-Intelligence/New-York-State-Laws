@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 49 — Protection of Natural and Man-made Beauty](../README.md) › [Title 5 — State Geological Trail](README.md)
 
 ```text
-* § 49-0503. Establishment of state geological trail.
+§ 49-0503. Establishment of state geological trail.
   1. The commissioner, in cooperation with the commissioners of
 transportation and economic development, shall establish a state
 geological trail to include the areas, territories and sites designated
@@ -28,5 +28,4 @@ highway law or wine trails designated pursuant to section three hundred
 forty-three-k of the highway law, and ensure that the trail route is
 designed and laid out so that it is relatively simple and easy to follow
 for users and contains few branches or laterals that dead end.
-  * NB Effective December 22, 2022
 ```

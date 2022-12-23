@@ -36,7 +36,6 @@
 - [§ 508-B\*4 Death benefits for deputy sheriffs employed by Suffolk county](508b-4-death-benefits-for-deputy-sheriffs-employed-by-suffolk-county.md)
 - [§ 509 Accidental death benefits](509-accidental-death-benefits.md)
 - [§ 509-A COVID-19 benefit](509a-covid-19-benefit.md)
-- [§ 509-A\*2 COVID-19 benefit](509a-2-covid-19-benefit.md) *(repealed)*
 - [§ 510 Escalation of benefits](510-escalation-of-benefits.md)
 - [§ 511 Coordination with social security benefits](511-coordination-with-social-security-benefits.md)
 - [§ 512 Final average salary](512-final-average-salary.md)

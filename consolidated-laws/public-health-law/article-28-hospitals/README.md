@@ -152,6 +152,7 @@
 - [§ 2828 Residential health care facilities; minimum direct resident care spending](2828-residential-health-care-facilities-minimum-direct-resident-care-spending.md)
 - [§ 2828\*2 Essential support persons allowed for individuals with disabilities during a state of emergency](2828-2-essential-support-persons-allowed-for-individuals-with-disabilities-during.md)
 - [§ 2829 Nursing homes; disclosure requirements](2829-nursing-homes-disclosure-requirements.md)
+- [§ 2830 Surgical smoke evacuation](2830-surgical-smoke-evacuation.md)
 
 <details>
 <summary>Official heading of Article 28, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -371,6 +372,7 @@ Section 2800.      Declaration of policy and statement of purpose.
         2828*2.    Essential support persons allowed for individuals
                      with disabilities during a state of emergency.
         2829.      Nursing homes; disclosure requirements.
+        2830.      Surgical smoke evacuation.
 ```
 
 </details>

@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 49 — Protection of Natural and Man-made Beauty](../README.md) › [Title 5 — State Geological Trail](README.md)
 
 ```text
-* § 49-0505. State geological planning and advisory council.
+§ 49-0505. State geological planning and advisory council.
   1. For the purposes of this title, "advisory council" means the state
 geological planning and advisory council established pursuant to this
 section.
@@ -56,5 +56,4 @@ programs and themes relating to portions of the state geological trail,
 and an internet website providing directional information on educational
 institutions that have programs relating to the geological and
 conservation aspects of the portions of the state geological trail.
-  * NB Effective December 22, 2022
 ```

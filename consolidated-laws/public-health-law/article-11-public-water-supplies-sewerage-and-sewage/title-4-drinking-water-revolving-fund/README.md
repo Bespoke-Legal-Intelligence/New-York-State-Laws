@@ -13,6 +13,7 @@
 - [§ 1165 Noncompliance; notification](1165-noncompliance-notification.md)
 - [§ 1166 Implementation agreements](1166-implementation-agreements.md)
 - [§ 1167 Financial assistance; recipients](1167-financial-assistance-recipients.md)
+- [§ 1167-A Reimbursement of state assistance payments or grants made to municipality or recipient; admissibility of state assistance payments or gra...](1167a-reimbursement-of-state-assistance-payments.md)
 - [§ 1168 Construction contracts; designations](1168-construction-contracts-designations.md)
 - [§ 1169 Compliance with other laws](1169-compliance-with-other-laws.md)
 
@@ -22,16 +23,21 @@
 ```text
                                 TITLE IV
                       DRINKING WATER REVOLVING FUND
-Section 1160. Definitions.
-        1161. Eligible projects; priority ranking.
-        1162. Financial assistance; criteria and standards; regulations.
-        1163. Financing agreements.
-        1164. Inspection and certification.
-        1165. Noncompliance; notification.
-        1166. Implementation agreements.
-        1167. Financial assistance; recipients.
-        1168. Construction contracts; designations.
-        1169. Compliance with other laws.
+Section 1160.   Definitions.
+        1161.   Eligible projects; priority ranking.
+        1162.   Financial assistance; criteria and standards;
+                  regulations.
+        1163.   Financing agreements.
+        1164.   Inspection and certification.
+        1165.   Noncompliance; notification.
+        1166.   Implementation agreements.
+        1167.   Financial assistance; recipients.
+        1167-a. Reimbursement of state assistance payments or grants
+                  made to municipality or recipient; admissibility of
+                  state assistance payments or grants as collateral
+                  source.
+        1168.   Construction contracts; designations.
+        1169.   Compliance with other laws.
 ```
 
 </details>

@@ -8,7 +8,7 @@
 | Senate code | TSF |
 | Type | Unconsolidated law |
 | Sections | 16 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 23 Dec 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Tobacco Settlement Financing Corporation Act |
 
@@ -28,6 +28,10 @@ Section 1.  Short title.
 ```
 
 [Full chapter text (22 lines)](chapter-text.md)
+
+## Recent changes
+
+- [23 Dec 2022](../../changes/2022/2022-12-23.md): 1 amended
 
 ## Contents
 

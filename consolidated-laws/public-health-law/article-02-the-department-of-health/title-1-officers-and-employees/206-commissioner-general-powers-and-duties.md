@@ -1047,18 +1047,6 @@ traumatic brain injuries, in accordance with subdivision forty-two of
 section three hundred five of the education law, and provide for the
 posting on the department's internet website of such information as
 shall be required pursuant to such subdivision.
-  * 29. The commissioner shall prepare a report on the implementation of
-the State Health Innovation Plan (SHIP) which shall include:
-  (1) the recommendations of the workgroups established to assist the
-state in implementation of the SHIP;
-  (2) the department's efforts in advancing the SHIP's goals; and
-  (3) information on the expenditures of the State Innovation Model
-grant.
-The report shall be submitted to the governor, the temporary president
-of the senate, the speaker of the assembly, the chairs of the senate
-health committee and assembly health committee on or before January
-first, two thousand sixteen and annually thereafter.
-  * NB Repealed March 31, 2020
   * 30. The commissioner shall notify the commissioner of education in
 any instance in which a registered professional nurse engages in
 improper behavior while supervising an advanced home health aide

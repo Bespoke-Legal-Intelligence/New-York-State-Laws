@@ -17,6 +17,7 @@
 - [§ 64-B License to sell liquor on premises commonly known as a bottle club](64b-license-to-sell-liquor-on-premises-commonly-known-as-a-bottle-club.md)
 - [§ 64-C License to manufacture and sell alcoholic beverages in a premises commonly known as a restaurant-brewer](64c-license-to-manufacture-and-sell-alcoholic-beverages-in-a-premises-commonly.md)
 - [§ 64-D License to sell liquor on premises commonly known as a cabaret](64d-license-to-sell-liquor-on-premises-commonly-known-as-a-cabaret.md)
+- [§ 64-E License to sell liquor at retail as an off-premises catering establishment](64e-license-to-sell-liquor-at-retail-as-an-off-premises-catering-establishment.md)
 - [§ 65 Prohibited sales](65-prohibited-sales.md)
 - [§ 65-A Procuring alcoholic beverages for persons under the age of twenty-one years](65a-procuring-alcoholic-beverages-for-persons-under-the-age-of-twenty-one.md)
 - [§ 65-B Offense for one under age of twenty-one years to purchase or attempt to purchase an alcoholic beverage through fraudulent means](65b-offense-for-one-under-age-of-twenty-one-years-to-purchase-or-attempt.md)
@@ -50,6 +51,8 @@ Section 60.   Kinds of licenses.
                 premises commonly known as a restaurant-brewer.
         64-d. License to sell liquor on premises commonly known as a
                 cabaret.
+        64-e. License to sell liquor at retail as an off-premises
+                catering establishment.
         65.   Prohibited sales.
         65-a. Procuring alcoholic beverages for persons under the age of
                 twenty-one years.

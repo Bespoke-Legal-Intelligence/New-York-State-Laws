@@ -38,6 +38,7 @@
 - [§ 837-V\*2 Reporting duties of law enforcement departments with respect to arrest-related deaths](837v-2-reporting-duties-of-law-enforcement-departments-with-respect-to-arrest-related.md)
 - [§ 837-W Technological viability of microstamping-enabled firearms](837w-technological-viability-of-microstamping-enabled-firearms.md)
 - [§ 837-W\*2 Cooperation with certain out-of-state investigations](837w-2-cooperation-with-certain-out-of-state-investigations.md)
+- [§ 837-W\*3 Blue alert system](837w-3-blue-alert-system.md)
 - [§ 838 Identification of unknown dead and missing persons](838-identification-of-unknown-dead-and-missing-persons.md)
 - [§ 838-A Maintenance of sexual offense evidence kits](838a-maintenance-of-sexual-offense-evidence-kits.md)
 - [§ 838-B Victim's right to notice](838b-victims-right-to-notice.md)
@@ -113,6 +114,7 @@ Section 835.     Definitions.
         837-w.   Technological viability of microstamping-enabled
                    firearms.
         837-w*2. Cooperation with certain out-of-state investigations.
+        837-w*3. Blue alert system.
         838.     Identification of unknown dead and missing persons.
         838-a.   Maintenance of sexual offense evidence kits.
         838-b.   Victim's right to notice.

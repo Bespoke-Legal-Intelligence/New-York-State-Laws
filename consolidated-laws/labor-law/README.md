@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | LAB |
 | Type | Consolidated law, chapter 31 |
-| Sections | 727 |
-| Last changed | 16 Dec 2022 |
+| Sections | 737 |
+| Last changed | 23 Dec 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Labor |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                                LABOR LAW.
 ```
 
-[Full chapter text (79 lines)](chapter-text.md)
+[Full chapter text (80 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [23 Dec 2022](../../changes/2022/2022-12-23.md): 1 amended, 10 added
 - [16 Dec 2022](../../changes/2022/2022-12-16.md): 3 amended
 - [2 Dec 2022](../../changes/2022/2022-12-02.md): 1 amended, 3 added
 - [25 Nov 2022](../../changes/2022/2022-11-25.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [29 Jul 2022](../../changes/2022/2022-07-29.md): 1 amended
 - [8 Jul 2022](../../changes/2022/2022-07-08.md): 3 amended
 - [1 Jul 2022](../../changes/2022/2022-07-01.md): 1 amended
-- [17 Jun 2022](../../changes/2022/2022-06-17.md): 3 amended
 
 ## Contents
 
@@ -77,6 +77,7 @@ Assembly, do enact as follows:
 - [Article 20-B — Psychological Stress Evaluators and Employment](article-20b-psychological-stress-evaluators-and-employment/)
 - [Article 20-C — Retaliatory Action By Employers](article-20c-retaliatory-action-by-employers/)
 - [Article 21 — New York Call Center Jobs Act](article-21-new-york-call-center-jobs-act/)
+- [Article 21-A — Warehouse Worker Protection Act](article-21a-warehouse-worker-protection-act/)
 - [Article 22 — Boards of Inquiry In Labor Disputes](article-22-boards-of-inquiry-in-labor-disputes/)
 - [Article 22-A — Injunctions In Labor Disputes](article-22a-injunctions-in-labor-disputes/)
 - [Article 23 — Apprenticeship Training](article-23-apprenticeship-training/)

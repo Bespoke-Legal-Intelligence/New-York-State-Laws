@@ -8,7 +8,7 @@
 | Senate code | PBL |
 | Type | Consolidated law, chapter 46 |
 | Sections | 78 |
-| Last changed | 29 Jul 2022 |
+| Last changed | 23 Dec 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Lands |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [23 Dec 2022](../../changes/2022/2022-12-23.md): 1 amended
 - [29 Jul 2022](../../changes/2022/2022-07-29.md): 1 amended
 - [20 Dec 2019](../../changes/2019/2019-12-20.md): 2 amended
 - [2 Dec 2016](../../changes/2016/2016-12-02.md): 1 amended

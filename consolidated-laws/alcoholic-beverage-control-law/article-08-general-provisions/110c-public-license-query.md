@@ -4,7 +4,7 @@
 [Alcoholic Beverage Control Law](../README.md) › [Article 8 — General Provisions](README.md)
 
 ```text
-  * § 110-c. Public license query. 1. The authority shall make available
+  § 110-c. Public license query. 1. The authority shall make available
 to the public all digitally archived information pertaining to any
 conditions it imposes on the operation of a premises licensed by the
 authority pursuant to this chapter, including but not necessarily
@@ -34,5 +34,4 @@ develop or cause to be developed up-grades to their information
 technology systems that will enable greater transparency for applicants
 with respect to their application status and estimated processing times
 for final determination on a license application.
-  * NB Effective December 22, 2022
 ```

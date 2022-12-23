@@ -17,6 +17,7 @@
 - [§ 354-C New York state veteran burial fund](354c-new-york-state-veteran-burial-fund.md)
 - [§ 354-D Time within which marriage may be solemnized; member of the armed forces](354d-time-within-which-marriage-may-be-solemnized-member-of-the-armed-forces.md)
 - [§ 354-E Use of personal confidential information obtained from veterans or family members of veterans receiving services from the state and polit...](354e-use-of-personal-confidential-information-obtained-from-veterans-or-family.md)
+- [§ 354-F Loan counseling for mortgages guaranteed by the Servicemen's Readjustment Act of 1944](354f-loan-counseling-for-mortgages-guaranteed-by-the-servicemens-readjustment-act.md)
 - [§ 355 Acceptance of gifts](355-acceptance-of-gifts.md)
 - [§ 356 State veterans' service agency](356-state-veterans-service-agency.md)
 - [§ 357 Local veterans' service agencies](357-local-veterans-service-agencies.md)
@@ -61,6 +62,8 @@ Section 350.   Definitions.
                  veterans or family members of veterans receiving
                  services from the state and political subdivisions
                  thereof.
+        354-f. Loan counseling for mortgages guaranteed by the
+                 Servicemen's Readjustment Act of 1944.
         355.   Acceptance of gifts.
         356.   State veterans' service agency.
         357.   Local veterans' service agencies.

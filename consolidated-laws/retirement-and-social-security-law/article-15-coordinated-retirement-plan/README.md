@@ -49,11 +49,11 @@
 - [§ 607-G Retirement for disability benefits incurred in the performance of duty; Westchester county district attorney investigators](607g-retirement-for-disability-benefits-incurred-in-the-performance-of-duty.md)
 - [§ 607-H Disability benefits; Westchester county district attorney investigators](607h-disability-benefits-westchester-county-district-attorney-investigators.md)
 - [§ 607-I COVID-19 benefit](607i-covid-19-benefit.md)
-- [§ 607-I\*2 COVID-19 benefit](607i-2-covid-19-benefit.md) *(repealed)*
 - [§ 607-J Performance of duty, disability retirement for chief fire marshals, assistant chief fire marshals, division supervising fire marshals, su...](607j-performance-of-duty-disability-retirement-for-chief-fire-marshals-assistant.md)
 - [§ 607-J\*2 Performance of duty disability retirement benefits for certain first responders in Nassau county](607j-2-performance-of-duty-disability-retirement-benefits-for-certain-first.md)
 - [§ 607-J\*3 Performance of duty disability retirement](607j-3-performance-of-duty-disability-retirement.md)
 - [§ 607-K Certain impairments of health; presumption](607k-certain-impairments-of-health-presumption.md)
+- [§ 607-L Performance of duty disability retirement; division of homeland security and emergency services](607l-performance-of-duty-disability-retirement-division-of-homeland-security.md)
 - [§ 608 Final average salary](608-final-average-salary.md)
 - [§ 609 Credit for service](609-credit-for-service.md)
 - [§ 610 Options](610-options.md)
@@ -163,6 +163,8 @@ Section 600.     Application.
                    certain first responders in Nassau county.
         607-j*3. Performance of duty disability retirement.
         607-k.   Certain impairments of health; presumption.
+        607-l.   Performance of duty disability retirement; division of
+                   homeland security and emergency services.
         608.     Final average salary.
         609.     Credit for service.
         610.     Options.

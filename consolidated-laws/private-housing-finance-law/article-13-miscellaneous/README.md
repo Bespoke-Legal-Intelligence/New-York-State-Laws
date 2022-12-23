@@ -16,6 +16,7 @@
 - [§ 608 Rent regulation of rehabilitated multiple dwellings aided by certain federal housing assistance programs](608-rent-regulation-of-rehabilitated-multiple-dwellings-aided-by-certain-federal.md)
 - [§ 608-A Rent regulation of rehabilitated multiple dwellings acquired and reconveyed by the federal government](608a-rent-regulation-of-rehabilitated-multiple-dwellings-acquired-and-reconveyed.md)
 - [§ 609 This act shall take effect March first, nineteen hundred sixty-two](609-this-act-shall-take-effect-march-first-nineteen-hundred-sixty-two.md)
+- [§ 610 Rental assistance and legal regulated rents](610-rental-assistance-and-legal-regulated-rents.md)
 
 <details>
 <summary>Official heading of Article 13, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -39,6 +40,7 @@ Section 600.   Construction.
         608-a. Rent regulation of rehabilitated multiple dwellings
                  acquired and reconveyed by the federal government.
         609.   When to take effect.
+        610.   Rental assistance and legal regulated rents.
 ```
 
 </details>

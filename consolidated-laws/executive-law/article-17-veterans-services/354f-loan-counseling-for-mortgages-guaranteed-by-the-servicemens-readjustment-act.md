@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 354-F", "kind": "section", "law_id": "EXC", "location_id": "354-F", "path": "ARTICLE 17 › SECTION 354-F", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/354-F.md", "title": "Loan counseling for mortgages guaranteed by the Servicemen's Readjustment Act of 1944"} -->
+# Executive Law § 354-F — Loan counseling for mortgages guaranteed by the Servicemen's Readjustment Act of 1944
+
+[Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
+
+```text
+  * § 354-f. Loan counseling for mortgages guaranteed by the
+Servicemen's Readjustment Act of 1944. Upon the request of any veteran,
+the division shall provide counseling and assistance to applicants for a
+mortgage loan guaranteed by the Servicemen's Readjustment Act of 1944.
+Such service shall be provided either directly or through a contract
+with a not-for-profit entity which has a Commercial and Government
+Entity (CAGE) code assigned by the federal System for Award Management
+and which is not owned by, affiliated with or operated by a mortgage
+company. Counselors shall be licensed in this state as either a real
+estate broker or a mortgage broker. Loan counseling and assistance shall
+include a review of the terms and restrictions of the loan, information
+determined by the state director to be appropriate for a veteran seeking
+a housing loan under chapter 37 of title 38 of the United States Code,
+and any other information which may be required under federal law, rule
+or regulation.
+  * NB Effective April 15, 2023
+  * Repealed April 1, 2023
+```

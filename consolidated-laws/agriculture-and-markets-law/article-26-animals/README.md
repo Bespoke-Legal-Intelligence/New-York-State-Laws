@@ -50,6 +50,8 @@
 - [§ 380\*2 Examination of seized animals or animals taken possession of](380-2-examination-of-seized-animals-or-animals-taken-possession.md)
 - [§ 381 Prohibition of the declawing of cats](381-prohibition-of-the-declawing-of-cats.md)
 - [§ 382 Prohibition of the slaughter of race horses and race horse breeding stock](382-prohibition-of-the-slaughter-of-race-horses-and-race-horse-breeding-stock.md)
+- [§ 383 Examination of seized animals or animals taken possession of](383-examination-of-seized-animals-or-animals-taken-possession.md)
+- [§ 384 Special provisions related to the importation of dogs and cats into the state for sale, resale or adoption](384-special-provisions-related-to-the-importation-of-dogs-and-cats-into-the-state.md)
 
 <details>
 <summary>Official heading of Article 26, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -115,6 +117,8 @@ Section 350.   Definitions.
         381.   Prohibition of the declawing of cats.
         382.   Prohibition of the slaughter of race horses and race
                  horse breeding stock.
+        384.   Special provisions related to the importation of dogs and
+                 cats into the state for sale, resale or adoption.
 ```
 
 </details>

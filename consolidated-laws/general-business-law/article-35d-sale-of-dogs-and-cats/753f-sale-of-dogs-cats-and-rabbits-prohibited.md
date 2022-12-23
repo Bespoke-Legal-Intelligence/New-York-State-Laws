@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 753-F", "kind": "section", "law_id": "GBS", "location_id": "753-F", "path": "ARTICLE 35-D › SECTION 753-F", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/753-F.md", "title": "Sale of dogs, cats and rabbits prohibited"} -->
+# General Business Law § 753-F — Sale of dogs, cats and rabbits prohibited
+
+[General Business Law](../README.md) › [Article 35-D — Sale of Dogs and Cats](README.md)
+
+```text
+  * § 753-f. Sale of dogs, cats and rabbits prohibited. A retail pet
+shop as defined in this article shall not sell, lease, offer to lease,
+offer to sell, barter, auction, or otherwise transfer ownership of any
+dog, cat or rabbit. This section shall not be construed to prohibit a
+retail pet shop from collaborating with the following entities to
+provide space to showcase dogs, cats or rabbits owned by these entities
+for the purpose of adoption; any duly incorporated society for the
+prevention of cruelty to animals, duly incorporated humane society, duly
+incorporated animal protective association or other duly incorporated
+animal adoption or animal rescue organization that is exempt from taxes
+pursuant to paragraph (3) of subsection (c) of section 501 of the
+federal Internal Revenue Code, 26 U.S.C. 501, or any subsequent
+corresponding sections of the federal Internal Revenue Code, as from
+time to time amended, that is registered with the department pursuant to
+section four hundred eight of the agriculture and markets law that is
+not affiliated with, or housed on the premises of a breeder or broker
+that does not obtain dogs, cats or rabbits from a breeder or broker in
+exchange for payment or compensation, and does not resell dogs, cats or
+rabbits obtained from a breeder or broker or provide payment or
+compensation to such breeder or broker.
+  * NB Effective December 15, 2023
+```

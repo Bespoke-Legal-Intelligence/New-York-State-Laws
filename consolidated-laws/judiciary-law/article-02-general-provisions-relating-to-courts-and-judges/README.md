@@ -19,6 +19,7 @@
 - [§ 7-C Continuance of special proceeding before another officer](07c-continuance-of-special-proceeding-before-another-officer.md)
 - [§ 8 Emergency relocations of court terms](08-emergency-relocations-of-court-terms.md)
 - [§ 9 Recusal; reason](09-recusal-reason.md)
+- [§ 10 Courtroom designated the "Judge James F](10-courtroom-designated-the-judge-james-f.md)
 - [§ 13 Court or judge may direct the filing of original stenographic minutes with clerk](13-court-or-judge-may-direct-the-filing-of-original-stenographic-minutes-with-clerk.md)
 - [§ 13-A Power to remove certain officers and to appoint successors](13a-power-to-remove-certain-officers-and-to-appoint-successors.md)
 - [§ 13-B Oath of referee, receiver, commissioner or appraiser](13b-oath-of-referee-receiver-commissioner-or-appraiser.md)
@@ -81,6 +82,8 @@ Section 2.    Courts of record.
         7-c.  Continuance of special proceeding before another officer.
         8.    Emergency relocations of court terms.
         9.    Recusal; reason.
+        10.   Courtroom designated the "Judge James F. Reitz Memorial
+                Courtroom".
         13.   Court or judge may direct the filing of original
                 stenographic minutes with clerk.
         13-a. Power to remove certain officers and to appoint

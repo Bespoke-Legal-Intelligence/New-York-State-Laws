@@ -23,6 +23,7 @@
 - [§ 6712 Exempt persons](6712-exempt-persons.md)
 - [§ 6713 Special provisions](6713-special-provisions.md)
 - [§ 6714 Treatment records](6714-treatment-records.md)
+- [§ 6715 Dispensing information to be provided by veterinarians](6715-dispensing-information-to-be-provided-by-veterinarians.md)
 
 <details>
 <summary>Official heading of Article 135, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -55,6 +56,7 @@ Section 6700.   Introduction.
         6712.   Exempt persons.
         6713.   Special provisions.
         6714.   Treatment records.
+        6715.   Dispensing information to be provided by veterinarians.
 ```
 
 </details>

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | RPA |
 | Type | Consolidated law, chapter 81 |
-| Sections | 330 |
-| Last changed | 25 Nov 2022 |
+| Sections | 344 |
+| Last changed | 23 Dec 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Real Property Actions & Proceedings |
 
@@ -27,10 +27,11 @@ Assembly, do enact as follows:
                 REAL PROPERTY ACTIONS AND PROCEEDINGS LAW
 ```
 
-[Full chapter text (54 lines)](chapter-text.md)
+[Full chapter text (58 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [23 Dec 2022](../../changes/2022/2022-12-23.md): 14 added
 - [25 Nov 2022](../../changes/2022/2022-11-25.md): 1 amended, 1 added
 - [19 Aug 2022](../../changes/2022/2022-08-19.md): 1 amended
 - [5 Aug 2022](../../changes/2022/2022-08-05.md): 1 amended
@@ -40,7 +41,6 @@ Assembly, do enact as follows:
 - [7 Jan 2022](../../changes/2022/2022-01-07.md): 2 amended
 - [31 Dec 2021](../../changes/2021/2021-12-31.md): 1 amended
 - [24 Dec 2021](../../changes/2021/2021-12-24.md): 1 amended
-- [6 Aug 2021](../../changes/2021/2021-08-06.md): 3 amended
 
 ## Contents
 
@@ -53,6 +53,7 @@ Assembly, do enact as follows:
 - [Article 7 — Summary Proceeding to Recover Possession of Real Property](article-07-summary-proceeding-to-recover-possession-of-real/)
 - [Article 7-A — Special Proceedings By Tenants of Dwellings In the City of New York and the Counties of Nassau, Suffolk, Rockland and Westchester For Judgment Directing Deposit of Rents and the Use Thereof For the Purpose of Remedying Conditions Dangerous to Life, Health or Safety](article-07a-special-proceedings-by-tenants-of-dwellings/)
 - [Article 7-B — Special Proceeding For the Removal of Abandoned Manufactured Homes](article-07b-special-proceeding-for-the-removal-of-abandoned/)
+- [Article 7-C — Special Proceedings By Tenants of Dwellings For Judgment Directing Deposit of Rents and the Use Thereof For the Purpose of Remedying Conditions Dangerous to Life, Health or Safety](article-07c-special-proceedings-by-tenants-of-dwellings/)
 - [Article 8 — Waste and Other Actions and Rights of Action For Injury to Real Property](article-08-waste-and-other-actions-and-rights-of-action/)
 - [Article 9 — Action For Partition](article-09-action-for-partition/)
 - [Article 10 — Action For Dower](article-10-action-for-dower/)

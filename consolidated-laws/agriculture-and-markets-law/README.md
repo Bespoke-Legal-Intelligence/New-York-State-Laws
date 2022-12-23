@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | AGM |
 | Type | Consolidated law, chapter 69 |
-| Sections | 688 |
-| Last changed | 16 Dec 2022 |
+| Sections | 705 |
+| Last changed | 23 Dec 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Agriculture & Markets |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER 69 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (103 lines)](chapter-text.md)
+[Full chapter text (104 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [23 Dec 2022](../../changes/2022/2022-12-23.md): 5 amended, 17 added
 - [16 Dec 2022](../../changes/2022/2022-12-16.md): 1 amended
 - [9 Dec 2022](../../changes/2022/2022-12-09.md): 1 amended
 - [2 Dec 2022](../../changes/2022/2022-12-02.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [24 Jun 2022](../../changes/2022/2022-06-24.md): 5 amended
 - [4 Mar 2022](../../changes/2022/2022-03-04.md): 9 amended
 - [25 Feb 2022](../../changes/2022/2022-02-25.md): 1 amended
-- [31 Dec 2021](../../changes/2021/2021-12-31.md): 1 amended, 5 added, 1 removed
 
 ## Contents
 
@@ -108,6 +108,7 @@ Assembly, do enact as follows:
 - [Article 26 — Animals](article-26-animals/)
 - [Article 26-A — Care of Animals By Pet Dealers](article-26a-care-of-animals-by-pet-dealers/)
 - [Article 26-B — Emergency Response Services For Animals](article-26b-emergency-response-services-for-animals/)
+- [Article 26-C — Regulation of Animal Shelters](article-26c-regulation-of-animal-shelters/)
 - [Article 27 — Nourish New York](article-27-nourish-new-york/)
 - [Article 28 — Special Powers and Duties of the Department With Respect to Retail Food Stores, Food Service Establishments and Food Warehouses](article-28-special-powers-and-duties-of-the-department/)
 - [Article 29 — Growth of Hemp](article-29-growth-of-hemp/)
