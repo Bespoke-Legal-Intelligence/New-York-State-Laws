@@ -8,7 +8,7 @@
 | Senate code | VAT |
 | Type | Consolidated law, chapter 71 |
 | Sections | 962 (1 repealed) |
-| Last changed | 2 Dec 2022 |
+| Last changed | 30 Dec 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Vehicle & Traffic |
 
@@ -33,6 +33,7 @@ to enact as follows:
 
 ## Recent changes
 
+- [30 Dec 2022](../../changes/2022/2022-12-30.md): 1 amended
 - [2 Dec 2022](../../changes/2022/2022-12-02.md): 1 amended
 - [25 Nov 2022](../../changes/2022/2022-11-25.md): 1 amended
 - [18 Nov 2022](../../changes/2022/2022-11-18.md): 2 amended
@@ -42,7 +43,6 @@ to enact as follows:
 - [19 Aug 2022](../../changes/2022/2022-08-19.md): 2 amended
 - [29 Jul 2022](../../changes/2022/2022-07-29.md): 3 amended
 - [22 Jul 2022](../../changes/2022/2022-07-22.md): 1 amended
-- [8 Jul 2022](../../changes/2022/2022-07-08.md): 10 amended, 3 added, 1 repealed, 1 removed
 
 ## Contents
 

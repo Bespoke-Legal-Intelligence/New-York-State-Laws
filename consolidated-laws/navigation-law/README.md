@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | NAV |
 | Type | Consolidated law, chapter 37 |
-| Sections | 219 |
-| Last changed | 23 Dec 2022 |
+| Sections | 220 |
+| Last changed | 30 Dec 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Navigation |
 
@@ -23,7 +23,7 @@
                              NAVIGATION LAW
 Article  1.   Short title and definitions (§§ 1-2).
          2.   Administration (§§ 10-20).
-         3.   Navigable waters of the state (§§ 30--39-a).
+         3.   Navigable waters of the state (§§ 30--39-b).
          4.   Vessels (§§ 40-79).
          4-A. Enforcement by counties (§§ 79-a--79-c).
          5.   Tidewater navigation (§§ 80-86).
@@ -33,6 +33,7 @@ Article  1.   Short title and definitions (§§ 1-2).
 
 ## Recent changes
 
+- [30 Dec 2022](../../changes/2022/2022-12-30.md): 1 added
 - [23 Dec 2022](../../changes/2022/2022-12-23.md): 1 amended
 - [29 Jul 2022](../../changes/2022/2022-07-29.md): 3 amended
 - [8 Jul 2022](../../changes/2022/2022-07-08.md): 1 amended
@@ -42,7 +43,6 @@ Article  1.   Short title and definitions (§§ 1-2).
 - [8 Jan 2021](../../changes/2021/2021-01-08.md): 1 amended
 - [18 Dec 2020](../../changes/2020/2020-12-18.md): 1 amended
 - [24 Apr 2020](../../changes/2020/2020-04-24.md): 3 amended
-- [10 Jan 2020](../../changes/2020/2020-01-10.md): 2 amended
 
 ## Contents
 

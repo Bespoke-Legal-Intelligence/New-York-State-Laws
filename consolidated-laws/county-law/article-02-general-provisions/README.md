@@ -10,6 +10,7 @@
 - [§ 52 Presentation of claims for torts; commencement of actions](52-presentation-of-claims-for-torts-commencement-of-actions.md)
 - [§ 53 Liability of county for torts](53-liability-of-county-for-torts.md)
 - [§ 54 Personal liability of heads of agencies](54-personal-liability-of-heads-of-agencies.md)
+- [§ 55 County websites](55-county-websites.md)
 
 <details>
 <summary>Official heading of Article 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -22,6 +23,7 @@ Section 50. When county divided or boundaries altered.
         52. Presentation of claims for torts; commencement of actions.
         53. Liability of county for torts.
         54. Personal liability of heads of agencies.
+        55. County websites.
 ```
 
 </details>

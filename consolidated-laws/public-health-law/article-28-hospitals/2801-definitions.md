@@ -113,4 +113,20 @@ or central service facility serving more than one institution.
   11. "Midwifery birth center" means a hospital engaged principally in
 providing prenatal and obstetric care, where such services are provided
 principally by midwives.
+  * 12. "Facility fee" means any fee charged or billed by a hospital or
+by a health care professional authorized under title eight of the
+education law that is: (a) intended to compensate the hospital or health
+care professional for the operational expenses regardless of the
+modality through which the health care services are provided; and (b)
+separate and distinct from a professional fee. "Facility fee" shall not
+include any fee charged or billed by a residential health care facility.
+  * NB Effective June 21, 2023
+  * 13. "Health system" means a group of one or more hospitals and
+providers affiliated through ownership, governance, membership or other
+means.
+  * NB Effective June 21, 2023
+  * 14. "Provider" means an individual or entity, whether for profit or
+nonprofit, whose primary purpose is to provide professional health care
+services.
+  * NB Effective June 21, 2023
 ```

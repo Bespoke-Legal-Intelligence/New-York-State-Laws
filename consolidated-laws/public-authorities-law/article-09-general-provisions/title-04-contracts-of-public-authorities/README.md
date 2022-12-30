@@ -10,6 +10,7 @@
 - [§ 2875-B Specifications](2875b-specifications.md)
 - [§ 2876 Disqualification to contract with public authority](2876-disqualification-to-contract-with-public-authority.md)
 - [§ 2877 Removal of disqualification of public contractors by petition](2877-removal-of-disqualification-of-public-contractors.md)
+- [§ 2877-A The New York state buy American salt act](2877a-the-new-york-state-buy-american-salt-act.md)
 - [§ 2603-A Letting of certain contracts involving steel products](2603a-letting-of-certain-contracts-involving-steel-products.md)
 - [§ 2878 Statement of non-collusion in bids or proposals to public authority](2878-statement-of-non-collusion-in-bids-or-proposals-to-public.md)
 - [§ 2878-A Purchasing of products](2878a-purchasing-of-products.md)
@@ -34,6 +35,7 @@ Section 2875.   Ground for cancellation of contract by public authority.
         2876.   Disqualification to contract with public authority.
         2877.   Removal of disqualification of public contractors by
                   petition.
+        2877-a. The New York state buy American salt act.
         2603-a. Letting of certain contracts involving steel products.
         2878.   Statement of non-collusion in bids or proposals to
                   public authority.

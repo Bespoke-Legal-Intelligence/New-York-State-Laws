@@ -12,6 +12,7 @@
 - [§ 202-A Language translation services](202a-language-translation-services.md)
 - [§ 203 Additional duties of the commissioner](203-additional-duties-of-the-commissioner.md)
 - [§ 203-A Additional duties of the commissioner regarding flood related losses](203a-additional-duties-of-the-commissioner-regarding-flood-related-losses.md)
+- [§ 203-B Additional duties of the commissioner regarding information on state boards](203b-additional-duties-of-the-commissioner-regarding-information-on-state-boards.md)
 
 <details>
 <summary>Official heading of Article 10, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -27,6 +28,8 @@ Section 200.   Office of general services.
         203.   Additional duties of the commissioner.
         203-a. Additional duties of the commissioner regarding flood
                related losses.
+        203-b. Additional duties of the commissioner regarding
+               information on state boards.
 ```
 
 </details>

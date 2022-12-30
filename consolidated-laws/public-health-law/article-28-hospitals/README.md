@@ -153,6 +153,7 @@
 - [§ 2828\*2 Essential support persons allowed for individuals with disabilities during a state of emergency](2828-2-essential-support-persons-allowed-for-individuals-with-disabilities-during.md)
 - [§ 2829 Nursing homes; disclosure requirements](2829-nursing-homes-disclosure-requirements.md)
 - [§ 2830 Surgical smoke evacuation](2830-surgical-smoke-evacuation.md)
+- [§ 2830\*2 Regulation of the billing of facility fees](2830-2-regulation-of-the-billing-of-facility-fees.md)
 
 <details>
 <summary>Official heading of Article 28, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -373,6 +374,7 @@ Section 2800.      Declaration of policy and statement of purpose.
                      with disabilities during a state of emergency.
         2829.      Nursing homes; disclosure requirements.
         2830.      Surgical smoke evacuation.
+        2830*2.    Regulation of the billing of facility fees.
 ```
 
 </details>

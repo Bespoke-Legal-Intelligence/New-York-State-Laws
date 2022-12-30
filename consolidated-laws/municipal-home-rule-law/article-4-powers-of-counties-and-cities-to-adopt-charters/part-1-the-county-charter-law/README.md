@@ -12,21 +12,23 @@
 - [§ 33-A Transfer of functions or duties of local governments and districts](33a-transfer-of-functions-or-duties-of-local.md)
 - [§ 34 Limitations and restrictions](34-limitations-and-restrictions.md)
 - [§ 35 Legislative intent; construction](35-legislative-intent-construction.md)
+- [§ 35-A County websites](35a-county-websites.md)
 
 <details>
 <summary>Official heading of Part 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
                                  PART 1
-                          THE COUNTY CHARTER LAW
+                         THE COUNTY CHARTER LAW
 Section 30.   Short title.
         31.   Application.
         32.   Definitions.
         33.   Power to adopt, amend and repeal county charters.
-        33-a. Transfer  of  functions or duties of local governments and
-                districts.
+        33-a. Transfer of functions or duties of local governments
+                and districts.
         34.   Limitations and restrictions.
         35.   Legislative intent; construction.
+        35-a. County websites.
 ```
 
 </details>

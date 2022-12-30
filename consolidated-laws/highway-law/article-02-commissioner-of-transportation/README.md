@@ -16,12 +16,14 @@
 - [§ 10-G Hudson Valley suburban highway improvement program](10g-hudson-valley-suburban-highway-improvement-program.md)
 - [§ 11 Maps, plans, specifications and estimates](11-maps-plans-specifications-and-estimates.md)
 - [§ 12 Commissioner to provide for maintenance, repair, and for control of snow and ice; roads and driveways on state lands](12-commissioner-to-provide-for-maintenance-repair-and-for-control-of-snow-and-ice.md)
+- [§ 12-A The New York state buy American salt act](12a-the-new-york-state-buy-american-salt-act.md)
 - [§ 13 Qualifications of certain employees](13-qualifications-of-certain-employees.md)
 - [§ 14 Rules and regulations for state highways](14-rules-and-regulations-for-state-highways.md)
 - [§ 15 Removal of vehicles](15-removal-of-vehicles.md)
 - [§ 16 Removal of noxious weeds and brush within state highways](16-removal-of-noxious-weeds-and-brush-within-state-highways.md)
 - [§ 17 Public hearings](17-public-hearings.md)
 - [§ 19 Planting trees and shrubs along state highways](19-planting-trees-and-shrubs-along-state-highways.md)
+- [§ 19-A Pollinator friendly plant species; medians](19a-pollinator-friendly-plant-species-medians.md)
 - [§ 20 Roadside rest areas](20-roadside-rest-areas.md)
 - [§ 21 Restoration, preservation and enhancement of natural or scenic beauty](21-restoration-preservation-and-enhancement-of-natural-or-scenic-beauty.md)
 - [§ 22 Multi-use areas adjacent to and recreational, natural and scenic areas along state highways](22-multi-use-areas-adjacent-to-and-recreational-natural-and-scenic-areas-along.md)
@@ -48,12 +50,15 @@ Section 10.   General powers and duties of the commissioner of
         12.   Commissioner to provide for maintenance, repair, and for
                 control of snow and ice; roads and driveways on state
                 lands.
+        12-a. The New York state buy American salt act. 1. Use of
+                American materials.
         13.   Qualifications of certain employees.
         14.   Rules and regulations for state highways.
         15.   Removal of vehicles.
         16.   Removal of noxious weeds and brush within state highways.
         17.   Public hearings.
         19.   Planting trees and shrubs along state highways.
+        19-a. Pollinator friendly plant species; medians.
         20.   Roadside rest areas.
         21.   Restoration, preservation and enhancement of natural or
                 scenic beauty.

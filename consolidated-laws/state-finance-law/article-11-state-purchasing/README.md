@@ -8,6 +8,7 @@
 - [§ 160 Definitions](160-definitions.md)
 - [§ 161 State procurement council](161-state-procurement-council.md)
 - [§ 162 Preferred sources](162-preferred-sources.md)
+- [§ 162-A The New York state buy American salt act](162a-the-new-york-state-buy-american-salt-act.md)
 - [§ 163 Purchasing services and commodities](163-purchasing-services-and-commodities.md)
 - [§ 163-A Vendor preparation of specifications for technology procurements; prohibitions](163a-vendor-preparation-of-specifications-for-technology-procurements-prohibitions.md)
 - [§ 163-B Environmentally-sensitive cleaning and maintenance products](163b-environmentally-sensitive-cleaning-and-maintenance-products.md)
@@ -27,6 +28,8 @@
 Section 160.   Definitions.
         161.   State procurement council.
         162.   Preferred sources.
+        162-a. The New York state buy American salt act. 1. Use of
+                 American materials.
         163.   Purchasing services and commodities.
         163-a. Vendor preparation of specifications for technology
                  procurements; prohibitions.

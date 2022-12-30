@@ -31,6 +31,7 @@
 - [§ 230 Right of tenants to form, join or participate in tenants' groups](230-right-of-tenants-to-form-join-or-participate-in-tenants-groups.md)
 - [§ 231 Lease, when void; liability of landlord where premises are occupied for unlawful purpose](231-lease-when-void-liability-of-landlord-where-premises-are-occupied-for-unlawful.md)
 - [§ 231-A Sprinkler system notice in residential leases](231a-sprinkler-system-notice-in-residential-leases.md)
+- [§ 231-B Flood history and risk notice in residential leases](231b-flood-history-and-risk-notice-in-residential-leases.md)
 - [§ 232 Duration of certain agreements in New York](232-duration-of-certain-agreements-in-new-york.md)
 - [§ 232-A Notice to terminate monthly tenancy or tenancy from month to month in the city of New York](232a-notice-to-terminate-monthly-tenancy-or-tenancy-from-month-to-month-in-the-city.md)
 - [§ 232-B Notification to terminate monthly tenancy or tenancy from month to month outside the city of New York](232b-notification-to-terminate-monthly-tenancy-or-tenancy-from-month-to-month-outside.md)
@@ -101,6 +102,7 @@ Section  220.     Action for use and occupation.
          231.     Lease, when void; liability of landlord where premises
                     are occupied for unlawful purpose.
          231-a.   Sprinkler system notice in residential leases.
+         231-b.   Flood history and risk notice in residential leases.
          232.     Duration of certain agreements in New York.
          232-a.   Notice to terminate monthly tenancy or tenancy from
                     month to month in the city of New York.

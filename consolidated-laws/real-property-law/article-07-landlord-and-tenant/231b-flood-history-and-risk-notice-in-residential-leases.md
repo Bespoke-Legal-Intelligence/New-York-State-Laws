@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Real Property Law § 231-B", "kind": "section", "law_id": "RPP", "location_id": "231-B", "path": "ARTICLE 7 › SECTION 231-B", "repealed": false, "repealed_date": null, "source": "nys-laws:RPP/231-B.md", "title": "Flood history and risk notice in residential leases"} -->
+# Real Property Law § 231-B — Flood history and risk notice in residential leases
+
+[Real Property Law](../README.md) › [Article 7 — Landlord and Tenant](README.md)
+
+```text
+  * § 231-b. Flood history and risk notice in residential leases. 1.
+Every residential lease shall provide notice of the following
+information related to the previous flood history and current flood risk
+of the leased premises, as follows:
+  (a) whether any or all of the leased premises is located wholly or
+partially in a Federal Emergency Management Agency ("FEMA") designated
+floodplain;
+  (b) whether any or all of the leased premises is located wholly or
+partially in the Special Flood Hazard Area ("SFHA"; "100-year
+floodplain") according to FEMA's current Flood Insurance Rate Maps for
+the leased premises' area;
+  (c) whether any or all of the leased premises is located wholly or
+partially in a Moderate Risk Flood Hazard Area ("500-year floodplain")
+according to FEMA's current Flood Insurance Rate Maps for the leased
+premises' area; and
+  (d) whether the leased premises has experienced any flood damage due
+to a natural flood event, such as heavy rainfall, coastal storm surge,
+tidal inundation, or river overflow.
+  2. Every residential lease shall also contain the following notice to
+tenants: "Flood insurance is available to renters through the Federal
+Emergency Management Agency's (FEMA's) National Flood Insurance Program
+(NFIP) to cover your personal property and contents in the event of a
+flood. A standard renter's insurance policy does not typically cover
+flood damage. You are encouraged to examine your policy to determine
+whether you are covered."
+  * NB Effective June 21, 2023
+```

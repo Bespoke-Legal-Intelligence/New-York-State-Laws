@@ -7581,8 +7581,13 @@ provision of important community services, such as dental care and
 prenatal care;
   (ii) is a public hospital operated by a county, municipality, public
 benefit corporation or the state university of New York;
-  (iii) is federally designated as a critical access hospital; or
-  (iv) is federally designated as a sole community hospital.
+  (iii) is an acute children's hospital licensed by the department
+primarily for the provision of pediatric and neonatal services for which
+a discrete institutional cost report was filed for the past three
+calendar years, and which has medicaid discharges in excess of fifty
+percent of its total discharges;
+  (iv) is federally designated as a critical access hospital; or
+  (v) is federally designated as a sole community hospital.
   (b) Within amounts appropriated, the commissioner shall adjust medical
 assistance rates to enhanced safety net hospitals for the purposes of
 supporting critically needed health care services and to ensure the

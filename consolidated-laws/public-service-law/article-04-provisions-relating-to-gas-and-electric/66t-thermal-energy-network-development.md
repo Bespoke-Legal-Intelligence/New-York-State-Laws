@@ -4,7 +4,7 @@
 [Public Service Law](../README.md) › [Article 4 — Provisions Relating to Gas and Electric Corporations; Regulation of Price of Gas and Electricity](README.md)
 
 ```text
-  § 66-t. Thermal energy network development. 1. The public service
+  * § 66-t. Thermal energy network development. 1. The public service
 commission shall initiate a proceeding within three months of the
 effective date of this section to support the development of thermal
 energy networks for the purpose of meeting the greenhouse gas emissions
@@ -88,4 +88,5 @@ the department of labor. The department of labor shall update and
 provide such list to the gas or electric corporation ninety days prior
 to purchase, acquisition, and/or construction of any thermal energy
 network created under this section.
+  * NB There are 2 § 66-t's
 ```

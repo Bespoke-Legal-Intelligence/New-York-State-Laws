@@ -532,7 +532,7 @@ budget.
 pursuant to article one hundred fifty-four of the education law acting
 within their scope of practice, where such services would otherwise be
 covered under this title.
-  (jj) pre-natal and post-partum care and services for the purpose of
+  * (jj) pre-natal and post-partum care and services for the purpose of
 improving maternal health outcomes and reduction of maternal mortality
 when such services are recommended by a physician or other health care
 practitioner authorized under title eight of the education law, and
@@ -547,6 +547,13 @@ not take effect unless there is federal financial participation. Nothing
 in this paragraph shall be construed to modify any licensure,
 certification or scope of practice provision under title eight of the
 education law.
+  * NB There are 2 par (jj)'s
+  * (jj) applied behavior analysis, under article one hundred
+sixty-seven of the education law, provided by a person licensed,
+certified, or otherwise authorized to provide applied behavior analysis
+under that article.
+  * NB Effective June 21, 2023
+  * NB There are 2 par (jj)'s
   3. Any inconsistent provisions of this section notwithstanding,
 medical assistance shall include:
   (a) early and periodic screening and diagnosis of eligible persons

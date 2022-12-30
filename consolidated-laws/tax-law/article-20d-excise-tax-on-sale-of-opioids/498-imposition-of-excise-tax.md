@@ -92,7 +92,11 @@ controlled substance in each container of the opioid sold;
   (vii) the total number of morphine milligram equivalents sold; and
   (viii) any other elements as deemed necessary by the commissioner of
 health.
-  Such information shall be reported annually in such form as defined by
-the commissioner of health and shall not be subject to the provisions of
-section four hundred ninety-nine of this article.
+  Such information shall be reported and published annually in such form
+as defined by the commissioner of health and shall not be subject to the
+provisions of section four hundred ninety-nine of this article, with the
+exception of paragraph (ii) of this subdivision. The information
+collected in such report shall be made available to the public in
+machine-readable formats and such report shall be made publicly
+available on the department of health's website.
 ```

@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Highway Law § 19-A", "kind": "section", "law_id": "HAY", "location_id": "19-A", "path": "ARTICLE 2 › SECTION 19-A", "repealed": false, "repealed_date": null, "source": "nys-laws:HAY/19-A.md", "title": "Pollinator friendly plant species; medians"} -->
+# Highway Law § 19-A — Pollinator friendly plant species; medians
+
+[Highway Law](../README.md) › [Article 2 — Commissioner of Transportation](README.md)
+
+```text
+  * § 19-a. Pollinator friendly plant species; medians. 1. The
+commissioner shall, in cooperation with the department of environmental
+conservation, develop policies and procedures to encourage the use of
+native plant species that are pollinator friendly in medians along
+highways under the jurisdiction of the department and to encourage and
+provide technical assistance to counties, cities, towns and villages in
+the use of native plant species that are pollinator friendly in medians
+along highways under the respective jurisdiction of such counties,
+cities, towns and villages.
+  2. The commissioner shall develop policies and procedures for mowing
+medians located along highways on the state system of highways that
+will, wherever feasible and consistent with standards of safety for
+motor vehicle operators, cyclists, and pedestrians, reduce the amount of
+area within such highway medians that is mowed.
+  * NB Effective June 21, 2023
+```

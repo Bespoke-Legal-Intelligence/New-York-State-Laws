@@ -271,4 +271,70 @@ program in obtaining useful forensic evidence in sexual offense cases
 and assuring quality treatment to sex offense victims. Such report shall
 also recommend whether this program should be expanded and shall
 estimate the financial cost, if any, of such expansion.
+  8. (a) The division of criminal justice services in consultation with
+the department, the office of victim services, the division of state
+police, and the New York State Coalition Against Sexual Assault shall
+develop and implement a statewide electronic tracking system for
+evidence collection kits used to collect and preserve evidence of a
+sexual assault or other sex offense.
+  (b) The division of criminal justice services shall implement
+protocols and administer the statewide electronic tracking system. The
+division of criminal justice services shall promulgate rules and
+guidelines to ensure that previously untested sexual assault evidence
+collection kits are trackable and are entered into the statewide
+electronic tracking system developed pursuant to this subdivision, and
+that survivors are given notice of how they may track their own sexual
+assault evidence collection kit. Any law enforcement agency, medical
+provider or forensic laboratory that has in its custody a previously
+untested sexual assault evidence collection kit used for a forensic
+medical examination shall comply with the established protocols, rules
+and guidelines relating to all such untested sexual assault evidence
+collection kits. To the extent practicable, in collaboration with rape
+crisis and local victim assistance organizations, and consistent with
+protecting victim confidentiality for unreported sexual assaults, a law
+enforcement agency having custody of a previously untested sexual
+assault evidence collection kit shall take reasonable measures to
+provide appropriate tracking information to the affected survivor.
+  (c) The statewide electronic tracking system shall:
+  (1) Track the location and status of each evidence collection kit
+through the criminal justice process, including the initial collection
+of evidence for the kit in a forensic medical examination performed at a
+healthcare facility, receipt and storage of the evidence collection kit
+at a law enforcement agency, receipt and analysis of the evidence
+collection kit at an accredited crime laboratory, and storage and
+destruction of the kit after the applicable evidence is analyzed;
+  (2) Allow a healthcare facility performing a forensic medical
+examination of a survivor, law enforcement agency, accredited crime
+laboratory, prosecutor or other entity providing a chain of custody for
+an evidence collection kit to update and track the status and location
+of the kits; and
+  (3) Allow a survivor to anonymously track or receive updates regarding
+the status and location of such survivor's evidence collection kit.
+  (d) No later than January first, two thousand twenty-four, the
+department shall require participation in the statewide electronic
+tracking system established pursuant to this subdivision by all medical
+providers, law enforcement agencies, forensic laboratories or other
+persons or entities having custody or use of any sexual assault evidence
+collection kit in the state. Such entities shall participate in the
+tracking system and comply with all established protocols, rules and
+guidelines. A participating entity shall be permitted to access the
+entity's tracking information through the statewide electronic tracking
+system.
+  (e) Records entered into the tracking system are confidential. Records
+relating to an evidence collection kit may be accessed only by:
+  (1) the survivor for whom the evidence collection kit was completed;
+or
+  (2) an employee of an entity described by paragraph (d) of this
+subdivision for purposes of updating or tracking the status or location
+of the evidence collection kit.
+  (f) For purposes of this section:
+  (1) "previously untested sexual assault evidence collection kit" shall
+mean an evidence collection kit that has not undergone forensic testing;
+  (2) "evidence collection kit" shall mean a human biological specimen
+or specimens collected by a healthcare provider during a forensic
+medical examination from the victim of a sexual assault or other sex
+offense; and
+  (3) "survivor" shall mean an individual who is the victim of a sexual
+offense from whom a human biological specimen or specimens collected by
+a healthcare provider during a forensic medical examination.
 ```

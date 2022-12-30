@@ -21,6 +21,7 @@
 - [§ 104-A Purchasing of products for public use](104a-purchasing-of-products-for-public-use.md)
 - [§ 104-B Procurement policies and procedures](104b-procurement-policies-and-procedures.md)
 - [§ 104-C Disposal of surplus computer equipment](104c-disposal-of-surplus-computer-equipment.md)
+- [§ 104-D The New York state buy American salt act](104d-the-new-york-state-buy-american-salt-act.md)
 - [§ 105 Disposition of deposit accompanying bid](105-disposition-of-deposit-accompanying-bid.md)
 - [§ 106 Withdrawal of retained percentages](106-withdrawal-of-retained-percentages.md)
 - [§ 106-A Service charge for receiving, handling and disbursing funds and coupons](106a-service-charge-for-receiving-handling-and-disbursing-funds-and-coupons.md)
@@ -62,6 +63,7 @@ Section 100.   Definitions.
         104-a. Purchasing of products for public use.
         104-b. Procurement policies and procedures.
         104-c. Disposal of surplus computer equipment.
+        104-d. The New York state buy American salt act.
         105.   Disposition of deposit accompanying bid.
         106.   Withdrawal of retained percentages.
         106-a. Service charge for receiving, handling and disbursing

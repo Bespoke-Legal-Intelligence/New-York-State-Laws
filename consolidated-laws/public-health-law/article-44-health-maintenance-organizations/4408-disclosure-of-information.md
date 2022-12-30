@@ -264,4 +264,13 @@ not be affiliated with an insurer, a corporation subject to article
 forty-three of the insurance law, a municipal cooperative health benefit
 plan certified pursuant to article forty-seven of the insurance law, or
 a health maintenance organization certified pursuant to this article.
+  * 8. Space shall be provided on any form required of enrollees so that
+the eligible individual shall register or decline registration in the
+donate life registry for organ, eye and tissue donations under this
+section and that the following is stated on the form in clear and
+conspicuous type:
+  "You must fill out the following section: Would you like to be added
+to the Donate Life Registry? Check box for 'yes' or 'skip this
+question'."
+  * NB Effective June 21, 2023
 ```

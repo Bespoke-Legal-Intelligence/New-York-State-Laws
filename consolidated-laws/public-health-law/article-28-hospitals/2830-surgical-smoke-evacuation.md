@@ -19,5 +19,6 @@ evacuation equipment and technologies designed to capture, filter and
 remove surgical smoke at the site of origin and before the surgical
 smoke makes ocular contact or contact with the respiratory tract of any
 individual.
+  * NB There are 2 § 2830's
   * NB Effective June 14, 2023
 ```

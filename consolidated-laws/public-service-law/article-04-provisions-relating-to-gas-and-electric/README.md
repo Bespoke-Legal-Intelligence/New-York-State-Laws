@@ -3,6 +3,8 @@
 
 [Public Service Law](../README.md)
 
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
 ## Contents
 
 - [§ 64 Application of article](64-application-of-article.md)
@@ -28,7 +30,9 @@
 - [§ 66-Q Gas and electric billing information for residential rental premises](66q-gas-and-electric-billing-information-for-residential-rental-premises.md)
 - [§ 66-R Requirements for certain renewable energy systems](66r-requirements-for-certain-renewable-energy-systems.md)
 - [§ 66-S Electric vehicle charging; commercial tariff](66s-electric-vehicle-charging-commercial-tariff.md)
+- [§ 66-S\*2 Gas safety reports](66s-2-gas-safety-reports.md)
 - [§ 66-T Thermal energy network development](66t-thermal-energy-network-development.md)
+- [§ 66-T\*2 Registration of energy brokers and energy consultants](66t-2-registration-of-energy-brokers-and-energy-consultants.md)
 - [§ 67 Inspection of gas and electric meters](67-inspection-of-gas-and-electric-meters.md)
 - [§ 67-A Charges for past services](67a-charges-for-past-services.md)
 - [§ 68 Certificate of public convenience and necessity](68-certificate-of-public-convenience-and-necessity.md)
@@ -41,6 +45,7 @@
 - [§ 72 Notice and hearing; order fixing price of gas or electricity or requiring improvement](72-notice-and-hearing-order-fixing-price-of-gas-or-electricity-or-requiring.md)
 - [§ 72-A Increased fuel costs](72a-increased-fuel-costs.md)
 - [§ 73 Compensation to customers experiencing widespread prolonged outages](73-compensation-to-customers-experiencing-widespread-prolonged-outages.md)
+- [§ 73-A Prioritization of emergency services](73a-prioritization-of-emergency-services.md)
 - [§ 74 Energy storage deployment policy](74-energy-storage-deployment-policy.md)
 - [§ 74-A Westchester county renewable energy and energy efficiency resources program](74a-westchester-county-renewable-energy-and-energy-efficiency-resources-program.md)
 - [§ 74-B Long Island community choice aggregation programs](74b-long-island-community-choice-aggregation-programs.md)
@@ -94,7 +99,9 @@ Section 64.     Application of article.
                   rental premises.
         66-r.   Requirements for certain renewable energy systems.
         66-s.   Electric vehicle charging; commercial tariff.
+        66-s*2. Gas safety reports.
         66-t.   Thermal energy network development.
+        66-t*2. Registration of energy brokers and energy consultants.
         67.     Inspection of gas and electric meters.
         67-a.   Charges for past services.
         68.     Certificate of public convenience and necessity.
@@ -113,6 +120,7 @@ Section 64.     Application of article.
         72-a.   Increased fuel costs.
         73.     Compensation to customers experiencing widespread
                   prolonged outages.
+        73-a.   Prioritization of emergency services.
         74.     Energy storage deployment policy.
         74-a.   Westchester county renewable energy and energy
                   efficiency resources program.

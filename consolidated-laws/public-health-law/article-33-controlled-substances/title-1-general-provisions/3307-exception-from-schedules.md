@@ -40,7 +40,7 @@ of section three thousand three hundred six of this article; and (b)
 such ingredients are included therein in such combinations, quantity,
 proportion or concentration as to substantially reduce the potential for
 abuse.
-  5. The commissioner may by regulation or emergency regulation,
+  5. The commissioner shall by regulation or emergency regulation,
 reclassify any compound, mixture or preparation containing any substance
 listed in Schedule I of section three thousand three hundred six of this
 title as a Schedule II, III, IV or V substance, or exempt it from this

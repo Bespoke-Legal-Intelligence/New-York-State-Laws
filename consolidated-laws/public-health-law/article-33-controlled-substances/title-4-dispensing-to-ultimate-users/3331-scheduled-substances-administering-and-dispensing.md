@@ -89,4 +89,25 @@ this paragraph shall not apply in the case of patients who are being
 treated for cancer that is not in remission, who are in hospice or other
 end-of-life care, or whose pain is being treated as part of palliative
 care practices.
+  9. (a) When a patient seeks treatment for any neuromusculoskeletal
+condition that causes pain, where a practitioner considers an opioid
+treatment, the practitioner shall consider, discuss with the patient,
+and, as appropriate, refer or prescribe non-opioid treatment
+alternatives, based on the practitioner's clinical judgment and
+following generally accepted national professional or treatment
+guidelines, and consistent with patient preference and consent, before
+starting a patient on opioid treatment. For the purposes of this
+subdivision, non-opioid treatment alternatives include, but are not
+limited to: acupuncture, chiropractic, massage therapy, physical
+therapy, occupational therapy, cognitive behavioral therapy, non-opioid
+medications, interventional treatments and non-clinical activities such
+as exercise. The practitioner shall inform the patient that some
+treatments may not be covered by the patient's health coverage.
+  (b) The requirements of this subdivision shall not apply for patients
+being treated under any of the following circumstances: treatment of
+cancer; hospice or other end-of-life care; post-surgery treatment
+immediately following a surgical procedure; or in a medical emergency.
+For purposes of this subdivision, "medical emergency" means an acute
+injury or illness that poses an immediate risk to a person's life or
+health.
 ```

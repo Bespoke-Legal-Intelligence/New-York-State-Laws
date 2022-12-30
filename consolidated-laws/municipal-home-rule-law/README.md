@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | MHR |
 | Type | Consolidated law, chapter 36-A |
-| Sections | 34 |
-| Last changed | 29 Oct 2021 |
+| Sections | 35 |
+| Last changed | 30 Dec 2022 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Municipal Home Rule |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [30 Dec 2022](../../changes/2022/2022-12-30.md): 1 added
 - [29 Oct 2021](../../changes/2021/2021-10-29.md): 2 amended
 - [11 Jan 2019](../../changes/2019/2019-01-11.md): 1 amended
 - [31 Aug 2018](../../changes/2018/2018-08-31.md): 1 amended
