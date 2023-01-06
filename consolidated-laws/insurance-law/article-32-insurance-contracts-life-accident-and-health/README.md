@@ -33,6 +33,7 @@
 - [§ 3217-G Maternal depression screenings](3217g-maternal-depression-screenings.md)
 - [§ 3217-H Telehealth delivery of services](3217h-telehealth-delivery-of-services.md)
 - [§ 3217-I Essential health benefits package and limit on cost-sharing](3217i-essential-health-benefits-package-and-limit-on-cost-sharing.md)
+- [§ 3217-J Coverage for medically fragile children](3217j-coverage-for-medically-fragile-children.md)
 - [§ 3218 Medicare supplemental insurance policies](3218-medicare-supplemental-insurance-policies.md)
 - [§ 3219 Annuity and pure endowment contracts and certain group annuity certificates; standard provisions as to contractual rights and responsibil...](3219-annuity-and-pure-endowment-contracts-and-certain-group-annuity-certificates.md)
 - [§ 3220 Group life insurance policies; standard provisions](3220-group-life-insurance-policies-standard-provisions.md)
@@ -119,6 +120,7 @@ Section 3201.   Approval of life, accident and health, credit
         3217-h. Telehealth delivery of services.
         3217-i. Essential health benefits package and limit on
                   cost-sharing.
+        3217-j. Coverage for medically fragile children.
         3218.   Medicare supplemental insurance policies.
         3219.   Annuity and pure endowment contracts and certain group
                   annuity certificates; standard provisions as to

@@ -5,22 +5,22 @@
 
 ```text
   § 384-c. Notice in certain proceedings to fathers of children born
-out-of-wedlock. 1. Notwithstanding any inconsistent provision of this or
-any other law, and in addition to the notice requirements of any law
+out-of-wedlock.  1. Notwithstanding any inconsistent provision of this
+or any other law, and in addition to the notice requirements of any law
 pertaining to persons other than those specified in subdivision two of
 this section, notice as provided herein shall be given to the persons
 specified in subdivision two of this section of any proceeding initiated
-pursuant to sections three hundred fifty-eight-a, three hundred
-eighty-four, and three hundred eighty-four-b of this chapter, involving
-a child born out-of-wedlock. Persons specified in subdivision two of
-this section shall not include any person who has been convicted of one
-or more of the following sexual offenses in this state or convicted of
-one or more offenses in another jurisdiction which, if committed in this
-state, would constitute one or more of the following offenses, when the
-child who is the subject of the proceeding was conceived as a result:
-(A) rape in first or second degree; (B) course of sexual conduct against
-a child in the first degree; (C) predatory sexual assault; or (D)
-predatory sexual assault against a child.
+pursuant to sections three hundred fifty-eight-a and three hundred
+eighty-four of this title, involving a child born out-of-wedlock.
+Persons specified in subdivision two of this section shall not include
+any person who has been convicted of one or more of the following sexual
+offenses in this state or convicted of one or more offenses in another
+jurisdiction which, if committed in this state, would constitute one or
+more of the following offenses, when the child who is the subject of the
+proceeding was conceived as a result: (a) rape in first or second
+degree; (b) course of sexual conduct against a child in the first
+degree; (c) predatory sexual assault; or (d) predatory sexual assault
+against a child.
   2. Persons entitled to notice, pursuant to subdivision one of this
 section, shall include:
   (a) any person adjudicated by a court in this state to be the father
@@ -50,12 +50,9 @@ instrument acknowledging paternity of the child, pursuant to section
   3. The provisions of this section shall not apply to persons entitled
 to notice pursuant to section one hundred eleven of the domestic
 relations law. The sole purpose of notice under this section shall be to
-enable the person served pursuant to subdivision two to present evidence
-to the court relevant to the best interests of the child. In any
-proceeding brought upon the ground specified in paragraph (d) of
-subdivision four of section three hundred eighty-four-b, a person served
-pursuant to this section may appear and present evidence only in the
-dispositional hearing.
+enable the person served pursuant to subdivision two of this section to
+present evidence to the court relevant to the best interests of the
+child.
   4. Notice under this section shall be given at least twenty days prior
 to the proceeding by delivery of a copy of the petition and notice to
 the person. Upon a showing to the court, by affidavit or otherwise, on
@@ -82,16 +79,16 @@ custody or guardianship or in the child's adoption in this or any
 subsequent proceeding in which such care, custody or guardianship or
 adoption may be at issue.
   7. No order of the court in any proceeding pursuant to section three
-hundred fifty-eight-a, three hundred eighty-four or three hundred
-eighty-four-b of this chapter or in any subsequent proceeding involving
-the child's custody, guardianship or adoption shall be vacated, annulled
-or reversed upon the application of any person who was properly served
-with notice in accordance with this section but failed to appear, or who
-waived notice pursuant to subdivision five. Nor shall any order of the
-court in any proceeding involving the child's custody, guardianship or
-adoption be vacated, annulled or reversed upon the application of any
-person who was properly served with notice in accordance with this
-section in any previous proceeding in which the court determined that
-the transfer or commitment of the child's care, custody or guardianship
-to an authorized agency was in the child's best interests.
+hundred fifty-eight-a or three hundred eighty-four of this title or in
+any subsequent proceeding involving the child's custody, guardianship or
+adoption shall be vacated, annulled or reversed upon the application of
+any person who was properly served with notice in accordance with this
+section but failed to appear, or who waived notice pursuant to
+subdivision five of this section. Nor shall any order of the court in
+any proceeding involving the child's custody, guardianship or adoption
+be vacated, annulled or reversed upon the application of any person who
+was properly served with notice in accordance with this section in any
+previous proceeding in which the court determined that the transfer or
+commitment of the child's care, custody or guardianship to an authorized
+agency was in the child's best interests.
 ```

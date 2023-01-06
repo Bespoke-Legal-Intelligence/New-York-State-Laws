@@ -19,6 +19,7 @@
 - [§ 52-B Private right of action for unlawful dissemination or publication of an intimate image](52b-private-right-of-action-for-unlawful-dissemination-or-publication-of-an-intimate.md)
 - [§ 52-C Private right of action for unlawful dissemination or publication of a sexually explicit depiction of an individual](52c-private-right-of-action-for-unlawful-dissemination-or-publication-of-a-sexually.md)
 - [§ 52-C\*2 Employers engaged in electronic monitoring; prior notice required](52c-2-employers-engaged-in-electronic-monitoring-prior-notice-required.md)
+- [§ 52-D Private right of action for unlawful dissemination or publication of a personal image](52d-private-right-of-action-for-unlawful-dissemination-or-publication-of-a-personal.md)
 
 <details>
 <summary>Official heading of Article 5, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -47,6 +48,8 @@ Section 50.     Right of privacy.
                   individual.
         52-c*2. Employers engaged in electronic monitoring; prior notice
                   required.
+        52-d.   Private right of action for unlawful dissemination or
+                  publication of a personal image.
 ```
 
 </details>

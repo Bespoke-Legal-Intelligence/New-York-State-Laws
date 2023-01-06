@@ -1,0 +1,38 @@
+﻿<!-- nyslaw {"citation": "Energy Law § 16-108", "kind": "section", "law_id": "ENG", "location_id": "16-108", "path": "ARTICLE 16 › SECTION 16-108", "repealed": false, "repealed_date": null, "source": "nys-laws:ENG/16-108.md", "title": "Violations, civil liability"} -->
+# Energy Law § 16-108 — Violations, civil liability
+
+[Energy Law](../README.md) › [Article 16 — Appliance and Equipment Efficiency Standards](README.md)
+
+```text
+  § 16-108. Violations, civil liability. 1. Any person who issues:
+  (a) a certification that a product listed in paragraphs (a) through
+(xx) of subdivision one of section 16-104 of this article complies with
+the efficiency standards for such product established by or pursuant to
+this article;
+  (b) a certification that a product not listed in paragraphs (a)
+through (xx) of subdivision one of section 16-104 of this article
+complies with efficiency standards for such product established pursuant
+to paragraph (b) or (c) of subdivision one of section 16-104 of this
+article; or
+  (c) a certification that a product that is subject to federal
+efficiency standards that shall have been continued in this state
+pursuant to section 16-105 of this article complies with such efficiency
+standards, knowing that such product does not comply with such
+efficiency standards, shall be liable for a civil penalty of not more
+than ten thousand dollars for each such product certified and an
+additional penalty of not more than ten thousand dollars for each day
+during which such violation continues.
+  2. Any person who violates the provisions of subdivision two of
+section 16-104 of this article, or fails to perform any duty imposed by
+this article, or violates or fails to comply with any rule, regulation,
+determination, or order adopted, made, or issued by the president or the
+secretary pursuant to this article, shall be liable for a civil penalty
+of not more than five hundred dollars for each such violation and an
+additional civil penalty of not more than one hundred dollars for each
+day during which such violation continues, and, in addition thereto,
+such person may be enjoined from continuing such violation.
+  3. An action or cause of action for the recovery of a penalty under
+this section may be settled or compromised in an amount to be approved
+by the secretary either before or after proceedings are brought to
+recover such penalties and prior to the entry for judgment therefor.
+```

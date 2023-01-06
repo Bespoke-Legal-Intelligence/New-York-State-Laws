@@ -245,8 +245,7 @@ one thousand eighty-nine of the family court act.
 surrender shall provide information to the extent known regarding the
 other parent, any person to whom the surrendering parent had been
 married at the time of the conception or birth of the child and any
-other person who would be entitled to notice of a proceeding to
-terminate parental rights pursuant to section three hundred
+other person listed in subdivision two of section three hundred
 eighty-four-c of this title. Such information shall include, but not be
 limited to, such parent's or person's name, last-known address, social
 security number, employer's address and any other identifying

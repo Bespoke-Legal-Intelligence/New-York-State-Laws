@@ -4,11 +4,11 @@
 [Social Services Law](../../README.md) › [Article 6 — Children](../README.md) › [Title 12-A — Differential Response Programs For Children Under Twelve](README.md)
 
 ```text
-  * § 458-o. Differential response programs for children under twelve.
-1. Each local social services district, upon the approval of the office
-of children and family services, shall establish a program that
-implements differential responses to provide services to children under
-twelve years of age, who do not fall under the definition of juvenile
+  § 458-o. Differential response programs for children under twelve.  1.
+Each local social services district, upon the approval of the office of
+children and family services, shall establish a program that implements
+differential responses to provide services to children under twelve
+years of age, who do not fall under the definition of juvenile
 delinquent pursuant to subparagraph (iii) of paragraph (a) of
 subdivision one of section 301.2 of the family court act and whose
 behavior, but for their age, would bring them within the jurisdiction of
@@ -109,5 +109,4 @@ well-being of such children, and how the program is addressing adverse
 impacts on minority communities, on an annual basis beginning one year
 from the start of every local social services district's differential
 response program.
-  * NB Effective December 29, 2022
 ```

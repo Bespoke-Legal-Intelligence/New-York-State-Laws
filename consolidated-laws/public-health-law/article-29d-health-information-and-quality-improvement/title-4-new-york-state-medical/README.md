@@ -9,6 +9,7 @@
 - [§ 2999-H Definitions](2999h-definitions.md)
 - [§ 2999-I Custody and administration of the fund](2999i-custody-and-administration-of-the-fund.md)
 - [§ 2999-J Payments from the fund](2999j-payments-from-the-fund.md)
+- [§ 2999-K Explanation of benefits forms relating to claims for qualifying health care costs under the fund](2999k-explanation-of-benefits-forms-relating-to-claims.md)
 
 <details>
 <summary>Official heading of Title 4, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -20,6 +21,8 @@ Section 2999-g. Purpose of this title.
         2999-h. Definitions.
         2999-i. Custody and administration of the fund.
         2999-j. Payments from the fund.
+        2999-k. Explanation of benefits forms relating to claims for
+                  qualifying health care costs under the fund.
 ```
 
 </details>

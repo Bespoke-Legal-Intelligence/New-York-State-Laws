@@ -30,9 +30,18 @@ a lymphedema alert program by placing a bright pink wristband on the
 patient's affected arm. Links to national lymphedema and lymphatic
 disease organizations shall be provided as part of the informational
 summary and electronically through the department's websites.
-  (d) The need and importance of organ and tissue donation, including
+  * (d) The need and importance of organ and tissue donation, including
 information about being registered as an organ and tissue donor and
 executing documents of gift under article forty-three of this chapter.
+  * NB Effective until April 1, 2023
+  * (d) The need for and importance of organ and tissue donation,
+including living donation, including information about being registered
+as an organ and tissue donor and executing documents of gift under
+article forty-three of this chapter; and information to increase patient
+understanding about the medical option of transplant and its
+desirability. In implementing this paragraph, the department shall
+consult with the transplant council in the department.
+  * NB Effective April 1, 2023
   * (e) The need and importance for consumers and patients to have an
 advance directive, particularly a health care proxy, and the need and
 importance for health care providers to play a leadership role in
@@ -159,11 +168,10 @@ and pelvic inflammatory disease.
   * (p) Preeclampsia, including information about detection, risk
 factors and management, and possible options for treatment.
   * NB There are 3 par (p)'s
-  * (q) Myalgic encephalomyelitis/chronic fatigue syndrome ("ME/CFS"), a
+  (q) Myalgic encephalomyelitis/chronic fatigue syndrome ("ME/CFS"), a
 multi-system disease associated with neurological, immunological and
 energy metabolism impairment characterized by long-standing and
 debilitating fatigue.
-  * NB Effective December 27, 2022
   2. Programs under this section, dealing with one or more subjects, may
 include but not be limited to any of the following elements:
   (a) educational and informational materials in print, audio, visual,

@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 5 — Department of Law](README.md)
 
 ```text
-  * § 70-c. Task force on social media and violent extremism. 1.
+  § 70-c. Task force on social media and violent extremism. 1.
 Establishment and organization. (a) There is hereby established a task
 force on social media and violent extremism within the department of
 law.
@@ -91,5 +91,4 @@ subdivision one of this section; and
   (e) conduct hearings at any place within the state and require the
 production of any books, records, documents or other evidence he or she
 may deem relevant or material to an investigation.
-  * NB Effective January 1, 2023
 ```

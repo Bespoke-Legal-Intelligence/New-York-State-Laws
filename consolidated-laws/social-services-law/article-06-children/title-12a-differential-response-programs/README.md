@@ -11,10 +11,9 @@
 <summary>Official heading of Title 12-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              * TITLE 12-A
+                               TITLE 12-A
         DIFFERENTIAL RESPONSE PROGRAMS FOR CHILDREN UNDER TWELVE
 Section 458-o. Differential response programs for children under twelve.
-  * NB Effective December 29, 2022
 ```
 
 </details>

@@ -7,10 +7,12 @@
 |---|---|
 | Senate code | NPC |
 | Type | Consolidated law, chapter 35 |
-| Sections | 264 |
-| Last changed | 25 Nov 2022 |
+| Sections | 266 |
+| Last changed | 6 Jan 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Not-for-Profit Corporation |
+
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
 **Short title (from the law itself):** § 101. Short title. This chapter shall be known as the "Not-for-Profit Corporation Law" and may be cited as "N-PCL".
 
@@ -31,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [6 Jan 2023](../../changes/2023/2023-01-06.md): 16 amended, 2 added
 - [25 Nov 2022](../../changes/2022/2022-11-25.md): 3 amended
 - [19 Aug 2022](../../changes/2022/2022-08-19.md): 1 added
 - [8 Jul 2022](../../changes/2022/2022-07-08.md): 1 amended
@@ -40,7 +43,6 @@ Assembly, do enact as follows:
 - [6 Aug 2021](../../changes/2021/2021-08-06.md): 3 amended
 - [9 Jul 2021](../../changes/2021/2021-07-09.md): 2 added
 - [18 Jun 2021](../../changes/2021/2021-06-18.md): 1 amended
-- [23 Apr 2021](../../changes/2021/2021-04-23.md): 11 amended, 1 added
 
 ## Contents
 

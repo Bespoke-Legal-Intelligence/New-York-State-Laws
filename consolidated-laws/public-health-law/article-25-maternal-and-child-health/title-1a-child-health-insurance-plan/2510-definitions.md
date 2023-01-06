@@ -72,31 +72,7 @@ the following circumstances: (i) the individual requests voluntary
 termination; (ii) the individual ceases to be a state resident; (iii)
 eligibility was determined incorrectly because of error, fraud, abuse,
 or perjury attributed to the individual; or (iv) the individual dies.
-  * 7. "Covered health care services" means: the services of physicians,
-optometrists, nurses, nurse practitioners, midwives and other related
-professional personnel which are provided on an outpatient basis,
-including routine well-child visits; diagnosis and treatment of illness
-and injury; inpatient health care services; laboratory tests; diagnostic
-x-rays; prescription and non-prescription drugs, ostomy supplies and
-durable medical equipment; radiation therapy; chemotherapy;
-hemodialysis; outpatient blood clotting factor products and other
-treatments and services furnished in connection with the care of
-hemophilia and other blood clotting protein deficiencies; emergency room
-services; hospice services; emergency, preventive and routine dental
-care, including medically necessary orthodontia but excluding cosmetic
-surgery; emergency, preventive and routine vision care, including
-eyeglasses; speech and hearing services; and, inpatient and outpatient
-mental health, alcohol and substance abuse services as defined by the
-commissioner in consultation with the superintendent. "Covered health
-care services" shall not include drugs, procedures and supplies for the
-treatment of erectile dysfunction when provided to, or prescribed for
-use by, a person who is required to register as a sex offender pursuant
-to article six-C of the correction law, provided that any denial of
-coverage of such drugs, procedures or supplies shall provide the patient
-with the means of obtaining additional information concerning both the
-denial and the means of challenging such denial.
-  * NB Effective until January 1, 2023
-  * 7. "Covered health care services" means: the services of physicians,
+  7. "Covered health care services" means: the services of physicians,
 optometrists, nurses, nurse practitioners, midwives and other related
 professional personnel which are provided on an outpatient basis,
 including routine well-child visits; diagnosis and treatment of illness
@@ -129,7 +105,6 @@ correction law, provided that any denial of coverage of such drugs,
 procedures or supplies shall provide the patient with the means of
 obtaining additional information concerning both the denial and the
 means of challenging such denial.
-  * NB Effective January 1, 2023
   8. "Subsidy payment" means a payment made to an approved organization
 for the cost of covered health care services coverage to an eligible
 child or children.

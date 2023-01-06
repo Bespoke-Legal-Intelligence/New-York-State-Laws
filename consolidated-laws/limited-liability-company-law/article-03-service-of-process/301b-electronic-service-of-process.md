@@ -4,7 +4,7 @@
 [Limited Liability Company Law](../README.md) › [Article 3 — Service of Process](README.md)
 
 ```text
-  * § 301-b. Electronic service of process. The secretary of state shall
+  § 301-b. Electronic service of process. The secretary of state shall
 advise any limited liability company subject to the laws of this chapter
 in prominent written form as follows: (a) electronic service of process
 authorized by the provisions of this chapter is an optional program at
@@ -16,5 +16,4 @@ of the program through electronic means, in which case digital copies
 will be made accessible but paper documents will not be mailed; and (c)
 such choice may be reversed by the limited liability company at any time
 and, thereafter, service by mail will resume.
-  * NB Effective January 1, 2023
 ```

@@ -518,20 +518,12 @@ coverage in the event of termination of coverage under this title;
 program participants who are ineligible for subsidy payments; and
   (xii) include such other information as the commissioner and the
 superintendent may deem appropriate.
-  * (b) The commissioner, in consultation with the superintendent, shall
-make a determination whether to approve, disapprove or recommend
-modification of the proposal. In order for a proposal to be approved by
-the commissioner, the proposal must also be approved by the
-superintendent with respect to the provisions of subparagraphs (viii)
-through (xii) of paragraph (a) of this subdivision.
-  * NB Effective until January 1, 2023
-  * (b) The commissioner, in consultation with the superintendent, shall
+  (b) The commissioner, in consultation with the superintendent, shall
 make a determination whether to approve, disapprove or recommend
 modification of the proposal. In order for a proposal to be approved by
 the commissioner, the proposal must also be approved by the
 superintendent with respect to the provisions of subparagraphs (ix) and
 (xii) of paragraph (a) of this subdivision.
-  * NB Effective January 1, 2023
   (c) The commissioner, in consultation with the superintendent, shall
 ensure, to the extent possible, that child health insurance plan
 coverage is available in all geographic areas. The commissioner may
@@ -609,9 +601,9 @@ section eleven hundred twenty of the insurance law, for the period April
 first, two thousand fourteen through March thirty-first, two thousand
 fifteen, subsidy payments made to approved organizations shall be at
 amounts approved prior to April first, two thousand fourteen.
-  * (i) Notwithstanding any inconsistent provision of this title,
-articles thirty-two and forty-three of the insurance law and subsection
-(e) of section eleven hundred twenty of the insurance law:
+  (i) Notwithstanding any inconsistent provision of this title, articles
+thirty-two and forty-three of the insurance law and subsection (e) of
+section eleven hundred twenty of the insurance law:
   (i) The commissioner shall, subject to approval of the director of the
 division of the budget, develop reimbursement methodologies for
 determining the amount of subsidy payments made to approved
@@ -635,7 +627,6 @@ of subsidy payment amounts in relation to the population to be served
 adjusted for case mix, the scope of services approved organizations must
 provide, the utilization of such services and the network of providers
 required to meet state standards.
-  * NB Effective January 1, 2023
   9. The commissioner shall, within amounts available therefor, contract
 with community-based and other marketing organizations for purposes of
 public education, outreach, and recruitment of eligible children,

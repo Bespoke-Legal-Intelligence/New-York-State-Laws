@@ -1050,6 +1050,47 @@ paragraph shall not take effect unless all necessary approvals under
 federal law and regulation have been obtained to receive federal
 financial participation in the costs of services provided under this
 paragraph.
+  ** (i)(i) The department of health shall establish a program for
+synchronization of medications when it is agreed among the recipient, a
+provider and a pharmacist that synchronization of multiple prescriptions
+for the treatment of a chronic illness is in the best interest of the
+patient for the management or treatment of a chronic illness provided
+that the medications:
+  (A) are covered by the department of health pursuant to this title;
+  (B) are used for treatment and management of chronic conditions that
+are subject to refills;
+  (C) are not a schedule II controlled substance, nor a schedule III
+controlled substance that contains hydrocodone;
+  (D) meet all prior authorization criteria specific to the medications
+at the time of the synchronization request;
+  (E) are of a formulation that can be effectively split over required
+short fill periods to achieve synchronization; and
+  (F) do not have quantity limits or dose optimization criteria or
+requirements that would be violated in fulfilling synchronization.
+  (ii) The department of health shall not deny coverage for the
+dispensing of a medication by a pharmacy for a partial supply when it is
+for the purpose of synchronizing the patient's medications. When
+applicable to permit synchronization, the department of health shall
+allow a pharmacy to override any denial codes indicating that a
+prescription is being refilled too soon for the purposes of medication
+synchronization.
+  (iii) To permit synchronization, the department of health shall apply
+a prorated daily cost-sharing rate to any medication dispensed by a
+pharmacy pursuant to this section.
+  (iv) The dispensing fee paid to a pharmacy contracted to provide
+services pursuant to this section for a partial supply associated with a
+medication synchronization shall be paid in full and shall not be
+prorated.
+  (v) The requirement of this paragraph applies only once for each
+prescription drug subject to medication synchronization except when
+either of the following occurs:
+  (I) the prescriber changes the dosage or frequency of administration
+of the prescription drug subject to a medication synchronization; or
+  (II) the prescriber prescribes a different drug.
+  (vi) Nothing in this paragraph shall be deemed to require health care
+practitioners and pharmacists to synchronize the refilling of multiple
+prescriptions for a recipient.
+  ** NB Effective April 29, 2023
   * NB Effective until March 31, 2023
   * 9. Notwithstanding any inconsistent provision of law or regulation
 to the contrary, for those drugs which may not be dispensed without a

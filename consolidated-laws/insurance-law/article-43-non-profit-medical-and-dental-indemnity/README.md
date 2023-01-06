@@ -20,6 +20,7 @@
 - [§ 4306-F Maternal depression screenings](4306f-maternal-depression-screenings.md)
 - [§ 4306-G Telehealth delivery of services](4306g-telehealth-delivery-of-services.md)
 - [§ 4306-H Essential health benefits package and limit on cost-sharing](4306h-essential-health-benefits-package-and-limit-on-cost-sharing.md)
+- [§ 4306-I Coverage for medically fragile children](4306i-coverage-for-medically-fragile-children.md)
 - [§ 4307 Providers of services](4307-providers-of-services.md)
 - [§ 4308 Supervision of superintendent](4308-supervision-of-superintendent.md)
 - [§ 4309 Limitation on expenses](4309-limitation-on-expenses.md)
@@ -71,6 +72,7 @@ Section 4301.   Organization of corporation; purposes; board of
         4306-g. Telehealth delivery of services.
         4306-h. Essential health benefits package and limit on
                   cost-sharing.
+        4306-i. Coverage for medically fragile children.
         4307.   Providers of services.
         4308.   Supervision of superintendent.
         4309.   Limitation on expenses.

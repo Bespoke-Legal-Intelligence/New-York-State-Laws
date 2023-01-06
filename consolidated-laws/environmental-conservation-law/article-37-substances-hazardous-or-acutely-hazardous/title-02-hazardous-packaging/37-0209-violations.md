@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 37 — Substances Hazardous or Acutely Hazardous to Public Health, Safety or the Environment](../README.md) › [Title 2 — Hazardous Packaging](README.md)
 
 ```text
-* § 37-0209. Violations.
+§ 37-0209. Violations.
   1. A violation of any of the provisions of this title or any rule or
 regulation promulgated pursuant thereto shall be punishable in the case
 of a first violation, by a civil penalty not to exceed ten thousand
@@ -33,5 +33,4 @@ substances as intentionally added chemicals.
   2. For purposes of this section, "intentionally added chemical" shall
 have the same meaning as subdivision eleven of section 37-0901 of this
 article.
-  * NB Effective December 31, 2022
 ```

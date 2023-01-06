@@ -19,15 +19,17 @@ the "New York state exposition" held in Onondaga county and the
 racetracks of the non-profit racing association known as Belmont Park
 racetrack and the Saratoga thoroughbred racetrack;
   (3) a maximum of two facilities, which shall be vendors for all
-purposes under this article, neither to exceed one thousand video
-lottery gaming devices, established within region three of zone one as
-defined by section one thousand three hundred ten of the racing,
+purposes under this article established within region three of zone one
+as defined by section one thousand three hundred ten of the racing,
 pari-mutuel wagering and breeding law, one each operated by a
 corporation established pursuant to section five hundred two of the
 racing, pari-mutuel wagering and breeding law in the Suffolk region and
 the Nassau region to be located within a facility authorized pursuant to
 sections one thousand eight or one thousand nine of the racing,
-pari-mutuel wagering and breeding law; and
+pari-mutuel wagering and breeding law, provided however, that in the
+Nassau region such facility shall not exceed one thousand video lottery
+gaming devices and in the Suffolk region such facility shall not exceed
+two thousand video lottery gaming devices; and
   (4) Aqueduct racetrack, within the lottery terminal facility, pursuant
 to an agreement between the corporation established pursuant to section
 five hundred two of the racing, pari-mutuel wagering and breeding law in

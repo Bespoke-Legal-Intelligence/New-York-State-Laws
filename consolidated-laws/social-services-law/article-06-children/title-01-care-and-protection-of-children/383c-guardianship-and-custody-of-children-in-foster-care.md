@@ -86,40 +86,39 @@ certified copy of the transcript of that proceeding, showing compliance
 with paragraph (b) of this subdivision, is filed as part of the adoption
 proceeding in this state.
   (b) Before a judge or surrogate approves a judicial surrender, the
-judge or surrogate shall order that notice of the surrender proceeding
-be given to persons identified in subdivision two of section three
-hundred eighty-four-c of this title and to such other persons as the
-judge or surrogate may, in his or her discretion, prescribe. At the time
-that a parent appears before a judge or surrogate to execute and
-acknowledge a surrender, the judge or surrogate shall inform such parent
-of the right to be represented by legal counsel of the parent's own
-choosing and of the right to obtain supportive counseling and of any
-right to have counsel assigned pursuant to section two hundred sixty-two
-of the family court act, section four hundred seven of the surrogate's
-court procedure act, or section thirty-five of the judiciary law. The
-judge or surrogate also shall inform the parent of the consequences of
-such surrender, including informing such parent that the parent is
-giving up all rights to have custody, visit with, speak with, write to
-or learn about the child, forever, unless the parties have agreed to
-different terms pursuant to subdivision two of this section, or, if the
-parent registers with the adoption information register, as specified in
-section forty-one hundred thirty-eight-d of the public health law, that
-the parent may be contacted at any time after the child reaches the age
-of eighteen years, but only if both the parent and the adult child so
-choose. The court shall determine whether the terms and conditions
-agreed to by the parties pursuant to subdivision two of this section are
-in the child's best interests before approving the surrender. The judge
-or surrogate shall inform the parent that where a surrender containing
-conditions has been executed, the parent is obligated to provide the
-authorized agency with a designated mailing address, as well as any
-subsequent changes in such address, at which the parent may receive
-notices regarding any substantial failure of a material condition,
-unless such notification is expressly waived by a statement written by
-the parent and appended to or included in such instrument. The judge or
-surrogate also shall inform the parent that the surrender shall become
-final and irrevocable immediately upon its execution and acknowledgment.
-The judge or surrogate shall give the parent a copy of such surrender
-upon the execution thereof.
+judge or surrogate may order that notice of the surrender proceeding be
+given to such persons as the judge or surrogate may, in his or her
+discretion, prescribe. At the time that a parent appears before a judge
+or surrogate to execute and acknowledge a surrender, the judge or
+surrogate shall inform such parent of the right to be represented by
+legal counsel of the parent's own choosing and of the right to obtain
+supportive counseling and of any right to have counsel assigned pursuant
+to section two hundred sixty-two of the family court act, section four
+hundred seven of the surrogate's court procedure act, or section
+thirty-five of the judiciary law. The judge or surrogate also shall
+inform the parent of the consequences of such surrender, including
+informing such parent that the parent is giving up all rights to have
+custody, visit with, speak with, write to or learn about the child,
+forever, unless the parties have agreed to different terms pursuant to
+subdivision two of this section, or, if the parent registers with the
+adoption information register, as specified in section forty-one hundred
+thirty-eight-d of the public health law, that the parent may be
+contacted at any time after the child reaches the age of eighteen years,
+but only if both the parent and the adult child so choose. The court
+shall determine whether the terms and conditions agreed to by the
+parties pursuant to subdivision two of this section are in the child's
+best interests before approving the surrender. The judge or surrogate
+shall inform the parent that where a surrender containing conditions has
+been executed, the parent is obligated to provide the authorized agency
+with a designated mailing address, as well as any subsequent changes in
+such address, at which the parent may receive notices regarding any
+substantial failure of a material condition, unless such notification is
+expressly waived by a statement written by the parent and appended to or
+included in such instrument. The judge or surrogate also shall inform
+the parent that the surrender shall become final and irrevocable
+immediately upon its execution and acknowledgment. The judge or
+surrogate shall give the parent a copy of such surrender upon the
+execution thereof.
   4. Extra-judicial surrenders. (a) In any case where a surrender is not
 executed and acknowledged before a judge or surrogate pursuant to
 subdivision three of this section, such surrender shall be executed and
@@ -179,19 +178,12 @@ and
 nature of such supportive counseling.
   (d) Before a judge or surrogate approves an extra-judicial surrender,
 the judge or surrogate shall order notice to be given to the person who
-executed the surrender, to persons identified in subdivision two of
-section three hundred eighty-four-c of this title and to such other
-persons as the judge or surrogate may, in his or her discretion,
-prescribe. The petition shall set forth the names and last known
-addresses of all persons required to be given notice of the proceeding,
-pursuant to section three hundred eighty-four-c, and there shall be
-shown by the petition or by affidavit or other proof satisfactory to the
-court that there are no persons other than those set forth in the
-petition who are entitled to notice pursuant to such section. No person
-who has received such notice and been afforded an opportunity to be
-heard may challenge the validity of a surrender approved pursuant to
-this subdivision in any other proceeding. Nothing in this section shall
-be deemed to dispense with the consent to adopt if otherwise required of
+executed the surrender and to such other persons as the judge or
+surrogate may, in his or her discretion, prescribe. No person who has
+received such notice and been afforded an opportunity to be heard may
+challenge the validity of a surrender approved pursuant to this
+subdivision in any other proceeding. Nothing in this section shall be
+deemed to dispense with the consent to adopt if otherwise required of
 any person who has not executed the surrender.
   (e) The agency to which the child is surrendered promptly shall notify
 such court of any correspondence or communication received from the
@@ -349,9 +341,9 @@ of this title.
 surrender shall provide information to the extent known regarding the
 other parent, any person to whom the surrendering parent had been
 married at the time of the conception or birth of the child and any
-other person who would be entitled to notice of a proceeding to
-terminate parental rights pursuant to section three hundred
-eighty-four-c of this title. Such information shall include, but not be
+other person who would be entitled to consent to the adoption of the
+child pursuant to subdivision one of section one hundred eleven of the
+domestic relations law. Such information shall include, but not be
 limited to, such parent's or person's name, last-known address, social
 security number, employer's address and any other identifying
 information. Any information provided pursuant to this paragraph shall

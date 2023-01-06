@@ -4,8 +4,8 @@
 [Public Health Law](../README.md) › [Article 46-A — Fee-for-service Continuing Care Retirement Communities Demonstration Program](README.md)
 
 ```text
-  * § 4653-a. Closure of assisted living residences. 1. In the event
-that an operator of an assisted living residence elects to close and to
+  § 4653-a. Closure of assisted living residences. 1. In the event that
+an operator of an assisted living residence elects to close and to
 surrender an operating certificate and/or certification as an enhanced
 or special needs assisted living residence, the following provisions
 shall apply:
@@ -73,5 +73,4 @@ appropriately relocated, shall result in the imposition of civil
 penalties in accordance with section twelve of this chapter.
   6. The commissioner may promulgate such rules and regulations as he or
 she deems necessary to implement the provisions of this section.
-  * NB Effective January 1, 2023
 ```

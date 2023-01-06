@@ -15,6 +15,7 @@
 - [§ 70-0115 Permit modifications, suspensions, revocations, renewals, reissuances and recertifications](70-0115-permit-modifications-suspensions-revocations-renewals-reissuances.md)
 - [§ 70-0116 Emergency authorization](70-0116-emergency-authorization.md)
 - [§ 70-0117 Special provisions](70-0117-special-provisions.md)
+- [§ 70-0118 Disproportionate impacts on disadvantaged communities](70-0118-disproportionate-impacts-on-disadvantaged-communities.md)
 - [§ 70-0119 Public hearings](70-0119-public-hearings.md)
 - [§ 70-0121 Severability](70-0121-severability.md)
 
@@ -36,6 +37,7 @@ Section 70-0101. Purpose.
                    renewals, reissuances and recertifications.
         70-0116. Emergency authorization.
         70-0117. Special provisions.
+        70-0118. Disproportionate impacts on disadvantaged communities.
         70-0119. Public hearings.
         70-0121. Severability.
 ```

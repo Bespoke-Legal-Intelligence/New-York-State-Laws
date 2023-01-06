@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Insurance Law § 4909", "kind": "section", "law_id": "ISC", "location_id": "4909", "path": "ARTICLE 49 › TITLE 1 › SECTION 4909", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/4909.md", "title": "Prescription drug formulary changes"} -->
+﻿<!-- nyslaw {"citation": "Insurance Law § 4909", "kind": "section", "law_id": "ISC", "location_id": "4909", "path": "ARTICLE 49 › TITLE 1 › SECTION 4909", "repealed": true, "repealed_date": "2023-01-06", "source": "nys-laws:ISC/4909.md", "title": "Prescription drug formulary changes"} -->
 # Insurance Law § 4909 — Prescription drug formulary changes
 
 [Insurance Law](../../README.md) › [Article 49 — Utilization Review and External Appeal](../README.md) › [Title 1 — Registration of Agents and Review Process](README.md)
+
+**Repealed** (6 Jan 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 4909. Prescription drug formulary changes. (a) Except as otherwise

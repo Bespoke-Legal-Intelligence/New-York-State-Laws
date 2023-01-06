@@ -19,6 +19,9 @@
 - [§ 250.55 Dissemination of an unlawful surveillance image in the second degree](250.55-dissemination-of-an-unlawful-surveillance.md)
 - [§ 250.60 Dissemination of an unlawful surveillance image in the first degree](250.60-dissemination-of-an-unlawful-surveillance.md)
 - [§ 250.65 Additional provisions](250.65-additional-provisions.md)
+- [§ 250.70 Unlawful dissemination of a personal image; definitions, application](250.70-unlawful-dissemination-of-a-personal-image.md)
+- [§ 250.71 Unlawful dissemination of a personal image in the second degree](250.71-unlawful-dissemination-of-a-personal-image.md)
+- [§ 250.72 Unlawful dissemination of a personal image in the first degree](250.72-unlawful-dissemination-of-a-personal-image.md)
 
 <details>
 <summary>Official heading of Article 250, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -42,6 +45,12 @@ Section 250.00 Eavesdropping; definitions of terms.
         250.60 Dissemination of an unlawful surveillance image in the
                  first degree.
         250.65 Additional provisions.
+        250.70 Unlawful dissemination of a personal image; definitions,
+                 application.
+        250.71 Unlawful dissemination of a personal image in the second
+                 degree.
+        250.72 Unlawful dissemination of a personal image in the first
+                 degree.
 ```
 
 </details>

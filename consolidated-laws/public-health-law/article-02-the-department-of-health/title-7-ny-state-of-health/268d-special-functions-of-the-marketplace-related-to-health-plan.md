@@ -57,21 +57,12 @@ descriptions of coverage and information on quality measures for health
 benefit plan performance;
   * (v) meets standards specified and determined by the Marketplace,
 provided that the standards do not conflict with or prevent the
-application of federal requirements; and
-  * NB Effective until January 1, 2023
-  * (v) meets standards specified and determined by the Marketplace,
-provided that the standards do not conflict with or prevent the
 application of federal requirements;
-  * NB Effective January 1, 2023 until January 1, 2028
+  * NB Effective until January 1, 2028
   * (v) meets standards specified and determined by the Marketplace,
 provided that the standards do not conflict with or prevent the
 application of federal requirements; and
   * NB Effective January 1, 2028
-  * (vi) complies with the insurance law and this chapter requirements
-applicable to health insurance issued in this state and any regulations
-promulgated pursuant thereto that do not conflict with or prevent the
-application of federal requirements; and
-  * NB Effective until January 1, 2023
   * (vi) contracts with any national cancer institute-designated cancer
 center licensed by the department within the health plan's service area
 that is willing to agree to provide cancer-related inpatient, outpatient
@@ -82,7 +73,7 @@ providers to be included in the plan's provider network, provided that
 such terms shall include reimbursement of such center at no less than
 the fee-for-service medicaid payment rate and methodology applicable to
 the center's inpatient and outpatient services; and
-  * NB Effective January 1, 2023 until January 1, 2028
+  * NB Effective until January 1, 2028
   * (vi) complies with the insurance law and this chapter requirements
 applicable to health insurance issued in this state and any regulations
 promulgated pursuant thereto that do not conflict with or prevent the
@@ -92,7 +83,7 @@ application of federal requirements; and
 applicable to health insurance issued in this state and any regulations
 promulgated pursuant thereto that do not conflict with or prevent the
 application of federal requirements; and
-  * NB Effective January 1, 2023 and Repealed January 1, 2028
+  * NB Repealed January 1, 2028
   (c) The Marketplace determines that making the health plan available
 through the Marketplace is in the interest of qualified individuals in
 this state.

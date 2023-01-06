@@ -8,7 +8,7 @@
 | Senate code | ENG |
 | Type | Consolidated law, chapter 17-A |
 | Sections | 70 |
-| Last changed | 30 Dec 2022 |
+| Last changed | 6 Jan 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Energy |
 
@@ -31,6 +31,7 @@ Article 1. Short title; definitions (§§ 1-101 to 1-103).
 
 ## Recent changes
 
+- [6 Jan 2023](../../changes/2023/2023-01-06.md): 7 amended
 - [30 Dec 2022](../../changes/2022/2022-12-30.md): 2 amended
 - [22 Jul 2022](../../changes/2022/2022-07-22.md): 1 amended
 - [8 Jul 2022](../../changes/2022/2022-07-08.md): 8 amended, 3 added
@@ -49,7 +50,7 @@ Article 1. Short title; definitions (§§ 1-101 to 1-103).
 - [Article 10 — Fuel Set-aside Act](article-10-fuel-set-aside-act/)
 - [Article 11 — State Energy Conservation Construction Code Act](article-11-state-energy-conservation-construction-code-act/)
 - [Article 12 — Solar Energy Products Warranty Act](article-12-solar-energy-products-warranty-act/)
-- [Article 16 — Appliance and Equipment Energy Efficiency Standards](article-16-appliance-and-equipment-energy-efficiency/)
+- [Article 16 — Appliance and Equipment Efficiency Standards](article-16-appliance-and-equipment-efficiency-standards/)
 - [Article 17 — Energy Information](article-17-energy-information/)
 - [Article 18 — Temporary Nuclear Waste Repositories](article-18-temporary-nuclear-waste-repositories/)
 - [Article 21 — Energy Supply and Production](article-21-energy-supply-and-production/)

@@ -4,9 +4,9 @@
 [Labor Law](../README.md) › [Article 7 — General Provisions](README.md)
 
 ```text
-  * § 201-h. Posting of veterans' benefits and services. 1. The
-department shall consult with the division of veterans' services to
-create and distribute a veterans' benefits and services poster.
+  § 201-h. Posting of veterans' benefits and services. 1. The department
+shall consult with the division of veterans' services to create and
+distribute a veterans' benefits and services poster.
   2. Such poster shall, at a minimum, include information regarding the
 following services available to veterans:
   a. contact and website information for the division of veterans'
@@ -24,5 +24,4 @@ Veterans Crisis Line.
   3. Every employer in the state with more than fifty full-time
 equivalent employees shall display the poster created pursuant to this
 section in a conspicuous place accessible to employees in the workplace.
-  * NB Effective January 1, 2023
 ```

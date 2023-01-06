@@ -44,6 +44,7 @@
 - [§ 365-L Health homes](365l-health-homes.md)
 - [§ 365-M Administration and management of behavioral health services](365m-administration-and-management-of-behavioral-health.md)
 - [§ 365-N Department of health assumption of program administration](365n-department-of-health-assumption-of-program.md)
+- [§ 365-O Provision and coverage of services for living organ donors](365o-provision-and-coverage-of-services-for-living-organ.md)
 - [§ 366 Eligibility](366-eligibility.md)
 - [§ 366-A Applications for assistance; investigations; reconsideration](366a-applications-for-assistance-investigations.md)
 - [§ 366-B Penalties for fraudulent practices](366b-penalties-for-fraudulent-practices.md)
@@ -143,6 +144,8 @@ Section 363.     Declaration of objects.
                    services.
         365-n.   Department of health assumption of program
                    administration.
+        365-o.   Provision and coverage of services for living organ
+                   donors.
         366.     Eligibility.
         366-a.   Applications for assistance; investigations;
                    reconsideration.

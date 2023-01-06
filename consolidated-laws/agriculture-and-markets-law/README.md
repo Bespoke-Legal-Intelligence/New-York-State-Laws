@@ -8,7 +8,7 @@
 | Senate code | AGM |
 | Type | Consolidated law, chapter 69 |
 | Sections | 705 |
-| Last changed | 23 Dec 2022 |
+| Last changed | 6 Jan 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Agriculture & Markets |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [6 Jan 2023](../../changes/2023/2023-01-06.md): 3 amended
 - [23 Dec 2022](../../changes/2022/2022-12-23.md): 5 amended, 17 added
 - [16 Dec 2022](../../changes/2022/2022-12-16.md): 1 amended
 - [9 Dec 2022](../../changes/2022/2022-12-09.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [19 Aug 2022](../../changes/2022/2022-08-19.md): 3 amended
 - [24 Jun 2022](../../changes/2022/2022-06-24.md): 5 amended
 - [4 Mar 2022](../../changes/2022/2022-03-04.md): 9 amended
-- [25 Feb 2022](../../changes/2022/2022-02-25.md): 1 amended
 
 ## Contents
 

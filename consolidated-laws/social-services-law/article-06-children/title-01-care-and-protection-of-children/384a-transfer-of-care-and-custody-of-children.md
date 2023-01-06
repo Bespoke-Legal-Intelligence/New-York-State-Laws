@@ -51,16 +51,18 @@ the parent, guardian or other person to whom care of the child has been
 entrusted, a local social services official shall obtain information to
 the extent known from such person regarding the other parent, any person
 to whom the parent transferring care and custody had been married at the
-time of the conception or birth of the child and any other person who
-would be entitled to notice of a proceeding to terminate parental rights
-pursuant to section three hundred eighty-four-c of this title. Such
-information shall include, but not be limited to, such parent's or
-person's name, last-known address, social security number, employer's
-address and any other identifying information. Any information provided
-pursuant to this subdivision shall be recorded in the uniform case
-record maintained pursuant to section four hundred nine-f of this
-article; provided, however, that the failure to provide such information
-shall not invalidate the transfer of care and custody.
+time of the conception or birth of the child, any person who would be
+entitled to consent to the adoption of the child pursuant to subdivision
+one of section one hundred eleven of the domestic relations law, and any
+other person listed in subdivision two of section three hundred
+eighty-four-c of this title. Such information shall include, but not be
+limited to, such parent's or person's name, last-known address, social
+security number, employer's address and any other identifying
+information. Any information provided pursuant to this subdivision shall
+be recorded in the uniform case record maintained pursuant to section
+four hundred nine-f of this article; provided, however, that the failure
+to provide such information shall not invalidate the transfer of care
+and custody.
   2. Terms. (a) The instrument shall be upon such terms, for such time
 and subject to such conditions as may be agreed upon by the parties
 thereto.  The office of children and family services may promulgate

@@ -147,31 +147,7 @@ adopt necessary rules and regulations including but not limited to those
 for determining the necessity or appropriate level of admission,
 controlling the length of stay, the provision of services and
 establishing the methods and procedures for making such determinations.
-  *(g) The commissioner shall require that every general hospital adopt
-and make public an identical statement of the rights and
-responsibilities of patients, including a patient complaint and quality
-of care review process, a right to an appropriate patient discharge plan
-and for patients other than beneficiaries of title XVIII of the federal
-social security act (medicare) a right to a discharge review in
-accordance with section twenty-eight hundred three-i of this article.
-The form and content of such statement shall be determined in accordance
-with rules and regulations adopted by the council and approved by the
-commissioner. A patient who requires continuing health care services in
-accordance with such patient's discharge plan may not be discharged
-until such services are secured or determined by the hospital to be
-reasonably available to the patient. Each general hospital shall give a
-copy of the statement to each patient, or the appointed personal
-representative of the patient at or prior to the time of admission to
-the general hospital, as long as the patient or the appointed personal
-representative of the patient receives such notice no earlier than
-fourteen days before admission. Such statement shall also be
-conspicuously posted by the hospital and shall be a part of the
-patient's admission package. Nothing herein contained shall be construed
-to limit any authority vested in the commissioner pursuant to this
-article related to the operation of hospitals and care and services
-provided to patients.
-  * NB Effective until January 1, 2023
-  * (g) The commissioner shall require that every general hospital adopt
+  (g) The commissioner shall require that every general hospital adopt
 and make public an identical statement of the rights and
 responsibilities of patients, in accordance with applicable law,
 including, but not limited to:
@@ -228,7 +204,6 @@ patient's admission package. Nothing herein contained shall be construed
 to limit any authority vested in the commissioner pursuant to this
 article related to the operation of hospitals and care and services
 provided to patients.
-  * NB Effective January 1, 2023
   * (h) Every hospital providing treatment to alleged victims of family
 offenses as defined in article eight of the family court act and section
 530.11 of the criminal procedure law shall be responsible for providing

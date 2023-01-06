@@ -19,6 +19,7 @@
 - [§ 116 Sessions](116-sessions.md)
 - [§ 117 Rules](117-rules.md)
 - [§ 118 Technical rules of evidence or procedure not required](118-technical-rules-of-evidence-or-procedure-not-required.md)
+- [§ 118-A Effect of findings and determinations in subsequent proceedings](118a-effect-of-findings-and-determinations-in-subsequent-proceedings.md)
 - [§ 119 Subpoenas](119-subpoenas.md)
 - [§ 120 Discrimination against employees](120-discrimination-against-employees.md)
 - [§ 121 Depositions](121-depositions.md)
@@ -60,6 +61,8 @@ Section 110.   Record and report of injuries by employers.
         116.   Sessions.
         117.   Rules.
         118.   Technical rules of evidence or procedure not required.
+        118-a. Effect of findings and determinations in subsequent
+                 proceedings.
         119.   Subpoenas.
         120.   Discrimination against employees.
         121.   Depositions.

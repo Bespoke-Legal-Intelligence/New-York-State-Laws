@@ -22,23 +22,6 @@ essential health benefits as defined by the commissioner in accordance
 with the provisions of the patient protection and affordable care act
 (P.L. 111-148) and consistent with the benefits provided by the
 reference plan selected by the commissioner for the purposes of defining
-such benefits, (ii) dental and vision services as defined by the
-commissioner, and (iii) as defined by the commissioner and subject to
-federal approval, certain services and supports provided to enrollees
-eligible pursuant to subparagraph one of paragraph (g) of subdivision
-one of section three hundred sixty-six of this article who have
-functional limitations and/or chronic illnesses that have the primary
-purpose of supporting the ability of the enrollee to live or work in the
-setting of their choice, which may include the individual's home, a
-worksite, or a provider-owned or controlled residential setting;
-  * NB Effective until January 1, 2023
-  * (c) "Health care services" means (i) the services and supplies as
-defined by the commissioner in consultation with the superintendent of
-financial services, and shall be consistent with and subject to the
-essential health benefits as defined by the commissioner in accordance
-with the provisions of the patient protection and affordable care act
-(P.L. 111-148) and consistent with the benefits provided by the
-reference plan selected by the commissioner for the purposes of defining
 such benefits, and shall include coverage of and access to the services
 of any national cancer institute-designated cancer center licensed by
 the department of health within the service area of the approved
@@ -59,7 +42,7 @@ functional limitations and/or chronic illnesses that have the primary
 purpose of supporting the ability of the enrollee to live or work in the
 setting of their choice, which may include the individual's home, a
 worksite, or a provider-owned or controlled residential setting;
-  * NB Effective January 1, 2023 until December 31, 2024
+  * NB Effective until December 31, 2024
   * (c) "Health care services" means (i) the services and supplies as
 defined by the commissioner in consultation with the superintendent of
 financial services, and shall be consistent with and subject to the

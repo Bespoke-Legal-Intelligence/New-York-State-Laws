@@ -10,6 +10,7 @@
 - [§ 4 Contempts of either house](04-contempts-of-either-house.md)
 - [§ 5 Compensation of members](05-compensation-of-members.md)
 - [§ 5-A Allowances for member serving as an officer of either house of the legislature or in a special capacity therein](05a-allowances-for-member-serving-as-an-officer-of-either-house-of-the-legislature.md)
+- [§ 5-B Limit on outside earned income by members](05b-limit-on-outside-earned-income-by-members.md)
 - [§ 6 Officers and employees of the senate](06-officers-and-employees-of-the-senate.md)
 - [§ 7 Officers and employees of the assembly](07-officers-and-employees-of-the-assembly.md)
 - [§ 7-A Legislative library, librarian and assistants](07a-legislative-library-librarian-and-assistants.md)
@@ -59,6 +60,7 @@ Section 2.    Exemption of members and officers from arrest.
         5-a.  Allowances for member serving as an officer of either
                 house of the legislature or in a special capacity
                 therein.
+        5-b.  Limit on outside earned income by members.
         6.    Officers and employees of the senate.
         7.    Officers and employees of the assembly.
         7-a.  Legislative library, librarian and assistants.

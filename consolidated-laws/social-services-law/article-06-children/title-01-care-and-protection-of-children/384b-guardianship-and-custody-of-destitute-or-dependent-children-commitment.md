@@ -150,26 +150,19 @@ the child for adoption without the consent of or notice to the parents
 or such other persons. Such notice also shall inform the parents and
 such other persons of their right to the assistance of counsel,
 including any right they may have to have counsel assigned by the court
-in any case where they are financially unable to obtain counsel. The
-petition shall set forth the names and last known addresses of all
-persons required to be given notice of the proceeding, pursuant to this
-section and section three hundred eighty-four-c of this title, and there
-shall be shown by the petition or by affidavit or other proof
-satisfactory to the court that there are no persons other than those set
-forth in the petition who are entitled to notice pursuant to the
-provisions of this section or of section three hundred eighty-four-c of
-this title. When the proceeding is initiated in family court service of
-the petition and other process shall be made in accordance with the
-provisions of section six hundred seventeen of the family court act, and
-when the proceeding is initiated in surrogate's court, service shall be
-made in accordance with the provisions of section three hundred seven of
-the surrogate's court procedure act. When the proceeding is initiated on
-the grounds of abandonment of a child less than one year of age at the
-time of the transfer of the care and custody of such child to a local
-social services official, the court shall take judicial notice of
-efforts to locate the child's parents or other known relatives or other
-persons legally responsible pursuant to paragraph (ii) of subdivision
-(b) of section one thousand fifty-five of the family court act.
+in any case where they are financially unable to obtain counsel. When
+the proceeding is initiated in family court service of the petition and
+other process shall be made in accordance with the provisions of section
+six hundred seventeen of the family court act, and when the proceeding
+is initiated in surrogate's court, service shall be made in accordance
+with the provisions of section three hundred seven of the surrogate's
+court procedure act. When the proceeding is initiated on the grounds of
+abandonment of a child less than one year of age at the time of the
+transfer of the care and custody of such child to a local social
+services official, the court shall take judicial notice of efforts to
+locate the child's parents or other known relatives or other persons
+legally responsible pursuant to paragraph (ii) of subdivision (b) of
+section one thousand fifty-five of the family court act.
   (f) In any proceeding under this section in which the surrogate's
 court has exercised jurisdiction, the provisions of the surrogate's
 court procedure act shall apply to the extent that they do not conflict
@@ -693,16 +686,6 @@ relations law. The court shall thereafter establish a schedule for
 completion of other inquiries and investigations necessary to complete
 review of the adoption of the child and shall immediately set a schedule
 for completion of the adoption.
-  12. If the court determines to commit the custody and guardianship of
-the child pursuant to this section, or if the court determines to
-suspend judgement pursuant to section six hundred thirty-three of the
-family court act, the court in its order shall determine if there is any
-parent to whom notice of an adoption would be required pursuant to
-section one hundred eleven-a of the domestic relations law. In its order
-the court shall indicate whether such person or persons were given
-notice of the proceeding and whether such person or persons appeared.
-Such determinations shall be conclusive in all subsequent proceedings
-relating to the custody, guardianship or adoption of the child.
   13. A petition to modify a disposition of commitment of guardianship
 and custody in order to restore parental rights may be brought in
 accordance with part one-A of article six of the family court act where

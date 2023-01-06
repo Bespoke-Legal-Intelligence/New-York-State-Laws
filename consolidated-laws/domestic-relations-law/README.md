@@ -8,7 +8,7 @@
 | Senate code | DOM |
 | Type | Consolidated law, chapter 14 |
 | Sections | 174 |
-| Last changed | 30 Dec 2022 |
+| Last changed | 6 Jan 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Domestic Relations |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [6 Jan 2023](../../changes/2023/2023-01-06.md): 6 amended
 - [30 Dec 2022](../../changes/2022/2022-12-30.md): 1 amended
 - [16 Dec 2022](../../changes/2022/2022-12-16.md): 1 amended
 - [2 Dec 2022](../../changes/2022/2022-12-02.md): 1 amended
@@ -40,7 +41,6 @@ Assembly, do enact as follows:
 - [22 Apr 2022](../../changes/2022/2022-04-22.md): 1 added
 - [15 Apr 2022](../../changes/2022/2022-04-15.md): 3 amended
 - [4 Mar 2022](../../changes/2022/2022-03-04.md): 1 amended
-- [7 Jan 2022](../../changes/2022/2022-01-07.md): 2 amended
 
 ## Contents
 

@@ -7,6 +7,7 @@
 
 - [§ 560 Abandoned subdivisions](560-abandoned-subdivisions.md)
 - [§ 561 Payments in lieu of taxes; change of assessment; effective date](561-payments-in-lieu-of-taxes-change-of-assessment-effective-date.md)
+- [§ 561-A Payments in lieu of taxes; change of assessment; notice](561a-payments-in-lieu-of-taxes-change-of-assessment-notice.md)
 - [§ 562 Certain property used or occupied by a railroad](562-certain-property-used-or-occupied-by-a-railroad.md)
 - [§ 563 Real property used to store spent nuclear fuel](563-real-property-used-to-store-spent-nuclear-fuel.md)
 - [§ 564 Privately-owned improvements on state lands](564-privately-owned-improvements-on-state-lands.md)
@@ -36,6 +37,7 @@
 Section 560.   Abandoned subdivisions.
         561.   Payments in lieu of taxes; change of assessment;
                  effective date.
+        561-a. Payments in lieu of taxes; change of assessment; notice.
         562.   Certain property used or occupied by a railroad.
         563.   Real property used to store spent nuclear fuel.
         564.   Privately-owned improvements on state lands.

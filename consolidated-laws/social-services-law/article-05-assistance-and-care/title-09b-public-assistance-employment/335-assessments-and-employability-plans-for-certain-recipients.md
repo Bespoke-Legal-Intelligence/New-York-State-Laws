@@ -5,7 +5,7 @@
 
 ```text
   § 335. Assessments and employability plans for certain recipients in
-households with dependent children.  1. Each social services official
+households with dependent children. 1. Each social services official
 shall ensure that each recipient of public assistance who is a member of
 a household with dependent children and is eighteen years of age or
 older, or who is sixteen or seventeen years of age and is not attending
@@ -15,11 +15,12 @@ his or her educational level, including literacy and English language
 proficiency, basic skills proficiency, child care and other supportive
 services needs; and skills, prior work experience, training and
 vocational interests. This assessment shall include a review of family
-circumstances including a review of any special needs of a child. Such
-assessment shall be completed within ninety days of the date on which
-such person is determined eligible for public assistance. An applicant
-for or recipient of public assistance may be assigned to work activities
-prior to completion of such assessment.
+circumstances including a review of any special needs of a child and
+whether home visiting services would be appropriate and beneficial for
+the family. Such assessment shall be completed within ninety days of the
+date on which such person is determined eligible for public assistance.
+An applicant for or recipient of public assistance may be assigned to
+work activities prior to completion of such assessment.
   2. (a) Based on the assessment required by subdivision one of this
 section, the social services official, in consultation with the
 participant, shall develop an employability plan in writing which shall
@@ -27,7 +28,7 @@ set forth the services that will be provided by the social services
 official, including but not limited to child care and other services and
 the activities in which the participant will take part, including child
 care and other services and shall set forth an employment goal for the
-participant.  To the extent possible, the employability plan shall
+participant. To the extent possible, the employability plan shall
 reflect the preferences of the participant in a manner that is
 consistent with the results of the participant's assessment and the need
 of the social services district to meet federal and state work activity
@@ -38,7 +39,7 @@ supportive services needs, available program resources, local employment
 opportunities, and where the social services official is considering an
 educational activity assignment for such participant, the participant's
 liability for student loans, grants and scholarship awards. The
-employability plan shall be explained to the participant.  Any change to
+employability plan shall be explained to the participant. Any change to
 the participant's employability plan required by the social services
 official shall be discussed with the participant and shall be documented
 in writing.
@@ -50,11 +51,21 @@ require the participant to enter a program to achieve basic literacy or
 high school equivalency or to enter such educational programs in
 combination with other training activities consistent with the
 employability plan.
+  (c) Where an assessment indicates that home visiting services would be
+appropriate and beneficial to the public assistance household, and such
+services are available, the local social services official shall
+encourage the recipient to participate in such services. To the extent
+that such participant is interested in receiving home visiting services,
+the local social services official shall assign the participant to a
+work activity in accordance with paragraph (f) or (m) of subdivision one
+of section three hundred thirty-six of this title, where such home
+visiting services shall count towards the individual's work requirements
+as set forth in section three hundred thirty-five-b of this title.
   3. Each applicant for or recipient of public assistance as described
 herein must participate in an assessment as required by the social
 services district in accordance with the conditions of this section.
 Applicants who fail or refuse to participate with the requirements of
-this section shall be ineligible for public assistance.  Recipients who
+this section shall be ineligible for public assistance. Recipients who
 fail or refuse to participate with the requirements of this section
 shall be subject to the sanctions set forth in section three hundred
 forty-two of this title.
@@ -69,7 +80,7 @@ plans.
 pursuant to their employability plans to the extent that child care is
 guaranteed and other services as prescribed by section three hundred
 thirty-two-a of this title and section four hundred ten-u of this
-chapter are available.  The district shall provide information to
+chapter are available. The district shall provide information to
 participants orally and in writing, as appropriate, regarding child care
 and the methods of payment therefor. Such information shall be
 sufficient for participants to make an informed decision regarding child

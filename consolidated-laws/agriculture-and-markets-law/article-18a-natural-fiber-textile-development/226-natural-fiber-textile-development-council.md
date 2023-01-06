@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 18-A — Natural Fiber Textile Development](README.md)
 
 ```text
-  * § 226. Natural fiber textile development council. 1. There is hereby
+  § 226. Natural fiber textile development council. 1. There is hereby
 established within the department a natural fiber textile development
 council. Such council shall consist of the commissioner, the
 commissioner of economic development, or their designees, and ten other
@@ -55,5 +55,4 @@ the assembly and the minority leader of the senate.
   3. The department shall provide necessary support services to the
 council, including, within funds available, the appointment of an
 executive director to coordinate the work of the council.
-  * NB Effective January 1, 2023
 ```

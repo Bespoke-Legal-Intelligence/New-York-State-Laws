@@ -4,7 +4,7 @@
 [Partnership Law](../README.md) › [Article 8-B — Registered Limited Liability Partnerships](README.md)
 
 ```text
-  * § 121-1505-a. Electronic service of process. The secretary of state
+  § 121-1505-a. Electronic service of process. The secretary of state
 shall advise any partnership subject to the laws of this article in
 prominent written form as follows: (a) electronic service of process
 authorized by the provisions of this chapter is an optional program at
@@ -15,5 +15,4 @@ to receive service of process by way of the program through electronic
 means, in which case digital copies will be made accessible but paper
 documents will not be mailed; and (c) such choice may be reversed by the
 partnership at any time and, thereafter, service by mail will resume.
-  * NB Effective January 1, 2023
 ```

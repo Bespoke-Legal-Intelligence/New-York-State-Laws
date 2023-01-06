@@ -7,10 +7,12 @@
 |---|---|
 | Senate code | RPA |
 | Type | Consolidated law, chapter 81 |
-| Sections | 344 |
-| Last changed | 30 Dec 2022 |
+| Sections | 361 |
+| Last changed | 6 Jan 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Real Property Actions & Proceedings |
+
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
 **Short title (from the law itself):** § 101. Short title. This chapter shall be known as the real property actions and proceedings law and may be cited as "RPAPL".
 
@@ -18,19 +20,20 @@
 
 ```text
 AN ACT to reconsolidate laws relating to actions, rights of action and
-                 proceedings concerning real property, constituting
-                 chapter eighty-one of the consolidated laws
+                   proceedings concerning real property, constituting
+                   chapter eighty-one of the consolidated laws
 Became a law March 13, 1962, with the approval of the Governor.  Passed
-                 by a majority vote, three-fifths being present
+                   by a majority vote, three-fifths being present
   The People of the State of New York, represented in Senate and
 Assembly, do enact as follows:
                 REAL PROPERTY ACTIONS AND PROCEEDINGS LAW
 ```
 
-[Full chapter text (58 lines)](chapter-text.md)
+[Full chapter text (67 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [6 Jan 2023](../../changes/2023/2023-01-06.md): 1 amended, 17 added
 - [30 Dec 2022](../../changes/2022/2022-12-30.md): 1 amended
 - [23 Dec 2022](../../changes/2022/2022-12-23.md): 14 added
 - [25 Nov 2022](../../changes/2022/2022-11-25.md): 1 amended, 1 added
@@ -40,7 +43,6 @@ Assembly, do enact as follows:
 - [1 Apr 2022](../../changes/2022/2022-04-01.md): 1 amended
 - [25 Mar 2022](../../changes/2022/2022-03-25.md): 2 amended
 - [7 Jan 2022](../../changes/2022/2022-01-07.md): 2 amended
-- [31 Dec 2021](../../changes/2021/2021-12-31.md): 1 amended
 
 ## Contents
 
@@ -54,6 +56,7 @@ Assembly, do enact as follows:
 - [Article 7-A — Special Proceedings By Tenants of Dwellings In the City of New York and the Counties of Nassau, Suffolk, Rockland and Westchester For Judgment Directing Deposit of Rents and the Use Thereof For the Purpose of Remedying Conditions Dangerous to Life, Health or Safety](article-07a-special-proceedings-by-tenants-of-dwellings/)
 - [Article 7-B — Special Proceeding For the Removal of Abandoned Manufactured Homes](article-07b-special-proceeding-for-the-removal-of-abandoned/)
 - [Article 7-C — Special Proceedings By Tenants of Dwellings For Judgment Directing Deposit of Rents and the Use Thereof For the Purpose of Remedying Conditions Dangerous to Life, Health or Safety](article-07c-special-proceedings-by-tenants-of-dwellings/)
+- [Article 7-C\* — Special Proceedings By Tenants For Judgment Directing Repairs of Conditions and Other Relief In Residential Real Property Constituting Violation of Applicable Local or State Housing Standards or Real Property Law §](article-07c-special-proceedings-by-tenants-for-judgment/)
 - [Article 8 — Waste and Other Actions and Rights of Action For Injury to Real Property](article-08-waste-and-other-actions-and-rights-of-action/)
 - [Article 9 — Action For Partition](article-09-action-for-partition/)
 - [Article 10 — Action For Dower](article-10-action-for-dower/)
@@ -66,5 +69,6 @@ Assembly, do enact as follows:
 - [Article 18 — Special Proceeding For Release of Claim Against State of Infant or Incompetent For Appropriation of Real Property](article-18-special-proceeding-for-release-of-claim-against/)
 - [Article 19 — Discharge or Extinguishment of Encumbrances, Claims and Interests](article-19-discharge-or-extinguishment-of-encumbrances/)
 - [Article 19-A — Special Proceeding to Convey Title to Abandoned Dwelling to City, Town or Village](article-19a-special-proceeding-to-convey-title-to-abandoned/)
+- [Article 19-B — Special Proceeding to Convey Title to Abandoned Commercial and Industrial Real Property to City, Town, or Village](article-19b-special-proceeding-to-convey-title-to-abandoned/)
 - [Article 20 — Enforcement of Covenants and Easements; Recovery of Damages For Breach of Covenant or Injury to Easement](article-20-enforcement-of-covenants-and-easements-recovery/)
 - [Article 21 — Effective Date; Laws Repealed](article-21-effective-date-laws-repealed/)

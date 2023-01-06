@@ -141,7 +141,13 @@ no later than twenty-four months (whether or not consecutive) from
 initial receipt of such assistance.
   (c) Each social services official shall ensure that each parent or
 caretaker of a child, when such parent or caretaker is receiving public
-assistance, is engaged in work as soon as practicable.
+assistance, is engaged in work as soon as practicable. Provided,
+however, that such social services official shall ensure that each
+parent or caretaker of a child under the age of five is provided with
+information regarding home visiting programs which meet the criteria
+established pursuant to 42 U.S.C. 711 in their area, and that such home
+visiting services may satisfy a portion of such individual's required
+work activities.
   (d) Each social services official shall ensure that each adult member
 of a household without dependents, when such household is receiving
 public assistance is engaged in work as soon as practicable.

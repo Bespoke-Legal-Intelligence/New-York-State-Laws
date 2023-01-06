@@ -3,6 +3,8 @@
 
 [Not-for-Profit Corporation Law](../README.md)
 
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
 ## Contents
 
 - [§ 1501 Declaration of policy](1501-declaration-of-policy.md)
@@ -11,6 +13,7 @@
 - [§ 1504 Cemetery board and general administration](1504-cemetery-board-and-general-administration.md)
 - [§ 1505 Special requirements of incorporation](1505-special-requirements-of-incorporation.md)
 - [§ 1505-A Additional requirements for incorporation of crematories](1505a-additional-requirements-for-incorporation-of-crematories.md)
+- [§ 1505-B Additional requirements for incorporation of natural organic reduction facilities](1505b-additional-requirements-for-incorporation-of-natural-organic-reduction.md)
 - [§ 1506 Cemetery lands](1506-cemetery-lands.md)
 - [§ 1506-A Cemetery corporations; restrictions](1506a-cemetery-corporations-restrictions.md)
 - [§ 1506-B Transfer of lands of Valley View Rural Cemetery](1506b-transfer-of-lands-of-valley-view-rural-cemetery.md)
@@ -34,6 +37,7 @@
 - [§ 1516 Sale of monuments](1516-sale-of-monuments.md)
 - [§ 1517 Crematory operations](1517-crematory-operations.md)
 - [§ 1518 Crematory operations during emergency declaration](1518-crematory-operations-during-emergency-declaration.md)
+- [§ 1518\*2 Natural organic reduction facility operations](1518-2-natural-organic-reduction-facility-operations.md)
 
 <details>
 <summary>Official heading of Article 15, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -48,6 +52,8 @@ Section 1501.   Declaration of policy.
         1505.   Special requirements of incorporation.
         1505-a. Additional requirements for incorporation of
                   crematories.
+        1505-b. Additional requirements for incorporation of natural
+                  organic reduction facilities.
         1506.   Cemetery lands.
         1506-a. Cemetery corporations; restrictions.
         1506-b. Transfer of lands of Valley View Rural Cemetery.
@@ -74,6 +80,7 @@ Section 1501.   Declaration of policy.
         1516.   Sale of monuments.
         1517.   Crematory operations.
         1518.   Crematory operations during emergency declaration.
+        1518*2. Natural organic reduction facility operations.
 ```
 
 </details>

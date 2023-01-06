@@ -11,10 +11,9 @@
 <summary>Official heading of Article 18-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 18-A
+                              ARTICLE 18-A
                     NATURAL FIBER TEXTILE DEVELOPMENT
 Section 226. Natural fiber textile development council.
-  * NB Effective January 1, 2023
 ```
 
 </details>

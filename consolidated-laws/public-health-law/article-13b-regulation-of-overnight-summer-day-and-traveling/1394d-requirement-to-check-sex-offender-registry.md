@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 13-B — Regulation of Overnight, Summer Day, and Traveling Summer Day Camps For Children](README.md)
 
 ```text
-  * § 1394-d. Requirement to check sex offender registry. Every person,
+  § 1394-d. Requirement to check sex offender registry. Every person,
 firm, limited liability company, association and corporation which
 operates a children's non-regulated camp as defined in section three
 hundred ninety-eight-f of the general business law shall be required to
@@ -15,5 +15,4 @@ center, established under the Adam Walsh child protection and safety act
 of 2006 (42 U.S.C. 16901 et seq.) prior to the day such employee or
 volunteer commences work at such camp and annually thereafter prior to
 their arrival at such camp.
-  * NB Effective December 27, 2022
 ```

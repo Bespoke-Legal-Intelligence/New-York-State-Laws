@@ -8,6 +8,7 @@
 - [§ 2180 Definitions](2180-definitions.md)
 - [§ 2181 COVID-19 contact tracing; confidentiality](2181-covid-19-contact-tracing-confidentiality.md)
 - [§ 2182 Regulations](2182-regulations.md)
+- [§ 2183 Immunity passports](2183-immunity-passports.md)
 
 <details>
 <summary>Official heading of Title 8, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -18,6 +19,7 @@
 Section 2180. Definitions.
         2181. COVID-19 contact tracing; confidentiality.
         2182. Regulations.
+        2183. Immunity passports.
 ```
 
 </details>

@@ -4,11 +4,11 @@
 [Domestic Relations Law](../README.md) › [Article 3 — Solemnization, Proof and Effect of Marriage](README.md)
 
 ```text
-  § 12.  Marriage, how solemnized.  No particular form or ceremony is
+  * § 12. Marriage, how solemnized. No particular form or ceremony is
 required when a marriage is solemnized as herein provided by a clergyman
 or magistrate, but the parties must solemnly declare in the presence of
 a clergyman or magistrate and the attending witness or witnesses that
-they take each other as husband and wife.  In every case, at least one
+they take each other as husband and wife. In every case, at least one
 witness beside the clergyman or magistrate must be present at the
 ceremony.
   The preceding provisions of this chapter, so far as they relate to the
@@ -19,4 +19,23 @@ marriages; but such marriages must be solemnized in the manner
 heretofore used and practiced in their respective societies or
 denominations, and marriages so solemnized shall be as valid as if this
 article had not been enacted.
+  * NB Effective until March 28, 2023
+  * § 12. Marriage, how solemnized. No particular form or ceremony is
+required when a marriage is solemnized as herein provided by a
+clergyman, magistrate, or one-day marriage officiant as designated by
+the secretary of state pursuant to section one hundred ten of the
+executive law but the parties must solemnly declare in the presence of a
+clergyman, magistrate, or one-day marriage officiant and the attending
+witness or witnesses that they take each other as spouses. In every
+case, at least one witness beside the clergyman, magistrate, or one-day
+marriage officiant must be present at the ceremony.
+  The preceding provisions of this chapter, so far as they relate to the
+manner of solemnizing marriages, shall not affect marriages among the
+people called friends or quakers; nor marriages among the people of any
+other denominations having as such any particular mode of solemnizing
+marriages; but such marriages must be solemnized in the manner
+heretofore used and practiced in their respective societies or
+denominations, and marriages so solemnized shall be as valid as if this
+article had not been enacted.
+  * NB Effective March 28, 2023
 ```

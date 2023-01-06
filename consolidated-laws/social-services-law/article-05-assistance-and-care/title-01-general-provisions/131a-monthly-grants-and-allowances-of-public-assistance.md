@@ -312,7 +312,7 @@ aid has been made, which is derived from the health care and mental
 hygiene worker bonuses under section three hundred sixty-seven-w of this
 article or under the chapter of the laws of two thousand twenty-two
 which added this subparagraph.
-  * NB There are 2 par (a)'s
+  * NB There are 2 sbpar (x)'s
   * (x) Any financial assistance received by individuals as part of
 their participation in a pilot program that has developed a plan to
 study and evaluate the impact and potential benefits of direct cash
@@ -323,7 +323,7 @@ authority to disregard income for the direct cash transfer pilot program
 for the purpose of the supplemental nutrition assistance program.
   * NB Effective March 23, 2023
   * NB Repealed March 23, 2029
-  * NB There are 2 par (a)'s
+  * NB There are 2 sbpar (x)'s
   (b) Notwithstanding the provisions of paragraph (a) of this
 subdivision, there shall not be disregarded under subparagraphs (ii) and
 (iii) of such paragraph any earned income of any of the persons to which

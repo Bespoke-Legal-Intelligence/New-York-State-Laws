@@ -1,0 +1,49 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 4371", "kind": "section", "law_id": "PBH", "location_id": "4371", "path": "ARTICLE 43-B › TITLE 2 › SECTION 4371", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4371.md", "title": "Reimbursement of living donor expenses"} -->
+# Public Health Law § 4371 — Reimbursement of living donor expenses
+
+[Public Health Law](../../README.md) › [Article 43-B — Organ, Tissue and Body Parts Procurement and Storage](../README.md) › [Title 2 — Living Organ Donation](README.md)
+
+```text
+  * § 4371. Reimbursement of living donor expenses. 1. The living donor
+support program is hereby established in the department.
+  2. (a) Subject to appropriations therefor, the program shall pay the
+living donor expenses for living donors who are residents of the state
+and make a living donation in which the ultimate recipient, either
+directly or through paired donation is a resident of the state. The
+commissioner through regulations shall establish eligible living donor
+expenses that are eligible for reimbursement under the program which
+shall include at a minimum: lost wages (including demonstrated lost
+non-employment income); the economic value of sick or vacation days
+expended; travel and lodging, child care and elder care expenses; and
+costs of medications and care associated with the living donation
+surgery. The total period of time related to lost wages or expended sick
+or vacation days shall not exceed four weeks unless special
+circumstances are demonstrated, such as the nature of physical labor
+required for the living donor's employment; provided that the total
+period shall in no event exceed eight weeks. The commissioner may by
+regulation impose a limitation on: (i) the amount of lost wages for a
+living donor making an income in excess of an annual rate of one hundred
+twenty-five thousand dollars; or (ii) the amount of living donor
+expenses above fourteen thousand dollars for any single living donor;
+and may include additional living donor expenses including reimbursement
+for costs of care performed by relatives or family members of the living
+donor.
+  (b) The program shall not pay reimbursement for expenses paid or
+required to be paid for by any third-party payer, including wages or
+other expenses that were covered under paid medical leave by the living
+donor's employer or that are covered by other sources of reimbursement
+such as the federal National Living Donor Assistance Program. The
+program shall be the payer of last resort with respect to any benefit
+under the program.
+  (c) Living donor expenses shall be reimbursed as close in time as
+possible to their being incurred by the donor, including by pre-payment
+where practicable.
+  3. (a) The commissioner may contract for the administration of
+reimbursement under the program. Factors such as cost to the state, ease
+of use for the living donor, and ease of use for transplant center
+hospitals shall be taken into consideration when awarding such contract.
+  (b) The commissioner shall make regulations to implement this section.
+  (c) This section shall be interpreted so as not to conflict with the
+federal National Organ Transplant Act (42 U.S.C. 274e).
+  * NB Effective April 1, 2023
+```

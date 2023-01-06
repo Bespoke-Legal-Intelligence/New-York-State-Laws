@@ -158,6 +158,7 @@
 - [§ 399-J Safety standards; moveable soccer goals](399j-safety-standards-moveable-soccer-goals.md)
 - [§ 399-M Disclosures in advertisement and sale of unassembled goods](399m-disclosures-in-advertisement-and-sale-of-unassembled-goods.md)
 - [§ 399-N Approval of electrical devices](399n-approval-of-electrical-devices.md)
+- [§ 399-NN Sale of digital electronic equipment; diagnostic and repair information](399nn-sale-of-digital-electronic-equipment-diagnostic-and-repair-information.md)
 - [§ 399-O Selling prices and container deposits](399o-selling-prices-and-container-deposits.md)
 - [§ 399-OO Deceptive solicitation of vehicle warranty policies](399oo-deceptive-solicitation-of-vehicle-warranty-policies.md)
 - [§ 399-P Telemarketing; use of automatic dialing-announcing devices and placement of consumer telephone calls](399p-telemarketing-use-of-automatic-dialing-announcing-devices-and-placement.md)
@@ -404,6 +405,8 @@ Section 390.         Substitution of spurious oils for internal
         399-m.       Disclosures in advertisement and sale of
                        unassembled goods.
         399-n.       Approval of electrical devices.
+        399-nn.      Sale of digital electronic equipment; diagnostic
+                       and repair information.
         399-o.       Selling prices and container deposits.
         399-oo.      Deceptive solicitation of vehicle warranty
                        policies.

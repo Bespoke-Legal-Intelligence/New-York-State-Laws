@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 4909", "kind": "section", "law_id": "PBH", "location_id": "4909", "path": "ARTICLE 49 › TITLE 1 › SECTION 4909", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4909.md", "title": "Prescription drug formulary changes"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 4909", "kind": "section", "law_id": "PBH", "location_id": "4909", "path": "ARTICLE 49 › TITLE 1 › SECTION 4909", "repealed": true, "repealed_date": "2023-01-06", "source": "nys-laws:PBH/4909.md", "title": "Prescription drug formulary changes"} -->
 # Public Health Law § 4909 — Prescription drug formulary changes
 
 [Public Health Law](../../README.md) › [Article 49 — Utilization Review and External Appeal](../README.md) › [Title 1 — Certification of Agents and Utilization Review Process](README.md)
+
+**Repealed** (6 Jan 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 4909. Prescription drug formulary changes. 1. Except as otherwise

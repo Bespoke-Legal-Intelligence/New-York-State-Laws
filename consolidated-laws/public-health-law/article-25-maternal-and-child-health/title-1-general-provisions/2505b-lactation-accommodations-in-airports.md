@@ -4,7 +4,7 @@
 [Public Health Law](../../README.md) › [Article 25 — Maternal and Child Health](../README.md) › [Title 1 — General Provisions](README.md)
 
 ```text
-  * § 2505-b. Lactation accommodations in airports. 1. The terminal
+  § 2505-b. Lactation accommodations in airports. 1. The terminal
 operator of a commercial service airport owned or operated by a county,
 city, town, village, or state or local authority that has one million or
 more enplanements a year shall provide a room or other location at each
@@ -31,5 +31,4 @@ and
   3. As used in this section, "renovation of an existing passenger
 terminal" means the repurposing of more than twenty-five percent of the
 space in the passenger terminal.
-  * NB Effective January 1, 2023
 ```

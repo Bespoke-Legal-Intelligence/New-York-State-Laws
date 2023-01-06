@@ -12,6 +12,7 @@
 - [§ 203 Method of computing periods of limitation generally](203-method-of-computing-periods-of-limitation-generally.md)
 - [§ 204 Stay of commencement of action; demand for arbitration](204-stay-of-commencement-of-action-demand-for-arbitration.md)
 - [§ 205 Termination of action](205-termination-of-action.md)
+- [§ 205-A Termination of certain actions related to real property](205a-termination-of-certain-actions-related-to-real-property.md)
 - [§ 206 Computing periods of limitation in particular actions](206-computing-periods-of-limitation-in-particular-actions.md)
 - [§ 207 Defendant's absence from state or residence under false name](207-defendants-absence-from-state-or-residence-under-false-name.md)
 - [§ 208 Infancy, insanity](208-infancy-insanity.md)
@@ -71,6 +72,8 @@
                    (a) New action by plaintiff.
                    (b) Defense or counterclaim.
                    (c) Application.
+        205-a.   Termination of certain actions related to real
+                   property.
         206.     Computing periods of limitation in particular actions.
                    (a) Where demand necessary.
                    (b) Based on misconduct of agent.

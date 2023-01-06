@@ -14,7 +14,7 @@
 <summary>Official heading of Title 9, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                               * TITLE IX
+                                TITLE IX
                       AUTOMATIC VOTER REGISTRATION
 Section 5-900. Integrated personal voter registration application
                  required.
@@ -22,7 +22,6 @@ Section 5-900. Integrated personal voter registration application
                  registration.
         5-904. Presumption of innocent authorized error.
         5-906. Forms.
-  * NB Effective January 1, 2023
 ```
 
 </details>

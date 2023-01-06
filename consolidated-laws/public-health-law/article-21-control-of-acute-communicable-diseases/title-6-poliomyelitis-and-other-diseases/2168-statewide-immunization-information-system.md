@@ -189,13 +189,23 @@ in this paragraph.
 access to newborn infant hearing screening data and results through the
 statewide immunization information system in accordance with section
 twenty-five hundred-g of this chapter.
-  (d) A person, institution or agency to whom such immunization
-information is furnished or to whom, access to records or information
-has been given, shall not divulge any part thereof so as to disclose the
-identity of such person to whom such information or record relates,
-except insofar as such disclosure is necessary for the best interests of
-the person or other persons, consistent with the purposes of this
-section.
+  (d) (i) Identifiable registrant information is not (1) subject to
+discovery, subpoena, warrant, or other means of legal compulsion for
+release to any person or (2) admissible in any civil, administrative,
+criminal, or family court proceeding, except for the purposes of
+investigations and prosecutions of allegations of computer tampering or
+billing fraud related to vaccination records, fraudulent statements
+related to an individual's vaccination status, an act of violence or
+attempted violence occurring at the site of a vaccination provider's or
+vaccine navigator's business, or medical malpractice. Disclosure for
+these purposes shall be subject to in camera review and approval by the
+court and, if the use is initiated by a party other than the individual
+whose registry information is sought, the information must be highly
+material and relevant for the purpose.
+  (ii) Nothing in this section shall be construed to limit commissioners
+of local social services districts or the commissioner of the office of
+children and family services from accessing identifiable registrant
+information under paragraph (d) of subdivision eight of this section.
   5. (a) All health care providers and their designees, except for
 providers reporting to the citywide immunization registry, shall submit
 to the commissioner information about any vaccinee less than nineteen
@@ -250,7 +260,9 @@ method by which authorized users apply for access to the citywide
 immunization registry.
   (b) (i) The commissioner may use the statewide immunization
 information system and the blood lead information in such system for
-purposes of outreach, quality improvement and accountability, research,
+purposes of outreach, quality improvement and accountability, including
+professional responsibility proceedings of the office of professional
+medical conduct and the state education department, research,
 epidemiological studies and disease control, and to obtain blood lead
 test results from physician office laboratories for the statewide
 registry of lead levels of children established pursuant to subdivision
@@ -274,8 +286,10 @@ registrant, determination of the blood lead testing status of a specific
 registrant, submission of the results from a blood lead analysis of a
 sample obtained from a specific registrant in accordance with paragraph
 (h) of subdivision two of this section, review of practice coverage,
-generation of reminder notices, quality improvement and accountability
-and printing a copy of the immunization or lead testing record for the
+generation of reminder notices, quality improvement and accountability,
+including professional responsibility proceedings of the office of
+professional medical conduct and the state education department, and
+printing a copy of the immunization or lead testing record for the
 registrant's medical record, for the registrant's parent or guardian, or
 other person in parental or custodial relation to a child, or for a
 registrant upon reaching eighteen years of age.
@@ -342,13 +356,37 @@ of the citywide immunization registry, by the city of New York
 commissioner of the department of health and mental hygiene.
   11. The commissioner, or in the city of New York, the commissioner of
 the department of health and mental hygiene, may provide registrant
-specific immunization and lead test records to other state or city
-registries and registries maintained by the Indian Health Service and
-tribal nations recognized by the state or the United States pursuant to
-a written agreement requiring that the other registry conform to
-national standards for maintaining the integrity of the data and will
-not be used for purposes inconsistent with the provisions of this
-section.
+specific immunization and lead test records to the federal centers for
+disease control and prevention or its successor agency, to other state
+or city registries and registries maintained by the Indian Health
+Service and tribal nations recognized by the state or the United States
+pursuant to a written agreement requiring that the other registry
+conform to national standards for maintaining the integrity of the data
+and that the data will only be used for purposes consistent with the
+provisions of this section and provided that disclosure of identifiable
+registrant information shall be limited to the minimum amount necessary
+to accomplish the purposes consistent with the provisions of this
+section as determined by the commissioner, or in the city of New York,
+the commissioner of the department of health and mental hygiene.
+  11-a. The commissioner, or in the city of New York, the commissioner
+of the department of health and mental hygiene, may only share registry
+information with the federal Centers for Disease Control and Prevention,
+or successor agency, for public health purposes in summary, statistical,
+aggregate, or other form such that no individual person can be
+identified, except that either such commissioner may disclose
+identifiable registrant information to the federal Centers for Disease
+Control and Prevention, or its successor agency, when the commissioner
+has determined that the disclosure is in the best interests of the
+registrant or will contribute to the protection of public health, that
+the objective of the disclosure cannot be served by disclosure limited
+to de-identified information, and the federal health officials have
+committed in writing not to redisclose to or share registrant
+information with any other federal agency, including but not limited to
+the department of homeland security, immigration and customs
+enforcement, customs and border protection, or any successor agency, or
+any law enforcement agency; provided that either such commissioner may
+forgo the written commitment if requiring written commitment would
+result in the actual withholding of federal funds.
   12. Information that would be provided upon the enrollment in the
 statewide immunization information system of a child being vaccinated,
 from birth records of all infants born in New York state on or after

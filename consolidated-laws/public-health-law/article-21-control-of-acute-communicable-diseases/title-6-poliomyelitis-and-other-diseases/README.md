@@ -13,6 +13,7 @@
 - [§ 2166 Immunization; regulations](2166-immunization-regulations.md)
 - [§ 2167 Immunization against meningococcal meningitis](2167-immunization-against-meningococcal.md)
 - [§ 2168 Statewide immunization information system](2168-statewide-immunization-information-system.md)
+- [§ 2169 Vaccine confidentiality](2169-vaccine-confidentiality.md)
 
 <details>
 <summary>Official heading of Title 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -34,6 +35,7 @@ Section 2160. Poliomyelitis; persons twenty-one years of age and over;
         2166. Immunization; regulations.
         2167. Immunization against meningococcal meningitis.
         2168. Statewide immunization information system.
+        2169. Vaccine confidentiality.
 ```
 
 </details>

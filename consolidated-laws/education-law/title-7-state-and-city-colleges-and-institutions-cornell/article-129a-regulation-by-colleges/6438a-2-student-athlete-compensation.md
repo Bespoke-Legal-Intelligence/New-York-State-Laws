@@ -141,5 +141,4 @@ student-athletes in transferring the valuable skills developed during
 intercollegiate athletic participation, to a successful post-college
 career.
   * NB There are 2 § 6438-a's
-  * NB Effective January 1, 2023
 ```

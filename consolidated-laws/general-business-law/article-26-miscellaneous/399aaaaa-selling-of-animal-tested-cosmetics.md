@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 26 — Miscellaneous](README.md)
 
 ```text
-  * § 399-aaaaa. Selling of animal tested cosmetics. 1. For the purposes
+  § 399-aaaaa. Selling of animal tested cosmetics. 1. For the purposes
 of this section the following terms shall have the following meanings:
   (a) "Cosmetic" shall mean articles intended to be rubbed, poured,
 sprinkled, or sprayed on, introduced into, or otherwise applied to the
@@ -81,5 +81,4 @@ thousand dollars per day if the violation continues.
 or continue any prohibition on or relating to animal testing, as defined
 in this section that is not identical to the prohibitions established in
 this section.
-  * NB Effective January 1, 2023
 ```

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBH |
 | Type | Consolidated law, chapter 45 |
-| Sections | 1,742 |
-| Last changed | 30 Dec 2022 |
+| Sections | 1,756 (1 repealed) |
+| Last changed | 6 Jan 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Health |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER 45 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (344 lines)](chapter-text.md)
+[Full chapter text (348 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [6 Jan 2023](../../changes/2023/2023-01-06.md): 17 amended, 14 added, 1 repealed
 - [30 Dec 2022](../../changes/2022/2022-12-30.md): 9 amended, 3 added
 - [23 Dec 2022](../../changes/2022/2022-12-23.md): 3 amended, 2 added
 - [16 Dec 2022](../../changes/2022/2022-12-16.md): 3 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [18 Nov 2022](../../changes/2022/2022-11-18.md): 3 amended
 - [21 Oct 2022](../../changes/2022/2022-10-21.md): 4 amended
 - [7 Oct 2022](../../changes/2022/2022-10-07.md): 3 amended
-- [2 Sep 2022](../../changes/2022/2022-09-02.md): 3 amended
 
 ## Contents
 
@@ -122,6 +122,7 @@ Assembly, do enact as follows:
 - [Article 29-CCCC — Care Act (caregiver Advise, Record and Enable Act)](article-29cccc-care-act-caregiver-advise-record-and-enable-act/)
 - [Article 29-D — Health Information and Quality Improvement](article-29d-health-information-and-quality-improvement/)
 - [Article 29-E — Accountable Care Organizations](article-29e-accountable-care-organizations/)
+- [Article 29-EE — Program of All-inclusive Care For the Elderly](article-29ee-program-of-all-inclusive-care-for-the-elderly/)
 - [Article 29-F — Improved Integration of Health Care and Financing](article-29f-improved-integration-of-health-care/)
 - [Article 29-G — Telehealth Delivery of Services](article-29g-telehealth-delivery-of-services/)
 - [Article 29-I — Medical Services For Foster Children](article-29i-medical-services-for-foster-children/)

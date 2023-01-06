@@ -1,0 +1,57 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 4364", "kind": "section", "law_id": "PBH", "location_id": "4364", "path": "ARTICLE 43-B › TITLE 1 › SECTION 4364", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4364.md", "title": "Licensure of banks and storage facilities"} -->
+# Public Health Law § 4364 — Licensure of banks and storage facilities
+
+[Public Health Law](../../README.md) › [Article 43-B — Organ, Tissue and Body Parts Procurement and Storage](../README.md) › [Title 1 — Organ, Tissue and Body Parts Procurement and Storage](README.md)
+
+```text
+  § 4364. Licensure of banks and storage facilities. 1. No person shall
+own or operate a bank or storage facility that conducts procurement
+activity in New York state unless a license has been issued pursuant to
+this article.
+  2. An application for a license for a bank or storage facility shall
+contain the name of the operator, its officers, directors, principal
+stockholders, and controlling persons, a description of its
+organizational structure, the kind or kinds of procurement or storage
+services to be provided, the location and physical description of the
+bank or storage facility, and such other information as the department
+may require.
+  3. A license shall not be issued unless the department finds that the
+premises, equipment, personnel, rules and by-laws, and standards of
+service are fit and adequate and that the bank or storage facility will
+be operated in the manner required by this article.
+  4. Prior to approving an application for a license to operate a bank
+or storage facility which procures or stores tissue for transplantation
+or therapy purposes, the department shall consider:
+  (a) the applicant's ability to arrange for the acquisition and
+preservation of usable donated tissue within a designated geographic
+area of service and to arrange for the transportation of such tissue
+when necessary;
+  (b) the applicant's ability to obtain effective agreements for tissue
+procurement with hospitals;
+  (c) the applicant's ability to conduct and participate in systematic
+efforts, including professional and public education, to procure usable
+tissue from potential donors;
+  (d) the applicant's ability to establish and meet quality standards
+for the acquisition and storage of tissue;
+  (e) the applicant's ability to arrange for the selection and testing
+of donors and donated tissue, including the performance of donor
+selection and required laboratory tests including typing and processing;
+  (f) the character and competence of the operator, its officers,
+directors, principal stockholders and controlling persons, including the
+quality of care provided through any health care entities operated or
+controlled by such persons; and
+  (g) with respect to banks and storage facilities created after the
+effective date of this paragraph, the existence and activities of other
+banks and storage facilities in the geographic area to be served by the
+applicant.
+  5. No hospital or other facility and no physician shall permit any
+person to procure tissue or non-transplant organs unless such person has
+been licensed in accordance with this article, or has been asked by a
+licensed bank or storage facility to procure a specified tissue or
+non-transplant organ. No bank or storage facility shall sell or
+otherwise transfer tissue for valuable consideration.  Valuable
+consideration shall not include reasonable costs associated with the
+procurement, processing, storage and distribution of tissue.  Nothing
+herein shall impair the provisions of section forty-three hundred seven
+of this chapter.
+```

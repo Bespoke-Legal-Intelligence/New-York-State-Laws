@@ -24,6 +24,16 @@ child, except as otherwise extended up to the twelve month period by the
 social services official;
   (e) a woman who is pregnant, beginning thirty days prior to the
 medically verified date of delivery of her child.
+  1-a. Applicants for, or recipients of, public assistance who are
+exempt from work activities pursuant to paragraph (d) or (e) of
+subdivision one of this section shall be eligible to receive home
+visiting services that meet the criteria established pursuant to 42
+U.S.C. 711, so long as such individual meets all other eligibility
+criteria established pursuant to the particular home visiting model. The
+local social services district shall provide information to any
+applicant or recipient that is interested in receiving such services and
+provide assistance in determining the most appropriate model to meet the
+particular needs of the individual.
   2. A local social services official shall:
   (a) make diligent efforts to assist a person who needs transportation
 to get to and from a work activity site in obtaining such

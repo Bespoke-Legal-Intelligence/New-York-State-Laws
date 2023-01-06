@@ -652,13 +652,24 @@ paragraph thirty-six of subsection (b) of this section, the amount
 required to be recaptured pursuant to subsection (d) of section 179 of
 the internal revenue code with respect to property upon which such
 modification was based.
-  (38) An amount of up to ten thousand dollars if a taxpayer, while
+  (38) * An amount of up to ten thousand dollars if a taxpayer, while
 living, donates one or more of his or her human organs to another human
 being for human organ transplantation. For purposes of this paragraph,
 "human organ" means all or part of a liver, pancreas, kidney, intestine,
 lung, or bone marrow. A subtract modification allowed under this
 paragraph shall be claimed in the taxable year in which the human organ
 transplantation occurs.
+  * NB Effective until April 1, 2023
+  * An amount of up to ten thousand dollars if a taxpayer, while living,
+donates one or more of his or her human organs to another human being
+for human organ transplantation. For purposes of this paragraph, "human
+organ" means all or part of a liver, pancreas, kidney, intestine, lung,
+or bone marrow. A subtract modification allowed under this paragraph
+shall be claimed in the taxable year in which the human organ
+transplantation occurs. Provided, however, that this deduction shall not
+apply to any donation for which the taxpayer has received benefits under
+section forty-three hundred seventy-one of the public health law.
+  * NB Effective April 1, 2023
   (A) A taxpayer shall claim the subtract modification allowed under
 this paragraph only once and such subtract modification shall be claimed
 for only the following unreimbursed expenses which are incurred by the

@@ -18,7 +18,7 @@
 - [§ 6280 Actions against fund](6280-actions-against-fund.md)
 - [§ 6281 Municipal regulations](6281-municipal-regulations.md)
 - [§ 6282 Exemption from taxation](6282-exemption-from-taxation.md)
-- [§ 6283 Procurements of the fund](6283-procurements-of-the-fund.md)
+- [§ 6283 Procurements of the fund](6283-procurements-of-the-fund.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 125-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -40,7 +40,6 @@ Section 6270. Short title.
         6280. Actions against fund.
         6281. Municipal regulations.
         6282. Exemption from taxation.
-        6283. Procurements of the fund.
 ```
 
 </details>

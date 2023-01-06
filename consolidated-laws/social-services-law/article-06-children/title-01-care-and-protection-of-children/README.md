@@ -63,6 +63,7 @@
 - [§ 390-J Performance summary card in a city having a population of one million or more](390j-performance-summary-card-in-a-city-having-a-population-of-one-million.md)
 - [§ 390-K Child care availability taskforce](390k-child-care-availability-taskforce.md)
 - [§ 390-L Securing of furniture](390l-securing-of-furniture.md)
+- [§ 390-M Cordless window coverings required](390m-cordless-window-coverings-required.md)
 - [§ 391 Violation; injunction](391-violation-injunction.md)
 - [§ 392 Services for relative and non-relative kinship caregivers](392-services-for-relative-and-non-relative-kinship-caregivers.md)
 - [§ 393 Court review of placement in a qualified residential treatment program](393-court-review-of-placement-in-a-qualified-residential-treatment-program.md)
@@ -149,6 +150,7 @@ Section 371.     Definitions.
                    of one million or more.
         390-k.   Child care availability taskforce.
         390-l.   Securing of furniture.
+        390-m.   Cordless window coverings required.
         391.     Violation; injunction.
         392.     Services for relative caregivers.
         393.     Court review of placement in a qualified residential

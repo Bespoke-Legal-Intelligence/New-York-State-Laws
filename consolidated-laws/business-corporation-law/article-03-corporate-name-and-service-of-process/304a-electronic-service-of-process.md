@@ -4,7 +4,7 @@
 [Business Corporation Law](../README.md) › [Article 3 — Corporate Name and Service of Process](README.md)
 
 ```text
-* § 304-a. Electronic service of process.
+§ 304-a. Electronic service of process.
   The secretary of state shall advise any corporation subject to the
 laws of this chapter in prominent written form as follows: (a)
 electronic service of process authorized by the provisions of this
@@ -16,5 +16,4 @@ of the program through electronic means, in which case digital copies
 will be made accessible but paper documents will not be mailed; and (c)
 such choice may be reversed by the corporation at any time and,
 thereafter, service by mail will resume.
-  * NB Effective January 1, 2023
 ```

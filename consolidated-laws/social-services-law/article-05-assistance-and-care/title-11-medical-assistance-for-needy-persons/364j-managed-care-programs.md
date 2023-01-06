@@ -176,6 +176,17 @@ sufficiently address the behavioral health and health services needs of
 enrollees; and monitor the application of such standards to ensure that
 they sufficiently address the behavioral health and health services
 needs of enrollees.
+  ** (d) Whenever the commissioner of health makes changes to the terms,
+conditions or time frames contained in the model contract with managed
+care providers in the managed care program under this section, public
+notice detailing the changes shall be provided on the department's
+website and through publication as a public notice in the state register
+prior to finalizing such changes or submitting the amended contract to
+the Centers for Medicare and Medicaid Services for approval, if
+required. This public notice shall also apply to any request for
+proposals issued by the department for managed care providers to
+participate in the managed care program.
+  ** NB Effective February 28, 2023
   3. (a) Every person eligible for or receiving medical assistance under
 this article, who resides in a social services district providing
 medical assistance, which has implemented the state's managed care
@@ -738,7 +749,55 @@ network, provided that such terms shall include reimbursement of such
 center at no less than the fee-for-service medicaid payment rate and
 methodology applicable to the center's inpatient and outpatient
 services.
-  ** NB Effective January 1, 2023 and Repealed January 1, 2028
+  ** NB There are 2 par (w)'s
+  ** NB Repealed January 1, 2028
+  ** (w)(i) The department of health or a managed care organization
+contracted to provide services pursuant to this section shall establish
+a program for synchronization of medications when it is agreed among the
+recipient, a provider and a pharmacist that synchronization of multiple
+prescriptions for the treatment of a chronic illness is in the best
+interest of the patient for the management or treatment of a chronic
+illness provided that the medications:
+  (A) are covered by Medicaid services or a managed care organization
+contracted to provide services pursuant to this chapter;
+  (B) are used for treatment and management of chronic conditions that
+are subject to refills;
+  (C) are not a schedule II controlled substance, nor a schedule III
+controlled substance that contains hydrocodone;
+  (D) meet all prior authorization criteria specific to the medications
+at the time of the synchronization request;
+  (E) are of a formulation that can be effectively split over required
+short fill periods to achieve synchronization; and
+  (F) do not have quantity limits or dose optimization criteria or
+requirements that would be violated in fulfilling synchronization.
+  (ii) The department of health or a managed care organization
+contracted to provide services under this section shall not deny
+coverage for the dispensing of a medication by a pharmacy for a partial
+supply when it is for the purpose of synchronizing the patient's
+medications. When applicable to permit synchronization, the department
+of health or a managed care organization contracted to provide services
+under this title shall allow a pharmacy to override any denial codes
+indicating that a prescription is being refilled too soon for the
+purposes of medication synchronization.
+  (iii) To permit synchronization, the department of health or a managed
+care organization contracted to provide services pursuant to this title
+shall apply a prorated daily cost-sharing rate to any medication
+dispensed by a pharmacy pursuant to this section.
+  (iv) The dispensing fee paid to a pharmacy contracted to provide
+services pursuant to this section for a partial supply associated with a
+medication synchronization shall be paid in full and shall not be
+prorated.
+  (v) The requirement of this paragraph applies only once for each
+prescription drug subject to medication synchronization except when
+either of the following occurs:
+  (A) the prescriber changes the dosage or frequency of administration
+of the prescription drug subject to a medication synchronization; or
+  (B) the prescriber prescribes a different drug.
+  (vi) Nothing in this paragraph shall be deemed to require health care
+practitioners and pharmacists to synchronize the refilling of multiple
+prescriptions for a covered individual.
+  ** NB There are 2 par (w)'s
+  ** NB Effective April 29, 2023
   5. Managed care programs shall be conducted in accordance with the
 requirements of this section and, to the extent practicable, encourage
 the provision of comprehensive medical services, pursuant to this

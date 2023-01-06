@@ -29,6 +29,7 @@
 - [§ 17 Reports on financed equipment acquisitions](17-reports-on-financed-equipment-acquisitions.md)
 - [§ 18 Interest and collection fees assessed on debts owed to the state](18-interest-and-collection-fees-assessed-on-debts-owed-to-the-state.md)
 - [§ 19 Returned check charge](19-returned-check-charge.md)
+- [§ 19-A Parking facilities; support for electric vehicle charging stations](19a-parking-facilities-support-for-electric-vehicle-charging-stations.md)
 
 <details>
 <summary>Official heading of Article 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -63,6 +64,8 @@ Section  2.   Definitions.
         18.   Interest and collection fees assessed on debts owed to the
                 state.
         19.   Returned check charge.
+        19-a. Parking facilities; support for electric vehicle charging
+                stations.
 ```
 
 </details>

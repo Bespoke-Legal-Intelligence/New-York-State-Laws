@@ -145,9 +145,9 @@ Article
                   III.   Human immunodeficiency virus (§§2130-2139).
                    IV.   Rabies (§§2140-2146).
                     V.   Typhoid fever (§§2150-2153).
-                   VI.   Poliomyelitis and Other Diseases (§§2160-2168).
+                   VI.   Poliomyelitis and Other Diseases (§§2160-2169).
                   VII.   Hepatitis C (§§2170-2171).
-                    8.   Novel coronavirus, COVID-19 (§§2180-2182).
+                    8.   Novel coronavirus, COVID-19 (§§2180-2183).
   21-A.    Long-term care resident and employee immunization act
             (§§2190-2196).
   22.      Control of tuberculosis
@@ -245,11 +245,13 @@ Article
                   II.    Quality improvement (§§2998--2999-a).
                    3.    Pay for performance (§§2999-b--2999-f).
                    4.    New York state medical indemnity fund
-                          (§§2999-g--2999-j).
+                          (§§2999-g--2999-k).
                    5.    New York state hospital quality initiative
                           (§2999-m).
   29-E.    Accountable care organizations demonstration program (§§
             2999-n--2999-r).
+  29-EE.   Program of all-inclusive care for the elderly (§§
+            2999-s--2999-y).
   29-F.    Improved integration of health care and financing (§§
             2999-aa--2999-bb).
   29-G.    Telehealth delivery of services (§§ 2999-cc--2999-ee).
@@ -329,8 +331,10 @@ Article
                    II.   Autopsy and dissection (§§4209-4222).
   43.      Anatomical gifts (§§4300-4310).
   43-A.    Request for consent to an anatomical gift (§4351).
-  43-B.    Organ, tissue and body parts procurement and storage
-            (§§4360-4369).
+  43-B.    Organ procurement and donor support
+           Title    1.   Organ, tissue and body parts procurement and
+                          storage (§§4360-4369).
+                    2.   Living organ donation (§§4370-4372).
   44.      Health maintenance organizations (§§4400-4416).
   45.      Medical referral services (§§4500-4503).
   46.      Continuing care retirement communities (§§4600-4624).

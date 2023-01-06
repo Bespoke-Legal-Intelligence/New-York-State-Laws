@@ -4,15 +4,7 @@
 [Public Health Law](../README.md) › [Article 13-B — Regulation of Overnight, Summer Day, and Traveling Summer Day Camps For Children](README.md)
 
 ```text
-  * § 1394-b. Requirement to check sex offender registry. Every person,
-firm, limited liability company, association and corporation which
-operates a traveling summer day camp shall be required, to ascertain
-whether an employee or volunteer is listed on the state sex offender
-registry pursuant to article six-C of the correction law prior to the
-day such employee or volunteer commences work at said camp and annually
-thereafter prior to their arrival at said camp.
-  * NB Effective until December 27, 2022
-  * § 1394-b. Requirement to check sex offender registry. Every person,
+  § 1394-b. Requirement to check sex offender registry. Every person,
 firm, limited liability company, association and corporation which
 operates a traveling summer day camp shall be required, to ascertain
 whether an employee or volunteer is listed on the state sex offender
@@ -22,5 +14,4 @@ center, established under the Adam Walsh child protection and safety act
 of 2006 (42 U.S.C. 16901 et seq.) prior to the day such employee or
 volunteer commences work at said camp and annually thereafter prior to
 their arrival at said camp.
-  * NB Effective December 27, 2022
 ```

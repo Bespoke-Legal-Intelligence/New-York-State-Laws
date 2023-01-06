@@ -60,6 +60,7 @@
 - [§ 9-X Mortgage forbearance](9x-mortgage-forbearance.md)
 - [§ 9-X\*2 Fees based on inactivity; notification](9x-2-fees-based-on-inactivity-notification.md)
 - [§ 9-Y Banking institutions to pay checks drawn therein in order of presentation](9y-banking-institutions-to-pay-checks-drawn-therein-in-order-of-presentation.md)
+- [§ 9-Z Cashing of certain checks](9z-cashing-of-certain-checks.md)
 
 <details>
 <summary>Official heading of Article 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -149,6 +150,7 @@ Section 1.     Short title.
         9-x*2. Fees based on inactivity; notification.
         9-y.   Banking institutions to pay checks drawn therein in order
                  of presentation.
+        9-z.   Cashing of certain checks.
 ```
 
 </details>
