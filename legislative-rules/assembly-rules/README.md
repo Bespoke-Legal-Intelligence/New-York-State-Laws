@@ -17,11 +17,11 @@
 ```text
                           RULES OF THE ASSEMBLY
                         OF THE STATE OF NEW YORK
-                                2019-2020
-  Rules of the Assembly for the years 2019--2020, as adopted by Assembly
-Resolution  number  644  of  2020  and as amended by Assembly Resolution
-number 9 of 2021 and as amended by Assembly  Resolution  number  493  of
-2022.
+                                2023-2024
+  Rules of the Assembly for the years 2023--2024, as adopted by Assembly
+Resolution   number   6  of  2023,  including  the  temporary  emergency
+procedures set forth in Assembly Resolution 854  adopted  on  March  30,
+2020, as last amended.
   Permanent  Joint  Rules  of  the  Senate  and  Assembly, as adopted by
 ```
 

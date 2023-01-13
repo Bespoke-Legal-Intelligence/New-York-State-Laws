@@ -17,15 +17,15 @@
 ```text
                             RULES OF THE SENATE
                         OF THE STATE OF NEW YORK
-                                2021-2022
-Rules  of  the  Senate  for  the  year  2021-2022,  as adopted by Senate
-Resolution number 2 of 2021.
+                                2023-2024
+Rules  of  the  Senate  for  the  year  2023-2024,  as adopted by Senate
+Resolution number 2 of 2023.
   Permanent Joint Rules of  the  Senate  and  Assembly,  as  adopted  by
 Concurrent  Resolution  numbers  459 (Senate) and 544 (Assembly) of 1984
 and as amended by Concurrent Resolution number 260 (Senate) of 1995  and
 ```
 
-[Full chapter text (1,392 lines)](chapter-text.md)
+[Full chapter text (1,404 lines)](chapter-text.md)
 
 ## Contents
 

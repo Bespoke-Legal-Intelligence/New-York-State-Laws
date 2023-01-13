@@ -12,24 +12,7 @@ term "electronic benefit transfer" includes the use of a credit or debit
 card service, automated teller machine, point-of-sale terminal, or
 access to an online system for the withdrawal of funds or the processing
 of a payment for merchandise or a service.
-  * 1. Any contract entered into on behalf of local social services
-districts for electronic benefit transfer services shall ensure that
-there are a sufficient number of access points in each local social
-services district to ensure an adequate distribution of such services.
-Upon implementation of an electronic benefit transfer system in a local
-social services district or in any political or other geographic
-subdivision of such district, the department shall publish a list
-identifying the number and location of access points within such
-district or subdivision, and shall seek and accept public comment on the
-adequacy of recipient access to electronic benefit transfer services
-within such district or subdivision. The department shall seek to
-maximize recipient access to electronic benefit transfer services by
-working with the contractor to establish access points at a broad range
-of businesses and community facilities including, but not limited to,
-community centers, senior citizen centers, educational and job skills
-training sites, and local housing authorities.
-  * NB Effective until January 10, 2023
-  * 1. (a) Any contract entered into on behalf of local social services
+  1. (a) Any contract entered into on behalf of local social services
 districts for electronic benefit transfer services shall ensure that
 there are a sufficient number of access points in each local social
 services district to ensure an adequate distribution of such services.
@@ -60,7 +43,6 @@ recipients to any additional benefits. Benefit recipients shall not be
 required to accept or utilize both cards. The department shall notify
 existing and future benefit recipients of the availability of multiple
 cards.
-  * NB Effective January 10, 2023
   2. The department or the designated agent thereof shall utilize
 appropriate materials and training to provide each recipient with
 adequate instruction on the use of the electronic benefit transfer
