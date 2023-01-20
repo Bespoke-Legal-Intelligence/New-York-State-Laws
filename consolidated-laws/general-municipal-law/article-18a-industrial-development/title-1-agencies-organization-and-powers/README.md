@@ -16,7 +16,7 @@
 - [§ 859 Financial records](859-financial-records.md)
 - [§ 859-A Additional prerequisites to the provisions of financial assistance](859a-additional-prerequisites-to-the-provisions-of-financial.md)
 - [§ 859-B Special procedure for the provision of financial assistance to continuing care retirement communities](859b-special-procedure-for-the-provision-of-financial.md)
-- [§ 859-C State disaster emergency loan program](859c-state-disaster-emergency-loan-program.md)
+- [§ 859-C State disaster emergency loan program](859c-state-disaster-emergency-loan-program.md) *(repealed)*
 - [§ 860 Moneys of the agency](860-moneys-of-the-agency.md)
 - [§ 861 Notification of budget](861-notification-of-budget.md)
 - [§ 862 Restrictions on funds of the agency](862-restrictions-on-funds-of-the-agency.md)
@@ -55,7 +55,6 @@ Section 850.   Short title.
                  assistance.
         859-b. Special procedure for the provision of financial
                  assistance to continuing care retirement communities.
-        859-c. State disaster emergency loan program.
         860.   Moneys of the agency.
         861.   Notification of budget.
         862.   Restrictions on funds of the agency.

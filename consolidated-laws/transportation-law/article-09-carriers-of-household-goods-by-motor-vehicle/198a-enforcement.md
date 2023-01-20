@@ -4,7 +4,7 @@
 [Transportation Law](../README.md) › [Article 9 — Carriers of Household Goods By Motor Vehicle](README.md)
 
 ```text
-  * § 198-a. Enforcement. The department shall enforce this article and
+  § 198-a. Enforcement. The department shall enforce this article and
 any rules or regulations promulgated pursuant thereto. The attorney
 general, in response to a request by the commissioner or a complaint
 from a consumer, or on the attorney general's own initiative, may seek
@@ -36,5 +36,4 @@ violation. In connection with any such proposed application, the
 attorney general may take proof and make a determination of the relevant
 facts and issue subpoenas in accordance with the civil practice law and
 rules.
-  * NB Effective January 15, 2023
 ```

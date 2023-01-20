@@ -4,18 +4,10 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 165 — Clinical Laboratory Technology Practice Act](README.md)
 
 ```text
-  * § 8600. Introduction. This article defines the practice of clinical
-laboratory technology and provides for the licensing of clinical
-laboratory technologists and cytotechnologists and for the certification
-of clinical laboratory technicians and histological technicians. The
-general provisions for all professions contained in article one hundred
-thirty of this title shall apply to this article.
-  * NB Effective until January 17, 2023
-  * § 8600. Introduction. This article defines the practice of clinical
+  § 8600. Introduction. This article defines the practice of clinical
 laboratory technology and provides for the licensing of clinical
 laboratory technologists, cytotechnologists, and histotechnologists and
 for the certification of clinical laboratory technicians and
 histotechnicians. The general provisions for all professions contained
 in article one hundred thirty of this title shall apply to this article.
-  * NB Effective January 17, 2023
 ```

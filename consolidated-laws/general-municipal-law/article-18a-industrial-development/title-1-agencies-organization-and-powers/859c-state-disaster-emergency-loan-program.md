@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 859-C", "kind": "section", "law_id": "GMU", "location_id": "859-C", "path": "ARTICLE 18-A › TITLE 1 › SECTION 859-C", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/859-C.md", "title": "State disaster emergency loan program"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 859-C", "kind": "section", "law_id": "GMU", "location_id": "859-C", "path": "ARTICLE 18-A › TITLE 1 › SECTION 859-C", "repealed": true, "repealed_date": "2023-01-20", "source": "nys-laws:GMU/859-C.md", "title": "State disaster emergency loan program"} -->
 # General Municipal Law § 859-C — State disaster emergency loan program
 
 [General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 1 — Agencies, Organization and Powers](README.md)
+
+**Repealed** (20 Jan 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 859-c. State disaster emergency loan program. 1. For purposes of

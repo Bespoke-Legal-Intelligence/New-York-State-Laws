@@ -824,66 +824,6 @@ that materially improves the patient's length or quality of life; and
 (E) is expected to achieve the result described in clause (D) of this
 subparagraph after not more than three administrations.
   * NB Repealed March 31, 2026
-  * (f) (1) The department may require manufacturers of drugs other than
-single source drugs and innovator multiple source drugs, as such terms
-are defined in 42 U.S.C. § 1396r-8(k), to provide rebates to the
-department for any drug that has increased more than three hundred
-percent of its state maximum acquisition cost (SMAC) during the period
-April 1, 2016 through March thirty-first, two thousand seventeen, or
-that has increased more than seventy-five percent of its SMAC on or
-after April first, two thousand seventeen, in comparison to its SMAC at
-any time during the course of the preceding twelve months. The required
-rebate shall be limited to the amount by which the current SMAC for the
-drug exceeds the applicable percentage of the SMAC for the same drug at
-any time during the course of the preceding twelve months. Such rebates
-shall be in addition to any rebates payable to the department pursuant
-to any other provision of federal or state law. Nothing herein shall
-affect the department's obligation to reimburse for covered outpatient
-drugs pursuant to paragraph (d) of this subdivision.
-  (2) Except as provided in subparagraph three of this paragraph, the
-commissioner shall not determine any further rebates to be payable
-pursuant to this paragraph once the Centers for Medicare and Medicaid
-Services has adopted a final methodology for determining the amount of
-additional rebates under the federal generic drug price increase rebate
-program pursuant to 42 U.S.C. § 1396r-8 (c)(3), as amended by section
-602 of the Bipartisan Budget Act of 2015.
-  (3) During state fiscal year 2016-2017, if the Centers for Medicare
-and Medicaid Services has adopted a final methodology for determining
-the amount of additional rebates under the federal generic drug price
-increase rebate program pursuant to 42 U.S.C. § 1396r-8 (c)(3), as
-amended by section 602 of the Bipartisan Budget Act of 2015, the
-department may collect for a given drug the portion of the rebate
-determined under this paragraph that is in excess of the rebate required
-by such federal rebate program.
-  (4) The additional rebates authorized pursuant to this paragraph shall
-apply to generic prescription drugs dispensed to enrollees of managed
-care providers pursuant to section three hundred sixty-four-j of this
-title and to generic prescription drugs dispensed to Medicaid recipients
-who are not enrollees of such providers.
-  (5) Beginning in two thousand seventeen, the department shall provide
-an annual report to the legislature no later than February first setting
-forth:
-  (i) The number of drugs that exceeded the ceiling price established in
-this paragraph during the preceding year in comparison to the number of
-drugs that experienced at least a three hundred percent price increase
-during two thousand fourteen and two thousand fifteen, or at least a
-seventy-five percent price increase during two thousand fifteen and two
-thousand sixteen;
-  (ii) The average percent amount above the ceiling price of drugs that
-exceeded the ceiling price in the preceding year in comparison to the
-number of drugs that experienced a price increase more than three
-hundred percent during two thousand fourteen and two thousand fifteen,
-or at least a seventy-five percent price increase during two thousand
-fifteen and two thousand sixteen;
-  (iii) The number of generic drugs available to enrollees in Medicaid
-fee for service or Medicaid managed care, by fiscal quarter, in the
-preceding year in comparison to the drugs available, by fiscal quarter,
-during two thousand fourteen, two thousand fifteen, and two thousand
-sixteen; and
-  (iv) The total drug spend on generic drugs for the preceding year in
-comparison to the total drug spend on generic drugs during two thousand
-fourteen, two thousand fifteen, and two thousand sixteen.
-  * NB Repealed March 31, 2022
   * 8. No government agency shall purchase, pay for, or make
 reimbursement or grants-in-aid for any service in a residential
 treatment facility for children and youth or a comprehensive psychiatric

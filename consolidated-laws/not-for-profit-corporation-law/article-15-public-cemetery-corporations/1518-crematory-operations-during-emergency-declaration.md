@@ -4,7 +4,7 @@
 [Not-for-Profit Corporation Law](../README.md) › [Article 15 — Public Cemetery Corporations](README.md)
 
 ```text
-§ 1518. Crematory operations during emergency declaration.
+* § 1518. Crematory operations during emergency declaration.
   Notwithstanding any other provision of law, for the duration of a
 state or county disaster emergency declared pursuant to an executive
 order, crematories located in any county of the state may provide
@@ -27,4 +27,5 @@ return the cremated remains to the individual authorizing such
 cremation. Nothing in this section shall require a crematory to provide
 such transportation or additional crematory resources if they are unable
 to do so.
+  * NB There are 2 § 1518's
 ```

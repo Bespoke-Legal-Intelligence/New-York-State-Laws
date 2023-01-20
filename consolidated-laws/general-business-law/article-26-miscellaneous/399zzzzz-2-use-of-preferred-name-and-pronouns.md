@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 399-ZZZZZ*2", "kind": "section", "law_id": "GBS", "location_id": "399-ZZZZZ*2", "path": "ARTICLE 26 › SECTION 399-ZZZZZ*2", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/399-ZZZZZ_2.md", "title": "Use of preferred name and pronouns"} -->
+# General Business Law § 399-ZZZZZ*2 — Use of preferred name and pronouns
+
+[General Business Law](../README.md) › [Article 26 — Miscellaneous](README.md)
+
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
+```text
+  * § 399-zzzzz. Use of preferred name and pronouns. 1. For the purposes
+of this section, "telephone service provider" means any company that
+provides voice service utilizing any technology, regardless of whether
+such provider is regulated pursuant to the public service law.
+  2. Every telephone service provider shall provide customers with a
+convenient option to request that the telephone service provider use
+their preferred name and/or preferred pronouns in all written or oral
+communications between the telephone service provider and the customer,
+as well as all statements or documentation relating to a customer's
+telephone service, regardless of whether such customer's preferred name
+differs from their current legal name.
+  3. If a customer's preferred name differs from their current legal
+name, a telephone service provider may require such customer to provide
+reasonable proof of identity using their legal name, provided that such
+information shall be used solely to verify the customer's identity or
+for other purposes required by law.
+  4. No telephone service provider shall:
+  (a) willfully and repeatedly fail to use a customer's preferred name
+and/or preferred pronouns after being clearly informed of the preferred
+name and/or preferred pronouns pursuant to subdivision two of this
+section; or
+  (b) require a customer to specify their sexual orientation or gender
+identity or expression in order to use their preferred name and/or
+preferred pronouns.
+  * NB There are 2 § 399-zzzzz's
+```

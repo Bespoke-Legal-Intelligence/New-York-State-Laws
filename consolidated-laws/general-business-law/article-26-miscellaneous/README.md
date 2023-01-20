@@ -187,7 +187,7 @@
 - [§ 399-ZZZ Prohibition of certain fee charges](399zzz-prohibition-of-certain-fee-charges.md)
 - [§ 399-ZZZZ Prohibition of certain fee charges for termination or early cancellation](399zzzz-prohibition-of-certain-fee-charges-for-termination-or-early-cancellation.md)
 - [§ 399-ZZZZZ Broadband service for low-income consumers](399zzzzz-broadband-service-for-low-income-consumers.md)
-- [§ 399-ZZZZZ\*2 Prohibition of certain broadband terminations or disconnections](399zzzzz-2-prohibition-of-certain-broadband-terminations-or-disconnections.md)
+- [§ 399-ZZZZZ\*2 Use of preferred name and pronouns](399zzzzz-2-use-of-preferred-name-and-pronouns.md)
 - [§ 399-ZZZZZ\*3 Use of preferred name and pronouns](399zzzzz-3-use-of-preferred-name-and-pronouns.md)
 
 <details>
@@ -454,9 +454,7 @@ Section 390.         Substitution of spurious oils for internal
         399-zzzz.    Prohibition of certain fee charges for termination
                        or early cancellation.
         399-zzzzz.   Broadband service for low-income consumers.
-        399-zzzzz*2. Prohibition of certain broadband terminations or
-                       disconnections.
-        399-zzzzz.   Use of preferred name and pronouns.
+        399-zzzzz*2. Use of preferred name and pronouns.
 ```
 
 </details>

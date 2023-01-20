@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 165 — Clinical Laboratory Technology Practice Act](README.md)
 
 ```text
-  * § 8606-b. Requirements for licensure as a histotechnologist. For
+  § 8606-b. Requirements for licensure as a histotechnologist. For
 certification as a histotechnologist under this article, an applicant
 shall fulfill the following requirements:
   1. Application: file an application with the department;
@@ -41,5 +41,4 @@ department; and
   7. Fees: pay a fee of one hundred seventy-five dollars for an initial
 license and a fee of one hundred seventy dollars for each triennial
 registration period.
-  * NB Effective January 21, 2024
 ```
