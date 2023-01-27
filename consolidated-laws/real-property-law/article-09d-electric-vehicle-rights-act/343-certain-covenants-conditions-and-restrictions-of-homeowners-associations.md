@@ -4,9 +4,9 @@
 [Real Property Law](../README.md) › [Article 9-D — Electric Vehicle Rights Act](README.md)
 
 ```text
-  * § 343. Certain covenants, conditions, and restrictions of
-homeowners' associations prohibited. 1. Definitions. For the purposes of
-this section:
+  § 343. Certain covenants, conditions, and restrictions of homeowners'
+associations prohibited. 1. Definitions. For the purposes of this
+section:
   (a) "restriction on use" shall mean any covenant, restriction, or
 condition contained in:
   (i) a deed;
@@ -58,5 +58,4 @@ local permitting authorities.
 charging station installed and seeking to enforce compliance with this
 section, the homeowner shall be awarded reasonable attorney's fees if he
 or she prevails.
-  * NB Effective January 21, 2023
 ```

@@ -11,11 +11,10 @@
 <summary>Official heading of Article 9-D, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              * ARTICLE 9-D
+                               ARTICLE 9-D
                        ELECTRIC VEHICLE RIGHTS ACT
 Section 343. Certain covenants, conditions, and restrictions of
                homeowners' associations prohibited.
-  * NB Effective January 21, 2023
 ```
 
 </details>
