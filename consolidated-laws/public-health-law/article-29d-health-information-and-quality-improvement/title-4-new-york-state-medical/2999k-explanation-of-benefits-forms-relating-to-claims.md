@@ -4,12 +4,11 @@
 [Public Health Law](../../README.md) › [Article 29-D — Health Information and Quality Improvement](../README.md) › [Title 4 — New York State Medical Indemnity Fund](README.md)
 
 ```text
-  * § 2999-k. Explanation of benefits forms relating to claims for
+  § 2999-k. Explanation of benefits forms relating to claims for
 qualifying health care costs under the fund. The fund administrator
 shall provide qualified plaintiffs with an explanation of benefits form
 which shall include an identification of the service for which the claim
 was made, an explanation of any denial or reduction in reimbursement for
 the amount claimed, and information on the process to appeal a denial of
 benefits.
-  * NB Effective January 27, 2023
 ```
