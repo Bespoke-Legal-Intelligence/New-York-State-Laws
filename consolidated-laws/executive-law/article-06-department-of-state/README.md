@@ -45,10 +45,10 @@
 - [§ 135 Powers and duties; in general; of notaries public who are attorneys at law](135-powers-and-duties-in-general-of-notaries-public-who-are-attorneys-at-law.md)
 - [§ 135-A Notary public or commissioner of deeds; acting without appointment; fraud in office](135a-notary-public-or-commissioner-of-deeds-acting-without-appointment-fraud.md)
 - [§ 135-B Advertising by notaries public](135b-advertising-by-notaries-public.md)
-- [§ 135-C Remote ink notarization](135c-remote-ink-notarization.md)
+- [§ 135-C Electronic notarization](135c-electronic-notarization.md)
 - [§ 136 Notarial fees](136-notarial-fees.md)
 - [§ 137 Statement as to authority of notaries public](137-statement-as-to-authority-of-notaries-public.md)
-- [§ 137-A Electronic notarization](137a-electronic-notarization.md)
+- [§ 137-A Electronic notarization](137a-electronic-notarization.md) *(repealed)*
 - [§ 138 Powers of notaries public or other officers who are stockholders, directors, officers or employees of a corporation](138-powers-of-notaries-public-or-other-officers-who-are-stockholders-directors.md)
 - [§ 139 Commissioners of deeds within the state](139-commissioners-of-deeds-within-the-state.md)
 - [§ 140 Commissioners of deeds in the city of New York](140-commissioners-of-deeds-in-the-city-of-new-york.md)

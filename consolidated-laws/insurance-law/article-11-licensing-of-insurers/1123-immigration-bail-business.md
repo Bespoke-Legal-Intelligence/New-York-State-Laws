@@ -4,7 +4,7 @@
 [Insurance Law](../README.md) › [Article 11 — Licensing of Insurers](README.md)
 
 ```text
-  * § 1123. Immigration bail business. (a)(1) Any person, firm,
+  § 1123. Immigration bail business. (a)(1) Any person, firm,
 corporation, or other entity who shall for another deposit money or
 property as bail or execute as surety any bond in any immigration action
 or proceeding who within a period of one month prior thereto shall have
@@ -32,5 +32,4 @@ section one thousand one hundred two of this article.
   (d) Any agreement entered into by an entity subject to this section
 that is not authorized to do an immigration bail business in accordance
 with the provisions of this article shall be void and unenforceable.
-  * NB Effective February 7, 2023
 ```

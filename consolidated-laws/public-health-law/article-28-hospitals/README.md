@@ -147,6 +147,7 @@
 - [§ 2825-D Health care facility transformation program: statewide](2825d-health-care-facility-transformation-program-statewide.md)
 - [§ 2825-E Health care facility transformation program: statewide II](2825e-health-care-facility-transformation-program-statewide-ii.md)
 - [§ 2825-F Health care facility transformation program: statewide III](2825f-health-care-facility-transformation-program-statewide-iii.md)
+- [§ 2825-G Health care facility transformation program: statewide IV](2825g-health-care-facility-transformation-program-statewide-iv.md)
 - [§ 2826 Temporary adjustment to reimbursement rates](2826-temporary-adjustment-to-reimbursement-rates.md)
 - [§ 2827 Plant-based food options](2827-plant-based-food-options.md)
 - [§ 2828 Residential health care facilities; minimum direct resident care spending](2828-residential-health-care-facilities-minimum-direct-resident-care-spending.md)

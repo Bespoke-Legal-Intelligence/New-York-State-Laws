@@ -21,11 +21,11 @@
   Rules of the Assembly for the years 2023--2024, as adopted by Assembly
 Resolution   number   6  of  2023,  including  the  temporary  emergency
 procedures set forth in Assembly Resolution 854  adopted  on  March  30,
-2020, as last amended.
+2020, as last amended, and as amended by Assembly Resolution 87 of 2023.
   Permanent  Joint  Rules  of  the  Senate  and  Assembly, as adopted by
 ```
 
-[Full chapter text (2,338 lines)](chapter-text.md)
+[Full chapter text (2,326 lines)](chapter-text.md)
 
 ## Contents
 

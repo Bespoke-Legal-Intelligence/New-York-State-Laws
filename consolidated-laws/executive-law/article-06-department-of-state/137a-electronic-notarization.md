@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 137-A", "kind": "section", "law_id": "EXC", "location_id": "137-A", "path": "ARTICLE 6 › SECTION 137-A", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/137-A.md", "title": "Electronic notarization"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 137-A", "kind": "section", "law_id": "EXC", "location_id": "137-A", "path": "ARTICLE 6 › SECTION 137-A", "repealed": true, "repealed_date": "2023-02-10", "source": "nys-laws:EXC/137-A.md", "title": "Electronic notarization"} -->
 # Executive Law § 137-A — Electronic notarization
 
 [Executive Law](../README.md) › [Article 6 — Department of State](README.md)
+
+**Repealed** (10 Feb 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 137-a. Electronic notarization. 1. Definitions. (a) "Communication

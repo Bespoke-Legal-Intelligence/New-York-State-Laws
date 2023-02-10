@@ -4,7 +4,7 @@
 [Insurance Law](../README.md) › [Article 23 — Property/casualty Insurance Rates](README.md)
 
 ```text
-  * § 2312. Immigration bond premium. (a) The premium for giving an
+  § 2312. Immigration bond premium. (a) The premium for giving an
 immigration bond or depositing money or property as immigration bail in
 any court having immigration jurisdiction or in any immigration action
 or proceeding shall not exceed ten per centum of the amount of such bond
@@ -36,5 +36,4 @@ indemnitor to recover any such overcharge, be liable for treble damages.
   (d) Any agreement, or portion thereof, entered into requiring the
 waiving of the requirements of this section or otherwise in violation of
 this section shall be void and unenforceable.
-  * NB Effective February 7, 2023
 ```
