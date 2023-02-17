@@ -4,15 +4,15 @@
 [Public Service Law](../README.md) › [Article 5 — Provisions Relating to Telegraph and Telephone Lines and to Telephone and Telegraph Corporations](README.md)
 
 ```text
-  * § 104-a. Notice to customers on fiber optic-based telephone lines.
-1.  The commission shall require each telephone corporation that
-provides local exchange service to provide a notice containing
-information to customers on the differences between copper-based
-telephone lines and fiber optic-based telephone lines prior to when such
-telephone corporation initiates a change in such customer's telephone
-service from copper-based telephone lines to fiber optic-based telephone
-lines.  Except (i) in cases of an emergency, including but not limited
-to restoration or repair of service, or (ii) upon the request of the
+  § 104-a. Notice to customers on fiber optic-based telephone lines. 1.
+The commission shall require each telephone corporation that provides
+local exchange service to provide a notice containing information to
+customers on the differences between copper-based telephone lines and
+fiber optic-based telephone lines prior to when such telephone
+corporation initiates a change in such customer's telephone service from
+copper-based telephone lines to fiber optic-based telephone lines.
+Except (i) in cases of an emergency, including but not limited to
+restoration or repair of service, or (ii) upon the request of the
 customer, such notice shall be provided to the customer at least
 forty-five days before such telephone corporation initiates a change in
 such customer's telephone service from copper-based telephone lines to
@@ -45,5 +45,4 @@ again file with the commission such notice and obtain approval pursuant
 to this section. The commission may establish what shall constitute a
 material change to the form and content of the notice that would
 necessitate commission approval.
-  * NB Effective February 13, 2023
 ```

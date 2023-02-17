@@ -10,15 +10,16 @@ The text the Senate publishes at the top level of this law. For some laws this i
                         OF THE STATE OF NEW YORK
                                 2023-2024
 Rules  of  the  Senate  for  the  year  2023-2024,  as adopted by Senate
-Resolution number 2 of 2023.
-  Permanent Joint Rules of  the  Senate  and  Assembly,  as  adopted  by
-Concurrent  Resolution  numbers  459 (Senate) and 544 (Assembly) of 1984
-and as amended by Concurrent Resolution number 260 (Senate) of 1995  and
+Resolution number 2 of 2023 and as amended by Senate  Resolution  number
+444 of 2023.
+  Permanent  Joint  Rules  of  the  Senate  and  Assembly, as adopted by
+Concurrent Resolution numbers 459 (Senate) and 544  (Assembly)  of  1984
+and  as amended by Concurrent Resolution number 260 (Senate) of 1995 and
 as amended by Concurrent Resolution number 147 (Assembly) of 2007 and as
-amended  by  Concurrent  Resolution  number 2775 (Senate) and number 787
-(Assembly) of 2009 and as amended by Concurrent  Resolution  number  404
+amended by Concurrent Resolution number 2775  (Senate)  and  number  787
+(Assembly)  of  2009  and as amended by Concurrent Resolution number 404
 (Senate) and number 25 (Assembly) of 2017.
-                                 2/09/21
+                                 2/15/23
                            RULES OF THE SENATE
                         OF THE STATE OF NEW YORK
                                 2023-2024
@@ -582,7 +583,7 @@ shall serve and shall continue throughout the year:
   Veterans, Homeland Security and Military Affairs
   To consist of seven Senators:
   Aging
-  Alcoholism and Substance Abuse
+  Alcoholism and Substance Use Disorders
   Banks
   Budget and Revenue
   Children and Families
