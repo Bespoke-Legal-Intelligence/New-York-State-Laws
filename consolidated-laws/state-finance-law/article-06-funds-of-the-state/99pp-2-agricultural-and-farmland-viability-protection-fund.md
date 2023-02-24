@@ -23,5 +23,4 @@ agriculture and markets law.
 the comptroller on vouchers approved and certified by the commissioner
 of agriculture and markets.
   * NB There are 3 § 99-pp's
-  * NB Effective February 21, 2023
 ```

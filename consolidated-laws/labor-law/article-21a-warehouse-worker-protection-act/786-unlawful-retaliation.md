@@ -4,7 +4,7 @@
 [Labor Law](../README.md) › [Article 21-A — Warehouse Worker Protection Act](README.md)
 
 ```text
-  * § 786. Unlawful retaliation. 1. No person, including but not limited
+  § 786. Unlawful retaliation. 1. No person, including but not limited
 to an employer, his or her agent, or person acting as or on behalf of a
 hiring entity, or the officer or agent of any entity, business,
 corporation, partnership, or limited liability company, shall discharge
@@ -32,5 +32,4 @@ article. Such presumption may be rebutted by clear and convincing
 evidence that: (a) the action was taken for other permissible reasons;
 and (b) the engaging or attempting to engage in activities protected by
 this article was not a motivating factor in the adverse action.
-  * NB Effective February 19, 2023
 ```

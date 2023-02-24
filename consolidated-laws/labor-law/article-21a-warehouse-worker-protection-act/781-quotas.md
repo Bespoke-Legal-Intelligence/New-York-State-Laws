@@ -4,7 +4,7 @@
 [Labor Law](../README.md) › [Article 21-A — Warehouse Worker Protection Act](README.md)
 
 ```text
-  * § 781. Quotas. Each employer shall provide to each employee, upon
+  § 781. Quotas. Each employer shall provide to each employee, upon
 hire, or within thirty days of the effective date of this article, a
 written description of each quota to which the employee is subject,
 including the quantified number of tasks to be performed or materials to
@@ -16,5 +16,4 @@ employee is subject within two business days of such quota change. Each
 time an employer takes an adverse employment action against an employee,
 the employer shall provide that employee with the applicable quota for
 the employee.
-  * NB Effective February 19, 2023
 ```

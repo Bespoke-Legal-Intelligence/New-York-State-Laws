@@ -4,7 +4,7 @@
 [Labor Law](../README.md) › [Article 21-A — Warehouse Worker Protection Act](README.md)
 
 ```text
-  * § 785. Right to request. 1. A current employee has the right to
+  § 785. Right to request. 1. A current employee has the right to
 request a written description of each quota to which the employee is
 subject, a copy of the employee's own personal work speed data, and a
 copy of the prior six months of aggregated work speed data for similar
@@ -28,5 +28,4 @@ receipt of the request.
   5. Nothing in this section shall require an employer to use quotas as
 defined in this article or monitor work speed data. An employer that
 does not monitor this data has no obligation to provide it.
-  * NB Effective February 19, 2023
 ```
