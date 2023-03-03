@@ -67,7 +67,7 @@ Article  1.   Short title; definitions (§§ 1-2).
                         with AIDS.  (§§ 369-k--369-n)
                 11-C. Medicaid drug utilization review.
                         (§§ 369-aa--369-cc).
-                11-D. Basic health program. (§§ 369-gg-369-hh).
+                11-D. Basic health program. (§ 369-gg).
                 12.   Community centers and services for senior
                         citizens. (§§ 370--370-b).
                 12-A. Supports and services for youth suffering from

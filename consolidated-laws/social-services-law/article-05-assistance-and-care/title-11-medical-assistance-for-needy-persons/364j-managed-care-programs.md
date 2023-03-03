@@ -176,7 +176,7 @@ sufficiently address the behavioral health and health services needs of
 enrollees; and monitor the application of such standards to ensure that
 they sufficiently address the behavioral health and health services
 needs of enrollees.
-  ** (d) Whenever the commissioner of health makes changes to the terms,
+  (d) Whenever the commissioner of health makes changes to the terms,
 conditions or time frames contained in the model contract with managed
 care providers in the managed care program under this section, public
 notice detailing the changes shall be provided on the department's
@@ -186,7 +186,6 @@ the Centers for Medicare and Medicaid Services for approval, if
 required. This public notice shall also apply to any request for
 proposals issued by the department for managed care providers to
 participate in the managed care program.
-  ** NB Effective February 28, 2023
   3. (a) Every person eligible for or receiving medical assistance under
 this article, who resides in a social services district providing
 medical assistance, which has implemented the state's managed care

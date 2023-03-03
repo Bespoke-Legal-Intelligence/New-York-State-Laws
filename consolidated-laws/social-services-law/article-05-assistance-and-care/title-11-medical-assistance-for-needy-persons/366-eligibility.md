@@ -325,21 +325,7 @@ person who is eligible for medical assistance under this title and on
 whose behalf the individual has the legal authority to execute an
 assignment of such rights, to support specified as support for the
 purpose of medical care by a court or administrative order; and
-  * (3) cooperates with the appropriate social services official or the
-department in establishing paternity or in establishing, modifying, or
-enforcing a support order with respect to his or her child; provided,
-however, that nothing herein contained shall be construed to require a
-payment under this title for care or services, the cost of which may be
-met in whole or in part by a third party; notwithstanding the foregoing,
-a social services official shall not require such cooperation if the
-social services official or the department determines that such actions
-would be detrimental to the best interest of the child, applicant, or
-recipient, or with respect to pregnant women during pregnancy and during
-the sixty-day period beginning on the last day of pregnancy, in
-accordance with procedures and criteria established by regulations of
-the department consistent with federal law; and
-  * NB Effective until March 1, 2023
-  * (3) cooperates with the appropriate social services official or the
+  (3) cooperates with the appropriate social services official or the
 department in establishing paternity or in establishing, modifying, or
 enforcing a support order with respect to his or her child; provided,
 however, that nothing herein contained shall be construed to require a
@@ -352,7 +338,6 @@ recipient, or with respect to pregnant women during pregnancy and during
 the one year period beginning on the last day of pregnancy, in
 accordance with procedures and criteria established by regulations of
 the department consistent with federal law; and
-  * NB Effective March 1, 2023
   (4) applies for and utilizes group health insurance benefits available
 through a current or former employer, including benefits for a spouse
 and dependent children, in accordance with the regulations of the
@@ -1085,23 +1070,13 @@ for medical assistance pursuant to subparagraph four of paragraph (b) of
 subdivision one of this section for an additional four calendar months
 beginning with the month ineligibility for such assistance begins.
   (b) Pregnant women and children.
-  * (1) A pregnant woman eligible for medical assistance under
-subparagraph two or four of paragraph (b) of subdivision one of this
-section on any day of her pregnancy will continue to be eligible for
-such care and services through the end of the month in which the
-sixtieth day following the end of the pregnancy occurs, without regard
-to any change in the income of the family that includes the pregnant
-woman, even if such change otherwise would have rendered her ineligible
-for medical assistance.
-  * NB Effective until March 1, 2023
-  * (1) A pregnant woman eligible for medical assistance under
+  (1) A pregnant woman eligible for medical assistance under
 subparagraph two or four of paragraph (b) of subdivision one of this
 section on any day of her pregnancy will continue to be eligible for
 such care and services for a period of one year beginning on the last
 day of pregnancy, without regard to any change in the income of the
 family that includes the pregnant woman, even if such change otherwise
 would have rendered her ineligible for medical assistance.
-  * NB Effective March 1, 2023
   (2) A child born to a woman eligible for and receiving medical
 assistance on the date of the child's birth shall be deemed to have
 applied for medical assistance and to have been found eligible for such

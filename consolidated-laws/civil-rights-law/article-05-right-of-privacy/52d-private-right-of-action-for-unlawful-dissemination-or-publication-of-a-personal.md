@@ -4,7 +4,7 @@
 [Civil Rights Law](../README.md) › [Article 5 — Right of Privacy](README.md)
 
 ```text
-  * § 52-d. Private right of action for unlawful dissemination or
+  § 52-d. Private right of action for unlawful dissemination or
 publication of a personal image. 1. Any crime victim depicted in a still
 or video image which was unlawfully disseminated as provided in section
 250.71 or 250.72 of the penal law shall have a cause of action against
@@ -58,5 +58,4 @@ provisions of this section are severable.
 enlarge, the protections that 47 U.S.C. § 230 confers on an interactive
 computer service for content provided by another information content
 provider, as such terms are defined in 47 U.S.C. § 230.
-  * NB Effective February 26, 2023
 ```
