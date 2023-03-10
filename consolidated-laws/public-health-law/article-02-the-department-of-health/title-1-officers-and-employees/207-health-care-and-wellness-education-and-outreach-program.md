@@ -39,8 +39,10 @@ including living donation, including information about being registered
 as an organ and tissue donor and executing documents of gift under
 article forty-three of this chapter; and information to increase patient
 understanding about the medical option of transplant and its
-desirability. In implementing this paragraph, the department shall
-consult with the transplant council in the department.
+desirability. The department shall consult with the transplant council
+on the production of any such information and ensure that such
+information is culturally and linguistically appropriate for all
+recipients.
   * NB Effective April 1, 2023
   (e) The commissioner shall establish a statewide advance care planning
 campaign to:

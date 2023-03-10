@@ -4,9 +4,9 @@
 [Real Property Actions and Proceedings Law](../README.md) › [Article 7-C — Special Proceedings By Tenants of Dwellings For Judgment Directing Deposit of Rents and the Use Thereof For the Purpose of Remedying Conditions Dangerous to Life, Health or Safety](README.md)
 
 ```text
-  § 796-i. Application by mortgagee or lienor of record or other person
-having an interest in the property. 1. If, after a trial, the court
-shall determine that the facts alleged in the petition have been
+  * § 796-i. Application by mortgagee or lienor of record or other
+person having an interest in the property. 1. If, after a trial, the
+court shall determine that the facts alleged in the petition have been
 affirmatively established by the petitioners, that no defense thereto
 specified in section seven hundred ninety-six-g of this article has been
 affirmatively established by the owner or a mortgagee or lienor of
@@ -49,4 +49,5 @@ prescribed therein, a full accounting of the amount of such security and
 the expenditures made pursuant to such judgment, and to turn over such
 surplus to the person who posted such security, together with a copy of
 such accounting.
+  * NB Effective June 13, 2023
 ```

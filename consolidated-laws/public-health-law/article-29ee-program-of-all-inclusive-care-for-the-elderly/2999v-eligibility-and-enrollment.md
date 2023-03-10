@@ -6,15 +6,17 @@
 ```text
   * § 2999-v. Eligibility and enrollment. 1. To be eligible to enroll in
 a PACE organization, an individual shall:
-  (a) be at least fifty-five years old; and
-  (b) meet the eligibility requirements for a nursing home level of
-care; and
-  (c) reside within the PACE organization's approved service area; and
-  (d) be able to be maintained safely in the community-based setting
-with the assistance of the PACE organization; or
-  (e) be otherwise eligible to participate in a PACE demonstration or
+  (a) (i) be at least fifty-five years old; (ii) meet the eligibility
+requirements for a nursing home level of care; (iii) reside within the
+PACE organization's approved service area; (iv) be able to be maintained
+safely in the community-based setting with the assistance of the PACE
+organization; and
+  (v) meet any additional program specific eligibility conditions
+imposed under the PACE program agreement between the PACE organization,
+the department, and CMS; or
+  (b) be otherwise eligible to participate in a PACE demonstration or
 specialty program authorized by the federal PACE Innovation Act and
-approved by CMS.
+approved by the department and CMS.
   2. Enrollment in a PACE organization shall be voluntary for the
 eligible individual.
   * NB Effective June 26, 2023

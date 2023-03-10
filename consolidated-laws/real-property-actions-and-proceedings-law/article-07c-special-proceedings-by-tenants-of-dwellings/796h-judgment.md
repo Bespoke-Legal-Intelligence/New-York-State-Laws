@@ -4,7 +4,8 @@
 [Real Property Actions and Proceedings Law](../README.md) › [Article 7-C — Special Proceedings By Tenants of Dwellings For Judgment Directing Deposit of Rents and the Use Thereof For the Purpose of Remedying Conditions Dangerous to Life, Health or Safety](README.md)
 
 ```text
-  § 796-h. Judgment. 1. The court shall render a final judgment either:
+  * § 796-h. Judgment. 1. The court shall render a final judgment
+either:
   (a) Dismissing the petition for failure to affirmatively establish the
 allegations thereof or because of the affirmative establishment by the
 owner or a mortgagee or lienor of record of a defense or defenses
@@ -51,4 +52,5 @@ against any such tenant to recover possession of real property for the
 non-payment of rent or for use or occupation to prove that the rent
 alleged to be unpaid was deposited with the administrator in accordance
 with the terms of a judgment entered under this section.
+  * NB Effective June 13, 2023
 ```

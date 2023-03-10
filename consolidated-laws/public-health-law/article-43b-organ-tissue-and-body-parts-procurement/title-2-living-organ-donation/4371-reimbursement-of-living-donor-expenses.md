@@ -13,21 +13,21 @@ directly or through paired donation is a resident of the state. The
 commissioner through regulations shall establish eligible living donor
 expenses that are eligible for reimbursement under the program which
 shall include at a minimum: lost wages (including demonstrated lost
-non-employment income); the economic value of sick or vacation days
+non-employment income) or the economic value of sick or vacation days
 expended; travel and lodging, child care and elder care expenses; and
 costs of medications and care associated with the living donation
-surgery. The total period of time related to lost wages or expended sick
-or vacation days shall not exceed four weeks unless special
-circumstances are demonstrated, such as the nature of physical labor
-required for the living donor's employment; provided that the total
-period shall in no event exceed eight weeks. The commissioner may by
-regulation impose a limitation on: (i) the amount of lost wages for a
-living donor making an income in excess of an annual rate of one hundred
-twenty-five thousand dollars; or (ii) the amount of living donor
-expenses above fourteen thousand dollars for any single living donor;
-and may include additional living donor expenses including reimbursement
-for costs of care performed by relatives or family members of the living
-donor.
+surgery that are not covered by health insurance. The total period of
+time related to lost wages or expended sick or vacation days shall not
+exceed four weeks unless special circumstances are demonstrated, such as
+the nature of physical labor required for the living donor's employment;
+provided that the total period shall in no event exceed eight weeks. The
+commissioner may, by regulation, impose reasonable limitations on: (i)
+the amount of lost wages for a living donor making an income in excess
+of an annual rate of one hundred twenty-five thousand dollars; or (ii)
+the amount of living donor expenses above fourteen thousand dollars for
+any single living donor; and may include additional living donor
+expenses including reimbursement for costs of care performed by
+relatives or family members of the living donor.
   (b) The program shall not pay reimbursement for expenses paid or
 required to be paid for by any third-party payer, including wages or
 other expenses that were covered under paid medical leave by the living

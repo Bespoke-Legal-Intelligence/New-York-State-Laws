@@ -1,0 +1,40 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 226", "kind": "section", "law_id": "AGM", "location_id": "226", "path": "ARTICLE 18-A › SECTION 226", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/226.md", "title": "Natural fiber textile development workgroup"} -->
+# Agriculture and Markets Law § 226 — Natural fiber textile development workgroup
+
+[Agriculture and Markets Law](../README.md) › [Article 18-A — Natural Fiber Textile Development](README.md)
+
+```text
+  § 226. Natural fiber textile development workgroup. 1. There is hereby
+established within the department a natural fiber textile development
+workgroup. The commissioner, in conjunction with the commissioner of
+economic development shall convene an annual workgroup of stakeholders
+which may include but not limited to a producer of animal-based fibers,
+a producer of plant-based fibers, a representative of a statewide
+agricultural organization, a representative of a regional or statewide
+organization of animal or plant fiber producers, a representative of
+fiber and textile manufacturers which is defined as a fiber processor or
+spinning mill, a knitting mill, a weaving studio, or wet finishing
+(dyeing, printing or fabric finishing), a representative from
+designers/producers which is defined as including apparel, home textile
+products, industrial textiles and healthcare products, and a
+representative of an academic institution offering textile or design
+education, and a representative of an academic institution offering
+fiber-producing livestock education. This workgroup shall study and
+identify methods to, including but not limited to:
+  (a) increase the economic contributions and employment opportunities
+related to animal and plant fiber agriculture and textile manufacturing
+in New York state;
+  (b) increase private investment in, and utilization of, New York state
+produced and processed natural fibers in all categories of textile:
+manufacturing including apparel, home textile products, industrial
+textiles, and health care products;
+  (c) improve public understanding of and appreciation for natural fiber
+textiles; and
+  (d) increase export and market opportunities for New York produced
+natural fiber textiles.
+  2. The workgroup shall submit recommendations to the commissioner, the
+commissioner of economic development, the speaker of the assembly, the
+temporary president of the senate, the minority leader of the assembly
+and the minority leader of the senate within one year of the effective
+date of this section and every two years thereafter.
+```

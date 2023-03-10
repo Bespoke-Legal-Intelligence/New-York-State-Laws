@@ -10,22 +10,24 @@ surrender an operating certificate and/or certification as an enhanced
 or special needs assisted living residence, the following provisions
 shall apply:
   (a) The operator shall notify the appropriate regional office of the
-department in writing prior to the anticipated date of closure of the
-assisted living residence and/or the decertification of such assisted
-living residence.
-  (b) Such written notice shall include a proposed plan for closure
+department and the office of the state long-term care ombudsman in
+writing prior to the anticipated date of closure of the assisted living
+residence and/or the decertification of the assisted living residence.
+  (b) The written notice shall include a proposed plan for closure
 and/or decertification. The plan shall be subject to the approval of the
 commissioner, shall include timetables for all steps entailed in the
 closure process and shall describe the procedures and actions the
 operator will take to:
   (i) notify residents and the residents' representatives of the
 closure, and/or decertification, including provisions for termination of
-admission agreements and involuntary discharge;
+residency agreements and involuntary discharge;
   (ii) assess the needs and preferences of individual residents;
   (iii) assist residents in relocating and transferring to appropriate
 alternative settings; and
   (iv) maintain compliance with approved plan until all residents have
 relocated.
+  (c) The plan of closure shall be reviewed by the commissioner within
+ninety days of submission.
   2. (a) The operator shall take no action to close the assisted living
 residence prior to approval from the commissioner of the plan for
 closure and/or decertification.
@@ -38,29 +40,32 @@ residence, their residents' representatives, and/or any applicable
 health insurance plan, long term care plan or other insurance plan
 providing payment to the residence on behalf of the resident prior to
 the approval of the plan for closure and/or decertification by the
-commissioner, provided however, that the operator may increase the
-amount of any rent, fees or other surcharges imposed upon an individual
-resident corresponding with an increase in the individual's supplemental
-security income; the total of such increases for an individual shall not
-exceed the amount of the increase in the individual's supplemental
-security income.
+commissioner; provided that an operator shall not be prohibited from
+amending a residency agreement to account for changes in supplemental
+security income however, the total of the changes for an individual
+shall not exceed the amount of the increase in the individual's
+supplemental security income. The operator shall provide each resident,
+as applicable, written notice of any increase not less than forty-five
+days prior to the proposed effective date of the fee increase consistent
+with the notice requirement in section forty-six hundred sixty of this
+article.
   (d) The operator shall not accept new residents or applications for
 residency after the operator has notified the appropriate regional
 office of the department that the operator intends to close and/or
 decertify the assisted living residence.
-  3. As part of the final approval of the closure plan, the department,
-center for health care quality and surveillance and operator shall agree
-upon a target closure date, which shall be at least one hundred twenty
-days from the actual date that the operator provides written
-notification to the residents and the residents' representatives of the
-closure. In providing notification of such target closure date, the
-operator shall also notify residents and the residents' representatives
-that additional time will be provided to residents who make good faith
-efforts, as determined by the commissioner, to secure an alternative
-setting and have demonstrated a reasonable basis for needing more than
-one hundred twenty days to transfer to an appropriate alternative
-setting, so long as it remains safe and appropriate to reside in the
-assisted living residence at such time.
+  3. As part of the final approval of the closure plan, the department
+and operator shall agree upon a target closure date, which shall be at
+least one hundred twenty days from the actual date that the operator
+provides written notification to the residents and the residents'
+representatives of the closure. In providing notification of such target
+closure date, the operator shall also notify residents and the
+residents' representatives that additional time will be provided to
+residents who make good faith efforts, as determined by the
+commissioner, to secure an alternative setting and have demonstrated a
+reasonable basis for needing more than one hundred twenty days to
+transfer to an appropriate alternative setting, so long as it remains
+safe and appropriate to reside in the assisted living residence at the
+time.
   4. The operator shall implement the approved plan to ensure that
 arrangements for continued care which meet each resident's social,
 emotional and health care needs are effectuated prior to closure and/or
@@ -71,6 +76,6 @@ execute the approved plan for closure and/or decertification and closing
 an assisted living residence before all residents have been
 appropriately relocated, shall result in the imposition of civil
 penalties in accordance with section twelve of this chapter.
-  6. The commissioner may promulgate such rules and regulations as he or
-she deems necessary to implement the provisions of this section.
+  6. The commissioner may make such rules and regulations as he or she
+deems necessary to implement this section.
 ```

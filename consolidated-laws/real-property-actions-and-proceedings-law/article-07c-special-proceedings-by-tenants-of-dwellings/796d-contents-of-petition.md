@@ -4,7 +4,7 @@
 [Real Property Actions and Proceedings Law](../README.md) › [Article 7-C — Special Proceedings By Tenants of Dwellings For Judgment Directing Deposit of Rents and the Use Thereof For the Purpose of Remedying Conditions Dangerous to Life, Health or Safety](README.md)
 
 ```text
-  § 796-d. Contents of petition. The petition shall:
+  * § 796-d. Contents of petition. The petition shall:
   1. Allege material facts showing that there exists in such dwelling or
 any part thereof one or more of the following:
   (a) a lack of heat, running water, light, electricity, adequate sewage
@@ -29,4 +29,5 @@ the petition.
   4. If the petitioners shall be tenants occupying the dwelling, they
 shall allege the amount of rent due from each such petitioner, monthly.
   5. State the relief sought.
+  * NB Effective June 13, 2023
 ```

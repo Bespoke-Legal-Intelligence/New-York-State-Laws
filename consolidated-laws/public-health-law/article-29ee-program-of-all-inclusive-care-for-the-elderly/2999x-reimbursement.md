@@ -10,11 +10,8 @@ reimbursement rates and methodologies for Medicaid services provided by
 a PACE organization to its enrollees.
   2. The commissioner shall provide, or shall require any independent
 actuary used to review PACE reimbursement rates to provide, to PACE
-organizations the documents and information regarding PACE reimbursement
-rates submitted to CMS in a form and timeframe consistent with the
-requirements for providing or causing to be provided documents and
-information to Medicaid managed care providers under paragraph (c) of
-subdivision eighteen of section three hundred sixty-four-j of the social
-services law.
+organizations the documents and information consistent with the
+requirements under paragraph (c) of subdivision eighteen of section
+three hundred sixty-four-j of the social services law.
   * NB Effective June 26, 2023
 ```

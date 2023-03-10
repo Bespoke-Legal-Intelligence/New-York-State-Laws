@@ -26,7 +26,10 @@ interested parties.
 providing non-invasive prenatal testing shall not limit availability and
 coverage for a test based on the age of the pregnant patient, unless the
 limit is explicitly called for by the generally accepted standards of
-professional practice.
+professional practice or is otherwise recommended by safety
+communications or guidance issued by the United States food and drug
+administration, the centers for Medicare and medicaid services, or the
+United States department of health and human services.
   * NB Effective April 1, 2023
   2. For purposes of this title, "prenatal care provider" means a
 medical care facility or public or private not-for-profit agency or

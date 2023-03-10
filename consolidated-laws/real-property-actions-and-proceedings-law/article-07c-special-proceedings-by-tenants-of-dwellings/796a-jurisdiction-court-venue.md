@@ -4,7 +4,7 @@
 [Real Property Actions and Proceedings Law](../README.md) › [Article 7-C — Special Proceedings By Tenants of Dwellings For Judgment Directing Deposit of Rents and the Use Thereof For the Purpose of Remedying Conditions Dangerous to Life, Health or Safety](README.md)
 
 ```text
-  § 796-a. Jurisdiction; court; venue. 1. A special proceeding for a
+  * § 796-a. Jurisdiction; court; venue. 1. A special proceeding for a
 judgment directing the deposit of rents into court and the use of such
 monies for the purpose of remedying conditions at a dwelling dangerous
 to life, health or safety may be maintained by tenant or tenants of the
@@ -30,4 +30,5 @@ issue is situated.
   4. The provisions of this article shall not apply to dwellings located
 in the city of New York or in the counties of Nassau, Suffolk, Rockland
 and Westchester or in any cities, towns or villages of such counties.
+  * NB Effective June 13, 2023
 ```

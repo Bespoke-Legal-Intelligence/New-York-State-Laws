@@ -12,7 +12,11 @@ that individual's body to be transplanted into another individual's
 body, the gift to be executed while the donating individual is living
 and with the intent that the donating individual will continue to live
 after the execution of the gift.
-  2. "Living donor" means an individual who makes a living donation.
+  2. "Living donor" means: (a) an individual who makes a living
+donation; or
+  (b) an individual who incurs expenses as part of the living donation
+screening and evaluation process but that, through no decision or
+judgment of their own, does not become an actual living donor.
   3. "Living donor expenses" means financial costs incurred by a living
 donor that arise due to the act of living donation and its consequences,
 that are subject to reimbursement under section forty-three hundred
@@ -24,6 +28,7 @@ seventy-one of this title.
 donor's organ is incompatible with the ultimate intended recipient and
 the living donor's organ is transplanted into another recipient, and in
 turn another living donor makes a living donation, directly or through
-one or more paired donations, to the ultimate recipient.
+one or more paired donations, to the ultimate intended recipient of the
+initial living donor.
   * NB Effective April 1, 2023
 ```

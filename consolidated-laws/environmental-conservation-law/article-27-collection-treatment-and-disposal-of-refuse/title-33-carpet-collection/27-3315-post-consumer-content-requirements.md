@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 33 — Carpet Collection Program](README.md)
 
 ```text
-§ 27-3315. Post-consumer content requirements.
+* § 27-3315. Post-consumer content requirements.
   All carpet sold in the state shall be manufactured with the following
 minimum amounts from post-consumer sources:
   1. within one year after the plan is approved by the department
@@ -14,4 +14,5 @@ post-consumer content;
 post-consumer content; and
   3. five years thereafter, a minimum of thirty percent post-consumer
 content.
+  * NB Effective December 28, 2024
 ```

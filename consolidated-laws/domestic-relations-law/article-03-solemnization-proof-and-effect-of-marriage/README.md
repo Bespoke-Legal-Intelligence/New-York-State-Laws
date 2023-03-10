@@ -12,6 +12,7 @@
 - [§ 11-A Duty of city clerk in certain cities of the first class; facsimile signature of said clerk authorized](11a-duty-of-city-clerk-in-certain-cities-of-the-first-class-facsimile-signature.md)
 - [§ 11-B Registration of persons performing marriage ceremonies in the city of New York](11b-registration-of-persons-performing-marriage-ceremonies-in-the-city-of-new.md)
 - [§ 11-C Marriage officers](11c-marriage-officers.md)
+- [§ 11-D One-day marriage officiant license](11d-one-day-marriage-officiant-license.md)
 - [§ 12 Marriage, how solemnized](12-marriage-how-solemnized.md)
 - [§ 13 Marriage licenses](13-marriage-licenses.md)
 - [§ 13-AA Test to determine the presence of sickle cell anemia](13aa-test-to-determine-the-presence-of-sickle-cell-anemia.md)
@@ -53,6 +54,7 @@ Section 10.    Marriage a civil contract.
         11-b.  Registration of persons performing marriage ceremonies in
                  the city of New York.
         11-c.  Marriage officers.
+        11-d.  One-day marriage officiant license.
         12.    Marriage, how solemnized.
         13.    Marriage licenses.
         13-aa. Test to determine the presence of sickle cell anemia.

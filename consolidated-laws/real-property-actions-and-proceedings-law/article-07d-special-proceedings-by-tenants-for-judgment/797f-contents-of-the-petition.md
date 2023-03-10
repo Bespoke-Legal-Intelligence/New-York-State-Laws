@@ -1,7 +1,7 @@
-﻿<!-- nyslaw {"citation": "Real Property Actions and Proceedings Law § 797-F", "kind": "section", "law_id": "RPA", "location_id": "797-F", "path": "ARTICLE 7-C* › SECTION 797-F", "repealed": false, "repealed_date": null, "source": "nys-laws:RPA/797-F.md", "title": "Contents of the petition"} -->
+﻿<!-- nyslaw {"citation": "Real Property Actions and Proceedings Law § 797-F", "kind": "section", "law_id": "RPA", "location_id": "797-F", "path": "ARTICLE 7-D › SECTION 797-F", "repealed": false, "repealed_date": null, "source": "nys-laws:RPA/797-F.md", "title": "Contents of the petition"} -->
 # Real Property Actions and Proceedings Law § 797-F — Contents of the petition
 
-[Real Property Actions and Proceedings Law](../README.md) › [Article 7-C* — Special Proceedings By Tenants For Judgment Directing Repairs of Conditions and Other Relief In Residential Real Property Constituting Violation of Applicable Local or State Housing Standards or Real Property Law §](README.md)
+[Real Property Actions and Proceedings Law](../README.md) › [Article 7-D — Special Proceedings By Tenants For Judgment Directing Repairs of Conditions and Other Relief In Residential Real Property Constituting Violation of Applicable Local or State Housing Standards or Real Property Law §](README.md)
 
 ```text
   * § 797-f. Contents of the petition. 1. The petition shall be verified
@@ -22,5 +22,5 @@ property law; and
 repair, a monetary judgment in favor of petitioner for diminished value
 of real property, and an order reducing future rent until violations
 have been cured.
-  * NB Effective June 28, 2023
+  * NB Effective December 30, 2023
 ```

@@ -88,7 +88,7 @@ register the consent given by individuals who are sixteen or seventeen
 years of age in the donate life registry, and shall make registration
 available by any of the methods provided in subparagraphs (i), (ii),
 (iii), (iv), (v), (vi), (vii), (viii), (ix) and (x) of this paragraph.
-  * NB Effective until June 21, 2023
+  * NB Effective until June 23, 2024
   * (a) Such organ, eye and tissue registration of consent to make an
 anatomical gift can be made through: (i) indication made on the
 application or renewal form of a driver's license, (ii) indication made
@@ -96,29 +96,37 @@ on a non-driver identification card application or renewal form, (iii)
 indication made on a voter registration form pursuant to subdivision
 five of section 5-210 of the election law, (iv) indication made on the
 application for, or manual renewal application by an account holder of,
-health care coverage offered through the state health benefit exchange,
-(v) enrollment through the donate life registry website, (vi) paper
-enrollment submitted to the donate life registry, (vii) indication made
-on the application or renewal form of a hunting, fishing or trapping
-license issued pursuant to title seven of article eleven of the
-environmental conservation law, (viii) indication made on transactions
-administered by the office of temporary and disability assistance
-through the mybenefits.ny.gov website, or any such successor website;
-(ix) indication made on applications, renewals or related transactions
-for college financial aid, grants, or scholarships offered or
-administered through any website maintained by the higher education
-services corporation; (x) indication made by eligible individuals during
-enrollments, renewals, and other related transactions for health
-insurance policies covered under this article, section three thousand
-two hundred sixteen of the insurance law, or section three thousand two
-hundred twenty-one of the insurance law; or (xi) through any other
-method identified by the commissioner. The department shall establish a
-means by which to register the consent given by individuals who are
-sixteen or seventeen years of age in the donate life registry, and shall
-make registration available by any of the methods provided in
-subparagraphs (i), (ii), (iii), (iv), (v), (vi), (vii), (viii), (ix),
-(x) and (xi) of this paragraph.
-  * NB Effective June 21, 2023
+health care coverage offered through the NY State of Health, the
+official Health Plan Marketplace, (v) enrollment through the donate life
+registry website, (vi) paper enrollment submitted to the donate life
+registry, (vii) indication made on the application or renewal form of a
+hunting, fishing or trapping license issued pursuant to title seven of
+article eleven of the environmental conservation law, (viii) indication
+made on transactions administered by the office of temporary and
+disability assistance through the mybenefits.ny.gov website, or any such
+successor website; (ix) indication made on applications, renewals or
+related transactions for college financial aid, grants, or scholarships
+offered or administered through any website maintained by the higher
+education services corporation; (x) indication made by an insured and/or
+applicant for insurance during enrollments, renewals, and the initial
+process for an insured in setting up an online member service portal
+with their insurer for accident and health insurance policies and
+contracts issued pursuant to article forty-four of this chapter, article
+forty-two of the insurance law, or article forty-three of the insurance
+law, excepting renewals made through the NY State of Health, the
+official Health Plan Marketplace, other than those specifically
+referenced in subparagraph (iv) of this paragraph and paragraph (v) of
+subdivision one of section two hundred six of this chapter; and
+provided, however, that nothing in this section shall apply to the
+medical assistance program under title eleven of article five of the
+social services law; or (xi) through any other method identified by the
+commissioner. The department shall establish a means by which to
+register the consent given by individuals who are sixteen or seventeen
+years of age in the donate life registry, and shall make registration
+available by any of the methods provided in subparagraphs (i), (ii),
+(iii), (iv), (v), (vi), (vii), (viii), (ix), (x) and (xi) of this
+paragraph.
+  * NB Effective June 23, 2024
   (b) * (i) Where required by law for transactions described in
 subparagraphs (i), (ii), (iv), (vii), (viii), (ix), and (x) of paragraph
 (a) of this subdivision, the commissioner shall ensure, in consultation
@@ -130,7 +138,7 @@ stated on the form in clear and conspicuous type:
   "You must fill out the following section: Would you like to be added
 to the Donate Life Registry? Check box for 'yes' or 'skip this
 question'."
-  * NB Effective until June 21, 2023
+  * NB Effective until June 23, 2024
   * (i) Where required by law for transactions described in
 subparagraphs (i), (ii), (iv), (vii), (viii), (ix), (x) and (xi) of
 paragraph (a) of this subdivision, the commissioner shall ensure, in
@@ -142,7 +150,7 @@ the following is stated on the form in clear and conspicuous type:
   "You must fill out the following section: Would you like to be added
 to the Donate Life Registry? Check box for 'yes' or 'skip this
 question'."
-  * NB Effective June 21, 2023
+  * NB Effective June 23, 2024
   (ii) The commissioner shall not maintain records of any person who
 checks "skip this question". Except where the application is made in
 person or electronically, failure to check a box shall not impair the
@@ -164,10 +172,10 @@ suitable mechanisms including unique identifiers to provide confidence
 in the identity of the person providing the electronic signature. The
 registration shall take effect upon the provision of written or
 electronic notice of the registration to the individual enrolling in the
-donate life registry and the registry's receipt of the individual's
-enrollment data; provided, however, that written in-person or electronic
-notifications shall be utilized wherever possible as methods for
-fulfillment of the purposes of this paragraph.
+donate life registry and the registry's entry of the individual's
+enrollment data in the registry; provided, however, that written
+in-person or electronic notifications shall be utilized wherever
+possible as methods for fulfillment of the purposes of this paragraph.
   (d) Amendments or revocations from the donate life registry shall be
 made by the following, subject to the requirements of the commissioner:
   (i) registrants submitting an amendment or revocation in writing to

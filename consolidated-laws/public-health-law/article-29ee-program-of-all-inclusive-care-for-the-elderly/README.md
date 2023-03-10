@@ -11,7 +11,7 @@
 - [§ 2999-V Eligibility and enrollment](2999v-eligibility-and-enrollment.md)
 - [§ 2999-W Benefits](2999w-benefits.md)
 - [§ 2999-X Reimbursement](2999x-reimbursement.md)
-- [§ 2999-Y Regulations](2999y-regulations.md)
+- [§ 2999-Y Regulations and applicable laws](2999y-regulations-and-applicable-laws.md)
 
 <details>
 <summary>Official heading of Article 29-EE, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

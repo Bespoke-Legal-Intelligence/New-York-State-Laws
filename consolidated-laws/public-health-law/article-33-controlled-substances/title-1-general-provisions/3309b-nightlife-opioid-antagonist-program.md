@@ -137,5 +137,5 @@ a participating establishment, disaggregated by establishment; and
   d. The total number of times an opioid antagonist was inappropriately
 administered by a participating establishment, including the reasons for
 such improper administration, disaggregated by establishment.
-  * NB Effective April 22, 2023
+  * NB Effective and Repealed April 22, 2023
 ```

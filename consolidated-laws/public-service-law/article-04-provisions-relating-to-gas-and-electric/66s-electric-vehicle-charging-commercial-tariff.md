@@ -4,9 +4,9 @@
 [Public Service Law](../README.md) › [Article 4 — Provisions Relating to Gas and Electric Corporations; Regulation of Price of Gas and Electricity](README.md)
 
 ```text
-  * § 66-s. Electric vehicle charging; commercial tariff. 1.
-Definitions.  For purposes of this section, the term "electric vehicles"
-shall mean and include a motor vehicle that:
+  § 66-s. Electric vehicle charging; commercial tariff. 1. Definitions.
+For purposes of this section, the term "electric vehicles" shall mean
+and include a motor vehicle that:
   (a) was manufactured for use primarily on public streets, roads and
 highways;
   (b) the powertrain of which has not been modified from the original
@@ -61,5 +61,4 @@ other solutions; and
 electric corporation's application filed under this section, such
 combination gas and electric corporation shall make any tariff or other
 operating cost relief mechanisms available to customers.
-  * NB There are 2 § 66-s's
 ```

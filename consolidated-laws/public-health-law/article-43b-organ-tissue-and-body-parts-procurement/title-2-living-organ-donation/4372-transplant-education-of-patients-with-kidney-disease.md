@@ -5,14 +5,11 @@
 
 ```text
   * § 4372. Transplant education of patients with kidney disease or end
-stage renal failure. For any patient with chronic kidney disease stage
-four or end stage renal disease, a nephrologist managing the patient's
-treatment or, if the patient is not under the treatment of a
-nephrologist then the patient's primary care practitioner, shall
-consider whether the patient is a candidate for transplantation under
-applicable professional and legal guidelines, and, if the patient
-appears to be a candidate for transplantation, provide the patient with
-transplant education materials including those prepared under section
-two hundred seven of this chapter.
+stage renal failure. Nephrologists and primary care providers with
+primary responsibility of caring for patients with chronic kidney
+disease stage three or four, or end stage renal disease, shall provide
+patients with current and evidence based printed educational materials
+about the progression of kidney disease and relevant prevention and
+treatment options, including transplantation.
   * NB Effective April 1, 2023
 ```

@@ -11,6 +11,7 @@
 - [§ 162 Contracts for professional services of state and municipal employees](162-contracts-for-professional-services-of-state-and-municipal-employees.md)
 - [§ 163 Contracts for services of state agencies](163-contracts-for-services-of-state-agencies.md)
 - [§ 163-A Contracts with Green Thumb Environmental Beautification, Incorporated](163a-contracts-with-green-thumb-environmental-beautification-incorporated.md)
+- [§ 163-C Purchase or lease of zero emission vehicles and charging or fueling infrastructure](163c-purchase-or-lease-of-zero-emission-vehicles-and-charging-or-fueling.md)
 - [§ 164 Reports by and to the department](164-reports-by-and-to-the-department.md)
 - [§ 164-A Report and publication economy regulations](164a-report-and-publication-economy-regulations.md)
 - [§ 164-B State aid to rural areas: agency reports](164b-state-aid-to-rural-areas-agency-reports.md)
@@ -45,6 +46,8 @@ Section 161.     Certain searches, the filing of papers, and certified
         163.     Contracts for services of state agencies.
         163-a.   Contracts with Green Thumb Environmental
                    Beautification, Incorporated.
+        163-c.   Purchase or lease of zero emission vehicles and
+                   charging or fueling infrastructure.
         164.     Reports by and to the department.
         164-a.   Report and publication economy regulations.
         164-b.   State aid to rural areas; agency reports.

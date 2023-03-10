@@ -4,7 +4,8 @@
 [Real Property Actions and Proceedings Law](../README.md) › [Article 7-C — Special Proceedings By Tenants of Dwellings For Judgment Directing Deposit of Rents and the Use Thereof For the Purpose of Remedying Conditions Dangerous to Life, Health or Safety](README.md)
 
 ```text
-  § 796-c. Commencement; notice of petition; time and manner of service.
+  * § 796-c. Commencement; notice of petition; time and manner of
+service.
   1. A special proceeding prescribed by this article shall be commenced
 by the service of a petition and notice of petition. A notice of
 petition may be issued only by a judge or the clerk of the court.
@@ -55,4 +56,5 @@ last recorded deed with respect to such dwelling.
   6. Notice of the proceeding shall be given to the non-petitioning
 tenants occupying the dwelling by affixing a copy of the notice of
 petition and petition upon a conspicuous part of the subject dwelling.
+  * NB Effective June 13, 2023
 ```

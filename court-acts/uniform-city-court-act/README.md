@@ -8,7 +8,7 @@
 | Senate code | UCT |
 | Type | Court act |
 | Sections | 135 |
-| Last changed | 6 Jan 2023 |
+| Last changed | 10 Mar 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Uniform City Court Act |
 
@@ -31,6 +31,7 @@ hundred sixty-one
 
 ## Recent changes
 
+- [10 Mar 2023](../../changes/2023/2023-03-10.md): 1 amended
 - [6 Jan 2023](../../changes/2023/2023-01-06.md): 1 amended
 - [2 Sep 2022](../../changes/2022/2022-09-02.md): 2 amended
 - [29 Oct 2021](../../changes/2021/2021-10-29.md): 2 amended
@@ -40,7 +41,6 @@ hundred sixty-one
 - [3 May 2019](../../changes/2019/2019-05-03.md): 2 amended
 - [3 Aug 2018](../../changes/2018/2018-08-03.md): 1 amended
 - [20 Feb 2015](../../changes/2015/2015-02-20.md): 1 amended
-- [28 Nov 2014](../../changes/2014/2014-11-28.md): 1 amended, 1 added
 
 ## Contents
 

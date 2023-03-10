@@ -18,7 +18,6 @@
 - [§ 3111 Special provisions relating to senior citizens](3111-special-provisions-relating-to-senior-citizens.md)
 - [§ 3112 Automatic bank withdrawal agreements; notification required](3112-automatic-bank-withdrawal-agreements-notification-required.md)
 - [§ 3113 Consent of and notification of an irrevocable beneficiary under a court order of divorce or separation](3113-consent-of-and-notification-of-an-irrevocable-beneficiary-under-a-court-order.md)
-- [§ 3114 Hate crimes; coverage refusal](3114-hate-crimes-coverage-refusal.md)
 
 <details>
 <summary>Official heading of Article 31, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

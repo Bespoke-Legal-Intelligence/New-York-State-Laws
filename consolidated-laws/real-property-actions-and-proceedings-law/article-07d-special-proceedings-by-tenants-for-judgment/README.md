@@ -1,9 +1,7 @@
-﻿<!-- nyslaw {"kind": "container", "law_id": "RPA", "location_id": "A7-C*", "path": "ARTICLE 7-C*", "source": "nys-laws:RPA/A7-C_.md", "title": "Special Proceedings By Tenants For Judgment Directing Repairs of Conditions and Other Relief In Residential Real Property Constituting Violation of Applicable Local or State Housing Standards or Real Property Law §"} -->
-# Article 7-C* — Special Proceedings By Tenants For Judgment Directing Repairs of Conditions and Other Relief In Residential Real Property Constituting Violation of Applicable Local or State Housing Standards or Real Property Law §
+﻿<!-- nyslaw {"kind": "container", "law_id": "RPA", "location_id": "A7-D", "path": "ARTICLE 7-D", "source": "nys-laws:RPA/A7-D.md", "title": "Special Proceedings By Tenants For Judgment Directing Repairs of Conditions and Other Relief In Residential Real Property Constituting Violation of Applicable Local or State Housing Standards or Real Property Law §"} -->
+# Article 7-D — Special Proceedings By Tenants For Judgment Directing Repairs of Conditions and Other Relief In Residential Real Property Constituting Violation of Applicable Local or State Housing Standards or Real Property Law §
 
 [Real Property Actions and Proceedings Law](../README.md)
-
-*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
 ## Contents
 
@@ -20,10 +18,10 @@
 - [§ 797-J Judgment](797j-judgment.md)
 
 <details>
-<summary>Official heading of Article 7-C*, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
+<summary>Official heading of Article 7-D, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              * ARTICLE 7-C
+                              * ARTICLE 7-D
     SPECIAL PROCEEDINGS BY TENANTS FOR JUDGMENT DIRECTING REPAIRS OF
   CONDITIONS AND OTHER RELIEF IN RESIDENTIAL REAL PROPERTY CONSTITUTING
     VIOLATION OF APPLICABLE LOCAL OR STATE HOUSING STANDARDS OR REAL
@@ -40,8 +38,7 @@ Section 797.   Jurisdiction; courts; venue.
         797-h. Answer.
         797-i. Trial.
         797-j. Judgment.
-  * NB There are 2 Art. 7-C's
-  * NB Effective June 28, 2023
+  * NB Effective December 30, 2023
 ```
 
 </details>

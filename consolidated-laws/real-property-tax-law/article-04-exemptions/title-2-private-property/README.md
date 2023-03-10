@@ -100,7 +100,7 @@
 - [§ 467 Persons sixty-five years of age or over](467-persons-sixty-five-years-of-age-or-over.md)
 - [§ 467-A Partial tax abatement for residential real property held in the cooperative or condominium form of ownership in a city having a populatio...](467a-partial-tax-abatement-for-residential-real-property-held-in-the-cooperative.md)
 - [§ 467-B Tax abatement for rent-controlled and rent regulated property occupied by senior citizens or persons with disabilities](467b-tax-abatement-for-rent-controlled-and-rent-regulated-property-occupied-by-senior.md)
-- [§ 467-C Exemption for property owned by certain housing companies or leased by the battery park city authority and occupied by senior citizens or...](467c-exemption-for-property-owned-by-certain-housing-companies-or-leased.md)
+- [§ 467-C Exemption for property owned by certain housing companies or sublessees of the battery park city authority and occupied by senior citizen...](467c-exemption-for-property-owned-by-certain-housing-companies-or-sublessees.md)
 - [§ 467-D Assessment exemption for certain living quarters constructed to be occupied by a senior citizen or disabled individual](467d-assessment-exemption-for-certain-living-quarters-constructed-to-be-occupied.md)
 - [§ 467-E Rebate for owners or tenant-stockholders of one, two or three family residences or residential property held in the condominium or cooper...](467e-rebate-for-owners-or-tenant-stockholders-of-one-two-or-three-family-residences.md)
 - [§ 467-F Protective and safety devices tax abatement](467f-protective-and-safety-devices-tax-abatement.md)

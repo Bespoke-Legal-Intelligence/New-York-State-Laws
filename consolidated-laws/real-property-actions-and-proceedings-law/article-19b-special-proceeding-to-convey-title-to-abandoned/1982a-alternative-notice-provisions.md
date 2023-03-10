@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Real Property Actions and Proceedings Law § 1982-A", "kind": "section", "law_id": "RPA", "location_id": "1982-A", "path": "ARTICLE 19-B › SECTION 1982-A", "repealed": false, "repealed_date": null, "source": "nys-laws:RPA/1982-A.md", "title": "Alternative notice provisions"} -->
+﻿<!-- nyslaw {"citation": "Real Property Actions and Proceedings Law § 1982-A", "kind": "section", "law_id": "RPA", "location_id": "1982-A", "path": "ARTICLE 19-B › SECTION 1982-A", "repealed": true, "repealed_date": "2023-03-10", "source": "nys-laws:RPA/1982-A.md", "title": "Alternative notice provisions"} -->
 # Real Property Actions and Proceedings Law § 1982-A — Alternative notice provisions
 
 [Real Property Actions and Proceedings Law](../README.md) › [Article 19-B — Special Proceeding to Convey Title to Abandoned Commercial and Industrial Real Property to City, Town, or Village](README.md)
+
+**Repealed** (10 Mar 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 1982-a. Alternative notice provisions. 1. In lieu of the notice

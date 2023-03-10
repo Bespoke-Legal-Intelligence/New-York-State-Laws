@@ -104,7 +104,7 @@
 - [§ 95-H Mental illness anti-stigma fund](95h-mental-illness-anti-stigma-fund.md)
 - [§ 95-I New York state ALS research and education fund](95i-new-york-state-als-research-and-education-fund.md)
 - [§ 95-J The New York state two hundred fiftieth commemoration commission fund](95j-the-new-york-state-two-hundred-fiftieth-commemoration-commission-fund.md)
-- [§ 95-K Transgender and gender non-binary (TGNB) wellness and equity program fund](95k-transgender-and-gender-non-binary-tgnb-wellness-and-equity-program-fund.md)
+- [§ 95-K Transgender and non-binary (TGNB) wellness and equity program fund](95k-transgender-and-non-binary-tgnb-wellness-and-equity-program-fund.md)
 - [§ 95-K\*2 Lyme and tick-borne diseases education, research and prevention fund](95k-2-lyme-and-tick-borne-diseases-education-research-and-prevention-fund.md)
 - [§ 96 The World Trade Center memorial scholarship fund](96-the-world-trade-center-memorial-scholarship-fund.md)
 - [§ 97 Housing debt fund, and urban renewal debt fund](97-housing-debt-fund-and-urban-renewal-debt-fund.md)

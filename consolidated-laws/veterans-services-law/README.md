@@ -7,10 +7,12 @@
 |---|---|
 | Senate code | VET |
 | Type | Consolidated law, chapter 13 |
-| Sections | 40 |
-| Last changed | 23 Dec 2022 |
+| Sections | 41 |
+| Last changed | 10 Mar 2023 |
 | First in this history | 15 Apr 2022 |
 | Senate name | Veterans' Services |
+
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
 **Short title (from the law itself):** * § 30. Short title. This article shall be known and may be cited as the "veterans employment act". * NB Effective April 1, 2023
 
@@ -25,6 +27,7 @@
 
 ## Recent changes
 
+- [10 Mar 2023](../../changes/2023/2023-03-10.md): 1 amended, 1 added
 - [23 Dec 2022](../../changes/2022/2022-12-23.md): 1 added
 
 ## Contents

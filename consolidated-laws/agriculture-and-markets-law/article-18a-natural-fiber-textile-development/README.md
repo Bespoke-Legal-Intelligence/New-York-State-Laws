@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [§ 226 Natural fiber textile development council](226-natural-fiber-textile-development-council.md)
+- [§ 226 Natural fiber textile development workgroup](226-natural-fiber-textile-development-workgroup.md)
 
 <details>
 <summary>Official heading of Article 18-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -13,7 +13,7 @@
 ```text
                               ARTICLE 18-A
                     NATURAL FIBER TEXTILE DEVELOPMENT
-Section 226. Natural fiber textile development council.
+Section 226. Natural fiber textile development workgroup.
 ```
 
 </details>

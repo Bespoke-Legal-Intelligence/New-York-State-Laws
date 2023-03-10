@@ -8,7 +8,7 @@
 - [§ 1980 Applicability](1980-applicability.md)
 - [§ 1981 Certification of abandonment](1981-certification-of-abandonment.md)
 - [§ 1982 Notice](1982-notice.md)
-- [§ 1982-A Alternative notice provisions](1982a-alternative-notice-provisions.md)
+- [§ 1982-A Alternative notice provisions](1982a-alternative-notice-provisions.md) *(repealed)*
 - [§ 1983 Commencement of proceeding](1983-commencement-of-proceeding.md)
 - [§ 1984 Decision and judgment of the court](1984-decision-and-judgment-of-the-court.md)
 
@@ -22,7 +22,6 @@
 Section 1980.   Applicability.
         1981.   Certification of abandonment.
         1982.   Notice.
-        1982-a. Alternative notice provisions.
         1983.   Commencement of proceeding.
         1984.   Decision and judgment of the court.
   * NB Repealed June 30, 2025

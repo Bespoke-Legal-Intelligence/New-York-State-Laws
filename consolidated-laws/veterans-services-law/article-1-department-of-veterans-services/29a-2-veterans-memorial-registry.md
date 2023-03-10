@@ -1,0 +1,40 @@
+﻿<!-- nyslaw {"citation": "Veterans' Services Law § 29-A*2", "kind": "section", "law_id": "VET", "location_id": "29-A*2", "path": "ARTICLE 1 › SECTION 29-A*2", "repealed": false, "repealed_date": null, "source": "nys-laws:VET/29-A_2.md", "title": "Veterans memorial registry"} -->
+# Veterans' Services Law § 29-A*2 — Veterans memorial registry
+
+[Veterans' Services Law](../README.md) › [Article 1 — Department of Veterans' Services](README.md)
+
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
+```text
+  * § 29-a. Veterans memorial registry. 1. The department is directed to
+develop a veterans memorial registry in consultation with the director
+of the New York state military museum and veterans resource center, the
+commissioner of the office of parks, recreation and historic
+preservation, the commissioner of the office of general services and the
+state historian. The registry shall be made available on the
+department's website.
+  2. The registry shall consist of a searchable database of those
+veterans memorials located within the state submitted pursuant to
+subdivision three of this section. The registry shall include, but not
+be limited to, information regarding the location of a memorial and who
+or what veteran or battle such memorial is honoring. Additional
+information may include historical information such as who authorized
+the erection of such memorial and the year of the dedication. Such
+registry shall be searchable by location, veteran or battle.
+  3. The state commissioner shall issue, on behalf of the department, a
+public request for information for any county, city, town, or village
+desiring to have any memorial located within their municipality listed
+within the registry. Each county, city, town, or village may submit
+responses to the department's request for information at any time after
+the request for information has been issued. Individuals and
+organizations, including but not limited to, local veterans' service
+agencies staff and members of congressionally chartered veterans'
+service organizations may provide recommendations to a municipality for
+inclusion in the registry. In responding to the department's public
+request for information, a municipality shall identify the memorial or
+memorials it desires to have included in the registry and submit any
+information required pursuant to subdivision two of this section to the
+department.
+  * NB Effective November 10, 2023
+  * NB There are 2 § 29-a's
+```

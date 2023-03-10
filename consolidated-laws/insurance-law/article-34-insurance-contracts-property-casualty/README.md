@@ -25,6 +25,7 @@
 - [§ 3415 Supplemental claim form to be submitted for certain fire loss claims in excess of ten thousand dollars in a city with a population of one...](3415-supplemental-claim-form-to-be-submitted-for-certain-fire-loss-claims-in-excess.md)
 - [§ 3420 Liability insurance; standard provisions; right of injured person](3420-liability-insurance-standard-provisions-right-of-injured-person.md)
 - [§ 3421 Homeowners' liability insurance; dogs](3421-homeowners-liability-insurance-dogs.md)
+- [§ 3422 Hate crimes; coverage refusal](3422-hate-crimes-coverage-refusal.md)
 - [§ 3425 Certain property/casualty insurance policies; cancellation and renewal provisions; agents' contracts and brokers' accounts](3425-certain-property-casualty-insurance-policies-cancellation-and-renewal-provisions.md)
 - [§ 3426 Commercial lines insurance; cancellation and renewal provisions](3426-commercial-lines-insurance-cancellation-and-renewal-provisions.md)
 - [§ 3427 Gap insurance; cancellation, renewal and other provisions](3427-gap-insurance-cancellation-renewal-and-other-provisions.md)
@@ -107,6 +108,7 @@ Section 3401.   Insurable interest in property.
         3420.   Liability insurance; standard provisions; right of
                   injured person.
         3421.   Homeowners' liability insurance; dogs.
+        3422.   Hate crimes; coverage refusal.
         3425.   Certain property/casualty insurance policies;
                   cancellation and renewal provisions; agents' contracts
                   and brokers' accounts.

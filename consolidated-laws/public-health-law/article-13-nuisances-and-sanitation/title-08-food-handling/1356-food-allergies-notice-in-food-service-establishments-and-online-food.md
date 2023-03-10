@@ -5,19 +5,22 @@
 
 ```text
   * § 1356. Food allergies notice in food service establishments and
-online food ordering services. 1. Definitions. (a) "Food service
-establishment" shall mean a restaurant, catering hall, or grocery store
-where food is prepared and served either on or off site.
+online food ordering services. 1. Definitions. For the purposes of this
+section:
+  (a) "Food service establishment" shall mean a restaurant or catering
+hall where food is prepared and served either on or off site.
   (b) "Menu" shall mean a list or pictorial display of a prepared food
 item or items available for sale from a food establishment for the
 purpose of permitting a customer to order such food item or items,
-including such list or pictorial display posted on the internet for a
-customer to place food orders for delivery or take out.
+including such list or pictorial display posted online for a customer to
+place food orders for delivery or take out.
   2. The commissioner shall make available on the department's website,
-in English and in the top six languages other than English spoken in the
-state according to the latest available data from the United States
-Census Bureau, a notice containing information for staff of food service
-establishments regarding food allergies. Such notice shall include:
+in English and in the twelve most common non-English languages spoken by
+limited-English proficient individuals in the state, based on the data
+in the most recent American Community Survey published by the United
+States Census Bureau, a notice containing information for staff of food
+service establishments regarding food allergies. Such notice shall
+include:
   (a) the procedures to be followed if a customer informs staff of such
 food service establishment that such customer has a food allergy;
   (b) any procedures to be followed to prevent cross contact; and
@@ -32,21 +35,31 @@ languages spoken by each employee to the extent such languages are among
 those in which the department makes the notice available pursuant to
 subdivision two of this section.
   4. The commissioner shall make available on the department's website,
-in the top six languages other than English spoken in the state
-according to the latest available data from the United States Census
-Bureau, a translation of the following: "If you have a food allergy,
-please notify us."
+in the twelve most common non-English languages spoken by
+limited-English proficient individuals in the state, based on the data
+in the most recent American Community Survey published by the United
+States Census Bureau, (a) a translation of the following: "If you have a
+food allergy, please notify us."; and (b) a food allergy message that
+food service establishments may use to inform customers about allergy
+information for prepared food items.
   5. Every food service establishment operating in New York state that
 makes available a menu shall include in a conspicuous manner on each
-menu or the assembly upon which the menu or menus are included, the
-following: "If you have a food allergy, please notify us." If such menu
-is available in a language other than English for which the department
-makes a translation available pursuant to subdivision four of this
-section, such food service establishment shall also include such
+menu or the assembly upon which the menu or menus are included, either,
+(a) the following notice: "If you have a food allergy, please notify
+us."; or (b) a food allergy message that informs the customer about the
+allergy information for each prepared food item or items on such menu.
+If such menu is available in a language other than English for which the
+department makes a translation available pursuant to subdivision four of
+this section, such food service establishment shall also include such
 translation in a conspicuous manner. Every food service establishment
-that makes available a menu on the internet shall also include on such
-menu a food allergy notification to customers and provide a method by
-which a customer may indicate any food allergy such customer has.
+that makes available a menu online for a customer to place food orders
+for delivery or take out, including under a third-party food delivery
+agreement pursuant to section three hundred ninety-one-v of the general
+business law, shall also include on such menu a food allergy
+notification to customers and either, (1) provide a method by which a
+customer may indicate any food allergy such customer has; or (2) provide
+a food allergy message that informs the customer about the allergy
+information for each prepared food item or items on such menu.
   6. Any food service establishment that violates the provisions of this
 section or any of the rules or regulations promulgated hereunder shall
 be liable for a civil penalty not to exceed one hundred twenty-five

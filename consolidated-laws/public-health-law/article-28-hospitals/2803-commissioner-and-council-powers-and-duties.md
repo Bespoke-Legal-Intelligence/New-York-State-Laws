@@ -554,15 +554,18 @@ prepare and make available to the public on the facility's website, and
 immediately upon request, in a form acceptable to the commissioner, a
 pandemic emergency plan which shall include but not be limited to:
   (i) a communication plan:
-  (A) to update authorized family members and guardians of infected
-residents at least once per day and upon a change in a resident's
-condition and at least once a week to update all residents and
-authorized families and guardians on the number of infections and deaths
-at the facility, and to update all residents, authorized family members,
-and guardians of residents at the facility within twelve hours of the
-detection of the presence of an infection by a resident or staff member,
-by electronic or such other means as may be selected by each resident,
-authorized family member or guardian; and
+  (A) to update authorized family members and resident representatives
+of infected residents at least once per day and upon a change in a
+resident's condition and at least once a week to update all residents
+and authorized families and resident representatives on the number of
+infections and deaths at the facility, and to update all residents,
+authorized family members, and resident representatives at the facility
+not later than five o'clock p.m. the next calendar day following the
+detection of a confirmed infection of a resident or staff member, or at
+such earlier time as guidance from the federal centers for Medicaid and
+medicare services or centers for disease control and prevention may
+provide, by electronic or such other means as may be selected by each
+resident, authorized family member or resident representative; and
   (B) that includes a method to provide all residents with daily access,
 at no cost, to remote videoconference or equivalent communication
 methods with family members and guardians; and
@@ -579,10 +582,12 @@ applicable laws and regulations; and
   (B) a plan for such residential health care facility to maintain or
 contract to have at least a two-month supply of personal protective
 equipment; and
-  (C) a plan or procedure designating a separate cohort area during an
-infectious disease outbreak in the residential health care facility for
-the separation of residents that are suspected of being infectious,
-including the creation of a designated infectious disease care unit; and
+  (C) a plan or procedure, consistent with any guidance issued by the
+federal centers for Medicaid and medicare services or centers for
+disease control and prevention, for placement or grouping of residents
+within a facility to reduce transmission of the pandemic disease during
+an infectious disease outbreak in the residential health care facility;
+and
   (iii) a plan for preserving a resident's place in a residential health
 care facility if such resident is hospitalized, in accordance with all
 applicable laws and regulations.

@@ -30,9 +30,9 @@
 - [§ 66-Q Gas and electric billing information for residential rental premises](66q-gas-and-electric-billing-information-for-residential-rental-premises.md)
 - [§ 66-R Requirements for certain renewable energy systems](66r-requirements-for-certain-renewable-energy-systems.md)
 - [§ 66-S Electric vehicle charging; commercial tariff](66s-electric-vehicle-charging-commercial-tariff.md)
-- [§ 66-S\*2 Gas safety reports](66s-2-gas-safety-reports.md)
 - [§ 66-T Thermal energy network development](66t-thermal-energy-network-development.md)
 - [§ 66-T\*2 Registration of energy brokers and energy consultants](66t-2-registration-of-energy-brokers-and-energy-consultants.md)
+- [§ 66-U Gas safety reports](66u-gas-safety-reports.md)
 - [§ 67 Inspection of gas and electric meters](67-inspection-of-gas-and-electric-meters.md)
 - [§ 67-A Charges for past services](67a-charges-for-past-services.md)
 - [§ 68 Certificate of public convenience and necessity](68-certificate-of-public-convenience-and-necessity.md)
@@ -99,9 +99,9 @@ Section 64.     Application of article.
                   rental premises.
         66-r.   Requirements for certain renewable energy systems.
         66-s.   Electric vehicle charging; commercial tariff.
-        66-s*2. Gas safety reports.
         66-t.   Thermal energy network development.
         66-t*2. Registration of energy brokers and energy consultants.
+        66-u.   Gas safety reports.
         67.     Inspection of gas and electric meters.
         67-a.   Charges for past services.
         68.     Certificate of public convenience and necessity.

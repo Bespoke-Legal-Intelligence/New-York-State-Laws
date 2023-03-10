@@ -292,4 +292,28 @@ remove, at the time of termination of such contract, the provider from
 the health care plan's provider directory or that the health care plan
 bear financial responsibility for providing inaccurate network status
 information to an enrollee.
+  * 13. (a) No contract or agreement between a health plan subject to
+this article and a health care provider, other than a residential health
+care facility as defined by section twenty-eight hundred one of this
+chapter, shall include a provision that:
+  (i) contains a most-favored-nation provision; or
+  (ii) restricts the ability of a health plan, an entity that contracts
+with a health care plan for a provider network, or a health care
+provider to disclose: (A) actual claims costs; or (B) price or quality
+information required to be disclosed under federal law, including the
+allowed amount, negotiated rates or discounts, or any other
+claim-related financial obligations, including, but not limited to,
+patient cost-sharing covered by the provider contract to any subscriber,
+enrollee, group, or other entity receiving health care services pursuant
+to the contract, or to any public compilation of reimbursement data such
+as the New York all payer database required by law or regulation,
+provided that no disclosure shall include protected health information
+or other information covered by statutory or other privilege.
+  (b) For purposes of this subdivision, the term "health plan" shall
+include:
+  (i) an insurer licensed pursuant to the insurance law or a health
+maintenance organization certified pursuant to this article; and
+  (ii) a third-party administrator, affiliated with an insurer or health
+maintenance organization, who administers a health benefit plan.
+  * NB Effective July 1, 2023
 ```

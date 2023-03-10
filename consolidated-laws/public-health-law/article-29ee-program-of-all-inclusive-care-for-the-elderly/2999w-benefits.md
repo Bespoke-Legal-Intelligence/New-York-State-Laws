@@ -13,7 +13,8 @@ Medicare; and
   (c) other services determined necessary by the PACE organization's
 interdisciplinary team to improve and maintain the enrollee's overall
 health status.
-  2. A PACE organization may provide fiscal intermediary services under
-section three hundred sixty-five-f of the social services law.
+  2. A PACE organization may provide fiscal intermediary services if
+approved under section three hundred sixty-five-f of the social services
+law.
   * NB Effective June 26, 2023
 ```

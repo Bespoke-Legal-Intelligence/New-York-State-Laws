@@ -7,12 +7,10 @@
 |---|---|
 | Senate code | RPA |
 | Type | Consolidated law, chapter 81 |
-| Sections | 361 |
-| Last changed | 24 Feb 2023 |
+| Sections | 361 (1 repealed) |
+| Last changed | 10 Mar 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Real Property Actions & Proceedings |
-
-*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
 **Short title (from the law itself):** § 101. Short title. This chapter shall be known as the real property actions and proceedings law and may be cited as "RPAPL".
 
@@ -33,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [10 Mar 2023](../../changes/2023/2023-03-10.md): 28 amended, 1 repealed
 - [24 Feb 2023](../../changes/2023/2023-02-24.md): 1 amended
 - [6 Jan 2023](../../changes/2023/2023-01-06.md): 1 amended, 17 added
 - [30 Dec 2022](../../changes/2022/2022-12-30.md): 1 amended
@@ -42,7 +41,6 @@ Assembly, do enact as follows:
 - [5 Aug 2022](../../changes/2022/2022-08-05.md): 1 amended
 - [29 Jul 2022](../../changes/2022/2022-07-29.md): 1 amended
 - [1 Apr 2022](../../changes/2022/2022-04-01.md): 1 amended
-- [25 Mar 2022](../../changes/2022/2022-03-25.md): 2 amended
 
 ## Contents
 
@@ -56,7 +54,7 @@ Assembly, do enact as follows:
 - [Article 7-A — Special Proceedings By Tenants of Dwellings In the City of New York and the Counties of Nassau, Suffolk, Rockland and Westchester For Judgment Directing Deposit of Rents and the Use Thereof For the Purpose of Remedying Conditions Dangerous to Life, Health or Safety](article-07a-special-proceedings-by-tenants-of-dwellings/)
 - [Article 7-B — Special Proceeding For the Removal of Abandoned Manufactured Homes](article-07b-special-proceeding-for-the-removal-of-abandoned/)
 - [Article 7-C — Special Proceedings By Tenants of Dwellings For Judgment Directing Deposit of Rents and the Use Thereof For the Purpose of Remedying Conditions Dangerous to Life, Health or Safety](article-07c-special-proceedings-by-tenants-of-dwellings/)
-- [Article 7-C\* — Special Proceedings By Tenants For Judgment Directing Repairs of Conditions and Other Relief In Residential Real Property Constituting Violation of Applicable Local or State Housing Standards or Real Property Law §](article-07c-special-proceedings-by-tenants-for-judgment/)
+- [Article 7-D — Special Proceedings By Tenants For Judgment Directing Repairs of Conditions and Other Relief In Residential Real Property Constituting Violation of Applicable Local or State Housing Standards or Real Property Law §](article-07d-special-proceedings-by-tenants-for-judgment/)
 - [Article 8 — Waste and Other Actions and Rights of Action For Injury to Real Property](article-08-waste-and-other-actions-and-rights-of-action/)
 - [Article 9 — Action For Partition](article-09-action-for-partition/)
 - [Article 10 — Action For Dower](article-10-action-for-dower/)

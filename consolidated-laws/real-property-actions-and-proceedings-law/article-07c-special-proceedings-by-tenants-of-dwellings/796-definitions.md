@@ -4,7 +4,7 @@
 [Real Property Actions and Proceedings Law](../README.md) › [Article 7-C — Special Proceedings By Tenants of Dwellings For Judgment Directing Deposit of Rents and the Use Thereof For the Purpose of Remedying Conditions Dangerous to Life, Health or Safety](README.md)
 
 ```text
-  § 796. Definitions. As used in this article:
+  * § 796. Definitions. As used in this article:
   1. "Owner" means the owner or owners of the dwelling, mortgagee or
 vendee in possession, assignee of rents, receiver, executor, trustee,
 lessee, agent, or any other person or entity directly or indirectly in
@@ -25,4 +25,5 @@ officer of a department.
   5. "Municipality" means a county, city, town or village.
   6. "Person" means an individual, partnership, corporation,
 association, trust or other group or legal entity, however organized.
+  * NB Effective June 13, 2023
 ```

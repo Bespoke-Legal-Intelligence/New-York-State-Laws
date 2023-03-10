@@ -6,6 +6,7 @@
 ## Contents
 
 - [§ 278 Prescription drug retail price lists](278-prescription-drug-retail-price-lists.md)
+- [§ 278-A Exceptions to drug prescription supply during an emergency](278a-exceptions-to-drug-prescription-supply-during-an-emergency.md)
 - [§ 279 Prescriber education](279-prescriber-education.md)
 - [§ 280 Medicaid drug cap](280-medicaid-drug-cap.md)
 - [§ 280-A Pharmacy benefit managers](280a-pharmacy-benefit-managers.md)
@@ -19,6 +20,8 @@
                                 TITLE II
                  PRESCRIPTION DRUGS; VARIOUS PROVISIONS
 Section 278.   Prescription drug retail price lists.
+        278-a. Exceptions to drug prescription supply during an
+                 emergency.
         279.   Prescriber education.
         280.   Medicaid drug cap.
         280-a. Pharmacy benefit managers.

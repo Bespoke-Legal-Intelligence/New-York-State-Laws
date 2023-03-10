@@ -4,10 +4,16 @@
 [Public Health Law](../../README.md) › [Article 42 — Cadavers](../README.md) › [Title 1 — Disposition](README.md)
 
 ```text
-  § 4200. Cadavers; duty of burial. 1. Except in the cases in which a
+  § 4200. Cadavers; duty of burial. * 1. Except in the cases in which a
 right to dissect it is expressly conferred by law, every body of a
 deceased person, within this state, shall be decently buried or
 incinerated within a reasonable time after death.
+  * NB Effective until June 28, 2023
+  * 1. Except in the cases in which a right to dissect it is expressly
+conferred by law, every body of a deceased person, within this state,
+shall be decently buried, naturally organically reduced, or incinerated
+within a reasonable time after death.
+  * NB Effective June 28, 2023
   2. The provisions of this section shall not impair the right to carry
 the body of a deceased person through this state, or to remove from this
 state the body of a person who has died within it, for the purpose of

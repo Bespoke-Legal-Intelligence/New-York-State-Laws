@@ -20,7 +20,7 @@
 <summary>Official heading of Title 33, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                TITLE 33
+                               * TITLE 33
                         CARPET COLLECTION PROGRAM
 Section 27-3301. Definitions.
         27-3303. Producer plan.
@@ -32,6 +32,7 @@ Section 27-3301. Definitions.
         27-3315. Post-consumer content requirements.
         27-3317. Penalties.
         27-3319. Rules and regulations.
+  * NB Effective December 28, 2024
 ```
 
 </details>

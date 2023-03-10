@@ -33,11 +33,16 @@ agent, in an amount to be determined by the division. Every licensed
 agent shall prominently display his license, or a copy thereof, as may
 be determined by rules and regulations of the division, in each place of
 business or activity where lottery tickets are sold.
-  c. The division shall make regular reports to the commissioner, which
-reports shall include a full and complete statement of lottery revenues,
-prize disbursements and other expenses, and any other information the
-commissioner may require. The commissioner shall make an annual report
-to the governor and the legislature, which shall include a summary of
-lottery revenues, prize disbursements and other expenses for the year
-preceding such report.
+  c. (1) The commission shall make regular reports to the commissioner,
+which reports shall include a full and complete statement of lottery
+revenues, prize disbursements and other expenses, and any other
+information the commissioner may require. (2) The commission shall make
+an annual report to the governor and the legislature, which shall
+include a summary of lottery revenues, prize disbursements and other
+expenses for the year preceding such report. (3) The commission shall,
+by January thirty-first of each year, provide the commissioner with a
+list of the lottery prize amounts, names and social security numbers of
+the winners of New York state lottery and video lottery gaming
+individual prizes in excess of one million dollars in the previous
+calendar year.
 ```

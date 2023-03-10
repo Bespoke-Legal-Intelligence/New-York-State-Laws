@@ -48,7 +48,6 @@
 - [§ 135-C Electronic notarization](135c-electronic-notarization.md)
 - [§ 136 Notarial fees](136-notarial-fees.md)
 - [§ 137 Statement as to authority of notaries public](137-statement-as-to-authority-of-notaries-public.md)
-- [§ 137-A Electronic notarization](137a-electronic-notarization.md) *(repealed)*
 - [§ 138 Powers of notaries public or other officers who are stockholders, directors, officers or employees of a corporation](138-powers-of-notaries-public-or-other-officers-who-are-stockholders-directors.md)
 - [§ 139 Commissioners of deeds within the state](139-commissioners-of-deeds-within-the-state.md)
 - [§ 140 Commissioners of deeds in the city of New York](140-commissioners-of-deeds-in-the-city-of-new-york.md)
