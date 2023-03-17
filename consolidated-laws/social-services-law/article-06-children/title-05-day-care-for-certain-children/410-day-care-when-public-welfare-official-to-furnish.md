@@ -4,34 +4,20 @@
 [Social Services Law](../../README.md) › [Article 6 — Children](../README.md) › [Title 5 — Day Care For Certain Children](README.md)
 
 ```text
-  § 410. Day care; when public welfare official to furnish. * 1. A
-public welfare official of a county, city or town is authorized,
-provided funds have been made available therefor, to provide day care at
-public expense for children residing in his territory who are eligible
-therefor pursuant to provisions of this title. Such care may be provided
-only in cases where it is determined, under criteria established by the
-department, that there is a need therefor because of inability of the
-parents to provide care and supervision for a substantial part of the
-day and that such care is in the best interest of the child and parent.
-Where the family is able to pay part or all of the costs of such care,
-payment of such fees as may be reasonable in the light of such ability
-shall be required.
-  * NB Effective until March 16, 2023
-  * 1. A public welfare official of a county, city or town is
-authorized, provided funds have been made available therefor, to provide
-day care at public expense for children residing in his territory who
-are eligible therefor pursuant to provisions of this title. Such care
-may be provided only in cases where it is determined, under criteria
-established by the office of children and family services, that there is
-a need and that such care is in the best interest of the child and
-parent; provided however that the public welfare official shall not be
-required to limit authorized child care services strictly based on the
-work, training, or educational schedule of the parents or the number of
-hours the parents spend in work, training, or educational activities.
-Where the family is able to pay part or all of the costs of such care,
-payment of such fees as may be reasonable in the light of such ability
-shall be required.
-  * NB Effective March 16, 2023
+  § 410. Day care; when public welfare official to furnish.  1. A public
+welfare official of a county, city or town is authorized, provided funds
+have been made available therefor, to provide day care at public expense
+for children residing in his territory who are eligible therefor
+pursuant to provisions of this title. Such care may be provided only in
+cases where it is determined, under criteria established by the office
+of children and family services, that there is a need and that such care
+is in the best interest of the child and parent; provided however that
+the public welfare official shall not be required to limit authorized
+child care services strictly based on the work, training, or educational
+schedule of the parents or the number of hours the parents spend in
+work, training, or educational activities. Where the family is able to
+pay part or all of the costs of such care, payment of such fees as may
+be reasonable in the light of such ability shall be required.
   2. The furnishing of such care is hereby declared to be a proper
 municipal purpose for which the monies of a county, city or town may be
 raised and expended. A county, city or town may receive and expend
@@ -50,19 +36,12 @@ inadequate to provide required care. Purchase of such care may also be
 made from a school district in accordance with state and federal
 requirements pursuant to a contract between the social services district
 and the school district.
-  * (b) Care under this title may be provided only in group facilities,
-family homes, group family day care homes or in a day care center
-project as defined in title five-a which are operated in compliance with
-applicable regulations of the department. A group facility shall include
-a public school which provides day care pursuant to this subdivision.
-  * NB Effective until March 16, 2023
-  * (b) Care under this title may be provided only in group facilities,
+  (b) Care under this title may be provided only in group facilities,
 family homes, group family day care homes or in a day care center
 project as defined in title five-a which are operated in compliance with
 applicable regulations of the office of children and family services. A
 group facility shall include a public school which provides day care
 pursuant to this subdivision.
-  * NB Effective March 16, 2023
   (c) Except as hereinafter provided, care under this title shall not
 include care, supervision, training or participation in kindergartens,
 nursery schools or other schools, classes or activities operated or

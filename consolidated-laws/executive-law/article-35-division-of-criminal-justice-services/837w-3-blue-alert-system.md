@@ -58,6 +58,5 @@ Emergency Alert System for the issuance of blue alerts.
   8. The division is hereby authorized to promulgate rules and
 regulations for the implementation of the blue alert system pursuant to
 this section.
-  * NB Effective March 16, 2023
   * NB There are 3 § 837-w's
 ```

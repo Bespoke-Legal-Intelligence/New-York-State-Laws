@@ -380,5 +380,5 @@ organizations and pharmacy benefit managers shall not restrict a health
 care provider from communicating to the subscriber prescription cost
 options.
   * NB There are 2 sb 8's
-  * NB Effective June 28, 2024
+  * NB Effective June 28, 2023
 ```

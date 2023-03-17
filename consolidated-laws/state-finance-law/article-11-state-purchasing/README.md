@@ -12,6 +12,7 @@
 - [§ 163 Purchasing services and commodities](163-purchasing-services-and-commodities.md)
 - [§ 163-A Vendor preparation of specifications for technology procurements; prohibitions](163a-vendor-preparation-of-specifications-for-technology-procurements-prohibitions.md)
 - [§ 163-B Environmentally-sensitive cleaning and maintenance products](163b-environmentally-sensitive-cleaning-and-maintenance-products.md)
+- [§ 163-C Purchase or lease of zero emission vehicles and charging or fueling infrastructure](163c-purchase-or-lease-of-zero-emission-vehicles-and-charging-or-fueling.md)
 - [§ 164 Exemptions](164-exemptions.md)
 - [§ 165 Purchasing restrictions](165-purchasing-restrictions.md)
 - [§ 165-A Iran divestment](165a-iran-divestment.md)
@@ -35,6 +36,8 @@ Section 160.   Definitions.
                  procurements; prohibitions.
         163-b. Environmentally-sensitive cleaning and maintenance
                  products.
+        163-c. Purchase or lease of zero emission vehicles and charging
+                 or fueling infrastructure.
         164.   Exemptions.
         165.   Purchasing restrictions.
         165-a. Iran divestment.

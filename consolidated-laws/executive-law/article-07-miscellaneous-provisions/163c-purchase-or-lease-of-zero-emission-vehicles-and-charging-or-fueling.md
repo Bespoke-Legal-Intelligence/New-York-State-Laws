@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 163-C", "kind": "section", "law_id": "EXC", "location_id": "163-C", "path": "ARTICLE 7 › SECTION 163-C", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/163-C.md", "title": "Purchase or lease of zero emission vehicles and charging or fueling infrastructure"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 163-C", "kind": "section", "law_id": "EXC", "location_id": "163-C", "path": "ARTICLE 7 › SECTION 163-C", "repealed": true, "repealed_date": "2023-03-17", "source": "nys-laws:EXC/163-C.md", "title": "Purchase or lease of zero emission vehicles and charging or fueling infrastructure"} -->
 # Executive Law § 163-C — Purchase or lease of zero emission vehicles and charging or fueling infrastructure
 
 [Executive Law](../README.md) › [Article 7 — Miscellaneous Provisions](README.md)
+
+**Repealed** (17 Mar 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 163-c. Purchase or lease of zero emission vehicles and charging or

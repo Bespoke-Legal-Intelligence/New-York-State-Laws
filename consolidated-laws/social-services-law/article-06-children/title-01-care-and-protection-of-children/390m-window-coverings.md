@@ -4,7 +4,7 @@
 [Social Services Law](../../README.md) › [Article 6 — Children](../README.md) › [Title 1 — Care and Protection of Children](README.md)
 
 ```text
-  § 390-m. Window coverings. 1. For purposes of this section the
+  * § 390-m. Window coverings. 1. For purposes of this section the
 following terms shall have the meanings set forth below:
   (a) "Beaded chain" means a cord with a series of small spheres,
 typically made of metal or plastic.
