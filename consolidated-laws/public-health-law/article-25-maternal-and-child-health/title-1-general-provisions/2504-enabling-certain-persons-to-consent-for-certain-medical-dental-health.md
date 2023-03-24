@@ -5,21 +5,15 @@
 
 ```text
   § 2504. Enabling certain persons to consent for certain medical,
-dental, health and hospital services. * 1. Any person who is eighteen
-years of age or older, or is the parent of a child or has married, may
-give effective consent for medical, dental, health and hospital services
-for himself or herself, and the consent of no other person shall be
-necessary.
-  * NB Effective until March 23, 2023
-  * 1. Any person who is eighteen years of age or older, or is the
-parent of a child or has married, or is a runaway or homeless youth as
-defined in section five hundred thirty-two-a of the executive law, or
-receives services at an approved runaway and homeless youth crisis
-services program or a transitional independent living support program as
-defined in section five hundred thirty-two-a of the executive law, may
-give effective consent for medical, dental, health and hospital services
-for themself, and the consent of no other person shall be necessary.
-  * NB Effective March 23, 2023
+dental, health and hospital services. 1. Any person who is eighteen
+years of age or older, or is the parent of a child or has married, or is
+a runaway or homeless youth as defined in section five hundred
+thirty-two-a of the executive law, or receives services at an approved
+runaway and homeless youth crisis services program or a transitional
+independent living support program as defined in section five hundred
+thirty-two-a of the executive law, may give effective consent for
+medical, dental, health and hospital services for themself, and the
+consent of no other person shall be necessary.
   2. Any person who has been married or who has borne a child may give
 effective consent for medical, dental, health and hospital services for
 his or her child. Any person who has been designated pursuant to title

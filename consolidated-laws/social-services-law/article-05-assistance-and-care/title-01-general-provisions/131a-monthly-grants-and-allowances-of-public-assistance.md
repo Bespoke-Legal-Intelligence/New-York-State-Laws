@@ -321,7 +321,6 @@ length of time the individual participates in the program, but not
 longer than sixty months. The commissioner shall seek federal waiver
 authority to disregard income for the direct cash transfer pilot program
 for the purpose of the supplemental nutrition assistance program.
-  * NB Effective March 23, 2023
   * NB Repealed March 23, 2029
   * NB There are 2 sbpar (x)'s
   (b) Notwithstanding the provisions of paragraph (a) of this
