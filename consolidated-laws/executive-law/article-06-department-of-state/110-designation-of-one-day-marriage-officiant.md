@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 110", "kind": "section", "law_id": "EXC", "location_id": "110", "path": "ARTICLE 6 › SECTION 110", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/110.md", "title": "Designation of one-day marriage officiant"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 110", "kind": "section", "law_id": "EXC", "location_id": "110", "path": "ARTICLE 6 › SECTION 110", "repealed": true, "repealed_date": "2023-03-31", "source": "nys-laws:EXC/110.md", "title": "Designation of one-day marriage officiant"} -->
 # Executive Law § 110 — Designation of one-day marriage officiant
 
 [Executive Law](../README.md) › [Article 6 — Department of State](README.md)
+
+**Repealed** (31 Mar 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 110. Designation of one-day marriage officiant. The secretary, or

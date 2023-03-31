@@ -30,18 +30,28 @@ hundred forty-five of the civil practice law and rules shall not
 constitute a qualifying health care cost and shall not be paid from the
 fund. For purposes of this title, "collateral source" shall not include
 medicare or Medicaid.
-  4. The amount of qualifying health care costs to be paid from the fund
-shall be calculated on the basis of one hundred percent of the usual and
-customary cost. For the purposes of this section, "usual and customary
-costs" shall mean the eightieth percentile of all charges for the
-particular health care service performed by a provider in the same or
-similar specialty and provided in the same geographical area as reported
-in a benchmarking database maintained by a nonprofit organization
-specified by the superintendent of financial services. If no such rates
-are available qualifying health care costs shall be calculated on the
-basis of no less than one hundred thirty percent of Medicaid or Medicare
-rates of reimbursement, whichever is higher. If no such rate exists,
-costs shall be reimbursed as defined by the commissioner in regulation.
+  * 4. The amount of qualifying health care costs to be paid from the
+fund shall be calculated on the basis of one hundred percent of the
+usual and customary cost. For the purposes of this section, "usual and
+customary costs" shall mean the eightieth percentile of all charges for
+the particular health care service performed by a provider in the same
+or similar specialty and provided in the same geographical area as
+reported in a benchmarking database maintained by a nonprofit
+organization specified by the superintendent of financial services. If
+no such rates are available qualifying health care costs shall be
+calculated on the basis of no less than one hundred thirty percent of
+Medicaid or Medicare rates of reimbursement, whichever is higher. If no
+such rate exists, costs shall be reimbursed as defined by the
+commissioner in regulation.
+  * NB Effective until December 31, 2025
+  * 4. The amount of qualifying health care costs to be paid from the
+fund shall be calculated: (a) with respect to services provided in
+private physician practices on the basis of one hundred percent of the
+usual and customary rates, as defined by the commissioner in regulation;
+or (b) with respect to all other services, on the basis of Medicaid
+rates of reimbursement or, where no such rates are available, as defined
+by the commissioner in regulation.
+  * NB Effective December 31, 2025
   5. Claims for the payment or reimbursement from the fund of qualifying
 health care costs shall be made upon forms prescribed and furnished by
 the fund administrator in conjunction with regulations establishing a

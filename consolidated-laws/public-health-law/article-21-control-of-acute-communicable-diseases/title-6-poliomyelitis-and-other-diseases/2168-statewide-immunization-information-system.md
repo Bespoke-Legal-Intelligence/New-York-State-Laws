@@ -189,23 +189,13 @@ in this paragraph.
 access to newborn infant hearing screening data and results through the
 statewide immunization information system in accordance with section
 twenty-five hundred-g of this chapter.
-  (d) (i) Identifiable registrant information is not (1) subject to
-discovery, subpoena, warrant, or other means of legal compulsion for
-release to any person or (2) admissible in any civil, administrative,
-criminal, or family court proceeding, except for the purposes of
-investigations and prosecutions of allegations of computer tampering or
-billing fraud related to vaccination records, fraudulent statements
-related to an individual's vaccination status, an act of violence or
-attempted violence occurring at the site of a vaccination provider's or
-vaccine navigator's business, or medical malpractice. Disclosure for
-these purposes shall be subject to in camera review and approval by the
-court and, if the use is initiated by a party other than the individual
-whose registry information is sought, the information must be highly
-material and relevant for the purpose.
-  (ii) Nothing in this section shall be construed to limit commissioners
-of local social services districts or the commissioner of the office of
-children and family services from accessing identifiable registrant
-information under paragraph (d) of subdivision eight of this section.
+  (d) A person, institution or agency to whom such immunization
+information is furnished or to whom, access to records or information
+has been given, shall not divulge any part thereof so as to disclose the
+identity of such person to whom such information or record relates,
+except insofar as such disclosure is necessary for the best interests of
+the person or other persons, consistent with the purposes of this
+section.
   5. (a) All health care providers and their designees, except for
 providers reporting to the citywide immunization registry, shall submit
 to the commissioner information about any vaccinee less than nineteen
@@ -370,17 +360,19 @@ section as determined by the commissioner, or in the city of New York,
 the commissioner of the department of health and mental hygiene.
   11-a. The commissioner, or in the city of New York, the commissioner
 of the department of health and mental hygiene, may only share registry
-information with the federal Centers for Disease Control and Prevention,
-or successor agency, for public health purposes in summary, statistical,
+information maintained by the department, or in the case of the citywide
+immunization registry, the city of New York under the provisions of this
+section with the federal Centers for Disease Control and Prevention, or
+successor agency, for public health purposes in summary, statistical,
 aggregate, or other form such that no individual person can be
 identified, except that either such commissioner may disclose
 identifiable registrant information to the federal Centers for Disease
 Control and Prevention, or its successor agency, when the commissioner
 has determined that the disclosure is in the best interests of the
-registrant or will contribute to the protection of public health, that
-the objective of the disclosure cannot be served by disclosure limited
-to de-identified information, and the federal health officials have
-committed in writing not to redisclose to or share registrant
+registrant or will contribute to the protection of public health and
+that the objective of the disclosure cannot be served by disclosure
+limited to de-identified information, or the federal health officials
+have committed in writing not to redisclose to or share registrant
 information with any other federal agency, including but not limited to
 the department of homeland security, immigration and customs
 enforcement, customs and border protection, or any successor agency, or

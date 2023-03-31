@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 2999-K", "kind": "section", "law_id": "PBH", "location_id": "2999-K", "path": "ARTICLE 29-D › TITLE 4 › SECTION 2999-K", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2999-K.md", "title": "Explanation of benefits forms relating to claims for qualifying health care costs under the fund"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 2999-K", "kind": "section", "law_id": "PBH", "location_id": "2999-K", "path": "ARTICLE 29-D › TITLE 4 › SECTION 2999-K", "repealed": true, "repealed_date": "2023-03-31", "source": "nys-laws:PBH/2999-K.md", "title": "Explanation of benefits forms relating to claims for qualifying health care costs under the fund"} -->
 # Public Health Law § 2999-K — Explanation of benefits forms relating to claims for qualifying health care costs under the fund
 
 [Public Health Law](../../README.md) › [Article 29-D — Health Information and Quality Improvement](../README.md) › [Title 4 — New York State Medical Indemnity Fund](README.md)
+
+**Repealed** (31 Mar 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 2999-k. Explanation of benefits forms relating to claims for

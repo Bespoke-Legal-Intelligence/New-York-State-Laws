@@ -96,38 +96,9 @@ relevant for the purpose.
   12. "Covered entity" means a governmental entity or a place of public
 accommodation, resort or amusement, as defined in section two hundred
 ninety-two of the executive law.
-  13. "Derived from an immunity passport" means any information
-contained in or retrieved from an immunity passport, as well as any
-metadata associated with the use of the immunity passport, including the
-time and location the immunity passport was used, as well as any
-inferences made based on the information contained in an immunity
-passport or an immunity passport's usage.
-  14. "Disclose" means the release, transfer, provision of, access to,
-or divulging in any other manner of information outside the entity
-holding the information.
-  15. "Governmental entity" means a department or agency of the state or
-a political subdivision thereof, an individual acting for or on behalf
-of the state or a political subdivision thereof, or any entity regulated
-under the social services law.
-  16. "Immunity passport" means a credential, whether digital,
-electronic, or physical, that identifies an individual as having
-received a COVID-19 vaccine or a COVID-19 test result.
-  17. "Immunity passport provider" means a legal entity that develops,
-maintains, distributes, or markets immunity passports in New York state.
-  18. "Personal information" means information that directly or
-indirectly identifies, relates to, describes, is capable of being
-associated with, or could reasonably be linked to a particular
-individual or personal device. Information is reasonably linkable to an
-individual or personal device if it can be used on its own or in
-combination with other reasonably available information, regardless of
-whether such other information is held by the covered entity or immunity
-passport provider, to identify an individual or a personal device.
-  19. "Physical immunity passport" means a credential that identifies an
+  13. "Physical immunity passport" means a credential that identifies an
 individual as having received a COVID-19 vaccine or a COVID-19 test
 result that does not rely on a digital or electronic device. Physical
 immunity passports include, but are not limited to, pieces of paper
 denoting immunity status.
-  20. "Use" means, with respect to personal information, the sharing,
-employment, application, utilization, examination, or analysis of such
-information within an entity that maintains such information.
 ```

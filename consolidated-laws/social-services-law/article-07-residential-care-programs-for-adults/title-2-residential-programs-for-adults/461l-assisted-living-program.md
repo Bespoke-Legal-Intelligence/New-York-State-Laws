@@ -113,7 +113,8 @@ assessment or reassessment.
   * (iv) Eligible individuals shall be permitted to receive hospice
 services from a provider under article forty of the public health law
 while continuing to reside in an adult care facility under this title
-and enrolled in the assisted living program. The commissioner shall make
+and enrolled in the assisted living program, subject to the availability
+of federal financial participation. The commissioner shall make
 regulations and take other actions reasonably necessary and appropriate
 to implement this subparagraph.
   * NB Effective June 7, 2023

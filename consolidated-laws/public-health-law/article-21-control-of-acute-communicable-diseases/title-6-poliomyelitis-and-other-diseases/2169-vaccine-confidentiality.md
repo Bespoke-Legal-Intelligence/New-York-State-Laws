@@ -33,21 +33,21 @@ local health officer, the department of health and mental hygiene of the
 city of New York, or the commissioner of the department of health and
 mental hygiene of the city of New York.
   (f) The term "personal information" shall mean information obtained
-from or about an individual, in connection with their registering for or
-receiving a vaccination, that directly or indirectly identifies, relates
-to, describes, is capable of being associated with, or could reasonably
-be linked to a particular individual, household, or personal device.
+from or about an individual, in connection with their registering for a
+vaccination, that directly or indirectly identifies, relates to,
+describes, is capable of being associated with, or could reasonably be
+linked to a particular individual, household, or personal device.
 Information is reasonably linkable to an individual, household, or
 personal device if it can be used on its own or in combination with
-other reasonably available information, regardless of whether such other
-information is held by the vaccine navigator or vaccine provider, to
-identify an individual, household, or a personal device.
+other reasonably available information, when such information is held by
+the vaccine navigator, to identify an individual, household, or a
+personal device.
   (g) The term "service attendant to the delivery of immunization" shall
-mean scheduling and billing for an immunization appointment, sending
-reminders about immunization, arranging transportation to or from a
-vaccine provider, or reporting to the department, the New York City
-department of health and mental hygiene, or other local health agency on
-whose behalf such vaccine navigator is performing such services.
+mean facilitating an immunization appointment, sending reminders about
+immunization, arranging transportation to or from a vaccine provider, or
+reporting to the department, the New York City department of health and
+mental hygiene, or other local health agency on whose behalf such
+vaccine navigator is performing such services.
   (h) The term "use" shall mean, with respect to personal information,
 the sharing, employment, application, utilization, examination or
 analysis of such information within an entity that maintains such
@@ -56,11 +56,8 @@ information.
 personal information from an individual in order to register that
 individual for immunization or to help that individual register for
 immunization, provided the department, a local public health agency, or
-a person that administers vaccines are not vaccine navigators if they
-only store vaccine recipient personal information in medical records
-protected under the federal Health Insurance Portability and
-Accountability Act of 1996, its implementing regulations, or section
-eighteen of this chapter.
+a person that administers vaccines or their designees are not vaccine
+navigators.
   2. (a) Except as provided in paragraph (d) of this subdivision, absent
 consent from the individual seeking immunization, or if the individual
 lacks the capacity to make health care decisions, an individual
@@ -102,22 +99,25 @@ this title; and
   (iii) Without consent under this subdivision, personal information and
 any evidence derived therefrom shall not be subject to or provided in
 response to any legal process or be admissible for any purpose in any
-judicial or administrative action or proceeding.
+judicial or administrative action or proceeding unless provided in
+response pursuant to warrants, court-ordered subpoenas, administrative
+subpoenas, or grand jury subpoenas.
   (d) (i) This section does not bar otherwise lawful disclosure,
 possession or use of information pertaining to services attendant to the
 delivery of immunization, including aggregate information, that is
 de-identified. Disclosure, possession or use under this subparagraph
 shall only be for a public health or public health research purposes.
-  (ii) A person may only possess or use de-identified information
-pertaining to services attendant to the delivery of immunization if the
-person maintains technical safeguards and policies and procedures that
-prevent re-identification, whether intentional or unintentional, of any
-individual, as may be required by the commissioner (or the New York city
-commissioner of health and mental hygiene, in the case of information
-collected by or under authority of the New York city department of
-health and mental hygiene. The commissioner (or the New York city
-commissioner as the case may be) shall require safeguards, policies and
-procedures under this paragraph as the commissioner deems practicable.
+  (ii) A vaccine navigator may only possess or use de-identified
+information pertaining to services attendant to the delivery of
+immunization if the vaccine navigator maintains technical safeguards and
+policies and procedures that prevent re-identification, whether
+intentional or unintentional, of any individual, as may be required by
+the commissioner (or the New York city commissioner of health and mental
+hygiene, in the case of information collected by or under authority of
+the New York city department of health and mental hygiene. The
+commissioner (or the New York city commissioner as the case may be)
+shall require safeguards, policies and procedures under this paragraph
+as the commissioner deems practicable.
   (iii) Disclosure, possession and use of de-identified information
 under this subdivision shall be only pursuant to approval by the
 commissioner (or the New York city commissioner of health and mental
@@ -126,18 +126,6 @@ the New York city department of health and mental hygiene) specifying
 the purpose, nature and scope of the disclosure, possession and use and
 measures to ensure that it will comply with this section and the terms
 of the approval.
-  (iv) This section does not prevent disclosure of personal information
-sought for the purposes of investigations and prosecutions of
-allegations of computer tampering or billing fraud related to
-vaccination records, fraudulent statements related to an individual's
-vaccination status, an act of violence or attempted violence occurring
-at the site of a vaccination provider's or vaccine navigator's business,
-or medical malpractice, professional discipline, or defense of any claim
-brought against a vaccine navigator or provider. Disclosure for these
-purposes shall be subject to in camera review and approval by the court
-and, if the use is initiated by a party other than the individual whose
-registry information is sought, the information must be highly material
-and relevant for the purpose.
   (e) A vaccine navigator that maintains personal information shall
 establish appropriate administrative, technical, and physical
 safeguards, policies, and procedures that ensure the security of that
@@ -148,7 +136,7 @@ navigator and must ensure that personal information is encrypted and
 protected at least as much as or more than other confidential
 information in the vaccine navigator's possession. The commissioner or,
 in the city of New York, the commissioner of the department of health
-and mental hygiene shall make regulations as reasonably necessary to
+and mental hygiene may make regulations as reasonably necessary to
 require that personal information possessed, used, or under the control
 of a vaccine navigator shall be subject to technical safeguards,
 policies, and procedures for storage, transmission, use, and protection
@@ -164,11 +152,10 @@ of the pre-existing relationship.
 the provision of any service attendant to the delivery of immunization
 by inviting or requiring an individual seeking vaccination to complete
 an application for a customer discount card or account or share personal
-information that will be stored outside of a medical record protected
-under the federal Health Insurance Portability and Accountability Act of
-1996, its implementing regulations, or section eighteen of this chapter
-for purposes other than services attendant to the delivery of
-immunization, or by engaging in any other activity unrelated to the
-provision of such a service that the commissioner designates by
-regulation.
+information that will be stored outside of a record protected under the
+federal Health Insurance Portability and Accountability Act of 1996, its
+implementing regulations, or section eighteen of this chapter for
+purposes other than services attendant to the delivery of immunization,
+or by engaging in any other activity unrelated to the provision of such
+a service that the commissioner designates by regulation.
 ```

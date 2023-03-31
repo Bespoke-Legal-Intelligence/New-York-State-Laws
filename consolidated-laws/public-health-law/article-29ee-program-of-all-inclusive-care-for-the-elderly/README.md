@@ -25,7 +25,7 @@ Section 2999-s. Definitions.
         2999-v. Eligibility and enrollment.
         2999-w. Benefits.
         2999-x. Reimbursement.
-        2999-y. Regulations.
+        2999-y. Regulations and applicable laws.
   * NB Effective June 26, 2023
 ```
 

@@ -56,33 +56,8 @@ means the most recent federal income official poverty line (as defined
 and annually revised by the federal office of management and budget)
 updated by the department for a family size of four and adjusted by the
 department for family size.
-  * 3. A social services district shall guarantee child care assistance
-to families in receipt of public assistance with children under thirteen
-years of age when such child care assistance is necessary for a parent
-or caretaker relative to engage in work or participate in work
-activities pursuant to the provisions of title nine-B of article five of
-this chapter. Child care assistance shall continue to be guaranteed for
-such a family for a period of twelve months after the month in which the
-family's eligibility for public assistance has terminated or ended when
-such child care is necessary in order to enable the parent or caretaker
-relative to engage in work, provided that the family's public assistance
-has been terminated as a result of an increase in the hours of or income
-from employment or increased income from child support payments or
-because the family voluntarily ended assistance; that the family
-received public assistance in at least three of the six months preceding
-the month in which eligibility for such assistance terminated or ended
-or provided that such family has received child care assistance under
-subdivision four of this section; that the family's income does not
-exceed two hundred percent of the state income standard, or three
-hundred percent of the state income standard effective August first, two
-thousand twenty-two; and that the family income does not exceed
-eighty-five percent of the state median income. Such child day care
-shall recognize the need for continuity of care for the child and a
-district shall not move a child from an existing provider unless the
-participant consents to such move.
-  * NB Effective until March 30, 2023
-  * 3. A social services district shall guarantee child care assistance
-to families in receipt of public assistance with children under thirteen
+  3. A social services district shall guarantee child care assistance to
+families in receipt of public assistance with children under thirteen
 years of age when such child care assistance is necessary for a parent
 or caretaker relative to engage in work or participate in work
 activities pursuant to the provisions of title nine-B of article five of
@@ -107,7 +82,6 @@ percent of the state median income. Such child day care shall recognize
 the need for continuity of care for the child and a district shall not
 move a child from an existing provider unless the participant consents
 to such move.
-  * NB Effective March 30, 2023
   4. (a) Local social services districts shall guarantee applicants who
 would otherwise be eligible for, or are recipients of, public assistance
 benefits and who are employed, the option to choose to receive
@@ -124,12 +98,7 @@ this section as if they had been recipients of public assistance.
   (b) Nothing herein shall be construed to waive the right of an
 applicant who chooses to receive continuing child day care subsidies
 pursuant to this section from applying for ongoing public assistance.
-  * 5. A family eligible for child care assistance under paragraph (a)
-of subdivision one of this section shall suffer no break in child care
-services and shall not be required to reapply for such assistance so
-long as eligibility under subdivision three of this section continues.
-  * NB Effective until March 30, 2023
-  * 5. (a) A family eligible for child care assistance pursuant to
+  5. (a) A family eligible for child care assistance pursuant to
 subdivision one of this section, unless such family voluntarily ends
 such assistance, shall be deemed eligible for a period of no less than
 twelve months from the date of the eligibility determination for such
@@ -141,7 +110,6 @@ income does not exceed eighty-five percent of the state median income.
 subdivision one of this section shall suffer no break in child care
 services and shall not be required to reapply for such assistance so
 long as eligibility under subdivision three of this section continues.
-  * NB Effective March 30, 2023
   6. Notwithstanding any other provision of law, rule or regulation to
 the contrary, applicants for child care subsidy assistance shall be
 encouraged to obtain a child support order and shall be advised of the

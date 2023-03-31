@@ -4,17 +4,24 @@
 [Social Services Law](../README.md) › [Article 2 — Department and State Board of Social Welfare](README.md)
 
 ```text
-  § 36-a.  Department research and demonstration projects.  1.  The
+  § 36-a. Department research and demonstration projects. 1. The
 department is authorized to sponsor, conduct and participate in research
 and demonstration projects designed to ascertain and eliminate the
 causes of dependency and to rehabilitate recipients of public assistance
 and care or to demonstrate the utilization of research in the
 administration of public assistance and care.
-  2.  Except where a specific appropriation has been made therefor, no
+  2. Except where a specific appropriation has been made therefor, no
 such research or demonstration project requiring the expenditure of
 state funds shall be instituted without prior approval of the director
 of the budget.
-  3.  The department may request the cooperation of any county or city
+  3. The department may request the cooperation of any county or city
 social services district in connection with any such research or
 demonstration project sponsored or conducted by the department.
+  * 4. The commissioner shall seek any federal waiver or waivers from
+the United States department of agriculture that may be necessary to
+exclude income provided to an individual as part of their participation
+in a pilot program authorized under section one hundred thirty-one-a of
+this chapter for supplemental nutrition assistance program eligibility
+determination purposes.
+  * NB Repealed March 23, 2029
 ```

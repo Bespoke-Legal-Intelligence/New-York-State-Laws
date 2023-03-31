@@ -13,6 +13,7 @@
 - [§ 163-A Vendor preparation of specifications for technology procurements; prohibitions](163a-vendor-preparation-of-specifications-for-technology-procurements-prohibitions.md)
 - [§ 163-B Environmentally-sensitive cleaning and maintenance products](163b-environmentally-sensitive-cleaning-and-maintenance-products.md)
 - [§ 163-C Purchase or lease of zero emission vehicles and charging or fueling infrastructure](163c-purchase-or-lease-of-zero-emission-vehicles-and-charging-or-fueling.md)
+- [§ 163-D Decarbonization plans for state-owned fleet vehicles](163d-decarbonization-plans-for-state-owned-fleet-vehicles.md)
 - [§ 164 Exemptions](164-exemptions.md)
 - [§ 165 Purchasing restrictions](165-purchasing-restrictions.md)
 - [§ 165-A Iran divestment](165a-iran-divestment.md)
@@ -38,6 +39,7 @@ Section 160.   Definitions.
                  products.
         163-c. Purchase or lease of zero emission vehicles and charging
                  or fueling infrastructure.
+        163-d. Decarbonization plans for state-owned fleet vehicles.
         164.   Exemptions.
         165.   Purchasing restrictions.
         165-a. Iran divestment.

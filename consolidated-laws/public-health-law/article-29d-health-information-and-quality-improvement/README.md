@@ -74,8 +74,6 @@ Section 2999-g. Purpose of this title.
         2999-h. Definitions.
         2999-i. Custody and administration of the fund.
         2999-j. Payments from the fund.
-        2999-k. Explanation of benefits forms relating to claims for
-                  qualifying health care costs under the fund.
                                  TITLE 5
                NEW YORK STATE HOSPITAL QUALITY INITIATIVE
 Section 2999-m. New York state hospital quality initiative.

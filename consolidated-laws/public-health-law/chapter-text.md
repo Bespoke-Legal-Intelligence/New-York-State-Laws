@@ -245,7 +245,7 @@ Article
                   II.    Quality improvement (§§2998--2999-a).
                    3.    Pay for performance (§§2999-b--2999-f).
                    4.    New York state medical indemnity fund
-                          (§§2999-g--2999-k).
+                          (§§2999-g--2999-j).
                    5.    New York state hospital quality initiative
                           (§2999-m).
   29-E.    Accountable care organizations demonstration program (§§

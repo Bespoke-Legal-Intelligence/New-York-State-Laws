@@ -4,7 +4,7 @@
 [Banking Law](../README.md) › [Article 1 — Short Title; Definitions; Miscellaneous Provisions](README.md)
 
 ```text
-  * § 9-z. Cashing of certain checks. 1. No bank, trust company, savings
+  § 9-z. Cashing of certain checks. 1. No bank, trust company, savings
 bank, savings and loan association or credit union shall, refuse to cash
 a cashier's check, a payroll check, or a certified check in the amount
 of five hundred dollars or less, drawn on accounts in such institution
@@ -19,5 +19,4 @@ tution refuses to cash the check in the absence of suspected fraudulent
 activity, such institution shall be guilty of a violation of this
 section and shall be subject to penalties pursuant to section forty-four
 of this chapter.
-  * NB Effective March 30, 2023
 ```
