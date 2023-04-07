@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 361-B", "kind": "section", "law_id": "EXC", "location_id": "361-B", "path": "ARTICLE 17 › SECTION 361-B", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/361-B.md", "title": "Women veterans coordinator"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 361-B", "kind": "section", "law_id": "EXC", "location_id": "361-B", "path": "ARTICLE 17 › SECTION 361-B", "repealed": true, "repealed_date": "2023-04-07", "source": "nys-laws:EXC/361-B.md", "title": "Women veterans coordinator"} -->
 # Executive Law § 361-B — Women veterans coordinator
 
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
+
+**Repealed** (7 Apr 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 361-b. Women veterans coordinator. 1. Definitions. (a) "Veteran"

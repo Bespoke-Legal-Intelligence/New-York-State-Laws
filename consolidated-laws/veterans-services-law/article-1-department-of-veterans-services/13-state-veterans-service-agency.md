@@ -4,7 +4,7 @@
 [Veterans' Services Law](../README.md) › [Article 1 — Department of Veterans' Services](README.md)
 
 ```text
-  * § 13. State veterans' service agency. 1. A state veterans' service
+  § 13. State veterans' service agency. 1. A state veterans' service
 agency established by the department pursuant to this article shall have
 power and it shall be its duty to inform military and naval authorities
 of the United States and assist members of the uniformed services and
@@ -29,5 +29,4 @@ veterans' service agency may appoint such officers, consultants, clerks
 and other employees as may be necessary to administer the functions of
 the state veterans' service agency, fix their compensation within the
 limitation provided by law, and prescribe their duties.
-  * NB Effective April 1, 2023
 ```

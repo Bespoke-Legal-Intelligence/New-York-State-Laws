@@ -1,10 +1,10 @@
 ﻿<!-- nyslaw {"citation": "Public Health Law § 4371", "kind": "section", "law_id": "PBH", "location_id": "4371", "path": "ARTICLE 43-B › TITLE 2 › SECTION 4371", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4371.md", "title": "Reimbursement of living donor expenses"} -->
 # Public Health Law § 4371 — Reimbursement of living donor expenses
 
-[Public Health Law](../../README.md) › [Article 43-B — Organ, Tissue and Body Parts Procurement and Storage](../README.md) › [Title 2 — Living Organ Donation](README.md)
+[Public Health Law](../../README.md) › [Article 43-B — Organ Procurement and Donor Support](../README.md) › [Title 2 — Living Organ Donation](README.md)
 
 ```text
-  * § 4371. Reimbursement of living donor expenses. 1. The living donor
+  § 4371. Reimbursement of living donor expenses. 1. The living donor
 support program is hereby established in the department.
   2. (a) Subject to appropriations therefor, the program shall pay the
 living donor expenses for living donors who are residents of the state
@@ -45,5 +45,4 @@ hospitals shall be taken into consideration when awarding such contract.
   (b) The commissioner shall make regulations to implement this section.
   (c) This section shall be interpreted so as not to conflict with the
 federal National Organ Transplant Act (42 U.S.C. 274e).
-  * NB Effective April 1, 2023
 ```

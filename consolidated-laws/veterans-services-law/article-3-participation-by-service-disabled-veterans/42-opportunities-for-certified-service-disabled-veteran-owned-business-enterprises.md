@@ -4,7 +4,7 @@
 [Veterans' Services Law](../README.md) › [Article 3 — Participation By Service-disabled Veterans With Respect to State Contracts](README.md)
 
 ```text
-  * § 42. Opportunities for certified service-disabled veteran-owned
+  § 42. Opportunities for certified service-disabled veteran-owned
 business enterprises. 1. The director, or in the absence of the
 director, the commissioner, within ninety days of the effective date of
 this article shall promulgate rules and regulations for the following
@@ -48,5 +48,4 @@ nine of section one hundred sixty-three of the state finance law; and
   (h) provide for any other purposes to effectuate this article.
   2. State agencies shall administer the rules and regulations
 promulgated by the director for the implementation of this article.
-  * NB Effective April 1, 2023
 ```

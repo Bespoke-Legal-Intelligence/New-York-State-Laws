@@ -4,7 +4,7 @@
 [Veterans' Services Law](../README.md) › [Article 1 — Department of Veterans' Services](README.md)
 
 ```text
-  * § 20. Women veterans advisory committee. 1. The women veterans
+  § 20. Women veterans advisory committee. 1. The women veterans
 advisory committee is hereby created consisting of twelve members, with
 members appointed as follows: (a) six members by the governor; (b) two
 members by the temporary president of the senate; (c) two members by the
@@ -77,5 +77,4 @@ misinformation and improve support for programs for women veterans; and
   (v) outreach activities undertaken by the committee.
   10. The department of veterans' services shall help support the
 committee's activities.
-  * NB Effective April 1, 2023
 ```

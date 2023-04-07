@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 363", "kind": "section", "law_id": "EXC", "location_id": "363", "path": "ARTICLE 17 › SECTION 363", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/363.md", "title": "Evidence of entitlement"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 363", "kind": "section", "law_id": "EXC", "location_id": "363", "path": "ARTICLE 17 › SECTION 363", "repealed": true, "repealed_date": "2023-04-07", "source": "nys-laws:EXC/363.md", "title": "Evidence of entitlement"} -->
 # Executive Law § 363 — Evidence of entitlement
 
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
+
+**Repealed** (7 Apr 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 363. Evidence of entitlement. 1. The evidence of such service,

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 354-A", "kind": "section", "law_id": "EXC", "location_id": "354-A", "path": "ARTICLE 17 › SECTION 354-A", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/354-A.md", "title": "Information on status of veterans receiving assistance"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 354-A", "kind": "section", "law_id": "EXC", "location_id": "354-A", "path": "ARTICLE 17 › SECTION 354-A", "repealed": true, "repealed_date": "2023-04-07", "source": "nys-laws:EXC/354-A.md", "title": "Information on status of veterans receiving assistance"} -->
 # Executive Law § 354-A — Information on status of veterans receiving assistance
 
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
+
+**Repealed** (7 Apr 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 354-a. Information on status of veterans receiving assistance.

@@ -4,7 +4,7 @@
 [Veterans' Services Law](../README.md) › [Article 1 — Department of Veterans' Services](README.md)
 
 ```text
-  * § 4. General functions, powers and duties of department. The
+  § 4. General functions, powers and duties of department. The
 department, by and through the state commissioner or his or her duly
 authorized officer or employee, shall have the following functions,
 powers and duties:
@@ -336,5 +336,4 @@ the office of mental health, state office for the aging, and office of
 addiction services and supports, to help facilitate access to services
 by members of the uniformed services and veterans who are residents of
 the state and their families.
-  * NB Effective April 1, 2023
 ```

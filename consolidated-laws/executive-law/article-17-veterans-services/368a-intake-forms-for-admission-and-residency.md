@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 368-A", "kind": "section", "law_id": "EXC", "location_id": "368-A", "path": "ARTICLE 17 › SECTION 368-A", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/368-A.md", "title": "Intake forms for admission and residency"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 368-A", "kind": "section", "law_id": "EXC", "location_id": "368-A", "path": "ARTICLE 17 › SECTION 368-A", "repealed": true, "repealed_date": "2023-04-07", "source": "nys-laws:EXC/368-A.md", "title": "Intake forms for admission and residency"} -->
 # Executive Law § 368-A — Intake forms for admission and residency
 
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
+
+**Repealed** (7 Apr 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 368-a. Intake forms for admission and residency. 1. The division,

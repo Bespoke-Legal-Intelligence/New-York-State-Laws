@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 354-B", "kind": "section", "law_id": "EXC", "location_id": "354-B", "path": "ARTICLE 17 › SECTION 354-B", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/354-B.md", "title": "New York state supplemental burial allowance for members of the armed forces of the United States killed in combat or duty subject to hos..."} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 354-B", "kind": "section", "law_id": "EXC", "location_id": "354-B", "path": "ARTICLE 17 › SECTION 354-B", "repealed": true, "repealed_date": "2023-04-07", "source": "nys-laws:EXC/354-B.md", "title": "New York state supplemental burial allowance for members of the armed forces of the United States killed in combat or duty subject to hos..."} -->
 # Executive Law § 354-B — New York state supplemental burial allowance for members of the armed forces of the United States killed in combat or duty subject to hos...
 
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
+
+**Repealed** (7 Apr 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 354-b. New York state supplemental burial allowance for members of

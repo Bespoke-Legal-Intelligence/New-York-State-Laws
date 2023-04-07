@@ -4,8 +4,8 @@
 [Veterans' Services Law](../README.md) › [Article 3 — Participation By Service-disabled Veterans With Respect to State Contracts](README.md)
 
 ```text
-  * § 41. Division of service-disabled veterans' business development.
-1.  The head of the division of service-disabled veterans' business
+  § 41. Division of service-disabled veterans' business development. 1.
+The head of the division of service-disabled veterans' business
 development shall be the director who shall be appointed by the governor
 and who shall hold office at the pleasure of the commissioner.
   2. The director may appoint such deputies, assistants, and other
@@ -139,5 +139,4 @@ personal service or by certified mail return receipt requested. The
 order of the director shall be subject to review pursuant to article
 seventy-eight of the civil practice law and rules.
   (d) All certifications shall be valid for a period of five years.
-  * NB Effective April 1, 2023
 ```

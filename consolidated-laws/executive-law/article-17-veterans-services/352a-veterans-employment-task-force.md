@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 352-A", "kind": "section", "law_id": "EXC", "location_id": "352-A", "path": "ARTICLE 17 › SECTION 352-A", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/352-A.md", "title": "Veterans employment task force"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 352-A", "kind": "section", "law_id": "EXC", "location_id": "352-A", "path": "ARTICLE 17 › SECTION 352-A", "repealed": true, "repealed_date": "2023-04-07", "source": "nys-laws:EXC/352-A.md", "title": "Veterans employment task force"} -->
 # Executive Law § 352-A — Veterans employment task force
 
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
+
+**Repealed** (7 Apr 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 352-a. Veterans employment task force. 1. There shall be in the

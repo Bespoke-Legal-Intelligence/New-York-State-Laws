@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 368-B", "kind": "section", "law_id": "EXC", "location_id": "368-B", "path": "ARTICLE 17 › SECTION 368-B", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/368-B.md", "title": "Veterans memorial registry"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 368-B", "kind": "section", "law_id": "EXC", "location_id": "368-B", "path": "ARTICLE 17 › SECTION 368-B", "repealed": true, "repealed_date": "2023-04-07", "source": "nys-laws:EXC/368-B.md", "title": "Veterans memorial registry"} -->
 # Executive Law § 368-B — Veterans memorial registry
 
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
+
+**Repealed** (7 Apr 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 368-b. Veterans memorial registry. 1. The division is directed to

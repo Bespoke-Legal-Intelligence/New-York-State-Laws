@@ -4,10 +4,10 @@
 [State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
 
 ```text
-  * § 97-k. Minority and women-owned business enterprise fund. 1. There
-is hereby established in the joint custody of the state comptroller and
-the commissioner of taxation and finance a special fund to be known as
-the "minority and women-owned business enterprise fund".
+  § 97-k. Minority and women-owned business enterprise fund. 1. There is
+hereby established in the joint custody of the state comptroller and the
+commissioner of taxation and finance a special fund to be known as the
+"minority and women-owned business enterprise fund".
   2. Such funds shall consist of all moneys appropriated for the purpose
 of such fund, all moneys transferred or paid to such fund pursuant to
 law, including pursuant to section three hundred sixteen of the
@@ -24,5 +24,4 @@ programs to assist minority and women business enterprise owners to
 develop sustainable businesses, provided that expenditures for such
 activities shall only be required under this section to the extent that
 monies are available in the fund to support them.
-  * NB Effective April 4, 2023
 ```

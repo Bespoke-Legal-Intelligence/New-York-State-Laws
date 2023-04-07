@@ -21,18 +21,11 @@ elements:
 information regarding health care providers and treatment centers with
 expertise in illnesses associated with military duty; and
   (c) establish a veterans health information clearing house on-line.
-  * 3. In exercising any of his or her powers under this section, the
-commissioner shall consult with appropriate health care professionals,
-providers, veterans or organizations representing them, the division of
-veterans' services, the United States department of veterans affairs and
-the United States defense department.
-  * NB Effective until April 1, 2023
-  * 3. In exercising any of his or her powers under this section, the
+  3. In exercising any of his or her powers under this section, the
 commissioner shall consult with appropriate health care professionals,
 providers, veterans or organizations representing them, the department
 of veterans' services, the United States department of veterans affairs
 and the United States defense department.
-  * NB Effective April 1, 2023
   4. The commissioner may make rules and regulations necessary and
 appropriate for the implementation of this section.
 ```

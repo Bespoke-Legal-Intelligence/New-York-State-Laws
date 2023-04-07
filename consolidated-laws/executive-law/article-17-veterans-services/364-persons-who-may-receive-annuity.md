@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 364", "kind": "section", "law_id": "EXC", "location_id": "364", "path": "ARTICLE 17 › SECTION 364", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/364.md", "title": "Persons who may receive annuity"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 364", "kind": "section", "law_id": "EXC", "location_id": "364", "path": "ARTICLE 17 › SECTION 364", "repealed": true, "repealed_date": "2023-04-07", "source": "nys-laws:EXC/364.md", "title": "Persons who may receive annuity"} -->
 # Executive Law § 364 — Persons who may receive annuity
 
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
+
+**Repealed** (7 Apr 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 364. Persons who may receive annuity. 1.  a. The word "veteran,"

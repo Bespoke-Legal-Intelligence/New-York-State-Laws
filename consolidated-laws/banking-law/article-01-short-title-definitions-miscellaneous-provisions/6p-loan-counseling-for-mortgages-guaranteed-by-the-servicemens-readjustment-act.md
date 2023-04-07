@@ -4,7 +4,7 @@
 [Banking Law](../README.md) › [Article 1 — Short Title; Definitions; Miscellaneous Provisions](README.md)
 
 ```text
-  * § 6-p. Loan counseling for mortgages guaranteed by the Servicemen's
+  § 6-p. Loan counseling for mortgages guaranteed by the Servicemen's
 Readjustment Act of 1944. Every mortgage lending institution and
 mortgage banker which originates loans secured by real property used for
 residential purposes located in this state which are to be guaranteed
@@ -17,5 +17,4 @@ twenty-nine-a of the veterans' services law upon request of an
 applicant. The disclosure form required by this section shall be signed
 by each applicant and shall include information detailing how to access
 such counseling services.
-  * NB Effective April 1, 2023
 ```

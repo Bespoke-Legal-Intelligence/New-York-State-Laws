@@ -4,7 +4,7 @@
 [Veterans' Services Law](../README.md) › [Article 1 — Department of Veterans' Services](README.md)
 
 ```text
-  * § 17. Local veterans' service committees. The same authority which
+  § 17. Local veterans' service committees. The same authority which
 appoints a local director shall appoint for each county and city
 veterans' service agency a veterans' service committee to assist the
 local director and shall appoint a chair thereof. Similar committees may
@@ -18,5 +18,4 @@ and a branch office of the county veterans' service agency; and such
 appointment in any case shall be made by the city official authorized to
 appoint a city director in the case of a separate city veterans' service
 agency.
-  * NB Effective April 1, 2023
 ```

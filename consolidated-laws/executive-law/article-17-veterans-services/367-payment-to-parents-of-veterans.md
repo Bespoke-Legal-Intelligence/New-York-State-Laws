@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 367", "kind": "section", "law_id": "EXC", "location_id": "367", "path": "ARTICLE 17 › SECTION 367", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/367.md", "title": "Payment to parents of veterans"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 367", "kind": "section", "law_id": "EXC", "location_id": "367", "path": "ARTICLE 17 › SECTION 367", "repealed": true, "repealed_date": "2023-04-07", "source": "nys-laws:EXC/367.md", "title": "Payment to parents of veterans"} -->
 # Executive Law § 367 — Payment to parents of veterans
 
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
+
+**Repealed** (7 Apr 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 367. Payment to parents of veterans. 1. Annuity established.  (a)

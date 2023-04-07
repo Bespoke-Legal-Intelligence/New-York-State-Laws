@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 359", "kind": "section", "law_id": "EXC", "location_id": "359", "path": "ARTICLE 17 › SECTION 359", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/359.md", "title": "Location and cost of local veterans' service agencies; deputy local directors"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 359", "kind": "section", "law_id": "EXC", "location_id": "359", "path": "ARTICLE 17 › SECTION 359", "repealed": true, "repealed_date": "2023-04-07", "source": "nys-laws:EXC/359.md", "title": "Location and cost of local veterans' service agencies; deputy local directors"} -->
 # Executive Law § 359 — Location and cost of local veterans' service agencies; deputy local directors
 
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
+
+**Repealed** (7 Apr 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 359. Location and cost of local veterans' service agencies; deputy

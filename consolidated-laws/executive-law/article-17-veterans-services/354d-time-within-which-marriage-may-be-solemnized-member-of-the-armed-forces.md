@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 354-D", "kind": "section", "law_id": "EXC", "location_id": "354-D", "path": "ARTICLE 17 › SECTION 354-D", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/354-D.md", "title": "Time within which marriage may be solemnized; member of the armed forces"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 354-D", "kind": "section", "law_id": "EXC", "location_id": "354-D", "path": "ARTICLE 17 › SECTION 354-D", "repealed": true, "repealed_date": "2023-04-07", "source": "nys-laws:EXC/354-D.md", "title": "Time within which marriage may be solemnized; member of the armed forces"} -->
 # Executive Law § 354-D — Time within which marriage may be solemnized; member of the armed forces
 
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
+
+**Repealed** (7 Apr 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 354-d. Time within which marriage may be solemnized; member of the

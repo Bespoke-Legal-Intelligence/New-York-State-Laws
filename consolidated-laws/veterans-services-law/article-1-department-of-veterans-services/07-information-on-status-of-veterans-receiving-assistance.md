@@ -4,7 +4,7 @@
 [Veterans' Services Law](../README.md) › [Article 1 — Department of Veterans' Services](README.md)
 
 ```text
-  * § 7. Information on status of veterans receiving assistance.
+  § 7. Information on status of veterans receiving assistance.
 Departments, divisions, bureaus, boards, commissions and agencies of the
 state and political subdivisions thereof, which provide assistance,
 treatment, counseling, care, supervision or custody in service areas
@@ -30,5 +30,4 @@ assessment and handling of the veteran's problems within the agency
 requesting such information and in referring the veteran to the
 department of veterans' services for information and assistance with
 regard to benefits and entitlements under federal and state law.
-  * NB Effective April 1, 2023
 ```

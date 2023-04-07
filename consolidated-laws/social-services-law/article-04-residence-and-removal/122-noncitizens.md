@@ -30,23 +30,7 @@ with forty qualifying quarters as defined under title II of the federal
 Social Security Act, exclusive of any quarter after the thirty-first day
 of December, nineteen hundred ninety-six in which such person or such
 person's parent or spouse received any federal means tested assistance;
-  * (v) any noncitizen lawfully residing in the state who is on active
-duty in the armed forces (other than active duty for training) or who
-(1) has received an honorable discharge (and not on account of
-noncitizen status) from the armed forces, or (2) has a qualifying
-condition, as defined in section three hundred fifty of the executive
-law, and has received a discharge other than bad conduct or dishonorable
-(and not on account of noncitizen status) from the armed forces, or (3)
-is a discharged LGBT veteran, as defined in section three hundred fifty
-of the executive law, and has received a discharge other than bad
-conduct or dishonorable (and not on account of noncitizen status) from
-the armed forces, or the spouse, unremarried surviving spouse or
-unmarried dependent child of any such noncitizen, if such noncitizen,
-spouse or dependent child is a qualified alien as defined in section 431
-of the federal personal responsibility and work opportunity
-reconciliation act of 1996 (8 U.S. Code 1641), as amended;
-  * NB Effective until April 1, 2023
-  * (v) any noncitizen lawfully residing in the state who is on active
+  (v) any noncitizen lawfully residing in the state who is on active
 duty in the armed forces (other than active duty for training) or who
 (1) has received an honorable discharge (and not on account of
 noncitizen status) from the armed forces, or (2) has a qualifying
@@ -61,7 +45,6 @@ dependent child of any such noncitizen, if such noncitizen, spouse or
 dependent child is a qualified alien as defined in section 431 of the
 federal personal responsibility and work opportunity reconciliation act
 of 1996 (8 U.S. Code 1641), as amended;
-  * NB Effective April 1, 2023
   (vi) a noncitizen granted status as a Cuban and Haitian entrant as
 defined in section 501(e) of the federal Refugee Education Act of 1980
 within the previous five years with respect to benefits under the

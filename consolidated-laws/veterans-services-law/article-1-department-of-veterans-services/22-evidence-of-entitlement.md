@@ -4,7 +4,7 @@
 [Veterans' Services Law](../README.md) › [Article 1 — Department of Veterans' Services](README.md)
 
 ```text
-  * § 22. Evidence of entitlement. 1. The evidence of such service,
+  § 22. Evidence of entitlement. 1. The evidence of such service,
 blindness, residence and domicile, or of such marriage, widowhood,
 residence and domicile in each case shall be furnished in the manner and
 form prescribed by the commissioner of veterans' services who shall
@@ -28,5 +28,4 @@ division of finance, on the audit and warrant of the comptroller, shall
 pay such veteran or widow or widower such sum as is authorized by the
 provisions of this article in monthly installments for so long as such
 veteran or widow or widower shall meet the requirements of this article.
-  * NB Effective April 1, 2023
 ```

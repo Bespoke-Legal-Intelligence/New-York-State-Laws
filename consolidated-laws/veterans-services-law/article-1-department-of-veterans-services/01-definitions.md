@@ -4,7 +4,7 @@
 [Veterans' Services Law](../README.md) › [Article 1 — Department of Veterans' Services](README.md)
 
 ```text
-  * § 1. Definitions. When used in this article:
+  § 1. Definitions. When used in this article:
   1. The term "department" means the department of veterans' services.
   2. The term "state commissioner" means the New York state commissioner
 of veterans' services.
@@ -48,5 +48,4 @@ veteran qualifies as a discharged LGBT veteran under this subdivision,
 including, at a minimum, standards for verifying a veteran's status as a
 discharged LGBT veteran, and a method of demonstrating eligibility as a
 discharged LGBT veteran.
-  * NB Effective April 1, 2023
 ```

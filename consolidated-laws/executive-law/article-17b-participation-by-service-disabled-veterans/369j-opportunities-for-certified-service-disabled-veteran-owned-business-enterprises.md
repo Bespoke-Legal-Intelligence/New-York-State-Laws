@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 369-J", "kind": "section", "law_id": "EXC", "location_id": "369-J", "path": "ARTICLE 17-B › SECTION 369-J", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/369-J.md", "title": "Opportunities for certified service-disabled veteran-owned business enterprises"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 369-J", "kind": "section", "law_id": "EXC", "location_id": "369-J", "path": "ARTICLE 17-B › SECTION 369-J", "repealed": true, "repealed_date": "2023-04-07", "source": "nys-laws:EXC/369-J.md", "title": "Opportunities for certified service-disabled veteran-owned business enterprises"} -->
 # Executive Law § 369-J — Opportunities for certified service-disabled veteran-owned business enterprises
 
 [Executive Law](../README.md) › [Article 17-B — Participation By Service-disabled Veterans With Respect to State Contracts](README.md)
+
+**Repealed** (7 Apr 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 369-j. Opportunities for certified service-disabled veteran-owned

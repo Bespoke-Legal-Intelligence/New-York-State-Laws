@@ -10,25 +10,7 @@ applicants for license to practice funeral directing, undertaking or
 embalming, and the scope, content and character, of such examinations
 which in any examination shall be the same for all candidates.
   2. Examinations shall be held twice in each year.
-  * 3. A candidate who fails to attain a passing grade on his licensing
-examination is entitled to a maximum of three re-examinations; provided,
-however, that if such candidate fails to attain a passing grade within
-three years after completion of his training, he must requalify in
-accordance with the provisions of the public health law and rules and
-regulations promulgated thereunder existing and in force as of the date
-of subsequent application for licensing examination, except that a
-satisfactorily completed required course of study need not be
-recompleted. A candidate inducted into the armed forces of the United
-States during or after completion of training may (a) after honorable
-discharge or (b) after a discharge other than bad conduct or
-dishonorable where the candidate (i) has a qualifying condition, as
-defined in section three hundred fifty of the executive law, or (ii) is
-a discharged LGBT veteran, as defined in section three hundred fifty of
-the executive law, and upon proper application as required by the
-department be eligible for an exemption with respect to time served in
-such service.
-  * NB Effective until April 1, 2023
-  * 3. A candidate who fails to attain a passing grade on his or her
+  3. A candidate who fails to attain a passing grade on his or her
 licensing examination is entitled to a maximum of three re-examinations;
 provided, however, that if such candidate fails to attain a passing
 grade within three years after completion of his or her training, he or
@@ -45,7 +27,6 @@ condition, as defined in section one of the veterans' services law, or
 veterans' services law, and upon proper application as required by the
 department be eligible for an exemption with respect to time served in
 such service.
-  * NB Effective April 1, 2023
   4. Following the close of every written examination prepared and
 administered by the department the questions submitted and the answers
 made thereto by the applicant together with a record stating in detail

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 353-A", "kind": "section", "law_id": "EXC", "location_id": "353-A", "path": "ARTICLE 17 › SECTION 353-A", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/353-A.md", "title": "Veteran speaker education program"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 353-A", "kind": "section", "law_id": "EXC", "location_id": "353-A", "path": "ARTICLE 17 › SECTION 353-A", "repealed": true, "repealed_date": "2023-04-07", "source": "nys-laws:EXC/353-A.md", "title": "Veteran speaker education program"} -->
 # Executive Law § 353-A — Veteran speaker education program
 
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
+
+**Repealed** (7 Apr 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 353-a. Veteran speaker education program. 1. There is hereby

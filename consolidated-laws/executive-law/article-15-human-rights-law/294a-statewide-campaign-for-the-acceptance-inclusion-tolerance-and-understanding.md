@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 15 — Human Rights Law](README.md)
 
 ```text
-  * § 294-a. Statewide campaign for the acceptance, inclusion, tolerance
+  § 294-a. Statewide campaign for the acceptance, inclusion, tolerance
 and understanding of diversity. 1. The division shall develop and
 implement a statewide campaign to increase awareness and promote the
 acceptance, inclusion, tolerance and understanding of the diversity of
@@ -29,5 +29,4 @@ most effective at reaching the public in a cost effective manner;
 of the division; and
   d. utilize other resources the division deems appropriate and any
 other resources, private or public, identified by the division.
-  * NB Effective April 1, 2023
 ```

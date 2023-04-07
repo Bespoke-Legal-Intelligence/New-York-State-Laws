@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 314-A", "kind": "section", "law_id": "EXC", "location_id": "314-A", "path": "ARTICLE 15-A › SECTION 314-A", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/314-A.md", "title": "Post completion certification"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 314-A", "kind": "section", "law_id": "EXC", "location_id": "314-A", "path": "ARTICLE 15-A › SECTION 314-A", "repealed": true, "repealed_date": "2023-04-07", "source": "nys-laws:EXC/314-A.md", "title": "Post completion certification"} -->
 # Executive Law § 314-A — Post completion certification
 
 [Executive Law](../README.md) › [Article 15-A — Participation By Minority Group Members and Women With Respect to State Contracts](README.md)
+
+**Repealed** (7 Apr 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 314-a. Post completion certification. The director, in

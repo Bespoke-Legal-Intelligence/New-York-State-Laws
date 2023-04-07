@@ -4,8 +4,8 @@
 [Public Authorities Law](../../README.md) › [Article 9 — General Provisions](../README.md) › [Title 4 — Contracts of Public Authorities](README.md)
 
 ```text
-  * § 2877-a. The New York state buy American salt act. 1. Use of
-American materials. (a) Notwithstanding any other provision of law, when
+  § 2877-a. The New York state buy American salt act. 1. Use of American
+materials. (a) Notwithstanding any other provision of law, when
 soliciting a contract for the purchase of rock salt or sodium chloride,
 any public authority may award such contract to the responsible and
 reliable bidder offering to supply rock salt or sodium chloride that is
@@ -40,5 +40,4 @@ additives necessary for commercial sale;
   (c) "United States" means the United States of America and includes
 all territory, continental or insular, subject to the jurisdiction of
 the United States.
-  * NB Effective April 1, 2023
 ```

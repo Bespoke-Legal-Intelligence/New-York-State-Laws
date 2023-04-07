@@ -15,6 +15,7 @@
 - [§ 97 Selection criteria](097-selection-criteria.md)
 - [§ 98 License renewal](098-license-renewal.md)
 - [§ 99 Form of license](099-form-of-license.md)
+- [§ 100 Transferability; amendment to license; change in ownership or control](100-transferability-amendment-to-license-change-in-ownership-or-control.md)
 - [§ 101 Granting, suspending or revoking licenses](101-granting-suspending-or-revoking-licenses.md)
 - [§ 102 Record keeping and tracking](102-record-keeping-and-tracking.md)
 - [§ 103 Packaging and labeling of cannabinoid hemp and hemp extract](103-packaging-and-labeling-of-cannabinoid-hemp-and-hemp-extract.md)

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 354-F", "kind": "section", "law_id": "EXC", "location_id": "354-F", "path": "ARTICLE 17 › SECTION 354-F", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/354-F.md", "title": "Loan counseling for mortgages guaranteed by the Servicemen's Readjustment Act of 1944"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 354-F", "kind": "section", "law_id": "EXC", "location_id": "354-F", "path": "ARTICLE 17 › SECTION 354-F", "repealed": true, "repealed_date": "2023-04-07", "source": "nys-laws:EXC/354-F.md", "title": "Loan counseling for mortgages guaranteed by the Servicemen's Readjustment Act of 1944"} -->
 # Executive Law § 354-F — Loan counseling for mortgages guaranteed by the Servicemen's Readjustment Act of 1944
 
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
+
+**Repealed** (7 Apr 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 354-f. Loan counseling for mortgages guaranteed by the

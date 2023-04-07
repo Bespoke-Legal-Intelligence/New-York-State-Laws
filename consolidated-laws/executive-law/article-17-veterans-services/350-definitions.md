@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 350", "kind": "section", "law_id": "EXC", "location_id": "350", "path": "ARTICLE 17 › SECTION 350", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/350.md", "title": "Definitions"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 350", "kind": "section", "law_id": "EXC", "location_id": "350", "path": "ARTICLE 17 › SECTION 350", "repealed": true, "repealed_date": "2023-04-07", "source": "nys-laws:EXC/350.md", "title": "Definitions"} -->
 # Executive Law § 350 — Definitions
 
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
+
+**Repealed** (7 Apr 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 350. Definitions. When used in this article:

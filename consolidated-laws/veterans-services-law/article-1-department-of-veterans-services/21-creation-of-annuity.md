@@ -4,7 +4,7 @@
 [Veterans' Services Law](../README.md) › [Article 1 — Department of Veterans' Services](README.md)
 
 ```text
-  * § 21. Creation of annuity. 1. Payment to veterans. a. Any veteran as
+  § 21. Creation of annuity. 1. Payment to veterans. a. Any veteran as
 defined in this article who has been or is hereafter classified by the
 New York State commission for the visually handicapped as a blind person
 as defined in section three of chapter four hundred fifteen of the laws
@@ -68,5 +68,4 @@ than four percent. Commencing in the year two thousand five, the
 commissioner of veterans' services, not later than February first of
 each year, shall publish by any reasonable means the amount of the
 annuity as adjusted payable under this section.
-  * NB Effective April 1, 2023
 ```

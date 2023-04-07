@@ -4,8 +4,8 @@
 [Veterans' Services Law](../README.md) › [Article 3 — Participation By Service-disabled Veterans With Respect to State Contracts](README.md)
 
 ```text
-  * § 40. Definitions. As used in this article, the following terms
-shall have the following meanings:
+  § 40. Definitions. As used in this article, the following terms shall
+have the following meanings:
   1. "Certified service-disabled veteran-owned business enterprise"
 shall mean a business enterprise, including a sole proprietorship,
 partnership, limited liability company or corporation that is:
@@ -124,5 +124,4 @@ discharge other than bad conduct or dishonorable from such service, or
 (d) is a discharged LGBT veteran, as defined in section one of this
 chapter, and has received a discharge other than bad conduct or
 dishonorable from such service.
-  * NB Effective April 1, 2023
 ```

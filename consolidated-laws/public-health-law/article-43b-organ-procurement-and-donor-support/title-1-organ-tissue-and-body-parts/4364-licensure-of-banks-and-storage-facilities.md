@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Public Health Law § 4364", "kind": "section", "law_id": "PBH", "location_id": "4364", "path": "ARTICLE 43-B › TITLE 1 › SECTION 4364", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4364.md", "title": "Licensure of banks and storage facilities"} -->
 # Public Health Law § 4364 — Licensure of banks and storage facilities
 
-[Public Health Law](../../README.md) › [Article 43-B — Organ, Tissue and Body Parts Procurement and Storage](../README.md) › [Title 1 — Organ, Tissue and Body Parts Procurement and Storage](README.md)
+[Public Health Law](../../README.md) › [Article 43-B — Organ Procurement and Donor Support](../README.md) › [Title 1 — Organ, Tissue and Body Parts Procurement and Storage](README.md)
 
 ```text
   § 4364. Licensure of banks and storage facilities. 1. No person shall

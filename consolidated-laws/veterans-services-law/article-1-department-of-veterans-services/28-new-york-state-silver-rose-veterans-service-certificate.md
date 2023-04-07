@@ -4,7 +4,7 @@
 [Veterans' Services Law](../README.md) › [Article 1 — Department of Veterans' Services](README.md)
 
 ```text
-  * § 28. New York state silver rose veterans service certificate. The
+  § 28. New York state silver rose veterans service certificate. The
 commissioner, in consultation with the adjutant general, is hereby
 authorized to present in the name of the legislature of the state of New
 York, a certificate, to be known as the "New York State Silver Rose
@@ -30,5 +30,4 @@ as may be designated. The commissioner, in consultation with the
 adjutant general, shall make such rules and regulations as may be deemed
 necessary for the proper presentation and distribution of such
 certificates.
-  * NB Effective April 1, 2023
 ```

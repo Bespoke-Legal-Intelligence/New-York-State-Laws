@@ -3,14 +3,16 @@
 
 [Executive Law](../README.md)
 
+**Repealed.**
+
 ## Contents
 
-- [§ 369 Short title](369-short-title.md)
-- [§ 369-A Legislative findings](369a-legislative-findings.md)
-- [§ 369-B Definitions](369b-definitions.md)
-- [§ 369-C Temporary hiring](369c-temporary-hiring.md)
-- [§ 369-D Department of civil services responsibilities](369d-department-of-civil-services-responsibilities.md)
-- [§ 369-E Regulations](369e-regulations.md)
+- [§ 369 Short title](369-short-title.md) *(repealed)*
+- [§ 369-A Legislative findings](369a-legislative-findings.md) *(repealed)*
+- [§ 369-B Definitions](369b-definitions.md) *(repealed)*
+- [§ 369-C Temporary hiring](369c-temporary-hiring.md) *(repealed)*
+- [§ 369-D Department of civil services responsibilities](369d-department-of-civil-services-responsibilities.md) *(repealed)*
+- [§ 369-E Regulations](369e-regulations.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 17-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

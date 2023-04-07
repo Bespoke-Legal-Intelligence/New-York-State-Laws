@@ -4,9 +4,9 @@
 [Veterans' Services Law](../README.md) › [Article 1 — Department of Veterans' Services](README.md)
 
 ```text
-  * § 11. Use of personal confidential information obtained from
-veterans or family members of veterans receiving services from the state
-and political subdivisions thereof. 1. Departments, divisions, bureaus,
+  § 11. Use of personal confidential information obtained from veterans
+or family members of veterans receiving services from the state and
+political subdivisions thereof. 1. Departments, divisions, bureaus,
 boards, commissions and agencies of the state and political subdivisions
 thereof, which provide assistance, treatment, counseling, care,
 supervision or custody in service areas involving health, mental health,
@@ -30,5 +30,4 @@ within the agency requesting such information and in referring the
 veteran or family member to the department of veterans' services for the
 information and assistance with regard to benefits and entitlements
 under federal and state law.
-  * NB Effective April 1, 2023
 ```

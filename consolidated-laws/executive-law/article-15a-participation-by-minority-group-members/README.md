@@ -13,7 +13,7 @@
 - [§ 313 Opportunities for minority and women-owned business enterprises](313-opportunities-for-minority-and-women-owned-business-enterprises.md)
 - [§ 313-A Diversity practices of state contractors](313a-diversity-practices-of-state-contractors.md)
 - [§ 314 Statewide certification program](314-statewide-certification-program.md)
-- [§ 314-A Post completion certification](314a-post-completion-certification.md)
+- [§ 314-A Post completion certification](314a-post-completion-certification.md) *(repealed)*
 - [§ 315 Responsibilities of contracting agencies](315-responsibilities-of-contracting-agencies.md)
 - [§ 316 Enforcement](316-enforcement.md)
 - [§ 316-A Prohibitions in contracts; violations](316a-prohibitions-in-contracts-violations.md)
@@ -38,7 +38,6 @@ Section 310.   Definitions.
                  enterprises.
         313-a. Diversity practices of state contractors.
         314.   Statewide certification program.
-        314-a. Post completion certification.
         315.   Responsibilities of contracting agencies.
         316.   Enforcement.
         316-a. Prohibitions in contracts; violations.

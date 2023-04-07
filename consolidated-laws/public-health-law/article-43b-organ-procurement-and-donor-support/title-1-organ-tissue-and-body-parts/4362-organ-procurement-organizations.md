@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Public Health Law § 4362", "kind": "section", "law_id": "PBH", "location_id": "4362", "path": "ARTICLE 43-B › TITLE 1 › SECTION 4362", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4362.md", "title": "Organ procurement organizations"} -->
 # Public Health Law § 4362 — Organ procurement organizations
 
-[Public Health Law](../../README.md) › [Article 43-B — Organ, Tissue and Body Parts Procurement and Storage](../README.md) › [Title 1 — Organ, Tissue and Body Parts Procurement and Storage](README.md)
+[Public Health Law](../../README.md) › [Article 43-B — Organ Procurement and Donor Support](../README.md) › [Title 1 — Organ, Tissue and Body Parts Procurement and Storage](README.md)
 
 ```text
   § 4362. Organ procurement organizations. 1. No person shall own or

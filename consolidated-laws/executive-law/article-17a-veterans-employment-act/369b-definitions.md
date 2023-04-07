@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 369-B", "kind": "section", "law_id": "EXC", "location_id": "369-B", "path": "ARTICLE 17-A › SECTION 369-B", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/369-B.md", "title": "Definitions"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 369-B", "kind": "section", "law_id": "EXC", "location_id": "369-B", "path": "ARTICLE 17-A › SECTION 369-B", "repealed": true, "repealed_date": "2023-04-07", "source": "nys-laws:EXC/369-B.md", "title": "Definitions"} -->
 # Executive Law § 369-B — Definitions
 
 [Executive Law](../README.md) › [Article 17-A — Veterans Employment Act](README.md)
+
+**Repealed** (7 Apr 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 369-b. Definitions. As used in this article:

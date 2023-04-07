@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 365", "kind": "section", "law_id": "EXC", "location_id": "365", "path": "ARTICLE 17 › SECTION 365", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/365.md", "title": "New York state veterans cemeteries"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 365", "kind": "section", "law_id": "EXC", "location_id": "365", "path": "ARTICLE 17 › SECTION 365", "repealed": true, "repealed_date": "2023-04-07", "source": "nys-laws:EXC/365.md", "title": "New York state veterans cemeteries"} -->
 # Executive Law § 365 — New York state veterans cemeteries
 
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
+
+**Repealed** (7 Apr 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 365. New York state veterans cemeteries. 1. Legislative intent.

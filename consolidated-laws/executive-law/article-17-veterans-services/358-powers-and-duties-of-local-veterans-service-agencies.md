@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 358", "kind": "section", "law_id": "EXC", "location_id": "358", "path": "ARTICLE 17 › SECTION 358", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/358.md", "title": "Powers and duties of local veterans' service agencies"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 358", "kind": "section", "law_id": "EXC", "location_id": "358", "path": "ARTICLE 17 › SECTION 358", "repealed": true, "repealed_date": "2023-04-07", "source": "nys-laws:EXC/358.md", "title": "Powers and duties of local veterans' service agencies"} -->
 # Executive Law § 358 — Powers and duties of local veterans' service agencies
 
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
+
+**Repealed** (7 Apr 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 358. Powers and duties of local veterans' service agencies. 1. A

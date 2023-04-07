@@ -4,8 +4,8 @@
 [Veterans' Services Law](../README.md) › [Article 1 — Department of Veterans' Services](README.md)
 
 ```text
-  * § 19. Women veterans coordinator. 1. Definitions. (a) "Veteran"
-shall have the same meaning as defined in section one of this article.
+  § 19. Women veterans coordinator. 1. Definitions. (a) "Veteran" shall
+have the same meaning as defined in section one of this article.
   (b) "Department" shall mean the state department of veterans'
 services.
   (c) "Women veterans coordinator" shall be a veteran.
@@ -51,5 +51,4 @@ programs developed pursuant to the provisions of this section. The
 commissioner shall submit the report or a synopsis of the report to the
 governor in accordance with the provisions of section four of this
 article.
-  * NB Effective April 1, 2023
 ```

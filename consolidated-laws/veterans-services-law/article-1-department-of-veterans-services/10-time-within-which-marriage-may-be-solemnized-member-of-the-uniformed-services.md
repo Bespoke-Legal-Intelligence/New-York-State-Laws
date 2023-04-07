@@ -4,7 +4,7 @@
 [Veterans' Services Law](../README.md) › [Article 1 — Department of Veterans' Services](README.md)
 
 ```text
-  * § 10. Time within which marriage may be solemnized; member of the
+  § 10. Time within which marriage may be solemnized; member of the
 uniformed services. Notwithstanding section thirteen-b of the domestic
 relations law, where either of the parties making application for a
 marriage license, pursuant to section thirteen of the domestic relations
@@ -18,5 +18,4 @@ satisfaction of the official issuing the marriage license. Every license
 to marry issued pursuant to the provisions of this section shall state
 the day and hour the license is issued and shall contain a recital that
 it is issued pursuant to the provisions of this section.
-  * NB Effective April 1, 2023
 ```

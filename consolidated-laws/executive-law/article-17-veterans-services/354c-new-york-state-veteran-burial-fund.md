@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 354-C", "kind": "section", "law_id": "EXC", "location_id": "354-C", "path": "ARTICLE 17 › SECTION 354-C", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/354-C.md", "title": "New York state veteran burial fund"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 354-C", "kind": "section", "law_id": "EXC", "location_id": "354-C", "path": "ARTICLE 17 › SECTION 354-C", "repealed": true, "repealed_date": "2023-04-07", "source": "nys-laws:EXC/354-C.md", "title": "New York state veteran burial fund"} -->
 # Executive Law § 354-C — New York state veteran burial fund
 
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
+
+**Repealed** (7 Apr 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 354-c. New York state veteran burial fund. 1. As used in this

@@ -4,7 +4,7 @@
 [Veterans' Services Law](../README.md) › [Article 1 — Department of Veterans' Services](README.md)
 
 ```text
-  * § 15. Powers and duties of local veterans' service agencies. 1. A
+  § 15. Powers and duties of local veterans' service agencies. 1. A
 local veterans' service agency shall have power under the direction of
 the state veterans' service agency, and it shall be its duty to inform
 military and naval authorities of the United States and assist members
@@ -32,5 +32,4 @@ commissions, boards, bureaus, institutions and other agencies of the
 state and of the political subdivisions thereof and all such officers
 and agencies shall cooperate with and extend such services and
 facilities to the local veterans' service agency as it may require.
-  * NB Effective April 1, 2023
 ```

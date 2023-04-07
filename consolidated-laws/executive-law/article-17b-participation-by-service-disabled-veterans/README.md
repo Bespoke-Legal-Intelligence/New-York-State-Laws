@@ -3,12 +3,14 @@
 
 [Executive Law](../README.md)
 
+**Repealed.**
+
 ## Contents
 
-- [§ 369-H Definitions](369h-definitions.md)
-- [§ 369-I Division of service-disabled veterans' business development](369i-division-of-service-disabled-veterans-business-development.md)
-- [§ 369-J Opportunities for certified service-disabled veteran-owned business enterprises](369j-opportunities-for-certified-service-disabled-veteran-owned-business-enterprises.md)
-- [§ 369-K Severability](369k-severability.md)
+- [§ 369-H Definitions](369h-definitions.md) *(repealed)*
+- [§ 369-I Division of service-disabled veterans' business development](369i-division-of-service-disabled-veterans-business-development.md) *(repealed)*
+- [§ 369-J Opportunities for certified service-disabled veteran-owned business enterprises](369j-opportunities-for-certified-service-disabled-veteran-owned-business-enterprises.md) *(repealed)*
+- [§ 369-K Severability](369k-severability.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 17-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

@@ -4,8 +4,8 @@
 [State Finance Law](../README.md) › [Article 11 — State Purchasing](README.md)
 
 ```text
-  * § 162-a. The New York state buy American salt act. 1. Use of
-American materials. (a) Notwithstanding any other provision of law, when
+  § 162-a. The New York state buy American salt act. 1. Use of American
+materials. (a) Notwithstanding any other provision of law, when
 soliciting a contract for the purchase of rock salt or sodium chloride,
 any department or agency of the state may award such contract to the
 responsible and reliable bidder offering to supply rock salt or sodium
@@ -39,5 +39,4 @@ additives necessary for commercial sale;
   (c) "United States" means the United States of America and includes
 all territory, continental or insular, subject to the jurisdiction of
 the United States.
-  * NB Effective April 1, 2023
 ```

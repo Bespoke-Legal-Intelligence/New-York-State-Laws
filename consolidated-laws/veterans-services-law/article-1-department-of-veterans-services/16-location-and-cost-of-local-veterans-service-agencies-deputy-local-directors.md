@@ -4,7 +4,7 @@
 [Veterans' Services Law](../README.md) › [Article 1 — Department of Veterans' Services](README.md)
 
 ```text
-  * § 16. Location and cost of local veterans' service agencies; deputy
+  § 16. Location and cost of local veterans' service agencies; deputy
 local directors. 1. A local director shall designate the location of the
 local and branch offices of the local veterans' service agency within
 his or her jurisdiction, which offices shall be open during convenient
@@ -55,5 +55,4 @@ county, respectively, or with two or more respective adjoining towns or
 villages in the same county, providing for their joint undertaking to
 appropriate and make available moneys for or toward the maintenance of
 such a consolidated branch office.
-  * NB Effective April 1, 2023
 ```

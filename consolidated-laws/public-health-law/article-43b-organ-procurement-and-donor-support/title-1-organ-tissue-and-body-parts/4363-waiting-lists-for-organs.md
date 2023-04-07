@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Public Health Law § 4363", "kind": "section", "law_id": "PBH", "location_id": "4363", "path": "ARTICLE 43-B › TITLE 1 › SECTION 4363", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4363.md", "title": "Waiting lists for organs"} -->
 # Public Health Law § 4363 — Waiting lists for organs
 
-[Public Health Law](../../README.md) › [Article 43-B — Organ, Tissue and Body Parts Procurement and Storage](../README.md) › [Title 1 — Organ, Tissue and Body Parts Procurement and Storage](README.md)
+[Public Health Law](../../README.md) › [Article 43-B — Organ Procurement and Donor Support](../README.md) › [Title 1 — Organ, Tissue and Body Parts Procurement and Storage](README.md)
 
 ```text
   § 4363. Waiting lists for organs. 1. All organs retrieved for

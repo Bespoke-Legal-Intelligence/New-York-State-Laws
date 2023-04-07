@@ -1222,7 +1222,7 @@ of each other, multiplied by a fraction the denominator of which shall
 be the interest rate payable on the mortgage (computed to five decimal
 places) and the numerator of which shall be .00125 in the case of such a
 mortgage acquired by such agency for less than one million dollars, and
-..00100 in the case of such a mortgage acquired by such agency for one
+.00100 in the case of such a mortgage acquired by such agency for one
 million dollars or more. In no event shall the credit allowed under this
 subdivision reduce the tax to less than the fixed dollar minimum amount
 prescribed in paragraph (d) of subdivision one of section two hundred
@@ -1843,23 +1843,7 @@ allowed under this subdivision, the taxpayer may not use the hiring of a
 qualified veteran that is the basis for this credit in the basis of any
 other credit allowed under this article.
   (b) Qualified veteran. A qualified veteran is an individual:
-  * (1) who served on active duty in the United States army, navy, air
-force, space force, marine corps, coast guard or the reserves thereof,
-or who served in active military service of the United States as a
-member of the army national guard, air national guard, New York guard or
-New York naval militia, or who served in the active uniformed services
-of the United States as a member of the commissioned corps of the
-national oceanic and atmospheric administration or the commissioned
-corps of the United States public health service; who (i) was released
-from active duty by general or honorable discharge, or (ii) has a
-qualifying condition, as defined in section three hundred fifty of the
-executive law, and has received a discharge other than bad conduct or
-dishonorable from such service, or (iii) is a discharged LGBT veteran,
-as defined in section three hundred fifty of the executive law, and has
-received a discharge other than bad conduct or dishonorable from such
-service;
-  * NB Effective until April 1, 2023
-  * (1) who served on active duty in the United States army, navy, air
+  (1) who served on active duty in the United States army, navy, air
 force, space force, marine corps, coast guard or the reserves thereof,
 or who served in active military service of the United States as a
 member of the army national guard, air national guard, New York guard or
@@ -1873,7 +1857,6 @@ other than bad conduct or dishonorable from such service, or (iii) is a
 discharged LGBT veteran, as defined in section one of the veterans'
 services law, and has received a discharge other than bad conduct or
 dishonorable from such service;
-  * NB Effective April 1, 2023
   (2) who commences employment by the qualified taxpayer on or after
 January first, two thousand fourteen, and before January first, two
 thousand twenty-five; and

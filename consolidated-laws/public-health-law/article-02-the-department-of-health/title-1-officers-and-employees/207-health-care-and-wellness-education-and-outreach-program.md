@@ -30,11 +30,7 @@ a lymphedema alert program by placing a bright pink wristband on the
 patient's affected arm. Links to national lymphedema and lymphatic
 disease organizations shall be provided as part of the informational
 summary and electronically through the department's websites.
-  * (d) The need and importance of organ and tissue donation, including
-information about being registered as an organ and tissue donor and
-executing documents of gift under article forty-three of this chapter.
-  * NB Effective until April 1, 2023
-  * (d) The need for and importance of organ and tissue donation,
+  (d) The need for and importance of organ and tissue donation,
 including living donation, including information about being registered
 as an organ and tissue donor and executing documents of gift under
 article forty-three of this chapter; and information to increase patient
@@ -43,7 +39,6 @@ desirability. The department shall consult with the transplant council
 on the production of any such information and ensure that such
 information is culturally and linguistically appropriate for all
 recipients.
-  * NB Effective April 1, 2023
   (e) The commissioner shall establish a statewide advance care planning
 campaign to:
   (i) promote public awareness of hospice and palliative care services;

@@ -4,7 +4,7 @@
 [Highway Law](../README.md) › [Article 2 — Commissioner of Transportation](README.md)
 
 ```text
-  * § 12-a. The New York state buy American salt act. 1. Use of American
+  § 12-a. The New York state buy American salt act. 1. Use of American
 materials. (a) Notwithstanding any other provision of law, when
 soliciting a contract for the purchase of rock salt or sodium chloride,
 the commissioner of transportation may award such contract to the
@@ -38,5 +38,4 @@ additives necessary for commercial sale;
   (b) "United States" means the United States of America and includes
 all territory, continental or insular, subject to the jurisdiction of
 the United States.
-  * NB Effective April 1, 2023
 ```

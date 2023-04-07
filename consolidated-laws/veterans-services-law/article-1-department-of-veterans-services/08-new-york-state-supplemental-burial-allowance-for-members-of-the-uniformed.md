@@ -4,7 +4,7 @@
 [Veterans' Services Law](../README.md) › [Article 1 — Department of Veterans' Services](README.md)
 
 ```text
-  * § 8. New York state supplemental burial allowance for members of the
+  § 8. New York state supplemental burial allowance for members of the
 uniformed services of the United States killed in combat or duty subject
 to hostile fire or imminent danger, as defined in 37 USC § 310. 1. As
 used in this section, "parent" means a father, a mother, a father
@@ -117,5 +117,4 @@ each year in which this section is in effect. Such report shall include,
 but not be limited to, regulations promulgated pursuant to this section,
 allowances paid, and an account of the monies spent and the relationship
 of the distributees to the decedent.
-  * NB Effective April 1, 2023
 ```

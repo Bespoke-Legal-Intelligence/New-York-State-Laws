@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 353", "kind": "section", "law_id": "EXC", "location_id": "353", "path": "ARTICLE 17 › SECTION 353", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/353.md", "title": "General functions, powers and duties of division"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 353", "kind": "section", "law_id": "EXC", "location_id": "353", "path": "ARTICLE 17 › SECTION 353", "repealed": true, "repealed_date": "2023-04-07", "source": "nys-laws:EXC/353.md", "title": "General functions, powers and duties of division"} -->
 # Executive Law § 353 — General functions, powers and duties of division
 
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
+
+**Repealed** (7 Apr 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 353. General functions, powers and duties of division. The

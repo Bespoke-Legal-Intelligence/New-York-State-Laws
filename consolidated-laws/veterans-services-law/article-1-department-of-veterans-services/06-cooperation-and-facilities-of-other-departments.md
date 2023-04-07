@@ -4,7 +4,7 @@
 [Veterans' Services Law](../README.md) › [Article 1 — Department of Veterans' Services](README.md)
 
 ```text
-  * § 6. Cooperation and facilities of other departments. To effectuate
+  § 6. Cooperation and facilities of other departments. To effectuate
 the purposes of this article, the governor may direct any department,
 division, board, bureau, commission or agency of the state, or of any
 political subdivision thereof, to cooperate with and assist and advise
@@ -13,5 +13,4 @@ provide such facilities, including personnel, materials and other
 assistance and data as will enable the department or any of its agencies
 to properly carry out its activities and effectuate its purposes under
 this article.
-  * NB Effective April 1, 2023
 ```

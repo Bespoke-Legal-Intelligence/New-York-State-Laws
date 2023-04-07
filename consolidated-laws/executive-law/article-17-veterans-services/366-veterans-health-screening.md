@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 366", "kind": "section", "law_id": "EXC", "location_id": "366", "path": "ARTICLE 17 › SECTION 366", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/366.md", "title": "Veterans health screening"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 366", "kind": "section", "law_id": "EXC", "location_id": "366", "path": "ARTICLE 17 › SECTION 366", "repealed": true, "repealed_date": "2023-04-07", "source": "nys-laws:EXC/366.md", "title": "Veterans health screening"} -->
 # Executive Law § 366 — Veterans health screening
 
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
+
+**Repealed** (7 Apr 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 366. Veterans health screening. 1. As used in this section: a.

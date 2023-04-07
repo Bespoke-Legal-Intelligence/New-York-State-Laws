@@ -4,7 +4,7 @@
 [Veterans' Services Law](../README.md) › [Article 1 — Department of Veterans' Services](README.md)
 
 ```text
-  * § 3. Veterans' services commission. 1. There shall be in the
+  § 3. Veterans' services commission. 1. There shall be in the
 department a veterans' services commission, which shall consist of the
 members and the ex officio members provided for in this section.
   2. There shall be thirteen members of the commission who shall be
@@ -39,5 +39,4 @@ commission.
 assist the state commissioner in the formulation of policies affecting
 veterans and in the coordination of all operations of state agencies
 relating to veterans' services.
-  * NB Effective April 1, 2023
 ```

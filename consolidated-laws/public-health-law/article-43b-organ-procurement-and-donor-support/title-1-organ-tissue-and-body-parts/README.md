@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"kind": "container", "law_id": "PBH", "location_id": "A43-BT1", "path": "ARTICLE 43-B › TITLE 1", "source": "nys-laws:PBH/A43-BT1.md", "title": "Organ, Tissue and Body Parts Procurement and Storage"} -->
 # Title 1 — Organ, Tissue and Body Parts Procurement and Storage
 
-[Public Health Law](../../README.md) › [Article 43-B — Organ, Tissue and Body Parts Procurement and Storage](../README.md)
+[Public Health Law](../../README.md) › [Article 43-B — Organ Procurement and Donor Support](../README.md)
 
 ## Contents
 
@@ -20,7 +20,7 @@
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                * TITLE 1
+                                 TITLE 1
           ORGAN, TISSUE AND BODY PARTS PROCUREMENT AND STORAGE
 Section 4360. Definitions.
         4361. Transplant council.
@@ -32,7 +32,6 @@ Section 4360. Definitions.
         4367. Separability.
         4368. New York state gift of life medal of honor.
         4369. Bone marrow registry information.
-  * NB Effective April 1, 2023
 ```
 
 </details>

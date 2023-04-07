@@ -4,8 +4,7 @@
 [Veterans' Services Law](../README.md) › [Article 2 — Veterans Employment Act](README.md)
 
 ```text
-  * § 35. Regulations. The president of the state civil service
-commission shall promulgate such rules and regulations as shall be
-necessary to implement the provisions of this article.
-  * NB Effective April 1, 2023
+  § 35. Regulations. The president of the state civil service commission
+shall promulgate such rules and regulations as shall be necessary to
+implement the provisions of this article.
 ```

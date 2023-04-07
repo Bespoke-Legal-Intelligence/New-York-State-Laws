@@ -8,7 +8,7 @@
 | Senate code | PBH |
 | Type | Consolidated law, chapter 45 |
 | Sections | 1,757 (1 repealed) |
-| Last changed | 31 Mar 2023 |
+| Last changed | 7 Apr 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Health |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [7 Apr 2023](../../changes/2023/2023-04-07.md): 10 amended
 - [31 Mar 2023](../../changes/2023/2023-03-31.md): 8 amended, 1 repealed
 - [24 Mar 2023](../../changes/2023/2023-03-24.md): 2 amended
 - [17 Mar 2023](../../changes/2023/2023-03-17.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [3 Feb 2023](../../changes/2023/2023-02-03.md): 2 amended
 - [20 Jan 2023](../../changes/2023/2023-01-20.md): 1 amended
 - [13 Jan 2023](../../changes/2023/2023-01-13.md): 2 amended
-- [6 Jan 2023](../../changes/2023/2023-01-06.md): 17 amended, 14 added, 1 repealed
 
 ## Contents
 
@@ -151,7 +151,7 @@ Assembly, do enact as follows:
 - [Article 42 — Cadavers](article-42-cadavers/)
 - [Article 43 — Anatomical Gifts](article-43-anatomical-gifts/)
 - [Article 43-A — Anatomical Gift Duties of Hospitals and Procurement Organizations](article-43a-anatomical-gift-duties-of-hospitals/)
-- [Article 43-B — Organ, Tissue and Body Parts Procurement and Storage](article-43b-organ-tissue-and-body-parts-procurement/)
+- [Article 43-B — Organ Procurement and Donor Support](article-43b-organ-procurement-and-donor-support/)
 - [Article 44 — Health Maintenance Organizations](article-44-health-maintenance-organizations/)
 - [Article 45 — Medical Referral Services](article-45-medical-referral-services/)
 - [Article 46 — Continuing Care Retirement Communities](article-46-continuing-care-retirement-communities/)

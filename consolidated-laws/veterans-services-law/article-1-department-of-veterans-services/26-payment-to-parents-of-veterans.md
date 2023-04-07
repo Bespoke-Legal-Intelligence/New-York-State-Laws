@@ -4,7 +4,7 @@
 [Veterans' Services Law](../README.md) › [Article 1 — Department of Veterans' Services](README.md)
 
 ```text
-  * § 26. Payment to parents of veterans. 1. Annuity established. (a) A
+  § 26. Payment to parents of veterans. 1. Annuity established. (a) A
 parent, identified in 10 USC 1126 as a gold star parent, of a veteran
 who heretofore has died or a parent of a veteran dying hereafter, shall
 upon application to the state commissioner, be paid an annual annuity
@@ -76,5 +76,4 @@ the assembly ways and means committee not later than January fifteenth
 of each year this section is in effect. Such report shall include, but
 not be limited to regulations promulgated pursuant to this section, and
 a description and evaluation of the program.
-  * NB Effective April 1, 2023
 ```

@@ -1,11 +1,11 @@
 ﻿<!-- nyslaw {"citation": "Public Health Law § 4370", "kind": "section", "law_id": "PBH", "location_id": "4370", "path": "ARTICLE 43-B › TITLE 2 › SECTION 4370", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4370.md", "title": "Definitions"} -->
 # Public Health Law § 4370 — Definitions
 
-[Public Health Law](../../README.md) › [Article 43-B — Organ, Tissue and Body Parts Procurement and Storage](../README.md) › [Title 2 — Living Organ Donation](README.md)
+[Public Health Law](../../README.md) › [Article 43-B — Organ Procurement and Donor Support](../README.md) › [Title 2 — Living Organ Donation](README.md)
 
 ```text
-  * § 4370. Definitions. As used in this title, the following terms
-shall have the following meanings, unless the context clearly requires
+  § 4370. Definitions. As used in this title, the following terms shall
+have the following meanings, unless the context clearly requires
 otherwise:
   1. "Living donation" means the gift by an individual of an organ of
 that individual's body to be transplanted into another individual's
@@ -30,5 +30,4 @@ the living donor's organ is transplanted into another recipient, and in
 turn another living donor makes a living donation, directly or through
 one or more paired donations, to the ultimate intended recipient of the
 initial living donor.
-  * NB Effective April 1, 2023
 ```

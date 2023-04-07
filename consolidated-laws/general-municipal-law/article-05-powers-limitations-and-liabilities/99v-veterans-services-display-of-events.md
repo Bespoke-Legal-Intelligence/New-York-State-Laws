@@ -4,19 +4,8 @@
 [General Municipal Law](../README.md) › [Article 5 — Powers, Limitations and Liabilities](README.md)
 
 ```text
-  * § 99-v. Veterans services; display of events. Each county, city,
-town or village may adopt a local law to provide a bulletin board to be
-conspicuously displayed in such county, city, town or village building
-holding its local legislative body or municipal offices. Such bulletin
-board shall be used by veterans organizations, the New York state
-division of veterans' services, the county veterans service agency or
-city veterans service agency to display information regarding veterans
-in such county, city, town or village. Such information may include, but
-not be limited to, benefits or upcoming veterans related events in the
-community.
-  * NB Effective until April 1, 2023
-  * § 99-v. Veterans services; display of events. Each county, city,
-town or village may adopt a local law to provide a bulletin board to be
+  § 99-v. Veterans services; display of events. Each county, city, town
+or village may adopt a local law to provide a bulletin board to be
 conspicuously displayed in such county, city, town or village building
 holding its local legislative body or municipal offices. Such bulletin
 board shall be used by veterans organizations, the New York state
@@ -25,5 +14,4 @@ city veterans service agency to display information regarding veterans
 in such county, city, town or village. Such information may include, but
 not be limited to, benefits or upcoming veterans related events in the
 community.
-  * NB Effective April 1, 2023
 ```

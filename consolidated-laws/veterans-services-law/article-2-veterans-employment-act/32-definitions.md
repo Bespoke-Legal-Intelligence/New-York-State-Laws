@@ -4,7 +4,7 @@
 [Veterans' Services Law](../README.md) › [Article 2 — Veterans Employment Act](README.md)
 
 ```text
-  * § 32. Definitions. As used in this article:
+  § 32. Definitions. As used in this article:
   1. "State agency" shall mean any department, board, bureau, division,
 commission, council or committee within the executive branch, the state
 university of New York, the city university of New York, and all public
@@ -17,5 +17,4 @@ who was discharged under other than dishonorable conditions, and who was
 released from such service after September eleventh, two thousand one.
   4. "Veteran temporary hiring list" shall mean a hiring list maintained
 by the department of civil service.
-  * NB Effective April 1, 2023
 ```

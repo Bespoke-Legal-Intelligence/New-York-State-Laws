@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Public Health Law § 4365", "kind": "section", "law_id": "PBH", "location_id": "4365", "path": "ARTICLE 43-B › TITLE 1 › SECTION 4365", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4365.md", "title": "Powers and duties of the commissioner"} -->
 # Public Health Law § 4365 — Powers and duties of the commissioner
 
-[Public Health Law](../../README.md) › [Article 43-B — Organ, Tissue and Body Parts Procurement and Storage](../README.md) › [Title 1 — Organ, Tissue and Body Parts Procurement and Storage](README.md)
+[Public Health Law](../../README.md) › [Article 43-B — Organ Procurement and Donor Support](../README.md) › [Title 1 — Organ, Tissue and Body Parts Procurement and Storage](README.md)
 
 ```text
   § 4365. Powers and duties of the commissioner. 1. The commissioner, in

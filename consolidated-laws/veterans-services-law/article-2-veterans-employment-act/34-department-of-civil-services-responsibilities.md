@@ -4,8 +4,8 @@
 [Veterans' Services Law](../README.md) › [Article 2 — Veterans Employment Act](README.md)
 
 ```text
-  * § 34. Department of civil services responsibilities. The department
-of civil service shall:
+  § 34. Department of civil services responsibilities. The department of
+civil service shall:
   1. establish and maintain a veteran temporary hiring list, for use by
 state agencies in the implementation of this article;
   2. assist state agencies by making available services of the
@@ -15,5 +15,4 @@ article; and
 department of veterans' services, a program to educate separating
 service members as to the benefits available to veterans under this
 article.
-  * NB Effective April 1, 2023
 ```

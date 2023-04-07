@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 362", "kind": "section", "law_id": "EXC", "location_id": "362", "path": "ARTICLE 17 › SECTION 362", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/362.md", "title": "Creation of annuity"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 362", "kind": "section", "law_id": "EXC", "location_id": "362", "path": "ARTICLE 17 › SECTION 362", "repealed": true, "repealed_date": "2023-04-07", "source": "nys-laws:EXC/362.md", "title": "Creation of annuity"} -->
 # Executive Law § 362 — Creation of annuity
 
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
+
+**Repealed** (7 Apr 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 362. Creation of annuity. 1. Payment to veterans. a. Any veteran

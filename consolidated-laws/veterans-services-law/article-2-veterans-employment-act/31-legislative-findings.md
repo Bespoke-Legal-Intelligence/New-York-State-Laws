@@ -4,7 +4,7 @@
 [Veterans' Services Law](../README.md) › [Article 2 — Veterans Employment Act](README.md)
 
 ```text
-  * § 31. Legislative findings. The legislature hereby finds that it is
+  § 31. Legislative findings. The legislature hereby finds that it is
 estimated that over the next five years, forty-four thousand veterans
 are expected to return to this state from their military posts, making
 the Empire State home to one of the largest veteran populations in the
@@ -29,5 +29,4 @@ workforce.
 veterans for temporary appointments in state agencies rather than
 utilizing temporary employment service companies in order to provide
 employment opportunities for returning military veterans.
-  * NB Effective April 1, 2023
 ```

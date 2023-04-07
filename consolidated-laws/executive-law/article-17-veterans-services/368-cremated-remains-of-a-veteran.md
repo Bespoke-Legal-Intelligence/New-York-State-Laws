@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 368", "kind": "section", "law_id": "EXC", "location_id": "368", "path": "ARTICLE 17 › SECTION 368", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/368.md", "title": "Cremated remains of a veteran"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 368", "kind": "section", "law_id": "EXC", "location_id": "368", "path": "ARTICLE 17 › SECTION 368", "repealed": true, "repealed_date": "2023-04-07", "source": "nys-laws:EXC/368.md", "title": "Cremated remains of a veteran"} -->
 # Executive Law § 368 — Cremated remains of a veteran
 
 [Executive Law](../README.md) › [Article 17 — Veterans' Services](README.md)
+
+**Repealed** (7 Apr 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 368. Cremated remains of a veteran. The cremated remains of a

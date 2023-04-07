@@ -5,42 +5,22 @@
 
 ```text
   § 168. Definitions. As used in this title:
-  * 1. Veteran means a person, male or female, who has served in the
-armed forces of the United States in time of war, or who was a recipient
-of the armed forces expeditionary medal, navy expeditionary medal or
-marine corps expeditionary medal for participation in operations in
-Lebanon from June first, nineteen hundred eighty-three to December
-first, nineteen hundred eighty-seven, in Grenada from October
-twenty-third, nineteen hundred eighty-three to November twenty-first,
-nineteen hundred eighty-three, or in Panama from December twentieth,
-nineteen hundred eighty-nine to January thirty-first, nineteen hundred
-ninety, and who (1) has been honorably discharged or released under
-honorable circumstances from such service or furloughed to the reserve,
-or (2) has a qualifying condition, as defined in section three hundred
-fifty of the executive law, and has received a discharge other than bad
-conduct or dishonorable from such service, or (3) is a discharged LGBT
-veteran, as defined in section three hundred fifty of the executive law,
-and has received a discharge other than bad conduct or dishonorable from
-such service.
-  * NB Effective until April 1, 2023
-  * 1. Veteran means a person, male or female, who has served in the
-armed forces of the United States in time of war, or who was a recipient
-of the armed forces expeditionary medal, navy expeditionary medal or
-marine corps expeditionary medal for participation in operations in
-Lebanon from June first, nineteen hundred eighty-three to December
-first, nineteen hundred eighty-seven, in Grenada from October
-twenty-third, nineteen hundred eighty-three to November twenty-first,
-nineteen hundred eighty-three, or in Panama from December twentieth,
-nineteen hundred eighty-nine to January thirty-first, nineteen hundred
-ninety, and who (1) has been honorably discharged or released under
-honorable circumstances from such service or furloughed to the reserve,
-or (2) has a qualifying condition, as defined in section one of the
-veterans' services law, and has received a discharge other than bad
-conduct or dishonorable from such service, or (3) is a discharged LGBT
-veteran, as defined in section one of the veterans' services law, and
-has received a discharge other than bad conduct or dishonorable from
-such service.
-  * NB Effective April 1, 2023
+  1. Veteran means a person, male or female, who has served in the armed
+forces of the United States in time of war, or who was a recipient of
+the armed forces expeditionary medal, navy expeditionary medal or marine
+corps expeditionary medal for participation in operations in Lebanon
+from June first, nineteen hundred eighty-three to December first,
+nineteen hundred eighty-seven, in Grenada from October twenty-third,
+nineteen hundred eighty-three to November twenty-first, nineteen hundred
+eighty-three, or in Panama from December twentieth, nineteen hundred
+eighty-nine to January thirty-first, nineteen hundred ninety, and who
+(1) has been honorably discharged or released under honorable
+circumstances from such service or furloughed to the reserve, or (2) has
+a qualifying condition, as defined in section one of the veterans'
+services law, and has received a discharge other than bad conduct or
+dishonorable from such service, or (3) is a discharged LGBT veteran, as
+defined in section one of the veterans' services law, and has received a
+discharge other than bad conduct or dishonorable from such service.
   2. In time of war means the periods herein set forth for the following
 wars and conflicts:
   (1) Civil war; from twentieth day of April, eighteen hundred sixty-one
@@ -54,50 +34,7 @@ hundred two.
   (4) World war I; from the sixth day of April, nineteen hundred
 seventeen to and including the eleventh day of November, nineteen
 hundred eighteen.
-  * (5) World war II; from the seventh day of December, nineteen hundred
-forty-one to and including the thirty-first day of December, nineteen
-hundred forty-six, or who was employed by the War Shipping
-Administration or Office of Defense Transportation or their agents as a
-merchant seaman documented by the United States Coast Guard or
-Department of Commerce, or as a civil servant employed by the United
-States Army Transport Service (later redesignated as the United States
-Army Transportation Corps, Water Division) or the Naval Transportation
-Service; and who served satisfactorily as a crew member during the
-period of armed conflict, December seventh, nineteen hundred forty-one,
-to August fifteenth, nineteen hundred forty-five, aboard merchant
-vessels in oceangoing, i.e., foreign, intercoastal, or coastwise service
-as such terms are defined under federal law (46 USCA 10301 & 10501) and
-further to include "near foreign" voyages between the United States and
-Canada, Mexico, or the West Indies via ocean routes, or public vessels
-in oceangoing service or foreign waters and who has received a
-Certificate of Release or Discharge from Active Duty and a discharge
-certificate, or an Honorable Service Certificate/Report of Casualty,
-from the Department of Defense or who served as a United States civilian
-employed by the American Field Service and served overseas under United
-States Armies and United States Army Groups in world war II during the
-period of armed conflict, December seventh, nineteen hundred forty-one
-through May eighth, nineteen hundred forty-five, and who (i) was
-discharged or released therefrom under honorable conditions, or (ii) has
-a qualifying condition, as defined in section three hundred fifty of the
-executive law, and has received a discharge other than bad conduct or
-dishonorable from such service, or (iii) is a discharged LGBT veteran,
-as defined in section three hundred fifty of the executive law, and has
-received a discharge other than bad conduct or dishonorable from such
-service, or who served as a United States civilian Flight Crew and
-Aviation Ground Support Employee of Pan American World Airways or one of
-its subsidiaries or its affiliates and served overseas as a result of
-Pan American's contract with Air Transport Command or Naval Air
-Transport Service during the period of armed conflict, December
-fourteenth, nineteen hundred forty-one through August fourteenth,
-nineteen hundred forty-five, and who (iv) was discharged or released
-therefrom under honorable conditions, or (v) has a qualifying condition,
-as defined in section three hundred fifty of the executive law, and has
-received a discharge other than bad conduct or dishonorable from such
-service, or (vi) is a discharged LGBT veteran, as defined in section
-three hundred fifty of the executive law, and has received a discharge
-other than bad conduct or dishonorable from such service.
-  * NB Effective until April 1, 2023
-  * (5) World war II; from the seventh day of December, nineteen hundred
+  (5) World war II; from the seventh day of December, nineteen hundred
 forty-one to and including the thirty-first day of December, nineteen
 hundred forty-six, or who was employed by the War Shipping
 Administration or Office of Defense Transportation or their agents as a
@@ -139,7 +76,6 @@ received a discharge other than bad conduct or dishonorable from such
 service, or (vi) is a discharged LGBT veteran, as defined in section one
 of the veterans' services law, and has received a discharge other than
 bad conduct or dishonorable from such service.
-  * NB Effective April 1, 2023
   (6) Korean conflict; from the twenty-seventh day of June, nineteen
 hundred fifty to and including the thirty-first day of January, nineteen
 hundred fifty-five.
