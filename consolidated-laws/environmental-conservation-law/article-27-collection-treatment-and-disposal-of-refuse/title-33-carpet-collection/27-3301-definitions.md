@@ -4,8 +4,9 @@
 [Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 33 — Carpet Collection Program](README.md)
 
 ```text
-* § 27-3301. Definitions. For the purposes of this title, the following
-             terms shall have the following meanings:
+* § 27-3301. Definitions.
+  For the purposes of this title, the following terms shall have the
+following meanings:
   1. "Brand" means a name, symbol, word, or mark that attributes the
 product to the owner or licensee of the brand as the producer.
   2. "Carpet" means a manufactured article that is (a) used by a
