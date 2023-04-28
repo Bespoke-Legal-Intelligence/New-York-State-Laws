@@ -271,7 +271,7 @@ Article
   32.      Live pathogenic microorganisms or viruses (§§3200-3203).
   32-A.    Recombinant DNA Experiments (§§3220-3223).
   33.      Controlled substances
-           Title    I.   General provisions (§§3300-3309-b).
+           Title    I.   General provisions (§§3300-3309-a).
                    II.   Manufacture and distribution of controlled
                           substances (§§3310-3322).
                   2-A.   Opioid stewardship act (§ 3323).

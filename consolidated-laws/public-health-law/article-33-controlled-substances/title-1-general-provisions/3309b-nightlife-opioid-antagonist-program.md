@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 3309-B", "kind": "section", "law_id": "PBH", "location_id": "3309-B", "path": "ARTICLE 33 › TITLE 1 › SECTION 3309-B", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/3309-B.md", "title": "Nightlife opioid antagonist program"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 3309-B", "kind": "section", "law_id": "PBH", "location_id": "3309-B", "path": "ARTICLE 33 › TITLE 1 › SECTION 3309-B", "repealed": true, "repealed_date": "2023-04-28", "source": "nys-laws:PBH/3309-B.md", "title": "Nightlife opioid antagonist program"} -->
 # Public Health Law § 3309-B — Nightlife opioid antagonist program
 
 [Public Health Law](../../README.md) › [Article 33 — Controlled Substances](../README.md) › [Title 1 — General Provisions](README.md)
+
+**Repealed** (28 Apr 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 3309-b. Nightlife opioid antagonist program. 1. Definitions. As

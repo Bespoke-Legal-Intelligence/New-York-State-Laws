@@ -8,11 +8,11 @@
 | Senate code | SWC |
 | Type | Consolidated law, chapter 9-B |
 | Sections | 18 |
-| Last changed | 24 Jun 2022 |
+| Last changed | 28 Apr 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Soil & Water Conservation Districts |
 
-**Short title (from the law itself):** § 1. Short title. This chapter shall be known and cited as the "soil and water conservation districts law".
+**Short title (from the law itself):** Section 1. Short title. This chapter shall be known and cited as the "soil and water conservation districts law".
 
 ## Chapter text as published
 
@@ -31,6 +31,7 @@ Became a law April 23, 1940, with the approval of the Governor.  Passed,
 
 ## Recent changes
 
+- [28 Apr 2023](../../changes/2023/2023-04-28.md): 1 amended
 - [24 Jun 2022](../../changes/2022/2022-06-24.md): 2 amended
 - [4 Mar 2022](../../changes/2022/2022-03-04.md): 2 amended
 - [31 Dec 2021](../../changes/2021/2021-12-31.md): 2 amended

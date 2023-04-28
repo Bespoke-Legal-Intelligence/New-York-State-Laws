@@ -37,7 +37,6 @@ Section 3300.   Short title.
         3308.   Powers and duties of the commissioner.
         3309.   Opioid overdose prevention.
         3309-a. Prescription pain medication awareness program.
-        3309-b. Nightlife opioid antagonist program.
                                 TITLE II
           MANUFACTURE AND DISTRIBUTION OF CONTROLLED SUBSTANCES
 Section 3310.   Licenses for manufacture or distribution of controlled

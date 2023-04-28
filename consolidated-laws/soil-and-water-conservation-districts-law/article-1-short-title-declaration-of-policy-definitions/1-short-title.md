@@ -4,6 +4,6 @@
 [Soil and Water Conservation Districts Law](../README.md) › [Article 1 — Short Title; Declaration of Policy; Definitions](README.md)
 
 ```text
-  § 1. Short title. This chapter shall be known and cited as the "soil
-and water conservation districts law".
+  Section 1. Short title. This chapter shall be known and cited as the
+"soil and water conservation districts law".
 ```

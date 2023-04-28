@@ -40,12 +40,11 @@ services, county vocational education and extension board, charter
 school, non-public elementary or secondary school, restaurant, bar,
 retail store, shopping mall, barber shop, beauty parlor, theater,
 sporting or event center, inn, hotel or motel.
-  * (vi) "Nightlife establishment" means an establishment that is open
-to the public for entertainment or leisure, serves alcohol or where
-alcohol is consumed on the premises, and conducts a large volume of
-business at night. Such term includes, but is not limited to, bars,
-entertainment venues, clubs and restaurants.
-  * NB Effective April 22, 2023
+  (vi) "Nightlife establishment" means an establishment that is open to
+the public for entertainment or leisure, serves alcohol or where alcohol
+is consumed on the premises, and conducts a large volume of business at
+night. Such term includes, but is not limited to, bars, entertainment
+venues, clubs and restaurants.
   (b)(i) A health care professional may prescribe by a patient-specific
 or non-patient-specific prescription, dispense or distribute, directly
 or indirectly, an opioid antagonist to an opioid antagonist recipient.
@@ -132,7 +131,6 @@ disorder; (b) high dose or cumulative prescriptions that result in
 ninety morphine milligram equivalents or higher per day; (c) concurrent
 use of opioids and benzodiazepine or nonbenzodiazepine sedative
 hypnotics.
-  * 8. The commissioner shall establish guidelines for onsite opioid
+  8. The commissioner shall establish guidelines for onsite opioid
 overdose response capacity in nightlife establishments.
-  * NB Effective April 22, 2023
 ```
