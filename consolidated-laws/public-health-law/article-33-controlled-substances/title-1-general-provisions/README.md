@@ -16,7 +16,6 @@
 - [§ 3308 Powers and duties of the commissioner](3308-powers-and-duties-of-the-commissioner.md)
 - [§ 3309 Opioid overdose prevention](3309-opioid-overdose-prevention.md)
 - [§ 3309-A Prescription pain medication awareness program](3309a-prescription-pain-medication-awareness-program.md)
-- [§ 3309-B Nightlife opioid antagonist program](3309b-nightlife-opioid-antagonist-program.md) *(repealed)*
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
