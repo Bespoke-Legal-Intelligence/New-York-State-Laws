@@ -19,7 +19,7 @@ and compensating use taxes, whether or not the item is sold in liquid
 form. Nothing in this subparagraph shall be construed as exempting food
 or drink from the tax imposed under subdivision (d) of section eleven
 hundred five of this article.
-  (B) Until May thirty first, two thousand twenty-three, the food and
+  * (B) Until May thirty first, two thousand twenty-three, the food and
 drink excluded from the exemption provided by clauses (i), (ii) and
 (iii) of subparagraph (A) of this paragraph, and bottled water, shall be
 exempt under this subparagraph when sold for one dollar and fifty cents
@@ -27,6 +27,16 @@ or less through any vending machine that accepts coin or currency only
 or when sold for two dollars or less through any vending machine that
 accepts any form of payment other than coin or currency, whether or not
 it also accepts coin or currency.
+  * NB Effective until June 1, 2023
+  * (B) Until May thirty-first, two thousand twenty-four, the food and
+drink excluded from the exemption provided by clauses (i), (ii) and
+(iii) of subparagraph (A) of this paragraph, and bottled water, shall be
+exempt under this subparagraph: (i) when sold for one dollar and fifty
+cents or less through any vending machine that accepts coin or currency
+only; or (ii) when sold for two dollars or less through any vending
+machine that accepts any form of payment other than coin or currency,
+whether or not it also accepts coin or currency.
+  * NB Effective June 1, 2023
   (2) Water, when delivered to the consumer through mains or pipes.
   (3) Drugs and medicines intended for use, internally or externally, in
 the cure, mitigation, treatment or prevention of illnesses or diseases
@@ -1228,10 +1238,10 @@ with a landlord for a term of ten years or more commencing on or after
 September first, two thousand five, but not later than, in the case of a
 space lease with respect to leased premises located in eligible areas as
 defined in clause (i) of subparagraph (D) of this paragraph, September
-first, two thousand twenty-three and, in the case of a space lease with
+first, two thousand twenty-seven and, in the case of a space lease with
 respect to leased premises located in eligible areas as defined in
 clause (ii) of subparagraph (D) of this paragraph not later than
-September first, two thousand twenty-five, of premises for use as
+September first, two thousand twenty-nine, of premises for use as
 commercial office space in buildings located or to be located in the
 eligible areas. A person who currently occupies premises for use as
 commercial office space under an existing lease in a building in the
@@ -1239,7 +1249,7 @@ eligible areas shall not be eligible for exemption under this
 subdivision unless such existing lease, in the case of a space lease
 with respect to leased premises located in eligible areas as defined in
 clause (i) of subparagraph (D) of this paragraph expires according to
-its terms before September first, two thousand twenty-three or such
+its terms before September first, two thousand twenty-seven or such
 existing lease, in the case of a space lease with respect to leased
 premises located in eligible areas as defined in clause (ii) of
 subparagraph (D) of this paragraph and such person enters into a space
@@ -1249,10 +1259,10 @@ in a building located or to be located in the eligible areas, provided
 that such space lease with respect to leased premises located in
 eligible areas as defined in clause (i) of subparagraph (D) of this
 paragraph commences no later than September first, two thousand
-twenty-three, and provided that such space lease with respect to leased
+twenty-seven, and provided that such space lease with respect to leased
 premises located in eligible areas as defined in clause (ii) of
 subparagraph (D) of this paragraph commences no later than September
-first, two thousand twenty-five and provided, further, that such space
+first, two thousand twenty-nine and provided, further, that such space
 lease shall expire no earlier than ten years after the expiration of the
 original lease.
   (B) "Leased premises" means the premises within a building to be used
@@ -1279,7 +1289,7 @@ and Murray street. In addition, "eligible area" shall include the
 seventy-two of the public authorities law, including the world financial
 center. Any tax lot that is partly located inside the eligible area
 shall be deemed to be entirely located inside such area, and
-  ** NB Repealed December 1, 2024
+  ** NB Repealed December 1, 2028
   (ii) the World Trade Center site, the World financial center and the
 Battery Park city area as defined as follows:
   (a) "World Trade Center site" means the area of the former complex of
@@ -1302,7 +1312,7 @@ hundred eight of this article or pursuant to the authority of article
 twenty-nine of this chapter other than taxes imposed by a city of a
 million or more pursuant to the authority of subdivision (a) of section
 twelve hundred ten of such article twenty-nine.
-  * NB Repealed December 1, 2026
+  * NB Repealed December 1, 2030
   * NB There are 2 sb (ee)'s
   (ff) Receipts from retail sales of tangible personal property by any
 gift shop located in a veteran's home described in title thirty-eight of

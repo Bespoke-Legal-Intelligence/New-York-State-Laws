@@ -27,6 +27,7 @@
 - [§ 224-C Public subsidy board](224c-public-subsidy-board.md)
 - [§ 224-D Wage requirements for certain renewable energy systems](224d-wage-requirements-for-certain-renewable-energy-systems.md)
 - [§ 224-E Wage requirements for certain broadband projects](224e-wage-requirements-for-certain-broadband-projects.md)
+- [§ 224-F Wage requirements for certain climate risk-related and energy transition projects](224f-wage-requirements-for-certain-climate-risk-related-and-energy-transition.md)
 
 <details>
 <summary>Official heading of Article 8, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -65,6 +66,8 @@ Section 220.   Hours, wages and supplements.
         224-c. Public subsidy board.
         224-d. Wage requirements for certain renewable energy systems.
         224-e. Wage requirements for certain broadband projects.
+        224-f. Wage requirements for certain climate risk-related and
+                 energy transition projects.
 ```
 
 </details>

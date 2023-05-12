@@ -24,15 +24,15 @@ or
 section three hundred sixty-four-f of this title or section forty-four
 hundred three-e of the public health law or section 1915b of the social
 security act; or
-  ** NB Effective until September 30, 2023
+  ** NB Effective until December 31, 2025
   ** (ii) is authorized as a partially capitated program pursuant to
 section three hundred sixty-four-f of this title or section forty-four
 hundred three-e of the public health law or section 1915b of the social
 security act.
-  ** NB Effective September 30, 2023
+  ** NB Effective December 31, 2025
   ** (iii) is authorized to operate under section forty-four hundred
 three-g of the public health law.
-  ** NB Repealed September 30, 2023
+  ** NB Repealed December 31, 2025
   (c) "Managed care program". A statewide program in which medical
 assistance recipients enroll on a voluntary or mandatory basis to
 receive medical assistance services, including case management, directly
@@ -1453,7 +1453,7 @@ inconsistent with any provision of section forty-four hundred three-g of
 the public health law, such provision of this section shall not apply to
 an entity authorized to operate pursuant to section forty-four hundred
 three-g of the public health law.
-  ** NB Repealed September 30, 2023
+  ** NB Repealed December 31, 2025
   29. In the event that the department receives approval from the
 Centers for Medicare and Medicaid Services to amend its 1115 waiver
 known as the Partnership Plan or receives approval for a new 1115 waiver

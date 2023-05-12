@@ -231,13 +231,19 @@ allowed for a taxable year commencing on or after January first,
 nineteen hundred eighty-seven and not deductible in such year may be
 carried over to the fifteen taxable years next following such taxable
 year and may be deducted from the taxpayer's tax for such year or years.
-In lieu of such carryover, any such taxpayer which qualifies as a new
-business under paragraph (f) of this subdivision may elect to treat the
-amount of such carryover as an overpayment of tax to be credited or
+In lieu of such carryover, (i) any such taxpayer which qualifies as a
+new business under paragraph (f) of this subdivision may elect to treat
+the amount of such carryover as an overpayment of tax to be credited or
 refunded in accordance with the provisions of section ten hundred
-eighty-six of this chapter, provided, however, the provisions of
-subsection (c) of section ten hundred eighty-eight of this chapter
-notwithstanding, no interest shall be paid thereon.
+eighty-six of this chapter, and (ii) any such taxpayer that is an
+eligible farmer, as defined in subdivision eleven of this section, may
+for taxable years beginning before January first, two thousand
+twenty-eight, elect to treat the amount of such carryover as an
+overpayment of tax to be credited or refunded in accordance with the
+provisions of section one thousand eighty-six of this chapter, provided,
+however, the provisions of subsection (c) of section ten hundred
+eighty-eight of this chapter notwithstanding, no interest shall be paid
+thereon.
   (e) (1) With respect to property which is depreciable pursuant to
 section one hundred sixty-seven of the internal revenue code but is not
 subject to the provisions of section one hundred sixty-eight of such
@@ -351,79 +357,6 @@ increased by reason of a transfer of (or agreement to transfer) any
 evidence of an indebtedness if such transfer occurs (or such agreement
 is entered into) more than one year after the date such indebtedness was
 incurred.
-  (9) (A) Where property with respect to which credit has been allowed
-under this subdivision is disposed of by transfer to the taxpayer in a
-qualified transaction, and such disposition requires, pursuant to this
-paragraph (without regard to this subparagraph) that such credit be
-decreased (where the disposition occurs in the taxable year in which the
-property is placed in service by the transferor) or that a portion of
-such credit be added back by the transferor, then clause (B) or clause
-(C) of this subparagraph shall apply.
-  (B) If the taxpayer and the transferor jointly elect, at such time and
-in such manner as the commissioner may prescribe, the following shall
-apply:
-  (i) such portion shall not be required to be added back by the
-transferor,
-  (ii) the amount of unused credit shall not be deducted from tax
-otherwise due by the transferor on any return (including an amended
-return), and shall not be so deducted as part of any audit adjustment or
-any other determination, and
-  (iii) the amount of unused credit shall be treated as an amount of
-credit of the taxpayer under this subdivision carried forward by the
-taxpayer to its taxable year in which such transfer occurred, as if the
-credit allowed to the transferor with respect to such property had
-originally been allowed to the taxpayer both as to amount and first date
-of qualified use, and as if the period of qualified use by the
-transferor prior to the transfer had been a period of such use by the
-taxpayer. Any amount of credit treated as carried forward to the taxable
-year pursuant to this subparagraph shall be applied as provided in
-clause (H) of this subparagraph.
-  (C) If the taxpayer and the transferor do not make the election
-described in clause (B) of this subparagraph, then the amount of credit
-required pursuant to this paragraph to be added back by the transferor
-shall be treated as an amount of credit of the taxpayer under this
-subdivision to be carried forward by the taxpayer to its taxable year in
-which such transfer occurred, as if the credit allowed to the transferor
-with respect to such property had originally been allowed to the
-taxpayer both as to amount and first date of qualified use, and as if
-the period of qualified use by the transferor prior to the transfer had
-been a period of such use by the taxpayer. Any amount of credit treated
-as carried forward to the taxable year pursuant to this subparagraph
-shall be applied as provided in clause (H) of this subparagraph.
-  (D) The term "qualified transaction" shall mean a transaction which is
-a reorganization described in section 368(a)(1)(D) of the internal
-revenue code, wherein (i) substantially all of the assets of the
-transferor necessary to continue the operation of a division or
-divisions of the transferor are transferred to the taxpayer in a
-transaction to which section 351 of such code applies, and (ii) stock or
-securities of the taxpayer held by the transferor are distributed
-pursuant to section 355 of such code.
-  (E) The term "unused credit" shall mean the amount of credit shown as
-carried forward to the transaction year on the transferor's tax return
-for its taxable year immediately preceding the transaction year with
-respect to the property described in clause (A) of this subparagraph.
-  (F) The term "transaction year" means the taxable year in which the
-qualified transaction occurs.
-  (G) Notwithstanding any other provision of law to the contrary, in the
-case of allowance of credit pursuant to this subparagraph to a taxpayer
-the commissioner shall have the authority to reveal to the taxpayer any
-information, with respect to the credit of the transferor, which is the
-basis for the denial in whole or in part of the credit claimed by such
-taxpayer.
-  (H) Where a credit is allowed to a taxpayer pursuant to this
-subparagraph, the taxpayer may treat the amount of such credit as an
-overpayment of tax to be credited or refunded in accordance with the
-provisions of section ten hundred eighty-six of this chapter, provided,
-however, the provisions of subsection (c) of section ten hundred
-eighty-eight of this chapter notwithstanding, no interest shall be paid
-thereon. Such credit shall be allowed against the tax imposed by this
-article with respect to the second succeeding taxable year next
-following the transaction year, provided that not more than one-fourth
-of the amount of such credit may be applied by the taxpayer, whether to
-reduce tax otherwise due or to be treated as an overpayment to be
-credited or refunded, with respect to such second succeeding taxable
-year and each of the next three taxable years following such second
-succeeding taxable year.
   (f) For purposes of paragraph (d) of this subdivision, a new business
 shall include any corporation, except a corporation which:
   (1) over fifty percent of the number of shares of stock entitling the
@@ -1222,7 +1155,7 @@ of each other, multiplied by a fraction the denominator of which shall
 be the interest rate payable on the mortgage (computed to five decimal
 places) and the numerator of which shall be .00125 in the case of such a
 mortgage acquired by such agency for less than one million dollars, and
-.00100 in the case of such a mortgage acquired by such agency for one
+..00100 in the case of such a mortgage acquired by such agency for one
 million dollars or more. In no event shall the credit allowed under this
 subdivision reduce the tax to less than the fixed dollar minimum amount
 prescribed in paragraph (d) of subdivision one of section two hundred
@@ -1693,7 +1626,7 @@ section one thousand eighty-eight of this chapter notwithstanding, no
 interest shall be paid thereon.
   (c) Expiration of credit. The credit allowed under this subdivision
 shall not be applicable to taxable years beginning on or after January
-first, two thousand twenty-four.
+first, two thousand twenty-nine.
   24. Biofuel production credit. (a) General. A taxpayer shall be
 allowed a credit, to be computed as provided in section twenty-eight of
 this chapter added as part X of chapter sixty-two of the laws of two
@@ -1747,7 +1680,7 @@ provisions of subsection (c) of section one thousand eighty-eight of
 this chapter notwithstanding, no interest shall be paid thereon.
   26. Credit for rehabilitation of historic properties.  (a) Application
 of credit.  (i) For taxable years beginning on or after January first,
-two thousand ten, and before January first, two thousand twenty-five, a
+two thousand ten, and before January first, two thousand thirty, a
 taxpayer shall be allowed a credit as hereinafter provided, against the
 tax imposed by this article, in an amount equal to one hundred percent
 of the amount of credit allowed the taxpayer for the same taxable year
@@ -1760,20 +1693,20 @@ allocating the credit over a five year period as required by subsection
 located within the state. Provided, however, the credit shall not exceed
 five million dollars.
   (ii) For taxable years beginning on or after January first, two
-thousand twenty-five, a taxpayer shall be allowed a credit as
-hereinafter provided, against the tax imposed by this article, in an
-amount equal to thirty percent of the amount of credit allowed the
-taxpayer for the same taxable year determined without regard to ratably
-allocating the credit over a five year period as required by subsection
-(a) of section 47 of the internal revenue code, with respect to a
-certified historic structure under subsection (c)(3) of section 47 of
-the internal revenue code with respect to a certified historic structure
-located within the state. Provided, however, the credit shall not exceed
-one hundred thousand dollars.
-  (B) If the taxpayer is a partner in a partnership or a shareholder in
-a New York S corporation, then the credit caps imposed in subparagraph
-(A) of this paragraph shall be applied at the entity level, so that the
-aggregate credit allowed to all the partners or shareholders of each
+thousand thirty, a taxpayer shall be allowed a credit as hereinafter
+provided, against the tax imposed by this article, in an amount equal to
+thirty percent of the amount of credit allowed the taxpayer for the same
+taxable year determined without regard to ratably allocating the credit
+over a five year period as required by subsection (a) of section 47 of
+the internal revenue code, with respect to a certified historic
+structure under subsection (c)(3) of section 47 of the internal revenue
+code with respect to a certified historic structure located within the
+state. Provided, however, the credit shall not exceed one hundred
+thousand dollars.
+  (a-1) If the taxpayer is a partner in a partnership or a shareholder
+in a New York S corporation, then the credit caps imposed in paragraph
+(a) of this subdivision shall be applied at the entity level, so that
+the aggregate credit allowed to all the partners or shareholders of each
 such entity in the taxable year does not exceed the credit cap that is
 applicable in that taxable year.
   (b) Tax credits allowed pursuant to this subdivision shall be allowed
@@ -2119,11 +2052,9 @@ disabilities" shall, for the purposes of this subdivision, refer to a
 vehicle that complies with federal regulations promulgated pursuant to
 the Americans with Disabilities Act applicable to vans under twenty-two
 feet in length, by the federal Department of Transportation, in Code of
-Federal Regulations, title 49, parts 37 and 38, and by the federal
-Architecture and Transportation Barriers Compliance Board, in Code of
-Federal Regulations, title 36, section 1192.23, and the Federal Motor
+Federal Regulations, title 49, parts 37 and 38 and the Federal Motor
 Vehicle Safety Standards, Code of Federal Regulations, title 49, part
-57. The term "electric vehicle" shall, for the purposes of this
+571. The term "electric vehicle" shall, for the purposes of this
 subdivision, have the same meaning as in section sixty-six-s of the
 public service law.
   (c) Application of credit. In no event shall the credit allowed under
@@ -2710,4 +2641,20 @@ eighty-six of this chapter. Provided, however, the provisions of
 subsection (c) of section one thousand eighty-eight of this chapter
 notwithstanding, no interest will be paid thereon.
   * NB There are 3 sb 58's
+  59. Child care creation and expansion tax credit. (a) Allowance of
+credit. A taxpayer shall be allowed a credit, to be computed as provided
+in section forty-eight of this chapter, against the taxes imposed by
+this article.
+  (b) Application of credit. The credit allowed under this subdivision
+for the taxable year shall not reduce the tax due for such year to less
+than the amount prescribed in paragraph (d) of subdivision one of
+section two hundred ten of this article. However, if the amount of
+credit allowed under this subdivision for the taxable year reduces the
+tax to such amount or if the taxpayer otherwise pays tax based on the
+fixed dollar minimum amount, any amount of credit thus not deductible in
+such taxable year shall be treated as an overpayment of tax to be
+credited or refunded in accordance with the provisions of section one
+thousand eighty-six of this chapter. Provided, however, the provisions
+of subsection (c) of section one thousand eighty-eight of this chapter
+notwithstanding, no interest will be paid thereon.
 ```

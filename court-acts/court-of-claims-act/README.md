@@ -8,7 +8,7 @@
 | Senate code | CTC |
 | Type | Court act |
 | Sections | 35 |
-| Last changed | 13 Aug 2021 |
+| Last changed | 12 May 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Court of Claims |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [12 May 2023](../../changes/2023/2023-05-12.md): 2 amended
 - [13 Aug 2021](../../changes/2021/2021-08-13.md): 3 amended
 - [23 Apr 2021](../../changes/2021/2021-04-23.md): 2 amended
 - [10 Apr 2020](../../changes/2020/2020-04-10.md): 2 amended

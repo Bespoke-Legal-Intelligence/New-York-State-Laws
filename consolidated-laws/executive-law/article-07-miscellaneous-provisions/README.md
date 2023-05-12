@@ -11,7 +11,6 @@
 - [§ 162 Contracts for professional services of state and municipal employees](162-contracts-for-professional-services-of-state-and-municipal-employees.md)
 - [§ 163 Contracts for services of state agencies](163-contracts-for-services-of-state-agencies.md)
 - [§ 163-A Contracts with Green Thumb Environmental Beautification, Incorporated](163a-contracts-with-green-thumb-environmental-beautification-incorporated.md)
-- [§ 163-C Purchase or lease of zero emission vehicles and charging or fueling infrastructure](163c-purchase-or-lease-of-zero-emission-vehicles-and-charging-or-fueling.md) *(repealed)*
 - [§ 164 Reports by and to the department](164-reports-by-and-to-the-department.md)
 - [§ 164-A Report and publication economy regulations](164a-report-and-publication-economy-regulations.md)
 - [§ 164-B State aid to rural areas: agency reports](164b-state-aid-to-rural-areas-agency-reports.md)
@@ -32,6 +31,7 @@
 - [§ 170-E Disclosure of lawful source of income rights to prospective tenants](170e-disclosure-of-lawful-source-of-income-rights-to-prospective-tenants.md)
 - [§ 170-E\*2 Collection of demographic information](170e-2-collection-of-demographic-information.md)
 - [§ 170-F Website accessibility; contractors and vendors](170f-website-accessibility-contractors-and-vendors.md)
+- [§ 171 Discovery and disposition of human remains and funerary objects](171-discovery-and-disposition-of-human-remains-and-funerary-objects.md)
 
 <details>
 <summary>Official heading of Article 7, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -72,6 +72,8 @@ Section 161.     Certain searches, the filing of papers, and certified
                    prospective tenants.
         170-e*2. Collection of demographic information.
         170-f.   Website accessibility; contractors and vendors.
+        171.     Discovery and disposition of human remains and funerary
+                   objects.
 ```
 
 </details>

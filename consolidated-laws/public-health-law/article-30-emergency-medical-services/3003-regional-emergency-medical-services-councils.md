@@ -17,6 +17,14 @@ a list of nominees for appointment to membership on such regional
 councils and a statement as to the proposed method of operation in such
 detail as the commissioner, with the approval of the state council,
 shall prescribe.
+  1-a. Each regional emergency medical services council shall advise the
+state emergency medical services council and department on such issues
+as the state emergency medical services council or department may
+require, related to the provision of emergency medical service,
+specialty care, designated facility care, and disaster medical care, and
+shall carry out duties to assist in the regional coordination of such,
+as outlined by the state emergency medical services council with
+approval of the department.
   2. Each regional council shall be comprised of at least fifteen but
 not more than thirty members to be initially appointed by the
 commissioner, with the approval of the state council, from nominations

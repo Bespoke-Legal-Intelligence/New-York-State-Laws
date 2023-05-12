@@ -12,7 +12,9 @@
 - [§ 496 Records to be kept; penalties](496-records-to-be-kept-penalties.md)
 - [§ 496-A Returns to be secret](496a-returns-to-be-secret.md)
 - [§ 496-B Administrative provisions](496b-administrative-provisions.md)
-- [§ 496-C Illicit cannabis penalty](496c-illicit-cannabis-penalty.md)
+- [§ 496-C Additional penalties](496c-additional-penalties.md)
+- [§ 496-D Enforcement](496d-enforcement.md)
+- [§ 496-E Notification of enforcement actions](496e-notification-of-enforcement-actions.md)
 
 <details>
 <summary>Official heading of Article 20-C, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -27,7 +29,9 @@ Section 492.   Definitions.
         496.   Records to be kept; penalties.
         496-a. Returns to be secret.
         496-b. Administrative provisions.
-        496-c. Illicit cannabis penalty.
+        496-c. Additional penalties.
+        496-d. Enforcement.
+        496-e. Notification of enforcement actions.
 ```
 
 </details>

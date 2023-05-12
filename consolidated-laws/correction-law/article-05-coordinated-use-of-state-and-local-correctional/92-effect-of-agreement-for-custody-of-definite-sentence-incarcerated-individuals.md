@@ -35,7 +35,7 @@ with the clerks of courts in the manner provided in subdivision four of
 section ninety-one of this article, and no incarcerated individuals
 shall be delivered to the custody of the department under such agreement
 after the date on which such cancellation becomes effective.
-  * NB Effective until September 1, 2023
+  * NB Effective until September 1, 2025
   * § 92. Effect of agreement for custody of definite sentence
 incarcerated individuals. 1. After a copy of an agreement made under
 section ninety-one of this article is filed with the secretary of state,
@@ -73,5 +73,5 @@ article, and no incarcerated individuals shall be delivered to the
 custody of the state department of corrections and community supervision
 under such agreement after the date on which such cancellation becomes
 effective.
-  * NB Effective September 1, 2023
+  * NB Effective September 1, 2025
 ```

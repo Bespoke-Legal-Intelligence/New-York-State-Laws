@@ -15,6 +15,7 @@
 - [§ 4906 Waiver](4906-waiver.md)
 - [§ 4907 Rights and remedies](4907-rights-and-remedies.md)
 - [§ 4908 Applicability to ERISA Plans](4908-applicability-to-erisa-plans.md)
+- [§ 4909 Site of service clinical review](4909-site-of-service-clinical-review.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -34,6 +35,7 @@ Section 4900.   Definitions.
         4906.   Waiver.
         4907.   Rights and remedies.
         4908.   Applicability to ERISA Plans.
+        4909.   Site of service clinical review.
 ```
 
 </details>

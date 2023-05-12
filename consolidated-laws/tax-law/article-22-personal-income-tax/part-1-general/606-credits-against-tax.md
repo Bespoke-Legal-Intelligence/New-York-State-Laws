@@ -249,12 +249,16 @@ any amount of credit allowed for a taxable year commencing on or after
 January first, nineteen hundred eighty-seven and not deductible in such
 year may be carried over to the ten taxable years next following such
 taxable year and may be deducted from the taxpayer's tax for such year
-or years. In lieu of carrying over any such excess, a taxpayer who
+or years. In lieu of carrying over any such excess, (A) a taxpayer who
 qualifies as an owner of a new business for purposes of paragraph ten of
-this subsection may, at his option, receive such excess as a refund. Any
-refund paid pursuant to this paragraph shall be deemed to be a refund of
-an overpayment of tax as provided in section six hundred eighty-six of
-this article, provided, however, that no interest shall be paid thereon.
+this subsection may, at the taxpayer's option, receive such excess as a
+refund, and (B) a taxpayer that is an eligible farmer as defined in
+subsection (n) of this section may, at the taxpayer's option, for
+taxable years beginning before January first, two thousand twenty-eight
+receive such excess as a refund. Any refund paid pursuant to this
+paragraph shall be deemed to be a refund of an overpayment of tax as
+provided in section six hundred eighty-six of this article, provided,
+however, that no interest shall be paid thereon.
   (6) At the option of the taxpayer for taxable years commencing prior
 to January first, nineteen hundred eighty-seven, air or water pollution
 control facilities which qualify for elective modifications under
@@ -689,9 +693,9 @@ Over $25,000 but not over $28,000   $40.00 plus an amount equal to $5.00
                                     for  which  the  taxpayer (or in the
                                     case  of   a   husband   and   wife,
                                     taxpayers)    is   entitled   to   a
-                                    deduction for the taxable  year  for
-                                    federal  income  tax  purposes under
-                                    subsections (b) and (c)  of  section
+                                    deduction  for  the taxable year for
+                                    federal income  tax  purposes  under
+                                    subsections  (b)  and (c) of section
                                     one   hundred   fifty-one   of   the
                                     internal revenue code
 Over $28,000 but not over $32,000   $20.00 plus such an amount
@@ -850,12 +854,11 @@ Code, the credit shall only be equal to the applicable percentage of the
 child tax credit allowed the taxpayer under section 24 of the Internal
 Revenue Code for each qualifying child. For the purposes of this
 subsection, a qualifying child shall be a child who meets the definition
-of qualified child under section 24(c) of the internal revenue code and
-is at least four years of age. The applicable percentage shall be
-thirty-three percent. For purposes of this subsection, any reference to
-section 24 of the Internal Revenue Code shall be a reference to such
-section as it existed immediately prior to the enactment of Public Law
-115-97.
+of qualified child under section 24(c) of the internal revenue code. The
+applicable percentage shall be thirty-three percent. For purposes of
+this subsection, any reference to section 24 of the Internal Revenue
+Code shall be a reference to such section as it existed immediately
+prior to the enactment of Public Law 115-97.
   (2) If the amount of the credit allowed under this subsection for any
 taxable year shall exceed the taxpayer's tax for such year, the excess
 shall be treated as an overpayment of tax to be credited or refunded in
@@ -2322,6 +2325,10 @@ subsection (nnn)                     ten-B
 return-to-work credit                subdivision fifty-six-a of
                                      section two hundred ten-B
   * NB There are 4 clause (xlix)'s
+(l) Child care creation and          Amount of credit
+expansion tax credit under           under subdivision fifty-nine
+subsection (ooo)                     of section two hundred
+                                     ten-B
   (2) The reduction of a shareholder's proportionate interest in the
 corporation shall be treated as a disposition of property for which a
 redetermination of credit is required under subsections (a), (j) and (l)
@@ -3998,7 +4005,7 @@ credit. A taxpayer that is eligible pursuant to the provisions of
 section twenty-eight of this chapter shall be allowed a credit to be
 computed as provided in such section against the tax imposed by this
 article. The tax credit allowed pursuant to this section shall apply to
-taxable years beginning before January first, two thousand twenty-four.
+taxable years beginning before January first, two thousand twenty-nine.
   (2) Application of credit. If the amount of the credit allowable under
 this subsection for any taxable year exceeds the taxpayer's tax for such
 year, fifty percent of the excess shall be treated as an overpayment of
@@ -4310,27 +4317,26 @@ for taxable years beginning on or after January first, two thousand
 twelve.
   (oo) Credit for rehabilitation of historic properties. (1) (A) For
 taxable years beginning on or after January first, two thousand ten and
-before January first, two thousand twenty-five, a taxpayer shall be
-allowed a credit as hereinafter provided, against the tax imposed by
-this article, in an amount equal to one hundred percent of the amount of
-credit allowed the taxpayer with respect to a certified historic
-structure, and one hundred fifty percent of the amount of credit allowed
-the taxpayer with respect to a certified historic structure that is a
-small project, under internal revenue code section 47(c)(3), determined
-without regard to ratably allocating the credit over a five year period
-as required by subsection (a) of such section 47, with respect to a
-certified historic structure located within the state. Provided,
-however, the credit shall not exceed five million dollars. For taxable
-years beginning on or after January first, two thousand twenty-five, a
-taxpayer shall be allowed a credit as hereinafter provided, against the
-tax imposed by this article, in an amount equal to thirty percent of the
-amount of credit allowed the taxpayer with respect to a certified
-historic structure under internal revenue code section 47(c)(3),
-determined without regard to ratably allocating the credit over a five
-year period as required by subsection (a) of such section 47, with
-respect to a certified historic structure located within the state;
-provided, however, the credit shall not exceed one hundred thousand
-dollars.
+before January first, two thousand thirty, a taxpayer shall be allowed a
+credit as hereinafter provided, against the tax imposed by this article,
+in an amount equal to one hundred percent of the amount of credit
+allowed the taxpayer with respect to a certified historic structure, and
+one hundred fifty percent of the amount of credit allowed the taxpayer
+with respect to a certified historic structure that is a small project,
+under internal revenue code section 47(c)(3), determined without regard
+to ratably allocating the credit over a five year period as required by
+subsection (a) of such section 47, with respect to a certified historic
+structure located within the state. Provided, however, the credit shall
+not exceed five million dollars. For taxable years beginning on or after
+January first, two thousand thirty, a taxpayer shall be allowed a credit
+as hereinafter provided, against the tax imposed by this article, in an
+amount equal to thirty percent of the amount of credit allowed the
+taxpayer with respect to a certified historic structure under internal
+revenue code section 47(c)(3), determined without regard to ratably
+allocating the credit over a five year period as required by subsection
+(a) of such section 47, with respect to a certified historic structure
+located within the state; provided, however, the credit shall not exceed
+one hundred thousand dollars.
   (B) If the taxpayer is a partner in a partnership or a shareholder of
 a New York S corporation, then the credit cap imposed in subparagraph
 (A) of this paragraph shall be applied at the entity level, so that the
@@ -4697,11 +4703,9 @@ disabilities" shall, for the purposes of this subsection, refer to a
 vehicle that complies with federal regulations promulgated pursuant to
 the Americans with Disabilities Act applicable to vans under twenty-two
 feet in length, by the federal Department of Transportation, in Code of
-Federal Regulations, title 49, parts 37 and 38, and by the federal
-Architecture and Transportation Barriers Compliance Board, in Code of
-Federal Regulations, title 36, section 1192.23, and the Federal Motor
-Vehicle Safety Standards, Code of Federal Regulations, title 29, part
-57. The term "electric vehicle" shall, for the purposes of this
+Federal Regulations, title 49, parts 37 and 38 and the Federal Motor
+Vehicle Safety Standards, Code of Federal Regulations, title 49, part
+571. The term "electric vehicle" shall, for the purposes of this
 subsection, have the same meaning as in section sixty-six-s of the
 public service law.
   (3) Application of credit. If the amount of the credit shall exceed
@@ -5684,6 +5688,16 @@ year, the excess shall be treated as an overpayment of tax to be
 credited or refunded as provided in section six hundred eighty-six of
 this article, provided, however, that no interest shall be paid thereon.
   * NB There are 5 sb§ (nnn)'s
+  (ooo) Child care creation and expansion tax credit. (1) Allowance of
+credit. A taxpayer shall be allowed a credit, to be computed as provided
+in section forty-eight of this chapter, against the tax imposed by this
+article.
+  (2) Application of credit. If the amount of the credit allowed under
+this subsection for the taxable year exceeds the taxpayer's tax for such
+year, the excess shall be treated as an overpayment of tax to be
+credited or refunded in accordance with the provisions of section six
+hundred eighty-six of this article, provided, however, that no interest
+will be paid thereon.
   (vvv) Empire state apprenticeship tax credit. (1)(A) A taxpayer that
 has been certified by the commissioner of labor as a certified employer
 pursuant to section twenty-five-c of the labor law shall be allowed a

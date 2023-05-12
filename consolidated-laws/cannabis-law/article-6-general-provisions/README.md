@@ -20,7 +20,7 @@
 - [§ 136 Illicit cannabis](136-illicit-cannabis.md)
 - [§ 137 Persons forbidden to traffic cannabis; certain officials not to be interested in manufacture or sale of cannabis products](137-persons-forbidden-to-traffic-cannabis-certain-officials-not-to-be-interested.md)
 - [§ 138 Access to criminal history information through the division of criminal justice services](138-access-to-criminal-history-information-through-the-division-of-criminal-justice.md)
-- [§ 138-A Injunction for unlawful manufacturing, sale, or distribution of cannabis](138a-injunction-for-unlawful-manufacturing-sale-or-distribution-of-cannabis.md)
+- [§ 138-A Action for unlawful business practices relating to cannabis](138a-action-for-unlawful-business-practices-relating-to-cannabis.md)
 - [§ 139 Severability](139-severability.md)
 
 <details>
@@ -51,8 +51,8 @@ Section 125.   General prohibitions and restrictions.
                  products.
         138.   Access to criminal history information through the
                  division of criminal justice services.
-        138-a. Injunction for unlawful manufacturing, sale, or
-                 distribution of cannabis.
+        138-a. Action for unlawful business practices relating to
+                 cannabis.
         139.   Severability.
 ```
 

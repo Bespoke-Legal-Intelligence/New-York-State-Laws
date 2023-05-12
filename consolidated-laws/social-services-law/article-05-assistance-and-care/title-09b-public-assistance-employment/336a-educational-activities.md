@@ -4,11 +4,11 @@
 [Social Services Law](../../README.md) › [Article 5 — Assistance and Care](../README.md) › [Title 9-B — Public Assistance Employment Programs](README.md)
 
 ```text
-  § 336-a. Educational activities. 1. Social services districts shall
+  § 336-a. Educational activities. * 1. Social services districts shall
 make available vocational educational training and educational
-activities.  Such activities may include but need not be limited to,
-high school education or education designed to prepare a participant for
-a high school equivalency certificate, basic and remedial education,
+activities. Such activities may include but need not be limited to, high
+school education or education designed to prepare a participant for a
+high school equivalency certificate, basic and remedial education,
 education in English proficiency, education or a course of instruction
 in financial literacy and personal finance that includes instruction on
 household cash management techniques, career advice to obtain a well
@@ -44,6 +44,52 @@ circumstances. Any enrollment in post-secondary education beyond a
 twelve month period must be combined with no less than twenty hours of
 participation averaged weekly in paid employment or work activities or
 community service when paid employment is not available.
+  * NB Effective until December 29, 2023
+  * 1. Social services districts shall make available vocational
+educational training and educational activities. Such activities may
+include but need not be limited to, high school education or education
+designed to prepare a participant for a high school equivalency
+certificate, basic and remedial education, education in English
+proficiency, education or a course of instruction in financial literacy
+and personal finance that includes instruction on household cash
+management techniques, career advice to obtain a well paying and secure
+job, using checking and savings accounts, obtaining and utilizing short
+and long term credit, securing a loan or other long term financing
+arrangement for high cost items, participation in a higher education
+course of instruction or trade school, and no more than a total of four
+years of post-secondary education (or the part-time equivalent).
+Educational activities pursuant to this section may be offered with any
+of the following providers which meet the performance or assessment
+standards established in regulations by the commissioner for such
+providers: a community college, licensed trade school, registered
+business school, or a two-year or four-year college; provided, however,
+that such post-secondary education must be necessary to the attainment
+of the participant's individual employment goal as set forth in the
+employability plan and such goal must relate directly to obtaining
+useful employment. When making an assignment to any educational activity
+pursuant to this subdivision, such assignment shall be permitted only to
+the extent that such assignment is consistent with the individual's
+assessment and employment plan goals in accordance with sections three
+hundred thirty-five and three hundred thirty-five-a of this title and
+shall require that the individual maintains satisfactory academic
+progress and hourly participation is documented consistent with federal
+and state requirements. For purposes of this provision "satisfactory
+academic progress" shall mean having a cumulative C average, or its
+equivalent, as determined by the academic institution. The requirement
+to maintain satisfactory academic progress may be waived if done so by
+the academic institution and the social services district based on undue
+hardship caused by an event such as a personal injury or illness of the
+student, the death of a relative of the student or other extenuating
+circumstances. Participation in an educational and/or vocational
+training program, that shall include, but not be limited to, a two-year
+post-secondary degree program, which is necessary for the participant to
+attain their individual employment goal and is likely to lead to a
+degree or certification and sustained employment, shall be approved
+consistent with such individual's assessment and employability plan to
+the extent that such approval does not jeopardize the state's ability to
+comply with federal work participation rates, as determined by the
+office of temporary and disability assistance.
+  * NB Effective December 29, 2023
   2. When a district contracts with a proprietary vocational school to
 provide vocational educational training to participants, not more than
 twenty-five percent of the approved duration of the program shall be

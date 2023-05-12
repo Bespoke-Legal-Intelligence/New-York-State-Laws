@@ -6,11 +6,14 @@
 ```text
   § 492. Definitions. For purposes of this article, the following
 definitions shall apply:
-  (a) "Adult-use cannabis product" or "adult-use cannabis" has the same
-meaning as the term is defined in section three of the cannabis law. For
-purposes of this article, under no circumstances shall adult-use
-cannabis product include medical cannabis or cannabinoid hemp product as
-defined in section three of the cannabis law.
+  (a) "Adult-use cannabis product" means cannabis, concentrated
+cannabis, and cannabis-infused products, as reflected on the product
+label, whether or not such adult-use cannabis product is for use by a
+cannabis consumer as such a consumer is defined in subdivision six of
+section three of the cannabis law. For purposes of this article, under
+no circumstances shall adult-use cannabis product include medical
+cannabis or cannabinoid hemp product as defined in section three of the
+cannabis law.
   (b) "Cannabis" means all parts of the a plant of the genus cannabis,
 whether growing or not; the seeds thereof; the resin extracted from any
 part of the plant; and every compound, manufacture, salt, derivative,
@@ -33,8 +36,8 @@ stem.
 defined in section three of the cannabis law.
   (f) "Distributor" has the same meaning as the term is defined in
 section three of the cannabis law.
-  (g) "Illicit cannabis" means and includes cannabis flower,
-concentrated cannabis, cannabis edible product and cannabis plant on
+  (g) "Illicit cannabis" means and includes any adult-use cannabis
+product, including concentrated cannabis and cannabis edible products on
 which any tax required to have been paid under this chapter has not been
 paid. Illicit cannabis shall not include any cannabis lawfully possessed
 in accordance with the cannabis law or penal law.
@@ -51,4 +54,16 @@ otherwise, in any manner or by any means whatsoever for a consideration
 or any agreement therefor.
   (k) "Total THC" has the same meaning as the term defined in section
 three of the cannabis law.
+  (l) "Possession for sale" or "possessed for sale" means possession of
+more than five pounds of adult-use cannabis products, or one pound of
+concentrated cannabis products or cannabis edible products, at a
+business or other location used for the storage, distribution or sale of
+such cannabis products with the intent that such products be sold at
+retail. Possession shall be presumed to be for sale when the adult-use
+cannabis products are possessed in any place of business used for the
+buying and selling of such adult-use cannabis products. Possession shall
+not be presumed to be for sale when the adult-use cannabis products are
+possessed in a residence or other real property, or any personal vehicle
+on or about such property, not being used as a business for the buying
+and selling of such adult-use cannabis products.
 ```

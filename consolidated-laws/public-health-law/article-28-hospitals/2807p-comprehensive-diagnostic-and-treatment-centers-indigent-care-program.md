@@ -463,32 +463,39 @@ period January first, two thousand twenty-one through December
 thirty-first, two thousand twenty-one, seven million five hundred
 thousand dollars, for the period January first, two thousand twenty-two
 through December thirty-first, two thousand twenty-two, seven million
+five hundred thousand dollars, for the period January first, two
+thousand twenty-three through December thirty-first, two thousand
+twenty-three, seven million five hundred thousand dollars, for the
+period January first, two thousand twenty-four through December
+thirty-first, two thousand twenty-four, seven million five hundred
+thousand dollars, for the period January first, two thousand twenty-five
+through December thirty-first, two thousand twenty-five, seven million
 five hundred thousand dollars, and for the period January first, two
-thousand twenty-three through March thirty-first, two thousand
-twenty-three, in the amount of one million six hundred thousand dollars,
-provided, however, that for periods on and after January first, two
-thousand eight, such additional payments shall be distributed to
-voluntary, non-profit diagnostic and treatment centers and to public
-diagnostic and treatment centers in accordance with paragraph (g) of
-subdivision four of this section. In the event that federal financial
-participation is available for rate adjustments pursuant to this
-section, the commissioner shall make such payments as additional
-adjustments to rates of payment for voluntary non-profit diagnostic and
-treatment centers that are eligible for distributions under subdivision
-four-a of this section in the following amounts: for the period June
-first, two thousand six through December thirty-first, two thousand six,
-fifteen million dollars in the aggregate, and for the period January
-first, two thousand seven through June thirtieth, two thousand seven,
-seven million five hundred thousand dollars in the aggregate. The
-amounts allocated pursuant to this paragraph shall be aggregated with
-and distributed pursuant to the same methodology applicable to the
-amounts allocated to such diagnostic and treatment centers for such
-periods pursuant to subdivision four of this section if federal
-financial participation is not available, or pursuant to subdivision
-four-a of this section if federal financial participation is available.
-Notwithstanding section three hundred sixty-eight-a of the social
-services law, there shall be no local share in a medical assistance
-payment adjustment under this subdivision.
+thousand twenty-six through March thirty-first, two thousand twenty-six,
+in the amount of one million six hundred thousand dollars, provided,
+however, that for periods on and after January first, two thousand
+eight, such additional payments shall be distributed to voluntary,
+non-profit diagnostic and treatment centers and to public diagnostic and
+treatment centers in accordance with paragraph (g) of subdivision four
+of this section. In the event that federal financial participation is
+available for rate adjustments pursuant to this section, the
+commissioner shall make such payments as additional adjustments to rates
+of payment for voluntary non-profit diagnostic and treatment centers
+that are eligible for distributions under subdivision four-a of this
+section in the following amounts: for the period June first, two
+thousand six through December thirty-first, two thousand six, fifteen
+million dollars in the aggregate, and for the period January first, two
+thousand seven through June thirtieth, two thousand seven, seven million
+five hundred thousand dollars in the aggregate. The amounts allocated
+pursuant to this paragraph shall be aggregated with and distributed
+pursuant to the same methodology applicable to the amounts allocated to
+such diagnostic and treatment centers for such periods pursuant to
+subdivision four of this section if federal financial participation is
+not available, or pursuant to subdivision four-a of this section if
+federal financial participation is available. Notwithstanding section
+three hundred sixty-eight-a of the social services law, there shall be
+no local share in a medical assistance payment adjustment under this
+subdivision.
   5. Diagnostic and treatment centers shall furnish to the department
 such reports and information as may be required by the commissioner to
 assess the cost, quality, access to, effectiveness and efficiency of

@@ -212,8 +212,17 @@ enrollment counts for the applicable month.
 two thousand nine through December thirty-first, two thousand fourteen,
 shall be nine hundred forty-four million dollars.
   (xv) A gross annual statewide amount for the period January first, two
-thousand fifteen through December thirty-first, two thousand
-twenty-three, shall be one billion forty-five million dollars.
+thousand fifteen through December thirty-first, two thousand twenty-two,
+shall be one billion forty-five million dollars.
+  (xvi) A gross annual statewide amount for the period January first,
+two thousand twenty-three to December thirty-first, two thousand
+twenty-six shall be one billion eighty-five million dollars, forty
+million dollars annually of which shall be allocated under section
+twenty-eight hundred seven-o of this article among the municipalities of
+and the state of New York based on each municipality's share and the
+state's share of early intervention program expenditures not
+reimbursable by the medical assistance program for the latest twelve
+month period for which such data is available.
   (b) The amount specified in paragraph (a) of this subdivision shall be
 allocated among the regions based on each region's proportional share of
 the sum of the estimated revenue of all general hospitals in the region,
@@ -255,8 +264,7 @@ subdivision shall be allocated among the regions based on each region's
 allocated share of the AIDS drug assistance program expenditures for the
 latest annual period for which such data are available.
   (g) A further gross statewide amount for the state fiscal year two
-thousand twenty-two and each state fiscal year thereafter shall be forty
-million dollars.
+thousand twenty-two shall be forty million dollars.
   (h) The amount specified in paragraph (g) of this subdivision shall be
 allocated under section twenty-eight hundred seven-o of this article
 among the municipalities and the state of New York based on each
@@ -314,7 +322,7 @@ for the period April first, two thousand eleven through March
 thirty-first, two thousand twelve;
   (xiii) twenty-three million eight hundred thirty-six thousand dollars
 each state fiscal year for the period April first, two thousand twelve
-through March thirty-first, two thousand twenty-three;
+through March thirty-first, two thousand twenty-six;
   (xiv) provided, however, for periods prior to January first, two
 thousand nine, amounts set forth in this paragraph may be reduced by the
 commissioner in an amount to be approved by the director of the budget
@@ -395,5 +403,5 @@ article, and shall not be included in gross revenue received for
 purposes of the assessments pursuant to section twenty-eight hundred
 seven-d of this article, subject to the provisions of subdivision twelve
 of section twenty-eight hundred seven-d of this article.
-  * NB Expires December 31, 2023
+  * NB Expires December 31, 2026
 ```

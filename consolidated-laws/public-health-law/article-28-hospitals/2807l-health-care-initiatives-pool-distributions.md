@@ -244,7 +244,7 @@ first, two thousand thirteen through March thirty-first, two thousand
 fourteen, and up to nineteen million six hundred fifty-nine thousand
 seven hundred dollars each state fiscal year for the period of April
 first, two thousand fourteen through March thirty-first, two thousand
-twenty-three;
+twenty-six;
   (iii) priority distributions by the commissioner up to thirty-two
 million dollars on an annualized basis for the period January first, two
 thousand through December thirty-first, two thousand four, up to
@@ -261,7 +261,7 @@ thousand dollars each state fiscal year for the period April first, two
 thousand eleven through March thirty-first, two thousand fourteen, and
 up to two million nine hundred thousand dollars each state fiscal year
 for the period April first, two thousand fourteen through March
-thirty-first, two thousand twenty-three to be allocated (A) for the
+thirty-first, two thousand twenty-six to be allocated (A) for the
 purposes established pursuant to subparagraph (ii) of paragraph (f) of
 subdivision nineteen of section twenty-eight hundred seven-c of this
 article as in effect on December thirty-first, nineteen hundred
@@ -304,14 +304,16 @@ two million nine hundred thousand dollars each state fiscal year for the
 period April first, two thousand fourteen through March thirty-first,
 two thousand seventeen, up to two million nine hundred thousand dollars
 each state fiscal year for the period April first, two thousand
-seventeen through March thirty-first, two thousand twenty, and up to two
+seventeen through March thirty-first, two thousand twenty, up to two
 million nine hundred thousand dollars each state fiscal year for the
 period April first, two thousand twenty through March thirty-first, two
-thousand twenty-three. Upon any distribution of such funds, the
-commissioner shall immediately notify the chair and ranking minority
-member of the senate finance committee, the assembly ways and means
-committee, the senate committee on health, and the assembly committee on
-health;
+thousand twenty-three, and up to two million nine hundred thousand
+dollars each state fiscal year for the period April first, two thousand
+twenty-three through March thirty-first, two thousand twenty-six. Upon
+any distribution of such funds, the commissioner shall immediately
+notify the chair and ranking minority member of the senate finance
+committee, the assembly ways and means committee, the senate committee
+on health, and the assembly committee on health;
   (iv) distributions by the commissioner related to poison control
 centers pursuant to subdivision seven of section twenty-five hundred-d
 of this chapter, up to five million dollars for the period January
@@ -338,10 +340,12 @@ March thirty-first, two thousand fourteen, up to three million dollars
 each state fiscal year for the period April first, two thousand fourteen
 through March thirty-first, two thousand seventeen, up to three million
 dollars each state fiscal year for the period April first, two thousand
-seventeen through March thirty-first, two thousand twenty, and up to
-three million dollars each state fiscal year for the period April first,
-two thousand twenty through March thirty-first, two thousand
-twenty-three; and
+seventeen through March thirty-first, two thousand twenty, up to three
+million dollars each state fiscal year for the period April first, two
+thousand twenty through March thirty-first, two thousand twenty-three,
+and up to three million dollars each state fiscal year for the period
+April first, two thousand twenty-three through March thirty-first, two
+thousand twenty-six; and
   (v) deposit by the commissioner, within amounts appropriated, and the
 state comptroller is hereby authorized and directed to receive for
 deposit to, to the credit of the department of health's special revenue
@@ -381,11 +385,14 @@ fiscal year for the period April first, two thousand fourteen through
 March thirty-first, two thousand seventeen, up to nineteen million six
 hundred thousand dollars each state fiscal year for the period of April
 first, two thousand seventeen through March thirty-first, two thousand
-twenty, and up to nineteen million six hundred thousand dollars each
-state fiscal year for the period of April first, two thousand twenty
-through March thirty-first, two thousand twenty-three, shall be
-transferred to the health facility restructuring pool established
-pursuant to section twenty-eight hundred fifteen of this article;
+twenty, up to nineteen million six hundred thousand dollars each state
+fiscal year for the period of April first, two thousand twenty through
+March thirty-first, two thousand twenty-three, and up to nineteen
+million six hundred thousand dollars each state fiscal year for the
+period of April first, two thousand twenty-three through March
+thirty-first, two thousand twenty-six, shall be transferred to the
+health facility restructuring pool established pursuant to section
+twenty-eight hundred fifteen of this article;
   (ii) provided, however, amounts transferred pursuant to subparagraph
 (i) of this paragraph may be reduced in an amount to be approved by the
 director of the budget to reflect the amount received from the federal
@@ -532,10 +539,13 @@ up to sixteen million two hundred thousand dollars each state fiscal
 year for the period April first, two thousand fourteen through March
 thirty-first, two thousand seventeen, up to sixteen million two hundred
 thousand dollars each state fiscal year for the period April first, two
-thousand seventeen through March thirty-first, two thousand twenty, and
-up to sixteen million two hundred thousand dollars each state fiscal
-year for the period April first, two thousand twenty through March
-thirty-first, two thousand twenty-three.
+thousand seventeen through March thirty-first, two thousand twenty, up
+to sixteen million two hundred thousand dollars each state fiscal year
+for the period April first, two thousand twenty through March
+thirty-first, two thousand twenty-three, and up to sixteen million two
+hundred thousand dollars each state fiscal year for the period April
+first, two thousand twenty-three through March thirty-first, two
+thousand twenty-six.
   (j) Funds shall be reserved and accumulated from year to year and
 shall be available, including income from invested funds, for purposes
 of distributions related to health information and health care quality
@@ -589,9 +599,11 @@ dollars for the period April first, two thousand fourteen through March
 thirty-first, two thousand seventeen, up to forty-eight million dollars
 annually, for the period April first, two thousand seventeen through
 March thirty-first, two thousand twenty, up to forty-eight million
-dollars annually, and for the period April first, two thousand twenty
+dollars annually, for the period April first, two thousand twenty
 through March thirty-first, two thousand twenty-three, up to forty-eight
-million dollars annually;
+million dollars annually, and for the period April first, two thousand
+twenty-three through March thirty-first, two thousand twenty-six, up to
+forty-eight million dollars annually;
   (B) from the health care reform act (HCRA) resources fund for the
 period January first, two thousand six through December thirty-first,
 two thousand six, an additional seven million five hundred thousand
@@ -604,12 +616,15 @@ dollars, for the period April first, two thousand fourteen through March
 thirty-first, two thousand seventeen, an additional seven million five
 hundred thousand dollars annually, for the period April first, two
 thousand seventeen through March thirty-first, two thousand twenty, an
-additional seven million five hundred thousand dollars annually, and for
-the period April first, two thousand twenty through March thirty-first,
-two thousand twenty-three, an additional seven million five hundred
-thousand dollars annually for voluntary non-profit diagnostic and
-treatment center uncompensated care in accordance with subdivision
-four-c of section twenty-eight hundred seven-p of this article; and
+additional seven million five hundred thousand dollars annually, for the
+period April first, two thousand twenty through March thirty-first, two
+thousand twenty-three, an additional seven million five hundred thousand
+dollars annually, and for the period April first, two thousand
+twenty-three through March thirty-first, two thousand twenty-six, an
+additional seven million five hundred thousand dollars annually for
+voluntary non-profit diagnostic and treatment center uncompensated care
+in accordance with subdivision four-c of section twenty-eight hundred
+seven-p of this article; and
   (vi) funds reserved and accumulated pursuant to this paragraph for
 periods on and after July first, two thousand three, shall be deposited
 by the commissioner, within amounts appropriated, and the state
@@ -663,7 +678,7 @@ each state fiscal year for the period April first, two thousand eleven
 through March thirty-first, two thousand fourteen, up to forty-two
 million three hundred thousand dollars and up to forty-one million fifty
 thousand dollars each state fiscal year for the period April first, two
-thousand fourteen through March thirty-first, two thousand twenty-three.
+thousand fourteen through March thirty-first, two thousand twenty-six.
   (m) Funds shall be reserved and accumulated from year to year and
 shall be available, including income from invested funds, for purposes
 of distributions pursuant to section twenty-eight hundred seven-r of

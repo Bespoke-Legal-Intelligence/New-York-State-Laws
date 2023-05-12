@@ -39,6 +39,7 @@
 - [§ 89-V\*2 Retirement of paramedics employed by the police department in the town of Tonawanda](89v-2-retirement-of-paramedics-employed.md)
 - [§ 89-V\*3 Retirement of superior correction officers in Rockland county](89v-3-retirement-of-superior-correction-officers.md)
 - [§ 89-W Optional twenty-five year retirement plan for county fire marshals in the county of Nassau](89w-optional-twenty-five-year-retirement-plan.md)
+- [§ 89-X Retirement of deputy sheriffs-civil in Monroe county](89x-retirement-of-deputy-sheriffs-civil-in-monroe.md)
 
 <details>
 <summary>Official heading of Title 9, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -122,6 +123,7 @@ Section 80.     Retirement of members of the legislature.
                   county.
         89-w.   Optional twenty-five year retirement plan for county
                   fire marshals in the county of Nassau.
+        89-x.   Retirement of deputy sheriffs-civil in Monroe county.
 ```
 
 </details>

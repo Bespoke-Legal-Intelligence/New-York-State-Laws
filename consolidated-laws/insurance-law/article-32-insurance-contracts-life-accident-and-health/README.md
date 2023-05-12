@@ -69,6 +69,7 @@
 - [§ 3242 Prescription drug coverage](3242-prescription-drug-coverage.md)
 - [§ 3243 Discrimination because of sex or marital status in hospital, surgical or medical expense insurance](3243-discrimination-because-of-sex-or-marital-status-in-hospital-surgical-or-medical.md)
 - [§ 3244 Explanation of benefits forms relating to claims under certain accident and health insurance policies](3244-explanation-of-benefits-forms-relating-to-claims-under-certain-accident.md)
+- [§ 3245 Liability to providers in the event of an insolvency](3245-liability-to-providers-in-the-event-of-an-insolvency.md)
 
 <details>
 <summary>Official heading of Article 32, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -181,6 +182,7 @@ Section 3201.   Approval of life, accident and health, credit
                   hospital, surgical or medical expense insurance.
         3244.   Explanation of benefits forms relating to claims under
                   certain accident and health insurance policies.
+        3245.   Liability to providers in the event of an insolvency.
 ```
 
 </details>

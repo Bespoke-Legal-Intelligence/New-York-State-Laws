@@ -18,6 +18,7 @@
 - [§ 717 Office of interoperable and emergency communications](717-office-of-interoperable-and-emergency-communications.md)
 - [§ 717-A Direct dialing to public service answering points](717a-direct-dialing-to-public-service-answering-points.md)
 - [§ 718 Voluntary surveillance access database](718-voluntary-surveillance-access-database.md)
+- [§ 719 Loans for eligible hazard mitigation activities](719-loans-for-eligible-hazard-mitigation-activities.md)
 
 <details>
 <summary>Official heading of Article 26, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -47,6 +48,7 @@ Section 709.   Division of homeland security and emergency services;
         717.   Office of interoperable and emergency communications.
         717-a. Direct dialing to public service answering points.
         718.   Voluntary surveillance access database.
+        719.   Loans for eligible hazard mitigation activities.
 ```
 
 </details>

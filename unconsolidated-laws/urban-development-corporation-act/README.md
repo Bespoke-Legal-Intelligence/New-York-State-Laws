@@ -8,8 +8,8 @@
 | Senate code | UDA |
 | Type | Unconsolidated law |
 | Session law | L. 1968, ch. 174 |
-| Sections | 106 |
-| Last changed | 10 Mar 2023 |
+| Sections | 108 |
+| Last changed | 12 May 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Urban Development Corporation Act 174/68 |
 
@@ -30,10 +30,11 @@ Section   1.       Short title.
           6-a*.    Sale or lease of infrastructure projects.
 ```
 
-[Full chapter text (135 lines)](chapter-text.md)
+[Full chapter text (138 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [12 May 2023](../../changes/2023/2023-05-12.md): 9 amended, 2 added
 - [10 Mar 2023](../../changes/2023/2023-03-10.md): 1 amended
 - [6 Jan 2023](../../changes/2023/2023-01-06.md): 2 amended
 - [16 Dec 2022](../../changes/2022/2022-12-16.md): 1 amended
@@ -43,7 +44,6 @@ Section   1.       Short title.
 - [22 Apr 2022](../../changes/2022/2022-04-22.md): 8 amended, 6 added
 - [23 Apr 2021](../../changes/2021/2021-04-23.md): 10 amended, 5 added
 - [9 Apr 2021](../../changes/2021/2021-04-09.md): 1 added
-- [17 Apr 2020](../../changes/2020/2020-04-17.md): 7 amended, 3 added
 
 ## Contents
 
@@ -104,6 +104,7 @@ Section   1.       Short title.
 - [§ 16-FF COVID-19 pandemic small business recovery grant program](16ff-covid-19-pandemic-small-business-recovery-grant-program.md)
 - [§ 16-GG Small business seed funding grant program](16gg-small-business-seed-funding-grant-program.md)
 - [§ 16-GG\*2 Division of Broadband Access](16gg-2-division-of-broadband-access.md)
+- [§ 16-HH Small business and entrepreneurs grant program](16hh-small-business-and-entrepreneurs-grant-program.md)
 - [§ 17 Bonds and notes of the corporation](17-bonds-and-notes-of-the-corporation.md)
 - [§ 18 Bond authorization](18-bond-authorization.md)
 - [§ 19 Security for bonds or notes; construction and acquisition of projects](19-security-for-bonds-or-notes-construction-and-acquisition-of-projects.md)
@@ -141,6 +142,7 @@ Section   1.       Short title.
 - [§ 50 No title](50-no-title.md)
 - [§ 51 No title](51-no-title.md)
 - [§ 52 Small business innovation research (SBIR)/small business technology transfer (STTR) technical assistance program](52-small-business-innovation-research-sbir-small-business-technology-transfer-sttr.md)
+- [§ 52-A Small business innovation research and small business technology transfer matching grant program](52a-small-business-innovation-research-and-small-business-technology-transfer.md)
 - [§ 53 No title](53-no-title.md)
 - [§ 54 No title](54-no-title.md)
 - [§ 54-A Personal income tax notes; 2022](54a-personal-income-tax-notes-2022.md)

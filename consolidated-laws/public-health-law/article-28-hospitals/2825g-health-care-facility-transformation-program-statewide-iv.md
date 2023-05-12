@@ -5,13 +5,14 @@
 
 ```text
   § 2825-g. Health care facility transformation program: statewide IV.
-1.  A statewide health care facility transformation program is hereby
+1. A statewide health care facility transformation program is hereby
 established within the department for the purpose of transforming,
 redesigning, and strengthening quality health care services in alignment
 with statewide and regional health care needs, and in the ongoing
 pandemic response. The program shall also provide funding, subject to
-lawful appropriation, in support of capital projects that facilitate
-furthering such transformational goals.
+lawful appropriation, in support of capital projects, debt retirement,
+working capital or other non-capital projects that facilitate furthering
+such transformational goals.
   2. The commissioner shall enter into an agreement with the president
 of the dormitory authority of the state of New York pursuant to section
 sixteen hundred eighty-r of the public authorities law, which shall
@@ -105,11 +106,12 @@ million dollars of the funds appropriated for this program shall be
 awarded, without a competitive bid or request for proposal process, for
 grants to health care providers, as defined in subdivision two of this
 section.
-  (b) Awards made pursuant to this subdivision shall provide funding
-only for capital projects, to the extent lawful appropriation and
-funding is available, to build innovative, patient-centered models of
-care, increase access to care, to improve the quality of care and to
-ensure financial sustainability of health care providers.
+  (b) Awards made pursuant to this subdivision shall provide funding for
+capital projects, debt retirement, working capital or other non-capital
+projects to the extent lawful appropriation and funding is available, to
+build innovative, patient-centered models of care, increase access to
+care, to improve the quality of care and to ensure financial
+sustainability of health care providers.
   (c) Provided, however, that a minimum of:
   (i) twenty-five million dollars of total awarded funds shall be made
 to community-based health care providers, which for purposes of this

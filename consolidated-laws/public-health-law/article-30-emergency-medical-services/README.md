@@ -17,6 +17,7 @@
 - [§ 3003 Regional emergency medical services councils](3003-regional-emergency-medical-services-councils.md)
 - [§ 3003-A EMS program agencies](3003a-ems-program-agencies.md)
 - [§ 3003-B Availability of ambulance service that provides transportation by aircraft to store and distribute blood and initiate and administer bloo...](3003b-availability-of-ambulance-service-that-provides-transportation-by-aircraft.md)
+- [§ 3004 Emergency medical services system and agency performance standards](3004-emergency-medical-services-system-and-agency-performance-standards.md)
 - [§ 3004-A Regional emergency medical advisory committees](3004a-regional-emergency-medical-advisory-committees.md)
 - [§ 3005 Ambulance service certificates](3005-ambulance-service-certificates.md)
 - [§ 3005-A Staffing standards; ambulance services and advanced life support first response services](3005a-staffing-standards-ambulance-services-and-advanced-life-support-first-response.md)
@@ -34,9 +35,12 @@
 - [§ 3015 Separability](3015-separability.md)
 - [§ 3016 Continuance of rules and regulations](3016-continuance-of-rules-and-regulations.md)
 - [§ 3017 Emergency medical service, Suffolk county](3017-emergency-medical-service-suffolk-county.md)
+- [§ 3020 Recruitment and retention](3020-recruitment-and-retention.md)
 - [§ 3030 Advanced life support services](3030-advanced-life-support-services.md)
 - [§ 3031 Advanced life support system](3031-advanced-life-support-system.md)
-- [§ 3032 Rules and regulations](3032-rules-and-regulations.md)
+- [§ 3032 State emergency medical services task force](3032-state-emergency-medical-services-task-force.md)
+- [§ 3033 Rules and regulations](3033-rules-and-regulations.md)
+- [§ 3034 Rules and regulations](3034-rules-and-regulations.md)
 
 <details>
 <summary>Official heading of Article 30, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -60,6 +64,8 @@ Section 3000.   Declaration of policy and statement of purpose.
         3003-b. Availability of ambulance service that provides
                   transportation by aircraft to store and distribute
                   blood and initiate and administer blood transfusions.
+        3004.   Emergency medical services system and agency performance
+                  standards.
         3004-a. Regional emergency medical advisory committees.
         3005.   Ambulance service certificates.
         3005-a. Staffing standards; ambulance services and advanced life
@@ -80,9 +86,12 @@ Section 3000.   Declaration of policy and statement of purpose.
         3015.   Separability.
         3016.   Continuance of rules and regulations.
         3017.   Emergency medical service, Suffolk county.
+        3020.   Recruitment and retention.
         3030.   Advanced life support services.
         3031.   Advanced life support system.
-        3032.   Rules and regulations.
+        3032.   State emergency medical services task force.
+        3033.   Rules and regulations.
+        3034.   Rules and regulations.
 ```
 
 </details>

@@ -10,22 +10,40 @@ the total tax imposed by this article on an electing city partnership or
 an electing city resident S corporation.
   (b) City pass-through entity taxable income. City pass-through entity
 taxable income means:
-  (1) In the case of an electing city partnership, the sum of all items
-of income, gain, loss, or deduction to the extent they are included in
-the city taxable income of a partner or member of the electing city
-partnership who is a city taxpayer.
+  (1) In the case of an electing city partnership, the sum of (i) all
+items of income, gain, loss, or deduction to the extent they are
+included in the city taxable income of a partner or member of the
+electing city partnership who is a city taxpayer; and (ii) all
+pass-through entity taxes including taxes paid under article
+twenty-four-A of this chapter to New York, taxes paid under this article
+to the city of New York, and taxes paid to other jurisdictions that are
+substantially similar to taxes paid under article twenty-four-A of this
+chapter, to the extent that, for federal income tax purposes, the taxes
+were paid and deducted in the taxable year, and they are included in the
+taxable income of the partners subject to tax under article twenty-two
+of this chapter for the taxable year.
   (2) In the case of an electing city resident S corporation, the sum of
-all items of income, gain, loss, or deduction to the extent they would
-be included in the city taxable income of a shareholder of the electing
-city resident S corporation who is a city taxpayer.
+(i) all items of income, gain, loss, or deduction to the extent they
+would be included in the city taxable income of a shareholder of the
+electing city resident S corporation who is a city taxpayer; and (ii)
+all pass-through entity taxes including taxes paid under article
+twenty-four-A of this chapter to New York, taxes paid under this article
+to the city of New York, and taxes paid to other jurisdictions that are
+substantially similar to taxes paid under article twenty-four-A of this
+chapter, to the extent that, for federal income tax purposes, the taxes
+were paid and deducted in the taxable year, and they are included in the
+taxable income of the shareholders subject to tax under article
+twenty-two of this chapter for the taxable year.
   (c) City resident individual. City resident individual has the same
 meaning as that term is defined in subsection (a) of section thirteen
 hundred five of this chapter.
   (d) City taxable income. City taxable income has the same meaning as
 that term is defined in section thirteen hundred three of this chapter.
-  (e) City taxpayer. A city taxpayer means a city resident individual
-subject to the tax imposed pursuant to the authority of article thirty
-of this chapter.
+  (e) City taxpayer. A city taxpayer means:
+  (1) a city resident individual, as defined in subsection (a) of
+section thirteen hundred five of this chapter; and
+  (2) a city resident trust or estate, as defined in subsection (c) of
+section thirteen hundred five of this chapter.
   (f) Direct share of city pass-through entity tax. Direct share of city
 pass-through entity tax means the portion of city pass-through entity
 tax calculated on city pass-through entity taxable income of a city
@@ -45,18 +63,17 @@ Revenue Code that has a filing requirement under paragraph one of
 subsection (c) of section six hundred fifty-eight of this chapter other
 than a publicly traded partnership as defined in section 7704 of the
 Internal Revenue Code, where at least one partner or member is a city
-resident individual. An eligible city partnership includes any entity,
-including a limited liability company, treated as a partnership for
-federal income tax purposes that otherwise meets the requirements of
-this subsection.
+taxpayer. An eligible city partnership includes any entity, including a
+limited liability company, treated as a partnership for federal income
+tax purposes that otherwise meets the requirements of this subsection.
   (j) Eligible city resident S corporation. Eligible city resident S
 corporation means any New York S corporation as defined pursuant to
 subdivision one-A of section two hundred eight of this chapter that is
 subject to tax under section two hundred nine of this chapter that has
-only city resident individual shareholders. An eligible city resident S
-corporation includes any entity, including a limited liability company,
-treated as an S corporation for federal income tax purposes that
-otherwise meets the requirements of this subsection.
+only city taxpayer shareholders. An eligible city resident S corporation
+includes any entity, including a limited liability company, treated as
+an S corporation for federal income tax purposes that otherwise meets
+the requirements of this subsection.
   (k) Taxable year. An electing city partnership's or electing city
 resident S corporation's taxable year pursuant to this article shall be
 the same as the electing city partnership's or electing city resident S

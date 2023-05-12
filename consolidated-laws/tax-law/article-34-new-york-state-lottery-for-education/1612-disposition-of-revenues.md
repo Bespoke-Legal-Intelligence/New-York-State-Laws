@@ -409,15 +409,33 @@ total wagered after payout of prizes for the third year of operation and
 thereafter, for an appropriate breeding fund for the manner of racing
 conducted at Aqueduct racetrack, Belmont Park racetrack and Saratoga
 race course.
-  3. Four percent of the total revenue wagered after payout of prizes to
-be deposited into an account of the franchised corporation established
-pursuant to section two hundred six of the racing, pari-mutuel wagering
-and breeding law to be used for capital expenditures in maintaining and
-upgrading Aqueduct racetrack, Belmont Park racetrack and Saratoga race
-course. Capital expenditures may include funding the construction of and
-initially equipping a state-based equine drug testing and research
-laboratory to be used pursuant to subdivision seven of section nine
-hundred two of the racing, pari-mutuel wagering and breeding law.
+  3. (i) Four percent of the total revenue wagered after payout of
+prizes to be deposited into an account of the franchised corporation
+established pursuant to section two hundred six of the racing,
+pari-mutuel wagering and breeding law to be used for capital
+expenditures in maintaining and upgrading Aqueduct racetrack, Belmont
+Park racetrack and Saratoga race course. Capital expenditures may
+include funding the construction of and initially equipping a
+state-based equine drug testing and research laboratory to be used
+pursuant to subdivision seven of section nine hundred two of the racing,
+pari-mutuel wagering and breeding law.
+  (ii) Notwithstanding subparagraph (i) of this paragraph, in the event
+the state provides funds to the franchised corporation for the
+renovation of Belmont Park racetrack, out of the amount payable to the
+franchised corporation for capital expenditures pursuant to subparagraph
+(i) of this paragraph during any state fiscal year, an amount pursuant
+to the repayment agreement between the state and the franchised
+corporation shall instead be deposited into the miscellaneous capital
+projects fund, New York racing capital improvement fund as required to
+repay the state for funds provided for the renovation of Belmont Park
+racetrack. Any amount payable to the franchised corporation in any state
+fiscal year for capital expenditures pursuant to subparagraph (i) of
+this paragraph in excess of the amount pursuant to the repayment
+agreement between the state and the franchised corporation shall be
+deposited pursuant to subparagraph (i) of this paragraph. Once the state
+has been fully reimbursed for the costs related to the renovation of
+Belmont Park racetrack, this subparagraph shall no longer apply and
+subparagraph (i) of this paragraph shall apply.
   4. Three percent of the total revenue wagered after payout for prizes
 to be deposited into an account of the franchised corporation
 established pursuant to section two hundred six of the racing,
@@ -451,7 +469,7 @@ same level realized in two thousand thirteen, to be adjusted by the
 consumer price index for all urban consumers, as published annually by
 the United States department of labor, bureau of labor statistics, shall
 instead be returned to the commission.
-  3. one and three tenths percent of the total revenue wagered after
+  3. (i) one and three tenths percent of the total revenue wagered after
 payout of prizes to be deposited into an account of the franchised
 corporation established pursuant to section two hundred six of the
 racing, pari-mutuel wagering and breeding law to be used for capital
@@ -463,6 +481,27 @@ at the same level realized in two thousand thirteen, to be adjusted by
 the consumer price index for all urban consumers, as published annually
 by the United States department of labor, bureau of labor statistics,
 shall instead be returned to the commission.
+  (ii) Notwithstanding subparagraph (i) of this paragraph, in the event
+the state provides funds to the franchised corporation for the
+renovation of Belmont Park racetrack, and in the event the amount
+deposited pursuant to subparagraph (ii) of paragraph three of
+subdivision f of this section is insufficient to make the required
+repayment pursuant to such subparagraph during any state fiscal year, an
+amount payable to the franchised corporation for capital expenditures
+pursuant to subparagraph (i) of this paragraph shall instead be
+deposited into the miscellaneous capital projects fund, New York racing
+capital improvement fund to the extent necessary, when combined with the
+amount set forth in subparagraph (ii) of paragraph three of subdivision
+f of this section, to make any required repayment of funds provided by
+the state related to the renovation of Belmont Park racetrack during
+such fiscal year. Any amount payable to the franchised corporation in
+any state fiscal year for capital expenditures pursuant to subparagraph
+(i) of this paragraph in excess of the amount pursuant to the repayment
+agreement between the state and the franchised corporation shall be
+deposited pursuant to subparagraph (i) of this paragraph. Once the state
+has been fully reimbursed for such costs related to the renovation of
+Belmont Park racetrack, this subparagraph shall no longer apply and
+subparagraph (i) of this paragraph shall apply.
   4. Nine tenths percent of the total revenue wagered after payout for
 prizes to be deposited into an account of the franchised corporation
 established pursuant to section two hundred six of the racing,

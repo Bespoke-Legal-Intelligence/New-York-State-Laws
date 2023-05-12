@@ -15,6 +15,7 @@
 - [§ 255 Representation by municipalities and district](255-representation-by-municipalities-and-district.md)
 - [§ 256 Establishment of a county district](256-establishment-of-a-county-district.md)
 - [§ 256-A Consolidation of Suffolk county sewer district number two Holbrook and Suffolk county sewer district number four - Birchwood North Shore](256a-consolidation-of-suffolk-county-sewer-district-number-two-holbrook-and-suffolk.md)
+- [§ 256-B Suffolk county wastewater management district](256b-suffolk-county-wastewater-management-district.md)
 - [§ 257 Permissive referendum](257-permissive-referendum.md)
 - [§ 258 Application to the department of audit and control](258-application-to-the-department-of-audit-and-control.md)
 - [§ 259 Recording and filing of determination](259-recording-and-filing-of-determination.md)
@@ -65,6 +66,7 @@ Section 250.    Purpose.
         256-a.  Consolidation of Suffolk county sewer district number
                   two - Holbrook and Suffolk county sewer district
                   number four - Birchwood North Shore.
+        256-b.  Suffolk county wastewater management district.
         257.    Permissive referendum.
         258.    Application to the department of audit and control.
         259.    Recording and filing of determination.

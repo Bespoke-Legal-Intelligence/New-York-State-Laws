@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "State Finance Law § 98-D", "kind": "section", "law_id": "STF", "location_id": "98-D", "path": "ARTICLE 6 › SECTION 98-D", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/98-D.md", "title": "1332 state innovation program fund"} -->
+# State Finance Law § 98-D — 1332 state innovation program fund
+
+[State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
+
+```text
+  § 98-d. 1332 state innovation program fund. 1. There is hereby
+established in the joint custody of the state comptroller and the
+commissioner of taxation and finance a special fund to be known as the
+"1332 state innovation program fund".
+  2. Such fund shall be kept separate and shall not be commingled with
+any other funds in the custody of the state comptroller and the
+commissioner of taxation and finance.
+  3. Such fund shall consist of moneys transferred from the federal
+government pursuant to 42 U.S.C. 18052 and an approved 1332 state
+innovation program waiver application for the purpose implementing the
+state plan under the 1332 state innovation program, established pursuant
+to section three hundred sixty-nine-ii of the social services law.
+  4. Upon federal approval, all moneys in such fund shall be used to
+implement and operate the 1332 state innovation program, pursuant to
+section three hundred sixty-nine-ii of the social services law, except
+to the extent that the provisions of such section conflict or are
+inconsistent with federal law, in which case the provisions of such
+federal law shall supersede such state law provisions.
+```

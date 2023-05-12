@@ -129,4 +129,14 @@ and storers of any product included in the measure of the tax imposed by
 this article. All such records shall be preserved for a period of three
 years, except that the commissioner may consent to their destruction
 within that period or may require that they be kept longer.
+  * (j) Every petroleum business subject to tax under this article that
+is also a distributor, as defined in section two hundred eighty-two of
+this chapter, must charge the tax imposed by this article to the
+purchaser on each gallon sold, unless otherwise exempt. If the taxes
+imposed by this article have not already been assumed or paid by such
+petroleum business on any quantity of such fuel for any reason,
+including, but not limited to, the expansion of such fuel as a result of
+temperature fluctuation, such petroleum business must remit such taxes
+to the commissioner on the return for the period in which such sale was
+made.
 ```

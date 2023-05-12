@@ -15,14 +15,14 @@ credit against such tax, pursuant to the provisions referenced in
 subdivision (c) of this section to be computed as provided in this
 subdivision.
   (2) The amount of the credit shall be the product (or pro rata share
-of the product, in the case of a member of a partnership) of twenty-five
+of the product, in the case of a member of a partnership) of thirty
 percent and the qualified post production costs paid in the production
 of a qualified film at a qualified post production facility located
 within the metropolitan commuter transportation district as defined in
-section twelve hundred sixty-two of the public authorities law or thirty
-percent and the qualified post production costs paid in the production
-of a qualified film at a qualified post production facility located
-elsewhere in the state.
+section twelve hundred sixty-two of the public authorities law or
+thirty-five percent and the qualified post production costs paid in the
+production of a qualified film at a qualified post production facility
+located elsewhere in the state.
   (3) (i) A taxpayer shall not be eligible for the credit established by
 this section for qualified post production costs, excluding the costs
 for visual effects and animation, unless the qualified post production
@@ -60,49 +60,26 @@ the credit may be claimed and in the next two succeeding taxable years,
 with one-third of the amount of the credit allowed being claimed in each
 year.
   (6) For the period two thousand fifteen through two thousand
-twenty-nine, in addition to the amount of credit established in
+thirty-four, in addition to the amount of credit established in
 paragraph two of this subdivision, a taxpayer shall be allowed a credit
 equal to the product (or pro rata share of the product, in the case of a
 member of a partnership) of ten percent and the amount of wages or
 salaries paid to individuals directly employed (excluding those employed
-as writers, directors, music directors, producers and performers,
-including background actors with no scripted lines) for services
-performed by those individuals in one of the counties specified in this
-paragraph in connection with the post production work on a qualified
-film with a minimum budget of five hundred thousand dollars at a
-qualified post production facility in one of the counties listed in this
-paragraph. For purposes of this additional credit, the services must be
-performed in one or more of the following counties: Albany, Allegany,
-Broome, Cattaraugus, Cayuga, Chautauqua, Chemung, Chenango, Clinton,
-Columbia, Cortland, Delaware, Dutchess, Erie, Essex, Franklin, Fulton,
-Genesee, Greene, Hamilton, Herkimer, Jefferson, Lewis, Livingston,
-Madison, Monroe, Montgomery, Niagara, Oneida, Onondaga, Ontario, Orange,
-Orleans, Oswego, Otsego, Putnam, Rensselaer, Saratoga, Schenectady,
-Schoharie, Schuyler, Seneca, St. Lawrence, Steuben, Sullivan, Tioga,
-Tompkins, Ulster, Warren, Washington, Wayne, Wyoming, or Yates. The
-aggregate amount of tax credits allowed pursuant to the authority of
-this paragraph shall be five million dollars each year during the period
-two thousand fifteen through two thousand twenty-nine of the annual
-allocation made available to the empire state film post production
-credit pursuant to paragraph four of subdivision (e) of section
-twenty-four of this article. Such aggregate amount of credits shall be
-allocated by the governor's office for motion picture and television
-development among taxpayers in order of priority based upon the date of
-filing an application for allocation of post production credit with such
-office. If the total amount of allocated credits applied for under this
-paragraph in any year exceeds the aggregate amount of tax credits
-allowed for such year under this paragraph, such excess shall be treated
-as having been applied for on the first day of the next year. If the
-total amount of allocated tax credits applied for under this paragraph
-at the conclusion of any year is less than five million dollars, the
-remainder shall be treated as part of the annual allocation for two
-thousand seventeen made available to the empire state film post
-production credit pursuant to paragraph four of subdivision (e) of
-section twenty-four of this article. However, in no event may the total
-of the credits allocated under this paragraph and the credits allocated
-under paragraph five of subdivision (a) of section twenty-four of this
-article exceed five million dollars in any year during the period two
-thousand fifteen through two thousand twenty-nine.
+as writers, directors, composers, producers and performers, other than
+background actors with no scripted lines) for services performed by
+those individuals in one of the counties specified in this paragraph in
+connection with the post production work on a qualified film with a
+minimum budget of five hundred thousand dollars at a qualified post
+production facility in one of the counties listed in this paragraph. For
+purposes of this additional credit, the services must be performed in
+one or more of the following counties: Albany, Allegany, Broome,
+Cattaraugus, Cayuga, Chautauqua, Chemung, Chenango, Clinton, Columbia,
+Cortland, Delaware, Dutchess, Erie, Essex, Franklin, Fulton, Genesee,
+Greene, Hamilton, Herkimer, Jefferson, Lewis, Livingston, Madison,
+Monroe, Montgomery, Niagara, Oneida, Onondaga, Ontario, Orange, Orleans,
+Oswego, Otsego, Putnam, Rensselaer, Saratoga, Schenectady, Schoharie,
+Schuyler, Seneca, St. Lawrence, Steuben, Sullivan, Tioga, Tompkins,
+Ulster, Warren, Washington, Wayne, Wyoming, or Yates.
   (b) Definitions. As used in this section the following terms shall
 have the following meanings:
   (1) "Qualified film production company" and "qualified film" shall

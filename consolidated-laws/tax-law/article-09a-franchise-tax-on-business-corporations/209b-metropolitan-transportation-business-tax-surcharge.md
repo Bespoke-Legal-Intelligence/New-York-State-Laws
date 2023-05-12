@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 9-A — Franchise Tax On Business Corporations](README.md)
 
 ```text
-  § 209-B. Metropolitan transportation business tax surcharge.  1. (a)
+  § 209-B. Metropolitan transportation business tax surcharge.  1.  (a)
 For the privilege of exercising its corporate franchise, or of doing
 business, or of employing capital, or of owning or leasing property in a
 corporate or organized capacity, or of maintaining an office, or of
@@ -24,11 +24,15 @@ credits otherwise allowable under this article, at the rate of
 twenty-five and six-tenths percent of the tax imposed under such section
 for taxable years beginning on or after January first, two thousand
 fifteen and before January first, two thousand sixteen before the
-deduction of any credits otherwise allowable under this article, and at
-the rate determined by the commissioner pursuant to paragraph (f) of
-this subdivision of the tax imposed under such section, for taxable
-years beginning on or after January first, two thousand sixteen before
-the deduction of any credits otherwise allowable under this article.
+deduction of any credits otherwise allowable under this article, at the
+rate determined by the commissioner pursuant to paragraph (f) of this
+subdivision of the tax imposed under such section, for taxable years
+beginning on or after January first, two thousand sixteen and before
+January first, two thousand twenty-four before the deduction of any
+credits otherwise allowable under this article, and at the rate of
+thirty percent of the tax imposed under such section for taxable years
+beginning on or after January first, two thousand twenty-four before the
+deduction of any credits otherwise allowable under this article.
 However, such rate of tax surcharge shall be applied only to that
 portion of the tax imposed under section two hundred nine of this
 article before the deduction of any credits otherwise allowable under
@@ -101,19 +105,20 @@ consumers (CPI-U) available from the bureau of labor statistics of the
 United States department of labor. Any adjustment shall apply to tax
 periods that begin after the adjustment is made.
   (f) The commissioner shall determine the rate of tax for taxable years
-beginning on or after January first, two thousand sixteen by adjusting
-the rate for taxable years beginning on or after January first, two
-thousand fifteen and before January first, two thousand sixteen as
-necessary to ensure that the receipts attributable to such surcharge, as
-impacted by the chapter of the laws of two thousand fourteen which added
-this paragraph, will meet and not exceed the financial projections for
-state fiscal year two thousand sixteen-two thousand seventeen, as
-reflected in state fiscal year two thousand fifteen-two thousand sixteen
-enacted budget. The commissioner shall annually determine the rate
-thereafter using the financial projections for the state fiscal year
-that commences in the year for which the rate is to be set as reflected
-in the enacted budget for the fiscal year commencing on the previous
-April first.
+beginning on or after January first, two thousand sixteen and before
+January first, two thousand twenty-four by adjusting the rate for
+taxable years beginning on or after January first, two thousand fifteen
+and before January first, two thousand sixteen as necessary to ensure
+that the receipts attributable to such surcharge, as impacted by part A
+of chapter fifty-nine of the laws of two thousand fourteen, will meet
+and not exceed the financial projections for state fiscal year two
+thousand sixteen-two thousand seventeen, as reflected in state fiscal
+year two thousand fifteen-two thousand sixteen enacted budget. The
+commissioner shall annually determine the rate thereafter, for taxable
+years beginning before January first, two thousand twenty-four, using
+the financial projections for the state fiscal year that commences in
+the year for which the rate is to be set as reflected in the enacted
+budget for the fiscal year commencing on the previous April first.
   2. The portion of the taxpayer's business activity carried on within
 the metropolitan commuter transportation district shall be determined by
 multiplying the tax imposed under section two hundred nine of this

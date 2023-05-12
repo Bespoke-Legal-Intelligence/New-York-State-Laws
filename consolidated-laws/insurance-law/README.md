@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | ISC |
 | Type | Consolidated law, chapter 28 |
-| Sections | 1,059 |
-| Last changed | 7 Apr 2023 |
+| Sections | 1,062 |
+| Last changed | 12 May 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Insurance |
 
@@ -33,6 +33,7 @@ ARTICLE   1. General provisions. (§§ 101-111)
 
 ## Recent changes
 
+- [12 May 2023](../../changes/2023/2023-05-12.md): 19 amended, 3 added
 - [7 Apr 2023](../../changes/2023/2023-04-07.md): 5 amended
 - [31 Mar 2023](../../changes/2023/2023-03-31.md): 4 amended
 - [24 Mar 2023](../../changes/2023/2023-03-24.md): 1 amended
@@ -42,7 +43,6 @@ ARTICLE   1. General provisions. (§§ 101-111)
 - [13 Jan 2023](../../changes/2023/2023-01-13.md): 3 amended
 - [6 Jan 2023](../../changes/2023/2023-01-06.md): 11 amended, 4 added, 1 repealed
 - [30 Dec 2022](../../changes/2022/2022-12-30.md): 5 amended
-- [23 Dec 2022](../../changes/2022/2022-12-23.md): 4 amended
 
 ## Contents
 
@@ -102,7 +102,7 @@ ARTICLE   1. General provisions. (§§ 101-111)
 - [Article 74 — Rehabilitation, Liquidation, Conservation and Dissolution of Insurers](article-74-rehabilitation-liquidation-conservation/)
 - [Article 75 — Life Insurance Guaranty Fund](article-75-life-insurance-guaranty-fund/)
 - [Article 76 — Property/casualty Security Funds](article-76-property-casualty-security-funds/)
-- [Article 77 — The Life Insurance Company Guaranty Corporation of New York Act](article-77-the-life-insurance-company-guaranty-corporation/)
+- [Article 77 — The Life and Health Insurance Company Guaranty Corporation of New York Act](article-77-the-life-and-health-insurance-company-guaranty/)
 - [Article 78 — Life Settlements](article-78-life-settlements/)
 - [Article 79 — Service Contracts](article-79-service-contracts/)
 - [Article 80 — Mutual Holding Company](article-80-mutual-holding-company/)

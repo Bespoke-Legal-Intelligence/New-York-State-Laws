@@ -554,6 +554,37 @@ certified, or otherwise authorized to provide applied behavior analysis
 under that article.
   * NB Effective June 21, 2023
   * NB There are 2 par (jj)'s
+  * (kk) community health worker services which shall include, but not
+be limited to, culturally appropriate patient education, health care
+navigation, care coordination including the development of a care plan,
+patient advocacy, and support services for the management of chronic
+conditions for children under age twenty-one, and for adults with
+health-related social needs, when such services are recommended by a
+physician or other health care practitioner authorized under title eight
+of the education law, and provided by qualified community health
+workers, as determined by the commissioner of health; provided, however,
+that the provisions of this paragraph shall not take effect unless all
+necessary approvals under federal law and regulation have been obtained
+to receive federal financial participation in the costs of health care
+services provided pursuant to this paragraph. Nothing in this paragraph
+shall be construed to modify any licensure, certification or scope of
+practice provision under title eight of the education law.
+  * NB Effective January 1, 2024
+  * NB There are 2 par (kk)'s
+  * (kk) care and services of nutritionists and dietitians certified
+pursuant to article one hundred fifty-seven of the education law acting
+within their scope of practice.
+  * NB Effective July 1, 2023
+  * NB There are 2 par (kk)'s
+  * (ll) Chronic Disease Self-Management Program for persons diagnosed
+with arthritis when such services are ordered by a physician, registered
+physician's assistant, registered nurse practitioner, or licensed
+midwife and provided by qualified educators, as determined by the
+commissioner of health, subject to federal financial participation.
+Nothing in this paragraph shall be construed to modify any licensure,
+certification or scope of practice provision under title eight of the
+education law.
+  * NB Effective October 1, 2023
   3. Any inconsistent provisions of this section notwithstanding,
 medical assistance shall include:
   (a) early and periodic screening and diagnosis of eligible persons

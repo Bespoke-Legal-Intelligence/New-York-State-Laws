@@ -15,7 +15,7 @@ any state funds appropriated for the provision by social services
 districts of child care assistance to families in receipt of family
 assistance and other low income families and for activities to increase
 the availability and/or quality of child care programs.
-  2. The state block grant for child care shall be divided into two
+  * 2. The state block grant for child care shall be divided into two
 parts pursuant to a plan developed by the department and approved by the
 director of the budget. One part shall be retained by the state to
 provide child care on a statewide basis to special groups and for
@@ -52,6 +52,37 @@ are withheld may have funds restored upon achieving performance
 standards. The other part shall be allocated to social services
 districts to provide child care assistance to families receiving family
 assistance and to other low income families.
+  * NB Effective until October 1, 2023
+  * 2. The state block grant for child care shall be divided into two
+parts pursuant to a plan developed by the department and approved by the
+director of the budget. One part shall be retained by the state to
+provide child care on a statewide basis to special groups and for
+activities to increase the availability and/or quality of child care
+programs, including, but not limited to, the start-up of child care
+programs, the operation of child care resource and referral programs,
+training activities, the regulation and monitoring of child care
+programs, the development of computerized data systems, and consumer
+education, provided however, that child care resource and referral
+programs funded under title five-B of article six of this chapter shall
+meet additional performance standards developed by the department of
+social services including but not limited to: increasing the number of
+child care placements for persons who are at or below eighty-five
+percent of the state median income, with emphasis on placements
+supporting local efforts in meeting federal and state work participation
+requirements, increasing technical assistance to all modalities of legal
+child care to persons who are at or below eighty-five percent of the
+state median income, including the provision of training to assist
+providers in meeting child care standards or regulatory requirements,
+and creating new child care opportunities, and assisting social services
+districts in assessing and responding to child care needs for persons at
+or below eighty-five percent of the state median income. The department
+shall have the authority to withhold funds from those agencies which do
+not meet performance standards. Agencies whose funds are withheld may
+have funds restored upon achieving performance standards. The other part
+shall be allocated to social services districts to provide child care
+assistance to families receiving family assistance and to other low
+income families.
+  * NB Effective October 1, 2023
   3. Notwithstanding any other provision of law, expenditures of funds
 from the block grant shall be governed by this title.
 ```

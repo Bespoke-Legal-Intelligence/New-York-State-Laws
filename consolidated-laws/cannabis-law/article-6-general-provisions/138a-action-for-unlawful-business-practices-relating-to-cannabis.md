@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Cannabis Law § 138-A", "kind": "section", "law_id": "CAN", "location_id": "138-A", "path": "ARTICLE 6 › SECTION 138-A", "repealed": false, "repealed_date": null, "source": "nys-laws:CAN/138-A.md", "title": "Action for unlawful business practices relating to cannabis"} -->
+# Cannabis Law § 138-A — Action for unlawful business practices relating to cannabis
+
+[Cannabis Law](../README.md) › [Article 6 — General Provisions](README.md)
+
+```text
+  § 138-a. Action for unlawful business practices relating to cannabis.
+The board or the office of cannabis management shall, in accordance with
+the authority otherwise conferred in this chapter, have the authority
+to:
+  1. order any person who is unlawfully cultivating, processing,
+distributing or selling cannabis, cannabis product, cannabinoid hemp or
+hemp extract product, or any product marketed or labeled as such in this
+state without obtaining the appropriate registration, license, or permit
+therefor, or engaging in an indirect retail sale to cease such
+prohibited conduct;
+  2. seize any cannabis, cannabis product, cannabinoid hemp or hemp
+extract product, or any product marketed or labeled as such, found in
+the possession of a person engaged in the conduct described in
+subdivision one of this section;
+  3. initiate or refer the matter to the board for an administrative
+proceeding to enforce the provisions of this section;
+  4. seek injunctive relief against any person engaging in conduct in
+violation of this section; and
+  5. request that the attorney general obtain judicial enforcement of an
+order issued under subdivision one of this section or bring an action or
+proceeding for any relief otherwise authorized under this chapter for a
+violation of this chapter, including the recovery of any applicable
+civil penalties.
+```

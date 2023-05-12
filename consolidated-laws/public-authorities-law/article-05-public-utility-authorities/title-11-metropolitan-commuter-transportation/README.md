@@ -53,6 +53,7 @@
 - [§ 1270-G Regulation of certain authority expenditures](1270g-regulation-of-certain-authority-expenditures.md)
 - [§ 1270-H Metropolitan transportation authority finance fund](1270h-metropolitan-transportation-authority-finance.md)
 - [§ 1270-I New York city transportation assistance fund](1270i-new-york-city-transportation-assistance-fund.md)
+- [§ 1270-J Metropolitan transportation authority commercial gaming revenue fund](1270j-metropolitan-transportation-authority.md)
 - [§ 1271 Agreement of the state](1271-agreement-of-the-state.md)
 - [§ 1272 Right of state to require redemption of bonds](1272-right-of-state-to-require-redemption-of-bonds.md)
 - [§ 1273 Remedies of noteholders and bondholders](1273-remedies-of-noteholders-and-bondholders.md)
@@ -147,6 +148,8 @@ Section 1260.     Short title.
         1270-g.   Regulation of certain authority expenditures.
         1270-h.   Metropolitan transportation authority finance fund.
         1270-i.   New York city transportation assistance fund.
+        1270-j.   Metropolitan transportation authority commercial
+                    gaming revenue fund.
         1271.     Agreement of the state.
         1272.     Right of state to require redemption of bonds.
         1273.     Remedies of noteholders and bondholders.

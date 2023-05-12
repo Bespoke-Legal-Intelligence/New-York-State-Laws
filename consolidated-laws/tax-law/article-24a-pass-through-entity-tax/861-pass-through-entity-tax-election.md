@@ -16,11 +16,11 @@ having such authorization under penalty of perjury; or (2) if the entity
 is not an S corporation, by any member, partner, owner, or other
 individual with authority to bind the entity or sign returns pursuant to
 section six hundred fifty-three of this chapter.
-  (c) The annual election must be made by the due date of the first
-estimated payment under section eight hundred sixty-four of this article
-and will take effect for the current taxable year. Only one election may
-be made during each calendar year. An election made under this section
-is irrevocable as of the due date.
+  (c) The annual election must be made on or before the due date of the
+first estimated payment under section eight hundred sixty-four of this
+article and will take effect for the current taxable year. Only one
+election may be made during each calendar year. An election made under
+this section is irrevocable after the due date.
   (d) Special rules for electing S corporations. (1) An electing S
 corporation must certify at the time of its election that all
 shareholders are residents of New York for purposes of article

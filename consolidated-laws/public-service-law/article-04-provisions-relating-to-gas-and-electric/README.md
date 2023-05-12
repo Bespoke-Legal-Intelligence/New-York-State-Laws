@@ -33,6 +33,7 @@
 - [§ 66-T Thermal energy network development](66t-thermal-energy-network-development.md)
 - [§ 66-T\*2 Registration of energy brokers and energy consultants](66t-2-registration-of-energy-brokers-and-energy-consultants.md)
 - [§ 66-U Gas safety reports](66u-gas-safety-reports.md)
+- [§ 66-V Requirements for certain climate risk-related and energy transition projects](66v-requirements-for-certain-climate-risk-related-and-energy-transition-projects.md)
 - [§ 67 Inspection of gas and electric meters](67-inspection-of-gas-and-electric-meters.md)
 - [§ 67-A Charges for past services](67a-charges-for-past-services.md)
 - [§ 68 Certificate of public convenience and necessity](68-certificate-of-public-convenience-and-necessity.md)
@@ -102,6 +103,8 @@ Section 64.     Application of article.
         66-t.   Thermal energy network development.
         66-t*2. Registration of energy brokers and energy consultants.
         66-u.   Gas safety reports.
+        66-v.   Requirements for certain climate risk-related and energy
+                  transition projects.
         67.     Inspection of gas and electric meters.
         67-a.   Charges for past services.
         68.     Certificate of public convenience and necessity.

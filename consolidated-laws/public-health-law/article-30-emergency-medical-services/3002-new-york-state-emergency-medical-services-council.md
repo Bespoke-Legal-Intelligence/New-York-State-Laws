@@ -23,6 +23,16 @@ council. The members of the state council shall elect a chairperson from
 among the members of the state council by a majority vote of those
 present, who shall serve for a term of one year and until a successor is
 elected.
+  1-a. The state emergency medical services council shall advise and
+assist the commissioner on such issues as the commissioner may require
+related to the provision of emergency medical service, specialty care,
+designated facility care, and disaster medical care. This shall include,
+but shall not be limited to, the recommendation, periodic revision, and
+application of rules and regulations, appropriateness review standards,
+treatment protocols, workforce development, and quality improvement
+standards. The state emergency medical services council shall meet at
+least three times per year or more frequently at the request of the
+chairperson or department and approved by the commissioner.
   2. The state council shall have the power, by an affirmative vote of a
 majority of those present, subject to approval by the commissioner, to
 enact, and from time to time, amend and repeal, rules and regulations

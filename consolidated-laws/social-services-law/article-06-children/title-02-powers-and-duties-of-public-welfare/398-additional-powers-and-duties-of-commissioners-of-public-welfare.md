@@ -143,7 +143,7 @@ juvenile justice services close to home initiative pursuant to section
 four hundred four of this chapter pursuant to a restrictive placement
 under the family court act shall be released except pursuant to section
 353.5 of the family court act.
-  * NB Repealed March 31, 2023
+  * NB Repealed March 31, 2028
   4. As to mentally disabled and physically handicapped children:
   (a) Obtain admission to state and other suitable schools, hospitals,
 other institutions, or care in their own homes or in family free or

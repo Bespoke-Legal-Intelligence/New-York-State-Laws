@@ -39,6 +39,8 @@
 - [§ 606-B\*2 Death benefits for correction officers employed by Nassau county](606b-2-death-benefits-for-correction-officers-employed-by-nassau-county.md)
 - [§ 606-B\*3 Death benefits for correction officers employed by Suffolk county](606b-3-death-benefits-for-correction-officers-employed-by-suffolk-county.md)
 - [§ 606-B\*4 Death benefits for deputy sheriffs employed by Suffolk county](606b-4-death-benefits-for-deputy-sheriffs-employed-by-suffolk-county.md)
+- [§ 606-C Death benefits for correction officers employed by Westchester county](606c-death-benefits-for-correction-officers-employed-by-westchester-county.md)
+- [§ 606-C\*2 Death benefits for fire marshals employed by Nassau county](606c-2-death-benefits-for-fire-marshals-employed-by-nassau-county.md)
 - [§ 607 Accidental death benefits](607-accidental-death-benefits.md)
 - [§ 607-A Performance of duty disability retirement](607a-performance-of-duty-disability-retirement.md)
 - [§ 607-B Performance of duty disability retirement](607b-performance-of-duty-disability-retirement.md)
@@ -137,6 +139,10 @@ Section 600.     Application.
         606-b*3. Death benefits for correction officers employed by
                    Suffolk county.
         606-b*4. Death benefits for deputy sheriffs employed by Suffolk
+                   county.
+        606-c.   Death benefits for correction officers employed by
+                   Westchester county.
+        606-c*2. Death benefits for fire marshals employed by Nassau
                    county.
         607.     Accidental death benefits.
         607-a.   Performance of duty disability retirement.

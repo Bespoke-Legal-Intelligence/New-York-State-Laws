@@ -85,7 +85,7 @@ all adult care facilities licensed under article seven of the social
 services law, including those that are subject to this article and are
 unable to access direct reimbursement from state and/or federal funded
 health programs.
-  * NB Effective until March 31, 2023
+  * NB Effective until March 31, 2029
   * (a) In the event that funds are appropriated in any given fiscal
 year for the reimbursement for the costs of providing such criminal
 history information, reimbursement shall be made available in an
@@ -99,7 +99,7 @@ chapter, and all adult care facilities licensed under article seven of
 the social services law, including those that are subject to this
 article and are unable to access direct reimbursement from state and/or
 federal funded health programs.
-  * NB Effective March 31, 2023
+  * NB Effective March 31, 2029
   (b) Residential health care facilities licensed pursuant to article
 twenty-eight of this chapter and certified home health care agencies and
 long-term home health care programs certified or approved pursuant to

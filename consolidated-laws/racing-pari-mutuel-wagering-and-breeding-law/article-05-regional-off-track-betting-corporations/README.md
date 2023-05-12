@@ -7,6 +7,7 @@
 
 - [§ 501 Definitions](501-definitions.md)
 - [§ 502 Establishment of regional off-track betting corporations](502-establishment-of-regional-off-track-betting-corporations.md)
+- [§ 502-A Special provisions with regard to the western regional off-track betting corporation](502a-special-provisions-with-regard-to-the-western-regional.md)
 - [§ 503 Powers of regional corporations](503-powers-of-regional-corporations.md)
 - [§ 503-A Additional powers of the regional off-track betting corporations](503a-additional-powers-of-the-regional-off-track-betting.md)
 - [§ 504 Policing off-track betting](504-policing-off-track-betting.md)
@@ -33,6 +34,8 @@
                  REGIONAL OFF-TRACK BETTING CORPORATIONS
 Section 501.   Definitions.
         502.   Establishment of regional off-track betting corporations.
+        502-a. Special provisions with regard to the western regional
+                 off-track betting corporation.
         503.   Powers of regional corporations.
         503-a. Additional powers of the regional off-track betting
                  corporations.

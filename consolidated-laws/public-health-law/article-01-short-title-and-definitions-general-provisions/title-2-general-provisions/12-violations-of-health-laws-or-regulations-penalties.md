@@ -28,14 +28,14 @@ is hereby authorized and directed to deposit amounts collected in excess
 of two thousand dollars per violation to the patient safety center
 account to be used for purposes of the patient safety center created by
 title two of article twenty-nine-D of this chapter.
-  * NB Effective until April 1, 2023
+  * NB Effective until April 1, 2026
   * 1. Any person who violates, disobeys or disregards any term or
 provision of this chapter or of any lawful notice, order or regulation
 pursuant thereto for which a civil penalty is not otherwise expressly
 prescribed by law, shall be liable to the people of the state for a
 civil penalty of not to exceed two thousand dollars for every such
 violation.
-  * NB Effective April 1, 2023
+  * NB Effective April 1, 2026
   2. The penalty provided for in subdivision one of this section may be
 recovered by an action brought by the commissioner in any court of
 competent jurisdiction.

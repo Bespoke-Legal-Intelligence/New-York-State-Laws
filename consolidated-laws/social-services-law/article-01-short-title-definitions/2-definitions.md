@@ -78,7 +78,7 @@ to live independently. In addition, a residence for adults, enriched
 housing program or an adult home may provide services to non-residents
 in accordance with the provisions of section four hundred sixty-one-k of
 this chapter.
-  * NB Effective until July 1, 2023
+  * NB Effective until July 1, 2026
   * 21. Adult care facility shall mean a family type home for adults, a
 shelter for adults, a residence for adults, an enriched housing program
 or an adult home, which provides temporary or long-term residential care
@@ -88,7 +88,7 @@ twenty-eight of the public health law or articles nineteen, twenty-three
 and thirty-one of the mental hygiene law, are by reason of physical or
 other limitations associated with age, physical or mental disabilities
 or other factors, unable or substantially unable to live independently.
-  * NB Effective July 1, 2023
+  * NB Effective July 1, 2026
   22. A family type home for adults shall mean an adult care facility
 established and operated for the purpose of providing long-term
 residential care and personal care and/or supervision to four or fewer
@@ -182,10 +182,10 @@ the public health law and the program thereunder.
 three hundred sixty-four-j of this chapter.
   (e) "Medicaid fee-for-service" means Medicaid provided other than
 under Medicaid managed care.
-  (f) "Verification organization" means an entity, operating in a manner
-consistent with applicable federal and state confidentiality and privacy
-laws and regulations, which uses electronic means including but not
-limited to contemporaneous telephone verification or contemporaneous
+  * (f) "Verification organization" means an entity, operating in a
+manner consistent with applicable federal and state confidentiality and
+privacy laws and regulations, which uses electronic means including but
+not limited to contemporaneous telephone verification or contemporaneous
 verified electronic data to verify whether a service or item was
 provided to an eligible medicaid recipient. For each service or item the
 verification organization shall capture:
@@ -195,20 +195,24 @@ medicaid recipient;
   (iii) the date, time, duration, location and type of service or item.
   A list of verification organizations shall be jointly developed by the
 department of health and the office of the medicaid inspector general.
-  (g) "Exception report" means an electronic report containing all the
+  * NB Repealed January 1, 2024
+  * (g) "Exception report" means an electronic report containing all the
 data fields in paragraph (f) of this subdivision for conflicts between
 services or items on the basis of the identity of the person providing
 the service or item to the medicaid recipient, the identity of the
 medicaid recipient, and/or time, date, duration or location of service;
-  (h) "Conflict report" means an electronic report containing all of the
-data fields in paragraph (f) of this subdivision detailing incongruities
-in services or items between scheduling and/or location of service when
-compared to a duty roster.
-  (i) "Participating provider" means a certified home health agency,
+  * NB Repealed January 1, 2024
+  * (h) "Conflict report" means an electronic report containing all of
+the data fields in paragraph (f) of this subdivision detailing
+incongruities in services or items between scheduling and/or location of
+service when compared to a duty roster.
+  * NB Repealed January 1, 2024
+  * (i) "Participating provider" means a certified home health agency,
 long term home health agency or personal care provider with total
 medicaid reimbursements, including reimbursements through the managed
 care program established pursuant to section three hundred sixty-four-j
 of this chapter, exceeding fifteen million dollars per calendar year.
+  * NB Repealed January 1, 2024
   39. "Mental illness" shall have the same meaning as defined in section
 1.03 of the mental hygiene law.
   40. "Developmental disability" shall have the same meaning as defined

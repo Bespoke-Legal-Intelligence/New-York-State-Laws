@@ -1,0 +1,38 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 21-F", "kind": "section", "law_id": "LAB", "location_id": "21-F", "path": "ARTICLE 2 › SECTION 21-F", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/21-F.md", "title": "Job transition plan for certain climate risk-related and energy transition projects"} -->
+# Labor Law § 21-F — Job transition plan for certain climate risk-related and energy transition projects
+
+[Labor Law](../README.md) › [Article 2 — The Department of Labor](README.md)
+
+```text
+  § 21-f. Job transition plan for certain climate risk-related and
+energy transition projects. 1. The commissioner, in consultation with
+labor organizations, shall develop a comprehensive plan to transition,
+train, or retrain employees that are impacted by climate risk-related
+and energy transition projects funded from the New York climate action
+fund climate investment account established pursuant to section
+ninety-nine-qq of the state finance law. This plan shall include a
+method of allowing displaced and transitioning workers, including
+affected labor organizations, to notify the commissioner of the loss of
+employment, their previous title, and previous wage rates including
+whether they previously received medical benefits, retirement benefits,
+and/or other benefits. The plan shall require employers to notify the
+commissioner of workers laid off or discharged due to climate
+risk-related and energy transition projects funded from the New York
+climate action fund climate investment account established pursuant to
+section ninety-nine-qq of the state finance law.
+  2. Funding shall be made available for worker transition and
+retraining, which shall include funding as provided by subdivision
+twenty-seven-d of section one thousand five of the public authorities
+law.
+  3. The commissioner shall create a program pursuant to which, where
+applicable and feasible, newly created job opportunities shall be
+offered to a pool of transitioning workers who have lost their
+employment or will be losing their employment in the energy sector due
+to climate risk-related and energy transition projects funded from the
+New York climate action fund climate investment account established
+pursuant to section ninety-nine-qq of the state finance law. Such
+program shall include a method for the commissioner to communicate names
+and contact information for displaced or transitioning workers to public
+entities that may have job opportunities for such workers every ninety
+days.
+```

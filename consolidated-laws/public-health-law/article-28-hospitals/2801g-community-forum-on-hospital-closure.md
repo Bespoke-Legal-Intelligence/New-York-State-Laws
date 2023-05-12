@@ -31,4 +31,35 @@ services in communities impacted by the general hospital's closure.
 at a location within a reasonable proximity to the general hospital
 subject to closure, and shall be announced no less than ten days prior
 to the date of such community forum.
+  * 4. At least thirty days prior to a general hospital applying to the
+federal centers for medicare and medicaid services to convert from a
+general hospital with inpatients to a rural emergency hospital under 42
+USC 1395x(kkk), or successor provisions, such hospital shall hold a
+public community forum for the purpose of obtaining public input
+concerning the anticipated impact of the hospital's closure of inpatient
+units, including but not limited to, the impact on recipients of medical
+assistance for needy persons, the uninsured, people with disabilities,
+and medically underserved populations, and options and proposals to
+ameliorate such anticipated impact. The hospital shall notify health
+care providers, labor unions, the congressional representative for the
+district in which the facility is located, the county executive of the
+county in which the facility is located, and the state senator and
+assembly member representing the area within which the facility is
+located of the date, time, and location of the community forum. The
+hospital shall afford all public participants a reasonable opportunity
+to speak about relevant matters at such community forum. Prior to any
+community forum and as soon as practicable, the hospital shall be
+required to:
+  (a) notify the office of mental health and the local director of
+community services in the event such general hospital has psychiatric
+inpatient beds licensed under article thirty-one of the mental hygiene
+law or designated pursuant to section 9.39 of the mental hygiene law,
+and
+  (b) notify the office of addiction services and supports in the event
+such general hospital has inpatient substance use disorder treatment
+programs or inpatient chemical dependence treatment programs licensed
+under article thirty-two of the mental hygiene law. The commissioner
+shall also accept comments submitted in writing at such public forum and
+by mail within at least two weeks following the community forum.
+  * NB Effective July 2, 2023
 ```

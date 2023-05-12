@@ -77,6 +77,7 @@
 - [§ 152-A Burial reserves for certain recipients of public assistance or care from assigned assets](152a-burial-reserves-for-certain-recipients-of-public-assistance-or-care.md)
 - [§ 152-B Surplus after recovery of cost of public assistance and care; unclaimed funds](152b-surplus-after-recovery-of-cost-of-public-assistance-and-care-unclaimed.md)
 - [§ 152-C Menstrual products](152c-menstrual-products.md)
+- [§ 152-D Replacement of stolen public assistance](152d-replacement-of-stolen-public-assistance.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -189,6 +190,7 @@ Section 131.     Assistance, care and services to be given.
         152-b.   Surplus after recovery of cost of public assistance and
                    care; unclaimed funds.
         152-c.   Menstrual products.
+        152-d.   Replacement of stolen public assistance.
 ```
 
 </details>

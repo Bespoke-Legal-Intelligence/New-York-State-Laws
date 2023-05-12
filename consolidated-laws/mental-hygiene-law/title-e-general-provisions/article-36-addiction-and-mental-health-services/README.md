@@ -8,6 +8,9 @@
 - [§ 36.01 Crisis stabilization centers](36.01-crisis-stabilization-centers.md)
 - [§ 36.02 Referral to crisis stabilization centers](36.02-referral-to-crisis-stabilization-centers.md)
 - [§ 36.03 9-8-8 suicide prevention and behavioral health crisis hotline system](36.03-9-8-8-suicide-prevention-and-behavioral-health-crisis.md)
+- [§ 36.04 Certified community behavioral health clinics](36.04-certified-community-behavioral-health-clinics.md)
+- [§ 36.05 Certified community behavioral health clinics indigent care program](36.05-certified-community-behavioral-health-clinics-indigent.md)
+- [§ 36.06 Review of criminal history information](36.06-review-of-criminal-history-information.md)
 
 <details>
 <summary>Official heading of Article 36, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -19,6 +22,10 @@ Section 36.01 Crisis stabilization centers.
         36.02 Referral to crisis stabilization centers.
         36.03 9-8-8 suicide prevention and behavioral health crisis
                 hotline system.
+        36.04 Certified community behavioral health clinics.
+        36.05 Certified community behavioral health clinics indigent
+                care program.
+        36.06 Review of criminal history information.
 ```
 
 </details>

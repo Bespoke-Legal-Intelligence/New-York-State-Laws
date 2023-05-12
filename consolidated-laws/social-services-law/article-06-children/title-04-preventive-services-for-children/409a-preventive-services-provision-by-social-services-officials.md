@@ -161,13 +161,13 @@ discharge to independent living, preventive services shall include, in
 addition to any other payments or benefits received by the family,
 special cash grants in the form of rent subsidies, including rent
 arrears, or any other assistance, sufficient to obtain adequate housing.
-Such rent subsidies or assistance shall not exceed the sum of three
-hundred dollars per month, shall not be provided for a period of more
-than three years, and shall be considered a special grant. Nothing in
-this paragraph shall be construed to limit the ability of those using
-such rent subsidy to live with roommates. The provisions of this
-paragraph shall not be construed to limit such official's authority to
-provide other preventive services.
+Such rent subsidies or assistance shall not exceed the sum of seven
+hundred twenty-five dollars per month, shall not be provided for a
+period of more than three years, and shall be considered a special
+grant. Nothing in this paragraph shall be construed to limit the ability
+of those using such rent subsidy to live with roommates. The provisions
+of this paragraph shall not be construed to limit such official's
+authority to provide other preventive services.
   (e) (i) A social services official is authorized to establish and
 operate, or contract for the establishment and operation of, intensive,
 homebased, family preservation programs.
@@ -209,9 +209,9 @@ housing, preventive services may include, in addition to any other
 payments or benefits received by the family, special cash grants in the
 form of rent subsidies, including rent arrears, or any other assistance,
 sufficient to obtain adequate housing. Such rent subsidies or assistance
-shall not exceed the sum of three hundred dollars per month, shall not
-be provided for a period of more than three years, and shall be
-considered a special grant. Nothing in this subdivision shall be
+shall not exceed the sum of seven hundred twenty-five dollars per month,
+shall not be provided for a period of more than three years, and shall
+be considered a special grant. Nothing in this subdivision shall be
 construed to limit the ability of those using such rent subsidy to live
 with roommates. The provisions of this paragraph shall not be construed
 to limit such official's authority to provide other preventive services.

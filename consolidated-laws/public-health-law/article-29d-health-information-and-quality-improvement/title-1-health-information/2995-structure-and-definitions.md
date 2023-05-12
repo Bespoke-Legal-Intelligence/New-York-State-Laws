@@ -13,7 +13,7 @@ information for dissemination by means of such system, and studying
 additional uses of such information. Such moneys as may be necessary to
 effect the purpose of this section may be appropriated to the department
 for its expenses.
-  * NB Effective until March 31, 2023
+  * NB Effective until March 31, 2026
   * (a) The department shall undertake an initiative for the purposes of
 increasing the information available to patients about health care
 providers and health care plans, and improving the quality of health
@@ -24,7 +24,7 @@ necessary to effect the purpose of this section may be appropriated to
 the department for its expenses, but in no event shall funds be diverted
 from existing uses of the office of professional medical conduct in
 order to fulfill the purposes of this section.
-  * NB Effective March 31, 2023
+  * NB Effective March 31, 2026
   (b) The department shall promulgate rules for the purpose of
 implementing the provisions of this title.
   2. Definitions. For the purposes of this title:

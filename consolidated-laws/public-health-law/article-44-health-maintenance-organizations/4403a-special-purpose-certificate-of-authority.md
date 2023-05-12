@@ -98,5 +98,5 @@ those entities initially authorized by chapter seven hundred fifteen of
 the laws of nineteen hundred eighty-two and by a chapter of the laws of
 nineteen hundred eighty-four authorizing the Monroe county medicap
 demonstration project.
-  * NB Expires March 31, 2023
+  * NB Expires March 31, 2026
 ```

@@ -41,7 +41,7 @@ eligible for medical assistance and benefits available under titles
 XVIII and XIX of the federal social security act, the commissioner may
 contract for the sole purpose of assisting staff of the office for such
 purpose.
-  * NB Expires January 1, 2024
+  * NB Expires January 1, 2026
   3. Persons entitled to appeal to the department pursuant to this
 section shall include:
   (a) Applicants for or recipients of aid to dependent children,

@@ -40,7 +40,13 @@ certificate, resale certificate, or any other document capable of
 evidencing a claim that taxes do not apply to a transaction, which he or
 she does not believe to be true and correct as to any material matter,
 which omits any material information, or which is false, fraudulent, or
-counterfeit.
+counterfeit; or
+  (9) (a) knowingly fails to collect or remit any taxes imposed by
+section four hundred ninety-three of this chapter on the sale of any
+adult-use cannabis product; or (b) knowingly possesses for sale, as such
+term is defined in section four hundred ninety-two of this chapter, any
+such product on which the tax required to be paid under subdivision (a)
+of such section has not been paid.
   (b) For purposes of this subdivision, "this chapter" includes any
 "related statute" or any "related income or earnings tax statute", as
 defined in section eighteen hundred of this article.

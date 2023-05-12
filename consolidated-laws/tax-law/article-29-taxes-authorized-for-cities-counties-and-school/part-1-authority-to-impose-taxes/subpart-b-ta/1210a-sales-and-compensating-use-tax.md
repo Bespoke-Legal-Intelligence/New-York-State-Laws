@@ -5,14 +5,14 @@
 
 ```text
   § 1210-A. Sales and compensating use tax for purposes of the Suffolk
-county drinking water protection program. (a) In addition to the taxes
+county drinking water protection program.  (a) In addition to the taxes
 imposed by section twelve hundred ten or any other provision of this
 article, the county of Suffolk is hereby authorized and empowered to
 adopt and amend a local law, ordinance or resolution imposing within the
 territorial limits of said county an additional sales and compensating
 use tax at the rate of one-quarter of one percent for the period
 beginning December first, nineteen hundred eighty-four and ending
-November thirtieth, two thousand thirty, which tax shall be identical to
+November thirtieth, two thousand sixty, which tax shall be identical to
 the tax imposed by said county pursuant to section twelve hundred ten of
 this article. Except as hereinafter provided, all provisions of this
 article, including the definition and exemption provisions and the
@@ -84,7 +84,7 @@ all of the net collections of the tax imposed pursuant to this section.
 contrary, the net collections from the tax imposed pursuant to
 subdivision (a) of this section for the period beginning December first,
 nineteen hundred eighty-eight and ending November thirtieth, two
-thousand thirty shall, upon payment to the county of Suffolk, be
+thousand sixty shall, upon payment to the county of Suffolk, be
 deposited in a special fund, to be designated as a drinking water
 protection reserve fund, to be created by said county therefor separate
 and apart from any other funds and accounts of the county. Moneys in

@@ -18,23 +18,13 @@ of the product, in the case of a member of a partnership) of twenty-five
 percent and the sum of the qualified production expenditures paid for
 during the qualified New York city musical and theatrical production's
 credit period. Provided however that the amount of the credit cannot
-exceed three million dollars per qualified New York city musical and
-theatrical production for productions whose first performance is prior
-to January first, two thousand twenty-three. For productions whose first
-performance is on or after January first, two thousand twenty-three,
-such cap shall decrease to one million five hundred thousand dollars per
-qualified New York city musical and theatrical production unless the New
-York city tourism economy has not sufficiently recovered, as determined
-by the department of economic development in consultation with the
-division of the budget. In determining whether the New York city tourism
-economy has sufficiently recovered, the department of economic
-development will perform an analysis of key New York city economic
-indicators which shall include, but not be limited to, hotel occupancy
-rates and travel metrics. The department of economic development's
-analysis shall also be informed by the status of any remaining COVID-19
-restrictions affecting New York city musical and theatrical productions.
-In no event shall a qualified New York city musical and theatrical
-production be eligible for more than one credit under this program.
+exceed three hundred fifty thousand dollars per qualified New York city
+musical and theatrical production in a level two qualified New York city
+production facility and three million dollars per qualified New York
+city musical and theatrical production in a level one qualified New York
+city production facility. In no event shall a qualified New York city
+musical and theatrical production be eligible for more than one credit
+under this program.
   (3) No qualified production expenditures used by a taxpayer either as
 the basis for the allowance of the credit provided pursuant to this
 section or used in the calculation of the credit provided pursuant to
@@ -42,12 +32,18 @@ this section shall be used by such taxpayer to claim any other credit
 allowed pursuant to this chapter.
   (b) Definitions. As used in this section, the following terms shall
 have the following meanings:
-  (1) "Qualified musical and theatrical production" means a for-profit
-live, dramatic stage presentation that, in its original or adaptive
-version, is performed in a qualified New York city production facility,
-whether or not such production was performed in a qualified New York
-city production facility prior to the state disaster emergency pursuant
-to executive order two hundred two of two thousand twenty.
+  (1) "Qualified New York city musical and theatrical production" means
+a for-profit live, dramatic stage presentation that, in its original or
+adaptive version, is performed in a level one or level two qualified New
+York city production facility, whether or not such production was
+performed in a level one or level two qualified New York city production
+facility prior to the state disaster emergency pursuant to executive
+order two hundred two of two thousand twenty, provided, however, that
+productions performing in a level two qualified New York city production
+facility shall have a production budget greater than or equal to seven
+hundred fifty thousand dollars and incur qualified production
+expenditures greater than or equal to seven hundred fifty thousand
+dollars.
   (2) "Qualified production expenditure" means any costs for tangible
 property used and services performed directly and predominantly in the
 production of a qualified musical and theatrical production within the
@@ -58,38 +54,53 @@ lighting, and staging; (ii) all salaries, wages, fees, and other
 compensation including related benefits for services performed of which
 the total allowable expense shall not exceed two hundred thousand
 dollars per week; and (iii) technical and crew production costs, such as
-expenditures for a qualified New York city production facility, or any
-part thereof, props, make-up, wardrobe, costumes, equipment used for
-special and visual effects, sound recording, set construction, and
-lighting. Qualified production expenditure does not include any costs
-incurred prior to the credit period of a qualified New York city musical
-and theatrical production company.
-  (3) "Qualified New York city production facility" means a facility
-located within the city of New York (i) in which live theatrical
-productions are or are intended to be primarily presented, (ii) that
-contains at least one stage, a seating capacity of five hundred or more
-seats, and dressing rooms, storage areas, and other ancillary amenities
-necessary for the qualified musical and theatrical production, and (iii)
-for which receipts attributable to ticket sales constitute seventy-five
+expenditures for a level one or level two qualified New York city
+production facility, or any part thereof, props, make-up, wardrobe,
+costumes, equipment used for special and visual effects, sound
+recording, set construction, and lighting. Qualified production
+expenditure does not include any costs incurred prior to the credit
+period of a qualified New York city musical and theatrical production
+company.
+  (3) (i) " Level one qualified New York city production facility" means
+a facility located within the (A) borough of Manhattan, bounded by and
+including forty-first street and fifty-fourth street and between sixth
+avenue and ninth avenue in which live theatrical productions are or are
+intended to be primarily presented, (B) that contains at least one
+stage, a seating capacity of five hundred or more seats, and dressing
+rooms, storage areas, and other ancillary amenities necessary for the
+qualified musical and theatrical production, and (C) for which receipts
+attributable to live theatrical productions constitute seventy-five
 percent or more of gross receipts of the facility.
+  (ii) "Level two qualified New York city production facility" means a
+facility located within the borough of Manhattan (A) in which live
+theatrical productions are or are intended to be primarily presented,
+(B) that contains at least one stage, a seating capacity of one hundred
+or more seats, and dressing rooms, storage areas, and other ancillary
+amenities necessary for the qualified musical and theatrical production,
+and (C) for which receipts attributable to live theatrical productions
+constitute seventy-five percent or more of gross receipts of the
+facility.
   (4) "Qualified New York city musical and theatrical production
 company" is a corporation, partnership, limited partnership, or other
 entity or individual which or who is principally engaged in the
 production of a qualified musical or theatrical production that is to be
-performed in a qualified New York city production facility.
+performed in a level one or level two qualified New York city production
+facility.
   (5) (i) "The credit period of a qualified New York city musical and
 theatrical production company" is the period starting on the production
 start date and ending on the earlier of the date the qualified musical
 and theatrical production has expended sufficient qualified production
 expenditures to reach its credit cap, September thirtieth, two thousand
-twenty-three or the date the qualified musical and theatrical production
+twenty-five or the date the qualified musical and theatrical production
 closes.
   (ii) "The production start date" is the date that is up to twelve
 weeks prior to the first performance of the qualified musical and
 theatrical production.
+  (6) "Production budget" means all estimated costs to be incurred or
+paid before the first public appearance.
   (c) The credit shall be allowed for the taxable year beginning on or
 after January first, two thousand twenty-one but before January first,
-two thousand twenty-four. A qualified New York city musical and
+two thousand twenty-six. A qualified New York city musical and
 theatrical production company shall claim the credit in the year in
 which its credit period ends.
   (d) Cross-references. For application of the credit provided for in
@@ -111,10 +122,10 @@ this credit and the amount of the credit earned by such company.
   (f) Maximum amount of credits.  (1) The aggregate amount of tax
 credits allowed under this section, subdivision fifty-seven of section
 two hundred ten-B and subsection (mmm) of section six hundred six of
-this chapter shall be two hundred million dollars. Such aggregate amount
-of credits shall be allocated by the department of economic development
-among taxpayers based on the date of first performance of the qualified
-musical and theatrical production.
+this chapter shall be three hundred million dollars. Such aggregate
+amount of credits shall be allocated by the department of economic
+development among taxpayers based on the date of first performance of
+the qualified musical and theatrical production.
   (2) The commissioner of economic development, after consulting with
 the commissioner, shall promulgate regulations to establish procedures
 for the allocation of tax credits as required by this section. Such
@@ -128,23 +139,23 @@ any other provisions to the contrary in the state administrative
 procedure act, such rules and regulations may be adopted on an emergency
 basis. In no event shall a qualified New York city musical and
 theatrical production submit an application for this program after June
-thirtieth, two thousand twenty-three.
+thirtieth, two thousand twenty-five.
   (g) Any qualified New York city musical and theatrical production
-company that performs in a qualified New York city production facility
-and applies to receive a credit under this section shall be required to:
-(1) participate in a New York state diversity and arts job training
-program; (2) create and implement a plan to ensure that their production
-is available and accessible for low-or no-cost to low income New
-Yorkers; and (3) contribute to the New York state council on the arts,
-cultural program fund an amount up to fifty percent of the total credits
-received if its production earns ongoing revenue prospectively after the
-end of the credit period that is at least equal to two hundred percent
-of its ongoing production costs, with such amount payable from
-twenty-five percent of net operating profits, such amounts payable on a
-monthly basis, up until such fifty percent of the total credit amount is
-reached. Any funds deposited pursuant to this subdivision may be used
-for arts and cultural grant programs of the New York state council on
-the arts as specified in subdivision five of section ninety-nine-ll of
-the state finance law.
-  * NB Repealed January 1, 2024
+company that performs in a level one or level two qualified New York
+city production facility and applies to receive a credit under this
+section shall be required to: (1) participate in a New York state
+diversity and arts job training program; (2) create and implement a plan
+to ensure that their production is available and accessible for low-or
+no-cost to low income New Yorkers; and (3) contribute to the New York
+state council on the arts, cultural program fund an amount up to fifty
+percent of the total credits received if its production earns ongoing
+revenue prospectively after the end of the credit period that is at
+least equal to two hundred percent of its ongoing production costs, with
+such amount payable from twenty-five percent of net operating profits,
+such amounts payable on a monthly basis, up until such fifty percent of
+the total credit amount is reached. Any funds deposited pursuant to this
+subdivision may be used for arts and cultural grant programs of the New
+York state council on the arts as specified in subdivision five of
+section ninety-nine-ll of the state finance law.
+  * NB Repealed January 1, 2026
 ```

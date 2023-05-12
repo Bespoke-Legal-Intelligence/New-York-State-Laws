@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 33 — Pesticides](../README.md) › [Title 7 — Registration of Pesticides](README.md)
 
 ```text
-* § 33-0704. Review of applications to register pesticides.
+§ 33-0704. Review of applications to register pesticides.
   1. For registration applications subject to review pursuant to
 subdivisions two through five of this section, an application for
 pesticide registration shall be determined by the commissioner to be
@@ -89,5 +89,4 @@ and appropriate to carry out the purposes of this title, which shall
 include a definition of a complete application to register a pesticide.
 Regulations defining a complete application to register a pesticide
 shall be promulgated not later than April 1, 1993.
-  * NB Repealed July 1, 2023
 ```

@@ -27,4 +27,13 @@ If the commissioner determines that a failure to maintain or make
 available records in any month was entirely due to reasonable cause and
 not to willful neglect, the commissioner must remit the penalty for that
 month.
+  (c) The failure of any person who sells adult-use cannabis products at
+retail, except a person who possesses a valid registered organization
+adult-use cultivator processor distributor retail dispensary license or
+microbusiness license issued by the office of cannabis management, to
+comply with subdivision (a) of this section for the adult-use cannabis
+products in such person's possession shall be presumptive evidence that
+the tax thereon has not been paid, and that such person shall be liable
+for the tax thereon unless evidence of such invoice, payment or
+assumption shall later be produced.
 ```

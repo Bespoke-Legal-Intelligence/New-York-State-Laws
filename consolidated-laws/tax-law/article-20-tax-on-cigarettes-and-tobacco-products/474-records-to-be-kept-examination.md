@@ -51,34 +51,32 @@ of cigarettes delivered, and the items and quantity and wholesale price
 of each item in each shipment of tobacco products delivered, and the
 name of the purchaser to whom delivery is made, and shall retain the
 same for a period of three years subject to the use and inspection of
-the commissioner of taxation and finance. Each dealer shall procure and
-retain invoices showing the number of packages and number of cigarettes
-contained therein, in each shipment of cigarettes received by him, and
-the items and quantity and wholesale price of each item in each shipment
-of tobacco products received by him, the date thereof, and the name of
-the shipper, and shall retain the same for a period of three years
-subject to the use and inspection of the commissioner of taxation and
-finance. The commissioner of taxation and finance by regulation may
-provide that whenever cigarettes or tobacco products are shipped into
-the state, the railroad company, express company, trucking company or
-other public carrier transporting any shipment thereof shall file with
-the commissioner of taxation and finance a copy of the freight bill
-within ten days after the delivery in the state of each shipment. All
-dealers shall maintain and keep for a period of three years such other
-records of cigarettes or tobacco products received, sold or delivered
-within the state as may be required by the commissioner of taxation and
-finance. The commissioner of taxation and finance is hereby authorized
-to examine the books, papers, invoices and other records of any person
-in possession, control or occupancy of any premises where cigarettes or
-tobacco products are placed, stored, sold or offered for sale, and the
-equipment of any such person pertaining to the stamping of cigarettes or
-the sale and delivery of cigarettes or tobacco products taxable under
-this article, as well as the stock of cigarettes or tobacco products in
-any such premises or vehicle. To verify the accuracy of the tax imposed
-and assessed by this article, each such person is hereby directed and
-required to give to the commissioner of taxation and finance or his duly
-authorized representatives, the means, facilities and opportunity for
-such examinations as are herein provided for and required.
+the commissioner. Each dealer shall procure and retain invoices showing
+the number of packages and number of cigarettes contained therein, in
+each shipment of cigarettes received by him or her, and the items and
+quantity and wholesale price of each item in each shipment of tobacco
+products received by him or her, the date thereof, and the name of the
+shipper, and shall retain the same for a period of three years subject
+to the use and inspection of the commissioner. The commissioner by
+regulation may provide that whenever cigarettes or tobacco products are
+shipped into the state, the railroad company, express company, trucking
+company or other public carrier transporting any shipment thereof shall
+file with the commissioner a copy of the freight bill within ten days
+after the delivery in the state of each shipment. All dealers shall
+maintain and keep for a period of three years such other records of
+cigarettes or tobacco products received, sold or delivered within the
+state as may be required by the commissioner. The commissioner is hereby
+authorized to examine the books, papers, invoices and other records of
+any person in possession, control or occupancy of any premises where
+cigarettes or tobacco products are placed, stored, sold or offered for
+sale, and the equipment of any such person pertaining to the stamping of
+cigarettes or the sale and delivery of cigarettes or tobacco products
+taxable under this article, as well as the stock of cigarettes or
+tobacco products in any such premises or vehicle. To verify the accuracy
+of the tax imposed and assessed by this article, each such person is
+hereby directed and required to give to the commissioner or his or her
+duly authorized representatives, the means, facilities and opportunity
+for such examinations as are herein provided for and required.
   5. Every accredited college, university or hospital that receives
 research tobacco products as defined in subdivision twenty of section
 four hundred seventy of this article shall, in good faith, file an

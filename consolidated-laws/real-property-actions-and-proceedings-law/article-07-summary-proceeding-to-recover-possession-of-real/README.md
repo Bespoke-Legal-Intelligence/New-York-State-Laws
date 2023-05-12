@@ -11,6 +11,7 @@
 - [§ 713 Grounds where no landlord-tenant relationship exists](713-grounds-where-no-landlord-tenant-relationship-exists.md)
 - [§ 713-A Special proceeding for termination of adult home and residence for adults admission agreements](713a-special-proceeding-for-termination-of-adult-home.md)
 - [§ 715 Grounds and procedure where use or occupancy is illegal](715-grounds-and-procedure-where-use-or-occupancy-is.md)
+- [§ 715-A Grounds and procedure for removal of commercial tenants for unlicensed cannabis retail sale](715a-grounds-and-procedure-for-removal-of-commercial.md)
 - [§ 721 Person who may maintain proceeding](721-person-who-may-maintain-proceeding.md)
 - [§ 731 Commencement; notice of petition](731-commencement-notice-of-petition.md)
 - [§ 732 Special provisions applicable in non-payment proceeding if the rules so provide](732-special-provisions-applicable-in-non-payment.md)
@@ -48,6 +49,8 @@ Section 701.   Jurisdiction; courts; venue.
         713-a. Special proceeding for termination of adult home and
                  residence for adults admission agreements.
         715.   Grounds and procedure where use or occupancy is illegal.
+        715-a. Grounds and procedure for removal of commercial tenants
+                 for unlicensed cannabis retail sale.
         721.   Person who may maintain proceeding.
         731.   Commencement; notice of petition.
         732.   Special provisions applicable in non-payment proceeding

@@ -534,7 +534,7 @@ the memorandum of understanding is not executed or is breached, the
 commissioner, in consultation with the director of the budget, may
 either cancel or reduce payment of such rate add-on to achieve
 compliance with the enacted budget financial plan.
-  * NB Repealed March 31, 2023
+  * NB Repealed March 31, 2026
   (f)(i) The commissioner shall periodically measure the utilization and
 intensity of services provided to medical assistance recipients in
 ambulatory settings. Such analysis shall include, but not be limited to:
@@ -556,20 +556,31 @@ methodologies or may promulgate regulations establishing alternative
 payment methodologies for one or more of the services specified in this
 subparagraph, effective for periods on and after March first, two
 thousand nine:
-  (A) services provided in accordance with the provisions of paragraphs
-(q) and (r) of subdivision two of section three hundred sixty-five-a of
-the social services law; and
+  * (A) services provided in accordance with the provisions of
+paragraphs (q) and (r) of subdivision two of section three hundred
+sixty-five-a of the social services law; and
+  * NB Effective until October 1, 2023
+  * (A) services provided in accordance with the provisions of
+paragraphs (q), (r), and (ll) of subdivision two of section three
+hundred sixty-five-a of the social services law; and
+  * NB Effective October 1, 2023
   (B) all services, but only with regard to additional payment amounts,
 as determined in accordance with regulations issued in accordance with
 paragraph (e) of this subdivision, for the provision of such services
 during times outside the facility's normal hours of operation, as
 determined in accordance with criteria set forth in such regulations;
 and
-  (C) individual psychotherapy services provided by licensed social
+  * (C) individual psychotherapy services provided by licensed social
 workers, in accordance with licensing criteria set forth in applicable
 regulations, to persons under the age of twenty-one and to persons
 requiring such services as a result of or related to pregnancy or giving
 birth; and
+  * NB Effective until January 1, 2024
+  * (C) services provided by licensed social workers, licensed mental
+health counselors, and licensed marriage and family therapists, in
+accordance with licensing criteria set forth in applicable regulations;
+and
+  * NB Effective January 1, 2024
   (D) individual psychotherapy services provided by licensed social
 workers, in accordance with licensing criteria set forth in applicable
 regulations, at diagnostic and treatment centers that provided, billed

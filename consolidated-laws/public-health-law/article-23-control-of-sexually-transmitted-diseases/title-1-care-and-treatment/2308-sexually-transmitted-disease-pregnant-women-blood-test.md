@@ -4,12 +4,28 @@
 [Public Health Law](../../README.md) › [Article 23 — Control of Sexually Transmitted Diseases](../README.md) › [Title 1 — Care and Treatment](README.md)
 
 ```text
-  § 2308. Sexually transmitted disease; pregnant women; blood test for
-syphilis. 1. Every physician attending pregnant women in the state shall
-in the case of every woman so attended take or cause to be taken a
-sample of blood of such woman at the time of first examination, and
-submit such sample to an approved laboratory for a standard serological
-test for syphilis.
+  § 2308. * Sexually transmitted disease; pregnant women; blood test for
+syphilis.
+  * NB Effective until May 3, 2024
+  * Sexually transmitted disease; pregnant persons; blood test for
+syphilis.
+  * NB Effective May 3, 2024
+* 1. Every physician attending pregnant women in the state shall in the
+case of every woman so attended take or cause to be taken a sample of
+blood of such woman at the time of first examination, and submit such
+sample to an approved laboratory for a standard serological test for
+syphilis.
+  * NB Effective until May 3, 2024
+* 1. Every physician or other authorized practitioner attending pregnant
+persons in the state shall in the case of every person so attended take
+or cause to be taken a sample of blood of such person at the time of
+first examination, and submit such sample to an approved laboratory for
+a standard serological test for syphilis. In addition to testing at the
+time of first examination, every such physician or other authorized
+practitioner shall order a syphilis test during the third trimester of
+pregnancy consistent with any guidance and regulations issued by the
+commissioner.
+  * NB Effective May 3, 2024
   2. Every other person permitted by law to attend upon pregnant women
 in the state but not permitted by law to take blood tests, shall cause a
 sample of the blood of such pregnant woman to be taken promptly by a

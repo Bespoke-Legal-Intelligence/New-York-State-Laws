@@ -26,12 +26,12 @@ directed to deposit amounts collected in excess of two thousand dollars
 per violation to the patient safety center account to be used for
 purposes of the patient safety center created by title two of article
 twenty-nine-D of this chapter.
-  * NB Effective until April 1, 2023
+  * NB Effective until April 1, 2026
   * 2. A person who wilfully violates any provision of this chapter, or
 any regulation lawfully made or established by any public officer or
 board under authority of this chapter, the punishment for violating
 which is not otherwise prescribed by this chapter or any other law, is
 punishable by imprisonment not exceeding one year, or by a fine not
 exceeding two thousand dollars or by both.
-  * NB Effective April 1, 2023
+  * NB Effective April 1, 2026
 ```

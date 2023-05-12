@@ -15,6 +15,7 @@
 - [§ 14 State cannabis advisory board](14-state-cannabis-advisory-board.md)
 - [§ 15 Disposition of moneys received for license fees](15-disposition-of-moneys-received-for-license-fees.md)
 - [§ 16 Violations of cannabis laws or regulations; penalties and injunctions](16-violations-of-cannabis-laws-or-regulations-penalties-and-injunctions.md)
+- [§ 16-A Emergency relief](16a-emergency-relief.md)
 - [§ 17 Formal hearings; notice and procedure](17-formal-hearings-notice-and-procedure.md)
 - [§ 18 Ethics, transparency and accountability](18-ethics-transparency-and-accountability.md)
 - [§ 19 Public health and education campaign](19-public-health-and-education-campaign.md)
@@ -26,22 +27,23 @@
 ```text
                                 ARTICLE 2
                   NEW YORK STATE CANNABIS CONTROL BOARD
-Section 7.  Establishment of the cannabis control board or "board".
-        8.  Establishment of an office of cannabis management.
-        9.  Executive director.
-        10. Powers and duties of the cannabis control board.
-        11. * Functions, powers and duties of the executive director;
-              office of cannabis control.
-        12. Chief equity officer.
-        13. Rulemaking authority.
-        14. State cannabis advisory board.
-        15. Disposition of moneys received for license fees.
-        16. Violations of cannabis laws or regulations; penalties and
-              injunctions.
-        17. Formal hearings; notice and procedure.
-        18. Ethics, transparency and accountability.
-        19. Public health and education campaign.
-        20. * Uniform policies and best practices.
+Section 7.    Establishment of the cannabis control board or "board".
+        8.    Establishment of an office of cannabis management.
+        9.    Executive director.
+        10.   Powers and duties of the cannabis control board.
+        11.   * Functions, powers and duties of the executive director;
+                office of cannabis control.
+        12.   Chief equity officer.
+        13.   Rulemaking authority.
+        14.   State cannabis advisory board.
+        15.   Disposition of moneys received for license fees.
+        16.   Violations of cannabis laws or regulations; penalties and
+                injunctions.
+        16-a. Emergency relief.
+        17.   Formal hearings; notice and procedure.
+        18.   Ethics, transparency and accountability.
+        19.   Public health and education campaign.
+        20.   * Uniform policies and best practices.
   * NB Section heading in this schedule does not match heading of
 section text
 ```

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBH |
 | Type | Consolidated law, chapter 45 |
-| Sections | 1,756 |
-| Last changed | 5 May 2023 |
+| Sections | 1,772 |
+| Last changed | 12 May 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Health |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER 45 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (348 lines)](chapter-text.md)
+[Full chapter text (351 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [12 May 2023](../../changes/2023/2023-05-12.md): 49 amended, 16 added
 - [5 May 2023](../../changes/2023/2023-05-05.md): 1 added, 2 removed
 - [28 Apr 2023](../../changes/2023/2023-04-28.md): 1 amended, 1 repealed
 - [7 Apr 2023](../../changes/2023/2023-04-07.md): 10 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [10 Mar 2023](../../changes/2023/2023-03-10.md): 24 amended, 1 added
 - [17 Feb 2023](../../changes/2023/2023-02-17.md): 1 amended
 - [10 Feb 2023](../../changes/2023/2023-02-10.md): 2 amended, 1 added, 1 removed
-- [3 Feb 2023](../../changes/2023/2023-02-03.md): 2 amended
 
 ## Contents
 
@@ -127,6 +127,7 @@ Assembly, do enact as follows:
 - [Article 29-G — Telehealth Delivery of Services](article-29g-telehealth-delivery-of-services/)
 - [Article 29-I — Medical Services For Foster Children](article-29i-medical-services-for-foster-children/)
 - [Article 29-J — Medical Respite Program](article-29j-medical-respite-program/)
+- [Article 29-K — Registration of Temporary Health Care Services Agencies and Health Care Technology Platforms](article-29k-registration-of-temporary-health-care-services/)
 - [Article 30 — Emergency Medical Services](article-30-emergency-medical-services/)
 - [Article 30-A — Emergency Medical Services Personnel Training Act of Nineteen Hundred Eighty-six](article-30a-emergency-medical-services-personnel-training/)
 - [Article 30-B — Emergency Medical, Trauma and Disaster Care](article-30b-emergency-medical-trauma-and-disaster-care/)
@@ -154,6 +155,7 @@ Assembly, do enact as follows:
 - [Article 43-B — Organ Procurement and Donor Support](article-43b-organ-procurement-and-donor-support/)
 - [Article 44 — Health Maintenance Organizations](article-44-health-maintenance-organizations/)
 - [Article 45 — Medical Referral Services](article-45-medical-referral-services/)
+- [Article 45-A — Disclosure of Material Transactions](article-45a-disclosure-of-material-transactions/)
 - [Article 46 — Continuing Care Retirement Communities](article-46-continuing-care-retirement-communities/)
 - [Article 46-A — Fee-for-service Continuing Care Retirement Communities Demonstration Program](article-46a-fee-for-service-continuing-care-retirement/)
 - [Article 46-B — Assisted Living](article-46b-assisted-living/)

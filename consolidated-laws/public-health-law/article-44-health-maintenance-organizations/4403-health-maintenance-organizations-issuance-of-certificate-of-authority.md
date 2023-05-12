@@ -101,10 +101,18 @@ regulations issued under those Acts, which shall include an analysis of
 the rate of out-of-network utilization for covered mental health and
 substance use disorder services as compared to the rate of
 out-of-network utilization for the respective category of medical
-services; and (iv) with the exception of initial licensure, the number
-of grievances filed by enrollees relating to waiting times for
+services; (iv) with the exception of initial licensure, the number of
+grievances filed by enrollees relating to waiting times for
 appointments, appropriateness of referrals and other indicators of plan
-capacity.
+capacity; and regulations to be promulgated by the commissioner. The
+commissioner shall determine standards for network adequacy for mental
+health and substance use disorder treatment services, including
+sub-acute care in a residential facility, assertive community treatment
+services, critical time intervention services and mobile crisis
+intervention services and propose regulations, in consultation with the
+superintendent of financial services, the commissioner of the office of
+mental health and the commissioner of the office of addiction services
+and supports by December thirty-first, two thousand twenty-three.
   (c) Each organization shall report on an annual basis the number of
 enrollees and the number of participating providers in each
 organization.
@@ -389,7 +397,7 @@ participation. To the extent that the provisions of this subdivision are
 inconsistent with other provisions of this article or with the
 provisions of section three hundred sixty-four-j of the social services
 law, the provisions of this subdivision shall prevail.
-  * NB Repealed September 30, 2023
+  * NB Repealed December 31, 2025
   9. A health maintenance organization shall have procedures for
 coverage of medically fragile children including, but not limited to,
 those necessary to implement section forty-nine hundred three-a of this

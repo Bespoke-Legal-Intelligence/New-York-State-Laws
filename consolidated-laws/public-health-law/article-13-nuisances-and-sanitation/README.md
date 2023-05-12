@@ -36,7 +36,7 @@ Title    I.   General provisions; control and abatement (§§1300-1310).
       VIII.   Food handling (§§1350-1356).
         IX.   Location and disposition of radioactive gold jewelry
                 (§1360).
-         X.   Control of lead poisoning (§§1370--1376-a).
+         X.   Control of lead poisoning (§§1370-1377).
         XI.   State aid: planning for construction of solid waste
                 management facilities (§§1380-1383).
         XI-A. New York State Toxic Mold Task Force (§1384).

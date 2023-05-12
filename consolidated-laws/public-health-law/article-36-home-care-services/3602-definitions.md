@@ -147,5 +147,5 @@ commissioner shall promulgate regulations regarding such aides, which
 shall include a process for the limitation or revocation of the advanced
 home health aide's authorization to perform advanced tasks in
 appropriate cases.
-  * NB Repealed March 31, 2023
+  * NB Repealed March 31, 2029
 ```

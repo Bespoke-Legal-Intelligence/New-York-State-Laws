@@ -36,5 +36,12 @@ covered employees.
 employed within the MCTD.
   (e) Net earnings from self-employment. Net earnings from
 self-employment has the same meaning as in section 1402 of the internal
-revenue code.
+revenue code, provided, however, that for purposes of determining
+whether the exclusion pursuant to paragraph 13 of subsection (a) of
+section 1402 of the internal revenue code applies, an individual shall
+not be considered a limited partner if the individual, directly or
+indirectly, takes part in the control, or participates in the management
+or operations of the partnership such that the individual is not a
+passive investor, regardless of the individual's title or
+characterization in a partnership or operating agreement.
 ```

@@ -34,6 +34,7 @@
 - [§ 508-B\*2 Death benefits for correction officers employed by Nassau county](508b-2-death-benefits-for-correction-officers-employed-by-nassau-county.md)
 - [§ 508-B\*3 Death benefits for correction officers employed by Suffolk county](508b-3-death-benefits-for-correction-officers-employed-by-suffolk-county.md)
 - [§ 508-B\*4 Death benefits for deputy sheriffs employed by Suffolk county](508b-4-death-benefits-for-deputy-sheriffs-employed-by-suffolk-county.md)
+- [§ 508-C Death benefits for fire marshals employed by Nassau county](508c-death-benefits-for-fire-marshals-employed-by-nassau-county.md)
 - [§ 509 Accidental death benefits](509-accidental-death-benefits.md)
 - [§ 509-A COVID-19 benefit](509a-covid-19-benefit.md)
 - [§ 510 Escalation of benefits](510-escalation-of-benefits.md)
@@ -103,6 +104,8 @@ Section 500.     Application.
         508-b*3. Death benefits for correction officers employed by
                    Suffolk county.
         508-b*4. Death benefits for deputy sheriffs employed by Suffolk
+                   county.
+        508-c.   Death benefits for fire marshals employed by Nassau
                    county.
         509.     Accidental death benefits.
         509-a.   COVID-19 benefit.

@@ -159,24 +159,23 @@ commissioner shall provide quarterly reports to the chair of the senate
 finance committee and the chair of the assembly ways and means committee
 on the distribution and disbursement of such funds.
   (g) Notwithstanding subdivision (a) of this section, and within
-amounts appropriated for such purposes as described herein, for the
-period of April first, two thousand twenty-two through March
-thirty-first, two thousand twenty-three, the commissioner may award a
-temporary adjustment to the non-capital components of rates, or make
-temporary lump-sum Medicaid payments to eligible facilities in severe
-financial distress to enable such facilities to maintain operations and
-vital services while such facilities establish long term solutions to
-achieve sustainable health services. Provided, however, the commissioner
-is authorized to make such a temporary adjustment or make such temporary
-lump sum payment only pursuant to criteria, an evaluation process, and
-transformation plan acceptable to the commissioner in consultation with
-the director of the division of the budget. The department shall publish
-on its website the criteria, evaluation process and guidance for
-transformation plans and notification of any award recipients.
+amounts appropriated for such purposes as described herein, the
+commissioner may award a temporary adjustment to the non-capital
+components of rates, or make temporary lump-sum Medicaid payments to
+eligible facilities with serious financial instability and requiring
+extraordinary financial assistance to enable such facilities to maintain
+operations and vital services while such facilities establish long term
+solutions to achieve sustainable health services. Provided, however, the
+commissioner is authorized to make such a temporary adjustment or make
+such temporary lump sum payment only pursuant to criteria, an
+application, and an evaluation process acceptable to the commissioner in
+consultation with the director of the division of the budget. The
+department shall publish on its website the criteria, application, and
+evaluation process and notification of any award recipients.
   (i) Eligible facilities shall include:
   (A) a public hospital, which for purposes of this subdivision, shall
-mean a general hospital operated by a county or municipality, but shall
-exclude any such hospital operated by a public benefit corporation;
+mean a general hospital operated by a county, municipality or a public
+benefit corporation;
   (B) a federally designated critical access hospital;
   (C) a federally designated sole community hospital;
   (D) a residential health care facility;
@@ -191,13 +190,20 @@ individuals; or
   (2) such hospital serves at least thirty percent of the residents of a
 county or a multi-county area who are Medicaid eligible individuals,
 uninsured individuals or Medicaid dually-eligible individuals; or
+  (3) such hospital that, in the discretion of the commissioner, serves
+a significant population of Medicaid eligible individuals, uninsured
+individuals or Medicaid dually-eligible individuals; or
   (F) an independent practice association or accountable care
 organization authorized under applicable regulations that participate in
 managed care provider network arrangements with any of the provider
-types in subparagraphs (A) through (F) of this paragraph.
+types in subparagraphs (A) through (F) of this paragraph; or an entity
+that was formed as a preferred provider system pursuant to the delivery
+system reform incentive payment (DSRIP) program and collaborated with an
+independent practice association that received VBP innovator status from
+the department for purposes of meeting DSRIP goals, and which preferred
+provider system remains operational as an integrated care system.
   (ii) Eligible applicants must demonstrate that without such award,
-they will be in severe financial distress through March thirty-first,
-two thousand sixteen, as evidenced by:
+they will be in serious financial instability, as evidenced by:
   (A) certification that such applicant has less than fifteen days cash
 and equivalents;
   (B) such applicant has no assets that can be monetized other than
@@ -206,11 +212,8 @@ those vital to operations; and
 corporate parents and affiliated entities to sustain operations.
   (iii) Awards under this subdivision shall be made upon application to
 the department.
-  (A) Applications under this subdivision shall include a multi-year
-transformation plan that is aligned with the delivery system reform
-incentive payment ("DSRIP") program goals and objectives. Such plan
-shall be approved by the department and shall demonstrate a path towards
-long term sustainability and improved patient care.
+  (A) Eligible applicants shall submit a completed application to the
+department.
   (B) The department may authorize initial award payments to eligible
 applicants based solely on the criteria pursuant to paragraphs (i) and
 (ii) of this subdivision.
@@ -224,33 +227,35 @@ the affected community has been engaged and consulted on potential
 projects of such application, as well as any outreach to stakeholders
 and health plans.
   (E) The department shall review all applications under this
-subdivision, and a determine:
+subdivision, and determine:
   (1) applicant eligibility;
   (2) each applicant's projected financial status;
-  (3) each applicant's proposed use of funds to maintain critical
-services needed by its community; and
+  (3) criteria or requirements upon which an award of funds shall be
+conditioned, such as a transformation plan, savings plan or quality
+improvement plan. In the event the department requires an applicant to
+enter into an agreement or contract with a vendor or contractor, the
+department shall approve the selected vendor or contractor but shall not
+specify the vendor or contractor that the applicant must utilize; and
   (4) the anticipated impact of the loss of such services.
   (F) After review of all applications under this subdivision, and a
 determination of the aggregate amount of requested funds, the department
-shall make awards to eligible applicants; provided, however, that such
+may make awards to eligible applicants; provided, however, that such
 awards may be in an amount lower than such requested funding, on a per
 applicant or aggregate basis.
   (iv) Awards under this subdivision may not be used for:
   (A) capital expenditures, including, but not limited to: construction,
 renovation and acquisition of capital equipment, including major medical
-equipment;
-  (B) consultant fees;
-  (C) retirement of long term debt; or
-  (D) bankruptcy-related costs.
-  (v) Payments made to awardees pursuant to this subdivision shall be
-made on a monthly basis. Such payments will be based on the applicant's
-actual monthly financial performance during such period and the
-reasonable cash amount necessary to sustain operations for the following
-month. The applicant's monthly financial performance shall be measured
-by such applicant's monthly financial and activity reports, which shall
-include, but not be limited to, actual revenue and expenses for the
-prior month, projected cash need for the current month, and projected
-cash need for the following month.
+equipment; or
+  (B) bankruptcy-related costs.
+  (v) Payments made to awardees pursuant to this subdivision that are
+made on a monthly basis will be based on the applicant's actual monthly
+financial performance during such period and the reasonable cash amount
+necessary to sustain operations for the following month. The applicant's
+monthly financial performance shall be measured by such applicant's
+monthly financial and activity reports, which shall include, but not be
+limited to, actual revenue and expenses for the prior month, projected
+cash need for the current month, and projected cash need for the
+following month.
   (vi) The department shall provide a report on a quarterly basis to the
 chairs of the senate finance, assembly ways and means, senate health and
 assembly health committees. Such reports shall be submitted no later

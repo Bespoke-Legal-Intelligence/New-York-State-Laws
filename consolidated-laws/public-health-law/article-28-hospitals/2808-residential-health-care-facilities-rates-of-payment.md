@@ -843,16 +843,20 @@ first, two thousand eighteen, and April first, two thousand nineteen,
 and of up to five hundred million dollars in such aggregate annual
 additional payments for the state fiscal years beginning April first,
 two thousand twenty, April first, two thousand twenty-one, and April
-first, two thousand twenty-two. The amount allocated to each eligible
-public residential health care facility for this period shall be
-computed in accordance with the provisions of paragraph (f) of this
-subdivision, provided, however, that patient days shall be utilized for
-such computation reflecting actual reported data for two thousand three
-and each representative succeeding year as applicable, and provided
-further, however, that, in consultation with impacted providers, of the
-funds allocated for distribution in the state fiscal year beginning
-April first, two thousand thirteen, up to thirty-two million dollars may
-be allocated in accordance with paragraph (f-1) of this subdivision.
+first, two thousand twenty-two, and of up to five hundred million
+dollars in such aggregate annual additional payments for the state
+fiscal years beginning April first, two thousand twenty-three, April
+first, two thousand twenty-four, and April first, two thousand
+twenty-five. The amount allocated to each eligible public residential
+health care facility for this period shall be computed in accordance
+with the provisions of paragraph (f) of this subdivision, provided,
+however, that patient days shall be utilized for such computation
+reflecting actual reported data for two thousand three and each
+representative succeeding year as applicable, and provided further,
+however, that, in consultation with impacted providers, of the funds
+allocated for distribution in the state fiscal year beginning April
+first, two thousand thirteen, up to thirty-two million dollars may be
+allocated in accordance with paragraph (f-1) of this subdivision.
   (f) The amount allocated to each eligible public residential health
 care facility for each period shall be calculated as the result of (A)
 the total payment for each period multiplied by (B) the ratio of patient
@@ -1027,10 +1031,10 @@ ninety-nine and thereafter, the commissioner shall consider such rate
 appeals within a reasonable period.
   (b) Notwithstanding any inconsistent provision of law or regulation to
 the contrary, for the state fiscal years beginning April first, two
-thousand ten and ending March thirty-first, two thousand twenty-three,
+thousand ten and ending March thirty-first, two thousand twenty-five,
 the commissioner shall not be required to revise certified rates of
 payment established pursuant to this article for rate periods prior to
-April first, two thousand twenty-three, based on consideration of rate
+April first, two thousand twenty-five, based on consideration of rate
 appeals filed by residential health care facilities or based upon
 adjustments to capital cost reimbursement as a result of approval by the
 commissioner of an application for construction under section
@@ -1051,7 +1055,7 @@ the department, including, but not limited to, amounts owed pursuant to
 section twenty-eight hundred seven-d of this article; provided, however,
 that the commissioner's authority to negotiate such agreements resolving
 multiple pending rate appeals as hereinbefore described shall continue
-on and after April first, two thousand twenty-three. Rate adjustments
+on and after April first, two thousand twenty-five. Rate adjustments
 made pursuant to this paragraph remain fully subject to approval by the
 director of the budget in accordance with the provisions of subdivision
 two of section twenty-eight hundred seven of this article.

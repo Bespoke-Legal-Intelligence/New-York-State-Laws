@@ -111,7 +111,7 @@ Article
                  VIII.   Food handling (§§1350-1356).
                    IX.   Location and disposition of radioactive gold
                           jewelry (§1360).
-                    X.   Control of lead poisoning (§§1370--1376-a).
+                    X.   Control of lead poisoning (§§1370-1377).
                    XI.   State aid; planning for construction of solid
                           waste management facilities (§§1380-1383).
                   XII.   Toxic substances (§§1385-1389).
@@ -257,7 +257,9 @@ Article
   29-G.    Telehealth delivery of services (§§ 2999-cc--2999-ee).
   29-I.    Medical services for foster children (§ 2999-gg).
   29-J.    Medical respite program (§ 2999-hh).
-  30.      Emergency medical services (§§3000-3032).
+  29-K.    Registration of temporary health care services agencies and
+            health care technology platforms (§§ 2999-ii--2999-mm).
+  30.      Emergency medical services (§§3000-3034).
   30-A.    Emergency medical services personnel training act of nineteen
             hundred eighty-six (§§3050-3054).
   30-B.    Emergency medical, trauma and disaster care (§§3060-3066).
@@ -337,6 +339,7 @@ Article
                     2.   Living organ donation (§§4370-4372).
   44.      Health maintenance organizations (§§4400-4416).
   45.      Medical referral services (§§4500-4503).
+  45-A.    Disclosure of material transactions (§§ 4550-4552).
   46.      Continuing care retirement communities (§§4600-4624).
   46-A.    Fee-for-service continuing care retirement communities
             demonstration program (§§4650-4676).

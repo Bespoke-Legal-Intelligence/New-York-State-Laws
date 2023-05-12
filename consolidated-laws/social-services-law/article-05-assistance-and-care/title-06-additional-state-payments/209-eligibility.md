@@ -60,14 +60,25 @@ of such month, or because he has refused vocational rehabilitation.
 determining eligibility for and the amount of additional state payments,
 depending on the type of living arrangement and the geographic area in
 which the eligible individual or the eligible couple resides:
-  (a) On and after January first, two thousand twenty-two, for an
+  * (a) On and after January first, two thousand twenty-two, for an
 eligible individual living alone, $928.00; and for an eligible couple
 living alone, $1,365.00.
-  (b) On and after January first, two thousand twenty-two, for an
+  * NB Effective until December 31, 2023
+  * (a) On and after January first, two thousand twenty- three, for an
+eligible individual living alone, $1,001.00; and for an eligible couple
+living alone, $1,475.00.
+  * NB Effective December 31, 2023
+  * (b) On and after January first, two thousand twenty-two, for an
 eligible individual living with others with or without in-kind income,
 $864.00; and for an eligible couple living with others with or without
 in-kind income, $1,307.00.
-  (c) On and after January first, two thousand twenty-two, (i) for an
+  * NB Effective until December 31, 2023
+  * (b) On and after January first, two thousand twenty-three, for an
+eligible individual living with others with or without in-kind income,
+$937.00; and for an eligible couple living with others with or without
+in-kind income, $1,417.00.
+  * NB Effective December 31, 2023
+  * (c) On and after January first, two thousand twenty-two, (i) for an
 eligible individual receiving family care, $1,107.48 if he or she is
 receiving such care in the city of New York or the county of Nassau,
 Suffolk, Westchester or Rockland; and (ii) for an eligible couple
@@ -78,7 +89,20 @@ receiving such care in any other county in the state, $1,069.48; and
 (iv) for an eligible couple receiving such care in any other county in
 the state, two times the amount set forth in subparagraph (iii) of this
 paragraph.
-  (d) On and after January first, two thousand twenty-two, (i) for an
+  * NB Effective until December 31, 2023
+  * (c) On and after January first, two thousand twenty-three, (i) for
+an eligible individual receiving family care, $1,180.48 if he or she is
+receiving such care in the city of New York or the county of Nassau,
+Suffolk, Westchester or Rockland; and (ii) for an eligible couple
+receiving family care in the city of New York or the county of Nassau,
+Suffolk, Westchester or Rockland, two times the amount set forth in
+subparagraph (i) of this paragraph; or (iii) for an eligible individual
+receiving such care in any other county in the state, $1,142.48; and
+(iv) for an eligible couple receiving such care in any other county in
+the state, two times the amount set forth in subparagraph (iii) of this
+paragraph.
+  * NB Effective December 31, 2023
+  * (d) On and after January first, two thousand twenty-two, (i) for an
 eligible individual receiving residential care, $1,276.00 if he or she
 is receiving such care in the city of New York or the county of Nassau,
 Suffolk, Westchester or Rockland; and (ii) for an eligible couple
@@ -89,15 +113,41 @@ individual receiving such care in any other county in the state,
 $1,246.00; and (iv) for an eligible couple receiving such care in any
 other county in the state, two times the amount set forth in
 subparagraph (iii) of this paragraph.
-  (e) On and after January first, two thousand twenty-two, (i) for an
+  * NB Effective until December 31, 2023
+  * (d) On and after January first, two thousand twenty-three, (i) for
+an eligible individual receiving residential care, $1,349.00 if he or
+she is receiving such care in the city of New York or the county of
+Nassau, Suffolk, Westchester or Rockland; and (ii) for an eligible
+couple receiving residential care in the city of New York or the county
+of Nassau, Suffolk, Westchester or Rockland, two times the amount set
+forth in subparagraph (i) of this paragraph; or (iii) for an eligible
+individual receiving such care in any other county in the state,
+$1,319.00; and (iv) for an eligible couple receiving such care in any
+other county in the state, two times the amount set forth in
+subparagraph (iii) of this paragraph.
+  * NB Effective December 31, 2023
+  * (e) On and after January first, two thousand twenty-two, (i) for an
 eligible individual receiving enhanced residential care, $1,535.00; and
 (ii) for an eligible couple receiving enhanced residential care, two
 times the amount set forth in subparagraph (i) of this paragraph.
-  (f) The amounts set forth in paragraphs (a) through (e) of this
+  * NB Effective until December 31, 2023
+  * (e) On and after January first, two thousand twenty-three, (i) for
+an eligible individual receiving enhanced residential care, $1,608.00;
+and (ii) for an eligible couple receiving enhanced residential care, two
+times the amount set forth in subparagraph (i) of this paragraph.
+  * NB Effective December 31, 2023
+  * (f) The amounts set forth in paragraphs (a) through (e) of this
 subdivision shall be increased to reflect any increases in federal
 supplemental security income benefits for individuals or couples which
 become effective on or after January first, two thousand twenty-three
 but prior to June thirtieth, two thousand twenty-three.
+  * NB Effective until December 31, 2023
+  * (f) The amounts set forth in paragraphs (a) through (e) of this
+subdivision shall be increased to reflect any increases in federal
+supplemental security income benefits for individuals or couples which
+become effective on or after January first, two thousand twenty-four but
+prior to June thirtieth, two thousand twenty-four.
+  * NB Effective December 31, 2023
   2-a. Notwithstanding any inconsistent provision of subparagraph (ii)
 of paragraph (d) of subdivision one of this section, an individual who
 is receiving or is eligible to receive federal supplemental security

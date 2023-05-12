@@ -36,7 +36,6 @@
 - [§ 107 Intergovernmental agreements](107-intergovernmental-agreements.md)
 - [§ 108 Address confidentiality program](108-address-confidentiality-program.md)
 - [§ 109 Registration of certain service providers](109-registration-of-certain-service-providers.md)
-- [§ 110 Designation of one-day marriage officiant](110-designation-of-one-day-marriage-officiant.md) *(repealed)*
 - [§ 130 Appointment of notaries public](130-appointment-of-notaries-public.md)
 - [§ 131 Procedure of appointment; fees and commissions; fee payment methods](131-procedure-of-appointment-fees-and-commissions-fee-payment-methods.md)
 - [§ 132 Certificates of official character of notaries public](132-certificates-of-official-character-of-notaries-public.md)

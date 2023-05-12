@@ -139,4 +139,13 @@ is the subject of the sale under the limited circumstances it shall
 prescribe and upon such terms and conditions it shall deem necessary to
 ensure collection of the taxes imposed by this article and the tax
 imposed by section eleven hundred three of this chapter.
+  * 5. Upon each sale of Diesel motor fuel, other than a sale that is
+otherwise exempt under this article, the distributor must charge the tax
+imposed by this article to the purchaser on each gallon sold. If the
+taxes imposed by this article have not already been assumed or paid by a
+distributor on any quantity of such fuel for any reason, including, but
+not limited to, the expansion of such fuel as a result of temperature
+fluctuation, the distributor must remit such taxes to the commissioner
+on the return for the period in which such sale was made.
+  * NB Effective September 1, 2023
 ```

@@ -25,6 +25,7 @@
 - [§ 33.23 Incident notifications and reports](33.23-incident-notifications-and-reports.md)
 - [§ 33.25 Release of records pertaining to allegations and investigations of abuse and mistreatment](33.25-release-of-records-pertaining-to-allegations-and-investigations-of-abuse.md)
 - [§ 33.27 Independent substance use disorder and mental health ombudsman](33.27-independent-substance-use-disorder-and-mental-health-ombudsman.md)
+- [§ 33.28 Independent developmental disability ombudsman program](33.28-independent-developmental-disability-ombudsman-program.md)
 
 <details>
 <summary>Official heading of Article 33, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -58,6 +59,7 @@ Section 33.01  Protection of patients' rights.
                  investigations of abuse and mistreatment.
         33.27  Independent substance use disorder and mental health
                  ombudsman.
+        33.28  Independent developmental disability ombudsman program.
 ```
 
 </details>

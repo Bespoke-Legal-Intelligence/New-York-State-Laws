@@ -9,7 +9,7 @@
 review agent that an admission, extension of stay, or other health care
 service, upon review based on the information provided, is not medically
 necessary.
-  2. "Clinical peer reviewer" means:
+  * 2. "Clinical peer reviewer" means:
   (a) for purposes of title one of this article:
   (i) a physician who possesses a current and valid non-restricted
 license to practice medicine; or
@@ -95,6 +95,101 @@ license to practice medicine and is board certified in a pediatric
 subspecialty directly relevant to the patient's medical condition.
   (c) Nothing herein shall be construed to change any
 statutorily-defined scope of practice.
+  * NB Effective until January 1, 2024
+  * 2. "Clinical peer reviewer" means:
+  (a) for purposes of section four thousand nine hundred three of this
+article:
+  (i) a physician who possesses a current and valid non-restricted
+license to practice medicine; or
+  (ii) a health care professional other than a licensed physician who:
+  (A) where applicable, possesses a current and valid non-restricted
+license, certificate or registration or, where no provision for a
+license, certificate or registration exists, is credentialed by the
+national accrediting body appropriate to the profession; and
+  (B) is in the same profession and same or similar specialty as the
+health care provider who typically manages the medical condition or
+disease or provides the health care service or treatment under review;
+or
+  (iii) for purposes of a determination involving substance use disorder
+treatment:
+  (A) a physician who possesses a current and valid non-restricted
+license to practice medicine and who specializes in behavioral health
+and has experience in the delivery of substance use disorder courses of
+treatment; or
+  (B) a health care professional other than a licensed physician who
+specializes in behavioral health and has experience in the delivery of
+substance use disorder courses of treatment and, where applicable,
+possesses a current and valid non-restricted license, certificate or
+registration or, where no provision for a license, certificate or
+registration exists, is credentialed by the national accrediting body
+appropriate to the profession; or
+  (iv) for purposes of a determination involving treatment for a mental
+health condition:
+  (A) a physician who possesses a current and valid non-restricted
+license to practice medicine and who specializes in behavioral health
+and has experience in the delivery of mental health courses of
+treatment; or
+  (B) a health care professional other than a licensed physician who
+specializes in behavioral health and has experience in the delivery of a
+mental health courses of treatment and, where applicable, possesses a
+current and valid non-restricted license, certificate, or registration
+or, where no provision for a license, certificate or registration
+exists, is credentialed by the national accrediting body appropriate to
+the profession; and
+  (b) for purposes of section four thousand nine hundred four and title
+two of this article:
+  (i) a physician who:
+  (A) possesses a current and valid non-restricted license to practice
+medicine;
+  (B) where applicable, is board certified or board eligible in the same
+or similar specialty as the health care provider who typically manages
+the medical condition or disease or provides the health care service or
+treatment under appeal;
+  (C) for purposes of title two of this article, has been practicing in
+such area of specialty for a period of at least five years;
+  (D) for purposes of a determination involving substance use disorder
+treatment, possesses a current and valid non-restricted license to
+practice medicine and specializes in behavioral health and has
+experience in the delivery of substance use disorder courses of
+treatment;
+  (E) for purposes of a determination involving treatment for a mental
+health condition, possesses a current and valid non-restricted license
+to practice medicine and who specializes in behavioral health and has
+experience in the delivery of mental health courses of treatment; and
+  (F) is knowledgeable about the health care service or treatment under
+appeal; or
+  (ii) a health care professional other than a licensed physician who:
+  (A) where applicable, possesses a current and valid non-restricted
+license, certificate or registration;
+  (B) where applicable, is credentialed by the national accrediting body
+appropriate to the profession in the same profession and same or similar
+specialty as the health care provider who typically manages the medical
+condition or disease or provides the health care service or treatment
+under appeal;
+  (C) for purposes of title two of this article, has been practicing in
+such area of specialty for a period of at least five years;
+  (D) is knowledgeable about the health care service or treatment under
+appeal;
+  (E) for purposes of a determination involving substance use disorder,
+specializes in behavioral health and has experience in the delivery of
+substance use disorder courses of treatment and, where applicable,
+possesses a current and valid non-restricted license, certificate or
+registration or, where no provision for a license, certificate or
+registration exists, is credentialed by the national accrediting body
+appropriate to the profession;
+  (F) for purposes of a determination involving treatment for a mental
+health condition, specializes in behavioral health and has experience in
+the delivery of mental health courses of treatment and, where
+applicable, possesses a current and valid non-restricted license,
+certificate, or registration or, where no provision for a license,
+certificate or registration exists, is credentialed by the national
+accrediting body appropriate to the profession; and
+  (G) where applicable to such health care professional's scope of
+practice, is clinically supported by a physician who possesses a current
+and valid non-restricted license to practice medicine.
+  (c) Nothing in this subdivision shall be construed to change any
+statutorily-defined scope of practice.
+  * NB Effective January 1, 2024
   2-a. "Clinical standards" means those guidelines and standards set
 forth in the utilization review plan by the utilization review agent
 whose adverse determination is under appeal or, in the case of medically

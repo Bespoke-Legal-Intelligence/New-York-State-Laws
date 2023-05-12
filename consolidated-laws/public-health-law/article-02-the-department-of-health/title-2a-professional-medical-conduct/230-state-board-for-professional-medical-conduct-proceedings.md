@@ -330,7 +330,7 @@ shall be based on criteria such as disposition frequency, disposition
 type including judgment and settlement, disposition award amount,
 geographic region, specialty, or other factors as appropriate in
 identifying potential misconduct.
-  * NB Effective until July 1, 2023
+  * NB Effective until July 1, 2028
   * (a) Investigation. The board for professional medical conduct, by a
 committee on professional conduct, may investigate on its own any
 suspected professional misconduct, and shall investigate each complaint
@@ -345,7 +345,7 @@ involves a question of professional expertise then such director may
 seek, and if so shall obtain, the concurrence of at least two members of
 a panel of three members of the state board for professional medical
 conduct.
-  * NB Effective July 1, 2023
+  * NB Effective July 1, 2028
   (b) Charges. The charges shall state the substance of the alleged
 professional misconduct and shall state clearly and concisely the
 material facts but not the evidence by which the charges are to be
@@ -778,13 +778,13 @@ thirteen. An additional demonstration period shall commence April first,
 two thousand thirteen and terminate on March thirty-first, two thousand
 eighteen. An additional demonstration period shall commence April first,
 two thousand eighteen and terminate on July first, two thousand
-twenty-three provided, however, that the commissioner may prescribe
+twenty-eight provided, however, that the commissioner may prescribe
 requirements for the continuation of such demonstration program,
 including periodic reviews of such programs and submission of any
 reports and data necessary to permit such reviews. During these
 additional periods, the provisions of this subparagraph shall also apply
 to a physician committee of a county medical society.
-  * NB Expires July 1, 2023
+  * NB Expires July 1, 2028
   (d) In the event that a physician or administrator of a hospital
 established pursuant to article twenty-eight of this chapter shall
 reasonably be unable to determine if any information which he or she has
@@ -871,7 +871,7 @@ results of noncompliance with the program.
 any person for any action taken by such member provided that such action
 was taken without malice and within the scope of such member's function
 as a member of such committee.
-  ** NB Repealed July 1, 2023
+  ** NB Repealed July 1, 2028
   ** (vi) The committee, in conjunction with the director of the office
 of professional medical conduct, shall develop appropriate consent forms
 and disclosure proceedings as may be necessary under any federal
@@ -884,8 +884,8 @@ committee shall be subject to disclosure under article thirty-one of the
 civil practice law and rules nor shall any member of any such committee
 nor any person in attendance at any such meeting be required to testify
 as to what transpired thereat.
-  ** NB Repealed July 1, 2023
-  * NB Expires July 1, 2023
+  ** NB Repealed July 1, 2028
+  * NB Expires July 1, 2028
   (h) The office of professional medical conduct shall post on its
 website information on patients' rights and reporting options under this
 subdivision regarding professional misconduct, which shall specifically
@@ -1060,7 +1060,7 @@ consultation with, and approved by the commissioner. No funds shall be
 made available unless the committee's procedures have been approved by
 the commissioner pursuant to paragraph (g) of subdivision eleven of this
 section.
-  * NB Repealed July 1, 2023
+  * NB Repealed July 1, 2028
   16. Liability. Notwithstanding any other provision of law, persons who
 assist the department as consultants, expert witnesses, administrative
 officers or monitors in the investigation, prosecution or hearing of

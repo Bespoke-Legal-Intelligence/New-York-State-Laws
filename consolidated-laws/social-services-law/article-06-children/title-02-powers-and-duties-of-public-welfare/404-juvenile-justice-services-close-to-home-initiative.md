@@ -614,5 +614,5 @@ ninety-eight of this article.
 social services district that recites the facts upon which it is based
 shall be deemed or held to be invalid by reason of any imperfection or
 defect in form.
-  * NB Repealed March 31, 2023
+  * NB Repealed March 31, 2028
 ```

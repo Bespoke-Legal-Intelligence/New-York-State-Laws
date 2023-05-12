@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 20 — Tax On Cigarettes and Tobacco Products](README.md)
 
 ```text
-  § 471. Imposition of cigarette tax. 1. There is hereby imposed and
+  § 471. Imposition of cigarette tax. * 1. There is hereby imposed and
 shall be paid a tax on all cigarettes possessed in the state by any
 person for sale, except that no tax shall be imposed on cigarettes sold
 under such circumstances that this state is without power to impose such
@@ -42,6 +42,45 @@ only one sale of the same package of cigarettes. It shall be presumed
 that all cigarettes within the state are subject to tax until the
 contrary is established, and the burden of proof that any cigarettes are
 not taxable hereunder shall be upon the person in possession thereof.
+  * NB Effective until September 1, 2023
+  * 1. There is hereby imposed and shall be paid a tax on all cigarettes
+possessed in the state by any person for sale, except that no tax shall
+be imposed on cigarettes sold under such circumstances that this state
+is without power to impose such tax, including sales to qualified
+Indians for their own use and consumption on their nations' or tribes'
+qualified reservation, or sold to the United States or sold to or by a
+voluntary unincorporated organization of the armed forces of the United
+States operating a place for the sale of goods pursuant to regulations
+promulgated by the appropriate executive agency of the United States, to
+the extent provided in such regulations and policy statements of such an
+agency applicable to such sales. The tax imposed by this section is
+imposed on all cigarettes sold on an Indian reservation to non-members
+of the Indian nation or tribe and to non-Indians and evidence of such
+tax shall be by means of an affixed cigarette tax stamp. Indian nations
+or tribes may elect to participate in the Indian tax exemption coupon
+system established in section four hundred seventy-one-e of this article
+which provides a mechanism for the collection of the tax imposed by this
+section on cigarette sales on qualified reservations to such non-members
+and non-Indians and for the delivery of quantities of tax-exempt
+cigarettes to Indian nations or tribes for the personal use and
+consumption of qualified members of the Indian nation or tribe. If an
+Indian nation or tribe does not elect to participate in the Indian tax
+exemption coupon system, the prior approval system shall be the
+mechanism for the delivery of quantities of tax-exempt cigarettes to
+Indian nations or tribes for the personal use and consumption of
+qualified members of the Indian nation or tribe as provided for in
+paragraph (b) of subdivision five of this section. Such tax on
+cigarettes shall be at the rate of five dollars and thirty-five cents
+for each twenty cigarettes or fraction thereof, provided, however, that
+if a package of cigarettes contains more than twenty cigarettes, the
+rate of tax on the cigarettes in such package in excess of twenty shall
+be one dollar and thirty-three and three-quarters cents for each five
+cigarettes or fraction thereof. Such tax is intended to be imposed upon
+only one sale of the same package of cigarettes. It shall be presumed
+that all cigarettes within the state are subject to tax until the
+contrary is established, and the burden of proof that any cigarettes are
+not taxable hereunder shall be upon the person in possession thereof.
+  * NB Effective September 1, 2023
   2. It is intended that the ultimate incidence of and liability for the
 tax shall be upon the consumer, and that any agent or dealer who shall
 pay the tax to the commissioner shall collect the tax from the purchaser

@@ -36,6 +36,7 @@
 - [§ 922 Opioid overdose prevention](922-opioid-overdose-prevention.md)
 - [§ 923 Sudden cardiac arrest](923-sudden-cardiac-arrest.md)
 - [§ 924 Ingredient and nutritional information requirements](924-ingredient-and-nutritional-information-requirements.md)
+- [§ 925 Community eligibility provision state subsidy](925-community-eligibility-provision-state-subsidy.md)
 
 <details>
 <summary>Official heading of Article 19, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -81,6 +82,7 @@ Section 901.   School health services to be provided.
         922.   Opioid overdose prevention.
         923.   Sudden cardiac arrest.
         924.   Ingredient and nutritional information requirements.
+        925.   Community eligibility provision state subsidy.
 ```
 
 </details>

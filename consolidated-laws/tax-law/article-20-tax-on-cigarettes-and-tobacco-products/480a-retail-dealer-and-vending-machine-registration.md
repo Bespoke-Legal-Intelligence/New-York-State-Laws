@@ -206,6 +206,16 @@ than seven hundred fifty dollars but not to exceed two thousand dollars
 and for a second or subsequent violation within three years following a
 prior finding of violation be liable for a civil fine not less than two
 thousand dollars but not to exceed six thousand dollars.
+  (c) If a retail dealer does not possess a valid registration, either
+because it failed to obtain a registration or its registration is
+suspended or revoked and the commissioner or their designee, pursuant to
+their authority under this article, attempts to inspect such premises
+for a violation of this section and such retail dealer, including an
+agent thereof, is found, after notice and opportunity to be heard, to
+have refused such inspection, such retail dealer shall be subject to a
+penalty of up to four thousand dollars for a first refusal and up to
+eight thousand dollars for a second or subsequent refusal within three
+years of a prior refusal.
   4. (a) If a retail dealer possesses or sells unstamped or unlawfully
 stamped packages of cigarettes, or if a retail dealer is also licensed
 as an agent pursuant to section four hundred seventy-two and it
@@ -229,6 +239,15 @@ person of such retail dealer, the revocation of the retail dealer's
 registration pursuant to this subdivision shall be applicable to each
 retail place of business in this state through which such retail dealer
 and any affiliated person of such retail dealer sells cigarettes.
+  (a-1) If a retail dealer, including an agent thereof, refuses to
+comply with the requirements of subdivision four of section four hundred
+seventy-four of this article its registration may be revoked (i) for a
+period of one year, or (ii) for a second such violation within a period
+of five years for up to three years, or (iii) for a third or subsequent
+violation within a period of seven years for a period up to ten years. A
+retail dealer registration shall be considered to be revoked pursuant to
+this subdivision immediately upon such dealer's receipt of written
+notice of revocation from the commissioner.
   (b) A retail dealer who is notified of a revocation of its
 registration pursuant to this subdivision shall have the right to have
 the revocation reviewed by the commissioner or his or her designee by
@@ -244,8 +263,8 @@ retail dealer to present further evidence or arguments in connection
 with the revocation.  The commissioner or his or her designee shall
 cancel the revocation of registration if the commissioner or his or her
 designee is not satisfied by a preponderance of the evidence that the
-retail dealer possessed or sold unstamped or unlawfully stamped packages
-of cigarettes.
+retail dealer violated paragraph (a) or (a-1) of this subdivision, as
+may be applicable.
   (c) An order of revocation of a retail dealer registration shall not
 be reviewable by the division of tax appeals, but may be reviewed
 pursuant to article seventy-eight of the civil practice law and rules by
@@ -270,18 +289,18 @@ without requirement of printing.
 or his or her designee is complete, or the time within which a retail
 dealer may request such review has expired without such a request having
 been made, notice of the revocation of a retail dealer registration
-pursuant to this subdivision shall be given by the commissioner to the
-head of the division of the lottery for the purpose of enforcement of
-section sixteen hundred seven of this chapter and such division may
-suspend or revoke any license issued with respect to a lottery agent's
-specific location pursuant to article thirty-four of this chapter if
-such lottery agent is a retail dealer of cigarettes whose registration
-for such location is suspended or revoked pursuant to this section. In
-addition, notice of such revocation shall also be given to the state
-liquor authority and such revocation shall constitute cause, for
-purposes of section one hundred eighteen of the alcoholic beverage
-control law, for revocation, cancellation or suspension of any license
-or permit issued pursuant to such law.
+pursuant to paragraph (a) of this subdivision shall be given by the
+commissioner to the head of the division of the lottery for the purpose
+of enforcement of section sixteen hundred seven of this chapter and such
+division may suspend or revoke any license issued with respect to a
+lottery agent's specific location pursuant to article thirty-four of
+this chapter if such lottery agent is a retail dealer of cigarettes
+whose registration for such location is suspended or revoked pursuant to
+this section. In addition, notice of such revocation shall also be given
+to the state liquor authority and such revocation shall constitute
+cause, for purposes of section one hundred eighteen of the alcoholic
+beverage control law, for revocation, cancellation or suspension of any
+license or permit issued pursuant to such law.
   5. Except for subdivision (i) of section eighteen hundred fourteen of
 this chapter, the criminal penalties set forth in article thirty-seven
 of this chapter shall not apply to a violation of this section.

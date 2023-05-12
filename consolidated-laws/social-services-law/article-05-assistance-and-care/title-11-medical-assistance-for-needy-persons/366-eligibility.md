@@ -349,7 +349,12 @@ under this title while he or she:
 medical assistance may not be provided in accordance with applicable
 federal or state requirements, except for persons described in
 subparagraph ten of paragraph (c) of this subdivision or subdivision
-one-a or subdivision one-b of this section; or
+one-a or subdivision one-b of this section; or except for certain
+services provided to persons in a correctional institution or facility
+permitted by a waiver authorized pursuant to section eleven hundred
+fifteen of the federal social security act; if, so long as, and to the
+extent federal financial participation is available for such
+expenditures provided pursuant to such waiver; or
   (2) is a patient in a public institution operated primarily for the
 treatment of tuberculosis or care of the mentally disabled, with the
 exception of: (i) a person sixty-five years of age or older and a
@@ -362,8 +367,13 @@ care or treatment in that part of such institution that has been
 approved pursuant to law as a hospital or nursing home; (iv) a patient
 in an institution operated by the state department of mental hygiene,
 while under care in a hospital on release from such institution for the
-purpose of receiving care in such hospital; or (v) is a person residing
-in a community residence or a residential care center for adults.
+purpose of receiving care in such hospital; (v) is a person residing in
+a community residence or a residential care center for adults; or (vi)
+certain services provided to persons in an institution for mental
+diseases permitted by a waiver authorized pursuant to section eleven
+hundred fifteen of the federal social security act; if, so long as, and
+to the extent federal financial participation is available for such
+expenditures provided pursuant to such waiver.
   (f) Notwithstanding any inconsistent provision of this title, for an
 individual who has income in excess of an applicable income eligibility
 standard and is allowed to achieve eligibility for medical assistance
@@ -377,9 +387,9 @@ participation is available therefor. The commissioner of health shall
 make any amendments to the state plan for medical assistance, or apply
 for any waiver or approval under the federal social security act that
 are necessary to carry out the provisions of this paragraph.
-  (g) Coverage of certain noncitizens. (1) Applicants and recipients who
-are lawfully admitted for permanent residence, or who are permanently
-residing in the United States under color of law, or who are
+  (g) Coverage of certain noncitizens.  (1) Applicants and recipients
+who are lawfully admitted for permanent residence, or who are
+permanently residing in the United States under color of law, or who are
 non-citizens in a valid nonimmigrant status, as defined in 8 U.S.C.
 1101(a)(15); who are MAGI eligible pursuant to paragraph (b) of this
 subdivision; and who would be ineligible for medical assistance coverage
@@ -388,7 +398,9 @@ this title solely due to their immigration status if the provisions of
 section one hundred twenty-two of this chapter were applied, shall only
 be eligible for assistance under this title if enrolled in a standard
 health plan offered by a basic health program established pursuant to
-section three hundred sixty-nine-gg of this article if such program is
+section three hundred sixty-nine-gg of this article or a standard health
+plan offered by a 1332 state innovation program established pursuant to
+section three hundred sixty-nine-ii of this article if such program is
 established and operating.
   (2) With respect to a person described in subparagraph one of this
 paragraph who is enrolled in a standard health plan, medical assistance
@@ -1631,7 +1643,7 @@ nineteen hundred fifteen of the federal social security act in order to
 provide home and community-based services, not included under the
 medical assistance program.
   b. A person eligible for participation in the waiver program shall:
-  (i) be eighteen years of age or under;
+  (i) be twenty-one years of age or under;
   (ii) be physically disabled, according to the federal supplemental
 security income program criteria, including but not limited to a person
 who is multiply disabled;
@@ -1699,7 +1711,7 @@ participation of any person in the waiver program.
   k. This subdivision shall be effective only if, and as long as,
 federal financial participation is available for expenditures incurred
 under this subdivision.
-  * NB Repealed March 31, 2023
+  * NB Repealed March 31, 2028
   6-a. a. The commissioner of health shall apply for a nursing facility
 transition and diversion medicaid waiver pursuant to subdivision (c) of
 section nineteen hundred fifteen of the federal social security act in
@@ -1780,7 +1792,7 @@ hundred fifteen of the federal social security act, in order to provide
 home and community-based services not presently included in the medical
 assistance program.
   b. Persons eligible for participation in the waiver program shall:
-  (i) be eighteen years of age or under;
+  (i) be twenty-one years of age or under;
   (ii) have a developmental disability, as such term is defined in
 subdivision twenty-two of section 1.03 of the mental hygiene law;
   (iii) demonstrate complex health care needs, as defined in paragraph c
@@ -1991,7 +2003,7 @@ general waiver to the extent funds are appropriated for transfer to the
 department for the state share of medical assistance payments for such
 waiver services from the budget of the office of mental health.
   b. Persons eligible for inclusion in the general waiver shall:
-  (i) be under eighteen years of age;
+  (i) be under twenty-one years of age;
   (ii) have a mental illness, as such term is defined in subdivision
 twenty of section 1.03 of the mental hygiene law;
   (iii) demonstrate complex health or mental health care needs, as
@@ -2254,4 +2266,90 @@ sixty-six-c of this title.
 in education, outreach services, and facilitated enrollment activities
 for aged, blind, and disabled persons who may be eligible for coverage
 under this title.
+  * 16. (a) The commissioner of health is authorized to submit the
+appropriate waivers and/or any other required requests for federal
+approval, including but not limited to, those authorized in section
+eleven hundred fifteen of the federal social security act, in order to
+establish expanded medical assistance eligibility for working disabled
+individuals. Such waiver applications shall be executed consistent with
+paragraphs (b), (c), (d) and (e) of this subdivision, to the extent
+those sections comply with the requirements of section eleven hundred
+fifteen of the federal social security act. Notwithstanding
+subparagraphs five and six of paragraph (c) of subdivision one of this
+section and subdivision twelve of section three hundred sixty-seven-a of
+this title, or any other provision of law to the contrary, if granted
+such waiver, the commissioner of health may authorize eligible persons
+to receive medical assistance pursuant to the waiver if, for so long as,
+and to the extent that, financial participation is available therefor.
+The waiver application shall provide for thirty thousand persons to be
+eligible to participate in such waiver.
+  (b) Individuals eligible for participation in such waiver shall:
+  (i) be a disabled individual, defined as having a medically
+determinable impairment of sufficient severity and duration to qualify
+for benefits under Titles II or XVI of the social security act;
+  (ii) be at least sixteen years of age;
+  (iii) be otherwise eligible for medical assistance benefits, but for
+earnings and/or resources in excess of the allowable limit;
+  (iv) have net available income, determined in accordance with
+subdivision two of this section, that does not exceed two thousand two
+hundred fifty percent of the applicable federal poverty line, as defined
+and updated by the United States department of health and human
+services;
+  (v) have resources, as defined in paragraph (e) of subdivision two of
+section three hundred sixty-six-c of this title, other than retirement
+accounts, that do not exceed three hundred thousand dollars;
+  (vi) contribute to the cost of medical assistance provided pursuant to
+this paragraph in accordance with paragraph (d) of this subdivision; and
+  (vii) meet such other criteria as may be established by the
+commissioner as may be necessary to administer the provisions of this
+subdivision in an equitable manner.
+  (c) An individual at least sixteen years of age who: is employed;
+ceases to be eligible for participation in such waiver pursuant to
+paragraph (b) of this subdivision because the person, by reason of
+medical improvement, is determined at the time of a regularly scheduled
+continuing disability review to no longer be certified as disabled under
+the social security act; continues to have a severe medically
+determinable impairment, to be determined in accordance with applicable
+federal regulations; and contributes to the cost of medical assistance
+provided pursuant to this paragraph in accordance with paragraph (d) of
+this subdivision, shall be eligible for participation in such waiver.
+For purposes of this paragraph, a person is considered to be employed if
+the person is earning at least the applicable minimum wage under section
+six of the federal fair labor standards act and working at least forty
+hours per month.
+  (d) Prior to receiving medical assistance pursuant to such waiver, a
+person whose net available income is greater than or equal to two
+hundred fifty percent of the applicable federal poverty line shall pay a
+monthly premium, in accordance with a procedure to be established by the
+commissioner, provided that no enrollee shall pay a monthly premium that
+exceeds exceed eight and one-half percent of the enrollee's monthly
+income. The amount of such premium for a person whose net available
+income is greater than or equal to two hundred fifty percent of the
+applicable federal poverty line, but less than three hundred percent of
+the applicable federal poverty line shall be three hundred and
+forty-seven dollars but shall not exceed four percent of the enrollee's
+monthly income. The amount of such premium for a person whose net
+available income is greater than or equal to three hundred percent of
+the applicable federal poverty line, but less than four hundred percent
+of the applicable federal poverty line shall be five hundred eighteen
+dollars but shall not exceed six percent of the enrollee's monthly
+income. The amount of such premium for a person whose net available
+income is greater than or equal to four hundred percent of the
+applicable federal poverty line, but less than five hundred percent of
+the applicable federal poverty line shall be seven hundred and
+seventy-nine dollars but shall not exceed eight and one-half percent of
+the enrollee's monthly income. The amount of such premium for a person
+whose net available income is equal to or greater than five hundred
+percent of the applicable federal poverty line shall be one thousand
+thirty-three dollars but shall not exceed eight and one-half percent of
+the enrollee's monthly income. No premium shall be required from a
+person whose net available income is less than two hundred fifty percent
+of the applicable federal poverty line.
+  (e) Notwithstanding any other provision of this section or any other
+law to the contrary, for purposes of determining medical assistance
+eligibility for persons specified in paragraph (b) or (c) of this
+subdivision, the income and resources of responsible relatives shall not
+be deemed available for as long as the person meets the criteria
+specified in this subdivision.
+  * NB Effective January 1, 2025
 ```

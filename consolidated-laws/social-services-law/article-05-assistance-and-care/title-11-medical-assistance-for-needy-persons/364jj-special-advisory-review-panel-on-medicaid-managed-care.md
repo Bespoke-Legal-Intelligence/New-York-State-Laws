@@ -70,7 +70,7 @@ status of Medicaid managed care in the state and provide recommendations
 if it deems appropriate to the governor, the temporary president and the
 minority leader of the senate, and the speaker and the minority leader
 of the assembly.
-  * NB Effective until September 30, 2023
+  * NB Effective until December 31, 2025
   * § 364-jj. Special advisory review panel on Medicaid managed care.
 (a) There is hereby established a special advisory review panel on
 Medicaid managed care. The panel shall consist of nine members who shall
@@ -108,5 +108,5 @@ status of Medicaid managed care in the state and provide recommendations
 if it deems appropriate to the governor, the temporary president and the
 minority leader of the senate, and the speaker and the minority leader
 of the assembly.
-  * NB Effective September 30, 2023
+  * NB Effective December 31, 2025
 ```

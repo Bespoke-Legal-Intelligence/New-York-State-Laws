@@ -292,6 +292,12 @@ subsection, paragraph one of subsection (c), subparagraph (A) of
 paragraph three of subsection (d), and subparagraph (A) of paragraph
 four of subsection (d) of this section shall be applied by substituting
 "one hundred percent" for "ninety-one percent" each place it appears.
+  (e-1) Waiver of addition for underpayment of estimated tax. No
+addition to tax shall be imposed under subsection (c) of this section
+with respect to any underpayment to the extent the commissioner
+determines that by reason of casualty, disaster or other unusual
+circumstances the imposition of such addition to tax would be against
+equity and good conscience.
   (f) Deficiency due to fraud.---(1) If any part of a deficiency is due
 to fraud, there shall be added to the tax an amount equal to two times
 the deficiency.

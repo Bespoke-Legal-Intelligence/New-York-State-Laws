@@ -4,8 +4,8 @@
 [Social Services Law](../../README.md) › [Article 6 — Children](../README.md) › [Title 5-C — Block Grant For Child Care](README.md)
 
 ```text
-  § 410-w. Eligible families. 1. A social services district may use the
-funds allocated to it from the block grant to provide child care
+  § 410-w. Eligible families. * 1. A social services district may use
+the funds allocated to it from the block grant to provide child care
 assistance to:
   (a) families receiving public assistance when such child care
 assistance is necessary: to enable a parent or caretaker relative to
@@ -51,13 +51,48 @@ services district designates in its consolidated services plan as
 eligible for child care assistance in accordance with criteria
 established by the department; provided, the family income does not
 exceed eighty-five percent of the state median income.
+  * NB Effective until October 1, 2023
+  * 1. A social services district may use the funds allocated to it from
+the block grant to provide child care assistance to:
+  (a) families receiving public assistance when such child care
+assistance is necessary: to enable a parent or caretaker relative to
+engage in work, participate in work activities or perform a community
+service pursuant to title nine-B of article five of this chapter; to
+enable a teenage parent to attend high school or other equivalent
+training program; because the parent or caretaker relative is physically
+or mentally incapacitated; or because family duties away from home
+necessitate the parent or caretaker relative's absence; child day care
+shall be provided during breaks in activities. Such child day care shall
+be authorized for the period designated by the regulations of the
+department;
+  (b) families with incomes up to eighty-five percent of the state
+median income who are attempting through work activities to transition
+off of public assistance when such child care is necessary in order to
+enable a parent or caretaker relative to engage in work provided such
+families' public assistance has been terminated as a result of increased
+hours of or income from employment or increased income from child
+support payments or the family voluntarily ended assistance; provided
+that the family received public assistance at least three of the six
+months preceding the month in which eligibility for such assistance
+terminated or ended or provided that such family has received child care
+assistance under subdivision four of this section;
+  (c) families with incomes up to eighty-five percent of the state
+median income, which are determined in accordance with the regulations
+of the department to be at risk of becoming dependent on family
+assistance;
+  (d) families with incomes up to eighty-five percent of the state
+median income, who are attending a post secondary educational program;
+and
+  (e) other families with incomes up to eighty-five percent of the state
+median income in accordance with criteria established by the department.
+  * NB Effective October 1, 2023
   2. For the purposes of this title, the term "state income standard"
 means the most recent federal income official poverty line (as defined
 and annually revised by the federal office of management and budget)
 updated by the department for a family size of four and adjusted by the
 department for family size.
-  3. A social services district shall guarantee child care assistance to
-families in receipt of public assistance with children under thirteen
+  * 3. A social services district shall guarantee child care assistance
+to families in receipt of public assistance with children under thirteen
 years of age when such child care assistance is necessary for a parent
 or caretaker relative to engage in work or participate in work
 activities pursuant to the provisions of title nine-B of article five of
@@ -82,6 +117,59 @@ percent of the state median income. Such child day care shall recognize
 the need for continuity of care for the child and a district shall not
 move a child from an existing provider unless the participant consents
 to such move.
+  * NB Effective until October 1, 2023
+  * 3. A social services district shall guarantee child care assistance
+to families in receipt of public assistance with children under thirteen
+years of age when such child care assistance is necessary for a parent
+or caretaker relative to engage in work or participate in work
+activities pursuant to the provisions of title nine-B of article five of
+this chapter. Child care assistance shall continue to be guaranteed for
+such a family for a period of twelve months or, upon approval by the
+office, may be provided by a social services district for a period up to
+twenty-four months, after the month in which the family's eligibility
+for public assistance has terminated or ended when such child care is
+necessary in order to enable the parent or caretaker relative to engage
+in work, provided that the family's public assistance has been
+terminated as a result of an increase in the hours of or income from
+employment or increased income from child support payments or because
+the family voluntarily ended assistance; that the family received public
+assistance in at least three of the six months preceding the month in
+which eligibility for such assistance terminated or ended or provided
+that such family has received child care assistance under subdivision
+four of this section; and that the family's income does not exceed
+eighty-five percent of the state median income. Such child day care
+shall recognize the need for continuity of care for the child and a
+district shall not move a child from an existing provider unless the
+participant consents to such move.
+  * NB Effective October 1, 2023
+  * 3-a. A local social services district may, upon notification to the
+office, utilize a presumptive eligibility standard to provide child care
+assistance, in accordance with this subdivision. The office of children
+and family services shall issue guidance regarding the preliminary
+eligibility criteria to be used by local social services districts
+utilizing a presumptive eligibility standard.
+  (a) A local social services district opting to utilize a presumptive
+eligibility standard, shall, upon receipt of an application for child
+care assistance, including all completed documentation required by the
+district, complete a preliminary eligibility determination.
+  (b) If the family meets the preliminary eligibility criteria, the
+family shall be presumed eligible for child care assistance for the
+period from the date of the application to the date of the final
+eligibility determination.
+  (c) If, upon final determination, a family is determined to be
+eligible for child care assistance under subdivision one or four of this
+section, the social services district may utilize child care block grant
+funds for the presumptive eligibility period.
+  (d) If, upon final determination, a family is determined to be
+ineligible for child care assistance under subdivision one or four of
+this section, the social services district must utilize local funds for
+the presumptive eligibility period.
+  (e) If, upon final determination, the application for child care
+services is denied, the social services district shall send written
+notice to the applicant of the determination of ineligibility and of the
+applicant's right to a fair hearing in accordance with the regulations
+of the office.
+  * NB Effective May 3, 2024
   4. (a) Local social services districts shall guarantee applicants who
 would otherwise be eligible for, or are recipients of, public assistance
 benefits and who are employed, the option to choose to receive
@@ -138,7 +226,7 @@ with at least thirty days prior written notice of the action. Provided,
 however, that a family receiving assistance pursuant to this title shall
 not be required to contribute more than ten percent of their income
 exceeding the federal poverty level.
-  * NB Effective until April 16, 2024
+  * NB Effective until October 1, 2023
   * 8. Notwithstanding any other provision of law, rule or regulations
 to the contrary, a social services district that implements a plan
 amendment to the child care portion of its child and family services
@@ -151,8 +239,11 @@ to the district determining that it cannot maintain its current caseload
 because all of the available funds are projected to be needed for open
 cases, shall provide all families whose eligibility for child care
 assistance or family share percentage will be impacted by such action
-with at least thirty days prior written notice of the action.
-  * NB Effective April 16, 2024
+with at least thirty days prior written notice of the action. Provided,
+however, that a family receiving assistance pursuant to this title shall
+not be required to contribute more than one percent of their income
+exceeding the federal poverty level.
+  * NB Effective October 1, 2023
   9. Parents and caretakers who are otherwise eligible for child care
 assistance, and provided with such assistance, shall be able to utilize
 the assistance when care is necessary to enable them to sleep because
@@ -160,9 +251,16 @@ they work non-traditional hours and have a child who is under the age of
 six and not in school for a full school day. The authorization for child
 care assistance shall be sufficient to allow the parent to obtain up to
 eight hours of sleep, as needed.
-  10. For the purposes of this section, the term "state median income"
+  * 10. For the purposes of this section, the term "state median income"
 means the most recent state median income data published by the bureau
 of the census, for a family of the same size, updated by the department
 for a family size of four and adjusted by the department for family
 size.
+  * NB Effective until October 1, 2023
+  * 10. For the purposes of this title, the term "state median income"
+means the most recent state median income data published by the bureau
+of the census, for a family of the same size, updated by the department
+for a family size of four and adjusted by the department for family
+size.
+  * NB Effective October 1, 2023
 ```

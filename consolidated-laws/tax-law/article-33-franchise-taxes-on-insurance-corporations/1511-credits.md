@@ -1473,27 +1473,26 @@ and may be deducted from the taxpayer's tax for such year or years.
   * NB There are 3 sb§ (y)'s
   * (y) Credit for rehabilitation of historic properties. (1) (A) For
 taxable years beginning on or after January first, two thousand ten and
-before January first, two thousand twenty-five, a taxpayer shall be
-allowed a credit as hereinafter provided, against the tax imposed by
-this article, in an amount equal to one hundred percent of the amount of
-credit allowed the taxpayer with respect to a certified historic
-structure, and one hundred fifty percent of the amount of credit allowed
-the taxpayer with respect to a certified historic structure that is a
-small project, under internal revenue code section 47(c)(3), determined
-without regard to ratably allocating the credit over a five year period
-as required by subsection (a) of such section 47, with respect to a
-certified historic structure located within the state. Provided,
-however, the credit shall not exceed five million dollars. For taxable
-years beginning on or after January first, two thousand twenty-five, a
-taxpayer shall be allowed a credit as hereinafter provided, against the
-tax imposed by this article, in an amount equal to thirty percent of the
-amount of credit allowed the taxpayer with respect to a certified
-historic structure under internal revenue code section 47(c)(3),
-determined without regard to ratably allocating the credit over a five
-year period as required by subsection (a) of such section 47 with
-respect to a certified historic structure located within the state.
-Provided, however, the credit shall not exceed one hundred thousand
-dollars.
+before January first, two thousand thirty, a taxpayer shall be allowed a
+credit as hereinafter provided, against the tax imposed by this article,
+in an amount equal to one hundred percent of the amount of credit
+allowed the taxpayer with respect to a certified historic structure, and
+one hundred fifty percent of the amount of credit allowed the taxpayer
+with respect to a certified historic structure that is a small project,
+under internal revenue code section 47(c)(3), determined without regard
+to ratably allocating the credit over a five year period as required by
+subsection (a) of such section 47, with respect to a certified historic
+structure located within the state. Provided, however, the credit shall
+not exceed five million dollars. For taxable years beginning on or after
+January first, two thousand thirty, a taxpayer shall be allowed a credit
+as hereinafter provided, against the tax imposed by this article, in an
+amount equal to thirty percent of the amount of credit allowed the
+taxpayer with respect to a certified historic structure under internal
+revenue code section 47(c)(3), determined without regard to ratably
+allocating the credit over a five year period as required by subsection
+(a) of such section 47 with respect to a certified historic structure
+located within the state.  Provided, however, the credit shall not
+exceed one hundred thousand dollars.
   (B) If the taxpayer is a partner in a partnership, then the cap
 imposed in subparagraph (A) of this paragraph shall be applied at the
 entity level, so that the aggregate credit allowed to all the partners
@@ -1646,4 +1645,19 @@ receipt of its certificate of tax credit issued by the commissioner of
 the office of alcoholism and substance abuse services pursuant to
 section 32.38 of the mental hygiene law.
   * NB There are 2 sb (dd)'s
+  (ee) Child care creation and expansion tax credit. (1) Allowance of
+credit. A taxpayer shall be allowed a credit, to be computed as provided
+in section forty-eight of this chapter, against the tax imposed by this
+article.
+  (2) Application of credit. The credit allowed under this subdivision
+shall not reduce the tax due for such year to be less than the minimum
+fixed by paragraph four of subdivision (a) of section fifteen hundred
+two or section fifteen hundred two-a of this article, whichever is
+applicable. However, if the amount of the credit allowed under this
+subdivision for any taxable year reduces the taxpayer's tax to such
+amount, any amount of credit thus not deductible will be treated as an
+overpayment of tax to be credited or refunded in accordance with the
+provisions of section one thousand eighty-six of this chapter. Provided,
+however, the provisions of subsection (c) of one thousand eighty-eight
+of this chapter notwithstanding, no interest shall be paid thereon.
 ```

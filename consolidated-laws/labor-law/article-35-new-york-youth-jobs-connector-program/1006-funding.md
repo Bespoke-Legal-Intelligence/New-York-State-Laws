@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 1006", "kind": "section", "law_id": "LAB", "location_id": "1006", "path": "ARTICLE 35 › SECTION 1006", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/1006.md", "title": "Funding"} -->
+# Labor Law § 1006 — Funding
+
+[Labor Law](../README.md) › [Article 35 — New York Youth Jobs Connector Program](README.md)
+
+```text
+  * § 1006. Funding. The department shall identify and leverage any
+available funds as necessary, including any private funds provided for
+the purpose of supporting this article, which may be used to subsidize
+the New York youth jobs connector program. The department may further
+identify any private or not-for-profit entities which currently provide
+job placement or training services, or other services described in
+section one thousand five of this article, whether as the entity's
+primary purpose or coincidental to such entities' operations. Such
+entities may include, but not be limited to, boys and girls clubs, local
+or state-wide affiliated young persons' organizations, and employer
+associations. The department may, to the extent practicable, contract
+with such entities for the explicit purpose of using their membership or
+staff to directly seek out and notify unemployed youths between the ages
+of sixteen and twenty-four years about the New York youth jobs connector
+program and the services offered thereunder.
+  * NB Effective July 2, 2023
+```

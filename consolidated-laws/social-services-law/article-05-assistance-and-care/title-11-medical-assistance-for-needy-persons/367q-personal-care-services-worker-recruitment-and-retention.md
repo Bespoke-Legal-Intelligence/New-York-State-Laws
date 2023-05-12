@@ -78,6 +78,15 @@ thirty-first, two thousand twenty-two, up to twenty-eight million five
 hundred thousand dollars;
   (v) for the period April first, two thousand twenty-two through March
 thirty-first, two thousand twenty-three, up to twenty-eight million five
+hundred thousand dollars;
+  (w) for the period April first, two thousand twenty-three through
+March thirty-first, two thousand twenty-four, up to twenty-eight million
+five hundred thousand dollars;
+  (x) for the period April first, two thousand twenty-four through March
+thirty-first, two thousand twenty-five, up to twenty-eight million five
+hundred thousand dollars;
+  (y) for the period April first, two thousand twenty-five through March
+thirty-first, two thousand twenty-six, up to twenty-eight million five
 hundred thousand dollars.
   2. Such adjustments to rates of payments shall be allocated
 proportionally based on each personal care services providers' total

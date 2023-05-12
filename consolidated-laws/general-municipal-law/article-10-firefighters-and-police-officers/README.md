@@ -9,6 +9,7 @@
 
 - [§ 200 Defining qualifications of exempt volunteer firefighters](200-defining-qualifications-of-exempt-volunteer-firefighters.md)
 - [§ 200-A Volunteer firefighters serving in more than one fire company or fire department](200a-volunteer-firefighters-serving-in-more-than-one-fire-company-or-fire-department.md)
+- [§ 200-AA Training stipend for volunteer firefighters](200aa-training-stipend-for-volunteer-firefighters.md)
 - [§ 200-B Leaves of absence for volunteer firefighters entering the armed forces of the United States prior to July first, nineteen hundred sixty-six](200b-leaves-of-absence-for-volunteer-firefighters-entering-the-armed-forces.md)
 - [§ 200-C Leaves of absence for volunteer firefighters entering the armed forces of the United States on or after July first, nineteen hundred sixt...](200c-leaves-of-absence-for-volunteer-firefighters-entering-the-armed-forces.md)
 - [§ 201 Rights and privileges of exempt volunteer firefighters](201-rights-and-privileges-of-exempt-volunteer-firefighters.md)
@@ -115,6 +116,7 @@ Section 200.      Defining qualifications of exempt volunteer
                     firefighters.
         200-a.    Volunteer firefighters serving in more than one fire
                     company or fire department.
+        200-aa.   Training stipend for volunteer firefighters.
         200-b.    Leaves of absence for volunteer firefighters entering
                     the armed forces of the United States prior to July
                     first, nineteen hundred sixty-six.

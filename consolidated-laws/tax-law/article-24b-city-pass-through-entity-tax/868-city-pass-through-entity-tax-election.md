@@ -25,12 +25,12 @@ to this article must be made by an individual as described in subsection
 annual election to be taxed pursuant to article twenty-four-A of this
 chapter for the taxable year.
   (c) The annual election to be taxed pursuant to this article must be
-made by the due date of the first estimated payment under section eight
-hundred sixty-four of this chapter and will take effect for the current
-taxable year. Only one election to be taxed pursuant to this article may
-be made during each calendar year. An election made under this section
-is irrevocable as of such due date. To the extent an election made under
-section eight hundred sixty-one of this chapter is revoked or otherwise
-invalidated an election made under this section is automatically
-invalidated.
+made on or before the due date of the first estimated payment under
+section eight hundred sixty-four of this chapter and will take effect
+for the current taxable year. Only one election to be taxed pursuant to
+this article may be made during each calendar year. An election made
+under this section is irrevocable after such due date. To the extent an
+election made under section eight hundred sixty-one of this chapter is
+revoked or otherwise invalidated an election made under this section is
+automatically invalidated.
 ```

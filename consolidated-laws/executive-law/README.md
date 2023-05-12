@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | EXC |
 | Type | Consolidated law, chapter 18 |
-| Sections | 946 (44 repealed) |
-| Last changed | 28 Apr 2023 |
+| Sections | 904 |
+| Last changed | 12 May 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Executive |
 
@@ -33,6 +33,7 @@ The People of the State of New York, represented in Senate and Assembly,
 
 ## Recent changes
 
+- [12 May 2023](../../changes/2023/2023-05-12.md): 23 amended, 2 added, 44 removed
 - [28 Apr 2023](../../changes/2023/2023-04-28.md): 1 amended
 - [7 Apr 2023](../../changes/2023/2023-04-07.md): 9 amended, 42 repealed
 - [31 Mar 2023](../../changes/2023/2023-03-31.md): 1 amended, 1 repealed
@@ -42,7 +43,6 @@ The People of the State of New York, represented in Senate and Assembly,
 - [10 Feb 2023](../../changes/2023/2023-02-10.md): 3 amended, 1 repealed
 - [27 Jan 2023](../../changes/2023/2023-01-27.md): 1 amended
 - [6 Jan 2023](../../changes/2023/2023-01-06.md): 13 amended, 1 added
-- [30 Dec 2022](../../changes/2022/2022-12-30.md): 10 amended, 1 added
 
 ## Contents
 
@@ -83,9 +83,6 @@ The People of the State of New York, represented in Senate and Assembly,
 - [Article 15-C — Religious Accommodation For Licensing Examinations](article-15c-religious-accommodation-for-licensing/)
 - [Article 16 — Martin Luther King, Jr Commission](article-16-martin-luther-king-jr-commission/)
 - [Article 16-A — Highway Safety](article-16a-highway-safety/)
-- [Article 17 — Veterans' Services](article-17-veterans-services/) *(repealed)*
-- [Article 17-A — Veterans Employment Act](article-17a-veterans-employment-act/) *(repealed)*
-- [Article 17-B — Participation By Service-disabled Veterans With Respect to State Contracts](article-17b-participation-by-service-disabled-veterans/) *(repealed)*
 - [Article 18 — New York State Uniform Fire Prevention and Building Code Act](article-18-new-york-state-uniform-fire-prevention/)
 - [Article 18-A — Display of Flag On Uniforms](article-18a-display-of-flag-on-uniforms/)
 - [Article 19 — Display and Use of the Flag of the United States of America In Parks and On Public Buildings](article-19-display-and-use-of-the-flag-of-the-united-states/)

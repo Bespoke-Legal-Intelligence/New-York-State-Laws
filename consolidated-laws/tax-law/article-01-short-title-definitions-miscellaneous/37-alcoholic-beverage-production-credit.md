@@ -24,9 +24,25 @@ such entity in the taxable year does not exceed that cap.
 rata share of earned credit in the case of a partnership) for each
 gallon of beer, cider, wine or liquor produced in this state shall be
 determined as follows:
-  (1) for the first five hundred thousand gallons of beer, cider, wine
-or liquor produced in this state in the taxable year, the credit shall
-equal fourteen cents per gallon; and
+  (1) for the first five hundred thousand gallons of:
+  i. beer produced in this state in the taxable year, the credit shall
+equal fourteen cents per gallon;
+  ii. cider, artificially carbonated sparkling cider, and natural
+sparkling cider, containing more than three and two-tenths per centum of
+alcohol by volume produced in this state in the taxable year, the credit
+shall equal fourteen cents per gallon;
+  iii. still wine, artificially carbonated sparkling wine, and natural
+sparkling wine produced in this state in the taxable year, the credit
+shall equal thirty cents per gallon;
+  iv. liquors containing not more than twenty-four per centum of alcohol
+by volume, but more than two per centum of alcohol per volume, produced
+in this state in the taxable year, the credit shall equal two dollars
+and fifty-four cents per gallon;
+  v. liquors containing more than zero per centum of alcohol by volume,
+but not more than two per centum of alcohol by volume, produced in this
+state in the taxable year, the credit shall equal zero;
+  vi. all other liquors produced in this state in the taxable year, the
+credit shall equal six dollars and forty-four cents per gallon; and
   (2) for each gallon of beer, cider, wine or liquor produced in this
 state in the taxable year in excess of five hundred thousand gallons,
 the credit shall equal four and one-half cents per gallon.

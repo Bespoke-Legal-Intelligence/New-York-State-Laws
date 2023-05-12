@@ -7,7 +7,6 @@
 
 - [§ 1299-A Imposition of tax](1299a-imposition-of-tax.md)
 - [§ 1299-B Liability for surcharge](1299b-liability-for-surcharge.md)
-- [§ 1299-C Registration](1299c-registration.md)
 - [§ 1299-D Returns and payment of surcharge](1299d-returns-and-payment-of-surcharge.md)
 - [§ 1299-E Records to be kept](1299e-records-to-be-kept.md)
 - [§ 1299-F Secrecy of returns and reports](1299f-secrecy-of-returns-and-reports.md)
@@ -24,7 +23,6 @@
 Section 1299.   Definitions.
         1299-A. Imposition of tax.
         1299-B. Liability for surcharge.
-        1299-C. Registration.
         1299-D. Returns and payment of surcharge.
         1299-E. Records to be kept.
         1299-F. Secrecy of returns and reports.

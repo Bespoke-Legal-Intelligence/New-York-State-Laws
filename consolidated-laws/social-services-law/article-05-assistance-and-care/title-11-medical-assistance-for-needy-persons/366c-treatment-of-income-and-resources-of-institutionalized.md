@@ -148,7 +148,7 @@ title, and the home and community based services waiver for persons with
 developmental disabilities, or successor to such waiver, administered by
 the office for people with developmental disabilities pursuant to an
 agreement with the federal centers for medicare and Medicaid services.
-  * NB Effective until March 31, 2023
+  * NB Effective until March 31, 2028
   * 4. In determining the amount of income to be applied toward the cost
 of medical care, services and supplies of the institutionalized spouse,
 after the institutionalized spouse has been determined eligible for
@@ -159,7 +159,7 @@ monthly income of the institutionalized spouse in the following order:
   (c) a family allowance for each family member;
   (d) any expenses incurred for medical care, services or supplies and
 remedial care for the institutionalized spouse.
-  * NB Effective March 31, 2023
+  * NB Effective March 31, 2028
   5. The following rules apply in determining the resources of the
 institutionalized spouse and the community spouse in establishing
 eligibility for medical assistance:

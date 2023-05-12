@@ -90,11 +90,11 @@ Some trade or other names: AH-7921.
 other names: Acetyl Fentanyl.
   (58) N-(1-phenethylpiperidin-4-yl)-N-phenylbutyramide. Other name:
 Butyryl Fentanyl.
-  (59) N-{1-{2-hydroxy-2-(thiophen-2-yl)ethyl}piperidin-4-yl}-N-phenylp-
-ropionamide. Other name: Beta-Hydroxythiofentanyl.
+  (59)  N-{1-{2-hydroxy-2-(thiophen-2-yl)ethyl}piperidin-4-yl}-N-
+phenylpropionamide. Other name: Beta-Hydroxythiofentanyl.
   (60) N-(1-phenethylpiperidin-4-yl)-N-phenylfuran-2-carboxamide. Other
 name: Furanyl Fentanyl.
-  (61) 3,4-Dichloro-N-{2-(dimethylamino) cyclohexyl}-N-methylbenzamide.
+  (61) 3,4-Dichloro-N-{2-(dimethylamino)cyclohexyl}-N-methylbenzamide.
 Other name: U-47700.
   (62) N-(1-phenethylpiperidin-4-yl)-N-phenylacrylamide. Other names:
 Acryl Fentanyl or Acryloylfentanyl.
@@ -114,6 +114,55 @@ name: para-fluorobutyrylfentanyl.
   (69) N-(2-fluorophenyl)-2-methoxy-N-(1-phenethylpiperidin-4-yl)acetam-
 ide. Other name: Ocfentanil.
   (70) 1-cyclohexyl-4-(1,2-diphenylethyl)piperazine. Other name: MT-45.
+  (71) N-(1-phenethylpiperidin-4-yl)-N-phenylpentanamide.  Other name:
+Valeryl fentanyl.
+  (72) N-(4-methoxyphenyl)-N-(1-phenethylpiperidin-4-yl)butyramide.
+Other name: para-methoxybutyryl fentanyl.
+  (73) N-(4-chlorophenyl)-N-(1-phenethylpiperidin-4-yl)isobutyramide.
+Other name: para-chloroisobutyryl fentanyl.
+  (74) N-(1-phenethylpiperidin-4-yl)-N-phenylisobutyramide.  Other name:
+isobutyryl fentanyl.
+  (75) N-(1-phenethylpiperidin-4-yl)-N-phenylcyclopentanecarboxamide.
+Other name: cyclopentyl fentanyl.
+  (76) (E)-N-(1-phenethylpiperidin-4-yl)-N-phenylbut-2-enamide.  Other
+name: crotonyl fentanyl.
+  (77) N-(1-(2-fluorophenethyl)piperidin-4-yl)-N-(2-fluorophenyl)
+propionamide. Other names: 2'-fluoro ortho-fluorofentanyl; 2'-fluoro
+2-fluorofentanyl.
+  (78) N-(2-methylphenyl)-N-(1-phenethylpiperidin-4-yl)acetamide.  Other
+names:  ortho-methyl acetylfentanyl; 2-methyl acetylfentanyl.
+  (79) N-(1-phenethylpiperidin-4-yl)-N, 3-diphenylpropanamide.  Other
+names:   beta'-phenyl fentanyl; beta'-phenyl fentanyl; 3-phenylpropanoyl
+fentanyl.
+  (80) N-(1-phenethylpiperidin-4-yl)-N-phenylthiophene-2-carboxamide.
+Other names:  thiofuranyl fentanyl; 2-thiofuranyl fentanyl; thiophene
+fentanyl.
+  (81) N-phenyl-N-(1-(2-phenylpropyl)piperidin-4-yl)propionamide. Other
+names: beta-Methyl fentanyl; beta-methyl fentanyl.
+  (82) N-(2-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)butyramide. Other
+names: ortho-fluorobutyryl fentanyl; 2-fluorobutyryl fentanyl.
+  (83) N-(1-(4-methylphenethyl)piperidin-4-yl)-N-phenylacetamide. Other
+name: 4'-methyl acetyl fentanyl.
+  (84) 2-methoxy-N-(2-methylphenyl)-N-(1-phenethylpiperidin-4-yl)acetamide.
+Other names: ortho-methyl methoxyacetylfentanyl; 2-methyl methoxyacetyl
+fentanyl.
+  (85) N-(4-methylphenyl)-N-(1-phenethylpiperidin-4-yl)propionamide.
+Other names: para-methylfentanyl; 4-methylfentanyl.
+  (86) N-(1-phenethylpiperidin-4-yl)-N-phenylbenzamide. Other names:
+phenyl fentanyl; benzoyl fentanyl.
+  (87) ethyl (1-phenethylpiperidin-4-yl)(phenyl)carbamate. Other name:
+Fentanyl carbamate.
+  (88) N-(2-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)acrylamide.
+Other name: ortho-fluoroacryl fentanyl.
+  (89) N-(2-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)isobutyramide.
+Other name: ortho-fluoroisobutyryl fentanyl.
+  (90) N-(4-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)furan-2-carboxamide.
+Other name: para-fluoro furanyl fentanyl.
+  (91) N,N-diethyl-2-(2-(4-isopropoxybenzyl)-5-nitro-1H-benzimidazol-1-yl)
+ethan-1-amine. Other name: Isotonitazene.
+  (92) 1-(1-(1-(4-bromophenyl)ethyl)piperidin-4-yl)-1,3-dihydro-2H-
+benzo{d}IMIDAZOL-2-ONE. OTHER NAMES:  BRORPHINE; 1-{1-{1-(4-BROMOPHENYL)
+ETHYL}-4-PIPERIDINYL}-1,3-DIHYDRO-2H-BENZIMIDAZOL-2-ONE.
   (c) Opium derivatives. Unless specifically excepted or unless listed
 in another schedule, any of the following opium derivatives, its salts,
 isomers, and salts of isomers whenever the existence of such salts,
@@ -512,7 +561,8 @@ benzyl methyl ketone; methyl benzyl ketone;
   (i) 1-phenylcyclohexylamine;
   (ii) 1-piperidinocyclohexanecarbonitrile (PCC).
   (3) Immediate precursor to fentanyl:
-  (i) 4-anilino-N-phenethyl-4-piperidine (ANPP).
+  (i) 4-anilino-N-phenen- ethylpiperidine (ANPP).
+  (ii) N-phenyl-N-(piperidin-4-yl)propionamide (Norfentanyl).
   (h) Anabolic steroids. Unless specifically excepted or unless listed
 in another schedule, "anabolic steroid" shall mean any drug or hormonal
 substance, chemically and pharmacologically related to testosterone

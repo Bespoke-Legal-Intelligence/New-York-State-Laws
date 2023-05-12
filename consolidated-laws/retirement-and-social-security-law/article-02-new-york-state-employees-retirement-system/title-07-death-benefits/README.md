@@ -25,6 +25,7 @@
 - [§ 63-G Performance of duty disability retirement](63g-performance-of-duty-disability-retirement.md)
 - [§ 63-G\*2 Disability benefits; certain disabilities](63g-2-disability-benefits-certain.md)
 - [§ 63-H Certain impairments of health; presumption](63h-certain-impairments-of-health-presumption.md)
+- [§ 63-I Death benefits for fire marshals employed by Nassau county](63i-death-benefits-for-fire-marshals-employed.md)
 - [§ 64 Payment of both pensions for accident and other benefits prohibited](64-payment-of-both-pensions-for-accident.md)
 
 <details>
@@ -61,6 +62,8 @@ Section 60.     Ordinary death benefit.
         63-g.   Performance of duty disability retirement.
         63-g*2. Disability benefits; certain disabilities.
         63-h.   Certain impairments of health; presumption.
+        63-i.   Death benefits for fire marshals employed by Nassau
+                  county.
         64.     Payment of both pensions for accident and other benefits
                   prohibited.
 ```

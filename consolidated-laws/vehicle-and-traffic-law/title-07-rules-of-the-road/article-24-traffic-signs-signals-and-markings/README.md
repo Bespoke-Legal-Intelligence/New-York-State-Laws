@@ -14,6 +14,7 @@
 - [§ 1111-B\*2 Owner liability for failure of operator to comply with traffic-control indications](1111b-2-owner-liability-for-failure-of-operator-to-comply.md)
 - [§ 1111-B\*3 Owner liability for failure of operator to comply with traffic-control indications](1111b-3-owner-liability-for-failure-of-operator-to-comply.md)
 - [§ 1111-C Owner liability for failure of operator to comply with bus lane restrictions](1111c-owner-liability-for-failure-of-operator-to-comply.md)
+- [§ 1111-C-1 Owner liability for failure of operator to comply with bus operation-related traffic regulations](1111c-1-owner-liability-for-failure-of-operator-to-comply.md)
 - [§ 1111-D Owner liability for failure of operator to comply with traffic-control indications](1111d-owner-liability-for-failure-of-operator-to-comply.md)
 - [§ 1111-D\*2 Owner liability for failure of operator to comply with traffic-control indications](1111d-2-owner-liability-for-failure-of-operator-to-comply.md)
 - [§ 1111-D\*3 Owner liability for failure of operator to comply with traffic-control indications](1111d-3-owner-liability-for-failure-of-operator-to-comply.md)
@@ -44,6 +45,8 @@ Section 1110.     Obedience to and required traffic-control devices.
                     traffic-control indications. (county of Suffolk)
         1111-c.   Owner liability for failure of operator to comply with
                     bus lane restrictions.
+        1111-c-1. Owner liability for failure of operator to comply with
+                    bus operation-related traffic regulations.
         1111-d.   Owner liability for failure of operator to comply with
                     traffic-control indications.
         1111-d*2. Owner liability for failure of operator to comply with

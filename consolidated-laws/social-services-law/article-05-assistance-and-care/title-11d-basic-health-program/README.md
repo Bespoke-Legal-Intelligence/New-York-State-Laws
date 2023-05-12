@@ -6,7 +6,7 @@
 ## Contents
 
 - [§ 369-GG Basic health program](369gg-basic-health-program.md)
-- [§ 369-HH Extended post-partum insurance coverage](369hh-extended-post-partum-insurance-coverage.md) *(repealed)*
+- [§ 369-II 1332 state innovation program](369ii-1332-state-innovation-program.md)
 
 <details>
 <summary>Official heading of Title 11-D, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -20,6 +20,7 @@ repealed
   * NB Effective if federal approval is withdrawn or 42 U.S.C. 18051 is
 repealed
 Section 369-gg. Basic health program.
+        369-ii. 1332 state innovation program.
 ```
 
 </details>

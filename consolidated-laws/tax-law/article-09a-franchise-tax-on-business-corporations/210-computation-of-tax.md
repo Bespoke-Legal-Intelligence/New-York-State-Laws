@@ -35,13 +35,13 @@ taxpayer's business income base. For taxable years beginning on or after
 January first, two thousand sixteen, the amount prescribed by this
 paragraph shall be six and one-half percent of the taxpayer's business
 income base. For taxable years beginning on or after January first, two
-thousand twenty-one and before January first, two thousand twenty-four
+thousand twenty-one and before January first, two thousand twenty-seven
 for any taxpayer with a business income base for the taxable year of
 more than five million dollars, the amount prescribed by this paragraph
 shall be seven and one-quarter percent of the taxpayer's business income
 base. The taxpayer's business income base shall mean the portion of the
 taxpayer's business income apportioned within the state as hereinafter
-provided. However, in the case of a small business taxpayer, as defined
+provided.  However, in the case of a small business taxpayer, as defined
 in paragraph (f) of this subdivision, the amount prescribed by this
 paragraph shall be computed pursuant to subparagraph (iv) of this
 paragraph and in the case of a manufacturer, as defined in subparagraph
@@ -313,8 +313,8 @@ January first, two thousand twenty; .025 percent for taxable years
 beginning on or after January first, two thousand twenty and before
 January first, two thousand twenty-one; and .1875 percent for years
 beginning on or after January first, two thousand twenty-one and before
-January first, two thousand twenty-four, and zero percent for taxable
-years beginning on or after January first, two thousand twenty-four.
+January first, two thousand twenty-seven, and zero percent for taxable
+years beginning on or after January first, two thousand twenty-seven.
 Provided however, for taxable years beginning on or after January first,
 two thousand twenty-one, the rate of tax for a small business as defined
 in paragraph (f) of this subdivision shall be zero percent. The rate of

@@ -15,6 +15,7 @@
 - [§ 806 Exclusion](806-exclusion.md)
 - [§ 807 Alternate means of authentication](807-alternate-means-of-authentication.md)
 - [§ 808 Preservation of records](808-preservation-of-records.md)
+- [§ 809 Effect and rebuttal of certain medical presumptions pertaining to diseases of the heart](809-effect-and-rebuttal-of-certain-medical-presumptions-pertaining.md)
 
 <details>
 <summary>Official heading of Article 18, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -32,6 +33,8 @@ Section 800.   Definitions.
         806.   Exclusion.
         807.   Alternate means of authentication.
         808.   Preservation of records.
+        809.   Effect and rebuttal of certain medical presumptions
+                 pertaining to diseases of the heart.
 ```
 
 </details>

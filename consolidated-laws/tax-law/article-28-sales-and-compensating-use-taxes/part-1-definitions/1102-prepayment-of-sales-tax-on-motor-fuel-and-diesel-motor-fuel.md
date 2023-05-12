@@ -240,4 +240,13 @@ chapter, shall pay or be entitled to a credit or refund of the tax
 imposed by this section on gallons of motor fuel under the circumstances
 set forth in paragraph three of subdivision (e) of section eleven
 hundred eleven of this article.
+  *(g) The tax imposed by this section must be charged on the sale,
+other than a retail sale or a sale that is otherwise exempt under this
+article, of each gallon of motor fuel or Diesel motor fuel. If the taxes
+imposed by this section have not already been assumed or paid by the
+distributor on any quantity of such fuel for any reason, including, but
+not limited to, the expansion of such fuel as a result of temperature
+fluctuation, the distributor must remit such taxes to the commissioner
+on the return for the period in which such sale was made.
+  * NB Effective September 1, 2023
 ```

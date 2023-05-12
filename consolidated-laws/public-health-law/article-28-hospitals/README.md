@@ -148,6 +148,7 @@
 - [§ 2825-E Health care facility transformation program: statewide II](2825e-health-care-facility-transformation-program-statewide-ii.md)
 - [§ 2825-F Health care facility transformation program: statewide III](2825f-health-care-facility-transformation-program-statewide-iii.md)
 - [§ 2825-G Health care facility transformation program: statewide IV](2825g-health-care-facility-transformation-program-statewide-iv.md)
+- [§ 2825-H Health care facility transformation program: statewide V](2825h-health-care-facility-transformation-program-statewide-v.md)
 - [§ 2826 Temporary adjustment to reimbursement rates](2826-temporary-adjustment-to-reimbursement-rates.md)
 - [§ 2827 Plant-based food options](2827-plant-based-food-options.md)
 - [§ 2828 Residential health care facilities; minimum direct resident care spending](2828-residential-health-care-facilities-minimum-direct-resident-care-spending.md)
@@ -367,6 +368,8 @@ Section 2800.      Declaration of policy and statement of purpose.
                      statewide III.
         2825-g.    Health care facility transformation program:
                      statewide IV.
+        2825-h.    Health care facility transformation program:
+                     statewide V.
         2826.      Temporary adjustment to reimbursement rates.
         2827.      Plant-based food options.
         2828.      Residential health care facilities; minimum direct

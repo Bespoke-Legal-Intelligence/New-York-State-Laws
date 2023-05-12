@@ -15,8 +15,8 @@ conversion is complete. The credit shall be equal to fifty percent of
 the conversion costs for all of the taxpayer's buildings located at a
 facility regulated pursuant to section 19-0302 or title ten of article
 seventeen of the environmental conservation law, paid by such taxpayer
-on or after January first, two thousand twenty-two and before July
-first, two thousand twenty-three. The credit cannot exceed five hundred
+on or after January first, two thousand twenty-two and before January
+first, two thousand twenty-four. The credit cannot exceed five hundred
 thousand dollars per facility.
   (2) A taxpayer that is a partner in a partnership, member of a limited
 liability company or shareholder in a subchapter S corporation shall be

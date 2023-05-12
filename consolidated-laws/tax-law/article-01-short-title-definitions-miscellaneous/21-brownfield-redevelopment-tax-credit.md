@@ -28,7 +28,17 @@ any qualified site to which a certificate of completion is issued on or
 after July first, two thousand fifteen but on or before June
 twenty-fourth, two thousand twenty-one, the site preparation credit
 component for such costs shall be allowed for up to seven taxable years
-after the issuance of such certificate of completion.
+after the issuance of such certificate of completion; and provided
+further, however, that for any qualified site located in cities with a
+population greater than two hundred five thousand and less than two
+hundred fifteen thousand in counties with a population greater than one
+million but less than one million ten thousand based on the latest
+federal decennial census for which the department of environmental
+conservation has issued a certificate of completion to the taxpayer on
+or after January first, two thousand seventeen and before December
+thirty-first, two thousand seventeen, the site preparation credit
+component for such costs shall be allowed for up to fifteen taxable
+years after the issuance of such certificate of completion.
   (3) Tangible property credit component.
   (i) The tangible property credit component shall be equal to the
 applicable percentage of the cost or other basis for federal income tax
@@ -89,7 +99,16 @@ has issued a certificate of completion to the taxpayer on or after March
 twentieth, two thousand ten and before December thirty-first, two
 thousand fifteen, this credit component shall be allowed for up to one
 hundred eighty months after the date of the issuance of such certificate
-of completion.
+of completion; and provided further, with respect to any qualified site
+located in cities with a population greater than two hundred five
+thousand and less than two hundred fifteen thousand in counties with a
+population greater than one million but less than one million ten
+thousand based on the latest federal decennial census for which the
+department of environmental conservation has issued a certificate of
+completion to the taxpayer on or after January first, two thousand
+seventeen and before December thirty-first, two thousand seventeen, this
+credit component shall be allowed for up to one hundred eighty months
+after the date of the issuance of such certificate of completion.
   (ii) The tangible property credit component shall be allowed with
 respect to property leased to a second party only if such second party
 is either (A) not a party responsible for the disposal of hazardous
@@ -368,22 +387,29 @@ modifications thereof, or the remedial program defined in such
 certificate of completion including but not limited to institutional
 controls, engineering controls, an approved site management plan, and an
 environmental easement with respect to the qualified site; provided,
-however, with respect to any qualified site for which the department of
-environmental conservation has issued a notice to the taxpayer on or
-after July first, two thousand fifteen but on or before June
-twenty-fourth, two thousand twenty-one that its request for
-participation has been accepted under subdivision six of section 27-1407
-of the environmental conservation law, site preparation shall include
-all costs paid or incurred within eighty-four months after the last day
-of the tax year in which the certificate of completion is issued that
-are necessary for compliance with the certificate of completion or
-subsequent modifications thereof, or the remedial program defined in
-such certificate of completion including but not limited to
-institutional controls, engineering controls, an approved site
-management plan, and an environmental easement with respect to the
-qualified site. Site preparation cost shall not include the costs of
-foundation systems that exceed the cover system requirements in the
-regulations applicable to the qualified site.
+however, with respect to any qualified site for which a certificate of
+completion was issued on or after July first, two thousand fifteen but
+on or before June twenty-fourth, two thousand twenty-one, site
+preparation shall include all costs paid or incurred within eighty-four
+months after the last day of the tax year in which the certificate of
+completion is issued that are necessary for compliance with the
+certificate of completion or subsequent modifications thereof, or the
+remedial program defined in such certificate of completion including but
+not limited to institutional controls, engineering controls, an approved
+site management plan, and an environmental easement with respect to the
+qualified site, provided, however, with respect to any qualified site
+located in cities with a population greater than two hundred five
+thousand and less than two hundred fifteen thousand in counties with a
+population greater than one million but less than one million ten
+thousand based on the latest federal decennial census for which the
+department of environmental conservation has issued a certificate of
+completion to the taxpayer on or after January first, two thousand
+seventeen and before December thirty-first, two thousand seventeen, this
+credit component shall be allowed for up to one hundred eighty months
+after the date of the issuance of such certificate of completion. Site
+preparation cost shall not include the costs of foundation systems that
+exceed the cover system requirements in the regulations applicable to
+the qualified site.
   (3) Qualified tangible property. "Qualified tangible property" is
 property described in either subparagraph (A) or (B) of this paragraph
 which:

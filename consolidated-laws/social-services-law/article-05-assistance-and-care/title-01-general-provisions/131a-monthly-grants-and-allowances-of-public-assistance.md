@@ -319,6 +319,24 @@ transfers. Such exemption and disregard shall be applicable for the
 length of time the individual participates in the program, but not
 longer than sixty months.
   * NB Repealed March 23, 2029
+  * (xii) all of the earned income of a recipient of public assistance
+that is derived from participation in a qualified work activity or
+training program as determined by the office of temporary and disability
+assistance, to the extent that such earned income has not already been
+disregarded pursuant to subparagraph (vii) of this paragraph, provided
+that the recipient's total income shall not be more than two hundred
+percent of the federal poverty level.
+  * NB Effective December 29, 2023
+  * (xiii) once during the lifetime of a recipient of public assistance,
+all of the earned income of such recipient will be disregarded following
+job entry, provided that such exemption of income for purposes of public
+assistance eligibility shall be for no more than six consecutive months
+from the initial date of obtaining such employment and that the
+recipient's total income shall not be more than two hundred percent of
+the federal poverty level. In the event a recipient moves from one to
+another social services district, this disregard shall follow the
+recipient.
+  * NB Effective December 29, 2023
   (b) Notwithstanding the provisions of paragraph (a) of this
 subdivision, there shall not be disregarded under subparagraphs (ii) and
 (iii) of such paragraph any earned income of any of the persons to which

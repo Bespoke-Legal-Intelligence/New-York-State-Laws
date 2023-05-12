@@ -27,6 +27,7 @@
 - [§ 21-C Power of commissioner to enter into agreements relating to certain federal acts](21c-power-of-commissioner-to-enter-into-agreements-relating-to-certain-federal-acts.md)
 - [§ 21-D Power of commissioner to enter into agreement relating to information obtained by the state directory of new hires](21d-power-of-commissioner-to-enter-into-agreement-relating-to-information-obtained.md)
 - [§ 21-E Powers of the commissioner to prepare and issue a notice to be posted at worksite](21e-powers-of-the-commissioner-to-prepare-and-issue-a-notice-to-be-posted.md)
+- [§ 21-F Job transition plan for certain climate risk-related and energy transition projects](21f-job-transition-plan-for-certain-climate-risk-related-and-energy-transition.md)
 - [§ 23 Administrative regulations](23-administrative-regulations.md)
 - [§ 24 Delegation of powers by commissioner](24-delegation-of-powers-by-commissioner.md)
 - [§ 25 Power to enter and inspect premises](25-power-to-enter-and-inspect-premises.md)
@@ -90,6 +91,8 @@ Section 10.   Department of labor; commissioner of labor.
                 hires.
         21-e. Powers of the commissioner to prepare and issue a notice
                 to be posted at worksite.
+        21-f. Job transition plan for certain climate risk-related and
+                energy transition projects.
         23.   Administrative regulations.
         24.   Delegation of powers by commissioner.
         25.   Power to enter and inspect premises.

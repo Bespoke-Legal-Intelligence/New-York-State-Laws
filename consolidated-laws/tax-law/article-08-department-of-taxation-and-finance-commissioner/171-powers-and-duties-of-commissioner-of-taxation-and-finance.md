@@ -395,21 +395,18 @@ This section shall not be deemed to abrogate or limit in any way the
 powers and authority of the state comptroller to set off debts owed the
 state against payments from the state under the constitution of the
 state or any other law.
-  Twenty-eighth. a. In the case of a taxpayer who is determined for
-federal tax purposes under the provisions of section seven thousand five
-hundred eight-A of the internal revenue code to be affected by a
-presidentially declared disaster, or who is determined under regulations
-promulgated by the commissioner to be affected by a presidentially
-declared disaster or by a disaster emergency declared by the governor,
-have authority to provide that a period of up to ninety days, or a
-longer period when necessary to align with relief that has already been
-provided by the Internal Revenue Service under the authority to postpone
-certain deadlines in section seven thousand five hundred eight-A of the
-internal revenue code, may be disregarded in determining under the tax
-law, or under a law enacted pursuant to the authority of the tax law or
-former article 2-E of the general city law where administered by the
-commissioner, in respect of any tax liability (including any interest,
-penalty, additional amount, or addition to the tax) of such taxpayer:
+  Twenty-eighth. a.  Have the authority to postpone certain deadlines
+for a period of up to ninety days, or longer when necessary to align
+with relief provided by the Internal Revenue Service pursuant to section
+seven thousand five hundred eight-A of the internal revenue code, for a
+taxpayer who is determined to be affected by a presidentially declared
+disaster or by a disaster emergency declared by the governor. Any
+extension period provided pursuant to the authority in this subdivision
+shall be disregarded in determining under the tax law, or under a law
+enacted pursuant to the authority of the tax law or former article 2-E
+of the general city law where administered by the commissioner, in
+respect of any tax liability (including any interest, penalty,
+additional amount, or addition to the tax) of such taxpayer:
   1. Whether any of the acts described in paragraph one of subsection
 (a) of section six hundred ninety-six of the tax law in relation to the
 personal income tax (or any comparable acts with respect to taxes under
@@ -426,10 +423,23 @@ filed (determined after the application of this subdivision), paragraph
 three of subsection (a) and subsection (c) of section six hundred
 eighty-eight and paragraph three of subsection (a) and subsection (c) of
 section one thousand eighty-eight of this chapter shall not apply.
-  c. Presidentially declared disaster. For purposes of this subdivision,
-the term "presidentially declared disaster" means any disaster which,
-with respect to an area, resulted in a subsequent determination by the
-president of the United States that such area warrants assistance by the
-federal government under the disaster relief and emergency assistance
-act.
+  c. Definitions. 1. Presidentially declared disaster. For purposes of
+this subdivision, the term "presidentially declared disaster" means any
+disaster which, with respect to an area, resulted in a subsequent
+determination by the president of the United States that such area
+warrants assistance by the federal government under the disaster relief
+and emergency assistance act.
+  2. Taxpayer. For purposes of this subdivision, the term "taxpayer"
+means any person or entity required to file a return or remit any tax to
+the commissioner pursuant to this chapter.
+  d. Where a taxpayer who, pursuant to section seven thousand five
+hundred eight-a of the internal revenue code, is determined for federal
+tax purposes to be affected by a presidentially declared disaster, or
+who is determined to be affected by a disaster emergency declared by the
+governor, but the commissioner has not postponed a tax deadline pursuant
+to the authority in paragraph a of this subdivision due to such
+disaster, the commissioner may abate any amount of interest from the
+underpayment of any tax administered by the commissioner under this
+chapter that accrued for the period during which the taxpayer was unable
+to meet such deadline due to direct impacts of the disaster.
 ```

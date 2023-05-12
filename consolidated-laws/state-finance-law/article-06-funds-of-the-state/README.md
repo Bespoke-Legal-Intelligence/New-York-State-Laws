@@ -229,6 +229,7 @@
 - [§ 98-A Investment of general funds, bond proceeds, and other funds not immediately required](98a-investment-of-general-funds-bond-proceeds-and-other-funds-not-immediately.md)
 - [§ 98-B Indigent legal services fund](98b-indigent-legal-services-fund.md)
 - [§ 98-C Legal services assistance fund](98c-legal-services-assistance-fund.md)
+- [§ 98-D 1332 state innovation program fund](98d-1332-state-innovation-program-fund.md)
 - [§ 99 Withholding of state assistance upon default in payment of bonds held by the state](99-withholding-of-state-assistance-upon-default-in-payment-of-bonds-held.md)
 - [§ 99-A Justice court fund](99a-justice-court-fund.md)
 - [§ 99-B Withholding of state aid for school purposes upon default in payment of obligations of the prospective recipient](99b-withholding-of-state-aid-for-school-purposes-upon-default-in-payment.md)
@@ -287,6 +288,8 @@
 - [§ 99-PP Background check fund](99pp-background-check-fund.md)
 - [§ 99-PP\*2 Agricultural and farmland viability protection fund](99pp-2-agricultural-and-farmland-viability-protection-fund.md)
 - [§ 99-PP\*3 Animal shelter regulation fund](99pp-3-animal-shelter-regulation-fund.md)
+- [§ 99-QQ Hazard mitigation state revolving loan fund](99qq-hazard-mitigation-state-revolving-loan-fund.md)
+- [§ 99-QQ\*2 New York climate action fund](99qq-2-new-york-climate-action-fund.md)
 
 <details>
 <summary>Official heading of Article 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -565,6 +568,7 @@ Section 70.        Classification of funds.
                      funds not immediately required.
         98-b.      Indigent legal services fund.
         98-c.      Legal services assistance fund.
+        98-d.      1332 state innovation program fund.
         99.        Withholding of state assistance upon default in
                      payment of bonds held by the state.
         99-a.      Justice court fund.
@@ -635,6 +639,8 @@ Section 70.        Classification of funds.
         99-pp.     Background check fund.
         99-pp 2.   Agricultural and farmland viability protection fund.
         99-pp*3.   Animal shelter regulation fund.
+        99-qq.     Hazard mitigation state revolving loan fund.
+        99-qq*2.   New York climate action fund.
 ```
 
 </details>

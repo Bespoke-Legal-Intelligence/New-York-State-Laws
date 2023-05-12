@@ -146,10 +146,22 @@ the commissioner that the applicant complies with the operating
 requirements for a managed long term care plan under this section. The
 commissioner shall issue no more than seventy-five certificates of
 authority to managed long term care plans pursuant to this section.
-Nothing in this section shall be construed as requiring the department
-to contract with or to contract for a particular line of business with
-an entity certified under this section for the provision of services
-available under title eleven of article five of the social services law.
+  (a-1) Nothing in this section shall be construed as requiring the
+department to contract with or to contract for a particular line of
+business with an entity certified under this section for the provision
+of services available under title eleven of article five of the social
+services law. A managed long term care plan that has been issued a
+certificate of authority, or an applicant for a certificate of authority
+as a managed long term care plan that has in any of the three calendar
+years immediately preceding the application, met any of the following
+criteria shall not be eligible for a contract for the provision of
+services available under title eleven of article five of the social
+services law: (i) classified as a poor performer, or substantially
+similar terminology, by the centers for medicare and medicaid services;
+or (ii) an excessive volume of penalties, statements of findings,
+statements of deficiency, intermediate sanctions or enforcement actions,
+regardless of whether the applicant has addressed such issues in a
+timely manner.
   (b) An operating demonstration shall be issued a certificate of
 authority as a managed long term care plan upon a determination by the
 commissioner that such demonstration complies with the operating
@@ -168,7 +180,7 @@ three of this section. The majority leader of the senate or the speaker
 of the assembly may assign their authority to recommend one or more
 applicants under this section to the commissioner.
   (d) (i) Effective April first, two thousand twenty, and expiring March
-thirty-first, two thousand twenty-two, the commissioner shall place a
+thirty-first, two thousand twenty-seven, the commissioner shall place a
 moratorium on the processing and approval of applications seeking a
 certificate of authority as a managed long term care plan pursuant to
 this section, including applications seeking authorization to expand an
@@ -239,6 +251,57 @@ extent practicable and consistent with the ratios set forth herein,
 continue to support contracts between managed long term care plans and
 licensed home care services agencies that are based on a commitment to
 quality and value.
+  6-a. Performance standards. (a) On or before January first, two
+thousand twenty-four, each managed long term care plan that has been
+issued a certificate of authority pursuant to this section shall have an
+active Medicare Dual Eligible Special Needs Plan in operation whose
+H-contract either has a current quality star rating from the Centers for
+Medicare and Medicaid Services of three stars or higher, or has not been
+issued a quality star rating from the Centers for Medicare and Medicaid
+Services.  In addition, the managed long term care plan shall
+sufficiently demonstrate success in the following performance
+categories:
+  (i) in addition to meeting the requirements of paragraph (j) of
+subdivision seven of this section, in order to ensure network adequacy a
+commitment to contracting with an adequate number of licensed home care
+service agencies needed to provide necessary personal care services to
+the greatest practicable number of enrollees, and with an adequate
+number of fiscal intermediaries needed to provide necessary consumer
+directed personal assistance services to the greatest practicable number
+of enrollees in accordance with section three hundred sixty-five-f of
+the social services law;
+  (ii) readiness to timely implement and adhere to maximum wait time
+criteria for key categories of service in accordance with laws, rules
+and regulations of the department or the Centers for Medicare and
+Medicaid Services;
+  (iii) commitment to quality improvement;
+  (iv) accessibility and geographic distribution of network providers,
+taking into account the needs of persons with disabilities and the
+differences between rural, suburban, and urban settings;
+  (v) demonstrated cultural and language competencies specific to the
+population of participants;
+  (vi) ability to serve enrollees across the continuum of care, as
+demonstrated by the type and number of products the managed long term
+care operates or has applied to operate, including integrated care for
+participants who are dually eligible for Medicaid and Medicare, and
+those operated under title one-A of article twenty-five of this chapter
+and section three hundred sixty-nine-gg of the social services law; and
+  (vii) value based care readiness and experience.
+  (b) The commissioner shall require any managed long term care plan
+with a Medicare Dual Eligible Special Needs Plan in operation that at
+any time has a current quality star rating from the Centers for Medicare
+and Medicaid Services of less than three stars to establish and
+implement a performance improvement plan acceptable to the commissioner,
+and which shall be consistent with the standards of the Medicare
+Advantage Quality Rating System.
+  (c) The commissioner shall have the authority to promulgate
+regulations to effectuate the provisions of this subdivision.
+  (d) The provisions of this subdivision shall not apply for managed
+long term care plans operating under a certificate of authority pursuant
+to subdivision twelve, as added by section seventy-six of part A of
+chapter fifty-six of the laws of two thousand thirteen, or subdivision
+thirteen of this section, or to the program of all-inclusive care for
+the elderly under article twenty-nine-EE of this chapter.
   7. Program oversight and administration. (a)(i) The commissioner shall
 promulgate regulations to implement this section and to ensure the
 quality, appropriateness and cost-effectiveness of the services provided
@@ -448,7 +511,7 @@ initial report shall be provided by September first, two thousand
 twelve. The reports shall be made available by each February first, and
 September first thereafter. Such reports shall be formatted to allow
 comparisons between plans.
-  * NB Effective until April 1, 2023
+  * NB Effective until April 1, 2027
   * (b) The commissioner shall, to the extent necessary, submit the
 appropriate waivers, including, but not limited to, those authorized
 pursuant to sections eleven hundred fifteen and nineteen hundred fifteen
@@ -460,7 +523,7 @@ of the federal social security act. Copies of such original waiver
 applications shall be provided to the chairman of the senate finance
 committee and the chairman of the assembly ways and means committee
 simultaneously with their submission to the federal government.
-  * NB Effective April 1, 2023
+  * NB Effective April 1, 2027
   (c)(i) A managed long term care plan shall not use deceptive or
 coercive marketing methods to encourage participants to enroll. A
 managed long term care plan shall not distribute marketing materials to
@@ -501,23 +564,25 @@ comprehensive assessment that shall include, but not be limited to, an
 evaluation of the medical, social, cognitive, and environmental needs of
 each prospective enrollee in such program. This assessment shall also
 serve as the basis for the development and provision of an appropriate
-plan of care for the enrollee. Upon approval of federal waivers pursuant
-to paragraph (b) of this subdivision which require medical assistance
-recipients who require community-based long term care services to enroll
-in a plan, and upon approval of the commissioner, a plan may enroll an
-applicant who is currently receiving home and community-based services
-and complete the comprehensive assessment within thirty days of
-enrollment provided that the plan continues to cover transitional care
-until such time as the assessment is completed.
-  * NB Effective until April 1, 2023
+plan of care for the enrollee, including appropriate community-based
+referrals. Upon approval of federal waivers pursuant to paragraph (b) of
+this subdivision which require medical assistance recipients who require
+community-based long term care services to enroll in a plan, and upon
+approval of the commissioner, a plan may enroll an applicant who is
+currently receiving home and community-based services and complete the
+comprehensive assessment within thirty days of enrollment provided that
+the plan continues to cover transitional care until such time as the
+assessment is completed.
+  * NB Effective until April 1, 2027
   * (i) Managed long term care plans and demonstrations may enroll
 eligible persons in the plan or demonstration upon the completion of a
 comprehensive assessment that shall include, but not be limited to, an
 evaluation of the medical, social and environmental needs of each
 prospective enrollee in such program. This assessment shall also serve
 as the basis for the development and provision of an appropriate plan of
-care for the prospective enrollee.
-  * NB Effective April 1, 2023
+care for the prospective enrollee, including appropriate community-based
+referrals.
+  * NB Effective April 1, 2027
   (ii) The assessment shall be completed by a representative of the
 managed long term care plan or demonstration, in consultation with the
 prospective enrollee's health care practitioner as necessary. The
@@ -545,13 +610,13 @@ demonstration, and consistent with federal regulations promulgated
 pursuant to the Health Insurance Portability and Accountability Act,
 share with such plan or demonstration the following data if it is
 available:
-  * NB Effective until September 30, 2023
+  * NB Effective until December 31, 2025
   * The commissioner shall, upon request by a managed long term care
 plan or operating demonstration, and consistent with federal regulations
 promulgated pursuant to the Health Insurance Portability and
 Accountability Act, share with such plan or demonstration the following
 data if it is available:
-  * NB Effective September 30, 2023
+  * NB Effective December 31, 2025
   (i) information concerning utilization of services and providers by
 each of its enrollees prior to and during enrollment, including but not
 limited to utilization of emergency department services, prescription
@@ -896,7 +961,7 @@ persons with developmental disabilities pursuant to this article
 operating in the person's county of residence to meet the needs of
 persons with developmental disabilities, and that such plans meet the
 standards of this section.
-  ** NB Repealed September 30, 2023
+  ** NB Repealed December 31, 2025
   ** NB There are 2 sb 12's
   ** 13. Notwithstanding any inconsistent provision to the contrary, the
 commissioner may issue a certificate of authority to no more than three
@@ -915,7 +980,7 @@ necessary to allow such managed long term care plans to provide or
 arrange for services for persons with developmental disabilities that
 are adequate and appropriate to meet the needs of such individuals and
 that will ensure their health and safety.
-  ** NB Repealed September 30, 2023
+  ** NB Repealed December 31, 2025
   ** 14. The provisions of subdivisions twelve and thirteen of this
 section shall only be effective if, for so long as, and to the extent
 that federal financial participation is available for the costs of
@@ -930,6 +995,6 @@ that the provisions of subdivision twelve and thirteen of this section
 are inconsistent with other provisions of this article or with the
 provisions of section three hundred sixty-four-j of the social services
 law, the provisions of this subdivision shall prevail.
-  ** NB Repealed September 30, 2023
+  ** NB Repealed December 31, 2025
   * NB Repealed December 31, 2024
 ```

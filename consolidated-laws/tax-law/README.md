@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | TAX |
 | Type | Consolidated law, chapter 60 |
-| Sections | 1,297 (10 repealed) |
-| Last changed | 7 Apr 2023 |
+| Sections | 1,290 |
+| Last changed | 12 May 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Tax |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [12 May 2023](../../changes/2023/2023-05-12.md): 40 amended, 4 added, 11 removed
 - [7 Apr 2023](../../changes/2023/2023-04-07.md): 5 amended
 - [10 Mar 2023](../../changes/2023/2023-03-10.md): 2 amended
 - [6 Jan 2023](../../changes/2023/2023-01-06.md): 3 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [2 Sep 2022](../../changes/2022/2022-09-02.md): 19 amended, 10 repealed
 - [29 Jul 2022](../../changes/2022/2022-07-29.md): 15 amended, 24 added
 - [22 Jul 2022](../../changes/2022/2022-07-22.md): 1 amended
-- [8 Jul 2022](../../changes/2022/2022-07-08.md): 3 amended
 
 ## Contents
 
@@ -82,7 +82,6 @@ Assembly, do enact as follows:
 - [Article 29-A — Tax On Medallion Taxicab Trips In the Metropolitan Commuter Transportation District](article-29a-tax-on-medallion-taxicab-trips/)
 - [Article 29-B — State Assessment Fee On Transportation Network Company Prearranged Trips](article-29b-state-assessment-fee-on-transportation-network/)
 - [Article 29-C — Congestion Surcharge](article-29c-congestion-surcharge/)
-- [Article 29-D — Assessment Fees](article-29d-assessment-fees/) *(repealed)*
 - [Article 30 — City Personal Income Tax](article-30-city-personal-income-tax/)
 - [Article 30-A — City Income Tax Surcharge](article-30a-city-income-tax-surcharge/)
 - [Article 30-B — City Earnings Tax On Nonresidents](article-30b-city-earnings-tax-on-nonresidents/)

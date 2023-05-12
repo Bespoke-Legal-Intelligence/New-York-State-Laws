@@ -39,24 +39,46 @@ in the taxable income of a partner or member of the electing partnership
 or the taxable income of a shareholder of the electing S corporation
 under article twenty-two of this chapter.
   (h) Pass-through entity taxable income. Pass-through entity taxable
-income means: (1) In the case of an electing partnership, the sum of (i)
+income means:  (1) In the case of an electing partnership, the sum of
+(i) all items of income, gain, loss, or deduction derived from or
+connected with New York sources to the extent they are included in the
+taxable income of a nonresident partner subject to tax under article
+twenty-two, under paragraph one of subsection (a) of section six hundred
+thirty-two of this chapter; (ii) all items of income, gain, loss, or
+deduction to the extent they are included in the taxable income of a
+resident partner subject to tax under article twenty-two of this
+chapter; and (iii) all pass-through entity taxes including taxes paid
+under this article to New York, taxes paid under article twenty-four-B
+of this chapter to the city of New York, and taxes paid to other
+jurisdictions that are substantially similar to the taxes paid under
+this article, to the extent that, for federal income tax purposes, the
+taxes are paid and deducted in the taxable year, and are included in the
+taxable income of the partners subject to tax under article twenty-two
+of this chapter for the taxable year.
+  (2) In the case of an electing standard S corporation, the sum of (i)
 all items of income, gain, loss, or deduction derived from or connected
-with New York sources to the extent they are included in the taxable
-income of a nonresident partner subject to tax under article twenty-two
-under paragraph one of subsection (a) of section six hundred thirty-two
-of this chapter; and (ii) all items of income, gain, loss, or deduction
-to the extent they are included in the taxable income of a resident
-partner subject to tax under article twenty-two of this chapter.
-  (2) In the case of an electing standard S corporation, the sum of all
-items of income, gain, loss, or deduction derived from or connected with
-New York sources to the extent they would be included under paragraph
-two of subsection (a) of section six hundred thirty-two of this chapter
-in the taxable income of a shareholder subject to tax under article
-twenty-two of this chapter.
-  (3) In the case of an electing resident S corporation, the sum of all
-items of income, gain, loss, or deduction to the extent they are
+with New York sources to the extent they would be included under
+paragraph two of subsection (a) of section six hundred thirty-two of
+this chapter in the taxable income of a shareholder subject to tax under
+article twenty-two of this chapter; and (ii) all pass-through entity
+taxes including taxes paid under this article to New York, taxes paid
+under article twenty-four-B of this chapter to the city of New York, and
+taxes paid to other jurisdictions that are substantially similar to the
+taxes paid under this article, to the extent that, for federal income
+tax purposes, the taxes are paid and deducted in the taxable year, and
+are included in the taxable income of the shareholders subject to tax
+under article twenty-two of this chapter for the taxable year.
+  (3) In the case of an electing resident S corporation, the sum of (i)
+all items of income, gain, loss, or deduction to the extent they are
 included in the taxable income of a shareholder subject to tax under
-article twenty-two of this chapter.
+article twenty-two of this chapter; and (ii) all pass-through entity
+taxes including taxes paid under this article to New York, taxes paid
+under article twenty-four-B of this chapter to the city of New York, and
+taxes paid to other jurisdictions that are substantially similar to
+taxes paid under this article, to the extent that, for federal income
+tax purposes, the taxes are paid and deducted in the taxable year, and
+are included in the taxable income of the shareholders subject to tax
+under article twenty-two of this chapter for the taxable year.
   (i) Taxable year. An electing partnership's or electing S
 corporation's taxable year pursuant to this article shall be the same as
 the electing partnership's or electing S corporation's taxable year for

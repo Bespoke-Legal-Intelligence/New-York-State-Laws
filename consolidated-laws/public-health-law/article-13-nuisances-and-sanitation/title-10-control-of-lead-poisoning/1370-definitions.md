@@ -34,4 +34,11 @@ equal to five micrograms of lead per deciliter of whole blood or such
 lower blood lead level as may be established by the department pursuant
 to rule or regulation.
   7. "Person" means any natural person.
+  * 8. "Owner" means and includes the owner or owners of the freehold of
+the premises or lesser estate therein, a mortgagee or vendee in
+possession, assignee of rents, receiver, executor, trustee, lessee,
+agent, or any other person, firm or corporation, directly or indirectly
+in control of a dwelling.
+  * NB Effective November 3, 2025
+  * NB Repealed November 3, 2028
 ```

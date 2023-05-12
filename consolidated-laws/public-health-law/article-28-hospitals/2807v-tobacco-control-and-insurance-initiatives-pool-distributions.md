@@ -77,10 +77,12 @@ million one hundred thousand dollars each state fiscal year for the
 period April first, two thousand fourteen through March thirty-first,
 two thousand seventeen, up to eleven million one hundred thousand
 dollars each state fiscal year for the period April first, two thousand
-seventeen through March thirty-first, two thousand twenty, and up to
-eleven million one hundred thousand dollars each state fiscal year for
-the period April first, two thousand twenty through March thirty-first,
-two thousand twenty-three.
+seventeen through March thirty-first, two thousand twenty, up to eleven
+million one hundred thousand dollars each state fiscal year for the
+period April first, two thousand twenty through March thirty-first, two
+thousand twenty-three, and up to eleven million one hundred thousand
+dollars each state fiscal year for the period April first, two thousand
+twenty-three through March thirty-first, two thousand twenty-six.
   (c) Funds shall be deposited by the commissioner, within amounts
 appropriated, and the state comptroller is hereby authorized and
 directed to receive for deposit to the credit of the state special
@@ -329,15 +331,15 @@ two thousand seven; and
   (viii) up to one hundred three million seven hundred fifty thousand
 dollars for the period January first, two thousand eight through
 December thirty-first, two thousand eight.
-  * (i-1) Notwithstanding the provisions of paragraphs (h) and (i) of
-this subdivision, the commissioner shall reserve and accumulate up to
-two million five hundred thousand dollars annually for the periods
-January first, two thousand four through December thirty-first, two
-thousand six, one million four hundred thousand dollars for the period
-January first, two thousand seven through December thirty-first, two
-thousand seven, two million dollars for the period January first, two
-thousand eight through December thirty-first, two thousand eight, from
-funds otherwise available for distribution under such paragraphs for the
+  (i-1) Notwithstanding the provisions of paragraphs (h) and (i) of this
+subdivision, the commissioner shall reserve and accumulate up to two
+million five hundred thousand dollars annually for the periods January
+first, two thousand four through December thirty-first, two thousand
+six, one million four hundred thousand dollars for the period January
+first, two thousand seven through December thirty-first, two thousand
+seven, two million dollars for the period January first, two thousand
+eight through December thirty-first, two thousand eight, from funds
+otherwise available for distribution under such paragraphs for the
 services and expenses related to the pilot program for entertainment
 industry employees included in subsection (b) of section one thousand
 one hundred twenty-two of the insurance law, and an additional seven
@@ -348,7 +350,6 @@ two thousand seven through June thirtieth, two thousand seven for
 services and expenses related to the pilot program for displaced workers
 included in subsection (c) of section one thousand one hundred
 twenty-two of the insurance law.
-  * NB Repealed July 1, 2023
   (j) Funds shall be reserved and accumulated from year to year and
 shall be available, including income from invested funds, for purposes
 of services and expenses related to the tobacco use prevention and
@@ -402,10 +403,13 @@ April first, two thousand fourteen through March thirty-first, two
 thousand seventeen;
   (xv) up to six million dollars each state fiscal year for the period
 April first, two thousand seventeen through March thirty-first, two
-thousand twenty; and
+thousand twenty;
   (xvi) up to six million dollars each state fiscal year for the period
 April first, two thousand twenty through March thirty-first, two
-thousand twenty-three.
+thousand twenty-three; and
+  (xvii) up to six million dollars each state fiscal year for the period
+April first, two thousand twenty-three through March thirty-first, two
+thousand twenty-six.
   (k) Funds shall be deposited by the commissioner, within amounts
 appropriated, and the state comptroller is hereby authorized and
 directed to receive for deposit to the credit of the state special
@@ -594,10 +598,13 @@ dollars each state fiscal year for the period April first, two thousand
 fourteen through March thirty-first, two thousand seventeen;
   (xvii) one hundred twenty-seven million four hundred sixteen thousand
 dollars each state fiscal year for the period April first, two thousand
-seventeen through March thirty-first, two thousand twenty; and
+seventeen through March thirty-first, two thousand twenty;
   (xviii) one hundred twenty-seven million four hundred sixteen thousand
 dollars each state fiscal year for the period April first, two thousand
-twenty through March thirty-first, two thousand twenty-three.
+twenty through March thirty-first, two thousand twenty-three; and
+  (xix) one hundred twenty-seven million four hundred sixteen thousand
+dollars each state fiscal year for the period April first, two thousand
+twenty-three through March thirty-first, two thousand twenty-six.
   (o) Funds shall be reserved and accumulated and shall be transferred
 to the Roswell Park Cancer Institute Corporation, from the tobacco
 control and insurance initiatives pool established for the following
@@ -636,10 +643,13 @@ fiscal year for the period April first, two thousand fourteen through
 March thirty-first, two thousand seventeen;
   (xv) up to ninety-six million six hundred thousand dollars each state
 fiscal year for the period April first, two thousand seventeen through
-March thirty-first, two thousand twenty; and
+March thirty-first, two thousand twenty;
   (xvi) up to ninety-six million six hundred thousand dollars each state
 fiscal year for the period April first, two thousand twenty through
-March thirty-first, two thousand twenty-three.
+March thirty-first, two thousand twenty-three; and
+  (xvii) up to ninety-six million six hundred thousand dollars each
+state fiscal year for the period April first, two thousand twenty-three
+through March thirty-first, two thousand twenty-six.
   (p) Funds shall be deposited by the commissioner, within amounts
 appropriated, and the state comptroller is hereby authorized and
 directed to receive for deposit to the credit of the state special
@@ -710,10 +720,13 @@ each state fiscal year for the period April first, two thousand fourteen
 through March thirty-first, two thousand seventeen;
   (xiii) up to five million two hundred eighty-eight thousand dollars
 each state fiscal year for the period April first, two thousand
-seventeen through March thirty-first, two thousand twenty; and
+seventeen through March thirty-first, two thousand twenty;
   (xiv) up to five million two hundred eighty-eight thousand dollars
 each state fiscal year for the period April first, two thousand twenty
-through March thirty-first, two thousand twenty-three.
+through March thirty-first, two thousand twenty-three; and
+  (xv) up to five million two hundred eighty-eight thousand dollars each
+state fiscal year for the period April first, two thousand twenty-three
+through March thirty-first, two thousand twenty-six.
   (r) Funds shall be deposited by the commissioner within amounts
 appropriated, and the state comptroller is hereby authorized and
 directed to receive for deposit to the credit of the state special
@@ -873,10 +886,13 @@ dollars each state fiscal year for the period April first, two thousand
 fourteen through March thirty-first, two thousand seventeen;
   (xiii) up to one hundred twenty-seven million four hundred thousand
 dollars each state fiscal year for the period April first, two thousand
-seventeen through March thirty-first, two thousand twenty; and
+seventeen through March thirty-first, two thousand twenty;
   (xiv) up to one hundred twenty-seven million four hundred thousand
 dollars each state fiscal year for the period April first, two thousand
-twenty through March thirty-first, two thousand twenty-three.
+twenty through March thirty-first, two thousand twenty-three; and
+  (xv) up to one hundred twenty-seven million four hundred thousand
+dollars each state fiscal year for the period April first, two thousand
+twenty-three through March thirty-first, two thousand twenty-six.
   (w) Funds shall be deposited by the commissioner, within amounts
 appropriated, and the state comptroller is hereby authorized and
 directed to receive for deposit to the credit of the state special
@@ -924,10 +940,13 @@ year for the period April first, two thousand fourteen through March
 thirty-first, two thousand seventeen;
   (xiii) up to two million one hundred thousand dollars each state
 fiscal year for the period April first, two thousand seventeen through
-March thirty-first, two thousand twenty; and
+March thirty-first, two thousand twenty;
   (xiv) up to two million one hundred thousand dollars each state fiscal
 year for the period April first, two thousand twenty through March
-thirty-first, two thousand twenty-three.
+thirty-first, two thousand twenty-three; and
+  (xv) up to two million one hundred thousand dollars each state fiscal
+year for the period April first, two thousand twenty-three through March
+thirty-first, two thousand twenty-six.
   (x) Funds shall be deposited by the commissioner, within amounts
 appropriated, and the state comptroller is hereby authorized and
 directed to receive for deposit to the credit of the state special
@@ -1119,10 +1138,13 @@ year for the period March thirty-first, two thousand fourteen through
 April first, two thousand seventeen;
   (M) up to one hundred thirty-six million dollars each state fiscal
 year for the period April first, two thousand seventeen through March
-thirty-first, two thousand twenty; and
+thirty-first, two thousand twenty;
   (N) up to one hundred thirty-six million dollars each state fiscal
 year for the period April first, two thousand twenty through March
-thirty-first, two thousand twenty-three.
+thirty-first, two thousand twenty-three; and
+  (O) up to one hundred thirty-six million dollars each state fiscal
+year for the period April first, two thousand twenty-three through March
+thirty-first, two thousand twenty-six.
   (ii) Adjustments to Medicaid rates made pursuant to this paragraph
 shall not, in aggregate, exceed the following amounts for the following
 periods:
@@ -1155,10 +1177,13 @@ thousand fourteen through March thirty-first, two thousand seventeen,
 three hundred forty million dollars;
   (M) for each state fiscal year within the period April first, two
 thousand seventeen through March thirty-first, two thousand twenty,
-three hundred forty million dollars; and
+three hundred forty million dollars;
   (N) for each state fiscal year within the period April first, two
 thousand twenty through March thirty-first, two thousand twenty-three,
-three hundred forty million dollars.
+three hundred forty million dollars; and
+  (O) for each state fiscal year within the period April first, two
+thousand twenty-three through March thirty-first, two thousand
+twenty-six, three hundred forty million dollars.
   (iii) Personal care service providers which have their rates adjusted
 pursuant to this paragraph shall use such funds for the purpose of
 recruitment and retention of non-supervisory personal care services
@@ -1226,10 +1251,13 @@ fiscal year for the period April first, two thousand fourteen through
 March thirty-first, two thousand seventeen;
   (xiii) up to eleven million two hundred thousand dollars each state
 fiscal year for the period April first, two thousand seventeen through
-March thirty-first, two thousand twenty; and
+March thirty-first, two thousand twenty;
   (xiv) up to eleven million two hundred thousand dollars each state
 fiscal year for the period April first, two thousand twenty through
-March thirty-first, two thousand twenty-three.
+March thirty-first, two thousand twenty-three; and
+  (xv) up to eleven million two hundred thousand dollars each state
+fiscal year for the period April first, two thousand twenty-three
+through March thirty-first, two thousand twenty-six.
   (dd) Funds shall be deposited by the commissioner, within amounts
 appropriated, and the state comptroller is hereby authorized and
 directed to receive for deposit to the credit of the state special
@@ -1353,10 +1381,13 @@ April first, two thousand fourteen through March thirty-first, two
 thousand seventeen;
   (xiii) fifteen million dollars each state fiscal year for the period
 April first, two thousand seventeen through March thirty-first, two
-thousand twenty; and
+thousand twenty;
   (xiv) fifteen million dollars each state fiscal year for the period
 April first, two thousand twenty through March thirty-first, two
-thousand twenty-three.
+thousand twenty-three; and
+  (xv) fifteen million dollars each state fiscal year for the period
+April first, two thousand twenty-three through March thirty-first, two
+thousand twenty-six.
   (gg) Funds shall be reserved and accumulated from year to year and
 shall be available, including income from invested funds, for purposes
 of grants to non-public general hospitals pursuant to paragraph (c) of
@@ -1473,10 +1504,13 @@ year for the period April first, two thousand fourteen through March
 thirty-first, two thousand seventeen;
   (xiii) eight million five hundred thousand dollars each state fiscal
 year for the period April first, two thousand seventeen through March
-thirty-first, two thousand twenty; and
+thirty-first, two thousand twenty;
   (xiv) eight million five hundred thousand dollars each state fiscal
 year for the period April first, two thousand twenty through March
-thirty-first, two thousand twenty-three.
+thirty-first, two thousand twenty-three; and
+  (xv) eight million five hundred thousand dollars each state fiscal
+year for the period April first, two thousand twenty-three through March
+thirty-first, two thousand twenty-six.
   (jj) Funds shall be reserved and accumulated from year to year and
 shall be available, including income from invested funds, for the
 purposes of a grant program to improve access to infertility services,
@@ -1603,10 +1637,10 @@ thousand thirteen, and up to six million four hundred sixty-one thousand
 dollars for the period April first, two thousand thirteen through March
 thirty-first, two thousand fourteen, for administration and marketing
 costs associated with such program established pursuant to clauses (A)
-and (B) of subparagraph (v) of paragraph (a) of subdivision two of
-section three hundred sixty-nine-ee of the social services law from the
-tobacco control and insurance initiatives pool established for the
-following periods in the following amounts:
+and (B) of subparagraph (v) of paragraph (a) of subdivision two of the
+former section three hundred sixty-nine-ee of the social services law
+from the tobacco control and insurance initiatives pool established for
+the following periods in the following amounts:
   (A) one hundred ninety million six hundred thousand dollars for the
 period January first, two thousand three through December thirty-first,
 two thousand three;
@@ -2034,13 +2068,16 @@ dollars each state fiscal year for the period April first, two thousand
 fourteen through March thirty-first, two thousand seventeen, up to two
 million six hundred forty-four thousand dollars each state fiscal year
 for the period April first, two thousand seventeen through March
-thirty-first, two thousand twenty, and up to two million six hundred
+thirty-first, two thousand twenty, up to two million six hundred
 forty-four thousand dollars each state fiscal year for the period April
 first, two thousand twenty through March thirty-first, two thousand
-twenty-three. The total amount of funds provided herein shall be
-distributed as grants based on the ratio of each provider's total
-enrollment for all sites to the total enrollment of all providers. This
-formula shall be applied to the total amount provided herein.
+twenty-three, and up to two million six hundred forty-four thousand
+dollars each state fiscal year for the period April first, two thousand
+twenty-three through March thirty-first, two thousand twenty-six. The
+total amount of funds provided herein shall be distributed as grants
+based on the ratio of each provider's total enrollment for all sites to
+the total enrollment of all providers. This formula shall be applied to
+the total amount provided herein.
   (bbb) Funds shall be reserved and accumulated from year to year and
 shall be available, including income from invested funds, for purposes
 of awarding grants to operators of adult homes, enriched housing
@@ -2096,10 +2133,13 @@ period April first, two thousand fourteen through March thirty-first,
 two thousand seventeen;
   (ix) up to fifty million dollars each state fiscal year for the period
 April first, two thousand seventeen through March thirty-first, two
-thousand twenty; and
+thousand twenty;
   (x) up to fifty million dollars each state fiscal year for the period
 April first, two thousand twenty through March thirty-first, two
-thousand twenty-three.
+thousand twenty-three; and
+  (xi) up to fifty million dollars each state fiscal year for the period
+April first, two thousand twenty-three through March thirty-first, two
+thousand twenty-six.
   (ddd) Funds shall be deposited by the commissioner, within amounts
 appropriated, and the state comptroller is hereby authorized and
 directed to receive for the deposit to the credit of the state special

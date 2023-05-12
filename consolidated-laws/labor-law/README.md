@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | LAB |
 | Type | Consolidated law, chapter 31 |
-| Sections | 738 |
-| Last changed | 7 Apr 2023 |
+| Sections | 744 |
+| Last changed | 12 May 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Labor |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                                LABOR LAW.
 ```
 
-[Full chapter text (80 lines)](chapter-text.md)
+[Full chapter text (81 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [12 May 2023](../../changes/2023/2023-05-12.md): 19 amended, 6 added
 - [7 Apr 2023](../../changes/2023/2023-04-07.md): 18 amended
 - [31 Mar 2023](../../changes/2023/2023-03-31.md): 1 amended
 - [24 Mar 2023](../../changes/2023/2023-03-24.md): 2 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [24 Feb 2023](../../changes/2023/2023-02-24.md): 10 amended
 - [6 Jan 2023](../../changes/2023/2023-01-06.md): 3 amended, 1 added
 - [23 Dec 2022](../../changes/2022/2022-12-23.md): 1 amended, 10 added
-- [16 Dec 2022](../../changes/2022/2022-12-16.md): 3 amended
 
 ## Contents
 
@@ -99,4 +99,5 @@ Assembly, do enact as follows:
 - [Article 32 — Licensing of Mold Inspection, Assessment and Remediation Specialists and Minimum Work Standards](article-32-licensing-of-mold-inspection-assessment/)
 - [Article 33 — Elevators and Other Conveyances; Licensing](article-33-elevators-and-other-conveyances-licensing/)
 - [Article 34 — Certification of Public Service Employment](article-34-certification-of-public-service-employment/)
+- [Article 35 — New York Youth Jobs Connector Program](article-35-new-york-youth-jobs-connector-program/)
 - [Article 40 — When to Take Effect](article-40-when-to-take-effect/)

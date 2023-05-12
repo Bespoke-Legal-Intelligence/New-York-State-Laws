@@ -350,7 +350,7 @@ financial participation is available for expenditures made for
 beneficiaries eligible for medical assistance under title XIX of the
 federal social security act based upon the allowances determined in
 accordance with this subdivision.
-  * NB Expires June 30, 2023
+  * NB Expires June 30, 2025
   6. (a) The commissioner shall, subject to the approval of the state
 director of the budget, establish capitated rates of payment for
 services provided by assisted living programs as defined by paragraph
@@ -612,6 +612,15 @@ thirty-first, two thousand twenty-two, up to one hundred million
 dollars;
   (r) for the period April first, two thousand twenty-two through March
 thirty-first, two thousand twenty-three, up to one hundred million
+dollars;
+  (s) for the period April first, two thousand twenty-three through
+March thirty-first, two thousand twenty-four, up to one hundred million
+dollars;
+  (t) for the period April first, two thousand twenty-four through March
+thirty-first, two thousand twenty-five, up to one hundred million
+dollars;
+  (u) for the period April first, two thousand twenty-five through March
+thirty-first, two thousand twenty-six, up to one hundred million
 dollars.
   10. (a) Such adjustments to rates of payments shall be allocated
 proportionally based on each certified home health agency, long term
@@ -812,7 +821,7 @@ ensure that such aggregate limits on payment decreases are not exceeded.
   13. (a) Notwithstanding any inconsistent provision of law or
 regulation and subject to the availability of federal financial
 participation, effective April first, two thousand twelve through March
-thirty-first, two thousand twenty-three, payments by government agencies
+thirty-first, two thousand twenty-five, payments by government agencies
 for services provided by certified home health agencies, except for such
 services provided to children under eighteen years of age and other
 discreet groups as may be determined by the commissioner pursuant to

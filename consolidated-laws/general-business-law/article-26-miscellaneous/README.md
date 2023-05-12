@@ -66,6 +66,7 @@
 - [§ 394-CCC Social media networks; hateful conduct prohibited](394ccc-social-media-networks-hateful-conduct-prohibited.md)
 - [§ 394-D Privity of contract between franchise seller and customer or patron of dealer](394d-privity-of-contract-between-franchise-seller-and-customer-or-patron-of-dealer.md)
 - [§ 394-E Report on request for abortional services](394e-report-on-request-for-abortional-services.md)
+- [§ 394-F Warrants for reproductive health related electronic data](394f-warrants-for-reproductive-health-related-electronic-data.md)
 - [§ 395 Required disclosure of prior use](395-required-disclosure-of-prior-use.md)
 - [§ 395-A Maintenance agreements](395a-maintenance-agreements.md)
 - [§ 395-B Unlawfully installing or maintaining a two-way mirror or other viewing device](395b-unlawfully-installing-or-maintaining-a-two-way-mirror-or-other-viewing-device.md)
@@ -188,7 +189,6 @@
 - [§ 399-ZZZZ Prohibition of certain fee charges for termination or early cancellation](399zzzz-prohibition-of-certain-fee-charges-for-termination-or-early-cancellation.md)
 - [§ 399-ZZZZZ Broadband service for low-income consumers](399zzzzz-broadband-service-for-low-income-consumers.md)
 - [§ 399-ZZZZZ\*2 Use of preferred name and pronouns](399zzzzz-2-use-of-preferred-name-and-pronouns.md)
-- [§ 399-ZZZZZ\*3 Use of preferred name and pronouns](399zzzzz-3-use-of-preferred-name-and-pronouns.md)
 
 <details>
 <summary>Official heading of Article 26, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -276,6 +276,10 @@ Section 390.         Substitution of spurious oils for internal
         394-d.       Privity of contract between franchise seller and
                        customer or patron of dealer.
         394-e.       Report on request for abortional services.
+        394-f.       Warrants for reproductive health related electronic
+                       data.
+        394-g.       Geofencing of health care facilities.
+        394-h.       Electronic health information protections.
         395.         Required disclosure of prior use.
         395-a.       Maintenance agreements.
         395-b.       Unlawfully installing or maintaining a two-way

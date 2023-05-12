@@ -659,7 +659,7 @@ manufacturer (as provided for under section 1927.4(b)(1)(A) of the
 federal social security act) shall provide such data by zip code, if
 requested, for drugs covered under a rebate agreement.
   * (e) During the period from April first, two thousand fifteen through
-March thirty-first, two thousand twenty-three, the commissioner may, in
+March thirty-first, two thousand twenty-six, the commissioner may, in
 lieu of a managed care provider or pharmacy benefit manager, negotiate
 directly and enter into an arrangement with a pharmaceutical
 manufacturer for the provision of supplemental rebates relating to
@@ -823,7 +823,7 @@ condition or a reduction in the symptoms of such disease or condition
 that materially improves the patient's length or quality of life; and
 (E) is expected to achieve the result described in clause (D) of this
 subparagraph after not more than three administrations.
-  * NB Repealed March 31, 2026
+  * NB Repealed March 31, 2029
   * 8. No government agency shall purchase, pay for, or make
 reimbursement or grants-in-aid for any service in a residential
 treatment facility for children and youth or a comprehensive psychiatric
@@ -1044,7 +1044,7 @@ The commissioner shall apply for waivers and submit state Medicaid plan
 amendments as are necessary to implement the program for synchronization
 of medications.
   ** NB Effective January 1, 2024
-  * NB Effective until March 31, 2023
+  * NB Effective until March 31, 2025
   * 9. Notwithstanding any inconsistent provision of law or regulation
 to the contrary, for those drugs which may not be dispensed without a
 prescription as required by section sixty-eight hundred ten of the
@@ -1091,7 +1091,7 @@ cents per prescription; and
   (ii) for prescription drugs categorized as brand-name prescription
 drug by the prescription drug pricing service used by the department,
 four dollars and fifty cents per prescription.
-  * NB Effective March 31, 2023
+  * NB Effective March 31, 2025
   10. Any provider except for those providers certified under article
 twenty-eight of the public health law, of ordered services or supplies
 under the medical assistance program may be required to provide
