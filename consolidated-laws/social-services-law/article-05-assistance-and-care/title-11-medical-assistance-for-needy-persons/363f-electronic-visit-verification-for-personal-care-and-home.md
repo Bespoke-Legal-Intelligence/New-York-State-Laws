@@ -4,10 +4,5 @@
 [Social Services Law](../../README.md) › [Article 5 — Assistance and Care](../README.md) › [Title 11 — Medical Assistance For Needy Persons](README.md)
 
 ```text
-  * § 363-f. Electronic visit verification for personal care and home
-health providers. The commissioner, in consultation with the Medicaid
-inspector general, is hereby authorized to promulgate regulations to
-implement the electronic visit verification provisions of subsection (1)
-of section 1903 of the federal social security act.
-  * NB Effective January 1, 2024
+
 ```

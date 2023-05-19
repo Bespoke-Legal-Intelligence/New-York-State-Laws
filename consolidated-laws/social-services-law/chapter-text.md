@@ -22,9 +22,9 @@ Article  1.   Short title; definitions (§§ 1-2).
                 2.   Single room occupancy support services program
                        (§§ 45--45-g).
                 4.   Homelessness intervention program (§§ 48-52).
-              Local public welfare organization; powers and duties
-                       (§§ 56-116).
-                TitleApplication (§§ 56-58).
+         3.   Local public welfare organization; powers and duties (§§
+                56-116).
+         Title  1.   Application (§§ 56-58).
                 2.   Public welfare districts and their responsibility
                        for public assistance and care (§§ 61-64).
                 3.   County public welfare districts (§§ 65-73).
@@ -75,6 +75,8 @@ Article  1.   Short title; definitions (§§ 1-2).
                 13.   State Heating Fuel Crisis Assistance. (§ 370-aa).
          6.   Children (§§ 371-458-l).
          Title  1.    Care and protection of children (§§ 371-393).
+                1-A.  Child care creation and expansion tax credit
+                        program (§§ 394--394-g).
                 2.    Powers and duties of public welfare officials
                         (§§ 395-404).
                 3.    Child welfare services (§§ 406-408).

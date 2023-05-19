@@ -139,4 +139,5 @@ including, but not limited to, the expansion of such fuel as a result of
 temperature fluctuation, such petroleum business must remit such taxes
 to the commissioner on the return for the period in which such sale was
 made.
+  * NB Effective September 1, 2023
 ```

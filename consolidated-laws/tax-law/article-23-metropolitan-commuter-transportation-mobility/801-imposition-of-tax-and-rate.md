@@ -64,11 +64,11 @@ the MCTD exceed fifty thousand dollars for the tax year.
 hundredths (.34) percent of the net earnings from self-employment of
 individuals that are attributable to the MCTD if such earnings
 attributable to the MCTD exceed fifty thousand dollars for the tax year.
-  (B) For individuals, the tax is imposed at a rate of forty-seven
-hundredths (.47) percent of the net earnings from self-employment of
-individuals that are attributable to the MCTD, in the counties of Bronx,
-Kings, New York, Queens, and Richmond, if such earnings attributable to
-the MCTD exceed fifty thousand dollars for the tax year.
+  (B) For individuals, the tax is imposed at a rate of sixty hundredths
+(.60) percent of the net earnings from self-employment of individuals
+that are attributable to the MCTD, in the counties of Bronx, Kings, New
+York, Queens, and Richmond, if such earnings attributable to the MCTD
+exceed fifty thousand dollars for the tax year.
   * NB Effective January 1, 2024
   (b)(1) An individual having net earnings from self-employment from
 activity both within and without the metropolitan commuter

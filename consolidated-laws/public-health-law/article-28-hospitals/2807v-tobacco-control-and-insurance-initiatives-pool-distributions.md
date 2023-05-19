@@ -331,15 +331,15 @@ two thousand seven; and
   (viii) up to one hundred three million seven hundred fifty thousand
 dollars for the period January first, two thousand eight through
 December thirty-first, two thousand eight.
-  (i-1) Notwithstanding the provisions of paragraphs (h) and (i) of this
-subdivision, the commissioner shall reserve and accumulate up to two
-million five hundred thousand dollars annually for the periods January
-first, two thousand four through December thirty-first, two thousand
-six, one million four hundred thousand dollars for the period January
-first, two thousand seven through December thirty-first, two thousand
-seven, two million dollars for the period January first, two thousand
-eight through December thirty-first, two thousand eight, from funds
-otherwise available for distribution under such paragraphs for the
+  * (i-1) Notwithstanding the provisions of paragraphs (h) and (i) of
+this subdivision, the commissioner shall reserve and accumulate up to
+two million five hundred thousand dollars annually for the periods
+January first, two thousand four through December thirty-first, two
+thousand six, one million four hundred thousand dollars for the period
+January first, two thousand seven through December thirty-first, two
+thousand seven, two million dollars for the period January first, two
+thousand eight through December thirty-first, two thousand eight, from
+funds otherwise available for distribution under such paragraphs for the
 services and expenses related to the pilot program for entertainment
 industry employees included in subsection (b) of section one thousand
 one hundred twenty-two of the insurance law, and an additional seven
@@ -350,6 +350,7 @@ two thousand seven through June thirtieth, two thousand seven for
 services and expenses related to the pilot program for displaced workers
 included in subsection (c) of section one thousand one hundred
 twenty-two of the insurance law.
+  * NB Repealed July 1, 2024
   (j) Funds shall be reserved and accumulated from year to year and
 shall be available, including income from invested funds, for purposes
 of services and expenses related to the tobacco use prevention and

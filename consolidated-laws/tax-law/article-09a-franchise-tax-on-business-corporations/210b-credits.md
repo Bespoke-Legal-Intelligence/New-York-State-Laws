@@ -2589,7 +2589,7 @@ credited or refunded in accordance with the provisions of section one
 thousand eighty-six of this chapter. Provided, however, the provisions
 of subsection (c) of section one thousand eighty-eight of this chapter
 notwithstanding, no interest shall be paid thereon.
-  * NB Repealed January 1, 2024
+  * NB Repealed January 1, 2026
   * 58. Farm employer overtime credit. (a) Allowance of credit. A
 taxpayer shall be allowed a credit, to be computed as provided in
 section forty-two-a of this chapter, against the tax imposed by this

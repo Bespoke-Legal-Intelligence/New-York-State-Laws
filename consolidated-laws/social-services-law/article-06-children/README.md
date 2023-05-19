@@ -6,6 +6,7 @@
 ## Contents
 
 - [Title 1 — Care and Protection of Children](title-01-care-and-protection-of-children/)
+- [Title 1-A — Child Care Creation and Expansion Tax Credit Program](title-01a-child-care-creation-and-expansion/)
 - [Title 2 — Powers and Duties of Public Welfare Officials](title-02-powers-and-duties-of-public-welfare/)
 - [Title 3 — Child Welfare Services](title-03-child-welfare-services/)
 - [Title 4 — Preventive Services For Children and Their Families](title-04-preventive-services-for-children/)
@@ -33,8 +34,8 @@
                                 ARTICLE 6
                                 CHILDREN
 Title 1.    Care and protection of children (§§ 371-393).
-      1-A.  State commission on the quality of foster care
-              (§§ 393--393-b).
+      1-A.  Child care creation and expansion tax credit program
+              (§§ 394--394-g).
       2.    Powers and duties of public welfare officials (§§ 395-404).
       3.    Child welfare services (§§ 406-408).
       4.    Preventive services for children and their families

@@ -135,6 +135,8 @@ Section 1201.      Taxes administered by cities of one million or more.
                      Schenectady county metroplex development authority.
         1210-E.   Sales and compensating use taxes within Herkimer
                      county.
+        1210-F.   Sales and compensating use tax for purposes of the
+                     Suffolk county water quality restoration fund.
         1211.     Taxes of certain cities and school districts
                      administered by state tax commission.
         1212.     Certain taxes of school districts administered by

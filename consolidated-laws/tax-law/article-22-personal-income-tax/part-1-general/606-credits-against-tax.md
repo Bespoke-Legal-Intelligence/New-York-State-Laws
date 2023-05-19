@@ -2308,7 +2308,7 @@ tax credit                           subdivision fifty-six of
 * (xlviii) New York city musical     Amount of credit under
 and theatrical production            subdivision fifty-seven of
 tax credit                           section two hundred ten-B
-  * NB Repealed January 1, 2024
+  * NB Repealed January 1, 2026
 * (xlix) Farm employer overtime      Amount of credit under
 credit under subsection (nnn)        subdivision fifty-eight of
                                      section two hundred ten-B
@@ -5632,7 +5632,7 @@ year, the excess shall be treated as an overpayment of tax to be
 credited or refunded in accordance with the provisions of section six
 hundred eighty-six of this article, provided, however, that no interest
 shall be paid thereon.
-  * NB Repealed January 1, 2024
+  * NB Repealed January 1, 2026
   * (nnn) Farm employer overtime credit. (1) A taxpayer shall be allowed
 a credit, to be computed as provided in section forty-two-a of this
 chapter, against the tax imposed by this article.
