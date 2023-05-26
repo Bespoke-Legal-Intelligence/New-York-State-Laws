@@ -676,12 +676,11 @@ such parcel as a family day care home.
   13. Notwithstanding any other provision of law, this section, except
 for paragraph (a-1) of subdivision two-a of this section, shall not
 apply to child day care centers in the city of New York.
-  * 14. The office of children and family services, in conjunction with
+  14. The office of children and family services, in conjunction with
 the department of health, shall be required to annually distribute
 informational materials related to the occurrence, transmission, birth
 defects, methods of diagnosis and preventive measures of Cytomegalovirus
 established pursuant to subdivision six of section two hundred sixty-six
 of the public health law to every licensed, registered or enrolled child
 care provider and their staff.
-  * NB Effective May 22, 2023
 ```

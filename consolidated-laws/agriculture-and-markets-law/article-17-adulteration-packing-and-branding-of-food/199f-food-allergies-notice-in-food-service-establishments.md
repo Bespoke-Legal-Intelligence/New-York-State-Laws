@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 17 — Adulteration, Packing, and Branding of Food and Food Products](README.md)
 
 ```text
-  * § 199-f. Food allergies notice in food service establishments. 1.
+  § 199-f. Food allergies notice in food service establishments. 1.
 Definitions. For the purposes of this section:
   (a) "Menu" shall mean a list or pictorial display of a prepared food
 item or items available for sale for the purpose of permitting a
@@ -67,5 +67,4 @@ food item or items on such menu.
 section or any of the rules or regulations promulgated hereunder shall
 be liable for a civil penalty not to exceed one hundred twenty-five
 dollars for each violation.
-  * NB Effective May 20, 2023
 ```

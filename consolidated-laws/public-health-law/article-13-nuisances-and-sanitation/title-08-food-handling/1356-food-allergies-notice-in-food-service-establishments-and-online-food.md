@@ -4,7 +4,7 @@
 [Public Health Law](../../README.md) › [Article 13 — Nuisances and Sanitation](../README.md) › [Title 8 — Food Handling](README.md)
 
 ```text
-  * § 1356. Food allergies notice in food service establishments and
+  § 1356. Food allergies notice in food service establishments and
 online food ordering services. 1. Definitions. For the purposes of this
 section:
   (a) "Food service establishment" shall mean a restaurant or catering
@@ -64,5 +64,4 @@ information for each prepared food item or items on such menu.
 section or any of the rules or regulations promulgated hereunder shall
 be liable for a civil penalty not to exceed one hundred twenty-five
 dollars for each violation.
-  * NB Effective May 20, 2023
 ```

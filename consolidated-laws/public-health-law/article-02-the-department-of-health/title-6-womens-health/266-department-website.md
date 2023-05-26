@@ -95,7 +95,7 @@ Emergency Medical Treatment and Labor Act (EMTALA).
   5. The department shall develop educational materials to be provided
 to emergency room medical staff regarding the state and federal
 discharge and transfer requirements.
-  * 6. Cytomegalovirus. (a) In addition to information provided pursuant
+  6. Cytomegalovirus. (a) In addition to information provided pursuant
 to this section, the commissioner shall also develop comprehensive
 informational materials, which shall include, but not be limited to, the
 symptoms, the risks, the transmission and the prevention of
@@ -110,5 +110,4 @@ hundred forty of the education law.
   ii. Such physicians or midwives shall provide the cytomegalovirus
 informational materials to each pregnant patient during such patient's
 first appointment with such physician or midwife.
-  * NB Effective May 22, 2023
 ```
