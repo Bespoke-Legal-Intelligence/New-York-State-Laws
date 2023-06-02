@@ -1,15 +1,11 @@
-﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 37-0117", "kind": "section", "law_id": "ENV", "location_id": "37-0117", "path": "ARTICLE 37 › TITLE 1 › SECTION 37-0117", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/37-0117.md", "title": "Prohibition of cosmetic products and personal care products containing 1,4-dioxane"} -->
-# Environmental Conservation Law § 37-0117 — Prohibition of cosmetic products and personal care products containing 1,4-dioxane
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 37-0117", "kind": "section", "law_id": "ENV", "location_id": "37-0117", "path": "ARTICLE 37 › TITLE 1 › SECTION 37-0117", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/37-0117.md", "title": "Prohibition of cosmetic products and personal care products containing 1,4-dioxane or mercury"} -->
+# Environmental Conservation Law § 37-0117 — Prohibition of cosmetic products and personal care products containing 1,4-dioxane or mercury
 
 [Environmental Conservation Law](../../README.md) › [Article 37 — Substances Hazardous or Acutely Hazardous to Public Health, Safety or the Environment](../README.md) › [Title 1 — Substances Hazardous to the Environment](README.md)
 
 ```text
-§ 37-0117. * Prohibition of cosmetic products and personal care products
-             containing 1,4-dioxane.
-  * NB Effective until June 1, 2023
-  * Prohibition of cosmetic products and personal care products
-containing 1,4-dioxane or mercury.
-  * NB Effective June 1, 2023
+§ 37-0117. Prohibition of cosmetic products and personal care products
+             containing 1,4-dioxane or mercury.
   1. The term "cosmetic product" shall mean any article (a) intended to
 be rubbed, sprinkled, or sprayed on, introduced into, or otherwise
 applied to the human body or any part thereof for beautifying, promoting
@@ -47,17 +43,7 @@ health and the environment.
 regulations as it shall deem necessary to implement the provisions of
 this section, including rules and regulations with respect to any
 allowable trace concentrations.
-  * 7. A manufacturer of a cosmetic product or personal care product,
-otherwise subject to the requirements of this section, may apply to the
-department for a one-year waiver from such requirements for a specific
-cosmetic product or personal care product, and upon such proof that the
-manufacturer has taken steps to reduce the presence of 1,4-dioxane in
-that product and is unable to comply with the requirements of this
-section. Thereafter, a manufacturer may apply for one additional
-one-year waiver for such product, upon its satisfaction of such similar
-proof.
-  * NB Effective until June 1, 2023
-  * 7. A manufacturer of a cosmetic product or personal care product,
+  7. A manufacturer of a cosmetic product or personal care product,
 otherwise subject to the requirements of subdivisions three and four of
 this section, may apply to the department for a one-year waiver from
 such requirements for a specific cosmetic product or personal care
@@ -67,8 +53,7 @@ comply with the requirements of subdivisions three and four of this
 section. Thereafter, a manufacturer may apply for one additional
 one-year waiver for such product, upon its satisfaction of such similar
 proof.
-  * NB Effective June 1, 2023
-  * 8. No person shall sell or offer for sale any cosmetic product or
+  8. No person shall sell or offer for sale any cosmetic product or
 personal care product containing mercury, other than in trace amounts
 identified by the department, in consultation with the department of
 health, in regulations. Any such trace amounts shall be consistent with
@@ -81,5 +66,4 @@ eye. For the purposes of this subdivision "mercury" shall mean elemental
 mercury Hg, mercuric iodide, mercury oxide, mercurous chloride, ethyl
 mercury, phenyl mercuric salts, ammoniated mercury, amide chloride of
 mercury, mercury sulfide or cinnabaris, or mercury iodide.
-  * NB Effective June 1, 2023
 ```

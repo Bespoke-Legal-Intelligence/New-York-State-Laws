@@ -8,7 +8,7 @@
 | Senate code | STT |
 | Type | Consolidated law, chapter 57-A |
 | Sections | 28 |
-| Last changed | 7 Apr 2023 |
+| Last changed | 2 Jun 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | State Technology |
 
@@ -29,6 +29,7 @@ Article                                              Section
 
 ## Recent changes
 
+- [2 Jun 2023](../../changes/2023/2023-06-02.md): 1 amended
 - [7 Apr 2023](../../changes/2023/2023-04-07.md): 1 amended
 - [9 Dec 2022](../../changes/2022/2022-12-09.md): 1 amended
 - [15 Apr 2022](../../changes/2022/2022-04-15.md): 1 amended
@@ -38,7 +39,6 @@ Article                                              Section
 - [29 Jan 2021](../../changes/2021/2021-01-29.md): 1 added
 - [24 Apr 2020](../../changes/2020/2020-04-24.md): 1 amended
 - [10 Apr 2020](../../changes/2020/2020-04-10.md): 1 amended
-- [1 Nov 2019](../../changes/2019/2019-11-01.md): 1 amended
 
 ## Contents
 

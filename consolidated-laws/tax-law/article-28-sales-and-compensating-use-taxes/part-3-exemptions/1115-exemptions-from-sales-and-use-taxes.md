@@ -19,16 +19,7 @@ and compensating use taxes, whether or not the item is sold in liquid
 form. Nothing in this subparagraph shall be construed as exempting food
 or drink from the tax imposed under subdivision (d) of section eleven
 hundred five of this article.
-  * (B) Until May thirty first, two thousand twenty-three, the food and
-drink excluded from the exemption provided by clauses (i), (ii) and
-(iii) of subparagraph (A) of this paragraph, and bottled water, shall be
-exempt under this subparagraph when sold for one dollar and fifty cents
-or less through any vending machine that accepts coin or currency only
-or when sold for two dollars or less through any vending machine that
-accepts any form of payment other than coin or currency, whether or not
-it also accepts coin or currency.
-  * NB Effective until June 1, 2023
-  * (B) Until May thirty-first, two thousand twenty-four, the food and
+  (B) Until May thirty-first, two thousand twenty-four, the food and
 drink excluded from the exemption provided by clauses (i), (ii) and
 (iii) of subparagraph (A) of this paragraph, and bottled water, shall be
 exempt under this subparagraph: (i) when sold for one dollar and fifty
@@ -36,7 +27,6 @@ cents or less through any vending machine that accepts coin or currency
 only; or (ii) when sold for two dollars or less through any vending
 machine that accepts any form of payment other than coin or currency,
 whether or not it also accepts coin or currency.
-  * NB Effective June 1, 2023
   (2) Water, when delivered to the consumer through mains or pipes.
   (3) Drugs and medicines intended for use, internally or externally, in
 the cure, mitigation, treatment or prevention of illnesses or diseases

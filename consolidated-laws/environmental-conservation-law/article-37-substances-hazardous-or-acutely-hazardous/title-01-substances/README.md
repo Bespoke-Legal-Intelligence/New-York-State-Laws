@@ -15,7 +15,7 @@
 - [§ 37-0111 Prohibition against brominated flame retardants](37-0111-prohibition-against-brominated-flame.md)
 - [§ 37-0113 Lead and mercury-added wheel weights; prohibited](37-0113-lead-and-mercury-added-wheel-weights.md)
 - [§ 37-0115 Lead-containing jewelry](37-0115-lead-containing-jewelry.md)
-- [§ 37-0117 Prohibition of cosmetic products and personal care products containing 1,4-dioxane](37-0117-prohibition-of-cosmetic-products-and-personal.md)
+- [§ 37-0117 Prohibition of cosmetic products and personal care products containing 1,4-dioxane or mercury](37-0117-prohibition-of-cosmetic-products-and-personal.md)
 - [§ 37-0119 Prohibition against certain uses of trichloroethylene](37-0119-prohibition-against-certain-uses.md)
 - [§ 37-0119\*2 Coal tar; prohibited](37-0119-2-coal-tar-prohibited.md)
 - [§ 37-0121 Prohibition against the use of perfluoroalkyl and polyfluoroalkyl substances in apparel and outdoor apparel for severe wet conditions](37-0121-prohibition-against-the-use-of-perfluoroalkyl.md)

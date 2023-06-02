@@ -4,7 +4,7 @@
 [Insurance Law](../../README.md) › [Article 49 — Utilization Review and External Appeal](../README.md) › [Title 1 — Registration of Agents and Review Process](README.md)
 
 ```text
-  * § 4909. Site of service clinical review. (a) For purposes of this
+  § 4909. Site of service clinical review. (a) For purposes of this
 section:
   (1) "Free-standing ambulatory surgical center" shall mean a diagnostic
 and treatment center authorized pursuant to article twenty-eight of the
@@ -128,5 +128,4 @@ credentialed at any free-standing ambulatory surgical center in the
 service area and is not able to be credentialed within ninety days
 following the submission of the authorization request to the health care
 plan.
-  * NB Effective June 1, 2023
 ```
