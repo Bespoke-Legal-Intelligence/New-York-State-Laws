@@ -40,7 +40,7 @@
 - [§ 205 Prohibition against eating meals in certain workrooms](205-prohibition-against-eating-meals-in-certain-workrooms.md)
 - [§ 206 Prevention of personal injuries to persons engaged in tree trimming](206-prevention-of-personal-injuries-to-persons-engaged-in-tree-trimming.md)
 - [§ 206-A Physical examinations of females](206a-physical-examinations-of-females.md)
-- [§ 206-C Right of nursing mothers to express breast milk](206c-right-of-nursing-mothers-to-express-breast-milk.md)
+- [§ 206-C Right of nursing employees to express breast milk](206c-right-of-nursing-employees-to-express-breast-milk.md)
 - [§ 207 Protection of employees at switchboards](207-protection-of-employees-at-switchboards.md)
 - [§ 207-A Employee safety in work on energized high voltage lines](207a-employee-safety-in-work-on-energized-high-voltage-lines.md)
 - [§ 208 Labels, brands and marks used by labor organizations](208-labels-brands-and-marks-used-by-labor-organizations.md)
