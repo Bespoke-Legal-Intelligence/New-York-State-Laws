@@ -4,7 +4,7 @@
 [Real Property Actions and Proceedings Law](../README.md) › [Article 7-C — Special Proceedings By Tenants of Dwellings For Judgment Directing Deposit of Rents and the Use Thereof For the Purpose of Remedying Conditions Dangerous to Life, Health or Safety](README.md)
 
 ```text
-  * § 796-j. Appointment of administrator. 1.(a) The court is authorized
+  § 796-j. Appointment of administrator. 1.(a) The court is authorized
 and empowered, in implementation of a judgment rendered pursuant to
 section seven hundred ninety-six-h or seven hundred ninety-six-i of this
 article, to appoint a person other than the owner, a mortgagee or a
@@ -120,5 +120,4 @@ the dwelling is located, all outstanding emergency repair liens filed
 and recorded by any municipality in which the dwelling is located and
 all outstanding liens filed and recorded by such municipality or
 municipalities pursuant to this section.
-  * NB Effective June 13, 2023
 ```

@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 9 Jun 2023.*
+*Current through the publication of 16 Jun 2023.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [16 Jun 2023](changes/2023/2023-06-16.md): Education Law; Mental Hygiene Law; Penal Law; Public Health Law; Real Property Actions and Proceedings Law; Real Property Law
 - [9 Jun 2023](changes/2023/2023-06-09.md): Criminal Procedure Law; General Business Law; Labor Law; Public Health Law; Social Services Law
 - [2 Jun 2023](changes/2023/2023-06-02.md): Cannabis Law; Environmental Conservation Law; Executive Law; Insurance Law; Public Health Law; State Technology Law; Tax Law
 - [26 May 2023](changes/2023/2023-05-26.md): Agriculture and Markets Law; Election Law; General Business Law; Public Health Law; Social Services Law
@@ -22,27 +23,26 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [12 May 2023](changes/2023/2023-05-12.md): Alcoholic Beverage Control Law; Cannabis Law; Civil Practice Law and Rules; Civil Service Law; Correction Law; County Law; Court of Claims Act; Criminal Procedure Law; Economic Development Law; Education Law; Elder Law; Energy Law; Environmental Conservation Law; Executive Law; Family Court Act; Financial Services Law; General Business Law; General City Law; General Municipal Law; Insurance Law; Judiciary Law; Labor Law; Legislative Law; Local Finance Law; Medical Care Facilities Finance Agency; Mental Hygiene Law; Military Law; New York City Criminal Court Act; Not-for-Profit Corporation Law; Parks, Recreation and Historic Preservation Law; Penal Law; Private Housing Finance Law; Public Authorities Law; Public Buildings Law; Public Health Law; Public Officers Law; Public Service Law; Racing, Pari-Mutuel Wagering and Breeding Law; Real Property Actions and Proceedings Law; Real Property Tax Law; Retirement and Social Security Law; Social Services Law; State Administrative Procedure Act; State Finance Law; Tax Law; Urban Development Corporation Act; Vehicle and Traffic Law; Volunteer Firefighters' Benefit Law
 - [5 May 2023](changes/2023/2023-05-05.md): Education Law; Public Health Law
 - [28 Apr 2023](changes/2023/2023-04-28.md): Executive Law; Public Health Law; Soil and Water Conservation Districts Law; State Law
-- [21 Apr 2023](changes/2023/2023-04-21.md): Vehicle and Traffic Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | 248 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 248 |
-| [Education Law](consolidated-laws/education-law/README.md) | 206 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 247 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 241 |
+| [Education Law](consolidated-laws/education-law/README.md) | 211 |
 | [Tax Law](consolidated-laws/tax-law/README.md) | 166 |
 | [Highway Law](consolidated-laws/highway-law/README.md) | 148 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | 136 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | 129 |
 | [Labor Law](consolidated-laws/labor-law/README.md) | 114 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 110 |
-| [Penal Law](consolidated-laws/penal-law/README.md) | 102 |
-| [General Business Law](consolidated-laws/general-business-law/README.md) | 100 |
-| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 97 |
+| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 94 |
+| [Penal Law](consolidated-laws/penal-law/README.md) | 91 |
 | [Election Law](consolidated-laws/election-law/README.md) | 88 |
+| [General Business Law](consolidated-laws/general-business-law/README.md) | 87 |
+| [Real Property Actions and Proceedings Law](consolidated-laws/real-property-actions-and-proceedings-law/README.md) | 84 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 75 |
-| [Real Property Actions and Proceedings Law](consolidated-laws/real-property-actions-and-proceedings-law/README.md) | 71 |
 
 ## Consolidated Laws
 
@@ -68,7 +68,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Debtor and Creditor Law](consolidated-laws/debtor-and-creditor-law/README.md) | DCD | 194 | 29 Jul 2022 |
 | [Domestic Relations Law](consolidated-laws/domestic-relations-law/README.md) | DOM | 175 | 7 Apr 2023 |
 | [Economic Development Law](consolidated-laws/economic-development-law/README.md) | COM | 198 | 12 May 2023 |
-| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,918 | 12 May 2023 |
+| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,919 | 16 Jun 2023 |
 | [Elder Law](consolidated-laws/elder-law/README.md) | ELD | 46 | 12 May 2023 |
 | [Election Law](consolidated-laws/election-law/README.md) | ELN | 437 | 26 May 2023 |
 | [Eminent Domain Procedure Law](consolidated-laws/eminent-domain-procedure-law/README.md) | EDP | 50 | 27 Sep 2019 |
@@ -93,7 +93,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Lien Law](consolidated-laws/lien-law/README.md) | LIE | 175 | 24 Apr 2020 |
 | [Limited Liability Company Law](consolidated-laws/limited-liability-company-law/README.md) | LLC | 119 | 6 Jan 2023 |
 | [Local Finance Law](consolidated-laws/local-finance-law/README.md) | LFN | 164 | 12 May 2023 |
-| [Mental Hygiene Law](consolidated-laws/mental-hygiene-law/README.md) | MHY | 517 | 19 May 2023 |
+| [Mental Hygiene Law](consolidated-laws/mental-hygiene-law/README.md) | MHY | 517 | 16 Jun 2023 |
 | [Military Law](consolidated-laws/military-law/README.md) | MIL | 305 | 12 May 2023 |
 | [Multiple Dwelling Law](consolidated-laws/multiple-dwelling-law/README.md) | MDW | 189 | 29 Jul 2022 |
 | [Multiple Residence Law](consolidated-laws/multiple-residence-law/README.md) | MRE | 105 | 8 Nov 2019 |
@@ -104,12 +104,12 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Not-for-Profit Corporation Law](consolidated-laws/not-for-profit-corporation-law/README.md) | NPC | 266 | 12 May 2023 |
 | [Parks, Recreation and Historic Preservation Law](consolidated-laws/parks-recreation-and-historic-preservation-law/README.md) | PAR | 181 | 12 May 2023 |
 | [Partnership Law](consolidated-laws/partnership-law/README.md) | PTR | 165 | 6 Jan 2023 |
-| [Penal Law](consolidated-laws/penal-law/README.md) | PEN | 890 | 12 May 2023 |
+| [Penal Law](consolidated-laws/penal-law/README.md) | PEN | 890 | 16 Jun 2023 |
 | [Personal Property Law](consolidated-laws/personal-property-law/README.md) | PEP | 135 | 13 Dec 2019 |
 | [Private Housing Finance Law](consolidated-laws/private-housing-finance-law/README.md) | PVH | 437 | 12 May 2023 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | PBA | 3,219 | 19 May 2023 |
 | [Public Buildings Law](consolidated-laws/public-buildings-law/README.md) | PBB | 56 | 12 May 2023 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,772 | 9 Jun 2023 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,772 | 16 Jun 2023 |
 | [Public Housing Law](consolidated-laws/public-housing-law/README.md) | PBG | 359 | 7 Apr 2023 |
 | [Public Lands Law](consolidated-laws/public-lands-law/README.md) | PBL | 78 | 23 Dec 2022 |
 | [Public Officers Law](consolidated-laws/public-officers-law/README.md) | PBO | 116 | 12 May 2023 |
@@ -117,8 +117,8 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Racing, Pari-Mutuel Wagering and Breeding Law](consolidated-laws/racing-pari-mutuel-wagering-and-breeding-law/README.md) | PML | 375 | 12 May 2023 |
 | [Railroad Law](consolidated-laws/railroad-law/README.md) | RRD | 200 | 17 Jun 2022 |
 | [Rapid Transit Law](consolidated-laws/rapid-transit-law/README.md) | RAT | 79 | 17 Jun 2022 |
-| [Real Property Actions and Proceedings Law](consolidated-laws/real-property-actions-and-proceedings-law/README.md) | RPA | 361 | 12 May 2023 |
-| [Real Property Law](consolidated-laws/real-property-law/README.md) | RPP | 426 | 10 Mar 2023 |
+| [Real Property Actions and Proceedings Law](consolidated-laws/real-property-actions-and-proceedings-law/README.md) | RPA | 361 | 16 Jun 2023 |
+| [Real Property Law](consolidated-laws/real-property-law/README.md) | RPP | 426 | 16 Jun 2023 |
 | [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | RPT | 787 | 12 May 2023 |
 | [Religious Corporations Law](consolidated-laws/religious-corporations-law/README.md) | RCO | 337 | 19 Aug 2022 |
 | [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | RSS | 571 | 12 May 2023 |

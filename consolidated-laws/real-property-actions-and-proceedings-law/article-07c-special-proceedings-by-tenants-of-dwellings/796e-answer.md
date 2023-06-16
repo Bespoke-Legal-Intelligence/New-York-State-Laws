@@ -4,11 +4,10 @@
 [Real Property Actions and Proceedings Law](../README.md) › [Article 7-C — Special Proceedings By Tenants of Dwellings For Judgment Directing Deposit of Rents and the Use Thereof For the Purpose of Remedying Conditions Dangerous to Life, Health or Safety](README.md)
 
 ```text
-  * § 796-e. Answer. At the time when the petition is to be heard, the
+  § 796-e. Answer. At the time when the petition is to be heard, the
 owner and any mortgagee or lienor of record, shall answer in writing. If
 the notice of petition was served at least eight days before the time at
 which it was noticed to be heard and it so demands, the answer shall be
 served at least three days before the time the petition is noticed to be
 heard and any reply shall be served at least one day before such time.
-  * NB Effective June 13, 2023
 ```
