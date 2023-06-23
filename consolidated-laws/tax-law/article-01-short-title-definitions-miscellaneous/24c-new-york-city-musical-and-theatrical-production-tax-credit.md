@@ -61,7 +61,7 @@ recording, set construction, and lighting. Qualified production
 expenditure does not include any costs incurred prior to the credit
 period of a qualified New York city musical and theatrical production
 company.
-  (3) (i) " Level one qualified New York city production facility" means
+  (3) (i) "Level one qualified New York city production facility" means
 a facility located within the (A) borough of Manhattan, bounded by and
 including forty-first street and fifty-fourth street and between sixth
 avenue and ninth avenue in which live theatrical productions are or are

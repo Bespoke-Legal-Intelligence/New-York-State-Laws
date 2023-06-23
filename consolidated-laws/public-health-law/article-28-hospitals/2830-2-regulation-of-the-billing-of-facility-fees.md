@@ -31,6 +31,5 @@ top six languages spoken in the hospital's service area. In no event
 shall a facility fee be charged for services related to the provision of
 preventive care service as defined by the United States Preventive
 Services Task Force.
-  * NB Effective June 21, 2023
   * NB There are 2 § 2830's
 ```

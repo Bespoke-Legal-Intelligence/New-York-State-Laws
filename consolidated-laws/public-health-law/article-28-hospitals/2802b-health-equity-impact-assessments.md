@@ -4,8 +4,8 @@
 [Public Health Law](../README.md) › [Article 28 — Hospitals](README.md)
 
 ```text
-  * § 2802-b. Health equity impact assessments. 1. Definitions. As used
-in this section:
+  § 2802-b. Health equity impact assessments. 1. Definitions. As used in
+this section:
   (a) "Application" means an application under this article for the
 construction, establishment, change in the establishment, merger,
 acquisition, elimination or substantial reduction, expansion, or
@@ -107,5 +107,4 @@ with the department, including any filing with the council. The
 applicant shall publicly post the application and the health equity
 impact assessment on its website within one week of acknowledgement by
 the department.
-  * NB Effective June 22, 2023
 ```

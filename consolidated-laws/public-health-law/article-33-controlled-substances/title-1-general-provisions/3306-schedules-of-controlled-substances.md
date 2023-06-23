@@ -18,8 +18,8 @@ ethers, salts, and salts of isomers, esters, and ethers, whenever the
 existence of such isomers, esters, ethers and salts is possible within
 the specific chemical designation (for purposes of 3-methylfentanyl
 only, the term isomer includes the optical and geometric isomers):
-  (1) Acetyl-alpha-methylfentanyl (N-{1-(-methyl-2-phenethyl)
--4-piperidinyl} -N-phenylacetamide.
+  (1) Acetyl-alpha-methylfentanyl
+(N-{1-(-methyl-2-phenethyl) -4-piperidinyl} -N-phenylacetamide.
   (2) Acetylmethadol.
   (3) Allylprodine.
   (4) Alphacetylmethadol (except levo- alphacetylmethadol also known as
@@ -161,8 +161,8 @@ Other name: para-fluoro furanyl fentanyl.
   (91) N,N-diethyl-2-(2-(4-isopropoxybenzyl)-5-nitro-1H-benzimidazol-1-yl)
 ethan-1-amine. Other name: Isotonitazene.
   (92) 1-(1-(1-(4-bromophenyl)ethyl)piperidin-4-yl)-1,3-dihydro-2H-
-benzo{d}IMIDAZOL-2-ONE. OTHER NAMES:  BRORPHINE; 1-{1-{1-(4-BROMOPHENYL)
-ETHYL}-4-PIPERIDINYL}-1,3-DIHYDRO-2H-BENZIMIDAZOL-2-ONE.
+benzo{d}imidazol-2-one. Other names: Brorphine; 1-{1-{1-(4-bromophenyl)
+ethyl}-4-piperidinyl}-1,3-dihydro-2H-benzimidazol-2-one.
   (c) Opium derivatives. Unless specifically excepted or unless listed
 in another schedule, any of the following opium derivatives, its salts,
 isomers, and salts of isomers whenever the existence of such salts,
@@ -561,7 +561,7 @@ benzyl methyl ketone; methyl benzyl ketone;
   (i) 1-phenylcyclohexylamine;
   (ii) 1-piperidinocyclohexanecarbonitrile (PCC).
   (3) Immediate precursor to fentanyl:
-  (i) 4-anilino-N-phenen- ethylpiperidine (ANPP).
+  (i) 4-anilino-N-phenen-ethylpiperidine (ANPP).
   (ii) N-phenyl-N-(piperidin-4-yl)propionamide (Norfentanyl).
   (h) Anabolic steroids. Unless specifically excepted or unless listed
 in another schedule, "anabolic steroid" shall mean any drug or hormonal

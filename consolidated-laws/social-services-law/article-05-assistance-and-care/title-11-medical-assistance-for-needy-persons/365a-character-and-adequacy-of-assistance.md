@@ -552,7 +552,6 @@ education law.
 sixty-seven of the education law, provided by a person licensed,
 certified, or otherwise authorized to provide applied behavior analysis
 under that article.
-  * NB Effective June 21, 2023
   * NB There are 2 par (jj)'s
   * (kk) community health worker services which shall include, but not
 be limited to, culturally appropriate patient education, health care

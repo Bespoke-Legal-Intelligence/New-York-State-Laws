@@ -64,7 +64,7 @@ which the eligible individual or the eligible couple resides:
 eligible individual living alone, $928.00; and for an eligible couple
 living alone, $1,365.00.
   * NB Effective until December 31, 2023
-  * (a) On and after January first, two thousand twenty- three, for an
+  * (a) On and after January first, two thousand twenty-three, for an
 eligible individual living alone, $1,001.00; and for an eligible couple
 living alone, $1,475.00.
   * NB Effective December 31, 2023

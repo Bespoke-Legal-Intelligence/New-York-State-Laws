@@ -4,9 +4,8 @@
 [Labor Law](../README.md) › [Article 21-A — Warehouse Worker Protection Act](README.md)
 
 ```text
-  * § 783. Time on task. Consistent with existing law, paid and unpaid
+  § 783. Time on task. Consistent with existing law, paid and unpaid
 breaks shall not be considered productive time for the purpose of any
 quota or monitoring system unless the employee is required to remain on
 call.
-  * NB Effective June 19, 2023
 ```

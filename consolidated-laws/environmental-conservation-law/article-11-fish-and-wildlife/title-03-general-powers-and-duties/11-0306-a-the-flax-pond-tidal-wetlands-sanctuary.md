@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 11 — Fish and Wildlife](../README.md) › [Title 3 — General Powers and Duties of the Department](README.md)
 
 ```text
-* § 11-0306-a. The Flax Pond tidal wetlands sanctuary.
+§ 11-0306-a. The Flax Pond tidal wetlands sanctuary.
   1. There is established a Flax Pond tidal wetlands sanctuary for the
 purpose of protecting areas of special ecological significance within
 the Flax Pond tidal marsh. The sanctuary shall be composed of the tidal
@@ -37,5 +37,4 @@ following receipt of a tidal wetlands access permit issued pursuant to
 department regulations; and
   g. boating by sail, human propelled oar or paddle, or mechanically
 propelled vessels having a source of power less than ten horsepower.
-  * NB Effective June 21, 2023
 ```

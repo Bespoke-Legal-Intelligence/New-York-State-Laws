@@ -4,9 +4,9 @@
 [Labor Law](../README.md) › [Article 21-A — Warehouse Worker Protection Act](README.md)
 
 ```text
-  * § 786. Unlawful retaliation. For purposes of this article, there
-shall be a rebuttable presumption of unlawful retaliation if an employer
-in any manner discriminates, retaliates, or takes any adverse action
+  § 786. Unlawful retaliation. For purposes of this article, there shall
+be a rebuttable presumption of unlawful retaliation if an employer in
+any manner discriminates, retaliates, or takes any adverse action
 against any employee within ninety days of the employee doing either of
 the following:
   1. Initiating the employee's first request in a calendar year for
@@ -17,5 +17,4 @@ this article.
 sections seven hundred eighty-one to seven hundred eighty-five of this
 article, inclusive, to the commissioner, the department, other local or
 state governmental agency, or the employer.
-  * NB Effective June 19, 2023
 ```

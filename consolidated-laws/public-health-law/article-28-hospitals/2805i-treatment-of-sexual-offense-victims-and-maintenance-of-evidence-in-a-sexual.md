@@ -271,14 +271,14 @@ program in obtaining useful forensic evidence in sexual offense cases
 and assuring quality treatment to sex offense victims. Such report shall
 also recommend whether this program should be expanded and shall
 estimate the financial cost, if any, of such expansion.
-  * 8. (a) The division of criminal justice services in consultation
-with the department, the office of victim services, the division of
-state police, and the New York State Coalition Against Sexual Assault
-shall develop a statewide electronic tracking system for evidence
-collection kits used to collect and preserve evidence of a sexual
-assault or other sex offense that are submitted to the custody of law
-enforcement. Such statewide electronic tracking system shall not include
-evidence collection kits not in the custody of law enforcement.
+  8. (a) The division of criminal justice services in consultation with
+the department, the office of victim services, the division of state
+police, and the New York State Coalition Against Sexual Assault shall
+develop a statewide electronic tracking system for evidence collection
+kits used to collect and preserve evidence of a sexual assault or other
+sex offense that are submitted to the custody of law enforcement. Such
+statewide electronic tracking system shall not include evidence
+collection kits not in the custody of law enforcement.
   (b) The division of criminal justice services shall promulgate rules
 and guidelines to ensure that sexual assault evidence collection kits
 that are submitted to the custody of law enforcement are trackable on a
@@ -324,5 +324,4 @@ offense; and
   (2) "survivor" shall mean an individual who is the victim of a sexual
 offense from whom a human biological specimen or specimens collected by
 a healthcare provider during a forensic medical examination.
-  * NB Effective June 20, 2023
 ```

@@ -4,7 +4,7 @@
 [Labor Law](../README.md) › [Article 21-A — Warehouse Worker Protection Act](README.md)
 
 ```text
-  * § 780. Definitions. As used in this article:
+  § 780. Definitions. As used in this article:
   1. "Defined time period" means any unit of time measurement equal to
 or less than the duration of an employee's shift, and includes hours,
 minutes, and seconds and any fraction thereof.
@@ -66,5 +66,4 @@ goods;
 shopping and mail-order houses; or
   (e) four hundred ninety-two thousand one hundred ten for couriers and
 express delivery services.
-  * NB Effective June 19, 2023
 ```

@@ -6,8 +6,8 @@
 ```text
   § 3614-f. Home care minimum wage increase. 1. Definitions. For the
 purpose of this section:
-  (a) " Home care aide" shall have the same meaning as defined in
-section thirty-six hundred fourteen-c of this article.
+  (a) "Home care aide" shall have the same meaning as defined in section
+thirty-six hundred fourteen-c of this article.
   (b) "Home care worker wage adjustment" shall mean a supplemental
 amount of wages equal to the rate of change in the average of the three
 most recent consecutive twelve month periods between the first of August
