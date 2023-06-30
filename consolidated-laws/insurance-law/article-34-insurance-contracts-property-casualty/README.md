@@ -41,7 +41,7 @@
 - [§ 3435-A Motor vehicle insurance policies; New York state licensed drivers; prohibitions against refusing to issue policies or renew policies](3435a-motor-vehicle-insurance-policies-new-york-state-licensed-drivers-prohibitions.md)
 - [§ 3436 Medical malpractice insurance; type of coverage](3436-medical-malpractice-insurance-type-of-coverage.md)
 - [§ 3436\*2 Group credit unemployment insurance and individual credit unemployment insurance](3436-2-group-credit-unemployment-insurance-and-individual-credit-unemployment-insurance.md)
-- [§ 3436-A Adverse action against legal reproductive health care](3436a-adverse-action-against-legal-reproductive-health-care.md)
+- [§ 3436-A Adverse action against legal reproductive health care or gender-affirming care](3436a-adverse-action-against-legal-reproductive-health-care-or-gender-affirming-care.md)
 - [§ 3439 Reinsurance contracts excepted](3439-reinsurance-contracts-excepted.md)
 - [§ 3440 Insurance covering private passenger motor vehicles; rental vehicle coverage](3440-insurance-covering-private-passenger-motor-vehicles-rental-vehicle-coverage.md)
 - [§ 3442 Credit card, debit card, or checking account group policies](3442-credit-card-debit-card-or-checking-account-group-policies.md)
@@ -142,7 +142,8 @@ Section 3401.   Insurable interest in property.
         3436.   Medical malpractice insurance; type of coverage.
         3436*2. Group credit unemployment insurance and individual
                   credit unemployment insurance.
-        3436-a. Adverse action against legal reproductive health care.
+        3436-a. Adverse action against legal reproductive health care or
+                  gender-affirming care.
         3439.   Reinsurance contracts excepted.
         3440.   Insurance covering private passenger motor vehicles;
                   rental vehicle coverage.

@@ -13,8 +13,9 @@
 - [§ 570.12 Extradition of persons imprisoned or awaiting trial in another state](570.12-extradition-of-persons.md)
 - [§ 570.14 Extradition of persons who left the demanding state under compulsion](570.14-extradition-of-persons-who.md)
 - [§ 570.16 Extradition of persons not present in demanding state at time of commission of crime](570.16-extradition-of-persons-not.md)
-- [§ 570.17 Extradition of abortion providers](570.17-extradition-of-abortion.md)
+- [§ 570.17 Extradition for legally protected health activity](570.17-extradition-for-legally.md)
 - [§ 570.18 Issuance of warrant of arrest by governor; recitals therein](570.18-issuance-of-warrant.md)
+- [§ 570.19 Extradition of gender-affirming care providers, seekers, parents, guardians, and helpers](570.19-extradition-of-gender.md)
 - [§ 570.20 Execution of warrant; manner and place thereof](570.20-execution-of-warrant-manner.md)
 - [§ 570.22 Authority of arresting officer](570.22-authority-of-arresting.md)
 - [§ 570.24 Rights of accused person; application for writ of habeas corpus](570.24-rights-of-accused-person.md)
@@ -58,9 +59,11 @@ Section 570.02 Short title.
                  compulsion.
         570.16 Extradition of persons not present in demanding state at
                  time of commission of crime.
-        570.17 Extradition of abortion providers.
+        570.17 Extradition for legally protected health activity.
         570.18 Issuance of warrant of arrest by governor; recitals
                  therein.
+        570.19 Extradition of gender-affirming care providers, seekers,
+                 parents, guardians, and helpers.
         570.20 Execution of warrant; manner and place thereof.
         570.22 Authority of arresting officer.
         570.24 Rights of accused person; application for writ of habeas

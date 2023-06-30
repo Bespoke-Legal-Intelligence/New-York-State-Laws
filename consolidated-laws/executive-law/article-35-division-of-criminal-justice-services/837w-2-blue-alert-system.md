@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 837-W*3", "kind": "section", "law_id": "EXC", "location_id": "837-W*3", "path": "ARTICLE 35 › SECTION 837-W*3", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/837-W_3.md", "title": "Blue alert system"} -->
-# Executive Law § 837-W*3 — Blue alert system
+﻿<!-- nyslaw {"citation": "Executive Law § 837-W*2", "kind": "section", "law_id": "EXC", "location_id": "837-W*2", "path": "ARTICLE 35 › SECTION 837-W*2", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/837-W_2.md", "title": "Blue alert system"} -->
+# Executive Law § 837-W*2 — Blue alert system
 
 [Executive Law](../README.md) › [Article 35 — Division of Criminal Justice Services](README.md)
 
@@ -58,5 +58,5 @@ Emergency Alert System for the issuance of blue alerts.
   8. The division is hereby authorized to promulgate rules and
 regulations for the implementation of the blue alert system pursuant to
 this section.
-  * NB There are 3 § 837-w's
+  * NB There are 2 § 837-w's
 ```

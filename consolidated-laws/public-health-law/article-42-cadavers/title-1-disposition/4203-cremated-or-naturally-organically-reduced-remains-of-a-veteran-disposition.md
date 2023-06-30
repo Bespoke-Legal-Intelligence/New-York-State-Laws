@@ -1,16 +1,12 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 4203", "kind": "section", "law_id": "PBH", "location_id": "4203", "path": "ARTICLE 42 › TITLE 1 › SECTION 4203", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4203.md", "title": "Cremated remains of a veteran; disposition"} -->
-# Public Health Law § 4203 — Cremated remains of a veteran; disposition
+﻿<!-- nyslaw {"citation": "Public Health Law § 4203", "kind": "section", "law_id": "PBH", "location_id": "4203", "path": "ARTICLE 42 › TITLE 1 › SECTION 4203", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4203.md", "title": "Cremated or naturally organically reduced remains of a veteran; disposition"} -->
+# Public Health Law § 4203 — Cremated or naturally organically reduced remains of a veteran; disposition
 
 [Public Health Law](../../README.md) › [Article 42 — Cadavers](../README.md) › [Title 1 — Disposition](README.md)
 
 ```text
-  § 4203. * Cremated remains of a veteran; disposition.
-  * NB Effective until June 28, 2023
-  * Cremated or naturally organically reduced remains of a veteran;
-disposition.
-  * NB Effective June 28, 2023
-1. As used in this section, the following terms shall have the following
-meanings:
+  § 4203. Cremated or naturally organically reduced remains of a
+veteran; disposition. 1. As used in this section, the following terms
+shall have the following meanings:
   (a) "veteran" means a deceased person who:
   (i) served in the active military or naval service of the United
 States; or
@@ -39,64 +35,34 @@ United States department of veterans' affairs national cemetery
 administration.
   (d) "interment" shall have the meaning set forth in paragraph (g) of
 section fifteen hundred two of the not-for-profit corporation law.
-  * (e) "disposition" means disposal of cremated remains by placement in
-a tomb, mausoleum, crypt, niche in a columbarium or burial in a
-cemetery.  Provided, however, for the purpose of this section the term
-"disposition" shall not include the scattering of cremated remains.
-  * NB Effective until June 28, 2023
-  * (e) "disposition" means disposal of cremated or naturally
-organically reduced remains by placement in a tomb, mausoleum, crypt,
-niche in a columbarium or burial in a cemetery. Provided, however, for
-the purpose of this section the term "disposition" shall not include the
-scattering of cremated or naturally organically reduced remains.
-  * NB Effective June 28, 2023
+  (e) "disposition" means disposal of cremated or naturally organically
+reduced remains by placement in a tomb, mausoleum, crypt, niche in a
+columbarium or burial in a cemetery. Provided, however, for the purpose
+of this section the term "disposition" shall not include the scattering
+of cremated or naturally organically reduced remains.
   (f) "local veterans' service agencies" shall have the meaning set
 forth in section three hundred fifty-seven of the executive law.
-  * 2. A funeral director, undertaker or funeral firm which has held in
-its possession cremated remains for more than one hundred twenty days
-from the date of cremation may, in accordance with the provisions of
-this section, determine if such cremated remains are those of a veteran,
-and if so, may dispose of such remains as provided in this section.
-  * NB Effective until June 28, 2023
-  * 2. A funeral director, undertaker or funeral firm which has held in
+  2. A funeral director, undertaker or funeral firm which has held in
 its possession cremated or naturally organically reduced remains for
 more than one hundred twenty days from the date of cremation or natural
 organic reduction may, in accordance with the provisions of this
 section, determine if such cremated or naturally organically reduced
 remains are those of a veteran, and if so, may dispose of such remains
 as provided in this section.
-  * NB Effective June 28, 2023
-  3. * (a) Notwithstanding any law or regulation to the contrary,
-nothing in this section shall prevent a funeral director, undertaker or
-funeral firm from sharing information with the United States department
-of veterans affairs (VA), a local veterans' service agency, a veterans'
-service organization, a national cemetery, or county veterans cemetery
-for the purpose of determining whether the cremated remains are those of
-a veteran.
-  * NB Effective until June 28, 2023
-  * (a) Notwithstanding any law or regulation to the contrary, nothing
+  3. (a) Notwithstanding any law or regulation to the contrary, nothing
 in this section shall prevent a funeral director, undertaker or funeral
 firm from sharing information with the United States department of
 veterans affairs (VA), a local veterans' service agency, a veterans'
 service organization, a national cemetery, or county veterans cemetery
 for the purpose of determining whether the cremated or naturally
 organically reduced remains are those of a veteran.
-  * NB Effective June 28, 2023
   (b) A funeral director, undertaker, or funeral firm shall be
 discharged from any legal obligations or liability with regard to
 releasing or sharing information to the United States department of
 veterans affairs, the local veterans' service agencies, veterans'
 service organizations, a national cemetery, or county veterans cemetery
 pursuant to this section.
-  4. * (a) Should a funeral director, undertaker or funeral firm
-ascertain the cremated remains in its possession are those of a veteran,
-and they have not been instructed by the person in control of the
-disposition of the decedent to arrange for the final disposal or
-delivery of the cremated remains, the funeral director, undertaker or
-funeral firm may dispose of the cremated remains or relinquish
-possession of the cremated remains to a veterans' service organization.
-  * NB Effective until June 28, 2023
-  * (a) Should a funeral director, undertaker or funeral firm ascertain
+  4. (a) Should a funeral director, undertaker or funeral firm ascertain
 the cremated or naturally organically reduced remains in its possession
 are those of a veteran, and they have not been instructed by the person
 in control of the disposition of the decedent to arrange for the final
@@ -105,63 +71,30 @@ remains, the funeral director, undertaker or funeral firm may dispose of
 the cremated or naturally organically reduced remains or relinquish
 possession of the cremated or naturally organically reduced remains to a
 veterans' service organization.
-  * NB Effective June 28, 2023
   (b) The method of disposition shall be made pursuant to section
 forty-two hundred two of this title in a national cemetery, a county
 veterans cemetery, a section of a cemetery corporation where veterans
 are memorialized by a veteran's marker if eligible, a veterans' section
 of a cemetery corporation or a veterans' cemetery if the deceased
 veteran is eligible for interment in such a manner.
-  * 5. The funeral director, undertaker, funeral firm or veterans'
-service organization notwithstanding any law to the contrary, upon:
-  (a) disposing of cremated remains in accordance with the provisions of
-this section, shall be held harmless for any costs or damages, except if
-there is gross negligence or willful misconduct; and
-  (b) shall be discharged from any legal obligation or liability
-concerning the cremated remains.
-  * NB Effective until June 28, 2023
-  * 5. The funeral director, undertaker, funeral firm or veterans'
-service organization notwithstanding any law to the contrary, upon:
+  5. The funeral director, undertaker, funeral firm or veterans' service
+organization notwithstanding any law to the contrary, upon:
   (a) disposing of cremated or naturally organically reduced remains in
 accordance with the provisions of this section, shall be held harmless
 for any costs or damages, except if there is gross negligence or willful
 misconduct; and
   (b) shall be discharged from any legal obligation or liability
 concerning the cremated or naturally organically reduced remains.
-  * NB Effective June 28, 2023
-  * 6. The estate of the decedent shall be responsible for reimbursing a
-funeral director, undertaker, funeral firm or veterans' service
-organization for all reasonable expenses incurred in relation to the
-disposition of such cremated remains.
-  * NB Effective until June 28, 2023
-  * 6. The estate of the decedent shall be responsible for reimbursing a
+  6. The estate of the decedent shall be responsible for reimbursing a
 funeral director, undertaker, funeral firm or veterans' service
 organization for all reasonable expenses incurred in relation to the
 disposition of such cremated or naturally organically reduced remains.
-  * NB Effective June 28, 2023
-  * 7. A funeral director, undertaker or funeral firm shall establish
-and maintain a record identifying the veterans' service organization
-receiving the cremated remains and the site designated for final
-disposition of the cremated remains.
-  * NB Effective until June 28, 2023
-  * 7. A funeral director, undertaker or funeral firm shall establish
-and maintain a record identifying the veterans' service organization
+  7. A funeral director, undertaker or funeral firm shall establish and
+maintain a record identifying the veterans' service organization
 receiving the cremated or naturally organically reduced remains and the
 site designated for final disposition of the cremated or naturally
 organically reduced remains.
-  * NB Effective June 28, 2023
-  * 8. Nothing in this section shall require a funeral director,
-undertaker or funeral firm to determine or seek others to determine that
-an individual's cremated remains are those of a veteran if the funeral
-director, undertaker or funeral firm was informed by the person in
-control of disposition that such individual was not a veteran, or to
-relinquish possession of such cremated remains to a veterans' service
-organization if the funeral director, undertaker or funeral firm was
-instructed by such person in control, or had a reasonable belief, that
-the decedent did not desire any funeral or burial-related services or
-ceremonies recognizing such decedent's service as a veteran.
-  * NB Effective until June 28, 2023
-  * 8. Nothing in this section shall require a funeral director,
+  8. Nothing in this section shall require a funeral director,
 undertaker or funeral firm to determine or seek others to determine that
 an individual's cremated or naturally organically reduced remains are
 those of a veteran if the funeral director, undertaker or funeral firm
@@ -172,5 +105,4 @@ organization if the funeral director, undertaker or funeral firm was
 instructed by such person in control, or had a reasonable belief, that
 the decedent did not desire any funeral or burial-related services or
 ceremonies recognizing such decedent's service as a veteran.
-  * NB Effective June 28, 2023
 ```

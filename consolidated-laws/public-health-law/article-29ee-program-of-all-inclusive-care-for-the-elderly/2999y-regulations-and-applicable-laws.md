@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 29-EE — Program of All-inclusive Care For the Elderly](README.md)
 
 ```text
-  * § 2999-y. Regulations and applicable laws. 1. The commissioner shall
+  § 2999-y. Regulations and applicable laws. 1. The commissioner shall
 make regulations and take other actions reasonably necessary to
 implement this article, including the establishment of any rules and
 processes appropriate for the safe, efficient and orderly administration
@@ -31,5 +31,4 @@ such regulations shall apply.
 demonstration programs under Medicare relating to the PACE program,
 provided that the waiver or demonstration shall not diminish any right
 or benefit of enrollees under this article.
-  * NB Effective June 26, 2023
 ```

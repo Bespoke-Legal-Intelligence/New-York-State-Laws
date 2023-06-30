@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 29-EE — Program of All-inclusive Care For the Elderly](README.md)
 
 ```text
-  * § 2999-u. Licensure. 1. The commissioner shall license an entity
+  § 2999-u. Licensure. 1. The commissioner shall license an entity
 applying for licensure as a PACE organization if the applicant
 demonstrates to the satisfaction of the commissioner that the applicant
 will:
@@ -47,5 +47,4 @@ program requirements of this article and articles twenty-eight,
 thirty-six and forty-four of this chapter.
   (b) A license under this article shall require approval of the public
 health and health planning council.
-  * NB Effective June 26, 2023
 ```

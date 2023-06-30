@@ -4,8 +4,8 @@
 [Not-for-Profit Corporation Law](../README.md) › [Article 15 — Public Cemetery Corporations](README.md)
 
 ```text
-* § 1505-b. Additional requirements for incorporation of natural organic
-              reduction facilities.
+§ 1505-b. Additional requirements for incorporation of natural organic
+            reduction facilities.
   (a) Approval. A cemetery corporation seeking the approval to operate a
 natural organic reduction facility shall submit for approval by the
 cemetery board the following:
@@ -43,5 +43,4 @@ its determination to the cemetery corporation. If a negative
 determination is made, such notice shall state the reasons therefor.
 Notice shall be made by registered or certified mail addressed to the
 cemetery corporation at its principal office.
-  * NB Effective June 28, 2023
 ```

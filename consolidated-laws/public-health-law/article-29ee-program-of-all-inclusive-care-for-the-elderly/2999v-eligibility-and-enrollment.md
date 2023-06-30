@@ -4,8 +4,8 @@
 [Public Health Law](../README.md) › [Article 29-EE — Program of All-inclusive Care For the Elderly](README.md)
 
 ```text
-  * § 2999-v. Eligibility and enrollment. 1. To be eligible to enroll in
-a PACE organization, an individual shall:
+  § 2999-v. Eligibility and enrollment. 1. To be eligible to enroll in a
+PACE organization, an individual shall:
   (a) (i) be at least fifty-five years old;
   (ii) meet the eligibility requirements for a nursing home level of
 care;
@@ -20,5 +20,4 @@ specialty program authorized by the federal PACE Innovation Act and
 approved by the department and CMS.
   2. Enrollment in a PACE organization shall be voluntary for the
 eligible individual.
-  * NB Effective June 26, 2023
 ```

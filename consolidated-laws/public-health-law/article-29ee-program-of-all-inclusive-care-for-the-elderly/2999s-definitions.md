@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 29-EE — Program of All-inclusive Care For the Elderly](README.md)
 
 ```text
-  * § 2999-s. Definitions. For purposes of this article, the following
+  § 2999-s. Definitions. For purposes of this article, the following
 definitions apply:
   1. "PACE organization" means an entity as defined in 42 U.S.C. §
 1395(eee) and established in accordance with federal public law 105-33,
@@ -21,5 +21,4 @@ services law and the program thereunder. "Medicare" means title XVIII of
 the federal social security act and the programs thereunder.
   4. "CMS" means the federal Centers for Medicare and Medicaid Services.
   5. "Enrollee" means an individual enrolled in a PACE organization.
-  * NB Effective June 26, 2023
 ```

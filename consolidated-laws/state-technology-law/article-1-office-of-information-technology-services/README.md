@@ -9,6 +9,7 @@
 - [§ 102 Office of information technology services; director, organization and employees](102-office-of-information-technology-services-director-organization-and-employees.md)
 - [§ 103 Functions, powers and duties of the office](103-functions-powers-and-duties-of-the-office.md)
 - [§ 103-A State information technology innovation center](103a-state-information-technology-innovation-center.md)
+- [§ 103-B Gender-neutral terminology; state agencies](103b-gender-neutral-terminology-state-agencies.md)
 - [§ 104 Advisory council for technology](104-advisory-council-for-technology.md)
 - [§ 105 Functions, powers and duties of the council](105-functions-powers-and-duties-of-the-council.md)
 - [§ 106 Responsibility to respond to the freedom of information law for certain data](106-responsibility-to-respond-to-the-freedom-of-information-law-for-certain-data.md)
@@ -27,6 +28,7 @@ Section 101.   Definitions.
                  organization and employees.
         103.   Functions, powers and duties of the office.
         103-a. State information technology innovation center.
+        103-b. Gender-neutral terminology; state agencies.
         104.   Advisory council for technology.
         105.   Functions, powers and duties of the council.
         106.   Responsibility to respond to the freedom of information

@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 29-EE — Program of All-inclusive Care For the Elderly](README.md)
 
 ```text
-  * § 2999-x. Reimbursement. 1. The commissioner shall develop and
+  § 2999-x. Reimbursement. 1. The commissioner shall develop and
 implement, consistent with applicable federal requirements,
 reimbursement rates and methodologies for Medicaid services provided by
 a PACE organization to its enrollees.
@@ -13,5 +13,4 @@ actuary used to review PACE reimbursement rates to provide, to PACE
 organizations the documents and information consistent with the
 requirements under paragraph (c) of subdivision eighteen of section
 three hundred sixty-four-j of the social services law.
-  * NB Effective June 26, 2023
 ```

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Insurance Law § 341-A", "kind": "section", "law_id": "ISC", "location_id": "341-A", "path": "ARTICLE 3 › SECTION 341-A", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/341-A.md", "title": "Patient prescription pricing transparency"} -->
+﻿<!-- nyslaw {"citation": "Insurance Law § 341-A", "kind": "section", "law_id": "ISC", "location_id": "341-A", "path": "ARTICLE 3 › SECTION 341-A", "repealed": true, "repealed_date": "2023-06-30", "source": "nys-laws:ISC/341-A.md", "title": "Patient prescription pricing transparency"} -->
 # Insurance Law § 341-A — Patient prescription pricing transparency
 
 [Insurance Law](../README.md) › [Article 3 — Administrative and Procedural Provisions](README.md)
+
+**Repealed** (30 Jun 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 341-a. Patient prescription pricing transparency. 1. Definitions.

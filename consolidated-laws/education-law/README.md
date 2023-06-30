@@ -8,7 +8,7 @@
 | Senate code | EDN |
 | Type | Consolidated law, chapter 16 |
 | Sections | 1,920 |
-| Last changed | 23 Jun 2023 |
+| Last changed | 30 Jun 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Education |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [30 Jun 2023](../../changes/2023/2023-06-30.md): 2 amended
 - [23 Jun 2023](../../changes/2023/2023-06-23.md): 1 amended, 1 added
 - [16 Jun 2023](../../changes/2023/2023-06-16.md): 5 amended, 1 added
 - [12 May 2023](../../changes/2023/2023-05-12.md): 27 amended, 1 added
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [24 Mar 2023](../../changes/2023/2023-03-24.md): 1 amended
 - [10 Mar 2023](../../changes/2023/2023-03-10.md): 8 amended
 - [24 Feb 2023](../../changes/2023/2023-02-24.md): 1 amended
-- [27 Jan 2023](../../changes/2023/2023-01-27.md): 1 amended
 
 ## Contents
 

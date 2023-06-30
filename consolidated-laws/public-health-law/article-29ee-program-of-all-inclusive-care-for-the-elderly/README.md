@@ -17,7 +17,7 @@
 <summary>Official heading of Article 29-EE, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                           *    ARTICLE 29-EE
+                              ARTICLE 29-EE
               PROGRAM OF ALL-INCLUSIVE CARE FOR THE ELDERLY
 Section 2999-s. Definitions.
         2999-t. Program established.
@@ -26,7 +26,6 @@ Section 2999-s. Definitions.
         2999-w. Benefits.
         2999-x. Reimbursement.
         2999-y. Regulations and applicable laws.
-  * NB Effective June 26, 2023
 ```
 
 </details>

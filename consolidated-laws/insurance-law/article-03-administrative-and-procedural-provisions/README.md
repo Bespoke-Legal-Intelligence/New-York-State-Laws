@@ -34,7 +34,7 @@
 - [§ 339 Colorectal cancer screening notification](339-colorectal-cancer-screening-notification.md)
 - [§ 340 Report of claims that may result in a monetary award](340-report-of-claims-that-may-result-in-a-monetary-award.md)
 - [§ 341 Notification regarding qualified health insurance plans](341-notification-regarding-qualified-health-insurance-plans.md)
-- [§ 341-A Patient prescription pricing transparency](341a-patient-prescription-pricing-transparency.md)
+- [§ 341-A Patient prescription pricing transparency](341a-patient-prescription-pricing-transparency.md) *(repealed)*
 - [§ 342 Public awareness to finance long term care](342-public-awareness-to-finance-long-term-care.md)
 - [§ 343 Mental health and substance use disorder parity report](343-mental-health-and-substance-use-disorder-parity-report.md)
 - [§ 344 Mental health and substance use disorder parity compliance programs](344-mental-health-and-substance-use-disorder-parity-compliance-programs.md)

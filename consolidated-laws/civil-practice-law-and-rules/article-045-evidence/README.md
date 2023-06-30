@@ -59,6 +59,7 @@
 - [§ 4547 Compromise and offers to compromise](4547-compromise-and-offers-to-compromise.md)
 - [§ 4548 Privileged communications; electronic communication thereof](4548-privileged-communications-electronic-communication-thereof.md)
 - [§ 4549 Admissibility of an opposing party's statement](4549-admissibility-of-an-opposing-partys-statement.md)
+- [§ 4550 Admissibility of evidence related to legally protected health activity](4550-admissibility-of-evidence-related-to-legally-protected-health-activity.md)
 
 <details>
 <summary>Official heading of Article 45, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -194,6 +195,8 @@
         4548.   Privileged communications; electronic communication
                   thereof.
         4549.   Admissibility of an opposing party's statement.
+        4550.   Admissibility of evidence related to legally protected
+                  health activity.
 ```
 
 </details>

@@ -8,14 +8,9 @@
 this section, the following terms shall have the following meanings,
 unless the context otherwise requires:
   (a) "Cremation" means the incineration of human remains.
-  * (b) "Disposition" means the care, disposal, transportation, burial,
-cremation or embalming of the body of a deceased person, and associated
-measures.
-  * NB Effective until June 28, 2023
-  * (b) "Disposition" means the care, disposal, transportation, burial,
+  (b) "Disposition" means the care, disposal, transportation, burial,
 cremation, natural organic reduction or embalming of the body of a
 deceased person, and associated measures.
-  * NB Effective June 28, 2023
   (c) "Domestic partner" means a person who, with respect to another
 person:
   (i) is formally a party in a domestic partnership or similar
@@ -42,9 +37,8 @@ partner" shall also not include any person who is less than eighteen
 years of age or who is the adopted child of the other person or who is
 related by blood in a manner that would bar marriage in New York state
 to a person who is the lawful spouse of the other person.
-  * (c-1) "Natural organic reduction" means the contained, accelerated
+  (c-1) "Natural organic reduction" means the contained, accelerated
 conversion of human remains to soil.
-  * NB Effective June 28, 2023
   (d) "Person" means a natural person eighteen years of age or older.
   2. (a) The following persons in descending priority shall have the
 right to control the disposition of the remains of such decedent;
@@ -99,21 +93,13 @@ person in control of disposition may seek to recover any costs related
 to the disposition from the fiduciary of the decedent's estate in
 accordance with section eighteen hundred eleven of the surrogate's court
 procedure act.
-  * (d) No funeral director, undertaker, embalmer or no person with an
-interest in, or who is an employee of any funeral firm, cemetery
-organization or business operating a crematory, columbarium or any other
-business, who also controls the disposition of remains in accordance
-with this section, shall receive compensation or otherwise receive
-financial benefit for disposing of the remains of a decedent.
-  * NB Effective until June 28, 2023
-  * (d) No funeral director, undertaker, embalmer or no person with an
+  (d) No funeral director, undertaker, embalmer or no person with an
 interest in, or who is an employee of any funeral firm, cemetery
 organization or business operating a crematory, natural organic
 reduction facility, columbarium or any other business, who also controls
 the disposition of remains in accordance with this section, shall
 receive compensation or otherwise receive financial benefit for
 disposing of the remains of a decedent.
-  * NB Effective June 28, 2023
   (e) No person who: (1) at the time of the decedent's death, was the
 subject of an order of protection protecting the decedent; or (2) has
 been arrested or charged with any crime set forth in article one hundred
@@ -255,26 +241,7 @@ decedent's disposition;
   (b) disposing of a decedent's remains if done with the reasonable
 belief that such disposal is consistent with this section; or
   (c) identifying a decedent.
-  * 7. No cemetery organization, business operating a crematory or
-columbarium, funeral director, undertaker, embalmer, or funeral firm
-shall be held liable for actions taken reasonably and in good faith to
-carry out the written directions of a decedent as stated in a will or in
-a written instrument executed pursuant to this section. No cemetery
-organization, business operating a crematory or columbarium, funeral
-director, undertaker, embalmer or funeral firm shall be held liable for
-actions taken reasonably and in good faith to carry out the directions
-of a person who represents that he or she is entitled to control of the
-disposition of remains, provided that such action is taken only after
-requesting and receiving written statement that such person:
-  (a) is the designated agent of the decedent designated in a will or
-written instrument executed pursuant to this section; or
-  (b) that he or she has no knowledge that the decedent executed a
-written instrument pursuant to this section or a will containing
-directions for the disposition of his or her remains and that such
-person is the person having priority under subdivision two of this
-section.
-  * NB Effective until June 28, 2023
-  * 7. No cemetery organization, business operating a crematory, natural
+  7. No cemetery organization, business operating a crematory, natural
 organic reduction facility, or columbarium, funeral director,
 undertaker, embalmer, or funeral firm shall be held liable for actions
 taken reasonably and in good faith to carry out the written directions
@@ -293,7 +260,6 @@ written instrument pursuant to this section or a will containing
 directions for the disposition of his or her remains and that such
 person is the person having priority under subdivision two of this
 section.
-  * NB Effective June 28, 2023
   8. Every dispute relating to the disposition of the remains of a
 decedent shall be resolved by a court of competent jurisdiction pursuant
 to a special proceeding under article four of the civil practice law and
