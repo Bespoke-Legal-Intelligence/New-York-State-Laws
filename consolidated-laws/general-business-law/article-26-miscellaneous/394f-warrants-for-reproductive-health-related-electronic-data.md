@@ -4,8 +4,8 @@
 [General Business Law](../README.md) › [Article 26 — Miscellaneous](README.md)
 
 ```text
-  * § 394-f. Warrants for reproductive health related electronic data.
-1.  For the purposes of this section, the following terms shall have the
+  § 394-f. Warrants for reproductive health related electronic data. 1.
+For the purposes of this section, the following terms shall have the
 following meanings:
   a. "Electronic communication" means any transfer of signs, signals,
 writing, images, sounds, data, or intelligence of any nature transmitted
@@ -59,5 +59,4 @@ investigation into, or enforcement of, a prohibited violation.
 corporation headquartered or incorporated in New York that provides
 electronic communications services or remote computing services to the
 general public to comply with the provisions of this section.
-  * NB Effective July 2, 2023
 ```

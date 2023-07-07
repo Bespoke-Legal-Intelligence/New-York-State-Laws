@@ -4,9 +4,9 @@
 [Public Service Law](../README.md) › [Article 2 — Residential Gas, Electric and Steam Utility Service](README.md)
 
 ```text
-  * § 48-a. Utility services; domestic violence victims. 1. Every
-utility corporation shall allow a person who is under a shared contract
-with such utility corporation to opt-out of such contract without fee,
+  § 48-a. Utility services; domestic violence victims. 1. Every utility
+corporation shall allow a person who is under a shared contract with
+such utility corporation to opt-out of such contract without fee,
 penalty or charge when such person is a victim of domestic violence and
 provides an attestation in writing that they no longer wish to be a
 party to such contract due to their status as a victim of domestic
@@ -34,5 +34,4 @@ communication.
 agent thereof shall not be subject to liability for any claims arising
 from an action taken or omission made with respect to compliance with
 this section.
-  * NB Effective June 30, 2023
 ```

@@ -4,15 +4,15 @@
 [Tax Law](../README.md) › [Article 11 — Tax On Mortgages](README.md)
 
 ```text
-  § 253-d. Recording tax imposed by the city of Yonkers. 1. The city of
+  § 253-d. Recording tax imposed by the city of Yonkers.  1. The city of
 Yonkers, acting through its local legislative body, is hereby authorized
 and empowered to adopt and amend local laws imposing in any such city
 during the period beginning September first, nineteen hundred
-ninety-three and ending August thirty-first, two thousand twenty-three,
-a tax of fifty cents for each one hundred dollars and each remaining
-major fraction thereof of principal debt or obligation which is or under
-any contingency may be secured at the date of execution thereof, or at
-any time thereafter, by a mortgage on real property situated within such
+ninety-three and ending August thirty-first, two thousand twenty-five, a
+tax of fifty cents for each one hundred dollars and each remaining major
+fraction thereof of principal debt or obligation which is or under any
+contingency may be secured at the date of execution thereof, or at any
+time thereafter, by a mortgage on real property situated within such
 city and recorded on or after the date upon which such tax takes effect
 and a tax of fifty cents on such mortgage if the principal debt or
 obligation which is or by any contingency may be secured by such

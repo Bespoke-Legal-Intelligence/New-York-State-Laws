@@ -4,7 +4,7 @@
 [Labor Law](../README.md) › [Article 35 — New York Youth Jobs Connector Program](README.md)
 
 ```text
-  * § 1005. Administration and services. 1. There is hereby established
+  § 1005. Administration and services. 1. There is hereby established
 within the department a New York youth jobs connector program to connect
 unemployed and underemployed individuals between the ages of sixteen and
 twenty-four years with targeted educational, occupational, and training
@@ -34,5 +34,4 @@ youths, skills and vocational programs leading to career pathways and
 gainful employment, and the development or promulgation of other
 resources and programs to assist youths between the ages of sixteen and
 twenty-four years, particularly at-risk youths in such category.
-  * NB Effective July 2, 2023
 ```

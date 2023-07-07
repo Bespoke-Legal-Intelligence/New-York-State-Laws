@@ -4,7 +4,7 @@
 [Labor Law](../README.md) › [Article 35 — New York Youth Jobs Connector Program](README.md)
 
 ```text
-  * § 1008. Annual report. Not later than two years after the effective
+  § 1008. Annual report. Not later than two years after the effective
 date of this article, and annually thereafter, the commissioner shall
 prepare and submit a report to the governor, the temporary president of
 the senate, and the speaker of the assembly on the efficacy and progress
@@ -14,5 +14,4 @@ stakeholders, including participating youths, schools, programs, and
 employers. The report shall also include recommendations on further
 improvements concerning outreach efforts to spread awareness of the
 program.
-  * NB Effective July 2, 2023
 ```

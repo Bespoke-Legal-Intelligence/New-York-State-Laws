@@ -4,7 +4,7 @@
 [Insurance Law](../../README.md) › [Article 49 — Utilization Review and External Appeal](../README.md) › [Title 1 — Registration of Agents and Review Process](README.md)
 
 ```text
-  § 4903-a. Utilization review determinations for medically fragile
+  * § 4903-a. Utilization review determinations for medically fragile
 children. (a) Notwithstanding any inconsistent provision of the
 utilization review agent's clinical standards, the utilization review
 agent shall administer and apply the clinical standards (and make
@@ -207,4 +207,5 @@ treatment plan is not in the best interest of the medically fragile
 child; or (2) an alternative provider offering substantially the same
 level of care in accordance with substantially the same treatment plan
 is available from a lower cost provider.
+  * NB Effective and Repealed September 1, 2023
 ```

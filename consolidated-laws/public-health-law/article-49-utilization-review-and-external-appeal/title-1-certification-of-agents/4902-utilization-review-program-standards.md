@@ -99,6 +99,18 @@ pursuant to article twenty-eight of this chapter to an enrollee to treat
 COVID-19 during a declared state disaster emergency related to COVID-19
 shall not be denied on retrospective review on the basis that such
 services were not medically necessary.
+  * (l) The commissioner, in consultation with the superintendent of
+financial services, may, as necessary, promulgate by regulation special
+considerations and processes for utilization review related to medically
+fragile children. Such regulations may include, at a minimum,
+considerations and processes related to:
+  (i) medically necessary covered services to medically fragile
+children;
+  (ii) determinations specific to the needs of medically fragile
+children;
+  (iii) stabilization and discharge plans; and
+  (iv) payment for the care of medically fragile children.
+  * NB Effective September 1, 2023
   2. Each utilization review agent shall assure adherence to the
 requirements stated in subdivision one of this section by all
 contractors, subcontractors, subvendors, agents and employees affiliated

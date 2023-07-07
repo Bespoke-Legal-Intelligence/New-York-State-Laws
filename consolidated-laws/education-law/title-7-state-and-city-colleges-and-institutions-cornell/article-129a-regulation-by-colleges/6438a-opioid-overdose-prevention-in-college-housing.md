@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 129-A — Regulation By Colleges of Conduct On Campuses and Other College Property Used For Educational Purposes](README.md)
 
 ```text
-  * § 6438-a. Opioid overdose prevention in college housing. 1. Every
+  § 6438-a. Opioid overdose prevention in college housing. 1. Every
 campus of the state university of New York and every campus of the city
 university of New York shall provide training in the administration of
 opioid antagonists pursuant to a program approved under section
@@ -28,5 +28,4 @@ nine of the public health law.
   3. Any person or entity acting reasonably and in good faith in
 compliance with this section shall not be subject to criminal, civil or
 administrative liability solely by reason of such action.
-  * NB There are 2 § 6438-a's
 ```

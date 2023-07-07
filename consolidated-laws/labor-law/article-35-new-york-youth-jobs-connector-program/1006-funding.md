@@ -4,7 +4,7 @@
 [Labor Law](../README.md) › [Article 35 — New York Youth Jobs Connector Program](README.md)
 
 ```text
-  * § 1006. Funding. The department shall identify and leverage any
+  § 1006. Funding. The department shall identify and leverage any
 available funds as necessary, including any private funds provided for
 the purpose of supporting this article, which may be used to subsidize
 the New York youth jobs connector program. The department may further
@@ -19,5 +19,4 @@ with such entities for the explicit purpose of using their membership or
 staff to directly seek out and notify unemployed youths between the ages
 of sixteen and twenty-four years about the New York youth jobs connector
 program and the services offered thereunder.
-  * NB Effective July 2, 2023
 ```

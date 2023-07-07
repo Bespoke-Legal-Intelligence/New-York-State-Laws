@@ -1,15 +1,19 @@
-﻿<!-- nyslaw {"citation": "Education Law § 6438-A*2", "kind": "section", "law_id": "EDN", "location_id": "6438-A*2", "path": "TITLE 7 › ARTICLE 129-A › SECTION 6438-A*2", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6438-A_2.md", "title": "Student-athlete compensation"} -->
-# Education Law § 6438-A*2 — Student-athlete compensation
+﻿<!-- nyslaw {"citation": "Education Law § 6438-C", "kind": "section", "law_id": "EDN", "location_id": "6438-C", "path": "TITLE 7 › ARTICLE 129-A › SECTION 6438-C", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6438-C.md", "title": "Student-athlete compensation"} -->
+# Education Law § 6438-C — Student-athlete compensation
 
 [Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 129-A — Regulation By Colleges of Conduct On Campuses and Other College Property Used For Educational Purposes](README.md)
 
-*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
-
 ```text
-  * § 6438-a. Student-athlete compensation. 1. For the purposes of this
+  § 6438-c. Student-athlete compensation. 1. For the purposes of this
 section:
-  (a) "student-athlete" shall mean a student enrolled at a college and
-participating in intercollegiate athletics; and
+  (a) "student-athlete" shall mean (i) a student enrolled at a college
+and participating in intercollegiate athletics, or (ii) an individual
+who has completed at least their sophomore year of high school or
+international equivalent and is eligible, or may in the future be
+eligible, to attend a college and participate in intercollegiate
+athletics. Such term shall not include an individual permanently
+ineligible to participate in a particular interscholastic or
+intercollegiate sport; and
   (b) "team contract" shall mean any written agreement between a
 student-athlete and a college, or division, department, program or team
 thereof, which includes goals and objectives, standards, prohibitions,
@@ -27,11 +31,30 @@ to this section as a result of the use of the student-athlete's name,
 image, or likeness.
   (c) An athletic association, conference, or other group or
 organization with authority over intercollegiate athletics, including,
-but not limited to, the National Collegiate Athletic Association (NCAA),
-shall not prevent a college from participating in intercollegiate
-athletics as a result of allowing a student-athlete pursuant to this
-section from earning compensation as a result of the use of the
-student-athlete's name, image, or likeness.
+but not limited to, the NCAA, shall not prevent a college from: (i)
+participating in intercollegiate athletics as a result of allowing a
+student-athlete pursuant to this section from earning compensation as a
+result of the use of the student-athlete's name, image, or likeness; or
+(ii) identifying, facilitating, enabling, or supporting opportunities
+for a student-athlete to earn compensation for the student-athlete's
+name, image, or likeness.
+  (d) An athletic association, conference, or other group or
+organization with authority over intercollegiate athletics, including,
+but not limited to the NCAA, shall not and shall not authorize its
+member institutions to:
+  (i) prevent a college from participation in intercollegiate athletics
+because a student-athlete in attendance has previously earned or intends
+to earn compensation for the use of his or her name, image, or likeness;
+  (ii) entertain a complaint, open an investigation, or take any other
+adverse action against a college for engaging in any activity protected
+in this section or for involvement in a student-athlete's name, image,
+or likeness; or
+  (iii) penalize or prevent a college from participation in
+intercollegiate athletics because an individual or entity whose purpose
+includes supporting or benefitting the college or its athletic programs
+or student-athletes violates the collegiate athletic association's rules
+or regulations with regard to a student-athlete's name, image, or
+likeness.
   3. A college, athletic association, conference, or other group or
 organization with authority over intercollegiate athletics shall not
 provide a prospective student-athlete with compensation in relation to

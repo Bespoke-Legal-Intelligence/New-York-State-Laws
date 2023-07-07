@@ -35,8 +35,8 @@ possesses a current and valid non-restricted license, certificate or
 registration or, where no provision for a license, certificate or
 registration exists, is credentialed by the national accrediting body
 appropriate to the profession; or
-  (iv) for purposes of a determination involving treatment for a mental
-health condition:
+  ** (iv) for purposes of a determination involving treatment for a
+mental health condition:
   (A) a physician who possesses a current and valid non-restricted
 license to practice medicine and who specializes in behavioral health
 and has experience in the delivery of mental health courses of
@@ -48,8 +48,23 @@ current and valid non-restricted license, certificate, or registration
 or, where no provision for a license, certificate or registration
 exists, is credentialed by the national accrediting body appropriate to
 the profession; or
-  (v) for purposes of a determination involving treatment of a medically
-fragile child:
+  ** NB Effective until September 1, 2023
+  ** (iv) for purposes of a determination involving treatment for a
+mental health condition:
+  (A) a physician who possesses a current and valid non-restricted
+license to practice medicine and who specializes in behavioral health
+and has experience in the delivery of mental health courses of
+treatment; or
+  (B) a health care professional other than a licensed physician who
+specializes in behavioral health and has experience in the delivery of a
+mental health courses of treatment and, where applicable, possesses a
+current and valid non-restricted license, certificate, or registration
+or, where no provision for a license, certificate or registration
+exists, is credentialed by the national accrediting body appropriate to
+the profession; and
+  ** NB Effective September 1, 2023
+  **(v) for purposes of a determination involving treatment of a
+medically fragile child:
   (A) a physician who possesses a current and valid non-restricted
 license to practice medicine and who is board certified or board
 eligible in pediatric rehabilitation, pediatric critical care, or
@@ -57,7 +72,8 @@ neonatology; or
   (B) a physician who possesses a current and valid non-restricted
 license to practice medicine and is board certified in a pediatric
 subspecialty directly relevant to the patient's medical condition; and
-  (b) for purposes of title two of this article:
+  ** NB Effective September 1, 2023
+  ** (b) for purposes of title two of this article:
   (i) a physician who:
   (A) possesses a current and valid non-restricted license to practice
 medicine;
@@ -93,6 +109,35 @@ neonatology, or
   (B) a physician who possesses a current and valid non-restricted
 license to practice medicine and is board certified in a pediatric
 subspecialty directly relevant to the patient's medical condition.
+  ** NB Effective until September 1, 2023
+  ** (b) for purposes of title two of this article:
+  (i) a physician who:
+  (A) possesses a current and valid non-restricted license to practice
+medicine;
+  (B) where applicable, is board certified or board eligible in the same
+or similar specialty as the health care provider who typically manages
+the medical condition or disease or provides the health care service or
+treatment under appeal;
+  (C) has been practicing in such area of specialty for a period of at
+least five years; and
+  (D) is knowledgeable about the health care service or treatment under
+appeal; or
+  (ii) a health care professional other than a licensed physician who:
+  (A) where applicable, possesses a current and valid non-restricted
+license, certificate or registration;
+  (B) where applicable, is credentialed by the national accrediting body
+appropriate to the profession in the same profession and same or similar
+specialty as the health care provider who typically manages the medical
+condition or disease or provides the health care service or treatment
+under appeal;
+  (C) has been practicing in such area of specialty for a period of at
+least five years;
+  (D) is knowledgeable about the health care service or treatment under
+appeal; and
+  (E) where applicable to such health care professional's scope of
+practice, is clinically supported by a physician who possesses a current
+and valid non-restricted license to practice medicine.
+  ** NB Effective September 1, 2023
   (c) Nothing herein shall be construed to change any
 statutorily-defined scope of practice.
   * NB Effective until January 1, 2024
@@ -190,11 +235,16 @@ and valid non-restricted license to practice medicine.
   (c) Nothing in this subdivision shall be construed to change any
 statutorily-defined scope of practice.
   * NB Effective January 1, 2024
-  2-a. "Clinical standards" means those guidelines and standards set
+  * 2-a. "Clinical standards" means those guidelines and standards set
+forth in the utilization review plan by the utilization review agent
+whose adverse determination is under appeal.
+  * NB Effective until September 1, 2023
+  * 2-a. "Clinical standards" means those guidelines and standards set
 forth in the utilization review plan by the utilization review agent
 whose adverse determination is under appeal or, in the case of medically
 fragile children, those guidelines and standards as required by section
-forty-nine hundred three-a of this article.
+forty-four hundred six-i of this chapter.
+  * NB Effective September 1, 2023
   2-b. "Clinical trial" means a peer-reviewed study plan which has been
   (a) reviewed and approved by a qualified institutional review board,
 and
@@ -461,11 +511,16 @@ review criteria;
   (b) a description of the types of written clinical information which
 the plan might consider in its clinical review, including but not
 limited to, a set of specific written clinical review criteria;
-  (c) a description of practice guidelines and standards used by a
+  * (c) a description of practice guidelines and standards used by a
+utilization review agent in carrying out a determination of medical
+necessity;
+  * NB Effective until September 1, 2023
+  * (c) a description of practice guidelines and standards used by a
 utilization review agent in carrying out a determination of medical
 necessity, which in the case of medically fragile children shall
-incorporate the standards required by section forty-nine hundred three-a
-of this article;
+incorporate the standards required by section forty-four hundred six-i
+of this chapter;
+  * NB Effective September 1, 2023
   (d) the procedures for scheduled review and evaluation of the written
 clinical review criteria; and
   (e) a description of the qualifications and experience of the health
@@ -473,7 +528,7 @@ care professionals who developed the criteria, who are responsible for
 periodic evaluation of the criteria and of the health care professionals
 or others who use the written clinical review criteria in the process of
 utilization review.
-  11. "Medically fragile child" means an individual who is under
+  * 11. "Medically fragile child" means an individual who is under
 twenty-one years of age and has a chronic debilitating condition or
 conditions, who may or may not be hospitalized or institutionalized, and
 meets one or more of the following criteria (a) is technologically
@@ -500,4 +555,5 @@ forth in this subdivision, any patient which has received prior approval
 from a utilization review agent for admission to a specialty care
 facility for medically fragile children shall be considered a medically
 fragile child at least until discharge from that facility occurs.
+  * NB Effective and Repealed September 1, 2023
 ```

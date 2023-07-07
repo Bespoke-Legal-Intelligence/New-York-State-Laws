@@ -58,4 +58,26 @@ or counties, who enter into an arrangement, agreement or plan, or
 combination of arrangements, agreements or plans, to provide health and
 behavioral health services to enrollees with significant behavioral
 health needs.
+  * 9. "Medically fragile child" means an individual who is under
+twenty-one years of age and has a chronic debilitating condition or
+conditions, who may or may not be hospitalized or institutionalized, and
+meets one or more of the following criteria (a) is technologically
+dependent for life or health sustaining functions, (b) requires a
+complex medication regimen or medical interventions to maintain or to
+improve their health status, or (c) is in need of ongoing assessment or
+intervention to prevent serious deterioration of their health status or
+medical complications that place their life, health or development at
+risk. Chronic debilitating conditions include bronchopulmonary
+dysplasia, cerebral palsy, congenital heart disease, microcephaly,
+pulmonary hypertension, and muscular dystrophy. The term "medically
+fragile child" shall also include traumatic brain injury, the nature of
+which typically requires care in a specialty care center for medically
+fragile children, even though the child does not have a chronic
+debilitating condition or also meet one of the three conditions of this
+subdivision. Notwithstanding the definitions set forth in this
+subdivision, any patient which has received prior approval from a health
+maintenance organization for admission to a specialty care facility for
+medically fragile children shall be considered a medically fragile child
+at least until discharge from that facility occurs.
+  * NB Effective September 1, 2023
 ```

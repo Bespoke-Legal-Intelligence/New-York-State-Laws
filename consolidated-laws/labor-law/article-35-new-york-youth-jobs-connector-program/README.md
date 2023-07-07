@@ -14,13 +14,12 @@
 <summary>Official heading of Article 35, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              * ARTICLE 35
+                               ARTICLE 35
                   NEW YORK YOUTH JOBS CONNECTOR PROGRAM
 Section 1005. Administration and services.
         1006. Funding.
         1007. Public outreach.
         1008. Annual report.
-  * NB Effective July 2, 2023
 ```
 
 </details>

@@ -33,5 +33,5 @@ technicians.
   4. The commissioner, in consultation with the state emergency medical
 services council, shall make regulations necessary to implement this
 section.
-  * NB Repealed July 1, 2023
+  * NB Repealed July 1, 2028
 ```

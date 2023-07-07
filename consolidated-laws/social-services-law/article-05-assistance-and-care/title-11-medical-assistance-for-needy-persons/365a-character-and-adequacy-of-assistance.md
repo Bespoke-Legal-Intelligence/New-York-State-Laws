@@ -573,7 +573,6 @@ practice provision under title eight of the education law.
   * (kk) care and services of nutritionists and dietitians certified
 pursuant to article one hundred fifty-seven of the education law acting
 within their scope of practice.
-  * NB Effective July 1, 2023
   * NB There are 2 par (kk)'s
   * (ll) Chronic Disease Self-Management Program for persons diagnosed
 with arthritis when such services are ordered by a physician, registered

@@ -4,7 +4,7 @@
 [Labor Law](../README.md) › [Article 35 — New York Youth Jobs Connector Program](README.md)
 
 ```text
-  * § 1007. Public outreach. 1. The department shall engage in outreach
+  § 1007. Public outreach. 1. The department shall engage in outreach
 efforts to raise awareness about the New York youth jobs connector
 program and the services offered thereunder. Such outreach may include,
 but not be limited to:
@@ -28,5 +28,4 @@ programs and services for consideration. Such surveys shall be made
 available on the department's website. The department shall also publish
 an informational webpage to provide details on the program and outreach
 events as well as information on and a hyperlink to the online surveys.
-  * NB Effective July 2, 2023
 ```

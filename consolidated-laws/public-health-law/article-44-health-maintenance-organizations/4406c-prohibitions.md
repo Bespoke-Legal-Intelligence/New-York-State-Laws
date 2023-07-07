@@ -292,10 +292,10 @@ remove, at the time of termination of such contract, the provider from
 the health care plan's provider directory or that the health care plan
 bear financial responsibility for providing inaccurate network status
 information to an enrollee.
-  * 13. (a) No contract or agreement between a health plan subject to
-this article and a health care provider, other than a residential health
-care facility as defined by section twenty-eight hundred one of this
-chapter, shall include a provision that:
+  13. (a) No contract or agreement between a health plan subject to this
+article and a health care provider, other than a residential health care
+facility as defined by section twenty-eight hundred one of this chapter,
+shall include a provision that:
   (i) contains a most-favored-nation provision; or
   (ii) restricts the ability of a health plan, an entity that contracts
 with a health care plan for a provider network, or a health care
@@ -315,5 +315,4 @@ include:
 maintenance organization certified pursuant to this article; and
   (ii) a third-party administrator, affiliated with an insurer or health
 maintenance organization, who administers a health benefit plan.
-  * NB Effective July 1, 2023
 ```

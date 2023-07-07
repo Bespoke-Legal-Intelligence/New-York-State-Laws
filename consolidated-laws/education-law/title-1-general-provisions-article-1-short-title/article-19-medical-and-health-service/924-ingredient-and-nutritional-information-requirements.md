@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 19 — Medical and Health Service](README.md)
 
 ```text
-  * § 924. Ingredient and nutritional information requirements. a. All
+  § 924. Ingredient and nutritional information requirements. a. All
 contracts entered into for the two thousand twenty-three--two thousand
 twenty-four school year, and thereafter, to provide, maintain and
 operate cafeteria or restaurant service by a private food service
@@ -20,5 +20,4 @@ section.
   b. All ingredients lists and nutritional information provided to
 school districts shall be published and publicly shared on such school
 district's website.
-  * NB Effective July 1, 2023
 ```

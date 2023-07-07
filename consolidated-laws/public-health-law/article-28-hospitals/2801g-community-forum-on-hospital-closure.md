@@ -31,7 +31,7 @@ services in communities impacted by the general hospital's closure.
 at a location within a reasonable proximity to the general hospital
 subject to closure, and shall be announced no less than ten days prior
 to the date of such community forum.
-  * 4. At least thirty days prior to a general hospital applying to the
+  4. At least thirty days prior to a general hospital applying to the
 federal centers for medicare and medicaid services to convert from a
 general hospital with inpatients to a rural emergency hospital under 42
 USC 1395x(kkk), or successor provisions, such hospital shall hold a
@@ -61,5 +61,4 @@ programs or inpatient chemical dependence treatment programs licensed
 under article thirty-two of the mental hygiene law. The commissioner
 shall also accept comments submitted in writing at such public forum and
 by mail within at least two weeks following the community forum.
-  * NB Effective July 2, 2023
 ```

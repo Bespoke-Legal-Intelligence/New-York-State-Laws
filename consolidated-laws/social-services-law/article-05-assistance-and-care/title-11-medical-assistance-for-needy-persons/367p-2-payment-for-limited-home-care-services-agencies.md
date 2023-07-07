@@ -41,6 +41,6 @@ district.
   5. The commissioner of health shall establish rates of payment for
 services provided pursuant to this section by November fifteenth,
 nineteen hundred ninety-seven.
-  * NB Expires June 30, 2023
+  * NB Expires June 30, 2025
   * NB There are 2 § 367-p's
 ```
