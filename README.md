@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 7 Jul 2023.*
+*Current through the publication of 14 Jul 2023.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [14 Jul 2023](changes/2023/2023-07-14.md): Banking Law; Education Law; Election Law; General Municipal Law; Insurance Law
 - [7 Jul 2023](changes/2023/2023-07-07.md): Civil Practice Law and Rules; Civil Service Law; Correction Law; Criminal Procedure Law; Economic Development Law; Education Law; Environmental Conservation Law; Executive Law; General Business Law; General Municipal Law; Insurance Law; Labor Law; Local Finance Law; Medical Care Facilities Finance Agency; New York City Civil Court Act; Parks, Recreation and Historic Preservation Law; Public Health Law; Public Service Law; Real Property Tax Law; Retirement and Social Security Law; Social Services Law; Tax Law; Town Law; Urban Development Corporation Act; Vehicle and Traffic Law
 - [30 Jun 2023](changes/2023/2023-06-30.md): Civil Practice Law and Rules; Criminal Procedure Law; Education Law; Executive Law; Family Court Act; General Construction Law; Insurance Law; Labor Law; Local Finance Law; Mental Hygiene Law; Not-for-Profit Corporation Law; Public Authorities Law; Public Health Law; State Technology Law
 - [23 Jun 2023](changes/2023/2023-06-23.md): Education Law; Election Law; Energy Law; Environmental Conservation Law; Executive Law; General Business Law; Highway Law; Labor Law; Navigation Law; Public Authorities Law; Public Health Law; Public Service Law; Real Property Law; Social Services Law; Tax Law
@@ -22,27 +23,26 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [9 Jun 2023](changes/2023/2023-06-09.md): Criminal Procedure Law; General Business Law; Labor Law; Public Health Law; Social Services Law
 - [2 Jun 2023](changes/2023/2023-06-02.md): Cannabis Law; Environmental Conservation Law; Executive Law; Insurance Law; Public Health Law; State Technology Law; Tax Law
 - [26 May 2023](changes/2023/2023-05-26.md): Agriculture and Markets Law; Election Law; General Business Law; Public Health Law; Social Services Law
-- [19 May 2023](changes/2023/2023-05-19.md): Correction Law; Criminal Procedure Law; Environmental Conservation Law; Labor Law; Mental Hygiene Law; Public Authorities Law; Public Health Law; Social Services Law; State Finance Law; Tax Law; Vehicle and Traffic Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | 271 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 247 |
-| [Education Law](consolidated-laws/education-law/README.md) | 223 |
-| [Tax Law](consolidated-laws/tax-law/README.md) | 157 |
-| [Insurance Law](consolidated-laws/insurance-law/README.md) | 155 |
-| [Highway Law](consolidated-laws/highway-law/README.md) | 148 |
-| [Social Services Law](consolidated-laws/social-services-law/README.md) | 137 |
-| [Labor Law](consolidated-laws/labor-law/README.md) | 126 |
-| [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 113 |
-| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 93 |
-| [Penal Law](consolidated-laws/penal-law/README.md) | 90 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 263 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 235 |
+| [Education Law](consolidated-laws/education-law/README.md) | 192 |
+| [Insurance Law](consolidated-laws/insurance-law/README.md) | 156 |
+| [Tax Law](consolidated-laws/tax-law/README.md) | 154 |
+| [Highway Law](consolidated-laws/highway-law/README.md) | 140 |
+| [Social Services Law](consolidated-laws/social-services-law/README.md) | 133 |
+| [Labor Law](consolidated-laws/labor-law/README.md) | 123 |
+| [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 106 |
 | [Real Property Actions and Proceedings Law](consolidated-laws/real-property-actions-and-proceedings-law/README.md) | 84 |
-| [General Business Law](consolidated-laws/general-business-law/README.md) | 72 |
-| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 67 |
-| [Election Law](consolidated-laws/election-law/README.md) | 67 |
+| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 79 |
+| [Penal Law](consolidated-laws/penal-law/README.md) | 76 |
+| [General Business Law](consolidated-laws/general-business-law/README.md) | 67 |
+| [Election Law](consolidated-laws/election-law/README.md) | 66 |
+| [State Finance Law](consolidated-laws/state-finance-law/README.md) | 61 |
 
 ## Consolidated Laws
 
@@ -53,7 +53,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Alcoholic Beverage Control Law](consolidated-laws/alcoholic-beverage-control-law/README.md) | ABC | 182 | 12 May 2023 |
 | [Alternative County Government Law](consolidated-laws/alternative-county-government-law/README.md) | ACG | 73 | no change since 22 Sep 2014 (start of history) |
 | [Arts and Cultural Affairs Law](consolidated-laws/arts-and-cultural-affairs-law/README.md) | ACA | 254 | 2 Sep 2022 |
-| [Banking Law](consolidated-laws/banking-law/README.md) | BNK | 865 | 7 Apr 2023 |
+| [Banking Law](consolidated-laws/banking-law/README.md) | BNK | 865 | 14 Jul 2023 |
 | [Benevolent Orders Law](consolidated-laws/benevolent-orders-law/README.md) | BVO | 20 | 5 May 2017 |
 | [Business Corporation Law](consolidated-laws/business-corporation-law/README.md) | BSC | 250 | 6 Jan 2023 |
 | [Canal Law](consolidated-laws/canal-law/README.md) | CAL | 88 | 8 Jul 2022 |
@@ -68,9 +68,9 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Debtor and Creditor Law](consolidated-laws/debtor-and-creditor-law/README.md) | DCD | 194 | 29 Jul 2022 |
 | [Domestic Relations Law](consolidated-laws/domestic-relations-law/README.md) | DOM | 175 | 7 Apr 2023 |
 | [Economic Development Law](consolidated-laws/economic-development-law/README.md) | COM | 198 | 7 Jul 2023 |
-| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,920 | 7 Jul 2023 |
+| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,920 | 14 Jul 2023 |
 | [Elder Law](consolidated-laws/elder-law/README.md) | ELD | 46 | 12 May 2023 |
-| [Election Law](consolidated-laws/election-law/README.md) | ELN | 437 | 23 Jun 2023 |
+| [Election Law](consolidated-laws/election-law/README.md) | ELN | 437 | 14 Jul 2023 |
 | [Eminent Domain Procedure Law](consolidated-laws/eminent-domain-procedure-law/README.md) | EDP | 50 | 27 Sep 2019 |
 | [Employers' Liability Law](consolidated-laws/employers-liability-law/README.md) | EML | 18 | no change since 22 Sep 2014 (start of history) |
 | [Energy Law](consolidated-laws/energy-law/README.md) | ENG | 70 | 23 Jun 2023 |
@@ -82,11 +82,11 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [General Business Law](consolidated-laws/general-business-law/README.md) | GBS | 1,318 | 7 Jul 2023 |
 | [General City Law](consolidated-laws/general-city-law/README.md) | GCT | 205 | 12 May 2023 |
 | [General Construction Law](consolidated-laws/general-construction-law/README.md) | GCN | 97 | 30 Jun 2023 |
-| [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | GMU | 1,090 | 7 Jul 2023 |
+| [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | GMU | 1,090 | 14 Jul 2023 |
 | [General Obligations Law](consolidated-laws/general-obligations-law/README.md) | GOB | 209 | 6 Jan 2023 |
 | [Highway Law](consolidated-laws/highway-law/README.md) | HAY | 675 | 23 Jun 2023 |
 | [Indian Law](consolidated-laws/indian-law/README.md) | IND | 97 | 11 Jan 2019 |
-| [Insurance Law](consolidated-laws/insurance-law/README.md) | ISC | 1,062 | 7 Jul 2023 |
+| [Insurance Law](consolidated-laws/insurance-law/README.md) | ISC | 1,062 | 14 Jul 2023 |
 | [Judiciary Law](consolidated-laws/judiciary-law/README.md) | JUD | 541 | 12 May 2023 |
 | [Labor Law](consolidated-laws/labor-law/README.md) | LAB | 744 | 7 Jul 2023 |
 | [Legislative Law](consolidated-laws/legislative-law/README.md) | LEG | 127 | 12 May 2023 |
