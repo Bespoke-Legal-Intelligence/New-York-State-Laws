@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 11 — Division of State Police](README.md)
 
 ```text
-  * § 228. National instant criminal background checks. 1. (a) The
+  § 228. National instant criminal background checks. 1. (a) The
 division is hereby authorized and directed to serve as a state point of
 contact for implementation of 18 U.S.C. sec. 922 (t), all federal
 regulations and applicable guidelines adopted pursuant thereto, and the
@@ -130,5 +130,4 @@ the denial of a background check, using a form established by the
 superintendent. Upon receipt of an appeal, the division shall provide
 such applicant a reason for a denial within thirty days. Upon receipt of
 the reason for denial, the appellant may appeal to the attorney general.
-  * NB Effective July 15, 2023
 ```

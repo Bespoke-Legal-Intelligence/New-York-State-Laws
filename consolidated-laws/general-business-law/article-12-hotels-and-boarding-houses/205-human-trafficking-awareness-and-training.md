@@ -4,15 +4,15 @@
 [General Business Law](../README.md) › [Article 12 — Hotels and Boarding Houses](README.md)
 
 ```text
-  * § 205. Human trafficking awareness and training. 1. Human
-trafficking recognition training program. a. For purposes of this
-section, "lodging facility" shall mean any inn, hotel, motel, motor
-court or other establishment that provides lodging to transient guests.
-Such term shall not include an establishment treated as a dwelling unit
-for the purposes of any state or local law or regulation or an
-establishment located within a building that has five or less rooms for
-rent or hire and that is actually occupied as a residence by the
-proprietor of such establishment.
+  § 205. Human trafficking awareness and training. 1. Human trafficking
+recognition training program. a. For purposes of this section, "lodging
+facility" shall mean any inn, hotel, motel, motor court or other
+establishment that provides lodging to transient guests. Such term shall
+not include an establishment treated as a dwelling unit for the purposes
+of any state or local law or regulation or an establishment located
+within a building that has five or less rooms for rent or hire and that
+is actually occupied as a residence by the proprietor of such
+establishment.
   b. Every lodging facility shall require all employees who are likely
 to interact or come into contact with guests to undergo a human
 trafficking recognition training program to provide training in the
@@ -43,11 +43,10 @@ section shall address no less than the following issues:
 which connects victims of human trafficking to:
   (A) relief and recovery options; and
   (B) social and legal services.
-  ** d. The commissioner of the division of criminal justice services
-and the commissioner of the office of temporary and disability
-assistance shall make available a list online of established or approved
-human trafficking recognition programs for use by a lodging facility.
-  ** NB Effective July 20, 2022
+  d. The commissioner of the division of criminal justice services and
+the commissioner of the office of temporary and disability assistance
+shall make available a list online of established or approved human
+trafficking recognition programs for use by a lodging facility.
   e. All new employees required to receive human trafficking recognition
 training shall receive such training within their first sixty days of
 employment.
@@ -61,5 +60,4 @@ section has completed such training. Such records shall be kept on file
 by the lodging facility for the period during which the employee is
 employed by the lodging facility and for one year after such employment
 ends.
-  * NB Effective July 20, 2023
 ```
