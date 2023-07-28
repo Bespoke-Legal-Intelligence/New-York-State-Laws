@@ -4,7 +4,7 @@
 [Education Law](../../../README.md) › [Title 4 — Teachers and Pupils](../../README.md) › [Article 65 — Compulsory Education and School Census](../README.md) › [Part 1 — Compulsory Education](README.md)
 
 ```text
-§ 3207-a. Service of persons seventeen years of age as election
+  § 3207-a. Service of persons seventeen years of age as election
 inspectors or poll clerks. A school district may permit an enrolled
 student, with the consent of such student's parent, guardian, or other
 person in parental relation, to serve as an election inspector or poll

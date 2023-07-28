@@ -47,7 +47,7 @@ mental health courses of treatment and, where applicable, possesses a
 current and valid non-restricted license, certificate, or registration
 or, where no provision for a license, certificate or registration
 exists, is credentialed by the national accrediting body appropriate to
-the profession; or
+the profession; and
   ** NB Effective until September 1, 2023
   ** (iv) for purposes of a determination involving treatment for a
 mental health condition:
@@ -99,16 +99,7 @@ least five years;
 appeal; and
   (E) where applicable to such health care professional's scope of
 practice, is clinically supported by a physician who possesses a current
-and valid non-restricted license to practice medicine; or
-  (iii) for purposes of a determination involving treatment of a
-medically fragile child:
-  (A) a physician who possesses a current and valid non-restricted
-license to practice medicine and who is board certified or board
-eligible in pediatric rehabilitation, pediatric critical care, or
-neonatology, or
-  (B) a physician who possesses a current and valid non-restricted
-license to practice medicine and is board certified in a pediatric
-subspecialty directly relevant to the patient's medical condition.
+and valid non-restricted license to practice medicine.
   ** NB Effective until September 1, 2023
   ** (b) for purposes of title two of this article:
   (i) a physician who:
