@@ -13,12 +13,11 @@
 <summary>Official heading of Article 45-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 45-A
+                              ARTICLE 45-A
                    DISCLOSURE OF MATERIAL TRANSACTIONS
 Section 4550. Definitions.
         4551. Disclosure of material transactions.
         4552. Notice of material transactions; requirements.
-  * NB Effective August 1, 2023
 ```
 
 </details>

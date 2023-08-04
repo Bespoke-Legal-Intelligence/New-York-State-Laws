@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 129-A — Regulation By Colleges of Conduct On Campuses and Other College Property Used For Educational Purposes](README.md)
 
 ```text
-  * § 6438-b. Access to medication abortion prescription drugs. 1. Every
+  § 6438-b. Access to medication abortion prescription drugs. 1. Every
 campus of the state university of New York and every campus of the city
 university of New York shall provide access to medication abortion to
 all students enrolled at such institutions by either:
@@ -24,5 +24,4 @@ but is not limited to, the following:
 paragraph (a) or paragraph (b) of subdivision one of this section; and
   (b) the number of individuals at each campus authorized to prescribe
 such prescription drugs.
-  * NB Effective August 1, 2023
 ```

@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 29-K — Registration of Temporary Health Care Services Agencies and Health Care Technology Platforms](README.md)
 
 ```text
-  * § 2999-mm. Rates for temporary health care services; reports. A
+  § 2999-mm. Rates for temporary health care services; reports. A
 temporary health care services agency shall report quarterly to the
 department a full disclosure of charges and compensation, including a
 schedule of all hourly bill rates per category of health care personnel,
@@ -25,5 +25,4 @@ New York state;
   5. the number of health care personnel of the temporary health care
 services agency working at each entity; and
   6. any other information prescribed by the commissioner.
-  * NB Effective August 1, 2023
 ```

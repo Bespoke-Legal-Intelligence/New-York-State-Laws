@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 45-A — Disclosure of Material Transactions](README.md)
 
 ```text
-  * § 4550. Definitions. For the purposes of this article, the following
+  § 4550. Definitions. For the purposes of this article, the following
 terms shall have the following meanings:
   1. "Control" means the possession, direct or indirect, of the power to
 direct or cause the direction of the management, administrative
@@ -61,5 +61,4 @@ shall not include a de minimis transaction, which shall mean for
 purposes of this article a transaction or a series of related
 transactions which result in a health care entity increasing its total
 gross in-state revenues by less than twenty-five million dollars.
-  * NB Effective August 1, 2023
 ```

@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 29-K — Registration of Temporary Health Care Services Agencies and Health Care Technology Platforms](README.md)
 
 ```text
-  * § 2999-ii. Definitions. For the purposes of this article:
+  § 2999-ii. Definitions. For the purposes of this article:
   1. "Certified nurse aide" means a person included in the nursing home
 nurse aide registry pursuant to section twenty-eight hundred three-j of
 this chapter as added by chapter seven hundred seventeen of the laws of
@@ -42,5 +42,4 @@ services agency shall not include: (a) an individual who only engages in
 providing the individual's own services on a temporary basis to health
 care entities; or (b) a home care agency licensed under article
 thirty-six of this chapter.
-  * NB Effective August 1, 2023
 ```

@@ -108,7 +108,7 @@ year shall continue to be utilized pursuant to this paragraph in the
 following county fiscal year.
   (7) Such local law shall provide for the imposition of a hotel or
 motel tax for a period to expire on December thirty-first, two thousand
-twenty-three.
+twenty-five.
   (8) This section shall not authorize the imposition of such tax upon
 any transaction, by or with any of the following in accordance with
 section twelve hundred thirty of this chapter:

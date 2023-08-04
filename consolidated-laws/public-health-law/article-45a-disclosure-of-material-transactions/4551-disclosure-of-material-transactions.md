@@ -4,13 +4,12 @@
 [Public Health Law](../README.md) › [Article 45-A — Disclosure of Material Transactions](README.md)
 
 ```text
-  * § 4551. Disclosure of material transactions. Pursuant to this
-article, the department shall adopt a process for the disclosure and
-notice of material transactions. The items disclosed shall include the
-factors listed in this article. Nothing in this article shall limit or
-restrict the authority of the superintendent of financial services under
-article fifteen, sixteen, seventeen, forty-two, forty-three,
-seventy-one, or seventy-three of the insurance law, or regulations
-promulgated thereunder.
-  * NB Effective August 1, 2023
+  § 4551. Disclosure of material transactions. Pursuant to this article,
+the department shall adopt a process for the disclosure and notice of
+material transactions. The items disclosed shall include the factors
+listed in this article. Nothing in this article shall limit or restrict
+the authority of the superintendent of financial services under article
+fifteen, sixteen, seventeen, forty-two, forty-three, seventy-one, or
+seventy-three of the insurance law, or regulations promulgated
+thereunder.
 ```

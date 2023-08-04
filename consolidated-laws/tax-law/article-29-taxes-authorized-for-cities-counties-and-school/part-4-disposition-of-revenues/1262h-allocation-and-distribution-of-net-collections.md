@@ -101,5 +101,14 @@ thousand dollars, and the sum of seven hundred ninety thousand dollars
 to the towns and villages of the county of Steuben, on the basis of the
 ratio which the full valuation of real property in each town or village
 bears to the aggregate full valuation of real property in all of the
+towns and villages in such area; and during the period beginning
+December first, two thousand twenty-three and ending November thirtieth,
+two thousand twenty-five, the county of Steuben shall annually pay or
+cause to be paid to the city of Hornell the sum of eight hundred fifty
+thousand dollars, to the city of Corning the sum of eight hundred fifty
+thousand dollars, and the sum of eight hundred fifty thousand dollars to
+the towns and villages of the county of Steuben, on the basis of the
+ratio which the full valuation of real property in each town or village
+bears to the aggregate full valuation of real property in all of the
 towns and villages in such area.
 ```

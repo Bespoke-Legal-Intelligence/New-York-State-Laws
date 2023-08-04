@@ -4,8 +4,8 @@
 [Public Health Law](../README.md) › [Article 29-K — Registration of Temporary Health Care Services Agencies and Health Care Technology Platforms](README.md)
 
 ```text
-  * § 2999-kk. Temporary health care services agencies; minimum
-standards.  1. A temporary health care services agency shall appoint an
+  § 2999-kk. Temporary health care services agencies; minimum standards.
+1. A temporary health care services agency shall appoint an
 administrator qualified by training, experience or education to operate
 the agency. Each separate agency location shall have its own
 administrator.
@@ -45,5 +45,4 @@ including but not limited to pricing, fees, administrative costs,
 profits, and business practices.
   5. The commissioner may waive the requirements of this article during
 a declared state or federal public health emergency.
-  * NB Effective August 1, 2023
 ```

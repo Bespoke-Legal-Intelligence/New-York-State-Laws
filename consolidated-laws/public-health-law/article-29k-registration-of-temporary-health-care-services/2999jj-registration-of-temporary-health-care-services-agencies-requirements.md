@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 29-K — Registration of Temporary Health Care Services Agencies and Health Care Technology Platforms](README.md)
 
 ```text
-  * § 2999-jj. Registration of temporary health care services agencies;
+  § 2999-jj. Registration of temporary health care services agencies;
 requirements. 1. Any person who operates a temporary health care
 services agency shall register the agency with the department.
   2. The commissioner shall publish guidelines establishing the forms
@@ -85,5 +85,4 @@ an action for an injunction against any person who violates any
 provision of this article; provided, the department shall furnish the
 attorney general with such material, evidentiary matter or proof as may
 be requested by the attorney general for the prosecution of such action.
-  * NB Effective August 1, 2023
 ```

@@ -15,7 +15,7 @@
 <summary>Official heading of Article 29-K, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 29-K
+                              ARTICLE 29-K
    REGISTRATION OF TEMPORARY HEALTH CARE SERVICES AGENCIES AND HEALTH
                         CARE TECHNOLOGY PLATFORMS
 Section 2999-ii. Definitions.
@@ -25,7 +25,6 @@ Section 2999-ii. Definitions.
                    standards.
         2999-ll. Violations; penalties.
         2999-mm. Rates for temporary health care services; reports.
-  * NB Effective August 1, 2023
 ```
 
 </details>

@@ -72,7 +72,7 @@ treasurer or other fiscal officers of Nassau county by such means and in
 such manner as other taxes which are now collected and administered by
 such officers or as otherwise may be provided by such local law,
 ordinance or resolution.
-  * NB Repealed December 31, 2023
+  * NB Repealed December 31, 2025
   (e) Notwithstanding the provisions of this article or any other law, a
 local law, ordinance or resolution adopted by a county, imposing a tax
 of the type authorized under subdivision (e) of section twelve hundred

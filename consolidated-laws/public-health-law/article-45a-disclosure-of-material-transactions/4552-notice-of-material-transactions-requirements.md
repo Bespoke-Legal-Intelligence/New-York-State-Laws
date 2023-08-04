@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 45-A — Disclosure of Material Transactions](README.md)
 
 ```text
-  * § 4552. Notice of material transactions; requirements. 1. A health
+  § 4552. Notice of material transactions; requirements. 1. A health
 care entity shall submit to the department written notice, with
 supporting documentation as described below and further defined in
 regulation developed by the department, which the department shall be in
@@ -53,5 +53,4 @@ and manner prescribed by the department.
 this section shall be subject to civil penalties under section twelve of
 this chapter. Each day in which the violation continues shall constitute
 a separate violation.
-  * NB Effective August 1, 2023
 ```

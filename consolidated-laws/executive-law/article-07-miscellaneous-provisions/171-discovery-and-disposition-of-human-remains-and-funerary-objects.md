@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 7 — Miscellaneous Provisions](README.md)
 
 ```text
-  * § 171. Discovery and disposition of human remains and funerary
+  § 171. Discovery and disposition of human remains and funerary
 objects. 1. Definitions. As used in this section:
   (a) "Burial site" means any location in which human remains are
 interred, which is not a cemetery subject to provisions of the
@@ -340,5 +340,4 @@ may bring an action in supreme court in the judicial district where the
 remains or objects covered by this section are located to enjoin
 violations or threatened violations of this section, and to recover such
 remains or objects.
-  * NB Effective August 1, 2023
 ```

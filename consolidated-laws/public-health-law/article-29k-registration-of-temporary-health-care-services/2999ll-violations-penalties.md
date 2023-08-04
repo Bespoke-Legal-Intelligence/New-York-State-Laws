@@ -4,12 +4,11 @@
 [Public Health Law](../README.md) › [Article 29-K — Registration of Temporary Health Care Services Agencies and Health Care Technology Platforms](README.md)
 
 ```text
-  * § 2999-ll. Violations; penalties. In addition to other remedies
+  § 2999-ll. Violations; penalties. In addition to other remedies
 available by law, violations of the provisions of this article and any
 regulations promulgated thereunder shall be subject to penalties and
 fines pursuant to section twelve of this chapter; provided, however,
 that each violation committed by any health care personnel of a
 temporary health care services agency shall be considered a separate
 violation.
-  * NB Effective August 1, 2023
 ```
