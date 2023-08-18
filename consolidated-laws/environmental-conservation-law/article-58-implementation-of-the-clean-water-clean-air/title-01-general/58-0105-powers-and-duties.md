@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 58 — Implementation of the "clean Water, Clean Air, and Green Jobs Environmental Bond Act of 2022 "](../README.md) › [Title 1 — General Provisions](README.md)
 
 ```text
-* § 58-0105. Powers and duties.
+§ 58-0105. Powers and duties.
   In implementing the provisions of this article the department is
 hereby authorized to:
   1. Administer funds generated pursuant to the "clean water, clean air,
@@ -27,9 +27,4 @@ assistance.
 administration of this article.
   7. Perform such other and further acts as may be necessary, proper or
 desirable to carry out the provisions of this article.
-  * NB Takes effect only if section 1 of part TT of chapter 59 of the
-laws of 2021 enacting the "clean water, clean air, and green jobs
-environmental bond act of 2022" is submitted to the people at the
-general election to be held in November 2022 and is approved by the
-majority of votes
 ```

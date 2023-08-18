@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 58 — Implementation of the "clean Water, Clean Air, and Green Jobs Environmental Bond Act of 2022 "](../README.md) › [Title 9 — Water Quality Improvement and Resilient Infrastructure](README.md)
 
 ```text
-* § 58-0903. Programs, plans and projects.
+§ 58-0903. Programs, plans and projects.
   1. Eligible water quality improvement project costs include, but are
 not limited to:
   a. costs associated with grants to municipalities for projects that
@@ -52,9 +52,4 @@ and post information on the department's website in the environmental
 notice bulletin providing for a thirty-day public comment period and
 upon adoption post such eligibility guidelines on the relevant agency's
 website.
-  * NB Takes effect only if section 1 of part TT of chapter 59 of the
-laws of 2021 enacting the "clean water, clean air, and green jobs
-environmental bond act of 2022" is submitted to the people at the
-general election to be held in November 2022 and is approved by the
-majority of votes
 ```

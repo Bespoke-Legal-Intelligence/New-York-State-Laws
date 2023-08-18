@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 58 — Implementation of the "clean Water, Clean Air, and Green Jobs Environmental Bond Act of 2022 "](../README.md) › [Title 13 — Labor Standards](README.md)
 
 ```text
-* § 58-1301. Labor standards.
+§ 58-1301. Labor standards.
   1. Projects funded pursuant to this article shall require compliance
 with prevailing wage requirements pursuant to section two hundred twenty
 of the labor law.
@@ -63,9 +63,4 @@ amount, or such iron or steel, including without limitation structural
 iron and structural steel, cannot be produced or made in the United
 States in sufficient and reasonably available quantities and of
 satisfactory quality.
-  * NB Takes effect only if section 1 of part TT of chapter 59 of the
-laws of 2021 enacting the "clean water, clean air, and green jobs
-environmental bond act of 2022" is submitted to the people at the
-general election to be held in November 2022 and is approved by the
-majority of votes
 ```

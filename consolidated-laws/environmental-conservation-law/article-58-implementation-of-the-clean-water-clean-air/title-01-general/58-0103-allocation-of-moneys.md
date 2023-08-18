@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 58 — Implementation of the "clean Water, Clean Air, and Green Jobs Environmental Bond Act of 2022 "](../README.md) › [Title 1 — General Provisions](README.md)
 
 ```text
-* § 58-0103. Allocation of moneys.
+§ 58-0103. Allocation of moneys.
   The moneys received by the state from the sale of bonds pursuant to
 the environmental bond act of 2022 shall be disbursed in the following
 amounts pursuant to appropriations as specifically provided for in
@@ -20,9 +20,4 @@ climate change mitigation as set forth in title seven of this article.
   4. Not less than six hundred fifty million dollars ($650,000,000) for
 water quality improvement and resilient infrastructure as set forth in
 title nine of this article.
-  * NB Takes effect only if section 1 of part TT of chapter 59 of the
-laws of 2021 enacting the "clean water, clean air, and green jobs
-environmental bond act of 2022" is submitted to the people at the
-general election to be held in November 2022 and is approved by the
-majority of votes
 ```

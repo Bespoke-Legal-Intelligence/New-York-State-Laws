@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 58 — Implementation of the "clean Water, Clean Air, and Green Jobs Environmental Bond Act of 2022 "](../README.md) › [Title 11 — Environmental Justice and Reporting](README.md)
 
 ```text
-* § 58-1103. Reporting.
+§ 58-1103. Reporting.
   1. No later than sixty days following the end of each fiscal year,
 each department, agency, public benefit corporation, and public
 authority receiving an allocation or allocations of appropriation
@@ -20,9 +20,4 @@ fiscal year, the department shall submit to the governor, the temporary
 president of the senate, and the speaker of the assembly a report that
 includes the information received. A copy of the report shall be posted
 on the department's website.
-  * NB Takes effect only if section 1 of part TT of chapter 59 of the
-laws of 2021 enacting the "clean water, clean air, and green jobs
-environmental bond act of 2022" is submitted to the people at the
-general election to be held in November 2022 and is approved by the
-majority of votes
 ```

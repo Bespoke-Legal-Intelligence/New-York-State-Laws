@@ -12,15 +12,10 @@
 <summary>Official heading of Title 3, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                * TITLE 3
+                                 TITLE 3
                   RESTORATION AND FLOOD RISK REDUCTION
 Section 58-0301. Allocation of moneys.
         58-0303. Programs, plans and projects.
-  * NB Takes effect only if section 1 of part TT of chapter 59 of the
-laws of 2021 enacting the "clean water, clean air, and green jobs
-environmental bond act of 2022" is submitted to the people at the
-general election to be held in November 2022 and is approved by the
-majority of votes
 ```
 
 </details>

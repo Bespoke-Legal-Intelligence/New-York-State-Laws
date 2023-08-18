@@ -2370,7 +2370,6 @@ credit, or in the case of a taxpayer who is a partner in a partnership
 or a member of a limited liability company, its pro rata share of the
 amount of credit listed in the certificate of tax credit issued to the
 partnership or limited liability company.
-  * NB Repealed January 1, 2020
   51. Farm workforce retention credit. (a) Allowance of credit. A
 taxpayer shall be allowed a credit, to be computed as provided in
 section forty-two of this chapter, against the tax imposed by this

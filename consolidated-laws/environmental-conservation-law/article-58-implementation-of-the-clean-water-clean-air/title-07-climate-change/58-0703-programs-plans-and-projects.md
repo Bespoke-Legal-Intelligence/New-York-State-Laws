@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 58 — Implementation of the "clean Water, Clean Air, and Green Jobs Environmental Bond Act of 2022 "](../README.md) › [Title 7 — Climate Change Mitigation](README.md)
 
 ```text
-* § 58-0703. Programs, plans and projects.
+§ 58-0703. Programs, plans and projects.
   1. Eligible climate change mitigation projects include, but are not
 limited to:
   a. costs associated with green building projects, projects that
@@ -48,9 +48,4 @@ guidelines and post information on the department's website in the
 environmental notice bulletin providing for a thirty-day public comment
 period and upon adoption post such eligibility guidelines on the
 relevant agency's website.
-  * NB Takes effect only if section 1 of part TT of chapter 59 of the
-laws of 2021 enacting the "clean water, clean air, and green jobs
-environmental bond act of 2022" is submitted to the people at the
-general election to be held in November 2022 and is approved by the
-majority of votes
 ```

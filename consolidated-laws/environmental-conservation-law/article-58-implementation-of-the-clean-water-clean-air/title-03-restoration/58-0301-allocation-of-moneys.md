@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 58 — Implementation of the "clean Water, Clean Air, and Green Jobs Environmental Bond Act of 2022 "](../README.md) › [Title 3 — Restoration and Flood Risk Reduction](README.md)
 
 ```text
-* § 58-0301. Allocation of moneys.
+§ 58-0301. Allocation of moneys.
   Of the moneys received by the state from the sale of bonds pursuant to
 the environmental bond act of 2022, not less than one billion one
 hundred million dollars ($1,100,000,000) shall be available for
@@ -17,9 +17,4 @@ each shall be available for coastal rehabilitation and shoreline
 restoration projects and projects which address inland flooding,
 pursuant to paragraph a of subdivision one of section 58-0303 of this
 title.
-  * NB Takes effect only if section 1 of part TT of chapter 59 of the
-laws of 2021 enacting the "clean water, clean air, and green jobs
-environmental bond act of 2022" is submitted to the people at the
-general election to be held in November 2022 and is approved by the
-majority of votes
 ```
