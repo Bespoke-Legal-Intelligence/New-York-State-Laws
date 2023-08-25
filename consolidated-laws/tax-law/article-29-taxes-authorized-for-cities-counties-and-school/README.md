@@ -56,6 +56,7 @@ Section 1201.      Taxes administered by cities of one million or more.
         1202-dd*6. Occupancy tax in the village of Port Chester.
         1202-e.    Hotel or motel taxes in Schenectady county.
         1202-ee.   Hotel or motel taxes in the town of Woodbury.
+        1202-eee.  Hotel or motel taxes in the village of Woodbury.
         1202-f.    Hotel or motel taxes in Tompkins county.
         1202-ff.   Hotel or motel taxes in Chenango county.
         1202-ff*2. Occupancy tax in the city of Port Jervis.
@@ -69,13 +70,20 @@ Section 1201.      Taxes administered by cities of one million or more.
         1202-gg*3. Hotel or motel taxes in the town of Newburgh.
         1202-gg*4. Hotel or motel taxes in the town of Mount Pleasant.
         1202-gg*5. Hotel or motel taxes in the town of Wallkill.
+        1202-gg-1. Hotel or motel taxes in the town of Cornwall.
         1202-h.    Hotel or motel taxes in Chemung county.
         1202-h*2.  Hotel or motel taxes in the county of Oswego.
         1202-hh.   Hotel or motel taxes in the city of Newburgh.
         1202-hh*2. Hotel or motel taxes in the village of Cold Spring.
         1202-hh*3. Occupancy tax in the village of Briarcliff Manor.
         1202-hh*4. Occupancy tax in the village of Nyack.
+        1202-hhh.  Occupancy tax in the town of Skaneateles.
+        1202-hhh*2.Occupancy tax in the village of Skaneateles.
         1202-i.    Hotel or motel taxes in Schuyler county.
+        1202-ii.   Hotel or motel taxes in the town of Goshen.
+        1202-ii*2. Hotel or motel taxes in the village of Goshen.
+        1202-ii*3. Hotel, motel or seasonal rental occupancy taxes in
+                     Wayne county.
         1202-j.    Hotel or motel taxes in Otsego county.
         1202-j*2.  Hotel and motel taxes in Sullivan county.
         1202-j*3.  Hotel or motel taxes in Chautauqua county.
@@ -86,7 +94,9 @@ Section 1201.      Taxes administered by cities of one million or more.
         1202-l*3.  Hotel or motel taxes in the county of St. Lawrence.
         1202-l*4.  Hotel or motel taxes in Niagara Falls.
         1202-m.    Hotel or motel taxes in Livingston county.
+        1202-mm.   Hotel or motel taxes in the city of Beacon.
         1202-n.    Hotel or motel taxes in Rensselaer county.
+        1202-nn.   Hotel or motel taxes in the city of Poughkeepsie.
         1202-o.    Hotel and motel taxes in Suffolk county.
         1202-o*2.  Hotel or motel taxes in the city of Lockport, Niagara
                      county.
@@ -110,8 +120,10 @@ Section 1201.      Taxes administered by cities of one million or more.
         1202-y*2.  Hotel or motel taxes in Yates county.
         1202-z.    Hotel or motel taxes in Clinton county.
         1202-z-1.  Occupancy tax in the village of Tuckahoe.
+        1202-z-2.  Occupancy tax in the village of Weedsport.
         1202-z-3.  Occupancy tax in the village of Mount Kisco.
         1202-zz.   Occupancy tax in the village of Highland Falls.
+        1202-zz-1. Hotel or motel taxes in the town of DeWitt.
         1203.      Taxes administered by cities under one million.
         1204.      Taxes administered by cities with populations of less
                      than one hundred twenty-five thousand on request of

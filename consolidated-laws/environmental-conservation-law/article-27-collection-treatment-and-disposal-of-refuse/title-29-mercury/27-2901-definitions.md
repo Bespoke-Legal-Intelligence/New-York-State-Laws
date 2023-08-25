@@ -1,7 +1,7 @@
-﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 27-2901", "kind": "section", "law_id": "ENV", "location_id": "27-2901", "path": "ARTICLE 27 › ARTICLE 27T29 › SECTION 27-2901", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/27-2901.md", "title": "Definitions"} -->
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 27-2901", "kind": "section", "law_id": "ENV", "location_id": "27-2901", "path": "ARTICLE 27 › TITLE 29 › SECTION 27-2901", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/27-2901.md", "title": "Definitions"} -->
 # Environmental Conservation Law § 27-2901 — Definitions
 
-[Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Article 27T29 — Title 29 Mercury Thermostat Collection Act](README.md)
+[Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 29 — Mercury Thermostat Collection Act](README.md)
 
 ```text
 * § 27-2901. Definitions.
@@ -38,5 +38,5 @@ air-conditioning components, including thermostats, to contractors, and
 whose total wholesale sales account for eighty percent or more of its
 total sales. A thermostat manufacturer is not, by virtue of
 manufacturing, a thermostat wholesaler.
-  * NB Repealed January 1, 2024
+  * NB Repealed January 1, 2025
 ```

@@ -1,7 +1,7 @@
-﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 27-2907", "kind": "section", "law_id": "ENV", "location_id": "27-2907", "path": "ARTICLE 27 › ARTICLE 27T29 › SECTION 27-2907", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/27-2907.md", "title": "Department responsibilities"} -->
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 27-2907", "kind": "section", "law_id": "ENV", "location_id": "27-2907", "path": "ARTICLE 27 › TITLE 29 › SECTION 27-2907", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/27-2907.md", "title": "Department responsibilities"} -->
 # Environmental Conservation Law § 27-2907 — Department responsibilities
 
-[Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Article 27T29 — Title 29 Mercury Thermostat Collection Act](README.md)
+[Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 29 — Mercury Thermostat Collection Act](README.md)
 
 ```text
 * § 27-2907. Department responsibilities.
@@ -27,5 +27,5 @@ provisions of this section should be extended, along with any other
 statutory changes. In preparing the report, the department shall consult
 with mercury thermostat manufacturers, environmental organizations,
 municipal recyclers, and other interest groups.
-  * NB Repealed January 1, 2024
+  * NB Repealed January 1, 2025
 ```

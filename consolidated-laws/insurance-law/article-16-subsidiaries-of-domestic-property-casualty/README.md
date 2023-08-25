@@ -17,6 +17,8 @@
 - [§ 1610 Authority to conduct certain business directly instead of through subsidiary](1610-authority-to-conduct-certain-business-directly-instead-of-through-subsidiary.md)
 - [§ 1611 Aggregate limitations](1611-aggregate-limitations.md)
 - [§ 1612 Regulations](1612-regulations.md)
+- [§ 1613 Expenses for group-wide supervision](1613-expenses-for-group-wide-supervision.md)
+- [§ 1614 Confidentiality of reports and filings](1614-confidentiality-of-reports-and-filings.md)
 
 <details>
 <summary>Official heading of Article 16, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -40,6 +42,8 @@ Section 1601. Authority to invest in subsidiaries; businesses of
                 through subsidiary.
         1611. Aggregate limitations.
         1612. Regulations.
+        1613. Expenses for group-wide supervision.
+        1614. Confidentiality of reports and filings.
 ```
 
 </details>

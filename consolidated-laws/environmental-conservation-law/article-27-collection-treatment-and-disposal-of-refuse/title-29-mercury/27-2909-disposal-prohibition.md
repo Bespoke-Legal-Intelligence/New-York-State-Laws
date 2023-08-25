@@ -1,7 +1,7 @@
-﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 27-2909", "kind": "section", "law_id": "ENV", "location_id": "27-2909", "path": "ARTICLE 27 › ARTICLE 27T29 › SECTION 27-2909", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/27-2909.md", "title": "Disposal prohibition"} -->
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 27-2909", "kind": "section", "law_id": "ENV", "location_id": "27-2909", "path": "ARTICLE 27 › TITLE 29 › SECTION 27-2909", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/27-2909.md", "title": "Disposal prohibition"} -->
 # Environmental Conservation Law § 27-2909 — Disposal prohibition
 
-[Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Article 27T29 — Title 29 Mercury Thermostat Collection Act](README.md)
+[Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 29 — Mercury Thermostat Collection Act](README.md)
 
 ```text
 * § 27-2909. Disposal prohibition.
@@ -23,5 +23,5 @@ to be transferred to an incinerator or landfill for disposal.
   5. Each landfill and transfer station shall post, in a conspicuous
 location at the facility, a sign stating that mercury-added thermostats
 are not accepted at the facility.
-  * NB Repealed January 1, 2024
+  * NB Repealed January 1, 2025
 ```

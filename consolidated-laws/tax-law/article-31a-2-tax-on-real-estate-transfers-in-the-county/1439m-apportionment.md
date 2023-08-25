@@ -9,6 +9,6 @@ body of the county of Columbia shall provide for a method of
 apportionment for determining the amount of tax due whenever the real
 property or interest therein is situated within and without the county
 of Columbia.
-  * NB Repealed December 31, 2023
+  * NB Repealed December 31, 2025
   * NB There are 3 § 1439-m's
 ```

@@ -8,7 +8,7 @@
 | Senate code | LFN |
 | Type | Consolidated law, chapter 33-A |
 | Sections | 164 |
-| Last changed | 7 Jul 2023 |
+| Last changed | 25 Aug 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Local Finance |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [25 Aug 2023](../../changes/2023/2023-08-25.md): 4 amended
 - [7 Jul 2023](../../changes/2023/2023-07-07.md): 12 amended
 - [30 Jun 2023](../../changes/2023/2023-06-30.md): 3 amended
 - [12 May 2023](../../changes/2023/2023-05-12.md): 1 amended
@@ -40,7 +41,6 @@ Assembly, do enact as follows:
 - [30 Jul 2021](../../changes/2021/2021-07-30.md): 19 amended
 - [2 Jul 2021](../../changes/2021/2021-07-02.md): 8 amended
 - [18 Jun 2021](../../changes/2021/2021-06-18.md): 9 amended
-- [28 Aug 2020](../../changes/2020/2020-08-28.md): 1 amended
 
 ## Contents
 

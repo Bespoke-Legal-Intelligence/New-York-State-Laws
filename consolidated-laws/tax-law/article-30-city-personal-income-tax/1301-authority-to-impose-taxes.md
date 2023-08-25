@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 30 — City Personal Income Tax](README.md)
 
 ```text
-  § 1301. Authority to impose taxes. (a) Notwithstanding any other
+  § 1301. Authority to impose taxes.  (a) Notwithstanding any other
 provision of law to the contrary, any city in this state having a
 population of one million or more inhabitants, acting through its local
 legislative body, is hereby authorized and empowered to adopt and amend
@@ -13,15 +13,14 @@ nineteen hundred seventy-five:
   (1) a tax on the personal income of residents of such city, at the
 rates provided for under subsection (a) of section thirteen hundred four
 of this article for taxable years beginning before two thousand
-twenty-four, and at the rates provided for under subsection (b) of
+twenty-seven, and at the rates provided for under subsection (b) of
 section thirteen hundred four of this article for taxable years
-beginning after two thousand twenty-three, provided, however, that if,
-for any taxable year beginning after two thousand twenty-three, the
-rates set forth in such subsection (b) are rendered inapplicable and the
-rates set forth in such subsection (a) are rendered applicable, then the
-tax for such taxable year shall be at the rates provided under
-subparagraphs (A) of paragraphs one, two and three of such subsection
-(a),
+beginning after two thousand twenty-six, provided, however, that if, for
+any taxable year beginning after two thousand twenty-six, the rates set
+forth in such subsection (b) are rendered inapplicable and the rates set
+forth in such subsection (a) are rendered applicable, then the tax for
+such taxable year shall be at the rates provided under subparagraphs (A)
+of paragraphs one, two and three of such subsection (a),
   (2) for taxable years beginning after nineteen hundred seventy-six, a
 separate tax on the ordinary income portion of lump sum distributions of
 such residents, at the rates provided for herein, such taxes to be

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | ENV |
 | Type | Consolidated law, chapter 43-B |
-| Sections | 1,827 |
-| Last changed | 18 Aug 2023 |
+| Sections | 1,832 |
+| Last changed | 25 Aug 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Environmental Conservation |
 
@@ -33,6 +33,7 @@ An ACT to repeal and reenact chapter forty-three-B of the consolidated
 
 ## Recent changes
 
+- [25 Aug 2023](../../changes/2023/2023-08-25.md): 14 amended, 5 added
 - [18 Aug 2023](../../changes/2023/2023-08-18.md): 17 amended
 - [4 Aug 2023](../../changes/2023/2023-08-04.md): 1 amended
 - [7 Jul 2023](../../changes/2023/2023-07-07.md): 3 amended
@@ -42,7 +43,6 @@ An ACT to repeal and reenact chapter forty-three-B of the consolidated
 - [12 May 2023](../../changes/2023/2023-05-12.md): 3 amended
 - [14 Apr 2023](../../changes/2023/2023-04-14.md): 3 amended
 - [7 Apr 2023](../../changes/2023/2023-04-07.md): 4 amended
-- [31 Mar 2023](../../changes/2023/2023-03-31.md): 4 amended
 
 ## Contents
 
@@ -67,6 +67,7 @@ An ACT to repeal and reenact chapter forty-three-B of the consolidated
 - [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](article-27-collection-treatment-and-disposal-of-refuse/)
 - [Article 28 — Pollution Prevention](article-28-pollution-prevention/)
 - [Article 29 — Low-level Radioactive Waste Facilities](article-29-low-level-radioactive-waste-facilities/)
+- [Article 30 — Decommissioning Nuclear Power Plant Discharges Into the Hudson River](article-30-decommissioning-nuclear-power-plant-discharges/)
 - [Article 33 — Pesticides](article-33-pesticides/)
 - [Article 34 — Coastal Erosion Hazard Areas](article-34-coastal-erosion-hazard-areas/)
 - [Article 35 — Detergents and Other Household Cleansing Products](article-35-detergents-and-other-household-cleansing/)

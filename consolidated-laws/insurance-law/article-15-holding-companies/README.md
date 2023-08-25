@@ -15,6 +15,7 @@
 - [§ 1508 Acceptance of reports filed with government agencies](1508-acceptance-of-reports-filed-with-government-agencies.md)
 - [§ 1509 Prohibition of indirect action](1509-prohibition-of-indirect-action.md)
 - [§ 1510 Violations; penalties; jurisdiction over non-domiciliaries](1510-violations-penalties-jurisdiction-over-non-domiciliaries.md)
+- [§ 1511 Expenses for group-wide supervision](1511-expenses-for-group-wide-supervision.md)
 
 <details>
 <summary>Official heading of Article 15, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -26,14 +27,15 @@ Section 1501. Definitions; determinations.
         1502. Exemptions.
         1503. Registration.
         1504. Reporting; examination; publication.
-        1505. Transactions  within  a  holding  company system affecting
+        1505. Transactions within a holding company system affecting
                 controlled insurers.
         1506. Acquisition or retention of control of insurers.
         1507. Management of controlled insurers.
         1508. Acceptance of reports filed with government agencies.
         1509. Prohibition of indirect action.
-        1510. Violations;       penalties;       jurisdiction       over
+        1510. Violations; penalties; jurisdiction over
                 non-domiciliaries.
+        1511. Expenses for group-wide supervision.
 ```
 
 </details>
