@@ -216,7 +216,7 @@ GPS tracking data, equipment utilization information, and similar
 information; cooperate and coordinate with the county and with other
 organizations and entities receiving funding; and impose similar
 requirements and restrictions on recipients of such funding.
-  * NB Effective November 30, 2023 until November 30, 2025
+  * NB Effective December 1, 2023 until November 30, 2025
   * (9) All revenues resulting from the imposition of the tax under the
 local laws shall be paid into the treasury of the county of Chautauqua
 and shall be credited to and deposited in a special tourism and

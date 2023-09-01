@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 25 Aug 2023.*
+*Current through the publication of 1 Sep 2023.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [1 Sep 2023](changes/2023/2023-09-01.md): Environmental Conservation Law; Tax Law
 - [25 Aug 2023](changes/2023/2023-08-25.md): Agriculture and Markets Law; Correction Law; Elder Law; Environmental Conservation Law; Executive Law; General Business Law; Insurance Law; Judiciary Law; Labor Law; Local Finance Law; Public Authorities Law; Public Service Law; Real Property Tax Law; Tax Law
 - [18 Aug 2023](changes/2023/2023-08-18.md): Environmental Conservation Law; Labor Law; State Finance Law; Tax Law
 - [4 Aug 2023](changes/2023/2023-08-04.md): Alcoholic Beverage Control Law; Banking Law; Education Law; Environmental Conservation Law; Executive Law; General Municipal Law; Insurance Law; Public Health Law; Public Officers Law; Real Property Tax Law; Retirement and Social Security Law; Tax Law; Vehicle and Traffic Law
@@ -22,20 +23,19 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [21 Jul 2023](changes/2023/2023-07-21.md): Criminal Procedure Law; Education Law; Executive Law; Family Court Act; General Business Law; Penal Law; Private Housing Finance Law; Public Authorities Law; Public Health Law; Public Officers Law; Racing, Pari-Mutuel Wagering and Breeding Law; Social Services Law; State Finance Law; Tax Law; Vehicle and Traffic Law
 - [14 Jul 2023](changes/2023/2023-07-14.md): Banking Law; Education Law; Election Law; General Municipal Law; Insurance Law
 - [7 Jul 2023](changes/2023/2023-07-07.md): Civil Practice Law and Rules; Civil Service Law; Correction Law; Criminal Procedure Law; Economic Development Law; Education Law; Environmental Conservation Law; Executive Law; General Business Law; General Municipal Law; Insurance Law; Labor Law; Local Finance Law; Medical Care Facilities Finance Agency; New York City Civil Court Act; Parks, Recreation and Historic Preservation Law; Public Health Law; Public Service Law; Real Property Tax Law; Retirement and Social Security Law; Social Services Law; Tax Law; Town Law; Urban Development Corporation Act; Vehicle and Traffic Law
-- [30 Jun 2023](changes/2023/2023-06-30.md): Civil Practice Law and Rules; Criminal Procedure Law; Education Law; Executive Law; Family Court Act; General Construction Law; Insurance Law; Labor Law; Local Finance Law; Mental Hygiene Law; Not-for-Profit Corporation Law; Public Authorities Law; Public Health Law; State Technology Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | 254 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 224 |
-| [Tax Law](consolidated-laws/tax-law/README.md) | 177 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 223 |
+| [Tax Law](consolidated-laws/tax-law/README.md) | 183 |
 | [Education Law](consolidated-laws/education-law/README.md) | 160 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | 150 |
 | [Labor Law](consolidated-laws/labor-law/README.md) | 126 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | 119 |
-| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 115 |
+| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 116 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 113 |
 | [Real Property Actions and Proceedings Law](consolidated-laws/real-property-actions-and-proceedings-law/README.md) | 81 |
 | [Penal Law](consolidated-laws/penal-law/README.md) | 78 |
@@ -74,7 +74,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Eminent Domain Procedure Law](consolidated-laws/eminent-domain-procedure-law/README.md) | EDP | 50 | 27 Sep 2019 |
 | [Employers' Liability Law](consolidated-laws/employers-liability-law/README.md) | EML | 18 | no change since 22 Sep 2014 (start of history) |
 | [Energy Law](consolidated-laws/energy-law/README.md) | ENG | 70 | 23 Jun 2023 |
-| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,832 | 25 Aug 2023 |
+| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,832 | 1 Sep 2023 |
 | [Estates, Powers and Trusts Law](consolidated-laws/estates-powers-and-trusts-law/README.md) | EPT | 361 | 16 Sep 2022 |
 | [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 905 | 25 Aug 2023 |
 | [Financial Services Law](consolidated-laws/financial-services-law/README.md) | FIS | 59 | 12 May 2023 |
@@ -131,7 +131,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [State Law](consolidated-laws/state-law/README.md) | STL | 99 | 28 Apr 2023 |
 | [State Technology Law](consolidated-laws/state-technology-law/README.md) | STT | 29 | 30 Jun 2023 |
 | [Statute of Local Governments](consolidated-laws/statute-of-local-governments/README.md) | SLG | 9 | no change since 22 Sep 2014 (start of history) |
-| [Tax Law](consolidated-laws/tax-law/README.md) | TAX | 1,302 | 25 Aug 2023 |
+| [Tax Law](consolidated-laws/tax-law/README.md) | TAX | 1,302 | 1 Sep 2023 |
 | [Town Law](consolidated-laws/town-law/README.md) | TWN | 360 | 7 Jul 2023 |
 | [Transportation Corporations Law](consolidated-laws/transportation-corporations-law/README.md) | TCP | 73 | 8 Jul 2022 |
 | [Transportation Law](consolidated-laws/transportation-law/README.md) | TRA | 326 | 20 Jan 2023 |

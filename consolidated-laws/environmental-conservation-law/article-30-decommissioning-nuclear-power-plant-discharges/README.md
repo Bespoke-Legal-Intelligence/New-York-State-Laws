@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [§ 30-0101 Legislative findings](30-0101-legislative-findings.md)
+- [§ 30-0101](30-0101.md)
 - [§ 30-0103 Unlawful discharges](30-0103-unlawful-discharges.md)
 
 <details>
@@ -14,8 +14,9 @@
 ```text
                                ARTICLE 30
   DECOMMISSIONING NUCLEAR POWER PLANT DISCHARGES INTO THE HUDSON RIVER
-Section 30-0101. Legislative findings.
-        30-0103. Unlawful discharges.
+Section 30-0101*. Legislative findings.
+        30-0103.  Unlawful discharges.
+  * NB Section 30-0101 inadvertently added as 30-101
 ```
 
 </details>
