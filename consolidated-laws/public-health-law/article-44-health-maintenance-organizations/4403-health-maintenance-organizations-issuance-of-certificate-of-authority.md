@@ -398,8 +398,7 @@ inconsistent with other provisions of this article or with the
 provisions of section three hundred sixty-four-j of the social services
 law, the provisions of this subdivision shall prevail.
   * NB Repealed December 31, 2025
-  * 9. A health maintenance organization shall have procedures for
+  9. A health maintenance organization shall have procedures for
 coverage of medically fragile children including those necessary to
 implement section forty-four hundred six-i of this article.
-  * NB Effective September 1, 2023
 ```

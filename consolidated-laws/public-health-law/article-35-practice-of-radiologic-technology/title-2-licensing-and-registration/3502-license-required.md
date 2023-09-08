@@ -65,13 +65,7 @@ utilize body imaging scanning equipment that applies ionizing radiation
 to humans for purposes of screening incarcerated individuals committed
 to such facility, in connection with the implementation of such
 facility's security program.
-  ** (ii) The utilization of such body imaging scanning equipment shall
-be in accordance with regulations promulgated by the department, or in
-cities having a population of two million or more, such utilization
-shall be in accordance with regulations promulgated by the New York city
-department of health and mental hygiene.
-  ** NB Effective until August 31, 2023
-  ** (ii) Notwithstanding the provisions of this section or any other
+  (ii) Notwithstanding the provisions of this section or any other
 provision of law, rule or regulation to the contrary, licensed
 practitioners, persons licensed under this article and unlicensed
 personnel employed at a state correctional facility may, in a manner
@@ -80,9 +74,8 @@ utilize body imaging scanning equipment that applies ionizing radiation
 to humans for purposes of screening individuals detained in, committed
 to, visiting, or employed in such facility, in connection with the
 implementation of such facility's security program.
-  ** NB Effective August 31, 2023
-  ** (iii) The utilization of such body imaging scanning equipment shall
-be in accordance with regulations promulgated by the department, or for
+  (iii) The utilization of such body imaging scanning equipment shall be
+in accordance with regulations promulgated by the department, or for
 local correctional facilities in cities having a population of two
 million or more, such utilization shall be in accordance with
 regulations promulgated by the New York city department of health and
@@ -116,97 +109,48 @@ of screening in lieu of body imaging scanning. An employee's request to
 be searched by an alternative method of screening in lieu of body
 imaging scanning shall not, in itself, be grounds for disciplinary
 action against such employee.
-  ** NB Effective August 31, 2023
-  ** (b) Prior to establishing, maintaining or operating in a local
-correctional facility any body imaging scanning equipment, the chief
-administrative officer of the facility shall ensure that such facility
-is in compliance with the regulations promulgated pursuant to this
-subdivision and otherwise applicable requirements for the installation,
-registration, maintenance, operation and inspection of body imaging
-scanning equipment.
-  ** NB Effective until August 31, 2023
-  ** (b) Prior to establishing, maintaining or operating in a state or
+  (b) Prior to establishing, maintaining or operating in a state or
 local correctional facility, any body imaging scanning equipment, the
 chief administrative officer of the facility shall ensure that such
 facility is in compliance with the regulations promulgated pursuant to
 this subdivision and otherwise applicable requirements for the
 installation, registration, maintenance, operation and inspection of
 body imaging scanning equipment.
-  ** NB Effective August 31, 2023
   (c) The regulations promulgated pursuant to subparagraph (ii) of
 paragraph (a) of this subdivision shall include, but not be limited to:
-  ** (i) A requirement that prior to operating body imaging scanning
-equipment, unlicensed personnel employed at local correctional
-facilities shall have successfully completed a training course approved
-by the department, or in cities of two million or more, approved by the
-New York city department of health and mental hygiene, and that such
-personnel receive additional training on an annual basis;
-  ** NB Effective until August 31, 2023
-  ** (i) A requirement that prior to operating body imaging scanning
+  (i) A requirement that prior to operating body imaging scanning
 equipment, unlicensed personnel employed at state or local correctional
 facilities shall have successfully completed a training course approved
 by the department, or for local correctional facilities in cities of two
 million or more, approved by the New York city department of health and
 mental hygiene, and that such personnel receive additional training on
 an annual basis;
-  ** NB Effective August 31, 2023
-  ** (ii) Limitations on exposure which shall be no more than fifty
-percent of the annual exposure limits for non-radiation workers as
-specified by applicable regulations, except that incarcerated
-individuals under the age of eighteen shall not be subject to more than
-five percent of such annual exposure limits, and pregnant women shall
-not be subject to such scanning at any time. Procedures for identifying
-pregnant women shall be set forth in the regulations;
-  ** NB Effective until August 31, 2023
-  ** (ii) Limitations on exposure which shall be no more than fifty
-percent of the annual exposure limits for non-radiation workers as
-specified by applicable regulations, except that individuals under the
-age of eighteen shall not be subject to more than five percent of such
-annual exposure limits, and pregnant women shall not be subject to such
+  (ii) Limitations on exposure which shall be no more than fifty percent
+of the annual exposure limits for non-radiation workers as specified by
+applicable regulations, except that individuals under the age of
+eighteen shall not be subject to more than five percent of such annual
+exposure limits, and pregnant women shall not be subject to such
 scanning at any time. Procedures for identifying pregnant women shall be
 set forth in the regulations;
-  ** NB Effective August 31, 2023
-  ** (iii) Registration with the department of each body imaging
-scanning machine purchased or installed at a local correctional
+  (iii) Registration with the department of each body imaging scanning
+machine purchased or installed at a state or local correctional
 facility;
-  ** NB Effective until August 31, 2023
-  ** (iii) Registration with the department of each body imaging
-scanning machine purchased or installed at a state or local correctional
-facility;
-  ** NB Effective August 31, 2023
   (iv) Inspection and regular reviews of the use of body imaging
 scanning equipment by the department or the New York city department of
 health and mental hygiene, as applicable; and
-  ** (v) A requirement that records be kept regarding each use of body
-imaging scanning equipment by the local correctional facility.
-  ** NB Effective until August 31, 2023
-  ** (v) A requirement that records be kept regarding each use of body
+  (v) A requirement that records be kept regarding each use of body
 imaging scanning equipment by the state or local correctional facility.
-  ** NB Effective August 31, 2023
   (d) For the purpose of this subdivision, "body imaging scanning
 equipment" or "equipment" means equipment that utilizes a low dose of
 ionizing radiation to produce an anatomical image capable of detecting
 objects placed on, attached to or secreted within a person's body.
-  ** (e) For the purposes of this subdivision, "local correctional
-facility" shall have the same meaning as found in subdivision sixteen of
-section two of the correction law.
-  ** NB Effective until August 31, 2023
-  ** (e) For the purposes of this subdivision:
+  (e) For the purposes of this subdivision:
   (i) " Local correctional facility" shall have the same meaning as
 found in subdivision sixteen of section two of the correction law.
   (ii) "State correctional facility" shall mean a "correctional
 facility" as defined in subdivision four of section two of the
 correction law.
-  ** NB Effective August 31, 2023
-  (f) ** Any local government agency that utilizes body imaging scanning
-equipment in a local correctional facility under its jurisdiction shall
-submit an annual report to the department, the speaker of the assembly,
-and the temporary president of the senate. Such report shall be
-submitted within eighteen months after the initial date of registration
-of such equipment with the department, and annually thereafter, and
-shall contain the following information as to each such facility:
-  ** NB Effective until August 31, 2023
-  ** Any local government agency that utilizes body imaging scanning
+  (f) Any local government agency that utilizes body imaging scanning
 equipment in a local correctional facility under its jurisdiction shall
 submit an annual report to the department, the speaker of the assembly,
 and the temporary president of the senate. If body imaging scanning
@@ -219,24 +163,13 @@ supervision shall be submitted within eighteen months after the initial
 date of registration of such equipment with the department, and annually
 thereafter, and shall contain the following information as to each such
 facility:
-  ** NB Effective August 31, 2023
-  ** (i) the number of times the equipment was used on incarcerated
-individuals upon intake, after visits, and upon the suspicion of
-contraband, as well as any other event that triggers the use of such
-equipment;
-  ** NB Effective until August 31, 2023
-  ** (i) For local correctional facilities, the number of times the
+  (i) For local correctional facilities, the number of times the
 equipment was used on incarcerated individuals upon intake, after
 visits, and upon the suspicion of contraband, as well as any other event
 that triggers the use of such equipment, and the average, median, and
 highest number of times the equipment was used on any incarcerated
 individual, with corresponding exposure levels; and
-  ** NB Effective August 31, 2023
-  ** (ii) the average, median, and highest number of times the equipment
-was used on any incarcerated individual, with corresponding exposure
-levels;
-  ** NB Effective until August 31, 2023
-  ** (ii) For state correctional facilities, the number of times the
+  (ii) For state correctional facilities, the number of times the
 equipment was used on individuals detained in, committed to, working in,
 or visiting the facility upon intake, before work shift, after work
 shift, before visits, after visits, and upon the suspicion of
@@ -244,7 +177,6 @@ contraband, as well as any other event that triggers the use of such
 equipment, and the average, median, and highest number of times the
 equipment was used on any individual detained in, committed to, working
 in, or visiting the facility, with corresponding exposure levels.
-  ** NB Effective August 31, 2023
   (iii) the number of times the use of the equipment detected the
 presence of drug contraband, weapon contraband, and any other illegal or
 impermissible object or substance;

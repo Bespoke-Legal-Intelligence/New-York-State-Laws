@@ -4,7 +4,7 @@
 [Insurance Law](../README.md) › [Article 32 — Insurance Contracts - Life, Accident and Health, Annuities](README.md)
 
 ```text
-  * § 3217-j. Utilization review determinations for medically fragile
+  § 3217-j. Utilization review determinations for medically fragile
 children. (a) Notwithstanding any inconsistent provision of the
 insurer's clinical standards, the insurer, and any utilization review
 agent under contract with such insurer, shall administer and apply the
@@ -54,5 +54,4 @@ agreement and to all claims submitted to, or payments made by, any other
 insurers, health maintenance organizations or payors making payment to
 the specialty care center pursuant to the provisions of that
 participation agreement.
-  * NB Effective September 1, 2023
 ```

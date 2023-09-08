@@ -8,7 +8,7 @@
 | Senate code | VOL |
 | Type | Consolidated law, chapter 64-A |
 | Sections | 59 |
-| Last changed | 12 May 2023 |
+| Last changed | 8 Sep 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Volunteer Firefighters' Benefit |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [8 Sep 2023](../../changes/2023/2023-09-08.md): 1 amended
 - [12 May 2023](../../changes/2023/2023-05-12.md): 1 amended
 - [16 Dec 2022](../../changes/2022/2022-12-16.md): 1 amended
 - [24 Dec 2021](../../changes/2021/2021-12-24.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [11 Nov 2016](../../changes/2016/2016-11-11.md): 1 amended
 - [8 Jul 2016](../../changes/2016/2016-07-08.md): 1 amended
 - [8 Apr 2016](../../changes/2016/2016-04-08.md): 1 amended
-- [10 Jul 2015](../../changes/2015/2015-07-10.md): 2 amended
 
 ## Contents
 

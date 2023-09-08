@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 44 — Health Maintenance Organizations](README.md)
 
 ```text
-  * § 4406-i. Utilization review determinations for medically fragile
+  § 4406-i. Utilization review determinations for medically fragile
 children. 1. Notwithstanding any inconsistent provision of the health
 maintenance organization's clinical standards, the health maintenance
 organization, and any utilization review agent under contract with such
@@ -88,5 +88,4 @@ apply to such participation agreement and to all claims submitted to, or
 payments made by, any other health maintenance organizations, insurers
 or payors making payment to the specialty care center pursuant to the
 provisions of that participation agreement.
-  * NB Effective September 1, 2023
 ```

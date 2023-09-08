@@ -4,9 +4,8 @@
 [Insurance Law](../README.md) › [Article 43 — Non-profit Medical and Dental Indemnity, or Health and Hospital Service Corporations](README.md)
 
 ```text
-  * § 4306-i. Coverage for medically fragile children. A corporation
-that is subject to the provisions of this article shall have procedures
-for coverage of medically fragile children consistent with section three
+  § 4306-i. Coverage for medically fragile children. A corporation that
+is subject to the provisions of this article shall have procedures for
+coverage of medically fragile children consistent with section three
 thousand two hundred seventeen-j of this chapter.
-  * NB Effective September 1, 2023
 ```
