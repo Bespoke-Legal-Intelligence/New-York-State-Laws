@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 4408", "kind": "section", "law_id": "EDN", "location_id": "4408", "path": "TITLE 6 › ARTICLE 89 › SECTION 4408", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/4408.md", "title": "Payment for July and August programs for students with disabilities"} -->
 # Education Law § 4408 — Payment for July and August programs for students with disabilities
 
-[Education Law](../../README.md) › [Title 6 — Special Schools and Instruction](../README.md) › [Article 89 — Children With Handicapping Conditions](README.md)
+[Education Law](../../README.md) › [Title 6 — Special Schools and Instruction](../README.md) › [Article 89 — Children With Disabilities](README.md)
 
 ```text
   § 4408. Payment for July and August programs for students with

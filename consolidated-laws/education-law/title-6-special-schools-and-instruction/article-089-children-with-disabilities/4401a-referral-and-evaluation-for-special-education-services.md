@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 4401-A", "kind": "section", "law_id": "EDN", "location_id": "4401-A", "path": "TITLE 6 › ARTICLE 89 › SECTION 4401-A", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/4401-A.md", "title": "Referral and evaluation for special education services or programs"} -->
 # Education Law § 4401-A — Referral and evaluation for special education services or programs
 
-[Education Law](../../README.md) › [Title 6 — Special Schools and Instruction](../README.md) › [Article 89 — Children With Handicapping Conditions](README.md)
+[Education Law](../../README.md) › [Title 6 — Special Schools and Instruction](../README.md) › [Article 89 — Children With Disabilities](README.md)
 
 ```text
   * § 4401-a. Referral and evaluation for special education services or

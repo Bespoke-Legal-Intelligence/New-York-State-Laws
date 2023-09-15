@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 4404-A", "kind": "section", "law_id": "EDN", "location_id": "4404-A", "path": "TITLE 6 › ARTICLE 89 › SECTION 4404-A", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/4404-A.md", "title": "Mediation program for students with disabilities"} -->
 # Education Law § 4404-A — Mediation program for students with disabilities
 
-[Education Law](../../README.md) › [Title 6 — Special Schools and Instruction](../README.md) › [Article 89 — Children With Handicapping Conditions](README.md)
+[Education Law](../../README.md) › [Title 6 — Special Schools and Instruction](../README.md) › [Article 89 — Children With Disabilities](README.md)
 
 ```text
   § 4404-a. Mediation program for students with disabilities. * 1. The

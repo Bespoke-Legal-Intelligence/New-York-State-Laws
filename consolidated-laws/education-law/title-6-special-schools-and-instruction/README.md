@@ -10,7 +10,7 @@
 - [Article 85 — Instruction of the Deaf and of the Blind](article-085-instruction-of-the-deaf/)
 - [Article 87 — New York State School For the Blind](article-087-new-york-state-school-for-the-blind/)
 - [Article 88 — New York State School For the Deaf](article-088-new-york-state-school-for-the-deaf/)
-- [Article 89 — Children With Handicapping Conditions](article-089-children-with-handicapping/)
+- [Article 89 — Children With Disabilities](article-089-children-with-disabilities/)
 - [Article 90 — Gifted Education](article-090-gifted-education/)
 - [Article 91 — School Camps](article-091-school-camps/)
 - [Article 93 — Career, Practical Arts, Continuing Adult Education and Vocational and Educational Guidance](article-093-career-practical-arts-continuing/)

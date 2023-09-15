@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [§ 450 Developmental disabilities planning council](450-developmental-disabilities-planning-council.md)
+- [§ 450 State council on developmental disabilities](450-state-council-on-developmental-disabilities.md)
 
 <details>
 <summary>Official heading of Article 19-D, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -13,7 +13,7 @@
 ```text
                               ARTICLE 19-D
                DEVELOPMENTAL DISABILITIES PLANNING COUNCIL
-Section 450.   Developmental disabilities planning council.
+Section 450. State council on developmental disabilities.
 ```
 
 </details>

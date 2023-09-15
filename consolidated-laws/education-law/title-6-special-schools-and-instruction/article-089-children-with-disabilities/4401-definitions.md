@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 4401", "kind": "section", "law_id": "EDN", "location_id": "4401", "path": "TITLE 6 › ARTICLE 89 › SECTION 4401", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/4401.md", "title": "Definitions"} -->
 # Education Law § 4401 — Definitions
 
-[Education Law](../../README.md) › [Title 6 — Special Schools and Instruction](../README.md) › [Article 89 — Children With Handicapping Conditions](README.md)
+[Education Law](../../README.md) › [Title 6 — Special Schools and Instruction](../README.md) › [Article 89 — Children With Disabilities](README.md)
 
 ```text
   § 4401. Definitions. As referred to in this article. * 1. A "child
@@ -118,20 +118,20 @@ disabilities who meet the eligibility criteria of that agency.
 mean the amount charged for room and board and allocable debt service as
 determined by the commissioner for the living unit of the residential
 facility by a residential school and such reasonable medical expenses
-actually and necessarily incurred by a handicapped child while actually
-in attendance at a residential school, provided that such medical
-expenses shall be for diagnostic, evaluative, educationally related, and
-emergency care services as defined by regulations of the commissioner.
-Such amount, which shall not include expenses which are otherwise
-reimbursable to a residential facility by a federal, state or local
-agency, shall be approved by the commissioner of social services and the
-director of the division of the budget and shall not be otherwise
-payable or reimbursable.
+actually and necessarily incurred by a child with disabilities while
+actually in attendance at a residential school, provided that such
+medical expenses shall be for diagnostic, evaluative, educationally
+related, and emergency care services as defined by regulations of the
+commissioner. Such amount, which shall not include expenses which are
+otherwise reimbursable to a residential facility by a federal, state or
+local agency, shall be approved by the commissioner of social services
+and the director of the division of the budget and shall not be
+otherwise payable or reimbursable.
   4. "Transportation expense." For the purposes of determining
 transportation aid pursuant to this article, "transportation expense"
 shall mean any cost incurred by the school district for the
-transportation of a handicapped child pursuant to the provisions of
-subdivision four of section forty-four hundred two of this article,
+transportation of a child with disabilities pursuant to the provisions
+of subdivision four of section forty-four hundred two of this article,
 notwithstanding any minimum or maximum aidable limits established by
 other provisions of the education law or pursuant to regulations of the
 commissioner or school district, allowed pursuant to the applicable

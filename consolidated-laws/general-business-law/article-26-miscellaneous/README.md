@@ -167,6 +167,7 @@
 - [§ 399-Q Use of carts, cases, trays, baskets, boxes and other containers](399q-use-of-carts-cases-trays-baskets-boxes-and-other-containers.md)
 - [§ 399-QQ Sale or promotional distribution of utility knives, box cutters, or box cart cutters](399qq-sale-or-promotional-distribution-of-utility-knives-box-cutters-or-box-cart.md)
 - [§ 399-R Sale of paint pellet guns](399r-sale-of-paint-pellet-guns.md)
+- [§ 399-RR September eleventh victim compensation fund and World Trade Center health program notification](399rr-september-eleventh-victim-compensation-fund-and-world-trade-center-health.md)
 - [§ 399-S Posting of notice when air rifles or guns are sold](399s-posting-of-notice-when-air-rifles-or-guns-are-sold.md)
 - [§ 399-T Sale of certain chlorofluorocarbons and halons prohibited](399t-sale-of-certain-chlorofluorocarbons-and-halons-prohibited.md)
 - [§ 399-T\*2 Vending machine disclosure](399t-2-vending-machine-disclosure.md)
@@ -424,6 +425,8 @@ Section 390.         Substitution of spurious oils for internal
         399-qq.      Sale or promotional distribution of utility knives,
                        box cutters, or box cart cutters.
         399-r.       Sale of paint pellet guns.
+        399-rr.      September eleventh victim compensation fund and
+                       World Trade Center health program notification.
         399-s.       Posting of notice when air rifles or guns are sold.
         399-t.       Sale of certain chlorofluorocarbons and halons
                        prohibited.

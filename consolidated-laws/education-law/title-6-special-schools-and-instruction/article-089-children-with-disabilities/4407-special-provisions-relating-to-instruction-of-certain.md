@@ -1,22 +1,21 @@
-﻿<!-- nyslaw {"citation": "Education Law § 4407", "kind": "section", "law_id": "EDN", "location_id": "4407", "path": "TITLE 6 › ARTICLE 89 › SECTION 4407", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/4407.md", "title": "Special provisions relating to instruction of certain children with handicapping conditions"} -->
-# Education Law § 4407 — Special provisions relating to instruction of certain children with handicapping conditions
+﻿<!-- nyslaw {"citation": "Education Law § 4407", "kind": "section", "law_id": "EDN", "location_id": "4407", "path": "TITLE 6 › ARTICLE 89 › SECTION 4407", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/4407.md", "title": "Special provisions relating to instruction of certain children with disabilities"} -->
+# Education Law § 4407 — Special provisions relating to instruction of certain children with disabilities
 
-[Education Law](../../README.md) › [Title 6 — Special Schools and Instruction](../README.md) › [Article 89 — Children With Handicapping Conditions](README.md)
+[Education Law](../../README.md) › [Title 6 — Special Schools and Instruction](../README.md) › [Article 89 — Children With Disabilities](README.md)
 
 ```text
   § 4407. Special provisions relating to instruction of certain children
-with handicapping conditions. 1. a. When it shall appear to the
-satisfaction of the department that a child with a handicapping
-condition is not receiving instruction because there are no appropriate
-public or private facilities for instruction of such a child within this
-state because of the unusual type of the handicap or combination of
-handicaps as certified by the commissioner, the school district of which
-each such pupil is a resident is authorized to contract with an
-educational facility located outside the state, which, in the judgment
-of the department, can meet the needs of such child for instruction.
-Contracts, rates, payments and reimbursements pursuant to this section
-shall be in accordance with section forty-four hundred five of this
-article.
+with disabilities. 1. When it shall appear to the satisfaction of the
+department that a child with a disability is not receiving instruction
+because there are no appropriate public or private facilities for
+instruction of such a child within this state because of the unusual
+type of the disability or combination of disabilities as certified by
+the commissioner, the school district of which each such pupil is a
+resident is authorized to contract with an educational facility located
+outside the state, which, in the judgment of the department, can meet
+the needs of such child for instruction. Contracts, rates, payments and
+reimbursements pursuant to this section shall be in accordance with
+section forty-four hundred five of this article.
   2. The state education department shall maintain a register of such
 educational facilities which are outside of the state which, after
 inspection, it deems qualified to meet the needs of certain children for

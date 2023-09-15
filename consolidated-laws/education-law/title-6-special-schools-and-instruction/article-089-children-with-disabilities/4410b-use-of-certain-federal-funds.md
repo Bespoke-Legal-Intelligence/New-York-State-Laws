@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 4410-B", "kind": "section", "law_id": "EDN", "location_id": "4410-B", "path": "TITLE 6 › ARTICLE 89 › SECTION 4410-B", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/4410-B.md", "title": "Use of certain federal funds"} -->
 # Education Law § 4410-B — Use of certain federal funds
 
-[Education Law](../../README.md) › [Title 6 — Special Schools and Instruction](../README.md) › [Article 89 — Children With Handicapping Conditions](README.md)
+[Education Law](../../README.md) › [Title 6 — Special Schools and Instruction](../README.md) › [Article 89 — Children With Disabilities](README.md)
 
 ```text
   § 4410-b. Use of certain federal funds. 1. Definitions. For purposes

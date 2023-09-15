@@ -371,6 +371,9 @@
 - [§ 344-N\*24 Portion of the state highway system to be designated as the "Trooper John J](344n-24-portion-of-the-state-highway-system-to-be-designated-as-the-trooper-john-j.md)
 - [§ 344-N\*25 Portion of the state highway system to be designated as the "Colonel Michael Plummer Memorial Highway"](344n-25-portion-of-the-state-highway-system-to-be-designated-as-the-colonel-michael.md)
 - [§ 344-N\*26 Portion of the state highway system to be designated as the "Sergeant Gary Beikirch Memorial Highway"](344n-26-portion-of-the-state-highway-system-to-be-designated-as-the-sergeant-gary.md)
+- [§ 344-O Portion of the state highway system to be designated as the "Zone Sergeant James G](344o-portion-of-the-state-highway-system-to-be-designated-as-the-zone-sergeant-james.md)
+- [§ 344-O\*2 Portion of the state highway system to be designated as the "Port Authority Police Officer Pavlos D](344o-2-portion-of-the-state-highway-system-to-be-designated-as-the-port-authority.md)
+- [§ 344-O\*3 Portion of the state highway system to be designated as the "Port Authority Police Officer Steven J](344o-3-portion-of-the-state-highway-system-to-be-designated-as-the-port-authority.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 
 <details>
@@ -1243,6 +1246,15 @@ Section 340-a.     Designation of state interstate routes.
                      as the "Colonel Michael Plummer Memorial Highway".
         344-n*26.  Portion of the state highway system to be designated
                      as the "Sergeant Gary Beikirch Memorial Highway".
+        344-o.     Portion of the state highway system to be designated
+                     as the "Zone Sergeant James G. Sweeney Memorial
+                     Bridge".
+        344-o*2.   Portion of the state highway system to be designated
+                     as the "Port Authority Police Officer Pavlos D.
+                     Pallas Memorial Bridge".
+        344-o*3.   Portion of the state highway system to be designated
+                     as the "Port Authority Police Officer Steven J.
+                     Tursellino Memorial Highway".
         345-a.     Abandonment and transfer of state highways.
 ```
 
