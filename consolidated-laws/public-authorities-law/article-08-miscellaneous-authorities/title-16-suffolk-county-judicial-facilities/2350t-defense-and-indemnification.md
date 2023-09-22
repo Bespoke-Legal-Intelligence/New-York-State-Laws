@@ -4,7 +4,7 @@
 [Public Authorities Law](../../README.md) › [Article 8 — Miscellaneous Authorities](../README.md) › [Title 16 — Suffolk County Judicial Facilities Agency](README.md)
 
 ```text
-  § 2350-t. Defense and indemnification. The agency shall not execute
+  * § 2350-t. Defense and indemnification. The agency shall not execute
 any of its powers except as necessary to commence its corporate
 existence, until it has elected to make the provision of section
 eighteen of the public officers law applicable to its employees (as such
@@ -13,4 +13,5 @@ to subdivision two of such section; provided, however, that nothing
 contained within this section shall be deemed to permit the agency to
 extend the provisions of section eighteen of the public officers law
 upon any independent contractor.
+  * NB Repealed December 31, 2023
 ```

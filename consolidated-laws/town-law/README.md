@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | TWN |
 | Type | Consolidated law, chapter 62 |
-| Sections | 360 |
-| Last changed | 7 Jul 2023 |
+| Sections | 361 |
+| Last changed | 22 Sep 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Town |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [22 Sep 2023](../../changes/2023/2023-09-22.md): 2 amended, 1 added
 - [7 Jul 2023](../../changes/2023/2023-07-07.md): 1 amended
 - [7 Apr 2023](../../changes/2023/2023-04-07.md): 1 amended
 - [2 Sep 2022](../../changes/2022/2022-09-02.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [22 Apr 2022](../../changes/2022/2022-04-22.md): 1 amended
 - [15 Apr 2022](../../changes/2022/2022-04-15.md): 1 amended
 - [8 Apr 2022](../../changes/2022/2022-04-08.md): 1 amended
-- [28 Jan 2022](../../changes/2022/2022-01-28.md): 1 amended
 
 ## Contents
 

@@ -4,7 +4,7 @@
 [Public Authorities Law](../../README.md) › [Article 8 — Miscellaneous Authorities](../README.md) › [Title 16 — Suffolk County Judicial Facilities Agency](README.md)
 
 ```text
-  § 2350-s. Audit, annual reports, and access to books, records, and
+  * § 2350-s. Audit, annual reports, and access to books, records, and
 accounts. 1. In conformity with the provisions of section five of
 article ten of the constitution, the accounts of the agency shall be
 subject to the supervision of the comptroller. The agency shall annually
@@ -114,4 +114,5 @@ investments and any other matters relating to its financial standing. In
 lieu of such an examination, the state comptroller is hereby authorized
 to accept from the agency an external examination of its books and
 accounts made at the request of the agency.
+  * NB Repealed December 31, 2023
 ```

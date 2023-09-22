@@ -4,7 +4,7 @@
 [Public Authorities Law](../../README.md) › [Article 8 — Miscellaneous Authorities](../README.md) › [Title 16 — Suffolk County Judicial Facilities Agency](README.md)
 
 ```text
-  § 2350-h. Remedies of bondholders. Subject to any resolution or
+  * § 2350-h. Remedies of bondholders. Subject to any resolution or
 resolutions adopted pursuant to paragraph (j) of subdivision five of
 section twenty-three hundred fifty-g of this title:
   1. In the event that the agency shall default in the payment of
@@ -69,4 +69,5 @@ trustee, the fees, counsel fees and expenses of the trustee and of the
 receiver, if any, shall constitute taxable disbursements and all costs
 and disbursements allowed by the court shall be a first charge on any
 revenue derived from the properties.
+  * NB Repealed December 31, 2023
 ```

@@ -36,6 +36,7 @@
 - [§ 203-C Employee privacy protection](203c-employee-privacy-protection.md)
 - [§ 203-D Employee personal identifying information](203d-employee-personal-identifying-information.md)
 - [§ 203-E Prohibition of discrimination based on an employee's or a dependent's reproductive health decision making](203e-prohibition-of-discrimination-based-on-an-employees-or-a-dependents-reproductive.md)
+- [§ 203-F Inventions made by employees](203f-inventions-made-by-employees.md)
 - [§ 204 Inspection of boilers; enforcement; fees; identification; exceptions](204-inspection-of-boilers-enforcement-fees-identification-exceptions.md)
 - [§ 204-B Refunds](204b-refunds.md)
 - [§ 205 Prohibition against eating meals in certain workrooms](205-prohibition-against-eating-meals-in-certain-workrooms.md)
@@ -71,6 +72,7 @@
 - [§ 219 Violations of certain wage payment provisions; interest, filing of order as judgment](219-violations-of-certain-wage-payment-provisions-interest-filing-of-order.md)
 - [§ 219-A Affirmation in lieu of oath](219a-affirmation-in-lieu-of-oath.md)
 - [§ 219-C Public notice of employer violations](219c-public-notice-of-employer-violations.md)
+- [§ 219-D Emergency alert notification system employer registration](219d-emergency-alert-notification-system-employer-registration.md)
 
 <details>
 <summary>Official heading of Article 7, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -124,6 +126,7 @@ Section 200.   General duty to protect health and safety of employees;
         203-d. Employee personal identifying information.
         203-e. Prohibition of discrimination based on an employee's or a
                  dependent's reproductive health decision making.
+        203-f. Inventions made by employees.
         204.   Inspection of boilers; enforcement; fees; identification;
                  exceptions.
         204-b. Refunds.
@@ -174,6 +177,8 @@ Section 200.   General duty to protect health and safety of employees;
                  filing of order as judgment.
         219-a. Affirmation in lieu of oath.
         219-c. Public notice of employer violations.
+        219-d. Emergency alert notification system employer
+                 registration.
 ```
 
 </details>

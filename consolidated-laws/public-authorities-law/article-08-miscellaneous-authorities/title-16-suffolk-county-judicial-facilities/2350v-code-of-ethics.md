@@ -4,8 +4,9 @@
 [Public Authorities Law](../../README.md) › [Article 8 — Miscellaneous Authorities](../README.md) › [Title 16 — Suffolk County Judicial Facilities Agency](README.md)
 
 ```text
-  § 2350-v. Code of ethics. 1. The agency shall be deemed a state agency
-for the purposes of section seventy-four of the public officers law.
+  * § 2350-v. Code of ethics. 1. The agency shall be deemed a state
+agency for the purposes of section seventy-four of the public officers
+law.
   2. Board members, officers and employees.
   (a) Notwithstanding the provisions of any general, special or local
 law, municipal charter or ordinance, no public officer or employee shall
@@ -50,4 +51,5 @@ requirements of the public authorities accountability act of 2005 as
 adopted by chapter seven hundred sixty-six of the laws of two thousand
 five and the public authorities reform act of 2009 as adopted by chapter
 five hundred six of the laws of two thousand nine.
+  * NB Repealed December 31, 2023
 ```

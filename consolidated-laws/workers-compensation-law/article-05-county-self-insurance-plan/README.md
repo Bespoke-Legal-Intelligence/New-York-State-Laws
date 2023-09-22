@@ -15,7 +15,7 @@
 - [§ 67 Annual estimate; payments by participants](67-annual-estimate-payments-by-participants.md)
 - [§ 68 Advances to county self-insurance fund](68-advances-to-county-self-insurance-fund.md)
 - [§ 69 Reserve](69-reserve.md)
-- [§ 70 Excess or catastrophe insurance](70-excess-or-catastrophe-insurance.md)
+- [§ 70 Excess or catastrophe insurance; public group self-insurance plans](70-excess-or-catastrophe-insurance-public-group-self-insurance-plans.md)
 - [§ 71 Accrual of liabilities](71-accrual-of-liabilities.md)
 - [§ 72 Annual report](72-annual-report.md)
 - [§ 73 Abandonment of plan](73-abandonment-of-plan.md)
@@ -39,13 +39,14 @@ Section 60.   Definitions.
         67.   Annual estimate; payments by participants.
         68.   Advances to county self-insurance fund.
         69.   Reserve.
-        70.   Excess or catastrophe insurance.
+        70.   Excess or catastrophe insurance; public group
+                self-insurance plans.
         71.   Accrual of liabilities.
         72.   Annual report.
         73.   Abandonment of plan.
         74.   Manner of adoption of local laws.
         75.   Transition provisions.
-        75-a.
+        75-a. (Enacted without section heading).
 ```
 
 </details>

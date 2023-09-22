@@ -4,7 +4,7 @@
 [Public Authorities Law](../../README.md) › [Article 8 — Miscellaneous Authorities](../README.md) › [Title 16 — Suffolk County Judicial Facilities Agency](README.md)
 
 ```text
-  § 2350-aa. Duties of finance and ways and means committees and
+  * § 2350-aa. Duties of finance and ways and means committees and
 secretaries. The committees and their secretaries shall have access at
 all reasonable times to the agency for the purpose of obtaining
 information as to the method of operation, general condition, management
@@ -16,4 +16,5 @@ exercise of their powers and duties and for the purpose of carrying into
 effect the provisions of this article. The finance and ways and means
 committee in exercising the powers and performing the duties prescribed
 by this article may act jointly, or separately, as they deem advisable.
+  * NB Repealed December 31, 2023
 ```

@@ -26,6 +26,7 @@
 - [§ 119-A Attachments to utility poles; use of utility ducts, trenches and conduits](119a-attachments-to-utility-poles-use-of-utility-ducts-trenches-and-conduits.md)
 - [§ 119-B Protection of underground facilities](119b-protection-of-underground-facilities.md)
 - [§ 119-C Tax reduction benefit to ratepayers](119c-tax-reduction-benefit-to-ratepayers.md)
+- [§ 119-D Maintenance of utility poles](119d-maintenance-of-utility-poles.md)
 
 <details>
 <summary>Official heading of Article 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -65,6 +66,7 @@ Section 105.   Purposes of article.
                  trenches and conduits.
         119-b. Protection of underground facilities.
         119-c. Tax reduction benefit to ratepayers.
+        119-d. Maintenance of utility poles.
 ```
 
 </details>

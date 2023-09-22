@@ -26,6 +26,7 @@
 - [§ 2018-B Absentee ballots for school district elections by poll registration](2018b-absentee-ballots-for-school-district-elections.md)
 - [§ 2018-C Additional voting procedures](2018c-additional-voting-procedures.md)
 - [§ 2018-D Military voters](2018d-military-voters.md)
+- [§ 2018-E Early mail ballots for school district elections](2018e-early-mail-ballots-for-school-district.md)
 - [§ 2019 Declaration in case of challenge of voter](2019-declaration-in-case-of-challenge-of-voter.md)
 - [§ 2019-A Voting by persons whose names are not in the registration poll ledgers](2019a-voting-by-persons-whose-names-are-not.md)
 - [§ 2020 Penalty for false declaration or unauthorized vote](2020-penalty-for-false-declaration-or-unauthorized.md)
@@ -88,6 +89,9 @@ Section 2001.     Notice of first meeting of district.
                     registration.
         2018-c.   Additional voting procedures.
         2018-d.   Military voters.
+        2018-e.   Early mail ballots for school district elections.
+        2018-f.   Early mail ballots for school district elections by
+                    poll registration.
         2019.     Declaration in case of challenge of voter.
         2019-a.   Voting by persons whose names are not in the
                     registration poll ledgers.

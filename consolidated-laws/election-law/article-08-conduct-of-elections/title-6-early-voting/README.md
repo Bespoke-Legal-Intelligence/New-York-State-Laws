@@ -7,6 +7,7 @@
 
 - [§ 8-600 Early voting](8-600-early-voting.md)
 - [§ 8-602 State board of elections; powers and duties for early voting](8-602-state-board-of-elections-powers-and-duties-for-early-voting.md)
+- [§ 8-604 Registration during early voting](8-604-registration-during-early-voting.md)
 
 <details>
 <summary>Official heading of Title 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -17,6 +18,7 @@
 Section 8-600. Early voting.
         8-602. State board of elections; powers and duties for early
                  voting.
+        8-604. Registration during early voting.
 ```
 
 </details>

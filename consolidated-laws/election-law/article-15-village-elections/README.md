@@ -15,6 +15,7 @@
 - [§ 15-114 Number of voting machines](15-114-number-of-voting-machines.md)
 - [§ 15-116 Inspectors of election](15-116-inspectors-of-election.md)
 - [§ 15-118 Registration of voters](15-118-registration-of-voters.md)
+- [§ 15-119 Early mail voting at village elections](15-119-early-mail-voting-at-village-elections.md)
 - [§ 15-120 Absentee voting at village elections](15-120-absentee-voting-at-village-elections.md)
 - [§ 15-122 Absentee voting at village elections for persons unable to appear because of illness or physical disability](15-122-absentee-voting-at-village-elections-for-persons-unable-to-appear-because.md)
 - [§ 15-124 Duties of village clerk](15-124-duties-of-village-clerk.md)
@@ -42,6 +43,7 @@ Section 15-100. Application of article.
         15-114. Number of voting machines.
         15-116. Inspectors of election.
         15-118. Registration of voters.
+        15-119. Early mail voting at village elections.
         15-120. Absentee voting at village elections.
         15-122. Absentee voting at village elections for persons unable
                   to appear because of illness or physical disability.

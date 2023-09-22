@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 926-O", "kind": "section", "law_id": "GMU", "location_id": "926-O", "path": "ARTICLE 18-A › TITLE 2 › SECTION 926-O", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/926-O.md", "title": "Town of Niagara industrial development agency"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 926-O", "kind": "section", "law_id": "GMU", "location_id": "926-O", "path": "ARTICLE 18-A › TITLE 2 › SECTION 926-O", "repealed": true, "repealed_date": "2023-09-22", "source": "nys-laws:GMU/926-O.md", "title": "Town of Niagara industrial development agency"} -->
 # General Municipal Law § 926-O — Town of Niagara industrial development agency
 
 [General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 2 — Municipal Industrial Development Agencies](README.md)
+
+**Repealed** (22 Sep 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 926-o. Town of Niagara industrial development agency. For the

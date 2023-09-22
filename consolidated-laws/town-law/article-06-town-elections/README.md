@@ -11,6 +11,7 @@
 - [§ 83 Conduct of town elections](83-conduct-of-town-elections.md)
 - [§ 84 Qualifications of electors at town elections](84-qualifications-of-electors-at-town-elections.md)
 - [§ 84-A Absentee ballots for special town elections; special provisions](84a-absentee-ballots-for-special-town-elections-special-provisions.md)
+- [§ 84-B Early mail ballots for special town elections; special provisions](84b-early-mail-ballots-for-special-town-elections-special-provisions.md)
 - [§ 85 Ward system for election of council members](85-ward-system-for-election-of-council-members.md)
 - [§ 86 Town elections in the county of Broome](86-town-elections-in-the-county-of-broome.md)
 - [§ 87 Increase or decrease of number of council members](87-increase-or-decrease-of-number-of-council-members.md)
@@ -28,6 +29,8 @@ Section 80.   Biennial town elections.
         83.   Conduct of town elections.
         84.   Qualifications of electors at town elections.
         84-a. Absentee ballots for special town elections; special
+                provisions.
+        84-b. Early mail ballots for special town elections; special
                 provisions.
         85.   Ward system for election of council members.
         86.   Town elections in the county of Broome.

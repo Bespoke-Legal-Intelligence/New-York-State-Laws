@@ -11,6 +11,7 @@
 - [Title 4 — Absentee Voting](title-4-absentee-voting/)
 - [Title 5 — Challenging Voters](title-5-challenging-voters/)
 - [Title 6 — Early Voting](title-6-early-voting/)
+- [Title 7 — Early Mail Voting](title-7-early-mail-voting/)
 
 <details>
 <summary>Official heading of Article 8, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -24,6 +25,7 @@ Title   I. Polling places.
        IV. Absentee voting.
         V. Challenging voters.
        VI. Early voting.
+      VII. Early mail voting.
 ```
 
 </details>

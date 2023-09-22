@@ -42,7 +42,7 @@
 <summary>Official heading of Title 16, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                TITLE 16
+                               * TITLE 16
                 SUFFOLK COUNTY JUDICIAL FACILITIES AGENCY
 Section 2350-a.  Short title.
         2350-b.  Definitions.
@@ -78,6 +78,7 @@ Section 2350-a.  Short title.
         2350-dd. Jurisdiction of state inspector general.
         2350-ee. Disposal of agency property.
         2350-ff. Filings to be made with the agency.
+          * NB Repealed December 31, 2023
 ```
 
 </details>

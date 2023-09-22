@@ -123,7 +123,7 @@
 - [§ 926 City of Syracuse industrial development agency](926-city-of-syracuse-industrial-development-agency.md)
 - [§ 926-D City of Middletown industrial development agency](926d-city-of-middletown-industrial-development-agency.md)
 - [§ 926-I Village of Groton industrial development agency](926i-village-of-groton-industrial-development-agency.md)
-- [§ 926-O Town of Niagara industrial development agency](926o-town-of-niagara-industrial-development-agency.md)
+- [§ 926-O Town of Niagara industrial development agency](926o-town-of-niagara-industrial-development-agency.md) *(repealed)*
 - [§ 926-R Hamilton county industrial development agency](926r-hamilton-county-industrial-development-agency.md)
 - [§ 927 Town of Mount Pleasant industrial development agency](927-town-of-mount-pleasant-industrial-development-agency.md)
 - [§ 927-A Town of North Greenbush industrial development agency](927a-town-of-north-greenbush-industrial-development-agency.md)
@@ -257,13 +257,11 @@ Section 890.     Wayne county industrial development agency.
         925-p.   Town of Riverhead industrial development agency.
         925-p*2. Town of Clifton Park industrial development agency.
         925-r.   Town of Hamptonburgh industrial development agency.
-        925-t.   Town of Concord industrial development agency.
         925-v.   Town of Hamburg industrial development agency.
         925-z.   Town of Waterford industrial development agency.
         926.     City of Syracuse industrial development agency.
         926-d.   City of Middletown industrial development agency.
         926-i.   Village of Groton industrial development agency.
-        926-o.   Town of Niagara industrial development agency.
         926-r.   Hamilton county industrial development agency.
         927.     Town of Mount Pleasant industrial development agency.
         927-a.   Town of North Greenbush industrial development agency.

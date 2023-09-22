@@ -8,7 +8,7 @@
 | Senate code | CPL |
 | Type | Consolidated law, chapter 11-A |
 | Sections | 587 |
-| Last changed | 21 Jul 2023 |
+| Last changed | 22 Sep 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Criminal Procedure |
 
@@ -33,6 +33,7 @@ Became a law May 20, 1970, with the approval of the Governor.  Passed by
 
 ## Recent changes
 
+- [22 Sep 2023](../../changes/2023/2023-09-22.md): 2 amended
 - [21 Jul 2023](../../changes/2023/2023-07-21.md): 1 amended
 - [7 Jul 2023](../../changes/2023/2023-07-07.md): 1 amended
 - [30 Jun 2023](../../changes/2023/2023-06-30.md): 2 amended, 1 added
@@ -42,7 +43,6 @@ Became a law May 20, 1970, with the approval of the Governor.  Passed by
 - [10 Mar 2023](../../changes/2023/2023-03-10.md): 2 amended
 - [21 Oct 2022](../../changes/2022/2022-10-21.md): 1 amended
 - [2 Sep 2022](../../changes/2022/2022-09-02.md): 2 amended
-- [29 Jul 2022](../../changes/2022/2022-07-29.md): 1 amended
 
 ## Contents
 

@@ -4,7 +4,8 @@
 [Public Authorities Law](../../README.md) › [Article 8 — Miscellaneous Authorities](../README.md) › [Title 16 — Suffolk County Judicial Facilities Agency](README.md)
 
 ```text
-  § 2350-w. Equal employment opportunity. The authority shall ensure
+  * § 2350-w. Equal employment opportunity. The authority shall ensure
 that all employees or applicants for employment are afforded equal
 employment opportunity without discrimination.
+  * NB Repealed December 31, 2023
 ```

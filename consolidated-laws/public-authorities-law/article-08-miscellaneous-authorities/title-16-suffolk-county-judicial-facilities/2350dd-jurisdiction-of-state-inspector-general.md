@@ -4,7 +4,8 @@
 [Public Authorities Law](../../README.md) › [Article 8 — Miscellaneous Authorities](../README.md) › [Title 16 — Suffolk County Judicial Facilities Agency](README.md)
 
 ```text
-  § 2350-dd. Jurisdiction of state inspector general. The agency is
+  * § 2350-dd. Jurisdiction of state inspector general. The agency is
 subject to the jurisdiction of the office of the state inspector
 general.
+  * NB Repealed December 31, 2023
 ```

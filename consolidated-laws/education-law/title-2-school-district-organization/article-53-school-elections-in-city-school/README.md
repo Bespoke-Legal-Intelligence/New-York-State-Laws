@@ -39,7 +39,7 @@ Section 2601.   Application of article.
         2610.   Canvass of votes and return to board of education;
                   declaration of result.
         2611.   Use of voting machines.
-        2613.   Absentee and military ballots.
+        2613.   Absentee, early mail, and military ballots.
 ```
 
 </details>

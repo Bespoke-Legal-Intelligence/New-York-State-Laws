@@ -4,7 +4,7 @@
 [Public Authorities Law](../../README.md) › [Article 8 — Miscellaneous Authorities](../README.md) › [Title 16 — Suffolk County Judicial Facilities Agency](README.md)
 
 ```text
-  § 2350-c. Suffolk county judicial facilities agency. 1. A public
+  * § 2350-c. Suffolk county judicial facilities agency. 1. A public
 corporation, to be known as the "Suffolk county judicial facilities
 agency" is hereby created for the public purposes and charged with the
 duties and having the powers provided in this title. The agency shall be
@@ -99,4 +99,5 @@ benefit of the people of the state for the improvement of their health,
 welfare and prosperity and that such purposes are public purposes and
 that the agency is and will be performing an essential governmental
 function in the exercise of the powers conferred upon it by this title.
+  * NB Repealed December 31, 2023
 ```

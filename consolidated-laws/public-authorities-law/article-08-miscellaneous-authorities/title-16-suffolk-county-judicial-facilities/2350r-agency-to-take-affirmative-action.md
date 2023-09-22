@@ -4,9 +4,10 @@
 [Public Authorities Law](../../README.md) › [Article 8 — Miscellaneous Authorities](../README.md) › [Title 16 — Suffolk County Judicial Facilities Agency](README.md)
 
 ```text
-  § 2350-r. Agency to take affirmative action. For the purpose of
+  * § 2350-r. Agency to take affirmative action. For the purpose of
 article fifteen-a of the executive law only, the agency shall be deemed
 a state agency as that term is used in such article, and its contracts
 for design, construction, services and materials shall be deemed state
 contracts within the meaning of that term as set forth in such article.
+  * NB Repealed December 31, 2023
 ```

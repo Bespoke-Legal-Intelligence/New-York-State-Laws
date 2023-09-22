@@ -4,7 +4,7 @@
 [Public Authorities Law](../../README.md) › [Article 8 — Miscellaneous Authorities](../README.md) › [Title 16 — Suffolk County Judicial Facilities Agency](README.md)
 
 ```text
-  § 2350-e. Governmental capacity of the agency and the county. The
+  * § 2350-e. Governmental capacity of the agency and the county. The
 agency and the county, in carrying out their respective powers and
 duties under this title, shall be deemed to be acting in a governmental
 capacity and in the performance of an essential governmental function.
@@ -44,4 +44,5 @@ including personnel functions ancillary thereto, the agency shall be
 considered a political subdivision of the state and shall be eligible to
 receive all state aid for the H. Lee Dennison building and the North
 County Complex to the same extent as the county.
+  * NB Repealed December 31, 2023
 ```

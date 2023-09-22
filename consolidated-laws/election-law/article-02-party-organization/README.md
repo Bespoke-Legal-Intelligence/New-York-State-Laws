@@ -17,6 +17,8 @@
 - [§ 2-118 Committees; vacancies, how filled and effect of change of boundaries](2-118-committees-vacancies-how-filled-and-effect-of-change-of-boundaries.md)
 - [§ 2-120 Party positions; to be filled at primary election, time for filing statement as to](2-120-party-positions-to-be-filled-at-primary-election-time-for-filing-statement.md)
 - [§ 2-122 National party conventions; delegates, election](2-122-national-party-conventions-delegates-election.md)
+- [§ 2-122-A National convention; national party conference](2-122-a-national-convention-national-party-conference.md)
+- [§ 2-122-B Presidential primary](2-122-b-presidential-primary.md)
 - [§ 2-124 Party names and emblems; provision for](2-124-party-names-and-emblems-provision.md)
 
 <details>
@@ -39,6 +41,8 @@ Section 2-100.   Party committees; provision for.
         2-120.   Party positions; to be filled at primary election, time
                    for filing statement as to.
         2-122.   National party conventions; delegates, election.
+        2-122-a. National convention; national party conference.
+        2-122-b. Presidential primary.
         2-124.   Party names and emblems; provision for.
 ```
 
