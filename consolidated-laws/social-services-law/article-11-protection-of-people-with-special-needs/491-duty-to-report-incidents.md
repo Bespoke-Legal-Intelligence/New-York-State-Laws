@@ -34,6 +34,11 @@ privilege which would otherwise bar the disclosure of such materials and
 records pursuant to article forty-five of the civil practice law and
 rules or other provision of law except applicable federal law governing
 the disclosure of patient and related medical records.
+  (d) Every mandated reporter is required to make a report to the
+register as outlined in paragraph (b) of this subdivision unless (i) the
+reporter has actual knowledge that the reportable incident has been
+reported to the register; and (ii) that the reporter has been named as a
+person with knowledge of the incident in such prior report.
   2. Any person or official required to report allegations of reportable
 incidents pursuant to this section may take or cause to be taken color
 photographs of visible trauma and the face of the vulnerable person

@@ -4,11 +4,10 @@
 [Real Property Tax Law](../../README.md) › [Article 4 — Exemptions](../README.md) › [Title 4-C — Solar Electric Generating System and Electric Energy Storage Equipment Tax Abatement For Certain Properties In a City of One Million or More Persons](README.md)
 
 ```text
-  § 499-cccc. Application for tax abatement. 1. To obtain a tax
+  § 499-cccc. Application for tax abatement.  1. To obtain a tax
 abatement pursuant to this title, an applicant must file an application
 for tax abatement, which may be filed on or after January first, two
-thousand nine, and on or before March fifteenth, two thousand
-twenty-four.
+thousand nine, and on or before January first, two thousand thirty-six.
   2. Such application shall be filed with a designated agency no later
 than the March fifteenth before the first tax year, beginning July
 first, for which the tax abatement is sought.

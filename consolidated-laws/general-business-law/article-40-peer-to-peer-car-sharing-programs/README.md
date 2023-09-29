@@ -32,7 +32,7 @@
 ```text
                                ARTICLE 40
                     PEER-TO-PEER CAR SHARING PROGRAMS
-Section 900. Liscensing.
+Section 900. Definitions.
         901. Requirements for doing business.
         902. Program liability.
         903. Lien implications; notification.

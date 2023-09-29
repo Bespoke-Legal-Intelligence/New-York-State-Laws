@@ -30,6 +30,7 @@
 - [§ 1266-K Expired fare transfer policy](1266k-expired-fare-transfer-policy.md)
 - [§ 1266-L Surveillance cameras; subway stations](1266l-surveillance-cameras-subway-stations.md)
 - [§ 1266-L\*2 Light duty for employees](1266l-2-light-duty-for-employees.md)
+- [§ 1266-M Information concerning services for human trafficking victims](1266m-information-concerning-services-for-human.md)
 - [§ 1267 Acquisition and disposition of real property](1267-acquisition-and-disposition-of-real-property.md)
 - [§ 1267-A Acquisition and disposition of real property by department of transportation](1267a-acquisition-and-disposition-of-real-property.md)
 - [§ 1267-B Transit facilities for transit construction fund](1267b-transit-facilities-for-transit-construction.md)
@@ -115,6 +116,8 @@ Section 1260.     Short title.
         1266-k.   Expired fare transfer policy.
         1266-l.   Surveillance cameras; subway stations.
         1266-l*2. Light duty for employees.
+        1266-m.   Information concerning services for human trafficking
+                    victims.
         1267.     Acquisition and disposition of real property.
         1267-a.   Acquisition and disposition of real property by
                     department of transportation.

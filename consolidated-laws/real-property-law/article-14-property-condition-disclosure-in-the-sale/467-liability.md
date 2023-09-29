@@ -4,7 +4,8 @@
 [Real Property Law](../README.md) › [Article 14 — Property Condition Disclosure In the Sale of Residential Real Property](README.md)
 
 ```text
-  § 467. Liability. Nothing contained in this article shall be construed
-as limiting any existing legal cause of action or remedy at law, in
-statute or in equity.
+  * § 467. Liability. Nothing contained in this article shall be
+construed as limiting any existing legal cause of action or remedy at
+law, in statute or in equity.
+  * NB Repealed March 20, 2024
 ```
