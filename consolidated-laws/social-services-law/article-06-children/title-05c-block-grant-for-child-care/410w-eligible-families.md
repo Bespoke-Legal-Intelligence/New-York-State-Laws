@@ -4,56 +4,9 @@
 [Social Services Law](../../README.md) › [Article 6 — Children](../README.md) › [Title 5-C — Block Grant For Child Care](README.md)
 
 ```text
-  § 410-w. Eligible families. * 1. A social services district may use
-the funds allocated to it from the block grant to provide child care
+  § 410-w. Eligible families.  1. A social services district may use the
+funds allocated to it from the block grant to provide child care
 assistance to:
-  (a) families receiving public assistance when such child care
-assistance is necessary: to enable a parent or caretaker relative to
-engage in work, participate in work activities or perform a community
-service pursuant to title nine-B of article five of this chapter; to
-enable a teenage parent to attend high school or other equivalent
-training program; because the parent or caretaker relative is physically
-or mentally incapacitated; or because family duties away from home
-necessitate the parent or caretaker relative's absence; child day care
-shall be provided during breaks in activities, for a period of up to two
-weeks. Such child day care may be authorized for a period of up to one
-month if child care arrangements shall be lost if not continued, and the
-program or employment is scheduled to begin within such period;
-  (b) families with incomes up to two hundred percent of the state
-income standard, or three hundred percent of the state income standard
-effective August first, two thousand twenty-two who are attempting
-through work activities to transition off of public assistance when such
-child care is necessary in order to enable a parent or caretaker
-relative to engage in work provided such families' public assistance has
-been terminated as a result of increased hours of or income from
-employment or increased income from child support payments or the family
-voluntarily ended assistance; provided that the family received public
-assistance at least three of the six months preceding the month in which
-eligibility for such assistance terminated or ended or provided that
-such family has received child care assistance under subdivision four of
-this section; and provided, the family income does not exceed
-eighty-five percent of the state median income;
-  (c) families with incomes up to two hundred percent of the state
-income standard, or three hundred percent of the state income standard
-effective August first, two thousand twenty-two, which are determined in
-accordance with the regulations of the department to be at risk of
-becoming dependent on family assistance; provided, the family income
-does not exceed eighty-five percent of the state median income;
-  (d) families with incomes up to two hundred percent of the state
-income standard, or three hundred percent of the state income standard
-effective August first, two thousand twenty-two, who are attending a
-post secondary educational program; provided, the family income does not
-exceed eighty-five percent of the state median income; and
-  (e) other families with incomes up to two hundred percent of the state
-income standard, or three hundred percent of the state income standard
-effective August first, two thousand twenty-two, which the social
-services district designates in its consolidated services plan as
-eligible for child care assistance in accordance with criteria
-established by the department; provided, the family income does not
-exceed eighty-five percent of the state median income.
-  * NB Effective until October 1, 2023
-  * 1. A social services district may use the funds allocated to it from
-the block grant to provide child care assistance to:
   (a) families receiving public assistance when such child care
 assistance is necessary: to enable a parent or caretaker relative to
 engage in work, participate in work activities or perform a community
@@ -85,41 +38,13 @@ median income, who are attending a post secondary educational program;
 and
   (e) other families with incomes up to eighty-five percent of the state
 median income in accordance with criteria established by the department.
-  * NB Effective October 1, 2023
   2. For the purposes of this title, the term "state income standard"
 means the most recent federal income official poverty line (as defined
 and annually revised by the federal office of management and budget)
 updated by the department for a family size of four and adjusted by the
 department for family size.
-  * 3. A social services district shall guarantee child care assistance
-to families in receipt of public assistance with children under thirteen
-years of age when such child care assistance is necessary for a parent
-or caretaker relative to engage in work or participate in work
-activities pursuant to the provisions of title nine-B of article five of
-this chapter. Child care assistance shall continue to be guaranteed for
-such a family for a period of twelve months or, upon approval by the
-office, may be provided by a social services district for a period up to
-twenty-four months, after the month in which the family's eligibility
-for public assistance has terminated or ended when such child care is
-necessary in order to enable the parent or caretaker relative to engage
-in work, provided that the family's public assistance has been
-terminated as a result of an increase in the hours of or income from
-employment or increased income from child support payments or because
-the family voluntarily ended assistance; that the family received public
-assistance in at least three of the six months preceding the month in
-which eligibility for such assistance terminated or ended or provided
-that such family has received child care assistance under subdivision
-four of this section; that the family's income does not exceed two
-hundred percent of the state income standard, or three hundred percent
-of the state income standard effective August first, two thousand
-twenty-two; and that the family income does not exceed eighty-five
-percent of the state median income. Such child day care shall recognize
-the need for continuity of care for the child and a district shall not
-move a child from an existing provider unless the participant consents
-to such move.
-  * NB Effective until October 1, 2023
-  * 3. A social services district shall guarantee child care assistance
-to families in receipt of public assistance with children under thirteen
+  3. A social services district shall guarantee child care assistance to
+families in receipt of public assistance with children under thirteen
 years of age when such child care assistance is necessary for a parent
 or caretaker relative to engage in work or participate in work
 activities pursuant to the provisions of title nine-B of article five of
@@ -141,7 +66,6 @@ eighty-five percent of the state median income. Such child day care
 shall recognize the need for continuity of care for the child and a
 district shall not move a child from an existing provider unless the
 participant consents to such move.
-  * NB Effective October 1, 2023
   * 3-a. A local social services district may, upon notification to the
 office, utilize a presumptive eligibility standard to provide child care
 assistance, in accordance with this subdivision. The office of children
@@ -210,25 +134,8 @@ the earned income of a dependent child under the age of eighteen, who is
 not legally responsible for the child or children for which child care
 assistance is sought, shall be disregarded when determining the
 eligibility of a household for a child care subsidy.
-  * 8. Notwithstanding any other provision of law, rule or regulations
-to the contrary, a social services district that implements a plan
-amendment to the child care portion of its child and family services
-plan, either as part of an annual plan update, or through a separate
-plan amendment process, where such amendment reduces eligibility for, or
-increases the family share percentage of, families receiving child care
-services, or that implements the process for closing child care cases as
-set forth in the district's approved child and family services plan, due
-to the district determining that it cannot maintain its current caseload
-because all of the available funds are projected to be needed for open
-cases, shall provide all families whose eligibility for child care
-assistance or family share percentage will be impacted by such action
-with at least thirty days prior written notice of the action. Provided,
-however, that a family receiving assistance pursuant to this title shall
-not be required to contribute more than ten percent of their income
-exceeding the federal poverty level.
-  * NB Effective until October 1, 2023
-  * 8. Notwithstanding any other provision of law, rule or regulations
-to the contrary, a social services district that implements a plan
+  8. Notwithstanding any other provision of law, rule or regulations to
+the contrary, a social services district that implements a plan
 amendment to the child care portion of its child and family services
 plan, either as part of an annual plan update, or through a separate
 plan amendment process, where such amendment reduces eligibility for, or
@@ -243,7 +150,6 @@ with at least thirty days prior written notice of the action. Provided,
 however, that a family receiving assistance pursuant to this title shall
 not be required to contribute more than one percent of their income
 exceeding the federal poverty level.
-  * NB Effective October 1, 2023
   9. Parents and caretakers who are otherwise eligible for child care
 assistance, and provided with such assistance, shall be able to utilize
 the assistance when care is necessary to enable them to sleep because
@@ -251,16 +157,9 @@ they work non-traditional hours and have a child who is under the age of
 six and not in school for a full school day. The authorization for child
 care assistance shall be sufficient to allow the parent to obtain up to
 eight hours of sleep, as needed.
-  * 10. For the purposes of this section, the term "state median income"
+  10. For the purposes of this title, the term "state median income"
 means the most recent state median income data published by the bureau
 of the census, for a family of the same size, updated by the department
 for a family size of four and adjusted by the department for family
 size.
-  * NB Effective until October 1, 2023
-  * 10. For the purposes of this title, the term "state median income"
-means the most recent state median income data published by the bureau
-of the census, for a family of the same size, updated by the department
-for a family size of four and adjusted by the department for family
-size.
-  * NB Effective October 1, 2023
 ```

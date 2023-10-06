@@ -10,6 +10,7 @@
 - [§ 1 Definitions](01-definitions.md)
 - [§ 2 Department of veterans' services](02-department-of-veterans-services.md)
 - [§ 3 Veterans' services commission](03-veterans-services-commission.md)
+- [§ 3-A Veterans employment task force](03a-veterans-employment-task-force.md)
 - [§ 4 General functions, powers and duties of department](04-general-functions-powers-and-duties-of-department.md)
 - [§ 5 Veteran speaker education program](05-veteran-speaker-education-program.md)
 - [§ 6 Cooperation and facilities of other departments](06-cooperation-and-facilities-of-other-departments.md)
@@ -48,6 +49,7 @@
 Section 1.      Definitions.
         2.      Department of veterans' services.
         3.      Veterans' services commission.
+        3-a.    Veterans employment task force.
         4.      General functions, powers and duties of department.
         5.      Veteran speaker education program.
         6.      Cooperation and facilities of other departments.

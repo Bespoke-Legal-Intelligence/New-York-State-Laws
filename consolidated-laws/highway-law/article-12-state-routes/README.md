@@ -374,7 +374,16 @@
 - [§ 344-O Portion of the state highway system to be designated as the "Zone Sergeant James G](344o-portion-of-the-state-highway-system-to-be-designated-as-the-zone-sergeant-james.md)
 - [§ 344-O\*2 Portion of the state highway system to be designated as the "Port Authority Police Officer Pavlos D](344o-2-portion-of-the-state-highway-system-to-be-designated-as-the-port-authority.md)
 - [§ 344-O\*3 Portion of the state highway system to be designated as the "Port Authority Police Officer Steven J](344o-3-portion-of-the-state-highway-system-to-be-designated-as-the-port-authority.md)
+- [§ 344-O\*4 Portion of the state highway system to be designated as the "Trooper Lawrence P](344o-4-portion-of-the-state-highway-system-to-be-designated-as-the-trooper-lawrence-p.md)
+- [§ 344-O\*5 Portion of the state highway system to be designated as the "Deputy Chief Brian Buell Memorial Bridge"](344o-5-portion-of-the-state-highway-system-to-be-designated-as-the-deputy-chief-brian.md)
+- [§ 344-O\*6 Portion of the state highway system to be designated as the "Captain Kenneth Sgroi Memorial Highway"](344o-6-portion-of-the-state-highway-system-to-be-designated-as-the-captain-kenneth.md)
+- [§ 344-O\*7 Portion of the state highway system to be designated as the "Trooper James R](344o-7-portion-of-the-state-highway-system-to-be-designated-as-the-trooper-james-r.md)
+- [§ 344-O\*8 Portion of the state highway system to be designated as the "Trooper William P](344o-8-portion-of-the-state-highway-system-to-be-designated-as-the-trooper-william-p.md)
+- [§ 344-O\*9 Portion of the state highway system to be designated as the "Trooper Theodore A](344o-9-portion-of-the-state-highway-system-to-be-designated-as-the-trooper-theodore.md)
+- [§ 344-O\*10 Portion of the state highway system to be designated as the "Firefighter Peyton L](344o-10-portion-of-the-state-highway-system-to-be-designated-as-the-firefighter-peyton-l.md)
+- [§ 344-O\*11 Portion of the state highway system to be designated as the "Trooper Fabio Buttitta Memorial Bridge"](344o-11-portion-of-the-state-highway-system-to-be-designated-as-the-trooper-fabio.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
+- [§ 345-B Portion of the state highway system to be designated as the "Doc Schelin Memorial Highway"](345b-portion-of-the-state-highway-system-to-be-designated-as-the-doc-schelin-memorial.md)
 
 <details>
 <summary>Official heading of Article 12, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -1255,7 +1264,27 @@ Section 340-a.     Designation of state interstate routes.
         344-o*3.   Portion of the state highway system to be designated
                      as the "Port Authority Police Officer Steven J.
                      Tursellino Memorial Highway".
+        344-o*4.   Portion of the state highway system to be designated
+                     as the "Trooper Lawrence P. Gleason Memorial
+                     Bridge".
+        344-o*5.   Portion of the state highway system to be designated
+                     as the "Deputy Chief Brian Buell Memorial Bridge".
+        344-o*6.   Portion of the state highway system to be designated
+                     as the "Captain Kenneth Sgroi Memorial Highway".
+        344-o*7.   Portion of the state highway system to be designated
+                     as the "Trooper James R. Gohery Memorial Bridge".
+        344-o*8.   Portion of the state highway system to be designated
+                     as the "Trooper William P. Keane Memorial Bridge".
+        344-o*9.   Portion of the state highway system to be designated
+                     as the "Trooper Theodore A. Dobbs Memorial Bridge".
+        344-o*10.  Portion of the state highway system to be designated
+                     as the "Firefighter Peyton L. S. Morse Memorial
+                     Highway".
+        344-o*11.  Portion of the state highway system to be designated
+                     as the "Trooper Fabio Buttitta Memorial Bridge".
         345-a.     Abandonment and transfer of state highways.
+        345-b.     Portion of the state highway system to be designated
+                     as the "Doc Schelin Memorial Highway".
 ```
 
 </details>

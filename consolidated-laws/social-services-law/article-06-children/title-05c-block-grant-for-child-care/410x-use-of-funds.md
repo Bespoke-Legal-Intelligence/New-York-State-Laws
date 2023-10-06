@@ -16,13 +16,7 @@ other working low-income families. Each social services district may
 spend no more than five percent of its block grant allocation for
 administrative activities. The term "administrative activities" shall
 not include the costs of providing direct services.
-  2. * (a) A social services district may establish priorities for the
-families which will be eligible to receive funding; provided that the
-priorities provide that eligible families will receive equitable access
-to child care assistance funds to the extent that these funds are
-available.
-  * NB Effective until October 1, 2023
-  * (a) The office of children and family services may establish
+  2. (a) The office of children and family services may establish
 priorities for the families which will be eligible to receive funding;
 provided that the priorities provide that eligible families will receive
 equitable access to child care assistance funds to the extent that these
@@ -33,22 +27,6 @@ population under a local social services district's consolidated
 services plan shall continue to be eligible for such assistance,
 provided they meet all other applicable eligibility requirements for
 such assistance.
-  * NB Effective October 1, 2023
-  * (b) A social services district shall set forth its priorities for
-child care assistance in the district's consolidated services plan. The
-commissioner of the office of children and family services shall not
-approve any plan that does not provide for equitable access to child
-care assistance funds.
-  * NB Repealed October 1, 2023
-  * (c) A social services district shall be authorized to set aside
-portions of its block grant allocation to serve one or more of its
-priority groups and/or to discontinue funding to families with lower
-priorities in order to serve families with higher priorities; provided
-that the method of disbursement to priority groups provides that
-eligible families within a priority group will receive equitable access
-to child care assistance funds to the extent that these funds are
-available.
-  * NB Repealed October 1, 2023
   (d) Each social services district shall collect and submit to the
 commissioner of the office of children and family services in a manner
 to be specified by the commissioner of the office of children and family
@@ -106,18 +84,11 @@ caretaker relatives; or through such other arrangement as the department
 finds appropriate. Such regulations shall require the use of at least
 one method by which child care arranged by the parent or caretaker
 relative can be paid.
-  * 6. Pursuant to department regulations, child care assistance shall
-be provided on a sliding fee basis based upon the family's ability to
-pay; provided, however, that a family receiving assistance pursuant to
-this title shall not be required to contribute more than ten percent of
-their income exceeding the federal poverty level.
-  * NB Effective until October 1, 2023
-  * 6. Pursuant to department regulations, child care assistance shall
-be provided on a sliding fee basis based upon the family's ability to
-pay; provided, however, that a family receiving assistance pursuant to
-this title shall not be required to contribute more than one percent of
-their income exceeding the federal poverty level.
-  * NB Effective October 1, 2023
+  6. Pursuant to department regulations, child care assistance shall be
+provided on a sliding fee basis based upon the family's ability to pay;
+provided, however, that a family receiving assistance pursuant to this
+title shall not be required to contribute more than one percent of their
+income exceeding the federal poverty level.
   7. A social services district may suspend the eligibility of a
 provider who is not required to be licensed or registered under section
 three hundred ninety of this article to provide child care assistance
@@ -133,10 +104,9 @@ office of children and family services may enter into contracts on
 behalf of local social services districts for such direct deposit or
 debit card services in accordance with section twenty-one-a of this
 chapter.
-  * 9. Reimbursement for payment on behalf of children who are
-temporarily absent from child care shall be paid for up to eighty days
-per year.  Reimbursement for additional absences may be allowable in the
-case of extenuating circumstances, as determined by the office of
-children and family services.
-  * NB Effective October 1, 2023
+  9. Reimbursement for payment on behalf of children who are temporarily
+absent from child care shall be paid for up to eighty days per year.
+Reimbursement for additional absences may be allowable in the case of
+extenuating circumstances, as determined by the office of children and
+family services.
 ```

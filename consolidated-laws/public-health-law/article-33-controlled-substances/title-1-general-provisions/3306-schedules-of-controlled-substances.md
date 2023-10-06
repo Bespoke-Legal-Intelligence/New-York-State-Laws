@@ -561,7 +561,7 @@ benzyl methyl ketone; methyl benzyl ketone;
   (i) 1-phenylcyclohexylamine;
   (ii) 1-piperidinocyclohexanecarbonitrile (PCC).
   (3) Immediate precursor to fentanyl:
-  (i) 4-anilino-N-phenen-ethylpiperidine (ANPP).
+  (i) 4-anilino-N-phenenethylpiperidine (ANPP).
   (ii) N-phenyl-N-(piperidin-4-yl)propionamide (Norfentanyl).
   (h) Anabolic steroids. Unless specifically excepted or unless listed
 in another schedule, "anabolic steroid" shall mean any drug or hormonal

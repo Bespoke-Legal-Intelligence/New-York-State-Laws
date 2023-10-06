@@ -3,6 +3,8 @@
 
 [Vehicle and Traffic Law](../../README.md) › [Title 7 — Rules of the Road](../README.md)
 
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
 ## Contents
 
 - [§ 1180 Basic rule and maximum limits](1180-basic-rule-and-maximum-limits.md)
@@ -10,6 +12,8 @@
 - [§ 1180-B Owner liability for failure of operator to comply with certain posted maximum speed limits](1180b-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md)
 - [§ 1180-D Owner liability for failure of operator to comply with certain posted maximum speed limits](1180d-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md)
 - [§ 1180-E Owner liability for failure of operator to comply with certain posted maximum speed limits](1180e-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md)
+- [§ 1180-F Owner liability for failure of operator to comply with certain posted maximum speed limits](1180f-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md)
+- [§ 1180-F\*2 Owner liability for failure of operator to comply with certain posted maximum speed limits](1180f-2-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md)
 - [§ 1181 Minimum speed regulations](1181-minimum-speed-regulations.md)
 - [§ 1182 Speed contests and races](1182-speed-contests-and-races.md)
 - [§ 1182-A Multi-jurisdictional speed contests, races and similar special events](1182a-multi-jurisdictional-speed-contests-races-and-similar-special-events.md)
@@ -21,19 +25,23 @@
 ```text
                                ARTICLE 30
                            SPEED RESTRICTIONS
-Section 1180.   Basic rule and maximum limits.
-        1180-a. Maximum speed limits.
-        1180-b. Owner liability for failure of operator to comply with
-                  certain posted maximum speed limits.
-        1180-d. Owner liability for failure of operator to comply with
-                  certain posted maximum speed limits.
-        1180-e. Owner liability for failure of operator to comply with
-                  certain posted maximum speed limits.
-        1181.   Minimum speed regulations.
-        1182.   Speed contests and races.
-        1182-a. Multi-jurisdictional speed contests, races and similar
-                  special events.
-        1182-b. Filming of movies, commercials and similar events.
+Section 1180.     Basic rule and maximum limits.
+        1180-a.   Maximum speed limits.
+        1180-b.   Owner liability for failure of operator to comply with
+                    certain posted maximum speed limits.
+        1180-d.   Owner liability for failure of operator to comply with
+                    certain posted maximum speed limits.
+        1180-e.   Owner liability for failure of operator to comply with
+                    certain posted maximum speed limits.
+        1180-f.   Owner liability for failure of operator to comply with
+                    certain posted maximum speed limits.
+        1180-f*2. Owner liability for failure of operator to comply with
+                    certain posted maximum speed limits.
+        1181.     Minimum speed regulations.
+        1182.     Speed contests and races.
+        1182-a.   Multi-jurisdictional speed contests, races and similar
+                    special events.
+        1182-b.   Filming of movies, commercials and similar events.
 ```
 
 </details>

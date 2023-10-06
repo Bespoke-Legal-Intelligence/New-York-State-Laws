@@ -8,7 +8,7 @@
 | Senate code | PEN |
 | Type | Consolidated law, chapter 40 |
 | Sections | 890 (1 repealed) |
-| Last changed | 22 Sep 2023 |
+| Last changed | 6 Oct 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Penal |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [6 Oct 2023](../../changes/2023/2023-10-06.md): 1 amended
 - [22 Sep 2023](../../changes/2023/2023-09-22.md): 1 amended
 - [8 Sep 2023](../../changes/2023/2023-09-08.md): 2 amended
 - [21 Jul 2023](../../changes/2023/2023-07-21.md): 3 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [24 Mar 2023](../../changes/2023/2023-03-24.md): 4 amended
 - [10 Mar 2023](../../changes/2023/2023-03-10.md): 6 amended, 1 repealed
 - [3 Mar 2023](../../changes/2023/2023-03-03.md): 3 amended
-- [17 Feb 2023](../../changes/2023/2023-02-17.md): 2 amended
 
 ## Contents
 

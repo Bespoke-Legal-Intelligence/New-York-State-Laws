@@ -556,14 +556,9 @@ methodologies or may promulgate regulations establishing alternative
 payment methodologies for one or more of the services specified in this
 subparagraph, effective for periods on and after March first, two
 thousand nine:
-  * (A) services provided in accordance with the provisions of
-paragraphs (q) and (r) of subdivision two of section three hundred
+  (A) services provided in accordance with the provisions of paragraphs
+(q), (r), and (ll) of subdivision two of section three hundred
 sixty-five-a of the social services law; and
-  * NB Effective until October 1, 2023
-  * (A) services provided in accordance with the provisions of
-paragraphs (q), (r), and (ll) of subdivision two of section three
-hundred sixty-five-a of the social services law; and
-  * NB Effective October 1, 2023
   (B) all services, but only with regard to additional payment amounts,
 as determined in accordance with regulations issued in accordance with
 paragraph (e) of this subdivision, for the provision of such services

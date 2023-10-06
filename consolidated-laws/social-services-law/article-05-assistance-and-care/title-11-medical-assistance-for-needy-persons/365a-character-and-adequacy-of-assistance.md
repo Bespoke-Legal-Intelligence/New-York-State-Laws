@@ -574,7 +574,7 @@ practice provision under title eight of the education law.
 pursuant to article one hundred fifty-seven of the education law acting
 within their scope of practice.
   * NB There are 2 par (kk)'s
-  * (ll) Chronic Disease Self-Management Program for persons diagnosed
+  (ll) Chronic Disease Self-Management Program for persons diagnosed
 with arthritis when such services are ordered by a physician, registered
 physician's assistant, registered nurse practitioner, or licensed
 midwife and provided by qualified educators, as determined by the
@@ -582,7 +582,6 @@ commissioner of health, subject to federal financial participation.
 Nothing in this paragraph shall be construed to modify any licensure,
 certification or scope of practice provision under title eight of the
 education law.
-  * NB Effective October 1, 2023
   3. Any inconsistent provisions of this section notwithstanding,
 medical assistance shall include:
   (a) early and periodic screening and diagnosis of eligible persons

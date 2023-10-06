@@ -294,7 +294,7 @@ thousand-b of this chapter.
 (a) of subdivision three of section three thousand-b of this chapter in
 the operation and use of an AED shall be present during all periods of
 required supervision.
-  * 5-d. The state sanitary code shall:
+  5-d. The state sanitary code shall:
   (a) require that all lifeguards employed at children's overnight,
 summer day, and travelling summer day camps as defined in section
 thirteen hundred ninety-two of this chapter, meet the following
@@ -312,7 +312,6 @@ seven of the state sanitary code; and
   (b) require all qualified lifeguards while on duty at the waterfront
 to not be engaged in duties or activities which distract them from the
 direct supervision of the waterfront.
-  * NB Effective September 28, 2023
   6. The public health council shall, no later than January first,
 nineteen hundred seventy-four, prescribe standards and establish
 regulations for summer day and children's camps which derive all water
