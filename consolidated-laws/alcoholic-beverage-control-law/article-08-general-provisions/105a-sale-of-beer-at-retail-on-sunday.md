@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Alcoholic Beverage Control Law § 105-A", "kind": "section", "law_id": "ABC", "location_id": "105-A", "path": "ARTICLE 8 › SECTION 105-A", "repealed": false, "repealed_date": null, "source": "nys-laws:ABC/105-A.md", "title": "Sale of beer at retail on Sunday"} -->
+﻿<!-- nyslaw {"citation": "Alcoholic Beverage Control Law § 105-A", "kind": "section", "law_id": "ABC", "location_id": "105-A", "path": "ARTICLE 8 › SECTION 105-A", "repealed": true, "repealed_date": "2023-10-20", "source": "nys-laws:ABC/105-A.md", "title": "Sale of beer at retail on Sunday"} -->
 # Alcoholic Beverage Control Law § 105-A — Sale of beer at retail on Sunday
 
 [Alcoholic Beverage Control Law](../README.md) › [Article 8 — General Provisions](README.md)
+
+**Repealed** (20 Oct 2023). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 105-a. Sale of beer at retail on Sunday. 1. No person, firm or

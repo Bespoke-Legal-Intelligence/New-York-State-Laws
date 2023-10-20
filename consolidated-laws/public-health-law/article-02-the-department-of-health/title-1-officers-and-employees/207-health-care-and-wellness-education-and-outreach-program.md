@@ -159,6 +159,12 @@ factors and management, and possible options for treatment.
 multi-system disease associated with neurological, immunological and
 energy metabolism impairment characterized by long-standing and
 debilitating fatigue.
+  (r) For those who are experiencing pregnancy loss or infant loss,
+which shall for the purposes of this paragraph include but not be
+limited to, miscarriage, stillbirth, or termination for medical reasons,
+information regarding:
+  (i) the potential mental and physical impact from such loss; and
+  (ii) resources for support and follow-up care.
   2. Programs under this section, dealing with one or more subjects, may
 include but not be limited to any of the following elements:
   (a) educational and informational materials in print, audio, visual,

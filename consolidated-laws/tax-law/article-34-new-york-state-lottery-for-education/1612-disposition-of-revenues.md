@@ -211,10 +211,10 @@ fifteen miles of a Native American class III gaming facility, such
 additional vendor fee shall be six and four-tenths percent of the total
 revenue wagered at the vendor after payout for prizes pursuant to this
 chapter. The vendor track shall forfeit this additional vendor fee for
-any time period that the vendor track does not maintain at least ninety
+any time period that the vendor track does not maintain at least seventy
 percent of full-time equivalent employees as they employed in the year
 two thousand sixteen.
-  * NB Repealed March 31, 2023
+  * NB Repealed March 31, 2027
   1-a. (i) Notwithstanding any provision of law to the contrary, any
 operators of a vendor track or the operators of any other video lottery
 gaming facility eligible to receive a capital award as of December
