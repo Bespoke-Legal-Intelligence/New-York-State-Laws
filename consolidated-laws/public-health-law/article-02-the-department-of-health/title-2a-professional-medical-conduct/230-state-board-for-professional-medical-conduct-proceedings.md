@@ -844,48 +844,54 @@ the board which such physician has learned solely as a result of
 rendering treatment to another physician.
   (f) A violation of this subdivision shall not be subject to the
 provisions of sections twelve and twelve-b of this chapter.
-  * (g) Any physician committee of the Medical Society of the State of
-New York, the New York State Osteopathic Society or a county medical
+  * (g) (i) Any physician committee of the Medical Society of the State
+of New York, the New York State Osteopathic Society or a county medical
 society referred to in subparagraph (ii) of paragraph (c) of this
 subdivision shall develop procedures in consultation with, and approved
-by, the commissioner of the department of health, including but not
-limited to the following:
-  (i) The committee shall disclose at least once a month such
+by, the commissioner, including but not limited to the following:
+  (A) The committee shall disclose at least once a month such
 information as the director of the office of professional medical
 conduct may deem appropriate regarding reports received, contacts or
 investigations made and the disposition of each report, provided however
 that the committee shall not disclose any personally identifiable
-information except as provided in subparagraph (ii) or subparagraph
-(iii) of this paragraph.
-  (ii) The committee shall immediately report to the director the name,
+information except as provided in clause (B) or (C) of this
+subparagraph.
+  (B) The committee shall immediately report to the director the name,
 all information obtained and the results of any contact or investigation
 regarding any physician who is believed to be an imminent danger to the
 public.
-  (iii) The committee shall report to the director in a timely fashion
-all information obtained regarding any physician who refuses to
-cooperate with the committee, refuses to submit to treatment, or whose
-impairment is not substantially alleviated through treatment.
-  (iv) The committee shall inform each physician who is participating in
+  (C) The committee shall report to the director in a timely fashion all
+information obtained regarding any physician who refuses to cooperate
+with the committee, refuses to submit to treatment, or whose impairment
+is not substantially alleviated through treatment.
+  (D) The committee shall inform each physician who is participating in
 a program of the procedures followed in the program, of the rights and
 responsibilities of the physician in the program and of the possible
 results of noncompliance with the program.
-  ** (v) No member of any such committee shall be liable for damages to
-any person for any action taken by such member provided that such action
-was taken without malice and within the scope of such member's function
-as a member of such committee.
+  ** (ii) No member of any such committee; nor the Medical Society of
+the State of New York, the New York State Osteopathic Society or a
+county medical society referred to in subparagraph (ii) of paragraph (c)
+of this subdivision that establishes a committee; nor any agent,
+servant, representative or employee that provides service to any such
+committee or society, shall be liable for damages to any person for any
+action taken by such committee, society, member, agent, servant,
+representative or employee provided that such action was taken without
+malice and within the scope of such individual's or entity's function in
+relation to such committee.
   ** NB Repealed July 1, 2028
-  ** (vi) The committee, in conjunction with the director of the office
+  ** (iii) The committee, in conjunction with the director of the office
 of professional medical conduct, shall develop appropriate consent forms
 and disclosure proceedings as may be necessary under any federal
 statute, rule or regulation in order to permit the disclosure of the
-information as may be required under subparagraphs (ii) and (iii) of
-this paragraph.
-  Except as herein provided and notwithstanding any other provision of
-law, neither the proceedings nor the records of any such physician
-committee shall be subject to disclosure under article thirty-one of the
-civil practice law and rules nor shall any member of any such committee
-nor any person in attendance at any such meeting be required to testify
-as to what transpired thereat.
+information as may be required under clauses (B) and (C) of subparagraph
+(i) of this paragraph.
+  ** NB Repealed July 1, 2028
+  **(iv) Except as provided in this paragraph and notwithstanding any
+other provision of law, neither the proceedings nor the records of any
+such physician committee shall be subject to disclosure under article
+thirty-one of the civil practice law and rules nor shall any member of
+any such committee nor any person in attendance at any such meeting be
+required to testify as to what transpired thereat.
   ** NB Repealed July 1, 2028
   * NB Expires July 1, 2028
   (h) The office of professional medical conduct shall post on its

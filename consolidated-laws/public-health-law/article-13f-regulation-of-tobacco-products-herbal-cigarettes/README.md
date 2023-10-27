@@ -9,6 +9,7 @@
 
 - [§ 1399-AA Definitions](1399aa-definitions.md)
 - [§ 1399-BB Distribution of tobacco products, vapor products, or herbal cigarettes without charge](1399bb-distribution-of-tobacco-products-vapor-products-or-herbal-cigarettes.md)
+- [§ 1399-BB-1 Promotions prohibited](1399bb-1-promotions-prohibited.md)
 - [§ 1399-CC Sale of tobacco products, herbal cigarettes, liquid nicotine, shisha, rolling papers or smoking paraphernalia to minors prohibited](1399cc-sale-of-tobacco-products-herbal-cigarettes-liquid-nicotine-shisha.md)
 - [§ 1399-DD Sale of tobacco products, herbal cigarettes or electronic cigarettes in vending machines](1399dd-sale-of-tobacco-products-herbal-cigarettes-or-electronic-cigarettes.md)
 - [§ 1399-DD-1 Public display of tobacco product and electronic cigarette advertisements and smoking paraphernalia prohibited](1399dd-1-public-display-of-tobacco-product-and-electronic-cigarette.md)
@@ -37,6 +38,7 @@
 Section 1399-aa.   Definitions.
         1399-bb.   Distribution of tobacco products, vapor products, or
                      herbal cigarettes without charge.
+        1399-bb-1. Promotions prohibited.
         1399-cc.   Sale of tobacco products, herbal cigarettes, liquid
                      nicotine, shisha, rolling papers or smoking
                      paraphernalia to minors prohibited.

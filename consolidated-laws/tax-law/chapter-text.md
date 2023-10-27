@@ -93,8 +93,10 @@ Article 1.      Short title; definitions; miscellaneous (§§ 1-48).
                    (§§ 1449-aaaa--1449-pppp).
        31-G.     Tax on real estate transfers in the county of Tompkins
                    (§§ 1449-aaaaa--1449-ppppp).
-       31-H.     Tax on real estate transfers in the county of Mudison
+       31-H.     Tax on real estate transfers in the county of Madison
                    (§§ 1449-aaaaaa--1449-pppppp).
+       31-I.     Tax on real estate transfers in the county of Cortland
+                   (§§ 1449-aaaaaaa--1449-ppppppp).
        33.       Franchise taxes on insurance corporations
                    (§§ 1500-1520).
        33-A.     Tax on independently procured insurance

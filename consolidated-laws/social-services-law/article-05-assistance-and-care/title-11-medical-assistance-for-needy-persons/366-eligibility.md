@@ -260,9 +260,10 @@ line, as defined and updated by the United States department of health
 and human services, for a one-person or two-person household, as defined
 by the commissioner in regulation; has household resources, as defined
 in paragraph (e) of subdivision two of section three hundred sixty-six-c
-of this title, other than retirement accounts, that do not exceed twenty
-thousand dollars for a one-person household or thirty thousand dollars
-for a two-person household, as defined by the commissioner in
+of this title, other than retirement accounts, that do not exceed one
+hundred fifty percent of the income amount permitted under subparagraph
+seven of paragraph (a) of subdivision two of this section, for a
+one-person or two-person household, as defined by the commissioner in
 regulation; and contributes to the cost of medical assistance provided
 pursuant to this subparagraph in accordance with subdivision twelve of
 section three hundred sixty-seven-a of this title; for purposes of this

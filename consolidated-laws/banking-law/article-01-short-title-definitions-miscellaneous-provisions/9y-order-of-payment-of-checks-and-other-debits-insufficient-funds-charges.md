@@ -1,0 +1,56 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 9-Y", "kind": "section", "law_id": "BNK", "location_id": "9-Y", "path": "ARTICLE 1 › SECTION 9-Y", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/9-Y.md", "title": "Order of payment of checks and other debits, insufficient funds charges and return deposit item charges"} -->
+# Banking Law § 9-Y — Order of payment of checks and other debits, insufficient funds charges and return deposit item charges
+
+[Banking Law](../README.md) › [Article 1 — Short Title; Definitions; Miscellaneous Provisions](README.md)
+
+```text
+  § 9-y. Order of payment of checks and other debits, insufficient funds
+charges and return deposit item charges. 1. Order of paying checks. (a)
+Notwithstanding any law, rule or regulation to the contrary, every
+banking organization that provides checking services to consumer
+accounts shall either pay checks in the order wherein they are received
+or pay checks from smallest to largest dollar amount for each business
+day's transactions.
+  (b) If a check is dishonored for insufficient funds and thereafter
+smaller checks which could be paid are received, the smaller checks
+shall be honored within amounts on deposit in the subject account.
+  (c) The banking organization shall disclose to consumers in writing
+the order in which checks are drawn. The written disclosure shall be
+provided to the consumer at the time the account is opened and prior to
+any change in such policy.
+  (d) The superintendent shall promulgate rules and regulations
+necessary for the implementation of this section.
+  2. Regulation of other consumer account transactions and associated
+fees. (a) The superintendent shall have the power to prescribe by
+regulation:
+  i. the manner in which banking organizations process debit and credit
+transactions, other than those specified in subdivision one of this
+section, for consumer accounts maintained at such organization;
+  ii. the charges that may be imposed in connection with a check drawn
+or other written order upon, or electronic transfer sought to be
+effectuated against, insufficient funds or uncollected balances in a
+consumer account, whether or not the banking organization pays such
+check, written order, or electronic transfer;
+  iii. the charges that may be imposed in connection with a check or
+other written order received by a banking organization for deposit or
+collection drawn against a consumer account and subsequently dishonored
+and returned for any reason by the drawee;
+  iv. disclosures provided to consumers regarding the processing of
+transactions in a consumer account and the associated fees; and
+  v. alerts, notices, and other disclosures relating to the imposition
+or possible imposition of a charge as provided in subparagraphs ii and
+iii of this paragraph.
+  (b) In prescribing regulations regarding the manner in which banking
+organizations process debit or credit transactions, or the charges that
+may be imposed pursuant to subparagraphs ii or iii of paragraph (a) of
+this subdivision, the superintendent shall consider, at a minimum, the
+following factors:
+  i. the cost incurred by the banking organization, in providing any
+services associated with such charges;
+  ii. the competitive position of the banking organization; and
+  iii. the maintenance of a safe and sound banking organization that
+protects the public interest.
+  3. Definition. As used in this section, "consumer accounts" means
+accounts at banking organizations established by natural persons
+primarily for personal, family or household purposes.
+```

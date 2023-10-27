@@ -32,6 +32,7 @@
 - [§ 391-M Manufacture and sale of in-line skates; regulation of](391m-manufacture-and-sale-of-in-line-skates-regulation.md)
 - [§ 391-N Sale of reptiles; notice](391n-sale-of-reptiles-notice.md)
 - [§ 391-O Sale or promotional distribution of dietary supplements containing ephedra](391o-sale-or-promotional-distribution-of-dietary-supplements-containing-ephedra.md)
+- [§ 391-OO Sale of over-the-counter diet pills and dietary supplements for weight loss or muscle building](391oo-sale-of-over-the-counter-diet-pills-and-dietary-supplements-for-weight-loss.md)
 - [§ 391-P Prohibit the rental of clothing articles previously worn](391p-prohibit-the-rental-of-clothing-articles-previously-worn.md)
 - [§ 391-Q Rebates](391q-rebates.md)
 - [§ 391-R Restricted access to retail sale of ipecac](391r-restricted-access-to-retail-sale-of-ipecac.md)
@@ -233,6 +234,8 @@ Section 390.         Substitution of spurious oils for internal
         391-n.       Sale of reptiles; notice.
         391-o.       Sale or promotional distribution of dietary
                        supplements containing ephedra.
+        391-oo.      Sale of over-the-counter diet pills and dietary
+                       supplements for weight loss or muscle building.
         391-p.       Prohibit the rental of clothing articles previously
                        worn.
         391-q.       Rebates.

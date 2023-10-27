@@ -30,6 +30,7 @@
 - [§ 577 Interpretation of article](577-interpretation-of-article.md)
 - [§ 577-A Premium finance agreements](577a-premium-finance-agreements.md)
 - [§ 578 Severability](578-severability.md)
+- [§ 578-A Electronic notes and documents](578a-electronic-notes-and-documents.md)
 
 <details>
 <summary>Official heading of Article 12-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -64,6 +65,7 @@ Section 554.   Definitions.
         577.   Interpretation of article.
         577-a. Premium finance agreements.
         578.   Severability.
+        578-a. Electronic notes and documents.
 ```
 
 </details>

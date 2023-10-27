@@ -41,6 +41,8 @@ biological parent of the newborn infant indicates a family, racial, or
 ethnic risk of glucose-6-phosphate dehydrogenase deficiency, including
 having significant African, Asian, Mediterranean, or Middle Eastern
 ancestry.
+  (k) Duchenne muscular dystrophy using a test validated by the
+Wadsworth center for laboratories and research.
   2. Testing, the recording of the results of such tests, tracking,
 follow-up reviews and educational activities shall be performed at such
 times and in such manner as may be prescribed by the commissioner. The

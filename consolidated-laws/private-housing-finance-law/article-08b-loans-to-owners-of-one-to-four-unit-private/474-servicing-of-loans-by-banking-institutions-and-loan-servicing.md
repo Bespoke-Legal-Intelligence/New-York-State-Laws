@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Private Housing Finance Law § 474", "kind": "section", "law_id": "PVH", "location_id": "474", "path": "ARTICLE 8-B › SECTION 474", "repealed": false, "repealed_date": null, "source": "nys-laws:PVH/474.md", "title": "Servicing of loans by banking institutions and loan servicing companies"} -->
 # Private Housing Finance Law § 474 — Servicing of loans by banking institutions and loan servicing companies
 
-[Private Housing Finance Law](../README.md) › [Article 8-B — Loans to Owner-occupants of One to Four Unit Private and Multiple Dwellings](README.md)
+[Private Housing Finance Law](../README.md) › [Article 8-B — Loans to Owners of One to Four Unit Private and Multiple Dwellings](README.md)
 
 ```text
   § 474. Servicing of loans by banking institutions and loan servicing
@@ -14,9 +14,9 @@ a bank may make and collect such service charges as the superintendent
 shall prescribe or approve.
   2. The agency is authorized to make provision in the note and loan
 agreement or by separate agreement for the servicing of such loans by a
-loan servicing company and such services may include, but not be limited
-to, the collection of the debt services on such loans and the
-establishment, administration, and distribution of an escrow account for
-the payment of the owner-occupant's real estate taxes, sewer and water
-rents and fire insurance.
+loan servicing company or other qualified entity, as determined by the
+agency, and such services may include, but not be limited to, the
+collection of the debt services on such loans and the establishment,
+administration, and distribution of an escrow account for the payment of
+the owner's real estate taxes, sewer and water rents and fire insurance.
 ```

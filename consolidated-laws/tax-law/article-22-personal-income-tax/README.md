@@ -84,6 +84,8 @@ Section 611.     New York taxable income of a resident individual.
         630-j.   Gifts for standardbred aftercare.
         630-k.   Gift for Lyme and tick-borne diseases education,
                    research and prevention.
+        630-l.   Gift for diabetes research and education.
+        630-l*2. Gift for cure childhood cancer research fund.
                PART III-NONRESIDENTS AND PART-YEAR RESIDENTS
 Section 631.     New York source income of a nonresident individual.
         632.     Nonresident partners and electing shareholders of S

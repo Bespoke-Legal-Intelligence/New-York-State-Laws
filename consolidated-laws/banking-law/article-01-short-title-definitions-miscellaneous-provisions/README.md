@@ -59,7 +59,7 @@
 - [§ 9-W Standard financial aid award letter](9w-standard-financial-aid-award-letter.md)
 - [§ 9-X Mortgage forbearance](9x-mortgage-forbearance.md)
 - [§ 9-X\*2 Fees based on inactivity; notification](9x-2-fees-based-on-inactivity-notification.md)
-- [§ 9-Y Banking institutions to pay checks drawn therein in order of presentation](9y-banking-institutions-to-pay-checks-drawn-therein-in-order-of-presentation.md)
+- [§ 9-Y Order of payment of checks and other debits, insufficient funds charges and return deposit item charges](9y-order-of-payment-of-checks-and-other-debits-insufficient-funds-charges.md)
 - [§ 9-Z Cashing of certain checks](9z-cashing-of-certain-checks.md)
 
 <details>
@@ -148,8 +148,8 @@ Section 1.     Short title.
         9-w.   Standard financial aid award letter.
         9-x.   Mortgage forbearance.
         9-x*2. Fees based on inactivity; notification.
-        9-y.   Banking institutions to pay checks drawn therein in order
-                 of presentation.
+        9-y.   Order of payment of checks and other debits, insufficient
+                 funds charges and return deposit item charges.
         9-z.   Cashing of certain checks.
 ```
 

@@ -27,6 +27,7 @@
 - [§ 209-N Retired and rescued thoroughbred race horse aftercare](209n-retired-and-rescued-thoroughbred-race-horse-aftercare.md)
 - [§ 209-O Retired and rescued standardbred race horse aftercare](209o-retired-and-rescued-standardbred-race-horse-aftercare.md)
 - [§ 209-P Gift for Lyme and tick-borne diseases education, research and prevention](209p-gift-for-lyme-and-tick-borne-diseases-education-research-and-prevention.md)
+- [§ 209-Q Gift for diabetes research and education](209q-gift-for-diabetes-research-and-education.md)
 - [§ 210 Computation of tax](210-computation-of-tax.md)
 - [§ 210-A Apportionment](210a-apportionment.md)
 - [§ 210-B Credits](210b-credits.md)
@@ -71,6 +72,7 @@ Section 208.     Definitions.
         209-O.   Retired and rescued standardbred race horse aftercare.
         209-P.   Gift for Lyme and tick-borne diseases education,
                    research and prevention.
+        209-Q.   Gift for diabetes research and education.
         210.     Computation of tax.
         210-A.   Apportionment.
         210-B.   Credits.

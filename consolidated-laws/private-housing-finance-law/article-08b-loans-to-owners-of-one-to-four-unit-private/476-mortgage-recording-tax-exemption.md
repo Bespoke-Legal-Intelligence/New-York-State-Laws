@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Private Housing Finance Law § 476", "kind": "section", "law_id": "PVH", "location_id": "476", "path": "ARTICLE 8-B › SECTION 476", "repealed": false, "repealed_date": null, "source": "nys-laws:PVH/476.md", "title": "Mortgage recording tax exemption"} -->
 # Private Housing Finance Law § 476 — Mortgage recording tax exemption
 
-[Private Housing Finance Law](../README.md) › [Article 8-B — Loans to Owner-occupants of One to Four Unit Private and Multiple Dwellings](README.md)
+[Private Housing Finance Law](../README.md) › [Article 8-B — Loans to Owners of One to Four Unit Private and Multiple Dwellings](README.md)
 
 ```text
   § 476. Mortgage recording tax exemption. Notwithstanding any

@@ -16,6 +16,8 @@
 - [§ 696-B Condemnation](696b-condemnation.md)
 - [§ 696-C Site preparation](696c-site-preparation.md)
 - [§ 696-D Neighborhood improvement projects](696d-neighborhood-improvement-projects.md)
+- [§ 696-E Charges](696e-charges.md)
+- [§ 696-F Servicing](696f-servicing.md)
 - [§ 697 Application of article](697-application-of-article.md)
 - [§ 698 Severability](698-severability.md)
 
@@ -29,7 +31,7 @@ Section 690.   Short title.
         691.   Policy and purposes of article.
         692.   Definitions.
         693.   Area designation.
-        694.   Urban   development  action  area  project  and  approval
+        694.   Urban development action area project and approval
                  thereof.
         695.   Disposition of property.
         696.   Tax incentives.
@@ -37,6 +39,8 @@ Section 690.   Short title.
         696-b. Condemnation.
         696-c. Site preparation.
         696-d. Neighborhood improvement projects.
+        696-e. Charges.
+        696-f. Servicing.
         697.   Application of article.
         698.   Severability.
 ```

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PVH |
 | Type | Consolidated law, chapter 44-B |
-| Sections | 437 |
-| Last changed | 15 Sep 2023 |
+| Sections | 441 |
+| Last changed | 27 Oct 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Private Housing Finance |
 
@@ -27,10 +27,11 @@ Assembly, do enact as follows:
               CHAPTER FORTY-FOUR-B OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (65 lines)](chapter-text.md)
+[Full chapter text (64 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [27 Oct 2023](../../changes/2023/2023-10-27.md): 23 amended, 4 added
 - [15 Sep 2023](../../changes/2023/2023-09-15.md): 2 amended
 - [21 Jul 2023](../../changes/2023/2023-07-21.md): 5 amended
 - [12 May 2023](../../changes/2023/2023-05-12.md): 1 amended
@@ -40,7 +41,6 @@ Assembly, do enact as follows:
 - [19 Aug 2022](../../changes/2022/2022-08-19.md): 2 amended
 - [29 Jul 2022](../../changes/2022/2022-07-29.md): 10 amended
 - [22 Apr 2022](../../changes/2022/2022-04-22.md): 2 amended
-- [1 Apr 2022](../../changes/2022/2022-04-01.md): 3 amended
 
 ## Contents
 
@@ -56,7 +56,7 @@ Assembly, do enact as follows:
 - [Article 7-A — Community Senior Citizens Centers and Services Companies](article-07a-community-senior-citizens-centers-and-services/)
 - [Article 8 — Loans to Owners of Existing Multiple Dwellings](article-08-loans-to-owners-of-existing-multiple-dwellings/)
 - [Article 8-A — Small Loans to Owners of Multiple Dwellings to Remove Substandard or Insanitary Conditions](article-08a-small-loans-to-owners-of-multiple-dwellings/)
-- [Article 8-B — Loans to Owner-occupants of One to Four Unit Private and Multiple Dwellings](article-08b-loans-to-owner-occupants-of-one-to-four-unit/)
+- [Article 8-B — Loans to Owners of One to Four Unit Private and Multiple Dwellings](article-08b-loans-to-owners-of-one-to-four-unit-private/)
 - [Article 9 — Acquisition of Property](article-09-acquisition-of-property/)
 - [Article 10 — Sale or Lease of Projects](article-10-sale-or-lease-of-projects/)
 - [Article 11 — Housing Development Fund Companies](article-11-housing-development-fund-companies/)

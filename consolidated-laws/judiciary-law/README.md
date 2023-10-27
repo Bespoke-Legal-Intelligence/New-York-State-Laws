@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | JUD |
 | Type | Consolidated law, chapter 30 |
-| Sections | 541 |
-| Last changed | 22 Sep 2023 |
+| Sections | 542 |
+| Last changed | 27 Oct 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Judiciary |
 
@@ -29,10 +29,11 @@ Became a law February 17, 1909, with the approval of the Governor.
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (59 lines)](chapter-text.md)
+[Full chapter text (60 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [27 Oct 2023](../../changes/2023/2023-10-27.md): 1 added
 - [22 Sep 2023](../../changes/2023/2023-09-22.md): 1 amended
 - [25 Aug 2023](../../changes/2023/2023-08-25.md): 1 amended
 - [12 May 2023](../../changes/2023/2023-05-12.md): 4 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [16 Dec 2022](../../changes/2022/2022-12-16.md): 2 amended
 - [2 Sep 2022](../../changes/2022/2022-09-02.md): 1 amended
 - [12 Aug 2022](../../changes/2022/2022-08-12.md): 1 amended
-- [29 Jul 2022](../../changes/2022/2022-07-29.md): 1 amended
 
 ## Contents
 
@@ -84,4 +84,5 @@ Assembly, do enact as follows:
 - [Article 21-C — Court-appointed Special Advocates Program](article-21c-court-appointed-special-advocates-program/)
 - [Article 22 — Judicial Hearing Officers](article-22-judicial-hearing-officers/)
 - [Article 22-A — Judicial Wellness or Assistance Committees](article-22a-judicial-wellness-or-assistance-committees/)
+- [Article 22-B — Hope Card Act](article-22b-hope-card-act/)
 - [Article 23 — Laws Repealed; When to Take Effect](article-23-laws-repealed-when-to-take-effect/)

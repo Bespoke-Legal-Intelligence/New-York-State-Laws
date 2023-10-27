@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | TAX |
 | Type | Consolidated law, chapter 60 |
-| Sections | 1,302 |
-| Last changed | 20 Oct 2023 |
+| Sections | 1,321 |
+| Last changed | 27 Oct 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Tax |
 
@@ -29,10 +29,11 @@ Became a law February 17, 1909, with the approval of the Governor.
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (100 lines)](chapter-text.md)
+[Full chapter text (102 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [27 Oct 2023](../../changes/2023/2023-10-27.md): 19 added
 - [20 Oct 2023](../../changes/2023/2023-10-20.md): 1 amended
 - [8 Sep 2023](../../changes/2023/2023-09-08.md): 2 amended
 - [1 Sep 2023](../../changes/2023/2023-09-01.md): 6 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [21 Jul 2023](../../changes/2023/2023-07-21.md): 2 amended
 - [7 Jul 2023](../../changes/2023/2023-07-07.md): 8 amended
 - [23 Jun 2023](../../changes/2023/2023-06-23.md): 1 amended
-- [2 Jun 2023](../../changes/2023/2023-06-02.md): 1 amended
 
 ## Contents
 
@@ -100,6 +100,7 @@ Assembly, do enact as follows:
 - [Article 31-F — Tax On Real Estate Transfers In the Town of Warwick](article-31f-tax-on-real-estate-transfers-in-the-town/)
 - [Article 31-G — Tax On Real Estate Transfers In the County of Tompkins](article-31g-tax-on-real-estate-transfers-in-the-county/)
 - [Article 31-H — Tax On Real Estate Transfers In the County of Madison](article-31h-tax-on-real-estate-transfers-in-the-county/)
+- [Article 31-I — Tax On Real Estate Transfers In the County of Cortland](article-31i-tax-on-real-estate-transfers-in-the-county/)
 - [Article 33 — Franchise Taxes On Insurance Corporations](article-33-franchise-taxes-on-insurance-corporations/)
 - [Article 33-A — Tax On Independently Procured Insurance](article-33a-tax-on-independently-procured-insurance/)
 - [Article 33-B — Tax On Real Estate Transfers In Towns](article-33b-tax-on-real-estate-transfers-in-towns/)

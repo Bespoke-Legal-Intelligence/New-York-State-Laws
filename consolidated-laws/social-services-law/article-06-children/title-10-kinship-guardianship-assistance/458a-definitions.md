@@ -9,9 +9,9 @@
 custody, care and custody, or custody and guardianship have been
 committed to a social services official prior to such person's
 eighteenth birthday pursuant to section three hundred fifty-eight-a,
-three hundred eighty-four, three hundred eighty-four-a or three hundred
-eighty-four-b of this chapter or article three, seven, ten or 10-C of
-the family court act.
+three hundred eighty-three-c, three hundred eighty-four, three hundred
+eighty-four-a or three hundred eighty-four-b of this chapter or article
+three, seven, ten or 10-C of the family court act.
   2. "Applicable board rate" shall mean an amount equal to the monthly
 payment that has been made by a social services official, in accordance
 with section three hundred ninety-eight-a of this article and other

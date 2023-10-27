@@ -7,7 +7,7 @@
   § 220. Public health and health planning council; appointment of
 members. There shall continue to be in the department a public health
 and health planning council to consist of the commissioner and
-twenty-five members to be appointed by the governor with the advice and
+twenty-six members to be appointed by the governor with the advice and
 consent of the senate. Membership on the council shall be reflective of
 the diversity of the state's population including, but not limited to,
 the various geographic areas and population densities throughout the
@@ -26,6 +26,7 @@ been involved in activities related to health care consumer advocacy
 including issues of interest to low- and moderate-income individuals;
 and at least one member shall be a representative of each of the
 following groups: women's health service providers, home care agencies,
-diagnostic and treatment centers, health care payors, and labor
-organizations for health care employees.
+freestanding ambulatory surgery centers, diagnostic and treatment
+centers, health care payors, and labor organizations for health care
+employees.
 ```

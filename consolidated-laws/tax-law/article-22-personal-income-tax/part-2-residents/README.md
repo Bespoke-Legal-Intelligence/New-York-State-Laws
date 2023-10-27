@@ -55,6 +55,8 @@
 - [§ 630-I\*3 Gifts for thoroughbred aftercare](630i-3-gifts-for-thoroughbred-aftercare.md)
 - [§ 630-J Gifts for standardbred aftercare](630j-gifts-for-standardbred-aftercare.md)
 - [§ 630-K Gift for Lyme and tick-borne diseases education, research and prevention](630k-gift-for-lyme-and-tick-borne-diseases-education-research-and-prevention.md)
+- [§ 630-L Gift for diabetes research and education](630l-gift-for-diabetes-research-and-education.md)
+- [§ 630-L\*2 Gift for cure childhood cancer research fund](630l-2-gift-for-cure-childhood-cancer-research-fund.md)
 
 <details>
 <summary>Official heading of Part 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -122,6 +124,8 @@ Section 611.     New York taxable income of a resident individual.
         630-j.   Gifts for standardbred aftercare.
         630-k.   Gift for Lyme and tick-borne diseases education,
                    research and prevention.
+        630-l.   Gift for diabetes research and education.
+        630-l*2. Gift for cure childhood cancer research fund.
 ```
 
 </details>

@@ -43,6 +43,7 @@
 - [§ 89-I Military family relief fund](89i-military-family-relief-fund.md)
 - [§ 89-J The school bus motorist education fund](89j-the-school-bus-motorist-education-fund.md)
 - [§ 89-J\*2 Substance use disorder education and recovery fund](89j-2-substance-use-disorder-education-and-recovery-fund.md)
+- [§ 89-K Diabetes research and education fund](89k-diabetes-research-and-education-fund.md)
 - [§ 90 New York state department of transportation highway safety program fund](90-new-york-state-department-of-transportation-highway-safety-program-fund.md)
 - [§ 90-A New York state passenger facility charge fund](90a-new-york-state-passenger-facility-charge-fund.md)
 - [§ 91 Transportation safety account](91-transportation-safety-account.md)
@@ -340,6 +341,7 @@ Section 70.        Classification of funds.
         89-i.      Military family relief fund.
         89-j.      The school bus motorist education fund.
         89-j*2.    Substance use disorder education and recovery fund.
+        89-k.      Diabetes research and education fund.
         90.        New York state department of transportation highway
                      safety program fund.
         90-a.      New York state passenger facility charge fund.
