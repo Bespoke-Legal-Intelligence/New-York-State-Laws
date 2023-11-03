@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1621-B", "kind": "section", "law_id": "PBA", "location_id": "1621-B", "path": "ARTICLE 7 › TITLE 21 › SECTION 1621-B", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1621-B.md", "title": "Definitions"} -->
+# Public Authorities Law § 1621-B — Definitions
+
+[Public Authorities Law](../../README.md) › [Article 7 — Parking Authorities](../README.md) › [Title 21 — Middletown Parking Authority](README.md)
+
+```text
+  * § 1621-b. Definitions. As used or referred to in this title, unless
+a different meaning clearly appears from the context:
+  1. The term "authority" shall mean the corporation created by section
+sixteen hundred twenty-one-c of this title;
+  2. The term "city" shall mean the city of Middletown;
+  3. The term "bonds" and "notes" shall mean the bonds and notes,
+respectively, authorized in this title;
+  4. The term "board" shall mean the board established pursuant to
+section sixteen hundred twenty-one-c of this title;
+  5. The term "real property" shall mean lands, structures, franchises,
+and interest in lands, and any and all things usually included within
+the said term, and includes not only fees simple absolute but also any
+and all lesser interests, such as easements, rights of way, and rights,
+sub-surface rights, uses, leases, licenses, and all other incorporeal
+hereditaments and every estate, interest or right, legal or equitable,
+including terms of years, and liens thereon by way of judgments,
+mortgages or otherwise, and also claims for damage to real estate, in
+the area of the city; and
+  6. The term "project" or "projects" shall mean any area or place
+operated or to be operated by the authority for the parking or storing
+of motor and other vehicles and shall, without limiting the foregoing,
+include all real and personal property, driveways, roads, approaches,
+structures, terminals of all kinds, garages, meters, mechanical
+equipment, and all appurtenances and facilities either on, above or
+under the ground which are used or usable in connection with such
+parking or storing of such vehicles in the area of the city.
+  * NB Repealed per § 1621-r (see chapter 597 of 2023 § 2 for specifics)
+```

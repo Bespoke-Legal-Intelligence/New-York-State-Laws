@@ -4,7 +4,7 @@
 [Public Authorities Law](../../README.md) › [Article 7 — Parking Authorities](../README.md) › [Title 21 — Middletown Parking Authority](README.md)
 
 ```text
-  § 1621-k. Agreements of the city and the state. 1. The city is
+  * § 1621-k. Agreements of the city and the state. 1. The city is
 authorized to, and the state of New York does hereby pledge to and agree
 with the holders of the bonds or notes that neither the city nor the
 state, respectively, will limit or alter the rights hereby vested in the
@@ -26,15 +26,16 @@ bondholders and noteholders, that no public parking areas or spaces,
 including the installation and operation of parking meters on the public
 streets of the city, except those acquired and operated by the authority
 will be constructed or operated in the city by the city (except as
-herinafter provided), or by any public benefit or other corporation, the
-members of which are elected or appointed by city officials, until
-either (a) the bonds or notes, together with interest thereon, interest
+hereinafter provided), or by any public benefit or other corporation,
+the members of which are elected or appointed by city officials, until
+either: (a) the bonds or notes, together with interest thereon, interest
 on any unpaid installments of interest and all costs and expenses in
 connection with any action or proceeding by or on behalf of the
 bondholders or noteholders are fully met and discharged; or (b)
 principal or interest of any of the bonds or notes shall be overdue and
 unpaid for a period of three years or more; provided, however, nothing
-herein contained shall be deemed to impair the right of the city to
-continue to operate the presently existing municipal parking facilities
-and any replacements thereof.
+contained in this section shall be deemed to impair the right of the
+city to continue to operate the presently existing municipal parking
+facilities and any replacements thereof.
+  * NB Repealed per § 1621-r (see chapter 597 of 2023 § 2 for specifics)
 ```

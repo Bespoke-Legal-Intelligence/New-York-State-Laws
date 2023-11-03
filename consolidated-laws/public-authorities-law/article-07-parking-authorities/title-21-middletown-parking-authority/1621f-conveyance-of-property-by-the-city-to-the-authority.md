@@ -4,7 +4,7 @@
 [Public Authorities Law](../../README.md) › [Article 7 — Parking Authorities](../README.md) › [Title 21 — Middletown Parking Authority](README.md)
 
 ```text
-  § 1621-f. Conveyance of property by the city to the authority;
+  * § 1621-f. Conveyance of property by the city to the authority;
 acquisition of property by the city or by the authority. 1. The city
 may, by resolution or resolutions of the common council or by
 instruments authorized by such resolutions, convey, with or without
@@ -16,7 +16,7 @@ income of the city from parking facilities owned or operated by the
 city. In case of real property so conveyed, the title thereto shall
 remain in the city but the authority shall have the use and occupancy
 thereof for so long as its corporate existence shall continue, unless
-otherwise provided for by the authority and the city.  In the case of
+otherwise provided for by the authority and the city. In the case of
 personal property so conveyed, the title shall pass to the authority.
   2. The city may acquire by gift, purchase or condemnation real
 property in the name of the city for any of the projects or for the
@@ -52,14 +52,14 @@ contractual or other obligations of the city incurred in carrying out
 the provisions of this title shall be included in and provided for by
 each capital budget of the city thereafter made, if and to the extent
 that they may appropriately be included therein.
-  4. Subject to subdivision four of section one thousand six hundred
-twenty-one-d of this title, the authority may itself, subject to prior
-approval of the common council, acquire, in the name of the city, real
-property necessary or convenient in connection with any project at the
-cost and expense of the authority by purchase or condemnation pursuant
-to the eminent domain procedure law. The authority shall have the use
-and occupancy of such real property so long as its corporate existence
-shall continue.
+  4. Subject to subdivision four of section sixteen hundred twenty-one-d
+of this title, the authority may itself, subject to prior approval of
+the common council, acquire, in the name of the city, real property
+necessary or convenient in connection with any project at the cost and
+expense of the authority by purchase or condemnation pursuant to the
+eminent domain procedure law. The authority shall have the use and
+occupancy of such real property so long as its corporate existence shall
+continue.
   5. In case the authority shall have the use and occupancy of any real
 property which it shall determine is no longer required for a project,
 then, if such real property was acquired at the cost and expense of the
@@ -69,4 +69,5 @@ and expense of the authority, then the authority shall have power to
 sell, lease or otherwise dispose of said real property at public sale,
 and shall retain and have the power to use the proceeds of sale, rentals
 or other moneys derived from the disposition thereof for its purposes.
+  * NB Repealed per § 1621-r (see chapter 597 of 2023 § 2 for specifics)
 ```

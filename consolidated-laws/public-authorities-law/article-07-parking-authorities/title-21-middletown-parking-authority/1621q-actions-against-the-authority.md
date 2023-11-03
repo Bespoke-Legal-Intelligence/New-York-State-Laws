@@ -4,7 +4,7 @@
 [Public Authorities Law](../../README.md) › [Article 7 — Parking Authorities](../README.md) › [Title 21 — Middletown Parking Authority](README.md)
 
 ```text
-  § 1621-q. Actions against the authority. 1. In every action against
+  * § 1621-q. Actions against the authority. 1. In every action against
 the authority for damages, for injuries to real or personal property, or
 for the destruction thereof, or for personal injuries or death, the
 complaint shall contain an allegation that at least ninety days have
@@ -24,4 +24,5 @@ fifty-e of the general municipal law. An action against the authority
 for wrongful death shall be commenced in accordance with the notice of
 claim and time limitation provisions of title eleven of article nine of
 this chapter.
+  * NB Repealed per § 1621-r (see chapter 597 of 2023 § 2 for specifics)
 ```

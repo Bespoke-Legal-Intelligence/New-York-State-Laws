@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 10 — Office of General Services](README.md)
 
 ```text
-  * § 203-b. Additional duties of the commissioner regarding information
+  § 203-b. Additional duties of the commissioner regarding information
 on state boards. 1. As used in this section, "commissioner" means the
 commissioner of general services and, "board" means any board,
 commission, committee, council, task force or any similar state public
@@ -79,5 +79,4 @@ senate investigations and government operations committee on the status
 of the list including but not limited to the number of boards reported
 and verified. The commissioner shall also report on any impediments to
 obtaining information.
-  * NB Effective November 1, 2023
 ```

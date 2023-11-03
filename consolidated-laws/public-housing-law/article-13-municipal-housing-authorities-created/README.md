@@ -167,7 +167,6 @@
 - [Title 146 — Village of Sackets Harbor Housing Authority](title-146-village-of-sackets-harbor-housing/)
 - [Title 147 — Village of Watkins Glen Housing Authority](title-147-village-of-watkins-glen-housing/)
 - [Title 148 — Village of Horseheads Housing Authority](title-148-village-of-horseheads-housing/)
-- [Title 149 — Village of West Carthage Housing Authority](title-149-village-of-west-carthage-housing/)
 - [Title 150 — Village of Great Neck Housing Authority](title-150-village-of-great-neck-housing/)
 - [Title 150\* — Village of New Square Housing Authority](title-150-village-of-new-square-housing/)
 - [Title 151 — Village of Frankfort Housing Authority](title-151-village-of-frankfort-housing/)
@@ -200,7 +199,7 @@
 ```text
                               ARTICLE XIII
                  MUNICIPAL HOUSING AUTHORITIES, CREATED
-Title  1.     New York City Housing Authority (§§ 400--402-f).
+Title  1.     New York City Housing Authority (§§ 400--402-g).
        2.     Buffalo Municipal Housing Authority (§§ 403-404).
        3.     Schenectady Municipal Housing Authority (§§ 405-406).
        4.     New Rochelle Municipal Housing Authority (§ 407).
@@ -360,7 +359,6 @@ Title  1.     New York City Housing Authority (§§ 400--402-f).
        146.   Village of Sackets Harbor Housing Authority (§ 551).
        147.   Village of Watkins Glen Housing Authority (§ 552).
        148.   Village of Horseheads Housing Authority (§ 553).
-       149.   Village of West Carthage Housing Authority (§ 554).
        150.   Village of Great Neck Housing Authority (§ 555).
        150*.  Village of New Square Housing Authority (§ 555*).
        151.   Village of Frankfort Housing Authority (§ 556).

@@ -4,7 +4,7 @@
 [Public Authorities Law](../../README.md) › [Article 7 — Parking Authorities](../README.md) › [Title 21 — Middletown Parking Authority](README.md)
 
 ```text
-  § 1621-m. Bonds and notes legal investments for public officers and
+  * § 1621-m. Bonds and notes legal investments for public officers and
 fiduciaries. The bonds and notes are hereby made securities in which all
 public officers, and bodies of the state and all municipalities and
 municipal subdivisions, all insurance companies and associations and
@@ -21,4 +21,5 @@ which may be deposited with and shall be received by all public officers
 and bodies of this state and all municipalities and municipal
 subdivisions for any purpose for which the deposit of bonds or other
 obligations of this state is now or may hereafter be authorized.
+  * NB Repealed per § 1621-r (see chapter 597 of 2023 § 2 for specifics)
 ```

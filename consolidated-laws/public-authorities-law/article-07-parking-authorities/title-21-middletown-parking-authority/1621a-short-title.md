@@ -4,6 +4,7 @@
 [Public Authorities Law](../../README.md) › [Article 7 — Parking Authorities](../README.md) › [Title 21 — Middletown Parking Authority](README.md)
 
 ```text
-  § 1621-a. Short title. This title may be cited as the "Middletown
-parking authority act."
+  * § 1621-a. Short title. This title shall be known and may be cited as
+the "Middletown parking authority act."
+  * NB Repealed per § 1621-r (see chapter 597 of 2023 § 2 for specifics)
 ```

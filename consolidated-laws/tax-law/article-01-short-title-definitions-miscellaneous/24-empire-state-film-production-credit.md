@@ -350,6 +350,70 @@ subdivision (a) of this section.
 in subdivision (a) of this section shall be increased by an additional
 four hundred twenty million dollars in each year starting in two
 thousand ten through two thousand twenty-three and seven hundred million
+dollars in each year starting in two thousand twenty-four through two
+thousand thirty-four, provided however, seven million dollars of the
+annual allocation shall be available for the empire state film post
+production credit pursuant to section thirty-one of this article in two
+thousand thirteen and two thousand fourteen, twenty-five million dollars
+of the annual allocation shall be available for the empire state film
+post production credit pursuant to section thirty-one of this article in
+each year starting in two thousand fifteen through two thousand
+twenty-three, and forty-five million dollars of the annual allocation
+shall be available for the empire state film post production credit
+pursuant to section thirty-one of this article in each year starting in
+two thousand twenty-four through two thousand thirty-four. This amount
+shall be allocated by the department of economic development among
+taxpayers in accordance with subdivision (a) of this section. If the
+commissioner of economic development determines that the aggregate
+amount of tax credits available from additional pool 2 for the empire
+state film production tax credit have been previously allocated, and
+determines that the pending applications from eligible applicants for
+the empire state film post production tax credit pursuant to section
+thirty-one of this article is insufficient to utilize the balance of
+unallocated empire state film post production tax credits from such
+pool, the remainder, after such pending applications are considered,
+shall be made available for allocation in the empire state film tax
+credit pursuant to this section, subdivision twenty of section two
+hundred ten-B and subsection (gg) of section six hundred six of this
+chapter. Also, if the commissioner of economic development determines
+that the aggregate amount of tax credits available from additional pool
+2 for the empire state film post production tax credit have been
+previously allocated, and determines that the pending applications from
+eligible applicants for the empire state film production tax credit
+pursuant to this section is insufficient to utilize the balance of
+unallocated film production tax credits from such pool, then all or part
+of the remainder, after such pending applications are considered, shall
+be made available for allocation for the empire state film post
+production credit pursuant to this section, subdivision thirty-two of
+section two hundred ten-B and subsection (qq) of section six hundred six
+of this chapter. The department of economic development must notify
+taxpayers of their allocation year and include the allocation year on
+the certificate of tax credit. Taxpayers eligible to claim a credit must
+report the allocation year directly on their empire state film
+production credit tax form for each year a credit is claimed and include
+a copy of the certificate with their tax return. In the case of a
+qualified film that receives funds from additional pool 2 where the
+taxpayer filed an initial application before April first, two thousand
+twenty-three, no empire state film production credit shall be claimed
+before the later of (1) the taxable year the production of the qualified
+film is complete, or (2) the taxable year immediately following the
+allocation year for which the film has been allocated credit by the
+department of economic development. In the case of a qualified film that
+receives funds from additional pool 2 where the taxpayer filed an
+initial application on or after April first, two thousand twenty-three,
+no empire state film production credit shall be claimed before the later
+of (1) the taxable year the production of the qualified film is
+complete, or (2) the taxable year that includes the last day of the
+allocation year for which the film has been allocated credit by the
+department of economic development.
+  * NB Effective until the first of January next succeeding the date the
+department of economic development provides notice to the legislative
+bill drafting commission of a determination pursuant to § 7 of chapter
+683 of 2019
+  * (4) Additional pool 2 - The aggregate amount of tax credits allowed
+in subdivision (a) of this section shall be increased by an additional
+four hundred twenty million dollars in each year starting in two
+thousand ten through two thousand twenty-three and seven hundred million
 dollars each year starting in two thousand twenty-four through two
 thousand thirty-four, provided however, seven million dollars of the
 annual allocation shall be available for the empire state film post
@@ -396,72 +460,24 @@ the certificate of tax credit. Taxpayers eligible to claim a credit must
 report the allocation year directly on their empire state film
 production credit tax form for each year a credit is claimed and include
 a copy of the certificate with their tax return. In the case of a
-qualified film that receives funds from additional pool 2, no empire
-state film production credit shall be claimed before the later of (1)
-the taxable year the production of the qualified film is complete, or
-(2) the taxable year that includes the last day of the allocation year
-for which the film has been allocated credit by the department of
-economic development.
-  * NB Effective until the first of January next succeeding the date the
-department of economic development provides notice to the legislative
-bill drafting commission of a determination pursuant to § 6 sb 2 (b) of
-chapter 683 of 2019
-  * (4) Additional pool 2 - The aggregate amount of tax credits allowed
-in subdivision (a) of this section shall be increased by an additional
-four hundred twenty million dollars in each year starting in two
-thousand ten through two thousand twenty-three and seven hundred million
-dollars in each year starting in two thousand twenty-four through two
-thousand thirty-four, provided however, seven million dollars of the
-annual allocation shall be available for the empire state film post
-production credit pursuant to section thirty-one of this article in two
-thousand thirteen and two thousand fourteen, twenty-five million dollars
-of the annual allocation shall be available for the empire state film
-post production credit pursuant to section thirty-one of this article in
-each year starting in two thousand fifteen through two thousand
-twenty-three, and forty-five million dollars of the annual allocation
-shall be available for the empire state film post production credit
-pursuant to section thirty-one of this article in each year starting in
-two thousand twenty-four through two thousand thirty-four. This amount
-shall be allocated by the department of economic development among
-taxpayers in accordance with subdivision (a) of this section. If the
-commissioner of economic development determines that the aggregate
-amount of tax credits available from additional pool 2 for the empire
-state film production tax credit have been previously allocated, and
-determines that the pending applications from eligible applicants for
-the empire state film post production tax credit pursuant to section
-thirty-one of this article is insufficient to utilize the balance of
-unallocated empire state film post production tax credits from such
-pool, the remainder, after such pending applications are considered,
-shall be made available for allocation in the empire state film tax
-credit pursuant to this section, subdivision twenty of section two
-hundred ten-B and subsection (gg) of section six hundred six of this
-chapter. Also, if the commissioner of economic development determines
-that the aggregate amount of tax credits available from additional pool
-2 for the empire state film post production tax credit have been
-previously allocated, and determines that the pending applications from
-eligible applicants for the empire state film production tax credit
-pursuant to this section is insufficient to utilize the balance of
-unallocated film production tax credits from such pool, then all or part
-of the remainder, after such pending applications are considered, shall
-be made available for allocation for the empire state film post
-production credit pursuant to this section, subdivision thirty-two of
-section two hundred ten-B and subsection (qq) of section six hundred six
-of this chapter. The department of economic development must notify
-taxpayers of their allocation year and include the allocation year on
-the certificate of tax credit. Taxpayers eligible to claim a credit must
-report the allocation year directly on their empire state film
-production credit tax form for each year a credit is claimed and include
-a copy of the certificate with their tax return. In the case of a
-qualified film that receives funds from additional pool 2, no empire
-state film production credit shall be claimed before the later of (1)
-the taxable year the production of the qualified film is complete, or
-(2) the taxable year that includes the last day of the allocation year
-for which the film has been allocated credit by the department of
-economic development.
+qualified film that receives funds from additional pool 2 where the
+taxpayer filed an initial application before April first, two thousand
+twenty-three, no empire state film production credit shall be claimed
+before the later of (1) the taxable year the production of the qualified
+film is complete, or (2) the taxable year immediately following the
+allocation year for which the film has been allocated credit by the
+department of economic development. In the case of a qualified film that
+receives funds from additional pool 2 where the taxpayer filed an
+initial application on or after April first, two thousand twenty-three,
+no empire state film production credit shall be claimed before the later
+of (1) the taxable year the production of the qualified film is
+complete, or (2) the taxable year that includes the last day of the
+allocation year for which the film has been allocated credit by the
+department of economic development.
   * NB Effective on the first of January next succeeding the date the
 department of economic development provides notice to the legislative
-bill drafting commission of a determination pursuant to § 6 sb 2 (b) of
-chapter 683 of 2019
+bill drafting commission of a determination pursuant to § 7 of chapter
+683 of 2019
   (f) (1) With regard to certificates of tax credit issued on or after
 January first, two thousand twenty, the commissioner of economic
 development shall reduce by one-quarter of one percent the amount of

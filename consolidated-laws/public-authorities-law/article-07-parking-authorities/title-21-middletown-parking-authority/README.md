@@ -6,7 +6,7 @@
 ## Contents
 
 - [§ 1621-A Short title](1621a-short-title.md)
-- [§ 1621-B So in original](1621b-so-in-original.md)
+- [§ 1621-B Definitions](1621b-definitions.md)
 - [§ 1621-C Middletown parking authority](1621c-middletown-parking-authority.md)
 - [§ 1621-D Purpose and powers of the authority](1621d-purpose-and-powers-of-the-authority.md)
 - [§ 1621-E Civil service status of officers and employees](1621e-civil-service-status-of-officers-and-employees.md)
@@ -23,22 +23,22 @@
 - [§ 1621-P Remedies of bondholders](1621p-remedies-of-bondholders.md)
 - [§ 1621-Q Actions against the authority](1621q-actions-against-the-authority.md)
 - [§ 1621-R Termination of the authority](1621r-termination-of-the-authority.md)
-- [§ 1621-S Title not affected if in part unconstitutional or ineffective](1621s-title-not-affected-if-in-part-unconstitutional.md)
+- [§ 1621-S Severability](1621s-severability.md)
 - [§ 1621-T Inconsistent provisions in other acts superseded](1621t-inconsistent-provisions-in-other-acts-superseded.md)
 
 <details>
 <summary>Official heading of Title 21, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                TITLE 21
+                               * TITLE 21
                       MIDDLETOWN PARKING AUTHORITY
 Section 1621-a. Short title.
         1621-b. Definitions.
         1621-c. Middletown parking authority.
         1621-d. Purpose and powers of the authority.
         1621-e. Civil service status of officers and employees.
-        1621-f. Conveyance  of  property  by  the city to the authority;
-                  acquisition  of  property  by  the  city  or  by   the
+        1621-f. Conveyance of property by the city to the authority;
+                  acquisition of property by the city or by the
                   authority.
         1621-g. Construction and purchase contracts.
         1621-h. Moneys of the authority.
@@ -46,16 +46,16 @@ Section 1621-a. Short title.
         1621-j. Notes of the authority.
         1621-k. Agreements of the city and the state.
         1621-l. State and city not liable on bonds.
-        1621-m. Bonds  and  notes  legal investments for public officers
+        1621-m. Bonds and notes legal investments for public officers
                   and fiduciaries.
         1621-n. Tax exemptions.
         1621-o. Tax contract by the state.
         1621-p. Remedies of bondholders.
         1621-q. Actions against the authority.
         1621-r. Termination of the authority.
-        1621-s. Title  not  affected  if  in  part  unconstitutional  or
-                  ineffective.
+        1621-s. Severability.
         1621-t. Inconsistent provisions in other acts superseded.
+  * NB Repealed per § 1621-r (see chapter 597 of 2023 § 2 for specifics)
 ```
 
 </details>

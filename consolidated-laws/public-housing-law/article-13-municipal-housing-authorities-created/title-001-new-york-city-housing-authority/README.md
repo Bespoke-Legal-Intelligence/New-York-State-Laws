@@ -17,6 +17,7 @@
 - [§ 402-D The governor may issue an executive order, pursuant to article two-B of the executive law and subject to the availability of a state appr...](402d-the-governor-may-issue-an-executive-order.md)
 - [§ 402-E Disruption of vital services](402e-disruption-of-vital-services.md)
 - [§ 402-F Searchable ticket database](402f-searchable-ticket-database.md)
+- [§ 402-G Contracting with minority and women owned enterprises and small businesses](402g-contracting-with-minority-and-women-owned.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -37,6 +38,8 @@ Section 400.     Validation.
         402-d.   (Enacted without section heading).
         402-e.   Disruption of vital services.
         402-f.   Searchable ticket database.
+        402-g.   Contracting with minority and women owned enterprises
+                   and small businesses.
 ```
 
 </details>
