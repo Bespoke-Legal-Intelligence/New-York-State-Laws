@@ -17,6 +17,7 @@
 - [Title 5 — Children With Physical Disabilities](title-5-children-with-physical-disabilities/)
 - [Title 6\* — Federal Child Care and Adult Food Program](title-6-federal-child-care-and-adult-food/)
 - [Title 6 — Emergency Nutrition Aid Program For Pregnant Women and Adolescents](title-6-emergency-nutrition-aid-program/)
+- [Title 6-A — Doulas For Medicaid](title-6a-doulas-for-medicaid/)
 - [Title 7 — Youth Sports](title-7-youth-sports/)
 - [Title 8 — Childhood Obesity Prevention Program](title-8-childhood-obesity-prevention-program/)
 
@@ -38,6 +39,7 @@ Title       I. General provisions (§§ 2500--2509-c).
           VI*. Federal child care and adult food program (§§ 2585-2589).
            VI. Emergency nutrition aid program for pregnant women and
                   adolescents (§§ 2590-2592)
+         VI-A. Doulas for medicaid (§§ 2594-a--2594-c).
           VII. Youth sports (§ 2595).
          VIII. Childhood obesity prevention program (§§ 2599-a--2599-d).
 ```

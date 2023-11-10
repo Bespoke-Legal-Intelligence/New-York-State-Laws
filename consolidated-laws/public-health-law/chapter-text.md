@@ -187,6 +187,7 @@ Article
                  * VI.   Emergency nutrition aid program for pregnant
                           women and adolescents (§§2590-2592)
                  * NB Expired March 31, 1986
+                 VI-A.   Doulas for medicaid (§§ 2594-a--2594-c).
                   VII.   Youth sports (§ 2595).
                  VIII.   Childhood obesity prevention program
                           (§§2599-a--2599-d).
