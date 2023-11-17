@@ -4,10 +4,11 @@
 [Highway Law](../README.md) › [Article 12 — State Routes](README.md)
 
 ```text
-  § 345-b. Portion of the state highway system to be designated as the
+  * § 345-b. Portion of the state highway system to be designated as the
 "Doc Schelin Memorial Highway". All that portion of the state highway
 system constituting state route three hundred forty between Thorpe Drive
 and state route three hundred three in the town of Orangetown, county of
 Rockland, shall be designated and known as the "Doc Schelin Memorial
 Highway".
+  * NB There are 4 § 345-b's
 ```

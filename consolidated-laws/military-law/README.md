@@ -8,7 +8,7 @@
 | Senate code | MIL |
 | Type | Consolidated law, chapter 36 |
 | Sections | 305 |
-| Last changed | 22 Sep 2023 |
+| Last changed | 17 Nov 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Military |
 
@@ -33,6 +33,7 @@ Article     I. The militia of the state (§§ 1-24.)
 
 ## Recent changes
 
+- [17 Nov 2023](../../changes/2023/2023-11-17.md): 1 amended
 - [22 Sep 2023](../../changes/2023/2023-09-22.md): 1 amended
 - [12 May 2023](../../changes/2023/2023-05-12.md): 3 amended
 - [7 Apr 2023](../../changes/2023/2023-04-07.md): 5 amended
@@ -42,7 +43,6 @@ Article     I. The militia of the state (§§ 1-24.)
 - [22 Apr 2022](../../changes/2022/2022-04-22.md): 5 amended
 - [15 Apr 2022](../../changes/2022/2022-04-15.md): 1 amended
 - [23 Apr 2021](../../changes/2021/2021-04-23.md): 1 amended
-- [13 Nov 2020](../../changes/2020/2020-11-13.md): 6 amended
 
 ## Contents
 

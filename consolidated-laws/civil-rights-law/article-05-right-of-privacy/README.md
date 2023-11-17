@@ -13,6 +13,7 @@
 - [§ 50-D Personnel records of court officers](50d-personnel-records-of-court-officers.md)
 - [§ 50-E Personnel records of bridge and tunnel officers, sergeants and lieutenants](50e-personnel-records-of-bridge-and-tunnel-officers-sergeants-and-lieutenants.md)
 - [§ 50-F Right of publicity](50f-right-of-publicity.md)
+- [§ 50-G Disclosure of convictions sealed pursuant to section 160](50g-disclosure-of-convictions-sealed-pursuant-to-section-160.md)
 - [§ 51 Action for injunction and for damages](51-action-for-injunction-and-for-damages.md)
 - [§ 52 Televising, broadcasting or taking motion pictures of certain proceedings prohibited](52-televising-broadcasting-or-taking-motion-pictures-of-certain-proceedings.md)
 - [§ 52-A Private right of action for unwarranted video imaging of residential premises](52a-private-right-of-action-for-unwarranted-video-imaging-of-residential-premises.md)
@@ -36,6 +37,8 @@ Section 50.     Right of privacy.
         50-e.   Personnel records of bridge and tunnel officers,
                   sergeants and lieutenants.
         50-f.   Right of publicity.
+        50-g.   Disclosure of convictions sealed pursuant to section
+                  160.57 of the criminal procedure law.
         51.     Action for injunction and for damages.
         52.     Televising, broadcasting or taking motion pictures of
                   certain proceedings prohibited.

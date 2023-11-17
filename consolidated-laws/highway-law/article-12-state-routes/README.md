@@ -382,8 +382,18 @@
 - [§ 344-O\*9 Portion of the state highway system to be designated as the "Trooper Theodore A](344o-9-portion-of-the-state-highway-system-to-be-designated-as-the-trooper-theodore.md)
 - [§ 344-O\*10 Portion of the state highway system to be designated as the "Firefighter Peyton L](344o-10-portion-of-the-state-highway-system-to-be-designated-as-the-firefighter-peyton-l.md)
 - [§ 344-O\*11 Portion of the state highway system to be designated as the "Trooper Fabio Buttitta Memorial Bridge"](344o-11-portion-of-the-state-highway-system-to-be-designated-as-the-trooper-fabio.md)
+- [§ 344-O\*12 Portion of the state highway system to be designated as the "Lance Cpl](344o-12-portion-of-the-state-highway-system-to-be-designated-as-the-lance-cpl.md)
+- [§ 344-O\*13 Portion of the state highway system to be designated as the "Major General Norbert J](344o-13-portion-of-the-state-highway-system-to-be-designated-as-the-major-general.md)
+- [§ 344-O\*14 Portion of the state highway system to be designated as the "Catholic War Veterans Memorial Highway"](344o-14-portion-of-the-state-highway-system-to-be-designated-as-the-catholic-war.md)
+- [§ 344-O\*15 Portion of state highway system to be designated as the "John Jay High School Veterans Memorial Highway"](344o-15-portion-of-state-highway-system-to-be-designated-as-the-john-jay-high-school.md)
+- [§ 344-O\*16 Portion of the state highway system to be designated and known as the "Specialist Gerald B](344o-16-portion-of-the-state-highway-system-to-be-designated-and-known-as-the-specialist.md)
+- [§ 344-O\*17 Portion of the state highway system to be designated and known as the "Specialist Peter J](344o-17-portion-of-the-state-highway-system-to-be-designated-and-known-as-the-specialist.md)
+- [§ 344-O\*18 Portion of the state highway system to be designated as the "SP4 George Harold Fry Memorial Highway"](344o-18-portion-of-the-state-highway-system-to-be-designated-as-the-sp4-george-harold.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 - [§ 345-B Portion of the state highway system to be designated as the "Doc Schelin Memorial Highway"](345b-portion-of-the-state-highway-system-to-be-designated-as-the-doc-schelin-memorial.md)
+- [§ 345-B\*2 Portion of the state highway system to be designated as the "Sergeant Elijah A](345b-2-portion-of-the-state-highway-system-to-be-designated-as-the-sergeant-elijah.md)
+- [§ 345-B\*3 Portion of the state highway system to be designated as the "Corporal Derick Franklin Brinckerhoff Memorial Highway"](345b-3-portion-of-the-state-highway-system-to-be-designated-as-the-corporal-derick.md)
+- [§ 345-B\*4 Portion of the state highway system to be designated as the "Chief Daniel Nimham Memorial Highway"](345b-4-portion-of-the-state-highway-system-to-be-designated-as-the-chief-daniel-nimham.md)
 
 <details>
 <summary>Official heading of Article 12, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -1282,9 +1292,36 @@ Section 340-a.     Designation of state interstate routes.
                      Highway".
         344-o*11.  Portion of the state highway system to be designated
                      as the "Trooper Fabio Buttitta Memorial Bridge".
+        344-o*12.  Portion of the state highway system to be designated
+                     as the "Lance Cpl. Scott Lee Schultz Memorial
+                     Bridge".
+        344-o*13.  Portion of the state highway system to be designated
+                     as the "Major General Norbert J. Rappl Memorial
+                     Highway".
+        344-o*14.  Portion of the state highway system to be designated
+                     as the "Catholic War Veterans Memorial Highway".
+        344-o*15.  Portion of state highway system to be designated as
+                     the "John Jay High School Veterans Memorial
+                     Highway".
+        344-o*16.  Portion of the state highway system to be designated
+                     and known as the "Specialist Gerald B. Penn
+                     Memorial Bridge".
+        344-o*17.  Portion of the state highway system to be designated
+                     and known as the "Specialist Peter J. Loretto, Jr.
+                     Memorial Bridge".
+        344-o*18.  Portion of the state highway system to be designated
+                     as the "SP4 George Harold Fry Memorial Highway".
         345-a.     Abandonment and transfer of state highways.
         345-b.     Portion of the state highway system to be designated
                      as the "Doc Schelin Memorial Highway".
+        345-b*2.   Portion of the state highway system to be designated
+                     as the "Sergeant Elijah A. Briggs Memorial
+                     Highway".
+        345-b*3.   Portion of the state highway system to be designated
+                     as the "Corporal Derick Franklin Brinckerhoff
+                     Memorial Highway".
+        345-b*4.   Portion of the state highway system to be designated
+                     as the "Chief Daniel Nimham Memorial Highway".
 ```
 
 </details>

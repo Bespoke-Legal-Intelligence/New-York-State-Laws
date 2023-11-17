@@ -12,6 +12,7 @@
 - [§ 160.45 Polygraph tests; prohibition against](160.45-polygraph-tests-prohibition-against.md)
 - [§ 160.50 Order upon termination of criminal action in favor of the accused](160.50-order-upon-termination-of-criminal.md)
 - [§ 160.55 Order upon termination of criminal action by conviction for noncriminal offense; entry of waiver; administrative findings](160.55-order-upon-termination-of-criminal.md)
+- [§ 160.57 Automatic sealing of convictions](160.57-automatic-sealing-of-convictions.md)
 - [§ 160.58 Conditional sealing of certain controlled substance, marihuana or specified offense convictions](160.58-conditional-sealing-of-certain.md)
 - [§ 160.59 Sealing of certain convictions](160.59-sealing-of-certain-convictions.md)
 - [§ 160.60 Effect of termination of criminal actions in favor of the accused](160.60-effect-of-termination-of-criminal.md)
@@ -35,6 +36,7 @@ Section 160.10 Fingerprinting; duties of police with respect thereto.
         160.55 Order upon termination of criminal action by conviction
                  for noncriminal offense; entry of waiver;
                  administrative findings.
+        160.57 Automatic sealing of convictions.
         160.58 Conditional sealing of certain controlled substance,
                  marihuana or specified offense convictions.
         160.59 Sealing of certain convictions.

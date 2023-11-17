@@ -29,6 +29,7 @@
 - [§ 753 Stay in premises occupied for dwelling purposes](753-stay-in-premises-occupied-for-dwelling-purposes.md)
 - [§ 755 Stay of proceeding or action for rent upon failure to make repairs](755-stay-of-proceeding-or-action-for-rent-upon-failure.md)
 - [§ 756 Stay of summary proceedings or actions for rent under certain conditions](756-stay-of-summary-proceedings-or-actions-for-rent.md)
+- [§ 756-A Stay of action or proceeding when a party's claim to title is in dispute](756a-stay-of-action-or-proceeding-when-a-partys-claim.md)
 - [§ 757 Eviction as the result of foreclosure](757-eviction-as-the-result-of-foreclosure.md)
 - [§ 761 Redemption by lessee](761-redemption-by-lessee.md)
 - [§ 763 Redemption by creditor of lessee](763-redemption-by-creditor-of-lessee.md)
@@ -74,6 +75,8 @@ Section 701.   Jurisdiction; courts; venue.
                  make repairs.
         756.   Stay of summary proceedings or actions for rent under
                  certain conditions.
+        756-a. Stay of action or proceeding when a party's claim to
+                 title is in dispute.
         757.   Eviction as the result of foreclosure.
         761.   Redemption by lessee.
         763.   Redemption by creditor of lessee.

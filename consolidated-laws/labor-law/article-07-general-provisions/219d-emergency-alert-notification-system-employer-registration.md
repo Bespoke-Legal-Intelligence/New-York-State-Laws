@@ -4,8 +4,8 @@
 [Labor Law](../README.md) › [Article 7 — General Provisions](README.md)
 
 ```text
-  * § 219-d. Emergency alert notification system employer registration.
-1.  The department, in consultation with the state office of information
+  § 219-d. Emergency alert notification system employer registration. 1.
+The department, in consultation with the state office of information
 technology services, shall provide every employer in the state with a
 registration form which shall be created by the state office of
 information technology services, to voluntarily register with the
@@ -18,5 +18,4 @@ workers of information received from an emergency alert notification.
   2. For the purposes of this section, the "emergency alert notification
 system" shall mean the state office of information technology services
 alert system known as alert.ny.gov, or NY-Alert.
-  * NB Effective October 15, 2023
 ```

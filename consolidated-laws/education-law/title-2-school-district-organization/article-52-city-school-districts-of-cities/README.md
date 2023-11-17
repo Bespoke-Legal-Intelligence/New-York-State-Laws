@@ -45,6 +45,7 @@
 - [§ 2584 Bonds of employees](2584-bonds-of-employees.md)
 - [§ 2585 Continuation in office of boards, bureaus, teachers, principals and other employees, et cetera](2585-continuation-in-office-of-boards-bureaus-teachers.md)
 - [§ 2586 Anniversary day as a holiday for pupils in the public schools of the borough of Brooklyn and in the borough of Queens, city of New York](2586-anniversary-day-as-a-holiday-for-pupils-in-the-public.md)
+- [§ 2586-A Diwali as a holiday in the public schools of the city of New York](2586a-diwali-as-a-holiday-in-the-public-schools-of-the-city.md)
 - [§ 2587 Tenure in fashion institute of technology](2587-tenure-in-fashion-institute-of-technology.md)
 - [§ 2588 Seniority, retention and displacement rights in connection with abolition of positions in city school districts of cities having more tha...](2588-seniority-retention-and-displacement-rights-in-connection.md)
 
@@ -135,6 +136,8 @@ Section 2550.   Application of article.
         2586.   Anniversary day as a holiday for pupils in the public
                   schools of the borough of Brooklyn and in the borough
                   of Queens, city of New York.
+        2586-a. Diwali as a holiday in the public schools of the city of
+                  New York.
         2587.   Tenure in fashion institute of technology.
         2588.   Seniority, retention and displacement rights in
                   connection with abolition of positions in city school

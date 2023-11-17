@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | LEG |
 | Type | Consolidated law, chapter 32 |
-| Sections | 127 |
-| Last changed | 12 May 2023 |
+| Sections | 128 |
+| Last changed | 17 Nov 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Legislative |
 
@@ -27,10 +27,11 @@ Became a law February 17, 1909, with the approval of the Governor.
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (29 lines)](chapter-text.md)
+[Full chapter text (30 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [17 Nov 2023](../../changes/2023/2023-11-17.md): 1 added
 - [12 May 2023](../../changes/2023/2023-05-12.md): 14 amended
 - [6 Jan 2023](../../changes/2023/2023-01-06.md): 2 amended, 1 added
 - [15 Jul 2022](../../changes/2022/2022-07-15.md): 4 amended
@@ -40,7 +41,6 @@ Assembly, do enact as follows:
 - [23 Apr 2021](../../changes/2021/2021-04-23.md): 14 amended
 - [17 Apr 2020](../../changes/2020/2020-04-17.md): 14 amended
 - [20 Mar 2020](../../changes/2020/2020-03-20.md): 1 amended
-- [22 Nov 2019](../../changes/2019/2019-11-22.md): 1 amended
 
 ## Contents
 
@@ -56,4 +56,5 @@ Assembly, do enact as follows:
 - [Article 5-A — Legislative Commissions](article-5a-legislative-commissions/)
 - [Article 5-B — Legislative Review of Administrative Regulations](article-5b-legislative-review-of-administrative-regulations/)
 - [Article 6 — Internal Control Responsibilities of the State Legislature](article-6-internal-control-responsibilities-of-the-state/)
+- [Article 6-A — Veterans Internship Program (vip Ny)](article-6a-veterans-internship-program-vip-ny/)
 - [Article 7 — Laws Repealed; When to Take Effect](article-7-laws-repealed-when-to-take-effect/)

@@ -4,7 +4,7 @@
 [Tax Law](../../../README.md) › [Article 29 — Taxes Authorized For Cities, Counties and School Districts](../../README.md) › [Part 1 — Authority to Impose Taxes](../README.md) › [Subpart A — Taxes Administered By Cities, Counties and School Districts](README.md)
 
 ```text
-  * § 1202-l. Hotel and motel taxes in Ulster county. (1)
+  * § 1202-l. Hotel and motel taxes in Ulster county.  (1)
 Notwithstanding any other provision of law to the contrary, the county
 of Ulster is hereby authorized and empowered to adopt and amend local
 laws imposing in such county a tax, in addition to any other tax
@@ -12,19 +12,22 @@ authorized and imposed pursuant to this article, such as the legislature
 has or would have the power and authority to impose upon persons
 occupying hotel or motel rooms in such county.
   For the purposes of this section, the term "hotel" or "motel" shall
-mean and include any facility providing lodging on an overnight basis
-and shall include those facilities designated and commonly known as "bed
-and breakfast" and "tourist" facilities.
-  The rates of such tax shall not exceed two per cent of the per diem
-rental rate for each room, provided, however, such tax shall not be
-applicable to a permanent resident of such hotel or motel. For the
-purposes of this section the term "permanent resident" shall mean a
-person occupying any room or rooms in a hotel or motel for at least
-ninety consecutive days.
-  (2) Such tax may be collected and administered by the county treasurer
-of the county of Ulster by such means and in such manner as other taxes
-which are now collected and administered by such officer or as otherwise
-may be provided by such local law.
+mean and include any facility consisting of rentable units and providing
+lodging on an overnight basis.
+  The rates of such tax imposed upon persons occupying hotel or motel
+rooms shall not exceed four per cent of the per diem rental rate for
+each room, provided, however, such tax shall not be applicable to a
+permanent resident of such hotel or motel. The rates of such tax imposed
+upon persons occupying short-term rentals shall not exceed four per cent
+of the per diem rental rate for each room, provided, however, such tax
+shall not be applicable to a permanent resident of such short-term
+rental. For the purposes of this section the term "permanent resident"
+shall mean a person occupying any room or rooms in a hotel or motel or
+short-term rental for at least ninety consecutive days.
+  (2) Such tax may be collected and administered by the commissioner of
+finance of the county of Ulster by such means and in such manner as
+other taxes which are now collected and administered by such officer or
+as otherwise may be provided by such local law.
   (3) Such local laws may provide that any tax imposed shall be paid by
 the person liable therefor to the owner of the hotel or motel room
 occupied or to the person entitled to be paid the rent or charge for the
@@ -107,21 +110,7 @@ filed as provided by law the tax may be assessed at any time.
   (9) All revenues resulting from the imposition of the tax authorized
 by this section shall be paid into the treasury of the county of Ulster
 and shall be credited to and deposited in the general fund of the
-county; and the local law shall provide that ten percent, or no less
-than one hundred fifty thousand dollars, whichever is greater, of the
-revenues generated annually shall be credited to and deposited in a
-special tourism and convention fund and the collections therefrom shall
-thereafter be allocated by the county legislature of Ulster county only
-for tourism and convention promotion and development. The funds so
-allocated shall be used solely for the purpose of promoting Ulster
-county, its cities, towns, villages and the region in order to increase
-convention/trade show and tourist business. The county may contract with
-a not-for-profit corporation for promotional services to assist the
-county in its tourism and conventions promotion and development efforts.
-Tourism and conventions promotion and development being specifically
-defined as the placing and purchasing of advertising promoting the
-county, and engaging in such other efforts as are designed to induce
-tourist and convention attraction to Ulster county.
+county.
   (10) If any provision of this section or the application thereof to
 any person or circumstance shall be held invalid, the remainder of this
 section and the application of such provision to other persons or
