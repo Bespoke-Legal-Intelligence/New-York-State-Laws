@@ -12,6 +12,7 @@
 - [§ 12 Uncompleted dwellings](12-uncompleted-dwellings.md)
 - [§ 13 Prohibited uses: The storage or keeping of any combustible gaseous material within any multiple dwelling shall be unlawful unless a writt...](13-prohibited-uses-the-storage-or-keeping-of-any-combustible-gaseous-material.md)
 - [§ 15 Smoke detecting devices](15-smoke-detecting-devices.md)
+- [§ 16 Multiple residence emergency information](16-multiple-residence-emergency-information.md)
 
 <details>
 <summary>Official heading of Article 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -26,6 +27,7 @@ Section 8.  General application to all dwellings.
         12. Uncompleted dwellings.
         13. Prohibited uses.
         15. Smoke detecting devices.
+        16. Multiple residence emergency information.
 ```
 
 </details>

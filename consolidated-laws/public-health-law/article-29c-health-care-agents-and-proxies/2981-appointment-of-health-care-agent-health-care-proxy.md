@@ -46,6 +46,22 @@ regulations shall require that a physician, nurse practitioner,
 physician assistant, or clinical psychologist possess specialized
 training or three years experience in treating developmental
 disabilities.
+  2-a. Alternate procedure for witnessing of health care proxies.
+Witnessing a health care proxy under this section may be done using
+audio-video technology, for either or both witnesses, provided that the
+following conditions are met (as used in this subdivision, "remote
+witness" means a witness acting using audio-visual technology):
+  (a) The principal, if not personally known to a remote witness, shall
+display valid photographic identification to the remote witness during
+the audio-video conference;
+  (b) The audio-video conference shall allow for direct interaction
+between the principal and any remote witness;
+  (c) Any remote witness shall receive a legible copy of the health care
+proxy, which shall be transmitted via facsimile or electronic means,
+within twenty-four hours of the proxy being signed by the principal
+during the audio-video conference; and
+  (d) The remote witness shall sign the transmitted copy of the proxy,
+and transmit it back to the principal.
   3. Restrictions on who may be and limitations on a health care agent.
 (a) An operator, administrator or employee of a hospital may not be
 appointed as a health care agent by any person who, at the time of the

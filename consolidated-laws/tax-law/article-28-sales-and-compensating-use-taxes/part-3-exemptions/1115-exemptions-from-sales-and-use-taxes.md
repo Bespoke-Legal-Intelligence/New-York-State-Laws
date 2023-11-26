@@ -38,8 +38,8 @@ the presence of medicinal ingredients therein or medical equipment
 (including component parts thereof) and supplies, other than such drugs
 and medicines, purchased at retail for use in performing medical and
 similar services for compensation.
-  (3-a) Feminine hygiene products, including, but not limited to,
-sanitary napkins, tampons and panty liners.
+  (3-a) Menstrual products, including, but not limited to, pads, tampons
+and panty liners.
   (3-b) Adult-use cannabis products as defined by article twenty-C of
 this chapter.
   (4) Prosthetic aids, hearing aids, eyeglasses and artificial devices

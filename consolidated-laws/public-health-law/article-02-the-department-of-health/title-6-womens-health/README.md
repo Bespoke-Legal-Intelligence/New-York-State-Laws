@@ -8,7 +8,7 @@
 ## Contents
 
 - [§ 266 Department website](266-department-website.md)
-- [§ 267 Feminine hygiene products in schools](267-feminine-hygiene-products-in-schools.md)
+- [§ 267 Menstrual products in schools](267-menstrual-products-in-schools.md)
 - [§ 267-A Self-administered hormonal contraceptives](267a-self-administered-hormonal-contraceptives.md)
 - [§ 268\*2 Informational materials concerning menstrual disorders](268-2-informational-materials-concerning-menstrual-disorders.md)
 
@@ -19,7 +19,7 @@
                                 TITLE VI
                              WOMEN'S HEALTH
 Section 266.   Department website.
-        267.   Feminine hygiene products in schools.
+        267.   Menstrual products in schools.
         267-a. Self-administered hormonal contraceptives.
         268*2. Informational materials concerning menstrual disorders.
 ```

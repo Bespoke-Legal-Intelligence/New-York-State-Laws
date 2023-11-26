@@ -14,8 +14,9 @@
 - [§ 13.06 Consents to public utilities; licenses and easements](13.06-consents-to-public-utilities-licenses.md)
 - [§ 13.07 Signs and advertising structures restricted](13.07-signs-and-advertising-structures.md)
 - [§ 13.09 Solicitation restricted](13.09-solicitation-restricted.md)
-- [§ 13.10 Deposit of rubbish](13.10-deposit-of-rubbish.md)
+- [§ 13.10 Dumping on park lands prohibited](13.10-dumping-on-park-lands-prohibited.md)
 - [§ 13.11 Real property abutting parks or parkways](13.11-real-property-abutting-parks.md)
+- [§ 13.12 Littering on park lands prohibited](13.12-littering-on-park-lands-prohibited.md)
 - [§ 13.13 Regulation of boating and water sports](13.13-regulation-of-boating-and-water-sports.md)
 - [§ 13.14 Closure of lands owned, held or administered by the office](13.14-closure-of-lands-owned-held.md)
 - [§ 13.15 Fees and deposits; refunds](13.15-fees-and-deposits-refunds.md)
@@ -48,8 +49,9 @@ Section 13.01   Transfer of parks, parkways and other property.
         13.06   Consents to public utilities; licenses and easements.
         13.07   Signs and advertising structures restricted.
         13.09   Solicitation restricted.
-        13.10   Deposit of rubbish.
+        13.10   Dumping on park lands prohibited.
         13.11   Real property abutting parks or parkways.
+        13.12   Littering on park lands prohibited.
         13.13   Regulation of boating and water sports.
         13.14   Closure of lands owned, held or administered by the
                   office.

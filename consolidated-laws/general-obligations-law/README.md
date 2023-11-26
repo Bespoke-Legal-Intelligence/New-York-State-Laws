@@ -8,7 +8,7 @@
 | Senate code | GOB |
 | Type | Consolidated law, chapter 24-A |
 | Sections | 209 (1 repealed) |
-| Last changed | 27 Oct 2023 |
+| Last changed | 26 Nov 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Obligations |
 
@@ -31,6 +31,7 @@ Became a law April 23, 1963, with the approval of the Governor.  Passed,
 
 ## Recent changes
 
+- [26 Nov 2023](../../changes/2023/2023-11-26.md): 1 amended
 - [27 Oct 2023](../../changes/2023/2023-10-27.md): 1 amended
 - [6 Jan 2023](../../changes/2023/2023-01-06.md): 1 amended
 - [30 Dec 2022](../../changes/2022/2022-12-30.md): 1 amended
@@ -40,7 +41,6 @@ Became a law April 23, 1963, with the approval of the Governor.  Passed,
 - [24 Sep 2021](../../changes/2021/2021-09-24.md): 1 amended
 - [18 Jun 2021](../../changes/2021/2021-06-18.md): 15 amended, 1 repealed
 - [9 Apr 2021](../../changes/2021/2021-04-09.md): 4 added
-- [2 Apr 2021](../../changes/2021/2021-04-02.md): 4 amended
 
 ## Contents
 

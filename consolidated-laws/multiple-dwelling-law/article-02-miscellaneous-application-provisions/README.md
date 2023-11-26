@@ -12,6 +12,7 @@
 - [§ 12 Prohibited uses](12-prohibited-uses.md)
 - [§ 13 Application of chapter to existing dwellings](13-application-of-chapter-to-existing-dwellings.md)
 - [§ 14 Application of chapter to uncompleted dwellings](14-application-of-chapter-to-uncompleted-dwellings.md)
+- [§ 15 Multiple dwelling emergency information](15-multiple-dwelling-emergency-information.md)
 
 <details>
 <summary>Official heading of Article 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -26,6 +27,7 @@ Section 8.  General application of chapter to dwellings.
         12. Prohibited uses.
         13. Application of chapter to existing dwellings.
         14. Application of chapter to uncompleted dwellings.
+        15. Multiple dwelling emergency information.
 ```
 
 </details>

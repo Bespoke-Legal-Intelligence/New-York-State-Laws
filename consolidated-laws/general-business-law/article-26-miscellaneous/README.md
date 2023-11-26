@@ -14,6 +14,7 @@
 - [§ 390-C Prohibit persons under eighteen years of age in certain facilities](390c-prohibit-persons-under-eighteen-years-of-age-in-certain-facilities.md)
 - [§ 390-C\*2 Posting of warnings by commercial entities offering internet access to the public](390c-2-posting-of-warnings-by-commercial-entities-offering-internet-access.md)
 - [§ 390-D Information concerning services for human trafficking victims in facilities at truck stops](390d-information-concerning-services-for-human-trafficking-victims-in-facilities.md)
+- [§ 390-E Unauthorized installation of certain security devices prohibited](390e-unauthorized-installation-of-certain-security-devices-prohibited.md)
 - [§ 391 Marking retreaded, recapped or recut tires](391-marking-retreaded-recapped-or-recut-tires.md)
 - [§ 391-A Unlawful acts relating to liquid fuels, lubricating oils and similar products](391a-unlawful-acts-relating-to-liquid-fuels-lubricating-oils-and-similar-products.md)
 - [§ 391-B Prohibit any sale of dangerous clothing articles](391b-prohibit-any-sale-of-dangerous-clothing-articles.md)
@@ -158,6 +159,7 @@
 - [§ 399-II Furniture tip restraint device](399ii-furniture-tip-restraint-device.md)
 - [§ 399-II\*2 Prohibit the sale of crib bumper pads and restrict use of such pads in certain settings](399ii-2-prohibit-the-sale-of-crib-bumper-pads-and-restrict-use-of-such-pads-in-certain.md)
 - [§ 399-J Safety standards; moveable soccer goals](399j-safety-standards-moveable-soccer-goals.md)
+- [§ 399-K Access to restroom facilities](399k-access-to-restroom-facilities.md)
 - [§ 399-M Disclosures in advertisement and sale of unassembled goods](399m-disclosures-in-advertisement-and-sale-of-unassembled-goods.md)
 - [§ 399-N Approval of electrical devices](399n-approval-of-electrical-devices.md)
 - [§ 399-NN Sale of digital electronic equipment; diagnostic and repair information](399nn-sale-of-digital-electronic-equipment-diagnostic-and-repair-information.md)
@@ -209,6 +211,8 @@ Section 390.         Substitution of spurious oils for internal
                        internet access to the public.
         390-d.       Information concerning services for human
                        trafficking victims in facilities at truck stops.
+        390-e.       Unauthorized installation of certain security
+                       devices prohibited.
         391.         Marking retreaded, recapped or recut tires.
         391-a.       Unlawful acts relating to liquid fuels, lubricating
                        oils and similar products.
@@ -413,6 +417,7 @@ Section 390.         Substitution of spurious oils for internal
         399-ii*2.    Prohibit the sale of crib bumper pads and restrict
                        use of such pads in certain settings.
         399-j.       Safety standards; moveable soccer goals.
+        399-k.       Access to restroom facilities.
         399-m.       Disclosures in advertisement and sale of
                        unassembled goods.
         399-n.       Approval of electrical devices.

@@ -32,7 +32,7 @@
 - [§ 622 Sex offender treatment program](622-sex-offender-treatment-program.md)
 - [§ 623 Incarcerated individual telephone services](623-incarcerated-individual-telephone-services.md)
 - [§ 624 Next of kin; death of incarcerated individual](624-next-of-kin-death-of-incarcerated-individual.md)
-- [§ 625 Feminine hygiene products](625-feminine-hygiene-products.md)
+- [§ 625 Menstrual products](625-menstrual-products.md)
 - [§ 626 Medication assisted treatment in correctional facilities](626-medication-assisted-treatment-in-correctional-facilities.md)
 
 <details>
@@ -78,7 +78,7 @@ Section 600.   Certain correctional officers to administer oaths.
         622.   Sex offender treatment program.
         623.   Incarcerated individual telephone services.
         624.   Next of kin; death of incarcerated individual.
-        625.   Feminine hygiene products.
+        625.   Menstrual products.
         626.   Medication assisted treatment in correctional facilities.
 ```
 

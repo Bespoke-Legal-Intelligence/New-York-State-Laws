@@ -23,7 +23,7 @@
 <summary>Official heading of Article 23, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                ARTICLE 23
+                               ARTICLE 23
                          APPRENTICESHIP TRAINING
 Section 810.   Statement of public policy.
         811.   Powers and duties of industrial commissioner; personnel.
@@ -35,10 +35,11 @@ Section 810.   Statement of public policy.
         816.   Apprenticeship agreements.
         816-a. Apprenticeship assistance in all  political  subdivisions
                  of the state.
-        816-b. Apprenticeship participation on construction contracts.
+        816-b. Apprenticeship   participation  on  certain  governmental
+                 contracts.
         817.   Limitation.
         818.   Separability.
-        819.   Training  of  persons in the repair and reconditioning of
+        819.   Training of persons in the repair and  reconditioning  of
                  slot machines.
 ```
 

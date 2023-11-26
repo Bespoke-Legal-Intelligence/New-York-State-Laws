@@ -11,7 +11,6 @@
 - [§ 7.07 Organization; officers](7.07-organization-officers.md)
 - [§ 7.09 Meetings](7.09-meetings.md)
 - [§ 7.11 Powers and duties of commissions](7.11-powers-and-duties-of-commissions.md)
-- [§ 7.13 Jones beach theatre](7.13-jones-beach-theatre.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 7, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

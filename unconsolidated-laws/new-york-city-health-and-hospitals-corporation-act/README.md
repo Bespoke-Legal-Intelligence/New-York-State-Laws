@@ -9,7 +9,7 @@
 | Type | Unconsolidated law |
 | Session law | L. 1969, ch. 1016 |
 | Sections | 27 |
-| Last changed | 3 Nov 2023 |
+| Last changed | 26 Nov 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | New York City health and hospitals corporation act 1016/69 |
 
@@ -32,6 +32,7 @@ Section 1.   Short title.
 
 ## Recent changes
 
+- [26 Nov 2023](../../changes/2023/2023-11-26.md): 1 amended
 - [3 Nov 2023](../../changes/2023/2023-11-03.md): 1 amended
 
 ## Contents
