@@ -4,7 +4,7 @@
 [Civil Service Law](../../README.md) › [Article 5 — Personnel Changes](../README.md) › [Title C — Abolition of Positions; Suspension; Demotion](README.md)
 
 ```text
-  § 80-a. Suspension or demotion upon the abolition or reduction of
+  * § 80-a. Suspension or demotion upon the abolition or reduction of
 non-competitive class positions in the state service. 1. Suspension or
 demotion. Where, because of economy, consolidation or abolition of
 functions, curtailment of activities or otherwise, positions in the
@@ -20,7 +20,7 @@ original appointment of any such incumbent who was transferred to the
 state service from another governmental jurisdiction upon the transfer
 of functions shall be the date of original appointment on a permanent
 basis in the classified service in the service of the governmental
-jurisdiction from which such transfer was made.  Notwithstanding the
+jurisdiction from which such transfer was made. Notwithstanding the
 provisions of this subdivision, however, upon the abolition or reduction
 of positions in the non-competitive class, incumbents holding the same
 or similar positions who have not completed their probationary service
@@ -97,7 +97,8 @@ shall promulgate rules to implement this subdivision including rules
 which may provide adjunctive opportunities for displacement to formerly
 held positions; provided, however, that no such rule shall permit an
 incumbent to displace any other incumbent having greater retention
-standing.  For the purpose of acquiring preferred list rights,
+standing. For the purpose of acquiring preferred list rights,
 displacement pursuant to this subdivision is the equivalent of
 suspension or demotion pursuant to subdivision one of this section.
+  * NB Repealed February 19, 2024
 ```

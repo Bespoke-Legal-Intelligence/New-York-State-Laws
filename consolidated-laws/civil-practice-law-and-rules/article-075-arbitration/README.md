@@ -15,6 +15,7 @@
 - [§ 7508 Award by confession](7508-award-by-confession.md)
 - [§ 7509 Modification of award by arbitrator](7509-modification-of-award-by-arbitrator.md)
 - [§ 7510 Confirmation of award](7510-confirmation-of-award.md)
+- [§ 7510-A Confirmation of award for public sector arbitrations](7510a-confirmation-of-award-for-public-sector-arbitrations.md)
 - [§ 7511 Vacating or modifying award](7511-vacating-or-modifying-award.md)
 - [§ 7512 Death or incompetency of a party](7512-death-or-incompetency-of-a-party.md)
 - [§ 7513 Fees and expenses](7513-fees-and-expenses.md)
@@ -55,6 +56,7 @@
                 (c) Person or agency making award.
         7509. Modification of award by arbitrator.
         7510. Confirmation of award.
+      7510-a. Confirmation of award for public sector arbitrations.
         7511. Vacating or modifying award.
                 (a) When application made.
                 (b) Grounds for vacating.
@@ -72,8 +74,8 @@
                     (ii) Exceptions.
                     (iii) Mandatory arbitration clause null and void.
                 (c)
-        7516.   Confirmation of an award based on a consumer credit
-                  transaction.
+        7516. Confirmation of an award based on a consumer credit
+                transaction.
 ```
 
 </details>

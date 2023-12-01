@@ -31,6 +31,7 @@
 - [§ 170-E Disclosure of lawful source of income rights to prospective tenants](170e-disclosure-of-lawful-source-of-income-rights-to-prospective-tenants.md)
 - [§ 170-E\*2 Collection of demographic information](170e-2-collection-of-demographic-information.md)
 - [§ 170-F Website accessibility; contractors and vendors](170f-website-accessibility-contractors-and-vendors.md)
+- [§ 170-G Collection of demographic information; sexual orientation and gender expression](170g-collection-of-demographic-information-sexual-orientation-and-gender-expression.md)
 - [§ 171 Discovery and disposition of human remains and funerary objects](171-discovery-and-disposition-of-human-remains-and-funerary-objects.md)
 
 <details>
@@ -72,6 +73,8 @@ Section 161.     Certain searches, the filing of papers, and certified
                    prospective tenants.
         170-e*2. Collection of demographic information.
         170-f.   Website accessibility; contractors and vendors.
+        170-g.   Collection of demographic information; sexual
+                   orientation and gender expression.
         171.     Discovery and disposition of human remains and funerary
                    objects.
 ```

@@ -11,6 +11,7 @@
 - [§ 3000-C Epinephrine auto-injector devices](3000c-epinephrine-auto-injector-devices.md)
 - [§ 3000-D Availability of resuscitation equipment in certain public places](3000d-availability-of-resuscitation-equipment-in-certain-public-places.md)
 - [§ 3000-E Rescue inhaler treatment devices](3000e-rescue-inhaler-treatment-devices.md)
+- [§ 3000-F Automated external defibrillator; camps and youth sports programs](3000f-automated-external-defibrillator-camps-and-youth-sports-programs.md)
 - [§ 3001 Definitions](3001-definitions.md)
 - [§ 3002 New York state emergency medical services council](3002-new-york-state-emergency-medical-services-council.md)
 - [§ 3002-A State emergency medical advisory committee](3002a-state-emergency-medical-advisory-committee.md)
@@ -57,6 +58,8 @@ Section 3000.   Declaration of policy and statement of purpose.
         3000-d. Availability of resuscitation equipment in certain
                   public places.
         3000-e. Rescue inhaler treatment devices.
+        3000-f. Automated external defibrillator; camps and youth sports
+                  programs.
         3001.   Definitions.
         3002.   New York state emergency medical services council.
         3002-a. State emergency medical advisory committee.

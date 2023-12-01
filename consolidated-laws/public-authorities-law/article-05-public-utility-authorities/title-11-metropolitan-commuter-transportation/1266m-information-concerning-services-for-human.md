@@ -4,7 +4,7 @@
 [Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 11 — Metropolitan Commuter Transportation Authority](README.md)
 
 ```text
-  * § 1266-m. Information concerning services for human trafficking
+  § 1266-m. Information concerning services for human trafficking
 victims. 1. The authority shall make available in plain view and in a
 conspicuous place and manner in the public restrooms and in any
 lactation rooms of any transit facility operated by the authority,
@@ -18,5 +18,4 @@ include the national human trafficking hotline telephone number.
   3. For purposes of this section, the term "lactation room" shall mean
 a hygienic place, other than a restroom, that is intended to be used for
 the primary purpose of breastfeeding or expressing breast milk.
-  * NB Effective November 26, 2023
 ```

@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 28 — Hospitals](README.md)
 
 ```text
-  * § 2803-o-1. Required protocols for fetal demise. Hospitals shall
+  § 2803-o-1. Required protocols for fetal demise. Hospitals shall
 adopt, implement and periodically update standard protocols for the
 management of fetal demise. Such protocols shall require the hospital to
 determine whether a pregnant person is experiencing an emergency medical
@@ -15,5 +15,4 @@ monitoring and stabilizing treatment until it is deemed medically safe
 for discharge or transfer to another medical facility or unit, if
 necessary, in accordance with the federal Emergency Medical Treatment
 and Labor Act (EMTALA).
-  * NB Effective November 24, 2023
 ```
