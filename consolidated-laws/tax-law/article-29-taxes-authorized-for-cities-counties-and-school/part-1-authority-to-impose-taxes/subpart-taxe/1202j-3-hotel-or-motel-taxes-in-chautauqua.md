@@ -133,40 +133,6 @@ after the expiration of more than three years from the date of the
 filing of a return, provided, however, that where no return has been
 filed as provided by law the tax may be assessed at any time.
   * (9) All revenues resulting from the imposition of the tax under the
-local laws shall be paid into the treasury of the county of Chautauqua.
-The revenue derived from such tax, after deducting the amount provided
-for administering such tax as so authorized by local law, shall be
-allocated as follows: three-fifths of such revenues shall be credited to
-and deposited in a special tourism and convention fund, thereafter to be
-allocated by the county government of Chautauqua county through the
-county budget process for tourism and convention development in such
-county for the purposes of enhancing and promoting Chautauqua county,
-its cities, towns and villages through the promotion of tourism,
-conventions, trade shows, special events and other directly related and
-supporting activities including, but not limited to, programs to improve
-the aesthetic qualities of the county; to enhance the environment; to
-improve infrastructures related to tourism, conventions and trade shows;
-to develop, operate and maintain parks, recreational facilities and
-tourist attractions; and such other programs as authorized by local law;
-and any amount of revenues derived from such tax over three-fifths of
-such revenues shall be credited to and deposited into a special lake
-management and enhancement fund, thereafter to be allocated by the
-county government of Chautauqua county through the county budget process
-solely for the purposes of maintaining and enhancing the lakes of
-Chautauqua county, including, but not limited to, environmentally
-responsible control, treatment, and/or removal of invasive or nuisance
-submerged aquatic vegetation; shoreline maintenance and cleanup; the
-enhancement of lakes for fishing, boating and other recreational
-activities; reduction of watershed erosion, sedimentation and nutrient
-loading; protection of environmentally sensitive shorelines; and such
-other programs as authorized by local law specifically for the
-enhancement and protection of the lakes and tributary streams of
-Chautauqua county. Such local laws shall provide that the county shall
-be authorized to retain up to a maximum of ten percent of such revenue
-to defer the necessary expenses of the county in administering such tax
-and such programs.
-  * NB Effective until November 30, 2023
-  * (9) All revenues resulting from the imposition of the tax under the
 local laws shall be paid into the treasury of the county of Chautauqua
 to benefit tourism, recreation, and related economic development. The
 revenue derived from such tax, after deducting the amount provided for
@@ -216,7 +182,7 @@ GPS tracking data, equipment utilization information, and similar
 information; cooperate and coordinate with the county and with other
 organizations and entities receiving funding; and impose similar
 requirements and restrictions on recipients of such funding.
-  * NB Effective December 1, 2023 until November 30, 2025
+  * NB Effective until November 30, 2025
   * (9) All revenues resulting from the imposition of the tax under the
 local laws shall be paid into the treasury of the county of Chautauqua
 and shall be credited to and deposited in a special tourism and
