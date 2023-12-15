@@ -356,6 +356,7 @@ Article
            Title    I.   Certification of agents and utilization review
                           process (§§4900-4908).
                    II.   Right to external appeal (§§4910-4917).
+  49-A.    Medical debt reporting (§§ 4925-4927).
   50.      Separability clause; saving clause; construction; laws
             repealed; time of taking effect (§§5000-5003).
 ```

@@ -34,6 +34,7 @@
 - [§ 205 Highways abandoned](205-highways-abandoned.md)
 - [§ 205-A Seasonal limited use highway](205a-seasonal-limited-use-highway.md)
 - [§ 205-B Qualified abandonment of certain town highways](205b-qualified-abandonment-of-certain-town-highways.md)
+- [§ 205-C Minimum maintenance roads](205c-minimum-maintenance-roads.md)
 - [§ 206 Highways in lands acquired by the United States for fortification purposes deemed abandoned](206-highways-in-lands-acquired-by-the-united-states-for-fortification-purposes.md)
 - [§ 207 Discontinuance of highway](207-discontinuance-of-highway.md)
 - [§ 208 Description to be recorded](208-description-to-be-recorded.md)
@@ -88,6 +89,7 @@ Section 170.   Survey for the laying out of a highway.
         205.   Highways abandoned.
         205-a. Seasonal limited use highway.
         205-b. Qualified abandonment of certain town highways.
+        205-c. Minimum maintenance roads.
         206.   Highways  in  lands  acquired  by  the  United States for
                  fortification purposes deemed abandoned.
         207.   Discontinuance of highway.

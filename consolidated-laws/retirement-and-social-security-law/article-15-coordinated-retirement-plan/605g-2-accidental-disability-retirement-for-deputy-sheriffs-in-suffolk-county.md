@@ -1,0 +1,68 @@
+﻿<!-- nyslaw {"citation": "Retirement and Social Security Law § 605-G*2", "kind": "section", "law_id": "RSS", "location_id": "605-G*2", "path": "ARTICLE 15 › SECTION 605-G*2", "repealed": false, "repealed_date": null, "source": "nys-laws:RSS/605-G_2.md", "title": "Accidental disability retirement for deputy sheriffs in Suffolk county"} -->
+# Retirement and Social Security Law § 605-G*2 — Accidental disability retirement for deputy sheriffs in Suffolk county
+
+[Retirement and Social Security Law](../README.md) › [Article 15 — Coordinated Retirement Plan](README.md)
+
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
+```text
+  * § 605-g. Accidental disability retirement for deputy sheriffs in
+Suffolk county. a. A member employed as a deputy sheriff in Suffolk
+county shall be entitled to an accidental disability retirement
+allowance if, at the time application therefor is filed, such member is:
+  1. Physically or mentally incapacitated for performance of duty as the
+natural and proximate result of an accident, unless the contrary be
+proved by competent evidence, not caused by his or her own willful
+negligence, sustained in such service and while actually a member of the
+retirement system; and
+  2. Actually in service upon which his or her membership is based.
+However, in a case where a member is discontinued from service
+subsequent to the accident, either voluntarily or involuntarily, and
+provided that the member meets the requirements of paragraph one of this
+subdivision, application may be made not later than two years after the
+member is first discontinued from service.
+  b. Application for an accidental disability retirement allowance for
+such a member may be made by:
+  1. Such member; or
+  2. The head of the department in which such member is employed; or
+  3. Any person acting on behalf of and authorized by such member.
+  c. 1. After the filing of such an application, such member shall be
+given one or more medical examinations. No such application shall be
+approved, however, unless the member or some other person on his or her
+behalf shall have filed written notice in the office of the comptroller
+within ninety days after the accident, setting forth:
+  (a) The time when and the place where such accident occurred; and
+  (b) The particulars thereof; and
+  (c) The nature and extent of the member's injuries; and
+  (d) His or her alleged incapacity.
+  2. The notice herein required need not be given:
+  (a) If the notice of such accident shall be filed in accordance with
+the provisions of the workers' compensation law of any state within
+which a participating employer in Suffolk county shall have its
+employees located or performing functions and duties within the normal
+scope of their employment; or
+  (b) If the application for accidental disability retirement is filed
+within one year after the date of such accident; or
+  (c) If a failure to file notice has been excused for good cause shown
+as provided by rules and regulations promulgated by the comptroller.
+  d. If the comptroller determines that the member is physically or
+mentally incapacitated for the performance of duty and ought to be
+retired for accidental disability, such member shall be so retired. Such
+retirement shall be effective as of a date approved by the comptroller.
+  e. The annual retirement allowance payable upon accidental disability
+retirement shall be a pension of three-quarters of his or her final
+average salary. The payment of such pension shall be subject to the
+provisions of section sixty-four of this chapter.
+  f. If the member, at the time of the filing of an application under
+the provisions of subdivision b of this section, is eligible for a
+service retirement benefit, then and in that event, he or she may
+simultaneously file an application for service retirement in accordance
+with the provisions of section seventy of this chapter, provided that
+the member indicates on the application for service retirement that such
+application is filed without prejudice to the application for accidental
+disability retirement.
+  g. Notwithstanding any other provision of law, this section shall
+apply to deputy sheriffs in Suffolk county who were hired on or after
+July twenty-seventh, nineteen hundred seventy-six.
+  * NB There are 2 § 605-g's
+```

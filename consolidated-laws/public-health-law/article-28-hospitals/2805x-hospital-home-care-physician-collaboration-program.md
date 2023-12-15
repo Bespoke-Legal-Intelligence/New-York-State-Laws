@@ -80,6 +80,60 @@ including:
 management of special needs, high-risk and high-cost patients, including
 but not limited to best practices, and training and education of direct
 care practitioners and service employees.
+  (d) Collaborative programs to address disparities in health care
+access or treatment, and/or conditions of higher prevalence, in certain
+populations, where such collaborative programs could provide and manage
+services in a more effective, person-centered and cost-efficient manner
+for reduction or elimination of such disparities.
+  (i) Such programs may target one or more disparate conditions, or
+areas of under-service, evidenced in defined populations, including but
+not be limited to:
+  (A) cardiovascular disease;
+  (B) hypertension;
+  (C) diabetes;
+  (D) chronic kidney disease;
+  (E) obesity;
+  (F) asthma;
+  (G) sickle cell disease;
+  (H) sepsis;
+  (I) lupus;
+  (J) breast, lung, prostate and colorectal cancers;
+  (K) geographic shortage of primary care, prenatal/obstetric care,
+specialty medical care, home health care, or culturally and
+linguistically compatible care;
+  (L) alcohol, tobacco, or substance abuse;
+  (M) post-traumatic stress disorder and other conditions more prevalent
+among veterans of the United States military services;
+  (N) attracting members of minority populations to the field and
+practice of medicine; and
+  (O) such other areas approved by the commissioner.
+  (ii) Collaborative hospital-home care-physician, and as applicable
+additional partner, models may include under such disparities programs:
+  (A) service planning and design;
+  (B) recruitment of specialty personnel and/or specialty training of
+professionals or other direct care personnel (including physicians, home
+care and hospital staffs), patients and informal caregivers;
+  (C) continuing medical education and clinical training for physicians,
+follow-up evaluations, and supporting educational materials;
+  (D) use of evidenced-based approaches and/or best practices to
+treatment;
+  (E) reimbursement of uncovered services;
+  (F) bundled or other integrated payment methods to support the
+necessary, coordinated and cost-effective services;
+  (G) regulatory waivers to facilitate flexibility in provider
+collaboration and person-centered care;
+  (H) patient/family peer support and education;
+  (I) data collection, research and evaluation of efficacy; and/or
+  (J) other components or innovations satisfactory to the commissioner.
+  (iii) Nothing contained in this paragraph shall prevent a physician,
+physicians group, home care agency, or hospital from individually
+applying for said grant.
+  (iv) The commissioner shall consult with physicians, home care
+agencies, hospitals, consumers, statewide associations representative of
+such participants, and other experts in health care disparities, in
+developing an application process for grant funding or rate adjustment,
+and for request of state regulatory waivers, to facilitate
+implementation of disparities programs under this paragraph.
   5. Hospitals and home care agencies which are provided financing or
 waivers pursuant to this section shall report to the commissioner on the
 patient, service and cost experiences pursuant to this section,

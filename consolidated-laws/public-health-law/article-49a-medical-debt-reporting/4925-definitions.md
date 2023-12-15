@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 4925", "kind": "section", "law_id": "PBH", "location_id": "4925", "path": "ARTICLE 49-A › SECTION 4925", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4925.md", "title": "Definitions"} -->
+# Public Health Law § 4925 — Definitions
+
+[Public Health Law](../README.md) › [Article 49-A — Medical Debt Reporting](README.md)
+
+```text
+  § 4925. Definitions. As used in this article, the following terms
+shall have the following meanings:
+  1. "Medical debt" means an obligation or alleged obligation of a
+consumer to pay any amount whatsoever related to the receipt of health
+care services, products, or devices provided to a person by a hospital
+licensed under article twenty-eight of this chapter, a health care
+professional authorized under title eight of the education law or an
+ambulance service certified under article thirty of this chapter.
+Medical debt does not include debt charged to a credit card unless the
+credit card is issued under an open-ended or closed-end plan offered
+specifically for the payment of health care services, products, or
+devices provided to a person.
+  2. "Collection entity" means any individual, partnership, corporation,
+trust, estate, co-operative, association, government or government
+subdivision, agency or other entity that either purchases medical debt
+or collects medical debt on behalf of another entity.
+  3. "Consumer reporting agency" shall have the same meaning as such
+term is defined in section three hundred eighty-a of the general
+business law.
+```

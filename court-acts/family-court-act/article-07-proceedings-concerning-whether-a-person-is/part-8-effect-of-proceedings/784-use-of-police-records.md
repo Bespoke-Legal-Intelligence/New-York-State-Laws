@@ -4,7 +4,7 @@
 [Family Court Act](../../README.md) › [Article 7 — Proceedings Concerning Whether a Person Is In Need of Supervision](../README.md) › [Part 8 — Effect of Proceedings](README.md)
 
 ```text
-  § 784. Use of police records. All police records relating to the
+  * § 784. Use of police records. All police records relating to the
 arrest and disposition of any person under this article shall be kept in
 files separate and apart from the arrests of adults and shall be
 withheld from public inspection, but such records shall be open to
@@ -13,4 +13,13 @@ attorney of that person upon the written order of a judge of the family
 court in the county in which the order was made or, if the person is
 subsequently convicted of a crime, of a judge of the court in which he
 was convicted.
+  * NB Effective until March 7, 2024
+  * § 784. Use of police records. All police records relating to the
+arrest and disposition of any person under this article shall be kept in
+files separate and apart from the arrests of adults and shall be
+withheld from public inspection, but such records shall be open to
+inspection upon good cause shown by the parent, guardian, next friend or
+attorney of that person upon the written order of a judge of the family
+court in the county in which the order was made.
+  * NB Effective March 7, 2024
 ```

@@ -16,6 +16,7 @@
 - [§ 151-G Confidentiality](151g-confidentiality.md)
 - [§ 151-H Report](151h-report.md)
 - [§ 151-I Rules and regulations](151i-rules-and-regulations.md)
+- [§ 151-J Agrivoltaics research program](151j-agrivoltaics-research-program.md)
 
 <details>
 <summary>Official heading of Article 11-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -35,6 +36,7 @@ Section 150.   Definitions.
         151-g. Confidentiality.
         151-h. Report.
         151-i. Rules and regulations.
+        151-j. Agrivoltaics research program.
 ```
 
 </details>

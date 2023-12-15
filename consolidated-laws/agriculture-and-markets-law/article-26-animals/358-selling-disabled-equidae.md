@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 358", "kind": "section", "law_id": "AGM", "location_id": "358", "path": "ARTICLE 26 › SECTION 358", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/358.md", "title": "Selling disabled Equidae"} -->
+# Agriculture and Markets Law § 358 — Selling disabled Equidae
+
+[Agriculture and Markets Law](../README.md) › [Article 26 — Animals](README.md)
+
+```text
+  § 358. Selling disabled Equidae. It shall be unlawful for any person
+holding an auctioneer's license knowingly to receive or offer for sale
+or to sell at public auction, other than at a sheriff's or judicial sale
+under a court order, any Equidae which by reason of debility, disease or
+lameness, or for any other cause, could not be worked in this state
+without violating the law against cruelty to animals. A violation of
+this section shall be a misdemeanor punishable by a fine of not more
+than one thousand dollars, or by imprisonment for not more than six
+months, or by both such fine and imprisonment.
+```

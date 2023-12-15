@@ -20,7 +20,7 @@
 - [§ 355 Abandonment of animals](355-abandonment-of-animals.md)
 - [§ 356 Failure to provide proper food and drink to impounded animal](356-failure-to-provide-proper-food-and-drink-to-impounded-animal.md)
 - [§ 357 Selling or offering to sell or exposing diseased animal](357-selling-or-offering-to-sell-or-exposing-diseased-animal.md)
-- [§ 358 Selling disabled horses](358-selling-disabled-horses.md)
+- [§ 358 Selling disabled Equidae](358-selling-disabled-equidae.md)
 - [§ 358-A Live animals as prizes prohibited](358a-live-animals-as-prizes-prohibited.md)
 - [§ 359 Carrying animal in a cruel manner](359-carrying-animal-in-a-cruel-manner.md)
 - [§ 359-A Transportation of horses](359a-transportation-of-horses.md)
@@ -52,6 +52,7 @@
 - [§ 382 Prohibition of the slaughter of race horses and race horse breeding stock](382-prohibition-of-the-slaughter-of-race-horses-and-race-horse-breeding-stock.md)
 - [§ 383 Examination of seized animals or animals taken possession of](383-examination-of-seized-animals-or-animals-taken-possession.md)
 - [§ 384 Special provisions related to the importation of dogs and cats into the state for sale, resale or adoption](384-special-provisions-related-to-the-importation-of-dogs-and-cats-into-the-state.md)
+- [§ 385 Prohibition of slaughtering horses for human or animal consumption](385-prohibition-of-slaughtering-horses-for-human-or-animal-consumption.md)
 
 <details>
 <summary>Official heading of Article 26, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -76,7 +77,7 @@ Section 350.   Definitions.
         356.   Failure to provide proper food and drink to impounded
                  animal.
         357.   Selling or offering to sell or exposing diseased animal.
-        358.   Selling disabled horses.
+        358.   Selling disabled Equidae.
         358-a. Live animals as prizes prohibited.
         359.   Carrying animal in a cruel manner.
         359-a. Transportation of horses.
@@ -119,6 +120,8 @@ Section 350.   Definitions.
                  horse breeding stock.
         384.   Special provisions related to the importation of dogs and
                  cats into the state for sale, resale or adoption.
+        385.   Prohibition of slaughtering horses for human or animal
+                 consumption.
 ```
 
 </details>

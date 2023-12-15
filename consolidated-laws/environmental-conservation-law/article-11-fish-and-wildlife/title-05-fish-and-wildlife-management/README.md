@@ -3,6 +3,8 @@
 
 [Environmental Conservation Law](../../README.md) › [Article 11 — Fish and Wildlife](../README.md)
 
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
 ## Contents
 
 - [§ 11-0501 Fish and wildlife management practices cooperative program](11-0501-fish-and-wildlife-management-practices-cooperative.md)
@@ -18,6 +20,8 @@
 - [§ 11-0517 Taking for propagation and stocking; fish hindering propagation of food fish or shellfish](11-0517-taking-for-propagation-and-stocking-fish-hindering.md)
 - [§ 11-0519 Disposition of fish, wildlife, game, shellfish, crustacea or protected insects seized by or surrendered to enforcement officers](11-0519-disposition-of-fish-wildlife-game-shellfish.md)
 - [§ 11-0521 Destructive wildlife; taking pursuant to permit](11-0521-destructive-wildlife-taking-pursuant-to-permit.md)
+- [§ 11-0522 Urban deer management pilot program](11-0522-urban-deer-management-pilot-program.md)
+- [§ 11-0522\*2 Long Island deer management pilot program](11-0522-2-long-island-deer-management-pilot-program.md)
 - [§ 11-0523 Destructive or menacing wildlife; taking without permit](11-0523-destructive-or-menacing-wildlife-taking-without.md)
 - [§ 11-0524 Nuisance wildlife control operators](11-0524-nuisance-wildlife-control-operators.md)
 - [§ 11-0525 Control of rabies in wildlife](11-0525-control-of-rabies-in-wildlife.md)
@@ -64,6 +68,8 @@ Section 11-0501.   Fish and wildlife management practices cooperative
                      crustacea or protected insects seized by or
                      surrendered to enforcement officers.
         11-0521.   Destructive wildlife; taking pursuant to permit.
+        11-0522.   Urban deer management pilot program.
+        11-0522*2. Long Island deer management pilot program.
         11-0523.   Destructive or menacing wildlife; taking without
                      permit.
         11-0524.   Nuisance wildlife control operators.

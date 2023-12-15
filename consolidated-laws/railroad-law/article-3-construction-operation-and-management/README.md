@@ -34,6 +34,7 @@
 - [§ 61-A Sounding of certain signals on railroad cars by unauthorized persons](061a-sounding-of-certain-signals-on-railroad-cars-by-unauthorized-persons.md)
 - [§ 62 Sleeping and parlor cars](062-sleeping-and-parlor-cars.md)
 - [§ 63 Persons employed as drivers, conductors, motormen or gripmen](063-persons-employed-as-drivers-conductors-motormen-or-gripmen.md)
+- [§ 63-A Minimum crew size](063a-minimum-crew-size.md)
 - [§ 64 Injuries to employees](064-injuries-to-employees.md)
 - [§ 65 Conductors and employees must wear badges](065-conductors-and-employees-must-wear-badges.md)
 - [§ 66 Checks for baggage](066-checks-for-baggage.md)
@@ -130,6 +131,7 @@ Section 50.   Liability of corporation to employees of contractor.
         62.   Sleeping and parlor cars.
         63.   Persons employed as drivers, conductors, motor men or
                 gripmen.
+        63-a. Minimum crew size.
         64.   Injuries to employees.
         65.   Conductors and employees must wear badges.
         66.   Checks for baggage.

@@ -44,5 +44,34 @@ of the commissioner, consider any matter relating to the preservation
 and improvement of health status among the state's underserved
 populations, and may advise the commissioner on any recommendations
 relating to the preservation and improvement of health equity.
+  6. Sickle cell disease. a. The health equity council shall consider,
+and advise the commissioner regarding sickle cell disease.
+  b. The council shall issue recommendations to the commissioner to
+promote screening and detection of sickle cell disease, especially among
+unserved or underserved populations; to educate the public regarding
+sickle cell disease and the benefits of early detection; and to provide
+counseling and referral services. For purposes of this subdivision,
+"unserved or underserved populations" means people having inadequate
+access and financial resources to obtain sickle cell disease screening
+and detection services, including people who lack health coverage or
+whose health coverage is inadequate or who cannot meet the financial
+requirements of their coverage for accessing detection services.
+  c. The council shall consider the feasibility of the following:
+  (i) the establishment of a statewide public education and outreach
+campaign to publicize evidence based sickle cell disease screening,
+detection and education services. The campaign shall include: general
+community education, outreach to specific underserved populations,
+evidence based clinical sickle cell disease screening services, and an
+informational summary that shall include an explanation of the
+importance of clinical examinations and what to expect during clinical
+examinations and sickle cell disease screening services;
+  (ii) the provision of grants to approved organizations;
+  (iii) the compilation of data concerning sickle cell disease and
+dissemination of such data to the public; and
+  (iv) the development of health care professional education programs
+including the benefits of early detection of sickle cell disease and
+clinical examinations, the recommended frequency of clinical
+examinations and sickle cell disease screening services, and
+professionally recognized best practices guidelines.
   * NB There are 2 § 243's
 ```

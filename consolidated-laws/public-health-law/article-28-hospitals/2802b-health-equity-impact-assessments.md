@@ -96,6 +96,12 @@ project;
 the applicant's service area; and
   (v) historical and projected market shares of hospital and health care
 service providers in the applicant's service area.
+  (j) The extent to which the availability and provision of reproductive
+health services and maternal health care in the applicant's service area
+will be affected if the project is implemented. Applicants shall
+demonstrate how the project will impact the delivery of statutorily
+protected reproductive health care, pursuant to section twenty-five
+hundred ninety-nine-aa of this chapter, and maternity services.
   4. The health equity impact assessment shall be prepared for the
 applicant by an independent entity and include the meaningful engagement
 of public health experts, organizations representing employees of the

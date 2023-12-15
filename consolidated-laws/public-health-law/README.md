@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBH |
 | Type | Consolidated law, chapter 45 |
-| Sections | 1,782 |
-| Last changed | 1 Dec 2023 |
+| Sections | 1,785 |
+| Last changed | 15 Dec 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Health |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER 45 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (352 lines)](chapter-text.md)
+[Full chapter text (353 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [15 Dec 2023](../../changes/2023/2023-12-15.md): 4 amended, 3 added
 - [1 Dec 2023](../../changes/2023/2023-12-01.md): 1 amended, 2 added
 - [26 Nov 2023](../../changes/2023/2023-11-26.md): 2 amended, 1 added
 - [10 Nov 2023](../../changes/2023/2023-11-10.md): 1 amended, 3 added
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [8 Sep 2023](../../changes/2023/2023-09-08.md): 6 amended
 - [4 Aug 2023](../../changes/2023/2023-08-04.md): 8 amended
 - [28 Jul 2023](../../changes/2023/2023-07-28.md): 1 amended
-- [21 Jul 2023](../../changes/2023/2023-07-21.md): 1 amended
 
 ## Contents
 
@@ -162,4 +162,5 @@ Assembly, do enact as follows:
 - [Article 47 — Shared Health Facilities](article-47-shared-health-facilities/)
 - [Article 48 — Toxic Substances](article-48-toxic-substances/)
 - [Article 49 — Utilization Review and External Appeal](article-49-utilization-review-and-external-appeal/)
+- [Article 49-A — Medical Debt Reporting](article-49a-medical-debt-reporting/)
 - [Article 50 — Separability Clause; Saving Clause; Construction; Laws Repealed; Time of Taking Effect](article-50-separability-clause-saving-clause-construction/)

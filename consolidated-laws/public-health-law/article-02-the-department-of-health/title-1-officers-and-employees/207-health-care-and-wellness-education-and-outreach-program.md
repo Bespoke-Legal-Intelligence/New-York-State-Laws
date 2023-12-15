@@ -165,7 +165,7 @@ limited to, miscarriage, stillbirth, or termination for medical reasons,
 information regarding:
   (i) the potential mental and physical impact from such loss; and
   (ii) resources for support and follow-up care.
-  * NB There are 2 par (r)'s
+  * NB There are 3 par (r)'s
   * (r) The physical, sexual, and psychological impact of nonemergent
 medical procedures performed on individuals with variations in sex
 characteristics who have not themselves consented to the procedure;
@@ -174,7 +174,15 @@ this section that shall include intersex persons themselves,
 intersex-led organizations, and health care providers with demonstrated
 medical expertise treating intersex individuals in a manner that
 respects their bodily integrity and self-determination, among others.
-  * NB There are 2 par (r)'s
+  * NB There are 3 par (r)'s
+  * (r) Sickle cell disease including but not limited to screening,
+prevention, and treatment information. The department, through the
+health equity council pursuant to section two hundred forty-three of
+this article, or a successor council, shall consult with patients with
+sickle cell disease and their families and health care providers
+specializing in treating sickle cell disease, among others, in the
+production of any such information.
+  * NB There are 3 par (r)'s
   2. Programs under this section, dealing with one or more subjects, may
 include but not be limited to any of the following elements:
   (a) educational and informational materials in print, audio, visual,

@@ -32,6 +32,7 @@
 - [§ 89-S Retirement of members who serve as peace officers in the Suffolk county probation department](89s-retirement-of-members-who-serve-as-peace.md)
 - [§ 89-S\*2 Retirement of members who serve as ambulance medical technicians, ambulance medical technician/supervisors, members who perform ambulance...](89s-2-retirement-of-members-who-serve-as-ambulance.md)
 - [§ 89-S\*3 Retirement of members who serve as peace officers in the Nassau county probation department](89s-3-retirement-of-members-who-serve-as-peace.md)
+- [§ 89-SS Retirement of members employed as an emergency medical technician, critical care technician, advanced emergency medical technician, param...](89ss-retirement-of-members-employed-as-an-emergency.md)
 - [§ 89-T Optional twenty-five year retirement plan for county probation officers](89t-optional-twenty-five-year-retirement-plan.md)
 - [§ 89-T\*2 Alternative retirement benefits for safety officers](89t-2-alternative-retirement-benefits-for-safety.md)
 - [§ 89-U Retirement of county sheriffs, undersheriffs, deputy sheriffs, state and county correction officers; portability of service credit betwee...](89u-retirement-of-county-sheriffs-undersheriffs.md)
@@ -109,6 +110,11 @@ Section 80.     Retirement of members of the legislature.
                   department.
         89-s*3. Retirement of members who serve as peace officers in the
                   Nassau county probation department.
+        89-ss.  Retirement of members employed as an emergency medical
+                  technician, critical care technician, advanced
+                  emergency medical technician, paramedic or supervisor
+                  of such titles in a participating Suffolk county fire
+                  district.
         89-t.   Optional twenty-five year retirement plan for county
                   probation officers.
         89-t*2. Alternative retirement benefits for safety officers.

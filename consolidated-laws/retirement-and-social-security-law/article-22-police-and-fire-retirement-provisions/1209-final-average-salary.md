@@ -4,8 +4,8 @@
 [Retirement and Social Security Law](../README.md) › [Article 22 — Police and Fire Retirement Provisions](README.md)
 
 ```text
-  § 1209. Final average salary. For members who first become members of
-the New York state and local police and fire retirement system on or
+  § 1209. Final average salary. a. For members who first become members
+of the New York state and local police and fire retirement system on or
 after April first, two thousand twelve, a member's final average salary
 shall be equal to one-fifth of the highest total wages earned by such
 member during any continuous period of employment for which the member
@@ -20,4 +20,18 @@ the state constitution shall be excluded from the computation of final
 average salary for members who first become members of the New York
 state and local police and fire retirement system on or after April
 first, two thousand twelve.
+  b. Notwithstanding subdivision a of this section, members who first
+become members of the New York state and local police and fire
+retirement system on or after April first, two thousand twelve, and who
+retire from an employer which, prior to April first, two thousand
+twelve, elected by the adoption, filing and approval of a resolution in
+the manner provided by section three hundred thirty of this chapter to
+provide that final average salary shall mean the regular compensation
+earned from such participating employer by a member during the twelve
+months of actual service immediately preceding the date of such member's
+retirement pursuant to subdivision f of section four hundred forty-three
+of this chapter, shall continue to have his or her final average salary
+computed with such twelve month final average salary unless such member
+would otherwise be entitled to a greater benefit under subdivision a of
+this section, in which case such greater benefit shall be payable.
 ```

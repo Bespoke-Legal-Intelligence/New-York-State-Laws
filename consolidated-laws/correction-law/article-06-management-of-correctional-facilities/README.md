@@ -21,6 +21,7 @@
 - [§ 130 Custody of incarcerated individual sentenced to death and commuted by governor](130-custody-of-incarcerated-individual-sentenced-to-death-and-commuted-by-governor.md)
 - [§ 132 Retaking of an escaped incarcerated individual](132-retaking-of-an-escaped-incarcerated-individual.md)
 - [§ 133 Superintendent to report concerning incarcerated individual believed mentally ill when crime was committed](133-superintendent-to-report-concerning-incarcerated-individual-believed-mentally.md)
+- [§ 134 Religious dietary requirements](134-religious-dietary-requirements.md)
 - [§ 136 Correctional education](136-correctional-education.md)
 - [§ 137 Program of treatment, control, discipline at correctional facilities](137-program-of-treatment-control-discipline-at-correctional-facilities.md)
 - [§ 138 Institutional rules and regulations for incarcerated individuals at all correctional facilities](138-institutional-rules-and-regulations-for-incarcerated-individuals-at-all.md)
@@ -67,6 +68,7 @@ Section 112.   Powers and duties of commissioner relating to
         133.   Superintendent to report concerning incarcerated
                  individual believed mentally ill when crime was
                  committed.
+        134.   Religious dietary requirements.
         136.   Correctional education.
         137.   Program of treatment, control, discipline at correctional
                  facilities.

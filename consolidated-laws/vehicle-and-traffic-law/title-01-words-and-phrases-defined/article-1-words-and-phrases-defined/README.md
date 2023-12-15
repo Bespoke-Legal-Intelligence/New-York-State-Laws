@@ -72,6 +72,7 @@
 - [§ 122-B Maximum performance speed](122b-maximum-performance-speed.md)
 - [§ 122-C Mobile home or manufactured home](122c-mobile-home-or-manufactured-home.md)
 - [§ 123 Motorcycle](123-motorcycle.md)
+- [§ 124 Minimum maintenance road](124-minimum-maintenance-road.md)
 - [§ 125 Motor vehicles](125-motor-vehicles.md)
 - [§ 125-A Off-highway motorcycle](125a-off-highway-motorcycle.md)
 - [§ 126 Omnibus](126-omnibus.md)
@@ -212,6 +213,7 @@ Section 100.   Definition of words and phrases.
         122-b. Maximum performance speed.
         122-c. Mobile home or manufactured home.
         123.   Motorcycle.
+        124.   Minimum maintenance road.
         125.   Motor vehicles.
         125-a. Off-highway motorcycle.
         126.   Omnibus.
