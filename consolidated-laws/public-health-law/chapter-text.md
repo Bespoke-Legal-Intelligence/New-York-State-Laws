@@ -92,7 +92,7 @@ Article
   9-B.     Primary Care Service Corps Practitioner Loan Repayment
             Program (§§923-924).
   11.      Public water supplies; sewerage and sewage control
-           Title    I.   Potable waters (§§1100--1114-a).
+           Title    I.   Potable waters (§§1100--1114-b).
                    II.   Realty subdivisions: water supply
                           (§§1115-1120).
                  II-A.   Water supply emergency plans (§1125).

@@ -21,6 +21,7 @@
 - [§ 1113 Drinking water quality council; established](1113-drinking-water-quality-council-established.md)
 - [§ 1114 Lead service line replacement grant program](1114-lead-service-line-replacement-grant-program.md)
 - [§ 1114-A Voluntary public water system consolidation study](1114a-voluntary-public-water-system-consolidation-study.md)
+- [§ 1114-B Service line inventories and mapping](1114b-service-line-inventories-and-mapping.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -47,6 +48,7 @@ Section 1100.   Rules and regulations of the department.
         1113.   Drinking water quality council; established.
         1114.   Lead service line replacement grant program.
         1114-a. Voluntary public water system consolidation study.
+        1114-b. Service line inventories and mapping.
 ```
 
 </details>
