@@ -17,6 +17,7 @@
 - [Title 9 — New York State Energy Research and Development Authority](title-09-new-york-state-energy-research/)
 - [Title 9-A — Green Jobs-green New York Program](title-09a-green-jobs-green-new-york-program/)
 - [Title 9-B — Clean Energy Resources Development and Incentives Program](title-09b-clean-energy-resources-development/)
+- [Title 9-C — Clean Energy Outreach and Community Planning Program](title-09c-clean-energy-outreach-and-community/)
 - [Title 10-B — Upper Mohawk Valley Memorial Auditorium Authority](title-10b-upper-mohawk-valley-memorial/)
 - [Title 11 — Troy Industrial Development Authority](title-11-troy-industrial-development/)
 - [Title 12 — No title](title-12-no-title/)
@@ -78,11 +79,13 @@ Title  4.     Dormitory Authority (§§ 1675-1694).
        8.     New York Job Development Authority (§§ 1800-1838).
        9.     New York State Energy Research and Development Authority
                 (§§ 1850-1884).
-       9-A    Green Jobs-Green New York Program (§§ 1890--1899-a).
-       9-B    Clean energy resources development and incentives program
+       9-A.   Green Jobs-Green New York Program (§§ 1890--1899-a).
+       9-B.   Clean Energy Resources Development and Incentives Program
                 (§§ 1900-1905).
-       10-B.  Upper Mohawk Valley Memorial Auditorium Authority.
-                (§§ 1940--1949-k)
+       9-C.   Clean Energy Outreach and Community Planning Program
+                (§§ 1910-1914).
+       10-B.  Upper Mohawk Valley Memorial Auditorium Authority
+                (§§ 1940--1949-k).
        11.    Troy Industrial Development Authority (§§ 1950-1969).
        12.    Battery Park City Authority (§§ 1970-1988).
        13.    Onondaga County Solid Waste Disposal Authority

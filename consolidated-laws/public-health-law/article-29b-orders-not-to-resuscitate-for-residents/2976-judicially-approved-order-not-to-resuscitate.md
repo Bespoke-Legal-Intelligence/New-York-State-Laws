@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 29-B — Orders Not to Resuscitate For Residents of Mental Hygiene Facilities](README.md)
 
 ```text
-  § 2976. Judicially approved order not to resuscitate. 1. If no
+  * § 2976. Judicially approved order not to resuscitate. 1. If no
 surrogate is reasonably available, willing to make a decision regarding
 issuance of an order not to resuscitate, and competent to make a
 decision regarding issuance of an order not to resuscitate on behalf of
@@ -26,4 +26,5 @@ best interests.
 competent jurisdiction from approving the issuance of an order not to
 resuscitate under circumstances other than those under which such an
 order may be issued pursuant to this article.
+  * NB Repealed March 21, 2024
 ```

@@ -99,7 +99,7 @@ pursuant to article twenty-eight of this chapter to an enrollee to treat
 COVID-19 during a declared state disaster emergency related to COVID-19
 shall not be denied on retrospective review on the basis that such
 services were not medically necessary.
-  (l) The commissioner, in consultation with the superintendent of
+  * (l) The commissioner, in consultation with the superintendent of
 financial services, may, as necessary, promulgate by regulation special
 considerations and processes for utilization review related to medically
 fragile children. Such regulations may include, at a minimum,
@@ -110,6 +110,26 @@ children;
 children;
   (iii) stabilization and discharge plans; and
   (iv) payment for the care of medically fragile children.
+  * NB There are 2 par (l)'s
+  * (l) Establishment of a written procedure to assure that the notice
+of an adverse determination in relation to a step therapy protocol
+override determination request includes: (i) the reasons for the
+determination including the clinical rationale, if any; (ii)
+instructions on how to initiate standard and expedited appeals pursuant
+to subdivision two of section forty-nine hundred four of this title and
+an external appeal pursuant to section forty-nine hundred fourteen of
+this article; (iii) information that includes: any applicable
+alternative covered medications; the clinical review criteria relied
+upon to make such determination; and any additional necessary
+information that must be provided to, or obtained by, the utilization
+review agent in order to render a decision on the appeal; (iv) the
+provisions of this section shall be satisfied by making such information
+available electronically on a formulary website, on the member portal
+and/or provider portal of the insurer's, the health maintenance
+organization's website, or the website of an organization subject to
+article forty-three of this chapter, provided that the member consents
+to receiving the information electronically.
+  * NB There are 2 par (l)'s
   2. Each utilization review agent shall assure adherence to the
 requirements stated in subdivision one of this section by all
 contractors, subcontractors, subvendors, agents and employees affiliated

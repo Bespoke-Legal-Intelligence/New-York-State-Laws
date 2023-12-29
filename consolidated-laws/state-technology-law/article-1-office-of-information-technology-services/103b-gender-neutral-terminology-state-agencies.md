@@ -4,10 +4,11 @@
 [State Technology Law](../README.md) › [Article 1 — Office of Information Technology Services](README.md)
 
 ```text
-  § 103-b. Gender-neutral terminology; state agencies. Each state agency
-shall use gender-neutral terminology on their websites; provided,
+  * § 103-b. Gender-neutral terminology; state agencies. Each state
+agency shall use gender-neutral terminology on their websites; provided,
 however, if such language is in reference to a specific person, or a
 specific group of people, the language referring to such person or group
 may be gendered in accordance with the gender identity of such person or
 group of people.
+  * NB There are 2 § 103-b's
 ```

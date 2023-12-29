@@ -21,19 +21,20 @@ article one hundred thirty-nine of the education law or certified nurse
 aides who have completed certification and training approved by the
 department shall be deducted from the calculation of the amount spent on
 resident-facing staffing and direct resident care.
-  (c) Such regulations shall further include at a minimum that any
-residential health care facility for which total operating revenue
-exceeds total operating and non-operating expenses by more than five
-percent of total operating and non-operating expenses or that fails to
-spend the minimum amount necessary to comply with the minimum spending
-standards for resident-facing staffing or direct resident care,
-calculated on an annual basis, or for the year two thousand twenty-two,
-on a pro-rata basis for only that portion of the year during which the
-failure of a residential health care facility to spend a minimum of
-seventy percent of revenue on direct resident care, and forty percent of
-revenue on resident-facing staffing, may be held to be a violation of
-this chapter, shall remit such excess revenue, or the difference between
-the minimum spending requirement and the actual amount of spending on
+  (c) (i) Except as provided in subparagraph (ii) of this paragraph,
+such regulations shall further include at a minimum that any residential
+health care facility for which total operating revenue exceeds total
+operating and non-operating expenses by more than five percent of total
+operating and non-operating expenses or that fails to spend the minimum
+amount necessary to comply with the minimum spending standards for
+resident-facing staffing or direct resident care, calculated on an
+annual basis, or for the year two thousand twenty-two, on a pro-rata
+basis for only that portion of the year during which the failure of a
+residential health care facility to spend a minimum of seventy percent
+of revenue on direct resident care, and forty percent of revenue on
+resident-facing staffing, may be held to be a violation of this chapter,
+shall remit such excess revenue, or the difference between the minimum
+spending requirement and the actual amount of spending on
 resident-facing staffing or direct care staffing, as the case may be, to
 the state, with such excess revenue which shall be payable, in a manner
 to be determined by such regulations, by November first in the year
@@ -43,17 +44,56 @@ bringing suit in a court of competent jurisdiction on its own behalf
 after giving notice of such suit to the attorney general, deductions or
 offsets from payments made pursuant to the Medicaid program, and shall
 deposit such recouped funds into the nursing home quality pool, as set
-forth in paragraph d of subdivision two-c of section two thousand eight
+forth in paragraph (d) of subdivision two-c of section twenty-eight
 hundred eight of this article. Provided further that such payments of
 excess revenue shall be in addition to and shall not affect a
 residential health care facility's obligations to make any other
 payments required by state or federal law into the nursing home quality
 pool, including but not limited to medicaid rate reductions required
-pursuant to paragraph g of subdivision two-c of section two thousand
-eight hundred eight of this article and department regulations
-promulgated pursuant thereto. The commissioner or their designees shall
-have authority to audit the residential health care facilities' reports
-for compliance in accordance with this section.
+pursuant to paragraph (g) of subdivision two-c of section twenty-eight
+hundred eight of this article and department regulations promulgated
+pursuant thereto. The commissioner or their designees shall have
+authority to audit the residential health care facilities' reports for
+compliance in accordance with this section.
+  (ii) The commissioner shall establish a four-year (January first, two
+thousand twenty-three -- December thirty-first, two thousand twenty-six)
+demonstration project to reduce the use of temporary staffing agencies.
+Any remittance or amounts owed to the state pursuant to subparagraph (i)
+of this paragraph, including, but not limited to, amounts owed relating
+to excess revenue, or the difference between the minimum spending
+requirement and the actual amount of spending on resident-facing
+staffing or direct care staffing, as the case may be, shall be reduced
+as follows for reporting periods beginning on January first, two
+thousand twenty-three and ending on December thirty-first, two thousand
+twenty-six, and, to the extent the demonstration project continues,
+years thereafter:
+  (A) a fifty percent reduction, if a residential healthcare facility
+which has a fifty percent or lower use of resident-facing staffing
+contracted out to a temporary staffing agency for services provided by
+registered professional nurses, licensed practical nurses, or certified
+nurse aids, has reduced its use of such contracted agency services by at
+least thirty percent during any year in which such remittance or amounts
+owed to the state are payable, as measured by subparagraph (iii) of this
+paragraph.
+  (B) a twenty-five percent reduction, if a residential healthcare
+facility which has a fifty percent or lower use of resident-facing
+staffing contracted out to a temporary staffing agency for services
+provided by registered professional nurses, licensed practical nurses,
+or certified nurse aides, has reduced its use of such contracted agency
+services by at least twenty percent, but less than thirty percent,
+during any year in which such remittance or amounts owed to the state
+are payable, as measured by subparagraph (iii) of this paragraph.
+  (iii) In measuring temporary staffing agency usage for purposes of
+determining the reductions provided for in clauses (A) and (B) of
+subparagraph (ii) of this paragraph, the following measuring periods
+shall apply: in two thousand twenty-three, the fourth calendar quarter
+of two thousand twenty-two shall be compared to the fourth calendar
+quarter of two thousand twenty-three; for two thousand twenty-four and
+years thereafter, the average of the four calendar quarters of the
+previous year shall be compared to the average of the four calendar
+quarters of the current year. Temporary staffing shall be measured using
+the publicly available U.S. Centers for Medicare and Medicaid Services
+(CMS) Payroll Based Journal (PBJ) facility-reported data.
   2. For the purposes of this section the following terms shall have the
 following meanings:
   (a) "Revenue" shall mean the total operating revenue from or on behalf
@@ -63,27 +103,43 @@ residential health care facility, resident care, and the operation of
 the residential health care facility as reported in the residential
 health care facility cost reports submitted to the department; provided,
 however, that revenue shall exclude:
-  (i) the average increase in the capital portion of the Medicaid
-reimbursement rate from the prior three years;
+  (i) the capital portion of the Medicaid reimbursement rate;
   (ii) funding received as reimbursement for the assessment under
 subparagraph (vi) of paragraph (b) of subdivision two of section
 twenty-eight hundred seven-d of this article, as reconciled pursuant to
 paragraph (c) of subdivision ten of section twenty-eight hundred seven-d
 of this article;
-  (iii) the capital per diem portion of the reimbursement rate for
-nursing homes that have an overall four- or five-star rating assigned
-pursuant to the inspection rating system of the U.S. Centers for
-Medicare and Medicaid Services (CMS rating), provided however that such
-exclusion shall not apply to any amount of the capital per diem portion
-of the reimbursement rate that is attributable to a capital expenditure
-made to a corporation, other entity, or individual, with a common or
-familial ownership to the operator or the facility as reported under
-subdivision one of section twenty-eight hundred three-x of this chapter;
-and
-  (iv) any grant funds from the federal government for reimbursement of
+  (iii) any grant funds from the federal government for reimbursement of
 COVID-19 pandemic-related expenses, including but not limited to funds
 received from the federal emergency management agency or health
-resources and services administration.
+resources and services administration;
+  (iv) for the first year of the demonstration project established
+pursuant to subparagraph (ii) of paragraph (c) of subdivision one of
+this section, all revenue, other than total Medicaid operating revenue,
+if, in the fourth quarter of two thousand twenty-three, a residential
+health care facility uses ten percent or less of its resident-facing
+staffing who are contracted out to a temporary staffing agency for
+services provided by registered professional nurses, licensed practical
+nurses, or certified nurse aides;
+  (v) for the second year of the demonstration project established
+pursuant to subparagraph (ii) of paragraph (c) of subdivision one of
+this section, all revenue, other than total Medicaid operating revenue,
+if, in two thousand twenty-four, a residential health care facility uses
+nine percent or less of its resident-facing staffing who are contracted
+out to a temporary staffing agency for services provided by registered
+professional nurses, licensed practical nurses, or certified nurse aids;
+and
+  (vi) for the third and fourth years, respectively, and, to the extent
+the demonstration project continues, years thereafter, respectively, of
+the demonstration project established pursuant to subparagraph (ii) of
+paragraph (c) of subdivision one of this section, all revenue, other
+than total Medicaid operating revenue, if, in two thousand twenty-five
+and two thousand twenty-six, respectively, and, to the extent the
+demonstration project continues, years thereafter, respectively, a
+residential health care facility uses eight percent or less of its
+resident-facing staffing who are contracted out to a temporary staffing
+agency for services provided by registered professional nurses, licensed
+practical nurses, or certified nurse aides.
   (b) "Expenses" shall include all operating and non-operating expenses,
 before extraordinary gains, reported in cost reports submitted pursuant
 to section twenty-eight hundred five-e of this article, except as

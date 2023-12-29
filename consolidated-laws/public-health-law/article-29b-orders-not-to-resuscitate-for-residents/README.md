@@ -29,7 +29,7 @@
 <summary>Official heading of Article 29-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              ARTICLE 29-B
+                             * ARTICLE 29-B
   ORDERS NOT TO RESUSCITATE FOR RESIDENTS OF MENTAL HYGIENE FACILITIES
 Section 2960. Legislative findings and purpose.
         2961. Definitions.
@@ -56,6 +56,7 @@ Section 2960. Legislative findings and purpose.
         2977. Nonhospital orders not to resuscitate.
         2978. Regulations.
         2979. Rights to be publicized.
+  * NB Repealed March 21, 2024
 ```
 
 </details>

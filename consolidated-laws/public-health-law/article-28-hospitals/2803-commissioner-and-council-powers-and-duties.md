@@ -642,4 +642,35 @@ a resident's right to privacy and confidentiality pursuant to the
 regulations of the long-term care ombudsman program or the right to
 refuse to consent to the involvement of the long-term care ombudsman.
   * NB There are 2 sb 13's
+  * NB Effective until June 19, 2024
+  * 14. (a) The commissioner, in consultation with the state long-term
+care ombudsman, shall establish policies and procedures for: (i)
+reporting to the department, by staff and volunteers of the long-term
+care ombudsman program, on issues identified or witnessed by such staff
+and volunteers that relate to actions, inactions or decisions that may
+adversely affect the health, safety and welfare of residents at
+residential health care facilities licensed or certified by the
+department in this state. Such policies and procedures shall include,
+but not be limited to, establishing a telephone hotline number and
+reporting form on the department's website for use by long-term care
+ombudsman program staff and volunteers for the submission of reports;
+  (ii) timely and regular resolution to any such issues reported to the
+department pursuant to subparagraph (i) of this paragraph. No later than
+sixty days after the receipt of any such issue, the department shall
+provide the staff or volunteer who reported such issue a report on the
+status of such issue. Following the initial report, the department shall
+provide additional reports to such staff or volunteer no less than every
+sixty days thereafter until such issue is resolved. Upon resolution of
+such issue, the department shall provide a timely report to such staff
+or volunteer and the state long-term care ombudsman indicating the
+manner in which the issue was resolved; and
+  (iii) requiring the department to notify the local ombudsman entity as
+defined in paragraph (c) of subdivision one of section two hundred
+eighteen of the elder law after the department conducts a
+recertification survey of a facility.
+  (b) Nothing in this subdivision shall be construed to limit in any way
+a resident's right to privacy and confidentiality pursuant to the
+regulations of the long-term care ombudsman program or the right to
+refuse to consent to the involvement of the long-term care ombudsman.
+  * NB Effective June 19, 2024
 ```

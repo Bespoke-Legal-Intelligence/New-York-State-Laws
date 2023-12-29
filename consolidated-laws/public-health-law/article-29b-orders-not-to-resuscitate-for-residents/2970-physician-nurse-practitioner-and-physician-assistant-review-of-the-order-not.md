@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 29-B — Orders Not to Resuscitate For Residents of Mental Hygiene Facilities](README.md)
 
 ```text
-  § 2970. Physician, nurse practitioner and physician assistant review
+  * § 2970. Physician, nurse practitioner and physician assistant review
 of the order not to resuscitate. 1. For each patient for whom an order
 not to resuscitate has been issued, the attending practitioner shall
 review the patient's chart to determine if the order is still
@@ -39,4 +39,5 @@ attending practitioner who issued the order, or, if unavailable, another
 attending practitioner shall immediately cancel the order and notify the
 person who consented to the order and all hospital staff directly
 responsible for the patient's care of the cancellation.
+  * NB Repealed March 21, 2024
 ```

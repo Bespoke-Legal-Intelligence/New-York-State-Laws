@@ -4,10 +4,10 @@
 [Public Health Law](../README.md) › [Article 29-B — Orders Not to Resuscitate For Residents of Mental Hygiene Facilities](README.md)
 
 ```text
-  § 2979. Rights to be publicized. 1. The commissioners of mental health
-and the office for people with developmental disabilities shall prepare
-a statement summarizing the rights, duties, and requirements of this
-article and shall require that a copy of such statement:
+  * § 2979. Rights to be publicized. 1. The commissioners of mental
+health and the office for people with developmental disabilities shall
+prepare a statement summarizing the rights, duties, and requirements of
+this article and shall require that a copy of such statement:
   (a) be furnished by the hospital to patients or to persons on the
 surrogate list known to the hospital at or prior to the time of
 admission to the hospital, and at the time of the first decision made
@@ -20,4 +20,5 @@ care; and
   2. The statement of rights required by this section may be included in
 any other statement of patient's rights required by other provisions of
 this chapter.
+  * NB Repealed March 21, 2024
 ```

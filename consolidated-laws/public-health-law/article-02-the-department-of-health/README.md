@@ -42,7 +42,7 @@ Title    I.   Officers and employees (§§ 200--211-a).
        III.   State health areas (§§ 240-243).
         IV.   Spinal cord injury research board (§§ 250-251).
          V.   Health care practitioner volunteer pilot program (§ 260).
-         V.   Obesity prevention act (§§ 260-263).
+         V.   Obesity prevention act (§§ 260-264).
          5-A. Empire State Stem Cell Board (§§ 265--265-f).
          VI.  Women's Health (§§ 266-268).
          6.   The 21st century workgroup for disease elimination and

@@ -4,7 +4,7 @@
 [Public Service Law](../README.md) › [Article 4 — Provisions Relating to Gas and Electric Corporations; Regulation of Price of Gas and Electricity](README.md)
 
 ```text
-  * § 73-a. Prioritization of emergency services. 1. If, during a
+  § 73-a. Prioritization of emergency services. 1. If, during a
 widespread prolonged outage that affects at least twenty thousand
 customers in the service territory of an electric corporation, and such
 corporation is not able to restore electric power services within
@@ -27,5 +27,4 @@ that is capable of providing adequate electricity to operate all life
 safety systems and the basic operations of a police department, fire
 department, ambulance service or advanced life support first response
 service.
-  * NB Effective December 22, 2023
 ```

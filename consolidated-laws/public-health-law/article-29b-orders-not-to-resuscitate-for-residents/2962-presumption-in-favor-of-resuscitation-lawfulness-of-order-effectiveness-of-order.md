@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 29-B — Orders Not to Resuscitate For Residents of Mental Hygiene Facilities](README.md)
 
 ```text
-  § 2962. Presumption in favor of resuscitation; lawfulness of order;
+  * § 2962. Presumption in favor of resuscitation; lawfulness of order;
 effectiveness of order; duty to provide information; no duty to expand
 equipment. 1. Every person admitted to a hospital shall be presumed to
 consent to the administration of cardiopulmonary resuscitation in the
@@ -32,4 +32,5 @@ conflicting provisions of this article.
 agent shall have the rights and authority that a patient with capacity
 would have under this article, subject to the terms of the health care
 proxy and article twenty-nine-C of this chapter.
+  * NB Repealed March 21, 2024
 ```

@@ -4,9 +4,9 @@
 [Public Health Law](../README.md) › [Article 29-B — Orders Not to Resuscitate For Residents of Mental Hygiene Facilities](README.md)
 
 ```text
-  § 2973. Judicial review. 1. The patient, an attending practitioner, a
-parent, non-custodial parent, or legal guardian of a minor patient, any
-person on the surrogate list, the hospital that is caring for the
+  * § 2973. Judicial review. 1. The patient, an attending practitioner,
+a parent, non-custodial parent, or legal guardian of a minor patient,
+any person on the surrogate list, the hospital that is caring for the
 patient and the facility director, may commence a special proceeding
 pursuant to article four of the civil practice law and rules, in a court
 of competent jurisdiction, with respect to any dispute arising under
@@ -38,4 +38,5 @@ may commence an action for relief with respect to any dispute under this
 article at any time and provided further that the department of health
 or any other duly authorized state agency may commence an action or
 proceeding to enjoin a violation of this article at any time.
+  * NB Repealed March 21, 2024
 ```

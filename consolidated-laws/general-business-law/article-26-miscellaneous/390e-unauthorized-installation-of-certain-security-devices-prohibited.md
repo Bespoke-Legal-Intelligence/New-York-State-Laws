@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 26 — Miscellaneous](README.md)
 
 ```text
-  § 390-e. Unauthorized installation of certain security devices
+  * § 390-e. Unauthorized installation of certain security devices
 prohibited. No person, firm, partnership, association or corporation
 shall install any keyless security device used to control and secure
 access to the common areas of any residential building without the
@@ -14,4 +14,5 @@ security device has been authorized, any installation of such device
 shall be performed by, or with the consent of, the owner, property
 manager, board of managers, board of directors, or authorized party in
 place in such building.
+  * NB There are 2 § 390-e's
 ```

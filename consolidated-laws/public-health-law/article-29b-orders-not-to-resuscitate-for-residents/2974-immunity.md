@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 29-B — Orders Not to Resuscitate For Residents of Mental Hygiene Facilities](README.md)
 
 ```text
-  § 2974. Immunity. 1. No physician, health care professional, nurse's
+  * § 2974. Immunity. 1. No physician, health care professional, nurse's
 aide, hospital or person employed by or under contract with the hospital
 shall be subject to criminal prosecution, civil liability, or be deemed
 to have engaged in unprofessional conduct for carrying out in good faith
@@ -29,4 +29,5 @@ pursuant to this article.
 liability or be deemed to have engaged in unprofessional conduct for
 acts performed in good faith as a mediator in the dispute mediation
 system established by this article.
+  * NB Repealed March 21, 2024
 ```

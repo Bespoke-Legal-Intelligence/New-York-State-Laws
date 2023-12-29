@@ -31,6 +31,7 @@
 - [§ 131-Q Electronic payment file transfer system pilot project](131q-electronic-payment-file-transfer-system-pilot-project.md)
 - [§ 131-R Liability for reimbursement of public assistance benefits](131r-liability-for-reimbursement-of-public-assistance-benefits.md)
 - [§ 131-S Payments made for utility service for recipients of public assistance benefits, supplemental security income benefits or additional state...](131s-payments-made-for-utility-service-for-recipients-of-public-assistance.md)
+- [§ 131-SS Automated identification of affordability program participants](131ss-automated-identification-of-affordability-program-participants.md)
 - [§ 131-T Periodic reporting](131t-periodic-reporting.md)
 - [§ 131-U Domestic violence services](131u-domestic-violence-services.md)
 - [§ 131-V Temporary emergency shelter](131v-temporary-emergency-shelter.md)
@@ -115,6 +116,8 @@ Section 131.     Assistance, care and services to be given.
         131-s.   Payments made for utility service for recipients of
                    public assistance benefits, supplemental security
                    income benefits or additional state payments.
+        131-ss.  Automated identification of affordability program
+                   participants.
         131-t.   Periodic reporting.
         131-u.   Domestic violence services.
         131-v.   Temporary emergency shelter.

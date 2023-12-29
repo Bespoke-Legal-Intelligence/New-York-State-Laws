@@ -23,6 +23,7 @@
 - [§ 99 Central state registry of security guards](099-central-state-registry-of-security-guards.md)
 - [§ 100 Central state registry of armored car guards](100-central-state-registry-of-armored-car-guards.md)
 - [§ 100-A Information on state agencies pertaining to persons subjected to section seventy-three-a of the public officers law and who hold policy-m...](100a-information-on-state-agencies-pertaining-to-persons-subjected-to-section-seventy.md)
+- [§ 100-B Business entity database](100b-business-entity-database.md)
 - [§ 101 Accessibility, rules and regulations](101-accessibility-rules-and-regulations.md)
 - [§ 101-A Legislative notification of the proposed adoption, amendment, suspension or repeal of agency rules](101a-legislative-notification-of-the-proposed-adoption-amendment-suspension-or-repeal.md)
 - [§ 101-B Application by municipal corporations for the suspension of certain rules](101b-application-by-municipal-corporations-for-the-suspension-of-certain-rules.md)
@@ -81,6 +82,10 @@ Section 90.    Department of state; secretary of state.
         98.    Copies of amendments to rules for admission of attorneys.
         99.    Central state registry of security guards.
         100.   Central state registry of armored car guards.
+        100-a. Information on state agencies pertaining to persons
+                 subjected to section seventy-three-a of the public
+                 officers law and who hold policy-making positions.
+        100-b. Business entity database.
         101.   Accessibility, rules and regulations.
         101-a. Legislative notification of the proposed adoption,
                  amendment, suspension or repeal of agency rules.

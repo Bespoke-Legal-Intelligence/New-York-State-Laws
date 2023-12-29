@@ -7,6 +7,7 @@
 
 - [§ 608 State aid; children and youth with special health care needs support services](608-state-aid-children-and-youth-with-special-health.md)
 - [§ 609 State aid; laboratories](609-state-aid-laboratories.md)
+- [§ 610 State aid; home visit core public health services](610-state-aid-home-visit-core-public-health-services.md)
 - [§ 613 State aid; immunization](613-state-aid-immunization.md)
 
 <details>
@@ -15,10 +16,11 @@
 ```text
                                 TITLE II
                     STATE AID FOR ADDITIONAL SERVICES
-Section 608.  State aid; children and youth with special health care
-                needs support services.
-        609.  State aid; laboratories.
-        613.  State aid; immunization.
+Section 608. State aid; children and youth with special health care
+               needs support services.
+        609. State aid; laboratories.
+        610. State aid; home visit core public health services.
+        613. State aid; immunization.
 ```
 
 </details>

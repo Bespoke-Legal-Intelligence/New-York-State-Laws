@@ -11,6 +11,7 @@
 - [§ 261 Legislative intent](261-legislative-intent.md)
 - [§ 262 Definitions](262-definitions.md)
 - [§ 263 Department authorized to study obesity - report](263-department-authorized-to-study-obesity-report.md)
+- [§ 264 Provision of information related to coursework and training in nutrition](264-provision-of-information-related-to-coursework-and-training.md)
 
 <details>
 <summary>Official heading of Title 5*, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -22,7 +23,9 @@ Section 260*2. Short title.
         261.   Legislative intent.
         262.   Definitions.
         263.   Department authorized to study obesity-report.
-* NB There are 2 Title 5's
+        264.   Provision of information related to coursework and
+                 training in nutrition.
+  * NB There are 2 Title 5's
 ```
 
 </details>

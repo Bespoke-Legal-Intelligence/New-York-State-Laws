@@ -4,7 +4,7 @@
 [State Finance Law](../README.md) › [Article 2 — General Fiscal Provisions](README.md)
 
 ```text
-  * § 19-a. Parking facilities; support for electric vehicle charging
+  § 19-a. Parking facilities; support for electric vehicle charging
 stations. 1. For purposes of this section:
   (a) the term "construction project" shall mean construction work
 involving or including the construction of a new parking facility done
@@ -88,5 +88,4 @@ ordinance that requires a higher percentage of parking spaces to have
 charging infrastructure or requires a greater amount of charging
 infrastructure, the construction project shall be required to comply
 with those requirements rather than the requirements of this section.
-  * NB Effective December 28, 2023
 ```

@@ -4,8 +4,9 @@
 [Public Health Law](../README.md) › [Article 29-B — Orders Not to Resuscitate For Residents of Mental Hygiene Facilities](README.md)
 
 ```text
-  § 2978. Regulations. The commissioners of mental health and the office
-for people with developmental disabilities shall establish such
+  * § 2978. Regulations. The commissioners of mental health and the
+office for people with developmental disabilities shall establish such
 regulations as may be necessary for implementation of this article with
 respect to those persons in mental hygiene facilities.
+  * NB Repealed March 21, 2024
 ```

@@ -9,7 +9,7 @@
 | Type | Unconsolidated law |
 | Session law | L. 1974, ch. 576 |
 | Sections | 18 |
-| Last changed | 15 Dec 2023 |
+| Last changed | 29 Dec 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Emergency Tenant Protection Act 576/74 |
 
@@ -32,6 +32,7 @@ Section 1.    Short title.
 
 ## Recent changes
 
+- [29 Dec 2023](../../changes/2023/2023-12-29.md): 3 amended
 - [15 Dec 2023](../../changes/2023/2023-12-15.md): 1 amended
 - [25 Nov 2022](../../changes/2022/2022-11-25.md): 1 amended
 - [24 Dec 2021](../../changes/2021/2021-12-24.md): 1 amended

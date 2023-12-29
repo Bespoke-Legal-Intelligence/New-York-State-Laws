@@ -15,6 +15,7 @@
 - [§ 390-C\*2 Posting of warnings by commercial entities offering internet access to the public](390c-2-posting-of-warnings-by-commercial-entities-offering-internet-access.md)
 - [§ 390-D Information concerning services for human trafficking victims in facilities at truck stops](390d-information-concerning-services-for-human-trafficking-victims-in-facilities.md)
 - [§ 390-E Unauthorized installation of certain security devices prohibited](390e-unauthorized-installation-of-certain-security-devices-prohibited.md)
+- [§ 390-E\*2 Skimming awareness notice](390e-2-skimming-awareness-notice.md)
 - [§ 391 Marking retreaded, recapped or recut tires](391-marking-retreaded-recapped-or-recut-tires.md)
 - [§ 391-A Unlawful acts relating to liquid fuels, lubricating oils and similar products](391a-unlawful-acts-relating-to-liquid-fuels-lubricating-oils-and-similar-products.md)
 - [§ 391-B Prohibit any sale of dangerous clothing articles](391b-prohibit-any-sale-of-dangerous-clothing-articles.md)
@@ -60,6 +61,7 @@
 - [§ 393-C Sale of required labor postings](393c-sale-of-required-labor-postings.md)
 - [§ 393-D Sale of certified copies of property deeds](393d-sale-of-certified-copies-of-property-deeds.md)
 - [§ 393-E Sale of abandoned property location services](393e-sale-of-abandoned-property-location-services.md)
+- [§ 393-F Voluntary third-party notification](393f-voluntary-third-party-notification.md)
 - [§ 394 Lost or destroyed certificate of stock](394-lost-or-destroyed-certificate-of-stock.md)
 - [§ 394-A Proof of lost negotiable paper](394a-proof-of-lost-negotiable-paper.md)
 - [§ 394-B Limitations on certain contracts for instruction or use of physical or social training facilities](394b-limitations-on-certain-contracts-for-instruction-or-use-of-physical-or-social.md)
@@ -120,6 +122,7 @@
 - [§ 396-Z Rental vehicle protections](396z-rental-vehicle-protections.md)
 - [§ 397 Unlawful use of name or other identification of certain non-profit organizations](397-unlawful-use-of-name-or-other-identification-of-certain-non-profit-organizations.md)
 - [§ 397-A Distributing unsolicited advertising on private property prohibited; certain cities](397a-distributing-unsolicited-advertising-on-private-property-prohibited-certain.md)
+- [§ 397-B Digital billboards](397b-digital-billboards.md)
 - [§ 398 Bills of lading to be issued by vessels transporting merchandise within the state](398-bills-of-lading-to-be-issued-by-vessels-transporting-merchandise-within.md)
 - [§ 398-A Shipment of motor vehicles outside the continental United States](398a-shipment-of-motor-vehicles-outside-the-continental-united-states.md)
 - [§ 398-B Discrimination in car rentals prohibited](398b-discrimination-in-car-rentals-prohibited.md)
@@ -155,6 +158,7 @@
 - [§ 399-GG Packaging of electronic liquid](399gg-packaging-of-electronic-liquid.md)
 - [§ 399-H Disposal of records containing personal identifying information](399h-disposal-of-records-containing-personal-identifying-information.md)
 - [§ 399-HH Sale of whipped cream chargers](399hh-sale-of-whipped-cream-chargers.md)
+- [§ 399-HHH Sale of sodium nitrate and sodium nitrite](399hhh-sale-of-sodium-nitrate-and-sodium-nitrite.md)
 - [§ 399-I Prohibit the sale of unsafe cribs and restrict use of such cribs in certain settings](399i-prohibit-the-sale-of-unsafe-cribs-and-restrict-use-of-such-cribs-in-certain.md)
 - [§ 399-II Furniture tip restraint device](399ii-furniture-tip-restraint-device.md)
 - [§ 399-II\*2 Prohibit the sale of crib bumper pads and restrict use of such pads in certain settings](399ii-2-prohibit-the-sale-of-crib-bumper-pads-and-restrict-use-of-such-pads-in-certain.md)
@@ -213,6 +217,7 @@ Section 390.         Substitution of spurious oils for internal
                        trafficking victims in facilities at truck stops.
         390-e.       Unauthorized installation of certain security
                        devices prohibited.
+        390-e*2.     Skimming awareness notice.
         391.         Marking retreaded, recapped or recut tires.
         391-a.       Unlawful acts relating to liquid fuels, lubricating
                        oils and similar products.
@@ -273,6 +278,7 @@ Section 390.         Substitution of spurious oils for internal
         393-c.       Sale of required labor postings.
         393-d.       Sale of certified copies of property deeds.
         393-e.       Sale of abandoned property location services.
+        393-f.       Voluntary third-party notification.
         394.         Lost or destroyed certificate of stock.
         394-a.       Proof of lost negotiable paper.
         394-b.       Limitations on certain contracts for instruction or
@@ -362,6 +368,7 @@ Section 390.         Substitution of spurious oils for internal
                        certain non-profit organizations.
         397-a.       Distributing unsolicited advertising on private
                        property prohibited; certain cities.
+        397-b.       Digital billboards.
         398.         Bills of lading to be issued by vessels
                        transporting merchandise within the state.
         398-a.       Shipment of motor vehicles outside the continental
@@ -411,6 +418,7 @@ Section 390.         Substitution of spurious oils for internal
         399-h.       Disposal of records containing personal identifying
                        information.
         399-hh.      Sale of whipped cream chargers.
+        399-hhh.     Sale of sodium nitrate and sodium nitrite.
         399-i.       Prohibit the sale of unsafe cribs and restrict use
                        of such cribs in certain settings.
         399-ii.      Furniture tip restraint device.

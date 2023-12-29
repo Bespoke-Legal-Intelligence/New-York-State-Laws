@@ -620,4 +620,19 @@ the purpose of establishing reimbursement rates pursuant to this
 article. All fees pursuant to this section shall be payable to the
 department of health for deposit into the special revenue funds - other,
 miscellaneous special revenue fund - 339, certificate of need account.
+  17. (a) Diagnostic or treatment centers or other facilities managed
+and administered by a local health department for the purpose of
+providing limited health care services as defined by the commissioner
+may be operated by a local health department. Such facilities shall be
+referred to in this subdivision as "municipal limited health care
+service facilities".
+  (b) The commissioner shall promulgate regulations for municipal
+limited health care service facilities, which may be different from the
+regulations otherwise applicable to hospitals, including, but not
+limited to: designating or limiting the diagnoses and services that may
+be provided; employee health requirements; and requirements or
+guidelines for advertising and signage, disclosure of ownership
+interests, informed consent, record keeping, referral for treatment,
+case reporting to the patient's primary care or other health care
+providers, design, construction, fixtures, and equipment.
 ```

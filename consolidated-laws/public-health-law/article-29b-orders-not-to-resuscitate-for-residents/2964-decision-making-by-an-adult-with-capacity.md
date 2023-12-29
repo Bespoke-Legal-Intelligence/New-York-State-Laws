@@ -4,9 +4,10 @@
 [Public Health Law](../README.md) › [Article 29-B — Orders Not to Resuscitate For Residents of Mental Hygiene Facilities](README.md)
 
 ```text
-  § 2964. Decision-making by an adult with capacity. 1. (a) The consent
-of an adult with capacity must be obtained prior to issuing an order not
-to resuscitate, except as provided in subdivision three of this section.
+  * § 2964. Decision-making by an adult with capacity. 1. (a) The
+consent of an adult with capacity must be obtained prior to issuing an
+order not to resuscitate, except as provided in subdivision three of
+this section.
   (b) If the adult has capacity at the time the order is to be issued,
 the consent must be obtained at or about such time, notwithstanding any
 prior oral or written consent.
@@ -47,4 +48,5 @@ receive such notification prior to the issuance of the order not to
 resuscitate.  Notification to the facility director or the individual
 designated by the patient shall not unreasonably delay issuance of an
 order not to resuscitate.
+  * NB Repealed March 21, 2024
 ```

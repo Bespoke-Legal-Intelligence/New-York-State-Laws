@@ -4,8 +4,8 @@
 [Public Health Law](../README.md) › [Article 29-B — Orders Not to Resuscitate For Residents of Mental Hygiene Facilities](README.md)
 
 ```text
-  § 2969. Revocation of consent to order not to resuscitate. 1. A person
-may, at any time, revoke his or her consent to an order not to
+  * § 2969. Revocation of consent to order not to resuscitate. 1. A
+person may, at any time, revoke his or her consent to an order not to
 resuscitate himself or herself by making either a written or an oral
 declaration to a physician or member of the nursing staff at the
 hospital where he or she is being treated, or by any other act
@@ -25,4 +25,5 @@ nursing staff, other than a nurse practitioner or physician assistant,
 who is informed of or provided with a revocation of consent pursuant to
 this section shall immediately notify a physician, nurse practitioner or
 physician assistant of such revocation.
+  * NB Repealed March 21, 2024
 ```

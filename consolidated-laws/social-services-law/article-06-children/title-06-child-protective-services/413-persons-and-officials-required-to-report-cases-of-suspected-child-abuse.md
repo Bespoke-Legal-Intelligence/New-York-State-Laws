@@ -5,16 +5,16 @@
 
 ```text
   § 413. Persons and officials required to report cases of suspected
-child abuse or maltreatment. 1. (a) The following persons and officials
-are required to report or cause a report to be made in accordance with
-this title when they have reasonable cause to suspect that a child
-coming before them in their professional or official capacity is an
-abused or maltreated child, or when they have reasonable cause to
-suspect that a child is an abused or maltreated child where the parent,
-guardian, custodian or other person legally responsible for such child
-comes before them in their professional or official capacity and states
-from personal knowledge facts, conditions or circumstances which, if
-correct, would render the child an abused or maltreated child: any
+child abuse or maltreatment. 1. * (a) The following persons and
+officials are required to report or cause a report to be made in
+accordance with this title when they have reasonable cause to suspect
+that a child coming before them in their professional or official
+capacity is an abused or maltreated child, or when they have reasonable
+cause to suspect that a child is an abused or maltreated child where the
+parent, guardian, custodian or other person legally responsible for such
+child comes before them in their professional or official capacity and
+states from personal knowledge facts, conditions or circumstances which,
+if correct, would render the child an abused or maltreated child: any
 physician; registered physician assistant; surgeon; medical examiner;
 coroner; dentist; dental hygienist; osteopath; optometrist;
 chiropractor; podiatrist; resident; intern; psychologist; registered
@@ -50,6 +50,53 @@ are expected to have regular and substantial contact with children;
 peace officer; police officer; district attorney or assistant district
 attorney; investigator employed in the office of a district attorney; or
 other law enforcement official.
+  * NB Effective until December 22, 2025
+  * (a) The following persons and officials are required to report or
+cause a report to be made in accordance with this title when they have
+reasonable cause to suspect that a child coming before them in their
+professional or official capacity is an abused or maltreated child, or
+when they have reasonable cause to suspect that a child is an abused or
+maltreated child where the parent, guardian, custodian or other person
+legally responsible for such child comes before them in their
+professional or official capacity and states from personal knowledge
+facts, conditions or circumstances which, if correct, would render the
+child an abused or maltreated child: any physician; registered physician
+assistant; surgeon; medical examiner; coroner; dentist; dental
+hygienist; osteopath; optometrist; chiropractor; podiatrist; resident;
+intern; athletic trainer; psychologist; registered nurse; social worker;
+emergency medical technician; licensed creative arts therapist; licensed
+marriage and family therapist; licensed mental health counselor;
+licensed psychoanalyst; licensed behavior analyst; certified behavior
+analyst assistant; hospital personnel engaged in the admission,
+examination, care or treatment of persons; a Christian Science
+practitioner; school official, which includes but is not limited to
+school teacher, school guidance counselor, school psychologist, school
+social worker, school nurse, school administrator or other school
+personnel required to hold a teaching or administrative license or
+certificate; full or part-time compensated school employee required to
+hold a temporary coaching license or professional coaching certificate;
+social services worker; employee of a publicly-funded emergency shelter
+for families with children; director of a children's overnight camp,
+summer day camp or traveling summer day camp, as such camps are defined
+in section thirteen hundred ninety-two of the public health law; day
+care center worker; school-age child care worker; provider of family or
+group family day care; employee or volunteer in a residential care
+facility for children that is licensed, certified or operated by the
+office of children and family services; or any other child care or
+foster care worker; mental health professional; substance abuse
+counselor; alcoholism counselor; all persons credentialed by the office
+of alcoholism and substance abuse services; employees, who are expected
+to have regular and substantial contact with children, of a health home
+or health home care management agency contracting with a health home as
+designated by the department of health and authorized under section
+three hundred sixty-five-l of this chapter or such employees who provide
+home and community based services under a demonstration program pursuant
+to section eleven hundred fifteen of the federal social security act who
+are expected to have regular and substantial contact with children;
+peace officer; police officer; district attorney or assistant district
+attorney; investigator employed in the office of a district attorney; or
+other law enforcement official.
+  * NB Effective December 22, 2025
   (b) Whenever such person is required to report under this title in his
 or her capacity as a member of the staff of a medical or other public or
 private institution, school, facility or agency, he or she shall make

@@ -141,6 +141,30 @@ such determination. Such notice shall also specify what, if any,
 additional necessary information must be provided to, or obtained by,
 the utilization review agent in order to render a decision on the
 appeal.
+  * 5-a. Notice of an adverse determination made by a utilization review
+agent in relation to a step therapy protocol override determination
+request shall be made in writing to the enrollee or the enrollee's
+authorized representative and the enrollee's prescribing health care
+professional as defined in subdivision six of section forty-nine hundred
+of this title, and shall include:
+  (a) the reasons for the determination including the clinical
+rationale, if any;
+  (b) instructions on how to initiate standard and expedited appeals
+pursuant to section forty-nine hundred four of this title and an
+external appeal pursuant to section forty-nine hundred fourteen of this
+article;
+  (c) information that includes: any applicable alternative covered
+medications; the clinical review criteria relied upon to make such
+determination; and any additional necessary information that must be
+provided to, or obtained by, the utilization review agent in order to
+render a decision on the appeal;
+  (d) the provisions of this section shall be satisfied by making such
+information available electronically on a formulary website, on the
+member portal and/or provider portal of the insurer's, the health
+maintenance organization's website, or the website of an organization
+subject to article forty-three of this chapter, provided that the member
+consents to receiving the information electronically.
+  * NB Effective March 21, 2024
   6. In the event that a utilization review agent renders an adverse
 determination without attempting to discuss such matter with the
 enrollee's health care provider who specifically recommended the health

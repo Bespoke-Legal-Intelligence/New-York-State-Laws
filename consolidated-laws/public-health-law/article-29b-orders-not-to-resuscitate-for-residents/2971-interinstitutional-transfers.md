@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 29-B — Orders Not to Resuscitate For Residents of Mental Hygiene Facilities](README.md)
 
 ```text
-  § 2971. Interinstitutional transfers. If a patient for whom an order
+  * § 2971. Interinstitutional transfers. If a patient for whom an order
 not to resuscitate has been issued is transferred from a hospital to a
 different hospital the order shall remain effective, unless revoked
 pursuant to this article, until the attending practitioner first
@@ -23,4 +23,5 @@ a general hospital as defined in subdivision ten of section twenty-eight
 hundred one of this chapter, or by a residential health care facility as
 defined in subdivision three of section twenty-eight hundred one of this
 chapter, shall be deemed a hospital order not to resuscitate.
+  * NB Repealed March 21, 2024
 ```

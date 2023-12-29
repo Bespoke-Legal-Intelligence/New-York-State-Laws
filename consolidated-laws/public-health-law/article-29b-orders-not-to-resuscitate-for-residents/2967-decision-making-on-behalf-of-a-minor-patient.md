@@ -4,10 +4,10 @@
 [Public Health Law](../README.md) › [Article 29-B — Orders Not to Resuscitate For Residents of Mental Hygiene Facilities](README.md)
 
 ```text
-  § 2967. Decision-making on behalf of a minor patient. 1. An attending
-practitioner, in consultation with a minor's parent or legal guardian,
-shall determine whether a minor has the capacity to make a decision
-regarding resuscitation.
+  * § 2967. Decision-making on behalf of a minor patient. 1. An
+attending practitioner, in consultation with a minor's parent or legal
+guardian, shall determine whether a minor has the capacity to make a
+decision regarding resuscitation.
   2. (a) The consent of a minor's parent or legal guardian and the
 consent of the minor, if the minor has capacity, must be obtained prior
 to issuing an order not to resuscitate the minor.
@@ -54,4 +54,5 @@ physician assistant shall submit the matter to the dispute mediation
 system and such order shall not be issued or shall be revoked in
 accordance with the provisions of subdivision three of section
 twenty-nine hundred seventy-two of this article.
+  * NB Repealed March 21, 2024
 ```

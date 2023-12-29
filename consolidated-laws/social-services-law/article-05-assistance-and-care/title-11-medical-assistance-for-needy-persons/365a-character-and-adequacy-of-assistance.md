@@ -582,6 +582,55 @@ commissioner of health, subject to federal financial participation.
 Nothing in this paragraph shall be construed to modify any licensure,
 certification or scope of practice provision under title eight of the
 education law.
+  * (mm) (i) biomarker testing for the purposes of diagnosis, treatment,
+appropriate management, or ongoing monitoring of a recipient's disease
+or condition when the test provides clinical utility to the patient as
+demonstrated by medical and scientific evidence, including, but not
+limited to:
+  (1) labeled indications for a test approved or cleared by the federal
+food and drug administration or indicated tests for a food and drug
+administration approved drug;
+  (2) centers for medicare and medicaid services national coverage
+determinations and medicare administrative contractor local coverage
+determinations; or
+  (3) nationally recognized clinical practice guidelines such as, but
+not limited to, those of the national comprehensive cancer network or
+the American society of clinical oncology.
+  (ii) Risk-bearing entities contracted to the medicaid program to
+deliver services to recipients shall provide biomarker testing at the
+same scope, duration and frequency as the medicaid program otherwise
+provides to enrollees.
+  (iii) The recipient and participating provider shall have access to a
+clear, readily accessible, and convenient process to request an
+exception to a coverage policy of the medicaid program or by
+risk-bearing entities contracted to the medicaid program. Such process
+shall be made readily accessible to all participating providers and
+enrollees online.
+  (iv) As used in this paragraph, the following terms shall have the
+following meanings:
+  (1) "Biomarker" means a defined characteristic that is measured as an
+indicator of normal biological processes, pathogenic processes, or
+responses to an exposure or intervention, including therapeutic
+interventions. Molecular, histologic, radiographic, or physiologic
+characteristics are types of biomarkers. A biomarker is not an
+assessment of how a patient feels, functions, or survives.
+  (2) "Biomarker testing" means the analysis of a patient's tissue,
+blood, or other biospecimen for the presence of a biomarker. Biomarker
+testing includes but is not limited to single-analyte tests and
+multi-plex panel tests performed at a participating in-network
+laboratory facility that is either CLIA certified or CLIA waived by the
+federal food and drug administration.
+  (3) "Clinical utility" means the test result provides information that
+is used in the formulation of a treatment or monitoring strategy that
+informs a patient's outcome and impacts the clinical decision.
+  (4) "Nationally recognized clinical practice guidelines" means
+evidence-based clinical practice guidelines informed by a systematic
+review of evidence and an assessment of the benefits, and risks of
+alternative care options intended to optimize patient care developed by
+independent organizations or medical professional societies utilizing a
+transparent methodology and reporting structure and with a conflict of
+interest policy.
+  * NB Effective April 1, 2024
   3. Any inconsistent provisions of this section notwithstanding,
 medical assistance shall include:
   (a) early and periodic screening and diagnosis of eligible persons

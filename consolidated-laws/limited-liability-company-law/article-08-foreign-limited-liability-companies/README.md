@@ -15,6 +15,7 @@
 - [§ 807 Termination of existence](807-termination-of-existence.md)
 - [§ 808 Doing business without certificate of authority](808-doing-business-without-certificate-of-authority.md)
 - [§ 809 Action by attorney general](809-action-by-attorney-general.md)
+- [§ 810 Beneficial ownership disclosure](810-beneficial-ownership-disclosure.md)
 
 <details>
 <summary>Official heading of Article 8, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -32,6 +33,7 @@ Section 801.   Governing law.
         807.   Termination of existence.
         808.   Doing business without certificate of authority.
         809.   Action by attorney general.
+        810.   Beneficial ownership disclosure.
 ```
 
 </details>

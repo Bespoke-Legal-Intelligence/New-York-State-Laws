@@ -377,4 +377,51 @@ any other person for the payment of mortgages or liens.
   * (k) exercise such other powers and perform such other duties as may
 be imposed by law.
   * NB Repealed March 31, 2025
+  (l) submit a report to the governor, the speaker of the assembly, the
+temporary president of the senate, the minority leader of the assembly
+and the minority leader of the senate beginning December thirty-first,
+two thousand twenty-four, and biannually thereafter, regarding youth
+placed in foster care settings and the recruitment of foster parents.
+Such report shall be made publicly available online and shall provide
+information, as required pursuant to this subdivision, aggregated by
+local social services districts and foster care settings. For the
+purposes of this subdivision, foster care settings shall include, but
+not be limited to, foster boarding homes, approved relative homes, group
+homes, group residences, agency operated boarding homes, supervised
+independent living arrangements, therapeutic foster care and child care
+institutions. The report shall include, but not be limited to, the
+following information:
+  (i) the total number of youth placed in a foster care setting at the
+time of the report, as well as a comparison to the total number of youth
+in care since the previous report was submitted;
+  (ii) the reasons why such youth have been placed in a foster care
+setting, with the total number of youth per category at the time of the
+report. Such reasons shall include, but not be limited to, voluntary
+placement pursuant to section three hundred fifty-eight-a of this
+chapter, a termination of parental rights pursuant to section three
+hundred eighty-four-b of this chapter, placements pursuant to articles
+ten and ten-C of the family court act, or pursuant to a contract, grant
+or other agreement with the federal government;
+  (iii) to the extent such information is available, the total number of
+youth placed in a foster care setting at the time of the report that are
+in need of or receiving specialized services, either due to a mental
+health illness or another disorder that may require additional supports
+and services, including specialized educational services;
+  (iv) to the extent such information is available, how many youth at
+the time of the report have been previously placed in a foster care
+setting in the state;
+  (v) the total number of foster families that are currently certified
+in the state at the time of the report and whether that number has
+increased or decreased since the previous report was submitted;
+  (vi) how many children and/or families have received preventive
+services through a local social services district, and of those children
+and/or families, how many youth were successfully kept out of foster
+care due to such services within the last calendar year for the initial
+report, and then since the previous report was submitted for all
+subsequent reports;
+  (vii) the total number of placement options that have been certified
+as a qualified residential treatment program, as defined by 42 USCS §
+672; and
+  (viii) the efforts the state has taken to recruit and retain foster
+parents in the state.
 ```

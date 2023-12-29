@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 29-B — Orders Not to Resuscitate For Residents of Mental Hygiene Facilities](README.md)
 
 ```text
-  § 2961. Definitions. The following words or phrases, as used in this
+  * § 2961. Definitions. The following words or phrases, as used in this
 article, shall have the following meanings unless the context otherwise
 requires:
   1. "Adult" means any person who is eighteen years of age or older, or
@@ -102,4 +102,5 @@ section twenty-nine hundred sixty-five of this article.
   23. "Terminal condition" means an illness or injury from which there
 is no recovery, and which reasonably can be expected to cause death
 within one year.
+  * NB Repealed March 21, 2024
 ```

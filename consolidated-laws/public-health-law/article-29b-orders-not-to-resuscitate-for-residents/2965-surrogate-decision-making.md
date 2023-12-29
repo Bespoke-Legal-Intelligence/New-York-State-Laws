@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 29-B — Orders Not to Resuscitate For Residents of Mental Hygiene Facilities](README.md)
 
 ```text
-  § 2965. Surrogate decision-making. 1. (a) The consent of a surrogate
+  * § 2965. Surrogate decision-making. 1. (a) The consent of a surrogate
 or health care agent acting on behalf of an adult patient who lacks
 capacity or on behalf of an adult patient for whom consent by a
 surrogate or health care agent is authorized by subdivision three of
@@ -89,4 +89,5 @@ shall submit the matter to the dispute mediation system and such order
 shall not be issued or shall be revoked in accordance with the
 provisions of subdivision three of section twenty-nine hundred
 seventy-two of this article.
+  * NB Repealed March 21, 2024
 ```

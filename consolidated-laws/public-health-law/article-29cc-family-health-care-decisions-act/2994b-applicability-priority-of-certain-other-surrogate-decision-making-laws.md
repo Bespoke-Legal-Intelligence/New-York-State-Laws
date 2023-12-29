@@ -10,6 +10,10 @@ health care decisions regarding health care provided in a hospital, and
 to decisions regarding hospice care without regard to where the decision
 is made or where the care is provided, for a patient who lacks
 decision-making capacity, except as limited by this section.
+  * 1-a. This article shall also apply to decisions regarding orders not
+to resuscitate for a patient who lacks decision-making capacity in a
+hospital as defined by section 1.03 of the mental hygiene law.
+  * NB Effective March 21, 2024
   2. Prior to seeking or relying upon a health care decision by a
 surrogate for a patient under this article, the attending practitioner
 shall make reasonable efforts to determine whether the patient has a

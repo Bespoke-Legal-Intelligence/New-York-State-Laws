@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 29-B — Orders Not to Resuscitate For Residents of Mental Hygiene Facilities](README.md)
 
 ```text
-  § 2972. Dispute mediation system.  1. (a) Each hospital shall
+  * § 2972. Dispute mediation system.  1. (a) Each hospital shall
 establish a mediation system for the purpose of mediating disputes
 regarding the issuance of orders not to resuscitate.
   (b) The dispute mediation system shall be described in writing and
@@ -57,4 +57,5 @@ nurse practitioner, physician assistant or hospital.
   5. Persons appointed pursuant to this section to participate in the
 dispute mediation system shall not have authority to determine whether a
 do not resuscitate order shall be issued.
+  * NB Repealed March 21, 2024
 ```

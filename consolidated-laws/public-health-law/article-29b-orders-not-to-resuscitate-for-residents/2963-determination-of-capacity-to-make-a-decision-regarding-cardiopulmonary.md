@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 29-B — Orders Not to Resuscitate For Residents of Mental Hygiene Facilities](README.md)
 
 ```text
-  § 2963. Determination of capacity to make a decision regarding
+  * § 2963. Determination of capacity to make a decision regarding
 cardiopulmonary resuscitation. 1. Every adult shall be presumed to have
 the capacity to make a decision regarding cardiopulmonary resuscitation
 unless determined otherwise pursuant to this section or pursuant to a
@@ -59,4 +59,5 @@ surrogate list.
 regarding an order not to resuscitate pursuant to this section shall not
 be construed as a finding that the patient lacks capacity for any other
 purpose.
+  * NB Repealed March 21, 2024
 ```

@@ -4,11 +4,12 @@
 [Public Health Law](../README.md) › [Article 29-B — Orders Not to Resuscitate For Residents of Mental Hygiene Facilities](README.md)
 
 ```text
-  § 2975. Effect of order not to resuscitate on insurance and health
+  * § 2975. Effect of order not to resuscitate on insurance and health
 care services. 1. No policy of life insurance shall be legally impaired,
 modified, or invalidated in any manner by the issuance of an order not
 to resuscitate notwithstanding any term of the policy to the contrary.
   2. A person may not prohibit or require the issuance of an order not
 to resuscitate for an individual as a condition for such individual's
 being insured or for receiving health care services.
+  * NB Repealed March 21, 2024
 ```

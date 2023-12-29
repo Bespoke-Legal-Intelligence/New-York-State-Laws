@@ -12,8 +12,11 @@
 - [§ 8354 State committee for athletic trainers](8354-state-committee-for-athletic-trainers.md)
 - [§ 8355 Requirements and procedure for professional certification](8355-requirements-and-procedure-for-professional-certification.md)
 - [§ 8356 Special provisions](8356-special-provisions.md)
+- [§ 8356-A Mandatory continuing education](8356a-mandatory-continuing-education.md)
 - [§ 8357 Non-liability of certified athletic trainers for first aid or emergency treatment](8357-non-liability-of-certified-athletic-trainers-for-first-aid-or-emergency.md)
 - [§ 8358 Separability](8358-separability.md)
+- [§ 8359 Special provisions](8359-special-provisions.md)
+- [§ 8360 Separability](8360-separability.md)
 
 <details>
 <summary>Official heading of Article 162, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -21,16 +24,19 @@
 ```text
                                ARTICLE 162
                             ATHLETIC TRAINERS
-Section 8350. Introduction.
-        8351. Definition.
-        8352. Definition of practice of athletic training.
-        8353. Use of the title "certified athletic trainer".
-        8354. State committee for athletic trainers.
-        8355. Requirements and procedure for professional certification.
-        8356. Special provisions.
-        8357. Non-liability of certified athletic trainers for first aid
-                or emergency treatment.
-        8358. Separability.
+Section 8350.   Introduction.
+        8351.   Definition.
+        8352.   Definition of athletic training.
+        8353.   Use of the title "licensed athletic trainer".
+        8354.   State committee for athletic trainers.
+        8355.   Requirements and procedure for professional licensure.
+        8356.   Exempt persons.
+        8356-a. Mandatory continuing education.
+        8357.   Non-liability of licensed athletic trainers for first
+                  aid or emergency treatment.
+        8358.   Limited permits.
+        8359.   Special provisions.
+        8360.   Separability.
 ```
 
 </details>

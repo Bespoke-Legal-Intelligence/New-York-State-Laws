@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Village Law § 2-208", "kind": "section", "law_id": "VIL", "location_id": "2-208", "path": "ARTICLE 2 › SECTION 2-208", "repealed": false, "repealed_date": null, "source": "nys-laws:VIL/2-208.md", "title": "Decision as to village establishment"} -->
+# Village Law § 2-208 — Decision as to village establishment
+
+[Village Law](../README.md) › [Article 2 — Incorporation](README.md)
+
+```text
+  § 2-208 Decision as to village establishment. 1. Within ten days after
+such hearing is concluded the village incorporation commission
+established pursuant to section 2-259 of this article shall determine
+whether the petition complies with the requirements of this article and
+shall make and sign a decision as to whether a village incorporation
+shall proceed to election pursuant to the criteria established in
+section 2-259 of this article. If the decision be adverse to the
+petition, the decision shall contain a brief statement of the reasons on
+which the adverse decision is based.
+  2. The original copy of the decision, copies of the notice of the
+hearing together with affidavits of posting and publishing same, the
+written objections and the minutes of proceedings taken on the hearing
+including signed testimony shall be filed by the commission within
+fifteen days after the hearing is concluded, with the town clerk of the
+same town in which the original copy of the petition was filed.
+Duplicate copies of the said papers shall be filed with the town clerks
+of all other towns in which any part of such territory is located.
+  3. If no proceeding be instituted to review such decision within
+thirty days after such filing of the original copy thereof, the decision
+shall be final and conclusive. In the event that the decision is adverse
+to the petition, a new proceeding for incorporation may be commenced
+immediately.
+```

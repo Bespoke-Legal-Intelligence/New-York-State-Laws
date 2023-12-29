@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBH |
 | Type | Consolidated law, chapter 45 |
-| Sections | 1,786 |
-| Last changed | 22 Dec 2023 |
+| Sections | 1,790 |
+| Last changed | 29 Dec 2023 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Health |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER 45 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (353 lines)](chapter-text.md)
+[Full chapter text (356 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [29 Dec 2023](../../changes/2023/2023-12-29.md): 28 amended, 4 added
 - [22 Dec 2023](../../changes/2023/2023-12-22.md): 1 added
 - [15 Dec 2023](../../changes/2023/2023-12-15.md): 4 amended, 3 added
 - [1 Dec 2023](../../changes/2023/2023-12-01.md): 1 amended, 2 added
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [20 Oct 2023](../../changes/2023/2023-10-20.md): 5 amended
 - [6 Oct 2023](../../changes/2023/2023-10-06.md): 3 amended
 - [8 Sep 2023](../../changes/2023/2023-09-08.md): 6 amended
-- [4 Aug 2023](../../changes/2023/2023-08-04.md): 8 amended
 
 ## Contents
 
@@ -103,6 +103,7 @@ Assembly, do enact as follows:
 - [Article 27-DD — State Advisory Panel On Hiv/hbv Infected Health Care Workers](article-27dd-state-advisory-panel-on-hiv-hbv-infected-health/)
 - [Article 27-E — The Acquired Immune Deficiency Syndrome Institute](article-27e-the-acquired-immune-deficiency-syndrome/)
 - [Article 27-F — Hiv and Aids Related Information](article-27f-hiv-and-aids-related-information/)
+- [Article 27-G — Adult Cystic Fibrosis Assistance Program](article-27g-adult-cystic-fibrosis-assistance-program/)
 - [Article 27-H\* — Diabetes Research and Education Program](article-27h-diabetes-research-and-education-program/)
 - [Article 27-H — The Tick-borne Disease Institute](article-27h-the-tick-borne-disease-institute/)
 - [Article 27-K — New York Wellness Works](article-27k-new-york-wellness-works/)
