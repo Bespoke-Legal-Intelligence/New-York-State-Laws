@@ -4,13 +4,7 @@
 [Uniform Justice Court Act](../README.md) › [Article 2 — Jurisdiction](README.md)
 
 ```text
-* § 204. Summary proceedings.
-  The court shall have jurisdiction of summary proceedings to recover
-possession of real property located in whole or in part within the
-municipality, to remove tenants therefrom, and to render judgment for
-rent due without regard to amount.
-  * NB Effective until December 30, 2023
-* § 204. Summary proceedings.
+§ 204. Summary proceedings.
   The court shall have jurisdiction of summary proceedings to recover
 possession of real property located in whole or in part within the city,
 to remove tenants therefrom, and to render judgment for rent due without
@@ -20,5 +14,4 @@ and proceedings law, the court shall have jurisdiction of summary
 proceedings commenced under article seven-D of the real property actions
 and proceedings law relating to real property located in whole or in
 part within the city, and render relief authorized therein.
-  * NB Effective December 30, 2023
 ```

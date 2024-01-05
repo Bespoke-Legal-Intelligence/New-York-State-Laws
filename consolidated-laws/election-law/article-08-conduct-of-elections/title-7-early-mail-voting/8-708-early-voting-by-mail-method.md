@@ -4,7 +4,7 @@
 [Election Law](../../README.md) › [Article 8 — Conduct of Elections](../README.md) › [Title 7 — Early Mail Voting](README.md)
 
 ```text
-  * § 8-708. Early voting by mail; method of. The early mail voter shall
+  § 8-708. Early voting by mail; method of. The early mail voter shall
 mark an early mail ballot as provided for paper ballots or ballots
 prepared for counting by ballot counting machines. They shall make no
 mark or writing whatsoever upon the ballot, except as above prescribed,
@@ -17,5 +17,4 @@ the envelope and seal the envelope. They shall then take and subscribe
 the oath on the envelope, with blanks properly filled in. The envelope,
 containing the ballot or ballots, shall then be mailed or delivered to
 the board of elections of the county or city of their residence.
-  * NB Effective January 1, 2024
 ```

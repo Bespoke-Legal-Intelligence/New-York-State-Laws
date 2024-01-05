@@ -11,10 +11,9 @@
 <summary>Official heading of Article 24-D, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 24-D
+                              ARTICLE 24-D
                RESEARCH RELATING TO ELECTRONIC CIGARETTES
 Section 375. Research relating to electronic cigarettes.
-  * NB Effective January 1, 2024
 ```
 
 </details>

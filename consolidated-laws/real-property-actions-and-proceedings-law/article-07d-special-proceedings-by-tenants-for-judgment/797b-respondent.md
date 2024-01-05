@@ -4,7 +4,7 @@
 [Real Property Actions and Proceedings Law](../README.md) › [Article 7-D — Special Proceedings By Tenants For Judgment Directing Repairs of Conditions and Other Relief In Residential Real Property Constituting Violation of Applicable Local or State Housing Standards or Real Property Law §](README.md)
 
 ```text
-  * § 797-b. Respondent. The following may be named as a respondent:
+  § 797-b. Respondent. The following may be named as a respondent:
   1. The person, corporation, limited liability company, general
 partnership, limited partnership, or any other entity holding title to
 the real property or an ownership interest in the property.
@@ -19,5 +19,4 @@ in control of a dwelling, but not a receiver appointed pursuant to
 section three hundred nine of the multiple dwelling law.
   4. A public housing authority or a governmental body that owns or
 manages the property.
-  * NB Effective December 30, 2023
 ```

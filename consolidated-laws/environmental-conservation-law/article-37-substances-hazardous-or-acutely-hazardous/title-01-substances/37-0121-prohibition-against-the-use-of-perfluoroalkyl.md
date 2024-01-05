@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 37 — Substances Hazardous or Acutely Hazardous to Public Health, Safety or the Environment](../README.md) › [Title 1 — Substances Hazardous to the Environment](README.md)
 
 ```text
-* § 37-0121. Prohibition against the use of perfluoroalkyl and
+§ 37-0121. Prohibition against the use of perfluoroalkyl and
 polyfluoroalkyl substances in apparel and outdoor apparel for severe wet
 conditions.
   1. After January first, two thousand twenty-five, no person shall sell
@@ -76,5 +76,4 @@ contemplated by subdivision five of this section when the applicable
 apparel or outdoor apparel for severe wet conditions does not satisfy
 the limitations on the presence of perfluoroalkyl and polyfluoroalkyl
 substances set forth in subdivisions one, two and three of this section.
-  * NB Effective December 31, 2023
 ```

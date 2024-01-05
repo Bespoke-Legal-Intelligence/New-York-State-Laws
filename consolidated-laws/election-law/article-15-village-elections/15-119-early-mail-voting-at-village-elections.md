@@ -4,7 +4,7 @@
 [Election Law](../README.md) › [Article 15 — Village Elections](README.md)
 
 ```text
-  * § 15-119. Early mail voting at village elections. 1. A registered
+  § 15-119. Early mail voting at village elections. 1. A registered
 voter of a village may vote by early mail ballot under this section for
 a general or special village election in which the voter is eligible to
 vote.
@@ -127,5 +127,4 @@ section, then such ballot shall not be counted.
 opened and such ballots canvassed in the same manner as other ballots
 cast at such election and shall be counted and included in the total of
 all ballots cast at such election.
-  * NB Effective January 1, 2024
 ```

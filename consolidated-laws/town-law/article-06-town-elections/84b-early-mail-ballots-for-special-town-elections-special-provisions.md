@@ -4,7 +4,7 @@
 [Town Law](../README.md) › [Article 6 — Town Elections](README.md)
 
 ```text
-  * § 84-b. Early mail ballots for special town elections; special
+  § 84-b. Early mail ballots for special town elections; special
 provisions. 1. Early mail ballots shall be provided for all special town
 elections for which personal registration is required.
   2. a. An applicant for such an early mail ballot shall submit an
@@ -181,5 +181,4 @@ are used, shall be added to the votes recorded on such machines.
 in special town elections, notwithstanding any other provision of law.
 The provisions of any other law as they relate to special town elections
 not inconsistent herewith shall apply to the conduct of such elections.
-  * NB Effective January 1, 2024
 ```

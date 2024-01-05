@@ -990,7 +990,7 @@ paragraph shall not take effect unless all necessary approvals under
 federal law and regulation have been obtained to receive federal
 financial participation in the costs of services provided under this
 paragraph.
-  ** (i)(i) The department of health shall establish a program for
+  (i)(i) The department of health shall establish a program for
 synchronization of medications. Under the synchronization program, a
 health care practitioner may prescribe a refill of one or more of the
 patient's medications for a shorter period than would ordinarily be
@@ -1043,7 +1043,6 @@ Centers for Medicare and Medicaid Services approved Medicaid state plan.
 The commissioner shall apply for waivers and submit state Medicaid plan
 amendments as are necessary to implement the program for synchronization
 of medications.
-  ** NB Effective January 1, 2024
   * NB Effective until March 31, 2025
   * 9. Notwithstanding any inconsistent provision of law or regulation
 to the contrary, for those drugs which may not be dispensed without a

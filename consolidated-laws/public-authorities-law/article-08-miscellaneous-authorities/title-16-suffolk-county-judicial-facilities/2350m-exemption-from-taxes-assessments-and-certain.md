@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Authorities Law § 2350-M", "kind": "section", "law_id": "PBA", "location_id": "2350-M", "path": "ARTICLE 8 › TITLE 16 › SECTION 2350-M", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/2350-M.md", "title": "Exemption from taxes, assessments and certain fees"} -->
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 2350-M", "kind": "section", "law_id": "PBA", "location_id": "2350-M", "path": "ARTICLE 8 › TITLE 16 › SECTION 2350-M", "repealed": true, "repealed_date": "2024-01-05", "source": "nys-laws:PBA/2350-M.md", "title": "Exemption from taxes, assessments and certain fees"} -->
 # Public Authorities Law § 2350-M — Exemption from taxes, assessments and certain fees
 
 [Public Authorities Law](../../README.md) › [Article 8 — Miscellaneous Authorities](../README.md) › [Title 16 — Suffolk County Judicial Facilities Agency](README.md)
+
+**Repealed** (5 Jan 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 2350-m. Exemption from taxes, assessments and certain fees. 1. It

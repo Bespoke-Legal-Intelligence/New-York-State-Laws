@@ -565,17 +565,10 @@ paragraph (e) of this subdivision, for the provision of such services
 during times outside the facility's normal hours of operation, as
 determined in accordance with criteria set forth in such regulations;
 and
-  * (C) individual psychotherapy services provided by licensed social
-workers, in accordance with licensing criteria set forth in applicable
-regulations, to persons under the age of twenty-one and to persons
-requiring such services as a result of or related to pregnancy or giving
-birth; and
-  * NB Effective until January 1, 2024
-  * (C) services provided by licensed social workers, licensed mental
+  (C) services provided by licensed social workers, licensed mental
 health counselors, and licensed marriage and family therapists, in
 accordance with licensing criteria set forth in applicable regulations;
 and
-  * NB Effective January 1, 2024
   (D) individual psychotherapy services provided by licensed social
 workers, in accordance with licensing criteria set forth in applicable
 regulations, at diagnostic and treatment centers that provided, billed

@@ -16,7 +16,7 @@
 - [§ 2609 Conduct of election; challenges](2609-conduct-of-election-challenges.md)
 - [§ 2610 Canvass of votes and return to board of education; declaration of result](2610-canvass-of-votes-and-return-to-board-of-education.md)
 - [§ 2611 Use of voting machines](2611-use-of-voting-machines.md)
-- [§ 2613 Absentee and military ballots](2613-absentee-and-military-ballots.md)
+- [§ 2613 Absentee, early mail, and military ballots](2613-absentee-early-mail-and-military-ballots.md)
 
 <details>
 <summary>Official heading of Article 53, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

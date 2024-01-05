@@ -17,7 +17,7 @@
 <summary>Official heading of Title 7, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                               * TITLE VII
+                                TITLE VII
                             EARLY MAIL VOTING
 Section 8-700. Early voting by mail; application for ballot.
         8-702. Early voting by mail; review of application by board of
@@ -29,7 +29,6 @@ Section 8-700. Early voting by mail; application for ballot.
         8-710. Early mail ballots; deadline for receipt, and delivery to
                  polling place.
         8-712. Online early mail ballot tracking system.
-  * NB Effective January 1, 2024
 ```
 
 </details>

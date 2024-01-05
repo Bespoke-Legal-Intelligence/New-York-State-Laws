@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Social Services Law § 363-E*2", "kind": "section", "law_id": "SOS", "location_id": "363-E*2", "path": "ARTICLE 5 › TITLE 11 › SECTION 363-E*2", "repealed": false, "repealed_date": null, "source": "nys-laws:SOS/363-E_2.md", "title": "Preclaim review for participating providers of medical assistance program services and items"} -->
+﻿<!-- nyslaw {"citation": "Social Services Law § 363-E*2", "kind": "section", "law_id": "SOS", "location_id": "363-E*2", "path": "ARTICLE 5 › TITLE 11 › SECTION 363-E*2", "repealed": true, "repealed_date": "2024-01-05", "source": "nys-laws:SOS/363-E_2.md", "title": "Preclaim review for participating providers of medical assistance program services and items"} -->
 # Social Services Law § 363-E*2 — Preclaim review for participating providers of medical assistance program services and items
 
 [Social Services Law](../../README.md) › [Article 5 — Assistance and Care](../README.md) › [Title 11 — Medical Assistance For Needy Persons](README.md)
+
+**Repealed** (5 Jan 2024). The text below is what the Senate publishes for this repealed provision.
 
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 

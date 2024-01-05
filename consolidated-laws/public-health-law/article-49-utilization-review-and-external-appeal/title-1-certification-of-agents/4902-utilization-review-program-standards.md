@@ -130,6 +130,7 @@ organization's website, or the website of an organization subject to
 article forty-three of this chapter, provided that the member consents
 to receiving the information electronically.
   * NB There are 2 par (l)'s
+  * NB Effective March 21, 2024
   2. Each utilization review agent shall assure adherence to the
 requirements stated in subdivision one of this section by all
 contractors, subcontractors, subvendors, agents and employees affiliated

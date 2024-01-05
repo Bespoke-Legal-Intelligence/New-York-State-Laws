@@ -4,7 +4,7 @@
 [Election Law](../../README.md) › [Article 8 — Conduct of Elections](../README.md) › [Title 7 — Early Mail Voting](README.md)
 
 ```text
-  * § 8-702. Early voting by mail; review of application by board of
+  § 8-702. Early voting by mail; review of application by board of
 elections. 1. Upon receipt of an application to vote early by mail the
 board of elections shall determine whether the applicant is a registered
 voter of the county or city at the address listed in the application and
@@ -39,5 +39,4 @@ residence as they appear on the registration record, including the
 election district and ward, if any, and in the city of New York and the
 county of Nassau, the assembly district, and their party enrollment in
 the case of primary elections.
-  * NB Effective January 1, 2024
 ```

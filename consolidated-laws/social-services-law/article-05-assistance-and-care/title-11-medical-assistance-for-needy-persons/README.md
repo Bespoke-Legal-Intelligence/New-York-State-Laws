@@ -13,7 +13,7 @@
 - [§ 363-C Medicaid management](363c-medicaid-management.md)
 - [§ 363-D Provider compliance program](363d-provider-compliance-program.md)
 - [§ 363-E Medicaid plan, applications for waivers and plan amendments; public disclosure](363e-medicaid-plan-applications-for-waivers-and-plan.md)
-- [§ 363-E\*2 Preclaim review for participating providers of medical assistance program services and items](363e-2-preclaim-review-for-participating-providers-of-medical.md)
+- [§ 363-E\*2 Preclaim review for participating providers of medical assistance program services and items](363e-2-preclaim-review-for-participating-providers-of-medical.md) *(repealed)*
 - [§ 363-F Electronic visit verification for personal care and home health providers](363f-electronic-visit-verification-for-personal-care-and-home.md)
 - [§ 364 Responsibility for standards](364-responsibility-for-standards.md)
 - [§ 364-A Cooperation of state departments](364a-cooperation-of-state-departments.md)
@@ -102,8 +102,6 @@ Section 363.     Declaration of objects.
         363-d.   Provider compliance program.
         363-e.   Medicaid plan, applications for waivers and plan
                    amendments; public disclosure.
-        363-e*2. Preclaim review for participating providers of medical
-                   assistance program services and items.
         363-f.   Electronic visit verification for personal care and
                    home health providers.
         364.     Responsibility for standards.

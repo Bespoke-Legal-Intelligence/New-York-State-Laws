@@ -4,7 +4,7 @@
 [Education Law](../../../README.md) › [Title 2 — School District Organization](../../README.md) › [Article 41 — District Meetings](../README.md) › [Part 1 — General Provisions](README.md)
 
 ```text
-  * § 2018-e. Early mail ballots for school district elections. 1. The
+  § 2018-e. Early mail ballots for school district elections. 1. The
 board of education of any union free, central or central high school
 district which elects school board members by ballot and provides for
 personal registration of voters, shall provide for early mail ballots
@@ -244,5 +244,4 @@ section to the term "board of registration" shall in such case refer to
 the board of registration appointed by the board of education for each
 school election district, except that paragraph b of subdivision seven
 of this section shall apply according to its terms.
-  * NB Effective January 1, 2024
 ```

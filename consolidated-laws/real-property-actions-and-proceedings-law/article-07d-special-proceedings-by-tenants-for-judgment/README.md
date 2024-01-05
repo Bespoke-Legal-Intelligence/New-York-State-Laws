@@ -21,7 +21,7 @@
 <summary>Official heading of Article 7-D, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              * ARTICLE 7-D
+                               ARTICLE 7-D
     SPECIAL PROCEEDINGS BY TENANTS FOR JUDGMENT DIRECTING REPAIRS OF
   CONDITIONS AND OTHER RELIEF IN RESIDENTIAL REAL PROPERTY CONSTITUTING
     VIOLATION OF APPLICABLE LOCAL OR STATE HOUSING STANDARDS OR REAL
@@ -38,7 +38,6 @@ Section 797.   Jurisdiction; courts; venue.
         797-h. Answer.
         797-i. Trial.
         797-j. Judgment.
-  * NB Effective December 30, 2023
 ```
 
 </details>

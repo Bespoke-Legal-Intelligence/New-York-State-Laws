@@ -4,9 +4,8 @@
 [Real Property Actions and Proceedings Law](../README.md) › [Article 7-D — Special Proceedings By Tenants For Judgment Directing Repairs of Conditions and Other Relief In Residential Real Property Constituting Violation of Applicable Local or State Housing Standards or Real Property Law §](README.md)
 
 ```text
-  * § 797-g. Notice to local housing standard enforcement agency. The
+  § 797-g. Notice to local housing standard enforcement agency. The
 clerk of the court shall mail a copy of the filed notice of petition and
 petition to the appropriate government agency charged with enforcing
 local or state housing standards within the court's jurisdiction.
-  * NB Effective December 30, 2023
 ```

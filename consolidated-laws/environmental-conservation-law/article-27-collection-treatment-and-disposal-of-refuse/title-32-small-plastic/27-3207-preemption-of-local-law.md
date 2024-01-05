@@ -4,9 +4,8 @@
 [Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 32 — Small Plastic Bottle Hospitality Personal Care Product Restrictions](README.md)
 
 ```text
-* § 27-3207. Preemption of local law.
+§ 27-3207. Preemption of local law.
   Jurisdiction in all matters pertaining to restrictions on the
 provision of small plastic bottle hospitality personal care products is
 vested exclusively in the state.
-  * NB Effective January 1, 2024
 ```

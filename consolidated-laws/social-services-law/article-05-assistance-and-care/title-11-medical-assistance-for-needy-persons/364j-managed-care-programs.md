@@ -809,7 +809,6 @@ The commissioner shall apply for waivers and submit state Medicaid plan
 amendments as are necessary to implement the program for synchronization
 of medications.
   ** NB There are 2 par (w)'s
-  ** NB Effective January 1, 2024
   5. Managed care programs shall be conducted in accordance with the
 requirements of this section and, to the extent practicable, encourage
 the provision of comprehensive medical services, pursuant to this

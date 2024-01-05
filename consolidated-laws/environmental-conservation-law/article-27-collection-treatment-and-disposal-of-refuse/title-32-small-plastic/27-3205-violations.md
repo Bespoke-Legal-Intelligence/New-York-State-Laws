@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 32 — Small Plastic Bottle Hospitality Personal Care Product Restrictions](README.md)
 
 ```text
-* § 27-3205. Violations.
+§ 27-3205. Violations.
   1. A hotel that violates a provision of this title shall receive a
 warning notice for the first such violation, detailing the hotel's
 requirement to correct the violation within thirty days from the date
@@ -18,5 +18,4 @@ prior to the assessment of any civil penalty.
 this title and all monies collected shall be deposited to the credit of
 the environmental protection fund established pursuant to section
 ninety-two-s of the state finance law.
-  * NB Effective January 1, 2024
 ```

@@ -153,23 +153,7 @@ advisory council established pursuant to section four hundred nine-h of
 this chapter and in consultation with public and voluntary authorized
 agencies, citizens' groups and concerned individuals and organizations,
 including the state council on children and families.
-  * (c) Notwithstanding any other provision of this section, where a
-social services official determines that a lack of adequate housing is
-the primary factor preventing the discharge of a child or children from
-foster care including, but not limited to, children with the goal of
-discharge to independent living, preventive services shall include, in
-addition to any other payments or benefits received by the family,
-special cash grants in the form of rent subsidies, including rent
-arrears, or any other assistance, sufficient to obtain adequate housing.
-Such rent subsidies or assistance shall not exceed the sum of three
-hundred dollars per month, shall not be provided for a period of more
-than three years, and shall be considered a special grant. Nothing in
-this paragraph shall be construed to limit the ability of those using
-such rent subsidy to live with roommates. The provisions of this
-paragraph shall not be construed to limit such official's authority to
-provide other preventive services.
-  * NB Effective until January 1, 2024
-  * (c) Notwithstanding any other provision of this section, where a
+  (c) Notwithstanding any other provision of this section, where a
 social services official determines that a lack of adequate housing is
 the primary factor preventing the discharge of a child or children from
 foster care including, but not limited to, children with the goal of
@@ -184,7 +168,6 @@ grant. Nothing in this paragraph shall be construed to limit the ability
 of those using such rent subsidy to live with roommates. The provisions
 of this paragraph shall not be construed to limit such official's
 authority to provide other preventive services.
-  * NB Effective January 1, 2024
   (e) (i) A social services official is authorized to establish and
 operate, or contract for the establishment and operation of, intensive,
 homebased, family preservation programs.
@@ -226,21 +209,6 @@ housing, preventive services may include, in addition to any other
 payments or benefits received by the family, special cash grants in the
 form of rent subsidies, including rent arrears, or any other assistance,
 sufficient to obtain adequate housing. Such rent subsidies or assistance
-shall not exceed the sum of three hundred dollars per month, shall not
-be provided for a period of more than three years, and shall be
-considered a special grant. Nothing in this subdivision shall be
-construed to limit the ability of those using such rent subsidy to live
-with roommates. The provisions of this paragraph shall not be construed
-to limit such official's authority to provide other preventive services.
-  * NB Effective until January 1, 2024
-  * 7. Notwithstanding any other provision of this section, if a social
-services official determines that a lack of adequate housing is a factor
-that may cause the entry of a child or children into foster care and the
-family has at least one service need other than lack of adequate
-housing, preventive services may include, in addition to any other
-payments or benefits received by the family, special cash grants in the
-form of rent subsidies, including rent arrears, or any other assistance,
-sufficient to obtain adequate housing. Such rent subsidies or assistance
 shall not exceed the sum of seven hundred twenty-five dollars per month,
 shall not be provided for a period of more than three years, and shall
 be considered a special grant. Nothing in this subdivision shall be
@@ -248,7 +216,6 @@ construed to limit the ability of those using such rent subsidy to live
 with roommates. The provisions of this paragraph shall not be construed
 to limit such official's authority to provide other preventive services.
   * NB There are two sub 7's
-  * NB Effective January 1, 2024
   * 7. Notwithstanding any other provision of law, preventive services
 information governed by this section may be released by the department,
 social services district or other provider of preventive services to a

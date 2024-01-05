@@ -10,7 +10,7 @@
 - [§ 9-204 County boards of canvassers](9-204-county-boards-of-canvassers.md)
 - [§ 9-206 Canvass of election district returns of general and special elections](9-206-canvass-of-election-district-returns-of-general-and-special-elections.md)
 - [§ 9-208 Provisions for recanvass of vote in every election district in the state; procedure in case of discrepancy](9-208-provisions-for-recanvass-of-vote-in-every-election-district.md)
-- [§ 9-209 Canvass of absentee, military and special ballots, and ballots cast in affidavit envelopes](9-209-canvass-of-absentee-military-and-special-ballots-and-ballots-cast.md)
+- [§ 9-209 Canvass of early mail, absentee, military and special ballots, and ballots cast in affidavit envelopes](9-209-canvass-of-early-mail-absentee-military-and-special-ballots-and-ballots.md)
 - [§ 9-210 Statements of canvass by canvassing boards](9-210-statements-of-canvass-by-canvassing-boards.md)
 - [§ 9-211 Audit of voter verifiable audit records](9-211-audit-of-voter-verifiable-audit-records.md)
 - [§ 9-212 Determinations by county canvassing boards](9-212-determinations-by-county-canvassing-boards.md)

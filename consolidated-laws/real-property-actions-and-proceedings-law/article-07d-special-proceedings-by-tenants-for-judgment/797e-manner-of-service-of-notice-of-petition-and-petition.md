@@ -4,7 +4,7 @@
 [Real Property Actions and Proceedings Law](../README.md) › [Article 7-D — Special Proceedings By Tenants For Judgment Directing Repairs of Conditions and Other Relief In Residential Real Property Constituting Violation of Applicable Local or State Housing Standards or Real Property Law §](README.md)
 
 ```text
-  * § 797-e. Manner of service of notice of petition and petition; when
+  § 797-e. Manner of service of notice of petition and petition; when
 service complete. 1. Personal service upon a natural person may be
 completed in the manner in which a summons is served under section three
 hundred eight of the civil practice law and rules.
@@ -28,5 +28,4 @@ real property in the registry.
 three days thereafter. Personal service on the respondent shall be
 complete upon personal delivery. Any authorized mail service pursuant to
 this subdivision shall be complete upon the filing of proof of service.
-  * NB Effective December 30, 2023
 ```

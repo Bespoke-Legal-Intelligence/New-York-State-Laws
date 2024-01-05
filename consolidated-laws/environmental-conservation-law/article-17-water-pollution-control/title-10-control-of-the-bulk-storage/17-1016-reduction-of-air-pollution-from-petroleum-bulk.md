@@ -4,8 +4,8 @@
 [Environmental Conservation Law](../../README.md) › [Article 17 — Water Pollution Control](../README.md) › [Title 10 — Control of the Bulk Storage of Petroleum](README.md)
 
 ```text
-* § 17-1016. Reduction of air pollution from petroleum bulk storage
-               facilities.
+§ 17-1016. Reduction of air pollution from petroleum bulk storage
+             facilities.
   1. For purposes of this section, the terms below shall have the
 following meaning:
   a. "Shell color" shall mean the color and shade combination of the
@@ -22,5 +22,4 @@ subdivision. Such color requirements shall apply to every tank at a
 facility regardless of whether the tank is in active use for storage.
   b. A tank shall have a shell color and roof color of either white or
 beige/cream.
-  * NB Effective January 1, 2024
 ```

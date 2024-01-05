@@ -4,7 +4,7 @@
 [Real Property Actions and Proceedings Law](../README.md) › [Article 7-D — Special Proceedings By Tenants For Judgment Directing Repairs of Conditions and Other Relief In Residential Real Property Constituting Violation of Applicable Local or State Housing Standards or Real Property Law §](README.md)
 
 ```text
-  * § 797-f. Contents of the petition. 1. The petition shall be verified
+  § 797-f. Contents of the petition. 1. The petition shall be verified
 by the person authorized to maintain the proceeding under section seven
 hundred ninety-seven-a of this article or by a legal representative,
 attorney, or agent of such person pursuant to rule three hundred twenty
@@ -22,5 +22,4 @@ property law; and
 repair, a monetary judgment in favor of petitioner for diminished value
 of real property, and an order reducing future rent until violations
 have been cured.
-  * NB Effective December 30, 2023
 ```

@@ -4,7 +4,7 @@
 [Election Law](../../README.md) › [Article 8 — Conduct of Elections](../README.md) › [Title 7 — Early Mail Voting](README.md)
 
 ```text
-  * § 8-710. Early mail ballots; deadline for receipt, and delivery to
+  § 8-710. Early mail ballots; deadline for receipt, and delivery to
 polling place. 1. The board of elections shall cause all early mail
 ballots received by it before the close of the polls on election day and
 all ballots contained in envelopes showing a cancellation mark of the
@@ -21,5 +21,4 @@ indicating receipt by such board on the day after the election.
   2. Early mail ballots received by the board of elections shall be
 retained at the board of elections and cast and canvassed pursuant to
 the provisions of section 9-209 of this chapter.
-  * NB Effective January 1, 2024
 ```

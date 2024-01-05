@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Authorities Law § 2350-O", "kind": "section", "law_id": "PBA", "location_id": "2350-O", "path": "ARTICLE 8 › TITLE 16 › SECTION 2350-O", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/2350-O.md", "title": "Construction and purchase contracts"} -->
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 2350-O", "kind": "section", "law_id": "PBA", "location_id": "2350-O", "path": "ARTICLE 8 › TITLE 16 › SECTION 2350-O", "repealed": true, "repealed_date": "2024-01-05", "source": "nys-laws:PBA/2350-O.md", "title": "Construction and purchase contracts"} -->
 # Public Authorities Law § 2350-O — Construction and purchase contracts
 
 [Public Authorities Law](../../README.md) › [Article 8 — Miscellaneous Authorities](../README.md) › [Title 16 — Suffolk County Judicial Facilities Agency](README.md)
+
+**Repealed** (5 Jan 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 2350-o. Construction and purchase contracts. 1. The agency may, in

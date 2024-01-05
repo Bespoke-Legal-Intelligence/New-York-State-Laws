@@ -4,8 +4,8 @@
 [Election Law](../../README.md) › [Article 8 — Conduct of Elections](../README.md) › [Title 7 — Early Mail Voting](README.md)
 
 ```text
-  * § 8-712. Online early mail ballot tracking system. 1. The state
-board of elections shall establish and maintain an electronic early mail
+  § 8-712. Online early mail ballot tracking system. 1. The state board
+of elections shall establish and maintain an electronic early mail
 ballot tracking system. In accordance with technical specifications
 provided by the state board of elections, each local board of elections
 shall maintain an early mail ballot tracking system integrated with the
@@ -34,5 +34,4 @@ if rejected, a brief statement of the reason for rejection.
   4. The electronic early mail ballot tracking system shall be combined
 on a single website with the electronic absentee ballot tracking system
 created pursuant to section 8-414 of this article.
-  * NB Effective January 1, 2024
 ```

@@ -4,7 +4,7 @@
 [Election Law](../../README.md) › [Article 8 — Conduct of Elections](../README.md) › [Title 7 — Early Mail Voting](README.md)
 
 ```text
-  * § 8-704. Early mail ballots; delivery of. 1. If the board finds that
+  § 8-704. Early mail ballots; delivery of. 1. If the board finds that
 the applicant is a registered voter of the county or city at the address
 listed in the application, the applicant is eligible to vote in the
 election at issue, and the application is otherwise sufficient, it
@@ -19,5 +19,4 @@ shall provide a domestic postage paid return envelope. When providing an
 early mail ballot to a voter in-person, the board of elections shall
 offer the voter a domestic postage paid return envelope and provide one
 if requested.
-  * NB Effective January 1, 2024
 ```

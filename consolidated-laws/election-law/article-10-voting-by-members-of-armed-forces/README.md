@@ -15,7 +15,7 @@
 - [§ 10-114 Military ballots; deadline for receipt, and delivery to polling place](10-114-military-ballots-deadline-for-receipt-and-delivery-to-polling-place.md)
 - [§ 10-116 Military ballots; determination of candidates thereon](10-116-military-ballots-determination-of-candidates-thereon.md)
 - [§ 10-118 Military voting; costs of](10-118-military-voting-costs.md)
-- [§ 10-122 Military voter; absentee ballot, right to](10-122-military-voter-absentee-ballot-right.md)
+- [§ 10-122 Military voter; early mail or absentee ballot, right to](10-122-military-voter-early-mail-or-absentee-ballot-right.md)
 - [§ 10-124 Military voting; state board of elections; regulatory powers](10-124-military-voting-state-board-of-elections-regulatory-powers.md)
 - [§ 10-125 Military voters; prohibiting refusal to accept voter registration and military ballot applications, marked military ballots, and federal ...](10-125-military-voters-prohibiting-refusal-to-accept-voter-registration-and-military.md)
 - [§ 10-126 Military voting; applicability of general provisions](10-126-military-voting-applicability-of-general-provisions.md)

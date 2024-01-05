@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes and Smoking Paraphernalia; Distribution to Minors](README.md)
 
 ```text
-  * § 1399-bb-1. Promotions prohibited. 1. No manufacturer and no
+  § 1399-bb-1. Promotions prohibited. 1. No manufacturer and no
 distributor of electronic cigarettes shall market, license, distribute,
 sell, or cause to be marketed, licensed, distributed, or sold any item
 (other than electronic cigarettes, including parts, components or
@@ -34,5 +34,4 @@ name (alone or in conjunction with any other word), logo, symbol, motto,
 selling message, recognizable color or pattern of colors, or any other
 indicia of product identification identical or similar to, or
 identifiable with, those used for any brand of electronic cigarettes.
-  * NB Effective January 1, 2024
 ```

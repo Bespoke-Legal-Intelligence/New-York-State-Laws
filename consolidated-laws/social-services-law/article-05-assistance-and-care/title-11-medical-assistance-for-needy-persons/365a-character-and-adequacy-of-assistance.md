@@ -568,7 +568,6 @@ to receive federal financial participation in the costs of health care
 services provided pursuant to this paragraph. Nothing in this paragraph
 shall be construed to modify any licensure, certification or scope of
 practice provision under title eight of the education law.
-  * NB Effective January 1, 2024
   * NB There are 2 par (kk)'s
   * (kk) care and services of nutritionists and dietitians certified
 pursuant to article one hundred fifty-seven of the education law acting
