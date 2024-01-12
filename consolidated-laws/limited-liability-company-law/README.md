@@ -27,7 +27,7 @@ Article     I. Short title and definitions. (§§ 101-102)
            VI  Members and membership. (§§ 601-611)
 ```
 
-[Full chapter text (168 lines)](chapter-text.md)
+[Full chapter text (170 lines)](chapter-text.md)
 
 ## Recent changes
 

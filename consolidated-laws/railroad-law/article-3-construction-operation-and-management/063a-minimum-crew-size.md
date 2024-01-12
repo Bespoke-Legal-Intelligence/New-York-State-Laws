@@ -4,7 +4,7 @@
 [Railroad Law](../README.md) › [Article 3 — Construction, Operation and Management](README.md)
 
 ```text
-* § 63-a. Minimum crew size. 1. Except as otherwise provided in
+  * § 63-a. Minimum crew size. 1. Except as otherwise provided in
 subdivision two of this section, no person operating or controlling any
 Class I or Class II railroad shall allow the operation of any railroad
 train or locomotive for the movement of freight in this state unless
@@ -44,6 +44,5 @@ dollars nor more than five thousand dollars; and for a third or
 subsequent violation all of which were committed within a period of
 three years, by a civil penalty of not less than five thousand dollars
 nor more than ten thousand dollars.
-  * NB Effective January 7, 2024
   * NB Repealed upon certain provisions (see chapter 707 of 2023 § 3)
 ```

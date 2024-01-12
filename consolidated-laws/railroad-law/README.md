@@ -8,7 +8,7 @@
 | Senate code | RRD |
 | Type | Consolidated law, chapter 49 |
 | Sections | 201 |
-| Last changed | 15 Dec 2023 |
+| Last changed | 12 Jan 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Railroad |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [12 Jan 2024](../../changes/2024/2024-01-12.md): 1 amended
 - [15 Dec 2023](../../changes/2023/2023-12-15.md): 1 added
 - [17 Jun 2022](../../changes/2022/2022-06-17.md): 4 amended
 - [11 Jan 2019](../../changes/2019/2019-01-11.md): 1 amended
