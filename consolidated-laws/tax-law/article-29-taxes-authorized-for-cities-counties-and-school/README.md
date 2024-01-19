@@ -65,11 +65,10 @@ Section 1201.      Taxes administered by cities of one million or more.
                      county and the city of Saratoga Springs.
         1202-g*3.  Hotel or motel taxes in Steuben county.
         1202-g*4.  Hotel or motel taxes in the county of Westchester.
-        1202-gg.   Occupancy tax in the city of Cortland.
-        1202-gg*2. Hotel or motel taxes in the city of Ithaca.
-        1202-gg*3. Hotel or motel taxes in the town of Newburgh.
-        1202-gg*4. Hotel or motel taxes in the town of Mount Pleasant.
-        1202-gg*5. Hotel or motel taxes in the town of Wallkill.
+        1202-gg.   Hotel or motel taxes in the city of Ithaca.
+        1202-gg*2. Hotel or motel taxes in the town of Newburgh.
+        1202-gg*3. Hotel or motel taxes in the town of Mount Pleasant.
+        1202-gg*4. Hotel or motel taxes in the town of Wallkill.
         1202-gg-1. Hotel or motel taxes in the town of Cornwall.
         1202-h.    Hotel or motel taxes in Chemung county.
         1202-h*2.  Hotel or motel taxes in the county of Oswego.

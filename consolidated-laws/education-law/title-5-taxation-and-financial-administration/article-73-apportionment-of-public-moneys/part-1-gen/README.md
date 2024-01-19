@@ -28,7 +28,7 @@
 - [§ 3611 Racial and cultural awareness fund](3611-racial-and-cultural-awareness-fund.md)
 - [§ 3612 Teachers of tomorrow teacher recruitment and retention program](3612-teachers-of-tomorrow-teacher-recruitment.md)
 - [§ 3613 School district reorganizations and real property tax rates](3613-school-district-reorganizations-and-real.md)
-- [§ 3614 Statement of the total funding allocation](3614-statement-of-the-total-funding.md)
+- [§ 3614 Statement of the total funding allocation](3614-statement-of-the-total-funding.md) *(repealed)*
 
 <details>
 <summary>Official heading of Part 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -85,7 +85,6 @@ Section 3601.    When apportioned and how applied.
                    program.
         3613.    School district reorganizations and real property tax
                    rates.
-        3614.    Statement of the total funding allocation.
 ```
 
 </details>

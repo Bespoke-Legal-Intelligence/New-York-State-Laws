@@ -28,7 +28,7 @@
 - [§ 29-H Intrastate mutual aid program](29h-intrastate-mutual-aid-program.md)
 - [§ 29-I Immunity from liability for emergency alerts](29i-immunity-from-liability-for-emergency-alerts.md)
 - [§ 29-J Acceptance of gifts](29j-acceptance-of-gifts.md)
-- [§ 29-K Quarterly claim reports](29k-quarterly-claim-reports.md)
+- [§ 29-K Quarterly claim reports](29k-quarterly-claim-reports.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 2-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -63,7 +63,6 @@ Section 20.   Natural and man-made disasters; policy; definitions.
         29-h. Intrastate mutual aid program.
         29-i. Immunity from liability for emergency alerts.
         29-j. Acceptance of gifts.
-        29-k. Quarterly claim reports.
 ```
 
 </details>

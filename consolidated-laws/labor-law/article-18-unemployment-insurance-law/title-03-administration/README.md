@@ -14,7 +14,7 @@
 - [§ 537 Disclosures prohibited](537-disclosures-prohibited.md)
 - [§ 538 Representation and witness fees and other expenses](538-representation-and-witness-fees-and-other-expenses.md)
 - [§ 539 Acquisition of land and buildings](539-acquisition-of-land-and-buildings.md)
-- [§ 540 Information about food stamp, utility, and rental and mortgage assistance programs](540-information-about-food-stamp-utility-and-rental-and-mortgage-assistance-programs.md)
+- [§ 540 Information about assistance programs](540-information-about-assistance-programs.md)
 
 <details>
 <summary>Official heading of Title 3, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

@@ -20,7 +20,7 @@
 - [§ 196 Powers of commissioner](196-powers-of-commissioner.md)
 - [§ 196-A Complaints by employees to commissioner](196a-complaints-by-employees-to-commissioner.md)
 - [§ 196-B Sick leave requirements](196b-sick-leave-requirements.md)
-- [§ 196-C Leave time for COVID-19 vaccination](196c-leave-time-for-covid-19-vaccination.md)
+- [§ 196-C Leave time for COVID-19 vaccination](196c-leave-time-for-covid-19-vaccination.md) *(repealed)*
 - [§ 196-D Gratuities](196d-gratuities.md)
 - [§ 197 Civil penalty](197-civil-penalty.md)
 - [§ 198 Costs, remedies](198-costs-remedies.md)
@@ -55,7 +55,6 @@ Section 190.   Definitions.
         196.   Powers of commissioner.
         196-a. Complaints by employees to commissioner.
         196-b. Sick leave requirements.
-        196-c. Leave time for COVID-19 vaccination.
         196-d. Gratuities.
         197.   Civil penalty.
         198.   Costs, remedies.

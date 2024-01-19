@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Education Law § 3614", "kind": "section", "law_id": "EDN", "location_id": "3614", "path": "TITLE 5 › ARTICLE 73 › PART 1 › SECTION 3614", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/3614.md", "title": "Statement of the total funding allocation"} -->
+﻿<!-- nyslaw {"citation": "Education Law § 3614", "kind": "section", "law_id": "EDN", "location_id": "3614", "path": "TITLE 5 › ARTICLE 73 › PART 1 › SECTION 3614", "repealed": true, "repealed_date": "2024-01-19", "source": "nys-laws:EDN/3614.md", "title": "Statement of the total funding allocation"} -->
 # Education Law § 3614 — Statement of the total funding allocation
 
 [Education Law](../../../README.md) › [Title 5 — Taxation and Financial Administration](../../README.md) › [Article 73 — Apportionment of Public Moneys](../README.md) › [Part 1 — General Provisions](README.md)
+
+**Repealed** (19 Jan 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 3614. Statement of the total funding allocation. 1.

@@ -110,23 +110,9 @@ tickets have been sold for games defined in paragraph one of subdivision
 a of this section during the preceding month; and the balance of the
 total revenue after payout for prizes for games known as "video lottery
 gaming," including any joint, multi-jurisdiction, and out-of-state video
-lottery gaming, * (i) less ten percent of the total revenue wagered
-after payout for prizes to be retained by the division for operation,
-administration, and procurement purposes, provided, however, a vendor
-track located within Oneida county, within fifteen miles of a Native
-American class III gaming facility, that has maintained at least ninety
-percent of full-time equivalent employees as they employed in the year
-two thousand sixteen, may, for each quarter this subparagraph is
-effective, withhold up to seventy-five percent of such funds for
-operational expenses provided such vendor track has filed an affirmation
-with the gaming commission certifying that this additional amount is
-necessary to raise revenues to the same level as expenses during the
-previous quarter;
-  * NB Effective until June 21, 2023
-* (i) less ten percent of the total revenue wagered after payout for
-prizes to be retained by the division for operation, administration, and
-procurement purposes;
-  * NB Effective June 21, 2023
+lottery gaming, (i) less ten percent of the total revenue wagered after
+payout for prizes to be retained by the division for operation,
+administration, and procurement purposes;
   (ii) less a vendor's fee the amount of which is to be paid for serving
 as a lottery agent to the track operator of a vendor track or the
 operator of any other video lottery gaming facility authorized pursuant

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Labor Law § 196-C", "kind": "section", "law_id": "LAB", "location_id": "196-C", "path": "ARTICLE 6 › SECTION 196-C", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/196-C.md", "title": "Leave time for COVID-19 vaccination"} -->
+﻿<!-- nyslaw {"citation": "Labor Law § 196-C", "kind": "section", "law_id": "LAB", "location_id": "196-C", "path": "ARTICLE 6 › SECTION 196-C", "repealed": true, "repealed_date": "2024-01-19", "source": "nys-laws:LAB/196-C.md", "title": "Leave time for COVID-19 vaccination"} -->
 # Labor Law § 196-C — Leave time for COVID-19 vaccination
 
 [Labor Law](../README.md) › [Article 6 — Payment of Wages](README.md)
+
+**Repealed** (19 Jan 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 196-c. Leave time for COVID-19 vaccination. 1. Every employee

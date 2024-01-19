@@ -1,9 +1,7 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1202-GG*2", "kind": "section", "law_id": "TAX", "location_id": "1202-GG*2", "path": "ARTICLE 29 › PART 1 › SUBPART A › SECTION 1202-GG*2", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1202-GG_2.md", "title": "Hotel or motel taxes in the city of Ithaca"} -->
-# Tax Law § 1202-GG*2 — Hotel or motel taxes in the city of Ithaca
+﻿<!-- nyslaw {"citation": "Tax Law § 1202-GG", "kind": "section", "law_id": "TAX", "location_id": "1202-GG", "path": "ARTICLE 29 › PART 1 › SUBPART A › SECTION 1202-GG", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1202-GG.md", "title": "Hotel or motel taxes in the city of Ithaca"} -->
+# Tax Law § 1202-GG — Hotel or motel taxes in the city of Ithaca
 
 [Tax Law](../../../README.md) › [Article 29 — Taxes Authorized For Cities, Counties and School Districts](../../README.md) › [Part 1 — Authority to Impose Taxes](../README.md) › [Subpart A — Taxes Administered By Cities, Counties and School Districts](README.md)
-
-*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
 ```text
   * § 1202-gg. Hotel or motel taxes in the city of Ithaca. (1)
@@ -128,5 +126,5 @@ from the effective date of its enactment. Nothing in this section shall
 prohibit the adoption and enactment of local laws, pursuant to the
 provisions of this section, upon the expiration of any other local law
 adopted pursuant to this section.
-  * NB There are 5 § 1202-gg's
+  * NB There are 4 § 1202-gg's
 ```

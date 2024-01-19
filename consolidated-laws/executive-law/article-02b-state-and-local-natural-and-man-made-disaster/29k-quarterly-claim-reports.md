@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 29-K", "kind": "section", "law_id": "EXC", "location_id": "29-K", "path": "ARTICLE 2-B › SECTION 29-K", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/29-K.md", "title": "Quarterly claim reports"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 29-K", "kind": "section", "law_id": "EXC", "location_id": "29-K", "path": "ARTICLE 2-B › SECTION 29-K", "repealed": true, "repealed_date": "2024-01-19", "source": "nys-laws:EXC/29-K.md", "title": "Quarterly claim reports"} -->
 # Executive Law § 29-K — Quarterly claim reports
 
 [Executive Law](../README.md) › [Article 2-B — State and Local Natural and Man-made Disaster Preparedness](README.md)
+
+**Repealed** (19 Jan 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 29-k. Quarterly claim reports. The governor's office of storm
