@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 19 Jan 2024.*
+*Current through the publication of 26 Jan 2024.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [26 Jan 2024](changes/2024/2024-01-26.md): Executive Law; General Business Law
 - [19 Jan 2024](changes/2024/2024-01-19.md): Civil Service Law; Education Law; Election Law; Executive Law; Labor Law; Public Authorities Law; Social Services Law; State Finance Law; Tax Law
 - [12 Jan 2024](changes/2024/2024-01-12.md): Alcoholic Beverage Control Law; Environmental Conservation Law; New York State Constitution; Railroad Law
 - [5 Jan 2024](changes/2024/2024-01-05.md): Civil Practice Law and Rules; Civil Service Law; Education Law; Election Law; Environmental Conservation Law; General Business Law; General Municipal Law; Insurance Law; Judiciary Law; Labor Law; Navigation Law; New York City Civil Court Act; Public Authorities Law; Public Health Law; Public Officers Law; Real Property Actions and Proceedings Law; Social Services Law; State Finance Law; Town Law; Uniform City Court Act; Uniform District Court Act; Uniform Justice Court Act; Vehicle and Traffic Law; Veterans' Services Law; Village Law
@@ -22,24 +23,23 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [22 Dec 2023](changes/2023/2023-12-22.md): Public Health Law
 - [15 Dec 2023](changes/2023/2023-12-15.md): Agriculture and Markets Law; Alcoholic Beverage Control Law; Banking Law; Business Corporation Law; Civil Practice Law and Rules; Civil Service Law; Correction Law; Criminal Procedure Law; Emergency Tenant Protection Act; Environmental Conservation Law; Executive Law; Family Court Act; General Business Law; General Municipal Law; Highway Law; Limited Liability Company Law; Partnership Law; Public Authorities Law; Public Health Law; Railroad Law; Real Property Actions and Proceedings Law; Real Property Law; Retirement and Social Security Law; Urban Development Corporation Act; Vehicle and Traffic Law
 - [8 Dec 2023](changes/2023/2023-12-08.md): Tax Law
-- [1 Dec 2023](changes/2023/2023-12-01.md): Banking Law; Civil Practice Law and Rules; Civil Service Law; Executive Law; General Business Law; Labor Law; Military Law; Penal Law; Public Authorities Law; Public Health Law; Public Service Law; Transportation Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | 252 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 201 |
-| [Education Law](consolidated-laws/education-law/README.md) | 197 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 251 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 202 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 186 |
+| [Education Law](consolidated-laws/education-law/README.md) | 185 |
 | [Tax Law](consolidated-laws/tax-law/README.md) | 178 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | 146 |
-| [Election Law](consolidated-laws/election-law/README.md) | 127 |
+| [Election Law](consolidated-laws/election-law/README.md) | 124 |
 | [Labor Law](consolidated-laws/labor-law/README.md) | 118 |
-| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 109 |
-| [Social Services Law](consolidated-laws/social-services-law/README.md) | 103 |
-| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 67 |
-| [General Business Law](consolidated-laws/general-business-law/README.md) | 65 |
+| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 107 |
+| [Social Services Law](consolidated-laws/social-services-law/README.md) | 102 |
+| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 66 |
+| [General Business Law](consolidated-laws/general-business-law/README.md) | 64 |
 | [Real Property Actions and Proceedings Law](consolidated-laws/real-property-actions-and-proceedings-law/README.md) | 63 |
 | [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 58 |
 | [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | 50 |
@@ -76,10 +76,10 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Energy Law](consolidated-laws/energy-law/README.md) | ENG | 70 | 23 Jun 2023 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,834 | 12 Jan 2024 |
 | [Estates, Powers and Trusts Law](consolidated-laws/estates-powers-and-trusts-law/README.md) | EPT | 361 | 16 Sep 2022 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 909 | 19 Jan 2024 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 909 | 26 Jan 2024 |
 | [Financial Services Law](consolidated-laws/financial-services-law/README.md) | FIS | 59 | 12 May 2023 |
 | [General Associations Law](consolidated-laws/general-associations-law/README.md) | GAS | 24 | 6 Jan 2023 |
-| [General Business Law](consolidated-laws/general-business-law/README.md) | GBS | 1,327 | 5 Jan 2024 |
+| [General Business Law](consolidated-laws/general-business-law/README.md) | GBS | 1,327 | 26 Jan 2024 |
 | [General City Law](consolidated-laws/general-city-law/README.md) | GCT | 205 | 12 May 2023 |
 | [General Construction Law](consolidated-laws/general-construction-law/README.md) | GCN | 97 | 30 Jun 2023 |
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | GMU | 1,092 | 5 Jan 2024 |

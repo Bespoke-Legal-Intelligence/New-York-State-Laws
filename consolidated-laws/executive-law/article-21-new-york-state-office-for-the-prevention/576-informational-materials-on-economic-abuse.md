@@ -4,8 +4,8 @@
 [Executive Law](../README.md) › [Article 21 — New York State Office For the Prevention of Domestic Violence](README.md)
 
 ```text
-  * § 576. Informational materials on economic abuse. 1. In furtherance
-of the activities required in subdivision three of section five hundred
+  § 576. Informational materials on economic abuse. 1. In furtherance of
+the activities required in subdivision three of section five hundred
 seventy-five of this article, the office shall create informational
 materials on economic abuse and describe how it is a form of domestic
 violence. Such materials shall provide information on the impact of
@@ -16,5 +16,4 @@ suffering from economic abuse.
 this section shall be provided to domestic violence shelters, local
 social services districts, local police departments, and local childcare
 facilities to be distributed to potential victims of domestic violence.
-  * NB Effective January 21, 2024
 ```
