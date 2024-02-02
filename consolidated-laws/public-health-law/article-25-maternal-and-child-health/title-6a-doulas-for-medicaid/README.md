@@ -19,7 +19,7 @@ Section 2594-a. Definitions.
         2594-b. New York state community doula directory.
         2594-c. Criteria for admittance into the New York state
                   community doula directory.
-  * NB Effective August 6, 2024
+  * NB Effective and Repealed August 6, 2024
 ```
 
 </details>

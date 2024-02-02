@@ -13,7 +13,6 @@
 - [§ 363-C Medicaid management](363c-medicaid-management.md)
 - [§ 363-D Provider compliance program](363d-provider-compliance-program.md)
 - [§ 363-E Medicaid plan, applications for waivers and plan amendments; public disclosure](363e-medicaid-plan-applications-for-waivers-and-plan.md)
-- [§ 363-E\*2 Preclaim review for participating providers of medical assistance program services and items](363e-2-preclaim-review-for-participating-providers-of-medical.md) *(repealed)*
 - [§ 363-F Electronic visit verification for personal care and home health providers](363f-electronic-visit-verification-for-personal-care-and-home.md)
 - [§ 364 Responsibility for standards](364-responsibility-for-standards.md)
 - [§ 364-A Cooperation of state departments](364a-cooperation-of-state-departments.md)
@@ -46,6 +45,7 @@
 - [§ 365-M Administration and management of behavioral health services](365m-administration-and-management-of-behavioral-health.md)
 - [§ 365-N Department of health assumption of program administration](365n-department-of-health-assumption-of-program.md)
 - [§ 365-O Provision and coverage of services for living organ donors](365o-provision-and-coverage-of-services-for-living-organ.md)
+- [§ 365-P Doulas for Medicaid](365p-doulas-for-medicaid.md)
 - [§ 366 Eligibility](366-eligibility.md)
 - [§ 366-A Applications for assistance; investigations; reconsideration](366a-applications-for-assistance-investigations.md)
 - [§ 366-B Penalties for fraudulent practices](366b-penalties-for-fraudulent-practices.md)
@@ -148,6 +148,7 @@ Section 363.     Declaration of objects.
                    administration.
         365-o.   Provision and coverage of services for living organ
                    donors.
+        365-p.   Doulas for Medicaid.
         366.     Eligibility.
         366-a.   Applications for assistance; investigations;
                    reconsideration.

@@ -28,5 +28,5 @@ for admittance into the New York state community doula directory.
   6. The community doula directory shall be publicly accessible at no
 cost to the doula or birthing person looking to hire a doula in their
 community.
-  * NB Effective August 6, 2024
+  * NB Effective and Repealed August 6, 2024
 ```

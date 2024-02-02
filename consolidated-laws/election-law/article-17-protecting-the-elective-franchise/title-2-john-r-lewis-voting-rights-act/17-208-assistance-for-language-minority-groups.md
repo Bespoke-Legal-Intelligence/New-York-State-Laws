@@ -58,5 +58,5 @@ supreme court of the county in which the alleged violation of this
 section occurred.
   5. This section shall not apply to special districts as defined by
 section one hundred two of the real property tax law.
-  * NB Effective June 20, 2026
+  * NB Effective June 20, 2025
 ```

@@ -9,7 +9,7 @@
 - [§ 2-202 Petition for incorporation](2-202-petition-for-incorporation.md)
 - [§ 2-204 Notice of hearing](2-204-notice-of-hearing.md)
 - [§ 2-206 Proceeding on hearing](2-206-proceeding-on-hearing.md)
-- [§ 2-208 Decision as to village establishment](2-208-decision-as-to-village-establishment.md)
+- [§ 2-208 Decision to commence village incorporation election](2-208-decision-to-commence-village-incorporation-election.md)
 - [§ 2-210 Review of decision](2-210-review-of-decision.md)
 - [§ 2-212 Right to election](2-212-right-to-election.md)
 - [§ 2-214 Notice of election](2-214-notice-of-election.md)
@@ -34,8 +34,8 @@
 - [§ 2-254 Effect of incorporation on all districts entirely within village](2-254-effect-of-incorporation-on-all-districts-entirely-within-village.md)
 - [§ 2-256 Liability to special districts and collection of funds](2-256-liability-to-special-districts-and-collection-of-funds.md)
 - [§ 2-258 Apportionment of property and obligations of a special district of a town upon the incorporation of a part in a village](2-258-apportionment-of-property-and-obligations-of-a-special-district-of-a-town.md)
-- [§ 2-259 Village incorporation commission](2-259-village-incorporation-commission.md)
-- [§ 2-260 Fiscal study reporting](2-260-fiscal-study-reporting.md)
+- [§ 2-259 Fiscal study reporting](2-259-fiscal-study-reporting.md)
+- [§ 2-260 Village incorporation commission and general administration](2-260-village-incorporation-commission-and-general-administration.md)
 
 <details>
 <summary>Official heading of Article 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -47,7 +47,7 @@ Section 2-200 Population and area requirements.
         2-202 Petition for incorporation.
         2-204 Notice of hearing.
         2-206 Proceeding on hearing.
-        2-208 Decision as to village establishment.
+        2-208 Decision to commence village incorporation election.
         2-210 Review of decision.
         2-212 Right to election.
         2-214 Notice of election.
@@ -76,8 +76,8 @@ Section 2-200 Population and area requirements.
         2-258 Apportionment of property and obligations of a special
                 district of a town upon the incorporation of a part in a
                 village.
-        2-259 Village incorporation commission.
-        2-260 Fiscal study reporting.
+        2-259 Fiscal study reporting.
+        2-260 Village incorporation commission.
 ```
 
 </details>

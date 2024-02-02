@@ -12,5 +12,5 @@ doula's certification from a doula educational organization or by
 demonstration of satisfactory proficiency pursuant to this section, and
 his, her, or their full name, address, phone number, email address, and
 if applicable, their national provider identification number.
-  * NB Effective August 6, 2024
+  * NB Effective and Repealed August 6, 2024
 ```

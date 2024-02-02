@@ -10,5 +10,5 @@ informational support to a pregnant person and the family of such
 pregnant person before, during or a reasonable time after childbirth.
   2. A doula may provide services in hospitals, birthing centers, at
 home deliveries and other community settings.
-  * NB Effective August 6, 2024
+  * NB Effective and Repealed August 6, 2024
 ```

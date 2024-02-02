@@ -166,14 +166,12 @@ information regarding:
   (i) the potential mental and physical impact from such loss; and
   (ii) resources for support and follow-up care.
   * NB There are 3 par (r)'s
-  * (r) The physical, sexual, and psychological impact of nonemergent
-medical procedures performed on individuals with variations in sex
-characteristics who have not themselves consented to the procedure;
-provided that such a program shall include an advisory council under
-this section that shall include intersex persons themselves,
-intersex-led organizations, and health care providers with demonstrated
-medical expertise treating intersex individuals in a manner that
-respects their bodily integrity and self-determination, among others.
+  * (r) The physical, sexual, and psychological impact of medical
+procedures performed on intersex individuals, including those who have
+not themselves consented to the procedure; provided that the department
+shall consult with appropriate stakeholders, including, but not limited
+to intersex persons, intersex-led organizations, and their chosen
+advocates, while developing this outreach program.
   * NB There are 3 par (r)'s
   * (r) Sickle cell disease including but not limited to screening,
 prevention, and treatment information. The department, through the

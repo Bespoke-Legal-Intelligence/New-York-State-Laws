@@ -14,15 +14,16 @@ claim has been demonstrated, (3) when needed for medical or scientific
 research approved by the commissioner, (4) when needed for statistical
 or epidemiological purposes approved by the commissioner, (5) upon
 specific request by municipal, state or federal agencies for statistical
-or official purposes, (6) upon specific request of the agent, as
-designated pursuant to subdivision three of section four thousand two
-hundred one of this chapter, spouse, domestic partner, children,
-siblings, parents, grandparents, aunts, uncles, cousins, nieces or
-nephews of the deceased or the lawful representative of such persons, or
-(7) pursuant to the order of a court of competent jurisdiction on a
-showing of necessity; except no certified copy or certified transcript
-of a death record shall be subject to disclosure under article six of
-the public officers law;
+or official purposes, (6) upon specific request of the agent charged
+with controlling disposition of a decedent's remains, as designated
+pursuant to subdivision three of section four thousand two hundred one
+of this chapter, spouse, domestic partners as defined in paragraph (c)
+of subdivision one of section four thousand two hundred one of this
+chapter, children, siblings or, parents of the deceased or the lawful
+representative of such persons, or (7) pursuant to the order of a court
+of competent jurisdiction on a showing of necessity; except no certified
+copy or certified transcript of a death record shall be subject to
+disclosure under article six of the public officers law;
   (b) issue certified copies or certified transcripts of birth
 certificates only (1) upon order of a court of competent jurisdiction,
 or (2) upon specific request therefor by the person, if eighteen years

@@ -1,10 +1,10 @@
-﻿<!-- nyslaw {"citation": "Village Law § 2-260", "kind": "section", "law_id": "VIL", "location_id": "2-260", "path": "ARTICLE 2 › SECTION 2-260", "repealed": false, "repealed_date": null, "source": "nys-laws:VIL/2-260.md", "title": "Fiscal study reporting"} -->
-# Village Law § 2-260 — Fiscal study reporting
+﻿<!-- nyslaw {"citation": "Village Law § 2-259", "kind": "section", "law_id": "VIL", "location_id": "2-259", "path": "ARTICLE 2 › SECTION 2-259", "repealed": false, "repealed_date": null, "source": "nys-laws:VIL/2-259.md", "title": "Fiscal study reporting"} -->
+# Village Law § 2-259 — Fiscal study reporting
 
 [Village Law](../README.md) › [Article 2 — Incorporation](README.md)
 
 ```text
-  § 2-260 Fiscal study reporting. 1. A fiscal study required pursuant to
+  § 2-259 Fiscal study reporting. 1. A fiscal study required pursuant to
 paragraph g of subdivision one of section 2-206 of this article shall be
 completed prior to any village incorporation election takes place.
   2. Such fiscal study referenced in subdivision one of this section
