@@ -13,7 +13,7 @@
 - [§ 1405 False and misleading statements; penalties; private rights of persons](1405-false-and-misleading-statements-penalties-private-rights-of-persons.md)
 - [§ 1406 Fees](1406-fees.md)
 - [§ 1407 Powers of the commissioner](1407-powers-of-the-commissioner.md)
-- [§ 1408 Children's non-regulated camps](1408-childrens-non-regulated-camps.md)
+- [§ 1408 Registry for children's non-regulated camps](1408-registry-for-childrens-non-regulated-camps.md)
 
 <details>
 <summary>Official heading of Article 14, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -31,7 +31,7 @@ Section 1400. Definitions.
                 of persons.
         1406. Fees.
         1407. Powers of the commissioner.
-        1408. Children's non-regulated camps.
+        1408. Registry for children's non-regulated camps.
 ```
 
 </details>

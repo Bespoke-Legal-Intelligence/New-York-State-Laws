@@ -38,14 +38,40 @@ determinations; and procedures for appeal of adverse determinations
 including the establishment of an expedited appeals process for denials
 of continued inpatient care or where there is imminent or serious threat
 to the health of the enrollee;
-  (e) Establishment of a written procedure to assure that the notice of
-an adverse determination includes: (i) the reasons for the determination
-including the clinical rationale, if any; (ii) instructions on how to
-initiate standard and expedited appeals pursuant to section forty-nine
-hundred four and an external appeal pursuant to section forty-nine
-hundred fourteen of this article; and (iii) notice of the availability,
-upon request of the enrollee or the enrollee's designee, of the clinical
-review criteria relied upon to make such determination;
+  * (e) Establishment of a written procedure to assure that the notice
+of an adverse determination includes: (i) the reasons for the
+determination including the clinical rationale, if any; (ii)
+instructions on how to initiate standard and expedited appeals pursuant
+to section forty-nine hundred four and an external appeal pursuant to
+section forty-nine hundred fourteen of this article; and (iii) notice of
+the availability, upon request of the enrollee or the enrollee's
+designee, of the clinical review criteria relied upon to make such
+determination;
+  * NB Effective until March 21, 2024
+  * (e) (i) Establishment of a written procedure to assure that the
+notice of an adverse determination includes: (1) the reasons for the
+determination including the clinical rationale, if any; (2) instructions
+on how to initiate standard and expedited appeals pursuant to section
+forty-nine hundred four and an external appeal pursuant to section
+forty-nine hundred fourteen of this article; (3) notice of the
+availability, upon request of the enrollee or the enrollee's designee,
+of the clinical review criteria relied upon to make such determination;
+(4) what, if any, additional necessary information must be provided to,
+or obtained by, the utilization review agent in order to render a
+decision on an appeal; and (5) for an adverse determination related to a
+step therapy protocol override determination, information that includes
+the clinical review criteria relied upon to make such determination and
+any applicable alternative prescription drugs subject to the step
+therapy protocol of the utilization review agent.
+  (ii) A utilization review agent may provide notice of an adverse
+determination related to a step therapy protocol override determination
+electronically pursuant to subdivision nine of section forty-nine
+hundred three of this title, including by electronic mail or through the
+health care plan's member portal and provider portal. An electronic
+notice of such an adverse determination may meet the requirements of
+clause five of subparagraph (i) of this paragraph by linking to
+information posted on the website of the health care plan;
+  * NB Effective March 21, 2024
   (f) Establishment of a requirement that appropriate personnel of the
 utilization review agent are reasonably accessible by toll-free
 telephone:
@@ -130,7 +156,7 @@ organization's website, or the website of an organization subject to
 article forty-three of this chapter, provided that the member consents
 to receiving the information electronically.
   * NB There are 2 par (l)'s
-  * NB Effective March 21, 2024
+  * NB Effective and Repealed March 21, 2024
   2. Each utilization review agent shall assure adherence to the
 requirements stated in subdivision one of this section by all
 contractors, subcontractors, subvendors, agents and employees affiliated

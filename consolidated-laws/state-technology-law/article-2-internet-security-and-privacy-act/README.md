@@ -14,7 +14,6 @@
 - [§ 207 Construction](207-construction.md)
 - [§ 208 Notification; person without valid authorization has acquired private information](208-notification-person-without-valid-authorization-has-acquired-private-information.md)
 - [§ 209 Notification of a breach of the security of the system or a breach of network security; shared data](209-notification-of-a-breach-of-the-security-of-the-system-or-a-breach-of-network.md)
-- [§ 210 State agency websites; mobile friendly websites](210-state-agency-websites-mobile-friendly-websites.md)
 
 <details>
 <summary>Official heading of Article 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -33,7 +32,6 @@ Section 201. Short title.
                acquired private information.
         209. Notification of a breach of the security of the system or a
                breach of network security; shared data.
-        210. State agency websites; mobile friendly websites.
 ```
 
 </details>

@@ -10,12 +10,13 @@ the purposes of this section:
 building inlet.
   (b) "Gooseneck, pigtail, or connector" means a short section of
 piping, typically not exceeding two feet, which can be bent and used for
-connections between rigid portions of a service line.
+connections between rigid portions of a service line, as defined in 40
+CFR 141.2.
   (c) "Galvanized service line" means iron or steel piping that has been
 dipped in zinc to prevent corrosion and rusting.
   (d) "Covered public water system" means (i) a public water system that
-serves at least five service connections used by year-round residents or
-regularly serves at least twenty-five year-round residents; or (ii) a
+serves at least fifteen service connections used by year-round residents
+or regularly serves at least twenty-five year-round residents; or (ii) a
 public water system that regularly serves at least twenty-five of the
 same people, four hours or more per day, for four or more days per week,
 for twenty-six or more weeks per year.
@@ -25,35 +26,33 @@ identifies the location, material composition, and other details of all
 service lines connected to its distribution system. Each covered public
 water system shall also submit an inventory summary form, in a format to
 be developed by the department, summarizing the data identified in the
-service line inventory. The development of service line inventories and
-inventory summary forms shall comply with requirements promulgated by
-the United States environmental protection agency as well as comply with
-the provisions of this section.
-  3. Each service line connected to a covered public water system's
-distribution system shall be listed in service line inventories. Each
+service line inventory. Notwithstanding subdivisions three and four of
+this section, the development of service line inventories and inventory
+summary forms shall comply with requirements promulgated by the United
+States environmental protection agency.
+  3. Each service line shall be listed in service line inventories. Each
 covered public water system shall include for each service line the
-information listed in this subdivision. For some categories, the covered
-public water system may mark "unknown" where documented evidence is not
-currently available:
+information listed in this subdivision. The covered public water system
+may mark "unknown" where documented evidence is not currently available:
   (a) street address;
   (b) town;
   (c) zip code;
-  (d) whether a gooseneck, pigtail, or connector made of lead is
-present;
-  (e) the material composition of both the public portion and customer
-portion of the service line;
-  (f) whether the public portion or customer portion of the service line
-was ever made of lead;
+  (d) if known, whether a gooseneck, pigtail, or connector made of lead
+is present;
+  (e) if known, the material composition of both the public portion and
+customer portion of the service line;
+  (f) if known, whether the public portion or customer portion of the
+service line was ever made of lead;
   (g) the verification method used to determine the material composition
 of both the public portion and customer portion of the service line;
-  (h) the installation or replacement date of both the public portion
-and customer portion of the service line;
-  (i) the diameter of both the public portion and customer portion of
-the service line;
-  (j) whether lead solder is present;
-  (k) the building type; and
-  (l) whether a point of use or point of entry treatment system is
-present.
+  (h) if known, the installation or replacement date of both the public
+portion and customer portion of the service line;
+  (i) if known, the diameter of both the public portion and customer
+portion of the service line;
+  (j) if known, whether lead solder is present;
+  (k) if known, the building type; and
+  (l) if known, whether a point of use or point of entry treatment
+system is present.
   4. Inventory summary forms shall include, but not be limited to, the
 following information about each covered water system:
   (a) water system name and identification number;
@@ -63,10 +62,10 @@ completing the form;
   (d) the total number of lead service lines, including the total number
 of lead public service line portions and the total number of lead
 customer service line portions;
-  (e) the total number of galvanized service lines requiring
-replacement, including the total number of galvanized public service
-line portions and the total number of galvanized customer service line
-portions;
+  (e) the total number of galvanized service lines requiring replacement
+as defined in 40 CFR 141.84, including the total number of galvanized
+public service line portions requiring replacement and the total number
+of galvanized customer service line portions requiring replacement;
   (f) the total number of non-lead service lines, including the total
 number of non-lead public service line portions and the total number of
 non-lead customer service line portions;
@@ -75,12 +74,16 @@ the total number of unknown public service line portions and the total
 number of unknown customer service line portions;
   (h) the total number of public service line portions identified by
 historical records, field inspections, customer identification with
-photo or other verification, excavation, sequential sampling, and
-statistical analysis/predictive modeling;
+photo or other verification, excavation, sequential sampling,
+statistical analysis/predictive modeling, or other method determined by
+the covered public water system to accurately identify service line
+materials;
   (i) the total number of customer service portions identified by
 historical records, field inspections, customer identification with
 photo or other verification, excavation, sequential sampling, and
-statistical analysis/predictive modeling;
+statistical analysis/predictive modeling, or other method determined by
+the covered public water system to accurately identify service line
+materials;
   (j) a description of how the service line inventory will be accessible
 to the public; and
   (k) a certification verifying the accuracy of the information.
@@ -91,35 +94,37 @@ The department may prescribe data management means and methods for
 electronic submissions by covered public water systems for uniformity
 purposes.
   6. Covered public water systems whose inventories contain any service
-lines classified as lead, galvanized, or unknown shall electronically
-submit updated service line inventories and inventory summary forms to
-the department at least annually. Updated service line inventories and
-inventory summary forms shall reflect information gathered during any
-service line replacements or service line material inspections that may
-have been conducted. Updated inventory summary forms shall additionally
-include:
+lines classified as lead, galvanized requiring replacement as defined in
+40 CFR 141.84, or unknown shall electronically submit updated service
+line inventories and inventory summary forms to the department at least
+annually. Updated service line inventories and inventory summary forms
+shall reflect information gathered during any service line replacements
+or service line material inspections that may have been conducted.
+Updated inventory summary forms shall additionally include:
   (a) a description detailing the steps being taken to determine the
 material composition of unknown service lines;
-  (b) the total number of service lines classified as lead, galvanized,
-or unknown that were replaced over the course of the previous year; and
+  (b) the total number of service lines classified as lead, galvanized
+requiring replacement, or unknown that were replaced over the course of
+the previous year; and
   (c) the total number of service lines classified as unknown that were
-determined to be lead, galvanized, or other material over the course of
-the previous year.
+determined to be lead, galvanized requiring replacement, or other
+material over the course of the previous year.
   7. Each covered public water system which operates its own website
 shall make its most recent service line inventory and inventory summary
 form available to the public on its website.
-  8. No later than thirty days after receiving initial and updated
-service line inventories and inventory summary forms, the department
-shall make such inventories and inventory summary forms available to the
-public on the department's website. Each local health department shall
-include a link on its website to the website operated by the department
-for hosting service line inventories and inventory summary forms.
-  9. No later than three hundred sixty days after October sixteenth, two
-thousand twenty-four, the department shall make the information from the
-service line inventories of covered public water systems serving more
-than ten thousand people available to the public on the department's
-website in the form of an interactive map or maps. Such interactive map
-or maps shall include, for each service line:
+  8. No later than one hundred twenty days after receiving initial and
+updated service line inventories and inventory summary forms, the
+department shall make such inventories and inventory summary forms
+available to the public through the department's website. Each local
+health department shall include a link on its website to the website
+maintained by the department for hosting service line inventories and
+inventory summary forms.
+  9. No later than October sixteenth, two thousand twenty-six, the
+department shall make the information from the service line inventories
+of covered public water systems serving more than ten thousand people
+and fewer than two million people available to the public on the
+department's website in the form of an interactive map or maps. Such
+interactive map or maps shall include, for each service line:
   (a) material classification, including the material classification of
 both the public and customer portions of a service line;
   (b) street address; and
@@ -130,7 +135,9 @@ classification. The department's interactive map or maps shall be
 updated at least annually, in conjunction with the submission of updated
 service line inventories by covered public water systems. The department
 may choose not to create an interactive map when a covered public water
-system certifies that it maintains and updates its own interactive map.
+system certifies that it maintains and updates its own interactive map,
+and shall include a link to such interactive map on the department's
+website.
   11. The department shall adopt such rules and regulations as it deems
 necessary and proper to implement the provisions of this section.
 ```

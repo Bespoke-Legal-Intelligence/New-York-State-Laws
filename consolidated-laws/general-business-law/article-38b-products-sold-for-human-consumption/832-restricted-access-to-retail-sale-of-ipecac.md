@@ -1,10 +1,10 @@
-﻿<!-- nyslaw {"citation": "General Business Law § 391-R", "kind": "section", "law_id": "GBS", "location_id": "391-R", "path": "ARTICLE 26 › SECTION 391-R", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/391-R.md", "title": "Restricted access to retail sale of ipecac"} -->
-# General Business Law § 391-R — Restricted access to retail sale of ipecac
+﻿<!-- nyslaw {"citation": "General Business Law § 832", "kind": "section", "law_id": "GBS", "location_id": "832", "path": "ARTICLE 38-B › SECTION 832", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/832.md", "title": "Restricted access to retail sale of ipecac"} -->
+# General Business Law § 832 — Restricted access to retail sale of ipecac
 
-[General Business Law](../README.md) › [Article 26 — Miscellaneous](README.md)
+[General Business Law](../README.md) › [Article 38-B — Products Sold For Human Consumption](README.md)
 
 ```text
-  § 391-r. Restricted access to retail sale of ipecac. 1. Any retail
+  § 832. Restricted access to retail sale of ipecac. 1. Any retail
 establishment that sells any product or products containing as the only
 active ingredient ipecac, shall limit access to such products in a
 manner designed to prevent the misuse or abuse of such products. Such

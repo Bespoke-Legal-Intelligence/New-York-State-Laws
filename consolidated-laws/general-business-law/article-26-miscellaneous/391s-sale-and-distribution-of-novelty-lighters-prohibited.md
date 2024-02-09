@@ -1,12 +1,10 @@
-﻿<!-- nyslaw {"citation": "General Business Law § 391-S*2", "kind": "section", "law_id": "GBS", "location_id": "391-S*2", "path": "ARTICLE 26 › SECTION 391-S*2", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/391-S_2.md", "title": "Sale and distribution of novelty lighters prohibited"} -->
-# General Business Law § 391-S*2 — Sale and distribution of novelty lighters prohibited
+﻿<!-- nyslaw {"citation": "General Business Law § 391-S", "kind": "section", "law_id": "GBS", "location_id": "391-S", "path": "ARTICLE 26 › SECTION 391-S", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/391-S.md", "title": "Sale and distribution of novelty lighters prohibited"} -->
+# General Business Law § 391-S — Sale and distribution of novelty lighters prohibited
 
 [General Business Law](../README.md) › [Article 26 — Miscellaneous](README.md)
 
-*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
-
 ```text
-  * § 391-s. Sale and distribution of novelty lighters prohibited. 1.
+  § 391-s. Sale and distribution of novelty lighters prohibited. 1.
 Definitions:
   (a) "Audio effects" means music, animal sounds, whistles, buzzers,
 beepers or other noises not typically caused by or pertinent to the
@@ -107,5 +105,4 @@ In connection with any such proposed application, the attorney general
 is authorized to take proof and make a determination of the relevant
 facts and to issue subpoenas in accordance with the civil practice law
 and rules.
-  * NB There are 2 § 391-s's
 ```

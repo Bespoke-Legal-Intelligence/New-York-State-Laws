@@ -179,7 +179,7 @@ intellectual or developmental disability as defined in section 1.03 of
 the mental hygiene law. Such guidance shall be developed in consultation
 with the justice center for the protection of people with special needs.
 Persons and officials required to report cases of suspected child abuse
-or maltreatment shall have one year from the effective date of this
+or maltreatment shall have two years from the effective date of this
 subdivision to receive such updated mandated reporter training.
   * NB Effective November 17, 2024
 ```

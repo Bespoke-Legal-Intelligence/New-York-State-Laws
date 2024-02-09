@@ -8,7 +8,7 @@
 | Senate code | GBS |
 | Type | Consolidated law, chapter 20 |
 | Sections | 1,327 |
-| Last changed | 2 Feb 2024 |
+| Last changed | 9 Feb 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Business |
 
@@ -29,10 +29,11 @@ AN ACT relating to general business, constituting chapter twenty of the
   Assembly, do enact as follows:
 ```
 
-[Full chapter text (182 lines)](chapter-text.md)
+[Full chapter text (183 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [9 Feb 2024](../../changes/2024/2024-02-09.md): 5 amended, 5 added, 5 removed
 - [2 Feb 2024](../../changes/2024/2024-02-02.md): 4 amended
 - [26 Jan 2024](../../changes/2024/2024-01-26.md): 1 amended
 - [5 Jan 2024](../../changes/2024/2024-01-05.md): 2 amended
@@ -42,7 +43,6 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [26 Nov 2023](../../changes/2023/2023-11-26.md): 4 amended, 2 added
 - [27 Oct 2023](../../changes/2023/2023-10-27.md): 2 added
 - [29 Sep 2023](../../changes/2023/2023-09-29.md): 5 amended
-- [22 Sep 2023](../../changes/2023/2023-09-22.md): 2 amended
 
 ## Contents
 
@@ -161,6 +161,7 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 37-A — Registration of Hearing Aid Dispensers](article-37a-registration-of-hearing-aid-dispensers/)
 - [Article 38 — Vessel Dealer Agreements](article-38-vessel-dealer-agreements/)
 - [Article 38-A — Sale of Outdated Over-the-counter Drugs](article-38a-sale-of-outdated-over-the-counter-drugs/)
+- [Article 38-B — Products Sold For Human Consumption](article-38b-products-sold-for-human-consumption/)
 - [Article 39 — Drug-related Paraphernalia](article-39-drug-related-paraphernalia/)
 - [Article 39-A — Merchants of Torah Scrolls](article-39a-merchants-of-torah-scrolls/)
 - [Article 39-B — Imitation Weapons](article-39b-imitation-weapons/)

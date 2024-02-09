@@ -1,10 +1,10 @@
-﻿<!-- nyslaw {"citation": "General Business Law § 391-O", "kind": "section", "law_id": "GBS", "location_id": "391-O", "path": "ARTICLE 26 › SECTION 391-O", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/391-O.md", "title": "Sale or promotional distribution of dietary supplements containing ephedra"} -->
-# General Business Law § 391-O — Sale or promotional distribution of dietary supplements containing ephedra
+﻿<!-- nyslaw {"citation": "General Business Law § 831", "kind": "section", "law_id": "GBS", "location_id": "831", "path": "ARTICLE 38-B › SECTION 831", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/831.md", "title": "Sale or promotional distribution of dietary supplements containing ephedra"} -->
+# General Business Law § 831 — Sale or promotional distribution of dietary supplements containing ephedra
 
-[General Business Law](../README.md) › [Article 26 — Miscellaneous](README.md)
+[General Business Law](../README.md) › [Article 38-B — Products Sold For Human Consumption](README.md)
 
 ```text
-  § 391-o. Sale or promotional distribution of dietary supplements
+  § 831. Sale or promotional distribution of dietary supplements
 containing ephedra. 1. No person, firm, corporation, partnership,
 association, limited liability company, or other entity shall sell or
 offer to sell or give away, as either a retail or wholesale promotion, a

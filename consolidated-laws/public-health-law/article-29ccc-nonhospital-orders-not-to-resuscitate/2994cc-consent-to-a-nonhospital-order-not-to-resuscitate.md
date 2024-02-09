@@ -42,11 +42,13 @@ patient.
 hygiene facility shall be governed by article twenty-nine-B of this
 chapter.
   * NB Effective until March 21, 2024
-  * 5. Consent by a patient or a surrogate for a patient in a facility
-operated or licensed by the office of mental health shall be governed by
-this article. Consent by a patient who is intellectually or otherwise
-developmentally disabled and is eligible for life-sustaining treatment
-decision pursuant to section seventeen hundred fifty-b of the
-surrogate's court procedure act shall be governed by that section.
+  * 5. Consent by a patient or a surrogate for a patient in a
+residential facility operated or licensed by the office of mental
+health, other than a hospital as defined in section 1.03 of the mental
+hygiene law, shall be governed by this article. Consent by a patient who
+is intellectually or otherwise developmentally disabled and is eligible
+for life-sustaining treatment decision pursuant to section seventeen
+hundred fifty-b of the surrogate's court procedure act shall be governed
+by that section.
   * NB Effective March 21, 2024
 ```

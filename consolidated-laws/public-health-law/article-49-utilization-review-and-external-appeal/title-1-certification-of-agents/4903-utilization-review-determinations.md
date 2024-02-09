@@ -128,7 +128,7 @@ care professional.
   4. A utilization review agent shall make a utilization review
 determination involving health care services which have been delivered
 within thirty days of receipt of the necessary information.
-  5. Notice of an adverse determination made by a utilization review
+  * 5. Notice of an adverse determination made by a utilization review
 agent shall be in writing and must include:
   (a) the reasons for the determination including the clinical
 rationale, if any;
@@ -141,6 +141,34 @@ such determination. Such notice shall also specify what, if any,
 additional necessary information must be provided to, or obtained by,
 the utilization review agent in order to render a decision on the
 appeal.
+  * NB Effective until March 21, 2024
+  * 5. (a) Notice of an adverse determination made by a utilization
+review agent shall be in writing and must include:
+  (i) the reasons for the determination including the clinical
+rationale, if any;
+  (ii) instructions on how to initiate standard and expedited appeals
+pursuant to section forty-nine hundred four and an external appeal
+pursuant to section forty-nine hundred fourteen of this article; (iii)
+notice of the availability, upon request of the enrollee, or the
+enrollee's designee, of the clinical review criteria relied upon to make
+such determination. Such notice shall also specify what, if any,
+additional necessary information must be provided to, or obtained by,
+the utilization review agent in order to render a decision on the
+appeal; and
+  (iv) for an adverse determination related to a step therapy protocol
+override request, information that includes the clinical review criteria
+relied upon to make such determination and any applicable alternative
+prescription drugs subject to the step therapy protocol of the
+utilization review agent.
+  (b) A utilization review agent may provide notice of an adverse
+determination related to a step therapy protocol override determination
+electronically pursuant to subdivision nine of this section, including
+by electronic mail or through the health care plan's member portal and
+provider portal. An electronic notice of such an adverse determination
+may meet the requirements of subparagraph (iv) of paragraph (a) of this
+subdivision by linking to information posted on the website of the
+health care plan.
+  * NB Effective March 21, 2024
   * 5-a. Notice of an adverse determination made by a utilization review
 agent in relation to a step therapy protocol override determination
 request shall be made in writing to the enrollee or the enrollee's
@@ -164,7 +192,7 @@ member portal and/or provider portal of the insurer's, the health
 maintenance organization's website, or the website of an organization
 subject to article forty-three of this chapter, provided that the member
 consents to receiving the information electronically.
-  * NB Effective March 21, 2024
+  * NB Effective and Repealed March 21, 2024
   6. In the event that a utilization review agent renders an adverse
 determination without attempting to discuss such matter with the
 enrollee's health care provider who specifically recommended the health

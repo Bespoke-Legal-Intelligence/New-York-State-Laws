@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 610", "kind": "section", "law_id": "PBH", "location_id": "610", "path": "ARTICLE 6 › TITLE 2 › SECTION 610", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/610.md", "title": "State aid; home visit core public health services"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 610", "kind": "section", "law_id": "PBH", "location_id": "610", "path": "ARTICLE 6 › TITLE 2 › SECTION 610", "repealed": true, "repealed_date": "2024-02-09", "source": "nys-laws:PBH/610.md", "title": "State aid; home visit core public health services"} -->
 # Public Health Law § 610 — State aid; home visit core public health services
 
 [Public Health Law](../../README.md) › [Article 6 — State Aid to Cities and Counties](../README.md) › [Title 2 — State Aid For Additional Services](README.md)
+
+**Repealed** (9 Feb 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 610. State aid; home visit core public health services. 1.

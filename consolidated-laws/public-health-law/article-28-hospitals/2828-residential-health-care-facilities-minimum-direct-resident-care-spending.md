@@ -55,45 +55,11 @@ hundred eight of this article and department regulations promulgated
 pursuant thereto. The commissioner or their designees shall have
 authority to audit the residential health care facilities' reports for
 compliance in accordance with this section.
-  (ii) The commissioner shall establish a four-year (January first, two
-thousand twenty-three -- December thirty-first, two thousand twenty-six)
-demonstration project to reduce the use of temporary staffing agencies.
-Any remittance or amounts owed to the state pursuant to subparagraph (i)
-of this paragraph, including, but not limited to, amounts owed relating
-to excess revenue, or the difference between the minimum spending
-requirement and the actual amount of spending on resident-facing
-staffing or direct care staffing, as the case may be, shall be reduced
-as follows for reporting periods beginning on January first, two
-thousand twenty-three and ending on December thirty-first, two thousand
-twenty-six, and, to the extent the demonstration project continues,
-years thereafter:
-  (A) a fifty percent reduction, if a residential healthcare facility
-which has a fifty percent or lower use of resident-facing staffing
-contracted out to a temporary staffing agency for services provided by
-registered professional nurses, licensed practical nurses, or certified
-nurse aids, has reduced its use of such contracted agency services by at
-least thirty percent during any year in which such remittance or amounts
-owed to the state are payable, as measured by subparagraph (iii) of this
-paragraph.
-  (B) a twenty-five percent reduction, if a residential healthcare
-facility which has a fifty percent or lower use of resident-facing
-staffing contracted out to a temporary staffing agency for services
-provided by registered professional nurses, licensed practical nurses,
-or certified nurse aides, has reduced its use of such contracted agency
-services by at least twenty percent, but less than thirty percent,
-during any year in which such remittance or amounts owed to the state
-are payable, as measured by subparagraph (iii) of this paragraph.
-  (iii) In measuring temporary staffing agency usage for purposes of
-determining the reductions provided for in clauses (A) and (B) of
-subparagraph (ii) of this paragraph, the following measuring periods
-shall apply: in two thousand twenty-three, the fourth calendar quarter
-of two thousand twenty-two shall be compared to the fourth calendar
-quarter of two thousand twenty-three; for two thousand twenty-four and
-years thereafter, the average of the four calendar quarters of the
-previous year shall be compared to the average of the four calendar
-quarters of the current year. Temporary staffing shall be measured using
-the publicly available U.S. Centers for Medicare and Medicaid Services
-(CMS) Payroll Based Journal (PBJ) facility-reported data.
+  (ii) Notwithstanding the requirements prescribed by subparagraph (i)
+of this paragraph, the provisions of a demonstration project established
+pursuant to a chapter of the laws of two thousand twenty-three that
+amended this subparagraph shall apply to those residential health care
+facilities who qualify for such demonstration project.
   2. For the purposes of this section the following terms shall have the
 following meanings:
   (a) "Revenue" shall mean the total operating revenue from or on behalf
@@ -108,38 +74,11 @@ however, that revenue shall exclude:
 subparagraph (vi) of paragraph (b) of subdivision two of section
 twenty-eight hundred seven-d of this article, as reconciled pursuant to
 paragraph (c) of subdivision ten of section twenty-eight hundred seven-d
-of this article;
+of this article; and
   (iii) any grant funds from the federal government for reimbursement of
 COVID-19 pandemic-related expenses, including but not limited to funds
 received from the federal emergency management agency or health
-resources and services administration;
-  (iv) for the first year of the demonstration project established
-pursuant to subparagraph (ii) of paragraph (c) of subdivision one of
-this section, all revenue, other than total Medicaid operating revenue,
-if, in the fourth quarter of two thousand twenty-three, a residential
-health care facility uses ten percent or less of its resident-facing
-staffing who are contracted out to a temporary staffing agency for
-services provided by registered professional nurses, licensed practical
-nurses, or certified nurse aides;
-  (v) for the second year of the demonstration project established
-pursuant to subparagraph (ii) of paragraph (c) of subdivision one of
-this section, all revenue, other than total Medicaid operating revenue,
-if, in two thousand twenty-four, a residential health care facility uses
-nine percent or less of its resident-facing staffing who are contracted
-out to a temporary staffing agency for services provided by registered
-professional nurses, licensed practical nurses, or certified nurse aids;
-and
-  (vi) for the third and fourth years, respectively, and, to the extent
-the demonstration project continues, years thereafter, respectively, of
-the demonstration project established pursuant to subparagraph (ii) of
-paragraph (c) of subdivision one of this section, all revenue, other
-than total Medicaid operating revenue, if, in two thousand twenty-five
-and two thousand twenty-six, respectively, and, to the extent the
-demonstration project continues, years thereafter, respectively, a
-residential health care facility uses eight percent or less of its
-resident-facing staffing who are contracted out to a temporary staffing
-agency for services provided by registered professional nurses, licensed
-practical nurses, or certified nurse aides.
+resources and services administration.
   (b) "Expenses" shall include all operating and non-operating expenses,
 before extraordinary gains, reported in cost reports submitted pursuant
 to section twenty-eight hundred five-e of this article, except as

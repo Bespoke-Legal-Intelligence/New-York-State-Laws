@@ -1,10 +1,10 @@
-﻿<!-- nyslaw {"citation": "General Business Law § 399-HH", "kind": "section", "law_id": "GBS", "location_id": "399-HH", "path": "ARTICLE 26 › SECTION 399-HH", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/399-HH.md", "title": "Sale of whipped cream chargers"} -->
-# General Business Law § 399-HH — Sale of whipped cream chargers
+﻿<!-- nyslaw {"citation": "General Business Law § 834", "kind": "section", "law_id": "GBS", "location_id": "834", "path": "ARTICLE 38-B › SECTION 834", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/834.md", "title": "Sale of whipped cream chargers"} -->
+# General Business Law § 834 — Sale of whipped cream chargers
 
-[General Business Law](../README.md) › [Article 26 — Miscellaneous](README.md)
+[General Business Law](../README.md) › [Article 38-B — Products Sold For Human Consumption](README.md)
 
 ```text
-  § 399-hh. Sale of whipped cream chargers. 1. For purposes of this
+  § 834. Sale of whipped cream chargers. 1. For purposes of this
 section, the term "whipped cream charger" shall mean a steel cylinder or
 cartridge filled with nitrous oxide (N2O) that is used as a whipping
 agent in a whipped cream dispenser.

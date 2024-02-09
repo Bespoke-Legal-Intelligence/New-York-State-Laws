@@ -657,13 +657,13 @@ ombudsman program staff and volunteers for the submission of reports;
   (ii) timely and regular resolution to any such issues reported to the
 department pursuant to subparagraph (i) of this paragraph. No later than
 sixty days after the receipt of any such issue, the department shall
-provide the staff or volunteer who reported such issue a report on the
-status of such issue. Following the initial report, the department shall
-provide additional reports to such staff or volunteer no less than every
-sixty days thereafter until such issue is resolved. Upon resolution of
-such issue, the department shall provide a timely report to such staff
-or volunteer and the state long-term care ombudsman indicating the
-manner in which the issue was resolved; and
+provide the state long-term care ombudsman a report on the status of
+such issue. Following the initial report, the department shall provide
+additional reports to the state long-term care ombudsman no less than
+every ninety days thereafter until such issue is resolved. Upon
+resolution of such issue, the department shall provide a timely report
+to the state long-term care ombudsman indicating the manner in which the
+issue was resolved; and
   (iii) requiring the department to notify the local ombudsman entity as
 defined in paragraph (c) of subdivision one of section two hundred
 eighteen of the elder law after the department conducts a
@@ -672,5 +672,11 @@ recertification survey of a facility.
 a resident's right to privacy and confidentiality pursuant to the
 regulations of the long-term care ombudsman program or the right to
 refuse to consent to the involvement of the long-term care ombudsman.
+  (c) As used in this subdivision: (i) "resolution" shall mean closure
+of a complaint by the department, whether closed as substantiated or
+unsubstantiated; and (ii) "status" shall mean whether the complaint has
+been assigned to department staff for investigation, whether the
+complaint remains open under active investigation, or whether the
+complaint has reached resolution.
   * NB Effective June 19, 2024
 ```

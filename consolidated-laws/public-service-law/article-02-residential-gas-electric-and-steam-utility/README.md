@@ -18,7 +18,6 @@
 - [§ 39 Meter reading and estimated bills](39-meter-reading-and-estimated-bills.md)
 - [§ 40 Voluntary third-party notice prior to termination of service](40-voluntary-third-party-notice-prior-to-termination-of-service.md)
 - [§ 41 Finality of certain utility charges](41-finality-of-certain-utility-charges.md)
-- [§ 41-A Finality of charges; non-residential customers](41a-finality-of-charges-non-residential-customers.md)
 - [§ 42 Other charges](42-other-charges.md)
 - [§ 42-A Payment of wages to workers; certain cases](42a-payment-of-wages-to-workers-certain-cases.md)
 - [§ 43 Complaint handling procedures](43-complaint-handling-procedures.md)
@@ -55,7 +54,6 @@ Section 30.   Residential gas, electric and steam service policy.
         39.   Meter reading and estimated bills.
         40.   Voluntary third-party notification.
         41.   Finality of certain utility charges.
-        41-a. Finality of charges; non-residential customers.
         42.   Other charges.
         42-a. Payment of wages to workers; certain cases.
         43.   Complaint handling procedures.

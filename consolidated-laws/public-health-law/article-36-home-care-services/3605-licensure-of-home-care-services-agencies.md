@@ -19,6 +19,31 @@ requirements of this chapter. The licensure requirements of this chapter
 shall not apply to sole practitioners licensed pursuant to sections six
 thousand nine hundred five and six thousand nine hundred six of the
 education law.
+  1-a. (a) Core public health services, as defined in section six
+hundred two of this chapter, when provided in the home by the local
+health department of a county or of the city of New York, shall not
+require licensure under this section if such core public services
+require only minimal patient contact. Patient contact shall be
+considered minimal if it is of limited duration for acute or non-chronic
+conditions, including but not limited to any health conditions posing a
+potential threat to public health, and treatment is generally expected
+to require no more than six patient visits; provided, however, that a
+local health department may exceed six visits in the interest of patient
+safety and public health.
+  (b) Core public health services that may be provided without a license
+pursuant to this subdivision include but are not limited to:
+immunizations; testing for tuberculosis and observation of tuberculosis
+self-directed therapy; verbal assessment, counseling and referral
+services; and such other services as may be determined by the
+department, provided that such services shall not include home health
+aide services, personal care services, or nursing services that require
+more than minimal patient contact.
+  1-b. Core public health services, as defined in section six hundred
+two of this chapter, when provided by local health departments in the
+home as authorized under subdivision one-a of this section, may be
+eligible for reimbursement under title XIX of the federal Social
+Security Act, provided that the services meet federal and state
+requirements for such reimbursement.
   2. The commissioner shall not issue a license to any home care
 services agency except with the written approval of the public health
 and health planning council issued pursuant to the provisions of this

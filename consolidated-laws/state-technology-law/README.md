@@ -8,11 +8,9 @@
 | Senate code | STT |
 | Type | Consolidated law, chapter 57-A |
 | Sections | 31 |
-| Last changed | 2 Feb 2024 |
+| Last changed | 9 Feb 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | State Technology |
-
-*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
 **Short title (from the law itself):** § 201. Short title. This article shall be known and may be cited as the "internet security and privacy act".
 
@@ -23,7 +21,7 @@
                           STATE TECHNOLOGY LAW
 Article                                              Section
    I    Office of Information Technology Services    (§§ 101-107)
-   II   Internet Security and Privacy Act            (§§ 201-210)
+   II   Internet Security and Privacy Act            (§§ 201-209)
    III  Electronic Signatures and Records Act        (§§ 301-309)
 ```
 
@@ -31,6 +29,7 @@ Article                                              Section
 
 ## Recent changes
 
+- [9 Feb 2024](../../changes/2024/2024-02-09.md): 3 amended, 2 added, 2 removed
 - [2 Feb 2024](../../changes/2024/2024-02-02.md): 1 amended
 - [29 Dec 2023](../../changes/2023/2023-12-29.md): 2 amended, 2 added
 - [27 Oct 2023](../../changes/2023/2023-10-27.md): 1 amended
@@ -40,7 +39,6 @@ Article                                              Section
 - [9 Dec 2022](../../changes/2022/2022-12-09.md): 1 amended
 - [15 Apr 2022](../../changes/2022/2022-04-15.md): 1 amended
 - [4 Mar 2022](../../changes/2022/2022-03-04.md): 2 amended
-- [31 Dec 2021](../../changes/2021/2021-12-31.md): 1 amended, 1 added
 
 ## Contents
 

@@ -14,6 +14,7 @@
 - [§ 94-A Consumer protection division](094a-consumer-protection-division.md)
 - [§ 94-B Office for new Americans](094b-office-for-new-americans.md)
 - [§ 94-C Major renewable energy development program](094c-major-renewable-energy-development-program.md)
+- [§ 94-D New York Asian American and Pacific Islander commission](094d-new-york-asian-american-and-pacific-islander-commission.md)
 - [§ 95 Legislative manual](095-legislative-manual.md)
 - [§ 96 Fees and refunds](096-fees-and-refunds.md)
 - [§ 96-A Fees for services rendered pursuant to the uniform commercial code](096a-fees-for-services-rendered-pursuant-to-the-uniform-commercial-code.md)
@@ -73,6 +74,7 @@ Section 90.    Department of state; secretary of state.
         94-a.  Consumer protection division.
         94-b.  Office for new Americans.
         94-c.  Major renewable energy development program.
+        94-d.  New York Asian American and Pacific Islander commission.
         95.    Legislative manual.
         96.    Fees and refunds.
         96-a.  Fees for services rendered pursuant to the uniform

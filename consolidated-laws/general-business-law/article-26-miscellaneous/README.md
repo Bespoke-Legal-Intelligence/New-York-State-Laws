@@ -33,13 +33,10 @@
 - [§ 391-L\*2 Rental of motor vehicles; discrimination on the basis of credit card ownership](391l-2-rental-of-motor-vehicles-discrimination-on-the-basis-of-credit-card-ownership.md)
 - [§ 391-M Manufacture and sale of in-line skates; regulation of](391m-manufacture-and-sale-of-in-line-skates-regulation.md)
 - [§ 391-N Sale of reptiles; notice](391n-sale-of-reptiles-notice.md)
-- [§ 391-O Sale or promotional distribution of dietary supplements containing ephedra](391o-sale-or-promotional-distribution-of-dietary-supplements-containing-ephedra.md)
 - [§ 391-OO Sale of over-the-counter diet pills and dietary supplements for weight loss or muscle building](391oo-sale-of-over-the-counter-diet-pills-and-dietary-supplements-for-weight-loss.md)
 - [§ 391-P Prohibit the rental of clothing articles previously worn](391p-prohibit-the-rental-of-clothing-articles-previously-worn.md)
 - [§ 391-Q Rebates](391q-rebates.md)
-- [§ 391-R Restricted access to retail sale of ipecac](391r-restricted-access-to-retail-sale-of-ipecac.md)
-- [§ 391-S Restricted access to retail sale of dextromethorphan, commonly known as "dxm"](391s-restricted-access-to-retail-sale-of-dextromethorphan-commonly-known-as-dxm.md)
-- [§ 391-S\*2 Sale and distribution of novelty lighters prohibited](391s-2-sale-and-distribution-of-novelty-lighters-prohibited.md)
+- [§ 391-S Sale and distribution of novelty lighters prohibited](391s-sale-and-distribution-of-novelty-lighters-prohibited.md)
 - [§ 391-T Sale of small animals; instructions on care](391t-sale-of-small-animals-instructions-on-care.md)
 - [§ 391-U Pricing goods and services on the basis of gender prohibited](391u-pricing-goods-and-services-on-the-basis-of-gender-prohibited.md)
 - [§ 391-U\*2 Restrictions on the sale and use of firefighting equipment containing PFAS chemicals](391u-2-restrictions-on-the-sale-and-use-of-firefighting-equipment-containing-pfas.md)
@@ -157,13 +154,11 @@
 - [§ 399-FF Petting zoos](399ff-petting-zoos.md)
 - [§ 399-GG Packaging of electronic liquid](399gg-packaging-of-electronic-liquid.md)
 - [§ 399-H Disposal of records containing personal identifying information](399h-disposal-of-records-containing-personal-identifying-information.md)
-- [§ 399-HH Sale of whipped cream chargers](399hh-sale-of-whipped-cream-chargers.md)
-- [§ 399-HHH Sale of sodium nitrate and sodium nitrite](399hhh-sale-of-sodium-nitrate-and-sodium-nitrite.md)
 - [§ 399-I Prohibit the sale of unsafe cribs and restrict use of such cribs in certain settings](399i-prohibit-the-sale-of-unsafe-cribs-and-restrict-use-of-such-cribs-in-certain.md)
 - [§ 399-II Furniture tip restraint device](399ii-furniture-tip-restraint-device.md)
 - [§ 399-II\*2 Prohibit the sale of crib bumper pads and restrict use of such pads in certain settings](399ii-2-prohibit-the-sale-of-crib-bumper-pads-and-restrict-use-of-such-pads-in-certain.md)
 - [§ 399-J Safety standards; moveable soccer goals](399j-safety-standards-moveable-soccer-goals.md)
-- [§ 399-K Access to restroom facilities](399k-access-to-restroom-facilities.md)
+- [§ 399-K Access to toilet facilities for utility workers](399k-access-to-toilet-facilities-for-utility-workers.md)
 - [§ 399-M Disclosures in advertisement and sale of unassembled goods](399m-disclosures-in-advertisement-and-sale-of-unassembled-goods.md)
 - [§ 399-N Approval of electrical devices](399n-approval-of-electrical-devices.md)
 - [§ 399-NN Sale of digital electronic equipment; diagnostic and repair information](399nn-sale-of-digital-electronic-equipment-diagnostic-and-repair-information.md)
@@ -241,17 +236,12 @@ Section 390.         Substitution of spurious oils for internal
         391-m.       Manufacture and sale of in-line skates; regulation
                        of.
         391-n.       Sale of reptiles; notice.
-        391-o.       Sale or promotional distribution of dietary
-                       supplements containing ephedra.
         391-oo.      Sale of over-the-counter diet pills and dietary
                        supplements for weight loss or muscle building.
         391-p.       Prohibit the rental of clothing articles previously
                        worn.
         391-q.       Rebates.
-        391-r.       Restricted access to retail sale of ipecac.
-        391-s.       Restricted access to retail sale of
-                       dextromethorphan, commonly known as "dxm".
-        391-s*2.     Sale and distribution of novelty lighters
+        391-s.       Sale and distribution of novelty lighters
                        prohibited.
         391-t.       Sale of small animals; instructions on care.
         391-u.       Pricing goods and services on the basis of gender
@@ -417,15 +407,13 @@ Section 390.         Substitution of spurious oils for internal
         399-gg.      Packaging of electronic liquid.
         399-h.       Disposal of records containing personal identifying
                        information.
-        399-hh.      Sale of whipped cream chargers.
-        399-hhh.     Sale of sodium nitrate and sodium nitrite.
         399-i.       Prohibit the sale of unsafe cribs and restrict use
                        of such cribs in certain settings.
         399-ii.      Furniture tip restraint device.
         399-ii*2.    Prohibit the sale of crib bumper pads and restrict
                        use of such pads in certain settings.
         399-j.       Safety standards; moveable soccer goals.
-        399-k.       Access to restroom facilities.
+        399-k.       Access to toilet facilities for utility workers.
         399-m.       Disclosures in advertisement and sale of
                        unassembled goods.
         399-n.       Approval of electrical devices.
