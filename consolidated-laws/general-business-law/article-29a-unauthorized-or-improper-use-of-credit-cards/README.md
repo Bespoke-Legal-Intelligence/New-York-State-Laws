@@ -13,7 +13,7 @@
 - [§ 515 Issuance of credit cards](515-issuance-of-credit-cards.md)
 - [§ 516 Improper use of credit cards or debit cards; defense of lawful detention](516-improper-use-of-credit-cards-or-debit-cards-defense-of-lawful-detention.md)
 - [§ 517 Statements of account](517-statements-of-account.md)
-- [§ 518 Credit card surcharge prohibited](518-credit-card-surcharge-prohibited.md)
+- [§ 518 Credit card surcharge notice requirement](518-credit-card-surcharge-notice-requirement.md)
 - [§ 518-A Presentment of social security number as condition for accepting a check, traveler's check, gift certificate, money order or other negoti...](518a-presentment-of-social-security-number-as-condition-for-accepting-a-check.md)
 - [§ 519 Disclosure by commercial establishments honoring credit cards](519-disclosure-by-commercial-establishments-honoring-credit-cards.md)
 - [§ 520 Application forms or solicitation for credit cards](520-application-forms-or-solicitation-for-credit-cards.md)

@@ -1,0 +1,85 @@
+﻿<!-- nyslaw {"citation": "Social Services Law § 131-SS", "kind": "section", "law_id": "SOS", "location_id": "131-SS", "path": "ARTICLE 5 › TITLE 1 › SECTION 131-SS", "repealed": false, "repealed_date": null, "source": "nys-laws:SOS/131-SS.md", "title": "Automated identification of OTDA assistance program participants"} -->
+# Social Services Law § 131-SS — Automated identification of OTDA assistance program participants
+
+[Social Services Law](../../README.md) › [Article 5 — Assistance and Care](../README.md) › [Title 1 — General Provisions](README.md)
+
+```text
+  § 131-ss. Automated identification of OTDA assistance program
+participants. 1. Definitions. For the purposes of this section, the
+following terms shall have the following meanings:
+  (a) "Commissioner" shall mean the commissioner of the office of
+temporary and disability assistance.
+  (b) "Office" or "OTDA" shall mean the office of temporary and
+disability assistance.
+  (c) "OTDA assistance program participant" shall mean a household that
+is determined to be eligible by the office for any of the following
+programs, provided, however, that the office may require written consent
+from OTDA assistance program participants before using data obtained
+from any of the following programs for the purposes of this section:
+  (i) Public assistance;
+  (ii) Home energy assistance program; and
+  (iii) Any other income-based assistance program identified by the
+public service commission that is administered and approved for
+inclusion under this section by the office.
+  (d) "Utility corporation" shall include utility companies, utility
+corporations, public utility companies, public utility corporations, gas
+corporations, electric corporations, or municipalities as defined in
+section two of the public service law and regulated pursuant to the
+public service law, a municipal corporation that provides public utility
+services, a rural electric cooperative, or a state public authority that
+provides utility services.
+  (e) "Utility corporation energy affordability programs" shall be
+defined by the public service commission and shall be limited to utility
+corporation programs which are intended to assist customers with energy
+affordability by reducing customers' energy burden.
+  2. Within one year of the effective date of this section, the
+commissioner shall provide for automated identification of OTDA
+assistance program participants for participation in utility corporation
+energy affordability programs pursuant to subdivision four of this
+section.
+  3. The utility corporation shall be responsible for working with the
+office to facilitate and implement the technological capabilities to
+allow for the secure transmission of data through an interface with the
+office's information technology infrastructure.
+  4. (a) To the extent permitted by federal law, regulations and
+policies, the office, upon the utility corporation agreeing to and
+signing the office's data terms and upon receipt of the required data
+elements from the utility corporation, as such data elements are defined
+by the office, shall conduct automated file matching to identify utility
+corporation customer accounts that are also OTDA assistance program
+participants and, if permitted by federal law, regulations and policies,
+such information shall be provided to utility corporations no less than
+semi-annually. Utility corporation customer accounts identified by the
+office as potentially eligible for participation in available utility
+corporation energy affordability programs as a result of such file
+matching shall be, if confirmed as eligible for such utility corporation
+energy affordability programs by the utility corporation, enrolled in
+such utility corporation energy affordability programs by the utility
+corporation within sixty days of receipt by the utility corporation of
+the results of the automated file match. Any information provided to the
+utility corporations related to OTDA assistance program participants
+pursuant to this section shall not be redisclosed by the utility
+corporation and shall only be utilized for the purpose of confirming
+eligibility in the utility corporation energy affordability program and
+providing notifications pursuant to paragraph (b) of this subdivision.
+  (b) Upon automatic enrollment in the utility corporation energy
+affordability program, the utility corporation shall provide written
+notification to the utility corporation energy affordability program
+participant of their enrollment in such program.
+  (c) Except as prohibited by federal law, regulation, or policy, and
+notwithstanding any provision of state or local law, regulation, or
+policy to the contrary, a utility corporation is authorized to share the
+required data elements for the purposes of and as provided for by this
+section.
+  5. The commissioner may adopt, on an emergency basis pursuant to
+article two of the state administrative procedure act, any rules
+necessary to carry out the provisions of this article.
+  6. The commissioner may delegate the administration of any portion of
+this section to any state agency, social services official, city,
+county, town, contractor or non-profit organization in accordance with
+the provisions of this article and applicable federal requirements.
+Provided however, such privacy and confidentiality limitations
+prescribed in this section shall apply to any entity to which the
+commissioner delegates the administration of any portion of this
+section.
+```

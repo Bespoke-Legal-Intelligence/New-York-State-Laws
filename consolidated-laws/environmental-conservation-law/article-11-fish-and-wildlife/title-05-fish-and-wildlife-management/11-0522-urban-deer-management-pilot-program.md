@@ -44,5 +44,4 @@ obligating the department to issue a permit to take deer when in its
 opinion the nuisance, destruction of property or threat to public health
 and welfare will not be effectively abated thereby.
   * NB Repealed January 1, 2027
-  * NB There are 2 § 11-0522's
 ```

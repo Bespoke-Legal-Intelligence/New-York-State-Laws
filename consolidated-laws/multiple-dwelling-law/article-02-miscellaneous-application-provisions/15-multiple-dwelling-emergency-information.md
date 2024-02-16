@@ -4,7 +4,7 @@
 [Multiple Dwelling Law](../README.md) › [Article 2 — Miscellaneous Application Provisions](README.md)
 
 ```text
-  * § 15. Multiple dwelling emergency information. 1. In the case of an
+  § 15. Multiple dwelling emergency information. 1. In the case of an
 emergency affecting a multiple dwelling, the owner or agent of such
 multiple dwelling shall provide emergency service personnel, upon the
 request of such emergency service personnel, including but not limited
@@ -36,5 +36,4 @@ for the purpose of an emergency evacuation and shall not be
 disseminated, used or accessed by emergency services personnel or
 disseminated, used or accessed by the owner or agent of such multiple
 dwelling for any other purposes.
-  * NB Effective February 15, 2024
 ```

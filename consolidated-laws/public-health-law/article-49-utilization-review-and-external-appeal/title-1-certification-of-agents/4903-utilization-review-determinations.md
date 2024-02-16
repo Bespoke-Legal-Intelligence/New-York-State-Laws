@@ -148,8 +148,8 @@ review agent shall be in writing and must include:
 rationale, if any;
   (ii) instructions on how to initiate standard and expedited appeals
 pursuant to section forty-nine hundred four and an external appeal
-pursuant to section forty-nine hundred fourteen of this article; (iii)
-notice of the availability, upon request of the enrollee, or the
+pursuant to section forty-nine hundred fourteen of this article;
+  (iii) notice of the availability, upon request of the enrollee, or the
 enrollee's designee, of the clinical review criteria relied upon to make
 such determination. Such notice shall also specify what, if any,
 additional necessary information must be provided to, or obtained by,

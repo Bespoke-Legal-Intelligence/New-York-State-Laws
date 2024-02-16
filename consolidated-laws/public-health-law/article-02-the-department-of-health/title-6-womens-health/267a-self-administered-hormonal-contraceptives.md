@@ -4,10 +4,9 @@
 [Public Health Law](../../README.md) › [Article 2 — The Department of Health](../README.md) › [Title 6 — Women's Health](README.md)
 
 ```text
-  * § 267-a. Self-administered hormonal contraceptives. The commissioner
+  § 267-a. Self-administered hormonal contraceptives. The commissioner
 is authorized to establish a non-patient specific order, consistent with
 section sixty-eight hundred one of the education law, for dispensing
 self-administered hormonal contraceptives as defined in section
 sixty-eight hundred two of such chapter.
-  * NB Effective November 2, 2024
 ```
