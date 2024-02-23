@@ -89,23 +89,12 @@ department of health and human services.
 local registrars for distribution pursuant to paragraph (b) of
 subdivision one of section four thousand one hundred thirty-seven of
 this chapter.
-  ** 6. Every hospital and birth center shall request that each
-maternity patient and father of a newborn child, if available, view a
-video presentation, approved by the commissioner, on the dangers of
-shaking infants and young children, and the symptoms of shaken baby
-syndrome.  After viewing such a video presentation or upon refusal to
-view such a video presentation, the hospital or birth center shall
-request that such patient and/or father sign a form stating that they
-have viewed or refused to view such video presentation. All training
-materials and forms required to implement the provisions of this
-subdivision shall be provided by the commissioner.
-  ** NB Effective until February 22, 2024
-  ** 6. Every hospital and birth center shall request that a parent
-and/or parents, which shall mean and include biological and adoptive
-parents, guardians, or other persons in parental relationship to a
-newborn child, if available, view (a) a video presentation, approved by
-the commissioner, on the dangers of shaking infants and young children,
-and the symptoms of shaken baby syndrome, and (b) a video presentation,
+  6. Every hospital and birth center shall request that a parent and/or
+parents, which shall mean and include biological and adoptive parents,
+guardians, or other persons in parental relationship to a newborn child,
+if available, view (a) a video presentation, approved by the
+commissioner, on the dangers of shaking infants and young children, and
+the symptoms of shaken baby syndrome, and (b) a video presentation,
 approved by the commissioner, on the dangers of drowning for infants and
 young children. After viewing such video presentations or upon refusal
 to view such video presentations, the hospital or birth center shall
@@ -113,6 +102,5 @@ request that such parent and/or parents sign a form stating that they
 have viewed or refused to view such video presentations. All training
 materials and forms required to implement the provisions of this
 subdivision shall be provided by the commissioner.
-  ** NB Effective February 22, 2024
   * NB There are 2 § 2803-j's
 ```

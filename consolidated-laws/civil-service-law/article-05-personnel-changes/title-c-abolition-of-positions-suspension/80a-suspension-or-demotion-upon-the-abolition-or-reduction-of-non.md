@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Civil Service Law § 80-A", "kind": "section", "law_id": "CVS", "location_id": "80-A", "path": "ARTICLE 5 › TITLE C › SECTION 80-A", "repealed": false, "repealed_date": null, "source": "nys-laws:CVS/80-A.md", "title": "Suspension or demotion upon the abolition or reduction of non-competitive class positions in the state service"} -->
+﻿<!-- nyslaw {"citation": "Civil Service Law § 80-A", "kind": "section", "law_id": "CVS", "location_id": "80-A", "path": "ARTICLE 5 › TITLE C › SECTION 80-A", "repealed": true, "repealed_date": "2024-02-23", "source": "nys-laws:CVS/80-A.md", "title": "Suspension or demotion upon the abolition or reduction of non-competitive class positions in the state service"} -->
 # Civil Service Law § 80-A — Suspension or demotion upon the abolition or reduction of non-competitive class positions in the state service
 
 [Civil Service Law](../../README.md) › [Article 5 — Personnel Changes](../README.md) › [Title C — Abolition of Positions; Suspension; Demotion](README.md)
+
+**Repealed** (23 Feb 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 80-a. Suspension or demotion upon the abolition or reduction of
