@@ -8,7 +8,7 @@
 - [§ 781 Nature of adjudication](781-nature-of-adjudication.md)
 - [§ 782 Effect of adjudication](782-effect-of-adjudication.md)
 - [§ 782-A Transfer of records and information to institutions and agencies](782a-transfer-of-records-and-information-to-institutions.md)
-- [§ 783 Use of record in other court](783-use-of-record-in-other-court.md)
+- [§ 783 Use of records in other court; expungement of records](783-use-of-records-in-other-court-expungement-of-records.md)
 - [§ 783-A Consolidation of records within a city having a population of one million or more](783a-consolidation-of-records-within-a-city-having-a-population.md)
 - [§ 784 Use of police records](784-use-of-police-records.md)
 

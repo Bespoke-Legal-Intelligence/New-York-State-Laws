@@ -166,10 +166,11 @@ of subparagraph (i) of paragraph (a) of subdivision ten of this section,
 where such report is determined to be based solely upon the performance,
 recommendation, or provision of any reproductive health services as
 defined in section sixty-five hundred thirty-one-b of the education law,
-or gender-affirming care for a particular patient by such licensee where
-such patient resides in a state wherein the performance, recommendation
-or provision of such reproductive health services or gender-affirming
-care is illegal.
+or gender-affirming care, as defined in paragraph (c) of subdivision one
+of section sixty-five hundred thirty-one-b of the education law, for a
+particular patient by such licensee where such patient resides in a
+state wherein the performance, recommendation or provision of such
+reproductive health services or gender-affirming care is illegal.
   (b) When a licensee, acting within their scope of practice, and in
 accordance with paragraph e of subdivision four of section sixty-five
 hundred twenty-seven of the education law, performs, recommends or

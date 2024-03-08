@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 1411", "kind": "section", "law_id": "GBS", "location_id": "1411", "path": "ARTICLE 44-A › SECTION 1411", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/1411.md", "title": "Contracted compensation payments"} -->
+# General Business Law § 1411 — Contracted compensation payments
+
+[General Business Law](../README.md) › [Article 44-A — Freelance Isn't Free Act](README.md)
+
+```text
+  * § 1411. Contracted compensation payments. 1. Except as otherwise
+provided by law, the contracted compensation shall be paid to a
+freelance worker either:
+  (a) on or before the date such compensation is due under the terms of
+the contract; or
+  (b) if the contract does not specify when the hiring party must pay
+the contracted compensation or the mechanism by which such date will be
+determined, no later than thirty days after the completion of the
+freelance worker's services under the contract.
+  2. Once a freelance worker has commenced performance of the services
+under the contract, the hiring party shall not require as a condition of
+timely payment that the freelance worker accept less compensation than
+the amount of the contracted compensation.
+  * NB Effective August 28, 2024
+```

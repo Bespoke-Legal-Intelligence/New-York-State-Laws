@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | GBS |
 | Type | Consolidated law, chapter 20 |
-| Sections | 1,327 |
-| Last changed | 16 Feb 2024 |
+| Sections | 1,333 |
+| Last changed | 8 Mar 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Business |
 
@@ -29,10 +29,11 @@ AN ACT relating to general business, constituting chapter twenty of the
   Assembly, do enact as follows:
 ```
 
-[Full chapter text (183 lines)](chapter-text.md)
+[Full chapter text (184 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [8 Mar 2024](../../changes/2024/2024-03-08.md): 1 amended, 6 added
 - [16 Feb 2024](../../changes/2024/2024-02-16.md): 2 amended
 - [9 Feb 2024](../../changes/2024/2024-02-09.md): 5 amended, 5 added, 5 removed
 - [2 Feb 2024](../../changes/2024/2024-02-02.md): 4 amended
@@ -42,7 +43,6 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [15 Dec 2023](../../changes/2023/2023-12-15.md): 6 amended
 - [1 Dec 2023](../../changes/2023/2023-12-01.md): 1 amended
 - [26 Nov 2023](../../changes/2023/2023-11-26.md): 4 amended, 2 added
-- [27 Oct 2023](../../changes/2023/2023-10-27.md): 2 added
 
 ## Contents
 
@@ -178,4 +178,5 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 41 — Combative Sports](article-41-combative-sports/)
 - [Article 43 — New York State Secure Choice Savings Program](article-43-new-york-state-secure-choice-savings-program/)
 - [Article 44 — Regulation of Surrogacy Programs and Assisted Reproduction Service Providers](article-44-regulation-of-surrogacy-programs-and-assisted/)
+- [Article 44-A — Freelance Isn't Free Act](article-44a-freelance-isnt-free-act/)
 - [Article 46 — Laws Repealed; When to Take Effect](article-46-laws-repealed-when-to-take-effect/)

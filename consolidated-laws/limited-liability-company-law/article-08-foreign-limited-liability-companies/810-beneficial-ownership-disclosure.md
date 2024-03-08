@@ -55,5 +55,5 @@ notice. Such delinquency shall be removed from the records of the
 department of state upon the filing of an up-to-date beneficial
 ownership disclosure required by this section, and the payment of a
 civil penalty of two hundred fifty dollars.
-  * NB Effective December 21, 2024
+  * NB Effective and Repealed January 1, 2026
 ```

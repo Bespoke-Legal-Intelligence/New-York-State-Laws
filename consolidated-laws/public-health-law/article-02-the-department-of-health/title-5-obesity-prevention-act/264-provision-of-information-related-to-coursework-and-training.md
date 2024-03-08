@@ -26,5 +26,5 @@ continuing medical education courses and trainings to determine best
 practices for delivering information about the availability of such
 courses and trainings. The department shall make a report on the results
 of such survey available to the public on the department's website.
-  * NB Effective June 1, 2024
+  * NB Effective and Repealed June 1, 2024
 ```
