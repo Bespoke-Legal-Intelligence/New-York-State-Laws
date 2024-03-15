@@ -4,7 +4,7 @@
 [Labor Law](../README.md) › [Article 7 — General Provisions](README.md)
 
 ```text
-  * § 201-i. Request for access to personal accounts prohibited. 1. For
+  § 201-i. Request for access to personal accounts prohibited. 1. For
 purposes of this section, the following words shall have the following
 meanings:
   (a) "Applicant" means an applicant for employment.
@@ -100,5 +100,4 @@ such employee's personal account.
   6. The provisions of this section shall not apply to any law
 enforcement agency, a fire department or a department of corrections and
 community supervision.
-  * NB Effective March 12, 2024
 ```
