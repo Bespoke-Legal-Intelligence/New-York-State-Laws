@@ -12,6 +12,7 @@
 - [Title 7 — Tris](title-07-tris/)
 - [Title 9 — Toxic Chemicals In Children's Products](title-09-toxic-chemicals/)
 - [Title 10 — Regulation of Chemicals In Upholstered Furniture, Mattresses and Electronic Enclosures](title-10-regulation/)
+- [Title 11 — Regulation of Coated or Treated Seeds](title-11-regulation/)
 
 <details>
 <summary>Official heading of Article 37, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -95,6 +96,9 @@ Section 37-1001. Definitions.
         37-1011. Certification of compliance.
         37-1013. Severability.
         37-1015. Regulations.
+                                TITLE 11
+                  REGULATION OF COATED OR TREATED SEEDS
+Section 37-1101. Unlawful acts.
 ```
 
 </details>

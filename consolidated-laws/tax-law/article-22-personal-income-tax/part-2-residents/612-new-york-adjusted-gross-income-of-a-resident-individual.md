@@ -827,12 +827,11 @@ deduction, exemption, or credit and not otherwise required to be added
 back by subsection (b) of this section in computing New York adjusted
 gross income.
   * NB There are 2 par (46)'s
-  (47) The amount of any student loan discharged or forgiven by the
-secretary of education pursuant to authorization provided by 20 U.S.C. §
-1098aa, 1098bb, 1098cc, 1098dd or 1098ee shall not be considered taxable
-income for the purpose of calculating New York adjusted gross income,
-irrespective of whether it is considered taxable income for federal
-income tax purposes.
+  (47) For taxable years beginning on or after January first, two
+thousand twenty-three, the amount of any student loan discharged or
+forgiven by the secretary of education pursuant to any federally
+authorized program, to the extent included in federal adjusted gross
+income.
   (d) Modification for New York fiduciary adjustment. There shall be
 added to or subtracted from federal adjusted gross income (as the case
 may be) the taxpayer's share, as beneficiary of an estate or trust, of

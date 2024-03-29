@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Public Authorities Law § 1914", "kind": "section", "law_id": "PBA", "location_id": "1914", "path": "ARTICLE 8 › TITLE 9-C › SECTION 1914", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1914.md", "title": "Reporting"} -->
 # Public Authorities Law § 1914 — Reporting
 
-[Public Authorities Law](../../README.md) › [Article 8 — Miscellaneous Authorities](../README.md) › [Title 9-C — Clean Energy Outreach and Community Planning Program](README.md)
+[Public Authorities Law](../../README.md) › [Article 8 — Miscellaneous Authorities](../README.md) › [Title 9-C — Renewable Energy Outreach and Community Planning Assistance Program](README.md)
 
 ```text
   * § 1914. Reporting. 1. Effective April first, two thousand

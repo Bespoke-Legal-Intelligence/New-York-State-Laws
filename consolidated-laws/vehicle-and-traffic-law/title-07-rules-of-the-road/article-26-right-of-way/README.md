@@ -10,7 +10,7 @@
 - [§ 1142 Vehicle entering stop or yield intersection](1142-vehicle-entering-stop-or-yield-intersection.md)
 - [§ 1143 Vehicle entering roadway](1143-vehicle-entering-roadway.md)
 - [§ 1144 Operation of vehicles on approach of authorized emergency vehicles](1144-operation-of-vehicles-on-approach-of-authorized-emergency-vehicles.md)
-- [§ 1144-A Operation of vehicles when approaching a parked, stopped or standing authorized emergency vehicle or hazard vehicle or vehicle displaying...](1144a-operation-of-vehicles-when-approaching-a-parked-stopped-or-standing.md)
+- [§ 1144-A Operation of vehicles when approaching a parked, stopped or standing authorized emergency vehicle, hazard vehicle, vehicle displaying a b...](1144a-operation-of-vehicles-when-approaching-a-parked-stopped-or-standing.md)
 - [§ 1145 Vehicle approaching rotary traffic circle or island](1145-vehicle-approaching-rotary-traffic-circle-or-island.md)
 - [§ 1146 Drivers to exercise due care](1146-drivers-to-exercise-due-care.md)
 - [§ 1146-A Approaching horses](1146a-approaching-horses.md)

@@ -50,12 +50,11 @@ not be exempt from recoupment and recovery if it is later determined
 that the public assistance that was replaced pursuant to this section
 was not stolen as a result of card skimming, cloning, third party
 misrepresentation or other similar fraudulent activities.
-  * 6. The office of temporary and disability assistance shall make a
+  6. The office of temporary and disability assistance shall make a
 model sign available on its website that can be used by any person,
 firm, partnership, association or corporation required to inform
 individuals about electronic benefit transfer scams, including, but not
 limited to, skimming, and the steps they can take to protect their
 benefits in accordance with section three hundred ninety-e of the
 general business law.
-  * NB Effective March 20, 2024
 ```

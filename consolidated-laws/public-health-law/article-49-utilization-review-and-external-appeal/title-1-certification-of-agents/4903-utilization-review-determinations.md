@@ -128,22 +128,8 @@ care professional.
   4. A utilization review agent shall make a utilization review
 determination involving health care services which have been delivered
 within thirty days of receipt of the necessary information.
-  * 5. Notice of an adverse determination made by a utilization review
+  5. (a) Notice of an adverse determination made by a utilization review
 agent shall be in writing and must include:
-  (a) the reasons for the determination including the clinical
-rationale, if any;
-  (b) instructions on how to initiate standard and expedited appeals
-pursuant to section forty-nine hundred four and an external appeal
-pursuant to section forty-nine hundred fourteen of this article; and
-  (c) notice of the availability, upon request of the enrollee, or the
-enrollee's designee, of the clinical review criteria relied upon to make
-such determination. Such notice shall also specify what, if any,
-additional necessary information must be provided to, or obtained by,
-the utilization review agent in order to render a decision on the
-appeal.
-  * NB Effective until March 21, 2024
-  * 5. (a) Notice of an adverse determination made by a utilization
-review agent shall be in writing and must include:
   (i) the reasons for the determination including the clinical
 rationale, if any;
   (ii) instructions on how to initiate standard and expedited appeals
@@ -168,31 +154,6 @@ provider portal. An electronic notice of such an adverse determination
 may meet the requirements of subparagraph (iv) of paragraph (a) of this
 subdivision by linking to information posted on the website of the
 health care plan.
-  * NB Effective March 21, 2024
-  * 5-a. Notice of an adverse determination made by a utilization review
-agent in relation to a step therapy protocol override determination
-request shall be made in writing to the enrollee or the enrollee's
-authorized representative and the enrollee's prescribing health care
-professional as defined in subdivision six of section forty-nine hundred
-of this title, and shall include:
-  (a) the reasons for the determination including the clinical
-rationale, if any;
-  (b) instructions on how to initiate standard and expedited appeals
-pursuant to section forty-nine hundred four of this title and an
-external appeal pursuant to section forty-nine hundred fourteen of this
-article;
-  (c) information that includes: any applicable alternative covered
-medications; the clinical review criteria relied upon to make such
-determination; and any additional necessary information that must be
-provided to, or obtained by, the utilization review agent in order to
-render a decision on the appeal;
-  (d) the provisions of this section shall be satisfied by making such
-information available electronically on a formulary website, on the
-member portal and/or provider portal of the insurer's, the health
-maintenance organization's website, or the website of an organization
-subject to article forty-three of this chapter, provided that the member
-consents to receiving the information electronically.
-  * NB Effective and Repealed March 21, 2024
   6. In the event that a utilization review agent renders an adverse
 determination without attempting to discuss such matter with the
 enrollee's health care provider who specifically recommended the health

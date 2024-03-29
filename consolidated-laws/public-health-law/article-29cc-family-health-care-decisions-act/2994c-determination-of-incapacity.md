@@ -82,16 +82,11 @@ ability to comprehend the information;
 priority listed when persons in prior classes are not reasonably
 available pursuant to subdivision one of section twenty-nine hundred
 ninety-four-d of this article;
-  * (c) if the patient was transferred from a mental hygiene facility,
-to the director of the mental hygiene facility and to the mental hygiene
-legal service under article forty-seven of the mental hygiene law.
-  * NB Effective until March 21, 2024
-  * (c) if the patient is in a hospital as defined in subdivision ten of
+  (c) if the patient is in a hospital as defined in subdivision ten of
 section 1.03 of the mental hygiene law or was transferred from a mental
 hygiene facility, to the director of the mental hygiene facility and to
 the mental hygiene legal service under article forty-seven of the mental
 hygiene law.
-  * NB Effective March 21, 2024
   5. Limited purpose of determination. A determination made pursuant to
 this section that an adult patient lacks decision-making capacity shall
 not be construed as a finding that the patient lacks capacity for any

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 2961", "kind": "section", "law_id": "PBH", "location_id": "2961", "path": "ARTICLE 29-B › SECTION 2961", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2961.md", "title": "Definitions"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 2961", "kind": "section", "law_id": "PBH", "location_id": "2961", "path": "ARTICLE 29-B › SECTION 2961", "repealed": true, "repealed_date": "2024-03-29", "source": "nys-laws:PBH/2961.md", "title": "Definitions"} -->
 # Public Health Law § 2961 — Definitions
 
 [Public Health Law](../README.md) › [Article 29-B — Orders Not to Resuscitate For Residents of Mental Hygiene Facilities](README.md)
+
+**Repealed** (29 Mar 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 2961. Definitions. The following words or phrases, as used in this

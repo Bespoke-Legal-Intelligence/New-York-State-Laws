@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBH |
 | Type | Consolidated law, chapter 45 |
-| Sections | 1,790 (1 repealed) |
-| Last changed | 8 Mar 2024 |
+| Sections | 1,790 (20 repealed) |
+| Last changed | 29 Mar 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Health |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER 45 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (356 lines)](chapter-text.md)
+[Full chapter text (355 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [29 Mar 2024](../../changes/2024/2024-03-29.md): 8 amended, 19 repealed
 - [8 Mar 2024](../../changes/2024/2024-03-08.md): 2 amended
 - [23 Feb 2024](../../changes/2024/2024-02-23.md): 1 amended
 - [16 Feb 2024](../../changes/2024/2024-02-16.md): 3 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [29 Dec 2023](../../changes/2023/2023-12-29.md): 28 amended, 4 added
 - [22 Dec 2023](../../changes/2023/2023-12-22.md): 1 added
 - [15 Dec 2023](../../changes/2023/2023-12-15.md): 4 amended, 3 added
-- [1 Dec 2023](../../changes/2023/2023-12-01.md): 1 amended, 2 added
 
 ## Contents
 
@@ -116,7 +116,7 @@ Assembly, do enact as follows:
 - [Article 29 — Hospital Survey, Planning and Review](article-29-hospital-survey-planning-and-review/)
 - [Article 29-A — Access to Community Health Care Services In Rural Areas](article-29a-access-to-community-health-care-services/)
 - [Article 29-AA — Patient Centered Medical Homes](article-29aa-patient-centered-medical-homes/)
-- [Article 29-B — Orders Not to Resuscitate For Residents of Mental Hygiene Facilities](article-29b-orders-not-to-resuscitate-for-residents/)
+- [Article 29-B — Orders Not to Resuscitate For Residents of Mental Hygiene Facilities](article-29b-orders-not-to-resuscitate-for-residents/) *(repealed)*
 - [Article 29-C — Health Care Agents and Proxies](article-29c-health-care-agents-and-proxies/)
 - [Article 29-CC — Family Health Care Decisions Act](article-29cc-family-health-care-decisions-act/)
 - [Article 29-CCC — Nonhospital Orders Not to Resuscitate](article-29ccc-nonhospital-orders-not-to-resuscitate/)

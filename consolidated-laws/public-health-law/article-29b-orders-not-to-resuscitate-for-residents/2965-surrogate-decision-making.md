@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 2965", "kind": "section", "law_id": "PBH", "location_id": "2965", "path": "ARTICLE 29-B › SECTION 2965", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2965.md", "title": "Surrogate decision-making"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 2965", "kind": "section", "law_id": "PBH", "location_id": "2965", "path": "ARTICLE 29-B › SECTION 2965", "repealed": true, "repealed_date": "2024-03-29", "source": "nys-laws:PBH/2965.md", "title": "Surrogate decision-making"} -->
 # Public Health Law § 2965 — Surrogate decision-making
 
 [Public Health Law](../README.md) › [Article 29-B — Orders Not to Resuscitate For Residents of Mental Hygiene Facilities](README.md)
+
+**Repealed** (29 Mar 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 2965. Surrogate decision-making. 1. (a) The consent of a surrogate

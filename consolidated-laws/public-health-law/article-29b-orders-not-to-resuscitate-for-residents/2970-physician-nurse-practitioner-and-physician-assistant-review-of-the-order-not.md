@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 2970", "kind": "section", "law_id": "PBH", "location_id": "2970", "path": "ARTICLE 29-B › SECTION 2970", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2970.md", "title": "Physician, nurse practitioner and physician assistant review of the order not to resuscitate"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 2970", "kind": "section", "law_id": "PBH", "location_id": "2970", "path": "ARTICLE 29-B › SECTION 2970", "repealed": true, "repealed_date": "2024-03-29", "source": "nys-laws:PBH/2970.md", "title": "Physician, nurse practitioner and physician assistant review of the order not to resuscitate"} -->
 # Public Health Law § 2970 — Physician, nurse practitioner and physician assistant review of the order not to resuscitate
 
 [Public Health Law](../README.md) › [Article 29-B — Orders Not to Resuscitate For Residents of Mental Hygiene Facilities](README.md)
+
+**Repealed** (29 Mar 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 2970. Physician, nurse practitioner and physician assistant review

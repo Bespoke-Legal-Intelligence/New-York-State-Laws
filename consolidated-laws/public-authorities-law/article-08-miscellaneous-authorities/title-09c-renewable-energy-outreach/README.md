@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"kind": "container", "law_id": "PBA", "location_id": "A8T9-C", "path": "ARTICLE 8 › TITLE 9-C", "source": "nys-laws:PBA/A8T9-C.md", "title": "Clean Energy Outreach and Community Planning Program"} -->
-# Title 9-C — Clean Energy Outreach and Community Planning Program
+﻿<!-- nyslaw {"kind": "container", "law_id": "PBA", "location_id": "A8T9-C", "path": "ARTICLE 8 › TITLE 9-C", "source": "nys-laws:PBA/A8T9-C.md", "title": "Renewable Energy Outreach and Community Planning Assistance Program"} -->
+# Title 9-C — Renewable Energy Outreach and Community Planning Assistance Program
 
 [Public Authorities Law](../../README.md) › [Article 8 — Miscellaneous Authorities](../README.md)
 
@@ -8,7 +8,7 @@
 - [§ 1910 Statement of legislative findings and intent](1910-statement-of-legislative-findings-and-intent.md)
 - [§ 1911 Definitions](1911-definitions.md)
 - [§ 1912 Powers and duties](1912-powers-and-duties.md)
-- [§ 1913 Funding](1913-funding.md)
+- [§ 1913 Reporting](1913-reporting.md)
 - [§ 1914 Reporting](1914-reporting.md)
 
 <details>
@@ -16,11 +16,11 @@
 
 ```text
                                * TITLE 9-C
-          CLEAN ENERGY OUTREACH AND COMMUNITY PLANNING PROGRAM
+   RENEWABLE ENERGY OUTREACH AND COMMUNITY PLANNING ASSISTANCE PROGRAM
 Section 1910. Statement of legislative findings and intent.
         1911. Definitions.
         1912. Powers and duties.
-        1913. Funding.
+        1913. Reporting.
         1914. Reporting.
   * NB Repealed December 31, 2031
 ```

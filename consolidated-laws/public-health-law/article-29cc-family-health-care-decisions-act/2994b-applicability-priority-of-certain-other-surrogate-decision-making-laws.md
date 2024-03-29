@@ -10,10 +10,9 @@ health care decisions regarding health care provided in a hospital, and
 to decisions regarding hospice care without regard to where the decision
 is made or where the care is provided, for a patient who lacks
 decision-making capacity, except as limited by this section.
-  * 1-a. This article shall also apply to decisions regarding orders not
+  1-a. This article shall also apply to decisions regarding orders not
 to resuscitate for a patient who lacks decision-making capacity in a
 hospital as defined by section 1.03 of the mental hygiene law.
-  * NB Effective March 21, 2024
   2. Prior to seeking or relying upon a health care decision by a
 surrogate for a patient under this article, the attending practitioner
 shall make reasonable efforts to determine whether the patient has a
@@ -22,18 +21,7 @@ chapter. If so, health care decisions for the patient shall be governed
 by such article, and shall have priority over decisions by any other
 person except the patient or as otherwise provided in the health care
 proxy.
-  3. * Prior to seeking or relying upon a health care decision by a
-surrogate for a patient under this article, if the attending
-practitioner has reason to believe that the patient has a history of
-receiving services for a developmental disability; it reasonably appears
-to the attending practitioner that the patient has a developmental
-disability; or the practitioner has reason to believe that the patient
-has been transferred from a mental hygiene facility operated or licensed
-by the office of mental health, then such physician, nurse practitioner
-or physician assistant shall make reasonable efforts to determine
-whether paragraphs (a), (b) or (c) of this subdivision are applicable:
-  * NB Effective until March 21, 2024
-  * Prior to seeking or relying upon a health care decision by a
+  3. Prior to seeking or relying upon a health care decision by a
 surrogate for a patient under this article, if the attending
 practitioner has reason to believe that the patient has a history of
 receiving services for an intellectual or developmental disability; it
@@ -45,7 +33,6 @@ licensed by the office of mental health or the office for people with
 developmental disabilities, then such physician, nurse practitioner or
 physician assistant shall make reasonable efforts to determine whether
 paragraph (a), (b) or (c) of this subdivision is applicable:
-  * NB Effective March 21, 2024
   (a) If the patient has a guardian appointed by a court pursuant to
 article seventeen-A of the surrogate's court procedure act, health care
 decisions for the patient shall be governed by section seventeen hundred

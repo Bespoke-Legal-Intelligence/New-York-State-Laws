@@ -17,7 +17,7 @@
 - [Title 9 — New York State Energy Research and Development Authority](title-09-new-york-state-energy-research/)
 - [Title 9-A — Green Jobs-green New York Program](title-09a-green-jobs-green-new-york-program/)
 - [Title 9-B — Clean Energy Resources Development and Incentives Program](title-09b-clean-energy-resources-development/)
-- [Title 9-C — Clean Energy Outreach and Community Planning Program](title-09c-clean-energy-outreach-and-community/)
+- [Title 9-C — Renewable Energy Outreach and Community Planning Assistance Program](title-09c-renewable-energy-outreach/)
 - [Title 10-B — Upper Mohawk Valley Memorial Auditorium Authority](title-10b-upper-mohawk-valley-memorial/)
 - [Title 11 — Troy Industrial Development Authority](title-11-troy-industrial-development/)
 - [Title 12 — No title](title-12-no-title/)
