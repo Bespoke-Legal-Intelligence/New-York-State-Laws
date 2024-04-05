@@ -44,15 +44,7 @@ current recommendations by the advisory committee for immunization
 practices (ACIP), provided however, that a pharmacist may administer any
 immunization authorized under this section when specified by a patient
 specific order.
-  * 3. No pharmacist shall administer immunizing agents without
-receiving training satisfactory to the commissioner and the commissioner
-of health which shall include, but not be limited to, techniques for
-screening individuals and obtaining informed consent; techniques of
-administration; indications, precautions and contraindications in the
-use of agent or agents; record keeping of immunization and information;
-and handling emergencies, including anaphylaxis and needlesticks.
-  * NB Effective until April 1, 2024
-  * 3. No pharmacist shall administer immunizing agents or injectable
+  3. No pharmacist shall administer immunizing agents or injectable
 medications for the treatment of mental health and substance use
 disorder without receiving training satisfactory to the commissioner and
 the commissioner of health which shall include, but not be limited to,
@@ -61,7 +53,6 @@ techniques of administration; indications, precautions and
 contraindications in the use of agent or agents; record keeping of
 immunization and information; and handling emergencies, including
 anaphylaxis and needlesticks.
-  * NB Effective April 1, 2024
   4. When administering an immunization in a pharmacy, the licensed
 pharmacist shall provide an area for the immunization that provides for
 a patient's privacy. The privacy area should include:
@@ -106,7 +97,7 @@ Drug Administration (FDA), subject to certificate of waiver requirements
 established pursuant to the federal clinical laboratory improvement act
 of nineteen hundred eighty-eight.
   * NB Repealed July 1, 2026
-  * 8. A licensed pharmacist within their lawful scope of practice may
+  8. A licensed pharmacist within their lawful scope of practice may
 administer injectable medications and medications required for emergency
 treatment of anaphylaxis related to such administration, pursuant to
 section six thousand eight hundred two of this article, for the
@@ -115,7 +106,6 @@ ordered by a licensed prescriber, acting within their scope of practice
 in this state and in accordance with regulations, including but not
 limited to regulations promulgated by the commissioner in consultation
 with any other state agencies, as necessary.
-  * NB Effective April 1, 2024
   9. a. A licensed pharmacist may execute a non-patient specific order
 for the dispensing of self-administered hormonal contraceptives
 prescribed or ordered by the commissioner of health, a physician

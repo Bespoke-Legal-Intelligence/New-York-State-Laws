@@ -508,16 +508,11 @@ commissioner, to the extent of funds appropriated therefor, and
 allocated for distributions pursuant to the child health insurance plan
 established pursuant to title one-A of article twenty-five of this
 chapter.
-  * 9. In order for a general hospital to participate in the
-distribution of funds from the pool, the general hospital must implement
-minimum collection policies and procedures approved by the commissioner.
-  * NB Effective until April 1, 2024
-  * 9. In order for a general hospital to participate in the
-distribution of funds from the pool, the general hospital must implement
-minimum collection policies and procedures approved by the commissioner,
+  9. In order for a general hospital to participate in the distribution
+of funds from the pool, the general hospital must implement minimum
+collection policies and procedures approved by the commissioner,
 utilizing only a uniform financial assistance form developed and
 provided by the department.
-  * NB Effective April 1, 2024
   9-a. (a) As a condition for participation in pool distributions
 authorized pursuant to this section and section twenty-eight hundred
 seven-w of this article for periods on and after January first, two
