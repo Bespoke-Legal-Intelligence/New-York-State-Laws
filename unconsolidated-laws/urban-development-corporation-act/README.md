@@ -9,7 +9,7 @@
 | Type | Unconsolidated law |
 | Session law | L. 1968, ch. 174 |
 | Sections | 108 |
-| Last changed | 9 Feb 2024 |
+| Last changed | 12 Apr 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Urban Development Corporation Act 174/68 |
 
@@ -34,6 +34,7 @@ Section   1.       Short title.
 
 ## Recent changes
 
+- [12 Apr 2024](../../changes/2024/2024-04-12.md): 1 amended
 - [9 Feb 2024](../../changes/2024/2024-02-09.md): 1 amended
 - [15 Dec 2023](../../changes/2023/2023-12-15.md): 1 amended
 - [17 Nov 2023](../../changes/2023/2023-11-17.md): 1 amended
@@ -43,7 +44,6 @@ Section   1.       Short title.
 - [6 Jan 2023](../../changes/2023/2023-01-06.md): 2 amended
 - [16 Dec 2022](../../changes/2022/2022-12-16.md): 1 amended
 - [14 Oct 2022](../../changes/2022/2022-10-14.md): 1 amended
-- [5 Aug 2022](../../changes/2022/2022-08-05.md): 1 amended
 
 ## Contents
 

@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 26 — Animals](README.md)
 
 ```text
-  * § 385. Prohibition of slaughtering horses for human or animal
+  § 385. Prohibition of slaughtering horses for human or animal
 consumption. 1. Notwithstanding any other provision of law, it shall be
 unlawful for any person, corporation, association, or other entity to
 slaughter or have another person, corporation, association, or other
@@ -56,5 +56,4 @@ invalidity or unconstitutionality shall not affect other provisions or
 applications of this section that can be given effect without the
 invalid or unconstitutional provision or application, and to such end
 the provisions of this section shall be severable.
-  * NB Effective April 11, 2024
 ```

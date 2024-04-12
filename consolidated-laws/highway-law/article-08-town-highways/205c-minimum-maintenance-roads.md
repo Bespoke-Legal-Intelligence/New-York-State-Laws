@@ -138,6 +138,5 @@ county.
   5. Nothing in this section shall be construed as limiting, diminishing
 or otherwise affecting the powers of any municipality other than the
 designated town.
-  * NB Effective April 6, 2024
   * NB Repealed December 8, 2031
 ```

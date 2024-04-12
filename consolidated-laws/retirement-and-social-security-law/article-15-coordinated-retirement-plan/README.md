@@ -16,7 +16,7 @@
 - [§ 604-B Twenty-five-year and age fifty-five retirement program for New York city transit authority members](604b-twenty-five-year-and-age-fifty-five-retirement-program-for-new-york-city.md)
 - [§ 604-C Supplemental retirement allowance](604c-supplemental-retirement-allowance.md)
 - [§ 604-C\*2 Optional twenty-five-year early retirement program for certain New York city members](604c-2-optional-twenty-five-year-early-retirement-program-for-certain-new-york-city.md)
-- [§ 604-C\*3 Twenty-year/age fifty retirement program for Triborough bridge and tunnel members](604c-3-twenty-year-age-fifty-retirement-program-for-triborough-bridge-and-tunnel.md)
+- [§ 604-C\*3 Twenty-year retirement program for Triborough bridge and tunnel members](604c-3-twenty-year-retirement-program-for-triborough-bridge-and-tunnel-members.md)
 - [§ 604-D Age fifty-seven retirement program for certain New York city members](604d-age-fifty-seven-retirement-program-for-certain-new-york-city-members.md)
 - [§ 604-E Twenty-five year retirement program for dispatcher members](604e-twenty-five-year-retirement-program-for-dispatcher-members.md)
 - [§ 604-E\*2 Twenty-five year retirement program for EMT members](604e-2-twenty-five-year-retirement-program-for-emt-members.md)
