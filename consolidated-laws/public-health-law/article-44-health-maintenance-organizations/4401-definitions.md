@@ -46,12 +46,12 @@ pursuant to section three hundred sixty-five-a of the social services
 law, also provides or arranges for the provision of HIV care to HIV
 positive persons eligible to receive benefits under title XIX of the
 federal social security act or other public programs.
-  * NB Repealed March 31, 2025
+  * NB Repealed March 31, 2030
   * 7. "HIV Center of excellence" is defined as a health care facility
 certified to operate under article twenty-eight of this chapter that
 offers specialized treatment expertise in HIV care services as defined
 by the commissioner.
-  * NB Repealed March 31, 2025
+  * NB Repealed March 31, 2030
   8. "Special needs managed care plan" shall mean a combination of
 persons natural or corporate, or any groups of such persons, or a county
 or counties, who enter into an arrangement, agreement or plan, or

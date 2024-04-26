@@ -16,6 +16,7 @@
 - [§ 120.07 Gang assault in the first degree](120.07-gang-assault-in-the-first-degree.md)
 - [§ 120.08 Assault on a peace officer, police officer, firefighter or emergency medical services professional](120.08-assault-on-a-peace-officer-police-officer.md)
 - [§ 120.09 Assault on a judge](120.09-assault-on-a-judge.md)
+- [§ 120.09-A Aggravated assault on a judge](120.09-a-aggravated-assault-on-a-judge.md)
 - [§ 120.10 Assault in the first degree](120.10-assault-in-the-first-degree.md)
 - [§ 120.11 Aggravated assault upon a police officer or a peace officer](120.11-aggravated-assault-upon-a-police-officer.md)
 - [§ 120.12 Aggravated assault upon a person less than eleven years old](120.12-aggravated-assault-upon-a-person-less-than.md)
@@ -25,6 +26,7 @@
 - [§ 120.16 Hazing in the first degree](120.16-hazing-in-the-first-degree.md)
 - [§ 120.17 Hazing in the second degree](120.17-hazing-in-the-second-degree.md)
 - [§ 120.18 Menacing a police officer or peace officer](120.18-menacing-a-police-officer-or-peace-officer.md)
+- [§ 120.19 Assault on a retail worker](120.19-assault-on-a-retail-worker.md)
 - [§ 120.20 Reckless endangerment in the second degree](120.20-reckless-endangerment-in-the-second-degree.md)
 - [§ 120.25 Reckless endangerment in the first degree](120.25-reckless-endangerment-in-the-first-degree.md)
 - [§ 120.30 Promoting a suicide attempt](120.30-promoting-a-suicide-attempt.md)
@@ -42,42 +44,43 @@
 ```text
                                ARTICLE 120
                       ASSAULT AND RELATED OFFENSES
-Section 120.00    Assault in the third degree.
-        120.01    Reckless assault of a child by a child day care
-                    provider.
-        120.02    Reckless assault of a child.
-        120.03    Vehicular assault in the second degree.
-        120.04    Vehicular assault in the first degree.
-        120.04-a  Aggravated vehicular assault.
-        120.05    Assault in the second degree.
-        120.06    Gang assault in the second degree.
-        120.07    Gang assault in the first degree.
-        120.08    Assault on a peace officer, police officer,
-                    firefighter or emergency medical services
-                    professional.
-        120.09    Assault on a judge.
-        120.10    Assault in the first degree.
-        120.11    Aggravated assault upon a police officer or a peace
-                    officer.
-        120.12    Aggravated assault upon a person less than eleven
-                    years old.
-        120.13    Menacing in the first degree.
-        120.14    Menacing in the second degree.
-        120.15    Menacing in the third degree.
-        120.16    Hazing in the first degree.
-        120.17    Hazing in the second degree.
-        120.18    Menacing a police officer or peace officer.
-        120.20    Reckless endangerment in the second degree.
-        120.25    Reckless endangerment in the first degree.
-        120.30    Promoting a suicide attempt.
-        120.35    Promoting a suicide attempt; when punishable as
-                    attempt to commit murder.
-        120.40    Definitions.
-        120.45    Stalking in the fourth degree.
-        120.50    Stalking in the third degree.
-        120.55    Stalking in the second degree.
-        120.60    Stalking in the first degree.
-        120.70    Luring a child.
+Section 120.00   Assault in the third degree.
+        120.01   Reckless assault of a child by a child day care
+                   provider.
+        120.02   Reckless assault of a child.
+        120.03   Vehicular assault in the second degree.
+        120.04   Vehicular assault in the first degree.
+        120.04-a Aggravated vehicular assault.
+        120.05   Assault in the second degree.
+        120.06   Gang assault in the second degree.
+        120.07   Gang assault in the first degree.
+        120.08   Assault on a peace officer, police officer, firefighter
+                   or emergency medical services professional.
+        120.09   Assault on a judge.
+        120.09-a Aggravated assault on a judge.
+        120.10   Assault in the first degree.
+        120.11   Aggravated assault upon a police officer or a peace
+                   officer.
+        120.12   Aggravated assault upon a person less than eleven years
+                   old.
+        120.13   Menacing in the first degree.
+        120.14   Menacing in the second degree.
+        120.15   Menacing in the third degree.
+        120.16   Hazing in the first degree.
+        120.17   Hazing in the second degree.
+        120.18   Menacing a police officer or peace officer.
+        120.19   Assault on a retail worker.
+        120.20   Reckless endangerment in the second degree.
+        120.25   Reckless endangerment in the first degree.
+        120.30   Promoting a suicide attempt.
+        120.35   Promoting a suicide attempt; when punishable as attempt
+                   to commit murder.
+        120.40   Definitions.
+        120.45   Stalking in the fourth degree.
+        120.50   Stalking in the third degree.
+        120.55   Stalking in the second degree.
+        120.60   Stalking in the first degree.
+        120.70   Luring a child.
 ```
 
 </details>

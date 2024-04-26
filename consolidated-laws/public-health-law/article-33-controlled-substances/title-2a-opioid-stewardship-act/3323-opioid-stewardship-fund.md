@@ -152,5 +152,5 @@ percent of the ratable share due from such licensee.
   (c) Where the ratable share, or any portion thereof, has been passed
 on to a purchaser by a licensee, the commissioner may impose a penalty
 not to exceed one million dollars per incident.
-  * NB Repealed June 30, 2024
+  * NB Repealed June 30, 2029
 ```

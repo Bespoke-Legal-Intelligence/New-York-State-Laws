@@ -996,5 +996,5 @@ are inconsistent with other provisions of this article or with the
 provisions of section three hundred sixty-four-j of the social services
 law, the provisions of this subdivision shall prevail.
   ** NB Repealed December 31, 2025
-  * NB Repealed December 31, 2024
+  * NB Repealed December 31, 2029
 ```

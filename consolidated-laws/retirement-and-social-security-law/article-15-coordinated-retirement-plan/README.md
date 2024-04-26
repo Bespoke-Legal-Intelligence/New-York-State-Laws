@@ -25,6 +25,7 @@
 - [§ 604-G Twenty-five year/age fifty retirement program for automotive members](604g-twenty-five-year-age-fifty-retirement-program-for-automotive-members.md)
 - [§ 604-H Twenty-five year retirement program for police communications members](604h-twenty-five-year-retirement-program-for-police-communications-members.md)
 - [§ 604-I Age fifty-five retirement program for New York city teachers and certain other members](604i-age-fifty-five-retirement-program-for-new-york-city-teachers-and-certain-other.md)
+- [§ 604-J Twenty-five year retirement program for fire protection inspector members](604j-twenty-five-year-retirement-program-for-fire-protection-inspector-members.md)
 - [§ 605 Disability retirement](605-disability-retirement.md)
 - [§ 605-A Accidental disability retirement for uniformed court officers and peace officers employed in the unified court system](605a-accidental-disability-retirement-for-uniformed-court-officers-and-peace.md)
 - [§ 605-B Accidental disability retirement for New York city uniformed sanitation members](605b-accidental-disability-retirement-for-new-york-city-uniformed-sanitation-members.md)
@@ -110,6 +111,8 @@ Section 600.     Application.
                    communications members.
         604-i.   Age fifty-five retirement program for New York city
                    teachers and certain other members.
+        604-j.   Twenty-five year retirement program for fire protection
+                   inspector members.
         605.     Disability retirement.
         605-a.   Accidental disability retirement for uniformed court
                    officers and peace officers employed in the unified

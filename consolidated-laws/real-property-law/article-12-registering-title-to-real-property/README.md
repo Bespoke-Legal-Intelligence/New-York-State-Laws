@@ -57,6 +57,7 @@
 - [§ 422 Reference of doubtful matters to the court](422-reference-of-doubtful-matters-to-the-court.md)
 - [§ 423 Death of owner of registered property; transfer of property](423-death-of-owner-of-registered-property-transfer-of-property.md)
 - [§ 423-A Form for transfer of property upon death of owner of registered property](423a-form-for-transfer-of-property-upon-death-of-owner-of-registered-property.md)
+- [§ 424 Transfer on death deed](424-transfer-on-death-deed.md)
 - [§ 426 Assurance fund](426-assurance-fund.md)
 - [§ 427 Compensation from assurance fund](427-compensation-from-assurance-fund.md)
 - [§ 428 Action against assurance fund](428-action-against-assurance-fund.md)
@@ -144,6 +145,7 @@ Section 370.   Petition to register title to real property.
                  property.
         423-a. Form for transfer of property  upon  death  of  owner  of
                  registered property.
+        424.   Transfer on death deed.
         426.   Assurance fund.
         427.   Compensation from assurance fund.
         428.   Action against assurance fund.

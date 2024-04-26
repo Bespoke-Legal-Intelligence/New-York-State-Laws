@@ -111,6 +111,7 @@
 - [§ 467-K Senior citizen longtime resident exemption](467k-senior-citizen-longtime-resident-exemption.md)
 - [§ 467-K\*2 Exemption for certain residential property required to participate in the federal flood insurance program](467k-2-exemption-for-certain-residential-property-required-to-participate.md)
 - [§ 467-L Rebate for owners of certain real property in the city of New York](467l-rebate-for-owners-of-certain-real-property-in-the-city-of-new-york.md)
+- [§ 467-M Exemption from local real property taxation of certain multiple dwellings in a city having a population of one million or more](467m-exemption-from-local-real-property-taxation-of-certain-multiple-dwellings.md)
 - [§ 468 Fire patrol and salvage corps](468-fire-patrol-and-salvage-corps.md)
 - [§ 469 Assessment exemption for living quarters for parent or grandparent](469-assessment-exemption-for-living-quarters-for-parent-or-grandparent.md)
 - [§ 470 Exemption for improvements to real property meeting certification standards for green buildings](470-exemption-for-improvements-to-real-property-meeting-certification-standards.md)
@@ -165,6 +166,7 @@
 - [§ 485-V Residential revaluation exemption](485v-residential-revaluation-exemption.md)
 - [§ 485-V\*2 Residential and mixed-use investment exemption; certain cities and school districts](485v-2-residential-and-mixed-use-investment-exemption-certain-cities-and-school.md)
 - [§ 485-W Newly constructed single-family and multi-family residential exemption; certain villages](485w-newly-constructed-single-family-and-multi-family-residential-exemption-certain.md)
+- [§ 485-X Affordable neighborhoods for New Yorkers tax incentive](485x-affordable-neighborhoods-for-new-yorkers-tax-incentive.md)
 - [§ 486 Non-profit medical and dental indemnity, or hospital service corporations](486-non-profit-medical-and-dental-indemnity-or-hospital-service-corporations.md)
 - [§ 486-A Non-profit corporations operating as health maintenance organizations](486a-non-profit-corporations-operating-as-health-maintenance-organizations.md)
 - [§ 487 Exemption from taxation for certain energy systems](487-exemption-from-taxation-for-certain-energy-systems.md)
@@ -369,6 +371,9 @@ Section 420-a.   Nonprofit organizations; mandatory class.
                    participate in the federal flood insurance program.
         467-l.   Rebate for owners of certain real property in the city
                    of New York.
+        467-m.   Exemption from local real property taxation of certain
+                   multiple dwellings in a city having a population of
+                   one million or more.
         468.     Fire patrol and salvage corps.
         469.     Assessment exemption for living quarters for parent or
                    grandparent.
@@ -442,6 +447,7 @@ Section 420-a.   Nonprofit organizations; mandatory class.
                    cities and school districts.
         485-w.   Newly constructed single-family and multi-family
                    residential exemption; certain villages.
+        485-x.   Affordable neighborhoods for New Yorkers tax incentive.
         486.     Non-profit medical and dental indemnity, or hospital
                    service corporations.
         486-a.   Non-profit corporations operating as health maintenance

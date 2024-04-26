@@ -10,6 +10,7 @@
 - [§ 372 Definitions](372-definitions.md)
 - [§ 373 Required immediate applicability of existing state codes](373-required-immediate-applicability-of-existing-state-codes.md)
 - [§ 373-A Code comparison study and report](373a-code-comparison-study-and-report.md)
+- [§ 373-B Standards for single-exit, single stairway multi-unit residential buildings study](373b-standards-for-single-exit-single-stairway-multi-unit-residential-buildings-study.md)
 - [§ 374 State fire prevention and building code council](374-state-fire-prevention-and-building-code-council.md)
 - [§ 375 Powers of the council](375-powers-of-the-council.md)
 - [§ 376 Powers of the secretary](376-powers-of-the-secretary.md)
@@ -35,6 +36,8 @@ Section 370.   Short title.
         372.   Definitions.
         373.   Required immediate applicability of existing state codes.
         373-a. Code comparison study and report.
+        373-b. Standards for single-exit, single stairway multi-unit
+                 residential buildings study.
         374.   State fire prevention and building code council.
         375.   Powers of the council.
         376.   Powers of the secretary.

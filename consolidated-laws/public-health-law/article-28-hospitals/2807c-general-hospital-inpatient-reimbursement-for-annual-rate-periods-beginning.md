@@ -3046,12 +3046,12 @@ expenses per discharge. Adjustments shall be made to capital related
 costs and statistics to reflect capital related inpatient expenses
 reimbursed on a per diem basis in accordance with paragraphs (a), (d),
 (e), (g) and (i) of subdivision four of this section.
-  (c) In order to reconcile capital related inpatient expenses included
-in rates of payment based on a budget to actual expenses and statistics
-for the rate period for a general hospital, rates of payment for a
-general hospital shall be adjusted to reflect the dollar value of the
-difference between capital related inpatient expenses included in the
-computation of rates of payment for a prior rate period based on a
+  * (c) In order to reconcile capital related inpatient expenses
+included in rates of payment based on a budget to actual expenses and
+statistics for the rate period for a general hospital, rates of payment
+for a general hospital shall be adjusted to reflect the dollar value of
+the difference between capital related inpatient expenses included in
+the computation of rates of payment for a prior rate period based on a
 budget and actual capital related inpatient expenses for such prior rate
 period, each as determined in accordance with paragraph (a) of this
 subdivision, adjusted to reflect increases or decreases in volume of
@@ -3091,6 +3091,70 @@ paragraph (c) of subdivision eleven of this section. Such adjustments
 shall not be carried forward except for such volume adjustment as may be
 authorized in accordance with subparagraph (i) of paragraph (e) of
 subdivision nine of this section for such general hospital.
+  * NB Effective until October 1, 2024
+  * (c) In order to reconcile capital related inpatient expenses
+included in rates of payment based on a budget to actual expenses and
+statistics for the rate period for a general hospital, rates of payment
+for a general hospital shall be adjusted to reflect the dollar value of
+the difference between capital related inpatient expenses included in
+the computation of rates of payment for a prior rate period based on a
+budget and actual capital related inpatient expenses for such prior rate
+period, each as determined in accordance with paragraph (a) of this
+subdivision, adjusted to reflect increases or decreases in volume of
+service in such prior rate period compared to statistics applied in
+determining the capital related inpatient expenses component of rates of
+payment based on a budget for such prior rate period.
+  For rates effective April first, two thousand twenty through March
+thirty-first, two thousand twenty-one, the budgeted capital-related
+expenses add-on as described in paragraph (a) of this subdivision, based
+on a budget submitted in accordance to paragraph (a) of this
+subdivision, shall be reduced by five percent relative to the rate in
+effect on such date; and the actual capital expenses add-on as described
+in paragraph (a) of this subdivision, based on actual expenses and
+statistics through appropriate audit procedures in accordance with
+paragraph (a) of this subdivision shall be reduced by five percent
+relative to the rate in effect on such date.
+  For rates effective April first, two thousand twenty-one through
+September thirtieth, two thousand twenty-four, the budgeted
+capital-related expenses add-on as described in paragraph (a) of this
+subdivision, based on a budget submitted in accordance to paragraph (a)
+of this subdivision, shall be reduced by ten percent relative to the
+rate in effect on such date; and the actual capital expenses add-on as
+described in paragraph (a) of this subdivision, based on actual expenses
+and statistics through appropriate audit procedures in accordance with
+paragraph (a) of this subdivision shall be reduced by ten percent
+relative to the rate in effect on such date.
+  For rates effective on and after October first, two thousand
+twenty-four, the budgeted capital-related expenses add-on as described
+in paragraph (a) of this subdivision, based on a budget submitted in
+accordance with paragraph (a) of this subdivision, shall be reduced by
+twenty percent relative to the rate in effect on such date; and the
+actual capital expenses add-on as described in paragraph (a) of this
+subdivision shall be reduced by twenty percent relative to the rate in
+effect on such date.
+  For any rate year, all reconciliation add-on amounts calculated for
+the period of April first, two thousand twenty through September
+thirtieth, two thousand twenty-four shall be reduced by ten percent, and
+all reconciliation recoupment amounts calculated for the period of April
+first, two thousand twenty through September thirtieth, two thousand
+twenty-four shall increase by ten percent.
+  For any rate year, all reconciliation add-on amounts calculated on and
+after October first, two thousand twenty-four shall be reduced by twenty
+percent, and all reconciliation recoupment amounts calculated on or
+after October first, two thousand twenty-four shall increase by twenty
+percent.
+  Notwithstanding any inconsistent provision of subparagraph (i) of
+paragraph (e) of subdivision nine of this section, capital related
+inpatient expenses of a general hospital included in the computation of
+rates of payment based on a budget shall not be included in the
+computation of a volume adjustment made in accordance with such
+subparagraph. Adjustments to rates of payment for a general hospital
+made pursuant to this paragraph shall be made in accordance with
+paragraph (c) of subdivision eleven of this section. Such adjustments
+shall not be carried forward except for such volume adjustment as may be
+authorized in accordance with subparagraph (i) of paragraph (e) of
+subdivision nine of this section for such general hospital.
+  * NB Effective October 1, 2024
   * (e) Notwithstanding any inconsistent provision of this subdivision,
 commencing April first, nineteen hundred ninety-five, when a factor for
 reconciliation of budgeted capital related inpatient expenses to actual
@@ -7820,11 +7884,44 @@ thousand ten through March thirty-first, two thousand eleven and each
 state fiscal year thereafter, provided, however, that such reductions
 shall be in addition to the reductions required pursuant to subparagraph
 (ii) of paragraph (a) of subdivision thirty-three of this section.
-  (i) (i) Notwithstanding any inconsistent provision of this subdivision
-or any other contrary provision of law and subject to the availability
-of federal financial participation, for the period July first, two
-thousand ten through March thirty-first, two thousand eleven, and each
-state fiscal year period thereafter, the commissioner shall make
+  (i) (i) * Notwithstanding any inconsistent provision of this
+subdivision or any other contrary provision of law and subject to the
+availability of federal financial participation, for the period July
+first, two thousand ten through March thirty-first, two thousand eleven,
+and each state fiscal year period thereafter, the commissioner shall
+make additional inpatient hospital payments up to the aggregate upper
+payment limit for inpatient hospital services after all other medical
+assistance payments, but not to exceed two hundred thirty-five million
+five hundred thousand dollars for the period July first, two thousand
+ten through March thirty-first, two thousand eleven, three hundred
+fourteen million dollars for each state fiscal year beginning April
+first, two thousand eleven, through March thirty-first, two thousand
+thirteen, and no less than three hundred thirty-nine million dollars for
+each state fiscal year thereafter, to general hospitals, other than
+major public general hospitals, providing emergency room services and
+including safety net hospitals, which shall, for the purpose of this
+paragraph, be defined as having either: a Medicaid share of total
+inpatient hospital discharges of at least thirty-five percent, including
+both fee-for-service and managed care discharges for acute and exempt
+services; or a Medicaid share of total discharges of at least thirty
+percent, including both fee-for-service and managed care discharges for
+acute and exempt services, and also providing obstetrical services.
+Eligibility to receive such additional payments shall be based on data
+from the period two years prior to the rate year, as reported on the
+institutional cost report submitted to the department as of October
+first of the prior rate year. Such payments shall be made as medical
+assistance payments for fee-for-service inpatient hospital services
+pursuant to title eleven of article five of the social services law for
+patients eligible for federal financial participation under title XIX of
+the federal social security act and in accordance with the following:
+  * NB Effective until January 1, 2025
+  * Notwithstanding any inconsistent provision of this subdivision or
+any other contrary provision of law and subject to the availability of
+federal financial participation, for each state fiscal year from July
+first, two thousand ten through December thirty-first, two thousand
+twenty-four; and for the calendar year January first, two thousand
+twenty-five through December thirty-first, two thousand twenty-five; and
+for each calendar year thereafter, the commissioner shall make
 additional inpatient hospital payments up to the aggregate upper payment
 limit for inpatient hospital services after all other medical assistance
 payments, but not to exceed two hundred thirty-five million five hundred
@@ -7833,6 +7930,9 @@ March thirty-first, two thousand eleven, three hundred fourteen million
 dollars for each state fiscal year beginning April first, two thousand
 eleven, through March thirty-first, two thousand thirteen, and no less
 than three hundred thirty-nine million dollars for each state fiscal
+year until December thirty-first, two thousand twenty-four; and then
+from calendar year January first, two thousand twenty-five through
+December thirty-first, two thousand twenty-five; and for each calendar
 year thereafter, to general hospitals, other than major public general
 hospitals, providing emergency room services and including safety net
 hospitals, which shall, for the purpose of this paragraph, be defined as
@@ -7850,6 +7950,7 @@ fee-for-service inpatient hospital services pursuant to title eleven of
 article five of the social services law for patients eligible for
 federal financial participation under title XIX of the federal social
 security act and in accordance with the following:
+  * NB Effective January 1, 2025
   (A) Thirty percent of such payments shall be allocated to safety net
 hospitals based on each eligible hospital's proportionate share of all
 eligible safety net hospitals' Medicaid discharges for inpatient

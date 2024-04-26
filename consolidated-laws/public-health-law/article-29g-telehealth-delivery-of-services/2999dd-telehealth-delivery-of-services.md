@@ -33,7 +33,7 @@ fees established by law, or otherwise established or certified by the
 office for people with developmental disabilities, office of mental
 health, or the office of addiction services and supports pursuant to
 article forty-three of the mental hygiene law.
-  * NB Effective until April 1, 2024
+  * NB Effective until April 1, 2026
   * 1. Health care services delivered by means of telehealth shall be
 entitled to reimbursement under section three hundred sixty-seven-u of
 the social services law; provided however, reimbursement for additional
@@ -43,7 +43,7 @@ article, and audio-only telephone communication defined in regulations
 promulgated pursuant to subdivision four of section twenty-nine hundred
 ninety-nine-cc of this article, shall be contingent upon federal
 financial participation.
-  * NB Effective April 1, 2024
+  * NB Effective April 1, 2026
   2. The department of health, the office of mental health, the office
 of alcoholism and substance abuse services, and the office for people
 with developmental disabilities shall coordinate on the issuance of a

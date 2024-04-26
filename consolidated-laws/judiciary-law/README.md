@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | JUD |
 | Type | Consolidated law, chapter 30 |
-| Sections | 542 |
-| Last changed | 9 Feb 2024 |
+| Sections | 543 |
+| Last changed | 26 Apr 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Judiciary |
 
@@ -29,10 +29,11 @@ Became a law February 17, 1909, with the approval of the Governor.
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (60 lines)](chapter-text.md)
+[Full chapter text (61 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [26 Apr 2024](../../changes/2024/2024-04-26.md): 1 amended, 1 added
 - [9 Feb 2024](../../changes/2024/2024-02-09.md): 1 amended
 - [2 Feb 2024](../../changes/2024/2024-02-02.md): 1 amended
 - [5 Jan 2024](../../changes/2024/2024-01-05.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [27 Oct 2023](../../changes/2023/2023-10-27.md): 1 added
 - [22 Sep 2023](../../changes/2023/2023-09-22.md): 1 amended
 - [25 Aug 2023](../../changes/2023/2023-08-25.md): 1 amended
-- [12 May 2023](../../changes/2023/2023-05-12.md): 4 amended
 
 ## Contents
 
@@ -85,4 +85,5 @@ Assembly, do enact as follows:
 - [Article 22 — Judicial Hearing Officers](article-22-judicial-hearing-officers/)
 - [Article 22-A — Judicial Wellness or Assistance Committees](article-22a-judicial-wellness-or-assistance-committees/)
 - [Article 22-B — Hope Card Act](article-22b-hope-card-act/)
+- [Article 22-C — New York State Judicial Security Act](article-22c-new-york-state-judicial-security-act/)
 - [Article 23 — Laws Repealed; When to Take Effect](article-23-laws-repealed-when-to-take-effect/)

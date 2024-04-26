@@ -12,7 +12,6 @@
 - [§ 464 Revision](464-revision.md)
 - [§ 465 Liability](465-liability.md)
 - [§ 466 Duty of an agent](466-duty-of-an-agent.md)
-- [§ 467 Liability](467-liability.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 14, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

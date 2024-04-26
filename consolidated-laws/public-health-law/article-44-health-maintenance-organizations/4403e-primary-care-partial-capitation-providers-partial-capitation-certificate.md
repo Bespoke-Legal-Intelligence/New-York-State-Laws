@@ -84,5 +84,5 @@ of its intention to contract with the plan; and
   (h) the applicant has demonstrated the ability to track and monitor
 all services provided to its enrollees, and its ability to submit
 periodic cost and utilization reports, as the commissioner may require.
-  * NB Repealed March 31, 2025
+  * NB Repealed March 31, 2030
 ```

@@ -369,5 +369,5 @@ that a health maintenance organization, certified pursuant to the
 provisions of this article, which proposes to operate a comprehensive
 HIV special needs plan shall be required to comply with all the
 provisions of this section.
-  * NB Repealed March 31, 2025
+  * NB Repealed March 31, 2030
 ```

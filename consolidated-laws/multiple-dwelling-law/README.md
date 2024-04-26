@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | MDW |
 | Type | Consolidated law, chapter 61-A |
-| Sections | 190 |
-| Last changed | 16 Feb 2024 |
+| Sections | 193 |
+| Last changed | 26 Apr 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Multiple Dwelling |
 
@@ -27,10 +27,11 @@ Assembly, do enact as follows:
               CHAPTER SIXTY-ONE-A OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (25 lines)](chapter-text.md)
+[Full chapter text (27 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [26 Apr 2024](../../changes/2024/2024-04-26.md): 1 amended, 3 added
 - [16 Feb 2024](../../changes/2024/2024-02-16.md): 1 amended
 - [2 Feb 2024](../../changes/2024/2024-02-02.md): 1 amended
 - [26 Nov 2023](../../changes/2023/2023-11-26.md): 1 added
@@ -54,6 +55,7 @@ Assembly, do enact as follows:
 - [Article 7-A — Temporary Provisions](article-07a-temporary-provisions/)
 - [Article 7-B — Joint Living-work Quarters For Artists, or General Residential Occupancy of Loft, Commercial or Manufacturing Buildings](article-07b-joint-living-work-quarters-for-artists/)
 - [Article 7-C — Legalization of Interim Multiple Dwellings](article-07c-legalization-of-interim-multiple-dwellings/)
+- [Article 7-D — Legalization and Conversion of Basement and Cellar Dwelling Units](article-07d-legalization-and-conversion-of-basement/)
 - [Article 8 — Requirements and Remedies](article-08-requirements-and-remedies/)
 - [Article 9 — Registry of Names and Service of Papers](article-09-registry-of-names-and-service-of-papers/)
 - [Article 10 — Prostitution](article-10-prostitution/)

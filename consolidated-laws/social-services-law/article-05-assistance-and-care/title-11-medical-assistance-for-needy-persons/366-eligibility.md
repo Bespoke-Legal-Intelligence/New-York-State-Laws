@@ -201,7 +201,7 @@ MAGI-based income of every person included in the child's MAGI household
 exceeds one hundred thirty-three percent, but does not exceed one
 hundred fifty percent, of the federal poverty line for the applicable
 family size.
-  * NB Repealed October 1, 2024
+  * NB Repealed October 1, 2029
   (7-a) An individual is eligible for benchmark coverage if his or her
 MAGI household income exceeds one hundred thirty-three percent of the
 federal poverty line for the applicable family size and he or she:

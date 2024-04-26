@@ -16,6 +16,7 @@
 - [§ 1131 Default judgment](1131-default-judgment.md)
 - [§ 1132 Preference over other proceedings and actions](1132-preference-over-other-proceedings-and-actions.md)
 - [§ 1134 Presumption of validity](1134-presumption-of-validity.md)
+- [§ 1135 Application for surplus](1135-application-for-surplus.md)
 - [§ 1136 Final judgment](1136-final-judgment.md)
 - [§ 1137 Statute of limitations](1137-statute-of-limitations.md)
 - [§ 1138 Withdrawal of parcels from foreclosure](1138-withdrawal-of-parcels-from-foreclosure.md)
@@ -39,6 +40,7 @@ Section 1120. Foreclosure by proceeding in rem.
         1131. Default judgment.
         1132. Preference over other proceedings and actions.
         1134. Presumption of validity.
+        1135. Application for surplus.
         1136. Final judgment.
         1137. Statute of limitations.
         1138. Withdrawal of parcels from foreclosure.

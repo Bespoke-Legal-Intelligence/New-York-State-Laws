@@ -15,7 +15,6 @@
 - [§ 104 Provisions governing wholesalers](104-provisions-governing-wholesalers.md)
 - [§ 104-A Provisions governing vendors](104a-provisions-governing-vendors.md)
 - [§ 105 Provisions governing licensees to sell at retail for consumption off the premises](105-provisions-governing-licensees-to-sell-at-retail-for-consumption-off.md)
-- [§ 105-A Sale of beer at retail on Sunday](105a-sale-of-beer-at-retail-on-sunday.md) *(repealed)*
 - [§ 105-B Posting of certain signs](105b-posting-of-certain-signs.md)
 - [§ 106 Provisions governing licensees to sell at retail for consumption on the premises](106-provisions-governing-licensees-to-sell-at-retail-for-consumption-on-the-premises.md)
 - [§ 106-A Notice of arrest and convictions](106a-notice-of-arrest-and-convictions.md)

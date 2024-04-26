@@ -61,5 +61,5 @@ recipients who have become inactive, sorted by reason; and
   (vii) allotment used, which is the total amount of copayment
 assistance provided to each grant recipient compared to what is
 currently used by the grant recipient.
-  * NB Repealed March 31, 2024
+  * NB Repealed March 31, 2025
 ```

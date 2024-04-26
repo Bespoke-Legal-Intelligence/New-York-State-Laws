@@ -21,6 +21,7 @@
 - [§ 97-A Temporary retail permit](97a-temporary-retail-permit.md)
 - [§ 97-B Sale of alcoholic beverages at the New York state fair](97b-sale-of-alcoholic-beverages-at-the-new-york-state-fair.md)
 - [§ 97-C Temporary manufacturing permit](97c-temporary-manufacturing-permit.md)
+- [§ 97-D Temporary wholesale permit](97d-temporary-wholesale-permit.md)
 - [§ 98 Caterer's permit](98-caterers-permit.md)
 - [§ 99 Special permit to remain open during certain hours of the morning](99-special-permit-to-remain-open-during-certain-hours-of-the-morning.md)
 - [§ 99-A Charitable permits](99a-charitable-permits.md)
@@ -53,6 +54,7 @@ Section 90.   Kinds of permits.
         97-a. Temporary retail permit.
         97-b. Sale of alcoholic beverages at the New York state fair.
         97-c. Temporary manufacturing permit.
+        97-d. Temporary wholesale permit.
         98.   Caterer's permit.
         99.   Special permit to remain open during certain hours of the
                 morning.

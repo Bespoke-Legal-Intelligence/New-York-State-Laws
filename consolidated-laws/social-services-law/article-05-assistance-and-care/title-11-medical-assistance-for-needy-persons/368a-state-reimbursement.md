@@ -216,7 +216,7 @@ reflect the mix of services as applied to the amounts calculated
 pursuant to applicable paragraphs (g) and (n) of this subdivision, after
 first deducting therefrom any federal funds properly received or to be
 received on account of such expenditure.
-  * NB Repealed December 31, 2024
+  * NB Repealed December 31, 2029
   * (r) Notwithstanding any other provision of law, reimbursement by the
 state for payments made, whether by the department of health on behalf
 of a social services district pursuant to section three hundred

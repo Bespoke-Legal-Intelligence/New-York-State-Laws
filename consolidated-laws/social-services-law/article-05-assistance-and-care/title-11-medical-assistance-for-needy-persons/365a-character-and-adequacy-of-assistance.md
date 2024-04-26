@@ -263,13 +263,13 @@ to eligible individuals residing in the geographic area served by such
 entity, when such services are furnished in accordance with an agreement
 approved by the department which meets the requirements of federal law
 and regulations.
-  * NB Effective until December 31, 2024
+  * NB Effective until December 31, 2029
   * (k) care and services furnished by an entity offering a
 comprehensive health services plan to eligible individuals residing in
 the geographic area served by such entity, when such services are
 furnished in accordance with an agreement approved by the department
 which meets the requirements of federal law and regulations.
-  * NB Effective December 31, 2024
+  * NB Effective December 31, 2029
   (l) care and services of podiatrists which care and services shall
 only be provided upon referral by a physician, nurse practitioner or
 certified nurse midwife in accordance with the program of early and
@@ -315,7 +315,7 @@ eligible individuals residing in the geographic area served by such
 entity, when such services are furnished in accordance with an agreement
 with the department of health and meet the applicable requirements of
 federal law and regulation.
-  * NB Repealed December 31, 2024
+  * NB Repealed December 31, 2029
   (p) targeted case management services provided to children who
   (i) are eighteen years of age or under; and
   (ii) either

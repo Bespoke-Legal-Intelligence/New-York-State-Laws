@@ -28,6 +28,7 @@
 - [§ 165.55 Criminal possession of stolen property; presumptions](165.55-criminal-possession-of-stolen-property.md)
 - [§ 165.60 Criminal possession of stolen property; no defense](165.60-criminal-possession-of-stolen-property-no.md)
 - [§ 165.65 Criminal possession of stolen property; corroboration](165.65-criminal-possession-of-stolen-property.md)
+- [§ 165.66 Fostering the sale of stolen goods](165.66-fostering-the-sale-of-stolen-goods.md)
 - [§ 165.70 Definitions](165.70-definitions.md)
 - [§ 165.71 Trademark counterfeiting in the third degree](165.71-trademark-counterfeiting-in-the-third-degree.md)
 - [§ 165.72 Trademark counterfeiting in the second degree](165.72-trademark-counterfeiting-in-the-second-degree.md)
@@ -69,6 +70,7 @@ Section 165.00 Misapplication of property.
         165.55 Criminal possession of stolen property; presumptions.
         165.60 Criminal possession of stolen property; no defense.
         165.65 Criminal possession of stolen property; corroboration.
+        165.66 Fostering the sale of stolen goods.
         165.70 Definitions.
         165.71 Trademark counterfeiting in the third degree.
         165.72 Trademark counterfeiting in the second degree.

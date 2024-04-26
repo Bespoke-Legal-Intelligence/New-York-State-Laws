@@ -5229,13 +5229,14 @@ the computation of such affiliated income.
   (B) Notwithstanding any provision of law to the contrary, the names
 and addresses of individuals who have applied for or are receiving the
 credit authorized by this subsection may be disclosed to assessors,
-county directors of real property tax services, and municipal tax
-collecting officers within New York state. In addition, such information
-may be exchanged with assessors and tax officials from jurisdictions
-outside New York state if the laws of the other jurisdiction allow it to
-provide similar information to this state. Such information shall be
-considered confidential and shall not be subject to further disclosure
-pursuant to the freedom of information law or otherwise.
+county directors of real property tax services, municipal tax collecting
+officers and enforcing officers within New York state. In addition, such
+information may be exchanged with assessors and tax officials from
+jurisdictions outside New York state if the laws of the other
+jurisdiction allow it to provide similar information to this state. Such
+information shall be considered confidential and shall not be subject to
+further disclosure pursuant to the freedom of information law or
+otherwise.
   (8) Proof of claim. The commissioner may require a qualified taxpayer
 to furnish the following information in support of his or her claim for
 credit under this subsection: affiliated income, the total school

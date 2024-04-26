@@ -814,39 +814,39 @@ facilities operated by a town or city within a county, in an aggregate
 amount of up to $991.5 million in additional payments each state fiscal
 year for the period beginning April first, two thousand through March
 thirty-first, two thousand five.
-  (e-1) Notwithstanding any inconsistent provision of law or regulation,
-the commissioner shall provide, in addition to payments established
-pursuant to this article prior to application of this section,
-additional payments under the medical assistance program pursuant to
-title eleven of article five of the social services law for non-state
-operated public residential health care facilities, including public
-residential health care facilities located in the county of Nassau, the
-county of Westchester and the county of Erie, but excluding public
-residential health care facilities operated by a town or city within a
-county, in aggregate annual amounts of up to one hundred fifty million
-dollars in additional payments for the state fiscal year beginning April
-first, two thousand six and for the state fiscal year beginning April
-first, two thousand seven and for the state fiscal year beginning April
-first, two thousand eight and of up to three hundred million dollars in
-such aggregate annual additional payments for the state fiscal year
-beginning April first, two thousand nine, and for the state fiscal year
-beginning April first, two thousand ten and for the state fiscal year
-beginning April first, two thousand eleven, and for the state fiscal
-years beginning April first, two thousand twelve and April first, two
-thousand thirteen, and of up to five hundred million dollars in such
-aggregate annual additional payments for the state fiscal years
-beginning April first, two thousand fourteen, April first, two thousand
-fifteen and April first, two thousand sixteen and of up to five hundred
+  * (e-1) Notwithstanding any inconsistent provision of law or
+regulation, the commissioner shall provide, in addition to payments
+established pursuant to this article prior to application of this
+section, additional payments under the medical assistance program
+pursuant to title eleven of article five of the social services law for
+non-state operated public residential health care facilities, including
+public residential health care facilities located in the county of
+Nassau, the county of Westchester and the county of Erie, but excluding
+public residential health care facilities operated by a town or city
+within a county, in aggregate annual amounts of up to one hundred fifty
+million dollars in additional payments for the state fiscal year
+beginning April first, two thousand six and for the state fiscal year
+beginning April first, two thousand seven and for the state fiscal year
+beginning April first, two thousand eight and of up to three hundred
 million dollars in such aggregate annual additional payments for the
-state fiscal years beginning April first, two thousand seventeen, April
-first, two thousand eighteen, and April first, two thousand nineteen,
-and of up to five hundred million dollars in such aggregate annual
-additional payments for the state fiscal years beginning April first,
-two thousand twenty, April first, two thousand twenty-one, and April
-first, two thousand twenty-two, and of up to five hundred million
+state fiscal year beginning April first, two thousand nine, and for the
+state fiscal year beginning April first, two thousand ten and for the
+state fiscal year beginning April first, two thousand eleven, and for
+the state fiscal years beginning April first, two thousand twelve and
+April first, two thousand thirteen, and of up to five hundred million
 dollars in such aggregate annual additional payments for the state
-fiscal years beginning April first, two thousand twenty-three, April
-first, two thousand twenty-four, and April first, two thousand
+fiscal years beginning April first, two thousand fourteen, April first,
+two thousand fifteen and April first, two thousand sixteen and of up to
+five hundred million dollars in such aggregate annual additional
+payments for the state fiscal years beginning April first, two thousand
+seventeen, April first, two thousand eighteen, and April first, two
+thousand nineteen, and of up to five hundred million dollars in such
+aggregate annual additional payments for the state fiscal years
+beginning April first, two thousand twenty, April first, two thousand
+twenty-one, and April first, two thousand twenty-two, and of up to five
+hundred million dollars in such aggregate annual additional payments for
+the state fiscal years beginning April first, two thousand twenty-three,
+April first, two thousand twenty-four, and April first, two thousand
 twenty-five. The amount allocated to each eligible public residential
 health care facility for this period shall be computed in accordance
 with the provisions of paragraph (f) of this subdivision, provided,
@@ -857,6 +857,54 @@ however, that, in consultation with impacted providers, of the funds
 allocated for distribution in the state fiscal year beginning April
 first, two thousand thirteen, up to thirty-two million dollars may be
 allocated in accordance with paragraph (f-1) of this subdivision.
+  * NB Effective until January 1, 2025
+  * (e-1) Notwithstanding any inconsistent provision of law or
+regulation, the commissioner shall provide, in addition to payments
+established pursuant to this article prior to application of this
+section, additional payments under the medical assistance program
+pursuant to title eleven of article five of the social services law for
+non-state operated public residential health care facilities, including
+public residential health care facilities located in the county of
+Nassau, the county of Westchester and the county of Erie, but excluding
+public residential health care facilities operated by a town or city
+within a county, in aggregate annual amounts of up to one hundred fifty
+million dollars in additional payments for the state fiscal year
+beginning April first, two thousand six and for the state fiscal year
+beginning April first, two thousand seven and for the state fiscal year
+beginning April first, two thousand eight and of up to three hundred
+million dollars in such aggregate annual additional payments for the
+state fiscal year beginning April first, two thousand nine, and for the
+state fiscal year beginning April first, two thousand ten and for the
+state fiscal year beginning April first, two thousand eleven, and for
+the state fiscal years beginning April first, two thousand twelve and
+April first, two thousand thirteen, and of up to five hundred million
+dollars in such aggregate annual additional payments for the state
+fiscal years beginning April first, two thousand fourteen, April first,
+two thousand fifteen and April first, two thousand sixteen and of up to
+five hundred million dollars in such aggregate annual additional
+payments for the state fiscal years beginning April first, two thousand
+seventeen, April first, two thousand eighteen, and April first, two
+thousand nineteen, and of up to five hundred million dollars in such
+aggregate annual additional payments for the state fiscal years
+beginning April first, two thousand twenty, April first, two thousand
+twenty-one, and April first, two thousand twenty-two, and of up to five
+hundred million dollars in such aggregate annual additional payments for
+the state fiscal years beginning April first, two thousand twenty-three,
+and from April first, two thousand twenty-four until December
+thirty-first, two thousand twenty-four, and for the calendar year
+January first, two thousand twenty-five through December thirty-first,
+two thousand twenty-five, and for each calendar year thereafter. The
+amount allocated to each eligible public residential health care
+facility for this period shall be computed in accordance with the
+provisions of paragraph (f) of this subdivision, provided, however, that
+patient days shall be utilized for such computation reflecting actual
+reported data for two thousand three and each representative succeeding
+year as applicable, and provided further, however, that, in consultation
+with impacted providers, of the funds allocated for distribution in the
+state fiscal year beginning April first, two thousand thirteen, up to
+thirty-two million dollars may be allocated in accordance with paragraph
+(f-1) of this subdivision.
+  * NB Effective January 1, 2025
   (f) The amount allocated to each eligible public residential health
 care facility for each period shall be calculated as the result of (A)
 the total payment for each period multiplied by (B) the ratio of patient
@@ -1871,5 +1919,5 @@ proposed eligibility criteria, funding sources, the manner in which
 savings may be shared between the state and facilities and any other
 information requested by such committees about such program prior to the
 transmittal of the report.
-  * NB Repealed July 1, 2024
+  * NB Repealed July 1, 2027
 ```
