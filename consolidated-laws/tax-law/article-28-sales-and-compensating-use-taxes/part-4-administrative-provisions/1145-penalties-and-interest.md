@@ -261,6 +261,11 @@ be paid and disposed of in the same manner as other revenues from this
 article. Such penalties and interest may be determined, assessed,
 collected and enforced in the same manner as the tax imposed by this
 article. Interest under this subdivision shall be compounded daily.
+  (8) Notwithstanding any other provision of this article, any person
+who willfully files or amends a return that contains false information
+to reduce or eliminate a liability shall be subject to a penalty not to
+exceed one thousand dollars per return. This penalty shall be in
+addition to any other penalty provided by law.
   (b) Cross-reference: For criminal penalties, see article thirty-seven
 of this chapter.
   (c) Any person failing to file a return or to pay any tax required to

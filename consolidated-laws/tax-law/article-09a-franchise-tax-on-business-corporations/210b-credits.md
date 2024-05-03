@@ -2656,4 +2656,38 @@ credited or refunded in accordance with the provisions of section one
 thousand eighty-six of this chapter. Provided, however, the provisions
 of subsection (c) of section one thousand eighty-eight of this chapter
 notwithstanding, no interest will be paid thereon.
+  * 60. Newspaper and broadcast media jobs tax credit. (a) Allowance of
+credit. A taxpayer shall be allowed a credit, to be computed as provided
+in section forty-nine of this chapter, against the taxes imposed by this
+article.
+  (b) Application of credit. The credit allowed under this subdivision
+for the taxable year shall not reduce the tax due for such year to less
+than the amount prescribed in paragraph (d) of subdivision one of
+section two hundred ten of this article. However, if the amount of
+credit allowable under this subdivision for the taxable year reduces the
+tax to such amount or if the taxpayer otherwise pays tax based on the
+fixed dollar minimum amount, any amount of credit thus not deductible in
+such taxable year shall be treated as an overpayment of tax to be
+credited or refunded in accordance with the provisions of section one
+thousand eighty-six of this chapter. Provided, however, the provisions
+of subsection (c) of section one thousand eighty-eight of this chapter
+notwithstanding, no interest will be paid thereon.
+  * NB There are 2 sb 60's
+  * 60.*2 Commercial security tax credit. (a) Allowance of credit. A
+taxpayer shall be allowed a credit, to be computed as provided in
+section forty-nine of this chapter, against the taxes imposed by this
+article.
+  (b) Application of credit. The credit allowed under this subdivision
+for the taxable year shall not reduce the tax due for such year to less
+than the amount prescribed in paragraph (d) of subdivision one of
+section two hundred ten of this article. However, if the amount of
+credit allowable under this subdivision for the taxable year reduces the
+tax to such amount or if the taxpayer otherwise pays tax based on the
+fixed dollar minimum amount, any amount of credit thus not deductible in
+such taxable year shall be treated as an overpayment of tax to be
+credited or refunded in accordance with the provisions of section one
+thousand eighty-six of this chapter. Provided, however, the provisions
+of subsection (c) of section one thousand eighty-eight of this chapter
+notwithstanding, no interest will be paid thereon.
+  * NB There are 2 sb 60's
 ```

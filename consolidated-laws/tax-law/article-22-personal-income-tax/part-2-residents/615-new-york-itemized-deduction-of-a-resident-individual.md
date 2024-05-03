@@ -206,5 +206,5 @@ is over ten million dollars, the New York itemized deduction shall be an
 amount equal to twenty-five percent of any charitable contribution
 deduction allowed under section one hundred seventy of the internal
 revenue code for taxable years beginning after two thousand nine and
-ending before two thousand twenty-five.
+ending before two thousand thirty.
 ```

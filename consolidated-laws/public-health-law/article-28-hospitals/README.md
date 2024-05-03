@@ -99,6 +99,7 @@
 - [§ 2807-D-1 Hospital quality contributions](2807d-1-hospital-quality-contributions.md)
 - [§ 2807-E Uniform bills](2807e-uniform-bills.md)
 - [§ 2807-F Health maintenance organization payment factor](2807f-health-maintenance-organization-payment-factor.md)
+- [§ 2807-FF New York managed care organization provider tax](2807ff-new-york-managed-care-organization-provider-tax.md)
 - [§ 2807-I Service and quality improvement grants](2807i-service-and-quality-improvement-grants.md)
 - [§ 2807-J Patient services payments](2807j-patient-services-payments.md)
 - [§ 2807-K General hospital indigent care pool](2807k-general-hospital-indigent-care-pool.md)
@@ -151,6 +152,7 @@
 - [§ 2825-F Health care facility transformation program: statewide III](2825f-health-care-facility-transformation-program-statewide-iii.md)
 - [§ 2825-G Health care facility transformation program: statewide IV](2825g-health-care-facility-transformation-program-statewide-iv.md)
 - [§ 2825-H Health care facility transformation program: statewide V](2825h-health-care-facility-transformation-program-statewide-v.md)
+- [§ 2825-I Healthcare safety net transformation program](2825i-healthcare-safety-net-transformation-program.md)
 - [§ 2826 Temporary adjustment to reimbursement rates](2826-temporary-adjustment-to-reimbursement-rates.md)
 - [§ 2827 Plant-based food options](2827-plant-based-food-options.md)
 - [§ 2828 Residential health care facilities; minimum direct resident care spending](2828-residential-health-care-facilities-minimum-direct-resident-care-spending.md)
@@ -303,6 +305,7 @@ Section 2800.      Declaration of policy and statement of purpose.
         2807-d-1.  Hospital quality contributions.
         2807-e.    Uniform bills.
         2807-f.    Health maintenance organization payment factor.
+        2807-ff.   New York managed care organization provider tax.
         2807-i.    Service and quality improvement grants.
         2807-j.    Patient services payments.
         2807-k.    General hospital indigent care pool.
@@ -376,6 +379,7 @@ Section 2800.      Declaration of policy and statement of purpose.
                      statewide IV.
         2825-h.    Health care facility transformation program:
                      statewide V.
+        2825-i.    Healthcare safety net transformation program.
         2826.      Temporary adjustment to reimbursement rates.
         2827.      Plant-based food options.
         2828.      Residential health care facilities; minimum direct

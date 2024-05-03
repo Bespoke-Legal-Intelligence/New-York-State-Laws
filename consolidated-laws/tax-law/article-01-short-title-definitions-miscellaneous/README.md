@@ -73,6 +73,8 @@
 - [§ 47\*2 Grade no](47-2-grade-no.md)
 - [§ 47\*3 Suspension of certain taxes on motor fuel and Diesel motor fuel](47-3-suspension-of-certain-taxes-on-motor-fuel-and-diesel-motor-fuel.md)
 - [§ 48 Child care creation and expansion tax credit](48-child-care-creation-and-expansion-tax-credit.md)
+- [§ 49 Newspaper and broadcast media jobs tax credit](49-newspaper-and-broadcast-media-jobs-tax-credit.md)
+- [§ 49\*2 Commercial security tax credit](49-2-commercial-security-tax-credit.md)
 
 <details>
 <summary>Official heading of Article 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -168,6 +170,8 @@ Section  1.   Short title.
         47*3. Suspension of certain taxes on motor fuel and Diesel motor
                 fuel.
         48.   Child care creation and expansion tax credit.
+        49.   Newspaper and broadcast media jobs tax credit.
+        49*2. Commercial security tax credit.
 ```
 
 </details>

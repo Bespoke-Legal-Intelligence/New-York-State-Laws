@@ -4,14 +4,14 @@
 [Tax Law](../README.md) › [Article 20-C — Tax On Adult-use Cannabis Products](README.md)
 
 ```text
-  § 496-b. Administrative provisions. (a) The provisions of article
-twenty-seven of this chapter shall apply to the taxes imposed by section
-four hundred ninety-three of this article in the same manner and with
-the same force and effect as if the language of such article had been
-incorporated in full into this section and had expressly referred to the
-tax imposed by this article, except to the extent that any provision of
-such article is either inconsistent with a provision of this article or
-is not relevant to this article.
+  § 496-b. Administrative provisions.  (a) The provisions of part four
+of article twenty-eight of this chapter shall apply to the taxes imposed
+by section four hundred ninety-three of this article in the same manner
+and with the same force and effect as if the language of such article
+had been incorporated in full into this section and had expressly
+referred to the tax imposed by this article, except to the extent that
+any provision of such article is either inconsistent with a provision of
+this article or is not relevant to this article.
   (b)(1) All taxes, interest, and penalties collected or received by the
 commissioner under this article shall be deposited and disposed of
 pursuant to the provisions of section one hundred seventy-one-a of this

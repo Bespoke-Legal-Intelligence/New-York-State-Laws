@@ -198,7 +198,7 @@ in accordance with the regulations of the department as set forth in 10
 NYCRR 86-2.10(a)(7); is less than the operating component such
 facilities received in the two thousand eight rate period, as adjusted
 by applicable trend factors.
-  (ii) The operating component of rates shall be subject to case mix
+  (ii) (A) The operating component of rates shall be subject to case mix
 adjustment through application of the relative resource utilization
 groups system of patient classification (RUG-III) employed by the
 federal government with regard to payments to skilled nursing facilities
@@ -206,13 +206,18 @@ pursuant to title XVIII of the federal social security act (Medicare),
 as revised by regulation to reflect New York state wages and fringe
 benefits, provided, however, that such RUG-III classification system
 weights shall be increased in the following amounts for the following
-categories of residents: (A) thirty minutes for the impaired cognition A
-category, (B) forty minutes for the impaired cognition B category, and
-(C) twenty-five minutes for the reduced physical functions B category.
+categories of residents: (1) thirty minutes for the impaired cognition A
+category, (2) forty minutes for the impaired cognition B category, and
+(3) twenty-five minutes for the reduced physical functions B category.
 Such adjustments shall be made in January and July of each calendar
 year. Such adjustments and related patient classifications in each
 facility shall be subject to audit review in accordance with regulations
 promulgated by the commissioner.
+  (B) Effective April first, two thousand twenty-four, the case mix
+adjustment from the operating component of the rates for skilled nursing
+facilities shall remain unchanged from the July two thousand
+twenty-three rates during the development and until full implementation
+of a case mix methodology using the Patient Driven Payment Model.
   (iii) Specified adjustments to the operating component of rates in
 effect for periods prior to January first, two thousand nine, with
 regard to extended care for persons with traumatic brain injury and for
@@ -229,7 +234,18 @@ governmental agencies, the capital cost component determined in
 accordance with this subparagraph and inclusive of any shared savings
 for eligible facilities that elect to refinance their mortgage loans
 pursuant to paragraph (d) of subdivision two-a of this section, shall be
-reduced by the commissioner by five percent.
+reduced by the commissioner by five percent; and (C) provided, however,
+notwithstanding any inconsistent provision of this article, commencing
+April first, two thousand twenty-four for rates of payment for patients
+eligible for payments made by state governmental agencies, the capital
+cost component determined in accordance with this subparagraph and
+inclusive of any shared savings for eligible facilities that elect to
+refinance their mortgage loans pursuant to paragraph (d) of subdivision
+two-a of this section, shall be reduced by the commissioner by an
+additional ten percent, provided, however, that such reduction shall not
+apply to rates of payment for patients in pediatric residential health
+care facilities as defined in paragraph (c) of subdivision two of
+section twenty-eight hundred eight-e of this article.
   (v) The direct component of the operating component of rates of
 payment shall include allowable direct therapy costs and associated
 overhead costs and shall exclude administrative overhead costs related

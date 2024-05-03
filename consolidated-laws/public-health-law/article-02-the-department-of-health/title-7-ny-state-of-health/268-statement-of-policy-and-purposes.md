@@ -14,28 +14,30 @@ including medical assistance in accordance with section three hundred
 sixty-six of the social services law, child health plus in accordance
 with section twenty-five hundred eleven of this chapter, the basic
 health program in accordance with section three hundred sixty-nine-gg of
-the social services law, and premium tax credits and cost-sharing
-reductions, together with performing eligibility determinations for
-qualified health plans and such other health insurance programs as
-determined by the commissioner. The Marketplace shall also facilitate
-enrollment in insurance affordability programs, qualified health plans
-and other health insurance programs as determined by the commissioner,
-the purchase and sale of qualified health plans and/or other or
-additional health plans certified by the Marketplace pursuant to this
-title, and shall continue to have the authority to operate a small
-business health options program ("SHOP") to assist eligible small
-employers in selecting qualified health plans and/or other or additional
-health plans certified by the Marketplace and to determine small
-employer eligibility for purposes of small employer tax credits. It is
-the intent of the legislature, by codifying the Marketplace in state
-statute, to continue to promote quality and affordable health coverage
-and care, reduce the number of uninsured persons, provide a transparent
-marketplace, educate consumers and assist individuals with access to
-coverage, premium assistance tax credits and cost-sharing reductions. In
-addition, the legislature declares the intent that the Marketplace
-continue to be properly integrated with insurance affordability
-programs, including Medicaid, child health plus and the basic health
-program, and such other health insurance programs as determined by the
-commissioner.
+the social services law, the 1332 state innovation program in accordance
+with section three hundred sixty-nine-ii of the social service law, and
+premium tax credits and cost-sharing reductions, together with
+performing eligibility determinations for qualified health plans and
+such other health insurance programs as determined by the commissioner.
+The Marketplace shall also facilitate enrollment in insurance
+affordability programs, qualified health plans and other health
+insurance programs as determined by the commissioner, the purchase and
+sale of qualified health plans and/or other or additional health plans
+certified by the Marketplace pursuant to this title, and shall continue
+to have the authority to operate a small business health options program
+("SHOP") to assist eligible small employers in selecting qualified
+health plans and/or other or additional health plans certified by the
+Marketplace and to determine small employer eligibility for purposes of
+small employer tax credits. It is the intent of the legislature, by
+codifying the Marketplace in state statute, to continue to promote
+quality and affordable health coverage and care, reduce the number of
+uninsured persons, provide a transparent marketplace, educate consumers
+and assist individuals with access to coverage, premium assistance tax
+credits and cost-sharing reductions. In addition, the legislature
+declares the intent that the Marketplace continue to be properly
+integrated with insurance affordability programs, including Medicaid,
+child health plus and the basic health program, the 1332 state
+innovation program, and such other health insurance programs as
+determined by the commissioner.
   * NB There are 2 § 268's
 ```

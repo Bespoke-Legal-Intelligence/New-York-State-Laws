@@ -30,6 +30,8 @@
 - [§ 421-N Exemption of capital improvements to multiple dwelling buildings within certain cities](421n-exemption-of-capital-improvements-to-multiple-dwelling-buildings-within-certain.md)
 - [§ 421-O Exemption of capital improvements to multiple dwelling buildings within certain cities](421o-exemption-of-capital-improvements-to-multiple-dwelling-buildings-within-certain.md)
 - [§ 421-O\*2 Exemption of capital improvements to multiple dwelling buildings within certain cities](421o-2-exemption-of-capital-improvements-to-multiple-dwelling-buildings-within-certain.md)
+- [§ 421-P Exemption of newly-constructed or converted rental multiple dwellings](421p-exemption-of-newly-constructed-or-converted-rental-multiple-dwellings.md)
+- [§ 421-P\*2 Exemption of capital improvements to residential new construction involving the creation of accessory dwelling units](421p-2-exemption-of-capital-improvements-to-residential-new-construction-involving.md)
 - [§ 422 Not-for-profit housing companies](422-not-for-profit-housing-companies.md)
 - [§ 423 Phase out of exemption for redevelopment company projects upon the cessation of the tax exemption granted pursuant to contract](423-phase-out-of-exemption-for-redevelopment-company-projects-upon-the-cessation.md)
 - [§ 424 Institute of arts and sciences](424-institute-of-arts-and-sciences.md)
@@ -229,6 +231,13 @@ Section 420-a.   Nonprofit organizations; mandatory class.
                    buildings within certain cities.
         421-o*2. Exemption of capital improvements to multiple dwelling
                    buildings within certain cities.
+        421-p.   Exemption of newly-constructed or converted rental
+                   multiple dwellings.
+        421-p.*2 Exemption of capital improvements to residential new
+                   construction involving the creation of accessory
+                   dwelling units.
+        421-pp.  Exemption of newly converted or constructed fully
+                   income restricted rental multiple dwellings.
         422.     Not-for-profit housing companies.
         423.     Phase out of exemption for redevelopment company
                    projects upon the cessation of the tax exemption

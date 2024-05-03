@@ -234,70 +234,66 @@ under this subdivision for any taxable year reduces the tax to such
 amount, any amount of credit not deductible in such taxable year may be
 carried over to the following year or years and may be deducted from the
 taxpayer's tax for such year or years.
-  (f) Credit relating to life insurance guaranty corporation
-assessments.  A credit shall be allowed against the tax imposed pursuant
-to this article (other than section fifteen hundred five-a of this
-article), for a portion of the assessments paid by a taxpayer pursuant
-to article seventy-five or section seven thousand seven hundred nine of
-the insurance law. The credit shall be determined in accordance with the
-following provisions.
-  (1) The maximum authorized credit for each taxpayer shall be
-determined as provided in section seven thousand seven hundred twelve of
-the insurance law.
-  (2) Thirty-three and one-third per centum of the maximum authorized
-credit for the second calendar year preceding the taxable year, plus any
-amount carried forward under subparagraph (C) of paragraph three of this
-subdivision or paragraph four of this subdivision, shall be allowed as a
-credit under this subdivision for such taxable year, and thirty-three
-and one third per centum of such maximum authorized credit for such
-second preceding calendar year, plus any amount carried forward under
-subparagraph (C) of this subdivision or paragraph four of this
-subdivision, shall be allowed in each of the two taxable years following
-such taxable year.
-  (3) (A) For each calendar year for which a credit has been authorized
-pursuant to section seven thousand seven hundred twelve of the insurance
-law, the commissioner of taxation and finance shall determine the total
-tax liability of all life insurance corporations under this article,
-other than under section fifteen hundred five-a of this article, before
-the application of any credits allowed pursuant to this section, for
-taxable years beginning in such calendar year. Such total tax liability
-shall be published in the state register on or before the thirtieth day
-of September of the next succeeding calendar year.
-  (B) The credit allowed under paragraph two of this subdivision for
-each taxpayer shall not exceed the product of (x) and (y) where (x) is a
-fraction, the numerator of which is the sum of the gross assessments
-paid by the particular taxpayer during the calendar year for which the
-credit has been authorized and the denominator of which is the sum of
-the gross assessments paid by all companies during such year, both as
-shown in the most recent statement of operations furnished by the
-superintendent of financial services under subsection (a) of section
-seven thousand seven hundred twelve of the insurance law and both the
-numerator and denominator being reduced, as appropriate, by any refunds
-or reimbursements and (y) is the greater of (i) forty per centum of the
-total tax liability published by the commissioner pursuant to
-subparagraph (A) of this paragraph and (ii) forty million dollars.
-  (C) The amount by which the allowable credit computed without
-reference to the limitation contained in subparagraph (B) of this
-paragraph exceeds the allowable credit for such taxable year shall be
-carried forward as a credit under paragraph two of this subdivision.
-  (D) With respect to estimated taxes payable under section fifteen
-hundred fourteen of this article any increase in estimated taxes due to
-the limitation imposed by this paragraph shall be deemed timely paid if
-paid on or before the fifteenth day of December next following the date
-specified in subparagraph (A) of this paragraph.
-  (4) If for any taxable year the credits allowable under paragraph two
-of this subdivision determined without regard to this paragraph exceed
-the taxpayer's liability for taxes under this article for the taxable
-year after the allowance of all other credits under this section, then
-the sum of two hundred fifty dollars and the amount by which such
-credits under this subdivision exceed such tax liability shall be
-carried forward as a credit under paragraph two of this subdivision for
-the taxable year next following.
-  (5) No credit allowed pursuant to this subdivision shall reduce the
-tax payable by any taxpayer under this article for any taxable year to
-an amount less than the minimum tax fixed by paragraph four of
-subdivision (a) of section fifteen hundred two of this article or
-section fifteen hundred two-a of this article, whichever is applicable.
+  (f) Credit relating to life and health insurance guaranty corporation
+assessments. (1) Allowance of credit. For taxable years beginning on or
+after January first, two thousand twenty-four, a credit shall be allowed
+against the tax imposed pursuant to this article (other than section
+fifteen hundred five-a of this article) as hereinafter provided.
+  (2) Amount of credit. The amount of the credit for each taxpayer shall
+equal the amount shown on the certificate of tax credit, or the amounts
+shown on such certificates, issued to such taxpayer pursuant to section
+seven thousand seven hundred twelve of the insurance law. With respect
+to each such certificate, the amount of the credit must be claimed in
+the taxable year that begins in the calendar year that such certificate
+is issued.
+  (3) Carryover. The credit allowed under this subdivision for any
+taxable year shall not reduce the tax due for such year to less than the
+minimum fixed by paragraph four of subdivision (a) of section fifteen
+hundred two of this article or section fifteen hundred two-a of this
+article, whichever is applicable. However, if the amount of credit
+allowable under this subdivision for any taxable year reduces the tax to
+such amount, any amount of credit not deductible in such taxable year
+may be carried over to the following year or years and may be deducted
+from the taxpayer's tax for such year or years.
+  (4) Eligibility. To be eligible for the credit, the taxpayer shall
+have been issued a certificate, or certificates, of tax credit by the
+department of financial services pursuant to section seven thousand
+seven hundred twelve of the insurance law, each of which certificates
+shall set forth the amount of the credit that may be claimed and the
+certificate date. A taxpayer that is a partner in a partnership, member
+of a limited liability company or shareholder in a subchapter S
+corporation that has received a certificate, or certificates, of tax
+credit shall be allowed its pro rata share of the credit earned by the
+partnership, limited liability company or subchapter S corporation.
+  (5) Tax return requirement. The taxpayer is required to include with
+its tax return in the form prescribed by the commissioner, proof of
+receipt of its certificate, or certificates, of tax credit issued by the
+department of financial services.
+  (6) Information sharing. Notwithstanding any provision of this
+chapter, employees of the department of financial services and the
+department shall be allowed and are directed to share and exchange:
+  (A) information regarding the credit allowed or claimed pursuant to
+this subdivision and taxpayers that are claiming the credit; and
+  (B) information contained in or derived from credit claim forms
+submitted to the department. All information exchanged between the
+department of financial services and the department shall not be subject
+to public disclosure or inspection under article six of the public
+officers law.
+  (7) Credit recapture. If a certificate of tax credit issued by the
+department of financial services under section seven thousand seven
+hundred twelve of the insurance law is revoked by such department, the
+amount of credit described in this subdivision and claimed by the
+taxpayer prior to such revocation shall be added back to tax in the
+taxable year in which any such revocation becomes final. If an amount of
+credit on any such certificate of tax credit is modified by the
+department of financial services, the difference between the amount of
+credit described in this subdivision and claimed by the taxpayer prior
+to such modification and the modified amount shall be added back to tax
+in the taxable year in which any such modification becomes final.
+  (8) Net assessments. No amount of any net assessments paid by such
+taxpayer included as the basis for the calculation of the amount shown
+on any such certificate shall be the basis for any other tax credit
+under this chapter.
   (g) Empire zone wage tax credit. (1) A taxpayer shall be allowed a
 credit, to be computed as hereinafter provided, against the tax imposed
 by this article where the taxpayer has been certified pursuant to

@@ -13,6 +13,7 @@
 - [§ 349-D Energy services company consumers bill of rights](349d-energy-services-company-consumers-bill-of-rights.md)
 - [§ 349-E Counterfeit and non-functional airbags](349e-counterfeit-and-non-functional-airbags.md)
 - [§ 349-F Pension poaching prevention](349f-pension-poaching-prevention.md)
+- [§ 349-G Restrictions on applications for and use of credit cards and medical financial products](349g-restrictions-on-applications-for-and-use-of-credit-cards-and-medical-financial.md)
 - [§ 350 False advertising unlawful](350-false-advertising-unlawful.md)
 - [§ 350-A False advertising](350a-false-advertising.md)
 - [§ 350-B Disclosures required in advertisements using the title "doctor"](350b-disclosures-required-in-advertisements-using-the-title-doctor.md)
@@ -39,6 +40,8 @@ Section 349.     Deceptive acts and practices unlawful.
         349-d.   Energy services company consumers bill of rights.
         349-e.   Counterfeit and non-functional airbags.
         349-f.   Pension poaching prevention.
+        349-g.   Restrictions on applications for and use of credit
+                   cards and medical financial products.
         350.     False advertising unlawful.
         350-a.   False advertising.
         350-b.   Disclosures required in advertisements using the title

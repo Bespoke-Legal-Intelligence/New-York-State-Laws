@@ -28,6 +28,7 @@
 - [§ 110-B Notification to municipalities](110b-notification-to-municipalities.md)
 - [§ 110-C Public license query](110c-public-license-query.md)
 - [§ 111 License to be confined to premises licensed](111-license-to-be-confined-to-premises-licensed.md)
+- [§ 111-A Use of contiguous and non-contiguous municipal public space for on-premises alcoholic beverage sales by certain licensees](111a-use-of-contiguous-and-non-contiguous-municipal-public-space-for-on-premises.md)
 - [§ 112 Bonds of licensees and permittees](112-bonds-of-licensees-and-permittees.md)
 - [§ 113 Premises for which no license shall be granted](113-premises-for-which-no-license-shall-be-granted.md)
 - [§ 114 Licenses, publication, general provisions](114-licenses-publication-general-provisions.md)
@@ -98,6 +99,9 @@ Section 100.     Alcoholic beverages generally.
         110-b.   Notification to municipalities.
         110-c.   Public license query.
         111.     License to be confined to premises licensed.
+        111-a.   Use of contiguous and non-contiguous municipal public
+                   space for on-premises alcoholic beverage sales for
+                   certain licensees.
         112.     Bonds of licensees and permittees.
         113.     Premises for which no license shall be granted.
         114.     Licenses, publication, general provisions.

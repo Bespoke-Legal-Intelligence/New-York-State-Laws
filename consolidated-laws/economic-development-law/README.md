@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | COM |
 | Type | Consolidated law, chapter 15 |
-| Sections | 198 |
-| Last changed | 7 Jul 2023 |
+| Sections | 206 |
+| Last changed | 3 May 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Economic Development Law |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER XV OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (47 lines)](chapter-text.md)
+[Full chapter text (48 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [3 May 2024](../../changes/2024/2024-05-03.md): 1 amended, 8 added
 - [7 Jul 2023](../../changes/2023/2023-07-07.md): 2 amended
 - [12 May 2023](../../changes/2023/2023-05-12.md): 2 amended, 1 added
 - [7 Apr 2023](../../changes/2023/2023-04-07.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [16 Dec 2022](../../changes/2022/2022-12-16.md): 1 amended
 - [2 Dec 2022](../../changes/2022/2022-12-02.md): 1 amended
 - [21 Oct 2022](../../changes/2022/2022-10-21.md): 5 amended
-- [2 Sep 2022](../../changes/2022/2022-09-02.md): 1 amended
 
 ## Contents
 
@@ -84,3 +84,4 @@ Assembly, do enact as follows:
 - [Article 22 — Employee Training Incentive Program](article-22-employee-training-incentive-program/)
 - [Article 25 — Restaurant Return-to-work Tax Credit Program](article-25-restaurant-return-to-work-tax-credit-program/)
 - [Article 26 — Covid-19 Capital Costs Tax Credit Program](article-26-covid-19-capital-costs-tax-credit-program/)
+- [Article 27 — Newspaper and Broadcast Media Jobs Program](article-27-newspaper-and-broadcast-media-jobs-program/)

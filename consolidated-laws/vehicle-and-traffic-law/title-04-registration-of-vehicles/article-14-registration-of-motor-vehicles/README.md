@@ -12,6 +12,7 @@
 - [§ 401-B Registration of tow trucks](401b-registration-of-tow-trucks.md)
 - [§ 402 Distinctive number; form of number plates; trailers](402-distinctive-number-form-of-number-plates-trailers.md)
 - [§ 402-A Facsimile license plates](402a-facsimile-license-plates.md)
+- [§ 402-B Obscured and obstructed license plates](402b-obscured-and-obstructed-license-plates.md)
 - [§ 403 Number plates continued](403-number-plates-continued.md)
 - [§ 403-A Temporary indicia of registration](403a-temporary-indicia-of-registration.md)
 - [§ 403-B Sales of special number or distinctive license plates by certain dealers](403b-sales-of-special-number-or-distinctive-license-plates.md)
@@ -87,6 +88,7 @@ Section 401.      Registration of motor vehicles; fees; renewals.
         401-b.    Registration of tow trucks.
         402.      Distinctive number; form of number plates; trailers.
         402-a.    Facsimile license plates.
+        402-b.    Obscured and obstructed license plates.
         403.      Number plates continued.
         403-a.    Temporary indicia of registration.
         403-b.    Sales of special number or distinctive license plates

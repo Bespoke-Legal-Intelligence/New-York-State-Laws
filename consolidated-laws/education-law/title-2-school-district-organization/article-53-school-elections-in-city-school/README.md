@@ -17,6 +17,7 @@
 - [§ 2610 Canvass of votes and return to board of education; declaration of result](2610-canvass-of-votes-and-return-to-board-of-education.md)
 - [§ 2611 Use of voting machines](2611-use-of-voting-machines.md)
 - [§ 2613 Absentee, early mail, and military ballots](2613-absentee-early-mail-and-military-ballots.md)
+- [§ 2614 Transmission of publicly available data to the New York voting and elections database](2614-transmission-of-publicly-available-data-to-the-new-york.md)
 
 <details>
 <summary>Official heading of Article 53, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -40,6 +41,8 @@ Section 2601.   Application of article.
                   declaration of result.
         2611.   Use of voting machines.
         2613.   Absentee, early mail, and military ballots.
+        2614.   Transmission of publicly available data to the New York
+                  voting and elections database.
 ```
 
 </details>

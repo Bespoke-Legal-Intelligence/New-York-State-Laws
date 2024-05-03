@@ -63,6 +63,10 @@ hundred ninety-seven, as amended; or
 designated a federally-qualified health center under section 330 of the
 Public Health Service Act (42 U.S.C. § 254b) and had directly received a
 grant under such section.
+  * (h) "Underinsured" shall mean an individual with out of pocket
+medical costs accumulated in the past twelve months that amount to more
+than ten percent of such individual's gross annual income.
+  * NB Effective October 20, 2024
   2. To the extent of funds appropriated therefor, funds shall be made
 available for distribution by or on behalf of the state in accordance
 with the following methodology, as payments under the state medical
@@ -508,12 +512,23 @@ commissioner, to the extent of funds appropriated therefor, and
 allocated for distributions pursuant to the child health insurance plan
 established pursuant to title one-A of article twenty-five of this
 chapter.
-  9. In order for a general hospital to participate in the distribution
-of funds from the pool, the general hospital must implement minimum
-collection policies and procedures approved by the commissioner,
+  * 9. In order for a general hospital to participate in the
+distribution of funds from the pool, the general hospital must implement
+minimum collection policies and procedures approved by the commissioner,
 utilizing only a uniform financial assistance form developed and
 provided by the department.
-  9-a. (a) As a condition for participation in pool distributions
+  * NB Effective until October 20, 2024
+  * 9. In order for a general hospital to participate in the
+distribution of funds from the pool, the general hospital must implement
+minimum collection policies and procedures approved by the commissioner,
+utilizing only a uniform financial assistance form developed and
+provided by the department. All general hospitals that do not
+participate in the indigent care pool shall also utilize only the
+uniform financial assistance form and otherwise comply with subdivision
+nine-a of this section governing the provision of financial assistance
+and hospital collection procedures.
+  * NB Effective October 20, 2024
+  * 9-a. (a) As a condition for participation in pool distributions
 authorized pursuant to this section and section twenty-eight hundred
 seven-w of this article for periods on and after January first, two
 thousand nine, general hospitals shall, effective for periods on and
@@ -816,6 +831,277 @@ of such determination shall make such hospital liable for a civil
 penalty not to exceed ten thousand dollars for each such violation. The
 imposition of such civil penalties shall be subject to the provisions of
 section twelve-a of this chapter.
+  * NB Effective until October 20, 2024
+  * 9-a. (a) For periods on and after January first, two thousand nine,
+general hospitals shall, effective for periods on and after January
+first, two thousand seven, establish financial aid policies and
+procedures, in accordance with the provisions of this subdivision, for
+reducing charges otherwise applicable to low-income individuals without
+health insurance or underinsured individuals, or who have exhausted
+their health insurance benefits, and who can demonstrate an inability to
+pay full charges, and also, at the hospital's discretion, for reducing
+or discounting the collection of co-pays and deductible payments from
+those individuals who can demonstrate an inability to pay such amounts.
+Immigration status shall not be an eligibility criterion for the purpose
+of determining financial assistance under this section.
+  (b) Such reductions from charges for patients with incomes below at
+least four hundred percent of the federal poverty level shall result in
+a charge to such individuals that does not exceed the amount that would
+have been paid for the same services provided pursuant to title XIX of
+the federal social security act (medicaid), and provided further that
+such amounts shall be adjusted according to income level as follows:
+  (i) For patients with incomes below at least two hundred percent of
+the federal poverty level, the hospital shall waive all charges. No
+nominal payment shall be collected;
+  (ii) For patients with incomes between at least two hundred percent
+and up to three hundred percent of the federal poverty level, the
+hospital shall collect no more than the amount identified after
+application of a proportional sliding fee schedule under which patients
+with lower incomes shall pay the lowest amount. Such schedule shall
+provide that the amount the hospital may collect for such patients
+increases in equal increments as the income of the patient increases, up
+to a maximum of ten percent of the amount that would have been paid for
+the same services provided pursuant to title XIX of the federal social
+security act (medicaid), or for underinsured patients, up to a maximum
+of ten percent of the amount that would have been paid pursuant to such
+patient's insurance cost sharing;
+  (iii) For patients with incomes between at least three hundred one
+percent and four hundred percent of the federal poverty level, the
+hospital shall collect no more than the amount identified after
+application of a proportional sliding fee schedule under which patients
+with lower income shall pay the lowest amounts. Such schedule shall
+provide that the amount the hospital may collect for such patients
+increases from the ten percent figure described in subparagraph (ii) of
+this paragraph in equal increments as the income of the patient
+increases, up to a maximum of twenty percent of the amount that would
+have been paid for the same services provided pursuant to title XIX of
+the federal social security act (medicaid), or for underinsured
+patients, up to a maximum of twenty percent of the amount that would
+have been paid pursuant to such patient's insurance cost sharing; (iv)
+Nothing in this paragraph shall be construed to limit a hospital's
+ability to establish patient eligibility for payment discounts at income
+levels higher than those specified herein and/or to provide greater
+payment discounts for eligible patients than those required by this
+paragraph.
+  (c) Such policies and procedures shall be clear, understandable, in
+writing and publicly available in summary form and each general hospital
+participating in the pool shall ensure that every patient is made aware
+of the existence of such policies and procedures and is provided, in a
+timely manner, with a summary of such policies and procedures. Any
+summary provided to patients shall, at a minimum, include specific
+information as to income levels used to determine eligibility for
+assistance, a description of the primary service area of the hospital
+and the means of applying for assistance. For general hospitals with
+twenty-four hour emergency departments, such policies and procedures
+shall require the written notification of patients during the intake and
+registration process, and during discharge of the patient, and through
+the conspicuous posting of language-appropriate information in the
+general hospital, and information on bills and statements sent to
+patients, that financial aid may be available to qualified patients and
+how to obtain further information. For specialty hospitals without
+twenty-four hour emergency departments, such notification shall take
+place through written materials provided to patients during the intake
+and registration process prior to the provision of any health care
+services or procedures, and during discharge of the patient, and through
+information on bills and statements sent to patients, that financial aid
+may be available to qualified patients and how to obtain further
+information. Application materials shall include a notice to patients
+that upon submission of a completed application, including any
+information or documentation needed to determine the patient's
+eligibility pursuant to the hospital's financial assistance policy, the
+patient may disregard any bills until the hospital has rendered a
+decision on the application in accordance with this paragraph.
+  (d) Such policies and procedures shall include clear, objective
+criteria for determining a patient's ability to pay and for providing
+such adjustments to payment requirements as are necessary. In addition
+to adjustment mechanisms such as sliding fee schedules and discounts to
+fixed standards, such policies and procedures shall also provide for the
+use of installment plans for the payment of outstanding balances by
+patients pursuant to the provisions of the financial assistance policy.
+The monthly payment under such a plan shall not exceed five percent of
+the gross monthly income of the patient. The rate of interest charged to
+the patient on the unpaid balance, if any, shall not exceed two percent
+and no plan shall include an accelerator or similar clause under which a
+higher rate of interest is triggered upon a missed payment. If such
+policies and procedures include a requirement of a deposit prior to
+non-emergent, medically-necessary care, such deposit must be included as
+part of any financial aid consideration. Such policies and procedures
+shall be applied consistently to all eligible patients.
+  (e) Such policies and procedures shall permit patients to apply for
+assistance at any time during the collection process. Such policies and
+procedures may require that patients seeking payment adjustments provide
+appropriate financial information and documentation in support of their
+application, provided, however, that such application process shall not
+be unduly burdensome or complex. General hospitals shall, upon request,
+assist patients in understanding the hospital's policies and procedures
+and in applying for payment adjustments. Application forms shall be
+printed in the "primary languages" of patients served by the general
+hospital. For the purposes of this paragraph, "primary languages" shall
+include any language that is either (i) used to communicate, during at
+least five percent of patient visits in a year, by patients who cannot
+speak, read, write or understand the English language at the level of
+proficiency necessary for effective communication with health care
+providers, or (ii) spoken by non-English speaking individuals comprising
+more than one percent of the primary hospital service area population,
+as calculated using demographic information available from the United
+States Bureau of the Census, supplemented by data from school systems.
+Decisions regarding such applications shall be made within thirty days
+of receipt of a completed application. Such policies and procedures
+shall require that the hospital issue any denial/approval of such
+application in writing with information on how to appeal the denial and
+shall require the hospital to establish an appeals process under which
+it will evaluate the denial of an application. Nothing in this
+subdivision shall be interpreted as prohibiting a hospital from making
+the availability of financial assistance contingent upon the patient
+first applying for coverage under title XIX of the social security act
+(medicaid) or another publicly subsidized insurance program if, in the
+judgment of the hospital, the patient may be eligible for medicaid or
+another publicly subsidized insurance program, and upon the patient's
+cooperation in following the financial assistance application
+requirements, including the provision of information needed to make a
+determination on the patient's application in accordance with the
+hospital's financial assistance policy, provided, however, that this
+requirement shall not apply to any patient that would otherwise not
+qualify for coverage based on their immigration status.
+  (f) Such policies and procedures shall provide that patients with
+incomes below four hundred percent of the federal poverty level are
+deemed presumptively eligible for payment adjustments and shall conform
+to the requirements set forth in paragraph (b) of this subdivision,
+provided, however, that nothing in this subdivision shall be interpreted
+as precluding hospitals from extending such payment adjustments to other
+patients, either generally or on a case-by-case basis. Such policies and
+procedures shall provide financial aid for emergency hospital services,
+including emergency transfers pursuant to the federal emergency medical
+treatment and active labor act (42 USC 1395dd), to patients who reside
+in New York state and for medically necessary hospital services for
+patients who reside in the hospital's primary service area as determined
+according to criteria established by the commissioner. In developing
+such criteria, the commissioner shall consult with representatives of
+the hospital industry, health care consumer advocates and local public
+health officials. Such criteria shall be made available to the public no
+less than thirty days prior to the date of implementation and shall, at
+a minimum:
+  (i) prohibit a hospital from developing or altering its primary
+service area in a manner designed to avoid medically underserved
+communities or communities with high percentages of uninsured residents;
+  (ii) ensure that every geographic area of the state is included in at
+least one general hospital's primary service area so that eligible
+patients may access care and financial assistance; and
+  (iii) require the hospital to notify the commissioner upon making any
+change to its primary service area, and to include a description of its
+primary service area in the hospital's annual implementation report
+filed pursuant to subdivision three of section twenty-eight hundred
+three-l of this article.
+  (g) Nothing in this subdivision shall be interpreted as precluding
+hospitals from extending payment adjustments for medically necessary
+non-emergency hospital services to patients outside of the hospital's
+primary service area. For patients determined to be eligible for
+financial aid under the terms of a hospital's financial aid policy, such
+policies and procedures shall prohibit any limitations on financial aid
+for services based on the medical condition of the applicant, other than
+typical limitations or exclusions based on medical necessity or the
+clinical or therapeutic benefit of a procedure or treatment.
+  (h) Such policies and procedures shall prohibit the denial of
+admission or denial of treatment for services that are reasonably
+anticipated to be medically necessary because the patient has an unpaid
+medical bill.  Such policies and procedures shall prohibit the forced
+sale or foreclosure of a patient's primary residence in order to collect
+an outstanding medical bill and shall require the hospital to refrain
+from sending an account to collection if the patient has submitted a
+completed application for financial aid, including any required
+supporting documentation, while the hospital determines the patient's
+eligibility for such aid. Such policies and procedures shall prohibit
+the sale of medical debt accumulated pursuant to this section to a third
+party, unless the third party explicitly purchases such medical debt in
+order to relieve the debt of the patient. Such policies and procedures
+shall provide for written notification, which shall include notification
+on a patient bill, to a patient not less than thirty days prior to the
+referral of debts for collection and shall require that the collection
+agency obtain the hospital's written consent prior to commencing a legal
+action. Such policies and procedures shall prohibit a hospital from
+commencing a legal action related to the recovery of medical debt or
+unpaid bills against patients with incomes below four hundred percent of
+the federal poverty level. In any legal action related to the recovery
+of medical debt or unpaid bills by or on behalf of a hospital, the
+complaint shall be accompanied by an affidavit by the hospital's chief
+financial officer stating that based upon the hospital's reasonable
+effort to determine the patient's income, the patient whom they are
+taking legal action against does not have an income below four hundred
+percent of the federal poverty level. Such policies and procedures shall
+require all general hospital staff who interact with patients or have
+responsibility for billing and collections to be trained in such
+policies and procedures, and require the implementation of a mechanism
+for the general hospital to measure its compliance with such policies
+and procedures. Such policies and procedures shall require that any
+collection agency under contract with a general hospital for the
+collection of debts follow the hospital's financial assistance policy,
+including providing information to patients on how to apply for
+financial assistance where appropriate. Such policies and procedures
+shall prohibit collections from a patient who is determined to be
+eligible for medical assistance pursuant to title XIX of the federal
+social security act at the time services were rendered and for which
+services medicaid payment is available.
+  (i) Reports required to be submitted to the department by each general
+hospital as a condition for participation in the pools, and which
+contain, in accordance with applicable regulations, a certification from
+an independent certified public accountant or independent licensed
+public accountant or an attestation from a senior official of the
+hospital that the hospital is in compliance with conditions of
+participation in the pools, shall also contain, for reporting periods on
+and after January first, two thousand seven:
+  (i) a report on hospital costs incurred and uncollected amounts in
+providing services to eligible patients without insurance during the
+period covered by the report;
+  (ii) hospital costs incurred and uncollected amounts for deductibles
+and coinsurance for eligible patients with insurance or other
+third-party payor coverage;
+  (iii) the number of patients, organized according to United States
+postal service zip code, who applied for financial assistance pursuant
+to the hospital's financial assistance policy, and the number, organized
+according to United States postal service zip code, whose applications
+were approved and whose applications were denied;
+  (iv) the number of patients, including their age, race, ethnicity,
+gender and insurance status, who applied for financial assistance under
+the hospital's financial assistance policy, and the number of patients,
+including their age, race, ethnicity, gender and insurance status, whose
+applications were approved and denied;
+  (v) the reimbursement received for indigent care from the pool
+established pursuant to this section;
+  (vi) the amount of funds that have been expended on charity care from
+charitable bequests made or trusts established for the purpose of
+providing financial assistance to patients who are eligible in
+accordance with the terms of such bequests or trusts;
+  (vii) for hospitals located in social services districts in which the
+district allows hospitals to assist patients with such applications, the
+number of applications for eligibility under title XIX of the social
+security act (medicaid) that the hospital assisted patients in
+completing and the number denied and approved; and
+  (viii) the hospital's financial losses resulting from services
+provided under medicaid.
+  (j) Within ninety days of the effective date of this subdivision each
+hospital shall submit to the commissioner a written report on its
+policies and procedures for financial assistance to patients which are
+used by the hospital on the effective date of this subdivision. Such
+report shall include copies of its policies and procedures, including
+material which is distributed to patients, and a description of the
+hospital's financial aid policies and procedures. Such description shall
+include the income levels of patients on which eligibility is based, the
+financial aid eligible patients receive and the means of calculating
+such aid, and the service area, if any, used by the hospital to
+determine eligibility.
+  (k) Notwithstanding section twelve of this chapter, failure to comply
+with the provisions of this subdivision by a hospital on and after the
+date of such determination shall make such hospital liable for a civil
+penalty not to exceed ten thousand dollars for each such violation. The
+imposition of such civil penalties shall be subject to the provisions of
+section twelve-a of this chapter.
+  (l) A hospital or its collection agent shall not commence a civil
+action against a patient or delegate a collection activity to a debt
+collector for nonpayment for at least one hundred eighty days after the
+first post-service bill is issued and until a hospital has made
+reasonable efforts to determine whether a patient qualifies for
+financial assistance.
+  * NB Effective October 20, 2024
   10. In order for a general hospital to be eligible for distribution of
 funds from the pool, such general hospital if it provides obstetrical
 care and services must be in compliance with the provisions of paragraph

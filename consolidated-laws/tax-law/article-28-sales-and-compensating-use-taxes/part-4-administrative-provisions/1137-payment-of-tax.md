@@ -160,7 +160,7 @@ the commissioner under this paragraph shall remain in effect until a
 notice of cancellation is given by the commissioner. Any such person who
 fails to comply with a notice issued under this paragraph shall be
 required to file a bond pursuant to paragraph two of this subdivision.
-  * NB Effective until December 31, 2024
+  * NB Effective until December 31, 2029
   * (3) As an additional or alternate requirement, whenever any person
 fails to collect, truthfully account for, pay over the tax, or file
 returns of the tax as required in this article, the tax commission, in
@@ -174,7 +174,7 @@ in trust for and payable to the tax commission, and to keep the amount
 of such tax in such account until payment over to the tax commission.
 Such notice shall remain in effect until a notice of cancellation is
 given by the tax commission.
-  * NB Effective December 31, 2024
+  * NB Effective December 31, 2029
   (f) (1) Except as otherwise provided in this subdivision, a person
 required to collect tax who files a return required to be filed under
 section eleven hundred thirty-six of this part for a quarterly or longer

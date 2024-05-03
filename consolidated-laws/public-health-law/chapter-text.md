@@ -173,25 +173,27 @@ Article
             committee (§§ 2490--2490-a).
   24-E.    Information about hysterectomy (§§ 2495--2499-a).
   25.      Maternal and child health
-           Title    I.   General provisions (§§ 2500--2509-c).
-                  I-A.   Child health insurance plan (§§ 2510-2511).
-                  1-B.   Adolescent pregnancy prevention and services
+           Title     I.  General provisions (§§ 2500--2509-c).
+                   I-A.  Child health insurance plan (§§ 2510-2511).
+                   1-B.  Adolescent pregnancy prevention and services
                           program (§§ 2515-2515-c).
-                   II.   Prenatal care (§§ 2522-2532).
-                 II-A.   Early intervention program for infants and
+                    II.  Prenatal care (§§ 2522-2532).
+                  II-A.  Early intervention program for infants and
                           toddlers with disabilities and their families
                           (§§ 2540--2559-b).
-                   IV.   Institutions for children (§§ 2570-2575).
-                    V.   Children with physical disabilities (§§
+                 III-A.  Community doula expansion program (§§
+                          250-2563).
+                    IV.  Institutions for children (§§ 2570-2575).
+                     V.  Children with physical disabilities (§§
                           2580-2584).
-                  VI*.   Federal child care and adult food program (§§
+                   VI*.  Federal child care and adult food program (§§
                           2585-2589).
-                 * VI.   Emergency nutrition aid program for pregnant
+                  * VI.  Emergency nutrition aid program for pregnant
                           women and adolescents (§§ 2590-2592)
                  * NB Expired March 31, 1986
-                 VI-A.   Doulas for medicaid (§§ 2594-a--2594-c).
-                  VII.   Youth sports (§ 2595).
-                 VIII.   Childhood obesity prevention program (§§
+                  VI-A.  Doulas for medicaid (§§ 2594-a--2594-c).
+                   VII.  Youth sports (§ 2595).
+                  VIII.  Childhood obesity prevention program (§§
                           2599-a--2599-d).
   25-A.    Reproductive health act (§§ 2599-aa--2599-bb).
   25-B.    Gestational surrogacy (§ 2599-cc).

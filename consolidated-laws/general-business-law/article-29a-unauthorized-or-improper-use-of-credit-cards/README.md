@@ -16,6 +16,7 @@
 - [§ 518 Credit card surcharge notice requirement](518-credit-card-surcharge-notice-requirement.md)
 - [§ 518-A Presentment of social security number as condition for accepting a check, traveler's check, gift certificate, money order or other negoti...](518a-presentment-of-social-security-number-as-condition-for-accepting-a-check.md)
 - [§ 519 Disclosure by commercial establishments honoring credit cards](519-disclosure-by-commercial-establishments-honoring-credit-cards.md)
+- [§ 519-A Credit cards and payment for health care services](519a-credit-cards-and-payment-for-health-care-services.md)
 - [§ 520 Application forms or solicitation for credit cards](520-application-forms-or-solicitation-for-credit-cards.md)
 - [§ 520-A Certain credit and debit card transaction forms required](520a-certain-credit-and-debit-card-transaction-forms-required.md)
 - [§ 520-B Secured credit cards](520b-secured-credit-cards.md)
@@ -47,6 +48,7 @@ Section 511.   Definitions.
                  of sales transaction prohibited.
         519.   Disclosure by commercial establishments honoring credit
                  cards.
+        519-a. Credit cards and payment for health care services.
         520.   Application forms or solicitation for credit cards.
         520-a. Certain credit and debit card transaction forms required.
         520-b. Secured credit cards.

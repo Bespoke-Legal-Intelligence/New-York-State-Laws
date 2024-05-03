@@ -59,5 +59,5 @@ reimbursement for such care and services is not impaired. A cooperative
 agreement previously entered into by the department of social services
 pursuant to this subdivision shall continue in effect until modified or
 terminated by the department of health.
-  * NB Repealed July 1, 2024
+  * NB Repealed July 1, 2027
 ```

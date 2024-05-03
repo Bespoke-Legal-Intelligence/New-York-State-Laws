@@ -121,6 +121,31 @@ shall contain such information as it may deem necessary for the proper
 administration of this article. The commission may require amended
 returns to be filed within twenty days after notice and to contain the
 information specified in the notice.
+  (d-1)(1) Notwithstanding subdivision (d) of this section, a return may
+be amended where such amendment would not result in the reduction or
+elimination of a past-due tax liability, as such term is defined in
+section one hundred seventy-one-v of this chapter. Provided, however,
+that a person required to collect tax, as defined in section eleven
+hundred thirty-one of this part, may amend a return within one hundred
+eighty days of the date such return was due if the past-due liability
+was self-assessed and reported by such person.
+  (2) Where there is no such past-due tax liability, an amended return
+that would result in the reduction or elimination of tax due shall be
+deemed a claim for credit or refund and must be filed within the time
+required for filing a claim for credit or refund under section eleven
+hundred thirty-nine of this part and otherwise meet the requirements of
+such section.
+  (3) Where the commissioner has determined the amount of tax due
+pursuant to paragraph one of subdivision (a) of section eleven hundred
+thirty-eight of this part, an original return may be filed within one
+hundred eighty days after mailing of notice of such determination.
+Provided, however, that nothing in this paragraph shall affect any
+penalty or interest that may have accrued for such tax period on account
+of failure to timely file the original return.
+  (4) An assessment of tax, penalty and interest, including recovery of
+a previously paid refund, attributable to a change or correction on a
+return, may be made at any time within three years after such return is
+filed.
   (e) The tax commission may by regulation require lessors as defined in
 paragraph (8) of subdivision (d) of section eleven hundred one to file
 information returns showing all leases, subleases and licenses to use

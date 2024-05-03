@@ -58,6 +58,7 @@
 - [§ 845-B Requests for criminal history information](845b-requests-for-criminal-history-information.md)
 - [§ 845-C Criminal history record searches; undisposed cases](845c-criminal-history-record-searches-undisposed-cases.md)
 - [§ 845-D Criminal record searches: reports for civil purposes](845d-criminal-record-searches-reports-for-civil-purposes.md)
+- [§ 845-E Commercial security tax credit program](845e-commercial-security-tax-credit-program.md)
 - [§ 846 Programs for the aging](846-programs-for-the-aging.md)
 - [§ 846\*2 Programs for the aging](846-2-programs-for-the-aging.md)
 
@@ -140,6 +141,7 @@ Section 835.     Definitions.
         845-b.   Requests for criminal history information.
         845-c.   Criminal history record searches; undisposed cases.
         845-d.   Criminal record searches: reports for civil purposes.
+        845-e.   Commercial security tax credit program.
         846.     Programs for the aging.
         846*2.   Programs for the aging.
 ```

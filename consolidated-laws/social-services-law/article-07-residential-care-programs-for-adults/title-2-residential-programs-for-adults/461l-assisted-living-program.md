@@ -321,8 +321,10 @@ department's receipt of a satisfactory application.
   (n) The commissioner of health is authorized to create a program to
 subsidize the cost of assisted living for those individuals living with
 Alzheimer's disease and dementia who are not eligible for medical
-assistance pursuant to title eleven of article five of this chapter. The
-program shall authorize up to two hundred vouchers to individuals
+assistance pursuant to title eleven of article five of this chapter and
+reside in a special needs assisted living residence certified under
+section forty-six hundred fifty-five of the public health law. Subject
+to appropriations, the program shall authorize vouchers to individuals
 through an application process and pay for up to seventy-five percent of
 the average private pay rate in the respective region. The commissioner
 of health may propose rules and regulations to effectuate this

@@ -104,5 +104,5 @@ this chapter.
 section are contained in subsection (z) of section six hundred
 eighty-five and subsection (r) of section one thousand eighty-five of
 this chapter.
-  * NB Repealed July 1, 2024
+  * NB Repealed July 1, 2029
 ```

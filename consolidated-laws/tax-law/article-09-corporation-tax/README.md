@@ -34,6 +34,7 @@
 - [§ 187-O Temporary deferral nonrefundable payout credit](187o-temporary-deferral-nonrefundable-payout-credit.md)
 - [§ 187-P Temporary deferral refundable payout credit](187p-temporary-deferral-refundable-payout-credit.md)
 - [§ 187-Q Utility COVID-19 debt relief credit](187q-utility-covid-19-debt-relief-credit.md)
+- [§ 187-R Commercial security tax credit](187r-commercial-security-tax-credit.md)
 - [§ 188 Tax surcharge](188-tax-surcharge.md)
 - [§ 189-B Tax surcharge](189b-tax-surcharge.md)
 - [§ 190 Long-term care insurance credit](190-long-term-care-insurance-credit.md)
@@ -102,6 +103,7 @@ Section 182.     Additional franchise tax on certain oil companies.
         187-o.   Temporary deferral nonrefundable payout credit.
         187-p.   Temporary deferral refundable payout credit.
         187-q.   Utility COVID-19 debt relief credit.
+        187-r.   Commercial security tax credit.
         188.     Tax surcharge.
         189-b.   Tax surcharge.
         190.     Long-term care insurance credit.

@@ -36,4 +36,11 @@ products in such person's possession shall be presumptive evidence that
 the tax thereon has not been paid, and that such person shall be liable
 for the tax thereon unless evidence of such invoice, payment or
 assumption shall later be produced.
+  (d) If books and records are not provided or are determined to be
+insufficient, the amount of tax due shall be determined by the
+commissioner from such information as may be available. In the absence
+of evidence of the wholesale price for the tax imposed by subdivision
+(a) of section four hundred ninety-three of this article, the tax may be
+determined based on the retail price of such adult-use cannabis
+products.
 ```

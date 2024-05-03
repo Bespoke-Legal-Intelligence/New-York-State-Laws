@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PVH |
 | Type | Consolidated law, chapter 44-B |
-| Sections | 442 |
-| Last changed | 2 Feb 2024 |
+| Sections | 444 |
+| Last changed | 3 May 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Private Housing Finance |
 
@@ -27,10 +27,11 @@ Assembly, do enact as follows:
               CHAPTER FORTY-FOUR-B OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (64 lines)](chapter-text.md)
+[Full chapter text (66 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [3 May 2024](../../changes/2024/2024-05-03.md): 1 amended, 2 added
 - [2 Feb 2024](../../changes/2024/2024-02-02.md): 2 amended
 - [26 Nov 2023](../../changes/2023/2023-11-26.md): 1 amended, 1 added
 - [17 Nov 2023](../../changes/2023/2023-11-17.md): 1 amended
@@ -40,7 +41,6 @@ Assembly, do enact as follows:
 - [21 Jul 2023](../../changes/2023/2023-07-21.md): 5 amended
 - [12 May 2023](../../changes/2023/2023-05-12.md): 1 amended
 - [7 Apr 2023](../../changes/2023/2023-04-07.md): 1 amended
-- [23 Dec 2022](../../changes/2022/2022-12-23.md): 1 added
 
 ## Contents
 
@@ -81,3 +81,4 @@ Assembly, do enact as follows:
 - [Article 29 — Residential Emergency Services to Offer Home Repairs to the Elderly Program](article-29-residential-emergency-services-to-offer-home/)
 - [Article 30 — New York Access to Home For Heroes Program](article-30-new-york-access-to-home-for-heroes-program/)
 - [Article 31 — Housing Our Neighbors With Dignity Program](article-31-housing-our-neighbors-with-dignity-program/)
+- [Article 32 — New York Housing For the Future Homeownership and Rental Housing Programs](article-32-new-york-housing-for-the-future-homeownership/)

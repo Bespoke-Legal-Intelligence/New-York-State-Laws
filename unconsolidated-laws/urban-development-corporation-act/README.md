@@ -8,8 +8,8 @@
 | Senate code | UDA |
 | Type | Unconsolidated law |
 | Session law | L. 1968, ch. 174 |
-| Sections | 108 |
-| Last changed | 12 Apr 2024 |
+| Sections | 109 |
+| Last changed | 3 May 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Urban Development Corporation Act 174/68 |
 
@@ -30,10 +30,11 @@ Section   1.       Short title.
           6-a*.    Sale or lease of infrastructure projects.
 ```
 
-[Full chapter text (138 lines)](chapter-text.md)
+[Full chapter text (139 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [3 May 2024](../../changes/2024/2024-05-03.md): 8 amended, 1 added
 - [12 Apr 2024](../../changes/2024/2024-04-12.md): 1 amended
 - [9 Feb 2024](../../changes/2024/2024-02-09.md): 1 amended
 - [15 Dec 2023](../../changes/2023/2023-12-15.md): 1 amended
@@ -43,7 +44,6 @@ Section   1.       Short title.
 - [10 Mar 2023](../../changes/2023/2023-03-10.md): 1 amended
 - [6 Jan 2023](../../changes/2023/2023-01-06.md): 2 amended
 - [16 Dec 2022](../../changes/2022/2022-12-16.md): 1 amended
-- [14 Oct 2022](../../changes/2022/2022-10-14.md): 1 amended
 
 ## Contents
 
@@ -105,6 +105,7 @@ Section   1.       Short title.
 - [§ 16-GG Small business seed funding grant program](16gg-small-business-seed-funding-grant-program.md)
 - [§ 16-GG\*2 Division of Broadband Access](16gg-2-division-of-broadband-access.md)
 - [§ 16-HH Small business and entrepreneurs grant program](16hh-small-business-and-entrepreneurs-grant-program.md)
+- [§ 16-II Empire AI consortium reports](16ii-empire-ai-consortium-reports.md)
 - [§ 17 Bonds and notes of the corporation](17-bonds-and-notes-of-the-corporation.md)
 - [§ 18 Bond authorization](18-bond-authorization.md)
 - [§ 19 Security for bonds or notes; construction and acquisition of projects](19-security-for-bonds-or-notes-construction-and-acquisition-of-projects.md)

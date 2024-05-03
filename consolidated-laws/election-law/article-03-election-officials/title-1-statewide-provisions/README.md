@@ -15,6 +15,7 @@
 - [§ 3-107 Powers and duties of the state board of elections respecting elections and crimes against the elective franchise](3-107-powers-and-duties-of-the-state-board-of-elections-respecting-elections.md)
 - [§ 3-108 Disaster; additional day for voting](3-108-disaster-additional-day-for-voting.md)
 - [§ 3-110 Time allowed employees to vote](3-110-time-allowed-employees-to-vote.md)
+- [§ 3-112 State board of elections; uniform standards for processing data requests and duty to send data and information to statewide database](3-112-state-board-of-elections-uniform-standards-for-processing-data-requests-and-duty.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -36,6 +37,9 @@ Section 3-100.   New York state board of elections; membership;
                    franchise.
         3-108.   Disaster; additional day for voting.
         3-110.   Time allowed employees to vote.
+        3-112.   State board of elections; uniform standards for
+                   processing data requests and duty to send data and
+                   information to statewide database.
 ```
 
 </details>

@@ -10,6 +10,7 @@
 - [§ 6 Powers and duties of the authorities budget office](6-powers-and-duties-of-the-authorities-budget-office.md)
 - [§ 6-A Power to suspend local authority board members and executive staff](6a-power-to-suspend-local-authority-board-members-and-executive-staff.md)
 - [§ 7 Reports of the authorities budget office](7-reports-of-the-authorities-budget-office.md)
+- [§ 8 Local authorities searchable subsidy and economic development benefits database](8-local-authorities-searchable-subsidy-and-economic-development-benefits.md)
 
 <details>
 <summary>Official heading of Title 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -23,6 +24,8 @@ Section 4.   Establishment of the independent authorities budget office.
         6-a. Power to suspend local authority board members and
                executive staff.
         7.   Reports of the authorities budget office.
+        8.   Local authorities searchable subsidy and economic
+               development benefits database.
 ```
 
 </details>

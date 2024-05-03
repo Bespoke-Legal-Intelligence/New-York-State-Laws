@@ -658,10 +658,10 @@ of this article. The department in providing utilization data to a
 manufacturer (as provided for under section 1927.4(b)(1)(A) of the
 federal social security act) shall provide such data by zip code, if
 requested, for drugs covered under a rebate agreement.
-  * (e) During the period from April first, two thousand fifteen through
-March thirty-first, two thousand twenty-six, the commissioner may, in
-lieu of a managed care provider or pharmacy benefit manager, negotiate
-directly and enter into an arrangement with a pharmaceutical
+  * (e) ** During the period from April first, two thousand fifteen
+through March thirty-first, two thousand twenty-six, the commissioner
+may, in lieu of a managed care provider or pharmacy benefit manager,
+negotiate directly and enter into an arrangement with a pharmaceutical
 manufacturer for the provision of supplemental rebates relating to
 pharmaceutical utilization by enrollees of managed care providers
 pursuant to section three hundred sixty-four-j of this title and may
@@ -680,6 +680,37 @@ services pursuant to 42 U.S.C. § 1396r-8, and for which the state has
 established standard clinical criteria. No agreement entered into
 pursuant to this paragraph shall have an initial term or be extended
 beyond the expiration or repeal of this paragraph.
+  ** NB Effective until October 1, 2024
+  ** During the period from April first, two thousand fifteen through
+March thirty-first, two thousand twenty-six, the commissioner may, in
+lieu of a managed care provider or pharmacy benefit manager, negotiate
+directly and enter into an arrangement with a pharmaceutical
+manufacturer for the provision of supplemental rebates relating to
+pharmaceutical utilization by enrollees of managed care providers
+pursuant to section three hundred sixty-four-j of this title and may
+also negotiate directly and enter into such an agreement relating to
+pharmaceutical utilization by medical assistance recipients not so
+enrolled. Such rebate arrangements shall be limited to the following:
+antiretrovirals approved by the FDA for the treatment of HIV/AIDS,
+accelerated approval drugs established pursuant to this paragraph,
+opioid dependence agents and opioid antagonists listed in a statewide
+formulary established pursuant to subparagraph (vii) of this paragraph,
+hepatitis C agents, high cost drugs as provided for in subparagraph
+(viii) of this paragraph, gene therapies as provided for in subparagraph
+(ix) of this paragraph, and any other class or drug designated by the
+commissioner for which the pharmaceutical manufacturer has in effect a
+rebate arrangement with the federal secretary of health and human
+services pursuant to 42 U.S.C. § 1396r-8, and for which the state has
+established standard clinical criteria. No agreement entered into
+pursuant to this paragraph shall have an initial term or be extended
+beyond the expiration or repeal of this paragraph. For purposes of this
+paragraph, an "accelerated approval" is a drug or labeled indication of
+a drug authorized by the Federal Food, Drug and Cosmetic Act for drugs
+approved under Subpart H of 21 CFR Part 314 and Subpart E of 21 CFR Part
+601 for serious conditions that fill an unmet medical need based on
+whether the drug has an effect on a surrogate clinical endpoint, and is
+pending verification of clinical benefit in confirmatory trials.
+  ** NB Effective October 1, 2024
   (i) The manufacturer shall not enter into any rebate arrangements with
 a managed care provider, or any of a managed care provider's agents,
 including but not limited to any pharmacy benefit manager on the gene
@@ -836,7 +867,7 @@ title nineteen of the federal social security act to a residential
 treatment facility for children and youth for service to a person whose
 need for care and treatment in such a facility was not certified
 pursuant to section 9.51 of the mental hygiene law.
-  * NB Effective until July 1, 2024
+  * NB Effective until July 1, 2027
   * 8. No government agency shall purchase, pay for, or make
 reimbursement or grants-in-aid for any service in a residential
 treatment facility for children and youth unless at the time such
@@ -848,7 +879,7 @@ nineteen of the federal social security act to a residential treatment
 facility for children and youth for service to a person whose need for
 care and treatment in such a facility was not certified pursuant to
 section 9.51 of the mental hygiene law.
-  * NB Effective July 1, 2024
+  * NB Effective July 1, 2027
   * 9. Notwithstanding any inconsistent provision of law or regulation
 to the contrary, for those drugs which may not be dispensed without a
 prescription as required by section sixty-eight hundred ten of the
@@ -859,10 +890,48 @@ required by section sixty-eight hundred ten of the education law but are
 reimbursed as items of medical assistance pursuant to paragraph (a) of
 subdivision four of section three hundred sixty-five-a of this title,
 payments under this title shall be made at the following amounts:
-  (a) for drugs provided by medical practitioners and claimed separately
-by the practitioners, the actual cost of the drugs to the practitioners;
-and
-  (b) for drugs dispensed by pharmacies:
+  ** (a) for drugs provided by medical practitioners and claimed
+separately by the practitioners, the actual cost of the drugs to the
+practitioners; and
+  ** NB Effective until October 1, 2024
+  ** (a) for drugs provided by medical practitioners and claimed
+separately by the practitioners the lower of:
+  (i) (1) an amount equal to the national average drug acquisition cost
+set by the federal centers for medicare and medicaid services for the
+drug, if any, or if such amount is not available, the wholesale
+acquisition cost of the drug based on the package size dispensed from,
+as reported by the prescription drug pricing service used by the
+department, (2) the federal upper limit, if any, established by the
+federal centers for medicare and medicaid services; (3) the state
+maximum acquisition cost, if any, established pursuant to paragraph (e)
+of this subdivision; or (4) the actual cost of the drug to the
+practitioner.
+  (ii) Notwithstanding subparagraph (i) of this paragraph and paragraph
+(e) of this subdivision, for the Medicaid fee-for-service program, if a
+drug has been purchased from a manufacturer by a covered entity pursuant
+to section 340B of the federal public health service act (42 USCA §
+256b), the actual amount paid by such covered entity. For purposes of
+this subparagraph, a "covered entity" is an entity that meets the
+requirements of paragraph four of subdivision (a) of such section that
+elects to participate in the program established by such section, and
+that causes claims for payment for drugs covered by this subparagraph to
+be submitted to the medical assistance program, either directly or
+through an authorized contract pharmacy. No medical assistance payments
+may be made to a covered entity or to an authorized contract pharmacy of
+a covered entity for drugs that are eligible for purchase under the
+section 340B program and are dispensed on an outpatient basis to
+patients of the covered entity, other than under the provisions of this
+subparagraph. Medical practitioners submitting claims for reimbursement
+of drugs purchased pursuant to section 340B of the public health service
+act shall notify the department that the claim is eligible for purchase
+under the 340B program, consistent with claiming instructions issued by
+the department to identify such claims.
+  (iii) In no event shall a medical practitioner be reimbursed at an
+amount that is lower than the state maximum acquisition cost, or for
+drugs that do not have a state maximum acquisition cost, the wholesale
+acquisition cost of the drug based on the package size.
+  ** NB Effective October 1, 2024
+  ** (b) for drugs dispensed by pharmacies:
   (i) (A) if the drug dispensed is a generic prescription drug, the
 lower of: (1) an amount equal to the national average drug acquisition
 cost set by the federal centers for medicare and medicaid services for
@@ -921,7 +990,68 @@ purchased pursuant to section 340B of the public health service act
 shall notify the department that the claim is eligible for purchase
 under the 340B program, consistent with claiming instructions issued by
 the department to identify such claims.
-  (c) Notwithstanding subparagraph (i) of paragraph (b) of this
+  ** NB Effective until October 1, 2024
+  ** (b) for drugs dispensed by pharmacies:
+  (i) (A) if the drug dispensed is a generic prescription drug, the
+lower of: (1) an amount equal to the national average drug acquisition
+cost set by the federal centers for medicare and medicaid services for
+the drug, if any, or if such amount if not available, the wholesale
+acquisition cost of the drug based on the package size dispensed from,
+as reported by the prescription drug pricing service used by the
+department, less seventeen and one-half percent thereof; (2) the federal
+upper limit, if any, established by the federal centers for medicare and
+medicaid services; (3) the state maximum acquisition cost, if any,
+established pursuant to paragraph (e) of this subdivision; or (4) the
+dispensing pharmacy's usual and customary price charged to the general
+public; (B) if the drug dispensed is available without a prescription as
+required by section sixty-eight hundred ten of the education law but is
+reimbursed as an item of medical assistance pursuant to paragraph (a) of
+subdivision four of section three hundred sixty-five-a of this title,
+the lower of (1) an amount equal to the national average drug
+acquisition cost set by the federal centers for medicare and medicaid
+services for the drug, if any, or if such amount is not available, the
+wholesale acquisition cost of the drug based on the package size
+dispensed from, as reported by the prescription drug pricing service
+used by the department, (2) the federal upper limit, if any, established
+by the federal centers for medicare and medicaid services; (3) the state
+maximum acquisition cost if any, established pursuant to paragraph (e)
+of this subdivision; or (4) the dispensing pharmacy's usual and
+customary price charged to the general public;
+  (ii) if the drug dispensed is a brand-name prescription drug, the
+lower of:
+  (A) an amount equal to the national average drug acquisition cost set
+by the federal centers for medicare and medicaid services for the drug,
+if any, or if such amount is not available, the wholesale acquisition
+cost of the drug based on the package size dispensed from, as reported
+by the prescription drug pricing service used by the department; or (B)
+the dispensing pharmacy's usual and customary price charged to the
+general public; and
+  (iii) notwithstanding subparagraphs (i) and (ii) of this paragraph and
+paragraphs (d) and (e) of this subdivision, if the drug dispensed is a
+drug that has been purchased from a manufacturer by a covered entity
+pursuant to section 340B of the federal public health service act (42
+USCA § 256b), the actual amount paid by such covered entity pursuant to
+such section, plus the reasonable administrative costs, as determined by
+the commissioner, incurred by the covered entity or by an authorized
+contract pharmacy in connection with the purchase and dispensing of such
+drug and the tracking of such transactions. For purposes of this
+subparagraph, a "covered entity" is an entity that meets the
+requirements of paragraph four of subsection (a) of such section, that
+elects to participate in the program established by such section, and
+that causes claims for payment for drugs covered by this subparagraph to
+be submitted to the medical assistance program, either directly or
+through an authorized contract pharmacy. No medical assistance payments
+may be made to a covered entity or to an authorized contract pharmacy of
+a covered entity for drugs that are eligible for purchase under the
+section 340B program and are dispensed on an outpatient basis to
+patients of the covered entity, other than under the provisions of this
+subparagraph. Pharmacies submitting claims for reimbursement of drugs
+purchased pursuant to section 340B of the public health service act
+shall notify the department that the claim is eligible for purchase
+under the 340B program, consistent with claiming instructions issued by
+the department to identify such claims.
+  ** NB Effective October 1, 2024
+  ** (c) Notwithstanding subparagraph (i) of paragraph (b) of this
 subdivision, if a qualified prescriber certifies "brand medically
 necessary" or "brand necessary" in his or her own handwriting directly
 on the face of a prescription for a multiple source drug for which a
@@ -930,6 +1060,19 @@ federal agency, in addition to writing "d a w" in the box provided for
 such purpose on the prescription form, payment under this title for such
 drug must be made under the provisions of subparagraph (ii) of such
 paragraph.
+  ** NB Effective until October 1, 2024
+  ** (c) Notwithstanding subparagraph (i) of paragraph (b) of this
+subdivision, if a qualified prescriber certifies "brand medically
+necessary" or "brand necessary" in his or her own handwriting directly
+on the face of a prescription, or in the case of electronic
+prescriptions, inserts an electronic direction to clarify "brand
+medically necessary" or "brand necessary", for a multiple source drug
+for which a specific upper limit of reimbursement has been established
+by the federal agency, in addition to writing "d a w" in the box
+provided for such purpose on the prescription form, payment under this
+title for such drug must be made under the provisions of subparagraph
+(ii) of such paragraph.
+  ** NB Effective October 1, 2024
   (d) In addition to the amounts paid pursuant to paragraph (b) of this
 subdivision, the department shall pay a professional pharmacy dispensing
 fee for each such drug dispensed in the amount of ten dollars and eight

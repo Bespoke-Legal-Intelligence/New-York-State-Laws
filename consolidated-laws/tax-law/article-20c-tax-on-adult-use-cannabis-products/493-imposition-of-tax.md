@@ -6,18 +6,16 @@
 ```text
   § 493. Imposition of tax. (a) There is hereby imposed a tax on
 adult-use cannabis products sold by a distributor to a person who sells
-adult-use cannabis products at retail at the following rates:
-  (1) cannabis flower at the rate of five-tenths of one cent per
-milligram of the amount of total THC, as reflected on the product label;
-  (2) concentrated cannabis at the rate of eight-tenths of one cent per
-milligram of the amount of total THC, as reflected on the product label;
-and
-  (3) cannabis edible product at the rate of three cents per milligram
-of the amount of total THC, as reflected on the product label. This tax
-shall accrue at the time of such sale or transfer. Where a person who
-distributes adult-use cannabis is licensed under the cannabis law as a
-microbusiness or registered organization, such person shall be liable
-for the tax, and such tax shall accrue at the time of the retail sale.
+adult-use cannabis products at retail at the rate of nine percent of the
+amount charged for the sale or transfer of such adult-use cannabis
+products to such retailer; provided that where a person who distributes
+adult-use cannabis is licensed under the cannabis law as a microbusiness
+or registered organization and such person sells adult-use cannabis
+products at retail, such person shall be liable for the tax, such tax
+shall accrue at the time of the retail sale, and the amount subject to
+the tax imposed by this subdivision shall be seventy-five percent of the
+amount charged by such person for the sale or transfer of such products
+to a retail customer.
   (b) In addition to any other tax imposed by this chapter or other law,
 there is hereby imposed a tax of nine percent of the amount charged for
 the sale or transfer of adult-use cannabis products to a retail customer

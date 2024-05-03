@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | RPP |
 | Type | Consolidated law, chapter 50 |
-| Sections | 427 |
-| Last changed | 26 Apr 2024 |
+| Sections | 437 |
+| Last changed | 3 May 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Real Property |
 
@@ -29,10 +29,11 @@ Passed, three-fifths being present.
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (38 lines)](chapter-text.md)
+[Full chapter text (39 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [3 May 2024](../../changes/2024/2024-05-03.md): 1 amended, 10 added
 - [26 Apr 2024](../../changes/2024/2024-04-26.md): 1 amended, 1 added, 1 removed
 - [29 Mar 2024](../../changes/2024/2024-03-29.md): 2 amended, 1 repealed
 - [15 Dec 2023](../../changes/2023/2023-12-15.md): 3 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [6 Oct 2023](../../changes/2023/2023-10-06.md): 1 amended
 - [29 Sep 2023](../../changes/2023/2023-09-29.md): 3 amended
 - [23 Jun 2023](../../changes/2023/2023-06-23.md): 1 amended
-- [16 Jun 2023](../../changes/2023/2023-06-16.md): 1 amended
 
 ## Contents
 
@@ -51,6 +51,7 @@ Assembly, do enact as follows:
 - [Article 4 — Uses and Trusts](article-04-uses-and-trusts/)
 - [Article 4-A — Trust Indentures and Interests Therein](article-04a-trust-indentures-and-interests-therein/)
 - [Article 6 — Dower and Curtesy](article-06-dower-and-curtesy/)
+- [Article 6-A — Good Cause Eviction Law](article-06a-good-cause-eviction-law/)
 - [Article 7 — Landlord and Tenant](article-07-landlord-and-tenant/)
 - [Article 7A — Portable Kerosene Heaters](article-07a-portable-kerosene-heaters/)
 - [Article 8 — Conveyances and Mortgages](article-08-conveyances-and-mortgages/)

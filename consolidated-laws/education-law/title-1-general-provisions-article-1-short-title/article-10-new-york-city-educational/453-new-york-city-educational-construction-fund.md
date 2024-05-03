@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 10 — New York City Educational Construction Fund](README.md)
 
 ```text
-  § 453. New York city educational construction fund.  * 1. There is
+  § 453. New York city educational construction fund. * 1. There is
 hereby created the "New York city educational construction fund." The
 fund shall be a corporate governmental agency constituting a public
 benefit corporation. The board of trustees of the fund is hereby
@@ -12,7 +12,7 @@ continued. It shall consist of the chancellor of the city school
 district of the city of New York, who shall be chair, and two trustees
 appointed by the mayor who shall each serve at the pleasure of the
 mayor.
-  * NB Effective until June 30, 2024
+  * NB Effective until June 30, 2026
   * 1. There is hereby created the "New York city educational
 construction fund." The fund shall be a corporate governmental agency
 constituting a public benefit corporation. The board of trustees of the
@@ -21,7 +21,7 @@ school district of the city of New York, the president of the interim
 board of education or of the board of education, who shall be chairman,
 and one trustee appointed by the mayor who shall serve a term
 coterminous with that of the mayor.
-  * NB Effective June 30, 2024
+  * NB Effective June 30, 2026
   2. The trustees of the fund shall serve without salary, but each
 trustee shall be entitled to reimbursement for his actual and necessary
 expenses incurred in the performance of his official duties.

@@ -26,6 +26,7 @@
 - [§ 15-134 Failure to designate terms](15-134-failure-to-designate-terms.md)
 - [§ 15-136 Refusal of officer to surrender his office](15-136-refusal-of-officer-to-surrender-his-office.md)
 - [§ 15-138 Judicial review of matters relating to village elections](15-138-judicial-review-of-matters-relating-to-village-elections.md)
+- [§ 15-140 Transmission of publicly available data to the New York voting and elections database](15-140-transmission-of-publicly-available-data-to-the-new-york-voting-and-elections.md)
 
 <details>
 <summary>Official heading of Article 15, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -57,6 +58,8 @@ Section 15-100. Application of article.
         15-136. Refusal of officer to surrender his office.
         15-138. Judicial review of matters relating to village
                   elections.
+        15-140. Transmission of publicly available data to the New York
+                  voting and elections database.
 ```
 
 </details>

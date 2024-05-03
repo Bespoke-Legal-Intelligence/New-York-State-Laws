@@ -68,6 +68,7 @@
 - [§ 3459 Car share exclusions for motor vehicle insurance policies](3459-car-share-exclusions-for-motor-vehicle-insurance-policies.md)
 - [§ 3460 Prohibition against cancellation of policy when motor vehicle is used or operated through a peer-to-peer car sharing program](3460-prohibition-against-cancellation-of-policy-when-motor-vehicle-is-used.md)
 - [§ 3461 Notice of claim](3461-notice-of-claim.md)
+- [§ 3462 Affordable housing underwriting and rating](3462-affordable-housing-underwriting-and-rating.md)
 
 <details>
 <summary>Official heading of Article 34, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -182,6 +183,7 @@ Section 3401.   Insurable interest in property.
                   vehicle is used or operated through a peer-to-peer car
                   sharing program.
         3461.   Notice of claim.
+        3462.   Affordable housing underwriting and rating.
 ```
 
 </details>

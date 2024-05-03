@@ -99,22 +99,13 @@ to responsibilities may be considered in determining such individual's
 continued appropriateness for the program.
   4-a. Fiscal intermediary services. (a) For the purposes of this
 section:
-  (i) "Fiscal intermediary" means an entity that provides fiscal
-intermediary services and has a contract for providing such services
-with the department of health and is selected through the procurement
-process described in paragraphs (b), (b-1), (b-2) and (b-3) of this
-subdivision. Eligible applicants for contracts shall be entities that
-are capable of appropriately providing fiscal intermediary services,
-performing the responsibilities of a fiscal intermediary, and complying
-with this section, including but not limited to entities that:
-  (A) are a service center for independent living under section one
-thousand one hundred twenty-one of the education law; or
-  (B) have been established as fiscal intermediaries prior to January
-first, two thousand twelve and have been continuously providing such
-services for eligible individuals under this section.
+  (i) "Statewide fiscal intermediary" means an entity that provides
+fiscal intermediary services and has a contract for providing such
+services with the department of health and is selected through the
+procurement process described in paragraph (b) of this subdivision.
   (ii) Fiscal intermediary services shall include the following
-services, performed on behalf of the consumer to facilitate his or her
-role as the employer:
+services, performed on behalf of the consumer to facilitate the
+consumer's role as the employer:
   (A) wage and benefit processing for consumer directed personal
 assistants;
   (B) processing all income tax and other required wage withholdings;
@@ -145,6 +136,42 @@ the commissioner, assisting consumers to perform the consumers'
 responsibilities under this section and department regulations in a
 manner that does not infringe upon the consumer's responsibilities and
 self-direction.
+  (ii-a) The commissioner shall require any managed care plans, managed
+long-term care plans, local social service districts, and other
+appropriate long-term service programs offering consumer directed
+personal assistance services to contract with the statewide fiscal
+intermediary set forth in subparagraph (i) of this paragraph to provide
+all fiscal intermediary services to consumers.
+  (ii-b) The statewide fiscal intermediary shall subcontract to
+facilitate the delivery of fiscal intermediary services to an entity
+that is a service center for independent living under section one
+thousand one hundred twenty-one of the education law that has been
+providing fiscal intermediary services since January first, two thousand
+twenty-four or earlier. The statewide fiscal intermediary shall further
+subcontract to facilitate the delivery of fiscal intermediary services
+with at least one entity per rate setting region that has a proven
+record of delivering services to individuals with disabilities and the
+senior population, and has been providing fiscal intermediary services
+since January first, two thousand twelve; provided that such
+subcontractor shall be required to provide any delegated fiscal
+intermediary services with cultural and linguistic competency specific
+to the population of consumers and those of the available workforce, and
+shall comply with the requirements for registration as a fiscal
+intermediary set forth in subdivision four-a-one of this section. For
+purposes of this section, "delegated fiscal intermediary services" are
+defined as fiscal intermediary services as set forth in subparagraph
+(ii) of paragraph (a) of this subdivision that the statewide fiscal
+intermediary includes in a subcontract and which shall include services
+designed to meet the needs of consumers of the program, which may
+include assisting consumers with navigation of the program by providing
+individual consumer assistance and support as needed, consumer peer
+support, and education and training to consumers on their duties under
+the program.
+  (ii-c) The statewide fiscal intermediary shall be responsible for
+payment to subcontractors for delegated fiscal intermediary services.
+The payment shall not require a certification by the commissioner if
+payments are reasonably related to the costs of efficient delivery of
+such services.
   (iii) Fiscal intermediaries are not responsible for, and fiscal
 intermediary services shall not include, fulfillment of the
 responsibilities of the consumer or, if applicable, the consumer's
@@ -162,86 +189,34 @@ personal care services, home health aide services and skilled nursing
 tasks that are included on the consumer's plan of care. A fiscal
 intermediary shall exercise reasonable care in properly carrying out its
 responsibilities under the program.
-  (b) Notwithstanding any inconsistent provision of section one hundred
-sixty-three of the state finance law, or section one hundred forty-two
-of the economic development law the commissioner shall enter into
-contracts under this subdivision with eligible contractors that submit
-an offer for a contract, provided, however, that:
+  (b) Notwithstanding section one hundred sixty-three of the state
+finance law, section one hundred twelve of the state finance law, or
+section one hundred forty-two of the economic development law the
+commissioner shall enter into a contract under this subdivision with an
+eligible contractor that submits an offer for a contract, provided,
+however, that:
   (i) the department shall post on its website:
-  (A) a description of the proposed services to be provided pursuant to
-contracts in accordance with this subdivision;
-  (B) that the selection of contractors shall be based on criteria
-reasonably related to the contractors' ability to provide fiscal
-intermediary services including but not limited to: ability to
-appropriately serve individuals participating in the program, geographic
-distribution that would ensure access in rural and underserved areas,
-demonstrated cultural and language competencies specific to the
-population of consumers and those of the available workforce, ability to
-provide timely consumer assistance, experience serving individuals with
-disabilities, the availability of consumer peer support, and
-demonstrated compliance with all applicable federal and state laws and
-regulations, including but not limited to those relating to wages and
-labor;
+  (A) a description of the proposed statewide fiscal intermediary
+services to be provided pursuant to a contract in accordance with this
+subdivision;
+  (B) the criteria for selection of the statewide fiscal intermediary,
+which shall include at a minimum that the eligible contractor is capable
+of performing statewide fiscal intermediary services with demonstrated
+cultural and language competencies specific to the population of
+consumers and those of the available workforce, has experience serving
+individuals with disabilities, and as of April first, two thousand
+twenty-four is providing services as a fiscal intermediary on a
+statewide basis with at least one other state;
   (C) the manner by which prospective contractors may seek such
 selection, which may include submission by electronic means;
-  (ii) all reasonable and responsive offers that are received from
-prospective contractors in timely fashion shall be reviewed by the
-commissioner;
-  (iii) the commissioner shall award such contracts to the contractors
-that best meet the criteria for selection and are best suited to serve
-the purposes of this section and the needs of consumers;
-  (iv) all entities providing fiscal intermediary services on or before
-April first, two thousand nineteen, shall submit an offer for a contract
-under this section within sixty days after the commissioner publishes
-the initial offer on the department's website. Such entities shall be
-deemed authorized to provide such services unless: (A) the entity fails
-to submit an offer for a contract under this section within the sixty
-days; or (B) the entity's offer for a contract under this section is
-denied;
-  (v) all decisions made and approaches taken pursuant to this paragraph
-shall be documented in a procurement record as defined in section one
-hundred sixty-three of the state finance law; and
-  (vi) the commissioner is authorized to either reoffer contracts or
-utilize the previous offer, to ensure that all provisions of this
-section are met.
-  (b-1) Following the initial selection of contractors on February
-eleventh, two thousand twenty-one, pursuant to the commissioner's
-request for offers #20039 ("RFO") in accordance with this subdivision,
-the commissioner is instructed to accept the offer to enter into
-contracts with all applicants that were not initially selected on
-February eleventh, two thousand twenty-one, but that were qualified by
-the commissioner as meeting minimum requirements of the RFO, provided
-that such qualified applicants that were not initially selected attest
-that:
-  (i) the applicant was providing fiscal intermediary services for at
-least two hundred consumers in a city with a population of more than one
-million at any time between January first, two thousand twenty and March
-thirty-first, two thousand twenty; or
-  (ii) the applicant was providing fiscal intermediary services for at
-least fifty consumers in another area of the state at any time between
-January first, two thousand twenty and March thirty-first, two thousand
-twenty.
-  (b-2) Upon the publication of an attestation form or process to the
-department's website, the remaining qualified applicants described in
-paragraph (b-1) of this subdivision shall have sixty days to submit an
-attestation and all required supporting documentation to the
-commissioner.
-  (i) Any late submission shall disqualify the applicant from receiving
-a contract award under paragraph (b-1) of this subdivision.
-  (ii) The number of consumers served by an applicant during the period
-between January first, two thousand twenty and March thirty-first, two
-thousand twenty may be measured by the greatest number of consumers
-served in the specified region by the applicant on any day during that
-period.
-  (iii) Applicant attestations shall be audited by the office of
-Medicaid inspector general, and any false or inaccurate attestation
-shall render any contract awarded under paragraph (b-1) of this
-subdivision null and void; this provision shall not be construed to
-limit or supersede any other applicable sanctions or penalties that may
-be imposed under the medical assistance program.
-  (b-3) Contracts awarded under paragraph (b-1) of this subdivision
-shall be limited to the service areas indicated on the applicants'
-submission to the RFO.
+  (ii) all offers that are received from prospective contractors in a
+timely fashion and that meet the criteria set forth in clause (B) of
+subparagraph (i) of this paragraph shall be reviewed by the
+commissioner; and
+  (iii) the commissioner shall award such contract to the contractor
+that meets the criteria for selection and offers the best value for
+providing the services required pursuant to this section and the needs
+of consumers.
   (c) (i) The commissioner shall require a fiscal intermediary to report
 annually on the direct care and administrative costs of personal
 assistance services as accounted for by the fiscal intermediary. The
@@ -266,22 +241,26 @@ by the date due for reasons beyond the provider's control.
 executive officer, or public official responsible for the operation of
 the provider. The cost report form shall include a certification form,
 which shall specify who must certify the report.
-  4-b. Actions involving the authorization of a fiscal intermediary.
-  (a) The department may terminate a fiscal intermediary's contract
-under this section or suspend or limit the fiscal intermediary's rights
-and privileges under the contract upon thirty day's written notice to
-the fiscal intermediary, if the commissioner finds that the fiscal
-intermediary has failed to comply with the provisions of this section or
-regulations promulgated hereunder. The written notice shall include:
-  (i) A description of the conduct and the issues related thereto that
-have been identified as failure of compliance; and
-  (ii) the time frame of the conduct that fails compliance.
-  (b) Notwithstanding the foregoing, upon determining that the public
-health or safety would be imminently endangered by the continued
-operation or actions of the fiscal intermediary, the commissioner may
-terminate the fiscal intermediary's contract or suspend or limit the
-fiscal intermediary's rights and privileges under the contract
-immediately upon written notice.
+  4-a-1. (a) Fiscal intermediary registration. Except for the statewide
+fiscal intermediary and its subcontractors, as of April first, two
+thousand twenty-five, no entity shall provide, directly or through
+contract, fiscal intermediary services. All subcontractors of the
+statewide fiscal intermediary, shall register with the department within
+thirty days of being selected as a subcontractor.
+  (b) In selecting its subcontractors, the statewide fiscal intermediary
+shall consider demonstrated compliance with all applicable federal and
+state laws and regulations, including but not limited to, marketing and
+labor practices, cost reporting, and electronic visit verification
+requirements.
+  4-b. Actions involving the registration of a fiscal intermediary.
+  (a) A fiscal intermediary's registration may be revoked, suspended,
+limited, or annulled by the commissioner upon thirty days' written
+notice to the fiscal intermediary, if the commissioner finds that the
+fiscal intermediary has failed to comply with the provisions of this
+section or regulations promulgated hereunder.
+  (b) The commissioner may issue orders and take other actions as
+necessary and appropriate to prohibit and prevent the provision of
+fiscal intermediary services by an unregistered entity.
   (c) All orders or determinations under this subdivision shall be
 subject to review as provided in article seventy-eight of the civil
 practice law and rules.
@@ -333,15 +312,6 @@ failed to submit an offer for a contract, or has been denied a contract
 under this section, all the provisions of this subdivision shall apply
 except subparagraph (i) of paragraph (a) of this subdivision, notice of
 which to all parties shall be provided by the department as appropriate.
-  (d) where a fiscal intermediary is acquired by, merges with, sells
-assets to, or engages in a transaction of a similar nature with a fiscal
-intermediary that was awarded a contract pursuant to subdivision four-a
-of this section, all the provisions of this subdivision shall apply. In
-providing notice under subparagraph (i) of paragraph (a) of this
-subdivision, the fiscal intermediary may inform the notice recipient of
-the applicable transaction and, if applicable, the ability of the
-consumer to remain with the awarded fiscal intermediary in accordance
-with any guidance issued by the commissioner.
   (e) The local social services district or managed care plan, as
 appropriate, shall supervise the transition of services and transfer of
 records and maintain provision of services by the personal assistant(s)
@@ -356,10 +326,14 @@ implementation of the program.
   (b) Notwithstanding any other provision of law, the commissioner is
 authorized to waive any provision of section three hundred sixty-seven-b
 of this title related to payment and may promulgate regulations
-necessary to carry out the objectives of the program, and which describe
-the responsibilities of the eligible individuals in arranging and paying
-for services and the protections assured such individuals if they are
-unable or no longer desire to continue in the program.
+necessary to carry out the objectives of the program including minimum
+safety, and health and immunization criteria and training requirements
+for personal assistants, and which describe the responsibilities of the
+eligible individuals in arranging and paying for services and the
+protections assured such individuals if they are unable or no longer
+desire to continue in the program, the fiscal intermediary registration
+process, standards, and time frames, and those regulations necessary to
+ensure adequate access to services.
   6. Notwithstanding any inconsistent provision of this section or any
 other contrary provision of law, managed care programs established
 pursuant to section three hundred sixty-four-j of this title and managed

@@ -112,7 +112,7 @@ principal purpose of avoiding tax. Abusive tax avoidance transactions
 include, but are not limited to, listed transactions described in
 paragraph five of subsection (p-1) of section six hundred eighty-five of
 this article.
-  * NB Repealed July 1, 2024
+  * NB Repealed July 1, 2029
   (12) Except as otherwise provided in paragraph three of this
 subsection, or as otherwise provided in this section where a longer
 period of time may apply, if a taxpayer files an amended return, an

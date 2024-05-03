@@ -32,10 +32,11 @@ commission for the amounts asserted in a claim for refund if--
   (1) the taxpayer has filed a timely claim for refund with the tax
 commission,
   (2) the taxpayer has not previously filed with the tax commission a
-timely petition under subsection (b) for the same taxable year unless
-the petition under this subsection relates to a separate claim for
-credit or refund properly filed under subsection (f) of section six
-hundred eighty-seven, and
+timely petition under subsection (b) of this section for the same
+taxable year unless the petition under this subsection relates to a
+separate claim for credit or refund properly filed under subsection (f)
+of section six hundred eighty-seven of this part or relates to a refund
+or credit first claimed on an amended return for the taxable year, and
   (3) either (A) six months have expired since the claim was filed, or
 (B) the tax commission has mailed to the taxpayer, by registered or
 certified mail, a notice of disallowance of such claim in whole or in
@@ -81,10 +82,11 @@ opportunity to respond to any matters asserted by the tax commission
 under this subsection.
   (4) Restriction on further notices of deficiency. -- If the taxpayer
 files a petition with the tax commission under this section, no notice
-of deficiency under section six hundred eighty-one may thereafter be
-issued by the tax commission for the same taxable year, except in case
-of fraud or with respect to a change or correction required to be
-reported under section six hundred fifty-nine.
+of deficiency under section six hundred eighty-one of this part may
+thereafter be issued by the tax commission for the same tax return,
+except in case of fraud or with respect to a change or correction
+required to be reported under section six hundred fifty-nine of this
+article.
   (e) Burden of proof. In any case before the tax commission under this
 article, the burden of proof shall be upon the petitioner except for the
 following issues, as to which the burden of proof shall be upon the tax

@@ -340,6 +340,69 @@ shall be nineteen hundred ninety-two and shall be advanced one year
 thereafter for each subsequent calendar year rate period. Further, the
 provisions of subdivision seven of this section shall not apply prior to
 January first, two thousand seven.
+  * (iii) (A) For purposes of this subparagraph:
+  (1) "Children with medical fragility" shall mean an individual who is
+under twenty-one years of age and has a chronic debilitating condition
+or conditions, who may or may not be hospitalized or institutionalized,
+and who meets one or more of the following criteria: (I) is
+technology-dependent for life or health sustaining functions; (II)
+requires complex medication regimens or medical interventions to
+maintain or to improve their health status; or (III) is in need of
+ongoing assessment or intervention to prevent serious deterioration of
+their health status or medical complications that place their life,
+health or development at risk.
+  (2) "Pediatric residential health care facility" shall mean a
+free-standing facility or discrete unit within a facility authorized by
+the commissioner to provide extensive nursing, medical, psychological,
+and counseling support services solely to children under the age of
+twenty-one.
+  (3) "Pediatric diagnostic and treatment center" shall mean a
+diagnostic and treatment center established pursuant to this article,
+which as of April first, two thousand twenty-four, has been
+participating in the demonstration program authorized under subdivision
+one of section twenty-eight hundred eight-e of this article, for which
+at least eighty percent of its total Medicaid fee-for-service
+reimbursements derive from the provision of services to children under
+the age of twenty-one with medical fragility and is affiliated with a
+pediatric residential health care facility.
+  (B) (1) Notwithstanding any law, rule, or regulation to the contrary,
+the commissioner shall establish rates of reimbursement for pediatric
+diagnostic and treatment centers for all services provided on or after
+April first, two thousand twenty-four, to children eligible for medical
+assistance that reflect the costs necessary to provide care and services
+to children with medical fragility being treated at such pediatric
+diagnostic and treatment center.
+  (2) For the period April first, two thousand twenty-four, to December
+thirty-first, two thousand twenty-four, and until such time as a
+certified annual cost report for such period is received and verified by
+the department, the operating component of such rate shall reflect
+budgeted costs for the period January first, two thousand twenty-four,
+through December thirty-first, two thousand twenty-four, as submitted to
+the department and adjusted as the commissioner deems appropriate. Upon
+submission and subsequent verification of the cost report, the operating
+component of the rate shall be reflective of actual costs for the period
+January first, two thousand twenty-four, through December thirty-first,
+two thousand twenty-four, subject to further adjustments as the
+commissioner deems appropriate. Thereafter, the base period reported
+operating costs used to establish rates pursuant to this subparagraph
+shall be updated no less frequently than every two years. In addition to
+required annual cost reports, pediatric diagnostic and treatment
+centers, as defined by this subparagraph, shall submit additional data
+as the commissioner requires.
+  (3) Notwithstanding any law, rule, or regulation to the contrary,
+pediatric diagnostic and treatment centers shall be reimbursed for
+services provided to children enrolled in Medicaid managed care plans at
+the rates of reimbursement promulgated pursuant to this subparagraph.
+  (4) The capital component of the rate shall reflect actual base year
+costs.
+  (5) All rates established under this subparagraph shall be subject to
+the availability of federal financial participation.
+  (6) The commissioner may promulgate or amend regulations as the
+commissioner determines appropriate and necessary to establish the rates
+provided for in this subparagraph and/or exempt pediatric diagnostic and
+treatment centers from the ambulatory payment group reimbursement
+methodology applicable to diagnostic and treatment centers.
+  * NB Repealed April 1, 2027
   (h) Notwithstanding any inconsistent provisions of this subdivision or
 any other law, except as provided in section 43.02 of the mental hygiene
 law, the commissioner may, in accordance with rules and regulations

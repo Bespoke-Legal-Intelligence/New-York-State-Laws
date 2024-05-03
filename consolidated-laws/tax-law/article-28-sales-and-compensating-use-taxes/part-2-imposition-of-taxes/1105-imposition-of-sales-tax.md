@@ -175,16 +175,28 @@ defined in section seventy-three hundred one of the education law, or
 the practice of engineering, as defined in section seventy-two hundred
 one of the education law, if the services are performed by an architect
 or engineer having a license or permit under the education law.
-  (8) Protective and detective services, including, but not limited to,
-all services provided by or through alarm or protective systems of every
-nature, including, but not limited to, protection against burglary,
-theft, fire, water damage or any malfunction of industrial processes or
-any other malfunction of or damage to property or injury to persons,
-detective agencies, armored car services and guard, patrol and watchman
-services of every nature other than the performance of such services by
-a port watchman licensed by the waterfront commission of New York
-harbor, whether or not tangible personal property is transferred in
+  * (8) Protective and detective services, including, but not limited
+to, all services provided by or through alarm or protective systems of
+every nature, including, but not limited to, protection against
+burglary, theft, fire, water damage or any malfunction of industrial
+processes or any other malfunction of or damage to property or injury to
+persons, detective agencies, armored car services and guard, patrol and
+watchman services of every nature other than the performance of such
+services by a port watchman licensed by the waterfront commission of New
+York harbor, whether or not tangible personal property is transferred in
 conjunction therewith.
+  * NB Effective until June 30, 2024
+  * (8) Protective and detective services, including, but not limited
+to, all services provided by or through alarm or protective systems of
+every nature, including, but not limited to, protection against
+burglary, theft, fire, water damage or any malfunction of industrial
+processes or any other malfunction of or damage to property or injury to
+persons, detective agencies, armored car services and guard, patrol and
+security services of every nature other than the performance of such
+services by a security officer licensed by the New York Waterfront
+Commission or the waterfront commission of New York harbor, whether or
+not tangible personal property is transferred in conjunction therewith.
+  * NB Effective June 30, 2024
   (9) (i) The furnishing or provision of an entertainment service or of
 an information service (but not an information service subject to tax
 under paragraph one of this subdivision), which is furnished, provided,

@@ -12,6 +12,7 @@
 - [§ 2827 Removal of authority members](2827-removal-of-authority-members.md)
 - [§ 2827-A Subsidiaries of public authorities](2827a-subsidiaries-of-public-authorities.md)
 - [§ 2828 Termination of public authorities](2828-termination-of-public-authorities.md)
+- [§ 2829 State and local authorities subject to the open meetings and freedom of information laws](2829-state-and-local-authorities-subject-to-the-open-meetings.md)
 
 <details>
 <summary>Official heading of Title 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -27,6 +28,8 @@ Section 2824.   Role and responsibilities of board members.
         2827.   Removal of authority members.
         2827-a. Subsidiaries of public authorities.
         2828.   Termination of public authorities.
+        2829.   State and local authorities subject to the open meetings
+                  and freedom of information laws.
 ```
 
 </details>

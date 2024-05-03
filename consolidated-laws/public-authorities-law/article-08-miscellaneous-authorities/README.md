@@ -35,7 +35,6 @@
 - [Title 13-M — Rockland County Solid Waste Management Authority](title-13m-rockland-county-solid-waste/)
 - [Title 14 — Broome County Sports Center Authority](title-14-broome-county-sports-center/)
 - [Title 15 — Auburn Industrial Development Authority](title-15-auburn-industrial-development/)
-- [Title 16 — Suffolk County Judicial Facilities Agency](title-16-suffolk-county-judicial-facilities/) *(repealed)*
 - [Title 17 — State of New York Mortgage Agency Act](title-17-state-of-new-york-mortgage-agency/)
 - [Title 18 — State of New York Municipal Bond Bank Agency Act](title-18-state-of-new-york-municipal-bond/)
 - [Title 19 — New York State Sports Authority](title-19-new-york-state-sports-authority/)

@@ -109,4 +109,28 @@ absent from child care shall be paid for up to eighty days per year.
 Reimbursement for additional absences may be allowable in the case of
 extenuating circumstances, as determined by the office of children and
 family services.
+  * 10. Differential payment rates for child care services shall be
+established as required by this subdivision; provided however no
+provider shall receive an aggregate differential in excess of a limit to
+be set by the regulations of the office.
+  (a) Local social services districts shall establish a differential
+payment rate for child care services provided by licensed or registered
+child care providers who provide care to a child or children
+experiencing homelessness. Such differential payment rate shall be no
+less than ten percent higher but no greater than fifteen percent higher
+than the actual cost of care or the applicable market-related payment
+rate established by the office in regulations, whichever is less.
+  (b) Local social services districts shall establish a differential
+payment rate for child care services provided by licensed, registered,
+or enrolled child care providers who provide care to a child during
+nontraditional hours. Nontraditional hours shall mean care provided
+other than between six o'clock ante meridian and seven o'clock post
+meridian on weekdays. Such differential payment rate shall be no less
+than ten percent higher but no greater than fifteen percent higher than
+the actual cost of care or the applicable market-related payment rate
+established by the office in regulations, whichever is less.
+  (c) Nothing in this subdivision shall be construed to limit the
+authority of the office of children and family services to establish
+additional differential payment rates by regulation.
+  * NB Effective April 1, 2025
 ```

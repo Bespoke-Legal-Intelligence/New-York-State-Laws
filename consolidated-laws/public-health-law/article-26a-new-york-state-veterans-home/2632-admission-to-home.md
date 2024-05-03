@@ -112,16 +112,17 @@ Operation New Dawn or Operation Inherent Resolve and was the recipient
 of the global war on terrorism expeditionary medal or the Iraq campaign
 medal or the Afghanistan campaign medal; and who was a resident of the
 state of New York at the time of entry upon such active duty or who
-shall have been a resident of this state for one year next preceding the
-application for admission shall be entitled to admission to said home
-after the approval of the application by the board of visitors, subject
-to the provisions of this article and to the conditions, limitations and
-penalties prescribed by the regulations of the department. Any such
-veteran or dependent, who otherwise fulfills the requirements set forth
-in this section, may be admitted directly to the skilled nursing
-facility or the health related facility provided such veteran or
-dependent is certified by a physician designated or approved by the
-department to require the type of care provided by such facilities.
+shall have been a resident of this state for six months next preceding
+the application for admission shall be entitled to admission to said
+home after the approval of the application by the board of visitors,
+subject to the provisions of this article and to the conditions,
+limitations and penalties prescribed by the regulations of the
+department. Any such veteran or dependent, who otherwise fulfills the
+requirements set forth in this section, may be admitted directly to the
+skilled nursing facility or the health related facility provided such
+veteran or dependent is certified by a physician designated or approved
+by the department to require the type of care provided by such
+facilities.
   2. The unremarried surviving spouse as such term is defined under
 section 101 of title thirty-eight of the United States Code of any such
 veteran, or the unremarried surviving spouse, mother or father of any

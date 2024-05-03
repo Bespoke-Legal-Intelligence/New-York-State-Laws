@@ -21,9 +21,14 @@ that cans or packages of snuff with a net weight of less than one ounce
 shall be taxed at the equivalent rate of cans or packages weighing one
 ounce. Such tax shall be computed based on the net weight as listed by
 the manufacturer.
-  (iii) Such tax on little cigars shall be at the same rate imposed on
+  * (iii) Such tax on little cigars shall be at the same rate imposed on
 cigarettes under this article and is intended to be imposed only once
 upon the sale of any little cigars.
+  * NB Effective until August 1, 2024
+  * (iii) The tax on each little cigar shall be at the rate of
+twenty-six and three-quarters cents and is intended to be imposed only
+once upon the sale of any little cigar.
+  * NB Effective August 1, 2024
   (b) Within twenty-four hours after liability for the tax accrues, each
 such person shall file with the commissioner a return in such form as
 the commissioner may prescribe together with a remittance of the tax

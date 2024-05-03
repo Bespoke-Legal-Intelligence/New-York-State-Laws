@@ -246,6 +246,10 @@ persons suffering from traumatic brain injuries or qualifying for
 nursing home diversion and transition services, shall not be provided to
 medical assistance recipients through managed care programs until at
 least January first, two thousand twenty-six.
+  (d-3) Services provided in school-based health centers shall not be
+provided to medical assistance recipients through managed care programs
+established pursuant to this section until at least April first, two
+thousand twenty-five.
   (e) The following categories of individuals may be required to enroll
 with a managed care program when program features and reimbursement
 rates are approved by the commissioner of health and, as appropriate,
@@ -1448,23 +1452,23 @@ an entity authorized to operate pursuant to section forty-four hundred
 three-g of the public health law.
   ** NB Repealed December 31, 2025
   29. In the event that the department receives approval from the
-Centers for Medicare and Medicaid Services to amend its 1115 waiver
-known as the Partnership Plan or receives approval for a new 1115 waiver
-for the purpose of reinvesting savings resulting from the redesign of
-the medical assistance program, the commissioner is authorized to enter
-into contracts, and/or to amend the terms of contracts awarded prior to
-the effective date of this subdivision, for the purpose of assisting the
+Centers for Medicare and Medicaid Services to amend its 1115 waiver or
+receives approval for a new 1115 waiver prior to or following the
+effective date of the chapter of the laws of two thousand twenty-four
+that amended this subdivision, the commissioner is authorized to enter
+into contracts and to amend the terms of contracts awarded prior to the
+effective date of the chapter of the laws of two thousand twenty-four
+that amended this subdivision, for the purpose of assisting the
 department of health with implementing projects authorized under such
-waiver approval. Notwithstanding the provisions of sections one hundred
+waiver approval.  Notwithstanding the provisions of sections one hundred
 twelve and one hundred sixty-three of the state finance law, or sections
 one hundred forty-two and one hundred forty-three of the economic
 development law, or any contrary provision of law, contracts may be
 entered or contract amendments may be made pursuant to this subdivision
-without a competitive bid or request for proposal process if the term of
-any such contract or contract amendment does not extend beyond March
-thirty-first, two thousand nineteen; provided, however, in the case of a
-contract entered into after the effective date of this subdivision,
-that:
+until March thirty-first, two thousand twenty-seven without a
+competitive bid or request for proposal process; provided, however, in
+the case of a contract entered into after the effective date of this
+subdivision, that:
   (a) The department of health shall post on its website, for a period
 of no less than thirty days:
   (i) A description of the proposed services to be provided pursuant to
@@ -1479,8 +1483,8 @@ selection, which may include submission by electronic means;
 prospective contractors in timely fashion shall be reviewed by the
 commissioner of health; and
   (c) The commissioner of health shall select such contractor or
-contractors that, in his or her discretion, are best suited to serve the
-purposes of this section.
+contractors that, in such commissioner's discretion, are best suited to
+serve the purposes of this section.
   30. Notwithstanding the provisions of section one hundred sixty-three
 of the state finance law, or sections one hundred forty-two and one
 hundred forty-three of the economic development law, or any contrary

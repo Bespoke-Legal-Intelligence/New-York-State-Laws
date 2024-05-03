@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | EXC |
 | Type | Consolidated law, chapter 18 |
-| Sections | 910 |
-| Last changed | 26 Apr 2024 |
+| Sections | 939 |
+| Last changed | 3 May 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Executive |
 
@@ -29,10 +29,11 @@ The People of the State of New York, represented in Senate and Assembly,
                  CHAPTER EIGHTEEN OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (114 lines)](chapter-text.md)
+[Full chapter text (115 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [3 May 2024](../../changes/2024/2024-05-03.md): 15 amended, 29 added
 - [26 Apr 2024](../../changes/2024/2024-04-26.md): 1 amended, 2 added
 - [29 Mar 2024](../../changes/2024/2024-03-29.md): 2 amended
 - [8 Mar 2024](../../changes/2024/2024-03-08.md): 2 amended
@@ -42,7 +43,6 @@ The People of the State of New York, represented in Senate and Assembly,
 - [26 Jan 2024](../../changes/2024/2024-01-26.md): 1 amended
 - [19 Jan 2024](../../changes/2024/2024-01-19.md): 1 repealed
 - [29 Dec 2023](../../changes/2023/2023-12-29.md): 5 amended, 1 added
-- [15 Dec 2023](../../changes/2023/2023-12-15.md): 7 amended
 
 ## Contents
 
@@ -92,6 +92,7 @@ The People of the State of New York, represented in Senate and Assembly,
 - [Article 19-F — Rural Affairs Act](article-19f-rural-affairs-act/)
 - [Article 19-G — Office of Children and Family Services](article-19g-office-of-children-and-family-services/)
 - [Article 19-H — Runaway and Homeless Youth Act of Nineteen Hundred Seventy-eight](article-19h-runaway-and-homeless-youth-act-of-nineteen/)
+- [Article 19-I — Waterfront Commission Act](article-19i-waterfront-commission-act/)
 - [Article 19-L — New York State Neighborhood Based Initiatives Act](article-19l-new-york-state-neighborhood-based-initiatives/)
 - [Article 20 — Protection of People With Special Needs](article-20-protection-of-people-with-special-needs/)
 - [Article 21 — New York State Office For the Prevention of Domestic Violence](article-21-new-york-state-office-for-the-prevention/)
@@ -123,4 +124,5 @@ The People of the State of New York, represented in Senate and Assembly,
 - [Article 49 — Workforce Preparation Evaluation Act](article-49-workforce-preparation-evaluation-act/)
 - [Article 49-A — New York State Family Policy](article-49a-new-york-state-family-policy/)
 - [Article 49-B — Commission On Forensic Science and Establishment of Dna Identification Index](article-49b-commission-on-forensic-science-and-establishment/)
+- [Article 49-C — Community Advisory Board For the Modernization and Revitalization of Suny Downstate Health Sciences University §](article-49c-community-advisory-board-for-the-modernization/)
 - [Article 50 — Interpretation](article-50-interpretation/)

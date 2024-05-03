@@ -29,15 +29,23 @@ cooperative corporation.
   * (c) "State agency" shall mean the state of New York, any department,
 board, bureau, commission, division, office, council or agency thereof,
 a public authority or a public benefit corporation.
-  * NB Effective until enactment by New Jersey
+  * NB Effective until June 30, 2024
+  * (c) "State agency" shall mean the state of New York, any department,
+board, bureau, commission, division, office, council or agency thereof,
+a public authority or a public benefit corporation. "State agency" shall
+also include the New York Waterfront Commission.
+  * NB Effective June 30, 2024 until enactment by New Jersey of
+legislation having an identical effect
   * (c) "Covered agency" shall mean the state of New York, any county of
 the state of New York, any department, board, bureau, commission,
 division, office, council or agency of the state or any such county, a
 public authority, a public benefit corporation, the port authority of
 New York and New Jersey or the waterfront commission of New York harbor.
 When a county is wholly included within a city, then the term "county"
-shall be read to include the city.
-  * NB Effective upon enactment by New Jersey
+shall be read to include the city. "Covered agency" shall also include
+the New York Waterfront Commission.
+  * NB Effective upon enactment by New Jersey of legislation having an
+identical effect
   2. Requiring information. Notwithstanding any other provision of law,
 every covered agency shall, as part of the procedure for granting,
 renewing, amending, supplementing or restating the license of any person

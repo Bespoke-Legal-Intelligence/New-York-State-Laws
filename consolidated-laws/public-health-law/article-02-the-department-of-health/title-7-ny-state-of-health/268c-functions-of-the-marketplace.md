@@ -10,10 +10,12 @@ insurance affordability programs including medical assistance in
 accordance with section three hundred sixty-six of the social services
 law, child health plus in accordance with section twenty-five hundred
 eleven of this chapter, the basic health program in accordance with
-section three hundred sixty-nine-gg of the social services law, premium
-tax credits and cost-sharing reductions and qualified health plans in
-accordance with applicable law and other health insurance programs as
-determined by the commissioner;
+section three hundred sixty-nine-gg of the social services law, the 1332
+state innovation program in accordance with section three hundred
+sixty-nine-ii of the social services law, premium tax credits and
+cost-sharing reductions and qualified health plans in accordance with
+applicable law and other health insurance programs as determined by the
+commissioner;
   (b) certify and make available to qualified individuals, qualified
 health plans, including dental plans, certified by the Marketplace
 pursuant to applicable law, provided that coverage under such plans
@@ -88,11 +90,13 @@ individuals of eligibility requirements for the Medicaid program under
 title XIX of the social security act and the social services law, the
 children's health insurance program (CHIP) under title XXI of the social
 security act and this chapter, the basic health program under section
-three hundred sixty-nine-gg of the social services law, or any
-applicable state or local public health insurance program and if,
-through screening of the application by the Marketplace, the Marketplace
-determines that such individuals are eligible for any such program,
-enroll such individuals in such program.
+three hundred sixty-nine-gg of the social services law, the 1332 state
+innovation program in accordance with section three hundred
+sixty-nine-ii of the social services law, or any applicable state or
+local public health insurance program and if, through screening of the
+application by the Marketplace, the Marketplace determines that such
+individuals are eligible for any such program, enroll such individuals
+in such program.
   17. Grant a certification that an individual is exempt from the
 requirement to maintain minimum essential coverage pursuant to federal
 or state law and from any penalties imposed by such requirements
@@ -145,4 +149,15 @@ provided to the chair of the senate finance committee, the chair of the
 assembly ways and means committee and the chairs of the senate and
 assembly health committees simultaneously with their submission to the
 federal government.
+  * 26. Subject to federal approval if required, the use of state funds
+and the availability of funds in the 1332 state innovation program fund
+established pursuant to section ninety-eight-d of the state finance law,
+the commissioner shall have the authority to establish a program to
+provide subsidies for the payment of premium or cost sharing or both to
+assist individuals who are eligible to purchase qualified health plans
+through the marketplace, or take such other action as appropriate to
+reduce or eliminate qualified health plan premiums or cost-sharing or
+both.
+  * NB Effective upon the commissioner of health obtaining and
+maintaining certain approvals (see chapter 57 of 2024 Pt. J § 10)
 ```

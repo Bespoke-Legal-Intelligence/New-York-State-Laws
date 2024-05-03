@@ -48,6 +48,7 @@
 - [§ 2036 Effect of failure to appoint or elect qualified voters as district meeting or election officials](2036-effect-of-failure-to-appoint-or-elect-qualified.md)
 - [§ 2037 Determination of meeting or election disputes](2037-determination-of-meeting-or-election-disputes.md)
 - [§ 2038 Application of article](2038-application-of-article.md)
+- [§ 2039 Application of article](2039-application-of-article.md)
 
 <details>
 <summary>Official heading of Part 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -121,7 +122,9 @@ Section 2001.     Notice of first meeting of district.
         2036.     Effect of failure to appoint or elect qualified voters
                     as district meeting or election officials.
         2037.     Determination of meeting or election disputes.
-        2038.     Application of article.
+        2038.     Transmission of publicly available data to the New
+                    York voting and elections database.
+        2039.     Application of article.
 ```
 
 </details>

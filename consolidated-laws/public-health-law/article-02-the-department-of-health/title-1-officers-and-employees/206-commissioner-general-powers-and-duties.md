@@ -245,7 +245,10 @@ thousand dollars per day, for each violation of or failure to comply
 with any term or provision of the state sanitary code as it relates to
 public water systems that serve a population of five thousand or more
 persons or any mass gatherings, which penalty may be assessed after a
-hearing or an opportunity to be heard.
+hearing or an opportunity to be heard;
+  (e) issue a non-patient specific statewide standing order for the
+provision of doula services for pregnant, birthing, and postpartum
+individuals through twelve months postpartum.
   5. Subject to the provisions of the state finance law, the
 commissioner is authorized to take, and administer for the state any
 grant, gift or bequest to be applied, principal or income or both, for

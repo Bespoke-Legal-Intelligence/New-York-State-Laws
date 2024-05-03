@@ -72,5 +72,5 @@ solicitations or advertisements therefor, or any existing programs of
 affirmative action regarding employment outside this state and the
 effect of contract provisions required by subdivision one of this
 section shall be so limited.
-  * NB Repealed December 31, 2024
+  * NB Repealed July 1, 2025
 ```

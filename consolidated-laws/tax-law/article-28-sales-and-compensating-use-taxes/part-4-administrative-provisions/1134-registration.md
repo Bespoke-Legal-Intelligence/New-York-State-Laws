@@ -134,7 +134,7 @@ as long as the revocation of the retail dealer registration pursuant to
 section four hundred eighty-a of this chapter remains in effect, or (b)
 the grounds set forth in clause (viii) of this subparagraph, such
 suspension or revocation shall be for a period of five years.
-  * NB Effective until December 31, 2024
+  * NB Effective until December 31, 2029
   * (A) Where a person who holds a certificate of authority (i)
 willfully fails to file a report or return required by this article,
 (ii) willfully files, causes to be filed, gives or causes to be given a
@@ -167,7 +167,7 @@ dealer registration pursuant to section four hundred eighty-a of this
 chapter remains in effect, or (b) the grounds set forth in clause (vii)
 of this subparagraph, such suspension or revocation shall be for a
 period of five years.
-  * NB Effective December 31, 2024
+  * NB Effective December 31, 2029
   (B) Where a person files a certificate of registration for a
 certificate of authority under this subdivision and in considering such
 application the commissioner ascertains that (i) any tax imposed under

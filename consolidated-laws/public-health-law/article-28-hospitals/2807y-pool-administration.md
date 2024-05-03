@@ -17,8 +17,10 @@ this article;
   (d) section twenty-eight hundred seven-t of this article;
   (e) section twenty-eight hundred seven-v of this article;
   (f) section twenty-eight hundred seven-d of this article;
-  (g) section thirty-six hundred fourteen-a of this chapter; and
-  (h) section three hundred sixty-seven-i of the social services law.
+  (g) section thirty-six hundred fourteen-a of this chapter;
+  (h) section three hundred sixty-seven-i of the social services law;
+and
+  (i) section twenty-eight hundred seven-ff of this article.
   2. In the event contracts with the article forty-three insurance law
 plans or other commissioner's designees are effectuated, the
 commissioner shall conduct annual audits of the receipt and distribution

@@ -103,7 +103,7 @@ twenty-two, thirty, thirty-A or thirty-B of this chapter.
 affected by this section and will remain in full force and effect.
   (g) The commissioner is authorized to promulgate any regulations
 necessary to implement this section.
-  * NB Effective until December 31, 2024
+  * NB Effective until December 31, 2029
   * § 29. Mandatory electronic filing and payment. (a) For purposes of
 this section, the following terms have the specified meanings:
   (1) "Authorized tax document" means a tax document which the
@@ -176,5 +176,5 @@ chapter.
 affected by this section and will remain in full force and effect.
   (g) The commissioner is authorized to promulgate any regulations
 necessary to implement this section.
-  * NB Effective December 31, 2024
+  * NB Effective December 31, 2029
 ```

@@ -72,6 +72,14 @@ the following circumstances: (i) the individual requests voluntary
 termination; (ii) the individual ceases to be a state resident; (iii)
 eligibility was determined incorrectly because of error, fraud, abuse,
 or perjury attributed to the individual; or (iv) the individual dies.
+  * (e) an eligible child under six years of age shall, consistent with
+applicable federal requirements, remain continuously enrolled until the
+later of:
+  (i) the last day of the twelfth month following the date of enrollment
+or recertification in the child health insurance plan; or
+  (ii) the last day of the month in which the child reaches the age of
+six.
+  * NB Effective January 1, 2025
   7. "Covered health care services" means: the services of physicians,
 optometrists, nurses, nurse practitioners, midwives and other related
 professional personnel which are provided on an outpatient basis,

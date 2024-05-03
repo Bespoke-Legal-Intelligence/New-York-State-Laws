@@ -889,6 +889,27 @@ less than twenty-five dollars.
 allowed to taxpayers who timely filed returns pursuant to section six
 hundred fifty-one of this article, determined with regard to extensions
 pursuant to section sex hundred fifty-seven of this article.
+  (5) (A) For tax year two thousand twenty-three, the commissioner shall
+issue a payment of a supplemental empire state child credit in the
+amount of (i) one hundred percent of the empire state child credit
+calculated and allowed pursuant to this subsection to taxpayers whose
+federal adjusted gross income was less than ten thousand dollars; (ii)
+seventy-five percent of the empire state child credit calculated and
+allowed pursuant to this subsection to taxpayers whose federal adjusted
+gross income was greater than or equal to ten thousand dollars but less
+than twenty-five thousand dollars; (iii) fifty percent of the empire
+state child credit calculated and allowed pursuant to this subsection to
+taxpayers whose federal adjusted gross income was greater than or equal
+to twenty-five thousand dollars but less than fifty thousand dollars;
+and (iv) twenty-five percent of the empire state child credit calculated
+and allowed pursuant to this subsection to taxpayers whose federal
+adjusted gross income was greater than or equal to fifty thousand
+dollars. Provided, however, that no payment shall be issued if it is
+less than twenty-five dollars.
+  (B) The supplemental payment pursuant to this paragraph shall be
+allowed to taxpayers who timely filed returns pursuant to section six
+hundred fifty-one of this article, determined with regard to extensions
+pursuant to section six hundred fifty-seven of this article.
   (d) Earned income credit. (1) General. A taxpayer shall be allowed a
 credit as provided herein equal to (i) the applicable percentage of the
 earned income credit allowed under section thirty-two of the internal
@@ -2329,6 +2350,14 @@ return-to-work credit                subdivision fifty-six-a of
 expansion tax credit under           under subdivision fifty-nine
 subsection (ooo)                     of section two hundred
                                      ten-B
+* (li) Newspaper and broadcast       Amount of credit under subdivision
+media jobs tax credit under          sixty of section two hundred ten-B
+subsection (ppp)
+  * NB There are 2 clause (li)'s
+* (li) Commercial security tax       Amount of credit under
+credit under subsection (ppp)        subdivision sixty of
+                                     section two hundred ten-B
+  * NB There are 2 clause (li)'s
   (2) The reduction of a shareholder's proportionate interest in the
 corporation shall be treated as a disposition of property for which a
 redetermination of credit is required under subsections (a), (j) and (l)
@@ -5699,6 +5728,28 @@ year, the excess shall be treated as an overpayment of tax to be
 credited or refunded in accordance with the provisions of section six
 hundred eighty-six of this article, provided, however, that no interest
 will be paid thereon.
+  * (ppp) Newspaper and broadcast media jobs tax credit. (1) Allowance
+of credit. A taxpayer shall be allowed a credit, to be computed as
+provided in section forty-nine of this chapter, against the tax imposed
+by this article.
+  (2) Application of credit. If the amount of the credit allowed under
+this subsection for the taxable year exceeds the taxpayer's tax for such
+year, the excess shall be treated as an overpayment of tax to be
+credited or refunded in accordance with the provisions of section six
+hundred eighty-six of this article, provided, however, that no interest
+will be paid thereon.
+  * NB There are 2 sb (ppp)'s
+  * (ppp) Commercial security tax credit. (1) Allowance of credit. A
+taxpayer shall be allowed a credit, to be computed as provided in
+section forty-nine of this chapter, against the tax imposed by this
+article.
+  (2) Application of credit. If the amount of the credit allowed under
+this subsection for the taxable year exceeds the taxpayer's tax for such
+year, the excess shall be treated as an overpayment of tax to be
+credited or refunded in accordance with the provisions of section six
+hundred eighty-six of this article, provided, however, that no interest
+will be paid thereon.
+  * NB There are 2 sb (ppp)'s
   (vvv) Empire state apprenticeship tax credit. (1)(A) A taxpayer that
 has been certified by the commissioner of labor as a certified employer
 pursuant to section twenty-five-c of the labor law shall be allowed a

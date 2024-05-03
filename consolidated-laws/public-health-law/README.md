@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBH |
 | Type | Consolidated law, chapter 45 |
-| Sections | 1,790 (20 repealed) |
-| Last changed | 26 Apr 2024 |
+| Sections | 1,778 |
+| Last changed | 3 May 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Health |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER 45 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (355 lines)](chapter-text.md)
+[Full chapter text (357 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [3 May 2024](../../changes/2024/2024-05-03.md): 15 amended, 8 added, 20 removed
 - [26 Apr 2024](../../changes/2024/2024-04-26.md): 15 amended
 - [5 Apr 2024](../../changes/2024/2024-04-05.md): 1 amended
 - [29 Mar 2024](../../changes/2024/2024-03-29.md): 8 amended, 19 repealed
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [9 Feb 2024](../../changes/2024/2024-02-09.md): 13 amended, 1 repealed
 - [2 Feb 2024](../../changes/2024/2024-02-02.md): 8 amended
 - [5 Jan 2024](../../changes/2024/2024-01-05.md): 4 amended
-- [29 Dec 2023](../../changes/2023/2023-12-29.md): 28 amended, 4 added
 
 ## Contents
 
@@ -116,7 +116,6 @@ Assembly, do enact as follows:
 - [Article 29 — Hospital Survey, Planning and Review](article-29-hospital-survey-planning-and-review/)
 - [Article 29-A — Access to Community Health Care Services In Rural Areas](article-29a-access-to-community-health-care-services/)
 - [Article 29-AA — Patient Centered Medical Homes](article-29aa-patient-centered-medical-homes/)
-- [Article 29-B — Orders Not to Resuscitate For Residents of Mental Hygiene Facilities](article-29b-orders-not-to-resuscitate-for-residents/) *(repealed)*
 - [Article 29-C — Health Care Agents and Proxies](article-29c-health-care-agents-and-proxies/)
 - [Article 29-CC — Family Health Care Decisions Act](article-29cc-family-health-care-decisions-act/)
 - [Article 29-CCC — Nonhospital Orders Not to Resuscitate](article-29ccc-nonhospital-orders-not-to-resuscitate/)

@@ -21,8 +21,11 @@ hereby imposed and shall be paid upon the gross receipts of every person
 holding any authorized combative sport in this state, other than any
 professional or amateur boxing, sparring or wrestling exhibition or
 match, exclusive of any federal taxes as follows:
-  (a) eight and one-half percent of gross receipts from ticket sales;
+  * (a) eight and one-half percent of gross receipts from ticket sales;
 and
+  * NB Effective until December 1, 2024
+  * (a) three percent of gross receipts from ticket sales; and
+  * NB Effective December 1, 2024
   (b) three percent of the sum of (i) gross receipts from broadcasting
 rights, and (ii) gross receipts from digital streaming over the
 internet, except that in no event shall such tax imposed pursuant to

@@ -41,11 +41,12 @@ and applicable law, including:
   (B) eligibility for Medicaid;
   (C) eligibility for Child Health Plus;
   (D) eligibility for the Basic Health Program;
-  (E) the amount of advance payments of the premium tax credit and level
+  (E) eligibility for the 1332 state innovation program;
+  (F) the amount of advance payments of the premium tax credit and level
 of cost-sharing reductions;
-  (F) the amount of any other subsidy that may be available under law;
+  (G) the amount of any other subsidy that may be available under law;
 and
-  (G) eligibility for such other health insurance programs as determined
+  (H) eligibility for such other health insurance programs as determined
 by the commissioner; and
   (ii) a re-determination of eligibility of the programs under this
 subdivision.
