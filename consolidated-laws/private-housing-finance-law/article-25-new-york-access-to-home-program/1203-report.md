@@ -4,12 +4,12 @@
 [Private Housing Finance Law](../README.md) › [Article 25 — New York Access to Home Program](README.md)
 
 ```text
-  * § 1203. Report. 1. The division of housing and community renewal
-shall issue an annual report on the access to home programs regarding
-certain data and program progress for the previous year, provided that
-reporting on paragraphs (e), (f) and (g) of this subdivision shall
-relate to contracts that have concluded in the previous year, as
-applicable. Such report shall include, but not be limited to:
+  § 1203. Report. 1. The division of housing and community renewal shall
+issue an annual report on the access to home programs regarding certain
+data and program progress for the previous year, provided that reporting
+on paragraphs (e), (f) and (g) of this subdivision shall relate to
+contracts that have concluded in the previous year, as applicable. Such
+report shall include, but not be limited to:
   (a) the number of received applications to become local
 administrators;
   (b) the number of applications to become local administrators selected
@@ -23,5 +23,4 @@ were deemed ineligible for such award.
   2. Such report required pursuant to subdivision one of this section
 shall be posted and made publicly available on the division of housing
 and community renewal's website in a clear and conspicuous manner.
-  * NB Effective May 15, 2024
 ```
