@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Labor Law § 191-D", "kind": "section", "law_id": "LAB", "location_id": "191-D", "path": "ARTICLE 6 › SECTION 191-D", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/191-D.md", "title": "Payment of wages for freelance workers"} -->
+﻿<!-- nyslaw {"citation": "Labor Law § 191-D", "kind": "section", "law_id": "LAB", "location_id": "191-D", "path": "ARTICLE 6 › SECTION 191-D", "repealed": true, "repealed_date": "2024-05-24", "source": "nys-laws:LAB/191-D.md", "title": "Payment of wages for freelance workers"} -->
 # Labor Law § 191-D — Payment of wages for freelance workers
 
 [Labor Law](../README.md) › [Article 6 — Payment of Wages](README.md)
+
+**Repealed** (24 May 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 191-d. Payment of wages for freelance workers. 1. (a)

@@ -4,7 +4,7 @@
 [Public Authorities Law](../../README.md) › [Article 9 — General Provisions](../README.md) › [Title 2 — Boards of Public Authorities](README.md)
 
 ```text
-  * § 2829. State and local authorities subject to the open meetings and
+    2829. State and local authorities subject to the open meetings and
 freedom of information laws. All state and local authorities, as such
 terms are defined in section two of this chapter, as well as all
 subsidiaries of such state and local authorities, as such terms are
@@ -17,5 +17,4 @@ meetings and public hearings on their website in real-time, post video
 recordings of all open meetings and public hearings on their website
 within five business days of the meeting or hearing and maintain such
 recordings for a period of not less than five years.
-  * NB Effective May 20, 2024
 ```

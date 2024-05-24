@@ -4,7 +4,7 @@
 [Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 1 — Power Authority of the State of New York](README.md)
 
 ```text
-  § 1005. Powers and duties of authority. Forthwith upon the appointment
+    1005. Powers and duties of authority. Forthwith upon the appointment
 and organization of the trustees and subject to the conditions and
 limitations in this title contained, the authority, in cooperation with
 the proper Canadian authorities and those of the United States as
@@ -1136,7 +1136,7 @@ plan ("strategic plan") that identifies the renewable energy generating
 priorities based on the provisions of paragraph (a) of this subdivision
 for the two-year period covered by the plan as further provided for in
 this paragraph.
-  * NB Effective until December 31, 2024
+  * NB Effective until December 31, 2040
   * (i) Beginning in two thousand twenty-five, and biennially thereafter
 until two thousand thirty-three, the authority, in consultation with the
 New York state energy research and development authority, the office of
@@ -1147,7 +1147,7 @@ strategic plan ("strategic plan") that identifies the renewable energy
 generating priorities based on the provisions of paragraph (a) of this
 subdivision for the two-year period covered by the plan as further
 provided for in this paragraph.
-  * NB Effective December 31, 2024
+  * NB Effective December 31, 2040
   (ii) In developing, and updating, the strategic plan, the authority
 shall consider:
   (A) information developed pursuant to paragraph (d) of this

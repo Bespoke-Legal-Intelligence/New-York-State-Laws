@@ -4,7 +4,7 @@
 [Tax Law](../../../README.md) › [Article 29 — Taxes Authorized For Cities, Counties and School Districts](../../README.md) › [Part 1 — Authority to Impose Taxes](../README.md) › [Subpart B — Taxes Administered By State Tax Commission](README.md)
 
 ```text
-  § 1210-A. Sales and compensating use tax for purposes of the Suffolk
+    1210-A. Sales and compensating use tax for purposes of the Suffolk
 county drinking water protection program.  (a) In addition to the taxes
 imposed by section twelve hundred ten or any other provision of this
 article, the county of Suffolk is hereby authorized and empowered to
@@ -110,7 +110,29 @@ coastal resources);
   (ii) for a water quality protection and restoration program or
 programs and land stewardship initiatives;
   (iii) for the purposes of county-wide property tax protection; and
-  (iv) for the purpose of sewer taxpayer protection.
+  (iv) for the purpose of sewer taxpayer protection (25% of the net
+collections from the tax). Beginning with the first fiscal year after
+the adoption of the water quality restoration fund, a portion of the net
+collections of such tax apportioned for this purpose as provided for
+herein, shall be transferred to the water quality restoration fund,
+established pursuant to subdivision eleven of section two hundred
+fifty-six-b of the county law. Said revenues shall be dedicated solely
+to funding individual septic system projects as defined in such
+subdivision. The portion of net collections of the tax transferred to
+the water quality restoration fund each year shall be as follows:
+Year                                                   Percentage
+1                                                          5%
+2                                                          5%
+3                                                          5%
+4                                                          5%
+5                                                         20%
+6                                                         30%
+7                                                         40%
+8                                                         50%
+9                                                         70%
+10                                                        70%
+For  all subsequent years, the portion of net collections transferred to
+the water quality restoration fund shall be fifty percent.
   Notwithstanding any special or local law, resolution or charter
 provision to the contrary, moneys in said fund which have not been
 appropriated from and transferred to or expended in any fiscal year for
