@@ -4,8 +4,8 @@
 [Public Health Law](../README.md) › [Article 28 — Hospitals](README.md)
 
 ```text
-  * § 2803-c-2. Lesbian, gay, bisexual and transgender, and people
-living with HIV long-term care facility residents' bill of rights. 1.
+  § 2803-c-2. Lesbian, gay, bisexual and transgender, and people living
+with HIV long-term care facility residents' bill of rights. 1.
 Definitions. For the purposes of this section:
   (a) "Gender identity or expression" shall have the same meaning as
 defined by section two hundred ninety-two of the executive law.
@@ -131,5 +131,4 @@ compliance with this subdivision shall be kept on site at the facility.
 programs, benefits, or protections for lesbian, gay, bisexual or
 transgender residents or residents living with HIV at long-term care
 facilities.
-  * NB Effective May 28, 2024
 ```
