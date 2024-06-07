@@ -877,12 +877,12 @@ increases, up to a maximum of twenty percent of the amount that would
 have been paid for the same services provided pursuant to title XIX of
 the federal social security act (medicaid), or for underinsured
 patients, up to a maximum of twenty percent of the amount that would
-have been paid pursuant to such patient's insurance cost sharing; (iv)
-Nothing in this paragraph shall be construed to limit a hospital's
-ability to establish patient eligibility for payment discounts at income
-levels higher than those specified herein and/or to provide greater
-payment discounts for eligible patients than those required by this
-paragraph.
+have been paid pursuant to such patient's insurance cost sharing;
+  (iv) Nothing in this paragraph shall be construed to limit a
+hospital's ability to establish patient eligibility for payment
+discounts at income levels higher than those specified herein and/or to
+provide greater payment discounts for eligible patients than those
+required by this paragraph.
   (c) Such policies and procedures shall be clear, understandable, in
 writing and publicly available in summary form and each general hospital
 participating in the pool shall ensure that every patient is made aware

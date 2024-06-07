@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 94-C", "kind": "section", "law_id": "EXC", "location_id": "94-C", "path": "ARTICLE 6 › SECTION 94-C", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/94-C.md", "title": "Major renewable energy development program"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 94-C", "kind": "section", "law_id": "EXC", "location_id": "94-C", "path": "ARTICLE 6 › SECTION 94-C", "repealed": true, "repealed_date": "2024-06-07", "source": "nys-laws:EXC/94-C.md", "title": "Major renewable energy development program"} -->
 # Executive Law § 94-C — Major renewable energy development program
 
 [Executive Law](../README.md) › [Article 6 — Department of State](README.md)
+
+**Repealed** (7 Jun 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 94-c. Major renewable energy development program. 1. Purpose. It

@@ -1542,6 +1542,5 @@ storage equipment that is: (A) owned by a person other than the
 purchaser of such electricity; (B) installed on residential property of
 the purchaser of such electricity; and (C) used to provide heating,
 cooling, hot water or electricity.
-  * NB Effective June 1, 2024
   * NB Repealed June 1, 2026
 ```

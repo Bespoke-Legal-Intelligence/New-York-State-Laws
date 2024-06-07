@@ -23,9 +23,7 @@ Section 260*2. Short title.
         261.   Legislative intent.
         262.   Definitions.
         263.   Department authorized to study obesity-report.
-        264.   Provision of information related to coursework and
-                 training in nutrition.
-  * NB There are 2 Title 5's
+* NB There are 2 Title 5's
 ```
 
 </details>

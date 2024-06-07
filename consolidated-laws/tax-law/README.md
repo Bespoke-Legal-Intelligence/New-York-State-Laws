@@ -8,7 +8,7 @@
 | Senate code | TAX |
 | Type | Consolidated law, chapter 60 |
 | Sections | 1,324 |
-| Last changed | 24 May 2024 |
+| Last changed | 7 Jun 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Tax |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [7 Jun 2024](../../changes/2024/2024-06-07.md): 1 amended
 - [24 May 2024](../../changes/2024/2024-05-24.md): 1 amended
 - [3 May 2024](../../changes/2024/2024-05-03.md): 28 amended, 3 added
 - [26 Apr 2024](../../changes/2024/2024-04-26.md): 3 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [8 Dec 2023](../../changes/2023/2023-12-08.md): 1 amended
 - [26 Nov 2023](../../changes/2023/2023-11-26.md): 1 amended
 - [17 Nov 2023](../../changes/2023/2023-11-17.md): 1 amended
-- [3 Nov 2023](../../changes/2023/2023-11-03.md): 1 amended
 
 ## Contents
 
