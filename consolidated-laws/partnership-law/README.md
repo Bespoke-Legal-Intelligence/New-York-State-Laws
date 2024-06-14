@@ -8,7 +8,7 @@
 | Senate code | PTR |
 | Type | Consolidated law, chapter 39 |
 | Sections | 165 |
-| Last changed | 8 Mar 2024 |
+| Last changed | 14 Jun 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Partnership |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [14 Jun 2024](../../changes/2024/2024-06-14.md): 2 amended
 - [8 Mar 2024](../../changes/2024/2024-03-08.md): 2 amended
 - [15 Dec 2023](../../changes/2023/2023-12-15.md): 2 amended
 - [6 Jan 2023](../../changes/2023/2023-01-06.md): 15 amended
