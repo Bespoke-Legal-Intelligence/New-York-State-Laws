@@ -607,7 +607,7 @@ residential health care facility complies with its plan of correction
 and the applicable regulations.
   (d) The commissioner shall promulgate any rules and regulations
 necessary to implement the provisions of this subdivision.
-  * 13. The commissioner shall require each residential health care
+  13. The commissioner shall require each residential health care
 facility to provide residents and their families with a separate
 document, as part of an intake application, in no less than twelve-point
 font, that includes information on how a potential resident and their
@@ -617,33 +617,7 @@ the web address for the New York state nursing home profiles website
 that is maintained by the department and the nursing home compare
 website maintained by the United States department of health and human
 services, if applicable.
-  * NB There are 2 sb 13's
-  * 13. (a) The commissioner, in consultation with the state long-term
-care ombudsman, shall establish policies and procedures for: (i)
-reporting to the department, by staff and volunteers of the long-term
-care ombudsman program, issues identified or witnessed by such staff and
-volunteers that relate to actions, inactions or decisions that may
-adversely affect the health, safety and welfare of residents at
-residential health care facilities licensed or certified by the
-department in this state. Such policies and procedures shall include,
-but not be limited to, establishing a telephone hotline number and
-reporting form on the department's website for use by long-term care
-ombudsman program staff and volunteers for the submission of reports;
-  (ii) timely and regular communications by the department to the state
-long-term care ombudsman regarding such issues reported by staff and
-volunteers pursuant to subparagraph (i) of this paragraph and the
-resolution of such issues; and
-  (iii) requiring the department to notify the local ombudsman entity as
-defined in paragraph (c) of subdivision one of section two hundred
-eighteen of the elder law after the department conducts a
-recertification survey of a facility.
-  (b) Nothing in this subdivision shall be construed to limit in any way
-a resident's right to privacy and confidentiality pursuant to the
-regulations of the long-term care ombudsman program or the right to
-refuse to consent to the involvement of the long-term care ombudsman.
-  * NB There are 2 sb 13's
-  * NB Effective until June 19, 2024
-  * 14. (a) The commissioner, in consultation with the state long-term
+  14. (a) The commissioner, in consultation with the state long-term
 care ombudsman, shall establish policies and procedures for: (i)
 reporting to the department, by staff and volunteers of the long-term
 care ombudsman program, on issues identified or witnessed by such staff
@@ -678,5 +652,4 @@ unsubstantiated; and (ii) "status" shall mean whether the complaint has
 been assigned to department staff for investigation, whether the
 complaint remains open under active investigation, or whether the
 complaint has reached resolution.
-  * NB Effective June 19, 2024
 ```

@@ -18,6 +18,7 @@
 - [§ 61 Repairs and modifications](61-repairs-and-modifications.md)
 - [§ 62 Loss of life by misconduct of officers](62-loss-of-life-by-misconduct-of-officers.md)
 - [§ 63 Certificate of inspection](63-certificate-of-inspection.md)
+- [§ 63-A Suspension of certificate of inspection; penalty for operating a vessel without a certificate of inspection or during suspension](63a-suspension-of-certificate-of-inspection-penalty-for-operating-a-vessel-without.md)
 - [§ 64 Licenses](64-licenses.md)
 - [§ 64-A Suspension and revocation of licenses](64a-suspension-and-revocation-of-licenses.md)
 - [§ 65 Fees for vessel inspections and for the issuance of licenses](65-fees-for-vessel-inspections-and-for-the-issuance-of-licenses.md)

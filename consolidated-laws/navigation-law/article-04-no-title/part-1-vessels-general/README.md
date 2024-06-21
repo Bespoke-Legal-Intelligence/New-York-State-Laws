@@ -43,6 +43,7 @@
 - [§ 49-A Operation of a vessel while under the influence of alcohol or drugs](49a-operation-of-a-vessel-while-under-the-influence-of-alcohol-or-drugs.md)
 - [§ 49-B Operating a vessel after having consumed alcohol; under the age of twenty-one; per se](49b-operating-a-vessel-after-having-consumed-alcohol-under-the-age-of-twenty-one-per.md)
 - [§ 49-C Termination of unsafe operation](49c-termination-of-unsafe-operation.md)
+- [§ 49-D Application](49d-application.md)
 
 <details>
 <summary>Official heading of Part 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

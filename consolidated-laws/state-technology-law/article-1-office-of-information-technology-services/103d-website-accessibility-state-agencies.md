@@ -4,7 +4,7 @@
 [State Technology Law](../README.md) › [Article 1 — Office of Information Technology Services](README.md)
 
 ```text
-  * § 103-d. Website accessibility; state agencies. Each state agency
+  § 103-d. Website accessibility; state agencies. Each state agency
 shall, to the extent practicable, conform any of their websites, created
 or modified with changes to form or function after the effective date of
 this section, by January first, two thousand twenty-seven, to the most
@@ -29,5 +29,4 @@ branding elements, or other aesthetic components; and 2. integration of
 dynamic interfaces. Nothing in this section shall be construed to be
 inconsistent with any current or future applicable federal laws or
 regulations.
-  * NB Effective June 19, 2024
 ```

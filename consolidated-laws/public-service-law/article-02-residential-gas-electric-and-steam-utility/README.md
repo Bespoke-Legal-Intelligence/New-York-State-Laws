@@ -16,7 +16,7 @@
 - [§ 37 Deferred payment agreements](37-deferred-payment-agreements.md)
 - [§ 38 Budget or levelized payment plans; quarterly billing](38-budget-or-levelized-payment-plans-quarterly-billing.md)
 - [§ 39 Meter reading and estimated bills](39-meter-reading-and-estimated-bills.md)
-- [§ 40 Voluntary third-party notice prior to termination of service](40-voluntary-third-party-notice-prior-to-termination-of-service.md)
+- [§ 40 Voluntary third-party notification](40-voluntary-third-party-notification.md)
 - [§ 41 Finality of certain utility charges](41-finality-of-certain-utility-charges.md)
 - [§ 42 Other charges](42-other-charges.md)
 - [§ 42-A Payment of wages to workers; certain cases](42a-payment-of-wages-to-workers-certain-cases.md)

@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 135 — Veterinary Medicine and Animal Health Technology](README.md)
 
 ```text
-  * § 6715. Dispensing information to be provided by veterinarians. 1.
+  § 6715. Dispensing information to be provided by veterinarians. 1.
 Each time a veterinarian initially prescribes or dispenses a drug to a
 dog, cat, or rabbit for use outside the office, the veterinarian shall
 provide to the owner of such animal, or his or her agent, the following
@@ -23,5 +23,4 @@ prescribed or dispensed pursuant to subdivision one of this section.
   3. The information to be provided pursuant to subdivision one of this
 section shall be provided in writing or orally and the method of
 disclosure shall be noted in the patient medical record.
-  * NB Effective June 15, 2024
 ```

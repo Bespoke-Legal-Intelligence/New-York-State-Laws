@@ -19,6 +19,7 @@
 - [§ 171 Jurisdiction of courts](171-jurisdiction-of-courts.md)
 - [§ 172 Powers of municipalities and state agencies](172-powers-of-municipalities-and-state-agencies.md)
 - [§ 173 Applicability to public authorities](173-applicability-to-public-authorities.md)
+- [§ 174 Major steam electric generating facilities certificates](174-major-steam-electric-generating-facilities-certificates.md)
 
 <details>
 <summary>Official heading of Article 10, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -40,6 +41,7 @@ Section 160. Definitions.
         171. Jurisdiction of courts.
         172. Powers of municipalities and state agencies.
         173. Applicability to public authorities.
+        174. Major steam electric generating facilities certificates.
 ```
 
 </details>

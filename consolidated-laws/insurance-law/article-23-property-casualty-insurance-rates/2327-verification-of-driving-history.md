@@ -4,7 +4,7 @@
 [Insurance Law](../README.md) › [Article 23 — Property/casualty Insurance Rates](README.md)
 
 ```text
-  * § 2327. Verification of driving history. No insurer who utilizes an
+  § 2327. Verification of driving history. No insurer who utilizes an
 applicant's New York state driving history as a rating or underwriting
 factor for private passenger motor vehicle insurance in this state shall
 bind a policy of insurance, or process a percentage of the annual
@@ -20,5 +20,4 @@ driving history is unavailable at the time of the initial inquiry due to
 a temporary website outage, service interruption or other circumstances
 beyond the control of the insurer, producer or third-party
 representative.
-  * NB Effective June 19, 2024
 ```

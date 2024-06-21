@@ -232,7 +232,7 @@ more years of credited service, except when transferring within and
 between the New York city employees' retirement system, the New York
 city teachers' retirement system and the New York city board of
 education retirement system.
-  * i. 1. Notwithstanding any other law, rule or regulation to the
+  i. 1. Notwithstanding any other law, rule or regulation to the
 contrary, for any police officer employed by the division of law
 enforcement in the department of environmental protection in the city of
 New York transferring from the New York city employees' retirement
@@ -272,5 +272,4 @@ subdivisions c and d of this section.
 shall be eligible to receive additional service credit pursuant to
 subdivision b of section three hundred eighty-four-e of this article if
 his or her employer has elected to provide such service credit.
-  * NB Effective June 19, 2024
 ```

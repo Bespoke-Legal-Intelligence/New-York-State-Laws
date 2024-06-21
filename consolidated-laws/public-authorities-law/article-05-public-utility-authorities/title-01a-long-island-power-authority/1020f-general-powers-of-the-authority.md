@@ -448,8 +448,7 @@ receive such notices, and provided further, where a residential customer
 opts for third-party notifications, such residential customer may opt to
 continue to receive such notices.
   * NB There are 2 sb (jj)'s
-  * NB Effective June 19, 2024
-  * (kk) The authority and its service provider shall permit a landlord,
+  (kk) The authority and its service provider shall permit a landlord,
 upon written request of both the landlord and tenant, to designate a
 third party to be notified of all requests for discontinuance of service
 to units occupied by such tenant, provided that the designated third
@@ -457,6 +456,5 @@ party indicates in writing a willingness to receive such notices, and
 provided further, where the tenant and landlord customers opt for
 third-party notifications, such tenant and landlord customers may opt to
 continue to receive such notices.
-  * NB Effective June 19, 2024
   * NB There are 2 § 1020-f's
 ```

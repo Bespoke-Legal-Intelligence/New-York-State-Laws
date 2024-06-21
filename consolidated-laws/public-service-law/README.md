@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBS |
 | Type | Consolidated law, chapter 48 |
-| Sections | 280 |
-| Last changed | 15 Mar 2024 |
+| Sections | 272 |
+| Last changed | 21 Jun 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Service |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [21 Jun 2024](../../changes/2024/2024-06-21.md): 17 amended, 6 added, 14 removed
 - [15 Mar 2024](../../changes/2024/2024-03-15.md): 1 amended
 - [16 Feb 2024](../../changes/2024/2024-02-16.md): 1 amended
 - [9 Feb 2024](../../changes/2024/2024-02-09.md): 3 amended, 1 added, 1 removed
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [22 Sep 2023](../../changes/2023/2023-09-22.md): 1 added
 - [25 Aug 2023](../../changes/2023/2023-08-25.md): 1 amended
 - [7 Jul 2023](../../changes/2023/2023-07-07.md): 2 amended
-- [23 Jun 2023](../../changes/2023/2023-06-23.md): 2 amended
 
 ## Contents
 
@@ -56,8 +56,7 @@ Assembly, do enact as follows:
 - [Article 6 — Provisions Affecting Two or More Kinds of the Public Service and the Persons and Corporations Furnishing Such Service](article-06-provisions-affecting-two-or-more-kinds/)
 - [Article 7 — Siting of Major Utility Transmission Facilities](article-07-siting-of-major-utility-transmission-facilities/)
 - [Article 7-A — Home Insulation and Conservation](article-07a-home-insulation-and-conservation/)
-- [Article 8 — Siting of Major Steam Electric Generating Facilities](article-08-siting-of-major-steam-electric-generating/)
-- [Article 8\* — Siting of Major Steam Electric Generating Facilities](article-08-siting-of-major-steam-electric-generating-2/)
+- [Article 8 — Siting of Renewable Energy and Electric Transmission](article-08-siting-of-renewable-energy-and-electric/)
 - [Article 9 — Commissions and Offices Abolished; Saving Clause; Repeal](article-09-commissions-and-offices-abolished-saving-clause/)
 - [Article 10 — Siting of Major Electric Generating Facilities](article-10-siting-of-major-electric-generating-facilities/)
 - [Article 11 — Provisions Relating to Cable Television Companies](article-11-provisions-relating-to-cable-television/)

@@ -4,7 +4,7 @@
 [Insurance Law](../README.md) › [Article 1 — General Provisions](README.md)
 
 ```text
-  * § 111-a. Notification of prescription drug price increases by
+  § 111-a. Notification of prescription drug price increases by
 manufacturers. (a) This section shall apply to a manufacturer of a
 prescription drug that is purchased or reimbursed in this state by any
 of the following:
@@ -79,5 +79,4 @@ penalty or remedy authorized by this chapter, after notice and a
 hearing, against such manufacturer of up to five thousand dollars per
 day for every day after the reporting period described in this section
 that the required information is not reported.
-  * NB Effective June 19, 2024
 ```

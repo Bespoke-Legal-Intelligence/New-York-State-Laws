@@ -4,7 +4,7 @@
 [Public Service Law](../README.md) › [Article 4 — Provisions Relating to Gas and Electric Corporations; Regulation of Price of Gas and Electricity](README.md)
 
 ```text
-  * § 66-w. Finality of charges; small non-residential customers.
+  § 66-w. Finality of charges; small non-residential customers.
 Notwithstanding any other provision of law if a utility corporation or
 municipality does not render a small non-residential customer for gas or
 electric service, with the exception of a seasonal or short-term
@@ -23,5 +23,4 @@ section, "small non-residential customer" means non-residential electric
 customers that are non-demand billed customers and non-residential gas
 customers that use less than or equal to 750 dekatherms per year. Such
 term shall not include street lighting accounts.
-  * NB Effective June 19, 2024
 ```

@@ -10,6 +10,7 @@
 - [§ 3 Department of public service](03-department-of-public-service.md)
 - [§ 3-A Transfer of lands](03a-transfer-of-lands.md)
 - [§ 3-B Long Island office of the department](03b-long-island-office-of-the-department.md)
+- [§ 3-C Office of renewable energy siting and electric transmission](03c-office-of-renewable-energy-siting-and-electric-transmission.md)
 - [§ 4 The public service commission](04-the-public-service-commission.md)
 - [§ 4-B Removals](04b-removals.md)
 - [§ 5 Jurisdiction, powers and duties of public service commission](05-jurisdiction-powers-and-duties-of-public-service-commission.md)
@@ -52,6 +53,8 @@ Section 1.    Short title.
         3.    Department of public service.
         3-a.  Transfer of lands.
         3-b.  Long Island office of the department.
+        3-c.  Office of renewable energy siting and electric
+                transmission.
         4.    The public service commission.
         4-b.  Removals.
         5.    Jurisdiction, powers and duties of public service
