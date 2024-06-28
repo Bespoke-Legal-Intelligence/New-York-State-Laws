@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | GBS |
 | Type | Consolidated law, chapter 20 |
-| Sections | 1,335 |
-| Last changed | 21 Jun 2024 |
+| Sections | 1,353 |
+| Last changed | 28 Jun 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Business |
 
@@ -29,10 +29,11 @@ AN ACT relating to general business, constituting chapter twenty of the
   Assembly, do enact as follows:
 ```
 
-[Full chapter text (184 lines)](chapter-text.md)
+[Full chapter text (187 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [28 Jun 2024](../../changes/2024/2024-06-28.md): 18 added
 - [21 Jun 2024](../../changes/2024/2024-06-21.md): 1 amended
 - [14 Jun 2024](../../changes/2024/2024-06-14.md): 1 amended
 - [3 May 2024](../../changes/2024/2024-05-03.md): 2 added
@@ -42,7 +43,6 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [8 Mar 2024](../../changes/2024/2024-03-08.md): 1 amended, 6 added
 - [16 Feb 2024](../../changes/2024/2024-02-16.md): 2 amended
 - [9 Feb 2024](../../changes/2024/2024-02-09.md): 5 amended, 5 added, 5 removed
-- [2 Feb 2024](../../changes/2024/2024-02-02.md): 4 amended
 
 ## Contents
 
@@ -173,10 +173,12 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 39DDDD — Article 39-dddd Sale, Manufacturing, Importing and Marketing of Firearms](article-39dddd-article-39-dddd-sale-manufacturing-importing/)
 - [Article 39-E — Uniform Athlete Agents Act](article-39e-uniform-athlete-agents-act/)
 - [Article 39-F — Notification of Unauthorized Acquisition of Private Information; Data Security Protections](article-39f-notification-of-unauthorized-acquisition/)
+- [Article 39-FF — New York Child Data Protection Act](article-39ff-new-york-child-data-protection-act/)
 - [Article 39-G — Document Destruction Contractors](article-39g-document-destruction-contractors/)
 - [Article 40 — Peer-to-peer Car Sharing Programs](article-40-peer-to-peer-car-sharing-programs/)
 - [Article 41 — Combative Sports](article-41-combative-sports/)
 - [Article 43 — New York State Secure Choice Savings Program](article-43-new-york-state-secure-choice-savings-program/)
 - [Article 44 — Regulation of Surrogacy Programs and Assisted Reproduction Service Providers](article-44-regulation-of-surrogacy-programs-and-assisted/)
 - [Article 44-A — Freelance Isn't Free Act](article-44a-freelance-isnt-free-act/)
+- [Article 45 — Safe For Kids Act](article-45-safe-for-kids-act/)
 - [Article 46 — Laws Repealed; When to Take Effect](article-46-laws-repealed-when-to-take-effect/)

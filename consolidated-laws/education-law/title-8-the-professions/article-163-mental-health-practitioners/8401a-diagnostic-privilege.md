@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 163 — Mental Health Practitioners](README.md)
 
 ```text
-  * § 8401-a. Diagnostic privilege. 1. For issuance of a privilege to
+  § 8401-a. Diagnostic privilege. 1. For issuance of a privilege to
 diagnose and develop assessment-based treatment plans, as defined in
 section eighty-four hundred one of this article, the applicant shall
 fulfill the following requirements:
@@ -57,5 +57,4 @@ continues to meet the requirements for the privilege set forth in this
 section. The fee for such registration shall be one hundred seventy-five
 dollars. The registration period for a privilege holder shall be
 coterminous with his or her registration under this article.
-  * NB Effective June 24, 2024
 ```

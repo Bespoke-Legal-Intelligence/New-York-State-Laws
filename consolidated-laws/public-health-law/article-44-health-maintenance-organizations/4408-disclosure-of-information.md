@@ -279,7 +279,6 @@ stated on the form in clear and conspicuous type:
 to the Donate Life Registry? Check box for 'yes' or 'skip this
 question'."
   * NB There are 2 sb 8's
-  * NB Effective June 23, 2024
   * 8. (a) As used in this subdivision:
   (i) "Pharmacy benefit manager" shall have the meaning set forth in
 section two hundred eighty-a of this chapter.
