@@ -15,8 +15,8 @@ this section, the term "hotel" shall mean a building or portion of it
 which is regularly used and kept open as such for the lodging of guests.
 The term "hotel" includes an apartment hotel, a motel or a boarding
 house, whether or not meals are served. The rate of such tax shall not
-exceed three percent of the per diem rental rate for each room whether
-such room is rented on a daily or longer basis.
+exceed five and seven-eighths percent of the per diem rental rate for
+each room whether such room is rented on a daily or longer basis.
   (2) Such taxes may be collected and administered by the chief fiscal
 officer of the city of Yonkers by such means and in such manner as other
 taxes which are now collected and administered by such officer or as
@@ -123,5 +123,5 @@ pursuant to this section.
 any person or circumstance shall be held invalid, the remainder of this
 section and the application of such provision to other persons or
 circumstances shall not be affected thereby.
-  * NB Repealed September 1, 2024
+  * NB Repealed September 1, 2027
 ```

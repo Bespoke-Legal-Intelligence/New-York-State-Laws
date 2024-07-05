@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 19-I — Waterfront Commission Act](README.md)
 
 ```text
-  * § 534-o. Employment information centers. 1. The commission shall
+  § 534-o. Employment information centers. 1. The commission shall
 establish and maintain one or more employment information centers within
 the port of New York district in this state at such locations as it may
 determine. No person shall, directly or indirectly, hire any person for
@@ -27,5 +27,4 @@ as may be required by the rules and regulations prescribed by the
 commission with regard to the name of each person hired as a longshore
 worker or security officer, the time and place of hiring, the time,
 place and hours of work, and the compensation therefor.
-  * NB Effective June 30, 2024
 ```

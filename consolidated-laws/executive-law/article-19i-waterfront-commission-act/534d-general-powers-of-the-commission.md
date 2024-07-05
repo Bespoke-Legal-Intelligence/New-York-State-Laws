@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 19-I — Waterfront Commission Act](README.md)
 
 ```text
-  * § 534-d. General powers of the commission. In addition to the powers
+  § 534-d. General powers of the commission. In addition to the powers
 and duties elsewhere prescribed herein, the commission shall have the
 power:
   1. To have a seal and alter the same at pleasure.
@@ -131,5 +131,4 @@ action in both states; and
 perform work or who apply for work at an employment information center
 within the other state, shall be deemed to have performed work or to
 have applied for work in the state in which they are registered.
-  * NB Effective June 30, 2024
 ```

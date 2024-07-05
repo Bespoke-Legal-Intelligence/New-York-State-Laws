@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 19-I — Waterfront Commission Act](README.md)
 
 ```text
-  * § 534-j. List of qualified longshore workers for employment as
+  § 534-j. List of qualified longshore workers for employment as
 checkers. 1. The commission shall maintain within the longshore workers'
 register a list of all qualified longshore workers eligible, as provided
 in this section, for employment as checkers in the port of New York
@@ -114,5 +114,4 @@ article.
   8. Nothing contained in this section shall be construed to limit in
 any way any rights of labor reserved by section five hundred
 thirty-four-q of this article.
-  * NB Effective June 30, 2024
 ```

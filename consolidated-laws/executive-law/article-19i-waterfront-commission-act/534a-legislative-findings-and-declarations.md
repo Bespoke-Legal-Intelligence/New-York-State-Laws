@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 19-I — Waterfront Commission Act](README.md)
 
 ```text
-  *§ 534-a. Legislative findings and declarations. 1. The state of New
+  § 534-a. Legislative findings and declarations. 1. The state of New
 York hereby finds and declares that:
   In 1953, the conditions under which waterfront labor was employed
 within the port of New York district were depressing and degrading to
@@ -56,5 +56,4 @@ were convicted of serious crimes or who associate with organized crime
 in violation of this act, to overcome discrimination and other unfair
 hiring practices, and to extirpate corruption and racketeering in the
 port of New York district in this state.
-  * NB Effective June 30, 2024
 ```

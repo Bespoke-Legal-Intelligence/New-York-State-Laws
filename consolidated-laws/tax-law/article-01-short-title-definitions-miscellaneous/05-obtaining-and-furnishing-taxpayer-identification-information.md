@@ -28,10 +28,6 @@ subject to article one hundred one of the education law and a
 cooperative corporation.
   * (c) "State agency" shall mean the state of New York, any department,
 board, bureau, commission, division, office, council or agency thereof,
-a public authority or a public benefit corporation.
-  * NB Effective until June 30, 2024
-  * (c) "State agency" shall mean the state of New York, any department,
-board, bureau, commission, division, office, council or agency thereof,
 a public authority or a public benefit corporation. "State agency" shall
 also include the New York Waterfront Commission.
   * NB Effective June 30, 2024 until enactment by New Jersey of

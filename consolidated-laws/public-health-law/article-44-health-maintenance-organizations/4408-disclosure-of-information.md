@@ -278,6 +278,7 @@ stated on the form in clear and conspicuous type:
   "You must fill out the following section: Would you like to be added
 to the Donate Life Registry? Check box for 'yes' or 'skip this
 question'."
+  * NB Effective January 1, 2026
   * NB There are 2 sb 8's
   * 8. (a) As used in this subdivision:
   (i) "Pharmacy benefit manager" shall have the meaning set forth in

@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 19-I — Waterfront Commission Act](README.md)
 
 ```text
-  * § 534-f. Pier superintendents and hiring agents. 1. No person shall
+  § 534-f. Pier superintendents and hiring agents. 1. No person shall
 act as a pier superintendent or as a hiring agent within the port of New
 York district in this state without first having obtained from the
 commission or previously, from the bi-state commission, a license to act
@@ -130,5 +130,4 @@ may issue an order removing the ineligibility. A petition for an order
 to remove ineligibility may be made to the commission before or after
 the hearing required by section five hundred thirty-four-n of this
 article.
-  * NB Effective June 30, 2024
 ```

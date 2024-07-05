@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 19-I — Waterfront Commission Act](README.md)
 
 ```text
-  * § 534-y. Transfer of officers, employees. 1. Any officer or employee
+  § 534-y. Transfer of officers, employees. 1. Any officer or employee
 in the state, county or municipal civil service in either state who
 shall transfer to service with the commission may be given one or more
 leaves of absence without pay and may, before the expiration of such
@@ -23,5 +23,4 @@ who is a member of the New York state and local retirement system, shall
 continue to have all rights, privileges, obligations and status with
 respect to such system as provided under the retirement and social
 security law.
-  * NB Effective June 30, 2024
 ```

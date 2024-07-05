@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 19-I — Waterfront Commission Act](README.md)
 
 ```text
-  * § 534-b. Definitions. As used in this article, the following terms
+  § 534-b. Definitions. As used in this article, the following terms
 shall have the following meanings:
   1. "Act" shall mean this article and rules or regulations lawfully
 promulgated thereunder and shall include any amendments or supplements
@@ -163,5 +163,4 @@ water.
 investigation, interview or other proceeding conducted by the commission
 pursuant to the provisions of section five hundred thirty-four of this
 article.
-  * NB Effective June 30, 2024
 ```

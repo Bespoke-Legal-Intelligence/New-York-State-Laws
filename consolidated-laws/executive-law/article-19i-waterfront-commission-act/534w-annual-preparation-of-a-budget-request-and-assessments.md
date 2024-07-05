@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 19-I — Waterfront Commission Act](README.md)
 
 ```text
-  * § 534-w. Annual preparation of a budget request and assessments. 1.
+  § 534-w. Annual preparation of a budget request and assessments. 1.
 The commission shall annually submit a budget request, which shall be
 submitted to the director of the budget in such form as the director may
 require.
@@ -39,5 +39,4 @@ registration of longshore workers or the use of an employment
 information center. The commission shall establish reasonable procedures
 for the consideration of protests by affected employers concerning the
 estimates and computation of the rate of assessment.
-  * NB Effective June 30, 2024
 ```

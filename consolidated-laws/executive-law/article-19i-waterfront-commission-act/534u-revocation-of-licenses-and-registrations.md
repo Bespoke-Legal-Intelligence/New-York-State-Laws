@@ -4,11 +4,11 @@
 [Executive Law](../README.md) › [Article 19-I — Waterfront Commission Act](README.md)
 
 ```text
-  * § 534-u. Revocation of licenses and registrations. In addition to
-the grounds elsewhere set forth in this article, any license or
-registration issued or made pursuant thereto may be revoked or suspended
-for such period as the commission deems in the public interest or the
-licensee or registrant may be reprimanded, for:
+  § 534-u. Revocation of licenses and registrations. In addition to the
+grounds elsewhere set forth in this article, any license or registration
+issued or made pursuant thereto may be revoked or suspended for such
+period as the commission deems in the public interest or the licensee or
+registrant may be reprimanded, for:
   1. Conviction of any crime or offense in relation to gambling if the
 crime or offense was committed at or on a pier or other waterfront
 terminal or within five hundred feet thereof;
@@ -47,5 +47,4 @@ under this act would be inimical to the policies of this article,
 provided, however, that association without the requisite showing of
 inimicality as set forth herein shall be insufficient grounds for
 revocation.
-  * NB Effective June 30, 2024
 ```

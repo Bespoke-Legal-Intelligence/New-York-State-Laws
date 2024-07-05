@@ -30,6 +30,7 @@
 - [§ 3012-A Elementary tenure area](3012a-elementary-tenure-area.md)
 - [§ 3012-C Annual professional performance review of classroom teachers and building principals](3012c-annual-professional-performance-review-of-classroom-teachers-and-building.md)
 - [§ 3012-D Annual teacher and principal evaluations](3012d-annual-teacher-and-principal-evaluations.md)
+- [§ 3012-E Teacher and principal performance review plans](3012e-teacher-and-principal-performance-review-plans.md)
 - [§ 3013 Abolition of office or position](3013-abolition-of-office-or-position.md)
 - [§ 3014 Tenure: boards of cooperative educational services](3014-tenure-boards-of-cooperative-educational-services.md)
 - [§ 3014-A Teachers' rights as a result of a board or boards of cooperative educational services taking over a program formerly operated by a school...](3014a-teachers-rights-as-a-result-of-a-board-or-boards-of-cooperative.md)
@@ -115,6 +116,7 @@ Section 3001.   Qualifications of teachers.
         3012-c. Annual professional performance review of classroom
                   teachers and building principals.
         3012-d. Annual teacher and principal evaluations.
+        3012-e. Teacher and principal performance review plans.
         3013.   Abolition of office or position.
         3014.   Tenure: boards of cooperative educational services.
         3014-a. Teachers' rights as a result of a board or boards of
@@ -139,8 +141,6 @@ Section 3001.   Qualifications of teachers.
         3019-a. Notice of termination of service by teachers.
         3020.   Discipline of teachers.
         3020-a. Disciplinary procedures and penalties.
-        3020-b. Streamlined removal procedures for teachers rated
-                  ineffective.
         3021.   Removal of superintendents, teachers and employees for
                   treasonable or seditious acts or utterances.
         3021-a. Notification of accusatory instrument alleging a sex

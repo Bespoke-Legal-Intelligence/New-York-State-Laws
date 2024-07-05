@@ -48,6 +48,7 @@
 - [Title 28-AA — Chautauqua, Cattaraugus, Allegany and Steuben Southern Tier Extension Railroad Authority](title-28aa-chautauqua-cattaraugus-allegany/)
 - [Title 28-B — Schenectady Metroplex Development Authority](title-28b-schenectady-metroplex-development/)
 - [Title 28-BB — Albany Convention Center Authority](title-28bb-albany-convention-center-authority/)
+- [Title 28-C — Albany County Pine Hills Land Authority](title-28c-albany-county-pine-hills-land/)
 - [Title 29 — Development Authority of the North Country Act](title-29-development-authority-of-the-north/)
 - [Title 31 — Monroe County Airport Authority](title-31-monroe-county-airport-authority/)
 - [Title 32 — Albany County Airport Authority](title-32-albany-county-airport-authority/)
@@ -137,6 +138,7 @@ Title  4.     Dormitory Authority (§§ 1675-1694).
        28-B.  Schenectady Metroplex Development Authority
                 (§§ 2650-2674).
        28-BB. Albany Convention Center Authority (§§ 2675-a--2675-r).
+       28-C.  Albany County Pine Hills Land Authority (§§ 2676--2676-x).
        29.    Development Authority of the North Country Act
                 (§§ 2700-2724).
        31.    Monroe County Airport Authority (§§ 2750-2775).

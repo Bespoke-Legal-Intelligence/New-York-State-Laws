@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 19-I — Waterfront Commission Act](README.md)
 
 ```text
-  * § 534-r. Certain solicitations prohibited; prohibition against the
+  § 534-r. Certain solicitations prohibited; prohibition against the
 holding of union position by officers, agents or employees who have been
 convicted of certain crimes and offenses. 1. No person shall solicit,
 collect or receive any dues, assessments, levies, fines or
@@ -78,5 +78,4 @@ order shall be granted ex parte and without bond pending final hearing
 and determination. Nothing in this section shall be construed to modify,
 limit or restrict in any way the provisions of subdivision one of this
 section.
-  * NB Effective June 30, 2024
 ```

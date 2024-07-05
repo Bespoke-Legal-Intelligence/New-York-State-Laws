@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 19-I — Waterfront Commission Act](README.md)
 
 ```text
-  * § 534-z. Annual report. 1. The commission shall submit an annual
+  § 534-z. Annual report. 1. The commission shall submit an annual
 report to the governor, the speaker of the assembly, and the temporary
 president of the senate on or before the first day of September of each
 year detailing the previous fiscal year. The commission shall post such
@@ -54,5 +54,4 @@ summary of the commission's accomplishments; and
   3. Nothing in this section shall be read to require the disclosure of
 personally identifiable information pertaining to any applicant nor the
 disclosure of any information regarding ongoing criminal investigations.
-  * NB Effective June 30, 2024
 ```

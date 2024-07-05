@@ -4,8 +4,8 @@
 [Executive Law](../README.md) › [Article 19-I — Waterfront Commission Act](README.md)
 
 ```text
-  * § 534-x. Payment of assessment. 1. Every person subject to the
-payment of any assessment under the provisions of section five hundred
+  § 534-x. Payment of assessment. 1. Every person subject to the payment
+of any assessment under the provisions of section five hundred
 thirty-four-w of this article shall file on or before the fifteenth day
 of the first month of each calendar quarter-year a separate return,
 together with the payment of the assessment due, for the preceding
@@ -117,5 +117,4 @@ deposits.
   11. The commission shall reimburse the state for any funds advanced to
 the commission exclusive of sums appropriated pursuant to section five
 hundred thirty-four-w of this article.
-  * NB Effective June 30, 2024
 ```

@@ -25,6 +25,7 @@
 - [§ 746 Stipulations](746-stipulations.md)
 - [§ 747 Judgment](747-judgment.md)
 - [§ 749 Warrant](749-warrant.md)
+- [§ 749-A New York city marshals](749a-new-york-city-marshals.md)
 - [§ 751 Stay upon paying rent or giving undertaking; discretionary stay outside city of New York](751-stay-upon-paying-rent-or-giving-undertaking.md)
 - [§ 753 Stay in premises occupied for dwelling purposes](753-stay-in-premises-occupied-for-dwelling-purposes.md)
 - [§ 755 Stay of proceeding or action for rent upon failure to make repairs](755-stay-of-proceeding-or-action-for-rent-upon-failure.md)
@@ -68,6 +69,7 @@ Section 701.   Jurisdiction; courts; venue.
         746.   Stipulations.
         747.   Judgment.
         749.   Warrant.
+        749-a. New York city marshals.
         751.   Stay upon paying rent or giving undertaking;
                  discretionary stay outside city of New York.
         753.   Stay in premises occupied for dwelling purposes.

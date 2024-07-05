@@ -8,17 +8,22 @@
 thousand one hundred twenty-one of the civil practice law and rules, or
 unless otherwise specifically authorized or required by a state or
 federal law, no person shall order the performance of an HIV related
-test without first, at a minimum, orally advising the protected
-individual, or, when the protected individual lacks capacity to consent,
-a person authorized to consent to health care for such individual, that
-an HIV-related test is being performed, or over the objection of such
-individual or authorized persons. Such advisement and objection, when
-applicable shall be noted in the individual's record.
-  2. A person ordering the performance of an HIV related test shall
-provide either directly or through a representative to the subject of an
-HIV related test or, if the subject lacks capacity to consent, to a
-person authorized pursuant to law to consent to health care for the
-subject, an explanation that:
+test without first, at a minimum, providing notice by means readily
+accessible in multiple languages to the protected individual, or, when
+the protected individual lacks capacity to consent, a person authorized
+to consent to health care for such individual, that an HIV-related test
+is being performed, or over the objection of such individual or
+authorized persons. Such notice may be provided orally, in writing by
+prominently displayed signage, by electronic means or other appropriate
+form of communication. Such notice shall include information that HIV
+testing is voluntary. A refusal of an HIV related test shall be noted in
+the individual's record.
+  2. Prior to ordering the test, information shall be provided, either
+orally or by prominently displayed signage, by printed materials, by
+electronic means or other appropriate form of communication to the
+subject of an HIV related test or, if the subject lacks capacity to
+consent, to a person authorized pursuant to law to consent to health
+care for the subject, explaining that:
   (a) HIV causes AIDS and can be transmitted through sexual activities
 and needle-sharing, by pregnant women to their fetuses, and through
 breastfeeding infants;
@@ -32,20 +37,18 @@ testing center;
   (e) the law protects the confidentiality of HIV related test results;
   (f) the law prohibits discrimination based on an individual's HIV
 status and services are available to help with such consequences; and
-  (g) the law requires that an individual be advised before an
+  (g) the law requires that an individual be notified before an
 HIV-related test is performed, and that no test shall be performed over
-his or her objection.
+their objection; and
+  (h) pre- and post-exposure prophylaxis medications (PrEP and PEP) are
+available to protect persons at risk of HIV infection.
   Protocols shall be in place to ensure compliance with this section.
-  4. A person authorized pursuant to law to order the performance of an
-HIV related test shall provide directly or through a representative to
-the person seeking such test, an opportunity to remain anonymous through
-use of a coded system with no linking of individual identity to the test
-request or results. A health care provider who is not authorized by the
-commissioner to provide HIV related tests on an anonymous basis shall
-refer a person who requests an anonymous test to a test site which does
-provide anonymous testing. The provisions of this subdivision shall not
-apply to a health care provider ordering the performance of an HIV
-related test on an individual proposed for insurance coverage.
+  4. A health care provider who is not authorized by the commissioner to
+provide HIV related tests on an anonymous basis shall refer a person who
+requests an anonymous test to a test site which does provide anonymous
+testing. The provisions of this subdivision shall not apply to a health
+care provider ordering the performance of an HIV related test on an
+individual proposed for insurance coverage.
   5. At the time of communicating the test result to the subject of the
 test, a person ordering the performance of an HIV related test shall,
 directly or through a representative:
@@ -58,14 +61,16 @@ regarding the discrimination problems that disclosure of the result
 could cause; (iii) for behavior change to prevent transmission or
 contraction of HIV infection; (iv) to inform such person of available
 medical treatments; and (v) regarding the need to notify his or her
-contacts; and
+contacts; and (vi) regarding pre- and post-exposure prophylaxis
+medications available to sexual partners to prevent HIV infection.
   (b) in the case of a test not indicating evidence of HIV infection,
 provide (in a manner which may consist of oral or written reference to
 information previously provided) the subject of the test, or if the
 subject lacks capacity to consent, the person authorized pursuant to law
 to consent to health care for the subject, with information concerning
-the risks of participating in high risk sexual or needle-sharing
-behavior.
+(i) the risks of participating in high risk sexual or needle-sharing
+behavior; and (ii) regarding pre- and post-exposure prophylaxis
+medications available to prevent HIV infection.
   5-a. With the consent of the subject of a test indicating evidence of
 HIV infection or, if the subject lacks capacity to consent, with the
 consent of the person authorized pursuant to law to consent to health

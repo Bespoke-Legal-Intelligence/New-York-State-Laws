@@ -37,7 +37,7 @@
 <summary>Official heading of Article 19-I, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 19-I
+                              ARTICLE 19-I
                         WATERFRONT COMMISSION ACT
 Section 534.   Short title.
         534-a. Legislative findings and declarations.
@@ -73,7 +73,6 @@ Section 534.   Short title.
         534-x. Payment of assessment.
         534-y. Transfer of officers, employees.
         534-z. Annual report.
-  * NB Effective June 30, 2024
 ```
 
 </details>

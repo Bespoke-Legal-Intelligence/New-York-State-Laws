@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 19-I — Waterfront Commission Act](README.md)
 
 ```text
-  * § 534-s. General violations; prosecutions; penalties. 1. The failure
+  § 534-s. General violations; prosecutions; penalties. 1. The failure
 of any witness, when duly subpoenaed to attend, give testimony or
 produce other evidence, whether or not at a hearing, shall be punishable
 by the supreme court in New York in the same manner as said failure is
@@ -78,5 +78,4 @@ section five hundred thirty-four-r of this article.
 only a single act or a single holding out or attempt prohibited by law,
 without having to prove a general course of conduct, in order to prove a
 violation.
-  * NB Effective June 30, 2024
 ```

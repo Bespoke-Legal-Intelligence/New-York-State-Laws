@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 19-I — Waterfront Commission Act](README.md)
 
 ```text
-  * § 534-c. New York waterfront commission established. 1. There is
+  § 534-c. New York waterfront commission established. 1. There is
 hereby created the New York waterfront commission, which shall be in the
 executive department of this state and may request, receive, and utilize
 facilities, resources and data of any department, division, board,
@@ -29,5 +29,4 @@ the commission, designate any officer or employee of the commission to
 act in that commissioner's place. A vacancy in the office of a
 commissioner shall not impair such designation until the vacancy shall
 have been filled.
-  * NB Effective June 30, 2024
 ```

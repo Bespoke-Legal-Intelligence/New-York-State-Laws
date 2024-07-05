@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 19-I — Waterfront Commission Act](README.md)
 
 ```text
-  * § 534-m. Security officer. 1. No person shall act as a security
+  § 534-m. Security officer. 1. No person shall act as a security
 officer within the port of New York district in this state without first
 having obtained a license from the commission or previously, from the
 bi-state commission, and no person shall employ a security officer who
@@ -99,5 +99,4 @@ section may petition for and the commission may issue an order removing
 the ineligibility. A petition for an order to remove ineligibility may
 be made to the commission before or after the hearing required by
 section five hundred thirty-four-n of this article.
-  * NB Effective June 30, 2024
 ```

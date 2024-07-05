@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 19-I — Waterfront Commission Act](README.md)
 
 ```text
-  * § 534-p. Implementation of telecommunications hiring system for
+  § 534-p. Implementation of telecommunications hiring system for
 longshore workers and checkers; registration of telecommunications
 system controller. 1. The commission may designate one of the employment
 information centers it is authorized to establish and maintain under
@@ -39,5 +39,4 @@ labor organization and joint board of such association and labor
 organization pertaining to the telecommunications hiring system shall be
 available for inspection, investigation and duplication by the
 commission.
-  * NB Effective June 30, 2024
 ```

@@ -4,7 +4,6 @@
 [Executive Law](../README.md) › [Article 19-I — Waterfront Commission Act](README.md)
 
 ```text
-  * § 534. Short title. This article shall be known and may be cited as
+  § 534. Short title. This article shall be known and may be cited as
 the "waterfront commission act".
-  * NB Effective June 30, 2024
 ```
