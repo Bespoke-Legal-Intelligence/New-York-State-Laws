@@ -49,7 +49,7 @@
 - [§ 1202-GG\*2 Hotel or motel taxes in the town of Newburgh](1202gg-2-hotel-or-motel-taxes-in-the-town.md)
 - [§ 1202-GG\*3 Hotel or motel taxes in the town of Mount Pleasant](1202gg-3-hotel-or-motel-taxes-in-the-town.md)
 - [§ 1202-GG\*4 Hotel or motel taxes in the town of Wallkill](1202gg-4-hotel-or-motel-taxes-in-the-town.md)
-- [§ 1202-GG\*5 Hotel or motel taxes in the town of Wallkill](1202gg-5-hotel-or-motel-taxes-in-the-town.md)
+- [§ 1202-GG\*5 Hotel or motel taxes in the town of Wallkill](1202gg-5-hotel-or-motel-taxes-in-the-town.md) *(repealed)*
 - [§ 1202-GG-1 Hotel or motel taxes in the town of Cornwall](1202gg-1-hotel-or-motel-taxes-in-the-town.md)
 - [§ 1202-H Hotel or motel taxes in Chemung county](1202h-hotel-or-motel-taxes-in-chemung-county.md)
 - [§ 1202-H\*2 Hotel or motel taxes in the county of Oswego](1202h-2-hotel-or-motel-taxes-in-the-county.md)

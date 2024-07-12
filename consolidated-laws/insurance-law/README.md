@@ -8,7 +8,7 @@
 | Senate code | ISC |
 | Type | Consolidated law, chapter 28 |
 | Sections | 1,069 |
-| Last changed | 5 Jul 2024 |
+| Last changed | 12 Jul 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Insurance |
 
@@ -33,6 +33,7 @@ ARTICLE   1. General provisions. (§§ 101-111-a)
 
 ## Recent changes
 
+- [12 Jul 2024](../../changes/2024/2024-07-12.md): 1 amended
 - [5 Jul 2024](../../changes/2024/2024-07-05.md): 5 amended
 - [28 Jun 2024](../../changes/2024/2024-06-28.md): 3 amended
 - [21 Jun 2024](../../changes/2024/2024-06-21.md): 5 amended
@@ -42,7 +43,6 @@ ARTICLE   1. General provisions. (§§ 101-111-a)
 - [1 Mar 2024](../../changes/2024/2024-03-01.md): 1 amended
 - [16 Feb 2024](../../changes/2024/2024-02-16.md): 2 amended
 - [9 Feb 2024](../../changes/2024/2024-02-09.md): 6 amended
-- [2 Feb 2024](../../changes/2024/2024-02-02.md): 3 amended, 1 added
 
 ## Contents
 

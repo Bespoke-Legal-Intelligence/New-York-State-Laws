@@ -22,16 +22,7 @@ discount paid, or any other expenses whatsoever. "Amount received" for
 the purpose of the definition of gross receipt, as the term gross
 receipt is used throughout this article, means the amount charged for
 the provision of medical cannabis.
-  ** 2. There is hereby imposed an excise tax on the gross receipts from
-the sale of medical cannabis by a registered organization to a certified
-patient or designated caregiver, to be paid by the registered
-organization, at the rate of seven percent. The tax imposed by this
-article shall be charged against and be paid by the registered
-organization and shall not be added as a separate charge or line item on
-any sales slip, invoice, receipt or other statement or memorandum of the
-price given to the retail customer.
-  ** NB Effective until June 1, 2024
-  ** 2. There is hereby imposed an excise tax on the gross receipts from
+  2. There is hereby imposed an excise tax on the gross receipts from
 the sale of medical cannabis by a registered organization to a certified
 patient or designated caregiver, to be paid by the registered
 organization, at the rate of three and fifteen-hundredths percent. The
@@ -39,7 +30,6 @@ tax imposed by this article shall be charged against and be paid by the
 registered organization and shall not be added as a separate charge or
 line item on any sales slip, invoice, receipt or other statement or
 memorandum of the price given to the retail customer.
-  * NB Effective June 1, 2024
   3. The commissioner may make, adopt and amend rules, regulations,
 procedures and forms necessary for the proper administration of this
 article.
