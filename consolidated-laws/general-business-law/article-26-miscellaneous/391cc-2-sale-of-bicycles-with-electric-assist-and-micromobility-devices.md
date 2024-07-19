@@ -1,0 +1,53 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 391-CC*2", "kind": "section", "law_id": "GBS", "location_id": "391-CC*2", "path": "ARTICLE 26 › SECTION 391-CC*2", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/391-CC_2.md", "title": "Sale of bicycles with electric assist and micromobility devices"} -->
+# General Business Law § 391-CC*2 — Sale of bicycles with electric assist and micromobility devices
+
+[General Business Law](../README.md) › [Article 26 — Miscellaneous](README.md)
+
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
+```text
+  * § 391-cc. Sale of bicycles with electric assist and micromobility
+devices. 1. As used in this section, "micromobility device" shall mean
+an electric scooter as defined in section one hundred fourteen-e of the
+vehicle and traffic law, an electrical personal assistive mobility
+device as defined in section one hundred fourteen-d of the vehicle and
+traffic law, or other personal mobility device that has an electric
+motor. The term micromobility device shall not include bicycles with
+electric assist as defined by section one hundred two-c of the vehicle
+and traffic law, limited use motorcycles as defined in section one
+hundred twenty-one-b of the vehicle and traffic law, wheelchairs or
+other electrically driven mobility assistance devices as defined in
+section one hundred thirty-a of the vehicle and traffic law, or any
+vehicle that is capable of being registered with the department of motor
+vehicles.
+  2. No person, firm, partnership, association, or corporation shall
+sell or offer for sale at retail any bicycle with electric assist as
+defined by section one hundred two-c of the vehicle and traffic law or
+micromobility device to any person, firm, partnership, association, or
+corporation, without supplying a notice to be affixed to such bicycle
+with electric assist or micromobility device by the person, firm,
+partnership, association, or corporation. Such notice shall have an
+adhesive backing, be made from common materials used to affix other
+comparable notices or stickers to vehicles and be printed in English and
+the two most common non-English languages spoken in the state, based on
+the data in the most recent American Community Survey published by the
+United States Census Bureau. Such notice shall read:
+  "NOTICE: Always yield to pedestrians and follow traffic laws. Riding
+on the sidewalk may be illegal; consult local laws."
+  3. The department of state, in consultation with appropriate state
+agencies, shall promulgate rules and regulations necessary to implement
+the provisions of this section.
+  4. Violation of this section by the retail entity pursuant to
+subdivision two of this section shall be punishable by a fine of not
+more than two hundred fifty dollars per stocking unit for the first
+offense and not more than one thousand dollars per stocking unit for
+each subsequent offense.
+  5. This section shall not annul, alter, affect, or exempt any person,
+firm, partnership, corporation, or association, subject to the
+provisions of this section from complying with the laws, ordinances,
+rules, or regulations of any locality, relating to the affixing,
+labeling, or provision of identification, safety, informational, or
+other materials.
+  * NB There are two § 391-cc's
+  * NB Effective January 7, 2025
+```

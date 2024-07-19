@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | GBS |
 | Type | Consolidated law, chapter 20 |
-| Sections | 1,353 |
-| Last changed | 5 Jul 2024 |
+| Sections | 1,359 |
+| Last changed | 19 Jul 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Business |
 
@@ -29,10 +29,11 @@ AN ACT relating to general business, constituting chapter twenty of the
   Assembly, do enact as follows:
 ```
 
-[Full chapter text (187 lines)](chapter-text.md)
+[Full chapter text (189 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [19 Jul 2024](../../changes/2024/2024-07-19.md): 6 added
 - [5 Jul 2024](../../changes/2024/2024-07-05.md): 2 amended
 - [28 Jun 2024](../../changes/2024/2024-06-28.md): 18 added
 - [21 Jun 2024](../../changes/2024/2024-06-21.md): 1 amended
@@ -42,7 +43,6 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [29 Mar 2024](../../changes/2024/2024-03-29.md): 1 amended
 - [22 Mar 2024](../../changes/2024/2024-03-22.md): 1 amended
 - [8 Mar 2024](../../changes/2024/2024-03-08.md): 1 amended, 6 added
-- [16 Feb 2024](../../changes/2024/2024-02-16.md): 2 amended
 
 ## Contents
 
@@ -116,6 +116,7 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 28-D — Lasers, Radiation, Crane Operators and Blasters](article-28d-lasers-radiation-crane-operators-and-blasters/)
 - [Article 28-E — Children's Product Safety and Recall Effectiveness Act of 2008](article-28e-childrens-product-safety-and-recall/)
 - [Article 28-F — Crohn's and Colitis Fairness Act](article-28f-crohns-and-colitis-fairness-act/)
+- [Article 28-G — Batteries For Micromobility Devices, Bicycles With Electric Assist, and Limited Use Motorcycles](article-28g-batteries-for-micromobility-devices-bicycles/)
 - [Article 29 — Manufacture, Sale and Introduction or Movement In Commerce of Flammable Wearing Apparel, Fabrics, Related Material and Interior Furnishings Prohibited](article-29-manufacture-sale-and-introduction-or-movement/)
 - [Article 29-A — Unauthorized or Improper Use of Credit Cards and Debit Cards](article-29a-unauthorized-or-improper-use-of-credit-cards/)
 - [Article 29-AAA — Credit Card Registration Services](article-29aaa-credit-card-registration-services/)

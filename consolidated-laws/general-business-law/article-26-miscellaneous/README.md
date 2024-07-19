@@ -20,6 +20,8 @@
 - [§ 391-A Unlawful acts relating to liquid fuels, lubricating oils and similar products](391a-unlawful-acts-relating-to-liquid-fuels-lubricating-oils-and-similar-products.md)
 - [§ 391-B Prohibit any sale of dangerous clothing articles](391b-prohibit-any-sale-of-dangerous-clothing-articles.md)
 - [§ 391-C Sale of bicycles](391c-sale-of-bicycles.md)
+- [§ 391-CC Sale of micromobility devices, bicycles with electric assist and limited use motorcycles powered by lithium-ion batteries, and lithium-io...](391cc-sale-of-micromobility-devices-bicycles-with-electric-assist-and-limited-use.md)
+- [§ 391-CC\*2 Sale of bicycles with electric assist and micromobility devices](391cc-2-sale-of-bicycles-with-electric-assist-and-micromobility-devices.md)
 - [§ 391-D Sale of matchbooks](391d-sale-of-matchbooks.md)
 - [§ 391-E Promotion of camps by certain organizations](391e-promotion-of-camps-by-certain-organizations.md)
 - [§ 391-F Promotion of private schools by certain organizations](391f-promotion-of-private-schools-by-certain-organizations.md)
@@ -162,6 +164,8 @@
 - [§ 399-M Disclosures in advertisement and sale of unassembled goods](399m-disclosures-in-advertisement-and-sale-of-unassembled-goods.md)
 - [§ 399-N Approval of electrical devices](399n-approval-of-electrical-devices.md)
 - [§ 399-NN Sale of digital electronic equipment; diagnostic and repair information](399nn-sale-of-digital-electronic-equipment-diagnostic-and-repair-information.md)
+- [§ 399-NNN Tags on charging cords of micromobility devices, mopeds, and bicycles with electric assist](399nnn-tags-on-charging-cords-of-micromobility-devices-mopeds-and-bicycles.md)
+- [§ 399-NNN\*2 Lithium-ion battery safety resources](399nnn-2-lithium-ion-battery-safety-resources.md)
 - [§ 399-O Selling prices and container deposits](399o-selling-prices-and-container-deposits.md)
 - [§ 399-OO Deceptive solicitation of vehicle warranty policies](399oo-deceptive-solicitation-of-vehicle-warranty-policies.md)
 - [§ 399-P Telemarketing; use of automatic dialing-announcing devices and placement of consumer telephone calls](399p-telemarketing-use-of-automatic-dialing-announcing-devices-and-placement.md)
@@ -218,6 +222,13 @@ Section 390.         Substitution of spurious oils for internal
                        oils and similar products.
         391-b.       Prohibit any sale of dangerous clothing articles.
         391-c.       Sale of bicycles.
+        391-cc.      Sale of micromobility devices, bicycles with
+                       electric assist and limited use motorcycles
+                       powered by lithium-ion batteries, and lithium-ion
+                       batteries intended for use in such devices or
+                       bicycles.
+        391-cc*2.    Sale of bicycles with electric assist and
+                       micromobility devices.
         391-d.       Sale of matchbooks.
         391-e.       Promotion of camps by certain organizations.
         391-f.       Promotion of private schools by certain
@@ -419,6 +430,9 @@ Section 390.         Substitution of spurious oils for internal
         399-n.       Approval of electrical devices.
         399-nn.      Sale of digital electronic equipment; diagnostic
                        and repair information.
+        399-nnn.     Tags on charging cords of micromobility devices,
+                       mopeds, and bicycles with electric assist.
+        399-nnn*2.   Lithium-ion battery safety resources.
         399-o.       Selling prices and container deposits.
         399-oo.      Deceptive solicitation of vehicle warranty
                        policies.
