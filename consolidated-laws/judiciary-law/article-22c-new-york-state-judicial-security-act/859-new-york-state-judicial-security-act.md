@@ -4,7 +4,7 @@
 [Judiciary Law](../README.md) › [Article 22-C — New York State Judicial Security Act](README.md)
 
 ```text
-  * § 859. New York state judicial security act. 1. Definitions. As used
+  § 859. New York state judicial security act. 1. Definitions. As used
 in this article:
   (a) "Eligible individual" shall mean an actively employed or former:
   (i) judge or justice of the unified court system or judge of the
@@ -173,5 +173,4 @@ subdivision two of this section, such department shall comply therewith
 except that, where the notification requires the department to cease
 making a person's address public, the department may make their business
 address public.
-  * NB Effective July 19, 2024
 ```

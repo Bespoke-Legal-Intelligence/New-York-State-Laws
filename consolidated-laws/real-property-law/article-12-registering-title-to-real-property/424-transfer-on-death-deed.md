@@ -4,7 +4,7 @@
 [Real Property Law](../README.md) › [Article 12 — Registering Title to Real Property](README.md)
 
 ```text
-  * § 424. Transfer on death deed. 1. Definitions. For the purposes of
+  § 424. Transfer on death deed. 1. Definitions. For the purposes of
 this section the following terms shall have the following meanings:
   (a) "Beneficiary" means a person who receives property in a transfer
 on death deed.
@@ -303,5 +303,4 @@ family member, friend, or lawyer.
 I have other questions about this form. What should I do?
 This form is designed to fit some but not all situations. If you have
 other questions, consult a lawyer.
-  * NB Effective July 19, 2024
 ```

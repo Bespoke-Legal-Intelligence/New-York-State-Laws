@@ -4,7 +4,7 @@
 [Public Authorities Law](../../README.md) › [Article 1 — Short Title](../README.md) › [Title 2 — Authorities Budget Office](README.md)
 
 ```text
-  * § 8. Local authorities searchable subsidy and economic development
+  § 8. Local authorities searchable subsidy and economic development
 benefits database. 1. For the purposes of this section, the following
 terms shall have the following meanings:
   (a) "Economic development benefits" shall mean:
@@ -113,5 +113,4 @@ temporary president of the senate, and speaker of the assembly outlining
 key usage statistics of the database created pursuant to subdivision two
 of this section including, but not limited to, the total number of
 unique users that quarter.
-  * NB Effective July 19, 2024
 ```

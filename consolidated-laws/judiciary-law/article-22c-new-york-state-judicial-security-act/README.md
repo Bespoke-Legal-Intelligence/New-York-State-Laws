@@ -11,10 +11,9 @@
 <summary>Official heading of Article 22-C, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 22-C
+                              ARTICLE 22-C
                   NEW YORK STATE JUDICIAL SECURITY ACT
 Section 859. New York state judicial security act.
-  * NB Effective July 19, 2024
 ```
 
 </details>
