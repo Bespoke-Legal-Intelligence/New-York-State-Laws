@@ -222,125 +222,8 @@ appropriate social services official. Where more than one district has
 been involved in enforcing or collecting such amounts, the federal
 incentive shall be apportioned among each such district in accordance
 with the regulations of the department.
-  * 3. (a) Payment of premiums for enrolling qualified disabled and
-working individuals and qualified medicare beneficiaries under Part A of
-title XVIII of the federal social security act and for enrolling such
-beneficiaries and eligible recipients of public assistance under part B
-of title XVIII of the federal social security act, together with the
-costs of the applicable co-insurance and deductible amounts on behalf of
-such beneficiaries, and recipients, and premiums under section 1839 of
-the federal social security act for persons who would be qualified
-medicare beneficiaries except that their incomes exceed one hundred
-percent of the federal income poverty line applicable to the person's
-family size but, in calendar years nineteen hundred ninety-three and
-nineteen hundred ninety-four, is less than one hundred ten percent of
-such poverty line and, in calendar year beginning in nineteen hundred
-ninety-five, is less than one hundred twenty percent of such poverty
-line shall be made and the cost thereof borne by the state or by the
-state and social services districts, respectively, in accordance with
-the regulations of the department, provided, however, that the share of
-the cost to be borne by a social services district, if any, shall in no
-event exceed the proportionate share borne by such district with respect
-to other expenditures under this title. Moreover, if the director of the
-budget approves, payment of premiums for enrolling persons who have been
-determined to be eligible for medical assistance only may be made and
-the cost thereof borne or shared pursuant to this subdivision.
-  (b) (1) For purposes of this subdivision, "qualified medicare
-beneficiaries" are those persons who are entitled to hospital insurance
-benefits under part A of title XVIII of the federal social security act,
-whose income does not exceed one hundred percent of the official federal
-poverty line applicable to the person's family size and whose resources
-do not exceed twice the maximum amount of resources a person may have in
-order to qualify for benefits under the federal supplemental security
-income program of title XVI of the federal social security act, as
-determined for purposes of such program.
-  (2) Notwithstanding any provision of subparagraph one of this
-paragraph to the contrary, to the extent that federal financial
-participation is available, a person whose resources are in excess of
-the amount specified but otherwise meets the requirements of
-subparagraph one of this paragraph shall be considered a "qualified
-medicare beneficiary" for the purposes of this subdivision. The
-commissioner is authorized to submit amendments to the state plan for
-medical assistance and/or submit one or more applications for waivers of
-the federal social security act, to obtain the federal approvals
-necessary to implement this subparagraph.
-  (c) (1) For purposes of this subdivision, "qualified disabled and
-working individuals" are individuals who are not otherwise eligible for
-medical assistance and:
-  (i) who are entitled to enroll for hospital insurance benefits under
-section 1818A of part A of title XVIII of the federal social security
-act;
-  (ii) whose income does not exceed two hundred percent of the official
-federal poverty line applicable to the person's family size; and
-  (iii) whose resources do not exceed twice the maximum amount of
-resources that an individual or a couple, in the case of a married
-individual, may have and obtain federal supplemental security income
-benefits under title XVI of the federal social security act, as
-determined for purposes of that program.
-  (2) For purposes of this paragraph, income and resources are
-determined by the same methodology as is used for determining
-eligibility under the federal supplemental security income benefits
-under title XVI of the federal social security act.
-  (d) (1) Beginning April first, two thousand two and to the extent that
-federal financial participation is available at a one hundred percent
-federal Medical assistance percentage and subject to sections 1933 and
-1902(a)(10)(E)(iv) of the federal social security act, medical
-assistance shall be available for full payment of medicare part B
-premiums for individuals (referred to as qualified individuals 1) who
-are entitled to hospital insurance benefits under part A of title XVIII
-of the federal social security act and whose income exceeds the income
-level established by the state and is at least one hundred twenty
-percent, but less than one hundred thirty-five percent, of the federal
-poverty level, for a family of the size involved and who are not
-otherwise eligible for medical assistance under the state plan;
-  (2) Premium payments for the individuals described in subparagraph one
-of this paragraph will be one hundred percent federally funded up to the
-amount of the federal allotment. The department shall discontinue
-enrollment into the program when the part B premium payments made
-pursuant to subparagraph one of this paragraph meet the yearly federal
-allotment.
-  (3) The commissioner of health shall develop a simplified application
-form, consistent with federal law, for payments pursuant to this
-section. The commissioner of health, in cooperation with the office for
-the aging, shall publicize the availability of such payments to medicare
-beneficiaries.
-  (e) (1) Payment of premiums for enrolling individuals in qualified
-health plans offered through a health insurance exchange established
-pursuant to the federal Patient Protection and Affordable Care Act (P.L.
-111-148), as amended by the federal Health Care and Education
-Reconciliation Act of 2010 (P.L. 111-152), shall be available to
-individuals who:
-  (i) immediately prior to being enrolled in the qualified health plan,
-were or would have been eligible under the family health plus program as
-a parent or stepparent of a child under the age of twenty-one, and whose
-MAGI household income, as defined in subparagraph eight of paragraph (a)
-of subdivision one of section three hundred sixty-six of this title,
-exceeds one hundred thirty-three percent of the federal poverty line for
-the applicable family size;
-  (ii) are not otherwise eligible for medical assistance under this
-title; and
-  (iii) are enrolled in a standard health plan in the silver level, as
-defined in 42 U.S.C. 18022.
-  (2) Payment pursuant to this paragraph shall be for premium
-obligations of the individual under the qualified health plan and shall
-continue only if and for so long as the individual's MAGI household
-income exceeds one hundred thirty-three percent, but does not exceed one
-hundred fifty percent, of the federal poverty line for the applicable
-family size, or, if earlier, until the individual is eligible for
-enrollment in a standard health plan pursuant to section three hundred
-sixty-nine-gg of this article.
-  (3) The commissioner of health shall submit amendments to the state
-plan for medical assistance and/or submit one or more applications for
-waivers of the federal social security act as may be necessary to
-receive federal financial participation in the costs of payments made
-pursuant to this paragraph; provided further, however, that nothing in
-this subparagraph shall be deemed to affect payments for premiums
-pursuant to this paragraph if federal financial participation in the
-costs of such payments is not available.
-  * NB Effective until January 1, 2023 subject to federal financial
-participation
-  * 3. (a) As used in this subdivision, the following terms shall have
-the following meanings:
+  3. (a) As used in this subdivision, the following terms shall have the
+following meanings:
   (1) "Qualified medicare beneficiary" means a person who is entitled to
 hospital insurance benefits under part A of title XVIII of the federal
 social security act, whose income does not exceed one hundred
@@ -443,8 +326,6 @@ pursuant to this paragraph; provided further, however, that nothing in
 this subparagraph shall be deemed to affect payments for premiums
 pursuant to this paragraph if federal financial participation in the
 costs of such payments is not available.
-  * NB Effective January 1, 2023 subject to federal financial
-participation
   4. No social services district shall make final payments pursuant to
 title XIX of the federal social security act for benefits available
 under title XVIII of such act without documentation that title XVIII

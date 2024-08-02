@@ -66,7 +66,7 @@ eighty-five percent of the state median income. Such child day care
 shall recognize the need for continuity of care for the child and a
 district shall not move a child from an existing provider unless the
 participant consents to such move.
-  * 3-a. A local social services district may, upon notification to the
+  3-a. A local social services district may, upon notification to the
 office, utilize a presumptive eligibility standard to provide child care
 assistance, in accordance with this subdivision. The office of children
 and family services shall issue guidance regarding the preliminary
@@ -93,7 +93,6 @@ services is denied, the social services district shall send written
 notice to the applicant of the determination of ineligibility and of the
 applicant's right to a fair hearing in accordance with the regulations
 of the office.
-  * NB Effective May 3, 2024
   4. (a) Local social services districts shall guarantee applicants who
 would otherwise be eligible for, or are recipients of, public assistance
 benefits and who are employed, the option to choose to receive

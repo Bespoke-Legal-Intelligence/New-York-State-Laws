@@ -30,6 +30,8 @@
 - [§ 849 Appropriations for conservation purposes in Washington county](849-appropriations-for-conservation-purposes-in-washington-county.md)
 - [§ 850 State office buildings and other public improvements in certain counties](850-state-office-buildings-and-other-public-improvements-in-certain-counties.md)
 - [§ 852 Loans of money or credit to hospitals or health related facilities in Suffolk county](852-loans-of-money-or-credit-to-hospitals-or-health-related-facilities-in-suffolk.md)
+- [§ 853 Oneida County-tribal detention agreement](853-oneida-county-tribal-detention-agreement.md)
+- [§ 854 Madison county-tribal detention agreement](854-madison-county-tribal-detention-agreement.md)
 
 <details>
 <summary>Official heading of Article 23, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -69,6 +71,8 @@ Section 825.   District attorneys in certain counties.
                  certain counties.
         852.   Loans of money or credit to hospitals or health related
                  facilities in Suffolk county.
+        853.   Oneida County-tribal detention agreement.
+        854.   Madison county-tribal detention agreement.
 ```
 
 </details>

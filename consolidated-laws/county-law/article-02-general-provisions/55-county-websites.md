@@ -4,7 +4,6 @@
 [County Law](../README.md) › [Article 2 — General Provisions](README.md)
 
 ```text
-  * § 55. County websites. Any county which maintains a website shall
-use a ".gov" domain name for such website.
-  * NB Effective August 1, 2024
+  § 55. County websites. Any county which maintains a website shall use
+a ".gov" domain name for such website.
 ```

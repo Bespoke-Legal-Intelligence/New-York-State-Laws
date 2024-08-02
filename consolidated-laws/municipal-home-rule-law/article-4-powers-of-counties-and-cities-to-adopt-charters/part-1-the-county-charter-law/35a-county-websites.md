@@ -4,8 +4,7 @@
 [Municipal Home Rule Law](../../README.md) › [Article 4 — Powers of Counties and Cities to Adopt Charters](../README.md) › [Part 1 — The County Charter Law](README.md)
 
 ```text
-  * § 35-a. County websites. Any county operating under a county charter
+  § 35-a. County websites. Any county operating under a county charter
 as defined in section thirty-two of this part which maintains a website
 shall use a ".gov" domain name for such website.
-  * NB Effective August 1, 2024
 ```

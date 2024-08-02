@@ -25,14 +25,9 @@ shall be taxed at the equivalent rate of cans or packages weighing one
 ounce. Such tax shall be computed based on the net weight as listed by
 the manufacturer, and is intended to be imposed only once upon the sale
 of any snuff.
-  * (c) Such tax on little cigars shall be at the same rate imposed on
-cigarettes under this article and is intended to be imposed only once
-upon the sale of any little cigars.
-  * NB Effective until August 1, 2024
-  * (c) The tax on each little cigar shall be at the rate of twenty-six
+  (c) The tax on each little cigar shall be at the rate of twenty-six
 and three-quarters cents and is intended to be imposed only once upon
 the sale of any little cigar.
-  * NB Effective August 1, 2024
   It shall be presumed that all tobacco products within the state are
 subject to tax until the contrary is established, and the burden of
 proof that any tobacco products are not taxable hereunder shall be upon
