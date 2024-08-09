@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 2594-C", "kind": "section", "law_id": "PBH", "location_id": "2594-C", "path": "ARTICLE 25 › TITLE 6-A › SECTION 2594-C", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2594-C.md", "title": "Criteria for admittance into the New York state community doula directory"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 2594-C", "kind": "section", "law_id": "PBH", "location_id": "2594-C", "path": "ARTICLE 25 › TITLE 6-A › SECTION 2594-C", "repealed": true, "repealed_date": "2024-08-09", "source": "nys-laws:PBH/2594-C.md", "title": "Criteria for admittance into the New York state community doula directory"} -->
 # Public Health Law § 2594-C — Criteria for admittance into the New York state community doula directory
 
 [Public Health Law](../../README.md) › [Article 25 — Maternal and Child Health](../README.md) › [Title 6-A — Doulas For Medicaid](README.md)
+
+**Repealed** (9 Aug 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 2594-c. Criteria for admittance into the New York state community

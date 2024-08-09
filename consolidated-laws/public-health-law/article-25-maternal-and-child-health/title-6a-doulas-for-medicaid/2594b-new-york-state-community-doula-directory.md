@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 2594-B", "kind": "section", "law_id": "PBH", "location_id": "2594-B", "path": "ARTICLE 25 › TITLE 6-A › SECTION 2594-B", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2594-B.md", "title": "New York state community doula directory"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 2594-B", "kind": "section", "law_id": "PBH", "location_id": "2594-B", "path": "ARTICLE 25 › TITLE 6-A › SECTION 2594-B", "repealed": true, "repealed_date": "2024-08-09", "source": "nys-laws:PBH/2594-B.md", "title": "New York state community doula directory"} -->
 # Public Health Law § 2594-B — New York state community doula directory
 
 [Public Health Law](../../README.md) › [Article 25 — Maternal and Child Health](../README.md) › [Title 6-A — Doulas For Medicaid](README.md)
+
+**Repealed** (9 Aug 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 2594-b. New York state community doula directory. 1. The

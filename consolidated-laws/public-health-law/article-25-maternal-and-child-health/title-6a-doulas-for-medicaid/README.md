@@ -3,11 +3,13 @@
 
 [Public Health Law](../../README.md) › [Article 25 — Maternal and Child Health](../README.md)
 
+**Repealed.**
+
 ## Contents
 
-- [§ 2594-A Definitions](2594a-definitions.md)
-- [§ 2594-B New York state community doula directory](2594b-new-york-state-community-doula-directory.md)
-- [§ 2594-C Criteria for admittance into the New York state community doula directory](2594c-criteria-for-admittance-into-the-new-york-state-community-doula.md)
+- [§ 2594-A Definitions](2594a-definitions.md) *(repealed)*
+- [§ 2594-B New York state community doula directory](2594b-new-york-state-community-doula-directory.md) *(repealed)*
+- [§ 2594-C Criteria for admittance into the New York state community doula directory](2594c-criteria-for-admittance-into-the-new-york-state-community-doula.md) *(repealed)*
 
 <details>
 <summary>Official heading of Title 6-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

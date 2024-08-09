@@ -12,9 +12,10 @@
 - [§ 17-208 Assistance for language-minority groups](17-208-assistance-for-language-minority-groups.md)
 - [§ 17-210 Preclearance](17-210-preclearance.md)
 - [§ 17-212 Prohibition against voter intimidation, deception or obstruction](17-212-prohibition-against-voter-intimidation-deception.md)
-- [§ 17-214 Authority to issue subpoenas](17-214-authority-to-issue-subpoenas.md)
+- [§ 17-214 Enforcement](17-214-enforcement.md)
 - [§ 17-216 Expedited judicial proceedings and preliminary relief](17-216-expedited-judicial-proceedings-and-preliminary-relief.md)
 - [§ 17-218 Attorneys' fees](17-218-attorneys-fees.md)
+- [§ 17-219 Rules and regulations](17-219-rules-and-regulations.md)
 - [§ 17-220 Applicability](17-220-applicability.md)
 - [§ 17-222 Severability](17-222-severability.md)
 
@@ -36,6 +37,7 @@ Section 17-200. Legislative purpose and statement of public policy.
         17-214. Authority to issue subpoenas.
         17-216. Expedited judicial proceedings and preliminary relief.
         17-218. Attorneys' fees.
+        17-219. Rules and regulations.
         17-220. Applicability.
         17-222. Severability.
 ```

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 2594-A", "kind": "section", "law_id": "PBH", "location_id": "2594-A", "path": "ARTICLE 25 › TITLE 6-A › SECTION 2594-A", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2594-A.md", "title": "Definitions"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 2594-A", "kind": "section", "law_id": "PBH", "location_id": "2594-A", "path": "ARTICLE 25 › TITLE 6-A › SECTION 2594-A", "repealed": true, "repealed_date": "2024-08-09", "source": "nys-laws:PBH/2594-A.md", "title": "Definitions"} -->
 # Public Health Law § 2594-A — Definitions
 
 [Public Health Law](../../README.md) › [Article 25 — Maternal and Child Health](../README.md) › [Title 6-A — Doulas For Medicaid](README.md)
+
+**Repealed** (9 Aug 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 2594-a. Definitions. 1. For the purposes of this title, "doula"

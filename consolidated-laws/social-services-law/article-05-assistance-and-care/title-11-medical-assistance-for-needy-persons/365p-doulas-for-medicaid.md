@@ -4,8 +4,8 @@
 [Social Services Law](../../README.md) › [Article 5 — Assistance and Care](../README.md) › [Title 11 — Medical Assistance For Needy Persons](README.md)
 
 ```text
-  * § 365-p. Doulas for Medicaid. 1. Definitions. (a) For the purposes
-of this section, "doula" means a trained person who provides continuous
+  § 365-p. Doulas for Medicaid. 1. Definitions. (a) For the purposes of
+this section, "doula" means a trained person who provides continuous
 physical, emotional, and informational support to a pregnant person and
 the family of such pregnant person during or a reasonable time after
 pregnancy.
@@ -43,5 +43,4 @@ doula's certification from a doula educational organization or by
 demonstration of satisfactory proficiency pursuant to this subdivision,
 and his, her, or their full name, address, phone number, email address,
 and if applicable, their national provider identification number.
-  * NB Effective August 6, 2024
 ```
