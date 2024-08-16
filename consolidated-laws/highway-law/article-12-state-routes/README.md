@@ -389,6 +389,7 @@
 - [§ 344-O\*16 Portion of the state highway system to be designated and known as the "Specialist Gerald B](344o-16-portion-of-the-state-highway-system-to-be-designated-and-known-as-the-specialist.md)
 - [§ 344-O\*17 Portion of the state highway system to be designated and known as the "Specialist Peter J](344o-17-portion-of-the-state-highway-system-to-be-designated-and-known-as-the-specialist.md)
 - [§ 344-O\*18 Portion of the state highway system to be designated as the "SP4 George Harold Fry Memorial Highway"](344o-18-portion-of-the-state-highway-system-to-be-designated-as-the-sp4-george-harold.md)
+- [§ 344-P Portion of the state highway system to be designated as the "Sgt Terry James Garigen Memorial Highway"](344p-portion-of-the-state-highway-system-to-be-designated-as-the-sgt-terry-james.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 - [§ 345-B Portion of the state highway system to be designated as the "Doc Schelin Memorial Highway"](345b-portion-of-the-state-highway-system-to-be-designated-as-the-doc-schelin-memorial.md)
 - [§ 345-B\*2 Portion of the state highway system to be designated as the "Sergeant Elijah A](345b-2-portion-of-the-state-highway-system-to-be-designated-as-the-sergeant-elijah.md)
@@ -1311,6 +1312,8 @@ Section 340-a.     Designation of state interstate routes.
                      Memorial Bridge".
         344-o*18.  Portion of the state highway system to be designated
                      as the "SP4 George Harold Fry Memorial Highway".
+        344-p.     Portion of the state highway system to be designated
+                     as the "Sgt Terry James Garigen Memorial Highway".
         345-a.     Abandonment and transfer of state highways.
         345-b.     Portion of the state highway system to be designated
                      as the "Doc Schelin Memorial Highway".

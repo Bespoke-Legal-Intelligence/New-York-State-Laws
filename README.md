@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 9 Aug 2024.*
+*Current through the publication of 16 Aug 2024.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [16 Aug 2024](changes/2024/2024-08-16.md): Environmental Conservation Law; Highway Law
 - [9 Aug 2024](changes/2024/2024-08-09.md): Election Law; Public Health Law; Public Service Law; Social Services Law; Village Law
 - [2 Aug 2024](changes/2024/2024-08-02.md): Correction Law; County Law; Municipal Home Rule Law; Private Housing Finance Law; Real Property Tax Law; Social Services Law; Tax Law; Vehicle and Traffic Law
 - [26 Jul 2024](changes/2024/2024-07-26.md): Business Corporation Law; Criminal Procedure Law; Election Law; Executive Law; Judiciary Law; Penal Law; Public Authorities Law; Real Property Actions and Proceedings Law; Real Property Law
@@ -22,7 +23,6 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [12 Jul 2024](changes/2024/2024-07-12.md): Education Law; Election Law; Insurance Law; Real Property Tax Law; Retirement and Social Security Law; State Finance Law; Tax Law
 - [5 Jul 2024](changes/2024/2024-07-05.md): Agriculture and Markets Law; Alcoholic Beverage Control Law; Civil Practice Law and Rules; Civil Service Law; County Law; Court of Claims Act; Criminal Procedure Law; Economic Development Law; Education Law; Election Law; Environmental Conservation Law; Executive Law; General Business Law; General Municipal Law; Insurance Law; Labor Law; Local Finance Law; NYS Financial Emergency Act for the city of NY; Navigation Law; New York City Civil Court Act; Parks, Recreation and Historic Preservation Law; Private Housing Finance Law; Public Authorities Law; Public Health Law; Public Officers Law; Real Property Actions and Proceedings Law; Real Property Tax Law; Retirement and Social Security Law; State Finance Law; State Technology Law; Tax Law; Vehicle and Traffic Law
 - [28 Jun 2024](changes/2024/2024-06-28.md): Education Law; General Business Law; Insurance Law; Public Health Law
-- [21 Jun 2024](changes/2024/2024-06-21.md): Education Law; Elder Law; General Business Law; Insurance Law; Labor Law; Navigation Law; Penal Law; Public Authorities Law; Public Health Law; Public Service Law; Retirement and Social Security Law; State Technology Law; Vehicle and Traffic Law
 
 ## Most changed in the past 12 months
 
@@ -34,7 +34,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Tax Law](consolidated-laws/tax-law/README.md) | 132 |
 | [Executive Law](consolidated-laws/executive-law/README.md) | 131 |
 | [Election Law](consolidated-laws/election-law/README.md) | 123 |
-| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 107 |
+| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 108 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | 98 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | 95 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 90 |
@@ -74,7 +74,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Eminent Domain Procedure Law](consolidated-laws/eminent-domain-procedure-law/README.md) | EDP | 50 | 3 May 2024 |
 | [Employers' Liability Law](consolidated-laws/employers-liability-law/README.md) | EML | 18 | no change since 22 Sep 2014 (start of history) |
 | [Energy Law](consolidated-laws/energy-law/README.md) | ENG | 70 | 3 May 2024 |
-| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,836 | 5 Jul 2024 |
+| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,836 | 16 Aug 2024 |
 | [Estates, Powers and Trusts Law](consolidated-laws/estates-powers-and-trusts-law/README.md) | EPT | 361 | 16 Sep 2022 |
 | [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 939 | 26 Jul 2024 |
 | [Financial Services Law](consolidated-laws/financial-services-law/README.md) | FIS | 59 | 12 May 2023 |
@@ -84,7 +84,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [General Construction Law](consolidated-laws/general-construction-law/README.md) | GCN | 97 | 16 Feb 2024 |
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | GMU | 1,092 | 5 Jul 2024 |
 | [General Obligations Law](consolidated-laws/general-obligations-law/README.md) | GOB | 209 | 26 Nov 2023 |
-| [Highway Law](consolidated-laws/highway-law/README.md) | HAY | 698 | 12 Apr 2024 |
+| [Highway Law](consolidated-laws/highway-law/README.md) | HAY | 699 | 16 Aug 2024 |
 | [Indian Law](consolidated-laws/indian-law/README.md) | IND | 97 | 11 Jan 2019 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | ISC | 1,069 | 12 Jul 2024 |
 | [Judiciary Law](consolidated-laws/judiciary-law/README.md) | JUD | 543 | 26 Jul 2024 |
