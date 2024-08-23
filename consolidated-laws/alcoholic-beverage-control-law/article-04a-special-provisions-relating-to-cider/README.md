@@ -12,6 +12,8 @@
 - [§ 58-D Custom cidermakers' center](58d-custom-cidermakers-center.md)
 - [§ 59 Authorization for sale of cider by retail licensees](59-authorization-for-sale-of-cider-by-retail-licensees.md)
 - [§ 59-A Cider tasting](59a-cider-tasting.md)
+- [§ 59-B Direct interstate cider shipments](59b-direct-interstate-cider-shipments.md)
+- [§ 59-C Direct intrastate cider shipments](59c-direct-intrastate-cider-shipments.md)
 
 <details>
 <summary>Official heading of Article 4-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -26,6 +28,8 @@ Section 58.   Cider producers' or wholesalers' license.
         58-d. Custom cidermakers' center.
         59.   Authorization for sale of cider by retail licensees.
         59-a. Cider tasting.
+        59-b. Direct interstate cider shipments.
+        59-c. Direct intrastate cider shipments.
 ```
 
 </details>

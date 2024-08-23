@@ -10,6 +10,8 @@
 - [§ 32 Authorization for sale of mead and braggot by retail licensees](32-authorization-for-sale-of-mead-and-braggot-by-retail-licensees.md)
 - [§ 33 Authorization for sale of mead and braggot by wholesale licensees](33-authorization-for-sale-of-mead-and-braggot-by-wholesale-licensees.md)
 - [§ 34 Mead and braggot tasting](34-mead-and-braggot-tasting.md)
+- [§ 35 Direct interstate mead and braggot shipments](35-direct-interstate-mead-and-braggot-shipments.md)
+- [§ 36 Direct intrastate mead and braggot shipments](36-direct-intrastate-mead-and-braggot-shipments.md)
 
 <details>
 <summary>Official heading of Article 3, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -24,6 +26,8 @@ Section 30. Mead producers' license.
         33. Authorization for sale of mead and braggot by wholesale
               licensees.
         34. Mead and braggot tasting.
+        35. Direct interstate mead and braggot shipments.
+        36. Direct intrastate mead and braggot shipments.
 ```
 
 </details>

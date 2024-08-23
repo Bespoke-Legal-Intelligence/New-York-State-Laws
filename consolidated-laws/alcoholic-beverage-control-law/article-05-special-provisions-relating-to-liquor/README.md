@@ -26,6 +26,8 @@
 - [§ 65-E Posting of signs relating to human trafficking](65e-posting-of-signs-relating-to-human-trafficking.md)
 - [§ 66 License fees](66-license-fees.md)
 - [§ 67 License fees, duration of licenses; fee for part of year](67-license-fees-duration-of-licenses-fee-for-part-of-year.md)
+- [§ 68 Direct interstate liquor shipments](68-direct-interstate-liquor-shipments.md)
+- [§ 69 Direct intrastate liquor shipments](69-direct-intrastate-liquor-shipments.md)
 
 <details>
 <summary>Official heading of Article 5, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -66,6 +68,8 @@ Section 60.   Kinds of licenses.
         65-e. Posting of signs relating to human trafficking.
         66.   License fees.
         67.   License fees, duration of licenses; fee for part of year.
+        68.   Direct interstate liquor shipments.
+        69.   Direct intrastate liquor shipments.
 ```
 
 </details>
