@@ -16,7 +16,7 @@
 <summary>Official heading of Article 44-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 44-A
+                              ARTICLE 44-A
                         FREELANCE ISN'T FREE ACT
 Section 1410. Definitions.
         1411. Contracted compensation payments.
@@ -24,7 +24,6 @@ Section 1410. Definitions.
         1413. Discrimination Prohibited.
         1414. Violations.
         1415. Additional rights.
-  * NB Effective August 28, 2024
 ```
 
 </details>

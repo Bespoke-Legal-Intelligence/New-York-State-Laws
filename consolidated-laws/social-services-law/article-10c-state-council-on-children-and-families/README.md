@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [§ 483 Council on children and families; chair](483-council-on-children-and-families-chair.md)
+- [§ 483 Council on children and families](483-council-on-children-and-families.md)
 - [§ 483-A Utilization of other agency assistance](483a-utilization-of-other-agency-assistance.md)
 - [§ 483-B Powers and duties of council](483b-powers-and-duties-of-council.md)
 - [§ 483-C Coordinated children's services for children with emotional and/or behavioral disorders](483c-coordinated-childrens-services-for-children-with-emotional-and-or-behavioral.md)

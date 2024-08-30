@@ -22,7 +22,7 @@ Section 27-2901. Definitions.
         27-2905. Thermostat wholesaler and retailer requirements.
         27-2907. Department responsibilities.
         27-2909. Disposal prohibition.
-  * NB Repealed January 1, 2025
+  * NB Repealed January 1, 2026
 ```
 
 </details>

@@ -33,6 +33,7 @@
 - [§ 1640-R Residential parking system in the village of Floral Park in the county of Nassau](1640r-residential-parking-system-in-the-village.md)
 - [§ 1640-R\*2 Residential parking system in the city of New Rochelle](1640r-2-residential-parking-system-in-the-city-of-new.md)
 - [§ 1640-R\*3 Residential parking system in the city of Rye](1640r-3-residential-parking-system-in-the-city-of-rye.md)
+- [§ 1640-S Residential parking system in the village of Port Chester](1640s-residential-parking-system-in-the-village.md)
 - [§ 1641 Additional traffic regulations on all highways except state highways maintained by the state in cities and villages](1641-additional-traffic-regulations-on-all-highways.md)
 - [§ 1642 Additional traffic regulations in cities having a population in excess of one million](1642-additional-traffic-regulations-in-cities-having.md)
 - [§ 1642-A Bus permit system in cities having a population of one million or more](1642a-bus-permit-system-in-cities-having-a-population.md)
@@ -101,6 +102,8 @@ Section 1640.     Traffic regulations in all cities and villages.
         1640-r*2. Residential parking system in the city of New
                     Rochelle.
         1640-r*3. Residential parking system in the city of Rye.
+        1640-s.   Residential parking system in the village of Port
+                    Chester.
         1641.     Additional traffic regulations on all highways except
                     state highways maintained by the state in cities and
                     villages.

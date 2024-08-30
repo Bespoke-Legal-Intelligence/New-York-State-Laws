@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 44-A — Freelance Isn't Free Act](README.md)
 
 ```text
-  * § 1412. Written contracts. 1. Whenever a hiring party retains the
+  § 1412. Written contracts. 1. Whenever a hiring party retains the
 services of a freelance worker, as such terms are defined in this
 article, the contract between such party and worker shall be reduced to
 writing. The hiring party must furnish a copy of such written contract,
@@ -35,5 +35,4 @@ the website of the department of labor for use by the general public at
 no cost. Such model contracts shall be made available in English and in
 the twelve languages most commonly spoken by limited English proficient
 individuals in the state.
-  * NB Effective August 28, 2024
 ```

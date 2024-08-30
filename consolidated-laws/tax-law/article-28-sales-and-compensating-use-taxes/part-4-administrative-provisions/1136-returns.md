@@ -245,7 +245,7 @@ section seventy-six of the alcoholic beverage control law, where the
 number of gallons of wine, cider and mead produced annually by such
 person does not exceed the annual limits on the number of finished
 gallons of wine, cider and mead permitted to be produced by a farm
-winery under subdivision eight of section seventy-six-a of the alcoholic
+winery under subdivision nine of section seventy-six-a of the alcoholic
 beverage control law; (iii) a farm distillery license, as provided in
 subdivision two-c of section sixty-one of the alcoholic beverage control
 law; (iv) a distiller's license, as provided in section sixty-one of the

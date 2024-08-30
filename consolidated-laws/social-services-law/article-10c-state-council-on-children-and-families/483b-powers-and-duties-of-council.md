@@ -4,13 +4,12 @@
 [Social Services Law](../README.md) › [Article 10-C — State Council On Children and Families](README.md)
 
 ```text
-  § 483-b. Powers and duties of council. 1. As used in this section, the
-terms "care", "services", "programs", and "services programs" shall mean
-and include care, maintenance, services and programs provided to
-children of the state and their families by or under the jurisdiction of
-a member agency. The term "member agency" shall mean an agency headed by
-a member of the council.
-  2. The council shall have the following powers:
+  § 483-b. Powers and duties of council. 1. Definitions. As used in this
+section, the terms "care", "services", "programs", and "services
+programs" shall mean and include care, maintenance, services and
+programs provided to children of the state and their families by or
+under the jurisdiction of a member agency.
+  2. General powers. The council shall have the following powers:
   (a) to identify problems and deficiencies in residential care and
 community-based services programs and, on a selective basis, to plan and
 make recommendations to the governor for the remedy of such problems and
@@ -41,20 +40,14 @@ purposes of this article; and
 appropriations as may be available to the council to effectuate the
 purposes of this article, subject to the approval of the director of the
 budget.
-  3. The council shall review the budget requests of member agencies
-insofar as such budgets jointly affect services programs for children
-and their families and shall make comments and recommendations thereon
-to the relevant member agencies and the governor.
-  4. (a) The council shall meet on a regular basis to implement the
-purposes of this article and to discuss and resolve disputes, including
-but not limited to disputes between member agencies, relating to their
-functions, powers and duties over the provision of services to
+  3. Interagency resolution powers. (a) The council shall convene member
+agencies to meet on a regular basis to discuss and resolve disputes,
+including but not limited to disputes between member agencies, relating
+to their functions, powers and duties over the provision of services to
 particular children and their families or to categories of children or
 child and family problems when all the internal statutory and
 administrative grievance or appeal procedures applicable to a member
-agency have failed to finally resolve such dispute. The council shall
-direct each member agency to establish and maintain such grievance or
-appeal procedures.
+agency have failed to finally resolve such dispute.
   (b) The council shall direct member agencies to provide an evaluation,
 including a diagnostic study, of a particular child and his or her
 family when there is a dispute as to the appropriate agency or program
@@ -80,12 +73,12 @@ to sections 7.37 and 13.37 of the mental hygiene law, section three
 hundred ninety-eight-c of the social services law, or subdivision ten of
 section forty-four hundred three of the education law shall be resolved
 in accordance with this subdivision.
-  5. (a) Notwithstanding any other provision of state law to the
-contrary, the council may request any member agency to submit to the
-council and such member agency shall submit, to the extent permitted by
-federal law, all information in the form and manner and at such times as
-the council may require that it is appropriate to the purposes and
-operation of the council.
+  4. Submission of information to the council. (a) Notwithstanding any
+other provision of state law to the contrary, the council may request
+any member agency to submit to the council and such member agency shall
+submit, to the extent permitted by federal law, all information in the
+form and manner and at such times as the council may require that it is
+appropriate to the purposes and operation of the council.
   (b) The council shall protect the confidentiality of individual
 identifying information submitted to or provided by the council, and
 prevent access thereto, by, or the distribution thereof to, persons not

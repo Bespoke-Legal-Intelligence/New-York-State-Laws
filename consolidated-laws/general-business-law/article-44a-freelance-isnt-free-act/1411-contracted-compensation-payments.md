@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 44-A — Freelance Isn't Free Act](README.md)
 
 ```text
-  * § 1411. Contracted compensation payments. 1. Except as otherwise
+  § 1411. Contracted compensation payments. 1. Except as otherwise
 provided by law, the contracted compensation shall be paid to a
 freelance worker either:
   (a) on or before the date such compensation is due under the terms of
@@ -17,5 +17,4 @@ freelance worker's services under the contract.
 under the contract, the hiring party shall not require as a condition of
 timely payment that the freelance worker accept less compensation than
 the amount of the contracted compensation.
-  * NB Effective August 28, 2024
 ```

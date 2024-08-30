@@ -18,7 +18,6 @@
 - [Title 5 — Children With Physical Disabilities](title-5-children-with-physical-disabilities/)
 - [Title 6\* — Federal Child Care and Adult Food Program](title-6-federal-child-care-and-adult-food/)
 - [Title 6 — Emergency Nutrition Aid Program For Pregnant Women and Adolescents](title-6-emergency-nutrition-aid-program/)
-- [Title 6-A — Doulas For Medicaid](title-6a-doulas-for-medicaid/) *(repealed)*
 - [Title 7 — Youth Sports](title-7-youth-sports/)
 - [Title 8 — Childhood Obesity Prevention Program](title-8-childhood-obesity-prevention-program/)
 

@@ -10,6 +10,7 @@
 - [§ 266 Department website](266-department-website.md)
 - [§ 267 Menstrual products in schools](267-menstrual-products-in-schools.md)
 - [§ 267-A Self-administered hormonal contraceptives](267a-self-administered-hormonal-contraceptives.md)
+- [§ 267-B Menstrual products in public colleges and universities](267b-menstrual-products-in-public-colleges-and-universities.md)
 - [§ 268\*2 Informational materials concerning menstrual disorders](268-2-informational-materials-concerning-menstrual-disorders.md)
 
 <details>
@@ -21,6 +22,7 @@
 Section 266.   Department website.
         267.   Menstrual products in schools.
         267-a. Self-administered hormonal contraceptives.
+        267-b. Menstrual products in public colleges and universities.
         268*2. Informational materials concerning menstrual disorders.
 ```
 

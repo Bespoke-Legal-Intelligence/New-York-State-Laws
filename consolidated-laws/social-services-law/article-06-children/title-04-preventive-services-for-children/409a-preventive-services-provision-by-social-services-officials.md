@@ -328,5 +328,5 @@ information is available. When practicable, such information shall be
 disaggregated by age, sex, race and ethnicity.
   (c) The initial report shall include the aforementioned data from the
 preceding two calendar years.
-  * NB Repealed September 1, 2024
+  * NB Repealed September 1, 2027
 ```

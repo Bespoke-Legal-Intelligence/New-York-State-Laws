@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 44-A — Freelance Isn't Free Act](README.md)
 
 ```text
-  * § 1414. Violations. 1. The attorney general shall be authorized to
+  § 1414. Violations. 1. The attorney general shall be authorized to
 investigate complaints regarding a violation of this article and provide
 appropriate remedies. Whenever the attorney general shall believe from
 evidence satisfactory to them that any hiring party has engaged in or is
@@ -69,5 +69,4 @@ of fact may impose a civil penalty of not more than twenty-five thousand
 dollars for a finding that a hiring party has engaged in a pattern or
 practice of violations of this article. Any civil penalty so recovered
 shall be paid into the general fund.
-  * NB Effective August 28, 2024
 ```

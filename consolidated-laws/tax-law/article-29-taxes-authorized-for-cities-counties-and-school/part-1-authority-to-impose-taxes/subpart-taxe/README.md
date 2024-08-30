@@ -49,7 +49,6 @@
 - [§ 1202-GG\*2 Hotel or motel taxes in the town of Newburgh](1202gg-2-hotel-or-motel-taxes-in-the-town.md)
 - [§ 1202-GG\*3 Hotel or motel taxes in the town of Mount Pleasant](1202gg-3-hotel-or-motel-taxes-in-the-town.md)
 - [§ 1202-GG\*4 Hotel or motel taxes in the town of Wallkill](1202gg-4-hotel-or-motel-taxes-in-the-town.md)
-- [§ 1202-GG\*5 Hotel or motel taxes in the town of Wallkill](1202gg-5-hotel-or-motel-taxes-in-the-town.md) *(repealed)*
 - [§ 1202-GG-1 Hotel or motel taxes in the town of Cornwall](1202gg-1-hotel-or-motel-taxes-in-the-town.md)
 - [§ 1202-H Hotel or motel taxes in Chemung county](1202h-hotel-or-motel-taxes-in-chemung-county.md)
 - [§ 1202-H\*2 Hotel or motel taxes in the county of Oswego](1202h-2-hotel-or-motel-taxes-in-the-county.md)
@@ -66,6 +65,7 @@
 - [§ 1202-J Hotel or motel taxes in Otsego county](1202j-hotel-or-motel-taxes-in-otsego-county.md)
 - [§ 1202-J\*2 Hotel and motel taxes in Sullivan county](1202j-2-hotel-and-motel-taxes-in-sullivan.md)
 - [§ 1202-J\*3 Hotel or motel taxes in Chautauqua county](1202j-3-hotel-or-motel-taxes-in-chautauqua.md)
+- [§ 1202-JJ Hotel or motel taxes in the town of New Windsor](1202jj-hotel-or-motel-taxes-in-the-town.md)
 - [§ 1202-K Hotel or motel taxes in Montgomery county](1202k-hotel-or-motel-taxes-in-montgomery.md)
 - [§ 1202-K\*2 Hotel or motel taxes in the county of Rockland](1202k-2-hotel-or-motel-taxes-in-the-county.md)
 - [§ 1202-L Hotel and motel taxes in Ulster county](1202l-hotel-and-motel-taxes-in-ulster-county.md)

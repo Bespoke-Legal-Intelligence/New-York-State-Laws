@@ -4,19 +4,19 @@
 [Tax Law](../../../README.md) › [Article 29 — Taxes Authorized For Cities, Counties and School Districts](../../README.md) › [Part 1 — Authority to Impose Taxes](../README.md) › [Subpart A — Taxes Administered By Cities, Counties and School Districts](README.md)
 
 ```text
-  * § 1202-aa. Occupancy tax in the city of Rye. (1) Notwithstanding any
-other provision of law to the contrary, the city of Rye, in the county
-of Westchester, is hereby authorized and empowered to adopt and amend
-local laws imposing in such city a tax, in addition to any other tax
-authorized and imposed pursuant to this article, such as the legislature
-has or would have the power and authority to impose upon persons
-occupying any room for hire in any hotel. For the purposes of this
-section, the term "hotel" shall mean a building or portion of it which
-is regularly used and kept open as such for the lodging of guests. The
-term "hotel" includes an apartment hotel, a motel or a boarding house,
-whether or not meals are served. The rate of such tax shall not exceed
-three percent of the per diem rental rate for each room whether such
-room is rented on a daily or longer basis.
+  * § 1202-aaa. Occupancy tax in the city of Rye. (1) Notwithstanding
+any other provision of law to the contrary, the city of Rye, in the
+county of Westchester, is hereby authorized and empowered to adopt and
+amend local laws imposing in such city a tax, in addition to any other
+tax authorized and imposed pursuant to this article, such as the
+legislature has or would have the power and authority to impose upon
+persons occupying any room for hire in any hotel. For the purposes of
+this section, the term "hotel" shall mean a building or portion of it
+which is regularly used and kept open as such for the lodging of guests.
+The term "hotel" includes an apartment hotel, a motel or a boarding
+house, whether or not meals are served. The rate of such tax shall not
+exceed three percent of the per diem rental rate for each room whether
+such room is rented on a daily or longer basis.
   (2) Such taxes may be collected and administered by the chief fiscal
 officer of the city of Rye by such means and in such manner as other
 taxes which are now collected and administered by such officer or as
@@ -120,6 +120,5 @@ pursuant to this section.
 any person or circumstance shall be held invalid, the remainder of this
 section and the application of such provision to other persons or
 circumstances shall not be affected thereby.
-  * NB There are 8 § 1202-aa's
-  * NB Repealed September 1, 2024
+  * NB Repealed September 1, 2027
 ```

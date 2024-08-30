@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 44-A — Freelance Isn't Free Act](README.md)
 
 ```text
-  * § 1410. Definitions. As used in this article, the following terms
+  § 1410. Definitions. As used in this article, the following terms
 shall have the following meanings:
   1. "Construction contractor" means any person, sole proprietor,
 partnership, firm, corporation, limited liability company, association
@@ -47,5 +47,4 @@ judiciary;
   (c) a municipality, including any office, department, agency or other
 body of a municipality; or
   (d) any foreign government.
-  * NB Effective August 28, 2024
 ```

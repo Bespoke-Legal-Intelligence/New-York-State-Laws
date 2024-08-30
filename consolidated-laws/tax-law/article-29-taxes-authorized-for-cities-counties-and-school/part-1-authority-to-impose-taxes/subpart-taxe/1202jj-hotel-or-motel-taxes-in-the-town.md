@@ -1,18 +1,14 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1202-GG*5", "kind": "section", "law_id": "TAX", "location_id": "1202-GG*5", "path": "ARTICLE 29 › PART 1 › SUBPART A › SECTION 1202-GG*5", "repealed": true, "repealed_date": "2024-07-12", "source": "nys-laws:TAX/1202-GG_5.md", "title": "Hotel or motel taxes in the town of Wallkill"} -->
-# Tax Law § 1202-GG*5 — Hotel or motel taxes in the town of Wallkill
+﻿<!-- nyslaw {"citation": "Tax Law § 1202-JJ", "kind": "section", "law_id": "TAX", "location_id": "1202-JJ", "path": "ARTICLE 29 › PART 1 › SUBPART A › SECTION 1202-JJ", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1202-JJ.md", "title": "Hotel or motel taxes in the town of New Windsor"} -->
+# Tax Law § 1202-JJ — Hotel or motel taxes in the town of New Windsor
 
 [Tax Law](../../../README.md) › [Article 29 — Taxes Authorized For Cities, Counties and School Districts](../../README.md) › [Part 1 — Authority to Impose Taxes](../README.md) › [Subpart A — Taxes Administered By Cities, Counties and School Districts](README.md)
 
-**Repealed** (12 Jul 2024). The text below is what the Senate publishes for this repealed provision.
-
-*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
-
 ```text
-  * § 1202-gg. Hotel or motel taxes in the town of Wallkill. (1)
-Notwithstanding any other provision of law to the contrary, the town of
-Wallkill, in the county of Orange, is hereby authorized and empowered to
-adopt and amend local laws imposing in such town a tax, in addition to
-any other tax authorized and imposed pursuant to this article such as
+  * § 1202-jj. Hotel or motel taxes in the town of New Windsor. (1)
+Notwithstanding any other provisions of law to the contrary, the town of
+New Windsor, in the county of Orange, is hereby authorized and empowered
+to adopt and amend local laws imposing in such town a tax, in addition
+to any other tax authorized and imposed pursuant to this article such as
 the legislature has or would have the power and authority to impose upon
 persons occupying hotel or motel rooms in such town. For the purposes of
 this section, the term "hotel" or "motel" shall mean and include any
@@ -26,22 +22,22 @@ of this section the term "permanent resident" shall mean a person
 occupying any room or rooms in a hotel or motel for at least ninety
 consecutive days.
   (2) Such tax may be collected and administered by the chief fiscal
-officer of the town of Wallkill by such means and in such manner as
+officer of the town of New Windsor by such means and in such manner as
 other taxes which are now collected and administered by such officer or
-as otherwise may be provided by such local laws.
+as otherwise may be provided by such local law.
   (3) Such local laws may provide that any tax imposed shall be paid by
 the person liable therefor to the owner of the hotel or motel room
 occupied or to the person entitled to be paid the rent or charge for the
-hotel or motel room occupied for and on account of the town of Wallkill
-imposing the tax and that such owner or person entitled to be paid the
-rent or charge shall be liable for the collection and payment of the
-tax; and that such owner or person entitled to be paid the rent or
-charge shall have the same right in respect to collecting the tax from
-the person occupying the hotel or motel room, or in respect to
+hotel or motel room occupied for and on account of the town of New
+Windsor imposing the tax and that such owner or person entitled to be
+paid the rent or charge shall be liable for the collection and payment
+of the tax; and that such owner or person entitled to be paid the rent
+or charge shall have the same right in respect to collecting the tax
+from the person occupying the hotel or motel room, or in respect to
 nonpayment of the tax by the person occupying the hotel or motel room,
 as if the tax were a part of the rent or charge and payable at the same
 time as the rent or charge; provided, however, that the chief fiscal
-officer of the town, specified in such local laws, shall be joined as a
+officer of the town, specified in such local law, shall be joined as a
 party in any action or proceeding brought to collect the tax by the
 owner or by the person entitled to be paid the rent or charge.
   (4) Such local laws may provide for the filing of returns and the
@@ -67,14 +63,14 @@ this paragraph shall include an organization operated for the primary
 purpose of carrying on a trade or business for profit, whether or not
 all of its profits are payable to one or more organizations described in
 this paragraph.
-  (6) Any final determination of the amount of any tax payable under
-this section shall be reviewable for error, illegality or
-unconstitutionality or any other reason whatsoever by a proceeding under
-article seventy-eight of the civil practice law and rules if application
-therefor is made to the supreme court within thirty days after the
-giving of the notice of such final determination, provided, however,
-that any such proceeding under article seventy-eight of the civil
-practice law and rules shall not be instituted unless:
+  (6) Any final determination of the amount of any tax payable hereunder
+shall be reviewable for error, illegality or unconstitutionality or any
+other reason whatsoever by a proceeding under article seventy-eight of
+the civil practice law and rules if application therefor is made to the
+supreme court within thirty days after the giving of the notice of such
+final determination, provided, however, that any such proceeding under
+article seventy-eight of the civil practice law and rules shall not be
+instituted unless:
   a. The amount of any tax sought to be reviewed, with such interest and
 penalties thereon as may be provided for by local law shall be first
 deposited and there is filed an undertaking, issued by a surety company
@@ -90,39 +86,32 @@ determination plus the costs and charges which may accrue against it in
 the prosecution of the proceeding, in which event the petitioner shall
 not be required to pay such taxes, interest or penalties as a condition
 precedent to the application.
-  (7) Where any tax imposed under this section shall have been
-erroneously, illegally or unconstitutionally collected and application
-for the refund thereof duly made to the proper fiscal officer or
-officers, and such officer or officers shall have made a determination
-denying such refund, such determination shall be reviewable by a
-proceeding under article seventy-eight of the civil practice law and
-rules, provided, however, that such proceeding is instituted within
-thirty days after the giving of the notice of such denial, that a final
-determination of tax due was not previously made, and that an
-undertaking is filed with the proper fiscal officer or officers in such
-amount and with such sureties as a justice of the supreme court shall
-approve to the effect that if such proceeding be dismissed or the tax
-confirmed, the petitioner will pay all costs and charges which may
-accrue in the prosecution of such proceeding.
+  (7) Where any tax imposed hereunder shall have been erroneously,
+illegally or unconstitutionally collected and application for the refund
+thereof duly made to the proper fiscal officer or officers, and such
+officer or officers shall have made a determination denying such refund,
+such determination shall be reviewable by a proceeding under article
+seventy-eight of the civil practice law and rules, provided, however,
+that such proceeding is instituted within thirty days after the giving
+of the notice of such denial, that a final determination of tax due was
+not previously made, and that an undertaking is filed with the proper
+fiscal officer or officers in such amount and with such sureties as a
+justice of the supreme court shall approve to the effect that if such
+proceeding be dismissed or the tax confirmed, the petitioner will pay
+all costs and charges which may accrue in the prosecution of such
+proceeding.
   (8) Except in the case of a wilfully false or fraudulent return with
 intent to evade the tax, no assessment of additional tax shall be made
 after the expiration of more than three years from the date of the
 filing of a return, provided, however, that where no return has been
 filed as provided by law the tax may be assessed at any time.
   (9) All revenues resulting from the imposition of the tax under the
-local laws shall be paid into the treasury of the town of Wallkill and
-shall be credited to and deposited in the general fund of the town. Such
-revenues may be used for any lawful purpose.
-  (10) Each enactment of such a local law may provide for the imposition
-of a hotel or motel tax for a period of time no longer than three years
-from the date of its enactment. Nothing in this section shall prohibit
-the adoption and enactment of local laws, pursuant to the provisions of
-this section, upon the expiration of any other local law adopted
-pursuant to this section.
-  (11) If any provision of this section or the application thereof to
+local laws shall be paid into the treasury of the town of New Windsor
+and shall be credited to and deposited in the general fund of the town.
+Such revenues may be used for any lawful purpose.
+  (10) If any provision of this section or the application thereof to
 any person or circumstance shall be held invalid, the remainder of this
 section and the application of such provision to other persons or
 circumstances shall not be affected thereby.
-  * NB There are 5 § 1202-gg's
-  * NB Repealed September 1, 2025
+  * NB Repealed August 28, 2027
 ```

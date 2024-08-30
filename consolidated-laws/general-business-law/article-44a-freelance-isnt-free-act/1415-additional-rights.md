@@ -4,9 +4,9 @@
 [General Business Law](../README.md) › [Article 44-A — Freelance Isn't Free Act](README.md)
 
 ```text
-  * § 1415. Additional rights. 1. Except as otherwise provided by law,
-any provision of a contract purporting to waive rights under this
-article is void as against public policy.
+  § 1415. Additional rights. 1. Except as otherwise provided by law, any
+provision of a contract purporting to waive rights under this article is
+void as against public policy.
   2. The provisions of this article supplement, and do not diminish or
 replace, any other basis of liability or requirement established by
 statute or common law.
@@ -21,5 +21,4 @@ any such worker as an employee or independent contractor.
   5. The provisions of this article shall not be construed or
 interpreted to override or supplant any of the provisions of chapter ten
 of title twenty of the administrative code of the city of New York.
-  * NB Effective August 28, 2024
 ```

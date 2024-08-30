@@ -23,7 +23,7 @@
 - [§ 308 Right to farm](308-right-to-farm.md)
 - [§ 308-A Fees and expenses in certain private nuisance actions](308a-fees-and-expenses-in-certain-private-nuisance-actions.md)
 - [§ 309 Advisory council on agriculture](309-advisory-council-on-agriculture.md)
-- [§ 309-A Young farmer advisory board on agriculture](309a-young-farmer-advisory-board-on-agriculture.md)
+- [§ 309-A Beginning farmer advisory board on agriculture](309a-beginning-farmer-advisory-board-on-agriculture.md)
 - [§ 310 Disclosure](310-disclosure.md)
 
 <details>

@@ -86,6 +86,7 @@ Section 1201.      Taxes administered by cities of one million or more.
         1202-j.    Hotel or motel taxes in Otsego county.
         1202-j*2.  Hotel and motel taxes in Sullivan county.
         1202-j*3.  Hotel or motel taxes in Chautauqua county.
+        1202-jj.   Hotel or motel taxes in the town of New Windsor.
         1202-k.    Hotel or motel taxes in Montgomery county.
         1202-k*2.  Hotel or motel taxes in the county of Rockland.
         1202-l.    Hotel and motel taxes in Ulster county.
