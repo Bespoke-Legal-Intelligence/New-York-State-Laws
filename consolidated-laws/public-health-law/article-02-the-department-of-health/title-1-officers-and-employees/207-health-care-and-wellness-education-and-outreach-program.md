@@ -181,6 +181,17 @@ sickle cell disease and their families and health care providers
 specializing in treating sickle cell disease, among others, in the
 production of any such information.
   * NB There are 3 par (r)'s
+  * (s) Promoting public awareness of the dangers of fatal and non-fatal
+drowning, including but not limited to the unique risk factors and
+exposures associated with infant and early drowning, childhood and
+teenage drowning and adult drowning, the disparate risk of drowning in
+disadvantaged communities identified pursuant to section 75-0111 of the
+environmental conservation law and with individuals with a mental
+disability as defined by subdivision three of section 1.03 of the mental
+hygiene law, and methods to reduce the risks of drowning, including but
+not limited to water safety instruction, swim lessons, and awareness of
+water based risks.
+  * NB Effective June 1, 2025
   2. Programs under this section, dealing with one or more subjects, may
 include but not be limited to any of the following elements:
   (a) educational and informational materials in print, audio, visual,

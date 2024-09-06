@@ -14,5 +14,4 @@ organization within such district or school building with the goal of
 ensuring all eligible students have the opportunity to participate in
 such student government.
   * NB There are 2 § 817's
-  * NB Effective September 1, 2024
 ```

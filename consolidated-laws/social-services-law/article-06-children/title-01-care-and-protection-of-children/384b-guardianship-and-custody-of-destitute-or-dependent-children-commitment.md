@@ -511,17 +511,7 @@ child as a result of reckless or intentional acts of the parent
 committed under circumstances evincing a depraved indifference to human
 life, which result in serious physical injury to the child as defined in
 subdivision ten of section 10.00 of the penal law; or
-  * (ii) the child has been found to be an abused child, as defined in
-paragraph (iii) of subdivision (e) of section ten hundred twelve of the
-family court act, as a result of such parent's acts; provided, however,
-the respondent must have committed or knowingly allowed to be committed
-a felony sex offense as defined in sections 130.25, 130.30, 130.35,
-130.40, 130.45, 130.50, 130.65, 130.67, 130.70, 130.75, 130.80, 130.95
-and 130.96 of the penal law and, for the purposes of this section the
-corroboration requirements contained in the penal law shall not apply to
-proceedings under this section; or
-  * NB Effective until September 1, 2024
-  * (ii) the child has been found to be an abused child, as defined in
+  (ii) the child has been found to be an abused child, as defined in
 paragraph (iii) of subdivision (e) of section ten hundred twelve of the
 family court act, as a result of such parent's acts; provided, however,
 the respondent must have committed or knowingly allowed to be committed
@@ -530,7 +520,6 @@ former sections 130.40, 130.45, 130.50, sections 130.65, 130.67, 130.70,
 130.75, 130.80, 130.95 and 130.96 of the penal law and, for the purposes
 of this section the corroboration requirements contained in the penal
 law shall not apply to proceedings under this section; or
-  * NB Effective September 1, 2024
   (iii) (A) the parent of such child has been convicted of murder in the
 first degree as defined in section 125.27, murder in the second degree
 as defined in section 125.25, manslaughter in the first degree as
@@ -581,18 +570,8 @@ be required to demonstrate diligent efforts as set forth in this
 section.
   (b) For the purposes of this section a child is "repeatedly abused" by
 his or her parent if:
-  * (i) the child has been found to be an abused child, (A) as defined
-in paragraph (i) of subdivision (e) of section ten hundred twelve of the
-family court act, as a result of such parent's acts; or (B) as defined
-in paragraph (iii) of subdivision (e) of section ten hundred twelve of
-the family court act, as a result of such parent's acts; provided,
-however, the respondent must have committed or knowingly allowed to be
-committed a felony sex offense as defined in sections 130.25, 130.30,
-130.35, 130.40, 130.45, 130.50, 130.65, 130.67, 130.70, 130.75, 130.80,
-130.95 and 130.96 of the penal law; and
-  * NB Effective until September 1, 2024
-  * (i) the child has been found to be an abused child, (A) as defined
-in paragraph (i) of subdivision (e) of section ten hundred twelve of the
+  (i) the child has been found to be an abused child, (A) as defined in
+paragraph (i) of subdivision (e) of section ten hundred twelve of the
 family court act, as a result of such parent's acts; or (B) as defined
 in paragraph (iii) of subdivision (e) of section ten hundred twelve of
 the family court act, as a result of such parent's acts; provided,
@@ -600,26 +579,7 @@ however, the respondent must have committed or knowingly allowed to be
 committed a felony sex offense as defined in sections 130.25, 130.30,
 130.35, former sections 130.40, 130.45, 130.50, sections 130.65, 130.67,
 130.70, 130.75, 130.80, 130.95 and 130.96 of the penal law; and
-  * NB Effective September 1, 2024
-  * (ii) (A) the child or another child for whose care such parent is or
-has been legally responsible has been previously found, within the five
-years immediately preceding the initiation of the proceeding in which
-such abuse is found, to be an abused child, as defined in paragraph (i)
-or (iii) of subdivision (e) of section ten hundred twelve of the family
-court act, as a result of such parent's acts; provided, however, in the
-case of a finding of abuse as defined in paragraph (iii) of subdivision
-(e) of section ten hundred twelve of the family court act the respondent
-must have committed or knowingly allowed to be committed a felony sex
-offense as defined in sections 130.25, 130.30, 130.35, 130.40, 130.45,
-130.50, 130.65, 130.67, 130.70, 130.75 and 130.80 of the penal law, or
-(B) the parent has been convicted of a crime under section 130.25,
-130.30, 130.35, 130.40, 130.45, 130.50, 130.65, 130.67, 130.70, 130.75
-or 130.80 of the penal law against the child, a sibling of the child or
-another child for whose care such parent is or has been legally
-responsible, within the five year period immediately preceding the
-initiation of the proceeding in which abuse is found; and
-  * NB Effective until September 1, 2024
-  * (ii) (A) the child or another child for whose care such parent is or
+  (ii) (A) the child or another child for whose care such parent is or
 has been legally responsible has been previously found, within the five
 years immediately preceding the initiation of the proceeding in which
 such abuse is found, to be an abused child, as defined in paragraph (i)
@@ -637,7 +597,6 @@ law against the child, a sibling of the child or another child for whose
 care such parent is or has been legally responsible, within the five
 year period immediately preceding the initiation of the proceeding in
 which abuse is found; and
-  * NB Effective September 1, 2024
   (iii) the agency has made diligent efforts, to encourage and
 strengthen the parental relationship, including efforts to rehabilitate
 the respondent, when such efforts will not be detrimental to the best
@@ -661,15 +620,15 @@ severely abused child in accordance with this section. Such a
 determination by the court in accordance with article ten of the family
 court act based upon a fair preponderance of evidence shall be
 admissible in any proceeding commenced in accordance with this section.
-  * (e) A determination by the court in accordance with article ten of
-the family court act based upon clear and convincing evidence that a
-child was abused as defined in paragraph (i) of subdivision (e) of
-section ten hundred twelve of the family court act, as a result of such
-parent's acts; or (B) as defined in paragraph (iii) of subdivision (e)
-of section ten hundred twelve of the family court act, as a result of
-such parent's acts; provided, however, the respondent must have
-committed or knowingly allowed to be committed a felony sex offense as
-defined in sections 130.25, 130.30, 130.35, 130.40, 130.45, 130.50,
+  (e) A determination by the court in accordance with article ten of the
+family court act based upon clear and convincing evidence that a child
+was abused (A) as defined in paragraph (i) of subdivision (e) of section
+ten hundred twelve of the family court act, as a result of such parent's
+acts; or (B) as defined in paragraph (iii) of subdivision (e) of section
+ten hundred twelve of the family court act, as a result of such parent's
+acts; provided, however, the respondent must have committed or knowingly
+allowed to be committed a felony sex offense as defined in sections
+130.25, 130.30, 130.35, former sections 130.40, 130.45, 130.50, sections
 130.65, 130.67, 130.70, 130.75 and 130.80 of the penal law shall
 establish that the child was an abused child for the purpose of a
 determination as required by subparagraph (i) or (ii) of paragraph (b)
@@ -677,24 +636,6 @@ of this subdivision. Such a determination by the court in accordance
 with article ten of the family court act based upon a fair preponderance
 of evidence shall be admissible in any proceeding commenced in
 accordance with this section.
-  * NB Effective until September 1, 2024
-  * (e) A determination by the court in accordance with article ten of
-the family court act based upon clear and convincing evidence that a
-child was abused (A) as defined in paragraph (i) of subdivision (e) of
-section ten hundred twelve of the family court act, as a result of such
-parent's acts; or (B) as defined in paragraph (iii) of subdivision (e)
-of section ten hundred twelve of the family court act, as a result of
-such parent's acts; provided, however, the respondent must have
-committed or knowingly allowed to be committed a felony sex offense as
-defined in sections 130.25, 130.30, 130.35, former sections 130.40,
-130.45, 130.50, sections 130.65, 130.67, 130.70, 130.75 and 130.80 of
-the penal law shall establish that the child was an abused child for the
-purpose of a determination as required by subparagraph (i) or (ii) of
-paragraph (b) of this subdivision. Such a determination by the court in
-accordance with article ten of the family court act based upon a fair
-preponderance of evidence shall be admissible in any proceeding
-commenced in accordance with this section.
-  * NB Effective September 1, 2024
   (f) Upon a finding pursuant to paragraph (a) or (b) of this
 subdivision that the child has been severely or repeatedly abused by his
 or her parent, the court shall enter an order of disposition either (i)

@@ -10,7 +10,6 @@
 - [§ 191-A Definitions](191a-definitions.md)
 - [§ 191-B Contracts with sales representatives](191b-contracts-with-sales-representatives.md)
 - [§ 191-C Payment of sales commission](191c-payment-of-sales-commission.md)
-- [§ 191-D Payment of wages for freelance workers](191d-payment-of-wages-for-freelance-workers.md) *(repealed)*
 - [§ 192 Cash payment of wages](192-cash-payment-of-wages.md)
 - [§ 193 Deductions from wages](193-deductions-from-wages.md)
 - [§ 194 Differential in rate of pay because of protected class status prohibited](194-differential-in-rate-of-pay-because-of-protected-class-status-prohibited.md)
@@ -20,7 +19,6 @@
 - [§ 196 Powers of commissioner](196-powers-of-commissioner.md)
 - [§ 196-A Complaints by employees to commissioner](196a-complaints-by-employees-to-commissioner.md)
 - [§ 196-B Sick leave requirements](196b-sick-leave-requirements.md)
-- [§ 196-C Leave time for COVID-19 vaccination](196c-leave-time-for-covid-19-vaccination.md) *(repealed)*
 - [§ 196-D Gratuities](196d-gratuities.md)
 - [§ 197 Civil penalty](197-civil-penalty.md)
 - [§ 198 Costs, remedies](198-costs-remedies.md)

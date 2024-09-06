@@ -17,6 +17,7 @@
 - [§ 220-G Additional enforcement of article](220g-additional-enforcement-of-article.md)
 - [§ 220-H Occupational Safety and Health Administration (OSHA) construction safety and health course](220h-occupational-safety-and-health-administration-osha-construction-safety.md)
 - [§ 220-I Registration system for contractors and subcontractors](220i-registration-system-for-contractors-and-subcontractors.md)
+- [§ 220-J Payroll reporting requirements](220j-payroll-reporting-requirements.md)
 - [§ 221 Company stores](221-company-stores.md)
 - [§ 221-A Permits required](221a-permits-required.md)
 - [§ 221-B Issue of permits](221b-issue-of-permits.md)
@@ -56,6 +57,7 @@ Section 220.     Hours, wages and supplements.
         220-h.   Occupational Safety and Health Administration (OSHA)
                    construction safety and health course.
         220-i.   Registration system for contractors and subcontractors.
+        220-j.   Payroll reporting requirements.
         221.     Company stores.
         221-a.   Permits required.
         221-b.   Issue of permits.

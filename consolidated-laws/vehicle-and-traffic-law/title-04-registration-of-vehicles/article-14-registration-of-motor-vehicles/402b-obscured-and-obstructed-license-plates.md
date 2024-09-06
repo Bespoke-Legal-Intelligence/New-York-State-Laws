@@ -4,8 +4,8 @@
 [Vehicle and Traffic Law](../../README.md) › [Title 4 — Registration of Vehicles](../README.md) › [Article 14 — Registration of Motor Vehicles](README.md)
 
 ```text
-  * § 402-b. Obscured and obstructed license plates. 1. If any vehicle
-is driven or operated on a public highway in violation of subparagraph
+  § 402-b. Obscured and obstructed license plates. 1. If any vehicle is
+driven or operated on a public highway in violation of subparagraph
 (ii), (ii-a), or (iii) of paragraph (b) of subdivision one of section
 four hundred two of this article and is committed in their presence, a
 police officer, as defined in section one hundred thirty-two of this
@@ -31,5 +31,4 @@ this subdivision, "business day" shall mean any calendar day except
 Saturday and Sunday, or the following business holidays: New Year's Day,
 Washington's Birthday, Memorial Day, Independence Day, Labor Day,
 Columbus Day, Veterans' Day, Thanksgiving Day, and Christmas Day.
-  * NB Effective September 1, 2024
 ```

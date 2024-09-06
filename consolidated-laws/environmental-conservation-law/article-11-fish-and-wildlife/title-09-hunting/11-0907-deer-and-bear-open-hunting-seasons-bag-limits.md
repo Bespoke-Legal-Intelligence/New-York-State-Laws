@@ -166,7 +166,7 @@ game, in the manner specified in column three.
   (l), (m), (n), (o)
   or (p) of this
   paragraph
-** NB Effective until October 1, 2024
+** NB Effective until October 1, 2026
 ** (f) Southern tier,     Deer, first              Pistol, shotgun,
   central and Western     Monday after November    crossbow,
   region, except those    15 through first         muzzle loading
@@ -176,7 +176,7 @@ game, in the manner specified in column three.
   (l), (m) or (n),
   or (p) of this
   paragraph
-** NB Effective October 1, 2024 until October 1, 2025
+** NB Effective October 1, 2026 until October 1, 2025
 ** (f) Southern tier,     Deer, first              Pistol, shotgun,
   central and Western     Monday after November    crossbow,
   region, except those    15 through first         muzzle loading
@@ -252,7 +252,7 @@ game, in the manner specified in column three.
     Tompkins              Saturday after November  crossbow, muzzle
                           15 through first Sunday  loading firearm,
                           after December 7         rifle or long bow
-** Repealed October 1, 2024
+** Repealed October 1, 2026
 ** (p) The county of      Deer, the first          Pistol, shotgun,
   Onondaga                Saturday after November  crossbow, muzzle
                           15 through first Sunday  loading firearm,
@@ -324,7 +324,7 @@ specification of the game, in the manner specified in column three.
   (k), (l) **, (m)**
   **or (n)** of this
   paragraph
-** NB ", (m)" expires October 1, 2024
+** NB ", (m)" expires October 1, 2026
 ** NB "or (n)" expires October 1, 2025
 (g) Westchester           Deer of either sex,       Long bow only
   County                  November 1 through

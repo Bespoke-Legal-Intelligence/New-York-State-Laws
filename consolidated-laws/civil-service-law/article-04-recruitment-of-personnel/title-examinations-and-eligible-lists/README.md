@@ -13,7 +13,7 @@
 - [§ 51 Filling vacancies by open competitive examination](51-filling-vacancies-by-open-competitive-examination.md)
 - [§ 52 Promotion examinations](52-promotion-examinations.md)
 - [§ 53 Noncitizen status](53-noncitizen-status.md)
-- [§ 54 Age requirements](54-age-requirements.md)
+- [§ 54 Age and educational requirements](54-age-and-educational-requirements.md)
 - [§ 55 Examination of blind or physically handicapped applicants](55-examination-of-blind-or-physically-handicapped-applicants.md)
 - [§ 55-A Employment of persons with disabilities by municipalities](55a-employment-of-persons-with-disabilities-by-municipalities.md)
 - [§ 55-B Employment of persons with disabilities by the state](55b-employment-of-persons-with-disabilities-by-the-state.md)
