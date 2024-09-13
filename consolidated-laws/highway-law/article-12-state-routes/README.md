@@ -395,6 +395,7 @@
 - [§ 344-P\*4 Portion of the state highway system to be designated as the "Medford FD Commissioner Niel Marturiello Memorial Bridge"](344p-4-portion-of-the-state-highway-system-to-be-designated-as-the-medford-fd.md)
 - [§ 344-P\*5 Portion of the state highway system to be designated as the "Michael J](344p-5-portion-of-the-state-highway-system-to-be-designated-as-the-michael-j.md)
 - [§ 344-P\*6 Portion of the state highway system to be designated as the "Senior Investigator Thomas M](344p-6-portion-of-the-state-highway-system-to-be-designated-as-the-senior-investigator.md)
+- [§ 344-P\*7 Portion of the state highway system to be designated as the "Captain Christopher J](344p-7-portion-of-the-state-highway-system-to-be-designated-as-the-captain-christopher.md)
 - [§ 344-Q Portion of the state highway system to be designated as the "Detective Sergeant Frank Gualdino Memorial Bridge"](344q-portion-of-the-state-highway-system-to-be-designated-as-the-detective-sergeant.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 - [§ 345-B Portion of the state highway system to be designated as the "Doc Schelin Memorial Highway"](345b-portion-of-the-state-highway-system-to-be-designated-as-the-doc-schelin-memorial.md)
@@ -1333,6 +1334,9 @@ Section 340-a.     Designation of state interstate routes.
         344-p*6.   Portion of the state highway system to be designated
                      as the "Senior Investigator Thomas M. O'Neill
                      Memorial Bridge".
+        344-p.     Portion of the state highway system to be designated
+                     as the "Captain Christopher J. Garrow Memorial
+                     Bridge".
         344-q.     Portion of the state highway system to be designated
                      as the "Detective Sergeant Frank Gualdino Memorial
                      Bridge".

@@ -40,6 +40,7 @@
 - [§ 27-B Duty of public employers to develop and implement programs to prevent workplace violence](27b-duty-of-public-employers-to-develop-and-implement-programs-to-prevent-workplace.md)
 - [§ 27-C Preparation of public employers for state disaster emergencies involving public health](27c-preparation-of-public-employers-for-state-disaster-emergencies-involving-public.md)
 - [§ 27-D Workplace safety committees](27d-workplace-safety-committees.md)
+- [§ 27-E Prevention of retail workplace violence](27e-prevention-of-retail-workplace-violence.md)
 - [§ 29 Procedure for issuing safety and health rules](29-procedure-for-issuing-safety-and-health-rules.md)
 - [§ 30 Variations](30-variations.md)
 - [§ 31 Duty to furnish information and facilitate inspections](31-duty-to-furnish-information-and-facilitate-inspections.md)
@@ -110,6 +111,7 @@ Section 10.   Department of labor; commissioner of labor.
         27-c. Preparation of public employers for state disaster
                 emergencies involving public health.
         27-d. Workplace safety committees.
+        27-e. Prevention of retail workplace violence.
         29.   Procedure for issuing safety and health rules.
         30.   Variations.
         31.   Duty to furnish information and facilitate inspections.

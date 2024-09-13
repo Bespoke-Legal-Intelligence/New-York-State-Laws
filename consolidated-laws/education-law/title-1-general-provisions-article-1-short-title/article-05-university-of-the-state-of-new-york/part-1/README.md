@@ -13,6 +13,7 @@
 - [§ 206 Authority to take testimony and conduct hearings](206-authority-to-take-testimony.md)
 - [§ 207 Legislative power](207-legislative-power.md)
 - [§ 207-A Disclosure of gifts made to institutions of higher education by foreign governments, persons and entities](207a-disclosure-of-gifts-made.md)
+- [§ 207-B Crisis resources](207b-crisis-resources.md)
 - [§ 208 General examinations, credentials and degrees](208-general-examinations-credentials.md)
 - [§ 208-A Scheduling of examinations](208a-scheduling-of-examinations.md)
 - [§ 209 Academic examinations; admission and fees](209-academic-examinations-admission.md)
