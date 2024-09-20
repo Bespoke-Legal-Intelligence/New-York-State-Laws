@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 4903-A", "kind": "section", "law_id": "PBH", "location_id": "4903-A", "path": "ARTICLE 49 › TITLE 1 › SECTION 4903-A", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4903-A.md", "title": "Utilization review determinations for medically fragile children"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 4903-A", "kind": "section", "law_id": "PBH", "location_id": "4903-A", "path": "ARTICLE 49 › TITLE 1 › SECTION 4903-A", "repealed": true, "repealed_date": "2024-09-20", "source": "nys-laws:PBH/4903-A.md", "title": "Utilization review determinations for medically fragile children"} -->
 # Public Health Law § 4903-A — Utilization review determinations for medically fragile children
 
 [Public Health Law](../../README.md) › [Article 49 — Utilization Review and External Appeal](../README.md) › [Title 1 — Certification of Agents and Utilization Review Process](README.md)
+
+**Repealed** (20 Sep 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 4903-a. Utilization review determinations for medically fragile

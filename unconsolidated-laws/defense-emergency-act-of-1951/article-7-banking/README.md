@@ -9,7 +9,7 @@
 - [§ 91 Change of location](91-change-of-location.md)
 - [§ 92 Emergency boards of directors](92-emergency-boards-of-directors.md)
 - [§ 93 Powers of the superintendent](93-powers-of-the-superintendent.md)
-- [§ 94 The superintendent of financial services](94-the-superintendent-of-financial-services.md)
+- [§ 94 The superintendent of financial services](94-the-superintendent-of-financial-services.md) *(repealed)*
 - [§ 95 General provisions](95-general-provisions.md)
 
 <details>

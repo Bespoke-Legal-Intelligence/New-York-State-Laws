@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Correction Law § 851*", "kind": "section", "law_id": "COR", "location_id": "851*", "path": "ARTICLE 26 › SECTION 851*", "repealed": false, "repealed_date": null, "source": "nys-laws:COR/851_.md", "title": "Definitions"} -->
+﻿<!-- nyslaw {"citation": "Correction Law § 851*", "kind": "section", "law_id": "COR", "location_id": "851*", "path": "ARTICLE 26 › SECTION 851*", "repealed": true, "repealed_date": "2024-09-20", "source": "nys-laws:COR/851_.md", "title": "Definitions"} -->
 # Correction Law § 851* — Definitions
 
 [Correction Law](../README.md) › [Article 26 — Temporary Release Programs For State Correctional Institutions](README.md)
+
+**Repealed** (20 Sep 2024). The text below is what the Senate publishes for this repealed provision.
 
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 

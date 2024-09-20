@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 231", "kind": "section", "law_id": "GMU", "location_id": "231", "path": "ARTICLE 12 › SECTION 231", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/231.md", "title": "Presentation of claims to court of claims"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 231", "kind": "section", "law_id": "GMU", "location_id": "231", "path": "ARTICLE 12 › SECTION 231", "repealed": true, "repealed_date": "2024-09-20", "source": "nys-laws:GMU/231.md", "title": "Presentation of claims to court of claims"} -->
 # General Municipal Law § 231 — Presentation of claims to court of claims
 
 [General Municipal Law](../README.md) › [Article 12 — Railroad Aid Bonds](README.md)
+
+**Repealed** (20 Sep 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 231. Presentation of claims to court of claims. Any county of this

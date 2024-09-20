@@ -189,6 +189,8 @@ Section 363.     Declaration of objects.
         367-v.   County long-term care financing demonstration program.
         367-w.   Health care and mental hygiene worker bonuses.
         367-x.   Payment for violence prevention programs.
+        367-y.   Reimbursement for treatment in place and transportation
+                   to alternative health care settings.
         368.     Quarterly estimates.
         368-a.   State reimbursement.
         368-b.   State reimbursement to local health districts;

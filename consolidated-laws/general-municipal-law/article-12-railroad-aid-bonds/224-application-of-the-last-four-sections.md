@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 224", "kind": "section", "law_id": "GMU", "location_id": "224", "path": "ARTICLE 12 › SECTION 224", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/224.md", "title": "Application of the last four sections"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 224", "kind": "section", "law_id": "GMU", "location_id": "224", "path": "ARTICLE 12 › SECTION 224", "repealed": true, "repealed_date": "2024-09-20", "source": "nys-laws:GMU/224.md", "title": "Application of the last four sections"} -->
 # General Municipal Law § 224 — Application of the last four sections
 
 [General Municipal Law](../README.md) › [Article 12 — Railroad Aid Bonds](README.md)
+
+**Repealed** (20 Sep 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 224. Application of the last four sections. The provisions of

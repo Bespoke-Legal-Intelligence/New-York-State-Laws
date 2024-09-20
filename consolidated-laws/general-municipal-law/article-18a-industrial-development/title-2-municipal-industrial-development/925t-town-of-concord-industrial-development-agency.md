@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 925-T", "kind": "section", "law_id": "GMU", "location_id": "925-T", "path": "ARTICLE 18-A › TITLE 2 › SECTION 925-T", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/925-T.md", "title": "Town of Concord industrial development agency"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 925-T", "kind": "section", "law_id": "GMU", "location_id": "925-T", "path": "ARTICLE 18-A › TITLE 2 › SECTION 925-T", "repealed": true, "repealed_date": "2024-09-20", "source": "nys-laws:GMU/925-T.md", "title": "Town of Concord industrial development agency"} -->
 # General Municipal Law § 925-T — Town of Concord industrial development agency
 
 [General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 2 — Municipal Industrial Development Agencies](README.md)
+
+**Repealed** (20 Sep 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 925-t. Town of Concord industrial development agency. 1. For the

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 223", "kind": "section", "law_id": "GMU", "location_id": "223", "path": "ARTICLE 12 › SECTION 223", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/223.md", "title": "Duty of supervisor"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 223", "kind": "section", "law_id": "GMU", "location_id": "223", "path": "ARTICLE 12 › SECTION 223", "repealed": true, "repealed_date": "2024-09-20", "source": "nys-laws:GMU/223.md", "title": "Duty of supervisor"} -->
 # General Municipal Law § 223 — Duty of supervisor
 
 [General Municipal Law](../README.md) › [Article 12 — Railroad Aid Bonds](README.md)
+
+**Repealed** (20 Sep 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 223. Duty of supervisor. Such proportionate share of moneys

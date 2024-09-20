@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 226", "kind": "section", "law_id": "GMU", "location_id": "226", "path": "ARTICLE 12 › SECTION 226", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/226.md", "title": "Transfer of duties of railroad commissioners to supervisors"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 226", "kind": "section", "law_id": "GMU", "location_id": "226", "path": "ARTICLE 12 › SECTION 226", "repealed": true, "repealed_date": "2024-09-20", "source": "nys-laws:GMU/226.md", "title": "Transfer of duties of railroad commissioners to supervisors"} -->
 # General Municipal Law § 226 — Transfer of duties of railroad commissioners to supervisors
 
 [General Municipal Law](../README.md) › [Article 12 — Railroad Aid Bonds](README.md)
+
+**Repealed** (20 Sep 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 226. Transfer of duties of railroad commissioners to supervisors.

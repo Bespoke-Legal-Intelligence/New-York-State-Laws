@@ -8,7 +8,7 @@
 ## Contents
 
 - [§ 851 Definitions](851-definitions.md)
-- [§ 851\* Definitions](851-851-definitions.md)
+- [§ 851\* Definitions](851-851-definitions.md) *(repealed)*
 - [§ 852 Establishment of temporary release](852-establishment-of-temporary-release.md)
 - [§ 853 Reporting and information](853-reporting-and-information.md)
 - [§ 854 Evaluation and recommendation](854-evaluation-and-recommendation.md)

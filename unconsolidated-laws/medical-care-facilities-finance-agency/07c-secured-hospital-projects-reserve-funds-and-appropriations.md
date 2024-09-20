@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Medical Care Facilities Finance Agency § 7-C", "kind": "section", "law_id": "MCF", "location_id": "7-C", "path": "SECTION 7-C", "repealed": false, "repealed_date": null, "source": "nys-laws:MCF/7-C.md", "title": "Secured hospital projects reserve funds and appropriations"} -->
+﻿<!-- nyslaw {"citation": "Medical Care Facilities Finance Agency § 7-C", "kind": "section", "law_id": "MCF", "location_id": "7-C", "path": "SECTION 7-C", "repealed": true, "repealed_date": "2024-09-20", "source": "nys-laws:MCF/7-C.md", "title": "Secured hospital projects reserve funds and appropriations"} -->
 # Medical Care Facilities Finance Agency § 7-C — Secured hospital projects reserve funds and appropriations
 
 [Medical Care Facilities Finance Agency](README.md)
+
+**Repealed** (20 Sep 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 7-c. Secured hospital projects reserve funds and appropriations.

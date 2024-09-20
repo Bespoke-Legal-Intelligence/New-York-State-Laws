@@ -19,7 +19,7 @@
 - [§ 19.15 Programs of the office of alcoholism and substance abuse services](19.15-programs-of-the-office-of-alcoholism.md)
 - [§ 19.16 Methadone Registry](19.16-methadone-registry.md)
 - [§ 19.17 Programs, services, and operation of facilities in the office of alcoholism and substance abuse services](19.17-programs-services-and-operation.md)
-- [§ 19.18 Opioid addiction treatment and hospital diversion demonstration program](19.18-opioid-addiction-treatment-and-hospital.md)
+- [§ 19.18 Opioid addiction treatment and hospital diversion demonstration program](19.18-opioid-addiction-treatment-and-hospital.md) *(repealed)*
 - [§ 19.18-B Certified peer recovery advocate services program](19.18-b-certified-peer-recovery-advocate-services.md)
 - [§ 19.18-C Corrections-based substance use disorder treatment and transition services](19.18-c-corrections-based-substance-use-disorder.md)
 - [§ 19.19 Personnel of the office](19.19-personnel-of-the-office.md)

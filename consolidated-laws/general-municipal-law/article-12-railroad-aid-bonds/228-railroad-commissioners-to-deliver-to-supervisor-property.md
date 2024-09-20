@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 228", "kind": "section", "law_id": "GMU", "location_id": "228", "path": "ARTICLE 12 › SECTION 228", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/228.md", "title": "Railroad commissioners to deliver to supervisor property"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 228", "kind": "section", "law_id": "GMU", "location_id": "228", "path": "ARTICLE 12 › SECTION 228", "repealed": true, "repealed_date": "2024-09-20", "source": "nys-laws:GMU/228.md", "title": "Railroad commissioners to deliver to supervisor property"} -->
 # General Municipal Law § 228 — Railroad commissioners to deliver to supervisor property
 
 [General Municipal Law](../README.md) › [Article 12 — Railroad Aid Bonds](README.md)
+
+**Repealed** (20 Sep 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 228. Railroad commissioners to deliver to supervisor property.

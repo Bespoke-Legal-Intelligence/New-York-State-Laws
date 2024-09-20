@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 233", "kind": "section", "law_id": "GMU", "location_id": "233", "path": "ARTICLE 12 › SECTION 233", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/233.md", "title": "Award or judgment"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 233", "kind": "section", "law_id": "GMU", "location_id": "233", "path": "ARTICLE 12 › SECTION 233", "repealed": true, "repealed_date": "2024-09-20", "source": "nys-laws:GMU/233.md", "title": "Award or judgment"} -->
 # General Municipal Law § 233 — Award or judgment
 
 [General Municipal Law](../README.md) › [Article 12 — Railroad Aid Bonds](README.md)
+
+**Repealed** (20 Sep 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 233. Award or judgment. No award shall be made or judgment rendered

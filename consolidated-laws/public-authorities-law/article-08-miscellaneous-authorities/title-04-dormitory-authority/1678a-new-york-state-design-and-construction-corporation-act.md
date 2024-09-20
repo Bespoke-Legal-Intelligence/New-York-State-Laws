@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Authorities Law § 1678-A", "kind": "section", "law_id": "PBA", "location_id": "1678-A", "path": "ARTICLE 8 › TITLE 4 › SECTION 1678-A", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1678-A.md", "title": "New York state design and construction corporation act"} -->
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1678-A", "kind": "section", "law_id": "PBA", "location_id": "1678-A", "path": "ARTICLE 8 › TITLE 4 › SECTION 1678-A", "repealed": true, "repealed_date": "2024-09-20", "source": "nys-laws:PBA/1678-A.md", "title": "New York state design and construction corporation act"} -->
 # Public Authorities Law § 1678-A — New York state design and construction corporation act
 
 [Public Authorities Law](../../README.md) › [Article 8 — Miscellaneous Authorities](../README.md) › [Title 4 — Dormitory Authority](README.md)
+
+**Repealed** (20 Sep 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 1678-a. New York state design and construction corporation act. 1.

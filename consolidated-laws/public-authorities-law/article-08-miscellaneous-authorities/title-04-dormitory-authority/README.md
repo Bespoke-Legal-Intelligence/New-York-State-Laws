@@ -12,7 +12,7 @@
 - [§ 1676-A Payment on authority public work projects](1676a-payment-on-authority-public-work-projects.md)
 - [§ 1677 Dormitory Authority](1677-dormitory-authority.md)
 - [§ 1678 Powers of the authority](1678-powers-of-the-authority.md)
-- [§ 1678-A New York state design and construction corporation act](1678a-new-york-state-design-and-construction-corporation-act.md)
+- [§ 1678-A New York state design and construction corporation act](1678a-new-york-state-design-and-construction-corporation-act.md) *(repealed)*
 - [§ 1679 Supplemental higher education loan financing program](1679-supplemental-higher-education-loan-financing-program.md)
 - [§ 1679-A Health education assistance loan financing program](1679a-health-education-assistance-loan-financing-program.md)
 - [§ 1679-B Equipment loans](1679b-equipment-loans.md)

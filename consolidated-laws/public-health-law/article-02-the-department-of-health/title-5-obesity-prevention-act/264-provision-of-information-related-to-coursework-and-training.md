@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 264", "kind": "section", "law_id": "PBH", "location_id": "264", "path": "ARTICLE 2 › TITLE 5* › SECTION 264", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/264.md", "title": "Provision of information related to coursework and training in nutrition"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 264", "kind": "section", "law_id": "PBH", "location_id": "264", "path": "ARTICLE 2 › TITLE 5* › SECTION 264", "repealed": true, "repealed_date": "2024-09-20", "source": "nys-laws:PBH/264.md", "title": "Provision of information related to coursework and training in nutrition"} -->
 # Public Health Law § 264 — Provision of information related to coursework and training in nutrition
 
 [Public Health Law](../../README.md) › [Article 2 — The Department of Health](../README.md) › [Title 5* — Obesity Prevention Act](README.md)
+
+**Repealed** (20 Sep 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 264. Provision of information related to coursework and training

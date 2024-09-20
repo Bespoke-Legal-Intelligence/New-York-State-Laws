@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 221", "kind": "section", "law_id": "GMU", "location_id": "221", "path": "ARTICLE 12 › SECTION 221", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/221.md", "title": "Duty of railroad commissioners"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 221", "kind": "section", "law_id": "GMU", "location_id": "221", "path": "ARTICLE 12 › SECTION 221", "repealed": true, "repealed_date": "2024-09-20", "source": "nys-laws:GMU/221.md", "title": "Duty of railroad commissioners"} -->
 # General Municipal Law § 221 — Duty of railroad commissioners
 
 [General Municipal Law](../README.md) › [Article 12 — Railroad Aid Bonds](README.md)
+
+**Repealed** (20 Sep 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 221. Duty of railroad commissioners. It shall be the duty of the

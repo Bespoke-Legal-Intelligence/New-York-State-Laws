@@ -8,8 +8,8 @@
 | Senate code | MCF |
 | Type | Unconsolidated law |
 | Session law | L. 1973, ch. 392 |
-| Sections | 31 |
-| Last changed | 3 May 2024 |
+| Sections | 31 (1 repealed) |
+| Last changed | 20 Sep 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Medical Care Facilities Finance Agency 392/73 |
 
@@ -34,6 +34,7 @@ Section 1.    Short title.
 
 ## Recent changes
 
+- [20 Sep 2024](../../changes/2024/2024-09-20.md): 1 repealed
 - [3 May 2024](../../changes/2024/2024-05-03.md): 1 amended
 - [22 Sep 2023](../../changes/2023/2023-09-22.md): 1 amended
 - [15 Sep 2023](../../changes/2023/2023-09-15.md): 1 amended
@@ -43,7 +44,6 @@ Section 1.    Short title.
 - [29 Jul 2022](../../changes/2022/2022-07-29.md): 3 amended
 - [22 Apr 2022](../../changes/2022/2022-04-22.md): 1 amended
 - [2 Jul 2021](../../changes/2021/2021-07-02.md): 1 amended
-- [23 Apr 2021](../../changes/2021/2021-04-23.md): 1 amended
 
 ## Contents
 
@@ -60,7 +60,7 @@ Section 1.    Short title.
 - [§ 6 Bonds and notes of the agency](06-bonds-and-notes-of-the-agency.md)
 - [§ 7 Hospital and nursing home projects reserve funds and appropriations](07-hospital-and-nursing-home-projects-reserve-funds-and-appropriations.md)
 - [§ 7-A Secured hospital projects reserve funds and appropriations](07a-secured-hospital-projects-reserve-funds-and-appropriations.md)
-- [§ 7-C Secured hospital projects reserve funds and appropriations](07c-secured-hospital-projects-reserve-funds-and-appropriations.md)
+- [§ 7-C Secured hospital projects reserve funds and appropriations](07c-secured-hospital-projects-reserve-funds-and-appropriations.md) *(repealed)*
 - [§ 8 Health facilities reserve funds and appropriations](08-health-facilities-reserve-funds-and-appropriations.md)
 - [§ 9 Special provisions relating to the municipal health facilities improvement program](09-special-provisions-relating-to-the-municipal-health-facilities-improvement.md)
 - [§ 9-A Special provisions relating to mental health services facilities improvement bonds and notes](09a-special-provisions-relating-to-mental-health-services-facilities-improvement.md)

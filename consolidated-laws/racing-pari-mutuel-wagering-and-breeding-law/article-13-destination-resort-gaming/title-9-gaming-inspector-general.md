@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law, Title 9", "kind": "title", "law_id": "PML", "location_id": "A13T9", "path": "ARTICLE 13 › TITLE 9", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/A13T9.md", "title": "Gaming Inspector General"} -->
+﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law, Title 9", "kind": "title", "law_id": "PML", "location_id": "A13T9", "path": "ARTICLE 13 › TITLE 9", "repealed": true, "repealed_date": "2024-09-20", "source": "nys-laws:PML/A13T9.md", "title": "Gaming Inspector General"} -->
 # Racing, Pari-Mutuel Wagering and Breeding Law, Title 9 — Gaming Inspector General
 
 [Racing, Pari-Mutuel Wagering and Breeding Law](../README.md) › [Article 13 — Destination Resort Gaming](README.md)
+
+**Repealed** (20 Sep 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
                                 * TITLE 9

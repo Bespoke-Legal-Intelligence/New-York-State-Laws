@@ -10,7 +10,7 @@
 - [§ 917 Continuing obligations](917-continuing-obligations.md)
 - [§ 918 Registration required](918-registration-required.md)
 - [§ 919 Registration process](919-registration-process.md)
-- [§ 920 Fees](920-fees.md)
+- [§ 920 Fees](920-fees.md) *(repealed)*
 - [§ 921 Minimum net worth, bonding and reporting](921-minimum-net-worth-bonding-and-reporting.md)
 - [§ 922 General requirements and provisions](922-general-requirements-and-provisions.md)
 - [§ 923 Unemployment compensation insurance](923-unemployment-compensation-insurance.md)

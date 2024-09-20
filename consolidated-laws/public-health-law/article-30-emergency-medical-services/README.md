@@ -65,8 +65,8 @@ Section 3000.   Declaration of policy and statement of purpose.
         3002-a. State emergency medical advisory committee.
         3003.   Regional emergency medical services councils.
         3003-a. EMS program agencies.
-        3003-b. Availability of ambulance service that provides
-                  transportation by aircraft to store and distribute
+        3003-b. Availability of ambulance service and advanced life
+                  support first response service to store and distribute
                   blood and initiate and administer blood transfusions.
         3004.   Emergency medical services system and agency performance
                   standards.

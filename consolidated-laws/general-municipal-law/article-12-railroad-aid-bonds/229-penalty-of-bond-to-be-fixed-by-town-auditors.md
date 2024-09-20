@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 229", "kind": "section", "law_id": "GMU", "location_id": "229", "path": "ARTICLE 12 › SECTION 229", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/229.md", "title": "Penalty of bond to be fixed by town auditors"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 229", "kind": "section", "law_id": "GMU", "location_id": "229", "path": "ARTICLE 12 › SECTION 229", "repealed": true, "repealed_date": "2024-09-20", "source": "nys-laws:GMU/229.md", "title": "Penalty of bond to be fixed by town auditors"} -->
 # General Municipal Law § 229 — Penalty of bond to be fixed by town auditors
 
 [General Municipal Law](../README.md) › [Article 12 — Railroad Aid Bonds](README.md)
+
+**Repealed** (20 Sep 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 229. Penalty of bond to be fixed by town auditors. The board of town

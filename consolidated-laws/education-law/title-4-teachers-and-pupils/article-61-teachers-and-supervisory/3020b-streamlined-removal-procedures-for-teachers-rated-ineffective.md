@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Education Law § 3020-B", "kind": "section", "law_id": "EDN", "location_id": "3020-B", "path": "TITLE 4 › ARTICLE 61 › SECTION 3020-B", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/3020-B.md", "title": "Streamlined removal procedures for teachers rated ineffective"} -->
+﻿<!-- nyslaw {"citation": "Education Law § 3020-B", "kind": "section", "law_id": "EDN", "location_id": "3020-B", "path": "TITLE 4 › ARTICLE 61 › SECTION 3020-B", "repealed": true, "repealed_date": "2024-09-20", "source": "nys-laws:EDN/3020-B.md", "title": "Streamlined removal procedures for teachers rated ineffective"} -->
 # Education Law § 3020-B — Streamlined removal procedures for teachers rated ineffective
 
 [Education Law](../../README.md) › [Title 4 — Teachers and Pupils](../README.md) › [Article 61 — Teachers and Supervisory and Administrative Staff](README.md)
+
+**Repealed** (20 Sep 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 3020-b. Streamlined removal procedures for teachers rated

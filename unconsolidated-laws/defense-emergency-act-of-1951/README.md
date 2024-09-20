@@ -8,8 +8,8 @@
 | Senate code | DEA |
 | Type | Unconsolidated law |
 | Session law | L. 1951, ch. 784 |
-| Sections | 89 |
-| Last changed | 7 Apr 2023 |
+| Sections | 89 (1 repealed) |
+| Last changed | 20 Sep 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Defense Emergency Act 1951 784/51 |
 
@@ -32,6 +32,7 @@ Article I. Short title; definitions.
 
 ## Recent changes
 
+- [20 Sep 2024](../../changes/2024/2024-09-20.md): 1 repealed
 - [7 Apr 2023](../../changes/2023/2023-04-07.md): 1 amended
 - [15 Apr 2022](../../changes/2022/2022-04-15.md): 1 amended
 - [13 Aug 2021](../../changes/2021/2021-08-13.md): 1 amended

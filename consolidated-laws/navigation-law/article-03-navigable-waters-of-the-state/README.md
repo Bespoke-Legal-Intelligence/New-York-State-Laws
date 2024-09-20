@@ -31,7 +31,7 @@
 - [§ 38 Lake George water levels](38-lake-george-water-levels.md)
 - [§ 39 Motor boat regulation on Lake George](39-motor-boat-regulation-on-lake-george.md)
 - [§ 39-A Motor boat regulation on Lake Colby](39a-motor-boat-regulation-on-lake-colby.md)
-- [§ 39-B Motor boat regulation on Flax Pond tidal wetlands sanctuary](39b-motor-boat-regulation-on-flax-pond-tidal-wetlands-sanctuary.md)
+- [§ 39-B Motor boat regulation on Flax Pond tidal wetlands sanctuary](39b-motor-boat-regulation-on-flax-pond-tidal-wetlands-sanctuary.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 3, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

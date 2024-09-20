@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 225", "kind": "section", "law_id": "GMU", "location_id": "225", "path": "ARTICLE 12 › SECTION 225", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/225.md", "title": "Supervisor to execute a bond"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 225", "kind": "section", "law_id": "GMU", "location_id": "225", "path": "ARTICLE 12 › SECTION 225", "repealed": true, "repealed_date": "2024-09-20", "source": "nys-laws:GMU/225.md", "title": "Supervisor to execute a bond"} -->
 # General Municipal Law § 225 — Supervisor to execute a bond
 
 [General Municipal Law](../README.md) › [Article 12 — Railroad Aid Bonds](README.md)
+
+**Repealed** (20 Sep 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 225. Supervisor to execute a bond. The supervisor of any town or

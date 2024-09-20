@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Defense Emergency Act of 1951 § 94", "kind": "section", "law_id": "DEA", "location_id": "94", "path": "ARTICLE 7 › SECTION 94", "repealed": false, "repealed_date": null, "source": "nys-laws:DEA/94.md", "title": "The superintendent of financial services"} -->
+﻿<!-- nyslaw {"citation": "Defense Emergency Act of 1951 § 94", "kind": "section", "law_id": "DEA", "location_id": "94", "path": "ARTICLE 7 › SECTION 94", "repealed": true, "repealed_date": "2024-09-20", "source": "nys-laws:DEA/94.md", "title": "The superintendent of financial services"} -->
 # Defense Emergency Act of 1951 § 94 — The superintendent of financial services
 
 [Defense Emergency Act of 1951](../README.md) › [Article 7 — Banking](README.md)
+
+**Repealed** (20 Sep 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 94. The superintendent of financial services. 1. During a period of

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Navigation Law § 39-B", "kind": "section", "law_id": "NAV", "location_id": "39-B", "path": "ARTICLE 3 › SECTION 39-B", "repealed": false, "repealed_date": null, "source": "nys-laws:NAV/39-B.md", "title": "Motor boat regulation on Flax Pond tidal wetlands sanctuary"} -->
+﻿<!-- nyslaw {"citation": "Navigation Law § 39-B", "kind": "section", "law_id": "NAV", "location_id": "39-B", "path": "ARTICLE 3 › SECTION 39-B", "repealed": true, "repealed_date": "2024-09-20", "source": "nys-laws:NAV/39-B.md", "title": "Motor boat regulation on Flax Pond tidal wetlands sanctuary"} -->
 # Navigation Law § 39-B — Motor boat regulation on Flax Pond tidal wetlands sanctuary
 
 [Navigation Law](../README.md) › [Article 3 — Navigable Waters of the State](README.md)
+
+**Repealed** (20 Sep 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 39-b. Motor boat regulation on Flax Pond tidal wetlands sanctuary.

@@ -117,7 +117,7 @@
 - [§ 925-P Town of Riverhead industrial development agency](925p-town-of-riverhead-industrial-development-agency.md)
 - [§ 925-P\*2 Town of Clifton Park industrial development agency](925p-2-town-of-clifton-park-industrial-development-agency.md)
 - [§ 925-R Town of Hamptonburgh industrial development agency](925r-town-of-hamptonburgh-industrial-development-agency.md)
-- [§ 925-T Town of Concord industrial development agency](925t-town-of-concord-industrial-development-agency.md)
+- [§ 925-T Town of Concord industrial development agency](925t-town-of-concord-industrial-development-agency.md) *(repealed)*
 - [§ 925-V Town of Hamburg industrial development agency](925v-town-of-hamburg-industrial-development-agency.md)
 - [§ 925-Z Town of Waterford industrial development agency](925z-town-of-waterford-industrial-development-agency.md)
 - [§ 926 City of Syracuse industrial development agency](926-city-of-syracuse-industrial-development-agency.md)
