@@ -4,7 +4,7 @@
 [Election Law](../../README.md) › [Article 17 — Protecting the Elective Franchise](../README.md) › [Title 2 — John R Lewis Voting Rights Act of New York](README.md)
 
 ```text
-  * § 17-210. Preclearance. 1. Preclearance. To ensure that the right to
+  § 17-210. Preclearance. 1. Preclearance. To ensure that the right to
 vote is not denied or abridged on account of race, color, or
 language-minority group, the enactment or implementation of a covered
 policy by a covered entity, as defined in subdivisions two and three of
@@ -203,5 +203,4 @@ submit covered policies for preclearance on behalf of the covered
 entity. Each such covered entity shall notify the civil rights bureau
 within thirty days of any material change to the information required
 pursuant to this paragraph.
-  * NB Effective September 22, 2024
 ```

@@ -64,14 +64,12 @@ on or before the tenth day of each succeeding month to the treasurer of
 Essex county and, after the deduction by such treasurer of the necessary
 expenses of his or her office provided in section two hundred sixty-two
 of this article shall be deposited in the general fund of the county of
-Essex for expenditure on all expenses incurred by such county for county
-correctional and public safety facility projects. Notwithstanding the
-provisions of the preceding sentence, the tax so imposed and paid upon
-mortgages covering real property situated in two or more counties, which
-under the provisions of this section or section two hundred sixty of
-this article are first to be apportioned by the commissioner, shall be
-paid over by the recording officer receiving the same as provided by the
-determination of the commissioner.
+Essex. Notwithstanding the provisions of the preceding sentence, the tax
+so imposed and paid upon mortgages covering real property situated in
+two or more counties, which under the provisions of this section or
+section two hundred sixty of this article are first to be apportioned by
+the commissioner, shall be paid over by the recording officer receiving
+the same as provided by the determination of the commissioner.
   6. Any local law imposing a tax pursuant to the authority of this
 section or repealing or suspending such a tax shall take effect only on
 the first day of a calendar month. Such a local law shall not be
@@ -83,6 +81,6 @@ effect.
 also be filed with the county clerk of the county of Essex, the
 secretary of state and the state comptroller within five days after the
 date it is duly enacted.
-  * NB Repealed December 1, 2024
+  * NB Repealed December 1, 2027
   * NB There are 4 § 253-j's
 ```
