@@ -41,6 +41,7 @@
 - [§ 233-A Sale of manufactured home parks](233a-sale-of-manufactured-home-parks.md)
 - [§ 233-B Manufactured home parks; rent increases](233b-manufactured-home-parks-rent-increases.md)
 - [§ 233-B\*2 Campgrounds](233b-2-campgrounds.md)
+- [§ 233-C Residential ground lease cooperative apartment buildings](233c-residential-ground-lease-cooperative-apartment-buildings.md)
 - [§ 234 Right to recover attorneys' fees in actions or summary proceedings arising out of leases of residential property](234-right-to-recover-attorneys-fees-in-actions-or-summary-proceedings-arising-out.md)
 - [§ 234-A Unauthorized legal fees](234a-unauthorized-legal-fees.md)
 - [§ 235 Wilful violations](235-wilful-violations.md)
@@ -116,6 +117,8 @@ Section  220.     Action for use and occupation.
          233-a.   Sale of manufactured home parks.
          233-b.   Manufactured home parks; rent increases.
          233-b*2. Campgrounds.
+         233-c.   Residential ground lease cooperative apartment
+                    buildings.
          234.     Right to recover attorneys' fees in actions or summary
                     proceedings arising out of leases of residential
                     property.

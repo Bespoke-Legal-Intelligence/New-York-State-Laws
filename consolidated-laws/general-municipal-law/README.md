@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | GMU |
 | Type | Consolidated law, chapter 24 |
-| Sections | 1,092 (15 repealed) |
-| Last changed | 20 Sep 2024 |
+| Sections | 1,079 |
+| Last changed | 4 Oct 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Municipal |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [4 Oct 2024](../../changes/2024/2024-10-04.md): 2 added, 15 removed
 - [20 Sep 2024](../../changes/2024/2024-09-20.md): 15 repealed
 - [5 Jul 2024](../../changes/2024/2024-07-05.md): 10 amended
 - [3 May 2024](../../changes/2024/2024-05-03.md): 2 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [15 Dec 2023](../../changes/2023/2023-12-15.md): 2 amended
 - [26 Nov 2023](../../changes/2023/2023-11-26.md): 2 amended, 1 added
 - [17 Nov 2023](../../changes/2023/2023-11-17.md): 1 amended
-- [27 Oct 2023](../../changes/2023/2023-10-27.md): 3 amended, 2 added, 1 removed
 
 ## Contents
 
@@ -76,7 +76,6 @@ Assembly, do enact as follows:
 - [Article 11-AA — Defined Contribution Service Award Programs For Volunteer Ambulance Workers](article-11aa-defined-contribution-service-award-programs/)
 - [Article 11-AAA — Defined Benefit Service Award Program For Volunteer Ambulance Workers](article-11aaa-defined-benefit-service-award-program/)
 - [Article 11-AAAA — Supplemental Service Awards For Volunteer Ambulance Workers and Firefighters](article-11aaaa-supplemental-service-awards-for-volunteer/)
-- [Article 12 — Railroad Aid Bonds](article-12-railroad-aid-bonds/) *(repealed)*
 - [Article 12-A — City and Village Planning Commissions](article-12a-city-and-village-planning-commissions/)
 - [Article 12-B — County Planning Boards and Regional Planning Councils](article-12b-county-planning-boards-and-regional-planning/)
 - [Article 12-C — Intergovernmental Relations Councils](article-12c-intergovernmental-relations-councils/)

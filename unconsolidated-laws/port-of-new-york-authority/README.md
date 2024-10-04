@@ -9,12 +9,13 @@
 | Type | Unconsolidated law |
 | Session law | L. 1921, ch. 154 |
 | Sections | 4 |
-| Last changed | 29 Sep 2023 |
+| Last changed | 4 Oct 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Port of New York Authority 154/21 |
 
 ## Recent changes
 
+- [4 Oct 2024](../../changes/2024/2024-10-04.md): 1 amended
 - [29 Sep 2023](../../changes/2023/2023-09-29.md): 1 amended
 - [22 Jul 2022](../../changes/2022/2022-07-22.md): 1 amended
 - [19 Jun 2020](../../changes/2020/2020-06-19.md): 1 amended

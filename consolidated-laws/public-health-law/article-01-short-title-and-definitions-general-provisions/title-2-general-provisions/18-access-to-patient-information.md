@@ -142,7 +142,9 @@ or guardian.
 upon the written request of any qualified person, a health care provider
 shall furnish to such person, within a reasonable time, a copy of any
 patient information requested, and original mammograms requested, which
-the person is authorized to inspect pursuant to this subdivision.
+the person is authorized to inspect pursuant to this subdivision. A
+qualified person may request a physical copy of any patient information
+requested pursuant to this section.
   (e) The provider may impose a reasonable charge for all inspections
 and copies, not exceeding the costs incurred by such provider, provided,
 however, that a provider may not impose a charge for copying an original

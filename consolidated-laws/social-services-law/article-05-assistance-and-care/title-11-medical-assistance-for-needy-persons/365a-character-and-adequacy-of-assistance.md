@@ -655,31 +655,20 @@ assistance shall not include, unless required by federal law and
 regulation as a condition of qualifying for federal financial
 participation in the medicaid program, the following items of care,
 services and supplies:
-  * (a) drugs which may be dispensed without a prescription as required
-by section sixty-eight hundred ten of the education law; provided,
-however, that the state commissioner of health may by regulation specify
-certain of such drugs which may be reimbursed as an item of medical
-assistance in accordance with the price schedule established by such
-commissioner.  Notwithstanding any other provision of law, additions to
-the list of drugs reimbursable under this paragraph may be filed as
-regulations by the commissioner of health without prior notice and
-comment;
-  * NB Effective until October 1, 2024
-  * (a) drugs which may be dispensed without a prescription as required
-by section sixty-eight hundred ten of the education law; provided,
-however, that the state commissioner of health may by regulation specify
-certain of such drugs which may be reimbursed as an item of medical
-assistance in accordance with the price schedule established by such
-commissioner.  Notwithstanding any other provision of law, modifications
-to the list of drugs reimbursable under this paragraph may be filed as
-regulations by the commissioner of health without prior notice and
-comment; provided, however, that the department will notify enrollees of
-any eliminations to the list of drugs reimbursable under this paragraph
-at least sixty days prior to the removal of such drug. Such eliminations
-shall be referred to the drug utilization review board established
-pursuant to section three hundred sixty-nine-bb of this article for
-recommendation prior to elimination from the list;
-  * NB Effective October 1, 2024
+  (a) drugs which may be dispensed without a prescription as required by
+section sixty-eight hundred ten of the education law; provided, however,
+that the state commissioner of health may by regulation specify certain
+of such drugs which may be reimbursed as an item of medical assistance
+in accordance with the price schedule established by such commissioner.
+Notwithstanding any other provision of law, modifications to the list of
+drugs reimbursable under this paragraph may be filed as regulations by
+the commissioner of health without prior notice and comment; provided,
+however, that the department will notify enrollees of any eliminations
+to the list of drugs reimbursable under this paragraph at least sixty
+days prior to the removal of such drug. Such eliminations shall be
+referred to the drug utilization review board established pursuant to
+section three hundred sixty-nine-bb of this article for recommendation
+prior to elimination from the list;
   (a-1) (i) a brand name drug for which a multi-source therapeutically
 and generically equivalent drug, as determined by the federal food and
 drug administration, is available, unless previously authorized by the

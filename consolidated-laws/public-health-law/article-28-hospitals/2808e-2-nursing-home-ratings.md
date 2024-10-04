@@ -12,11 +12,21 @@ state, assigned pursuant to the inspection rating system of the U.S.
 Centers for Medicare and Medicaid Services (overall CMS rating), shall
 be prominently displayed on the home page of the department's website,
 or by an easily accessible link to such information.
-  2. Each nursing home facility shall post its overall CMS rating on the
+  ** 2. Each nursing home facility shall post its overall CMS rating on
+the homepage of any website maintained by such facility and on any
+website or webpage relating to such facility maintained by an entity
+which owns or operates such facility. Each nursing home shall also
+conspicuously post its most recent overall CMS rating so that it is
+visible to the general public and to residents.
+  ** NB Effective until December 26, 2024
+  ** 2. Each nursing home facility shall post its overall CMS rating and
+ratings for health inspections, staffing and quality measures on the
 homepage of any website maintained by such facility and on any website
 or webpage relating to such facility maintained by an entity which owns
 or operates such facility. Each nursing home shall also conspicuously
-post its most recent overall CMS rating so that it is visible to the
+post its most recent overall CMS rating and ratings for health
+inspections, staffing and quality measures so that it is visible to the
 general public and to residents.
+  ** NB Effective December 26, 2024
   * NB There are 2 § 2808-e's
 ```

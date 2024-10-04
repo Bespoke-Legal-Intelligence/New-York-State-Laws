@@ -99,6 +99,7 @@
 - [§ 466-I Volunteer firefighters and volunteer ambulance workers; certain counties](466i-volunteer-firefighters-and-volunteer-ambulance-workers-certain-counties.md)
 - [§ 466-J Volunteer firefighters and volunteer ambulance workers; certain county](466j-volunteer-firefighters-and-volunteer-ambulance-workers-certain-county.md)
 - [§ 466-K Volunteer firefighters and volunteer ambulance workers; certain county](466k-volunteer-firefighters-and-volunteer-ambulance-workers-certain-county.md)
+- [§ 466-L Extension of benefits](466l-extension-of-benefits.md)
 - [§ 467 Persons sixty-five years of age or over](467-persons-sixty-five-years-of-age-or-over.md)
 - [§ 467-A Partial tax abatement for residential real property held in the cooperative or condominium form of ownership in a city having a populatio...](467a-partial-tax-abatement-for-residential-real-property-held-in-the-cooperative.md)
 - [§ 467-B Tax abatement for rent-controlled and rent regulated property occupied by senior citizens or persons with disabilities](467b-tax-abatement-for-rent-controlled-and-rent-regulated-property-occupied-by-senior.md)
@@ -343,6 +344,7 @@ Section 420-a.   Nonprofit organizations; mandatory class.
                    certain county.
         466-k.   Volunteer firefighters and volunteer ambulance workers;
                    certain county.
+        466-l.   Extension of benefits.
         467.     Persons sixty-five years of age or over.
         467-a.   Partial tax abatement for residential real property
                    held in the cooperative or condominium form of

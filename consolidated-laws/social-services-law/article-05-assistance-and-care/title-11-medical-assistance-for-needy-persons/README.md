@@ -78,6 +78,7 @@
 - [§ 367-V County long-term care financing demonstration program](367v-county-long-term-care-financing-demonstration-program.md)
 - [§ 367-W Health care and mental hygiene worker bonuses](367w-health-care-and-mental-hygiene-worker-bonuses.md)
 - [§ 367-X Payment for violence prevention programs](367x-payment-for-violence-prevention-programs.md)
+- [§ 367-Y Reimbursement for treatment in place and transportation to alternative health care settings](367y-reimbursement-for-treatment-in-place-and-transportation.md)
 - [§ 368 Quarterly estimates](368-quarterly-estimates.md)
 - [§ 368-A State reimbursement](368a-state-reimbursement.md)
 - [§ 368-B State reimbursement to local health districts; chargebacks](368b-state-reimbursement-to-local-health-districts.md)

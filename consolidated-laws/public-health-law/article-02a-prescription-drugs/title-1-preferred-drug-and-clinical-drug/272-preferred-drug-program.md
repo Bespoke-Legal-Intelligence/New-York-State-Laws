@@ -70,20 +70,7 @@ transition to the preferred drug would be medically contraindicated; and
 which shall include consideration of the medical needs of special
 populations, including children, the elderly, the chronically ill,
 persons with mental health conditions, and persons affected by HIV/AIDS.
-  * 7. The commissioner shall provide thirty days public notice on the
-department's website prior to any meeting of the board to develop
-recommendations concerning the preferred drug program. Such notice
-regarding meetings of the board shall include a description of the
-proposed therapeutic class to be reviewed, a listing of drug products in
-the therapeutic class, and the proposals to be considered by the board.
-The board shall allow interested parties a reasonable opportunity to
-make an oral presentation to the board related to the prior
-authorization of the therapeutic class to be reviewed. The board shall
-consider any information provided by any interested party, including,
-but not limited to, prescribers, dispensers, patients, consumers and
-manufacturers of the drug in developing their recommendations.
-  * NB Effective until October 1, 2024
-  * 7. The commissioner shall provide thirty days public notice on the
+  7. The commissioner shall provide thirty days public notice on the
 department's website prior to any meeting of the board to develop
 recommendations concerning the preferred drug program and any proposed
 eliminations to the list of drugs reimbursable under subdivision four of
@@ -98,17 +85,7 @@ shall consider any information provided by any interested party,
 including, but not limited to, prescribers, dispensers, patients,
 consumers and manufacturers of the drug in developing their
 recommendations.
-  * NB Effective October 1, 2024
-  * 8. The commissioner shall provide notice of any recommendations
-developed by the board regarding the preferred drug program, at least
-five days before any final determination by the commissioner, by making
-such information available on the department's website. Such public
-notice may include: a summary of the deliberations of the board; a
-summary of the positions of those making public comments at meetings of
-the board; the response of the board to those comments, if any; and the
-findings and recommendations of the board.
-  * NB Effective until October 1, 2024
-  * 8. The commissioner shall provide notice of any recommendations
+  8. The commissioner shall provide notice of any recommendations
 developed by the board regarding the preferred drug program or
 elimination to the list of drugs reimbursable under subdivision four of
 section three hundred sixty-five-a of the social services law, at least
@@ -118,16 +95,7 @@ notice may include: a summary of the deliberations of the board; a
 summary of the positions of those making public comments at meetings of
 the board; the response of the board to those comments, if any; and the
 findings and recommendations of the board.
-  * NB Effective October 1, 2024
-  * 9. Within ten days of a final determination regarding the preferred
-drug program, the commissioner shall provide public notice on the
-department's website of such determinations, including: the nature of
-the determination; and analysis of the impact of the commissioner's
-determination on state public health plan populations and providers; and
-the projected fiscal impact to the state public health plan programs of
-the commissioner's determination.
-  * NB Effective until October 1, 2024
-  * 9. Within ten days of a final determination regarding the preferred
+  9. Within ten days of a final determination regarding the preferred
 drug program or elimination to the list of drugs reimbursable under
 subdivision four of section three hundred sixty-five-a of the social
 services law, the commissioner shall provide public notice on the
@@ -136,7 +104,6 @@ the determination; and analysis of the impact of the commissioner's
 determination on state public health plan populations and providers; and
 the projected fiscal impact to the state public health plan programs of
 the commissioner's determination.
-  * NB Effective October 1, 2024
   10. The commissioner shall adopt a preferred drug program and
 amendments after considering the recommendations from the board and any
 comments received from prescribers, dispensers, patients, consumers and

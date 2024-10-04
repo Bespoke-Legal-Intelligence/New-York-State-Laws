@@ -42,6 +42,8 @@
 - [§ 253-Y Recording tax imposed by the county of Madison](253y-recording-tax-imposed-by-the-county-of-madison.md)
 - [§ 253-Y\*2 Recording tax imposed by the county of Livingston](253y-2-recording-tax-imposed-by-the-county-of-livingston.md)
 - [§ 253-Y\*3 Recording tax imposed by the county of Washington](253y-3-recording-tax-imposed-by-the-county-of-washington.md)
+- [§ 253-Z Recording tax imposed by the county of Otsego](253z-recording-tax-imposed-by-the-county-of-otsego.md)
+- [§ 253-Z\*2 Recording tax imposed by the county of Chenango](253z-2-recording-tax-imposed-by-the-county-of-chenango.md)
 - [§ 254 Optional tax on prior mortgages](254-optional-tax-on-prior-mortgages.md)
 - [§ 255 Supplemental mortgages](255-supplemental-mortgages.md)
 - [§ 256 Mortgages for indefinite amounts or for contract obligations](256-mortgages-for-indefinite-amounts-or-for-contract-obligations.md)
@@ -100,6 +102,8 @@ Section 250.     Definitions.
         253-y.   Recording tax imposed by the county of Madison.
         253-y*2. Recording tax imposed by the county of Livingston.
         253-y*3. Recording tax imposed by the county of Washington.
+        253-z.   Recording tax imposed by the county of Otsego.
+        253-z*2. Recording tax imposed by the county of Chenango.
         254.     Optional tax on prior mortgages.
         255.     Supplemental mortgages.
         256.     Mortgages for indefinite amounts or for contract

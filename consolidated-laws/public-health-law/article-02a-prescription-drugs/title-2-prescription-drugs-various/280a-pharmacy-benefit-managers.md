@@ -164,9 +164,12 @@ pharmacy or, alternatively, such pharmacy benefit manager and a
 pharmacy's contracting agent, such as a pharmacy services administrative
 organization:
   (a) prohibit or penalize a pharmacist or pharmacy from disclosing to
-an individual purchasing a prescription medication information
-regarding:
-  (i) the cost of the prescription medication to the individual, or
+an individual purchasing a prescription medication or service
+information regarding:
+  (i) the cost of the prescription medication or service to the
+individual, or the cost of the prescription medication or service to the
+pharmacy and the pharmacy's reimbursement for that prescription
+medication or service; or
   (ii) the availability of any therapeutically equivalent alternative
 medications or alternative methods of purchasing the prescription
 medication, including but not limited to, paying a cash price; or
