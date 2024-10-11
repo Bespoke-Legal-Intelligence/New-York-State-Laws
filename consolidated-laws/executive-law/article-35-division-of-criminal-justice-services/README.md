@@ -61,6 +61,7 @@
 - [§ 845-E Commercial security tax credit program](845e-commercial-security-tax-credit-program.md)
 - [§ 846 Programs for the aging](846-programs-for-the-aging.md)
 - [§ 846\*2 Programs for the aging](846-2-programs-for-the-aging.md)
+- [§ 847 Public awareness of safe storage of firearms](847-public-awareness-of-safe-storage-of-firearms.md)
 
 <details>
 <summary>Official heading of Article 35, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -144,6 +145,7 @@ Section 835.     Definitions.
         845-e.   Commercial security tax credit program.
         846.     Programs for the aging.
         846*2.   Programs for the aging.
+        847.     Public awareness of safe storage of firearms.
 ```
 
 </details>

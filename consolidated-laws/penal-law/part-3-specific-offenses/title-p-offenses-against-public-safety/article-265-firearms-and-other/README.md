@@ -3,8 +3,6 @@
 
 [Penal Law](../../../README.md) › [Part 3 — Specific Offenses](../../README.md) › [Title P — Offenses Against Public Safety](../README.md)
 
-*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
-
 ## Contents
 
 - [§ 265.00 Definitions](265.00-definitions.md)
@@ -40,8 +38,8 @@
 - [§ 265.38 Unlawful sale of a non-microstamping-enabled firearm](265.38-unlawful-sale-of-a-non-microstamping-enabled.md)
 - [§ 265.40 Purchase of rifles and/or shotguns in contiguous states](265.40-purchase-of-rifles-and-or-shotguns.md)
 - [§ 265.45 Failure to safely store rifles, shotguns, and firearms in the first degree](265.45-failure-to-safely-store-rifles-shotguns.md)
+- [§ 265.46 Failure to safely store rifles, shotguns, and firearms in the second degree](265.46-failure-to-safely-store-rifles-shotguns.md)
 - [§ 265.50 Criminal manufacture, sale, or transport of an undetectable firearm, rifle or shotgun](265.50-criminal-manufacture-sale-or-transport.md)
-- [§ 265.50\*2 Failure to safely store rifles, shotguns, and firearms in the second degree](265.50-2-failure-to-safely-store-rifles-shotguns.md)
 - [§ 265.55 Criminal possession of an undetectable firearm, rifle or shotgun](265.55-criminal-possession-of-an-undetectable-firearm.md)
 - [§ 265.60 Criminal sale of a ghost gun in the second degree](265.60-criminal-sale-of-a-ghost-gun-in-the-second.md)
 - [§ 265.61 Criminal sale of a ghost gun in the first degree](265.61-criminal-sale-of-a-ghost-gun-in-the-first.md)
@@ -99,10 +97,10 @@ Section 265.00   Definitions.
         265.40   Purchase of rifles and/or shotguns in contiguous
                    states.
         265.45   Safe storage of rifles, shotguns, and firearms.
+        265.46   Failure to safely store rifles, shotguns, and firearms
+                   in the second degree.
         265.50   Criminal manufacture, sale, or transport of an
                    undetectable firearm, rifle or shotgun.
-        265.50*2 Failure to safely store rifles, shotguns, and firearms
-                   in the second degree.
         265.55   Criminal possession of an undetectable firearm, rifle
                    or shotgun.
         265.60   Criminal sale of a ghost gun in the second degree.

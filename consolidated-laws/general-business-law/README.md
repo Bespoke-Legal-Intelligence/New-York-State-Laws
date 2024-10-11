@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | GBS |
 | Type | Consolidated law, chapter 20 |
-| Sections | 1,359 |
-| Last changed | 4 Oct 2024 |
+| Sections | 1,361 |
+| Last changed | 11 Oct 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Business |
 
@@ -29,10 +29,11 @@ AN ACT relating to general business, constituting chapter twenty of the
   Assembly, do enact as follows:
 ```
 
-[Full chapter text (189 lines)](chapter-text.md)
+[Full chapter text (190 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [11 Oct 2024](../../changes/2024/2024-10-11.md): 4 amended, 2 added
 - [4 Oct 2024](../../changes/2024/2024-10-04.md): 1 amended
 - [20 Sep 2024](../../changes/2024/2024-09-20.md): 2 amended
 - [30 Aug 2024](../../changes/2024/2024-08-30.md): 6 amended
@@ -42,7 +43,6 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [21 Jun 2024](../../changes/2024/2024-06-21.md): 1 amended
 - [14 Jun 2024](../../changes/2024/2024-06-14.md): 1 amended
 - [3 May 2024](../../changes/2024/2024-05-03.md): 2 added
-- [26 Apr 2024](../../changes/2024/2024-04-26.md): 1 amended
 
 ## Contents
 
@@ -122,6 +122,7 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 29-AAA — Credit Card Registration Services](article-29aaa-credit-card-registration-services/)
 - [Article 29-B — Prohibited Credit Card Practices Involving Providers of Travel Services](article-29b-prohibited-credit-card-practices-involving/)
 - [Article 29-BB — Prohibited Service Offer Practices](article-29bb-prohibited-service-offer-practices/)
+- [Article 29-BBB — Credit and Debit Cards](article-29bbb-credit-and-debit-cards/)
 - [Article 29-C — Radio and Television Tubes](article-29c-radio-and-television-tubes/)
 - [Article 29-CC — Modem Hijacking Deterrence Act](article-29cc-modem-hijacking-deterrence-act/)
 - [Article 29-D — Notes Given For Patent Rights and For a Speculative Consideration](article-29d-notes-given-for-patent-rights/)

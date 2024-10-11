@@ -13,7 +13,6 @@
 - [§ 94 Commission on ethics and lobbying in government](094-commission-on-ethics-and-lobbying-in-government.md)
 - [§ 94-A Consumer protection division](094a-consumer-protection-division.md)
 - [§ 94-B Office for new Americans](094b-office-for-new-americans.md)
-- [§ 94-C Major renewable energy development program](094c-major-renewable-energy-development-program.md) *(repealed)*
 - [§ 94-D New York Asian American and Pacific Islander commission](094d-new-york-asian-american-and-pacific-islander-commission.md)
 - [§ 95 Legislative manual](095-legislative-manual.md)
 - [§ 96 Fees and refunds](096-fees-and-refunds.md)

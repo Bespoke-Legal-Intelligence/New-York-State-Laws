@@ -13,9 +13,6 @@
 - [§ 130.25 Rape in the third degree](130.25-rape-in-the-third-degree.md)
 - [§ 130.30 Rape in the second degree](130.30-rape-in-the-second-degree.md)
 - [§ 130.35 Rape in the first degree](130.35-rape-in-the-first-degree.md)
-- [§ 130.40 Criminal sexual act in the third degree](130.40-criminal-sexual-act-in-the-third-degree.md) *(repealed)*
-- [§ 130.45 Criminal sexual act in the second degree](130.45-criminal-sexual-act-in-the-second-degree.md) *(repealed)*
-- [§ 130.50 Criminal sexual act in the first degree](130.50-criminal-sexual-act-in-the-first-degree.md) *(repealed)*
 - [§ 130.52 Forcible touching](130.52-forcible-touching.md)
 - [§ 130.53 Persistent sexual abuse](130.53-persistent-sexual-abuse.md)
 - [§ 130.55 Sexual abuse in the third degree](130.55-sexual-abuse-in-the-third-degree.md)

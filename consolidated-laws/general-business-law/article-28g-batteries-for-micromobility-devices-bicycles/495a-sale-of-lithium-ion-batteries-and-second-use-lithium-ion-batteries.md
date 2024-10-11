@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 28-G — Batteries For Micromobility Devices, Bicycles With Electric Assist, and Limited Use Motorcycles](README.md)
 
 ```text
-  * § 495-a. Sale of lithium-ion batteries and second-use lithium-ion
+  § 495-a. Sale of lithium-ion batteries and second-use lithium-ion
 batteries. 1. (a) No person, firm, partnership, association, or
 corporation shall manufacture, distribute, assemble, recondition, sell
 or offer for sale, lease, or rent a lithium-ion battery or a second-use
@@ -56,5 +56,4 @@ bicycle with electric assist, limited use motorcycles, or micromobility
 device thereon is authorized pursuant to the provisions of the vehicle
 and traffic law and such bicycle with electric assist, limited use
 motorcycle, or micromobility device is in compliance with such law.
-  * NB Effective October 9, 2024
 ```
