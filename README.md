@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 11 Oct 2024.*
+*Current through the publication of 18 Oct 2024.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [18 Oct 2024](changes/2024/2024-10-18.md): Emergency Housing Rent Control Law; Emergency Tenant Protection Act; Judiciary Law; Penal Law
 - [11 Oct 2024](changes/2024/2024-10-11.md): Alcoholic Beverage Control Law; Civil Practice Law and Rules; Executive Law; General Business Law; Labor Law; Penal Law
 - [4 Oct 2024](changes/2024/2024-10-04.md): Alcoholic Beverage Control Law; Domestic Relations Law; Education Law; Environmental Conservation Law; Family Court Act; General Business Law; General Municipal Law; Insurance Law; Labor Law; Military Law; Not-for-Profit Corporation Law; Parks, Recreation and Historic Preservation Law; Port of New York Authority; Public Health Law; Public Housing Law; Public Officers Law; Racing, Pari-Mutuel Wagering and Breeding Law; Real Property Law; Real Property Tax Law; Social Services Law; Tax Law; Town Law; Village Law; Workers' Compensation Law
 - [27 Sep 2024](changes/2024/2024-09-27.md): Election Law; Public Service Law; Racing, Pari-Mutuel Wagering and Breeding Law; Real Property Tax Law; Tax Law; Uniform City Court Act
@@ -22,17 +23,16 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [13 Sep 2024](changes/2024/2024-09-13.md): Education Law; Highway Law; Labor Law; Navigation Law
 - [6 Sep 2024](changes/2024/2024-09-06.md): Agriculture and Markets Law; Civil Practice Law and Rules; Civil Rights Law; Civil Service Law; Correction Law; Criminal Procedure Law; Domestic Relations Law; Education Law; Election Law; Environmental Conservation Law; Executive Law; Family Court Act; Highway Law; Judiciary Law; Labor Law; Penal Law; Public Authorities Law; Public Health Law; Public Officers Law; Social Services Law; Vehicle and Traffic Law
 - [30 Aug 2024](changes/2024/2024-08-30.md): Agriculture and Markets Law; Alcoholic Beverage Control Law; Banking Law; Criminal Procedure Law; Education Law; Environmental Conservation Law; Executive Law; General Business Law; Insurance Law; Labor Law; Mental Hygiene Law; Private Housing Finance Law; Public Authorities Law; Public Health Law; Public Officers Law; Real Property Tax Law; Social Services Law; State Administrative Procedure Act; Tax Law; Town Law; Vehicle and Traffic Law; Village Law
-- [23 Aug 2024](changes/2024/2024-08-23.md): Alcoholic Beverage Control Law; Education Law; Public Authorities Law; State Finance Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | 208 |
-| [Education Law](consolidated-laws/education-law/README.md) | 203 |
+| [Education Law](consolidated-laws/education-law/README.md) | 199 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 175 |
 | [Executive Law](consolidated-laws/executive-law/README.md) | 131 |
-| [Penal Law](consolidated-laws/penal-law/README.md) | 113 |
+| [Penal Law](consolidated-laws/penal-law/README.md) | 114 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | 100 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | 97 |
 | [Tax Law](consolidated-laws/tax-law/README.md) | 93 |
@@ -87,7 +87,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Highway Law](consolidated-laws/highway-law/README.md) | HAY | 706 | 13 Sep 2024 |
 | [Indian Law](consolidated-laws/indian-law/README.md) | IND | 97 | 11 Jan 2019 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | ISC | 1,069 | 4 Oct 2024 |
-| [Judiciary Law](consolidated-laws/judiciary-law/README.md) | JUD | 543 | 6 Sep 2024 |
+| [Judiciary Law](consolidated-laws/judiciary-law/README.md) | JUD | 543 | 18 Oct 2024 |
 | [Labor Law](consolidated-laws/labor-law/README.md) | LAB | 749 | 11 Oct 2024 |
 | [Legislative Law](consolidated-laws/legislative-law/README.md) | LEG | 128 | 3 May 2024 |
 | [Lien Law](consolidated-laws/lien-law/README.md) | LIE | 175 | 24 Apr 2020 |
@@ -104,7 +104,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Not-for-Profit Corporation Law](consolidated-laws/not-for-profit-corporation-law/README.md) | NPC | 266 | 4 Oct 2024 |
 | [Parks, Recreation and Historic Preservation Law](consolidated-laws/parks-recreation-and-historic-preservation-law/README.md) | PAR | 171 | 4 Oct 2024 |
 | [Partnership Law](consolidated-laws/partnership-law/README.md) | PTR | 165 | 14 Jun 2024 |
-| [Penal Law](consolidated-laws/penal-law/README.md) | PEN | 890 | 11 Oct 2024 |
+| [Penal Law](consolidated-laws/penal-law/README.md) | PEN | 890 | 18 Oct 2024 |
 | [Personal Property Law](consolidated-laws/personal-property-law/README.md) | PEP | 135 | 13 Dec 2019 |
 | [Private Housing Finance Law](consolidated-laws/private-housing-finance-law/README.md) | PVH | 444 | 30 Aug 2024 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | PBA | 3,221 | 20 Sep 2024 |
@@ -153,8 +153,8 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [City of Troy Issuance of Serial Bonds](unconsolidated-laws/city-of-troy-issuance-of-serial-bonds/README.md) | TRY | 18 | no change since 22 Sep 2014 (start of history) |
 | [Defense Emergency Act of 1951](unconsolidated-laws/defense-emergency-act-of-1951/README.md) | DEA | 89 | 20 Sep 2024 |
 | [Development of Port of New York](unconsolidated-laws/development-of-port-of-new-york/README.md) | DPN | 17 | no change since 22 Sep 2014 (start of history) |
-| [Emergency Housing Rent Control Law](unconsolidated-laws/emergency-housing-rent-control-law/README.md) | ERL | 18 | 3 May 2024 |
-| [Emergency Tenant Protection Act](unconsolidated-laws/emergency-tenant-protection-act/README.md) | ETP | 18 | 3 May 2024 |
+| [Emergency Housing Rent Control Law](unconsolidated-laws/emergency-housing-rent-control-law/README.md) | ERL | 18 | 18 Oct 2024 |
+| [Emergency Tenant Protection Act](unconsolidated-laws/emergency-tenant-protection-act/README.md) | ETP | 18 | 18 Oct 2024 |
 | [Expanded Health Care Coverage Act](unconsolidated-laws/expanded-health-care-coverage-act/README.md) | EHC | 4 | no change since 22 Sep 2014 (start of history) |
 | [Facilities Development Corporation Act](unconsolidated-laws/facilities-development-corporation-act/README.md) | FDC | 25 | 16 Dec 2022 |
 | [General City Model](unconsolidated-laws/general-city-model/README.md) | GCM | 116 | 7 Jul 2017 |

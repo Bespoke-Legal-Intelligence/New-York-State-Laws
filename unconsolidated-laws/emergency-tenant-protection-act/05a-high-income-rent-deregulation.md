@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Emergency Tenant Protection Act § 5-A", "kind": "section", "law_id": "ETP", "location_id": "5-A", "path": "SECTION 5-A", "repealed": false, "repealed_date": null, "source": "nys-laws:ETP/5-A.md", "title": "High income rent deregulation"} -->
+﻿<!-- nyslaw {"citation": "Emergency Tenant Protection Act § 5-A", "kind": "section", "law_id": "ETP", "location_id": "5-A", "path": "SECTION 5-A", "repealed": true, "repealed_date": "2024-10-18", "source": "nys-laws:ETP/5-A.md", "title": "High income rent deregulation"} -->
 # Emergency Tenant Protection Act § 5-A — High income rent deregulation
 
 [Emergency Tenant Protection Act](README.md)
+
+**Repealed** (18 Oct 2024). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 5-a. High income rent deregulation. (a) 1. For purposes of this

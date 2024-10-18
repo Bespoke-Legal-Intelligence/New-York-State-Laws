@@ -8,8 +8,8 @@
 | Senate code | ETP |
 | Type | Unconsolidated law |
 | Session law | L. 1974, ch. 576 |
-| Sections | 18 |
-| Last changed | 3 May 2024 |
+| Sections | 18 (1 repealed) |
+| Last changed | 18 Oct 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Emergency Tenant Protection Act 576/74 |
 
@@ -32,6 +32,7 @@ Section 1.    Short title.
 
 ## Recent changes
 
+- [18 Oct 2024](../../changes/2024/2024-10-18.md): 2 amended, 1 repealed
 - [3 May 2024](../../changes/2024/2024-05-03.md): 2 amended
 - [8 Mar 2024](../../changes/2024/2024-03-08.md): 3 amended
 - [29 Dec 2023](../../changes/2023/2023-12-29.md): 3 amended
@@ -41,7 +42,6 @@ Section 1.    Short title.
 - [17 Apr 2020](../../changes/2020/2020-04-17.md): 1 amended
 - [28 Jun 2019](../../changes/2019/2019-06-28.md): 16 amended, 1 added
 - [3 Jul 2015](../../changes/2015/2015-07-03.md): 17 amended
-- [26 Jun 2015](../../changes/2015/2015-06-26.md): 17 amended
 
 ## Contents
 
@@ -50,7 +50,7 @@ Section 1.    Short title.
 - [§ 3 Local determination of emergency; end of emergency](03-local-determination-of-emergency-end-of-emergency.md)
 - [§ 4 Establishment of rent guidelines boards; duties](04-establishment-of-rent-guidelines-boards-duties.md)
 - [§ 5 Housing accommodations subject to regulation](05-housing-accommodations-subject-to-regulation.md)
-- [§ 5-A High income rent deregulation](05a-high-income-rent-deregulation.md)
+- [§ 5-A High income rent deregulation](05a-high-income-rent-deregulation.md) *(repealed)*
 - [§ 6 Regulation of rents](06-regulation-of-rents.md)
 - [§ 7 Maintenance of services](07-maintenance-of-services.md)
 - [§ 8 Administration](08-administration.md)
