@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 29-A — Unauthorized or Improper Use of Credit Cards and Debit Cards](README.md)
 
 ```text
-  * § 519-a. Credit cards and payment for health care services. 1. For
+  § 519-a. Credit cards and payment for health care services. 1. For
 purposes of this section, the term "credit card" shall have the same
 meaning as in section five hundred eleven of this article.
   2. No hospital or health care provider shall require credit card
@@ -18,5 +18,4 @@ for medical services, the patient is forgoing state and federal
 protections that regard medical debt. The commissioner of health shall
 have the authority and sole discretion to set requirements for the
 contents of such notices.
-  * NB Effective October 20, 2024
 ```

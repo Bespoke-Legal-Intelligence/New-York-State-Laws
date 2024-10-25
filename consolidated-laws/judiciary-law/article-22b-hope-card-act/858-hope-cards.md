@@ -4,8 +4,8 @@
 [Judiciary Law](../README.md) › [Article 22-B — Hope Card Act](README.md)
 
 ```text
-  * § 858. Hope cards. 1. As used in this section, "hope card" shall
-mean either:
+  § 858. Hope cards. 1. As used in this section, "hope card" shall mean
+either:
   (a) a digital image of the final order of protection as issued in
 court, delivered via text message, email or other electronic
 communication; or
@@ -40,5 +40,4 @@ electronic communication;
 portal developed and maintained by the office of court administration,
 as well as a paper form to be made available at any court with
 jurisdiction to issue an order of protection.
-  * NB Effective October 23, 2024
 ```
