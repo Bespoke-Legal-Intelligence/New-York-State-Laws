@@ -39,6 +39,7 @@
 - [§ 29 Intake forms for admission and residency](29-intake-forms-for-admission-and-residency.md)
 - [§ 29-A Loan counseling for mortgages guaranteed by the Servicemen's Readjustment Act of 1944](29a-loan-counseling-for-mortgages-guaranteed-by-the-servicemens-readjustment-act.md)
 - [§ 29-A\*2 Veterans memorial registry](29a-2-veterans-memorial-registry.md)
+- [§ 29-B Veterans' liaisons](29b-veterans-liaisons.md)
 
 <details>
 <summary>Official heading of Article 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -88,6 +89,7 @@ Section 1.      Definitions.
         29-a.   Loan counseling for mortgages guaranteed by the
                   Servicemen's Readjustment Act of 1944.
         29-a*2. Veterans memorial registry.
+        29-b.   Veterans' liaisons.
 ```
 
 </details>

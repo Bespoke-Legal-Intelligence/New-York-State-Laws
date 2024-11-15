@@ -396,12 +396,20 @@
 - [§ 344-P\*5 Portion of the state highway system to be designated as the "Michael J](344p-5-portion-of-the-state-highway-system-to-be-designated-as-the-michael-j.md)
 - [§ 344-P\*6 Portion of the state highway system to be designated as the "Senior Investigator Thomas M](344p-6-portion-of-the-state-highway-system-to-be-designated-as-the-senior-investigator.md)
 - [§ 344-P\*7 Portion of the state highway system to be designated as the "Captain Christopher J](344p-7-portion-of-the-state-highway-system-to-be-designated-as-the-captain-christopher.md)
+- [§ 344-P\*8 Portion of the state highway system to be designated as the "Steve Nicoli Memorial Highway"](344p-8-portion-of-the-state-highway-system-to-be-designated-as-the-steve-nicoli.md)
+- [§ 344-P\*9 Portion of the state highway system to be designated as the "SP4 Herman Emil Anders, Jr](344p-9-portion-of-the-state-highway-system-to-be-designated-as-the-sp4-herman-emil.md)
+- [§ 344-P\*10 Portion of the state highway system to be designated as the "Lieutenant Commander Phillip Wayne Johnson Memorial Bridge"](344p-10-portion-of-the-state-highway-system-to-be-designated-as-the-lieutenant-commander.md)
+- [§ 344-P\*11 Portion of the state highway system to be designated as the "Private First Class Richard Cleveland Dunn Memorial Highway"](344p-11-portion-of-the-state-highway-system-to-be-designated-as-the-private-first-class.md)
+- [§ 344-P\*12 Portion of the state highway system to be designated as the "T Sgt Walter Shearing Memorial Highway"](344p-12-portion-of-the-state-highway-system-to-be-designated-as-the-t-sgt-walter.md)
+- [§ 344-P\*13 Portion of the state highway system to be designated as the "CW2 Casey N](344p-13-portion-of-the-state-highway-system-to-be-designated-as-the-cw2-casey-n.md)
+- [§ 344-P\*14 Portion of the state highway system to be designated as the "Fort Hamilton Veterans Memorial Highway"](344p-14-portion-of-the-state-highway-system-to-be-designated-as-the-fort-hamilton.md)
 - [§ 344-Q Portion of the state highway system to be designated as the "Detective Sergeant Frank Gualdino Memorial Bridge"](344q-portion-of-the-state-highway-system-to-be-designated-as-the-detective-sergeant.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 - [§ 345-B Portion of the state highway system to be designated as the "Doc Schelin Memorial Highway"](345b-portion-of-the-state-highway-system-to-be-designated-as-the-doc-schelin-memorial.md)
 - [§ 345-B\*2 Portion of the state highway system to be designated as the "Sergeant Elijah A](345b-2-portion-of-the-state-highway-system-to-be-designated-as-the-sergeant-elijah.md)
 - [§ 345-B\*3 Portion of the state highway system to be designated as the "Corporal Derick Franklin Brinckerhoff Memorial Highway"](345b-3-portion-of-the-state-highway-system-to-be-designated-as-the-corporal-derick.md)
 - [§ 345-B\*4 Portion of the state highway system to be designated as the "Chief Daniel Nimham Memorial Highway"](345b-4-portion-of-the-state-highway-system-to-be-designated-as-the-chief-daniel-nimham.md)
+- [§ 345-C Portion of the state highway system to be designated as the "Assemblyman Pat M](345c-portion-of-the-state-highway-system-to-be-designated-as-the-assemblyman-pat-m.md)
 
 <details>
 <summary>Official heading of Article 12, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -1334,9 +1342,26 @@ Section 340-a.     Designation of state interstate routes.
         344-p*6.   Portion of the state highway system to be designated
                      as the "Senior Investigator Thomas M. O'Neill
                      Memorial Bridge".
-        344-p.     Portion of the state highway system to be designated
+        344-p*7.   Portion of the state highway system to be designated
                      as the "Captain Christopher J. Garrow Memorial
                      Bridge".
+        344-p*8.   Portion of the state highway system to be designated
+                     as the "Steve Nicoli Memorial Highway".
+        344-p*9.   Portion of the state highway system to be designated
+                     as the "SP4 Herman Emil Anders, Jr. Memorial
+                     Bridge".
+        344-p*10.  Portion of the state highway system to be designated
+                     as the "Lieutenant Commander Phillip Wayne Johnson
+                     Memorial Bridge".
+        344-p*11.  Portion of the state highway system to be designated
+                     as the "Private First Class Richard Cleveland Dunn
+                     Memorial Highway".
+        344-p*12.  Portion of the state highway system to be designated
+                     as the "T Sgt Walter Shearing Memorial Highway".
+        344-p*13.  Portion of the state highway system to be designated
+                     as the "CW2 Casey N. Frankoski Memorial Bridge".
+        344-p*14.  Portion of the state highway system to be designated
+                     as the "Fort Hamilton Veterans Memorial Highway".
         344-q.     Portion of the state highway system to be designated
                      as the "Detective Sergeant Frank Gualdino Memorial
                      Bridge".
@@ -1351,6 +1376,9 @@ Section 340-a.     Designation of state interstate routes.
                      Memorial Highway".
         345-b*4.   Portion of the state highway system to be designated
                      as the "Chief Daniel Nimham Memorial Highway".
+        345-c.     Portion of the state highway system to be designated
+                     as the "Assemblyman Pat M. Casale Memorial
+                     Highway".
 ```
 
 </details>
