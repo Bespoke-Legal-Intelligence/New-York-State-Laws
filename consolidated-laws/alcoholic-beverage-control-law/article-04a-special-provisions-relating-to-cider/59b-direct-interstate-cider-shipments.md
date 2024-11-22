@@ -4,7 +4,7 @@
 [Alcoholic Beverage Control Law](../README.md) › [Article 4-A — Special Provisions Relating to Cider](README.md)
 
 ```text
-  * § 59-b. Direct interstate cider shipments. 1. Authorization.
+  § 59-b. Direct interstate cider shipments. 1. Authorization.
 Notwithstanding any provision of law, rule or regulation to the
 contrary, any holder of a license to manufacture cider in any other
 state who obtains an out-of-state direct shipper's license, as provided
@@ -120,5 +120,4 @@ administrative action to suspend or revoke the federal basic permit.
   8. Violations. In any action brought under this section, the common
 carrier and the licensee shall only be held liable for their independent
 acts.
-  * NB Effective November 16, 2024
 ```

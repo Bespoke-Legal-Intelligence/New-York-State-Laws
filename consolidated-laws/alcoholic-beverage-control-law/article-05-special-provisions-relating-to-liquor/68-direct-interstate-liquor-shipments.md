@@ -4,7 +4,7 @@
 [Alcoholic Beverage Control Law](../README.md) › [Article 5 — Special Provisions Relating to Liquor](README.md)
 
 ```text
-  * § 68. Direct interstate liquor shipments. 1. Authorization.
+  § 68. Direct interstate liquor shipments. 1. Authorization.
 Notwithstanding any provision of law, rule or regulation to the
 contrary, any holder of a license to manufacture liquor in any other
 state that is equivalent in class and/or production capacity per year to
@@ -122,5 +122,4 @@ administrative action to suspend or revoke the federal basic permit.
   8. Violations. In any action brought under this section, the common
 carrier and the licensee shall only be held liable for their independent
 acts.
-  * NB Effective November 16, 2024
 ```

@@ -4,13 +4,13 @@
 [Alcoholic Beverage Control Law](../README.md) › [Article 3 — Special Provisions Relating to Mead and Braggot](README.md)
 
 ```text
-  * § 36. Direct intrastate mead and braggot shipments. Any person
-having applied for and received a manufacturing license under this
-chapter which includes the privilege of producing mead and/or braggot
-may ship no more than thirty-six cases (no more than nine liters per
-case) of mead and/or braggot produced by such manufacturer per year
-directly to a New York state resident who is at least twenty-one years
-of age, for such resident's personal use and not for resale.
+  § 36. Direct intrastate mead and braggot shipments. Any person having
+applied for and received a manufacturing license under this chapter
+which includes the privilege of producing mead and/or braggot may ship
+no more than thirty-six cases (no more than nine liters per case) of
+mead and/or braggot produced by such manufacturer per year directly to a
+New York state resident who is at least twenty-one years of age, for
+such resident's personal use and not for resale.
   1. Licensee's shipping responsibilities. Notwithstanding any provision
 to the contrary contained in this chapter, any above referred licensee:
   (a) shall ship no more than thirty-six cases (no more than nine liters
@@ -54,5 +54,4 @@ required by paragraph (a) of this subdivision.
   2. Violations. In any action brought under this section, the common
 carrier and the licensee shall only be held liable for their independent
 acts.
-  * NB Effective November 16, 2024
 ```

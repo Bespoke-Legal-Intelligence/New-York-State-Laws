@@ -171,7 +171,7 @@ Such persons and officials shall have three years from the effective
 date of the chapter of the laws of two thousand twenty-one that added
 this subdivision to receive such updated mandated reported training.
   * NB Repealed April 1, 2025
-  * 6. The office of children and family services shall update training
+  6. The office of children and family services shall update training
 issued to persons and officials required to report cases of suspected
 child abuse or maltreatment to include guidance on identifying an abused
 or maltreated child when such child is an individual with an
@@ -181,5 +181,4 @@ with the justice center for the protection of people with special needs.
 Persons and officials required to report cases of suspected child abuse
 or maltreatment shall have two years from the effective date of this
 subdivision to receive such updated mandated reporter training.
-  * NB Effective November 17, 2024
 ```

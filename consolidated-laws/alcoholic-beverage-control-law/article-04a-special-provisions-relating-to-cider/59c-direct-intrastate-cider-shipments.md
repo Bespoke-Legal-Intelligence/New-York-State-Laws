@@ -4,7 +4,7 @@
 [Alcoholic Beverage Control Law](../README.md) › [Article 4-A — Special Provisions Relating to Cider](README.md)
 
 ```text
-  * § 59-c. Direct intrastate cider shipments. Any person having applied
+  § 59-c. Direct intrastate cider shipments. Any person having applied
 for and received a manufacturing license under this chapter which
 includes the privilege of producing cider may ship no more than
 thirty-six cases (no more than nine liters per case) of cider produced
@@ -53,5 +53,4 @@ required by paragraph (a) of this subdivision.
   2. Violations. In any action brought under this section, the common
 carrier and the licensee shall only be held liable for their independent
 acts.
-  * NB Effective November 16, 2024
 ```

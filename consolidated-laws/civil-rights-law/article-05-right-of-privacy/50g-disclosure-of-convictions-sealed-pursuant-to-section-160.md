@@ -4,8 +4,8 @@
 [Civil Rights Law](../README.md) › [Article 5 — Right of Privacy](README.md)
 
 ```text
-  * § 50-g. Disclosure of convictions sealed pursuant to section 160.57
-of the criminal procedure law. 1. Any person who has had a conviction
+  § 50-g. Disclosure of convictions sealed pursuant to section 160.57 of
+the criminal procedure law. 1. Any person who has had a conviction
 sealed pursuant to section 160.57 of the criminal procedure law may
 bring a cause of action for damages against a party who, without consent
 of such person, discloses such sealed conviction where: (a) the
@@ -23,5 +23,4 @@ subdivision two of such section to seal information, records, documents
 or papers related to such conviction, or when the party obtains access
 to records of such conviction for a specified purpose pursuant to
 paragraph (d) of subdivision one, or subdivision three of such section.
-  * NB Effective November 16, 2024
 ```

@@ -4,7 +4,7 @@
 [Alcoholic Beverage Control Law](../README.md) › [Article 5 — Special Provisions Relating to Liquor](README.md)
 
 ```text
-  * § 69. Direct intrastate liquor shipments. Any person having applied
+  § 69. Direct intrastate liquor shipments. Any person having applied
 for and received a class A-1, class B-1, class C, or class D distiller
 license under section sixty-one of this article may ship no more than
 thirty-six cases (no more than nine liters per case) of liquor produced
@@ -53,5 +53,4 @@ required by paragraph (a) of this subdivision.
   2. Violations. In any action brought under this section, the common
 carrier and the licensee shall only be held liable for their independent
 acts.
-  * NB Effective November 16, 2024
 ```
