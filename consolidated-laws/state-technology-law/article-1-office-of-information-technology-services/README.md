@@ -3,6 +3,8 @@
 
 [State Technology Law](../README.md)
 
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
 ## Contents
 
 - [§ 101 Definitions](101-definitions.md)
@@ -11,6 +13,7 @@
 - [§ 103-A State information technology innovation center](103a-state-information-technology-innovation-center.md)
 - [§ 103-B Gender-neutral terminology; state agencies](103b-gender-neutral-terminology-state-agencies.md)
 - [§ 103-C State agency websites; mobile friendly websites](103c-state-agency-websites-mobile-friendly-websites.md)
+- [§ 103-C\*2 Cloud computing](103c-2-cloud-computing.md)
 - [§ 103-D Website accessibility; state agencies](103d-website-accessibility-state-agencies.md)
 - [§ 104 Advisory council for technology](104-advisory-council-for-technology.md)
 - [§ 105 Functions, powers and duties of the council](105-functions-powers-and-duties-of-the-council.md)
@@ -32,6 +35,7 @@ Section 101.     Definitions.
         103-a.   State information technology innovation center.
         103-b.   Gender-neutral terminology; state agencies.
         103-c.   State agency websites; mobile friendly websites.
+        103-c*2. Cloud computing.
         103-d.   Website accessibility; state agencies.
         104.     Advisory council for technology.
         105.     Functions, powers and duties of the council.

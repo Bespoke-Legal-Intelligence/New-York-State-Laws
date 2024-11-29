@@ -16,10 +16,13 @@ on human beings for diagnostic purposes under the supervision of a
 licensed practitioner. The practice includes, but is not limited to:
 measuring and positioning patients; selecting and setting up exposure
 factors on x-ray equipment, and the making of the x-ray exposure; the
-performance of quality control tests; and, under the direct supervision
-of a licensed physician, the intravascular administration of contrast
-media when such administration is an integral part of the x-ray or
-imaging procedure.
+performance of quality control tests; under the direct supervision of a
+licensed physician, the intravascular administration of contrast media
+when such administration is an integral part of the x-ray or imaging
+procedure; and, under the direct supervision of a licensed physician,
+certified nurse practitioner, or licensed physician assistant, the
+intravenous administration of contrast media when such administration is
+an integral part of the x-ray or imaging procedure.
   4. "Radiographer" means a person, other than a licensed practitioner,
 who is licensed under this article to practice radiography.
   5. "Radiation therapy" means the use of external beam and remote

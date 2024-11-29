@@ -165,14 +165,14 @@ limited to, miscarriage, stillbirth, or termination for medical reasons,
 information regarding:
   (i) the potential mental and physical impact from such loss; and
   (ii) resources for support and follow-up care.
-  * NB There are 3 par (r)'s
+  * NB There are 4 par (r)'s
   * (r) The physical, sexual, and psychological impact of medical
 procedures performed on intersex individuals, including those who have
 not themselves consented to the procedure; provided that the department
 shall consult with appropriate stakeholders, including, but not limited
 to intersex persons, intersex-led organizations, and their chosen
 advocates, while developing this outreach program.
-  * NB There are 3 par (r)'s
+  * NB There are 4 par (r)'s
   * (r) Sickle cell disease including but not limited to screening,
 prevention, and treatment information. The department, through the
 health equity council pursuant to section two hundred forty-three of
@@ -180,7 +180,17 @@ this article, or a successor council, shall consult with patients with
 sickle cell disease and their families and health care providers
 specializing in treating sickle cell disease, among others, in the
 production of any such information.
-  * NB There are 3 par (r)'s
+  * NB There are 4 par (r)'s
+  * (r) Alzheimer's disease and other related dementias; including
+identification of dementia in health care facilities including but not
+limited to hospitals, nursing homes, clinics and assisted living
+facilities; community support services, including caregiver support
+groups and services, respite, and care management; and resources and
+information concerning Alzheimer's disease and any other dementia
+related matters that the commissioner and director of the office for the
+aging deem appropriate.
+  * NB There are 4 par (r)'s
+  * NB Effective May 21, 2025
   * (s) Promoting public awareness of the dangers of fatal and non-fatal
 drowning, including but not limited to the unique risk factors and
 exposures associated with infant and early drowning, childhood and
@@ -191,7 +201,15 @@ disability as defined by subdivision three of section 1.03 of the mental
 hygiene law, and methods to reduce the risks of drowning, including but
 not limited to water safety instruction, swim lessons, and awareness of
 water based risks.
+  * NB There are 2 par (s)'s
   * NB Effective June 1, 2025
+  * (s) The importance of good oral health, including but not limited
+to, the impact of oral disease, causes of oral disease and its
+prevention, oral health across the lifespan, the total body connection,
+the value of early detection and the availability of oral health
+services in the community.
+  * NB There are 2 par (s)'s
+  * NB Effective January 21, 2025
   2. Programs under this section, dealing with one or more subjects, may
 include but not be limited to any of the following elements:
   (a) educational and informational materials in print, audio, visual,

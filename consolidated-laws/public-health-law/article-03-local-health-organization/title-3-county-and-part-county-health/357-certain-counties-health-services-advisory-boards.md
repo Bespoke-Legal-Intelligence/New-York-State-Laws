@@ -7,12 +7,15 @@
   § 357. Certain counties; health services advisory boards. 1. In a
 county wherein the legislative body constitutes the board of health of
 such county under and pursuant to the provisions of section three
-hundred fifty-six of this article, the county shall provide for the
+hundred fifty-six of this title, the county shall provide for the
 appointment by the board of health of a health services advisory board
-consisting of nine members. Two members shall be licensed physicians.
-The remaining members of the board shall be known as public members and
-shall be selected on the basis of their interest and knowledge regarding
-the health needs, resources and facilities of the community.
+consisting of nine members. One member shall be a physician licensed to
+practice in the state of New York and one member shall be a physician,
+nurse practitioner, or physician assistant licensed to practice in the
+state of New York. The remaining members of the board shall be known as
+public members and shall be selected on the basis of their interest and
+knowledge regarding the health needs, resources and facilities of the
+community.
   2. The health services advisory board shall advise the county health
 director with respect to the discharge of his powers, responsibilities
 and duties.
@@ -32,4 +35,8 @@ services advisory board. Each county shall be entitled to appoint
 members in accordance with the provisions of subdivision one or may
 appoint such proportion of the total membership so computed as is
 mutually agreed upon by the participating counties.
+  7. Board members shall be residents of the county or a resident of a
+contiguous county who has a background in a health-related field and
+performs other substantial work within the county associated with their
+health-related background.
 ```

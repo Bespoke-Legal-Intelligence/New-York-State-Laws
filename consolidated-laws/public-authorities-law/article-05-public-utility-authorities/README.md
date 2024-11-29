@@ -26,6 +26,7 @@
 - [Title 6-C\* — Dutchess County Water and Wastewater Authority](title-06c-dutchess-county-water-and-wastewater/)
 - [Title 6-C — Town of Wilton Water and Sewer Authority](title-06c-town-of-wilton-water-and-sewer/)
 - [Title 6-D — Alfred, Almond, Hornellsville Sewer Authority](title-06d-alfred-almond-hornellsville-sewer/)
+- [Title 6-E — Seneca County Water and Sewer Authority](title-06e-seneca-county-water-and-sewer/)
 - [Title 7 — Onondaga County Water Authority](title-07-onondaga-county-water-authority/)
 - [Title 7-A — Water Authority of Southeastern Nassau County](title-07a-water-authority-of-southeastern/)
 - [Title 8 — Buffalo Sewer Authority](title-08-buffalo-sewer-authority/)

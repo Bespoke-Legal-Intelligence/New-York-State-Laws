@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 37 — Physician Assistants](README.md)
 
 ```text
-  § 3702. Special provisions. 1. Inpatient medical orders. A licensed
+  § 3702. Special provisions. * 1. Inpatient medical orders. A licensed
 physician assistant employed or extended privileges by a hospital may,
 if permissible under the bylaws, rules and regulations of the hospital,
 write medical orders, including those for controlled substances, for
@@ -12,6 +12,17 @@ inpatients under the care of the physician responsible for his or her
 supervision. Countersignature of such orders may be required if deemed
 necessary and appropriate by the supervising physician or the hospital,
 but in no event shall countersignature be required prior to execution.
+  * NB Effective until February 22, 2025
+  * 1. Inpatient medical orders. A licensed physician assistant employed
+or extended privileges by a hospital may, if permissible under the
+bylaws, rules and regulations of the hospital, write medical orders,
+including those for controlled substances and durable medical equipment,
+for inpatients under the care of the physician responsible for the
+supervision of such physician assistant. Countersignature of such orders
+may be required if deemed necessary and appropriate by the supervising
+physician or the hospital, but in no event shall countersignature be
+required prior to execution.
+  * NB Effective February 22, 2025
   2. Withdrawing blood. A licensed physician assistant or certified
 nurse practitioner acting within his or her lawful scope of practice may
 supervise and direct the withdrawal of blood for the purpose of

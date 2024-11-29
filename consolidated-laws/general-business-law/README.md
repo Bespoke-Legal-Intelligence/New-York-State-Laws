@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | GBS |
 | Type | Consolidated law, chapter 20 |
-| Sections | 1,361 |
-| Last changed | 25 Oct 2024 |
+| Sections | 1,362 |
+| Last changed | 29 Nov 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Business |
 
@@ -29,10 +29,11 @@ AN ACT relating to general business, constituting chapter twenty of the
   Assembly, do enact as follows:
 ```
 
-[Full chapter text (190 lines)](chapter-text.md)
+[Full chapter text (191 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [29 Nov 2024](../../changes/2024/2024-11-29.md): 5 amended, 1 added
 - [25 Oct 2024](../../changes/2024/2024-10-25.md): 2 amended
 - [11 Oct 2024](../../changes/2024/2024-10-11.md): 4 amended, 2 added
 - [4 Oct 2024](../../changes/2024/2024-10-04.md): 1 amended
@@ -42,7 +43,6 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [5 Jul 2024](../../changes/2024/2024-07-05.md): 2 amended
 - [28 Jun 2024](../../changes/2024/2024-06-28.md): 18 added
 - [21 Jun 2024](../../changes/2024/2024-06-21.md): 1 amended
-- [14 Jun 2024](../../changes/2024/2024-06-14.md): 1 amended
 
 ## Contents
 
@@ -162,7 +162,7 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 37 — Deposits On Construction of New Homes](article-37-deposits-on-construction-of-new-homes/)
 - [Article 37-A — Registration of Hearing Aid Dispensers](article-37a-registration-of-hearing-aid-dispensers/)
 - [Article 38 — Vessel Dealer Agreements](article-38-vessel-dealer-agreements/)
-- [Article 38-A — Sale of Outdated Over-the-counter Drugs](article-38a-sale-of-outdated-over-the-counter-drugs/)
+- [Article 38-A — Sale of Outdated and Label Obstructed Over-the-counter Drugs and Cosmetic Products](article-38a-sale-of-outdated-and-label-obstructed-over/)
 - [Article 38-B — Products Sold For Human Consumption](article-38b-products-sold-for-human-consumption/)
 - [Article 39 — Drug-related Paraphernalia](article-39-drug-related-paraphernalia/)
 - [Article 39-A — Merchants of Torah Scrolls](article-39a-merchants-of-torah-scrolls/)

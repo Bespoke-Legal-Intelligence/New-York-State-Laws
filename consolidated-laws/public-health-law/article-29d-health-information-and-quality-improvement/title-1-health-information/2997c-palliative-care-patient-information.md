@@ -40,7 +40,13 @@ palliative care, the attending health care practitioner shall provide
 information and counseling under this section to a person with authority
 to make health care decisions for the patient. The attending health care
 practitioner may arrange for information and counseling under this
-section to be provided by another professionally qualified individual.
+section to be provided by another professionally qualified individual,
+and
+  (c) information and counseling regarding benefits of completing a
+health care proxy and appointing a health care agent. A copy of the
+newly completed or existing health care proxy shall be requested by the
+health care practitioner and made a part of the patient's medical
+record.
   3. Where the attending health care practitioner is not willing or does
 not feel qualified to provide the patient with information and
 counseling under this section, he or she shall arrange for another

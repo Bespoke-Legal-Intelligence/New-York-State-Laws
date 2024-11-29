@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"kind": "container", "law_id": "GBS", "location_id": "A38-A", "path": "ARTICLE 38-A", "source": "nys-laws:GBS/A38-A.md", "title": "Sale of Outdated Over-the-counter Drugs"} -->
-# Article 38-A — Sale of Outdated Over-the-counter Drugs
+﻿<!-- nyslaw {"kind": "container", "law_id": "GBS", "location_id": "A38-A", "path": "ARTICLE 38-A", "source": "nys-laws:GBS/A38-A.md", "title": "Sale of Outdated and Label Obstructed Over-the-counter Drugs and Cosmetic Products"} -->
+# Article 38-A — Sale of Outdated and Label Obstructed Over-the-counter Drugs and Cosmetic Products
 
 [General Business Law](../README.md)
 
@@ -13,7 +13,8 @@
 
 ```text
                               ARTICLE 38-A
-                 SALE OF OUTDATED OVER-THE-COUNTER DRUGS
+    SALE OF OUTDATED AND LABEL OBSTRUCTED OVER-THE-COUNTER DRUGS AND
+                            COSMETIC PRODUCTS
 Section 820. Unlawful practices.
         821. Enforcement and penalties.
 ```

@@ -152,6 +152,7 @@
 - [§ 399-E Prohibition of the importation, manufacturing, distribution, or sale of yo-yo waterball toys](399e-prohibition-of-the-importation-manufacturing-distribution-or-sale-of-yo-yo.md)
 - [§ 399-E\*2 Actions](399e-2-actions.md)
 - [§ 399-EE Zone pricing of gasoline prohibited](399ee-zone-pricing-of-gasoline-prohibited.md)
+- [§ 399-EEE Disabling of services to stolen wireless phones](399eee-disabling-of-services-to-stolen-wireless-phones.md)
 - [§ 399-F Laundromat refund procedures](399f-laundromat-refund-procedures.md)
 - [§ 399-FF Petting zoos](399ff-petting-zoos.md)
 - [§ 399-GG Packaging of electronic liquid](399gg-packaging-of-electronic-liquid.md)
@@ -413,6 +414,7 @@ Section 390.         Substitution of spurious oils for internal
                        distribution, or sale of yo-yo waterball toys.
         399-e*2.     Actions.
         399-ee.      Zone pricing of gasoline prohibited.
+        399-eee.     Disabling of services to stolen wireless phones.
         399-f.       Laundromat refund procedures.
         399-ff.      Petting zoos.
         399-gg.      Packaging of electronic liquid.

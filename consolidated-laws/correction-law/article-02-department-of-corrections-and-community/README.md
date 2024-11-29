@@ -14,6 +14,7 @@
 - [§ 15-B Education](15b-education.md)
 - [§ 15-C Acceptance of grants or gifts](15c-acceptance-of-grants-or-gifts.md)
 - [§ 16 Expense of autopsy; state charge](16-expense-of-autopsy-state-charge.md)
+- [§ 17 Notice to emergency contacts](17-notice-to-emergency-contacts.md)
 - [§ 18 Superintendents of correctional facilities](18-superintendents-of-correctional-facilities.md)
 - [§ 19 Salary and emoluments of superintendents](19-salary-and-emoluments-of-superintendents.md)
 - [§ 20 Library](20-library.md)
@@ -46,6 +47,7 @@ Section 5.     Department of corrections and community supervision;
         15-b.  Education.
         15-c.  Acceptance of grants or gifts.
         16.    Expense of autopsy; state charge.
+        17.    Notice to emergency contacts.
         18.    Superintendents of correctional facilities.
         19.    Salary and emoluments of superintendents.
         20.    Library.

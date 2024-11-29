@@ -3,12 +3,9 @@
 
 [Correction Law](../README.md)
 
-*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
-
 ## Contents
 
 - [§ 851 Definitions](851-definitions.md)
-- [§ 851\* Definitions](851-851-definitions.md) *(repealed)*
 - [§ 852 Establishment of temporary release](852-establishment-of-temporary-release.md)
 - [§ 853 Reporting and information](853-reporting-and-information.md)
 - [§ 854 Evaluation and recommendation](854-evaluation-and-recommendation.md)

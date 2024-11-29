@@ -67,8 +67,33 @@ vaginal and cesarean births;
   (j) the annual percentage of births utilizing augmentation of labor;
   (k) the annual percentage of vaginal births utilizing episiotomies;
   (l) whether birthing rooms are available for use in the facility;
-  (m) whether rooming-in is available in the facility, on the basis of
+  * (m) whether rooming-in is available in the facility, on the basis of
 twenty-four hours a day or daytime.
+  * NB Effective until May 21, 2025
+  * (m) whether rooming-in is available in the facility, on the basis of
+twenty-four hours a day or daytime;
+  * NB Effective May 21, 2025
+  * (n) whether the facility conducts safety drills to prepare for
+obstetric emergencies;
+  * NB Effective May 21, 2025
+  * (o) whether the facility participates in quality improvement
+initiatives;
+  * NB Effective May 21, 2025
+  * (p) whether the facility has an agreement and policy to arrange for
+emergent transfer of care for critically ill pregnant people/infants to
+higher levels of care (applicable only for those facilities that are not
+the designated regional perinatal center or a quaternary or tertiary
+care center with Level III-IV NICU);
+  * NB Effective May 21, 2025
+  * (q) whether the facility has a written community needs assessment
+plan to reduce racial disparities and address community needs;
+  * NB Effective May 21, 2025
+  * (r) whether the facility offers, upon patient request, an autopsy
+for stillbirth; and
+  * NB Effective May 21, 2025
+  * (s) whether the facility offers bereavement support for patients
+that have suffered a stillbirth or third trimester fetal loss.
+  * NB Effective May 21, 2025
   3. Compilation of the statistics set out in subdivision two of this
 section shall be the responsibility of the commissioner.
   4. Statistical information shall be presented in the most recent one

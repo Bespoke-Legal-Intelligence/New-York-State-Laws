@@ -8,7 +8,7 @@
 | Senate code | PEP |
 | Type | Consolidated law, chapter 41 |
 | Sections | 135 |
-| Last changed | 13 Dec 2019 |
+| Last changed | 29 Nov 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Personal Property |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [29 Nov 2024](../../changes/2024/2024-11-29.md): 1 amended
 - [13 Dec 2019](../../changes/2019/2019-12-13.md): 1 amended
 - [6 Dec 2019](../../changes/2019/2019-12-06.md): 2 amended
 - [13 Sep 2019](../../changes/2019/2019-09-13.md): 2 amended

@@ -43,6 +43,18 @@ recipients to any additional benefits. Benefit recipients shall not be
 required to accept or utilize both cards. The department shall notify
 existing and future benefit recipients of the availability of multiple
 cards.
+  * (c) Any interactive voice response system associated with an
+electronic benefit transfer system which benefit recipients may call for
+support or assistance shall include an option for benefit recipients to
+report fraud and cancel such benefit recipient's electronic benefit
+transfer credit or debit card permanently or lock such benefit
+recipient's electronic benefit transfer credit or debit card
+indefinitely. Provided, further, any interactive voice response system
+associated with an electronic benefit transfer system which benefit
+recipients may call for support or assistance shall also allow for
+benefit recipients to lock such benefit recipient's credit or debit card
+for out of state purchases only or for online purchases only.
+  * NB Effective May 22, 2025
   2. The department or the designated agent thereof shall utilize
 appropriate materials and training to provide each recipient with
 adequate instruction on the use of the electronic benefit transfer

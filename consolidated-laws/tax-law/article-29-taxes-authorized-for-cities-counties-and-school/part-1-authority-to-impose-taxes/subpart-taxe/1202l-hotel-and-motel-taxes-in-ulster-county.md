@@ -12,18 +12,14 @@ authorized and imposed pursuant to this article, such as the legislature
 has or would have the power and authority to impose upon persons
 occupying hotel or motel rooms in such county.
   For the purposes of this section, the term "hotel" or "motel" shall
-mean and include any facility consisting of rentable units and providing
+mean and include any facility consisting of rentable units that provides
 lodging on an overnight basis.
   The rates of such tax imposed upon persons occupying hotel or motel
 rooms shall not exceed four per cent of the per diem rental rate for
 each room, provided, however, such tax shall not be applicable to a
-permanent resident of such hotel or motel. The rates of such tax imposed
-upon persons occupying short-term rentals shall not exceed four per cent
-of the per diem rental rate for each room, provided, however, such tax
-shall not be applicable to a permanent resident of such short-term
-rental. For the purposes of this section the term "permanent resident"
-shall mean a person occupying any room or rooms in a hotel or motel or
-short-term rental for at least ninety consecutive days.
+permanent resident of such hotel or motel. For the purposes of this
+section the term "permanent resident" shall mean a person occupying any
+room or rooms in a hotel or motel for at least ninety consecutive days.
   (2) Such tax may be collected and administered by the commissioner of
 finance of the county of Ulster by such means and in such manner as
 other taxes which are now collected and administered by such officer or

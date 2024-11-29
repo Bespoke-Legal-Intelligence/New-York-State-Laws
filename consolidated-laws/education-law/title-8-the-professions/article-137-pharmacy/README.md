@@ -17,6 +17,7 @@
 - [§ 6808 Registering and operating establishments](6808-registering-and-operating-establishments.md)
 - [§ 6808-A Identification of Pharmacists](6808a-identification-of-pharmacists.md)
 - [§ 6808-B Registration of nonresident establishments](6808b-registration-of-nonresident-establishments.md)
+- [§ 6809 Shared pharmacy services](6809-shared-pharmacy-services.md)
 - [§ 6810 Prescriptions](6810-prescriptions.md)
 - [§ 6811 Misdemeanors](6811-misdemeanors.md)
 - [§ 6811-A Certain drugs to be clearly marked or labeled](6811a-certain-drugs-to-be-clearly-marked-or-labeled.md)
@@ -66,6 +67,7 @@ Section 6800.   Introduction.
         6808.   Registering and operating establishments.
         6808-a. Identification of Pharmacists.
         6808-b. Registration of nonresident establishments.
+        6809.   Shared pharmacy services.
         6810.   Prescriptions.
         6811.   Misdemeanors.
         6811-a. Certain drugs to be clearly marked or labeled.

@@ -8,29 +8,32 @@
 in this section:
   (a) "Eligible person or entity" means: (i) an ambulance service or
 advanced life support first response service; a certified first
-responder, firefighter in a city, town or village having a population of
-less than one million, emergency medical technician, or advanced
-emergency medical technician, who is employed by or an enrolled member
-of any such service; (ii) a children's overnight camp as defined in
-subdivision one of section thirteen hundred ninety-two of this chapter,
-a summer day camp as defined in subdivision two of section thirteen
-hundred ninety-two of this chapter, a traveling summer day camp as
-defined in subdivision three of section thirteen hundred ninety-two of
-this chapter or a person employed by such a camp; (iii) a school
-district, board of cooperative educational services, county vocational
-education and extension board, charter school, and non-public elementary
-and secondary school in this state or any person employed by any such
-entity, or employed by a contractor of such an entity while performing
-services for the entity; (iv) a sports, entertainment, amusement,
-education, government, day care or retail facility; an educational
-institution, youth organization or sports league; an establishment that
-serves food; or a person employed by such entity; (v) a police officer
-or peace officer in a city, town or village having a population of less
-than one million; (vi) forest rangers, park rangers and environmental
-conservation police officers; and (vii) any other person or entity
-designated or approved, or in a category designated or approved pursuant
-to regulations of the commissioner in consultation with other
-appropriate agencies.
+responder, firefighter in a county, city, town or village having a
+population of less than two million provided such county is not wholly
+located within a city with a population of more than one million,
+emergency medical technician, or advanced emergency medical technician,
+who is employed by or an enrolled member of any such service; (ii) a
+children's overnight camp as defined in subdivision one of section
+thirteen hundred ninety-two of this chapter, a summer day camp as
+defined in subdivision two of section thirteen hundred ninety-two of
+this chapter, a traveling summer day camp as defined in subdivision
+three of section thirteen hundred ninety-two of this chapter or a person
+employed by such a camp; (iii) a school district, board of cooperative
+educational services, county vocational education and extension board,
+charter school, and non-public elementary and secondary school in this
+state or any person employed by any such entity, or employed by a
+contractor of such an entity while performing services for the entity;
+(iv) a sports, entertainment, amusement, education, government, day care
+or retail facility; an educational institution, youth organization or
+sports league; an establishment that serves food; or a person employed
+by such entity; (v) a police officer or peace officer in a county, city,
+town or village having a population of less than two million provided
+such county is not wholly located within a city with a population of
+more than one million; (vi) forest rangers, park rangers and
+environmental conservation police officers; and (vii) any other person
+or entity designated or approved, or in a category designated or
+approved pursuant to regulations of the commissioner in consultation
+with other appropriate agencies.
   (b) "Epinephrine auto-injector device" means a single-use device used
 for the automatic injection of a premeasured dose of epinephrine into
 the human body for the purpose of emergency treatment of a person
@@ -70,7 +73,8 @@ maintain and dispose of such devices pursuant to regulations of the
 department.
   (f) Nothing in this section shall require any eligible person or
 entity to acquire, possess, store, make available, or administer an
-epinephrine auto-injector.
+epinephrine auto-injector, except as provided for in subdivision five-d
+of section two hundred twenty-five of this chapter.
   3. Prescriptions. (a) A health care practitioner who is authorized to
 prescribe drugs may prescribe, dispense or provide an epinephrine
 auto-injector device to or for an eligible person or entity by a

@@ -9,7 +9,7 @@
 - [§ 255.05 Unlawfully issuing a dissolution decree](255.05-unlawfully-issuing-a-dissolution-decree.md)
 - [§ 255.10 Unlawfully procuring a marriage license](255.10-unlawfully-procuring-a-marriage-license.md)
 - [§ 255.15 Bigamy](255.15-bigamy.md)
-- [§ 255.17 Adultery](255.17-adultery.md)
+- [§ 255.17 Adultery](255.17-adultery.md) *(repealed)*
 - [§ 255.20 Unlawfully procuring a marriage license, bigamy, adultery: defense](255.20-unlawfully-procuring-a-marriage-license.md)
 - [§ 255.25 Incest in the third degree](255.25-incest-in-the-third-degree.md)
 - [§ 255.26 Incest in the second degree](255.26-incest-in-the-second-degree.md)
@@ -26,7 +26,6 @@ Section 255.00  Unlawfully solemnizing a marriage.
         255.05  Unlawfully issuing a dissolution decree.
         255.10  Unlawfully procuring a marriage license.
         255.15  Bigamy.
-        255.17  Adultery.
         255.20  Unlawfully procuring a marriage license, bigamy,
                   adultery: defense.
         255.25  Incest in the third degree.

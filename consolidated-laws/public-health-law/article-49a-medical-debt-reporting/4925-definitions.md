@@ -13,7 +13,7 @@ licensed under article twenty-eight of this chapter, a health care
 professional authorized under title eight of the education law or an
 ambulance service certified under article thirty of this chapter.
 Medical debt does not include debt charged to a credit card unless the
-credit card is issued under an open-ended or closed-end plan offered
+credit card is issued under an open-ended or closed-ended plan offered
 specifically for the payment of health care services, products, or
 devices provided to a person.
   2. "Collection entity" means any individual, partnership, corporation,

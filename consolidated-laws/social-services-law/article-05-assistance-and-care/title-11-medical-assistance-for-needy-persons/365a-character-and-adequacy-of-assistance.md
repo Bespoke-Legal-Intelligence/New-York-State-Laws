@@ -532,7 +532,7 @@ budget.
 pursuant to article one hundred fifty-four of the education law acting
 within their scope of practice, where such services would otherwise be
 covered under this title.
-  * (jj) pre-natal and post-partum care and services for the purpose of
+  * (jj) pre-natal and postpartum care and services for the purpose of
 improving maternal health outcomes and reduction of maternal mortality
 when such services are recommended by a physician or other health care
 practitioner authorized under title eight of the education law, and
@@ -541,12 +541,12 @@ be limited to nutrition services provided by certified dietitians and
 certified nutritionists; care coordination, case management, and peer
 support; patient navigation services; services by licensed clinical
 social workers; dyadic services; Bluetooth-enabled devices for remote
-patient monitoring; and other services determined by the commissioner of
-health; provided, however, that the provisions of this paragraph shall
-not take effect unless there is federal financial participation. Nothing
-in this paragraph shall be construed to modify any licensure,
-certification or scope of practice provision under title eight of the
-education law.
+patient monitoring; remote ultrasound scans; remote fetal non-stress
+tests and other services determined by the commissioner of health;
+provided, however, that the provisions of this paragraph shall not take
+effect unless there is federal financial participation. Nothing in this
+paragraph shall be construed to modify any licensure, certification or
+scope of practice provision under title eight of the education law.
   * NB There are 2 par (jj)'s
   * (jj) applied behavior analysis, under article one hundred
 sixty-seven of the education law, provided by a person licensed,

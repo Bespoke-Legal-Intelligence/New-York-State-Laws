@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "General Business Law § 821", "kind": "section", "law_id": "GBS", "location_id": "821", "path": "ARTICLE 38-A › SECTION 821", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/821.md", "title": "Enforcement and penalties"} -->
 # General Business Law § 821 — Enforcement and penalties
 
-[General Business Law](../README.md) › [Article 38-A — Sale of Outdated Over-the-counter Drugs](README.md)
+[General Business Law](../README.md) › [Article 38-A — Sale of Outdated and Label Obstructed Over-the-counter Drugs and Cosmetic Products](README.md)
 
 ```text
   § 821. Enforcement and penalties. 1. Whenever there shall be a

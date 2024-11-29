@@ -67,6 +67,7 @@
 - [§ 136 Regulation of automobile junk yards](136-regulation-of-automobile-junk-yards.md)
 - [§ 139-C Sheltered workshops](139c-sheltered-workshops.md)
 - [§ 139-D Storage and display of firearms, ammunition and explosives](139d-storage-and-display-of-firearms-ammunition-and-explosives.md)
+- [§ 139-E Posting of sanitary inspection grade](139e-posting-of-sanitary-inspection-grade.md)
 
 <details>
 <summary>Official heading of Article 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -156,6 +157,7 @@ Section 120.     Contracts for purification of water and sewerage.
         139-c.   Sheltered workshops.
         139-d.   Storage and display of firearms, ammunition and
                    explosives.
+        139-e.   Posting of sanitary inspection grade.
 ```
 
 </details>

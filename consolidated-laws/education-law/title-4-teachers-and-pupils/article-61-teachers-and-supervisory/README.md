@@ -45,7 +45,6 @@
 - [§ 3019-A Notice of termination of service by teachers](3019a-notice-of-termination-of-service-by-teachers.md)
 - [§ 3020 Discipline of teachers](3020-discipline-of-teachers.md)
 - [§ 3020-A Disciplinary procedures and penalties](3020a-disciplinary-procedures-and-penalties.md)
-- [§ 3020-B Streamlined removal procedures for teachers rated ineffective](3020b-streamlined-removal-procedures-for-teachers-rated-ineffective.md) *(repealed)*
 - [§ 3021 Removal of superintendents, teachers and employees for treasonable or seditious acts or utterances](3021-removal-of-superintendents-teachers-and-employees-for-treasonable.md)
 - [§ 3021-A Notification of accusatory instrument alleging a sex offense](3021a-notification-of-accusatory-instrument-alleging-a-sex-offense.md)
 - [§ 3022 Elimination of subversive persons from the public school system](3022-elimination-of-subversive-persons-from-the-public-school-system.md)

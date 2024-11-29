@@ -119,19 +119,27 @@ shall specify, among other things, that all persons hired by a child
 protective service on or after April first, nineteen hundred eighty-six
 shall have satisfactorily completed a course approved by the department
 within the first three months of employment, in the fundamentals of
-child protection. Such course shall include at least basic training in
-the principles and techniques of investigations, including relationships
-with other investigative bodies, legal issues in child protection, and
-methods of remediation, diagnosis, treatment and prevention. Such
-regulations shall also specify that all persons employed by a child
-protective service on or after December first, two thousand six shall
-satisfactorily complete six hours of annual in service training,
-beginning in their second year of employment. Such annual in service
-training shall include, but is not limited to, review of the protocols
-for identification and investigation of child abuse and maltreatment,
-any developments in legal, treatment and prevention issues in child
-protection, and review and analysis of field experiences of child
-protective services workers.
+child protection, provided, however, that on or after April first, two
+thousand twenty-five, such course may be satisfactorily completed
+through distance learning methods which evince that all participants are
+in attendance for the duration of the course and are able to ask
+questions of the instructor. Each county shall be authorized to adopt a
+local law, ordinance or resolution to provide for a local department of
+social services to fulfill the training requirement established by this
+paragraph through a distance learning method, excluding the annual in
+service training requirement. Such course shall include at least basic
+training in the principles and techniques of investigations, including
+relationships with other investigative bodies, legal issues in child
+protection, and methods of remediation, diagnosis, treatment and
+prevention. Such regulations shall also specify that all persons
+employed by a child protective service on or after December first, two
+thousand six shall satisfactorily complete six hours of annual in
+service training, beginning in their second year of employment. Such
+annual in service training shall include, but is not limited to, review
+of the protocols for identification and investigation of child abuse and
+maltreatment, any developments in legal, treatment and prevention issues
+in child protection, and review and analysis of field experiences of
+child protective services workers.
   (c) require all persons assigned to be a supervisor by a child
 protective service on or after April first, nineteen hundred eighty-six,
 shall have satisfactorily completed, within the first three months of
