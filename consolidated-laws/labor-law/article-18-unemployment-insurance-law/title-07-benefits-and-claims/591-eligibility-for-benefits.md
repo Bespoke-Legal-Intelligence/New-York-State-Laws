@@ -13,7 +13,7 @@ receiving benefits under this article shall not be denied such benefits
 pursuant to this subdivision or to subdivision two of this section
 because of such claimant's service on a grand or petit jury of any state
 or of the United States.
-  * NB Effective until December 6, 2024 or 30 days after the
+  * NB Effective until December 21, 2024 or 30 days after the
 commissioner of labor certifies that the department of labor has an
 information technology system capable of accommodating the amendments in
 chapter 277 of 2021, whichever occurs earlier (see chapter 56 of 2024
@@ -25,7 +25,7 @@ receiving benefits under this article shall not be denied such benefits
 pursuant to this subdivision or to subdivision two of this section
 because of such claimant's service on a grand or petit jury of any state
 or of the United States.
-  * NB Effective December 6, 2024 or 30 days after the commissioner of
+  * NB Effective December 21, 2024 or 30 days after the commissioner of
 labor certifies that the department of labor has an information
 technology system capable of accommodating the amendments in chapter 277
 of 2021, whichever occurs earlier (see chapter 56 of 2024 Pt.Z-§1 for
@@ -61,7 +61,7 @@ need for claimants to provide child care for their child or children.
 paid vacation period, or for a paid holiday, nor shall any such day be
 considered a day of total unemployment under section five hundred
 twenty-two of this article.
-  * NB Effective until December 6, 2024 or 30 days after the
+  * NB Effective until December 21, 2024 or 30 days after the
 commissioner of labor certifies that the department of labor has an
 information technology system capable of accommodating the amendments in
 chapter 277 of 2021, whichever occurs earlier (see chapter 56 of 2024
@@ -71,7 +71,7 @@ vacation period, or for a paid holiday, shall be considered compensation
 from employment and shall be included in the calculation of a claimant's
 benefit for partial unemployment as set forth in subdivision five of
 section five hundred ninety of this article.
-  * NB Effective December 6, 2024 or 30 days after the commissioner of
+  * NB Effective December 21, 2024 or 30 days after the commissioner of
 labor certifies that the department of labor has an information
 technology system capable of accommodating the amendments in chapter 277
 of 2021, whichever occurs earlier (see chapter 56 of 2024 Pt.Z-§1 for
@@ -159,7 +159,7 @@ dismissal pay, nor shall any day within such week be considered a day of
 total unemployment under section five hundred twenty-two of this
 article, if such weekly dismissal pay exceeds the maximum weekly benefit
 rate.
-  * NB Effective until December 6, 2024 or 30 days after the
+  * NB Effective until December 21, 2024 or 30 days after the
 commissioner of labor certifies that the department of labor has an
 information technology system capable of accommodating the amendments in
 chapter 277 of 2021, whichever occurs earlier (see chapter 56 of 2024
@@ -168,7 +168,7 @@ Pt.Z-§1 for further provisions)
 dismissal period for which a claimant receives dismissal pay if such
 weekly dismissal pay exceeds the claimant's maximum weekly benefit rate
 plus the claimant's partial benefit credit.
-  * NB Effective December 6, 2024 or 30 days after the commissioner of
+  * NB Effective December 21, 2024 or 30 days after the commissioner of
 labor certifies that the department of labor has an information
 technology system capable of accommodating the amendments in chapter 277
 of 2021, whichever occurs earlier (see chapter 56 of 2024 Pt.Z-§1 for

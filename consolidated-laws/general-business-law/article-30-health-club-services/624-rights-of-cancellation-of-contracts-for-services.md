@@ -149,5 +149,5 @@ electronic mail, telephone, mail, or in person.
 services through a website, such health club shall accept a notice of
 cancellation of such contract through such website in addition to the
 methods provided pursuant to paragraph (c) of this subdivision.
-  * NB Effective February 23, 2024
+  * NB Effective February 23, 2025
 ```
