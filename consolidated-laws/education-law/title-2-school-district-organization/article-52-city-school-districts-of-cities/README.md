@@ -35,6 +35,7 @@
 - [§ 2575-C Transfer of the director of attendance, assistant director of attendance, chief attendance officer, division supervising attendance offic...](2575c-transfer-of-the-director-of-attendance-assistant-director.md)
 - [§ 2575-D Payment of benefits by board of education retirement system of the city of New York in cases where workmen's compensation is or may be pa...](2575d-payment-of-benefits-by-board-of-education-retirement.md)
 - [§ 2575-E Eligibility of retirees for membership in the board of education retirement system of the city of New York](2575e-eligibility-of-retirees-for-membership-in-the-board.md)
+- [§ 2575-F Transfer of employees represented by the united federation of teachers to the New York city teachers' retirement system](2575f-transfer-of-employees-represented-by-the-united-federation.md)
 - [§ 2576 Annual estimate](2576-annual-estimate.md)
 - [§ 2577 Annual financial report](2577-annual-financial-report.md)
 - [§ 2579 Payment of obligations](2579-payment-of-obligations.md)
@@ -119,6 +120,9 @@ Section 2550.   Application of article.
                   compensation awards.
         2575-e. Eligibility of retirees for membership in the board of
                   education retirement system of the city of New York.
+        2575-f. Transfer of employees represented by the united
+                  federation of teachers to the New York city teachers'
+                  retirement system.
         2576.   Annual estimate.
         2577.   Annual financial report.
         2579.   Payment of obligations.
