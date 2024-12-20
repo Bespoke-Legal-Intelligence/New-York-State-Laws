@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 27-3005", "kind": "section", "law_id": "ENV", "location_id": "27-3005", "path": "ARTICLE 27 › TITLE 30 › SECTION 27-3005", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/27-3005.md", "title": "Exemptions and waivers"} -->
 # Environmental Conservation Law § 27-3005 — Exemptions and waivers
 
-[Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 30 — Expanded Polystyrene Foam Container and Polystyrene Loose Fill Packaging Ban](README.md)
+[Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 30 — Expanded Polystyrene Foam Containers and Polystyrene Loose Fill Packaging Ban](README.md)
 
 ```text
 § 27-3005. Exemptions and waivers.
@@ -10,7 +10,18 @@ not apply to:
   (a) Prepackaged food filled or sealed prior to receipt at a covered
 food service provider; or
   (b) Raw meat, pork, seafood, poultry or fish sold for the purpose of
-cooking or preparing off-premises by the customer.
+cooking or preparing off-premises by the customer; or
+  (c) Expanded polystyrene containers that are not wholly encapsulated
+or encased within a more durable container and are designed or intended
+to be used for cold storage:
+  (i) for drugs, medical devices, and biological materials as defined in
+the federal food, drug, and cosmetic act (21 U.S.C. Sec. 301 et seq.);
+or
+  (ii) animal biologics, including vaccines, bacterins, antisera,
+diagnostic kits, and other products of biological origin, and other
+packaging materials regulated by the United States department of
+agriculture under the virus, serum, toxin act (21 U.S.C. 151-159),
+including vaccines.
   2. Any facility, regardless of its income, including soup kitchens,
 food pantries and places of worship, operated by a not-for-profit
 corporation or by a federal, state, or local government agency that

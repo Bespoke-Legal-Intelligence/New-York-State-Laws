@@ -34,6 +34,7 @@
 - [§ 624 Next of kin; death of incarcerated individual](624-next-of-kin-death-of-incarcerated-individual.md)
 - [§ 625 Menstrual products](625-menstrual-products.md)
 - [§ 626 Medication assisted treatment in correctional facilities](626-medication-assisted-treatment-in-correctional-facilities.md)
+- [§ 627 Routine mammogram screenings](627-routine-mammogram-screenings.md)
 
 <details>
 <summary>Official heading of Article 22, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -80,6 +81,7 @@ Section 600.   Certain correctional officers to administer oaths.
         624.   Next of kin; death of incarcerated individual.
         625.   Menstrual products.
         626.   Medication assisted treatment in correctional facilities.
+        627.   Routine mammogram screenings.
 ```
 
 </details>

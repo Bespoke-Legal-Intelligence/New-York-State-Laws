@@ -8,6 +8,7 @@
 - [§ 2101 Definitions](2101-definitions.md)
 - [§ 2102 Civil practice; general provisions; CPLR applicable](2102-civil-practice-general-provisions-cplr-applicable.md)
 - [§ 2103 Rules of court](2103-rules-of-court.md)
+- [§ 2103-A Use of electronic filing authorized](2103a-use-of-electronic-filing-authorized.md)
 - [§ 2104 References in other laws](2104-references-in-other-laws.md)
 
 <details>
@@ -16,10 +17,11 @@
 ```text
                                ARTICLE 21
                                  GENERAL
-Section 2101. Definitions.
-        2102. Civil practice; general provisions; CPLR applicable.
-        2103. Rules of court.
-        2104. References in other laws.
+Section 2101.   Definitions.
+        2102.   Civil practice; general provisions; CPLR applicable.
+        2103.   Rules of court.
+        2103-a. Use of electronic filing authorized.
+        2104.   References in other laws.
 ```
 
 </details>

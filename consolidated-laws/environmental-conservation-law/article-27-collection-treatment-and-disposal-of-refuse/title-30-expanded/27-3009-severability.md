@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 27-3009", "kind": "section", "law_id": "ENV", "location_id": "27-3009", "path": "ARTICLE 27 › TITLE 30 › SECTION 27-3009", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/27-3009.md", "title": "Severability"} -->
 # Environmental Conservation Law § 27-3009 — Severability
 
-[Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 30 — Expanded Polystyrene Foam Container and Polystyrene Loose Fill Packaging Ban](README.md)
+[Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 30 — Expanded Polystyrene Foam Containers and Polystyrene Loose Fill Packaging Ban](README.md)
 
 ```text
 § 27-3009. Severability.

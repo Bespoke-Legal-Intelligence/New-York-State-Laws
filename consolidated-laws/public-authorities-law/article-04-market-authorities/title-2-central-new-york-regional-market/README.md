@@ -24,6 +24,8 @@
 - [§ 839 Title not affected if in part unconstitutional or ineffective](839-title-not-affected-if-in-part-unconstitutional.md)
 - [§ 840 Inconsistent provisions in other acts superseded](840-inconsistent-provisions-in-other-acts-superseded.md)
 - [§ 841 Actions against authority](841-actions-against-authority.md)
+- [§ 842 Moneys of the authority](842-moneys-of-the-authority.md)
+- [§ 843 Code of ethics](843-code-of-ethics.md)
 
 <details>
 <summary>Official heading of Title 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -47,10 +49,12 @@ Section 825.   Short title.
         836.   Remedies of bond holders.
         837.   Members not to be interested in transactions.
         838.   Repayment of state appropriation.
-        839.   Title   not  affected  if  in  part  unconstitutional  or
-                 ineffective.
+        839.   Title not affected if in part unconstitutional or
+                         ineffective.
         840.   Inconsistent provisions in other acts superseded.
         841.   Actions against authority.
+        842.   Moneys of the authority.
+        843.   Code of ethics.
 ```
 
 </details>

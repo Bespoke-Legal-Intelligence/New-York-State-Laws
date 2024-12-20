@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBH |
 | Type | Consolidated law, chapter 45 |
-| Sections | 1,775 |
-| Last changed | 13 Dec 2024 |
+| Sections | 1,781 |
+| Last changed | 20 Dec 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Health |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER 45 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (356 lines)](chapter-text.md)
+[Full chapter text (357 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [20 Dec 2024](../../changes/2024/2024-12-20.md): 12 amended, 6 added
 - [13 Dec 2024](../../changes/2024/2024-12-13.md): 1 added, 2 removed
 - [29 Nov 2024](../../changes/2024/2024-11-29.md): 13 amended
 - [25 Oct 2024](../../changes/2024/2024-10-25.md): 2 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [30 Aug 2024](../../changes/2024/2024-08-30.md): 1 added, 3 removed
 - [9 Aug 2024](../../changes/2024/2024-08-09.md): 3 repealed
 - [5 Jul 2024](../../changes/2024/2024-07-05.md): 4 amended
-- [28 Jun 2024](../../changes/2024/2024-06-28.md): 2 amended
 
 ## Contents
 
@@ -77,6 +77,7 @@ Assembly, do enact as follows:
 - [Article 17 — Ingredient Disclosures For Vapor Products and E-cigarettes](article-17-ingredient-disclosures-for-vapor-products-and-e/)
 - [Article 20 — Reporting of Alzheimer's Disease](article-20-reporting-of-alzheimers-disease/)
 - [Article 20-A — Alzheimer's Community Assistance Program](article-20a-alzheimers-community-assistance-program/)
+- [Article 20-B — State Parkinson's Disease Registry](article-20b-state-parkinsons-disease-registry/)
 - [Article 21 — Control of Acute Communicable Diseases](article-21-control-of-acute-communicable-diseases/)
 - [Article 21-A — Long-term Care Resident and Employee Immunization Act](article-21a-long-term-care-resident-and-employee/)
 - [Article 22 — Control of Tuberculosis](article-22-control-of-tuberculosis/)

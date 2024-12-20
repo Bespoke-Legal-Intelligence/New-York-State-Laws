@@ -4,7 +4,7 @@
 [Family Court Act](../README.md) › [Article 11 — Appeals](README.md)
 
 ```text
-  * § 1122. Filing of papers on appeal to the appellate division by
+  § 1122. Filing of papers on appeal to the appellate division by
 electronic means. Notwithstanding any other provision of law, the
 appellate division in each judicial department may promulgate rules
 authorizing a program in the use of electronic means for the taking and
@@ -32,5 +32,4 @@ has been implemented in any of the courts therein as deemed to be
 appropriate by any appellate division. To the extent practicable, rules
 promulgated by the appellate division in each judicial department
 pursuant to this section shall be uniform.
-  * NB Repealed September 1, 2027
 ```

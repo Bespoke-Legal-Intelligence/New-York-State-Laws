@@ -23,6 +23,7 @@
 - [§ 3413 Standard claim forms for fire losses](3413-standard-claim-forms-for-fire-losses.md)
 - [§ 3414 Reports by insurers of certain casualty loss on property owned or operated by religious organizations](3414-reports-by-insurers-of-certain-casualty-loss-on-property-owned-or-operated.md)
 - [§ 3415 Supplemental claim form to be submitted for certain fire loss claims in excess of ten thousand dollars in a city with a population of one...](3415-supplemental-claim-form-to-be-submitted-for-certain-fire-loss-claims-in-excess.md)
+- [§ 3416 Parametric insurance](3416-parametric-insurance.md)
 - [§ 3420 Liability insurance; standard provisions; right of injured person](3420-liability-insurance-standard-provisions-right-of-injured-person.md)
 - [§ 3421 Homeowners' liability insurance; dogs](3421-homeowners-liability-insurance-dogs.md)
 - [§ 3422 Hate crimes; coverage refusal](3422-hate-crimes-coverage-refusal.md)
@@ -106,6 +107,7 @@ Section 3401.   Insurable interest in property.
         3415.   Supplemental claim form to be submitted for certain fire
                   loss claims in excess of ten thousand dollars in a
                   city with a population of one million or more persons.
+        3416.   Parametric insurance.
         3420.   Liability insurance; standard provisions; right of
                   injured person.
         3421.   Homeowners' liability insurance; dogs.

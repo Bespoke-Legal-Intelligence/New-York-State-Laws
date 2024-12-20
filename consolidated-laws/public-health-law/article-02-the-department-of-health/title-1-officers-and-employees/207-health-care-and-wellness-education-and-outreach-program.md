@@ -70,6 +70,26 @@ at the end of the first month of pregnancy which involves the incomplete
 development of the spinal cord or its coverings, and the importance of
 encouraging all women in their child-bearing years to increase their
 folic acid intake in order to reduce the incidence of spina bifida.
+  (h)(i) A Down syndrome awareness program shall be created to provide
+up-to-date and evidence-based information about Down syndrome, in a
+written or alternative format to health care providers who order tests
+for a pregnant woman or an infant to screen for Down syndrome that shall
+include, but not be limited to, the following:
+  (1) expected physical, developmental, educational, and psychosocial
+outcomes;
+  (2) life expectancy;
+  (3) the clinical course description;
+  (4) expected intellectual and functional development;
+  (5) available intervention or treatment options;
+  (6) information hotlines specific to Down syndrome;
+  (7) relevant resource centers or clearinghouses;
+  (8) national and local Down syndrome organizations; and
+  (9) any other information the department deems necessary.
+  (ii) The commissioner shall (1) examine and utilize existing practices
+to ensure that the information provided under subparagraph (i) of this
+paragraph is culturally and linguistically appropriate for all
+recipients; and (2) meet annually with representatives from the Down
+syndrome community to ensure such information is current.
   (i) About the short term and long term adverse health risks to adults
 and children who become overweight, obese or underweight. The
 information shall include, but need not be limited to providing

@@ -1,0 +1,49 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 1102", "kind": "section", "law_id": "CVP", "location_id": "1102", "path": "ARTICLE 11 › SECTION 1102", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/1102.md", "title": "Privileges of party with insufficient means to pay costs, fees, and expenses in an action or on appeal"} -->
+# Civil Practice Law and Rules § 1102 — Privileges of party with insufficient means to pay costs, fees, and expenses in an action or on appeal
+
+[Civil Practice Law and Rules](../README.md) › [Article 11 — Waiver of Costs, Fees, and Expenses](README.md)
+
+```text
+  § 1102. Privileges of party with insufficient means to pay costs,
+fees, and expenses in an action or on appeal. (a) Attorney. Where a
+court grants a motion pursuant to subdivision (a) of section one
+thousand one hundred one of this article, the court, in its order
+determining the motion, may assign an attorney to the moving party.
+  (b) Stenographic transcript. Where a court grants a motion pursuant to
+subdivision (a) of section one thousand one hundred one of this article,
+the court clerk, within two days after the filing of such court's order
+with the court clerk, shall so notify the court stenographer, who,
+within twenty days of such notification shall make and certify two
+typewritten transcripts of the stenographic minutes of said trial or
+hearing, and shall deliver one of said transcripts to the moving party
+or such moving party's attorney, and file the other with the court clerk
+together with an affidavit of the fact and date of such delivery and
+filing. The expense of such transcripts shall be a county charge or, in
+the counties within the city of New York, a city charge, as the case may
+be, payable to the stenographer out of the court fund upon the
+certificate of the judge presiding at the trial or hearing. A moving
+party may be furnished with a stenographic transcript without fee by
+order of the court in proceedings other than appeal, the fee therefor to
+be paid by the county or, in the counties within the city of New York by
+the city, as the case may be, in the same manner as is paid for
+transcripts on appeal. Notwithstanding this or any other provision of
+law, fees paid for stenographic transcripts with respect to those
+proceedings specified in paragraph a of subdivision one of section
+thirty-five of the judiciary law shall be paid by the state in the
+manner prescribed by subdivision four of section thirty-five of the
+judiciary law.
+  (c) Appeals. On an appeal or motion for permission to appeal where a
+court grants a motion pursuant to subdivision (a) of section one
+thousand one hundred one of this article, the moving party may submit
+typewritten briefs and appendices, furnishing one legible copy for each
+appellate justice.
+  (d) Costs and fees. Where a court grants a motion pursuant to
+subdivision (a) of section one thousand one hundred one of this article,
+the moving party shall not be liable for the payment of any costs or
+fees unless a recovery by judgment or by settlement is had in such
+moving party's favor, in which event the court may direct such party to
+pay out of the recovery all or part of the costs and fees, a reasonable
+sum for the services and expenses of any attorney assigned to such party
+and any sum expended by the county or city under subdivision (b) of this
+section.
+```

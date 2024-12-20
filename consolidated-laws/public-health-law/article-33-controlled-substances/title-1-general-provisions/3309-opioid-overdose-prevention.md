@@ -67,9 +67,14 @@ either: (1) pursue or maintain a non-patient-specific prescription with
 an authorized health care professional to dispense an opioid antagonist
 to a consumer upon request, as authorized by this section; or (2)
 register with the department as an opioid overdose prevention program.
-  3-a. Any distribution of opioid antagonists through this program shall
-include an informational card or sheet. The informational card or sheet
-shall include, at a minimum, information on:
+  3-a. * Any distribution of opioid antagonists through this program
+shall include an informational card or sheet. The informational card or
+sheet shall include, at a minimum, information on:
+  * NB Effective until March 17, 2025
+  * Any distribution of opioid antagonists through this program shall
+include an informational card or sheet, and fentanyl test strips. The
+informational card or sheet shall include, at a minimum, information on:
+  * NB Effective March 17, 2025
   (a) how to recognize symptoms of an opioid overdose;
   (b) steps to take prior to and after an opioid antagonist is
 administered, including calling first responders;
@@ -77,9 +82,18 @@ administered, including calling first responders;
 supports' HOPE line;
   (d) how to access the office of addiction services and supports'
 website;
-  (e) the application of good samaritan protections provided in section
-three thousand-a of this chapter; and
-  (f) any other information deemed relevant by the commissioner.
+  * (e) the application of good samaritan protections provided in
+section three thousand-a of this chapter; and
+  * NB Effective until March 17, 2025
+  * (e) the application of good samaritan protections provided in
+section three thousand-a of this chapter;
+  * NB Effective March 17, 2025
+  * (f) any other information deemed relevant by the commissioner.
+  * NB Effective until March 17, 2025
+  * (f) any other information deemed relevant by the commissioner; and
+  * NB Effective March 17, 2025
+  * (g) information about fentanyl test strips and their uses.
+  * NB Effective March 17, 2025
   The educational card shall be provided in languages other than English
 as deemed appropriate by the commissioner. The department shall make
 such informational cards available to the opioid overdose prevention
@@ -133,4 +147,11 @@ use of opioids and benzodiazepine or nonbenzodiazepine sedative
 hypnotics.
   8. The commissioner shall establish guidelines for onsite opioid
 overdose response capacity in nightlife establishments.
+  * 9. The commissioner shall, in full accordance with the standards,
+powers and authorizations established by this section, coordinate with
+the commissioner of general services to effectuate the duty established
+by subdivision two-a of section one hundred forty of the public
+buildings law to equip public institutions and buildings with opioid
+antagonists.
+  * NB Effective December 17, 2025
 ```

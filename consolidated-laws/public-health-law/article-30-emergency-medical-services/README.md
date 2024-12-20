@@ -17,7 +17,7 @@
 - [§ 3002-A State emergency medical advisory committee](3002a-state-emergency-medical-advisory-committee.md)
 - [§ 3003 Regional emergency medical services councils](3003-regional-emergency-medical-services-councils.md)
 - [§ 3003-A EMS program agencies](3003a-ems-program-agencies.md)
-- [§ 3003-B Availability of ambulance service that provides transportation by aircraft to store and distribute blood and initiate and administer bloo...](3003b-availability-of-ambulance-service-that-provides-transportation-by-aircraft.md)
+- [§ 3003-B Availability of ambulance service and advanced life support first response service to store and distribute blood and initiate and adminis...](3003b-availability-of-ambulance-service-and-advanced-life-support-first-response.md)
 - [§ 3004 Emergency medical services system and agency performance standards](3004-emergency-medical-services-system-and-agency-performance-standards.md)
 - [§ 3004-A Regional emergency medical advisory committees](3004a-regional-emergency-medical-advisory-committees.md)
 - [§ 3005 Ambulance service certificates](3005-ambulance-service-certificates.md)

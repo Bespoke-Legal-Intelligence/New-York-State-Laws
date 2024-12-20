@@ -34,7 +34,7 @@
 - [Title 27\*2 — Drug Management and Disposal](title-27-2-drug-management/)
 - [Title 28 — Bag Waste Reduction](title-28-bag-waste/)
 - [Title 29 — Mercury Thermostat Collection Act](title-29-mercury/)
-- [Title 30 — Expanded Polystyrene Foam Container and Polystyrene Loose Fill Packaging Ban](title-30-expanded/)
+- [Title 30 — Expanded Polystyrene Foam Containers and Polystyrene Loose Fill Packaging Ban](title-30-expanded/)
 - [Title 31 — Construction and Demolition Debris](title-31-construction/)
 - [Title 32 — Small Plastic Bottle Hospitality Personal Care Product Restrictions](title-32-small-plastic/)
 - [Title 33 — Carpet Collection Program](title-33-carpet-collection/)

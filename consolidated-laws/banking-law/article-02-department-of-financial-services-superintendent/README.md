@@ -39,6 +39,7 @@
 - [§ 32 Insurance of deposits and share accounts](32-insurance-of-deposits-and-share-accounts.md)
 - [§ 33 Reserve depositaries](33-reserve-depositaries.md)
 - [§ 34 Superintendent as attorney to accept service of process](34-superintendent-as-attorney-to-accept-service-of-process.md)
+- [§ 35 Information pamphlet for residential mortgage applicants](35-information-pamphlet-for-residential-mortgage-applicants.md)
 - [§ 36 Examinations; right of inspection; penalties for refusing to permit examination](36-examinations-right-of-inspection-penalties-for-refusing-to-permit-examination.md)
 - [§ 36-A Reports of lending by banking organizations](36a-reports-of-lending-by-banking-organizations.md)
 - [§ 36-B Preservation of books and records](36b-preservation-of-books-and-records.md)
@@ -121,6 +122,7 @@ Section 10.   Declaration of policy.
         32.   Insurance of deposits and share accounts.
         33.   Reserve depositaries.
         34.   Superintendent as attorney to accept service of process.
+        35.   Information pamphlet for residential mortgage applicants.
         36.   Examinations; right of inspection; penalties for refusing
                 to permit examination.
         36-a. Reports of lending by banking organizations.

@@ -6,9 +6,14 @@
 ```text
   § 3309-b. Dispensing of drug adulterant testing supplies. 1. As used
 in this section:
-  (a) "Drug adulterant testing supplies" means any drug testing product
-that is used to determine whether a substance contains fentanyl or a
-fentanyl analog.
+  * (a) "Drug adulterant testing supplies" means any drug testing
+product that is used to determine whether a substance contains fentanyl
+or a fentanyl analog.
+  * NB Effective until January 16, 2025
+  * (a) "Drug adulterant testing supplies" means any drug testing
+product that is used to determine whether a substance contains fentanyl
+or a fentanyl analog, xylazine, or other substance.
+  * NB Effective January 16, 2025
   (b) "Health care professional" means a person licensed, registered or
 authorized pursuant to title eight of the education law to prescribe
 prescription drugs.

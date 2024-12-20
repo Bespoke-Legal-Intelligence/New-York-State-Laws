@@ -12,7 +12,7 @@
 - [§ 380.30 Time for pronouncing sentence](380.30-time-for-pronouncing-sentence.md)
 - [§ 380.40 Defendant's presence at sentencing](380.40-defendants-presence-at-sentencing.md)
 - [§ 380.50 Statements at time of sentence](380.50-statements-at-time-of-sentence.md)
-- [§ 380.55 Application for poor person relief on appeal](380.55-application-for-poor-person-relief-on-appeal.md)
+- [§ 380.55 Application for waiver of costs, fees, and expenses on appeal](380.55-application-for-waiver-of-costs-fees.md)
 - [§ 380.60 Authority for the execution of sentence](380.60-authority-for-the-execution-of-sentence.md)
 - [§ 380.65 Sentence and commitment and order of protection to accompany defendant sentenced to imprisonment](380.65-sentence-and-commitment-and-order.md)
 - [§ 380.70 Minutes of sentence](380.70-minutes-of-sentence.md)
@@ -34,7 +34,8 @@ Section 380.10   Applicability.
         380.30   Time for pronouncing sentence.
         380.40   Defendant's presence at sentencing.
         380.50   Statements at time of sentence.
-        380.55   Application for poor person relief on appeal.
+        380.55   Application for waiver of costs, fees, and expenses on
+                   appeal.
         380.60   Authority for the execution of sentence.
         380.65   Sentence and commitment and order of protection to
                    accompany defendant sentenced to imprisonment.

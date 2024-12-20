@@ -36,22 +36,46 @@ for the acquisition and storage of tissue;
   (e) the applicant's ability to arrange for the selection and testing
 of donors and donated tissue, including the performance of donor
 selection and required laboratory tests including typing and processing;
-  (f) the character and competence of the operator, its officers,
+  * (f) the character and competence of the operator, its officers,
 directors, principal stockholders and controlling persons, including the
 quality of care provided through any health care entities operated or
 controlled by such persons; and
-  (g) with respect to banks and storage facilities created after the
+  * NB Effective until March 13, 2025
+  * (f) the applicant's ability to moderate and record temperature,
+including an adequate alarm notification system;
+  * NB Effective March 13, 2025
+  * (g) with respect to banks and storage facilities created after the
 effective date of this paragraph, the existence and activities of other
 banks and storage facilities in the geographic area to be served by the
 applicant.
+  * NB Effective until March 13, 2025
+  * (g) the applicant's ability to establish a chain of custody for
+specimens;
+  * NB Effective March 13, 2025
+  * (h) the applicant's ability to establish administrative, technical,
+and physical safeguards to protect patient records;
+  * NB Effective March 13, 2025
+  * (i) the character and competence of the operator, its officers,
+directors, principal stockholders and controlling persons, including the
+quality of care provided through any health care entities operated or
+controlled by such persons; and
+  * NB Effective March 13, 2025
+  *  (j) with respect to banks and storage facilities created after the
+effective date of this paragraph, the existence and activities of other
+banks and storage facilities in the geographic area to be served by the
+applicant.
+  * NB Effective March 13, 2025
   5. No hospital or other facility and no physician shall permit any
 person to procure tissue or non-transplant organs unless such person has
 been licensed in accordance with this article, or has been asked by a
 licensed bank or storage facility to procure a specified tissue or
 non-transplant organ. No bank or storage facility shall sell or
-otherwise transfer tissue for valuable consideration.  Valuable
+otherwise transfer tissue for valuable consideration. Valuable
 consideration shall not include reasonable costs associated with the
-procurement, processing, storage and distribution of tissue.  Nothing
+procurement, processing, storage and distribution of tissue. Nothing
 herein shall impair the provisions of section forty-three hundred seven
 of this chapter.
+  * 6. The commissioner is authorized to promulgate rules and
+regulations necessary to implement the provisions of this section.
+  * NB Effective March 13, 2025
 ```

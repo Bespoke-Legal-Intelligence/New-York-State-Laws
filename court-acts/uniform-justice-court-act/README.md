@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | UJC |
 | Type | Court act |
-| Sections | 120 |
-| Last changed | 5 Jan 2024 |
+| Sections | 121 |
+| Last changed | 20 Dec 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Uniform Justice Court Act |
 
@@ -33,6 +33,7 @@ AN ACT to provide a uniform jurisdiction, practice and procedure for
 
 ## Recent changes
 
+- [20 Dec 2024](../../changes/2024/2024-12-20.md): 1 added
 - [5 Jan 2024](../../changes/2024/2024-01-05.md): 1 amended
 - [10 Mar 2023](../../changes/2023/2023-03-10.md): 1 amended
 - [6 Jan 2023](../../changes/2023/2023-01-06.md): 1 amended
@@ -42,7 +43,6 @@ AN ACT to provide a uniform jurisdiction, practice and procedure for
 - [3 May 2019](../../changes/2019/2019-05-03.md): 2 amended
 - [11 Jan 2019](../../changes/2019/2019-01-11.md): 1 amended
 - [4 Jan 2019](../../changes/2019/2019-01-04.md): 1 amended
-- [31 Aug 2018](../../changes/2018/2018-08-31.md): 1 amended
 
 ## Contents
 

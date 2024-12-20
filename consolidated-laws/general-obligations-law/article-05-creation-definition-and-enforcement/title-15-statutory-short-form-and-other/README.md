@@ -34,7 +34,6 @@
 - [§ 5-1511 Termination or revocation of power of attorney; notice](5-1511-termination-or-revocation-of-power.md)
 - [§ 5-1512 Powers of attorney executed in other jurisdictions](5-1512-powers-of-attorney-executed-in-other.md)
 - [§ 5-1513 Statutory short form power of attorney](5-1513-statutory-short-form-power-of-attorney.md)
-- [§ 5-1514 Certain gift transactions; formal requirements; statutory form](5-1514-certain-gift-transactions-formal.md) *(repealed)*
 
 <details>
 <summary>Official heading of Title 15, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

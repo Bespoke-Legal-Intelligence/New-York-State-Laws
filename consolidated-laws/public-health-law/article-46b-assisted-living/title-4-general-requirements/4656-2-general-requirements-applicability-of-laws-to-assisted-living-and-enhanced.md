@@ -97,16 +97,90 @@ other fee required by this subdivision, in the amount of two thousand
 dollars, provided that for any residence applying for both an enhanced
 assisted living certificate and a special needs assisted living
 certificate the amount of such fee shall be three thousand dollars.
-  7. The requirements of this article shall be in addition to those
+  ** 7. The requirements of this article shall be in addition to those
 required of an adult care facility. In the event of a conflict between
 any provision of this article and a provision of article seven of the
 social services law or a regulation adopted thereunder, the applicable
 provision of this article or the applicable regulation shall supersede
 article seven of the social services law or the applicable regulation
 thereunder to the extent of such conflict.
-  8. The assisted living operator shall not use deceptive or coercive
+  ** NB Effective until January 12, 2025
+  **  7. (a) All assisted living residences, as defined in subdivision
+one of section forty-six hundred fifty-one of this article, including
+those licensed and certified as an assisted living residence, special
+needs assisted living residence, or enhanced assisted living residence,
+shall:
+  (i) report annually on quality measures to be established by the
+department, in consultation with industry and consumer representatives,
+including the long-term care ombudsman or their representative, in the
+form and format prescribed by the department, with the first report due
+no later than January fifteenth, two thousand twenty-five; and
+  (ii) post information, including the starting monthly service rate,
+range for starting rent, approved admission or residency agreement, and
+a consumer-friendly summary of all service fees, through a reporting
+system to be developed by the department, in consultation with industry
+and consumer representatives, that takes into account differences in
+licensure and certification, services, agreements and fee structures
+across facilities. Such information shall be posted in a conspicuous
+place on the facility's website and in a public space within the
+facility and shall be made available to the public on forms developed by
+the department. Beginning on October first, two thousand twenty-four,
+this information shall also be reported to the department.
+  (b) The department shall develop a system to score the results of the
+assisted living quality reporting obtained pursuant to paragraph (a) of
+this subdivision, in consultation with industry and consumer
+representatives. Facilities scoring in the top quartile shall be granted
+the classification of advanced standing on their annual surveillance
+schedules.
+  (i) Notwithstanding subparagraph one of paragraph (a) of subdivision
+two of section four hundred sixty-one-a of the social services law,
+facilities achieving an advanced standing classification shall be
+surveyed every eighteen months. All other facilities shall be surveyed
+on an unannounced basis no less than annually; provided, however, that
+this shall not apply to surveys, inspections or investigations based on
+complaints received by the department under any other provision of law.
+  (ii) Facilities may remain on advanced standing classification
+provided they meet the scoring requirements in assisted living quality
+reporting and until such time when they do not meet such scoring
+requirements.
+  (c) Effective January thirty-first, two thousand twenty-five, the
+department shall post on its website the results of the assisted living
+quality reporting, collected pursuant to subparagraph (i) of paragraph
+(a) of this subdivision.
+  (d) No later than February fifteenth, two thousand twenty-five, the
+department shall report to the legislature on the development of a
+quality scoring system for adult care facilities, including adult homes
+and enriched housing providers. Such report shall examine the specific
+quality measures recommended and a process for information collection.
+  * NB Effective January 12, 2025
+  ** 8. The assisted living operator shall not use deceptive or coercive
 marketing practices to encourage residents or potential residents to
 sign or reauthorize the residency agreement required pursuant to section
 four thousand six hundred fifty-eight of this article.
+  ** NB Effective until January 12, 2025
+  ** 8. (a) Assisted living residences, as defined in subdivision one of
+section forty-six hundred fifty-one of this article, including those
+licensed and certified as an assisted living residence, special needs
+assisted living residence, or enhanced assisted living residence, may
+seek accreditation by agencies determined by the commissioner.
+  (b) Such accreditation agencies shall report data and information, in
+a manner and form as determined by the department, pertaining to those
+assisted living residences accredited by such agencies, and those
+assisted living residences which obtain but lose such accreditation.
+  ** NB Effective January 12, 2025
+  ** 9. The requirements of this article shall be in addition to those
+required of an adult care facility. In the event of a conflict between
+any provision of this article and a provision of article seven of the
+social services law or a regulation adopted thereunder, the applicable
+provision of this article or the applicable regulation shall supersede
+article seven of the social services law or the applicable regulation
+thereunder to the extent of such conflict.
+  ** NB Effective January 12, 2025
+  ** 10. The assisted living operator shall not use deceptive or
+coercive marketing practices to encourage residents or potential
+residents to sign or reauthorize the residency agreement required
+pursuant to section four thousand six hundred fifty-eight of this
+article.
+  ** NB Effective January 12, 2025
   * NB There are 2 § 4656's
 ```

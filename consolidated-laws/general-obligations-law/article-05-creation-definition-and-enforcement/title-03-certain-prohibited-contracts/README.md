@@ -6,6 +6,7 @@
 ## Contents
 
 - [§ 5-301 Certain employment contracts void](5-301-certain-employment-contracts-void.md)
+- [§ 5-302 Contracts for the creation and use of digital replicas](5-302-contracts-for-the-creation-and-use.md)
 - [§ 5-311 Certain agreements between husband and wife void](5-311-certain-agreements-between-husband-and-wife.md)
 - [§ 5-321 Agreements exempting lessors from liability for negligence void and unenforceable](5-321-agreements-exempting-lessors-from-liability.md)
 - [§ 5-322 Agreements exempting caterers and catering establishments from liability for negligence void and unenforceable](5-322-agreements-exempting-caterers-and-catering.md)
@@ -33,6 +34,7 @@
                                  TITLE 3
         CERTAIN PROHIBITED CONTRACTS AND PROVISIONS OF CONTRACTS
 Section 5-301.  Certain employment contracts void.
+        5-302.  (Enacted without § heading)
         5-311.  Certain agreements between husband and wife void.
         5-321.  Agreements exempting lessors from liability for
                   negligence void and unenforceable.

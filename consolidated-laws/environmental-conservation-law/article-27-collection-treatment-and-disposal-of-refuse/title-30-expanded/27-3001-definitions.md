@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 27-3001", "kind": "section", "law_id": "ENV", "location_id": "27-3001", "path": "ARTICLE 27 › TITLE 30 › SECTION 27-3001", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/27-3001.md", "title": "Definitions"} -->
 # Environmental Conservation Law § 27-3001 — Definitions
 
-[Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 30 — Expanded Polystyrene Foam Container and Polystyrene Loose Fill Packaging Ban](README.md)
+[Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 30 — Expanded Polystyrene Foam Containers and Polystyrene Loose Fill Packaging Ban](README.md)
 
 ```text
 § 27-3001. Definitions.
@@ -26,8 +26,11 @@ being designed for single use.
 utilizing a styrene monomer and processed by any number of techniques.
 Such term shall not include rigid polystyrene.
   4. "Manufacturer" means every person, firm or corporation that
-produces or imports polystyrene loose fill packaging that is sold,
-offered for sale, or distributed in the state.
+produces or imports polystyrene loose fill packaging or expanded
+polystyrene containers that are not wholly encapsulated or encased
+within a more durable container and are designed or intended to be used
+for cold storage that is sold, offered for sale, or distributed in the
+state.
   5. "Polystyrene loose fill packaging" means a void-filling packaging
 product made of expanded polystyrene foam that is used as a packaging
 fill, commonly referred to as packing peanuts.

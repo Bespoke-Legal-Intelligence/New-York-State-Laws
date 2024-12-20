@@ -1,0 +1,15 @@
+﻿<!-- nyslaw {"citation": "New York City Criminal Court Act § 42", "kind": "section", "law_id": "CRC", "location_id": "42", "path": "ARTICLE 4 › SECTION 42", "repealed": false, "repealed_date": null, "source": "nys-laws:CRC/42.md", "title": "Use of electronic filing authorized"} -->
+# New York City Criminal Court Act § 42 — Use of electronic filing authorized
+
+[New York City Criminal Court Act](../README.md) › [Article 4 — Procedure](README.md)
+
+```text
+  § 42. Use of electronic filing authorized. (1) Notwithstanding any
+other provision of law, the chief administrator of the courts may
+authorize a program in the use of electronic means in cases in the
+criminal court of the city of New York as provided in section 10.40 of
+the criminal procedure law.
+  (2) For purposes of this section, "electronic means" shall have the
+same meaning as defined by subdivision (f) of rule twenty-one hundred
+three of the civil practice law and rules.
+```

@@ -23,20 +23,20 @@ public service commission that is administered and approved for
 inclusion under this section by the office.
   (d) "Utility corporation" shall include utility companies, utility
 corporations, public utility companies, public utility corporations, gas
-corporations, electric corporations, or municipalities as defined in
+corporations, electric corporations, municipalities as defined in
 section two of the public service law and regulated pursuant to the
-public service law, a municipal corporation that provides public utility
-services, a rural electric cooperative, or a state public authority that
-provides utility services.
+public service law, water-works corporations, a municipal corporation
+that provides public utility services, a rural electric cooperative, or
+a state public authority that provides utility services.
   (e) "Utility corporation energy affordability programs" shall be
 defined by the public service commission and shall be limited to utility
 corporation programs which are intended to assist customers with energy
-affordability by reducing customers' energy burden.
+affordability by reducing customers' energy or water service burden.
   2. Within one year of the effective date of this section, the
 commissioner shall provide for automated identification of OTDA
 assistance program participants for participation in utility corporation
-energy affordability programs pursuant to subdivision four of this
-section.
+energy or water service affordability programs pursuant to subdivision
+four of this section.
   3. The utility corporation shall be responsible for working with the
 office to facilitate and implement the technological capabilities to
 allow for the secure transmission of data through an interface with the

@@ -83,8 +83,16 @@ available at the licensee's primary practice location;
   (p) whether the licensee participates in the medicaid or medicare
 program or any other state or federally financed health insurance
 program; and
-  (q) health care plans with which the licensee has contracts,
+  * (q) health care plans with which the licensee has contracts,
 employment, or other affiliation.
+  * NB Effective until March 13, 2025
+  * (q) health care plans with which the licensee has contracts,
+employment, or other affiliation; provided that the reporting of such
+information shall not be the responsibility of the physician, but shall
+be included and updated by the department utilizing provider network
+participation information, or other reliable sources of information
+submitted by health care plans.
+  * NB Effective March 13, 2025
   1-a. Each physician licensed and registered to practice in this state
 shall within thirty days of the transmittal of an initial profile survey
 and upon entering or updating his or her profile information:
@@ -108,8 +116,8 @@ specified in paragraph (e) of subdivision one of this section, except
 that the physician shall report the dollar amount (to the extent of the
 physician's information and belief) for each judgment, award and
 settlement and not a level of significance or context.
-  4. Each physician shall periodically report to the department on forms
-and in the time and manner required by the commissioner any other
+  * 4. Each physician shall periodically report to the department on
+forms and in the time and manner required by the commissioner any other
 information as is required by the department for the development of
 profiles under this section which is not otherwise reasonably
 obtainable. In addition to such periodic reports and providing the same
@@ -119,6 +127,19 @@ registration period, as a condition of registration renewal under
 article one hundred thirty-one of the education law. Except for optional
 information provided, physicians shall notify the department of any
 change in the profile information within thirty days of such change.
+  * NB Effective until March 13, 2025
+  * 4. Each physician shall periodically report to the department on
+forms and in the time and manner required by the commissioner any other
+information as is required by the department for the development of
+profiles under this section which is not otherwise reasonably
+obtainable. In addition to such periodic reports and providing the same
+information, each physician shall update his or her profile information
+within the six months prior to the submission of the re-registration
+application, as a condition of registration renewal under article one
+hundred thirty-one of the education law. Except for optional information
+provided, physicians shall notify the department of any change in the
+profile information within thirty days of such change.
+  * NB Effective March 13, 2025
   5. The department shall provide each licensee with a copy of his or
 her profile prior to dissemination to the public. In the manner and time
 required by the commissioner, a licensee shall be provided the
@@ -126,17 +147,46 @@ opportunity to correct factual inaccuracies that appear in the profile.
 The physician shall be permitted to file a concise statement concerning
 information contained in the profile, which shall be disseminated
 therewith.
-  6. A physician may elect to have his or her profile omit certain
+  * 6. A physician may elect to have his or her profile omit certain
 information provided pursuant to paragraphs (l), (m), (n) and (q) of
 subdivision one of this section. In collecting information for such
 profiles and disseminating the same, the department shall inform
 physicians that they may choose not to provide such information required
 pursuant to paragraphs (l), (m), (n) and (q) of subdivision one of this
 section.
+  * NB Effective until March 13, 2025
+  * 6. A physician may elect to have his or her profile omit certain
+information provided pursuant to paragraphs (l), (m) and (n) of
+subdivision one of this section. In collecting information for such
+profiles and disseminating the same, the department shall inform
+physicians that they may choose not to provide such information required
+pursuant to paragraphs (l), (m) and (n) of subdivision one of this
+section.
+  * NB Effective March 13, 2025
   7. A physician who knowingly provides materially inaccurate
 information under this section shall be guilty of professional
 misconduct pursuant to section sixty-five hundred thirty of the
 education law.
+  * 7-a. For purposes of this section, a physician may authorize a
+designee to register, transmit, enter or update information on his or
+her behalf, provided that:
+  (a) the designee so authorized is employed by the physician or the
+same professional practice or is under contract with such practice;
+  (b) the physician takes reasonable steps to ensure that such designee
+is sufficiently competent in the profile requirements; and
+  (c) the physician remains responsible for ensuring the accuracy of the
+information provided and for any failure to provide accurate
+information.
+  The commissioner shall establish in regulation reasonable parameters
+with regard to a physician's ability to authorize designees pursuant to
+this section, which shall include processes necessary to allow the
+department to: (i) grant access to the profile in a reasonably prompt
+manner to designees authorized by physicians; (ii) require that
+physicians notify the department upon terminating the authorization of
+any designee; and (iii) establish a mechanism to prevent such terminated
+designees from accessing the profile in a reasonably prompt manner
+following such notification.
+  * NB Effective March 13, 2025
   8. The department shall establish a toll-free telephone number through
 which it shall answer inquiries about and accept orders for hard copy
 physician profiles established pursuant to this section and accept

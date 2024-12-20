@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | UDC |
 | Type | Court act |
-| Sections | 180 |
-| Last changed | 5 Jan 2024 |
+| Sections | 181 |
+| Last changed | 20 Dec 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Uniform District Court Act |
 
@@ -33,6 +33,7 @@ AN ACT to provide a uniform jurisdiction, practice and procedure for
 
 ## Recent changes
 
+- [20 Dec 2024](../../changes/2024/2024-12-20.md): 1 added
 - [5 Jan 2024](../../changes/2024/2024-01-05.md): 1 amended
 - [10 Mar 2023](../../changes/2023/2023-03-10.md): 1 amended
 - [6 Jan 2023](../../changes/2023/2023-01-06.md): 1 amended

@@ -8,7 +8,7 @@
 | Senate code | CVP |
 | Type | Consolidated law, chapter 8 |
 | Sections | 811 |
-| Last changed | 29 Nov 2024 |
+| Last changed | 20 Dec 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Civil Practice Law & Rules |
 
@@ -31,6 +31,7 @@ AN ACT in relation to civil practice and prescribing rules of civil
 
 ## Recent changes
 
+- [20 Dec 2024](../../changes/2024/2024-12-20.md): 6 amended
 - [29 Nov 2024](../../changes/2024/2024-11-29.md): 2 amended
 - [11 Oct 2024](../../changes/2024/2024-10-11.md): 4 amended
 - [6 Sep 2024](../../changes/2024/2024-09-06.md): 2 amended
@@ -40,7 +41,6 @@ AN ACT in relation to civil practice and prescribing rules of civil
 - [8 Mar 2024](../../changes/2024/2024-03-08.md): 2 amended
 - [1 Mar 2024](../../changes/2024/2024-03-01.md): 1 amended
 - [16 Feb 2024](../../changes/2024/2024-02-16.md): 1 amended
-- [2 Feb 2024](../../changes/2024/2024-02-02.md): 2 amended
 
 ## Contents
 
@@ -52,7 +52,7 @@ AN ACT in relation to civil practice and prescribing rules of civil
 - [Article 6 — Joinder of Claims, Consolidation and Severance](article-006-joinder-of-claims-consolidation-and-severance/)
 - [Article 9 — Class Actions](article-009-class-actions/)
 - [Article 10 — Parties Generally](article-010-parties-generally/)
-- [Article 11 — Poor Persons](article-011-poor-persons/)
+- [Article 11 — Waiver of Costs, Fees, and Expenses](article-011-waiver-of-costs-fees-and-expenses/)
 - [Article 12 — Infants, Incompetents and Conservatees](article-012-infants-incompetents-and-conservatees/)
 - [Article 13 — Actions By the State](article-013-actions-by-the-state/)
 - [Article 13-A — Proceeds of a Crime-forfeiture](article-013a-proceeds-of-a-crime-forfeiture/)

@@ -9,7 +9,6 @@
 - [§ 4901 Reporting requirements for utilization review agents](4901-reporting-requirements-for-utilization-review.md)
 - [§ 4902 Utilization review program standards](4902-utilization-review-program-standards.md)
 - [§ 4903 Utilization review determinations](4903-utilization-review-determinations.md)
-- [§ 4903-A Utilization review determinations for medically fragile children](4903a-utilization-review-determinations.md) *(repealed)*
 - [§ 4904 Appeal of adverse determinations by utilization review agents](4904-appeal-of-adverse-determinations-by-utilization.md)
 - [§ 4905 Required and prohibited practices](4905-required-and-prohibited-practices.md)
 - [§ 4906 Waiver](4906-waiver.md)

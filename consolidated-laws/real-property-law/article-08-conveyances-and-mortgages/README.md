@@ -58,6 +58,7 @@
 - [§ 280-D Federal home equity conversion mortgage default and foreclosure regulation](280d-federal-home-equity-conversion-mortgage-default-and-foreclosure-regulation.md)
 - [§ 281 Credit line mortgage](281-credit-line-mortgage.md)
 - [§ 282 Mortgagor's right to recover attorneys' fees in actions or proceedings arising out of foreclosures of residential property](282-mortgagors-right-to-recover-attorneys-fees-in-actions-or-proceedings-arising-out.md)
+- [§ 283 Limits on amount of flood insurance required by mortgagee](283-limits-on-amount-of-flood-insurance-required-by-mortgagee.md)
 
 <details>
 <summary>Official heading of Article 8, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -143,6 +144,8 @@ Section 240.   Definitions and use of terms.
         282.   Mortgagor's right to recover attorneys' fees in actions
                  or proceedings arising out of foreclosures of
                  residential property.
+        283.   Limits on amount of flood insurance required by
+                 mortgagee.
 ```
 
 </details>

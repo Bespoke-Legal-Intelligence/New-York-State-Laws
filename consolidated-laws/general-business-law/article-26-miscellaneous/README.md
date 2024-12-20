@@ -43,6 +43,7 @@
 - [§ 391-U Pricing goods and services on the basis of gender prohibited](391u-pricing-goods-and-services-on-the-basis-of-gender-prohibited.md)
 - [§ 391-U\*2 Restrictions on the sale and use of firefighting equipment containing PFAS chemicals](391u-2-restrictions-on-the-sale-and-use-of-firefighting-equipment-containing-pfas.md)
 - [§ 391-V Third-party food delivery agreements](391v-third-party-food-delivery-agreements.md)
+- [§ 391-W Unauthorized restaurant reservations](391w-unauthorized-restaurant-reservations.md)
 - [§ 392 Second-hand watches](392-second-hand-watches.md)
 - [§ 392-A Sale of new computers](392a-sale-of-new-computers.md)
 - [§ 392-B False labels and misrepresentations](392b-false-labels-and-misrepresentations.md)
@@ -154,6 +155,7 @@
 - [§ 399-E\*2 Actions](399e-2-actions.md)
 - [§ 399-EE Zone pricing of gasoline prohibited](399ee-zone-pricing-of-gasoline-prohibited.md)
 - [§ 399-EEE Disabling of services to stolen wireless phones](399eee-disabling-of-services-to-stolen-wireless-phones.md)
+- [§ 399-EEE\*2 Car wash promotion disclosure](399eee-2-car-wash-promotion-disclosure.md)
 - [§ 399-F Laundromat refund procedures](399f-laundromat-refund-procedures.md)
 - [§ 399-FF Petting zoos](399ff-petting-zoos.md)
 - [§ 399-GG Packaging of electronic liquid](399gg-packaging-of-electronic-liquid.md)
@@ -262,6 +264,7 @@ Section 390.         Substitution of spurious oils for internal
         391-u*2.     Restrictions on the sale and use of firefighting
                        equipment containing PFAS chemicals.
         391-v.       Third-party food delivery agreements.
+        391-w.       Unauthorized restaurant reservations.
         392.         Second-hand watches.
         392-a.       Sale of new computers.
         392-b.       False labels and misrepresentations.
@@ -417,6 +420,7 @@ Section 390.         Substitution of spurious oils for internal
         399-e*2.     Actions.
         399-ee.      Zone pricing of gasoline prohibited.
         399-eee.     Disabling of services to stolen wireless phones.
+        399-eee*2.   Car wash promotion disclosure.
         399-f.       Laundromat refund procedures.
         399-ff.      Petting zoos.
         399-gg.      Packaging of electronic liquid.

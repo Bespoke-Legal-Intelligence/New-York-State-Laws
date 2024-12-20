@@ -8,6 +8,7 @@
 - [§ 2101 Definitions; construction of act](2101-definitions-construction-of-act.md)
 - [§ 2102 Civil practice; general provisions; CPLR applicable](2102-civil-practice-general-provisions-cplr-applicable.md)
 - [§ 2103 Rules of court](2103-rules-of-court.md)
+- [§ 2103-A Use of electronic filing authorized](2103a-use-of-electronic-filing-authorized.md)
 - [§ 2104 Organization of city courts](2104-organization-of-city-courts.md)
 - [§ 2105 Holding of court](2105-holding-of-court.md)
 
@@ -17,11 +18,12 @@
 ```text
                                ARTICLE 21
                                  GENERAL
-Section 2101. Definitions; construction of act.
-        2102. Civil practice; general provisions; CPLR applicable.
-        2103. Rules of court.
-        2104. Organization of city courts.
-        2105. Holding of court.
+Section 2101.   Definitions; construction of act.
+        2102.   Civil practice; general provisions; CPLR applicable.
+        2103.   Rules of court.
+        2103-a. Use of electronic filing authorized.
+        2104.   Organization of city courts.
+        2105.   Holding of court.
 ```
 
 </details>

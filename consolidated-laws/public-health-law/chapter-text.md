@@ -139,7 +139,8 @@ Article
   17.      Ingredient disclosures for vapor products and e-cigarettes
             (§§ 1700-1702).
   20.      Reporting of Alzheimer's Disease (§§ 2000--2004-a).
-  20-a.    Alzheimer's Community Assistance Program (§§ 2005-2009).
+  20-A.    Alzheimer's Community Assistance Program (§§ 2005-2009).
+  20-B.    State Parkinson's disease registry (§§ 2010-2014).
   21.      Control of acute communicable diseases
            Title    I.   General provisions (§§ 2100-2112).
                    II.   Control of patients (§§ 2120-2125).
@@ -220,7 +221,7 @@ Article
   27-H*.   Diabetes research and education program (§ 2796).
   27-H.    The Tick-Borne Disease Institute (§§ 2797--2798).
   27-K.    New York Wellness Works (§§ 2799-o--2799-r).
-  28.      Hospitals (§§ 2800-2830).
+  28.      Hospitals (§§ 2800-2831).
   28-A.    Nursing home companies (§§ 2850-2869).
   28-B.    Hospital mortgage loan construction (§§ 2870-2883).
   28-C.    Nurse manpower center (§§ 2890-2892).
