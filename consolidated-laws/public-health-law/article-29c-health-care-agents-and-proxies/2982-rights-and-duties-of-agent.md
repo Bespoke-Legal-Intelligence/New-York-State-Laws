@@ -10,7 +10,7 @@ the authority to make any and all health care decisions on the
 principal's behalf that the principal could make. Such authority shall
 be subject to the provisions of section twenty-nine hundred eighty-nine
 of this article.
-  2. Decision-making standard. After consultation with a licensed
+  * 2. Decision-making standard. After consultation with a licensed
 physician, registered nurse, licensed psychologist, licensed master
 social worker, or a licensed clinical social worker, the agent shall
 make health care decisions: (a) in accordance with the principal's
@@ -22,6 +22,20 @@ regarding the administration of artificial nutrition and hydration are
 not reasonably known and cannot with reasonable diligence be
 ascertained, the agent shall not have the authority to make decisions
 regarding these measures.
+  * NB Effective until March 21, 2025
+  * 2. Decision-making standard. After consultation with a licensed
+physician, registered nurse, physician assistant, nurse practitioner,
+licensed psychologist, licensed master social worker, or a licensed
+clinical social worker, the agent shall make health care decisions: (a)
+in accordance with the principal's wishes, including the principal's
+religious and moral beliefs; or (b) if the principal's wishes are not
+reasonably known and cannot with reasonable diligence be ascertained, in
+accordance with the principal's best interests; provided, however, that
+if the principal's wishes regarding the administration of artificial
+nutrition and hydration are not reasonably known and cannot with
+reasonable diligence be ascertained, the agent shall not have the
+authority to make decisions regarding these measures.
+  * NB Effective March 21, 2025
   3. Right to receive information. Notwithstanding any law to the
 contrary, the agent shall have the right to receive medical information
 and medical and clinical records necessary to make informed decisions

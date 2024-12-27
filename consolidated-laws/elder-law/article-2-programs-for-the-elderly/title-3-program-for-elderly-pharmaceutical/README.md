@@ -10,6 +10,7 @@
 - [§ 242 Program eligibility](242-program-eligibility.md)
 - [§ 243 Pharmaceutical insurance contract](243-pharmaceutical-insurance-contract.md)
 - [§ 244 Powers of the commissioner of health](244-powers-of-the-commissioner-of-health.md)
+- [§ 245 Automated identification of program participants](245-automated-identification-of-program-participants.md)
 - [§ 246 Regulations](246-regulations.md)
 - [§ 247 Cost-sharing responsibilities of eligible program participants for comprehensive coverage](247-cost-sharing-responsibilities-of-eligible-program-participants.md)
 - [§ 248 Cost-sharing responsibilities of eligible program participants for catastrophic coverage](248-cost-sharing-responsibilities-of-eligible-program-participants.md)
@@ -31,6 +32,7 @@ Section 240. Short title.
         242. Program eligibility.
         243. Pharmaceutical insurance contract.
         244. Powers of the commissioner of health.
+        245. Automated identification of program participants.
         246. Regulations.
         247. Cost-sharing responsibilities of eligible program
                participants for comprehensive coverage.

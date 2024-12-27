@@ -33,7 +33,7 @@ if the uninformed parent or guardian has maintained substantial and
 continuous contact with the minor and, if so, shall make diligent
 efforts to notify that parent or guardian prior to implementing the
 decision.
-  3. Decision-making standards and procedures for emancipated minor
+  * 3. Decision-making standards and procedures for emancipated minor
 patient. (a) If an attending practitioner determines that a patient is
 an emancipated minor patient with decision-making capacity, the patient
 shall have the authority to decide about life-sustaining treatment. Such
@@ -46,4 +46,21 @@ approves the decision.
 of the parents or guardian of an emancipated minor patient, the hospital
 shall notify such persons prior to withholding or withdrawing
 life-sustaining treatment pursuant to this subdivision.
+  * NB Effective until March 21, 2025
+  * 3. Decision-making standards and procedures for emancipated minor
+patient. (a) If an attending practitioner determines that a patient is
+an emancipated minor patient with decision-making capacity and documents
+the basis for that determination in the patient's medical record, the
+patient shall have the authority to decide about life-sustaining
+treatment. That authority shall include a decision to withhold or
+withdraw life-sustaining treatment if an attending practitioner and the
+ethics review committee determine that the decision accords with the
+standards for surrogate decisions for adults, and the ethics review
+committee approves the decision.
+  (b) If the hospital can with reasonable efforts ascertain the identity
+of the parents or guardian of an emancipated minor patient, the hospital
+shall make diligent efforts to notify such persons, and documents such
+diligent efforts in the patient's medical record, prior to withholding
+or withdrawing life-sustaining treatment pursuant to this subdivision.
+  * NB Effective March 21, 2025
 ```

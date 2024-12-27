@@ -16,6 +16,7 @@
 - [§ 141 Certification](141-certification.md)
 - [§ 142 Implementation](142-implementation.md)
 - [§ 142-A Stop sale orders](142a-stop-sale-orders.md)
+- [§ 142-B The New York native plant seed supply, development and enhancement program](142b-the-new-york-native-plant-seed-supply-development-and-enhancement-program.md)
 
 <details>
 <summary>Official heading of Article 9, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -35,6 +36,8 @@ Section 136.   Definitions.
         141.   Certification.
         142.   Implementation.
         142-a. Stop sale orders.
+        142-b. The New York native plant seed supply, development and
+                 enhancement program.
 ```
 
 </details>

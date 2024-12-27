@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Real Property Law § 447-G", "kind": "section", "law_id": "RPP", "location_id": "447-G", "path": "ARTICLE 12-D › SECTION 447-G", "repealed": false, "repealed_date": null, "source": "nys-laws:RPP/447-G.md", "title": "Data sharing"} -->
+# Real Property Law § 447-G — Data sharing
+
+[Real Property Law](../README.md) › [Article 12-D — Short-term Residential Rental Units](README.md)
+
+```text
+  * § 447-g. Data sharing. Booking services shall provide to the
+department of state, on a monthly basis, an electronic report, in a
+format determined by the department of state of the listings maintained,
+authorized, facilitated or advertised by the booking service within the
+state for the applicable reporting period. The report shall include the
+registration number, and a breakdown of where the listings are located,
+whether the listing is for a partial unit or a whole unit, and shall
+include the number of nights each unit was reported as occupied during
+the applicable reporting period. The department of state shall provide
+such report to all municipalities where listings are located on a
+monthly basis, provided, the department of state shall only provide to
+each municipality the part of the report with information on listings in
+such municipality.
+  * NB Effective April 20, 2025
+```

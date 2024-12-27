@@ -14,6 +14,7 @@
 - [§ 786 Unlawful retaliation](786-unlawful-retaliation.md)
 - [§ 787 Enforcement](787-enforcement.md)
 - [§ 788 Other powers](788-other-powers.md)
+- [§ 789 Injury reduction program](789-injury-reduction-program.md)
 
 <details>
 <summary>Official heading of Article 21-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

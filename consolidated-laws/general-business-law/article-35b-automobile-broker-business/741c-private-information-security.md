@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 741-C", "kind": "section", "law_id": "GBS", "location_id": "741-C", "path": "ARTICLE 35-B › SECTION 741-C", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/741-C.md", "title": "Private information security"} -->
+# General Business Law § 741-C — Private information security
+
+[General Business Law](../README.md) › [Article 35-B — Automobile Broker Business](README.md)
+
+```text
+  * § 741-c. Private information security. In addition to the
+requirements of subdivision twenty-one of section four hundred fifteen
+of the vehicle and traffic law, an automobile broker business shall:
+  1. keep and maintain all consumer records containing private
+information in a safe place that is not accessible to persons not
+employed by the automobile broker business, including by keeping and
+maintaining a clear and permanent physical barrier from other businesses
+that share or neighbor its place of business;
+  2. have a separate mailbox at such place of business for the
+automobile broker business; and
+  3. have a method of securing personal information, including but not
+limited to in a locking cabinet or safe.
+  * NB Effective June 19, 2025
+```

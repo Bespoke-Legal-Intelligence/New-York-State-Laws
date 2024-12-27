@@ -21,6 +21,7 @@
 - [§ 214-G Opioid antagonist awareness](214g-opioid-antagonist-awareness.md)
 - [§ 214-H Extreme risk protection orders](214h-extreme-risk-protection-orders.md)
 - [§ 214-H\*2 Model law enforcement death notification policy](214h-2-model-law-enforcement-death-notification-policy.md)
+- [§ 214-I Child-sensitive arrests](214i-child-sensitive-arrests.md)
 - [§ 215 Organization; salaries; qualifications; appointment; term; rules and regulations](215-organization-salaries-qualifications-appointment-term-rules-and-regulations.md)
 - [§ 216 Bureau of criminal investigation](216-bureau-of-criminal-investigation.md)
 - [§ 216-A Scientific crime detection laboratory](216a-scientific-crime-detection-laboratory.md)
@@ -75,6 +76,7 @@ Section 210.     Division of state police.
         214-g.   Opioid antagonist awareness.
         214-h.   Extreme risk protection orders.
         214-h*2. Model law enforcement death notification policy.
+        214-i.   Child-sensitive arrests.
         215.     Organization; salaries; qualifications; appointment;
                    term; rules and regulations.
         216.     Bureau of criminal investigation.

@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Financial Services Law § 904", "kind": "section", "law_id": "FIS", "location_id": "904", "path": "ARTICLE 9 › SECTION 904", "repealed": false, "repealed_date": null, "source": "nys-laws:FIS/904.md", "title": "Violations"} -->
+# Financial Services Law § 904 — Violations
+
+[Financial Services Law](../README.md) › [Article 9 — Private Education Debt Registry](README.md)
+
+```text
+  § 904. Violations. 1. If the superintendent finds, after notice and
+hearing, that a private education creditor has knowingly violated this
+article by failing to comply with any registration or reporting
+requirement or by furnishing inaccurate information to the
+superintendent, the superintendent may impose a civil penalty of not
+more than ten thousand dollars for each violation.
+  2. The superintendent may order that any person who has been found to
+have knowingly violated any provision of this article, or of the rules
+and regulations issued pursuant thereto, and has thereby caused
+financial harm to consumers, be barred for a term not exceeding ten
+years from acting as a private education creditor, or a stockholder, or
+an officer, director, partner or other owner, or an employee of a
+private education creditor.
+```

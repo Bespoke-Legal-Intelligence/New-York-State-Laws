@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | GBS |
 | Type | Consolidated law, chapter 20 |
-| Sections | 1,365 |
-| Last changed | 20 Dec 2024 |
+| Sections | 1,376 |
+| Last changed | 27 Dec 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Business |
 
@@ -29,10 +29,11 @@ AN ACT relating to general business, constituting chapter twenty of the
   Assembly, do enact as follows:
 ```
 
-[Full chapter text (191 lines)](chapter-text.md)
+[Full chapter text (192 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [27 Dec 2024](../../changes/2024/2024-12-27.md): 12 amended, 11 added
 - [20 Dec 2024](../../changes/2024/2024-12-20.md): 3 amended, 2 added
 - [13 Dec 2024](../../changes/2024/2024-12-13.md): 1 added
 - [6 Dec 2024](../../changes/2024/2024-12-06.md): 1 amended
@@ -42,7 +43,6 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [4 Oct 2024](../../changes/2024/2024-10-04.md): 1 amended
 - [20 Sep 2024](../../changes/2024/2024-09-20.md): 2 amended
 - [30 Aug 2024](../../changes/2024/2024-08-30.md): 6 amended
-- [19 Jul 2024](../../changes/2024/2024-07-19.md): 6 added
 
 ## Contents
 
@@ -179,6 +179,7 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 39-G — Document Destruction Contractors](article-39g-document-destruction-contractors/)
 - [Article 40 — Peer-to-peer Car Sharing Programs](article-40-peer-to-peer-car-sharing-programs/)
 - [Article 41 — Combative Sports](article-41-combative-sports/)
+- [Article 42 — Social Media Terms of Service](article-42-social-media-terms-of-service/)
 - [Article 43 — New York State Secure Choice Savings Program](article-43-new-york-state-secure-choice-savings-program/)
 - [Article 44 — Regulation of Surrogacy Programs and Assisted Reproduction Service Providers](article-44-regulation-of-surrogacy-programs-and-assisted/)
 - [Article 44-A — Freelance Isn't Free Act](article-44a-freelance-isnt-free-act/)

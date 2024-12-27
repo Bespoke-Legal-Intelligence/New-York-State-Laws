@@ -12,5 +12,6 @@ person's designated doula. For the purposes of this section, the term
 "maternal health care facility" shall mean a hospital or freestanding
 birthing center providing perinatal services in accordance with article
 twenty-eight of this chapter and applicable regulations.
+  * NB There are 2 § 2500-m's
   * NB Effective March 11, 2025
 ```

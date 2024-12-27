@@ -11,6 +11,7 @@
 - [§ 581-204 Judgment of parentage for intended parents who are spouses](581-204-judgment-of-parentage-for-intended-parents-who-are.md)
 - [§ 581-205 Inspection of records](581-205-inspection-of-records.md)
 - [§ 581-206 Jurisdiction, and exclusive continuing jurisdiction](581-206-jurisdiction-and-exclusive-continuing-jurisdiction.md)
+- [§ 581-207 Certified copy of judgment of parentage](581-207-certified-copy-of-judgment-of-parentage.md)
 
 <details>
 <summary>Official heading of Part 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -27,6 +28,7 @@ Section 581-201. Judgment of parentage.
                    spouses.
         581-205. Inspection of records.
         581-206. Jurisdiction, and exclusive continuing jurisdiction.
+        581-207. Certified copy of judgment of parentage.
 ```
 
 </details>

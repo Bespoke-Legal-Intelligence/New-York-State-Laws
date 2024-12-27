@@ -145,6 +145,7 @@
 - [§ 399-CC\*2 Transcripts and stenographic services](399cc-2-transcripts-and-stenographic-services.md)
 - [§ 399-CCC Smoke detecting devices](399ccc-smoke-detecting-devices.md)
 - [§ 399-CCCC Wireless telephone services; domestic violence victims](399cccc-wireless-telephone-services-domestic-violence-victims.md)
+- [§ 399-CCCCC Remote vehicle technology; domestic violence victims](399ccccc-remote-vehicle-technology-domestic-violence-victims.md)
 - [§ 399-D Children attending public bowling alleys under certain conditions](399d-children-attending-public-bowling-alleys-under-certain-conditions.md)
 - [§ 399-DD Sale of alcohol vaporizing devices prohibited](399dd-sale-of-alcohol-vaporizing-devices-prohibited.md)
 - [§ 399-DD\*2 Construction or installation of playground or playground equipment](399dd-2-construction-or-installation-of-playground-or-playground-equipment.md)
@@ -192,6 +193,7 @@
 - [§ 399-Y-1 Automated teller machines transaction denial; fees prohibited](399y-1-automated-teller-machines-transaction-denial-fees-prohibited.md)
 - [§ 399-YY Cable television company providing telephone services](399yy-cable-television-company-providing-telephone-services.md)
 - [§ 399-YYY Satellite television company providing television and/or telephone services](399yyy-satellite-television-company-providing-television-and-or-telephone-services.md)
+- [§ 399-YYYY Macrocell renewable energy reporting](399yyyy-macrocell-renewable-energy-reporting.md)
 - [§ 399-Z Telemarketing; establishment of no telemarketing sales calls statewide registry; authorization of the transfer of telephone numbers on th...](399z-telemarketing-establishment-of-no-telemarketing-sales-calls-statewide-registry.md)
 - [§ 399-Z-1 Telecommunication companies blocking certain numbers](399z-1-telecommunication-companies-blocking-certain-numbers.md)
 - [§ 399-Z-1\*2 STIR/SHAKEN authentication framework](399z-1-2-stir-shaken-authentication-framework.md)
@@ -407,6 +409,8 @@ Section 390.         Substitution of spurious oils for internal
         399-ccc.     Smoke detecting devices.
         399-cccc.    Wireless telephone services; domestic violence
                        victims.
+        399-ccccc.   Remote vehicle technology; domestic violence
+                       victims.
         399-d.       Children attending public bowling alleys under
                        certain conditions.
         399-dd.      Sale of alcohol vaporizing devices prohibited.
@@ -477,6 +481,7 @@ Section 390.         Substitution of spurious oils for internal
                        services.
         399-yyy.     Satellite television company providing television
                        and/or telephone services.
+        399-yyyy.    Macrocell renewable energy reporting.
         399-z.       Telemarketing; establishment of no telemarketing
                        sales calls statewide registry; authorization of
                        the transfer of telephone numbers on the no

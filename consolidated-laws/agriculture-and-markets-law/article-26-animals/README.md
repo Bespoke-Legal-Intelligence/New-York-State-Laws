@@ -53,6 +53,7 @@
 - [§ 383 Examination of seized animals or animals taken possession of](383-examination-of-seized-animals-or-animals-taken-possession.md)
 - [§ 384 Special provisions related to the importation of dogs and cats into the state for sale, resale or adoption](384-special-provisions-related-to-the-importation-of-dogs-and-cats-into-the-state.md)
 - [§ 385 Prohibition of slaughtering horses for human or animal consumption](385-prohibition-of-slaughtering-horses-for-human-or-animal-consumption.md)
+- [§ 386 Requirements for live auctions](386-requirements-for-live-auctions.md)
 
 <details>
 <summary>Official heading of Article 26, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -122,6 +123,7 @@ Section 350.   Definitions.
                  cats into the state for sale, resale or adoption.
         385.   Prohibition of slaughtering horses for human or animal
                  consumption.
+        386.   Requirements for live auctions.
 ```
 
 </details>

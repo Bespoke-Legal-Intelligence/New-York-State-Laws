@@ -48,7 +48,7 @@
 - [§ 38 Power of subpoena](38-power-of-subpoena.md)
 - [§ 39 Orders of superintendent](39-orders-of-superintendent.md)
 - [§ 40 Revocation of authorization certificate or license or suspension of activities in certain cases](40-revocation-of-authorization-certificate-or-license-or-suspension-of-activities.md)
-- [§ 41 Removal of director, trustee or officer](41-removal-of-director-trustee-or-officer.md)
+- [§ 41 Removal and prohibition](41-removal-and-prohibition.md)
 - [§ 42 Official acts of superintendent and details of department business to be made public](42-official-acts-of-superintendent-and-details-of-department-business-to-be-made.md)
 - [§ 44 Violations; penalties](44-violations-penalties.md)
 - [§ 44-A Violations and penalties; failure to make reports](44a-violations-and-penalties-failure-to-make-reports.md)
@@ -134,7 +134,7 @@ Section 10.   Declaration of policy.
         39.   Orders of superintendent.
         40.   Revocation of authorization certificate or license or
                 suspension of activities in certain cases.
-        41.   Removal of director, trustee or officer.
+        41.   Removal and prohibition.
         42.   Official acts of superintendent and details of department
                 business to be made public.
         44.   Violations; penalties.

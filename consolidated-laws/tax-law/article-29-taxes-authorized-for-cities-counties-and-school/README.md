@@ -19,7 +19,8 @@
                     PART I--AUTHORITY TO IMPOSE TAXES
             SUBPART A--TAXES ADMINISTERED BY CITIES, COUNTIES
                           AND SCHOOL DISTRICTS
-Section 1201.       Taxes administered by cities of one million or more.
+Section 1200.       Definition.
+        1201.       Taxes administered by cities of one million or more.
         1201-a.     Credits against taxes administered by cities of one
                       million or more.
         1201-b.     Additional credits against taxes administered by
@@ -42,6 +43,7 @@ Section 1201.       Taxes administered by cities of one million or more.
         1202-aaa.   Occupancy tax in the city of Rye.
         1202-b.     Hotel or motel taxes in Broome county.
         1202-bb.    Occupancy tax in the Village of Rye Brook.
+        1202-bbb.   Occupancy tax in the of village of Catskill.
         1202-c.     Hotel or motel taxes in Jefferson county.
         1202-cc.    Hotel or motel taxes in Franklin county.
         1202-cc*2.  Hotel or motel taxes in Delaware county.
@@ -99,6 +101,7 @@ Section 1201.       Taxes administered by cities of one million or more.
         1202-jj*8.  Hotel or motel taxes in the city of Cortland.
         1202-jj*9.  Hotel or motel taxes in the town of Ramapo.
         1202-jj*10. Occupancy tax in the town of Ossining.
+        1202-jj*11. Occupancy tax in the of village of Coxsackie.
         1202-k.     Hotel or motel taxes in Montgomery county.
         1202-k*2.   Hotel or motel taxes in the county of Rockland.
         1202-l.     Hotel and motel taxes in Ulster county.

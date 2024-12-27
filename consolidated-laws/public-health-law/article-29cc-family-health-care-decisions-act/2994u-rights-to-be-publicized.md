@@ -4,11 +4,21 @@
 [Public Health Law](../README.md) › [Article 29-CC — Family Health Care Decisions Act](README.md)
 
 ```text
-  § 2994-u. Rights to be publicized. The commissioner shall prepare a
+  * § 2994-u. Rights to be publicized. The commissioner shall prepare a
 statement summarizing the rights, duties, and requirements of this
 article and shall require that a copy of such statement be furnished to
 patients or to persons on the surrogate list known to the hospital, or
 to the parents or guardians of minor patients, at or prior to admission
 to the hospital, or within a reasonable time thereafter, and to each
 member of the hospital's staff directly involved with patient care.
+  * NB Effective until March 21, 2025
+  * § 2994-u. Rights to be publicized. The commissioner shall prepare a
+statement summarizing the rights, duties, and requirements of this
+article and shall require that a copy of such statement be furnished to
+a patient or to the patient's surrogate, or to the parent or guardian of
+a minor patient, at or prior to admission to the hospital, or within a
+reasonable time thereafter, and to any person on the surrogate list who
+requests a copy of the statement from the hospital. The statement shall
+also be made available to the hospital clinical staff.
+  * NB Effective March 21, 2025
 ```

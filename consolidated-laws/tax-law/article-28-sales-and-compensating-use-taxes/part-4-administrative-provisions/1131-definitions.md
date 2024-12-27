@@ -5,7 +5,7 @@
 
 ```text
   § 1131. Definitions. When used in this part IV,
-  (1) "Persons required to collect tax" or "person required to collect
+  * (1) "Persons required to collect tax" or "person required to collect
 any tax imposed by this article" shall include: every vendor of tangible
 personal property or services; every recipient of amusement charges;
 every operator of a hotel; and every marketplace provider with respect
@@ -26,6 +26,31 @@ required to collect any tax imposed by this article" until twenty days
 after the date by which such person is required to file a certificate of
 registration pursuant to section eleven hundred thirty-four of this
 part.
+  * NB Effective until April 1, 2023
+  * (1) "Persons required to collect tax" or "person required to collect
+any tax imposed by this article" shall include: every vendor of tangible
+personal property or services; every recipient of amusement charges;
+every operator of a hotel; every marketplace provider with respect to
+sales of tangible personal property it facilitates as described in
+paragraph one of subdivision (e) of section eleven hundred one of this
+article; and booking services unless relieved of such obligation
+pursuant to paragraph three of subdivision (m) of section eleven hundred
+thirty-two of this part. Said terms shall also include any officer,
+director or employee of a corporation or of a dissolved corporation, any
+employee of a partnership, any employee or manager of a limited
+liability company, or any employee of an individual proprietorship who
+as such officer, director, employee or manager is under a duty to act
+for such corporation, partnership, limited liability company or
+individual proprietorship in complying with any requirement of this
+article, or has so acted; and any member of a partnership or limited
+liability company. Provided, however, that any person who is a vendor
+solely by reason of clause (D) or (E) of subparagraph (i) of paragraph
+(8) of subdivision (b) of section eleven hundred one of this article
+shall not be a "person required to collect any tax imposed by this
+article" until twenty days after the date by which such person is
+required to file a certificate of registration pursuant to section
+eleven hundred thirty-four of this part.
+  * NB Effective April 20, 2025
   (2) "Customer" shall include: every purchaser of tangible personal
 property or services; every patron paying or liable for the payment of
 any amusement charge; and every occupant of a room or rooms in a hotel.

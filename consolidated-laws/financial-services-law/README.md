@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | FIS |
 | Type | Consolidated law, chapter 18-A |
-| Sections | 59 |
-| Last changed | 12 May 2023 |
+| Sections | 64 |
+| Last changed | 27 Dec 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Financial Services Law |
 
@@ -25,6 +25,7 @@
 
 ## Recent changes
 
+- [27 Dec 2024](../../changes/2024/2024-12-27.md): 5 added
 - [12 May 2023](../../changes/2023/2023-05-12.md): 2 amended
 - [10 Jun 2022](../../changes/2022/2022-06-10.md): 1 amended
 - [22 Apr 2022](../../changes/2022/2022-04-22.md): 9 amended
@@ -34,7 +35,6 @@
 - [1 Jan 2021](../../changes/2021/2021-01-01.md): 12 added
 - [2 Oct 2020](../../changes/2020/2020-10-02.md): 6 amended
 - [24 Apr 2020](../../changes/2020/2020-04-24.md): 1 amended
-- [17 Apr 2020](../../changes/2020/2020-04-17.md): 2 amended, 6 added
 
 ## Contents
 
@@ -46,3 +46,4 @@
 - [Article 6 — Emergency Medical Services and Surprise Bills](article-06-emergency-medical-services-and-surprise-bills/)
 - [Article 7 — Student Debt Consultants](article-07-student-debt-consultants/)
 - [Article 8 — Commercial Financing](article-08-commercial-financing/)
+- [Article 9 — Private Education Debt Registry](article-09-private-education-debt-registry/)

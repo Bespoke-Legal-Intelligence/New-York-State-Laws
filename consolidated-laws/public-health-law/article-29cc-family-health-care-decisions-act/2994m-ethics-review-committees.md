@@ -90,11 +90,19 @@ pursuant to subparagraph (ii) of paragraph (a) of subdivision five of
 section twenty-nine hundred ninety-four-d of this article. The
 committee's response to the case shall be included in the patient's
 medical record.
-  (iv) Following ethics review committee consideration of a case
+  * (iv) Following ethics review committee consideration of a case
 concerning the withdrawal or withholding of life-sustaining treatment,
 treatment shall not be withdrawn or withheld until the persons
 identified in subparagraph (iii) of this paragraph have been informed of
 the committee's response to the case.
+  * NB Effective until March 21, 2025
+  * (iv) Following ethics review committee consideration of a case
+concerning the withdrawal or withholding of life-sustaining treatment,
+treatment shall not be withdrawn or withheld until the hospital makes
+diligent efforts to inform the persons identified in subparagraph (iii)
+of this paragraph have been informed of the committee's response to the
+case and documents the diligent efforts in the patient's medical record.
+  * NB Effective March 21, 2025
   (c) When an ethics review committee is convened to review decisions
 regarding hospice care for a patient in a general hospital or
 residential health care facility, the responsibilities of this section

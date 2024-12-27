@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | RPP |
 | Type | Consolidated law, chapter 50 |
-| Sections | 440 |
-| Last changed | 20 Dec 2024 |
+| Sections | 447 |
+| Last changed | 27 Dec 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Real Property |
 
@@ -29,10 +29,11 @@ Passed, three-fifths being present.
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (39 lines)](chapter-text.md)
+[Full chapter text (40 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [27 Dec 2024](../../changes/2024/2024-12-27.md): 7 added
 - [20 Dec 2024](../../changes/2024/2024-12-20.md): 1 added
 - [29 Nov 2024](../../changes/2024/2024-11-29.md): 4 amended, 1 added
 - [4 Oct 2024](../../changes/2024/2024-10-04.md): 1 amended, 1 added
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [3 May 2024](../../changes/2024/2024-05-03.md): 1 amended, 10 added
 - [26 Apr 2024](../../changes/2024/2024-04-26.md): 1 amended, 1 added, 1 removed
 - [29 Mar 2024](../../changes/2024/2024-03-29.md): 2 amended, 1 repealed
-- [15 Dec 2023](../../changes/2023/2023-12-15.md): 3 amended
 
 ## Contents
 
@@ -65,6 +65,7 @@ Assembly, do enact as follows:
 - [Article 12-A — Real Estate Brokers and Real Estate Salespersons](article-12a-real-estate-brokers-and-real-estate-salespersons/)
 - [Article 12-B — Home Inspection Professional Licensing](article-12b-home-inspection-professional-licensing/)
 - [Article 12-C — Apartment Information Vendors](article-12c-apartment-information-vendors/)
+- [Article 12-D — Short-term Residential Rental Units](article-12d-short-term-residential-rental-units/)
 - [Article 13 — Cemetery Lands](article-13-cemetery-lands/)
 - [Article 14 — Property Condition Disclosure In the Sale of Residential Real Property](article-14-property-condition-disclosure-in-the-sale/)
 - [Article 15 — Prohibition and Disclosure of Private Transfer Fee Obligations](article-15-prohibition-and-disclosure-of-private-transfer/)

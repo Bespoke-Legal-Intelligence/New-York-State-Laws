@@ -40,6 +40,7 @@
 - [§ 253 Military service by parent; effect on child custody proceedings](253-military-service-by-parent-effect-on-child-custody-proceedings.md)
 - [§ 254 Video teleconferencing for families of persons ordered to active duty](254-video-teleconferencing-for-families-of-persons-ordered-to-active-duty.md)
 - [§ 255 Benefit information for national guard members and families](255-benefit-information-for-national-guard-members-and-families.md)
+- [§ 256 State military immigrant family legacy program support](256-state-military-immigrant-family-legacy-program-support.md)
 
 <details>
 <summary>Official heading of Article 11, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -111,6 +112,7 @@ Section 235.     Relief from civil or criminal liability; exemption from
                    to active duty.
         255.     Benefit information for national guard members and
                    families.
+        256.     State military immigrant family legacy program support.
 ```
 
 </details>

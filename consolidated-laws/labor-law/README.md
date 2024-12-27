@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | LAB |
 | Type | Consolidated law, chapter 31 |
-| Sections | 749 (1 repealed) |
-| Last changed | 20 Dec 2024 |
+| Sections | 764 |
+| Last changed | 27 Dec 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Labor |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                                LABOR LAW.
 ```
 
-[Full chapter text (81 lines)](chapter-text.md)
+[Full chapter text (84 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [27 Dec 2024](../../changes/2024/2024-12-27.md): 2 amended, 16 added, 1 removed
 - [20 Dec 2024](../../changes/2024/2024-12-20.md): 16 amended
 - [6 Dec 2024](../../changes/2024/2024-12-06.md): 16 amended
 - [22 Nov 2024](../../changes/2024/2024-11-22.md): 16 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [4 Oct 2024](../../changes/2024/2024-10-04.md): 2 amended
 - [20 Sep 2024](../../changes/2024/2024-09-20.md): 1 repealed
 - [13 Sep 2024](../../changes/2024/2024-09-13.md): 1 added
-- [6 Sep 2024](../../changes/2024/2024-09-06.md): 1 added, 2 removed
 
 ## Contents
 
@@ -78,6 +78,7 @@ Assembly, do enact as follows:
 - [Article 20-C — Retaliatory Action By Employers](article-20c-retaliatory-action-by-employers/)
 - [Article 21 — New York Call Center Jobs Act](article-21-new-york-call-center-jobs-act/)
 - [Article 21-A — Warehouse Worker Protection Act](article-21a-warehouse-worker-protection-act/)
+- [Article 21-B — Protection of Call Center Workers From Displacement](article-21b-protection-of-call-center-workers/)
 - [Article 22 — Boards of Inquiry In Labor Disputes](article-22-boards-of-inquiry-in-labor-disputes/)
 - [Article 22-A — Injunctions In Labor Disputes](article-22a-injunctions-in-labor-disputes/)
 - [Article 23 — Apprenticeship Training](article-23-apprenticeship-training/)
@@ -100,4 +101,5 @@ Assembly, do enact as follows:
 - [Article 33 — Elevators and Other Conveyances; Licensing](article-33-elevators-and-other-conveyances-licensing/)
 - [Article 34 — Certification of Public Service Employment](article-34-certification-of-public-service-employment/)
 - [Article 35 — New York Youth Jobs Connector Program](article-35-new-york-youth-jobs-connector-program/)
+- [Article 36 — New York State Fashion Workers Act](article-36-new-york-state-fashion-workers-act/)
 - [Article 40 — When to Take Effect](article-40-when-to-take-effect/)

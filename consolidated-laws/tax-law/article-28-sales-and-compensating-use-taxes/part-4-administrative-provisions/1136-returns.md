@@ -37,7 +37,7 @@ prescribe. Likewise, a person, who is required to register and who is
 selling petroleum products who is not a distributor of motor fuel, shall
 file an information return quarterly or, if the commissioner deems
 necessary, monthly, in such form as the commissioner shall prescribe.
-  (4) The return of a vendor of tangible personal property or services
+  * (4) The return of a vendor of tangible personal property or services
 shall show such vendor's receipts from sales and the number of gallons
 of any motor fuel or diesel motor fuel sold and also the aggregate value
 of tangible personal property and services and number of gallons of such
@@ -58,6 +58,39 @@ provider and the marketplace seller as described in subdivision one of
 section eleven hundred thirty-two of this part, and (B) the information
 provided by the marketplace seller to the marketplace provider about
 such tangible personal property is accurate.
+  * NB Effective until April 20, 2025
+  * (4) The return of a vendor of tangible personal property or services
+shall show such vendor's receipts from sales and the number of gallons
+of any motor fuel or diesel motor fuel sold and also the aggregate value
+of tangible personal property and services and number of gallons of such
+fuels sold by the vendor, the use of which is subject to tax under this
+article, and the amount of tax payable thereon pursuant to the
+provisions of section eleven hundred thirty-seven of this part. The
+return of a recipient of amusement charges shall show all such charges
+and the amount of tax thereon, and the return of an operator required to
+collect tax on rents shall show all rents received or charged and the
+amount of tax thereon. The return of a marketplace seller shall exclude
+the receipts from a sale of tangible personal property facilitated by a
+marketplace provider if, in regard to such sale: (A) the marketplace
+seller has timely received in good faith a properly completed
+certificate of collection from the marketplace provider or the
+marketplace provider has included a provision approved by the
+commissioner in the publicly-available agreement between the marketplace
+provider and the marketplace seller as described in subdivision one of
+section eleven hundred thirty-two of this part, and (B) the information
+provided by the marketplace seller to the marketplace provider about
+such tangible personal property is accurate. The return of a short-term
+rental host shall exclude the rent from occupancy of a short-term rental
+unit facilitated by a booking service if, in regard to such sale: (A)
+the short-term rental host has timely received in good faith a properly
+completed certificate of collection from the booking service or the
+booking service has included a provision approved by the commissioner in
+the publicly-available agreement between the booking service and the
+short-term rental host as described in subdivision (m) of section eleven
+hundred thirty-two of this part, and (B) the information provided by the
+short-term rental host to the booking service about such rent and such
+occupancy is accurate.
+  * NB Effective April 20, 2025
   (5) The returns of any seller of petroleum products shall show the
 number of gallons of petroleum products sold, together with such
 additional information as the commissioner shall require in order to

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | GMU |
 | Type | Consolidated law, chapter 24 |
-| Sections | 1,080 |
-| Last changed | 20 Dec 2024 |
+| Sections | 1,081 |
+| Last changed | 27 Dec 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Municipal |
 
@@ -29,10 +29,11 @@ Became a law February 17, 1909, with the approval of the Governor.
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (108 lines)](chapter-text.md)
+[Full chapter text (109 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [27 Dec 2024](../../changes/2024/2024-12-27.md): 3 amended, 1 added
 - [20 Dec 2024](../../changes/2024/2024-12-20.md): 1 amended
 - [29 Nov 2024](../../changes/2024/2024-11-29.md): 2 amended, 1 added
 - [15 Nov 2024](../../changes/2024/2024-11-15.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [5 Jul 2024](../../changes/2024/2024-07-05.md): 10 amended
 - [3 May 2024](../../changes/2024/2024-05-03.md): 2 amended
 - [26 Apr 2024](../../changes/2024/2024-04-26.md): 1 amended
-- [5 Jan 2024](../../changes/2024/2024-01-05.md): 1 amended
 
 ## Contents
 
@@ -91,6 +91,7 @@ Assembly, do enact as follows:
 - [Article 13-BB — Adopt-a-municipal Park, Shoreline or Roadway Programs](article-13bb-adopt-a-municipal-park-shoreline-or-roadway/)
 - [Article 13-C — Establishment or Extension of Residential or Recreational Areas In the Lake George Park](article-13c-establishment-or-extension-of-residential/)
 - [Article 13-D — Community Facilities and Programs For the Elderly](article-13d-community-facilities-and-programs/)
+- [Article 13-E — Municipal Websites](article-13e-municipal-websites/)
 - [Article 14 — Airports and Landing Fields](article-14-airports-and-landing-fields/)
 - [Article 14-A — Gas and Electric Service](article-14a-gas-and-electric-service/)
 - [Article 14-AA — School District Exploration For Natural Gas Fields](article-14aa-school-district-exploration-for-natural-gas/)

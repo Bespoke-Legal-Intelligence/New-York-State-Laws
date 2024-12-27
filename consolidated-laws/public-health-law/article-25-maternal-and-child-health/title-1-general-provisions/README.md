@@ -23,6 +23,7 @@
 - [§ 2500-K Maternal depression](2500k-maternal-depression.md)
 - [§ 2500-L Pregnant people, blood test for hepatitis C virus (HCV); follow-up care](2500l-pregnant-people-blood-test-for-hepatitis-c-virus-hcv-follow-up-care.md)
 - [§ 2500-M Access to doulas](2500m-access-to-doulas.md)
+- [§ 2500-M\*2 Cesarean section; persons present](2500m-2-cesarean-section-persons-present.md)
 - [§ 2501 Health and welfare services to all children; duty of local boards](2501-health-and-welfare-services-to-all-children-duty-of-local-boards.md)
 - [§ 2502 Report of certain conditions](2502-report-of-certain-conditions.md)
 - [§ 2503 Drug information to be furnished expectant mothers](2503-drug-information-to-be-furnished-expectant-mothers.md)
@@ -38,6 +39,7 @@
 - [§ 2509 Maternal mortality review board](2509-maternal-mortality-review-board.md)
 - [§ 2509-A Corded window blind leaflet](2509a-corded-window-blind-leaflet.md)
 - [§ 2509-C Availability of adverse childhood experiences services](2509c-availability-of-adverse-childhood-experiences-services.md)
+- [§ 2509-D Veterans reproductive mental health care](2509d-veterans-reproductive-mental-health-care.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -66,6 +68,7 @@ Section 2500.     Maternal and child health; duties of commissioner.
         2500-l.   Pregnant people, blood test for hepatitis C virus
                     (HCV); follow-up care.
         2500-m.   Access to doulas.
+        2500-m*2. Cesarean section; persons present.
         2501.     Health and welfare services to all children; duty of
                     local boards.
         2502.     Report of certain conditions.
@@ -87,6 +90,7 @@ Section 2500.     Maternal and child health; duties of commissioner.
         2509-a.   Corded window blind leaflet.
         2509-c.   Availability of adverse childhood experiences
                     services.
+        2509-d.   Veterans reproductive mental health care.
 ```
 
 </details>

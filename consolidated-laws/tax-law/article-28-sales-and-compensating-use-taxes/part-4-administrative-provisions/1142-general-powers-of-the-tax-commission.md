@@ -323,4 +323,16 @@ conditions prescribed by paragraph two of subdivision (l) of section
 eleven hundred thirty-two of this part being met, such marketplace
 provider is not on such list at the commencement of the quarterly period
 covered thereby.
+  * 16. To publish a list on the department's website of booking
+services whose certificates of authority have been revoked and, if
+necessary to protect sales tax revenue, provide by regulation or
+otherwise that a short-term rental unit operator will be relieved of the
+requirement to register and the duty to collect tax on the rent for
+occupancy of a short-term rental facilitated by a booking service
+provider only if, in addition to the conditions prescribed by paragraph
+two of subdivision (m) of section eleven hundred thirty-two and
+paragraph six of subdivision (a) of section eleven hundred thirty-four
+of this part being met, such booking service is not on such list at the
+commencement of the quarterly period covered thereby.
+  * NB Effective April 20, 2025
 ```

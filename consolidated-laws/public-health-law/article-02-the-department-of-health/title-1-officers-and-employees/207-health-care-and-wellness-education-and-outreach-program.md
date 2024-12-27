@@ -70,7 +70,7 @@ at the end of the first month of pregnancy which involves the incomplete
 development of the spinal cord or its coverings, and the importance of
 encouraging all women in their child-bearing years to increase their
 folic acid intake in order to reduce the incidence of spina bifida.
-  (h)(i) A Down syndrome awareness program shall be created to provide
+  * (h)(i) A Down syndrome awareness program shall be created to provide
 up-to-date and evidence-based information about Down syndrome, in a
 written or alternative format to health care providers who order tests
 for a pregnant woman or an infant to screen for Down syndrome that shall
@@ -90,6 +90,23 @@ to ensure that the information provided under subparagraph (i) of this
 paragraph is culturally and linguistically appropriate for all
 recipients; and (2) meet annually with representatives from the Down
 syndrome community to ensure such information is current.
+  * NB There are 2 par (h)'s
+  * (h) The department shall develop and conduct a program concerning
+drug-induced movement disorders. Such program shall include but not be
+limited to, (i) educational information on the importance of screening
+for and identifying symptoms of drug-induced movement disorders; and
+(ii) the development and dissemination of educational materials for
+healthcare providers regarding treatment for drug-induced movement
+disorders, including for services provided via telehealth. Such
+educational materials disseminated to healthcare providers shall be
+developed and disseminated in coordination with relevant healthcare
+provider groups and shall include best practices for the treatment and
+screening of movement disorders informed by the American Psychiatric
+Association and other professional society practice guidelines. Such
+program shall also include education and outreach on the elimination of
+stigma for people living with drug-induced movement disorders related to
+the treatment of mental health conditions.
+  * NB There are 2 par (h)'s
   (i) About the short term and long term adverse health risks to adults
 and children who become overweight, obese or underweight. The
 information shall include, but need not be limited to providing

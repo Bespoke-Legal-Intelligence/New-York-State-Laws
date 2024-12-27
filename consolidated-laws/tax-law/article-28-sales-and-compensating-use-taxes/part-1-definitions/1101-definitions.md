@@ -854,7 +854,7 @@ video and audio material devoted to literature, the sciences, the arts,
 news, an industry, profession, sport or other field of endeavor, and
 does not include listings, advertisements, catalogs, compilations,
 databases, or the like.
-  (c) When used in this article for the purposes of the tax imposed
+  * (c) When used in this article for the purposes of the tax imposed
 under subdivision (e) of section eleven hundred five, the following
 terms shall mean:
   (1) Hotel. A building or portion of it which is regularly used and
@@ -894,6 +894,78 @@ furnish occupancy, directly or indirectly, and to determine rent
 therefor, shall be the "rights of a room remarketer". A room remarketer
 is not a permanent resident with respect to a room for which such person
 has the rights of a room remarketer.
+  * NB Effective until April 20, 2025
+  * (c) When used in this article for the purposes of the tax imposed
+under subdivision (e) of section eleven hundred five of this article,
+and subdivision (a) of section eleven hundred four of this article, the
+following terms shall mean:
+  (1) Hotel. A building or portion of it which is regularly used and
+kept open as such for the lodging of guests. The term "hotel" includes
+an apartment hotel, a motel, boarding house or club, whether or not
+meals are served, and short-term rental units.
+  (2) Occupancy. The use or possession, or the right to the use or
+possession, of any room in a hotel. "Right to the use or possession"
+includes the rights of a room remarketer as described in paragraph eight
+of this subdivision.
+  (3) Occupant. A person who, for a consideration, uses, possesses, or
+has the right to use or possess, any room in a hotel under any lease,
+concession, permit, right of access, license to use or other agreement,
+or otherwise. "Right to use or possess" includes the rights of a room
+remarketer as described in paragraph eight of this subdivision.
+  (4) Operator. Any person operating a hotel. Such term shall include a
+room remarketer and such room remarketer shall be deemed to operate a
+hotel, or portion thereof, with respect to which such person has the
+rights of a room remarketer.
+  (5) Permanent resident. Any occupant of any room or rooms in a hotel
+for at least ninety consecutive days shall be considered a permanent
+resident with regard to the period of such occupancy.
+  (6) Rent. The consideration received for occupancy, including any
+service or other charge or amount required to be paid as a condition for
+occupancy, valued in money, whether received in money or otherwise and
+whether received by the operator, a booking service, a room remarketer
+or another person on behalf of any of them.
+  (7) Room. Any room or rooms of any kind in any part or portion of a
+hotel, which is available for or let out for any purpose other than a
+place of assembly.
+  (8) Room remarketer. A person who reserves, arranges for, conveys, or
+furnishes occupancy, whether directly or indirectly, to an occupant for
+rent in an amount determined by the room remarketer, directly or
+indirectly, whether pursuant to a written or other agreement. Such
+person's ability or authority to reserve, arrange for, convey, or
+furnish occupancy, directly or indirectly, and to determine rent
+therefor, shall be the "rights of a room remarketer". A room remarketer
+is not a permanent resident with respect to a room for which such person
+has the rights of a room remarketer. This term does not include a
+booking service unless such service otherwise meets this definition.
+  (9) Short-term rental unit. A short-term residential unit as defined
+in section four hundred forty-seven-a of the real property law which is
+registered with the department of state or a municipal registration
+system, which includes but is not limited to title twenty-six of the
+administrative code of the city of New York.
+  (10) Booking service. (i) A person or entity who, directly or
+indirectly:
+  (A) provides one or more online, computer or application-based
+platforms that individually or collectively can be used to:
+  (I) list or advertise offers for rental of a short-term rental unit,
+or space in a short-term rental unit, a type of a hotel as defined in
+paragraph one of this subdivision, and
+  (II) either accept such offers, or reserve or pay for such rentals;
+and
+  (B) charges, collects or receives a fee from a customer or host for
+the use of such a platform or for provision of any service in connection
+with the rental of a short-term rental unit, or space in a short-term
+rental unit, a type of a hotel as defined in paragraph one of this
+subdivision. For the purposes of this section, "customer" means an
+individual or organization that purchases a stay at a short-term rental.
+  (ii) A booking service shall not include a person or entity who
+facilitates bookings of hotel rooms solely on behalf of affiliated
+persons or entities, including franchisees, operating under a shared
+hotel brand.
+  (iii) A booking service shall not include a person or entity who
+facilitates bookings of hotel rooms and does not collect and retain the
+rent paid for such occupancy, as defined by paragraph six of this
+subdivision.
+  * NB Effective April 20, 2025
   (d) When used in this article for purposes of the tax imposed under
 subdivision (f) of section eleven hundred five, the following terms
 shall mean:
@@ -989,4 +1061,13 @@ hundred thirty-four of this article, who has an agreement with a
 marketplace provider under which the marketplace provider will
 facilitate sales of tangible personal property by such person within the
 meaning of paragraph one of this subdivision.
+  * (3) The rent for every occupancy of a room or rooms in a short-term
+rental unit, or space in a short-term rental unit, a type of a hotel
+offered for rent through a booking service, as defined in paragraph ten
+of subdivision (c) of section eleven hundred one of this article,
+regardless of whether it is furnished, limited to a single family
+occupancy, or provides housekeeping, food, or other common hotel
+services, including, but not limited to, entertainment or planned
+activities.
+  * NB Effective April 20, 2025
 ```

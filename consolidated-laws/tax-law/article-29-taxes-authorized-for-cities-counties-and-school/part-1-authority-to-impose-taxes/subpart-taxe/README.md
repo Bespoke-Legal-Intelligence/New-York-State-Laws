@@ -7,6 +7,7 @@
 
 ## Contents
 
+- [§ 1200 Definition](1200-definition.md)
 - [§ 1201 Taxes administered by cities of one million or more](1201-taxes-administered-by-cities-of-one.md)
 - [§ 1201-A Credits against taxes administered by cities of one million or more](1201a-credits-against-taxes-administered.md)
 - [§ 1201-B Additional credits against taxes administered by cities of one million or more](1201b-additional-credits-against-taxes.md)
@@ -25,6 +26,7 @@
 - [§ 1202-AAA Occupancy tax in the city of Rye](1202aaa-occupancy-tax-in-the-city-of-rye.md)
 - [§ 1202-B Hotel or motel taxes in Broome county](1202b-hotel-or-motel-taxes-in-broome-county.md)
 - [§ 1202-BB Occupancy tax in the Village of Rye Brook](1202bb-occupancy-tax-in-the-village-of-rye.md)
+- [§ 1202-BBB Occupancy tax in the of village of Catskill](1202bbb-occupancy-tax-in-the-of-village.md)
 - [§ 1202-C Hotel or motel taxes in Jefferson county](1202c-hotel-or-motel-taxes-in-jefferson.md)
 - [§ 1202-CC Hotel or motel taxes in Franklin county](1202cc-hotel-or-motel-taxes-in-franklin.md)
 - [§ 1202-CC\*2 Hotel or motel taxes in Delaware county](1202cc-2-hotel-or-motel-taxes-in-delaware.md)
@@ -76,6 +78,7 @@
 - [§ 1202-JJ\*8 Hotel or motel taxes in the city of Cortland](1202jj-8-hotel-or-motel-taxes-in-the-city.md)
 - [§ 1202-JJ\*9 Hotel or motel taxes in the town of Ramapo](1202jj-9-hotel-or-motel-taxes-in-the-town.md)
 - [§ 1202-JJ\*10 Occupancy tax in the town of Ossining](1202jj-10-occupancy-tax-in-the-town.md)
+- [§ 1202-JJ\*11 Occupancy tax in the of village of Coxsackie](1202jj-11-occupancy-tax-in-the-of-village.md)
 - [§ 1202-K Hotel or motel taxes in Montgomery county](1202k-hotel-or-motel-taxes-in-montgomery.md)
 - [§ 1202-K\*2 Hotel or motel taxes in the county of Rockland](1202k-2-hotel-or-motel-taxes-in-the-county.md)
 - [§ 1202-L Hotel and motel taxes in Ulster county](1202l-hotel-and-motel-taxes-in-ulster-county.md)

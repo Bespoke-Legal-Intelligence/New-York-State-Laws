@@ -8,13 +8,21 @@
 Authority to appoint agent; presumption of competence. (a) A competent
 adult may appoint a health care agent in accordance with the terms of
 this article.
-  (b) For the purposes of this section, every adult shall be presumed
+  * (b) For the purposes of this section, every adult shall be presumed
 competent to appoint a health care agent unless such person has been
 adjudged incompetent or otherwise adjudged not competent to appoint a
 health care agent, or unless a committee or guardian of the person has
 been appointed for the adult pursuant to article seventy-eight of the
 mental hygiene law or article seventeen-A of the surrogate's court
 procedure act.
+  * NB Effective until March 21, 2025
+  * (b) For the purposes of this section, every adult shall be presumed
+competent to appoint a health care agent unless such person has been
+adjudged incompetent or otherwise adjudged not competent to appoint a
+health care agent, or unless a guardian of the person has been appointed
+for the adult pursuant to article eighty-one of the mental hygiene law
+or article seventeen-A of the surrogate's court procedure act.
+  * NB Effective March 21, 2025
   2. Health care proxy; execution; witnesses. (a) A competent adult may
 appoint a health care agent by a health care proxy, signed and dated by
 the adult in the presence of two adult witnesses who shall also sign the

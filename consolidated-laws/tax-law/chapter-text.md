@@ -57,7 +57,7 @@ Article 1.      Short title; definitions; miscellaneous (§§ 1-49*2).
        28-C.     Supplemental tax on vapor products (§§ 1180-1186).
        28-D.     Special tax on peer-to-peer car sharing (§§ 1190-1197).
        29.       Taxes authorized for cities, counties and school
-                   districts (§§ 1201-1264).
+                   districts (§§ 1200-1264).
        29-A.     Tax on medallion taxicab trips in the metropolitan
                    commuter transportation district (§§ 1280-1290).
        29-B.     State assessment fee on transportation network company

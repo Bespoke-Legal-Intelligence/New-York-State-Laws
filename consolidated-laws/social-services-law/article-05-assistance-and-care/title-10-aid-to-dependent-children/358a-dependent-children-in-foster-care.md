@@ -138,6 +138,46 @@ schedule a permanency hearing pursuant to article ten-A of the family
 court act for a date certain not more than eight months after the
 placement of the child into foster care. Such date certain shall be
 included in the order approving the instrument.
+  * (c) (i) Subject to the provisions of subparagraph (ii) of this
+paragraph, the court shall also maintain jurisdiction over a case for
+the purposes of hearing and deciding a motion brought by a former foster
+care youth, as defined in article ten-B of the family court act, or by a
+young adult who left foster care upon or after attaining the age of
+twenty-one, for contempt pursuant to section seven hundred fifty-three
+of the judiciary law against a social services district and/or social
+services official, as defined by section two of this chapter, and/or an
+authorized agency, as defined by subdivision ten of section three
+hundred seventy-one of this chapter. In addition to any other defense,
+it shall be an affirmative defense to a motion filed in accordance with
+this paragraph that compliance with the court order was not possible due
+solely to the youth's refusal to consent to continuation of foster care
+placement where such refusal is documented in a signed, notarized letter
+executed by the youth after consultation with their attorney for the
+child.
+  (ii) (A) The court shall maintain jurisdiction over a motion described
+in subparagraph (i) of this paragraph if such motion is filed before the
+former foster care youth or young adult attains the age of twenty-two,
+or after the former foster care youth or young adult attains the age of
+twenty-two and upon a showing of good cause, which may include, but
+shall not be limited to, a failure to obtain stable housing. The court's
+jurisdiction over any such motion shall continue until such motion and
+any related appeals are finally resolved.
+  (B) For the purposes of this paragraph, "stable housing" shall mean
+housing where the youth respondent shall be reasonably expected to
+reside for at least twelve months; provided, however, that a homeless
+shelter, temporary accommodations with family or friends, a single-room
+occupancy hotel, or any other congregate living arrangement which houses
+more than ten unrelated persons, or remaining in a foster care setting
+pursuant to a local social services district policy or practice after
+the youth attains the age of twenty-one, shall not be considered stable
+housing; provided, however, that discharge into a congregate living
+arrangement licensed by the office of mental health or the office for
+people with developmental disabilities, in accordance with a youth's
+permanency plan or discharge plan, to receive residential services which
+are reasonably expected to continue for at least twelve months,
+including a congregate living arrangement which houses more than ten
+unrelated persons, shall constitute stable housing.
+  * NB Effective January 20, 2025
   (3) Disposition of petition. (a) If the court is satisfied that the
 parent, parents or guardian executed such instrument knowingly and
 voluntarily and because he or she would be unable to make adequate

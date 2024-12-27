@@ -244,8 +244,11 @@ programs and in accordance with applicable reimbursement methodologies.
 subsection (c) of section 1915 of the federal social security act, to
 persons suffering from traumatic brain injuries or qualifying for
 nursing home diversion and transition services, shall not be provided to
-medical assistance recipients through managed care programs until at
-least January first, two thousand twenty-six.
+medical assistance recipients through managed care programs established
+pursuant to this section; provided, further that the commissioner of
+health is hereby directed to take any action required, including but not
+limited to filing waivers and waiver extensions as necessary with the
+federal government, to continue the provision of such services.
   (d-3) Services provided in school-based health centers shall not be
 provided to medical assistance recipients through managed care programs
 established pursuant to this section until at least April first, two

@@ -115,6 +115,6 @@ village. Such revenues may be used for any lawful purpose.
 any person or circumstance shall be held invalid, the remainder of this
 section and the application of such provision to other persons or
 circumstances shall not be affected thereby.
-  * NB There are 10 § 1202-jj's
+  * NB There are 11 § 1202-jj's
   * NB Repealed November 22, 2027
 ```

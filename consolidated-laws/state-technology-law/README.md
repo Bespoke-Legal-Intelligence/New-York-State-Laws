@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | STT |
 | Type | Consolidated law, chapter 57-A |
-| Sections | 32 |
-| Last changed | 29 Nov 2024 |
+| Sections | 36 |
+| Last changed | 27 Dec 2024 |
 | First in this history | 22 Sep 2014 |
 | Senate name | State Technology |
 
@@ -25,12 +25,15 @@ Article                                              Section
    I    Office of Information Technology Services    (§§ 101-107)
    II   Internet Security and Privacy Act            (§§ 201-209)
    III  Electronic Signatures and Records Act        (§§ 301-309)
+   IV   Automated decision-making in state           (§§ 401-404)
+        government
 ```
 
 [Chapter text page](chapter-text.md)
 
 ## Recent changes
 
+- [27 Dec 2024](../../changes/2024/2024-12-27.md): 1 amended, 4 added
 - [29 Nov 2024](../../changes/2024/2024-11-29.md): 3 amended, 1 added
 - [5 Jul 2024](../../changes/2024/2024-07-05.md): 1 amended
 - [21 Jun 2024](../../changes/2024/2024-06-21.md): 1 amended
@@ -40,10 +43,10 @@ Article                                              Section
 - [29 Dec 2023](../../changes/2023/2023-12-29.md): 2 amended, 2 added
 - [27 Oct 2023](../../changes/2023/2023-10-27.md): 1 amended
 - [30 Jun 2023](../../changes/2023/2023-06-30.md): 1 amended, 1 added
-- [2 Jun 2023](../../changes/2023/2023-06-02.md): 1 amended
 
 ## Contents
 
 - [Article 1 — Office of Information Technology Services](article-1-office-of-information-technology-services/)
 - [Article 2 — Internet Security and Privacy Act](article-2-internet-security-and-privacy-act/)
 - [Article 3 — Electronic Signatures and Records Act](article-3-electronic-signatures-and-records-act/)
+- [Article 4 — Automated Decision-making In State Government](article-4-automated-decision-making-in-state-government/)
