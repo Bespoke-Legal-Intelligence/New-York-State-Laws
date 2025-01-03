@@ -950,21 +950,12 @@ assistance on the date of such birth and to remain eligible for such
 assistance for a period of one year, so long as the child is a member of
 the woman's household and the woman remains eligible for such assistance
 or would remain eligible for such assistance if she were pregnant.
-  * (3) A child under the age of nineteen who is determined eligible for
-medical assistance under the provisions of this section, shall,
-consistent with applicable federal requirements, remain eligible for
-such assistance until the earlier of:
-  (i) the last day of the month which is twelve months following the
-determination or redetermination of eligibility for such assistance; or
-  (ii) the last day of the month in which the child reaches the age of
-nineteen.
-  * NB Effective until January 1, 2025
-  * (3) (A) A child between the ages of six and nineteen who is
-determined eligible for medical assistance under the provisions of this
-section, shall, consistent with applicable federal requirements, remain
-eligible for such assistance until the last day of the month which is
-twelve months following the determination or renewal of eligibility for
-such assistance.
+  (3) (A) A child between the ages of six and nineteen who is determined
+eligible for medical assistance under the provisions of this section,
+shall, consistent with applicable federal requirements, remain eligible
+for such assistance until the last day of the month which is twelve
+months following the determination or renewal of eligibility for such
+assistance.
   (B) A child under the age of six who is determined eligible for
 medical assistance under the provisions of this section, shall,
 consistent with applicable federal requirements, remain continuously
@@ -973,7 +964,6 @@ eligible for medical assistance coverage until the later of:
 renewal of eligibility for such assistance; or
   (ii) the last day of the month in which the child reaches the age of
 six.
-  * NB Effective January 1, 2025
   (4) An infant eligible under subparagraph two or four of paragraph (b)
 of subdivision one of this section who is receiving medically necessary
 in-patient services for which medical assistance is provided on the date
@@ -2136,7 +2126,7 @@ sixty-six-c of this title.
 in education, outreach services, and facilitated enrollment activities
 for aged, blind, and disabled persons who may be eligible for coverage
 under this title.
-  * 16. (a) The commissioner of health is authorized to submit the
+  16. (a) The commissioner of health is authorized to submit the
 appropriate waivers and/or any other required requests for federal
 approval, including but not limited to, those authorized in section
 eleven hundred fifteen of the federal social security act, in order to
@@ -2221,5 +2211,4 @@ eligibility for persons specified in paragraph (b) or (c) of this
 subdivision, the income and resources of responsible relatives shall not
 be deemed available for as long as the person meets the criteria
 specified in this subdivision.
-  * NB Effective January 1, 2025
 ```

@@ -581,7 +581,7 @@ commissioner of health, subject to federal financial participation.
 Nothing in this paragraph shall be construed to modify any licensure,
 certification or scope of practice provision under title eight of the
 education law.
-  * (mm) (i) biomarker precision medical testing for the purposes of
+  (mm) (i) biomarker precision medical testing for the purposes of
 diagnosis, treatment, or appropriate management of, or ongoing
 monitoring to guide treatment decisions for, a recipient's disease or
 condition when one or more of the following recognizes the efficacy and
@@ -619,7 +619,6 @@ alternative care options intended to optimize patient care developed by
 independent organizations or medical professional societies utilizing a
 transparent methodology and reporting structure and with a conflict of
 interest policy.
-  * NB Effective January 1, 2025
   3. Any inconsistent provisions of this section notwithstanding,
 medical assistance shall include:
   (a) early and periodic screening and diagnosis of eligible persons

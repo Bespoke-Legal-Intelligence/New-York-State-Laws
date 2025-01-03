@@ -4,8 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 33 — Carpet Collection Program](README.md)
 
 ```text
-* § 27-3319. Rules and regulations.
+§ 27-3319. Rules and regulations.
   The department is authorized to promulgate any rules and regulations
 necessary to implement this title.
-  * NB Effective December 28, 2024
 ```

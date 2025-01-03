@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 33 — Carpet Collection Program](README.md)
 
 ```text
-* § 27-3317. Penalties.
+§ 27-3317. Penalties.
   Any producer, representative organization, or retailer who violates
 any provision of or fails to perform any duty imposed pursuant to this
 title shall be liable for a civil penalty not to exceed five hundred
@@ -13,5 +13,4 @@ five hundred dollars for each day during which such violation continues.
 Civil penalties shall be assessed by the department after a hearing or
 opportunity to be heard pursuant to the provisions of section 71-1709 of
 this chapter.
-  * NB Effective December 28, 2024
 ```

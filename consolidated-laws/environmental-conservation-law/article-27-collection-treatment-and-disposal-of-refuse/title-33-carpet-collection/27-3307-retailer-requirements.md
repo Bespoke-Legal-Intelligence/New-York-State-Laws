@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 33 — Carpet Collection Program](README.md)
 
 ```text
-* § 27-3307. Retailer requirements.
+§ 27-3307. Retailer requirements.
   1. Beginning July first, two thousand twenty-six, no retailer may sell
 or offer for sale carpet in the state unless the producer of such carpet
 is participating in a carpet collection program. A retailer shall be in
@@ -15,5 +15,4 @@ on the department's website as being included in the program.
   2. Any retailer may participate, on a voluntary basis, as a designated
 collection site pursuant to a carpet collection program and in
 accordance with all applicable laws and regulations.
-  * NB Effective December 28, 2024
 ```

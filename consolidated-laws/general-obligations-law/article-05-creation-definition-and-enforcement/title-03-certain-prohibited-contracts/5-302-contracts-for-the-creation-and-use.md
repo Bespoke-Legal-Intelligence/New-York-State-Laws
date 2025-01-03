@@ -4,7 +4,7 @@
 [General Obligations Law](../../README.md) › [Article 5 — Creation, Definition and Enforcement of Contractual Obligations](../README.md) › [Title 3 — Certain Prohibited Contracts and Provisions of Contracts](README.md)
 
 ```text
-  * § 5-302. 1. Contracts for the creation and use of digital replicas.
+  § 5-302. 1. Contracts for the creation and use of digital replicas.
 Any provision in an agreement between an individual and any other person
 or entity for the performance of personal or professional services is
 contrary to public policy and shall be void and unenforceable as it
@@ -36,5 +36,4 @@ simulation of the voice or likeness of an individual that so closely
 resembles the individual's voice or likeness that a layperson would not
 be able to readily distinguish the digital simulation from the
 individual's authentic voice or likeness.
-  * NB Effective January 1, 2025
 ```

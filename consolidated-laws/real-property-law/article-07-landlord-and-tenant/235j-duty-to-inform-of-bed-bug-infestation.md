@@ -4,11 +4,10 @@
 [Real Property Law](../README.md) › [Article 7 — Landlord and Tenant](README.md)
 
 ```text
-  * § 235-j. Duty to inform of bed bug infestation. Upon having
-knowledge of a bed bug infestation, the landlord or lessor of a
-residential premises shall provide all tenants and lessees on such
-premises written notice of such infestation. Such written notice shall
-be provided to the tenants and lessees within twenty-four hours of the
-landlord or lessor having knowledge of the bed bug infestation.
-  * NB Effective December 22, 2024
+  § 235-j. Duty to inform of bed bug infestation. Upon having knowledge
+of a bed bug infestation, the landlord or lessor of a residential
+premises shall provide all tenants and lessees on such premises written
+notice of such infestation. Such written notice shall be provided to the
+tenants and lessees within twenty-four hours of the landlord or lessor
+having knowledge of the bed bug infestation.
 ```

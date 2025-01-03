@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../README.md) › [Article 70 — Uniform Procedures](README.md)
 
 ```text
-* § 70-0118. Disproportionate impacts on disadvantaged communities.
+§ 70-0118. Disproportionate impacts on disadvantaged communities.
   1. For the purposes of this section:
   (a) "Disadvantaged communities" shall have the same meaning as
 subdivision five of section 75-0101 of this chapter.
@@ -80,5 +80,4 @@ including increased housing supply, or alleviation of existing pollution
 burdens that may be provided by the project, including operational
 changes to the project that would reduce the pollution burden on the
 disadvantaged community.
-  * NB Effective December 30, 2024
 ```

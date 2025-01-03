@@ -23,5 +23,4 @@ not limited to:
 elements, or other aesthetic components; or
   2. integration of dynamic interfaces.
   * NB There are 2 § 103-c's
-  * NB Effective December 22, 2024
 ```

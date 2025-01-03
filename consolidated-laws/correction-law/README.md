@@ -8,7 +8,7 @@
 | Senate code | COR |
 | Type | Consolidated law, chapter 43 |
 | Sections | 336 |
-| Last changed | 27 Dec 2024 |
+| Last changed | 3 Jan 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Correction |
 
@@ -33,6 +33,7 @@ Became a law April 2, 1929, with the approval of the Governor.  Passed,
 
 ## Recent changes
 
+- [3 Jan 2025](../../changes/2025/2025-01-03.md): 1 amended
 - [27 Dec 2024](../../changes/2024/2024-12-27.md): 3 amended
 - [20 Dec 2024](../../changes/2024/2024-12-20.md): 2 amended, 1 added
 - [29 Nov 2024](../../changes/2024/2024-11-29.md): 3 amended, 1 added, 1 removed
@@ -42,7 +43,6 @@ Became a law April 2, 1929, with the approval of the Governor.  Passed,
 - [2 Aug 2024](../../changes/2024/2024-08-02.md): 2 amended
 - [22 Mar 2024](../../changes/2024/2024-03-22.md): 1 amended
 - [16 Feb 2024](../../changes/2024/2024-02-16.md): 1 amended
-- [2 Feb 2024](../../changes/2024/2024-02-02.md): 1 amended
 
 ## Contents
 

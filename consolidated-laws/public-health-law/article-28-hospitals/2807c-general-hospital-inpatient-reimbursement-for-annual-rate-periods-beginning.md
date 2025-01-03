@@ -7837,40 +7837,9 @@ thousand ten through March thirty-first, two thousand eleven and each
 state fiscal year thereafter, provided, however, that such reductions
 shall be in addition to the reductions required pursuant to subparagraph
 (ii) of paragraph (a) of subdivision thirty-three of this section.
-  (i) (i) * Notwithstanding any inconsistent provision of this
-subdivision or any other contrary provision of law and subject to the
-availability of federal financial participation, for the period July
-first, two thousand ten through March thirty-first, two thousand eleven,
-and each state fiscal year period thereafter, the commissioner shall
-make additional inpatient hospital payments up to the aggregate upper
-payment limit for inpatient hospital services after all other medical
-assistance payments, but not to exceed two hundred thirty-five million
-five hundred thousand dollars for the period July first, two thousand
-ten through March thirty-first, two thousand eleven, three hundred
-fourteen million dollars for each state fiscal year beginning April
-first, two thousand eleven, through March thirty-first, two thousand
-thirteen, and no less than three hundred thirty-nine million dollars for
-each state fiscal year thereafter, to general hospitals, other than
-major public general hospitals, providing emergency room services and
-including safety net hospitals, which shall, for the purpose of this
-paragraph, be defined as having either: a Medicaid share of total
-inpatient hospital discharges of at least thirty-five percent, including
-both fee-for-service and managed care discharges for acute and exempt
-services; or a Medicaid share of total discharges of at least thirty
-percent, including both fee-for-service and managed care discharges for
-acute and exempt services, and also providing obstetrical services.
-Eligibility to receive such additional payments shall be based on data
-from the period two years prior to the rate year, as reported on the
-institutional cost report submitted to the department as of October
-first of the prior rate year. Such payments shall be made as medical
-assistance payments for fee-for-service inpatient hospital services
-pursuant to title eleven of article five of the social services law for
-patients eligible for federal financial participation under title XIX of
-the federal social security act and in accordance with the following:
-  * NB Effective until January 1, 2025
-  * Notwithstanding any inconsistent provision of this subdivision or
-any other contrary provision of law and subject to the availability of
-federal financial participation, for each state fiscal year from July
+  (i) (i) Notwithstanding any inconsistent provision of this subdivision
+or any other contrary provision of law and subject to the availability
+of federal financial participation, for each state fiscal year from July
 first, two thousand ten through December thirty-first, two thousand
 twenty-four; and for the calendar year January first, two thousand
 twenty-five through December thirty-first, two thousand twenty-five; and
@@ -7903,7 +7872,6 @@ fee-for-service inpatient hospital services pursuant to title eleven of
 article five of the social services law for patients eligible for
 federal financial participation under title XIX of the federal social
 security act and in accordance with the following:
-  * NB Effective January 1, 2025
   (A) Thirty percent of such payments shall be allocated to safety net
 hospitals based on each eligible hospital's proportionate share of all
 eligible safety net hospitals' Medicaid discharges for inpatient

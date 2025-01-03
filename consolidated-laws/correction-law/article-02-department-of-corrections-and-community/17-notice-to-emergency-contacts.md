@@ -4,10 +4,9 @@
 [Correction Law](../README.md) › [Article 2 — Department of Corrections and Community Supervision](README.md)
 
 ```text
-  * § 17. Notice to emergency contacts. Within twenty-four hours of the
+  § 17. Notice to emergency contacts. Within twenty-four hours of the
 attempted suicide or hospitalization of an incarcerated individual or
 any other individual occurring in the custody of the department, the
 department shall notify the emergency contacts of such incarcerated
 individual or other such individual.
-  * NB Effective December 22, 2024
 ```

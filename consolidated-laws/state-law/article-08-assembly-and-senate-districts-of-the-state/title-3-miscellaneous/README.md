@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [§ 126 Application](126-application.md)
+- [§ 126 Application; senate](126-application-senate.md)
 - [§ 126-A Application; assembly](126a-application-assembly.md)
 - [§ 127 Construction](127-construction.md)
 - [§ 128 Saving clause](128-saving-clause.md)

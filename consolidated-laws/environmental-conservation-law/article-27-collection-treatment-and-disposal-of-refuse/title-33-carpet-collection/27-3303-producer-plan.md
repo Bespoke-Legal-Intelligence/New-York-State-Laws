@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 33 — Carpet Collection Program](README.md)
 
 ```text
-* § 27-3303. Producer plan.
+§ 27-3303. Producer plan.
   1. No later than December thirty-first, two thousand twenty-five, a
 producer, either individually or cooperatively with one or more
 producers, or a representative organization shall submit to the
@@ -76,5 +76,4 @@ encourage municipal landfill and transfer station participation;
   (k) describe the sources of data and methodology for estimating the
 amount of carpet discarded in the state annually; and
   (l) any other information as specified by the department.
-  * NB Effective December 28, 2024
 ```

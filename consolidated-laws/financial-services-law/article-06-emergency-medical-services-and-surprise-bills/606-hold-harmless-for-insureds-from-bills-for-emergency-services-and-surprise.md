@@ -14,9 +14,8 @@ emergency services, including inpatient services which follow an
 emergency room visit, except for any applicable copayment, coinsurance
 or deductible that would be owed if the insured utilized a participating
 provider.
-  * NB Effective until January 1, 2025 and shall remain in effect until
-after the superintendent of financial services and the commissioner of
-health have promulgated regulations
+  * NB Effective until after the superintendent of financial services
+and the commissioner of health have promulgated regulations
   * (b) A non-participating provider shall not bill an insured for
 emergency services, including inpatient services which follow an
 emergency room visit, or for services rendered by a mobile crisis
@@ -24,7 +23,6 @@ intervention services provider licensed, certified, or designated by the
 office of mental health or the office of addiction services and
 supports, except for any applicable copayment, coinsurance or deductible
 that would be owed if the insured utilized a participating provider.
-  * NB Effective January 1, 2025 but shall not take effect until after
-the superintendent of financial services and the commissioner of health
-have promulgated regulations
+  * NB Effective after the superintendent of financial services and the
+commissioner of health have promulgated regulations
 ```

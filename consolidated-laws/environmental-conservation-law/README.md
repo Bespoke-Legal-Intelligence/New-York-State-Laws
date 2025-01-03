@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | ENV |
 | Type | Consolidated law, chapter 43-B |
-| Sections | 1,836 |
-| Last changed | 27 Dec 2024 |
+| Sections | 1,839 |
+| Last changed | 3 Jan 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Environmental Conservation |
 
@@ -29,10 +29,11 @@ An ACT to repeal and reenact chapter forty-three-B of the consolidated
   Jersey and New York and the commonwealth of Pennsylvania in
 ```
 
-[Full chapter text (105 lines)](chapter-text.md)
+[Full chapter text (107 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [3 Jan 2025](../../changes/2025/2025-01-03.md): 26 amended, 3 added
 - [27 Dec 2024](../../changes/2024/2024-12-27.md): 1 amended
 - [20 Dec 2024](../../changes/2024/2024-12-20.md): 4 amended
 - [13 Dec 2024](../../changes/2024/2024-12-13.md): 2 amended
@@ -42,7 +43,6 @@ An ACT to repeal and reenact chapter forty-three-B of the consolidated
 - [6 Sep 2024](../../changes/2024/2024-09-06.md): 1 amended
 - [30 Aug 2024](../../changes/2024/2024-08-30.md): 10 amended
 - [16 Aug 2024](../../changes/2024/2024-08-16.md): 1 amended
-- [5 Jul 2024](../../changes/2024/2024-07-05.md): 14 amended
 
 ## Contents
 
@@ -98,3 +98,4 @@ An ACT to repeal and reenact chapter forty-three-B of the consolidated
 - [Article 72 — Environmental Regulatory Program Fees](article-72-environmental-regulatory-program-fees/)
 - [Article 73 — New York State Canal Flood Mitigation Task Force](article-73-new-york-state-canal-flood-mitigation-task-force/)
 - [Article 75 — Climate Change](article-75-climate-change/)
+- [Article 76 — Climate Change Adaptation Cost Recovery Program](article-76-climate-change-adaptation-cost-recovery-program/)

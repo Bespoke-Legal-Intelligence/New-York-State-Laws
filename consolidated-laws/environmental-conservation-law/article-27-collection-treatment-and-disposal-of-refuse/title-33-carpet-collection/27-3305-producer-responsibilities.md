@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 33 — Carpet Collection Program](README.md)
 
 ```text
-* § 27-3305. Producer responsibilities.
+§ 27-3305. Producer responsibilities.
   1. Beginning not later than July first, two thousand twenty-six, the
 producer or representative organization shall implement the carpet
 collection program utilizing collection sites established pursuant to
@@ -63,5 +63,4 @@ each producer, group of producers or representative organization shall
 submit a report to the department that assesses compliance with
 performance goals and describes any modifications necessary to achieve
 such goals.
-  * NB Effective December 28, 2024
 ```

@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 33 — Carpet Collection Program](README.md)
 
 ```text
-* § 27-3301. Definitions.
+§ 27-3301. Definitions.
   For the purposes of this title, the following terms shall have the
 following meanings:
   1. "Brand" means a name, symbol, word, or mark that attributes the
@@ -80,5 +80,4 @@ the right to use, from a manufacturer or retailer to a person,
 including, but not limited to, transactions conducted through retail
 sales outlets, catalogs, mail, the telephone, the internet, or any
 electronic means; this does not include samples, donations, and reuse.
-  * NB Effective December 28, 2024
 ```
