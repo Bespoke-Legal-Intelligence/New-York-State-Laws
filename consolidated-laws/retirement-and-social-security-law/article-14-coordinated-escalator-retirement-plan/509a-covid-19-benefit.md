@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Retirement and Social Security Law § 509-A", "kind": "section", "law_id": "RSS", "location_id": "509-A", "path": "ARTICLE 14 › SECTION 509-A", "repealed": false, "repealed_date": null, "source": "nys-laws:RSS/509-A.md", "title": "COVID-19 benefit"} -->
+﻿<!-- nyslaw {"citation": "Retirement and Social Security Law § 509-A", "kind": "section", "law_id": "RSS", "location_id": "509-A", "path": "ARTICLE 14 › SECTION 509-A", "repealed": true, "repealed_date": "2025-01-10", "source": "nys-laws:RSS/509-A.md", "title": "COVID-19 benefit"} -->
 # Retirement and Social Security Law § 509-A — COVID-19 benefit
 
 [Retirement and Social Security Law](../README.md) › [Article 14 — Coordinated-escalator Retirement Plan](README.md)
+
+**Repealed** (10 Jan 2025). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 509-a. COVID-19 benefit. a. Notwithstanding any other provision of

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Retirement and Social Security Law § 61-B", "kind": "section", "law_id": "RSS", "location_id": "61-B", "path": "ARTICLE 2 › TITLE 7 › SECTION 61-B", "repealed": false, "repealed_date": null, "source": "nys-laws:RSS/61-B.md", "title": "COVID-19 benefit"} -->
+﻿<!-- nyslaw {"citation": "Retirement and Social Security Law § 61-B", "kind": "section", "law_id": "RSS", "location_id": "61-B", "path": "ARTICLE 2 › TITLE 7 › SECTION 61-B", "repealed": true, "repealed_date": "2025-01-10", "source": "nys-laws:RSS/61-B.md", "title": "COVID-19 benefit"} -->
 # Retirement and Social Security Law § 61-B — COVID-19 benefit
 
 [Retirement and Social Security Law](../../README.md) › [Article 2 — New York State Employees' Retirement System](../README.md) › [Title 7 — Death Benefits and Disability Retirement](README.md)
+
+**Repealed** (10 Jan 2025). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 61-b. COVID-19 benefit. a. Notwithstanding any other provision of

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Education Law § 6907-A", "kind": "section", "law_id": "EDN", "location_id": "6907-A", "path": "TITLE 8 › ARTICLE 139 › SECTION 6907-A", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6907-A.md", "title": "Temporary authorization"} -->
+﻿<!-- nyslaw {"citation": "Education Law § 6907-A", "kind": "section", "law_id": "EDN", "location_id": "6907-A", "path": "TITLE 8 › ARTICLE 139 › SECTION 6907-A", "repealed": true, "repealed_date": "2025-01-10", "source": "nys-laws:EDN/6907-A.md", "title": "Temporary authorization"} -->
 # Education Law § 6907-A — Temporary authorization
 
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 139 — Nursing](README.md)
+
+**Repealed** (10 Jan 2025). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 6907-a. Temporary authorization. 1. (a) A person who is currently

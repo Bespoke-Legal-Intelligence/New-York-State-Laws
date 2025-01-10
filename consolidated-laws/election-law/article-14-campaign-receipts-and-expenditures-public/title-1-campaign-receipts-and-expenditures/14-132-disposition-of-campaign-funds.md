@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Election Law § 14-132", "kind": "section", "law_id": "ELN", "location_id": "14-132", "path": "ARTICLE 14 › TITLE 1 › SECTION 14-132", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/14-132.md", "title": "Disposition of campaign funds"} -->
 # Election Law § 14-132 — Disposition of campaign funds
 
-[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures Public Financing](../README.md) › [Title 1 — Campaign Receipts and Expenditures](README.md)
+[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures; Public Financing](../README.md) › [Title 1 — Campaign Receipts and Expenditures](README.md)
 
 ```text
   § 14-132. Disposition of campaign funds. 1. Upon the death of a

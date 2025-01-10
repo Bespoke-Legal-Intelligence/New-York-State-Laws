@@ -26,7 +26,7 @@ required to collect any tax imposed by this article" until twenty days
 after the date by which such person is required to file a certificate of
 registration pursuant to section eleven hundred thirty-four of this
 part.
-  * NB Effective until April 1, 2023
+  * NB Effective until April 20, 2025
   * (1) "Persons required to collect tax" or "person required to collect
 any tax imposed by this article" shall include: every vendor of tangible
 personal property or services; every recipient of amusement charges;

@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Election Law § 14-212", "kind": "section", "law_id": "ELN", "location_id": "14-212", "path": "ARTICLE 14 › TITLE 2 › SECTION 14-212", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/14-212.md", "title": "Severability"} -->
 # Election Law § 14-212 — Severability
 
-[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures Public Financing](../README.md) › [Title 2 — Public Financing](README.md)
+[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures; Public Financing](../README.md) › [Title 2 — Public Financing](README.md)
 
 ```text
   § 14-212. Severability. If any clause, sentence, or other portion of

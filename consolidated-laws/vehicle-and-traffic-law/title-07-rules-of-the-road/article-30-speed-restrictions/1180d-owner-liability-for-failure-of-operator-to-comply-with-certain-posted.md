@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 1180-D", "kind": "section", "law_id": "VAT", "location_id": "1180-D", "path": "TITLE 7 › ARTICLE 30 › SECTION 1180-D", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/1180-D.md", "title": "Owner liability for failure of operator to comply with certain posted maximum speed limits"} -->
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 1180-D", "kind": "section", "law_id": "VAT", "location_id": "1180-D", "path": "TITLE 7 › ARTICLE 30 › SECTION 1180-D", "repealed": true, "repealed_date": "2025-01-10", "source": "nys-laws:VAT/1180-D.md", "title": "Owner liability for failure of operator to comply with certain posted maximum speed limits"} -->
 # Vehicle and Traffic Law § 1180-D — Owner liability for failure of operator to comply with certain posted maximum speed limits
 
 [Vehicle and Traffic Law](../../README.md) › [Title 7 — Rules of the Road](../README.md) › [Article 30 — Speed Restrictions](README.md)
+
+**Repealed** (10 Jan 2025). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 1180-d. Owner liability for failure of operator to comply with

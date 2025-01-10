@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Cannabis Law § 68-C", "kind": "section", "law_id": "CAN", "location_id": "68-C", "path": "ARTICLE 4 › SECTION 68-C", "repealed": false, "repealed_date": null, "source": "nys-laws:CAN/68-C.md", "title": "Conditional adult-use cultivator license"} -->
+﻿<!-- nyslaw {"citation": "Cannabis Law § 68-C", "kind": "section", "law_id": "CAN", "location_id": "68-C", "path": "ARTICLE 4 › SECTION 68-C", "repealed": true, "repealed_date": "2025-01-10", "source": "nys-laws:CAN/68-C.md", "title": "Conditional adult-use cultivator license"} -->
 # Cannabis Law § 68-C — Conditional adult-use cultivator license
 
 [Cannabis Law](../README.md) › [Article 4 — Adult-use Cannabis](README.md)
+
+**Repealed** (10 Jan 2025). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 68-c. Conditional adult-use cultivator license. 1. A conditional

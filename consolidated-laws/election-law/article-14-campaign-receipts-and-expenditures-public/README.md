@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"kind": "container", "law_id": "ELN", "location_id": "A14", "path": "ARTICLE 14", "source": "nys-laws:ELN/A14.md", "title": "Campaign Receipts and Expenditures Public Financing"} -->
-# Article 14 — Campaign Receipts and Expenditures Public Financing
+﻿<!-- nyslaw {"kind": "container", "law_id": "ELN", "location_id": "A14", "path": "ARTICLE 14", "source": "nys-laws:ELN/A14.md", "title": "Campaign Receipts and Expenditures; Public Financing"} -->
+# Article 14 — Campaign Receipts and Expenditures; Public Financing
 
 [Election Law](../README.md)
 
@@ -13,7 +13,7 @@
 
 ```text
                                ARTICLE 14
-           CAMPAIGN RECEIPTS AND EXPENDITURES PUBLIC FINANCING
+          CAMPAIGN RECEIPTS AND EXPENDITURES; PUBLIC FINANCING
 Title  I. Campaign receipts and expenditures.
       II. Public financing.
 ```

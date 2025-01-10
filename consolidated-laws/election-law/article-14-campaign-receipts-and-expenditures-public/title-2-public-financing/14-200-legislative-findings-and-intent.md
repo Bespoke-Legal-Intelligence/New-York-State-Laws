@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Election Law § 14-200", "kind": "section", "law_id": "ELN", "location_id": "14-200", "path": "ARTICLE 14 › TITLE 2 › SECTION 14-200", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/14-200.md", "title": "Legislative findings and intent"} -->
 # Election Law § 14-200 — Legislative findings and intent
 
-[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures Public Financing](../README.md) › [Title 2 — Public Financing](README.md)
+[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures; Public Financing](../README.md) › [Title 2 — Public Financing](README.md)
 
 ```text
   § 14-200. Legislative findings and intent. The legislature finds that

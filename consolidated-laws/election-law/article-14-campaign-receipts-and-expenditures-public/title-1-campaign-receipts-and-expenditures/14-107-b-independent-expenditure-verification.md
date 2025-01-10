@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Election Law § 14-107-B", "kind": "section", "law_id": "ELN", "location_id": "14-107-B", "path": "ARTICLE 14 › TITLE 1 › SECTION 14-107-B", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/14-107-B.md", "title": "Independent expenditure verification"} -->
 # Election Law § 14-107-B — Independent expenditure verification
 
-[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures Public Financing](../README.md) › [Title 1 — Campaign Receipts and Expenditures](README.md)
+[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures; Public Financing](../README.md) › [Title 1 — Campaign Receipts and Expenditures](README.md)
 
 ```text
   § 14-107-b. Independent expenditure verification. 1. Upon the purchase

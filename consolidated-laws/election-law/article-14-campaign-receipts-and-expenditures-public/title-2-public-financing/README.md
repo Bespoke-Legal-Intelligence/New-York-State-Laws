@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"kind": "container", "law_id": "ELN", "location_id": "A14T2", "path": "ARTICLE 14 › TITLE 2", "source": "nys-laws:ELN/A14T2.md", "title": "Public Financing"} -->
 # Title 2 — Public Financing
 
-[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures Public Financing](../README.md)
+[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures; Public Financing](../README.md)
 
 ## Contents
 

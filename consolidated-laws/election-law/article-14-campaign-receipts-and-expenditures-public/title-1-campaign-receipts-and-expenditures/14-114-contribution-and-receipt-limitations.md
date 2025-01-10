@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Election Law § 14-114", "kind": "section", "law_id": "ELN", "location_id": "14-114", "path": "ARTICLE 14 › TITLE 1 › SECTION 14-114", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/14-114.md", "title": "Contribution and receipt limitations"} -->
 # Election Law § 14-114 — Contribution and receipt limitations
 
-[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures Public Financing](../README.md) › [Title 1 — Campaign Receipts and Expenditures](README.md)
+[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures; Public Financing](../README.md) › [Title 1 — Campaign Receipts and Expenditures](README.md)
 
 ```text
   § 14-114. Contribution and receipt limitations.  1. The following

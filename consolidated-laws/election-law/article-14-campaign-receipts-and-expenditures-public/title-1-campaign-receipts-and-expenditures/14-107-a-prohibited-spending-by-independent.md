@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Election Law § 14-107-A", "kind": "section", "law_id": "ELN", "location_id": "14-107-A", "path": "ARTICLE 14 › TITLE 1 › SECTION 14-107-A", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/14-107-A.md", "title": "Prohibited spending by independent expenditure committees and political action committees"} -->
 # Election Law § 14-107-A — Prohibited spending by independent expenditure committees and political action committees
 
-[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures Public Financing](../README.md) › [Title 1 — Campaign Receipts and Expenditures](README.md)
+[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures; Public Financing](../README.md) › [Title 1 — Campaign Receipts and Expenditures](README.md)
 
 ```text
   § 14-107-a. Prohibited spending by independent expenditure committees

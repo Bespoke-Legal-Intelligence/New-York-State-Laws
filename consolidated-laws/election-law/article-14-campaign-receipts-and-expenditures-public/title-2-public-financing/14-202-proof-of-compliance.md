@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Election Law § 14-202", "kind": "section", "law_id": "ELN", "location_id": "14-202", "path": "ARTICLE 14 › TITLE 2 › SECTION 14-202", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/14-202.md", "title": "Proof of compliance"} -->
 # Election Law § 14-202 — Proof of compliance
 
-[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures Public Financing](../README.md) › [Title 2 — Public Financing](README.md)
+[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures; Public Financing](../README.md) › [Title 2 — Public Financing](README.md)
 
 ```text
   § 14-202. Proof of compliance. Authorized and political committees

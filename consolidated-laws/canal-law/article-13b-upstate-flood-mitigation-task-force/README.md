@@ -3,13 +3,15 @@
 
 [Canal Law](../README.md)
 
+**Repealed.**
+
 ## Contents
 
-- [§ 139 Upstate flood mitigation task force](139-upstate-flood-mitigation-task-force.md)
-- [§ 139-A Definitions](139a-definitions.md)
-- [§ 139-B Task force composition](139b-task-force-composition.md)
-- [§ 139-C Task force duties and powers](139c-task-force-duties-and-powers.md)
-- [§ 139-D Upstate flood mitigation grant program](139d-upstate-flood-mitigation-grant-program.md)
+- [§ 139 Upstate flood mitigation task force](139-upstate-flood-mitigation-task-force.md) *(repealed)*
+- [§ 139-A Definitions](139a-definitions.md) *(repealed)*
+- [§ 139-B Task force composition](139b-task-force-composition.md) *(repealed)*
+- [§ 139-C Task force duties and powers](139c-task-force-duties-and-powers.md) *(repealed)*
+- [§ 139-D Upstate flood mitigation grant program](139d-upstate-flood-mitigation-grant-program.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 13-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

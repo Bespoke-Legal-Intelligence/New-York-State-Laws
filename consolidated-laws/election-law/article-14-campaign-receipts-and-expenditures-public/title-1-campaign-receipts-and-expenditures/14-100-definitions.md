@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Election Law § 14-100", "kind": "section", "law_id": "ELN", "location_id": "14-100", "path": "ARTICLE 14 › TITLE 1 › SECTION 14-100", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/14-100.md", "title": "Definitions"} -->
 # Election Law § 14-100 — Definitions
 
-[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures Public Financing](../README.md) › [Title 1 — Campaign Receipts and Expenditures](README.md)
+[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures; Public Financing](../README.md) › [Title 1 — Campaign Receipts and Expenditures](README.md)
 
 ```text
   § 14-100. Definitions. As used in this article: 1. "political

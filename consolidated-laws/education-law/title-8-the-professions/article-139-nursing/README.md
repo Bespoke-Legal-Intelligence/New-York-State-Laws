@@ -13,7 +13,7 @@
 - [§ 6905 Requirements for a license as a registered professional nurse](6905-requirements-for-a-license-as-a-registered-professional-nurse.md)
 - [§ 6906 Requirements for a license as a licensed practical nurse](6906-requirements-for-a-license-as-a-licensed-practical-nurse.md)
 - [§ 6907 Limited permits](6907-limited-permits.md)
-- [§ 6907-A Temporary authorization](6907a-temporary-authorization.md)
+- [§ 6907-A Temporary authorization](6907a-temporary-authorization.md) *(repealed)*
 - [§ 6908 Exempt persons](6908-exempt-persons.md)
 - [§ 6909 Special provision](6909-special-provision.md)
 - [§ 6910 Certificates for nurse practitioner practice](6910-certificates-for-nurse-practitioner-practice.md)
@@ -37,7 +37,6 @@ Section 6900.   Introduction.
         6906.   Requirements for a license as a licensed practical
                   nurse.
         6907.   Limited permits.
-        6907-a. Temporary authorization.
         6908.   Exempt persons.
         6909.   Special provision.
         6910.   Certificates for nurse practitioner practice.

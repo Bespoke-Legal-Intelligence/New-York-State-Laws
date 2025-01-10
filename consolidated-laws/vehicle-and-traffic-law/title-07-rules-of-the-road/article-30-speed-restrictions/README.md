@@ -10,7 +10,7 @@
 - [§ 1180 Basic rule and maximum limits](1180-basic-rule-and-maximum-limits.md)
 - [§ 1180-A Maximum speed limits](1180a-maximum-speed-limits.md)
 - [§ 1180-B Owner liability for failure of operator to comply with certain posted maximum speed limits](1180b-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md)
-- [§ 1180-D Owner liability for failure of operator to comply with certain posted maximum speed limits](1180d-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md)
+- [§ 1180-D Owner liability for failure of operator to comply with certain posted maximum speed limits](1180d-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md) *(repealed)*
 - [§ 1180-E Owner liability for failure of operator to comply with certain posted maximum speed limits](1180e-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md)
 - [§ 1180-F Owner liability for failure of operator to comply with certain posted maximum speed limits](1180f-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md)
 - [§ 1180-F\*2 Owner liability for failure of operator to comply with certain posted maximum speed limits](1180f-2-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md)
@@ -29,8 +29,6 @@
 Section 1180.     Basic rule and maximum limits.
         1180-a.   Maximum speed limits.
         1180-b.   Owner liability for failure of operator to comply with
-                    certain posted maximum speed limits.
-        1180-d.   Owner liability for failure of operator to comply with
                     certain posted maximum speed limits.
         1180-e.   Owner liability for failure of operator to comply with
                     certain posted maximum speed limits.

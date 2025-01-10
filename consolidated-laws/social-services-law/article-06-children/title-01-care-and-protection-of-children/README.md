@@ -61,7 +61,7 @@
 - [§ 390-H Notice requirement before closing certain day care centers](390h-notice-requirement-before-closing-certain-day-care-centers.md)
 - [§ 390-I Notice of inspection report](390i-notice-of-inspection-report.md)
 - [§ 390-J Performance summary card in a city having a population of one million or more](390j-performance-summary-card-in-a-city-having-a-population-of-one-million.md)
-- [§ 390-K Child care availability taskforce](390k-child-care-availability-taskforce.md)
+- [§ 390-K Child care availability taskforce](390k-child-care-availability-taskforce.md) *(repealed)*
 - [§ 390-L Securing of furniture](390l-securing-of-furniture.md)
 - [§ 390-M Window coverings](390m-window-coverings.md)
 - [§ 391 Violation; injunction](391-violation-injunction.md)
@@ -148,7 +148,6 @@ Section 371.     Definitions.
         390-i.   Notice of inspection report.
         390-j.   Performance summary card in a city having a population
                    of one million or more.
-        390-k.   Child care availability taskforce.
         390-l.   Securing of furniture.
         390-m.   Window coverings.
         391.     Violation; injunction.

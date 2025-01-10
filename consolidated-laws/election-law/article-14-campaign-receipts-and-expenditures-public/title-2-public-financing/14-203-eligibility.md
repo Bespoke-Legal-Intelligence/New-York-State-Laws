@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Election Law § 14-203", "kind": "section", "law_id": "ELN", "location_id": "14-203", "path": "ARTICLE 14 › TITLE 2 › SECTION 14-203", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/14-203.md", "title": "Eligibility"} -->
 # Election Law § 14-203 — Eligibility
 
-[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures Public Financing](../README.md) › [Title 2 — Public Financing](README.md)
+[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures; Public Financing](../README.md) › [Title 2 — Public Financing](README.md)
 
 ```text
   § 14-203. Eligibility. 1. Terms and conditions. To be eligible for

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Canal Law § 139-B", "kind": "section", "law_id": "CAL", "location_id": "139-B", "path": "ARTICLE 13-B › SECTION 139-B", "repealed": false, "repealed_date": null, "source": "nys-laws:CAL/139-B.md", "title": "Task force composition"} -->
+﻿<!-- nyslaw {"citation": "Canal Law § 139-B", "kind": "section", "law_id": "CAL", "location_id": "139-B", "path": "ARTICLE 13-B › SECTION 139-B", "repealed": true, "repealed_date": "2025-01-10", "source": "nys-laws:CAL/139-B.md", "title": "Task force composition"} -->
 # Canal Law § 139-B — Task force composition
 
 [Canal Law](../README.md) › [Article 13-B — Upstate Flood Mitigation Task Force](README.md)
+
+**Repealed** (10 Jan 2025). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 139-b. Task force composition. 1. The task force shall consist of

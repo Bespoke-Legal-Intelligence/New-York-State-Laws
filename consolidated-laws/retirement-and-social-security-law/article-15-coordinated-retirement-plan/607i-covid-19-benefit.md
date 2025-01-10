@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Retirement and Social Security Law § 607-I", "kind": "section", "law_id": "RSS", "location_id": "607-I", "path": "ARTICLE 15 › SECTION 607-I", "repealed": false, "repealed_date": null, "source": "nys-laws:RSS/607-I.md", "title": "COVID-19 benefit"} -->
+﻿<!-- nyslaw {"citation": "Retirement and Social Security Law § 607-I", "kind": "section", "law_id": "RSS", "location_id": "607-I", "path": "ARTICLE 15 › SECTION 607-I", "repealed": true, "repealed_date": "2025-01-10", "source": "nys-laws:RSS/607-I.md", "title": "COVID-19 benefit"} -->
 # Retirement and Social Security Law § 607-I — COVID-19 benefit
 
 [Retirement and Social Security Law](../README.md) › [Article 15 — Coordinated Retirement Plan](README.md)
+
+**Repealed** (10 Jan 2025). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 607-i. COVID-19 benefit. a. Notwithstanding any other provision of

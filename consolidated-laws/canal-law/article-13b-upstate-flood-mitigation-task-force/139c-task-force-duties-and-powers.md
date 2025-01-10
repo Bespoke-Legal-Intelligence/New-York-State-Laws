@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Canal Law § 139-C", "kind": "section", "law_id": "CAL", "location_id": "139-C", "path": "ARTICLE 13-B › SECTION 139-C", "repealed": false, "repealed_date": null, "source": "nys-laws:CAL/139-C.md", "title": "Task force duties and powers"} -->
+﻿<!-- nyslaw {"citation": "Canal Law § 139-C", "kind": "section", "law_id": "CAL", "location_id": "139-C", "path": "ARTICLE 13-B › SECTION 139-C", "repealed": true, "repealed_date": "2025-01-10", "source": "nys-laws:CAL/139-C.md", "title": "Task force duties and powers"} -->
 # Canal Law § 139-C — Task force duties and powers
 
 [Canal Law](../README.md) › [Article 13-B — Upstate Flood Mitigation Task Force](README.md)
+
+**Repealed** (10 Jan 2025). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 139-c. Task force duties and powers. The role of the task force

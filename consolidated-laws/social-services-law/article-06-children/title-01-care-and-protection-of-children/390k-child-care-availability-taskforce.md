@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Social Services Law § 390-K", "kind": "section", "law_id": "SOS", "location_id": "390-K", "path": "ARTICLE 6 › TITLE 1 › SECTION 390-K", "repealed": false, "repealed_date": null, "source": "nys-laws:SOS/390-K.md", "title": "Child care availability taskforce"} -->
+﻿<!-- nyslaw {"citation": "Social Services Law § 390-K", "kind": "section", "law_id": "SOS", "location_id": "390-K", "path": "ARTICLE 6 › TITLE 1 › SECTION 390-K", "repealed": true, "repealed_date": "2025-01-10", "source": "nys-laws:SOS/390-K.md", "title": "Child care availability taskforce"} -->
 # Social Services Law § 390-K — Child care availability taskforce
 
 [Social Services Law](../../README.md) › [Article 6 — Children](../README.md) › [Title 1 — Care and Protection of Children](README.md)
+
+**Repealed** (10 Jan 2025). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 390-k. Child care availability taskforce. 1. There shall be

@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Election Law § 14-106", "kind": "section", "law_id": "ELN", "location_id": "14-106", "path": "ARTICLE 14 › TITLE 1 › SECTION 14-106", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/14-106.md", "title": "Political communication"} -->
 # Election Law § 14-106 — Political communication
 
-[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures Public Financing](../README.md) › [Title 1 — Campaign Receipts and Expenditures](README.md)
+[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures; Public Financing](../README.md) › [Title 1 — Campaign Receipts and Expenditures](README.md)
 
 ```text
   § 14-106. Political communication. 1. The statements required to be

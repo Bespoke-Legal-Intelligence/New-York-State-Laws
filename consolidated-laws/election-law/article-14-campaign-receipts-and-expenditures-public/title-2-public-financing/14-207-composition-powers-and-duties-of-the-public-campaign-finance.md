@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Election Law § 14-207", "kind": "section", "law_id": "ELN", "location_id": "14-207", "path": "ARTICLE 14 › TITLE 2 › SECTION 14-207", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/14-207.md", "title": "Composition, powers, and duties of the public campaign finance board"} -->
 # Election Law § 14-207 — Composition, powers, and duties of the public campaign finance board
 
-[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures Public Financing](../README.md) › [Title 2 — Public Financing](README.md)
+[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures; Public Financing](../README.md) › [Title 2 — Public Financing](README.md)
 
 ```text
   § 14-207. Composition, powers, and duties of the public campaign

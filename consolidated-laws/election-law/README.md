@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | ELN |
 | Type | Consolidated law, chapter 17 |
-| Sections | 455 |
-| Last changed | 3 Jan 2025 |
+| Sections | 455 (2 repealed) |
+| Last changed | 10 Jan 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Election |
 
@@ -31,6 +31,7 @@ of section forty-two of the public officers law and amending such law in
 
 ## Recent changes
 
+- [10 Jan 2025](../../changes/2025/2025-01-10.md): 3 amended, 2 repealed
 - [3 Jan 2025](../../changes/2025/2025-01-03.md): 3 amended
 - [27 Dec 2024](../../changes/2024/2024-12-27.md): 1 amended, 1 added
 - [29 Nov 2024](../../changes/2024/2024-11-29.md): 2 amended, 1 added
@@ -40,7 +41,6 @@ of section forty-two of the public officers law and amending such law in
 - [26 Jul 2024](../../changes/2024/2024-07-26.md): 1 amended
 - [12 Jul 2024](../../changes/2024/2024-07-12.md): 1 amended
 - [5 Jul 2024](../../changes/2024/2024-07-05.md): 1 amended
-- [3 May 2024](../../changes/2024/2024-05-03.md): 1 amended, 2 added
 
 ## Contents
 
@@ -57,7 +57,7 @@ of section forty-two of the public officers law and amending such law in
 - [Article 11 — Special Presidential and Special Federal Voters and Special Ballots](article-11-special-presidential-and-special-federal-voters/)
 - [Article 12 — Presidential Electors and Federal Elected Officers](article-12-presidential-electors-and-federal-elected/)
 - [Article 13 — Annual Political Calendar](article-13-annual-political-calendar/)
-- [Article 14 — Campaign Receipts and Expenditures Public Financing](article-14-campaign-receipts-and-expenditures-public/)
+- [Article 14 — Campaign Receipts and Expenditures; Public Financing](article-14-campaign-receipts-and-expenditures-public/)
 - [Article 15 — Village Elections](article-15-village-elections/)
 - [Article 16 — Judicial Proceedings](article-16-judicial-proceedings/)
 - [Article 17 — Protecting the Elective Franchise](article-17-protecting-the-elective-franchise/)

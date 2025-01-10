@@ -101,7 +101,7 @@ topics:
   * NB Effective June 19, 2025
   * 4. The commissioner shall make any regulations necessary to
 implement this section.
-  * NB Effective until April 1, 2023
+  * NB Effective until June 19, 2025
   * 4. Maternal depression treatment. The commissioner, in consultation
 with the commissioner of mental health, shall:
   (a) inform providers of the need to raise awareness about maternal
@@ -114,5 +114,5 @@ support, not-for-profit corporations and other community resources.
   * NB Effective June 19, 2025
   * 5. The commissioner shall make any regulations necessary to
 implement this section.
-  * NB Effective April 1, 2023
+  * NB Effective June 19, 2025
 ```

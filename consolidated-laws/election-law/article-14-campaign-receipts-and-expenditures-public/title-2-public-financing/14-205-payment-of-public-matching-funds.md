@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Election Law § 14-205", "kind": "section", "law_id": "ELN", "location_id": "14-205", "path": "ARTICLE 14 › TITLE 2 › SECTION 14-205", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/14-205.md", "title": "Payment of public matching funds"} -->
 # Election Law § 14-205 — Payment of public matching funds
 
-[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures Public Financing](../README.md) › [Title 2 — Public Financing](README.md)
+[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures; Public Financing](../README.md) › [Title 2 — Public Financing](README.md)
 
 ```text
   § 14-205. Payment of public matching funds. 1. Determination of

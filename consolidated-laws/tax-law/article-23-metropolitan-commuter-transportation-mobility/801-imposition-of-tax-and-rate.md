@@ -48,19 +48,7 @@ employer agreement with such organization and the payroll expense
 attributable to such organization itself, multiplying each of those
 payroll expense amounts by the applicable rate set forth in this
 paragraph and adding those products together.
-  * (2) (A) For individuals, the tax is imposed at a rate of thirty-four
-hundredths (.34) percent of the net earnings from self-employment of
-individuals that are attributable to the MCTD if such earnings
-attributable to the MCTD, in the counties of Dutchess, Nassau, Orange,
-Putnam, Rockland, Suffolk and Westchester, exceed fifty thousand dollars
-for the tax year.
-  (B) For individuals, the tax is imposed at a rate of forty-seven
-hundredths (.47) percent of the net earnings from self-employment of
-individuals that are attributable to the MCTD, in the counties of Bronx,
-Kings, New York, Queens, and Richmond, if such earnings attributable to
-the MCTD exceed fifty thousand dollars for the tax year.
-  * NB Effective until January 1, 2024
-  * (2) (A) For individuals, the tax is imposed at a rate of thirty-four
+  (2) (A) For individuals, the tax is imposed at a rate of thirty-four
 hundredths (.34) percent of the net earnings from self-employment of
 individuals that are attributable to the MCTD, in the counties of
 Dutchess, Nassau, Orange, Putnam, Rockland, Suffolk, and Westchester, if
@@ -71,7 +59,6 @@ the tax year.
 that are attributable to the MCTD, in the counties of Bronx, Kings, New
 York, Queens, and Richmond, if such earnings attributable to the MCTD
 exceed fifty thousand dollars for the tax year.
-  * NB Effective January 1, 2024
   (b)(1) An individual having net earnings from self-employment from
 activity both within and without the metropolitan commuter
 transportation district is required to allocate and apportion such net

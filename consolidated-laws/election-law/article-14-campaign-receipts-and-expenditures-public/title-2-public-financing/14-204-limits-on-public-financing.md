@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Election Law § 14-204", "kind": "section", "law_id": "ELN", "location_id": "14-204", "path": "ARTICLE 14 › TITLE 2 › SECTION 14-204", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/14-204.md", "title": "Limits on public financing"} -->
 # Election Law § 14-204 — Limits on public financing
 
-[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures Public Financing](../README.md) › [Title 2 — Public Financing](README.md)
+[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures; Public Financing](../README.md) › [Title 2 — Public Financing](README.md)
 
 ```text
   § 14-204. Limits on public financing. The following limitations apply

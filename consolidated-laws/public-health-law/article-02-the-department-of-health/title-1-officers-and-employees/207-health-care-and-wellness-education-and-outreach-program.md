@@ -106,6 +106,7 @@ Association and other professional society practice guidelines. Such
 program shall also include education and outreach on the elimination of
 stigma for people living with drug-induced movement disorders related to
 the treatment of mental health conditions.
+  * NB Effective March 21, 2025
   * NB There are 2 par (h)'s
   (i) About the short term and long term adverse health risks to adults
 and children who become overweight, obese or underweight. The

@@ -14,7 +14,7 @@
 - [§ 361 Accidental death benefit](361-accidental-death-benefit.md)
 - [§ 361-A Special accidental death benefit](361a-special-accidental-death-benefit.md)
 - [§ 361-A\*2 Payment of interest on death benefits and accumulated member contributions](361a-2-payment-of-interest-on-death-benefits.md)
-- [§ 361-B COVID-19 benefit](361b-covid-19-benefit.md)
+- [§ 361-B COVID-19 benefit](361b-covid-19-benefit.md) *(repealed)*
 - [§ 362 Ordinary disability retirement](362-ordinary-disability-retirement.md)
 - [§ 363 Accidental disability retirement](363-accidental-disability-retirement.md)
 - [§ 363-A Firefighters and police officers; certain disabilities](363a-firefighters-and-police-officers-certain.md)
@@ -45,7 +45,6 @@ Section 360.     Ordinary death benefit.
         361-a.   Special accidental death benefit.
         361-a*2. Payment of interest on death benefits and accumulated
                    member contributions.
-        361-b.   COVID-19 benefit.
         362.     Ordinary disability retirement.
         363.     Accidential disability retirement.
         363-a.   Firefighters and police officers; certain disabilities.

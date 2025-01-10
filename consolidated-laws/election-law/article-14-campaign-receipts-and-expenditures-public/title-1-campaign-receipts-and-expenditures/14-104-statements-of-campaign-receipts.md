@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Election Law § 14-104", "kind": "section", "law_id": "ELN", "location_id": "14-104", "path": "ARTICLE 14 › TITLE 1 › SECTION 14-104", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/14-104.md", "title": "Statements of campaign receipts, contributions, transfers and expenditures by and to candidates"} -->
 # Election Law § 14-104 — Statements of campaign receipts, contributions, transfers and expenditures by and to candidates
 
-[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures Public Financing](../README.md) › [Title 1 — Campaign Receipts and Expenditures](README.md)
+[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures; Public Financing](../README.md) › [Title 1 — Campaign Receipts and Expenditures](README.md)
 
 ```text
   § 14-104. Statements of campaign receipts, contributions, transfers

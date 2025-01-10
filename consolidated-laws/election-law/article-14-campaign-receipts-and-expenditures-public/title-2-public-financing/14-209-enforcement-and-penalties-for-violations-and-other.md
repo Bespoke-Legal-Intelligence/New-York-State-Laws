@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Election Law § 14-209", "kind": "section", "law_id": "ELN", "location_id": "14-209", "path": "ARTICLE 14 › TITLE 2 › SECTION 14-209", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/14-209.md", "title": "Enforcement and penalties for violations and other proceedings"} -->
 # Election Law § 14-209 — Enforcement and penalties for violations and other proceedings
 
-[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures Public Financing](../README.md) › [Title 2 — Public Financing](README.md)
+[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures; Public Financing](../README.md) › [Title 2 — Public Financing](README.md)
 
 ```text
   § 14-209. Enforcement and penalties for violations and other

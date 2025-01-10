@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Cannabis Law § 69-A", "kind": "section", "law_id": "CAN", "location_id": "69-A", "path": "ARTICLE 4 › SECTION 69-A", "repealed": false, "repealed_date": null, "source": "nys-laws:CAN/69-A.md", "title": "Conditional adult-use processor license"} -->
+﻿<!-- nyslaw {"citation": "Cannabis Law § 69-A", "kind": "section", "law_id": "CAN", "location_id": "69-A", "path": "ARTICLE 4 › SECTION 69-A", "repealed": true, "repealed_date": "2025-01-10", "source": "nys-laws:CAN/69-A.md", "title": "Conditional adult-use processor license"} -->
 # Cannabis Law § 69-A — Conditional adult-use processor license
 
 [Cannabis Law](../README.md) › [Article 4 — Adult-use Cannabis](README.md)
+
+**Repealed** (10 Jan 2025). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 69-a. Conditional adult-use processor license. 1. A conditional
