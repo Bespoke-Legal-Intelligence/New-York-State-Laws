@@ -4,10 +4,10 @@
 [Insurance Law](../README.md) › [Article 34 — Insurance Contracts-property/casualty](README.md)
 
 ```text
-  * § 3416. Parametric insurance. (a) Except as provided in subsection
-(b) of this section, an insurer that issues a parametric insurance
-policy shall disclose the following information in the application for
-the insurance policy and in a prominent writing upon policy issuance and
+  § 3416. Parametric insurance. (a) Except as provided in subsection (b)
+of this section, an insurer that issues a parametric insurance policy
+shall disclose the following information in the application for the
+insurance policy and in a prominent writing upon policy issuance and
 renewal:
   (1) the policy is not a substitute for property insurance or flood
 insurance, as relevant, which generally provide more comprehensive
@@ -18,5 +18,4 @@ policy.
 pursuant to section two thousand one hundred five of this chapter shall
 provide the disclosures required by subsection (a) of this section on
 behalf of the insurer.
-  * NB Effective January 12, 2025
 ```

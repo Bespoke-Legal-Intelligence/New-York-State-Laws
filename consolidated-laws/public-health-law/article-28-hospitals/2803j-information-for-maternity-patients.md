@@ -45,11 +45,9 @@ including sleep space and sleep position, and discussion on how to
 reduce the risk of infant death through safe sleep practices. The
 information described in this subdivision may take the form of a video
 in lieu of a leaflet.
-  * 1-e. The informational leaflet shall also include information
-related to congenital heart defect births, including treatment
-recommendations, and any other information the commissioner shall deem
-appropriate.
-  * NB Effective January 12, 2025
+  1-e. The informational leaflet shall also include information related
+to congenital heart defect births, including treatment recommendations,
+and any other information the commissioner shall deem appropriate.
   2. Such leaflet shall also include statistics relating to the annual
 percentage of maternity related procedures performed at such hospital or
 birth center, as provided by the commissioner, including but not limited

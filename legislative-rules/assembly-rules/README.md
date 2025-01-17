@@ -17,9 +17,9 @@
 ```text
                           RULES OF THE ASSEMBLY
                         OF THE STATE OF NEW YORK
-                                2023-2024
-  Rules of the Assembly for the years 2023--2024, as adopted by Assembly
-Resolution   number   6  of  2023,  including  the  temporary  emergency
+                                2025-2026
+  Rules of the Assembly for the years 2025--2026, as adopted by Assembly
+Resolution   number   6  of  2025,  including  the  temporary  emergency
 procedures set forth in Assembly Resolution 854  adopted  on  March  30,
 2020, as last amended, and as amended by Assembly Resolution 87 of 2023.
   Permanent  Joint  Rules  of  the  Senate  and  Assembly, as adopted by

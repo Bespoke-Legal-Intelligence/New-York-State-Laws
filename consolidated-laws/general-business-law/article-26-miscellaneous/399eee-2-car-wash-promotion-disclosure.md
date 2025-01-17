@@ -25,5 +25,4 @@ information.
 assessed a civil penalty not to exceed five hundred dollars for each
 violation.
   * NB There are 2 § 399-eee's
-  * NB Effective January 12, 2025
 ```

@@ -97,19 +97,10 @@ other fee required by this subdivision, in the amount of two thousand
 dollars, provided that for any residence applying for both an enhanced
 assisted living certificate and a special needs assisted living
 certificate the amount of such fee shall be three thousand dollars.
-  ** 7. The requirements of this article shall be in addition to those
-required of an adult care facility. In the event of a conflict between
-any provision of this article and a provision of article seven of the
-social services law or a regulation adopted thereunder, the applicable
-provision of this article or the applicable regulation shall supersede
-article seven of the social services law or the applicable regulation
-thereunder to the extent of such conflict.
-  ** NB Effective until January 12, 2025
-  **  7. (a) All assisted living residences, as defined in subdivision
-one of section forty-six hundred fifty-one of this article, including
-those licensed and certified as an assisted living residence, special
-needs assisted living residence, or enhanced assisted living residence,
-shall:
+  7. (a) All assisted living residences, as defined in subdivision one
+of section forty-six hundred fifty-one of this article, including those
+licensed and certified as an assisted living residence, special needs
+assisted living residence, or enhanced assisted living residence, shall:
   (i) report annually on quality measures to be established by the
 department, in consultation with industry and consumer representatives,
 including the long-term care ombudsman or their representative, in the
@@ -152,13 +143,7 @@ department shall report to the legislature on the development of a
 quality scoring system for adult care facilities, including adult homes
 and enriched housing providers. Such report shall examine the specific
 quality measures recommended and a process for information collection.
-  * NB Effective January 12, 2025
-  ** 8. The assisted living operator shall not use deceptive or coercive
-marketing practices to encourage residents or potential residents to
-sign or reauthorize the residency agreement required pursuant to section
-four thousand six hundred fifty-eight of this article.
-  ** NB Effective until January 12, 2025
-  ** 8. (a) Assisted living residences, as defined in subdivision one of
+  8. (a) Assisted living residences, as defined in subdivision one of
 section forty-six hundred fifty-one of this article, including those
 licensed and certified as an assisted living residence, special needs
 assisted living residence, or enhanced assisted living residence, may
@@ -167,20 +152,16 @@ seek accreditation by agencies determined by the commissioner.
 a manner and form as determined by the department, pertaining to those
 assisted living residences accredited by such agencies, and those
 assisted living residences which obtain but lose such accreditation.
-  ** NB Effective January 12, 2025
-  ** 9. The requirements of this article shall be in addition to those
+  9. The requirements of this article shall be in addition to those
 required of an adult care facility. In the event of a conflict between
 any provision of this article and a provision of article seven of the
 social services law or a regulation adopted thereunder, the applicable
 provision of this article or the applicable regulation shall supersede
 article seven of the social services law or the applicable regulation
 thereunder to the extent of such conflict.
-  ** NB Effective January 12, 2025
-  ** 10. The assisted living operator shall not use deceptive or
-coercive marketing practices to encourage residents or potential
-residents to sign or reauthorize the residency agreement required
-pursuant to section four thousand six hundred fifty-eight of this
-article.
-  ** NB Effective January 12, 2025
+  10. The assisted living operator shall not use deceptive or coercive
+marketing practices to encourage residents or potential residents to
+sign or reauthorize the residency agreement required pursuant to section
+four thousand six hundred fifty-eight of this article.
   * NB There are 2 § 4656's
 ```
