@@ -138,7 +138,7 @@ schedule a permanency hearing pursuant to article ten-A of the family
 court act for a date certain not more than eight months after the
 placement of the child into foster care. Such date certain shall be
 included in the order approving the instrument.
-  * (c) (i) Subject to the provisions of subparagraph (ii) of this
+  (c) (i) Subject to the provisions of subparagraph (ii) of this
 paragraph, the court shall also maintain jurisdiction over a case for
 the purposes of hearing and deciding a motion brought by a former foster
 care youth, as defined in article ten-B of the family court act, or by a
@@ -177,7 +177,6 @@ permanency plan or discharge plan, to receive residential services which
 are reasonably expected to continue for at least twelve months,
 including a congregate living arrangement which houses more than ten
 unrelated persons, shall constitute stable housing.
-  * NB Effective January 20, 2025
   (3) Disposition of petition. (a) If the court is satisfied that the
 parent, parents or guardian executed such instrument knowingly and
 voluntarily and because he or she would be unable to make adequate
