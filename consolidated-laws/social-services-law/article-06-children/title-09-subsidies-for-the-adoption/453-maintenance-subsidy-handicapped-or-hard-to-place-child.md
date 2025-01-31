@@ -56,8 +56,7 @@ obligation to support the child and to notify the social services
 official if the adoptive parents are no longer providing any support of
 the child or are no longer legally responsible for the support of the
 child.
-  * NB Effective until 90 days following the date that USDHHS approves a
-title IV-E state plan followed by OCFS notification
+  * NB Effective until March 21, 2025
   * (c) No payments may be made pursuant to this subdivision if the
 social services official determines that the adoptive parents are no
 longer legally responsible for the support of the child or the child is
@@ -72,8 +71,7 @@ means (A) the child has become legally emancipated, married or joined
 the military; (B) a court has ruled that the adoptive parent is no
 longer legally responsible for the support of the child; or (C) the
 adoption is no longer legally valid by operation of law.
-  * NB Effective 90 days following the date that USDHHS approves a title
-IV-E state plan followed by OCFS notification
+  * NB Effective March 21, 2025
   * (c-1) The social services official on an annual basis shall:
   (i) require adoptive parents to certify that they are fulfilling their
 obligations pursuant to any adoption subsidy agreement entered into in
@@ -91,8 +89,7 @@ responsible for the support of the child; and
 been granted physical custody of the child; (II) another person has been
 appointed guardian for the child; or (III) the child no longer resides
 with the adoptive parents.
-  * NB Effective 90 days following the date that USDHHS approves a title
-IV-E state plan followed by OCFS notification
+  * NB Effective March 21, 2025
   * (c-2) (i) If the adoptive parents fail to respond to an annual
 certification notice within thirty days of the receipt of the
 certification notice from the social services official or the social
@@ -113,58 +110,58 @@ parent.
   (ii) The adoptive parents shall be given an opportunity to respond to
 the notice. Upon receiving confirmation that the parents continue to
 meet their legal obligations to provide support to the child, the
-department will take no further action to reduce, suspend, or terminate
-the subsidy. If the parents fail to confirm that they continue to meet
-their legal obligations to provide support to the child, the social
-services official shall review all available information in order to
-confirm the parents' continued eligibility to receive the subsidy.
+department will take no further action to terminate the subsidy. If the
+parents fail to confirm that they continue to meet their legal
+obligations to provide support to the child, the social services
+official shall review all available information in order to confirm the
+parents' continued eligibility to receive the subsidy.
   (iii) If the child is not in foster care and, based on a review of the
 available information, the social services official determines that the
 adoptive parents are no longer legally responsible for the support of
 the child or that the child is no longer receiving any support from the
 adoptive parents, the social services official shall terminate the
-assistance provided to the adoptive parents pursuant to this section.
-The adoptive parents may appeal the termination of assistance to the
-department in accordance with section twenty-two of this chapter.
+subsidy provided to the adoptive parents pursuant to this section. The
+adoptive parents may appeal the termination of subsidy to the department
+in accordance with section twenty-two of this chapter.
   (iv) If the child is in foster care and the social services official
 determines that the child is no longer receiving any support from the
-adoptive parents, the social services official may reduce, suspend, or
-terminate the assistance provided to the adoptive parents pursuant to
-this section. The adoptive parents may appeal the termination of
-assistance to the department in accordance with section twenty-two of
-this chapter. If assistance is reduced, suspended or terminated pursuant
-to this paragraph and the child is returned from foster care to the care
-of the adoptive parents, the social services official shall resume
-assistance effective from the date when the child was returned to the
-adoptive parent's care.
-  * NB Effective 90 days following the date that USDHHS approves a title
-IV-E state plan followed by OCFS notification
+adoptive parents, the social services official shall terminate the
+subsidy provided to the adoptive parents pursuant to this section. The
+adoptive parents may appeal the termination of subsidy to the department
+in accordance with section twenty-two of this chapter.
+  ** (v) If a subsidy is terminated pursuant to this paragraph and the
+child is returned from foster care to the care of the adoptive parents,
+the social services official shall resume such subsidy effective from
+the date when the child was returned to the adoptive parent's care.
+  ** NB Effective 90 days following the date that USDHHS approves a
+title IV-E state plan followed by OCFS notification
+  * NB Effective March 21, 2025
   * (c-3) If the social services official terminates the adoption
-assistance provided to adoptive parents pursuant to paragraph (c-2) of
-this subdivision and the child resides with another person who has been
+subsidy provided to adoptive parents pursuant to paragraph (c-2) of this
+subdivision and the child resides with another person who has been
 granted physical custody or appointed as guardian of the child, the
-social services official shall enter into a written agreement to make
-adoption assistance payments to the custodian or guardian; provided,
+social services official shall, pursuant to a written agreement, make
+adoption subsidy payments to the custodian or guardian; provided,
 however, that no person shall receive an adoption subsidy payment for
 any child for whom they previously had parental rights which were
 terminated pursuant to a proceeding under section three hundred
 eighty-four-b of this article or for whom they previously had parental
 rights which were surrendered pursuant to a written instrument executed
-in accordance with section three hundred eighty-three-c of this article.
-Such payments shall be made retroactive from the termination of
-assistance to the adoptive parents pursuant to paragraph (c-2) of this
-subdivision and shall be made until the child's twenty-first birthday. A
-custodian or guardian who receives adoption assistance payments pursuant
-to this paragraph shall be subject to the same requirements that apply
-to adoptive parents under this section.
+in accordance with sections three hundred eighty-three-c of or three
+hundred eighty-four this article. Such payments shall be made
+retroactive from the termination of subsidy to the adoptive parents
+pursuant to paragraph (c-2) of this subdivision and shall be made until
+the child's twenty-first birthday. A custodian or guardian who receives
+adoption subsidy payments pursuant to this paragraph shall be subject to
+the same requirements that apply to adoptive parents under this section.
   * NB Effective 90 days following the date that USDHHS approves a title
 IV-E state plan followed by OCFS notification
   * (c-4) If the social services official terminates the adoption
-assistance provided to adoptive parents pursuant to paragraph (c-2) of
-this subdivision after the eighteenth birthday and before the
-twenty-first birthday of the adopted child, and no person other than the
-adoptive parents has legal custody or guardianship of the child, the
-social services official shall make payments to the child:
+subsidy provided to adoptive parents pursuant to paragraph (c-2) of this
+subdivision after the eighteenth birthday and before the twenty-first
+birthday of the adopted child, and no person other than the adoptive
+parents has legal custody or guardianship of the child, the social
+services official shall make payments to the child:
   (i) through direct payments to the child, if the social services
 official determines the child demonstrates the ability to manage such
 direct payments; or
@@ -267,7 +264,7 @@ title IV-E state plan followed by OCFS notification
   * (B) If the twenty-first birthday of the child occurs while awaiting
 the certification of a representative payee, the child shall be entitled
 to retroactive direct payment of subsidy payments since the death of the
-adoptive parent or parents or the termination of assistance to the
+adoptive parent or parents or the termination of the subsidy to the
 adoptive parent or parents pursuant to paragraph (c-2) of this
 subdivision after the eighteenth birthday of the child.
   * NB Effective 90 days following the date that USDHHS approves a title

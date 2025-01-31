@@ -14,7 +14,7 @@
 - [§ 815 Suggested standards for apprenticeship agreements](815-suggested-standards-for-apprenticeship-agreements.md)
 - [§ 816 Apprenticeship agreements](816-apprenticeship-agreements.md)
 - [§ 816-A Apprenticeship assistance in all political subdivisions of the state](816a-apprenticeship-assistance-in-all-political-subdivisions-of-the-state.md)
-- [§ 816-B Apprenticeship participation on construction contracts](816b-apprenticeship-participation-on-construction-contracts.md)
+- [§ 816-B Apprenticeship participation on certain governmental contracts](816b-apprenticeship-participation-on-certain-governmental-contracts.md)
 - [§ 817 Limitation](817-limitation.md)
 - [§ 818 Separability](818-separability.md)
 - [§ 819 Training of persons in the repair and reconditioning of slot machines](819-training-of-persons-in-the-repair-and-reconditioning-of-slot-machines.md)

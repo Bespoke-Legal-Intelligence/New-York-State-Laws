@@ -66,27 +66,57 @@ eighty-five percent of the state median income. Such child day care
 shall recognize the need for continuity of care for the child and a
 district shall not move a child from an existing provider unless the
 participant consents to such move.
-  3-a. A local social services district shall utilize a presumptive
-eligibility standard to provide child care assistance, in accordance
-with this subdivision. The office of children and family services shall
-issue guidance regarding the preliminary eligibility criteria to be used
-by local social services districts utilizing a presumptive eligibility
-standard.
-  (a) A local social services district shall, upon receipt of an
-application for child care assistance, including all completed
-documentation required by the district, complete a preliminary
+  * 3-a. A local social services district may, upon notification to the
+office, utilize a presumptive eligibility standard to provide child care
+assistance, in accordance with this subdivision. The office of children
+and family services shall issue guidance regarding the preliminary
+eligibility criteria to be used by local social services districts
+utilizing a presumptive eligibility standard.
+  (a) A local social services district opting to utilize a presumptive
+eligibility standard, shall, upon receipt of an application for child
+care assistance, including all completed documentation required by the
+district, complete a preliminary eligibility determination.
+  (b) If the family meets the preliminary eligibility criteria, the
+family shall be presumed eligible for child care assistance for the
+period from the date of the application to the date of the final
 eligibility determination.
+  (c) If, upon final determination, a family is determined to be
+eligible for child care assistance under subdivision one or four of this
+section, the social services district may utilize child care block grant
+funds for the presumptive eligibility period.
+  (d) If, upon final determination, a family is determined to be
+ineligible for child care assistance under subdivision one or four of
+this section, the social services district must utilize local funds for
+the presumptive eligibility period.
+  (e) If, upon final determination, the application for child care
+services is denied, the social services district shall send written
+notice to the applicant of the determination of ineligibility and of the
+applicant's right to a fair hearing in accordance with the regulations
+of the office.
+  * NB Effective until June 9, 2025
+  * 3-a. A local social services district may, upon notification to the
+office, utilize a presumptive eligibility standard to provide child care
+assistance, in accordance with this subdivision. The office of children
+and family services shall issue guidance regarding the preliminary
+eligibility criteria to be used by local social services districts
+utilizing a presumptive eligibility standard.
+  (a) A local social services district opting to utilize a presumptive
+eligibility standard, shall, upon receipt of an application for child
+care assistance, including all completed documentation required by the
+district, complete a preliminary eligibility determination.
   (b) If the family meets the preliminary eligibility criteria, the
 family shall be presumed eligible for child care assistance for the
 period from the date of the application to the date of the final
 eligibility determination.
   (c) A local social services district may utilize child care block
-grant funds for the presumptive eligibility period.
+grant funds for the presumptive eligibility period to the extent
+permitted by federal law.
   (d) If, upon final determination, the application for child care
 services is denied, the social services district shall send written
 notice to the applicant of the determination of ineligibility and of the
 applicant's right to a fair hearing in accordance with the regulations
 of the office.
+  * NB Effective June 9, 2025
   4. (a) Local social services districts shall guarantee applicants who
 would otherwise be eligible for, or are recipients of, public assistance
 benefits and who are employed, the option to choose to receive
