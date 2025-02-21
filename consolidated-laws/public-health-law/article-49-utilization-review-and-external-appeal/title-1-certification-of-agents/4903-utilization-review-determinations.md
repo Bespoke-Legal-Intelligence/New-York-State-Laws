@@ -125,16 +125,16 @@ three-a of this section.
 overridden, the health plan shall authorize immediate coverage for the
 prescription drug or drugs prescribed by the enrollee's treating health
 care professional.
-  * NB Effective until April 20, 2025
+  * NB Effective until January 1, 2026
   * 3-c. Upon a determination that the step therapy protocol should be
-overridden, the health plan shall authorize immediate coverage for the
-prescription drug or drugs prescribed by the enrollee's treating health
-care professional. Any approval of a step therapy protocol override
-determination request shall be honored until the lesser of either
-treatment duration based on current evidence-based treatment guidelines
-or twelve months following the date of the approval of the request or
-renewal of the enrollee's coverage.
-  * NB Effective April 20, 2025
+overridden, the health care plan shall authorize immediate coverage for
+the prescription drug or drugs prescribed by the enrollee's treating
+health care professional. Any approval of a step therapy protocol
+override determination request shall be honored until the lesser of
+either treatment duration based on current evidence-based treatment
+guidelines or twelve months following the date of the approval of the
+request or renewal of the enrollee's coverage.
+  * NB Effective January 1, 2026
   4. A utilization review agent shall make a utilization review
 determination involving health care services which have been delivered
 within thirty days of receipt of the necessary information.

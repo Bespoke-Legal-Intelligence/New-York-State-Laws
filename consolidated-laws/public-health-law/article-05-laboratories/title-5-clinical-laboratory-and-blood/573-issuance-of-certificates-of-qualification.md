@@ -6,12 +6,13 @@
 ```text
   § 573. Issuance of certificates of qualification. 1. The department
 shall issue a certificate of qualification to any person who meets
-prescribed minimum qualifications under federal regulations, including
-board certification as required and who otherwise demonstrates to the
-department that such person possesses the character, competence,
-training and ability to administer properly the technical and scientific
-operation of a clinical laboratory or blood bank, including supervision
-of procedures and reporting of findings of tests.
+minimum qualifications, prescribed by the department and in accordance
+with federal regulations, including board certification as required, and
+who otherwise demonstrates to the department that such person possesses
+the character, competence, training and ability to administer properly
+the technical and scientific operation of a clinical laboratory or blood
+bank, including supervision of procedures and reporting of findings of
+tests.
   2. Application for a certificate of qualification shall be made on
 forms provided by the department and such other information as the
 department may require.

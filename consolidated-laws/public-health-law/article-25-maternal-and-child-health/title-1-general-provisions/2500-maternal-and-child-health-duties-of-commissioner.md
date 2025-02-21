@@ -17,17 +17,62 @@ available.
 with established and accepted medical principles for local maternal and
 child health services administered by or under the general supervision
 of the commissioner.
-  3. In conjunction with the state department having general
+  * 3. In conjunction with the state department having general
 supervision, the commissioner may make or may cause to be made
 investigation of the conditions affecting the health of children in
 institutions for day care or domiciliary care. If he shall find any
 conditions detrimental to health in such institutions, he shall make and
 report recommendations thereon to the appropriate state department.
-  4. The commissioner shall cooperate with other state departments
+  * NB Effective until June 16, 2025
+  * 3. a. The commissioner shall, in conjunction with hospitals,
+obstetricians, midwives, doulas, maternal health care provider
+organizations; mental health care provider organizations; and any
+additional stakeholders that the commissioner deems necessary, evaluate
+and make recommendations related to the development of maternal health
+care and birthing best practices which support each patient receiving
+the highest quality of care. These recommendations shall include, but
+not be limited to, best practices for every patient to receive:
+  (i) fair, courteous and respectful culturally competent care free of
+discrimination;
+  (ii) accurate and judgment-free advice and recommendations that allow
+for informed decision making and consent regarding care and treatment,
+including risks, benefits, outcomes and alternative procedures;
+  (iii) clear, concise and easily understood information about their
+care and treatment outcomes, medical team and birthing options, the
+policies and procedures of the hospital or birthing center, and
+resources available to them;
+  (iv) an opportunity to discuss their birthing preferences with their
+care team and have such preferences documented; and
+  (v) adequate support during their pregnancy, labor and childbirth,
+including access to doula and mental health services.
+  b. No later than one year after the effective date of this subdivision
+the commissioner shall publish such recommendations on the department of
+health's website and update all relevant materials provided to the
+public through the department to reflect these standards. Such
+recommendations shall be updated at least once after publishing and as
+necessary thereafter.
+  * NB Effective June 16, 2025
+  * 4. The commissioner shall cooperate with other state departments
 having jurisdiction over matters affecting the health of mothers and
 children, to the end that existing activities may be coordinated and
 duplication of effort avoided. He shall cooperate with and stimulate
 local agencies, public and private, in promoting such measures and
 undertakings as may be designed to accomplish the purposes of this
 section.
+  * NB Effective until June 16, 2025
+  * 4. In conjunction with the state department having general
+supervision, the commissioner may make or may cause to be made
+investigation of the conditions affecting the health of children in
+institutions for day care or domiciliary care. If he shall find any
+conditions detrimental to health in such institutions, he shall make and
+report recommendations thereon to the appropriate state department.
+  * NB Effective June 16, 2025
+  * 5. The commissioner shall cooperate with other state departments
+having jurisdiction over matters affecting the health of mothers and
+children, to the end that existing activities may be coordinated and
+duplication of effort avoided. He shall cooperate with and stimulate
+local agencies, public and private, in promoting such measures and
+undertakings as may be designed to accomplish the purposes of this
+section.
+  * NB Effective June 16, 2025
 ```

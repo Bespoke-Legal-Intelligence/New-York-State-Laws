@@ -14,6 +14,7 @@
 - [§ 120.60 Warrant of arrest; what police officers may execute](120.60-warrant-of-arrest-what-police-officers.md)
 - [§ 120.70 Warrant of arrest; where executable](120.70-warrant-of-arrest-where-executable.md)
 - [§ 120.80 Warrant of arrest; when and how executed](120.80-warrant-of-arrest-when-and-how.md)
+- [§ 120.85 Child-sensitive arrests](120.85-child-sensitive-arrests.md)
 - [§ 120.90 Warrant of arrest; procedure after arrest](120.90-warrant-of-arrest-procedure-after.md)
 
 <details>
@@ -34,6 +35,7 @@ Section 120.10 Warrant of arrest; definition, function, form and
         120.60 Warrant of arrest; what police officers may execute.
         120.70 Warrant of arrest; where executable.
         120.80 Warrant of arrest; when and how executed.
+        120.85 Child-sensitive arrests.
         120.90 Warrant of arrest; procedure after arrest.
 ```
 

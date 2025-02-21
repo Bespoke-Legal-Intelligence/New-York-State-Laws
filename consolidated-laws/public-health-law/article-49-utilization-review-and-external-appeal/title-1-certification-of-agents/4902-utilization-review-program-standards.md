@@ -142,38 +142,40 @@ appropriate for the enrollee and the enrollee's medical condition.
   * 5. When establishing a step therapy protocol, a utilization review
 agent shall ensure that the protocol cannot:
   (a) require a prescription drug that has not been approved by the
-United States Food and Drug Administration and/or is not supported by
-current evidence-based guidelines for the medical condition being
-treated;
-  (b) require an enrollee to try and fail on more than two drugs within
-one therapeutic category before providing coverage to the insured for
-the prescribed drug;
+United States Food and Drug Administration for the medical condition
+being treated or is not supported by current evidence-based guidelines
+for the medical condition being treated;
+  (b) require an enrollee to try and fail on more than two drugs used to
+treat the same medical condition or disease before providing coverage to
+the enrollee for the prescribed drug;
   (c) require the use of a step therapy-required drug for longer than
 thirty days or a duration of treatment supported by current
 evidence-based treatment guidelines appropriate to the specific disease
 state being treated;
   (d) be imposed on an enrollee if a therapeutic equivalent to the
-prescribed drug is not available; or if the health plan has
+prescribed drug is not available; or if the health care plan has
 documentation that it has covered the drug for the enrollee within the
 past three hundred sixty-five days;
-  (e) require a newly enrolled enrollee to repeat step therapy for a
-prescribed drug where that enrollee already completed step therapy for
-that drug under a prior plan, so long as the enrollee or provider submit
-information demonstrating completion of a step therapy protocol of the
-prior plan within the past three hundred sixty-five days; and
+  (e) require a newly enrolled enrollee to repeat a step therapy
+protocol for a prescribed drug where that enrollee already completed a
+step therapy protocol for that drug under a prior health care plan, so
+long as the enrollee or provider submits information demonstrating
+completion of a step therapy protocol of the prior health care plan
+within the past three hundred sixty-five days; and
   (f) be imposed on an enrollee for a prescribed drug that was
-previously approved for coverage by a plan for a specific medical
-condition after the enrollee's plan implements a formulary or
-utilization management change that impacts the coverage criteria for the
-prescribed drug until the approved override expires, unless a
-specifically identified and evidence-based safety concern exists and a
-different therapeutic alternative drug exists.
-  * NB Effective April 20, 2025
+previously approved for coverage by the enrollee's current health care
+plan for the enrollee's specific medical condition after the enrollee's
+current health care plan implements a formulary or utilization
+management change that impacts the coverage criteria for the prescribed
+drug until the approved override expires, unless a specifically
+identified and evidence-based safety concern exists and a different
+therapeutic alternative drug exists.
+  * NB Effective January 1, 2026
   * 6. When establishing a step therapy protocol, a utilization review
 agent shall ensure that the protocol accepts any written or electronic
-attestation submitted by the enrollee's health care professional as
-defined in section forty-nine hundred of this title stating that a
-required drug has failed as prima facie evidence that the required drug
-has failed.
-  * NB Effective April 20, 2025
+attestation submitted by the enrollee's health care professional, as
+defined in section forty-nine hundred of this title, who prescribed the
+drug and stating that a required drug has failed, as evidence that the
+required drug has failed.
+  * NB Effective January 1, 2026
 ```

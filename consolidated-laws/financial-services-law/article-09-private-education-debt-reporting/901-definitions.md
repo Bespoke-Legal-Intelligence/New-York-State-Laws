@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Financial Services Law § 901", "kind": "section", "law_id": "FIS", "location_id": "901", "path": "ARTICLE 9 › SECTION 901", "repealed": false, "repealed_date": null, "source": "nys-laws:FIS/901.md", "title": "Definitions"} -->
+# Financial Services Law § 901 — Definitions
+
+[Financial Services Law](../README.md) › [Article 9 — Private Education Debt Reporting](README.md)
+
+```text
+  § 901. Definitions. As used in this article:
+  1. "Higher education" means higher education or career education, as
+those terms are defined in section two of the education law, via
+correspondence, online, or in person, regardless of whether the provider
+of such higher education is located within New York state.
+  2. "Higher education expense" means any expense that is incurred by a
+consumer arising from higher education.
+  3. "Student loan servicer" has the same meaning as such term is
+defined in subdivision six of section seven hundred ten of the banking
+law.
+  4. "Private education creditor" means any person engaged in the
+business of extending a private education debt.
+  5. "Private education debt" means an extension of credit to or debt or
+obligation owed or incurred by a consumer, contractual or otherwise,
+that:
+  (a) is not made, insured, or guaranteed under Title IV of the Higher
+Education Act of 1965 (20 U.S.C. s.1070 et seq.);
+  (b) is extended to a consumer expressly, in whole or in part, for, or
+accrues from nonpayment of, higher education expenses, regardless of
+whether the credit or debt or obligation is owed to a provider of higher
+education; and
+  (c) is not a loan that is secured by real property or a dwelling.
+  "Private education debt" shall include extensions of credit or debt or
+obligations owed or incurred to refinance a private education debt.
+  6. "Provider of higher education" means a person engaged in providing
+or offering to provide higher education.
+```

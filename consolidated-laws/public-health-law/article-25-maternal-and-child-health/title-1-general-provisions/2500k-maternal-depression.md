@@ -20,7 +20,7 @@ acting within his or her lawful scope of practice, attending a pregnant
 woman or a woman up to one year after childbirth, including a
 practitioner attending the woman's child up to one year after
 childbirth.
-  * NB Effective until June 19, 2025
+  * NB Effective until June 21, 2026
   * 1. Definitions. As used in this section:
   (a) "Maternal depression" means a wide range of emotional and
 psychological reactions an individual may experience throughout
@@ -36,7 +36,7 @@ practitioner, or physician assistant, or other health care practitioner
 acting within his or her lawful scope of practice, attending a perinatal
 individual, including any practitioner attending the individual's child,
 from conception up to one year postpartum.
-  * NB Effective June 19, 2025
+  * NB Effective June 21, 2026
   2. Maternal depression information. (a) The commissioner, in
 consultation with the commissioner of mental health, shall make
 available to maternal health care providers information on maternal
@@ -65,13 +65,14 @@ health's websites regarding how to locate available providers who treat
 or provide support for maternal depression including, but not limited
 to, mental health professionals, other licensed professionals, peer
 support, not-for-profit corporations and other community resources.
-  * NB Effective until June 19, 2025
+  * NB Effective until June 21, 2026
   * 3. Maternal depression screenings. (a) The commissioner, in
-consultation with the office of mental health, and other relevant
-stakeholders, shall develop and publish guidance and standards for
-incorporating maternal depression screenings into routine perinatal
-care. This guidance shall include, but not be limited to,
-recommendations and best practices related to:
+consultation with the office of mental health, the office of addiction
+services and supports, and other relevant stakeholders as determined by
+the commissioner, shall publish guidance for incorporating maternal
+depression screenings into routine perinatal care. This guidance shall
+include, but not be limited to, recommendations and best practices
+related to:
   (i) when maternal health care providers should initiate maternal
 depression screenings and how often such screenings should be repeated
 throughout pregnancy and the postpartum period;
@@ -84,12 +85,13 @@ healthcare;
 treatment; and
   (v) reimbursement methodologies to incentivize provider participation.
   (b) The commissioner, in consultation with the office of mental
-health, and other relevant stakeholders, shall identify existing
-information and training programs designed to support maternal
-depression screening and treatment, and publish the links to such
-information and training programs on the department's website. The
-identified information and training programs shall include the following
-topics:
+health, the office of addiction services and supports, and other
+relevant stakeholders as determined by the commissioner, shall identify
+existing information and training programs designed to inform providers
+in an effort to promote maternal depression screening and treatment, and
+publish the links to such information and training programs on the
+department's website. The identified information and training programs
+shall include the following topics:
   (i) health equity;
   (ii) implicit bias and cultural competency;
   (iii) screening, referral and treatment options;
@@ -98,10 +100,10 @@ topics:
   (vi) pharmacotherapy;
   (vii) trauma-informed, patient-centered care; and
   (viii) other topics as identified by the commissioner.
-  * NB Effective June 19, 2025
+  * NB Effective June 21, 2026
   * 4. The commissioner shall make any regulations necessary to
 implement this section.
-  * NB Effective until June 19, 2025
+  * NB Effective until June 21, 2026
   * 4. Maternal depression treatment. The commissioner, in consultation
 with the commissioner of mental health, shall:
   (a) inform providers of the need to raise awareness about maternal
@@ -111,8 +113,8 @@ health's websites regarding how to locate available providers who treat
 or provide support for maternal depression including, but not limited
 to, mental health professionals, other licensed professionals, peer
 support, not-for-profit corporations and other community resources.
-  * NB Effective June 19, 2025
+  * NB Effective June 21, 2026
   * 5. The commissioner shall make any regulations necessary to
 implement this section.
-  * NB Effective June 19, 2025
+  * NB Effective June 21, 2026
 ```

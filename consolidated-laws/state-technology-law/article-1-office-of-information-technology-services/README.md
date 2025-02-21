@@ -15,6 +15,7 @@
 - [§ 103-C State agency websites; mobile friendly websites](103c-state-agency-websites-mobile-friendly-websites.md)
 - [§ 103-C\*2 Cloud computing](103c-2-cloud-computing.md)
 - [§ 103-D Website accessibility; state agencies](103d-website-accessibility-state-agencies.md)
+- [§ 103-E Artificial intelligence (AI) inventory](103e-artificial-intelligence-ai-inventory.md)
 - [§ 104 Advisory council for technology](104-advisory-council-for-technology.md)
 - [§ 105 Functions, powers and duties of the council](105-functions-powers-and-duties-of-the-council.md)
 - [§ 106 Responsibility to respond to the freedom of information law for certain data](106-responsibility-to-respond-to-the-freedom-of-information-law-for-certain-data.md)
@@ -37,6 +38,7 @@ Section 101.     Definitions.
         103-c.   State agency websites; mobile friendly websites.
         103-c*2. Cloud computing.
         103-d.   Website accessibility; state agencies.
+        103-e.   Artificial intelligence (AI) inventory.
         104.     Advisory council for technology.
         105.     Functions, powers and duties of the council.
         106.     Responsibility to respond to the freedom of information

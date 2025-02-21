@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Elder Law § 245", "kind": "section", "law_id": "ELD", "location_id": "245", "path": "ARTICLE 2 › TITLE 3 › SECTION 245", "repealed": false, "repealed_date": null, "source": "nys-laws:ELD/245.md", "title": "Information regarding the home energy assistance program for program participants"} -->
+# Elder Law § 245 — Information regarding the home energy assistance program for program participants
+
+[Elder Law](../../README.md) › [Article 2 — Programs For the Elderly](../README.md) › [Title 3 — Program For Elderly Pharmaceutical Insurance Coverage](README.md)
+
+```text
+  * § 245. Information regarding the home energy assistance program for
+program participants. 1. For the purposes of this section, the following
+terms shall have the following meanings:
+  (a) "OTDA" shall mean the state office of temporary and disability
+assistance.
+  (b) "Home energy assistance program" or "HEAP" shall mean the
+low-income home energy assistance program implemented pursuant to
+section ninety-seven of the social services law.
+  2. The department of health shall notify program participants and
+provide information regarding eligibility and how to apply for the home
+energy assistance program. Such information shall be provided with each
+elderly pharmaceutical insurance coverage paper application that is
+distributed and also annually to all program participants.
+  3. The department of health shall consult with OTDA and the office on
+the development of the notification to program participants referenced
+in subdivision two of this section.
+  4. If a participant's household applies for and is enrolled in the
+home energy assistance program, the applicable local social services
+district shall provide written notification and information to the
+participant's household in accordance with OTDA regulations.
+  5. OTDA and the department of health, in consultation with each other,
+are authorized to promulgate any rules and regulations necessary to
+carry out the provisions of this section.
+  * NB Effective June 19, 2025
+```

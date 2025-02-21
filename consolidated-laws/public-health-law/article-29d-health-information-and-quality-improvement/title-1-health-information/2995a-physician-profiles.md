@@ -85,14 +85,14 @@ program or any other state or federally financed health insurance
 program; and
   * (q) health care plans with which the licensee has contracts,
 employment, or other affiliation.
-  * NB Effective until March 13, 2025
+  * NB Effective until September 13, 2025
   * (q) health care plans with which the licensee has contracts,
 employment, or other affiliation; provided that the reporting of such
 information shall not be the responsibility of the physician, but shall
 be included and updated by the department utilizing provider network
 participation information, or other reliable sources of information
 submitted by health care plans.
-  * NB Effective March 13, 2025
+  * NB Effective September 13, 2025
   1-a. Each physician licensed and registered to practice in this state
 shall within thirty days of the transmittal of an initial profile survey
 and upon entering or updating his or her profile information:
@@ -127,7 +127,7 @@ registration period, as a condition of registration renewal under
 article one hundred thirty-one of the education law. Except for optional
 information provided, physicians shall notify the department of any
 change in the profile information within thirty days of such change.
-  * NB Effective until March 13, 2025
+  * NB Effective until September 13, 2025
   * 4. Each physician shall periodically report to the department on
 forms and in the time and manner required by the commissioner any other
 information as is required by the department for the development of
@@ -139,7 +139,7 @@ application, as a condition of registration renewal under article one
 hundred thirty-one of the education law. Except for optional information
 provided, physicians shall notify the department of any change in the
 profile information within thirty days of such change.
-  * NB Effective March 13, 2025
+  * NB Effective September 13, 2025
   5. The department shall provide each licensee with a copy of his or
 her profile prior to dissemination to the public. In the manner and time
 required by the commissioner, a licensee shall be provided the
@@ -154,7 +154,7 @@ profiles and disseminating the same, the department shall inform
 physicians that they may choose not to provide such information required
 pursuant to paragraphs (l), (m), (n) and (q) of subdivision one of this
 section.
-  * NB Effective until March 13, 2025
+  * NB Effective until September 13, 2025
   * 6. A physician may elect to have his or her profile omit certain
 information provided pursuant to paragraphs (l), (m) and (n) of
 subdivision one of this section. In collecting information for such
@@ -162,7 +162,7 @@ profiles and disseminating the same, the department shall inform
 physicians that they may choose not to provide such information required
 pursuant to paragraphs (l), (m) and (n) of subdivision one of this
 section.
-  * NB Effective March 13, 2025
+  * NB Effective September 13, 2025
   7. A physician who knowingly provides materially inaccurate
 information under this section shall be guilty of professional
 misconduct pursuant to section sixty-five hundred thirty of the
@@ -186,7 +186,7 @@ physicians notify the department upon terminating the authorization of
 any designee; and (iii) establish a mechanism to prevent such terminated
 designees from accessing the profile in a reasonably prompt manner
 following such notification.
-  * NB Effective March 13, 2025
+  * NB Effective September 13, 2025
   8. The department shall establish a toll-free telephone number through
 which it shall answer inquiries about and accept orders for hard copy
 physician profiles established pursuant to this section and accept

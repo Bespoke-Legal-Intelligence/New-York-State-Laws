@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Financial Services Law § 903", "kind": "section", "law_id": "FIS", "location_id": "903", "path": "ARTICLE 9 › SECTION 903", "repealed": false, "repealed_date": null, "source": "nys-laws:FIS/903.md", "title": "Rules and regulations"} -->
 # Financial Services Law § 903 — Rules and regulations
 
-[Financial Services Law](../README.md) › [Article 9 — Private Education Debt Registry](README.md)
+[Financial Services Law](../README.md) › [Article 9 — Private Education Debt Reporting](README.md)
 
 ```text
   § 903. Rules and regulations. In addition to such powers as may

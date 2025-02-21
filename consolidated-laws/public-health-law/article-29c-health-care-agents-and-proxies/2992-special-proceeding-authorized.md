@@ -14,12 +14,12 @@ of the civil practice law and rules, in a court of competent
 jurisdiction, with respect to any dispute arising under this article,
 including, but not limited to, a proceeding to:
   * NB Effective until March 21, 2025
-  * The health care provider of the principal under article eighty-one
-of the mental hygiene law or article seventeen-A of the surrogate's
-court procedure act, members of the principal's family, a close friend
-of the principal as defined in subdivision four of section twenty-nine
-hundred ninety-four-a of this chapter, or the commissioner, the
-commissioner of mental health, or the commissioner of developmental
+  * The health care provider or guardian of the principal under article
+eighty-one of the mental hygiene law or article seventeen-A of the
+surrogate's court procedure act, members of the principal's family, a
+close friend of the principal as defined in subdivision four of section
+twenty-nine hundred ninety-four-a of this chapter, or the commissioner,
+the commissioner of mental health, or the commissioner of developmental
 disabilities may commence a special proceeding pursuant to article four
 of the civil practice law and rules, in a court of competent
 jurisdiction, with respect to any dispute arising under this article,

@@ -41,9 +41,27 @@ leader of the senate and the person appointed by the minority leader of
 the assembly shall serve for a term of one year. Subsequent appointments
 for vacancies shall be for a term of three years and shall be filled in
 the same manner as the original appointment.
-  2. The council shall be charged with recommending to the department
-long range objectives, goals and priorities. It shall also provide
-advice on the planning, coordination and development of needed services.
+  2. (a) The council shall be charged with recommending to the
+department long range objectives, goals and priorities. It shall also
+provide advice on the planning, coordination and development of needed
+services.  In making such recommendations, the council shall consider:
+  (i) the availability and accessibility of services for individuals
+diagnosed with traumatic brain injury, the cost of receiving such
+services, and any disparities that may exist in the regional
+availability of services;
+  (ii) emerging trends in traumatic brain injury, including changes in
+incidences, changes in the needs of individuals with traumatic brain
+injury, and assess the training service providers receive relating to
+traumatic brain injury;
+  (iii) the difference in services availability and outcomes for
+individuals that may be enrolled in any Medicaid waiver; and
+  (iv) the efficiency of the administrative processes that provide
+individuals with traumatic brain injury official approvals or denials of
+service.
+  (b) The council shall post the recommendations developed pursuant to
+paragraph (a) of this subdivision on the department's website on or
+before one year from the date this paragraph shall take effect and
+annually thereafter.
   3. The members of the council shall receive no compensation for their
 services, but shall be allowed their actual and necessary expenses
 incurred in the performance of their duties hereunder, subject to the

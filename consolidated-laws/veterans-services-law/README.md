@@ -8,7 +8,7 @@
 | Senate code | VET |
 | Type | Consolidated law, chapter 13 |
 | Sections | 45 |
-| Last changed | 14 Feb 2025 |
+| Last changed | 21 Feb 2025 |
 | First in this history | 15 Apr 2022 |
 | Senate name | Veterans' Services |
 
@@ -27,6 +27,7 @@
 
 ## Recent changes
 
+- [21 Feb 2025](../../changes/2025/2025-02-21.md): 1 amended, 2 added, 2 removed
 - [14 Feb 2025](../../changes/2025/2025-02-14.md): 2 amended
 - [10 Jan 2025](../../changes/2025/2025-01-10.md): 1 amended
 - [27 Dec 2024](../../changes/2024/2024-12-27.md): 3 amended, 2 added
@@ -36,7 +37,6 @@
 - [6 Oct 2023](../../changes/2023/2023-10-06.md): 1 added
 - [7 Apr 2023](../../changes/2023/2023-04-07.md): 40 amended
 - [10 Mar 2023](../../changes/2023/2023-03-10.md): 1 amended, 1 added
-- [23 Dec 2022](../../changes/2022/2022-12-23.md): 1 added
 
 ## Contents
 

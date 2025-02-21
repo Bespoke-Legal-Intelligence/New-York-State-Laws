@@ -32,23 +32,22 @@ York, and with any matters as to which the jurisdiction is conferred
 upon the public health and health planning council;
   (b) prescribe the qualifications of public health personnel of the
 department, directors of divisions, regional health directors, state
-district health officers, local health officers; directors or other
-persons in charge of laboratories; county and city health commissioners,
-deputy and assistant county or city health commissioners; public health
-administrators; county health directors and deputy and assistant county
-health directors; directors of county physically handicapped children's
-programs; directors of medical care (local assistance programs); public
-health nurses; public health physical therapists; public health
-educators; nurse-midwives; medical social workers; public health social
-workers; radiation safety officers; sanitary and public health
-engineers, sanitarians, sanitary inspectors; public health
-veterinarians; operators of public water treatment and purification
-plants; and the qualifications of persons not paid from public funds and
-who are appointed and employed after January first, nineteen hundred
-forty-seven, as operators of water treatment or purification plants
-owned or operated by water companies, corporations or by a person or
-group of persons serving the general public residing in a political
-subdivision or any part thereof;
+district health officers, local health officers; county and city health
+commissioners, deputy and assistant county or city health commissioners;
+public health administrators; county health directors and deputy and
+assistant county health directors; directors of county physically
+handicapped children's programs; directors of medical care (local
+assistance programs); public health nurses; public health physical
+therapists; public health educators; nurse-midwives; medical social
+workers; public health social workers; radiation safety officers;
+sanitary and public health engineers, sanitarians, sanitary inspectors;
+public health veterinarians; operators of public water treatment and
+purification plants; and the qualifications of persons not paid from
+public funds and who are appointed and employed after January first,
+nineteen hundred forty-seven, as operators of water treatment or
+purification plants owned or operated by water companies, corporations
+or by a person or group of persons serving the general public residing
+in a political subdivision or any part thereof;
   (c) establish regulations for the promotion of health in any or all
 Indian reservations;
   (e) establish regulations for the maintenance of hospitals for
@@ -294,7 +293,7 @@ thousand-b of this chapter.
 (a) of subdivision three of section three thousand-b of this chapter in
 the operation and use of an AED shall be present during all periods of
 required supervision.
-  * 5-d. The state sanitary code shall:
+  5-d. The state sanitary code shall:
   (a) require that all lifeguards employed at children's overnight,
 summer day, and travelling summer day camps as defined in section
 thirteen hundred ninety-two of this chapter, meet the following
@@ -312,8 +311,7 @@ seven of the state sanitary code; and
   (b) require all qualified lifeguards while on duty at the waterfront
 to not be engaged in duties or activities which distract them from the
 direct supervision of the waterfront.
-  * NB There are 2 sb 5-d's
-  * 5-d. Places of public assembly on-site epinephrine auto-injector
+  * 5-e. Places of public assembly on-site epinephrine auto-injector
 devices.
   (a) Notwithstanding the provisions of paragraph (r) of subdivision
 five of this section and section three thousand-c of this chapter, the
@@ -368,7 +366,7 @@ the purpose of any statute relating to liability.
   (ii) Operation of an epinephrine auto-injector device pursuant to this
 section shall not constitute the unlawful practice of a profession under
 title eight of the education law.
-  * NB There are 2 sb 5-d's
+  * NB Effective August 22, 2025
   6. The public health council shall, no later than January first,
 nineteen hundred seventy-four, prescribe standards and establish
 regulations for summer day and children's camps which derive all water

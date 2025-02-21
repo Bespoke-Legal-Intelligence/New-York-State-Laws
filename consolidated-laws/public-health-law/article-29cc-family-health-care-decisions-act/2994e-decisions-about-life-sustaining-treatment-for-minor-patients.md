@@ -58,9 +58,10 @@ ethics review committee determine that the decision accords with the
 standards for surrogate decisions for adults, and the ethics review
 committee approves the decision.
   (b) If the hospital can with reasonable efforts ascertain the identity
-of the parents or guardian of an emancipated minor patient, the hospital
-shall make diligent efforts to notify such persons, and documents such
-diligent efforts in the patient's medical record, prior to withholding
-or withdrawing life-sustaining treatment pursuant to this subdivision.
+of the parents or guardian of an emancipated minor patient and obtain
+such parents' or guardian's contact information, the hospital shall
+notify such persons, and document such notification in the patient's
+medical record, prior to withholding or withdrawing life-sustaining
+treatment pursuant to this subdivision.
   * NB Effective March 21, 2025
 ```

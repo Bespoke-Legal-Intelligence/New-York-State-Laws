@@ -18,12 +18,12 @@ providing health care services.
   * NB Effective until March 21, 2025
   * 2. A nonhospital order not to resuscitate shall be issued upon a
 standard form prescribed by the commissioner. A standard bracelet or
-other article that may be worn by a patient with a nonhospital order not
-to resuscitate to identify that status; provided, however, that no
-person may require a patient to wear such a bracelet and that no person
-may require a patient to wear such a bracelet as a condition for
-honoring a nonhospital order not to resuscitate or for providing health
-care services.
+other article may be worn by a patient with a nonhospital order not to
+resuscitate to identify that status; provided, however, that no person
+may require a patient to wear such an article and that no person may
+require a patient to wear such an article as a condition for honoring a
+nonhospital order not to resuscitate or for providing health care
+services.
   * NB Effective March 21, 2025
   3. An attending practitioner who has issued a nonhospital order not to
 resuscitate, and who transfers care of the patient to another physician,
@@ -89,7 +89,7 @@ subdivision does not limit, restrict or impair the use of an alternative
 form for issuing an order not to resuscitate in a general hospital or
 residential health care facility under article twenty-eight of this
 chapter or a hospital under subdivision ten of section 1.03 of the
-mental hygiene law or a developmental disabilities services office under
-section 13.17 of the mental hygiene law.
+mental hygiene law or a facility certified or operated by the office for
+people with developmental disabilities.
   * NB Effective March 21, 2025
 ```

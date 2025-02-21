@@ -105,7 +105,7 @@ assisted living residence, or enhanced assisted living residence, shall:
 department, in consultation with industry and consumer representatives,
 including the long-term care ombudsman or their representative, in the
 form and format prescribed by the department, with the first report due
-no later than January fifteenth, two thousand twenty-five; and
+no later than April fifteenth, two thousand twenty-five; and
   (ii) post information, including the starting monthly service rate,
 range for starting rent, approved admission or residency agreement, and
 a consumer-friendly summary of all service fees, through a reporting
@@ -115,7 +115,7 @@ licensure and certification, services, agreements and fee structures
 across facilities. Such information shall be posted in a conspicuous
 place on the facility's website and in a public space within the
 facility and shall be made available to the public on forms developed by
-the department. Beginning on October first, two thousand twenty-four,
+the department. Beginning on January first, two thousand twenty-five,
 this information shall also be reported to the department.
   (b) The department shall develop a system to score the results of the
 assisted living quality reporting obtained pursuant to paragraph (a) of
@@ -123,22 +123,14 @@ this subdivision, in consultation with industry and consumer
 representatives. Facilities scoring in the top quartile shall be granted
 the classification of advanced standing on their annual surveillance
 schedules.
-  (i) Notwithstanding subparagraph one of paragraph (a) of subdivision
-two of section four hundred sixty-one-a of the social services law,
-facilities achieving an advanced standing classification shall be
-surveyed every eighteen months. All other facilities shall be surveyed
-on an unannounced basis no less than annually; provided, however, that
-this shall not apply to surveys, inspections or investigations based on
-complaints received by the department under any other provision of law.
-  (ii) Facilities may remain on advanced standing classification
-provided they meet the scoring requirements in assisted living quality
-reporting and until such time when they do not meet such scoring
-requirements.
-  (c) Effective January thirty-first, two thousand twenty-five, the
+  Facilities may remain on advanced standing classification provided
+they meet the scoring requirements in assisted living quality reporting
+and until such time when they do not meet such scoring requirements.
+  (c) Effective April thirtieth, two thousand twenty-five, the
 department shall post on its website the results of the assisted living
 quality reporting, collected pursuant to subparagraph (i) of paragraph
 (a) of this subdivision.
-  (d) No later than February fifteenth, two thousand twenty-five, the
+  (d) No later than December thirty-first, two thousand twenty-five, the
 department shall report to the legislature on the development of a
 quality scoring system for adult care facilities, including adult homes
 and enriched housing providers. Such report shall examine the specific

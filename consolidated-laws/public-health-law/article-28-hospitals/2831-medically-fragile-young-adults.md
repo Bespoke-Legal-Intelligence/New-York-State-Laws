@@ -5,17 +5,13 @@
 
 ```text
   * § 2831. Medically fragile young adults. 1. For purposes of this
-section, "medically fragile young adults" shall have the same meaning as
-the term "medically fragile children" as set forth in subdivision
-three-a of section thirty-six hundred fourteen of this chapter and shall
-include medically fragile young adults who currently reside at a
-pediatric specialized nursing facility and are over twenty-one years of
-age.
+section, "medically fragile young adults" shall mean individuals who
+meet the definition of children with medical fragility, but for the fact
+such individuals are aged between twenty-one and thirty-five years old.
   2. The department shall promulgate rules and regulations to allow
 medically fragile young adults who reside in pediatric specialized
-nursing facilities to remain at such facilities after reaching the age
-of twenty-one and until they reach the age of thirty-six. Unless a
-higher reimbursement rate is expressly authorized by the department, the
+nursing facilities to remain at such facilities. Unless a higher
+reimbursement rate is expressly authorized by the department, the
 reimbursement rate and methodology for such medically fragile young
 adults shall remain the same as it was prior to reaching age twenty-one
 and shall include a daily per diem rate and coverage for bed holds.
@@ -23,5 +19,7 @@ Medicaid reimbursement for this population for reserved beds due to
 hospitalization and for therapeutic and hospice leaves of absence must
 remain at one hundred percent of the Medicaid rate of medically fragile
 children, without any daily limit for this population.
-  * NB Effective April 12, 2025
+  3. This section shall be effective if, and as long as, federal
+financial participation is available therefor.
+  * NB Effective September 13, 2025
 ```

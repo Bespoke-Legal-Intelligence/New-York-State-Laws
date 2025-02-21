@@ -1,0 +1,54 @@
+﻿<!-- nyslaw {"citation": "Financial Services Law § 902", "kind": "section", "law_id": "FIS", "location_id": "902", "path": "ARTICLE 9 › SECTION 902", "repealed": false, "repealed_date": null, "source": "nys-laws:FIS/902.md", "title": "Private education debt reporting"} -->
+# Financial Services Law § 902 — Private education debt reporting
+
+[Financial Services Law](../README.md) › [Article 9 — Private Education Debt Reporting](README.md)
+
+```text
+  § 902. Private education debt reporting. 1. Each student loan servicer
+shall, by the first of April of each year, submit an annual report which
+complies with any instructions published by the superintendent, in the
+manner set forth in such instructions, certifying as accurate the
+following information for the private education debt such student loan
+servicer serviced during the prior calendar year:
+  (a) a list of all private education creditors associated with the
+private education debts serviced by the student loan servicer that are
+owed by persons who resided in New York during the prior calendar year;
+and
+  (b) for each private education creditor reported pursuant to paragraph
+(a) of this subdivision, the following information:
+  (i) a list of the providers of higher education associated with the
+private education debts serviced by the student loan servicer;
+  (ii) the total outstanding dollar amount and number of private
+education debts and the number of consumers who owe such private
+education debts;
+  (iii) the total dollar amount and number of private education debts
+created in the prior calendar year;
+  (iv) the number of private education debts that experienced a default
+and the percentage of such private education debts associated with each
+private education creditor;
+  (v) the total dollar amount and number of private education debts that
+defaulted for reasons other than non-payment in the prior calendar year;
+  (vi) the total dollar amount and number of private education debts
+with a cosigner or guarantor;
+  (vii) the total dollar amount and number of private education debts
+with a cosigner or guarantor created in the prior calendar year;
+  (viii) the total dollar amount and number of private education debts
+created to refinance other private education debts or federal student
+loans, respectively;
+  (ix) the total dollar amount and number of private education debts
+created to refinance other private education debts or federal student
+loans, respectively, in the prior calendar year;
+  (x) the total dollar amount and number of defaulted private education
+debts for which the student loan servicer commenced, maintained, or
+settled a lawsuit for collection in the prior calendar year; and
+  (xi) information as may in the judgment of the superintendent be
+necessary and appropriate in order to assess the total size and status
+of the private education debt market and to assess borrower well-being
+  4. Not later than two years following the effective date of this
+section, the superintendent shall create a publicly accessible website
+that includes at least the following information:
+  (a) The name, address, telephone number and website for all student
+loan servicers; and
+  (b) A summary of the information required by subdivision one of this
+section.
+```

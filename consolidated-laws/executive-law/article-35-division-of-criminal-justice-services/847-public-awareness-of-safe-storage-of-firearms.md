@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 847", "kind": "section", "law_id": "EXC", "location_id": "847", "path": "ARTICLE 35 › SECTION 847", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/847.md", "title": "Public awareness of safe storage of firearms"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 847", "kind": "section", "law_id": "EXC", "location_id": "847", "path": "ARTICLE 35 › SECTION 847", "repealed": true, "repealed_date": "2025-02-21", "source": "nys-laws:EXC/847.md", "title": "Public awareness of safe storage of firearms"} -->
 # Executive Law § 847 — Public awareness of safe storage of firearms
 
 [Executive Law](../README.md) › [Article 35 — Division of Criminal Justice Services](README.md)
+
+**Repealed** (21 Feb 2025). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 847. Public awareness of safe storage of firearms. 1. The

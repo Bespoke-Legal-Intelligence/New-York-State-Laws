@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "State Technology Law § 401", "kind": "section", "law_id": "STT", "location_id": "401", "path": "ARTICLE 4 › SECTION 401", "repealed": false, "repealed_date": null, "source": "nys-laws:STT/401.md", "title": "Definitions"} -->
+# State Technology Law § 401 — Definitions
+
+[State Technology Law](../README.md) › [Article 4 — Automated Employment Decision-making In State Government](README.md)
+
+```text
+  * § 401. Definitions. For the purpose of this article:
+  1. "Automated employment decision-making tool" shall mean any software
+that uses algorithms, computational models, or artificial intelligence
+techniques, or a combination thereof, to materially automate or replace
+human decision-making regarding employment, including but not limited to
+wages and other compensation, hiring, selection for recruitment,
+discipline, promotion, and termination. "Automated employment
+decision-making tool" shall not include any software used primarily for
+basic computerized processes, such as calculators, spellcheck tools,
+autocorrect functions, spreadsheets, electronic communications, or any
+tool that relates only to internal management affairs such as ordering
+office supplies or processing payments, and that do not materially
+affect the rights, liberties, benefits, safety or welfare of any
+individual within the state.
+  2. "State agency" shall mean any department, public authority, board,
+bureau, commission, division, office, council, committee or officer of
+the state. Such terms shall not include the legislature or judiciary.
+  * NB Effective July 1, 2025
+```

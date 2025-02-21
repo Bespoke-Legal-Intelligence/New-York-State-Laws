@@ -70,11 +70,8 @@ at the end of the first month of pregnancy which involves the incomplete
 development of the spinal cord or its coverings, and the importance of
 encouraging all women in their child-bearing years to increase their
 folic acid intake in order to reduce the incidence of spina bifida.
-  * (h)(i) A Down syndrome awareness program shall be created to provide
-up-to-date and evidence-based information about Down syndrome, in a
-written or alternative format to health care providers who order tests
-for a pregnant woman or an infant to screen for Down syndrome that shall
-include, but not be limited to, the following:
+  * (h)(i) Down syndrome including up-to-date and evidence-based
+information about Down syndrome, not limited to the following:
   (1) expected physical, developmental, educational, and psychosocial
 outcomes;
   (2) life expectancy;
@@ -85,29 +82,34 @@ outcomes;
   (7) relevant resource centers or clearinghouses;
   (8) national and local Down syndrome organizations; and
   (9) any other information the department deems necessary.
+  Such information shall be provided electronically through the
+department's website.
   (ii) The commissioner shall (1) examine and utilize existing practices
 to ensure that the information provided under subparagraph (i) of this
 paragraph is culturally and linguistically appropriate for all
-recipients; and (2) meet annually with representatives from the Down
-syndrome community to ensure such information is current.
-  * NB There are 2 par (h)'s
-  * (h) The department shall develop and conduct a program concerning
-drug-induced movement disorders. Such program shall include but not be
-limited to, (i) educational information on the importance of screening
-for and identifying symptoms of drug-induced movement disorders; and
-(ii) the development and dissemination of educational materials for
-healthcare providers regarding treatment for drug-induced movement
-disorders, including for services provided via telehealth. Such
-educational materials disseminated to healthcare providers shall be
-developed and disseminated in coordination with relevant healthcare
-provider groups and shall include best practices for the treatment and
+recipients; and (2) meet with representatives from the Down syndrome
+community as necessary to ensure such information is current.
+  * NB There are 3 par (h)'s
+  * NB Effective June 11, 2025
+  * (h) Drug-induced movement disorders, including the importance of
+screening for and identifying symptoms of drug-induced movement
+disorders, treatment for drug-induced movement disorders, and
+information on methods by which the stigma experienced by people living
+with drug-induced movement disorders related to the treatment of mental
+health conditions may be reduced or eliminated. Any such educational
+materials disseminated to healthcare providers shall be developed in
+consultation with the commissioner of the office of mental health,
+disseminated by the department in coordination with relevant healthcare
+provider groups, and shall include best practices for the treatment and
 screening of movement disorders informed by the American Psychiatric
-Association and other professional society practice guidelines. Such
-program shall also include education and outreach on the elimination of
-stigma for people living with drug-induced movement disorders related to
-the treatment of mental health conditions.
+Association and other professional society practice guidelines.
   * NB Effective March 21, 2025
-  * NB There are 2 par (h)'s
+  * NB There are 3 par (h)'s
+  * (h) Births of infants with congenital heart defects, including
+treatment recommendations, and any other information the commissioner
+deems appropriate.
+  * NB There are 3 par (h)'s
+  * NB Effective March 13, 2025
   (i) About the short term and long term adverse health risks to adults
 and children who become overweight, obese or underweight. The
 information shall include, but need not be limited to providing
@@ -225,8 +227,7 @@ limited to hospitals, nursing homes, clinics and assisted living
 facilities; community support services, including caregiver support
 groups and services, respite, and care management; and resources and
 information concerning Alzheimer's disease and any other dementia
-related matters that the commissioner and director of the office for the
-aging deem appropriate.
+related matters that the commissioner deems appropriate.
   * NB There are 4 par (r)'s
   * NB Effective May 21, 2025
   * (s) Promoting public awareness of the dangers of fatal and non-fatal
@@ -247,7 +248,6 @@ prevention, oral health across the lifespan, the total body connection,
 the value of early detection and the availability of oral health
 services in the community.
   * NB There are 2 par (s)'s
-  * NB Effective January 21, 2025
   2. Programs under this section, dealing with one or more subjects, may
 include but not be limited to any of the following elements:
   (a) educational and informational materials in print, audio, visual,

@@ -1,12 +1,10 @@
-﻿<!-- nyslaw {"citation": "General Business Law § 391-CC*2", "kind": "section", "law_id": "GBS", "location_id": "391-CC*2", "path": "ARTICLE 26 › SECTION 391-CC*2", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/391-CC_2.md", "title": "Sale of bicycles with electric assist and micromobility devices"} -->
-# General Business Law § 391-CC*2 — Sale of bicycles with electric assist and micromobility devices
+﻿<!-- nyslaw {"citation": "General Business Law § 391-CC", "kind": "section", "law_id": "GBS", "location_id": "391-CC", "path": "ARTICLE 26 › SECTION 391-CC", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/391-CC.md", "title": "Sale of bicycles with electric assist and micromobility devices"} -->
+# General Business Law § 391-CC — Sale of bicycles with electric assist and micromobility devices
 
 [General Business Law](../README.md) › [Article 26 — Miscellaneous](README.md)
 
-*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
-
 ```text
-  * § 391-cc. Sale of bicycles with electric assist and micromobility
+  § 391-cc. Sale of bicycles with electric assist and micromobility
 devices. 1. As used in this section, "micromobility device" shall mean
 an electric scooter as defined in section one hundred fourteen-e of the
 vehicle and traffic law, an electrical personal assistive mobility
@@ -48,5 +46,4 @@ provisions of this section from complying with the laws, ordinances,
 rules, or regulations of any locality, relating to the affixing,
 labeling, or provision of identification, safety, informational, or
 other materials.
-  * NB There are two § 391-cc's
 ```

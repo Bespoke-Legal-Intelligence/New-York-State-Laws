@@ -25,18 +25,24 @@ inclusion under this section by the office.
 corporations, public utility companies, public utility corporations, gas
 corporations, electric corporations, municipalities as defined in
 section two of the public service law and regulated pursuant to the
-public service law, water-works corporations, a municipal corporation
-that provides public utility services, a rural electric cooperative, or
-a state public authority that provides utility services.
-  (e) "Utility corporation energy affordability programs" shall be
-defined by the public service commission and shall be limited to utility
+public service law, water-works corporations subject to section fifty of
+the public service law, a municipal corporation that provides public
+utility services, a rural electric cooperative, or a state public
+authority that provides utility services.
+  (e) "Utility corporation affordability programs" shall be defined by
+the public service commission and shall be limited to utility
 corporation programs which are intended to assist customers with energy
-affordability by reducing customers' energy or water service burden.
+or water service affordability by reducing customers' energy or water
+service burden, as applicable.
   2. Within one year of the effective date of this section, the
 commissioner shall provide for automated identification of OTDA
 assistance program participants for participation in utility corporation
-energy or water service affordability programs pursuant to subdivision
-four of this section.
+affordability programs for energy affordability pursuant to subdivision
+four of this section. Within one year and six months of the effective
+date of this section, the commissioner shall provide for automated
+identification of OTDA program participants for participation in utility
+corporation affordability programs for water service affordability
+pursuant to subdivision four of this section.
   3. The utility corporation shall be responsible for working with the
 office to facilitate and implement the technological capabilities to
 allow for the secure transmission of data through an interface with the
@@ -51,21 +57,21 @@ participants and, if permitted by federal law, regulations and policies,
 such information shall be provided to utility corporations no less than
 semi-annually. Utility corporation customer accounts identified by the
 office as potentially eligible for participation in available utility
-corporation energy affordability programs as a result of such file
-matching shall be, if confirmed as eligible for such utility corporation
-energy affordability programs by the utility corporation, enrolled in
-such utility corporation energy affordability programs by the utility
-corporation within sixty days of receipt by the utility corporation of
-the results of the automated file match. Any information provided to the
-utility corporations related to OTDA assistance program participants
-pursuant to this section shall not be redisclosed by the utility
-corporation and shall only be utilized for the purpose of confirming
-eligibility in the utility corporation energy affordability program and
-providing notifications pursuant to paragraph (b) of this subdivision.
-  (b) Upon automatic enrollment in the utility corporation energy
-affordability program, the utility corporation shall provide written
-notification to the utility corporation energy affordability program
-participant of their enrollment in such program.
+corporation affordability programs as a result of such file matching
+shall be, if confirmed as eligible for such utility corporation
+affordability programs by the utility corporation, enrolled in such
+utility corporation affordability programs by the utility corporation
+within sixty days of receipt by the utility corporation of the results
+of the automated file match. Any information provided to the utility
+corporations related to OTDA assistance program participants pursuant to
+this section shall not be redisclosed by the utility corporation and
+shall only be utilized for the purpose of confirming eligibility in the
+utility corporation affordability program and providing notifications
+pursuant to paragraph (b) of this subdivision.
+  (b) Upon automatic enrollment in the utility corporation affordability
+program, the utility corporation shall provide written notification to
+the utility corporation affordability program participant of their
+enrollment in such program.
   (c) Except as prohibited by federal law, regulation, or policy, and
 notwithstanding any provision of state or local law, regulation, or
 policy to the contrary, a utility corporation is authorized to share the

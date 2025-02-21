@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Labor Law § 794", "kind": "section", "law_id": "LAB", "location_id": "794", "path": "ARTICLE 21-B › SECTION 794", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/794.md", "title": "No conflict with collective bargaining agreements"} -->
+﻿<!-- nyslaw {"citation": "Labor Law § 794", "kind": "section", "law_id": "LAB", "location_id": "794", "path": "ARTICLE 21-B › SECTION 794", "repealed": true, "repealed_date": "2025-02-21", "source": "nys-laws:LAB/794.md", "title": "No conflict with collective bargaining agreements"} -->
 # Labor Law § 794 — No conflict with collective bargaining agreements
 
 [Labor Law](../README.md) › [Article 21-B — Protection of Call Center Workers From Displacement](README.md)
+
+**Repealed** (21 Feb 2025). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 794. No conflict with collective bargaining agreements. The

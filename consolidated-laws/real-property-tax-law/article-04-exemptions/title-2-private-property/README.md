@@ -102,6 +102,8 @@
 - [§ 466-J Volunteer firefighters and volunteer ambulance workers; certain county](466j-volunteer-firefighters-and-volunteer-ambulance-workers-certain-county.md)
 - [§ 466-K Volunteer firefighters and volunteer ambulance workers; certain county](466k-volunteer-firefighters-and-volunteer-ambulance-workers-certain-county.md)
 - [§ 466-L Extension of benefits](466l-extension-of-benefits.md)
+- [§ 466-M Ocean rescue squad members in certain municipalities](466m-ocean-rescue-squad-members-in-certain-municipalities.md)
+- [§ 466-N Ocean rescue squad members; certain municipalities](466n-ocean-rescue-squad-members-certain-municipalities.md)
 - [§ 467 Persons sixty-five years of age or over](467-persons-sixty-five-years-of-age-or-over.md)
 - [§ 467-A Partial tax abatement for residential real property held in the cooperative or condominium form of ownership in a city having a populatio...](467a-partial-tax-abatement-for-residential-real-property-held-in-the-cooperative.md)
 - [§ 467-B Tax abatement for rent-controlled and rent regulated property occupied by senior citizens or persons with disabilities](467b-tax-abatement-for-rent-controlled-and-rent-regulated-property-occupied-by-senior.md)
@@ -351,6 +353,8 @@ Section 420-a.   Nonprofit organizations; mandatory class.
         466-k.   Volunteer firefighters and volunteer ambulance workers;
                    certain county.
         466-l.   Extension of benefits.
+        466-m.   Ocean rescue squad members in certain municipalities.
+        466-n.   Ocean rescue squad members; certain municipalities.
         467.     Persons sixty-five years of age or over.
         467-a.   Partial tax abatement for residential real property
                    held in the cooperative or condominium form of

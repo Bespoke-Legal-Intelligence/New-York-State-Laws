@@ -288,7 +288,13 @@ amount of the federal allotment. The department shall discontinue
 enrollment into the program when the part B premium payments made
 pursuant to subparagraph one of this paragraph meet the yearly federal
 allotment.
-  (3) (i) The commissioner of health shall develop a simplified
+  * (3) The commissioner of health shall develop a simplified
+application form, consistent with federal law, for payments pursuant to
+this section. The commissioner of health, in cooperation with the office
+for the aging, shall publicize the availability of such payments to
+medicare beneficiaries.
+  * NB Effective until April 1, 2026
+  * (3) (i) The commissioner of health shall develop a simplified
 application form, consistent with federal law, for payments pursuant to
 this section. The commissioner of health, in cooperation with the office
 for the aging, shall publicize the availability of such payments to
@@ -304,6 +310,7 @@ data supports a determination of eligibility under this subdivision. The
 commissioner of health shall report on an annual basis on the status of
 the medicare savings program and the number of applications received by
 local social services districts under this article.
+  * NB Effective April 1, 2026
   (d) (1) Payment of premiums for enrolling individuals in qualified
 health plans offered through a health insurance exchange established
 pursuant to the federal Patient Protection and Affordable Care Act (P.L.

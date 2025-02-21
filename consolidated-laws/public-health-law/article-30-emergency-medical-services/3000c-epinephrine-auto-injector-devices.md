@@ -71,10 +71,15 @@ person acting pursuant to a lawful patient-specific prescription.
 epinephrine auto-injector devices pursuant to this section shall use,
 maintain and dispose of such devices pursuant to regulations of the
 department.
-  (f) Nothing in this section shall require any eligible person or
+  * (f) Nothing in this section shall require any eligible person or
 entity to acquire, possess, store, make available, or administer an
-epinephrine auto-injector, except as provided for in subdivision five-d
+epinephrine auto-injector.
+  * NB Effective until June 11, 2025
+  * (f) Nothing in this section shall require any eligible person or
+entity to acquire, possess, store, make available, or administer an
+epinephrine auto-injector, except as provided for in subdivision five-e
 of section two hundred twenty-five of this chapter.
+  * NB Effective August 22, 2025
   3. Prescriptions. (a) A health care practitioner who is authorized to
 prescribe drugs may prescribe, dispense or provide an epinephrine
 auto-injector device to or for an eligible person or entity by a

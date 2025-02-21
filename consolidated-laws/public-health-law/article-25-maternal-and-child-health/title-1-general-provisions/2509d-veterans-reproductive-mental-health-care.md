@@ -64,5 +64,5 @@ not-for-profit corporations and other community resources.
   4. The commissioner, in consultation with the women veterans
 coordinator, shall make any regulations necessary to implement this
 section.
-  * NB Effective March 21, 2025
+  * NB Effective December 21, 2025
 ```
