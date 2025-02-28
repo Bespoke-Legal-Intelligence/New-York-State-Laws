@@ -336,22 +336,14 @@ hundred fifty percent, of the federal poverty line for the applicable
 family size, or, if earlier, until the individual is eligible for
 enrollment in a standard health plan pursuant to section three hundred
 sixty-nine-gg of this article.
-  (3) (i) The commissioner of health shall develop a simplified
-application form, consistent with federal law, for payments pursuant to
-this section. The commissioner of health, in cooperation with the office
-for the aging, shall publicize the availability of such payments to
-medicare beneficiaries.
-  (ii) Low-income subsidy data transmitted from the social security
-administration to local departments of social services in accordance
-with section 1144(c)(3) of the federal social security act shall be
-treated as an application for the medicare savings program, without
-requiring submission of another application. Any information verified by
-the social security administration shall be accepted without further
-verification, if the information provided through low-income subsidy
-data supports a determination of eligibility under this subdivision. The
-commissioner of health shall report on an annual basis on the status of
-the medicare savings program and the number of applications received by
-local social services districts under this article.
+  (3) The commissioner of health shall submit amendments to the state
+plan for medical assistance and/or submit one or more applications for
+waivers of the federal social security act as may be necessary to
+receive federal financial participation in the costs of payments made
+pursuant to this paragraph; provided further, however, that nothing in
+this subparagraph shall be deemed to affect payments for premiums
+pursuant to this paragraph if federal financial participation in the
+costs of such payments is not available.
   4. No social services district shall make final payments pursuant to
 title XIX of the federal social security act for benefits available
 under title XVIII of such act without documentation that title XVIII

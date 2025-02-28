@@ -4,8 +4,8 @@
 [Environmental Conservation Law](../../README.md) › [Article 57 — Long Island Pine Barrens Maritime Reserve Act](../README.md) › [Title 1 — Long Island Pine Barrens Maritime Reserve Act](README.md)
 
 ```text
-  § 57-0121. Central Pine Barrens comprehensive land use plan; interim
-               regulations.
+§ 57-0121. Central Pine Barrens comprehensive land use plan; interim
+             regulations.
   1. As soon as practicable and within twelve months of the effective
 date of this section, the commission shall, after consultation with the
 advisory committee, prepare or cause to be prepared a draft

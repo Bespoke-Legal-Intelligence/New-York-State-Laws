@@ -8,7 +8,7 @@
 | Senate code | GMU |
 | Type | Consolidated law, chapter 24 |
 | Sections | 1,081 |
-| Last changed | 21 Feb 2025 |
+| Last changed | 28 Feb 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Municipal |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [28 Feb 2025](../../changes/2025/2025-02-28.md): 1 amended
 - [21 Feb 2025](../../changes/2025/2025-02-21.md): 1 amended
 - [3 Jan 2025](../../changes/2025/2025-01-03.md): 1 amended
 - [27 Dec 2024](../../changes/2024/2024-12-27.md): 3 amended, 1 added
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [25 Oct 2024](../../changes/2024/2024-10-25.md): 1 amended
 - [4 Oct 2024](../../changes/2024/2024-10-04.md): 2 added, 15 removed
 - [20 Sep 2024](../../changes/2024/2024-09-20.md): 15 repealed
-- [5 Jul 2024](../../changes/2024/2024-07-05.md): 10 amended
 
 ## Contents
 
@@ -88,7 +88,7 @@ Assembly, do enact as follows:
 - [Article 13 — Playgrounds and Neighborhood Recreation Centers](article-13-playgrounds-and-neighborhood-recreation-centers/)
 - [Article 13-A — Lost and Found Property](article-13a-lost-and-found-property/)
 - [Article 13-B — Picnic Parks And/or Roadside Rest Areas](article-13b-picnic-parks-and-or-roadside-rest-areas/)
-- [Article 13-BB — Adopt-a-municipal Park, Shoreline or Roadway Programs](article-13bb-adopt-a-municipal-park-shoreline-or-roadway/)
+- [Article 13-BB — Adopt-a-municipal Park, Shoreline, Roadway or Lake Programs](article-13bb-adopt-a-municipal-park-shoreline-roadway-or-lake/)
 - [Article 13-C — Establishment or Extension of Residential or Recreational Areas In the Lake George Park](article-13c-establishment-or-extension-of-residential/)
 - [Article 13-D — Community Facilities and Programs For the Elderly](article-13d-community-facilities-and-programs/)
 - [Article 13-E — Municipal Websites](article-13e-municipal-websites/)

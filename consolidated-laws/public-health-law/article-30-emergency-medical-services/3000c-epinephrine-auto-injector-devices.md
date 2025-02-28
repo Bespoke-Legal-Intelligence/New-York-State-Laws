@@ -74,7 +74,7 @@ department.
   * (f) Nothing in this section shall require any eligible person or
 entity to acquire, possess, store, make available, or administer an
 epinephrine auto-injector.
-  * NB Effective until June 11, 2025
+  * NB Effective until August 22, 2025
   * (f) Nothing in this section shall require any eligible person or
 entity to acquire, possess, store, make available, or administer an
 epinephrine auto-injector, except as provided for in subdivision five-e

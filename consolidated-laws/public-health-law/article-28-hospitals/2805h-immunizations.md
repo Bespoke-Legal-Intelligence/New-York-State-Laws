@@ -20,44 +20,14 @@ required.
 certifies that such immunization may be detrimental to a child's health,
 the requirements of this section shall be inapplicable until such
 immunization is found no longer to be detrimental to the child's health.
-  * 2. Immunizations against influenza and pneumococcal for certain
-persons sixty-five or older. (a) Annually between September first and
-April first, it shall be the duty of the administrative officer or other
-person in charge of each general hospital to offer each admitted person
-age sixty-five or older vaccination against influenza virus. Such
-officer or person need not offer the vaccination to persons who have
-already received such vaccine or for whom it is otherwise inappropriate.
-  (b) It shall be the duty of the administrative officer or other person
-in charge of each general hospital to offer vaccination against
-pneumococcal disease to each admitted person age sixty-five or older in
-the hospital's care. Such officer or person need not offer the
-vaccination to people who have already received it, are not in need of a
-booster, or for whom it is otherwise inappropriate.
-  (c) Each general hospital shall adopt an influenza and pneumococcal
-immunization policy which shall include, but not be limited to, the
-following: procedures for identifying persons age sixty-five or older
-and at the discretion of the facility other individuals at risk;
-procedures for the offering of immunization against influenza virus,
-between September first and April first, and pneumococcal disease upon
-admission or discharge to persons age sixty-five or older; procedures
-for ensuring that individuals offered immunization or their guardian
-receive information regarding the risks and benefits of vaccination; a
-standing order policy approved by the medical director or other
-appropriate physician which shall include, but not be limited to, an
-assessment for contra-indications; and a system for documenting vaccine
-administration, medical contra-indications, patient refusals and any
-post-vaccination adverse events.
-  (d) The commissioner may waive the requirements of this subdivision
-due to a shortage of influenza and/or pneumococcal vaccine.
-  * NB Effective until February 20, 2025
-  * 2. Immunizations against influenza for certain persons fifty or
-older and immunizations against pneumococcal for certain persons
-sixty-five or older. (a) Annually between September first and April
-first, it shall be the duty of the administrative officer or other
-person in charge of each general hospital to offer each admitted person
-age fifty or older vaccination against influenza virus. Such officer or
-person need not offer the vaccination to persons who have already
-received such vaccine or for whom it is otherwise inappropriate.
+  2. Immunizations against influenza for certain persons fifty or older
+and immunizations against pneumococcal for certain persons sixty-five or
+older. (a) Annually between September first and April first, it shall be
+the duty of the administrative officer or other person in charge of each
+general hospital to offer each admitted person age fifty or older
+vaccination against influenza virus. Such officer or person need not
+offer the vaccination to persons who have already received such vaccine
+or for whom it is otherwise inappropriate.
   (b) It shall be the duty of the administrative officer or other person
 in charge of each general hospital to offer vaccination against
 pneumococcal disease to each admitted person age sixty-five or older in
@@ -82,7 +52,6 @@ medical contra-indications, patient refusals and any post-vaccination
 adverse events.
   (d) The commissioner may waive the requirements of this subdivision
 due to a shortage of influenza and/or pneumococcal vaccine.
-  * NB Effective February 20, 2025
   3. Immunizations against influenza and Bordetella pertussis; neonatal
 intensive care units.
   (a) It shall be the duty of each general hospital (i) with a neonatal

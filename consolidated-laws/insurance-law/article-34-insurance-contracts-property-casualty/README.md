@@ -48,7 +48,7 @@
 - [§ 3442 Credit card, debit card, or checking account group policies](3442-credit-card-debit-card-or-checking-account-group-policies.md)
 - [§ 3443 Workers' compensation and employers' liability insurance; optional policyholder deductibles](3443-workers-compensation-and-employers-liability-insurance-optional-policyholder.md)
 - [§ 3444 Flood insurance notice](3444-flood-insurance-notice.md)
-- [§ 3445 Windstorm insurance notice](3445-windstorm-insurance-notice.md)
+- [§ 3445 Windstorm insurance notice; deductible trigger standards](3445-windstorm-insurance-notice-deductible-trigger-standards.md)
 - [§ 3446 Product or system group insurance policies](3446-product-or-system-group-insurance-policies.md)
 - [§ 3447 Qualification of environmental remediation insurance for tax credit](3447-qualification-of-environmental-remediation-insurance-for-tax-credit.md)
 - [§ 3448 Involuntary unemployment insurance policies](3448-involuntary-unemployment-insurance-policies.md)

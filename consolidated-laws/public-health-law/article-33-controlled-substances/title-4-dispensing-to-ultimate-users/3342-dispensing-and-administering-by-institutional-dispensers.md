@@ -13,16 +13,7 @@ commissioner, to an alternative medical facility only pursuant to a
 written order by a practitioner for medication. Such orders shall be
 made and preserved in the manner and form as the commissioner shall, by
 regulation, prescribe.
-  * 2. An institutional dispenser may dispense controlled substances for
-use off its premises only pursuant to a prescription, prepared and filed
-in conformity with this title, provided, however, that, in an emergency
-situation as defined by rule or regulation of the department, a
-practitioner in a hospital without a full-time pharmacy may dispense
-controlled substances to a patient in a hospital emergency room for use
-off the premises of the institutional dispenser for a period not to
-exceed twenty-four hours.
-  * NB Effective until February 20, 2025
-  * 2. An institutional dispenser may dispense controlled substances for
+  2. An institutional dispenser may dispense controlled substances for
 use off its premises only pursuant to a prescription, prepared and filed
 in conformity with this title, provided, however, that, in an emergency
 situation as defined by rule or regulation of the department, a
@@ -32,7 +23,6 @@ off the premises of the institutional dispenser for a period not to
 exceed twenty-four hours, unless the federal drug enforcement
 administration has authorized a longer time period for the purpose of
 initiating maintenance treatment, detoxification treatment, or both.
-  * NB Effective February 20, 2025
   3. An institutional dispenser shall maintain records of all controlled
 substances dispensed and administered in such manner as the commissioner
 shall, by regulation, require.
