@@ -635,61 +635,59 @@ between the marketplace provider and marketplace seller will have the
 same effect as a marketplace seller's acceptance of a certificate of
 collection from such marketplace provider under paragraph two of this
 subdivision.
-  * (m) (1) A booking service shall be required to (i) collect from the
-occupants the applicable taxes arising from such occupancies; (ii)
-comply with all the provisions of this article and article twenty-nine
-of this chapter and any regulations adopted pursuant thereto; (iii)
-register to collect tax under section eleven hundred thirty-four of this
-part; and (iv) retain records and information as required by the
-commissioner and cooperate with the commissioner to ensure the proper
-collection and remittance of tax imposed, collected, or required to be
-collected under this article and article twenty-nine of this chapter.
-  (2) In carrying out the obligations imposed under this section, a
-booking service shall have all the duties, benefits, and entitlements of
-a person required to collect tax under this article and article
-twenty-nine of this chapter with respect to the occupancies giving rise
-to the tax obligation, including the right to accept a certificate or
-other documentation from an occupant substantiating an exemption or
-exclusion from tax, as if such booking service were the operator of the
-hotel with respect to such occupancy, including the right to receive the
-refund authorized by subdivision (e) of this section and the credit
+  (m) (1) A booking service with respect to a sale for every occupancy
+of a short term rental unit it facilitates: (A) shall have all the
+obligations and rights of a vendor under this article and article
+twenty-nine of this chapter and under any regulations adopted pursuant
+thereto, including, but not limited to, the duty to obtain a certificate
+of authority, to collect tax, file returns, remit tax, and the right to
+accept a certificate or other documentation from a customer
+substantiating an exemption or exclusion from tax, the right to receive
+the refund authorized by subdivision (e) of this section and the credit
 allowed by subdivision (f) of section eleven hundred thirty-seven of
-this part.
-  (3) An operator of a hotel is not a person required to collect tax for
-purposes of this part with respect to taxes imposed upon occupancies of
-hotels if:
-  (i) the operator of the hotel can show that the occupancy was
-facilitated by a booking service who is registered to collect tax
-pursuant to section eleven hundred thirty-four of this part; and
-  (ii) the operator of the hotel accepted from the booking service a
-properly completed certificate of collection in a form prescribed by the
-commissioner certifying that the booking service has agreed to assume
-the tax collection and filing responsibilities of the operator of the
-hotel; and
-  (iii) any failure of the booking service to collect the proper amount
-of tax with respect to such occupancy was not the result of the operator
-of the hotel providing incorrect information to the booking service,
-whether intentional or unintentional.
+this part subject to the provisions of such subdivisions; and (B) shall
+keep such records and information and cooperate with the commissioner to
+ensure the proper collection and remittance of tax imposed, collected,
+or required to be collected under this article and article twenty-nine
+of this chapter.
+  (2) An operator is relieved from the duty to collect tax in regard to
+a particular rent for the occupancy of a short term rental unit subject
+to tax under subdivision (e) of section eleven hundred five of this
+article and shall not include the rent from such occupancy in its
+taxable sales for purposes of section eleven hundred thirty-six of this
+part if in regard to such occupancy:
+  (A) the operator of the short term rental can show that such occupancy
+was facilitated by a booking service from whom such operator has
+received in good faith a properly completed certificate of collection in
+a form prescribed by the commissioner certifying that the booking
+service is registered to collect sales tax and will collect sales tax on
+all taxable sales of occupancy of a short term rental unit by the
+operator facilitated by the booking service, and with such other
+information as the commissioner may prescribe; and
+  (B) any failure of the booking service to collect the proper amount of
+tax in regard to such sale was not the result of such operator providing
+the booking service with incorrect information.
   This provision shall be administered in a manner consistent with
 subparagraph (i) of paragraph one of subdivision (c) of this section as
 if a certificate of collection were a resale or exemption certificate
 for purposes of such subparagraph, including with regard to the
 completeness of such certificate of collection and the timing of its
-acceptance by the operator of the hotel; provided however, that with
-regard to any occupancies sold by an operator of the hotel that are
-facilitated by a booking service who is affiliated with such operator,
-the operator shall be deemed liable as a person under a duty to act for
-such booking service for purposes of subdivision one of section eleven
-hundred thirty-one of this part.
-  (4) The commissioner may, in the commissioner's discretion develop
-standard language, or approve language developed by a booking service,
-in which the booking service obligates itself to collect the tax on
-behalf of all the operators of hotels.
-  (5) In the event an operator of a hotel is a room remarketer, and all
-other provisions of this subdivision are met such that a booking service
-is obligated to collect tax, and does in fact collect tax as evidenced
-by the books and records of such booking service, then the provisions of
-subdivision (e) of section eleven hundred nineteen of this article shall
-be applicable.
-  * NB Effective April 20, 2025
+acceptance by the operator. Provided that with regard to any sales of
+occupancy of a short term rental unit by an operator that are
+facilitated by a booking service who is affiliated with such operator
+within the meaning of paragraph ten of subdivision (c) of section eleven
+hundred one of this article, the operator shall be deemed liable as a
+person under a duty to act for such booking service for purposes of
+subdivision one of section eleven hundred thirty-one of this part.
+  (3) The commissioner may, at their discretion: (A) develop a standard
+provision, or approve a provision developed by a booking service, in
+which the booking service obligates itself to collect the tax on behalf
+of all operators for whom the booking service facilitates sales of
+occupancy of a short term rental unit, with respect to all sales that it
+facilitates for such operators where the rental occurs in the state; and
+(B) provide by regulation or otherwise that the inclusion of such
+provision in the publicly-available agreement between the booking
+service and operator will have the same effect as an operator's
+acceptance of a certificate of collection from such booking service
+under paragraph two of this subdivision.
 ```

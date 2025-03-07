@@ -19,7 +19,8 @@
                     PART I--AUTHORITY TO IMPOSE TAXES
             SUBPART A--TAXES ADMINISTERED BY CITIES, COUNTIES
                           AND SCHOOL DISTRICTS
-Section 1200.       Definition.
+Section 1200.       Authorization to impose occupancy tax on short term
+                      rental units.
         1201.       Taxes administered by cities of one million or more.
         1201-a.     Credits against taxes administered by cities of one
                       million or more.

@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Real Property Law § 447-F", "kind": "section", "law_id": "RPP", "location_id": "447-F", "path": "ARTICLE 12-D › SECTION 447-F", "repealed": false, "repealed_date": null, "source": "nys-laws:RPP/447-F.md", "title": "Enforcement"} -->
+# Real Property Law § 447-F — Enforcement
+
+[Real Property Law](../README.md) › [Article 12-D — Short-term Rental Units](README.md)
+
+```text
+  * § 447-f. Enforcement. 1. The provisions of this article may be
+enforced in accordance with article eight of the multiple dwelling law
+or article eight of the multiple residence law, as applicable in the
+covered jurisdiction where the short-term unit is located.
+  2. Counties that are covered jurisdictions may enter into agreements
+with a booking service for assistance in enforcing the provisions of
+this section, including but not limited to an agreement whereby the
+booking service agrees to remove a listing from its platform that is
+deemed ineligible for use as a short-term rental unit under the
+provisions of this article, and whereby the booking service agrees to
+prohibit a short-term rental host from listing any listing without a
+valid registration number.
+  3. The attorney general shall be authorized to bring an action for a
+violation of this article for any such violations occurring in the
+state.
+  4. A covered jurisdiction shall be entitled to bring an action for a
+violation of this article for any such violations of this article
+occurring in the covered jurisdiction, and may notify the attorney
+general.
+  * NB Effective September 22, 2025
+```

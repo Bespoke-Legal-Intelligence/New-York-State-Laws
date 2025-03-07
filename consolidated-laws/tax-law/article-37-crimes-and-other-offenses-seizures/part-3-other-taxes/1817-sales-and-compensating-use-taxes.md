@@ -8,25 +8,26 @@
 obtain a certificate of authority under section eleven hundred
 thirty-four of this chapter who, without possessing a valid certificate
 of authority, willfully (1) sells tangible personal property or services
-subject to tax, receives amusement charges or operates a hotel, (2)
-purchases or sells tangible personal property for resale, or (3) sells
-petroleum products; and any person who fails to surrender a certificate
-of authority as required by such article shall be guilty of a
-misdemeanor.
+subject to tax, receives amusement charges or operates a hotel or short
+term rental unit, (2) purchases or sells tangible personal property for
+resale, or (3) sells petroleum products; and any person who fails to
+surrender a certificate of authority as required by such article shall
+be guilty of a misdemeanor.
   (b) Any person required to obtain a certificate of authority under
 section eleven hundred thirty-four of this chapter who within five years
 after a determination by the commissioner, pursuant to such section, to
 suspend, revoke or refuse to issue a certificate of authority has become
 final, and without possession of a valid certificate of authority (1)
 sells tangible personal property or services subject to tax, receives
-amusement charges or operates a hotel, (2) purchases or sells tangible
-personal property for resale, or (3) sells petroleum products, shall be
-guilty of a misdemeanor. It shall be an affirmative defense that such
-person performed the acts described in this subdivision without
-knowledge of such determination. Any person who violates a provision of
-this subdivision, upon conviction, shall be subject to a fine in any
-amount authorized by this article, but not less than five hundred
-dollars, in addition to any other penalty provided by law.
+amusement charges or operates a hotel or short term rental unit, (2)
+purchases or sells tangible personal property for resale, or (3) sells
+petroleum products, shall be guilty of a misdemeanor. It shall be an
+affirmative defense that such person performed the acts described in
+this subdivision without knowledge of such determination. Any person who
+violates a provision of this subdivision, upon conviction, shall be
+subject to a fine in any amount authorized by this article, but not less
+than five hundred dollars, in addition to any other penalty provided by
+law.
   (c) Any person who willfully fails to file a notice of a show as
 required by article twenty-eight of this chapter or who willfully rents,
 leases or grants a license to use space for a show or operates a show

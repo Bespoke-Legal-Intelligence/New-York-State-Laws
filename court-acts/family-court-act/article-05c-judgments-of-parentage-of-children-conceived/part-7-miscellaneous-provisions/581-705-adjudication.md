@@ -4,7 +4,7 @@
 [Family Court Act](../../README.md) › [Article 5-C — Judgments of Parentage of Children Conceived Through Assisted Reproduction or Pursuant to Surrogacy Agreements](../README.md) › [Part 7 — Miscellaneous Provisions](README.md)
 
 ```text
-  § 581-705. Adjudication. (a) A court adjudicating the parentage of a
+§ 581-705. Adjudication. (a) A court adjudicating the parentage of a
 child conceived through assisted reproduction or adjudicating the
 enforceability of an embryo disposition agreement may apply section
 581-202 and part three of this article retroactively.
@@ -16,10 +16,11 @@ shall be entitled to seek a judgment of parentage pursuant to section
 581-407 of this article.
   (c) This article shall apply retroactively to uncompensated surrogacy
 agreements entered into prior to February fifteenth, two thousand
-twenty-two.
+twenty-one, with regard to a court adjudication the parentage of a
+child.
   (d) Surrogacy agreements that were executed on or after February
-fifteenth, two thousand twenty-three, but before the effective date of
-the chapter of the laws of two thousand twenty-four that added this
+fifteenth, two thousand twenty-one, but before the effective date of the
+chapter of the laws of two thousand twenty-four that added this
 subdivision that were in compliance with this article before it was
 amended by the chapter of the laws of two thousand twenty-four that
 added this subdivision shall be deemed a compliant surrogacy agreement

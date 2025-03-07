@@ -666,34 +666,35 @@ use of, the services described in paragraph seven of subdivision (c) of
 section eleven hundred five of this chapter; (v) shall provide that, for
 purposes of the tax described in subdivision (e) of section eleven
 hundred five of this chapter, "permanent resident" means any occupant of
-any room or rooms in a hotel for at least one hundred eighty consecutive
-days with regard to the period of such occupancy; (vi) may omit the
-exception provided in paragraph one of subdivision (f) of section eleven
-hundred five of this chapter for charges to a patron for admission to,
-or use of, facilities for sporting activities in which the patron is to
-be a participant, such as bowling alleys and swimming pools; (vii) may
-provide the clothing and footwear exemption in paragraph thirty of
-subdivision (a) of section eleven hundred fifteen of this chapter, and,
-notwithstanding any provision of subdivision (d) of this section to the
-contrary, any local law providing for such exemption or repealing such
-exemption, may go into effect on any one of the following dates: March
-first, June first, September first or December first; (viii) shall omit
-the exemption provided in paragraph forty-one of subdivision (a) of
-section eleven hundred fifteen of this chapter; (ix) shall omit the
-exemption provided in subdivision (c) of section eleven hundred fifteen
-of this chapter insofar as it applies to fuel, gas, electricity,
-refrigeration and steam, and gas, electric, refrigeration and steam
-service of whatever nature for use or consumption directly and
-exclusively in the production of gas, electricity, refrigeration or
-steam; (x) shall omit, unless such city elects otherwise, the provision
-for refund or credit contained in clause six of subdivision (a) or in
-subdivision (d) of section eleven hundred nineteen of this chapter;
-(xii) shall omit, unless such city elects otherwise, the exemption for
-residential solar energy systems equipment and electricity provided in
-subdivision (ee) of section eleven hundred fifteen of this chapter;
-(xiii) shall omit, unless such city elects otherwise, the exemption for
-commercial solar energy systems equipment and electricity provided in
-subdivision (ii) of section eleven hundred fifteen of this chapter; and
+any room or rooms in a hotel or short term rental unit for at least one
+hundred eighty consecutive days with regard to the period of such
+occupancy; (vi) may omit the exception provided in paragraph one of
+subdivision (f) of section eleven hundred five of this chapter for
+charges to a patron for admission to, or use of, facilities for sporting
+activities in which the patron is to be a participant, such as bowling
+alleys and swimming pools; (vii) may provide the clothing and footwear
+exemption in paragraph thirty of subdivision (a) of section eleven
+hundred fifteen of this chapter, and, notwithstanding any provision of
+subdivision (d) of this section to the contrary, any local law providing
+for such exemption or repealing such exemption, may go into effect on
+any one of the following dates: March first, June first, September first
+or December first; (viii) shall omit the exemption provided in paragraph
+forty-one of subdivision (a) of section eleven hundred fifteen of this
+chapter; (ix) shall omit the exemption provided in subdivision (c) of
+section eleven hundred fifteen of this chapter insofar as it applies to
+fuel, gas, electricity, refrigeration and steam, and gas, electric,
+refrigeration and steam service of whatever nature for use or
+consumption directly and exclusively in the production of gas,
+electricity, refrigeration or steam; (x) shall omit, unless such city
+elects otherwise, the provision for refund or credit contained in clause
+six of subdivision (a) or in subdivision (d) of section eleven hundred
+nineteen of this chapter; (xii) shall omit, unless such city elects
+otherwise, the exemption for residential solar energy systems equipment
+and electricity provided in subdivision (ee) of section eleven hundred
+fifteen of this chapter; (xiii) shall omit, unless such city elects
+otherwise, the exemption for commercial solar energy systems equipment
+and electricity provided in subdivision (ii) of section eleven hundred
+fifteen of this chapter; and
 ** (xiv) shall exclude from the operation of such local taxes all sales
 of fuel sold for use in commercial aircraft and general aviation
 aircraft.

@@ -4,15 +4,15 @@
 [Tax Law](../../README.md) › [Article 28 — Sales and Compensating Use Taxes](../README.md) › [Part 2 — Imposition of Taxes](README.md)
 
 ```text
-  § 1104. Convention center hotel unit fee. (a) Imposition. In addition
+  § 1104. Convention center hotel unit fee.  (a) Imposition. In addition
 to any other fee or tax imposed by this article or any other law, on and
 after April first, two thousand five, there is hereby imposed within the
 territorial limits of a city with a population of a million or more and
 there shall be paid a unit fee on every occupancy of a unit in a hotel
-in such city at the rate of one dollar and fifty cents per unit per day,
-except that such unit fee shall not be imposed upon (1) occupancy by a
-permanent resident or (2) where the rent per unit is not more than at
-the rate of two dollars per day.
+or short term rental unit in such city at the rate of one dollar and
+fifty cents per unit per day, except that such unit fee shall not be
+imposed upon (1) occupancy by a permanent resident or (2) where the rent
+per unit is not more than at the rate of two dollars per day.
   (b) Administration and enforcement. The unit fee imposed by this
 section shall be administered and collected in a like manner as the tax
 imposed by subdivision (e) of section eleven hundred five of this

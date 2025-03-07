@@ -1,12 +1,12 @@
-﻿<!-- nyslaw {"kind": "container", "law_id": "RPP", "location_id": "A12-D", "path": "ARTICLE 12-D", "source": "nys-laws:RPP/A12-D.md", "title": "Short-term Residential Rental Units"} -->
-# Article 12-D — Short-term Residential Rental Units
+﻿<!-- nyslaw {"kind": "container", "law_id": "RPP", "location_id": "A12-D", "path": "ARTICLE 12-D", "source": "nys-laws:RPP/A12-D.md", "title": "Short-term Rental Units"} -->
+# Article 12-D — Short-term Rental Units
 
 [Real Property Law](../README.md)
 
 ## Contents
 
 - [§ 447-A Definitions](447a-definitions.md)
-- [§ 447-B Short-term residential rental units; regulation](447b-short-term-residential-rental-units-regulation.md)
+- [§ 447-B Short-term rental units; regulation](447b-short-term-rental-units-regulation.md)
 - [§ 447-C Registration](447c-registration.md)
 - [§ 447-D Exceptions](447d-exceptions.md)
 - [§ 447-E Penalties](447e-penalties.md)
@@ -18,15 +18,15 @@
 
 ```text
                              * ARTICLE 12-D
-                   SHORT-TERM RESIDENTIAL RENTAL UNITS
+                         SHORT-TERM RENTAL UNITS
 Section 447-a. Definitions.
-        447-b. Short-term residential rental units; regulation.
+        447-b. Short-term rental units; regulation.
         447-c. Registration.
         447-d. Exceptions.
         447-e. Penalties.
         447-f. Enforcement.
         447-g. Data sharing.
-  * NB Effective April 20, 2025
+  * NB Effective September 22, 2025
 ```
 
 </details>

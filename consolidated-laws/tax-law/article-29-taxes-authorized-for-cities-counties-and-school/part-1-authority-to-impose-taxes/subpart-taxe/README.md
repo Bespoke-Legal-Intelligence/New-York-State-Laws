@@ -7,7 +7,7 @@
 
 ## Contents
 
-- [§ 1200 Definition](1200-definition.md)
+- [§ 1200 Authorization to impose occupancy tax on short term rental units](1200-authorization-to-impose-occupancy-tax.md)
 - [§ 1201 Taxes administered by cities of one million or more](1201-taxes-administered-by-cities-of-one.md)
 - [§ 1201-A Credits against taxes administered by cities of one million or more](1201a-credits-against-taxes-administered.md)
 - [§ 1201-B Additional credits against taxes administered by cities of one million or more](1201b-additional-credits-against-taxes.md)

@@ -12,6 +12,7 @@
 - [§ 37-1009 Reporting](37-1009-reporting.md)
 - [§ 37-1011 Certification of compliance](37-1011-certification-of-compliance.md)
 - [§ 37-1013 Severability](37-1013-severability.md)
+- [§ 37-1015 Regulations](37-1015-regulations.md)
 
 <details>
 <summary>Official heading of Title 10, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

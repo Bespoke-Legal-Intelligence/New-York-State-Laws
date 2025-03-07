@@ -274,10 +274,10 @@ exceeding four fluid ounces each, and each sample shall be a different
 beer than the others. Only a customer's first purchase during each
 calendar day at each licensed entity shall be exempt under this
 subparagraph.
-  (e) (1) The rent for every occupancy of a room or rooms in a hotel in
-this state, except that the tax shall not be imposed upon (i) a
-permanent resident, or (ii) where the rent is not more than at the rate
-of two dollars per day.
+  (e) (1) The rent for every occupancy of a room or rooms in a hotel or
+short term rental unit in this state, except that the tax shall not be
+imposed upon (i) a permanent resident, or (ii) where the rent is not
+more than at the rate of two dollars per day.
   (2) Except as provided in subdivision (r) of section eleven hundred
 eleven of this part, when occupancy is provided, for a single
 consideration, with property, services, amusement charges, or any other
@@ -292,15 +292,6 @@ any sales slip, invoice, receipt, or other statement given the occupant,
 and such rent is reasonable in relation to the value of such property,
 services, amusement charges or other items, only such separately stated
 rent will be subject to tax under paragraph one of this subdivision.
-  * (3) The rent for every occupancy of a room or rooms in a short-term
-rental unit, or space in a short-term rental unit, a type of a hotel
-offered for rent through a booking service, as defined in paragraph ten
-of subdivision (c) of section eleven hundred one of this article,
-regardless of whether it is furnished, limited to a single family
-occupancy, or provides housekeeping, food, or other common hotel
-services, including, but not limited to, entertainment or planned
-activities.
-  * NB Effective April 20, 2025
   (f) (1) Any admission charge where such admission charge is in excess
 of ten cents to or for the use of any place of amusement in the state,
 except charges for admission to combative sports which charges are taxed

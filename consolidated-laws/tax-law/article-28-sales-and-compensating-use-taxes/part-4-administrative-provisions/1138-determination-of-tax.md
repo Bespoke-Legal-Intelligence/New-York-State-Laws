@@ -77,14 +77,14 @@ who as such officer, director, employee or member is under a duty to act
 for such corporation, partnership or individual proprietorship in
 complying with any requirement of this article for the tax imposed,
 collected or required to be collected, or for the tax required to be
-paid or paid over to the tax commission under this article, and the
-amount of such tax liability (whether or not a return is filed under
-this article, whether or not such return when filed is incorrect or
+paid or paid over to the commissioner under this article, and the amount
+of such tax liability (whether or not a return is filed under this
+article, whether or not such return when filed is incorrect or
 insufficient, or where the tax shown to be due on the return filed under
 this article has not been paid or has not been paid in full) shall be
-determined by the tax commission in the manner provided for in
-paragraphs one and two of this subdivision. Such determination shall be
-an assessment of the tax and liability for the tax with respect to such
+determined by the commissioner in the manner provided for in paragraphs
+one and two of this subdivision. Such determination shall be an
+assessment of the tax and liability for the tax with respect to such
 person unless such person, within ninety days after the giving of notice
 of such determination, shall apply to the division of tax appeals for a
 hearing.  If such determination is identical to or arises out of a
@@ -95,26 +95,27 @@ tax appeals on behalf of the corporation, dissolved corporation,
 partnership or individual proprietorship shall be deemed to include any
 and all subsequently issued personal determinations and a separate
 application to the division of tax appeals for a hearing shall not be
-required. The tax commission may, nevertheless, of its own motion,
+required. The commissioner may, nevertheless, of their own motion,
 redetermine such determination of tax or liability for tax. Where the
-tax commission determines or redetermines that the amount of tax claimed
+commissioner determines or redetermines that the amount of tax claimed
 to be due from a vendor of tangible personal property or services, a
-recipient of amusement charges, or an operator of a hotel is erroneous
-or excessive in whole or in part, it shall redetermine the amount of tax
-properly due from any such person as a person required to collect tax
-with respect to such vendor, recipient, or operator, and if such amount
-is less than the amount of tax for which such person would have been
-liable in the absence of such determination or redetermination, it shall
-reduce such liability accordingly. Furthermore, the tax commission may,
-of its own motion, abate on behalf of any such person, any part of the
-tax determined to be erroneous or excessive whether or not such tax had
-become finally and irrevocably fixed with respect to such person but no
-claim for abatement may be filed by any such person. The provisions of
-this paragraph shall not be construed to limit in any manner the powers
-of the attorney general under subdivision (a) of section eleven hundred
-forty-one or the powers of the tax commission to issue a warrant under
-subdivision (b) of such section against any person whose liability has
-become finally and irrevocably fixed.
+recipient of amusement charges, or an operator of a hotel or short term
+rental unit is erroneous or excessive in whole or in part, they shall
+redetermine the amount of tax properly due from any such person as a
+person required to collect tax with respect to such vendor, recipient,
+or operator, and if such amount is less than the amount of tax for which
+such person would have been liable in the absence of such determination
+or redetermination, they shall reduce such liability accordingly.
+Furthermore, the commissioner may, of their own motion, abate on behalf
+of any such person, any part of the tax determined to be erroneous or
+excessive whether or not such tax had become finally and irrevocably
+fixed with respect to such person but no claim for abatement may be
+filed by any such person. The provisions of this paragraph shall not be
+construed to limit in any manner the powers of the attorney general
+under subdivision (a) of section eleven hundred forty-one of this part
+or the powers of the commissioner to issue a warrant under subdivision
+(b) of such section against any person whose liability has become
+finally and irrevocably fixed.
   (C) The liability of any person as an owner of a filling station, for
 the penalty imposed by subparagraph (vii) of paragraph one of
 subdivision (a) of section eleven hundred forty-five, and the amount of

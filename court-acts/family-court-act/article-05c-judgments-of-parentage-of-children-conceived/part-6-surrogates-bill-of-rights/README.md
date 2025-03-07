@@ -10,7 +10,7 @@
 - [§ 581-603 Independent legal counsel](581-603-independent-legal-counsel.md)
 - [§ 581-604 Health insurance and medical costs](581-604-health-insurance-and-medical-costs.md)
 - [§ 581-605 Counseling](581-605-counseling.md)
-- [§ 581-606 Life insurance, contractual liability, or accidental death insurance policy](581-606-life-insurance-contractual-liability-or-accidental.md)
+- [§ 581-606 Life insurance](581-606-life-insurance.md)
 - [§ 581-607 Termination of surrogacy agreement](581-607-termination-of-surrogacy-agreement.md)
 
 <details>

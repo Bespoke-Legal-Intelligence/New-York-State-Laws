@@ -9,7 +9,9 @@ energy transition projects. 1. For purposes of this section, a "covered
 climate risk-related and energy transition project" means a construction
 project that receives at least one hundred thousand dollars of funds
 from the New York climate action fund climate investment account
-established pursuant to section ninety-nine-qq of the state finance law.
+established pursuant to section ninety-nine-qq of the state finance law
+or the climate change adaptation fund established pursuant to section
+ninety-seven-m of the state finance law.
   2. A covered climate risk-related and energy transition project shall
 be subject to prevailing wage requirements in accordance with sections
 two hundred twenty, two hundred twenty-a, two hundred twenty-b, two
@@ -52,12 +54,13 @@ regulatory agreement with a local, state, or federal governmental
 entity.
   4. As a condition of receiving funds from the New York climate action
 fund climate investment account established pursuant to section
-ninety-nine-qq of the state finance law for a covered climate
-risk-related and energy transition project, the owner or developer of
-such covered climate risk-related and energy transition project, or a
-third party acting on such owner's or developer's behalf, shall agree to
-enter into a labor peace agreement with at least one bona fide labor
-organization either:
+ninety-nine-qq of the state finance law or from the climate change
+adaptation fund established pursuant to section ninety-seven-m of the
+state finance law for a covered climate risk-related and energy
+transition project, the owner or developer of such covered climate
+risk-related and energy transition project, or a third party acting on
+such owner's or developer's behalf, shall agree to enter into a labor
+peace agreement with at least one bona fide labor organization either:
   a. where such bona fide labor organization is actively representing
 non-construction employees who will be working within the covered
 climate risk-related and energy transition project once built; or
@@ -70,9 +73,10 @@ labor organizations and members from engaging in picketing, work
 stoppages, boycotts, and any other economic interference.
   6. The owner or developer using funds from the New York climate action
 fund climate investment account established pursuant to section
-ninety-nine-qq of the state finance law for a covered climate
-risk-related and energy transition project pursuant to this section
-shall:
+ninety-nine-qq of the state finance law or from the climate change
+adaptation fund established pursuant to section ninety-seven-m of the
+state finance law for a covered climate risk-related and energy
+transition project pursuant to this section shall:
   a. require the use of apprenticeship agreements as defined by article
 twenty-three of this chapter; or for industries without apprenticeship
 programs, require the use of workforce training, preferably in
@@ -100,9 +104,11 @@ article nine of this chapter.
   10. Any public entity receiving at least five million dollars in funds
 from the New York climate action fund climate investment account
 established pursuant to section ninety-nine-qq of the state finance law
-for a project which involves the construction, reconstruction,
-alteration, maintenance, moving, demolition, excavation, development or
-other improvement of any building, structure or land, shall be subject
-to section two hundred twenty-two of this article.
+or from the climate change adaptation fund established pursuant to
+section ninety-seven-m of the state finance law for a project which
+involves the construction, reconstruction, alteration, maintenance,
+moving, demolition, excavation, development or other improvement of any
+building, structure or land, shall be subject to section two hundred
+twenty-two of this article.
   * NB There are 2 § 224-f's
 ```

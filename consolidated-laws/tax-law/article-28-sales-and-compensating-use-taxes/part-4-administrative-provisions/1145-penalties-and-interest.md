@@ -215,13 +215,14 @@ for paying) and ending on the day on which such tax is paid.
 section eleven hundred thirty-four of this part who, without possessing
 a valid certificate of authority, (A) sells tangible personal property
 or services subject to tax, receives amusement charges or operates a
-hotel, (B) purchases or sells tangible personal property for resale, (C)
-sells petroleum products, or (D) sells cigarettes shall, in addition to
-any other penalty imposed by this chapter, be subject to a penalty in an
-amount not exceeding five hundred dollars for the first day on which
-such sales or purchases are made, plus an amount not exceeding two
-hundred dollars for each subsequent day on which such sales or purchases
-are made, not to exceed ten thousand dollars in the aggregate.
+hotel or short term rental unit, (B) purchases or sells tangible
+personal property for resale, (C) sells petroleum products, or (D) sells
+cigarettes shall, in addition to any other penalty imposed by this
+chapter, be subject to a penalty in an amount not exceeding five hundred
+dollars for the first day on which such sales or purchases are made,
+plus an amount not exceeding two hundred dollars for each subsequent day
+on which such sales or purchases are made, not to exceed ten thousand
+dollars in the aggregate.
   (ii) Any person who fails to surrender a certificate of authority when
 a notice of revocation or suspension has become final shall, in addition
 to any other penalty imposed by this chapter, be subject to a penalty in

@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 13-A — Tax On Petroleum Businesses](README.md)
 
 ```text
-  § 314. Secrecy.-- (a) General.--Except in accordance with proper
+  § 314. Secrecy.--(a) General. Except in accordance with proper
 judicial order or as otherwise provided by law, it shall be unlawful for
 any tax commissioner, any officer or employee of the department of
 taxation and finance, or any person who, pursuant to this section, is
@@ -33,7 +33,12 @@ Nothing herein shall be construed to prohibit the delivery to a
 petroleum business or its duly authorized representative of a copy of
 any return filed by it, nor to prohibit the publication of statistics so
 classified as to prevent the identification of particular returns and
-the items thereof, or the publication of delinquent lists showing the
+the items thereof, or the disclosure of data other than taxpayer
+identity information from a return or returns of one or more petroleum
+or fossil fuel businesses to the department of environmental
+conservation or the New York state energy research and development
+authority for the purpose of implementing the New York state climate
+change superfund act, or the publication of delinquent lists showing the
 names of petroleum businesses who have failed to pay their taxes at the
 time and in the manner provided by section three hundred eight of this
 article together with any relevant information which in the opinion of
@@ -51,22 +56,22 @@ herein shall be construed to prohibit the disclosure of taxpayer
 identity information, including name, mailing address and taxpayer
 identifying number (social security account number, or such other number
 as has been assigned by the secretary of the United States treasury or
-his delegate, or by the commissioner of taxation and finance), with
-respect to persons who are registered as residual petroleum product or
-aviation fuel businesses under this article or as distributors of motor
-fuel or diesel motor fuel or kero-jet fuel only for the purpose of
-article twelve-A of this chapter or this article, whose registration as
-a residual petroleum product business or as such distributor has been
-cancelled or suspended pursuant to this article or such article twelve-A
-or whose application for registration as a residual petroleum product
-business or as such distributor has been refused pursuant to this
-article or such article twelve-A. In addition, the commissioner may
-disclose the fact that a person is not registered as a residual
-petroleum business under this article or as a distributor of motor fuel,
-diesel motor fuel or kero-jet fuel only under article twelve-A of this
-chapter. Information disclosed pursuant to this subdivision shall not,
-by itself, be construed as proof of compliance or noncompliance with the
-provisions of this chapter.
+such secretary's delegate, or by the commissioner of taxation and
+finance), with respect to persons who are registered as residual
+petroleum product or aviation fuel businesses under this article or as
+distributors of motor fuel or diesel motor fuel or kero-jet fuel only
+for the purpose of article twelve-A of this chapter or this article,
+whose registration as a residual petroleum product business or as such
+distributor has been cancelled or suspended pursuant to this article or
+such article twelve-A or whose application for registration as a
+residual petroleum product business or as such distributor has been
+refused pursuant to this article or such article twelve-A. In addition,
+the commissioner may disclose the fact that a person is not registered
+as a residual petroleum business under this article or as a distributor
+of motor fuel, diesel motor fuel or kero-jet fuel only under article
+twelve-A of this chapter. Information disclosed pursuant to this
+subdivision shall not, by itself, be construed as proof of compliance or
+noncompliance with the provisions of this chapter.
   (b) Penalty for violation.--(1) Any officer or employee of the state
 who willfully violates the provisions of subdivision (a) of this section
 shall be dismissed from office and be incapable of holding any public

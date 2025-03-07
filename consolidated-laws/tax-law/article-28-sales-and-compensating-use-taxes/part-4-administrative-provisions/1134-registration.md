@@ -286,6 +286,18 @@ additional place of business of such registrant.
 create and maintain a publicly accessible, searchable database
 containing the certificate of authority number and any corresponding
 identifying information for each vendor in the state.
+  (7) An operator of a short term rental unit, as defined in paragraph
+nine of subdivision (c) of section eleven hundred one of this article,
+shall be relieved of the requirement to register in paragraph one of
+this subdivision if such operator's sales of occupancy are wholly
+facilitated by one or more booking services from whom the operator has
+received in good faith a certificate of collection that meets the
+requirements set forth in paragraph two of subdivision (m) of section
+eleven hundred thirty-two of this part or the booking service has
+included a provision approved by the commissioner in the
+publicly-available agreement between the booking service and the
+operator as described in subdivision (m) of section eleven hundred
+thirty-two of this part.
   (b) (1) Every show promoter shall, at least ten days prior to the
 opening of a show, file with the commissioner of taxation and finance a
 notice stating the location and dates of such show, in a form prescribed

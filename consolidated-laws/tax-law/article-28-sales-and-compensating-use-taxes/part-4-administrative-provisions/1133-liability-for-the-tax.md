@@ -135,4 +135,12 @@ marketplace seller. Provided, however, this subdivision shall not apply
 if the marketplace seller and marketplace provider are affiliated within
 the meaning of paragraph one of subdivision (e) of section eleven
 hundred one of this article.
+  (g) A booking service shall be relieved of liability under this
+section for failure to collect the correct amount of tax to the extent
+that such booking service can show that the error was due to incorrect
+or insufficient information given to the booking service by the
+operator.  Provided, however, this subdivision shall not apply if the
+operator and booking service are affiliated within the meaning of
+paragraph ten of subdivision (c) of section eleven hundred one of this
+article.
 ```
