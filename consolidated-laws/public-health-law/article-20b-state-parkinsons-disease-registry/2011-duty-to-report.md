@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 20-B — State Parkinson's Disease Registry](README.md)
 
 ```text
-  * § 2011. Duty to report. 1. Every physician, nurse practitioner,
+  § 2011. Duty to report. 1. Every physician, nurse practitioner,
 physician assistant and general hospital that diagnoses or is treating a
 patient diagnosed with Parkinson's disease or Parkinsonisms, shall give
 notice no later than one hundred eighty days of every case of
@@ -20,5 +20,4 @@ provided that, the mere incidence of a patient with Parkinson's disease
 shall be the sole required information for the registry under section
 two thousand twelve of this article for any patient who chooses not to
 participate.
-  * NB Effective March 13, 2025
 ```

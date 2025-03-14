@@ -1027,13 +1027,4 @@ hundred thirty-four of this article, who has an agreement with a
 marketplace provider under which the marketplace provider will
 facilitate sales of tangible personal property by such person within the
 meaning of paragraph one of this subdivision.
-  * (3) The rent for every occupancy of a room or rooms in a short-term
-rental unit, or space in a short-term rental unit, a type of a hotel
-offered for rent through a booking service, as defined in paragraph ten
-of subdivision (c) of section eleven hundred one of this article,
-regardless of whether it is furnished, limited to a single family
-occupancy, or provides housekeeping, food, or other common hotel
-services, including, but not limited to, entertainment or planned
-activities.
-  * NB Effective April 20, 2025
 ```

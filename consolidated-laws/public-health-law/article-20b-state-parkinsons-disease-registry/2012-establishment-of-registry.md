@@ -4,8 +4,8 @@
 [Public Health Law](../README.md) › [Article 20-B — State Parkinson's Disease Registry](README.md)
 
 ```text
-  * § 2012. Establishment of registry. 1. The department shall establish
-a Parkinson's disease registry for the collection of information on the
+  § 2012. Establishment of registry. 1. The department shall establish a
+Parkinson's disease registry for the collection of information on the
 incidence and prevalence of Parkinson's disease and Parkinsonisms. The
 department may consult with Parkinson's disease experts, including
 neurologists, patients living with Parkinson's disease, and Parkinson's
@@ -27,5 +27,4 @@ shall create and maintain a public website called the "New York state
 Parkinson's disease registry" which shall include information on the
 incidence and prevalence of Parkinson's disease and Parkinsonisms in the
 state by county, and demographic information on affected patients.
-  * NB Effective March 13, 2025
 ```

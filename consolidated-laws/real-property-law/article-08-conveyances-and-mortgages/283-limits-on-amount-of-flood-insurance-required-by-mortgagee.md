@@ -4,7 +4,7 @@
 [Real Property Law](../README.md) › [Article 8 — Conveyances and Mortgages](README.md)
 
 ```text
-  * § 283. Limits on amount of flood insurance required by mortgagee. No
+  § 283. Limits on amount of flood insurance required by mortgagee. No
 mortgagee shall require a mortgagor to whom the mortgagee makes,
 increases, extends, or renews any loan or line of credit secured by
 improved residential real property to purchase or pay for flood
@@ -22,5 +22,4 @@ may not be sufficient to pay for many needed repairs after a flood and
 may not compensate you for your losses in the property due to the flood.
 If you wish to protect your home or investment, you may wish to purchase
 more flood insurance than the amount we are requiring you to buy.'
-  * NB Effective March 13, 2025
 ```

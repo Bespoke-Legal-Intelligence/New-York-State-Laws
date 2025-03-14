@@ -38,15 +38,11 @@ and postpartum depression;
 guidelines for the screening of conditions listed in subparagraph (ii)
 of this paragraph;
   (iv) validated, evidence-based tools for screening the conditions
-listed in subparagraph (ii) of this paragraph;
-  (vi) information about follow-up support for patients who may require
+listed in subparagraph (ii) of this paragraph; and
+  (v) information about follow-up support for patients who may require
 further evaluation, referral, or treatment including, when available,
 information about specific community resources and entities licensed by
-the office of mental health; and
-  (vii) information on engaging support for the veteran, which may
-include communicating with the other parent of the child and other
-family members, as appropriate and consistent with patient
-confidentiality.
+the office of mental health.
   (b) The information on veterans reproductive mental health care shall
 be posted on the department's website. The commissioner shall, in
 collaboration with the commissioner of mental health and the women

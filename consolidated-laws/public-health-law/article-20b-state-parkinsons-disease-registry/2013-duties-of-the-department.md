@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 20-B — State Parkinson's Disease Registry](README.md)
 
 ```text
-  * § 2013. Duties of the department. 1. Parkinson's disease reports and
+  § 2013. Duties of the department. 1. Parkinson's disease reports and
 data shall be maintained by the department in a manner suitable for
 research purposes, and shall be made available to persons as set forth
 in section two thousand twelve of this article.
@@ -28,5 +28,4 @@ confidentiality, discloses any information provided under this section,
 or who uses information provided under this section in a manner other
 than that prescribed by the commissioner, may be denied further access
 to any confidential information maintained by the department.
-  * NB Effective March 13, 2025
 ```

@@ -4,7 +4,7 @@
 [Public Health Law](../../README.md) › [Article 25 — Maternal and Child Health](../README.md) › [Title 1 — General Provisions](README.md)
 
 ```text
-  * § 2500-m. Access to doulas. (a) When a person is admitted to a
+  § 2500-m. Access to doulas. (a) When a person is admitted to a
 maternal health care facility for delivery and/or inpatient care
 post-delivery, such person may designate a doula to have access to such
 person. The maternal health care facility shall not deny such person
@@ -34,6 +34,4 @@ area as a printed deliverable; written in layperson's language; and made
 available in English and the six most common non-English languages
 spoken by individuals with limited English proficiency in New York state
 as based on the most recent census.
-  * NB There are 2 § 2500-m's
-  * NB Effective March 11, 2025
 ```

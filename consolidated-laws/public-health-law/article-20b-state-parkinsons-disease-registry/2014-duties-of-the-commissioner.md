@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 20-B — State Parkinson's Disease Registry](README.md)
 
 ```text
-  * § 2014. Duties of the commissioner. The commissioner may promulgate
+  § 2014. Duties of the commissioner. The commissioner may promulgate
 any regulations necessary to implement the provisions of this article,
 including but not limited to:
   1. Establishing the form, content, and manner by which providers shall
@@ -17,5 +17,4 @@ information collected by providers and provided to members of the
 department pursuant to this article. This shall include a procedure to
 ensure that confidential patient information is deidentified prior to
 being provided to authorized participants under this article.
-  * NB Effective March 13, 2025
 ```

@@ -15,14 +15,13 @@
 <summary>Official heading of Article 20-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 20-B
+                              ARTICLE 20-B
                    STATE PARKINSON'S DISEASE REGISTRY
 Section 2010. Definitions.
         2011. Duty to report.
         2012. Establishment of registry.
         2013. Duties of the department.
         2014. Duties of the commissioner.
-  * NB Effective March 13, 2025
 ```
 
 </details>

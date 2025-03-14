@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 20-B — State Parkinson's Disease Registry](README.md)
 
 ```text
-  * § 2010. Definitions. As used in this article, the following terms
+  § 2010. Definitions. As used in this article, the following terms
 shall have the following meanings:
   1. "Parkinson's disease" means a chronic and progressive neurologic
 disorder resulting from deficiency of the neurotransmitter dopamine as
@@ -15,5 +15,4 @@ of the movement abnormalities seen in Parkinson's disease including, but
 not limited to, tremor at rest, slow movement, muscle rigidity, impaired
 speech, or muscle stiffness, which often overlap with and can evolve
 from what appears to be Parkinson's disease.
-  * NB Effective March 13, 2025
 ```

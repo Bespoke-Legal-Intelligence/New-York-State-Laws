@@ -109,7 +109,6 @@ Association and other professional society practice guidelines.
 treatment recommendations, and any other information the commissioner
 deems appropriate.
   * NB There are 3 par (h)'s
-  * NB Effective March 13, 2025
   (i) About the short term and long term adverse health risks to adults
 and children who become overweight, obese or underweight. The
 information shall include, but need not be limited to providing
