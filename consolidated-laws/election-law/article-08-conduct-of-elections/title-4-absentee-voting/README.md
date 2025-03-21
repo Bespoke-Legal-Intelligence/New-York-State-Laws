@@ -14,7 +14,7 @@
 - [§ 8-410 Absentee voting; method of](8-410-absentee-voting-method.md)
 - [§ 8-412 Absentee ballots; deadline for receipt, and delivery to polling place](8-412-absentee-ballots-deadline-for-receipt-and-delivery-to-polling-place.md)
 - [§ 8-414 Online absentee ballot tracking system](8-414-online-absentee-ballot-tracking-system.md)
-- [§ 8-416 Absentee ballot drop boxes](8-416-absentee-ballot-drop-boxes.md)
+- [§ 8-416 Ballot drop boxes](8-416-ballot-drop-boxes.md)
 
 <details>
 <summary>Official heading of Title 4, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -39,7 +39,7 @@ Section 8-400. Absentee voting; application for ballot.
         8-412. Absentee ballots; deadline for receipt, and delivery to
                  polling place.
         8-414. Online absentee ballot tracking system.
-        8-416. Absentee ballot drop boxes.
+        8-416. Ballot drop boxes.
 ```
 
 </details>

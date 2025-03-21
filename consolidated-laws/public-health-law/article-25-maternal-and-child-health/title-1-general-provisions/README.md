@@ -23,7 +23,6 @@
 - [§ 2500-K Maternal depression](2500k-maternal-depression.md)
 - [§ 2500-L Pregnant people, blood test for hepatitis C virus (HCV); follow-up care](2500l-pregnant-people-blood-test-for-hepatitis-c-virus-hcv-follow-up-care.md)
 - [§ 2500-M Access to doulas](2500m-access-to-doulas.md)
-- [§ 2500-M\*2 Cesarean section; persons present](2500m-2-cesarean-section-persons-present.md) *(repealed)*
 - [§ 2501 Health and welfare services to all children; duty of local boards](2501-health-and-welfare-services-to-all-children-duty-of-local-boards.md)
 - [§ 2502 Report of certain conditions](2502-report-of-certain-conditions.md)
 - [§ 2503 Drug information to be furnished expectant mothers](2503-drug-information-to-be-furnished-expectant-mothers.md)

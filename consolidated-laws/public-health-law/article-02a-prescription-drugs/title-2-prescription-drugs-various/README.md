@@ -12,6 +12,7 @@
 - [§ 280-A Pharmacy benefit managers](280a-pharmacy-benefit-managers.md)
 - [§ 280-B Unused prescription drug donation and redispensing program](280b-unused-prescription-drug-donation-and-redispensing-program.md)
 - [§ 280-C Pharmacy audits by pharmacy benefit managers](280c-pharmacy-audits-by-pharmacy-benefit-managers.md)
+- [§ 280-D Patient notification of prescription label change](280d-patient-notification-of-prescription-label-change.md)
 
 <details>
 <summary>Official heading of Title 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -28,6 +29,7 @@ Section 278.   Prescription drug retail price lists.
         280-b. Unused prescription drug donation and redispensing
                  program.
         280-c. Pharmacy audits by pharmacy benefit managers.
+        280-d. Patient notification of prescription label change.
 ```
 
 </details>
