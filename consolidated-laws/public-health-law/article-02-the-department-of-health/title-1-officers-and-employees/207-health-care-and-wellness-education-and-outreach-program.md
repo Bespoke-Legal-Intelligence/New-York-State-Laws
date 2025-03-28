@@ -103,7 +103,6 @@ disseminated by the department in coordination with relevant healthcare
 provider groups, and shall include best practices for the treatment and
 screening of movement disorders informed by the American Psychiatric
 Association and other professional society practice guidelines.
-  * NB Effective March 21, 2025
   * NB There are 3 par (h)'s
   * (h) Births of infants with congenital heart defects, including
 treatment recommendations, and any other information the commissioner

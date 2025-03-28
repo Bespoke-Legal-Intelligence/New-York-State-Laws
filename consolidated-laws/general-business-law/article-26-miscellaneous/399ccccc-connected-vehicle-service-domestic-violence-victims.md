@@ -4,8 +4,8 @@
 [General Business Law](../README.md) › [Article 26 — Miscellaneous](README.md)
 
 ```text
-  * § 399-ccccc. Connected vehicle service; domestic violence victims.
-1.  For the purposes of this section, the terms: (a) "connected vehicle
+  § 399-ccccc. Connected vehicle service; domestic violence victims. 1.
+For the purposes of this section, the terms: (a) "connected vehicle
 service" shall mean any technology that enables a person, other than the
 driver or a covered provider, to track the location of, control any
 operation of, or obtain or share data from the vehicle including, but
@@ -82,5 +82,4 @@ hundred dollars per violation.
 agent thereof shall not be subject to liability for any claims arising
 from an action taken necessary for compliance with this section, except
 as provided in this section.
-  * NB Effective March 21, 2025
 ```

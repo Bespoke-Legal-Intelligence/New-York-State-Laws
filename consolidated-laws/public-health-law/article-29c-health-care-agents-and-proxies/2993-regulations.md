@@ -4,18 +4,10 @@
 [Public Health Law](../README.md) › [Article 29-C — Health Care Agents and Proxies](README.md)
 
 ```text
-  * § 2993. Regulations. The commissioner of health, in consultation
-with the commissioners of the office of mental health and the office for
-people with developmental disabilities, shall establish such regulations
-as may be necessary for the implementation of this article, subject to
-the provisions of subdivision two of section two thousand nine hundred
-ninety-one of this article.
-  * NB Effective until March 21, 2025
-  * § 2993. Regulations. The commissioner, in consultation with the
+  § 2993. Regulations. The commissioner, in consultation with the
 commissioners of the office of mental health and the office for people
 with developmental disabilities, shall establish such regulations as may
 be necessary for the implementation of this article, subject to the
 provisions of subdivision two of section twenty-nine hundred ninety-one
 of this article.
-  * NB Effective March 21, 2025
 ```

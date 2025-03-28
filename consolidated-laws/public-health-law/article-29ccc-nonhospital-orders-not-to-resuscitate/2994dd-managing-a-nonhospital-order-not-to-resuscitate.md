@@ -7,16 +7,7 @@
   § 2994-dd. Managing a nonhospital order not to resuscitate. 1. The
 attending practitioner shall record the issuance of a nonhospital order
 not to resuscitate in the patient's medical record.
-  * 2. A nonhospital order not to resuscitate shall be issued upon a
-standard form prescribed by the commissioner. The commissioner shall
-also develop a standard bracelet that may be worn by a patient with a
-nonhospital order not to resuscitate to identify that status; provided,
-however, that no person may require a patient to wear such a bracelet
-and that no person may require a patient to wear such a bracelet as a
-condition for honoring a nonhospital order not to resuscitate or for
-providing health care services.
-  * NB Effective until March 21, 2025
-  * 2. A nonhospital order not to resuscitate shall be issued upon a
+  2. A nonhospital order not to resuscitate shall be issued upon a
 standard form prescribed by the commissioner. A standard bracelet or
 other article may be worn by a patient with a nonhospital order not to
 resuscitate to identify that status; provided, however, that no person
@@ -24,7 +15,6 @@ may require a patient to wear such an article and that no person may
 require a patient to wear such an article as a condition for honoring a
 nonhospital order not to resuscitate or for providing health care
 services.
-  * NB Effective March 21, 2025
   3. An attending practitioner who has issued a nonhospital order not to
 resuscitate, and who transfers care of the patient to another physician,
 nurse practitioner or physician assistant, shall inform the physician,
@@ -53,26 +43,7 @@ practitioner who is informed that a nonhospital order not to resuscitate
 has been revoked shall record the revocation in the patient's medical
 record, cancel the order and make diligent efforts to retrieve the form
 issuing the order, and the standard bracelet, if any.
-  * 6. The commissioner may authorize the use of one or more alternative
-forms for issuing a nonhospital order not to resuscitate (in place of
-the standard form prescribed by the commissioner under subdivision two
-of this section). Such alternative form or forms may also be used to
-issue a non-hospital do not intubate order. Any such alternative forms
-intended for use for persons with developmental disabilities or persons
-with mental illness who are incapable of making their own health care
-decisions or who have a guardian of the person appointed pursuant to
-article eighty-one of the mental hygiene law or article seventeen-A of
-the surrogate's court procedure act must also be approved by the
-commissioner of developmental disabilities or the commissioner of mental
-health, as appropriate. An alternative form under this subdivision shall
-otherwise conform with applicable federal and state law. This
-subdivision does not limit, restrict or impair the use of an alternative
-form for issuing an order not to resuscitate in a general hospital or
-residential health care facility under article twenty-eight of this
-chapter or a hospital under subdivision ten of section 1.03 of the
-mental hygiene law.
-  * NB Effective until March 21, 2025
-  * 6. The commissioner may authorize the use of one or more alternative
+  6. The commissioner may authorize the use of one or more alternative
 forms for issuing a nonhospital order not to resuscitate (in place of
 the standard form prescribed by the commissioner under subdivision two
 of this section). Such alternative form or forms may also be used to
@@ -91,5 +62,4 @@ residential health care facility under article twenty-eight of this
 chapter or a hospital under subdivision ten of section 1.03 of the
 mental hygiene law or a facility certified or operated by the office for
 people with developmental disabilities.
-  * NB Effective March 21, 2025
 ```

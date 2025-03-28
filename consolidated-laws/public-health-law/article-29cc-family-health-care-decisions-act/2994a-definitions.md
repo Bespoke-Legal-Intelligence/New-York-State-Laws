@@ -105,18 +105,11 @@ this article.
   16. "Health care provider" means an individual or facility licensed,
 certified, or otherwise authorized or permitted by law to administer
 health care in the ordinary course of business or professional practice.
-  * 17. "Health or social service practitioner" means a registered
-professional nurse, nurse practitioner, physician, physician assistant,
-psychologist or licensed clinical social worker, licensed or certified
-pursuant to the education law acting within his or her scope of
-practice.
-  * NB Effective until March 21, 2025
-  * 17. "Health or social services practitioner" means a registered
+  17. "Health or social services practitioner" means a registered
 professional nurse, nurse practitioner, physician, physician assistant,
 psychologist, licensed master social worker, or licensed clinical social
 worker, licensed, certified or authorized under the education law acting
 within such health or social services practitioner's scope of practice.
-  * NB Effective March 21, 2025
   17-a. "Hospice" means a hospice as defined in article forty of this
 chapter, without regard to where the hospice care is provided.
   18. "Hospital" means a general hospital, a residential health care
@@ -147,24 +140,14 @@ respiratory arrest.
 patient, means a parent who has custody of, or who has maintained
 substantial and continuous contact with, the minor patient.
   25. "Patient" means a person admitted to a hospital.
-  * 26. "Person connected with the case" means the patient, any person
-on the surrogate list, a parent or guardian of a minor patient, the
-hospital administrator, an attending physician, any other health or
-social services practitioner who is or has been directly involved in the
-patient's care, and any duly authorized state agency, including the
-facility director or regional director for a patient transferred from a
-mental hygiene facility and the facility director for a patient
-transferred from a correctional facility.
-  * NB Effective until March 21, 2025
-  * 26. "Person connected with the case" means the patient, any person
-on the surrogate list, a parent or guardian of a minor patient, the
+  26. "Person connected with the case" means the patient, any person on
+the surrogate list, a parent or guardian of a minor patient, the
 hospital administrator, an attending practitioner, any other health or
 social services practitioner who is or has been directly involved in the
 patient's care, and any duly authorized state agency, including the
 facility director or regional director for a patient transferred from a
 mental hygiene facility and the facility director for a patient
 transferred from a correctional facility.
-  * NB Effective March 21, 2025
   27. "Reasonably available" means that a person to be contacted can be
 contacted with diligent efforts by an attending physician, another
 person acting on behalf of an attending physician, or the hospital.

@@ -48,22 +48,13 @@ the patient's capacity to make health care decisions.
 attending practitioner shall make a determination regarding the
 principal's capacity to make health care decisions for the purposes of
 this article.
-  * 3. Notice of determination. Notice of a determination that a
-principal lacks capacity to make health care decisions shall promptly be
-given:  (a) to the principal, orally and in writing, where there is any
-indication of the principal's ability to comprehend such notice; (b) to
-the agent; (c) if the principal is in or is transferred from a mental
-hygiene facility, to the facility director; and (d) to the conservator
-for, or committee of, the principal.
-  * NB Effective until March 21, 2025
-  * 3. Notice of determination. Notice of a determination that a
-principal lacks capacity to make health care decisions shall promptly be
-given:  (a) to the principal, orally and in writing, where there is any
+  3. Notice of determination. Notice of a determination that a principal
+lacks capacity to make health care decisions shall promptly be given:
+(a) to the principal, orally and in writing, where there is any
 indication of the principal's ability to comprehend such notice; (b) to
 the agent; (c) if the principal is in or is transferred from a mental
 hygiene facility, to the facility director; and (d) to the guardian of
 the principal, if any.
-  * NB Effective March 21, 2025
   4. Limited purpose of determination. A determination made pursuant to
 this section that a principal lacks capacity to make health care
 decisions shall not be construed as a finding that the patient lacks

@@ -47,20 +47,10 @@ chapter.
 subsidy payments are made under this subdivision shall be deemed to be a
 recipient of aid to families with dependent children for purposes of
 determining eligibility for medical assistance.
-  * (c) No payments may be made pursuant to this subdivision if the
-social services official determines that the adoptive parents are no
-longer legally responsible for the support of the child or the child is
-no longer receiving any support from such parents. The social services
-official on a biennial basis shall remind the adoptive parents of their
-obligation to support the child and to notify the social services
-official if the adoptive parents are no longer providing any support of
-the child or are no longer legally responsible for the support of the
-child.
-  * NB Effective until March 21, 2025
-  * (c) No payments may be made pursuant to this subdivision if the
-social services official determines that the adoptive parents are no
-longer legally responsible for the support of the child or the child is
-no longer receiving any support from such parents. For purposes of this
+  (c) No payments may be made pursuant to this subdivision if the social
+services official determines that the adoptive parents are no longer
+legally responsible for the support of the child or the child is no
+longer receiving any support from such parents. For purposes of this
 section:
   (i) "any support" shall be limited to support that is directly for the
 benefit of the adopted child that meets the food, clothing, education,
@@ -71,8 +61,7 @@ means (A) the child has become legally emancipated, married or joined
 the military; (B) a court has ruled that the adoptive parent is no
 longer legally responsible for the support of the child; or (C) the
 adoption is no longer legally valid by operation of law.
-  * NB Effective March 21, 2025
-  * (c-1) The social services official on an annual basis shall:
+  (c-1) The social services official on an annual basis shall:
   (i) require adoptive parents to certify that they are fulfilling their
 obligations pursuant to any adoption subsidy agreement entered into in
 accordance with this section, including their obligation to provide
@@ -89,8 +78,7 @@ responsible for the support of the child; and
 been granted physical custody of the child; (II) another person has been
 appointed guardian for the child; or (III) the child no longer resides
 with the adoptive parents.
-  * NB Effective March 21, 2025
-  * (c-2) (i) If the adoptive parents fail to respond to an annual
+  (c-2) (i) If the adoptive parents fail to respond to an annual
 certification notice within thirty days of the receipt of the
 certification notice from the social services official or the social
 services official receives from any person information that provides
@@ -135,7 +123,6 @@ the social services official shall resume such subsidy effective from
 the date when the child was returned to the adoptive parent's care.
   ** NB Effective 90 days following the date that USDHHS approves a
 title IV-E state plan followed by OCFS notification
-  * NB Effective March 21, 2025
   * (c-3) If the social services official terminates the adoption
 subsidy provided to adoptive parents pursuant to paragraph (c-2) of this
 subdivision and the child resides with another person who has been

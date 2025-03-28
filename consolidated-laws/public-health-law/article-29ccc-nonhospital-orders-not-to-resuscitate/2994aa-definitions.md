@@ -59,25 +59,11 @@ limited to emergency services attending physicians, emergency services
 registered professional nurses, and registered professional nurses,
 nursing staff and registered physician assistants assigned to the
 general hospital's emergency service.
-  * 12. "Mental hygiene facility" means a residential facility operated
-or licensed by the office of mental health or the office for people with
-developmental disabilities.
-  * NB Effective until March 21, 2025
-  * 12. "Mental hygiene facility" means a residential facility operated
-or licensed by the office of mental health.
-  * NB Effective and Repealed March 21, 2025
-  * 13. "Nonhospital order not to resuscitate" means an order that
-directs emergency medical services personnel, hospice personnel and
-hospital emergency services personnel not to attempt cardiopulmonary
-resuscitation in the event a patient suffers cardiac or respiratory
-arrest.
-  * NB Effective until March 21, 2025
-  * 13. "Nonhospital order not to resuscitate" means an order that
-directs emergency medical services personnel, hospice personnel, home
-care services agency personnel and hospital emergency services personnel
-not to attempt cardiopulmonary resuscitation in the event a patient
-suffers cardiac or respiratory arrest.
-  * NB Effective March 21, 2025
+  13. "Nonhospital order not to resuscitate" means an order that directs
+emergency medical services personnel, hospice personnel, home care
+services agency personnel and hospital emergency services personnel not
+to attempt cardiopulmonary resuscitation in the event a patient suffers
+cardiac or respiratory arrest.
   13-a. "Nurse practitioner" means a nurse practitioner certified
 pursuant to section sixty-nine hundred ten of the education law who is
 practicing in accordance with subdivision three of section sixty-nine
