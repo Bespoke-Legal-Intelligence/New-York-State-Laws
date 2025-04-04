@@ -109,7 +109,7 @@ absent from child care shall be paid for up to eighty days per year.
 Reimbursement for additional absences may be allowable in the case of
 extenuating circumstances, as determined by the office of children and
 family services.
-  * 10. Differential payment rates for child care services shall be
+  10. Differential payment rates for child care services shall be
 established as required by this subdivision; provided however no
 provider shall receive an aggregate differential in excess of a limit to
 be set by the regulations of the office.
@@ -132,5 +132,4 @@ established by the office in regulations, whichever is less.
   (c) Nothing in this subdivision shall be construed to limit the
 authority of the office of children and family services to establish
 additional differential payment rates by regulation.
-  * NB Effective April 1, 2025
 ```

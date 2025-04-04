@@ -119,7 +119,7 @@ building systems with electric-powered equipment, including but not
 limited to sufficient space, drainage, electrical conductors or
 raceways, bus bar capacity, and overcurrent protective devices for such
 electric-powered equipment.
-  * 9. Standards to require new buildings that include new dedicated
+  9. Standards to require new buildings that include new dedicated
 off-street parking involving a garage, driveway, parking lot or other
 off-street parking to have electric vehicle ready infrastructure and
 electric vehicle charging stations that comply with the requirements set
@@ -177,5 +177,4 @@ governmental entity for the purposes of providing affordable housing in
 a given locality or region; and
   B. additional exemptions due to technical infeasibility, geographic
 location, or building type, as the code council deems appropriate.
-  * NB Effective April 1, 2025
 ```
