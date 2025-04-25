@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 18 Apr 2025.*
+*Current through the publication of 25 Apr 2025.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [25 Apr 2025](changes/2025/2025-04-25.md): Cannabis Law; Transportation Law; Vehicle and Traffic Law
 - [18 Apr 2025](changes/2025/2025-04-18.md): Education Law
 - [11 Apr 2025](changes/2025/2025-04-11.md): Domestic Relations Law
 - [4 Apr 2025](changes/2025/2025-04-04.md): Civil Rights Law; Education Law; Energy Law; Executive Law; Family Court Act; General Business Law; General Municipal Law; Penal Law; Public Housing Law; Social Services Law
@@ -22,7 +23,6 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [21 Mar 2025](changes/2025/2025-03-21.md): Cannabis Law; Education Law; Election Law; Energy Law; Executive Law; Family Court Act; Public Health Law; Vehicle and Traffic Law
 - [14 Mar 2025](changes/2025/2025-03-14.md): Civil Practice Law and Rules; Correction Law; Education Law; Election Law; Environmental Conservation Law; Executive Law; Family Court Act; Labor Law; Medical Care Facilities Finance Agency; Public Health Law; Public Service Law; Real Property Law; State Finance Law; Tax Law; Transportation Law; Veterans' Services Law
 - [7 Mar 2025](changes/2025/2025-03-07.md): Environmental Conservation Law; Family Court Act; General Business Law; General Municipal Law; Labor Law; Real Property Law; State Finance Law; Tax Law
-- [28 Feb 2025](changes/2025/2025-02-28.md): Civil Practice Law and Rules; Education Law; Environmental Conservation Law; Executive Law; Family Court Act; General Business Law; General Municipal Law; Insurance Law; Mental Hygiene Law; Penal Law; Public Health Law; Social Services Law
 
 ## Most changed in the past 12 months
 
@@ -38,8 +38,8 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Penal Law](consolidated-laws/penal-law/README.md) | 107 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | 92 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 87 |
+| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 79 |
 | [Family Court Act](court-acts/family-court-act/README.md) | 77 |
-| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 76 |
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 62 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | 61 |
 | [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 58 |
@@ -57,7 +57,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Benevolent Orders Law](consolidated-laws/benevolent-orders-law/README.md) | BVO | 20 | 5 May 2017 |
 | [Business Corporation Law](consolidated-laws/business-corporation-law/README.md) | BSC | 250 | 26 Jul 2024 |
 | [Canal Law](consolidated-laws/canal-law/README.md) | CAL | 88 | 10 Jan 2025 |
-| [Cannabis Law](consolidated-laws/cannabis-law/README.md) | CAN | 108 | 28 Mar 2025 |
+| [Cannabis Law](consolidated-laws/cannabis-law/README.md) | CAN | 108 | 25 Apr 2025 |
 | [Civil Practice Law and Rules](consolidated-laws/civil-practice-law-and-rules/README.md) | CVP | 812 | 14 Mar 2025 |
 | [Civil Rights Law](consolidated-laws/civil-rights-law/README.md) | CVR | 132 | 4 Apr 2025 |
 | [Civil Service Law](consolidated-laws/civil-service-law/README.md) | CVS | 177 | 21 Feb 2025 |
@@ -134,9 +134,9 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Tax Law](consolidated-laws/tax-law/README.md) | TAX | 1,344 | 14 Mar 2025 |
 | [Town Law](consolidated-laws/town-law/README.md) | TWN | 361 | 3 Jan 2025 |
 | [Transportation Corporations Law](consolidated-laws/transportation-corporations-law/README.md) | TCP | 73 | 8 Jul 2022 |
-| [Transportation Law](consolidated-laws/transportation-law/README.md) | TRA | 326 | 14 Mar 2025 |
+| [Transportation Law](consolidated-laws/transportation-law/README.md) | TRA | 326 | 25 Apr 2025 |
 | [Uniform Commercial Code](consolidated-laws/uniform-commercial-code/README.md) | UCC | 627 | 3 Jun 2022 |
-| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | VAT | 971 | 21 Mar 2025 |
+| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | VAT | 971 | 25 Apr 2025 |
 | [Veterans' Services Law](consolidated-laws/veterans-services-law/README.md) | VET | 45 | 14 Mar 2025 |
 | [Village Law](consolidated-laws/village-law/README.md) | VIL | 243 | 3 Jan 2025 |
 | [Volunteer Ambulance Workers' Benefit Law](consolidated-laws/volunteer-ambulance-workers-benefit-law/README.md) | VAW | 55 | 22 Sep 2023 |
