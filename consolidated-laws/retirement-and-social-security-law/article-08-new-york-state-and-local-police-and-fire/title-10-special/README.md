@@ -17,6 +17,8 @@
 - [§ 383-B\*2 Retirement of members of the capital police force in the office of general services](383b-2-retirement-of-members-of-the-capital-police.md)
 - [§ 383-C Optional retirement of members holding the position of forest ranger in the service of the department of environmental conservation](383c-optional-retirement-of-members-holding.md)
 - [§ 383-D Alternative retirement benefits for university police officers appointed by the state university](383d-alternative-retirement-benefits-for-university.md)
+- [§ 383-E Retirement of officers of state law enforcement; twenty year retirement plan](383e-retirement-of-officers-of-state-law-enforcement.md)
+- [§ 383-F Retirement of officers of state law enforcement; alternative twenty-five year retirement plan](383f-retirement-of-officers-of-state-law-enforcement.md)
 - [§ 384 Optional retirement of certain police officers and firefighters](384-optional-retirement-of-certain-police-officers.md)
 - [§ 384-A Additional pension benefits for certain police officers after twenty-five years of service](384a-additional-pension-benefits-for-certain-police.md)
 - [§ 384-B Retirement of members of the police department of the city of Glen Cove, after twenty years of service](384b-retirement-of-members-of-the-police-department.md)
@@ -59,6 +61,10 @@ Section 381.     Retirement of members in the division of state police;
                    environmental conservation.
         383-d.   Alternative retirement benefits for university police
                    officers appointed by the state university.
+        383-e.   Retirement of officers of state law enforcement; twenty
+                   year retirement plan.
+        383-f.   Retirement of officers of state law enforcement;
+                   alternative twenty-five year retirement plan.
         384.     Optional retirement of certain police officers and
                    firefighters.
         384-a.   Additional pension benefits for certain police officers

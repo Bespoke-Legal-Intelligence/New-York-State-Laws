@@ -4,7 +4,9 @@
 [Economic Development Law](../README.md) › [Article 22 — Employee Training Incentive Program](README.md)
 
 ```text
-  § 445. Recordkeeping requirements. Each business entity participating
-in the employee training incentive program shall maintain all relevant
-records for the duration of its program participation plus three years.
+  * § 445. Recordkeeping requirements. Each business entity
+participating in the employee training incentive program shall maintain
+all relevant records for the duration of its program participation plus
+three years.
+  * NB Repealed December 31, 2028
 ```

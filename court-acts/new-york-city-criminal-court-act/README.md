@@ -8,7 +8,7 @@
 | Senate code | CRC |
 | Type | Court act |
 | Sections | 34 |
-| Last changed | 20 Dec 2024 |
+| Last changed | 16 May 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | New York City Criminal Court Act |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [16 May 2025](../../changes/2025/2025-05-16.md): 1 amended
 - [20 Dec 2024](../../changes/2024/2024-12-20.md): 1 added
 - [29 Dec 2023](../../changes/2023/2023-12-29.md): 1 amended
 - [12 May 2023](../../changes/2023/2023-05-12.md): 1 amended
@@ -40,7 +41,6 @@ Assembly, do enact as follows:
 - [3 May 2019](../../changes/2019/2019-05-03.md): 1 amended
 - [19 Apr 2019](../../changes/2019/2019-04-19.md): 1 amended
 - [11 Jan 2019](../../changes/2019/2019-01-11.md): 1 amended
-- [28 Apr 2017](../../changes/2017/2017-04-28.md): 1 amended
 
 ## Contents
 

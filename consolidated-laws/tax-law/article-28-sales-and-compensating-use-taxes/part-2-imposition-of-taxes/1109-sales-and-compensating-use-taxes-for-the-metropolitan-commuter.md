@@ -77,7 +77,7 @@ such depositories. Of the total revenue collected or received under this
 section, the comptroller shall retain in his hands such amount as the
 commissioner of taxation and finance may determine to be necessary for
 refunds under this section.
-  (2) On or before the twelfth day of each month, after reserving such
+  * (2) On or before the twelfth day of each month, after reserving such
 amount for such refunds and such costs, the commissioner of taxation and
 finance shall certify to the comptroller the amount of all revenues so
 received during the prior month as a result of the taxes, interest and
@@ -88,6 +88,32 @@ revenues so certified shall be deposited by the comptroller in the mass
 transportation operating assistance fund established by section
 eighty-eight-a of the state finance law to the credit of the
 metropolitan mass transportation operating assistance account therein.
+  * NB Effective until April 1, 2026
+  * (2) On or before the twelfth day of each month, after reserving such
+amount for such refunds and such costs, the commissioner of taxation and
+finance shall certify to the comptroller the amount of all revenues so
+received during the prior month as a result of the taxes, interest and
+penalties so imposed and in addition on or before the last day of June
+the commissioner shall certify the amount of such revenues received
+during and including the first twenty-five days of June. Fifteen percent
+of the revenues so certified shall be deposited by the comptroller in
+the mass transportation operating assistance fund established by section
+eighty-eight-a of the state finance law to the credit of the
+metropolitan mass transportation operating assistance account therein.
+Eighty-five percent of the revenues so certified shall be deposited by
+the comptroller in the dedicated mass transportation trust fund
+established pursuant to section eighty-nine-c of the state finance law
+to be distributed as follows: eighty-five percent of such amount shall
+be allocated to the New York city transit authority and its subsidiaries
+and the Staten Island rapid transit operating authority and fifteen
+percent of such amount shall be allocated to the Long Island Rail Road
+Company and Metro-North commuter railroad company in accordance with the
+procedures for payment and distribution specified in section twelve
+hundred seventy-c of the public authorities law, for payment, subject to
+appropriation, to the metropolitan transportation authority dedicated
+tax fund established pursuant to section twelve hundred seventy-c of the
+public authorities law.
+  * NB Effective April 1, 2026
   (e) The provision for a refund or credit contained in clause six of
 subdivision (a) of section eleven hundred nineteen shall not apply.
   (f) The exemption contained in paragraph thirty of subdivision (a) of
@@ -132,7 +158,7 @@ to require such information as the commissioner deems necessary to
 comply with the requirements of this subdivision from persons required
 to file returns under such section eleven hundred thirty-six of this
 article.
-  (3) By the fifteenth day of the month in which the commissioner has
+  * (3) By the fifteenth day of the month in which the commissioner has
 made the certifications to the comptroller described in paragraph two of
 this subdivision, the comptroller shall bill any county, city or school
 district in such metropolitan commuter transportation district which
@@ -147,7 +173,21 @@ amounts received in the mass transportation operating assistance fund
 established by section eighty-eight-a of the state finance law to the
 credit of the metropolitan mass transportation operating assistance
 account therein.
-  (4) In the event that a county, city or school district imposing tax
+  * NB Effective until April 1, 2026
+  * (3) By the fifteenth day of the month in which the commissioner has
+made the certifications to the comptroller described in paragraph two of
+this subdivision, the comptroller shall bill any county, city or school
+district in such metropolitan commuter transportation district which
+provides such clothing and footwear exemption, and any city in such
+district in which the taxes imposed by section eleven hundred eight of
+this part are in effect, an amount equal to one-half of the amount
+certified to the comptroller by the commissioner in respect of such
+county, city or school district; and such county, city or school
+district shall pay the amount of such bill to the comptroller by the
+twenty-fifth day of such month. The comptroller shall deposit any such
+amounts received as provided in subdivision (d) of this section.
+  * NB Effective April 1, 2026
+  * (4) In the event that a county, city or school district imposing tax
 pursuant to the authority of subpart B of part I of article twenty-nine
 of this chapter does not pay in full a bill described in paragraph three
 of this subdivision by the twenty-fifth day of the month described in
@@ -159,7 +199,20 @@ until such amount not paid has been recovered. The comptroller shall
 deposit the amounts so deducted and recovered in the mass transportation
 operating assistance fund to be credited as provided in paragraph three
 of this subdivision.
-  (5) In the event that a city in which the taxes imposed by section
+  * NB Effective until April 1, 2026
+  * (4) In the event that a county, city or school district imposing tax
+pursuant to the authority of subpart B of part I of article twenty-nine
+of this chapter does not pay in full a bill described in paragraph three
+of this subdivision by the twenty-fifth day of the month described in
+paragraphs two and three of this subdivision, the comptroller shall
+deduct any amount not paid from the amount of the next payment or
+payments due such county, city or school district pursuant to
+subdivision (c) of section twelve hundred sixty-one of this chapter
+until such amount not paid has been recovered. The comptroller shall
+deposit the amounts so deducted and recovered to be credited as provided
+in paragraph three of this subdivision.
+  * NB Effective April 1, 2026
+  * (5) In the event that a city in which the taxes imposed by section
 eleven hundred eight of this article are in effect does not pay in full
 a bill described in paragraph three of this subdivision by the
 twenty-fifth day of the month described in paragraphs two and three of
@@ -170,6 +223,18 @@ until such amount not paid has been recovered. The comptroller shall
 deposit the amounts so deducted and recovered in the mass transportation
 operating assistance fund to be credited as provided in paragraph three
 of this subdivision.
+  * NB Effective until April 1, 2026
+  * (5) In the event that a city in which the taxes imposed by section
+eleven hundred eight of this article are in effect does not pay in full
+a bill described in paragraph three of this subdivision by the
+twenty-fifth day of the month described in paragraphs two and three of
+this subdivision, the comptroller shall deduct any amount not paid from
+the amount of any other moneys due such city from the comptroller, not
+otherwise pledged, dedicated or encumbered pursuant to other state law,
+until such amount not paid has been recovered. The comptroller shall
+deposit the amounts so deducted and recovered to be credited as provided
+in paragraph three of this subdivision.
+  * NB Effective April 1, 2026
   (6) The commissioner shall certify the amount of any over calculation
 or under calculation of any certification required to be made to the
 comptroller under paragraph three of this subdivision as soon after its
@@ -179,7 +244,7 @@ relates shall be adjusted accordingly, provided that the comptroller may
 adjust such number of subsequent bills as the comptroller shall consider
 reasonable in view of the amount of the adjustment and all other facts
 and circumstances.
-  (7) On the same date that the comptroller is required to bill a
+  * (7) On the same date that the comptroller is required to bill a
 county, city or school district an amount as provided in paragraph three
 of this subdivision, the comptroller shall, after having first made any
 deposits required by section ninety-two-r of the state finance law and
@@ -196,6 +261,24 @@ paragraph, so that the amounts deposited under this paragraph equal the
 total of the amounts required to be billed to counties, cities and
 school districts under such paragraph three, as adjusted, pursuant to
 paragraph six of this subdivision.
+  * NB Effective until April 1, 2026
+  * (7) On the same date that the comptroller is required to bill a
+county, city or school district an amount as provided in paragraph three
+of this subdivision, the comptroller shall, after having first made any
+deposits required by section ninety-two-r of the state finance law and
+only to the extent that there are moneys remaining after having made
+such required deposits, withdraw from the state treasury, to the debit
+of the general fund, an amount equal to the total of the amounts
+required to be billed to counties, cities and school districts pursuant
+to such subdivision three and deposit such total amount to be credited
+as provided in such paragraph three. The amount of any over calculation
+or under calculation determined in paragraph six of this subdivision
+shall likewise be applied to the amounts required to be deposited under
+this paragraph, so that the amounts deposited under this paragraph equal
+the total of the amounts required to be billed to counties, cities and
+school districts under such paragraph three, as adjusted, pursuant to
+paragraph six of this subdivision.
+  * NB Effective April 1, 2026
   (h) Notwithstanding any provision of law to the contrary:
   (1) The commissioner shall determine and certify to the comptroller
 the amount of revenue foregone as a result of the cents per gallon tax
@@ -214,7 +297,7 @@ The commissioner shall be authorized to require such information as the
 commissioner deems necessary to comply with the requirements of this
 subdivision from persons required to file returns under such section
 eleven hundred thirty-six.
-  (3) The comptroller shall, after having first made any deposits
+  * (3) The comptroller shall, after having first made any deposits
 required by section ninety-two-r of the state finance law and only to
 the extent that there are moneys remaining after having made such
 required deposits, withdraw from the state treasury, to the debit of the
@@ -223,6 +306,14 @@ as such revenue foregone in the mass transportation operating assistance
 fund established by section eighty-eight-a of the state finance law to
 the credit of the metropolitan mass transportation operating assistance
 account therein.
+  * NB Effective until April 1, 2026
+  * (3) The comptroller shall, after having first made any deposits
+required by section ninety-two-r of the state finance law and only to
+the extent that there are moneys remaining after having made such
+required deposits, withdraw from the state treasury, to the debit of the
+general fund, and shall deposit the amount certified by the commissioner
+as such revenue foregone as provided in subdivision (d) of this section.
+  * NB Effective April 1, 2026
   (4) Neither the commissioner nor the comptroller shall be held liable
 for any inaccuracy in such determinations and certifications. The
 commissioner shall certify the amount of any over calculation or under

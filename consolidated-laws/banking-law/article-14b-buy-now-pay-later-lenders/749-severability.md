@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 749", "kind": "section", "law_id": "BNK", "location_id": "749", "path": "ARTICLE 14-B › SECTION 749", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/749.md", "title": "Severability"} -->
+# Banking Law § 749 — Severability
+
+[Banking Law](../README.md) › [Article 14-B — Buy-now-pay-later Lenders](README.md)
+
+```text
+  * § 749. Severability. If any provision of this article or the
+application thereof to any person or circumstances is held to be
+invalid, such invalidity shall not affect other provisions or
+applications of this article which can be given effect without the
+invalid provision or application, and to this end the provisions of this
+article are severable.
+  * NB Effective upon the one hundred eightieth day after the
+promulgation of rules and/or regulations by the department of financial
+services to effectuate certain provisions (see Ch. 58 of 2025, Part Y, §
+13)
+```

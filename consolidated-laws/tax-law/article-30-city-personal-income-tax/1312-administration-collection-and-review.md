@@ -17,7 +17,7 @@ other provisions of article twenty-two of this chapter relating to or
 applicable to the administration, collection, liability for and review
 of the tax imposed by article twenty-two of this chapter, including
 sections six hundred fifty-two through six hundred fifty-four, sections
-six hundred fifty-seven through six hundred fifty-nine, sections six
+six hundred fifty-seven through six hundred fifty-nine-a, sections six
 hundred sixty-one and six hundred sixty-two, sections six hundred
 seventy-one and six hundred seventy-two, sections six hundred
 seventy-four through six hundred seventy-eight and sections six hundred

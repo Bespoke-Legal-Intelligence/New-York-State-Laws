@@ -4,7 +4,7 @@
 [Labor Law](../README.md) › [Article 4 — Employment of Minors](README.md)
 
 ```text
-  § 140. Enforcement of violations relating to child performers, child
+  * § 140. Enforcement of violations relating to child performers, child
 models, street trades, and newspaper carriers. The commissioner is
 hereby authorized and empowered to prosecute violations of section 35.01
 of the arts and cultural affairs law, relating to child performers,
@@ -12,4 +12,11 @@ section 35.05 of the arts and cultural affairs law, relating to child
 models, section thirty-two hundred twenty-seven of the education law,
 relating to street trades, and section thirty-two hundred twenty-eight
 of the education law, relating to newspaper carriers.
+  * NB Effective until May 9, 2027
+  * § 140. Enforcement of violations relating to child performers and
+child models. The commissioner is hereby authorized and empowered to
+prosecute violations of section 35.01 of the arts and cultural affairs
+law, relating to child performers, and section 35.05 of the arts and
+cultural affairs law, relating to child models.
+  * NB Effective May 9, 2027
 ```

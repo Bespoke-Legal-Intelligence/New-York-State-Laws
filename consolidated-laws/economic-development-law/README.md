@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | COM |
 | Type | Consolidated law, chapter 15 |
-| Sections | 206 |
-| Last changed | 21 Feb 2025 |
+| Sections | 221 |
+| Last changed | 16 May 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Economic Development Law |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER XV OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (48 lines)](chapter-text.md)
+[Full chapter text (51 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [16 May 2025](../../changes/2025/2025-05-16.md): 19 amended, 15 added
 - [21 Feb 2025](../../changes/2025/2025-02-21.md): 3 amended
 - [24 Jan 2025](../../changes/2025/2025-01-24.md): 2 amended
 - [27 Dec 2024](../../changes/2024/2024-12-27.md): 3 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [12 May 2023](../../changes/2023/2023-05-12.md): 2 amended, 1 added
 - [7 Apr 2023](../../changes/2023/2023-04-07.md): 1 amended
 - [27 Jan 2023](../../changes/2023/2023-01-27.md): 1 amended
-- [6 Jan 2023](../../changes/2023/2023-01-06.md): 6 amended
 
 ## Contents
 
@@ -76,6 +76,7 @@ Assembly, do enact as follows:
 - [Article 14 — Office of Waste Prevention Services](article-14-office-of-waste-prevention-services/)
 - [Article 16 — Olympic Games Facilitation Act](article-16-olympic-games-facilitation-act/)
 - [Article 17 — Excelsior Jobs Program Act](article-17-excelsior-jobs-program-act/)
+- [Article 17-A — Semiconductor Research and Development Project Program](article-17a-semiconductor-research-and-development-project/)
 - [Article 18\* — Division of Science, Technology and Innovation](article-18-division-of-science-technology-and-innovation/)
 - [Article 18 — Economic Transformation and Facility Redevelopment Program](article-18-economic-transformation-and-facility/)
 - [Article 19 — Centers of Excellence Program](article-19-centers-of-excellence-program/)
@@ -85,3 +86,4 @@ Assembly, do enact as follows:
 - [Article 25 — Restaurant Return-to-work Tax Credit Program](article-25-restaurant-return-to-work-tax-credit-program/)
 - [Article 26 — Covid-19 Capital Costs Tax Credit Program](article-26-covid-19-capital-costs-tax-credit-program/)
 - [Article 27 — Newspaper and Broadcast Media Jobs Program](article-27-newspaper-and-broadcast-media-jobs-program/)
+- [Article 28 — Semiconductor Manufacturing Workforce Training Incentive Program](article-28-semiconductor-manufacturing-workforce-training/)

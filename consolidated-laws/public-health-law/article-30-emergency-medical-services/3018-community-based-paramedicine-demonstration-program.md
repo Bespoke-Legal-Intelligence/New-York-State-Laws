@@ -18,7 +18,7 @@ as of May eleventh, two thousand twenty-three, under the authority of
 Executive Order Number 4 of two thousand twenty-one, entitled "Declaring
 a Statewide Disaster Emergency Due to Healthcare staffing shortages in
 the State of New York" to continue in the same manner and capacity as
-currently approved for a period of two years following the effective
+currently approved for a period of four years following the effective
 date of this section.
   4. Such program shall include but not be limited to:
   (a) authorizing emergency medical services personnel to provide
@@ -61,5 +61,5 @@ within ninety days following the assembly of the advisory panel.
 on an annual basis to the speaker of the assembly, the temporary
 president of the senate, the chairs of the assembly and senate health
 committees, and the governor.
-  * NB Repealed June 22, 2025
+  * NB Repealed June 22, 2027
 ```

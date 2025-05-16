@@ -13,17 +13,11 @@ generate such documents as determined by the department in relation to a
 death occurring in this state. As part of the design and implementation
 of the system established by this section, the department shall consult
 with all persons authorized to use such system to the extent practicable
-and feasible. The payment referenced in subdivision five of this section
-shall be collected for each burial or removal permit issued on or after
-the effective date of this section from the licensed funeral director or
-undertaker to whom such permit is issued, in the manner specified by the
-department and shall be used solely for the purpose set forth in
-subdivision five of this section. Except as specifically provided in
-this section, the existing general duties of, and remuneration received
-by, local registrars in accepting and filing certificates of death and
-issuing burial and removal permits pursuant to any statute or regulation
-shall be maintained, and not altered or abridged in any way by this
-section.
+and feasible. Except as specifically provided in this section, the
+existing general duties of, and remuneration received by, local
+registrars in accepting and filing certificates of death and issuing
+burial and removal permits pursuant to any statute or regulation shall
+be maintained, and not altered or abridged in any way by this section.
   2. Commencing on the implementation date, the department shall require
 that deaths occurring within this state must be registered using the
 electronic death registration system established in this section.
@@ -50,11 +44,4 @@ requirement of this title for a signature of any person shall be deemed
 satisfied by the use by such person of digital signature provided such
 person is authorized in accordance with this section to use the
 electronic death registration system.
-  5. Licensed funeral directors and undertakers shall support the
-establishment and maintenance of the electronic death registration
-system through a payment, tendered for each burial and removal permit
-issued to a licensed funeral director or undertaker, in the amount of
-twenty dollars, provided that such payment shall be considered a cost of
-operation and the funeral director or undertaker shall not charge any
-additional fee related to such payment for funeral or other services.
 ```

@@ -7,14 +7,20 @@
   § 2008. Commencement of proceedings. 1. All proceedings in the
 division of tax appeals shall be commenced by the filing of a petition
 with the division of tax appeals protesting any written notice of the
-division of taxation which has advised the petitioner of a tax
-deficiency, a determination of tax due, a denial of a refund or credit
-application, a cancellation, revocation or suspension of a license,
-permit or registration, a denial of an application for a license, permit
-or registration or any other notice which gives a person the right to a
-hearing in the division of tax appeals under this chapter or other law.
-  2. Expedited hearings.  (a) Notwithstanding any provision of law to
-the contrary, any person who receives a written notice that advises that
+division of taxation, including any electronic notice provided in
+accordance with section thirty-five of this chapter, which has advised
+the petitioner of a tax deficiency, a determination of tax due, a denial
+of a refund or credit application, a cancellation, revocation or
+suspension of a license, permit or registration, a denial of an
+application for a license, permit or registration or any other notice
+which expressly gives a person the right to a hearing in the division of
+tax appeals under this chapter or other law. Provided, however, that any
+written communications of the division of taxation that advise a
+taxpayer of a past-due tax liability, as defined in section one hundred
+seventy-one-v of this chapter, shall not give a person the right to a
+hearing in the division of tax appeals.
+  2. Expedited hearings. (a) Notwithstanding any provision of law to the
+contrary, any person who receives a written notice that advises that
 person of (i) the proposed cancellation, revocation, or suspension of a
 license, permit, registration, or other credential issued under the
 authority of this chapter excluding a certificate of registration of a

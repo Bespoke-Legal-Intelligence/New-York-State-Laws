@@ -8,15 +8,18 @@
   (a) Metropolitan commuter transportation district. The metropolitan
 commuter transportation district ("MCTD") means the area of the state
 included in the district created and governed by section twelve hundred
-sixty-two of the public authorities law.
+sixty-two of the public authorities law. The MCTD shall have two zones:
+  (1) MCTD zone one shall be comprised of the counties of Bronx, Kings,
+New York, Queens, and Richmond.
+  (2) MCTD zone two shall be comprised of the counties of Dutchess,
+Nassau, Orange, Putnam, Rockland, Suffolk and Westchester.
   (b) Employer. Employer means an employer required by section six
 hundred seventy-one of this chapter to deduct and withhold tax from
-wages, that has a payroll expense in excess of three hundred twelve
-thousand five hundred dollars in any calendar quarter; other than
+wages, other than
   (1) any agency or instrumentality of the United States;
   (2) the United Nations;
   (3) an interstate agency or public corporation created pursuant to an
-agreement or compact with another state or the Dominion of Canada; or
+agreement or compact with another state or the Dominion of Canada;
   (4) Any eligible educational institution. An "eligible educational
 institution" shall mean any public school district, a board of
 cooperative educational services, a public elementary or secondary
@@ -27,7 +30,9 @@ in grade one or above, all public library systems as defined in
 subdivision one of section two hundred seventy-two of the education law,
 and all public and free association libraries as such terms are defined
 in subdivision two of section two hundred fifty-three of the education
-law.
+law; or
+  (5) any local government employer whose covered employees are within
+MCTD zone two.
   (c) Payroll expense. Payroll expense means wages and compensation as
 defined in sections 3121 and 3231 of the internal revenue code (without
 regard to section 3121(a)(1) and section 3231(e)(2)(A)(i)), paid to all
@@ -44,4 +49,14 @@ indirectly, takes part in the control, or participates in the management
 or operations of the partnership such that the individual is not a
 passive investor, regardless of the individual's title or
 characterization in a partnership or operating agreement.
+  (f) Local government employer. Local government employer means (1) a
+county, city, town, village or any other political subdivision or civil
+division of the state, (2) a public improvement or special district, (3)
+a public authority, commission, community college, or public benefit
+corporation, (4) any other public corporation, agency or instrumentality
+or unit of government which exercises governmental powers under the laws
+of the state, or (5) in the case of a county sheriff's office in those
+counties where the office of sheriff is an elected position, both the
+county and the sheriff, shall be designated as a joint public employer
+for all purposes of this article.
 ```

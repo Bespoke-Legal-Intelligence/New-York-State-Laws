@@ -105,6 +105,7 @@ Section 1200.       Authorization to impose occupancy tax on short term
         1202-jj*11. Occupancy tax in the of village of Coxsackie.
         1202-k.     Hotel or motel taxes in Montgomery county.
         1202-k*2.   Hotel or motel taxes in the county of Rockland.
+        1202-kk.    Hotel or motel taxes in the city of Buffalo.
         1202-l.     Hotel and motel taxes in Ulster county.
         1202-l*2.   Hotel or motel taxes in the city of Canandaigua.
         1202-l*3.   Hotel or motel taxes in the county of St. Lawrence.
@@ -144,6 +145,7 @@ Section 1200.       Authorization to impose occupancy tax on short term
         1202-z-3.   Occupancy tax in the village of Mount Kisco.
         1202-z-4.   Occupancy tax in the town of Putnam Valley.
         1202-z-4*2. Occupancy tax in the village of Medina.
+        1202-z-5.   Occupancy tax in the city of Auburn.
         1202-zz.    Occupancy tax in the village of Highland Falls.
         1202-zz-1.  Hotel or motel taxes in the town of DeWitt.
         1203.       Taxes administered by cities under one million.

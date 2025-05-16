@@ -4,7 +4,7 @@
 [Labor Law](../README.md) › [Article 19-D — Minimum Wage Rates For Covered Airport Workers](README.md)
 
 ```text
-  § 696-i. Savings clause. 1. If any provision of this article or the
+  * § 696-i. Savings clause. 1. If any provision of this article or the
 application thereof to any person, occupation or circumstance is held
 invalid, the remainder of the article and the application of such
 provision to other persons, employees, occupations, or circumstances
@@ -53,4 +53,5 @@ adjudged by the same court not to be preempted by federal law in a final
 judgment, then the definition of "standard benefits supplement rate"
 shall immediately revert to the definition stated in subdivision six of
 section six hundred ninety-six-a of this article.
+  * NB Effective until January 1, 2026
 ```

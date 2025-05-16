@@ -23,23 +23,24 @@ succeeding calendar year.
   (A) no return is filed,
   (B) a false or fraudulent return is filed with intent to evade tax, or
   (C) the taxpayer or employer fails to comply with section six hundred
-fifty-nine.
+fifty-nine or six hundred fifty-nine-a.
   (2) Extension by agreement.--Where, before the expiration of the time
-prescribed in this section for the assessment of tax, both the tax
-commission and the taxpayer have consented in writing to its assessment
-after such time, the tax may be assessed at any time prior to the
-expiration of the period agreed upon. The period so agreed upon may be
-extended by subsequent agreements in writing made before the expiration
-of the period previously agreed upon.
+prescribed in this section for the assessment of tax, both the
+commissioner and the taxpayer have consented in writing to its
+assessment after such time, the tax may be assessed at any time prior to
+the expiration of the period agreed upon. The period so agreed upon may
+be extended by subsequent agreements in writing made before the
+expiration of the period previously agreed upon.
   (3) Report of federal changes, corrections or disallowances.--If the
-taxpayer or employer complies with section six hundred fifty-nine, the
-assessment (if not deemed to have been made upon the filing of the
-report or amended return) may be made at any time within two years after
-such report or amended return was filed. The amount of such assessment
-of tax shall not exceed the amount of the increase in New York tax
-attributable to such federal change or correction. The provisions of
-this paragraph shall not affect the time within which or the amount for
-which an assessment may otherwise be made.
+taxpayer or employer complies with section six hundred fifty-nine or six
+hundred fifty-nine-a, the assessment (if not deemed to have been made
+upon the filing of the report or amended return) may be made at any time
+within two years after such report or amended return was filed. The
+amount of such assessment of tax shall not exceed the amount of the
+increase in New York tax attributable to such federal change or
+correction. The provisions of this paragraph shall not affect the time
+within which or the amount for which an assessment may otherwise be
+made.
   (4) Deficiency attributable to net operating loss carryback.--If a
 deficiency is attributable to the application to the taxpayer of a net
 operating loss carryback, it may be assessed at any time that a

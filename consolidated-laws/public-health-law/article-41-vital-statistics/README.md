@@ -10,7 +10,7 @@
 - [Title 3 — Registration of Births](title-3-registration-of-births/)
 - [Title 3-A — Filing of Certificates of Dissolution of Marriage](title-3a-filing-of-certificates/)
 - [Title 4 — Registration of Deaths: Burial Permits](title-4-registration-of-deaths-burial/)
-- [Title 5 — Registration of Fetal Deaths](title-5-registration-of-fetal-deaths/)
+- [Title 5 — Reporting of Pregnancy Loss](title-5-reporting-of-pregnancy-loss/)
 - [Title 5-A Induced Viable Births](title-5a-induced-viable-births.md)
 - [Title 6 — Registration of Persons In Institutions](title-6-registration-of-persons/)
 - [Title 7 — Vital Statistics Records](title-7-vital-statistics-records/)

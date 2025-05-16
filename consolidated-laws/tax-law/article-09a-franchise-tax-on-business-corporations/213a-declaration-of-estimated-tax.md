@@ -4,18 +4,23 @@
 [Tax Law](../README.md) › [Article 9-A — Franchise Tax On Business Corporations](README.md)
 
 ```text
-  § 213-a. Declaration of estimated tax.--(a) Requirement of
+  § 213-a. Declaration of estimated tax.-- (a) Requirement of
 declaration.--Every taxpayer subject to the tax imposed by section two
-hundred nine of this chapter shall make a declaration of its estimated
+hundred nine of this article shall make a declaration of its estimated
 tax for the current privilege period, containing such information as the
 commissioner of taxation and finance may prescribe by regulations or
 instructions, if such estimated tax can reasonably be expected to exceed
-one thousand dollars. If a taxpayer is subject to the tax surcharge
-imposed under section two hundred nine-B of this article and such
-taxpayer's estimated tax under section two hundred nine of this article
-can reasonably be expected to exceed one thousand dollars, such taxpayer
-shall also make a declaration of its estimated tax surcharge for the
-current privilege period.
+one thousand dollars for taxable years beginning before January first,
+two thousand twenty-six, or five thousand dollars for taxable years
+beginning on or after January first, two thousand twenty-six. If a
+taxpayer is subject to the tax surcharge imposed under section two
+hundred nine-B of this article and such taxpayer's estimated tax under
+section two hundred nine of this article can reasonably be expected to
+exceed one thousand dollars for taxable years beginning before January
+first, two thousand twenty-six, or five thousand dollars for taxable
+years beginning on or after January first, two thousand twenty-six, such
+taxpayer shall also make a declaration of its estimated tax surcharge
+for the current privilege period.
   (b) Definition of estimated tax and estimated tax surcharge.--The
 terms "estimated tax" and "estimated tax surcharge" mean the amounts
 which a taxpayer estimates to be the tax or tax surcharge imposed by

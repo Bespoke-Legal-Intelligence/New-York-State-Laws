@@ -984,7 +984,7 @@ Centers for Medicare and Medicaid Services approved Medicaid state plan.
 The commissioner shall apply for waivers and submit state Medicaid plan
 amendments as are necessary to implement the program for synchronization
 of medications.
-  * NB Effective until March 31, 2025
+  * NB Effective until March 31, 2029
   * 9. Notwithstanding any inconsistent provision of law or regulation
 to the contrary, for those drugs which may not be dispensed without a
 prescription as required by section sixty-eight hundred ten of the
@@ -1031,7 +1031,7 @@ cents per prescription; and
   (ii) for prescription drugs categorized as brand-name prescription
 drug by the prescription drug pricing service used by the department,
 four dollars and fifty cents per prescription.
-  * NB Effective March 31, 2025
+  * NB Effective March 31, 2029
   10. Any provider except for those providers certified under article
 twenty-eight of the public health law, of ordered services or supplies
 under the medical assistance program may be required to provide

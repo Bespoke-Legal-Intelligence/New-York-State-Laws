@@ -16,6 +16,16 @@ a partnership shall be signed by one or more partners. The fact that a
 partner's name is signed to a return, statement, or other document,
 shall be prima facie evidence for all purposes that such partner is
 authorized to sign on behalf of the partnership.
+  (1) If a partnership is required to report federal adjustments arising
+from a partnership level audit or an administrative adjustment request
+pursuant to section six hundred fifty-nine-a of this part, the
+partnership's federal partnership representative is the New York
+partnership representative unless the partnership designates, in a
+manner determined by the commissioner, that another person shall act on
+behalf of the partnership.
+  (2) The New York partnership representative shall have the sole
+authority to act on behalf of the partnership and its direct and
+indirect partners shall be bound by these actions.
   (c) Certifications. The making or filing of any return, statement or
 other document or copy thereof required to be made or filed pursuant to
 this article, including a copy of a federal return, shall constitute a

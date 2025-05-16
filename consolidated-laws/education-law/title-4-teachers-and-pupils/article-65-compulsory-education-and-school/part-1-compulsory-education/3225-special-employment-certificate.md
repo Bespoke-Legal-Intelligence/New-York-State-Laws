@@ -4,7 +4,7 @@
 [Education Law](../../../README.md) › [Title 4 — Teachers and Pupils](../../README.md) › [Article 65 — Compulsory Education and School Census](../README.md) › [Part 1 — Compulsory Education](README.md)
 
 ```text
-  § 3225. Special employment certificate.  1. A special employment
+  * § 3225. Special employment certificate.  1. A special employment
 certificate may be issued to a minor fifteen years of age, found to be
 incapable of profiting by further instruction available upon compliance
 with the same requirements as in the case of a full-time employment
@@ -15,4 +15,5 @@ provisions of section thirty-two hundred eight of this article and the
 regulations of the commissioner of education.
   3. A special employment certificate shall not authorize the employment
 of a minor in or in connection with or for a factory.
+  * NB Repealed May 9, 2027
 ```

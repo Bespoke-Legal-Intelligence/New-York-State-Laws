@@ -18,22 +18,23 @@ division of tax appeals is filed, or if a petition is filed, then upon
 the date when a determination or decision rendered in the division of
 tax appeals establishing the amount of the deficiency becomes final. If
 an amended return or report filed pursuant to section six hundred
-fifty-nine concedes the accuracy of a federal change or correction, any
-deficiency in tax under this article resulting therefrom shall be deemed
-to be assessed on the date of filing such report or amended return, and
-such assessment shall be timely notwithstanding section six hundred
-eighty-three. If a notice of additional tax due, as prescribed in
-subsection (e) of section six hundred eighty-one, has been mailed, the
-amount of the deficiency shall be deemed to be assessed on the date
-specified in such subsection unless within thirty days after the mailing
-of such notice a report of the federal change or correction or an
-amended return, where such return was required by section six hundred
-fifty-nine, is filed accompanied by a statement showing wherein such
-federal determination and such notice of additional tax due are
-erroneous. Any amount paid as a tax or in respect of a tax, other than
-amounts withheld at the source or paid as estimated income tax, shall be
-deemed to be assessed upon the date of receipt of payment,
-notwithstanding any other provisions.
+fifty-nine or six hundred fifty-nine-a concedes the accuracy of a
+federal change or correction, any deficiency in tax under this article
+resulting therefrom shall be deemed to be assessed on the date of filing
+such report or amended return, and such assessment shall be timely
+notwithstanding section six hundred eighty-three. If a notice of
+additional tax due, as prescribed in subsection (e) of section six
+hundred eighty-one, has been mailed, the amount of the deficiency shall
+be deemed to be assessed on the date specified in such subsection unless
+within thirty days after the mailing of such notice a report of the
+federal change or correction or an amended return, where such return was
+required by section six hundred fifty-nine or six hundred fifty-nine-a,
+is filed accompanied by a statement showing wherein such federal
+determination and such notice of additional tax due are erroneous. Any
+amount paid as a tax or in respect of a tax, other than amounts withheld
+at the source or paid as estimated income tax, shall be deemed to be
+assessed upon the date of receipt of payment, notwithstanding any other
+provisions.
   (b) Other assessment powers.--If the mode or time for the assessment
 of any tax under this article (including interest, additions to tax and
 assessable penalties) is not otherwise provided for, the tax commission

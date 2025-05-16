@@ -9,6 +9,7 @@
 - [§ 2801-A School safety plans](2801a-school-safety-plans.md)
 - [§ 2801-B New York state school safety improvement teams](2801b-new-york-state-school-safety-improvement-teams.md)
 - [§ 2802 Uniform violent incident reporting system](2802-uniform-violent-incident-reporting-system.md)
+- [§ 2803 Use of internet-enabled devices during the school day](2803-use-of-internet-enabled-devices-during-the-school-day.md)
 - [§ 2814 Omnibus school violence prevention grant program](2814-omnibus-school-violence-prevention-grant-program.md)
 
 <details>
@@ -21,6 +22,7 @@ Section 2801.   Codes of conduct on school property.
         2801-a. School safety plans.
         2801-b. New York state school safety improvement teams.
         2802.   Uniform violent incident reporting system.
+        2803.   Use of internet-enabled devices during the school day.
         2814.   Omnibus school violence prevention grant program.
 ```
 

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | AGM |
 | Type | Consolidated law, chapter 69 |
-| Sections | 710 |
-| Last changed | 21 Feb 2025 |
+| Sections | 713 |
+| Last changed | 16 May 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Agriculture & Markets |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER 69 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (104 lines)](chapter-text.md)
+[Full chapter text (105 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [16 May 2025](../../changes/2025/2025-05-16.md): 3 added
 - [21 Feb 2025](../../changes/2025/2025-02-21.md): 1 amended
 - [31 Jan 2025](../../changes/2025/2025-01-31.md): 2 amended
 - [27 Dec 2024](../../changes/2024/2024-12-27.md): 3 amended, 2 added
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [30 Aug 2024](../../changes/2024/2024-08-30.md): 7 amended
 - [5 Jul 2024](../../changes/2024/2024-07-05.md): 1 amended
 - [12 Apr 2024](../../changes/2024/2024-04-12.md): 1 amended
-- [9 Feb 2024](../../changes/2024/2024-02-09.md): 1 amended
 
 ## Contents
 
@@ -105,6 +105,7 @@ Assembly, do enact as follows:
 - [Article 25-AAA — Agricultural and Farmland Protection Programs](article-25aaa-agricultural-and-farmland-protection-programs/)
 - [Article 25-AAAA — Farmland Viability Program](article-25aaaa-farmland-viability-program/)
 - [Article 25-B — Abandoned Animals](article-25b-abandoned-animals/)
+- [Article 25-C — Farm Employer Overtime Credit Program](article-25c-farm-employer-overtime-credit-program/)
 - [Article 26 — Animals](article-26-animals/)
 - [Article 26-A — Care of Animals By Pet Dealers](article-26a-care-of-animals-by-pet-dealers/)
 - [Article 26-B — Emergency Response Services For Animals](article-26b-emergency-response-services-for-animals/)

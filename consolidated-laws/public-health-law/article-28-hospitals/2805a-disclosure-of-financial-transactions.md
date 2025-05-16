@@ -59,7 +59,7 @@ thirty-first, nineteen hundred ninety-nine and on and after January
 first, two thousand. The reports shall be in such form as may be
 prescribed by the commissioner to accurately disclose gross inpatient
 revenue received.
-  4. The commissioner may, to effectuate the purpose of this article,
+  * 4. The commissioner may, to effectuate the purpose of this article,
 vary the nature of the report required according to the size or capacity
 of the hospital.
   The contents of all reports submitted hereunder shall be public
@@ -71,4 +71,72 @@ condition and/or financial transactions of the hospital, may examine the
 books and records of the hospital, subpoena witnesses and documents and
 make such other investigation as is necessary to enable him to determine
 the facts relative thereto.
+  * NB Effective until October 1, 2025
+  * 4. (a) Every general hospital operating under the provisions of this
+article that is required to file an IRS Form 990 in accordance with
+federal regulations shall file with the commissioner, by July first of
+each calendar year, a completed copy of the most recent IRS Form 990 as
+submitted to the IRS, and the information the general hospital used to
+complete the IRS Form 990 in a manner prescribed by the department,
+showing how the hospital spent community benefit expenses, which shall
+include but not be limited to, information to identify the specific
+community benefit expenses supporting the hospital's local community.
+General hospitals operating under the provisions of this article that
+are not required to file an IRS Form 990 shall be required to submit
+information, in a manner prescribed by the department, showing how the
+hospital spent community benefit expenses in the same manner.
+  (b) The department shall compile the information reported in a report
+issued and posted on the department's website by October first, two
+thousand twenty-six, and on an annual basis thereafter, and delivered to
+the governor, the speaker of the assembly, the temporary president of
+the senate, the chair of the assembly health committee, the chair of the
+senate health committee, the chair of the senate finance committee, the
+chair of the assembly ways and means committee, and the minority leaders
+of the assembly and the senate. The report shall include, at a minimum,
+information on:
+  (i) Total community benefit expenses in the state reported by each
+general hospital;
+  (ii) How such community benefit expenses were distributed in the
+aggregate across the following categories:
+  (1) Financial assistance at cost, which shall include any free or
+discounted services for those who cannot afford to pay and meet the
+hospital's financial assistance criteria;
+  (2) Unreimbursed costs from Medicaid;
+  (3) Unreimbursed costs from the children's health insurance program or
+other means-tested government programs;
+  (4) Community health improvement services and community benefit
+operations, which shall include costs associated with planning or
+operating community benefit programs, but shall not include activities
+or programs if they are provided primarily for marketing purposes or if
+they are more beneficial to the hospital than to the community;
+  (5) Health professions education programs that result in a degree or
+certificate or training necessary for residents or interns to be
+certified;
+  (6) Subsidized health services, which shall include services with a
+negative margin, services that meet an identifiable community need and
+services that if no longer offered would be unavailable or fall to the
+responsibility of another nonprofit or government agency;
+  (7) Research that produces generalizable knowledge and is funded by
+tax-exempt sources; and
+  (8) Cash and in-kind contributions for community benefit, for which
+in-kind donations may include the indirect cost of space donated to
+community groups and the direct cost of donated food or supplies;
+  (iii) Details on negative-margin services that were reported by
+hospitals as part of community benefit expenses; and
+  (iv) Details on community benefit programs reported by hospitals as
+part of community benefit expenses.
+  * NB Effective October 1, 2025
+  * 5. The commissioner may, to effectuate the purpose of this article,
+vary the nature of the report required according to the size or capacity
+of the hospital.
+  The contents of all reports submitted hereunder shall be public
+information and such reports shall be available for public inspection
+under such conditions as the commissioner shall prescribe.
+  The commissioner of health when he has reasonable cause to believe
+that the books or records do not accurately reflect the financial
+condition and/or financial transactions of the hospital, may examine the
+books and records of the hospital, subpoena witnesses and documents and
+make such other investigation as is necessary to enable him to determine
+the facts relative thereto.
+  * NB Effective October 1, 2025
 ```

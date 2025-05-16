@@ -89,7 +89,7 @@ owner's equity shall be calculated without regard to any surplus created
 by revaluation of assets and shall not include amounts resulting from
 mortgage amortization where the payment therefor has been provided by
 real property cost reimbursement.
-  * NB Effective until March 31, 2025
+  * NB Effective until March 31, 2030
   * (d) For facilities granted operating certificates on or after March
 tenth, nineteen hundred seventy-five, recognition of real property costs
 in such regulations shall be based upon historical costs to the owner of
@@ -100,7 +100,7 @@ subdivision, owner's equity shall be calculated without regard to any
 surplus created by revaluation of assets and shall not include amounts
 resulting from mortgage amortization where the payment therefor has been
 provided by real property cost reimbursement.
-  * NB Effective March 31, 2025
+  * NB Effective March 31, 2030
   (e) All transactions, including leases and mortgages, which are not
 bona fide and reasonable shall be disregarded.
   2-b. Notwithstanding any inconsistent provision of this section, or
@@ -1050,10 +1050,10 @@ ninety-nine and thereafter, the commissioner shall consider such rate
 appeals within a reasonable period.
   (b) Notwithstanding any inconsistent provision of law or regulation to
 the contrary, for the state fiscal years beginning April first, two
-thousand ten and ending March thirty-first, two thousand twenty-five,
+thousand ten and ending March thirty-first, two thousand twenty-nine,
 the commissioner shall not be required to revise certified rates of
 payment established pursuant to this article for rate periods prior to
-April first, two thousand twenty-five, based on consideration of rate
+April first, two thousand twenty-nine, based on consideration of rate
 appeals filed by residential health care facilities or based upon
 adjustments to capital cost reimbursement as a result of approval by the
 commissioner of an application for construction under section
@@ -1074,7 +1074,7 @@ the department, including, but not limited to, amounts owed pursuant to
 section twenty-eight hundred seven-d of this article; provided, however,
 that the commissioner's authority to negotiate such agreements resolving
 multiple pending rate appeals as hereinbefore described shall continue
-on and after April first, two thousand twenty-five. Rate adjustments
+on and after April first, two thousand twenty-nine. Rate adjustments
 made pursuant to this paragraph remain fully subject to approval by the
 director of the budget in accordance with the provisions of subdivision
 two of section twenty-eight hundred seven of this article.

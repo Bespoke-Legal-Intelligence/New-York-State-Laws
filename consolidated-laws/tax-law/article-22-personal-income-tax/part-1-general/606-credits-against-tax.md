@@ -573,7 +573,7 @@ as provided in section six hundred eighty-six of this article, provided,
 however, that no interest shall be paid thereon.
   (a-2) Hire a vet credit.  (1) Allowance of credit. For taxable years
 beginning on or after January first, two thousand fifteen and before
-January first, two thousand twenty-six, a taxpayer shall be allowed a
+January first, two thousand twenty-nine, a taxpayer shall be allowed a
 credit, to be computed as provided in this subsection, against the tax
 imposed by this article, for hiring and employing, for not less than
 twelve continuous and uninterrupted months (hereinafter referred to as
@@ -602,7 +602,7 @@ received a discharge other than bad conduct or dishonorable from such
 service;
   (B) who commences employment by the qualified taxpayer on or after
 January first, two thousand fourteen, and before January first, two
-thousand twenty-five; and
+thousand twenty-eight; and
   (C) who certifies by signed affidavit, under penalty of perjury, that
 he or she has not been employed for thirty-five or more hours during any
 week in the one hundred eighty day period immediately prior to his or
@@ -842,23 +842,91 @@ without regard to such credit. In the case of a husband and wife who are
 not required to file a federal return, the credit under this subsection
 shall be allowed only if such taxpayers file a joint New York income tax
 return.
-  (c-1) Empire state child credit.  (1) A resident taxpayer shall be
-allowed a credit as provided herein equal to the greater of one hundred
-dollars times the number of qualifying children of the taxpayer or the
-applicable percentage of the child tax credit allowed the taxpayer under
-section twenty-four of the internal revenue code for the same taxable
-year for each qualifying child. Provided, however, in the case of a
-taxpayer whose federal adjusted gross income exceeds the applicable
-threshold amount set forth by section 24(b)(2) of the Internal Revenue
-Code, the credit shall only be equal to the applicable percentage of the
-child tax credit allowed the taxpayer under section 24 of the Internal
-Revenue Code for each qualifying child. For the purposes of this
-subsection, a qualifying child shall be a child who meets the definition
-of qualified child under section 24(c) of the internal revenue code. The
-applicable percentage shall be thirty-three percent. For purposes of
-this subsection, any reference to section 24 of the Internal Revenue
-Code shall be a reference to such section as it existed immediately
-prior to the enactment of Public Law 115-97.
+  (c-1) Empire state child credit.  (1) For taxable years beginning
+before January first, two thousand twenty-five, and taxable years
+beginning on or after January first, two thousand twenty-eight, a
+resident taxpayer shall be allowed a credit as provided herein equal to
+the greater of one hundred dollars times the number of qualifying
+children of the taxpayer or the applicable percentage of the child tax
+credit allowed the taxpayer under section twenty-four of the internal
+revenue code for the same taxable year for each qualifying child.
+Provided, however, in the case of a taxpayer whose federal adjusted
+gross income exceeds the applicable threshold amount set forth by
+section 24(b)(2) of the Internal Revenue Code, the credit shall only be
+equal to the applicable percentage of the child tax credit allowed the
+taxpayer under section 24 of the Internal Revenue Code for each
+qualifying child. For the purposes of this subsection, a qualifying
+child shall be a child who meets the definition of qualified child under
+section 24(c) of the internal revenue code. The applicable percentage
+shall be thirty-three percent. For purposes of this subsection, any
+reference to section 24 of the Internal Revenue Code shall be a
+reference to such section as it existed immediately prior to the
+enactment of Public Law 115-97.
+  (1-a) (A) For taxable years beginning on and after January first, two
+thousand twenty-five, and before January first, two thousand twenty-six,
+a resident taxpayer shall be allowed a credit as provided herein, equal
+to the sum of:
+  (i) one thousand dollars times the number of qualifying children of
+the taxpayer aged three or younger, and
+  (ii) three hundred thirty dollars times the number of qualifying
+children of the taxpayer who have attained age four and not yet attained
+age seventeen.
+  (B) For taxable years beginning on and after January first, two
+thousand twenty-six, and before January first, two thousand
+twenty-eight, a resident taxpayer shall be allowed a credit as provided
+herein, equal to the sum of:
+  (i) one thousand dollars times the number of qualifying children of
+the taxpayer aged three or younger, and
+  (ii) five hundred dollars times the number of qualifying children of
+the taxpayer who have attained age four and not yet attained age
+seventeen.
+  (C) The amount of the credit allowable under subparagraphs (A) and (B)
+of this paragraph shall be reduced (but not below zero) by sixteen
+dollars and fifty cents for each one thousand dollars by which the
+taxpayer's federal adjusted gross income exceeds the threshold amount.
+For the purposes of this subparagraph, the term "threshold amount" shall
+mean: (i) one hundred ten thousand dollars in the case of married
+taxpayers filing jointly; (ii) seventy-five thousand dollars in the case
+of a taxpayer filing as single, head of household, or qualified surving
+spouse; and (iii) fifty-five thousand dollars in the case of a married
+taxpayer filing a separate return.
+  (D) For the purposes of this paragraph, a qualifying child shall be an
+individual who: (i) is a child, sibling, or stepsibling of the taxpayer,
+or a descendent of any such relative; (ii) has the same principal place
+of abode as the taxpayer for more than one-half of the taxable year;
+(iii) has not attained age seventeen; (iv) has not provided over
+one-half of such individual's own support for the calendar year in which
+the taxable year of the taxpayer begins; (v) has not filed a joint
+return (other than only for a claim of refund) with the individual's
+spouse under section six hundred fifty-one of this article for the
+taxable year; and (vi) is a citizen or national of the United States, or
+an individual with an individual taxpayer identification number issued
+by the internal revenue service.
+  (E) For the purposes of this paragraph, the term "child" shall mean an
+individual who is the offspring or stepchild of the taxpayer, or an
+eligible foster child of the taxpayer, or a legally adopted individual
+of the taxpayer, or an individual who is lawfully placed with the
+taxpayer for legal adoption by the taxpayer.
+  (F) (i) Except as provided in subparagraph (C) of this paragraph, if
+an individual may be claimed as a qualifying child by two or more
+taxpayers for a taxable year, such individual shall be treated as the
+qualifying child of the taxpayer who is: (I) a parent of the individual,
+or (II) if subclause (I) does not apply, the taxpayer with the highest
+federal adjusted gross income for such taxable year.
+  (ii) If the parents claiming any qualifying child do not file a joint
+return together, such child shall be treated as the qualifying child of:
+(I) the parent with whom the child resided for the longest period of
+time during the taxable year, or (II) if the child resides with both
+parents for the same amount of time during such taxable year, the parent
+with the highest federal adjusted gross income who files a return
+pursuant to section six hundred fifty-one of this article.
+  (iii) If the parents of an individual may claim such individual as a
+qualifying child but no parent so claims the individual, such individual
+may be claimed as the qualifying child of another taxpayer, but only if
+the federal adjusted gross income of such taxpayer is higher than the
+highest federal adjusted gross income of any parent of the individual,
+regardless of a requirement to file a return pursuant to section six
+hundred fifty-one of this article.
   (2) If the amount of the credit allowed under this subsection for any
 taxable year shall exceed the taxpayer's tax for such year, the excess
 shall be treated as an overpayment of tax to be credited or refunded in
@@ -1125,9 +1193,28 @@ however, that no payment shall be issued if it is less than twenty-five
 dollars.
   (e) Real property tax circuit breaker credit. (1) For purposes of this
 subsection:
-  (A) "Qualified taxpayer" means a resident individual of the state who
-has occupied the same residence for six months or more of the taxable
-year, and is required or chooses to file a return under this article.
+  (A) (i) For taxable years beginning before January first, two thousand
+twenty-five, "qualified taxpayer" means a resident individual of the
+state who has occupied the same residence for six months or more of the
+taxable year, and is required or chooses to file a return under this
+article.
+  (ii) For taxable years beginning on or after January first, two
+thousand twenty-five, "qualified taxpayer" means a resident individual
+of the state who has occupied the same residence for six months or more
+of the taxable year, and has qualifying real property taxes as defined
+in clause (ii) of subparagraph (E) of this paragraph, or a real property
+tax equivalent as defined in clause (ii) of subparagraph (F) of this
+paragraph, in excess of the following percentages of federal adjusted
+gross income:
+If federal adjusted gross income for the          Percentage
+taxable year is:
+$3,000 or less                                    3 1/2
+Over $3,000 but not over $5,000                   4
+Over $5,000 but not over $7,000                   4 1/2
+Over $7,000 but not over $9,000                   5
+Over $9,000 but not over $11,000                  5 1/2
+Over $11,000 but not over $14,000                 6
+Over $14,000 but not over $18,000                 6 1/2
   (B) "Household" or "members of the household" means a qualified
 taxpayer and all other persons, not necessarily related, who have the
 same residence and share its furnishings, facilities and accommodations.
@@ -1174,8 +1261,9 @@ dwelling.  Residence includes a trailer or mobile home, used exclusively
 for residential purposes and defined as real property pursuant to
 paragraph (g) of subdivision twelve of section one hundred two of the
 real property tax law.
-  (E) "Qualifying real property taxes" means all real property taxes,
-special ad valorem levies and special assessments, exclusive of
+  (E) (i) For taxable years beginning before January first, two thousand
+twenty-five, "qualifying real property taxes" means all real property
+taxes, special ad valorem levies and special assessments, exclusive of
 penalties and interest, levied on the residence of a qualified taxpayer
 and paid during the taxable year less the credit claimed under
 subsection (n-1) of this section. In addition, for taxable years
@@ -1193,7 +1281,7 @@ individuals as joint tenants or tenants in common, and one or more than
 one individual is not a member of the household, qualifying real
 property taxes is that part of such taxes on the residence which
 reflects the ownership percentage of the qualified taxpayer and members
-of his household. If a residence is an integral part of a larger unit,
+of their household. If a residence is an integral part of a larger unit,
 qualifying real property taxes shall be limited to that amount of such
 taxes paid as may be reasonably apportioned to such residence. If a
 household owns and occupies two or more residences during different
@@ -1210,17 +1298,58 @@ property taxes may be included by a qualified taxpayer only to the
 extent that such taxpayer or the spouse of such taxpayer occupying such
 residence for six months or more of the taxable year owns or has owned
 the residence and paid such taxes.
-  (F) "Real property tax equivalent" means twenty-five percent of the
-adjusted rent actually paid in the taxable year by a household solely
-for the right of occupancy of its New York residence for the taxable
-year. If (i) a residence is rented to two or more individuals as
+  (ii) For taxable years beginning on or after January first, two
+thousand twenty-five, "qualifying real property taxes" means all real
+property taxes, special ad valorem levies and special assessments,
+exclusive of penalties and interest, levied on the residence of a
+qualified taxpayer and paid during the taxable year less any school tax
+relief credit allowed under subsection (eee) of this section. A
+qualified taxpayer may elect to include any additional amount that would
+have been levied in the absence of an exemption from real property
+taxation pursuant to section four hundred sixty-seven of the real
+property tax law. If tenant-stockholders in a cooperative housing
+corporation have met the requirements of section two hundred sixteen of
+the internal revenue code by which they are allowed a deduction for real
+estate taxes, the amount of taxes so allowable, or which would be
+allowable if the taxpayer had filed returns on a cash basis, shall be
+qualifying real property taxes.  If a residence is owned by two or more
+individuals as joint tenants or tenants in common, qualifying real
+property taxes is that part of such taxes on the residence which
+reflects the ownership percentage of the qualified taxpayer. If a
+residence is an integral part of a larger unit, qualifying real property
+taxes shall be limited to that amount of the taxes paid as may be
+reasonably apportioned to such residence. If a qualified taxpayer owns
+and occupies two or more residences during different periods in the same
+taxable year, qualifying real property taxes shall be the sum of the
+prorated qualifying real property taxes attributable to the qualified
+taxpayer during the periods the taxpayer occupies each of the
+residences. If a qualified taxpayer owns and occupies a residence for
+part of the taxable year and rents a residence for part of the same
+taxable year, the taxpayer may include both the proration of qualifying
+real property taxes on the residence owned and the real property tax
+equivalent with respect to the months the residence is rented. Provided,
+however, for purposes of the credit allowed under this subsection,
+qualifying real property taxes may be included by a qualified taxpayer
+only to the extent that such taxpayer or the spouse of such taxpayer
+occupying such residence for six months or more of the taxable year owns
+or has owned the residence and paid such taxes.
+  (F) (i) For taxable years beginning before January first, two thousand
+twenty-five, "real property tax equivalent" means twenty-five percent of
+the adjusted rent actually paid in the taxable year by a household
+solely for the right of occupancy of its New York residence for the
+taxable year. If (I) a residence is rented to two or more individuals as
 cotenants, or such individuals share in the payment of a single rent for
-the right of occupancy of such residence, and (ii) each of such
+the right of occupancy of such residence, and (II) each of such
 individuals is a member of a different household, one or more of which
 individuals shares such residence, real property tax equivalent is that
 portion of twenty-five percent of the adjusted rent paid in the taxable
 year which reflects that portion of the rent attributable to the
-qualified taxpayer and the members of his household.
+qualified taxpayer and the members of their household.
+  (ii) For taxable years beginning on or after January first, two
+thousand twenty-five, "real property tax equivalent" means twenty-five
+percent of the adjusted rent actually paid in the taxable year by a
+qualified taxpayer solely for the right of occupancy of their New York
+residence for the taxable year.
   (G) "Adjusted rent" means rental paid for the right of occupancy of a
 residence, excluding charges for heat, gas, electricity, furnishings and
 board. Where charges for heat, gas, electricity, furnishing or board are
@@ -1239,21 +1368,36 @@ If the tax commission determines that the adjusted rent shown on the
 return is excessive, the tax commission may reduce such rent, for
 purposes of the computation of the credit, to an amount substantially
 equivalent to rent for a comparable accommodation.
-  (2) A qualified taxpayer shall be allowed a credit as provided in
-paragraph three hereof against the taxes imposed by this article reduced
-by the credits permitted by this article. If the credit exceeds the tax
-as so reduced for such year under this article the qualified taxpayer
-may receive, and the comptroller, subject to a certificate of the state
-tax commission, shall pay as an overpayment, without interest, any
-excess between such tax as so reduced and the amount of the credit. If a
-qualified taxpayer is not required to file a return pursuant to section
-six hundred fifty-one, a qualified taxpayer may nevertheless receive and
-the comptroller, subject to a certificate of the state tax commission,
-shall pay as an overpayment the full amount of the credit, without
-interest.
-  (3) Determination of credit. (A) For qualified taxpayers who have
-attained the age of sixty-five years before the beginning of or during
-the taxable year the amount of the credit allowable under this
+  (2) (A) For taxable years beginning before January first, two thousand
+twenty-five, a qualified taxpayer shall be allowed a credit as provided
+in subparagraph (A) of paragraph three of this subsection against the
+taxes imposed by this article reduced by the credits permitted by this
+article. If the credit exceeds the tax as so reduced for such year under
+this article the qualified taxpayer may receive, and the comptroller,
+subject to a certificate of the commissioner, shall pay as an
+overpayment, without interest, any excess between such tax as so reduced
+and the amount of the credit. If a qualified taxpayer is not required to
+file a return pursuant to section six hundred fifty-one, a qualified
+taxpayer may nevertheless receive and the comptroller, subject to a
+certificate of the commissioner, shall pay as an overpayment the full
+amount of the credit, without interest.
+  (B) For taxable years beginning on or after January first, two
+thousand twenty-five, a qualified taxpayer shall be allowed a credit
+against the tax imposed by this article as provided for in subparagraph
+(B) of paragraph three of this subsection. If the amount of the credit
+allowed under this subsection exceeds the taxpayer's tax for the taxable
+year, the excess shall be treated as an overpayment of tax to be
+credited or refunded in accordance with the provisions of section six
+hundred eighty-six of this article, provided, however, that no interest
+shall be paid thereon. If a taxpayer is not required to file a return
+pursuant to section six hundred fifty-one, a qualified taxpayer may
+nevertheless receive and the comptroller, subject to a certificate of
+the commissioner, shall pay as an overpayment the full amount of the
+credit, without interest.
+  (3) Determination of credit. (A) For taxable years beginning before
+January first, two thousand twenty-five, (i) for qualified taxpayers who
+have attained the age of sixty-five years before the beginning of or
+during the taxable year the amount of the credit allowable under this
 subsection shall be fifty percent, or in the case of a qualified
 taxpayer who has elected to include an additional amount pursuant to
 subparagraph (E) of paragraph one of this subsection, twenty-five
@@ -1273,9 +1417,9 @@ Over $7,000 but not over $9,000                     5
 Over $9,000 but not over $11,000                    5 1/2
 Over $11,000 but not over $14,000                   6
 Over $14,000 but not over $18,000                   6 1/2
-  Notwithstanding the foregoing provisions, the maximum credit
-determined under this subparagraph may not exceed the amount determined
-in accordance with the following table:
+Notwithstanding  the foregoing provisions, the maximum credit determined
+under this clause may not exceed the  amount  determined  in  accordance
+with the following table:
 If household gross income for the
 taxable year is:                     The maximum credit is:
 -----------------------------------  -----------------------------------
@@ -1297,9 +1441,9 @@ Over $14,000 but not over $15,000                   $137
 Over $15,000 but not over $16,000                   $120
 Over $16,000 but not over $17,000                   $103
 Over $17,000 but not over $18,000                   $ 86
-  (B) For all other qualified taxpayers the amount of the credit
-allowable under this subsection shall be fifty percent of excess real
-property taxes or the excess of the real property tax equivalent
+(ii)  for  all  other  qualified  taxpayers  the  amount  of  the credit
+allowable under this subsection shall be fifty percent  of  excess  real
+property  taxes  or  the  excess  of  the  real  property tax equivalent
 determined as follows:
                                      Excess real property taxes are the
                                      excess of real property tax equiv-
@@ -1316,8 +1460,8 @@ Over $9,000 but not over $11,000                    5 1/2
 Over $11,000 but not over $14,000                   6
 Over $14,000 but not over $18,000                   6 1/2
   Notwithstanding the foregoing provisions, the maximum credit
-determined under this subparagraph may not exceed the amount determined
-in accordance with the following table:
+determined under this clause may not exceed the amount determined in
+accordance with the following table:
 If household gross income for the
 taxable year is:                     The maximum credit is:
 -----------------------------------  -----------------------------------
@@ -1339,44 +1483,72 @@ Over $14,000 but not over $15,000                   $47
 Over $15,000 but not over $16,000                   $45
 Over $16,000 but not over $17,000                   $43
 Over $17,000 but not over $18,000                   $41
+  (B) For taxable years beginning on or after January first, two
+thousand twenty-five, (i) for qualified taxpayers who have attained the
+age of sixty-five years before the beginning of or during the taxable
+year or are claiming dependents as defined under section one hundred
+fifty-two of the internal revenue code who have attained the age of
+sixty-five years before the beginning of or during the taxable year, the
+credit allowable under this subsection shall be:
+If the taxpayer's federal adjusted gross
+income for the taxable year is:      The credit amount is:
+$3,000 or less                                      $375
+Over $3,000 but not over $5,000                     $330
+Over $5,000 but not over $7,000                     $300
+Over $7,000 but not over $9,000                     $260
+Over $9,000 but not over $11,000                    $230
+Over $11,000 but not over $14,000                   $200
+Over $14,000 but not over $18,000                   $150
+  (ii) for all other taxpayers the amount of the credit allowable under
+this subsection shall be:
+If the taxpayer's federal adjusted gross
+income for the taxable year is:      The credit amount is:
+$5,000 or less                                      $75
+Over $5,000 but not over $9,000                     $70
+Over $9,000 but not over $14,000                    $60
+Over $14,000 but not over $18,000                   $50
   (4) If a qualified taxpayer occupies a residence for a period of less
 than twelve months during the taxable year or occupies two or more
 residences during different periods in such taxable year, the credit
 allowed pursuant to this subsection shall be computed in such manner as
-the tax commission may, by regulation, prescribe in order to properly
-reflect the credit or portion thereof attributable to such residence or
-residences and such period or periods.
-  (5) The tax commission may prescribe that the credit under this
-subsection shall be determined in whole or in part by the use of tables
-prescribed by such commission. Such tables shall set forth the credit to
-the nearest dollar.
-  (6) Only one credit per household and per qualified taxpayer shall be
-allowed per taxable year under this subsection. When two or more members
-of a household are able to meet the qualifications for a qualified
-taxpayer, the credit shall be equally divided between or among such
-individuals unless such individuals file with the tax commission a
+the commissioner may prescribe in order to properly reflect the credit
+or portion thereof attributable to such residence or residences and such
+period or periods.
+  (6) (A) For taxable years beginning before January first, two thousand
+twenty-five, only one credit per household and per qualified taxpayer
+shall be allowed per taxable year under this subsection. Where two or
+more members of a household are able to meet the qualifications for a
+qualified taxpayer, the credit shall be equally divided between or among
+such individuals unless such individuals file with the commissioner a
 written agreement among such individuals setting forth a different
 division. Where two or more members of a household are able to meet the
 qualifications of a qualified taxpayer and one of them is sixty-five
 years of age or more, the credit which may be taken shall be the credit
 applicable to individuals who have attained the age of sixty-five years.
-  (A) Provided, however, where a joint income tax return has been filed
+  (B) For taxable years beginning on or after January first, two
+thousand twenty-five, only one credit per qualified taxpayer shall be
+allowed per taxable year under this subsection.
+  (C) Provided, however, where a joint income tax return has been filed
 pursuant to the provisions of section six hundred fifty-one by a
-qualified taxpayer and his spouse (or where both spouses are qualified
+qualified taxpayer and their spouse (or where both spouses are qualified
 taxpayers and have filed such joint return), the credit, or the portion
-of the credit if divided, to which the husband and wife are entitled
-shall be applied against the tax of both spouses and any overpayment
-shall be made to both spouses.
-  (B) Where any return required to be filed pursuant to the provisions
+of the credit if divided, to which the spouses are entitled shall be
+applied against the tax of both spouses and any overpayment shall be
+made to both spouses.
+  (D) Where any return required to be filed pursuant to the provisions
 of section six hundred fifty-one is combined with any return of tax
 imposed pursuant to the authority of this chapter or any other law if
-such tax is administered by the tax commission, the credit or the
-portion of the credit if divided, allowed to the qualified taxpayer may
-be applied by the tax commission toward any liability for the
-aforementioned taxes.
+such tax is administered by the commissioner, the credit or the portion
+of the credit if divided, allowed to the qualified taxpayer may be
+applied by the commissioner toward any liability for the aforementioned
+taxes.
   (7) No credit shall be granted under this subsection:
-  (A) If household gross income for the taxable year exceeds eighteen
-thousand dollars.
+  (A) (i) For taxable years beginning before January first, two thousand
+twenty-five, if household gross income for the taxable year exceeds
+eighteen thousand dollars.
+  (ii) For taxable years beginning on or after January first, two
+thousand twenty-five, if the taxpayer's federal adjusted gross income
+exceeds eighteen thousand dollars.
   (B) To a property owner unless: (i) the property is used for
 residential purposes, (ii) not more than twenty percent of the rental
 income, if any, from the property is from rental for nonresidential
@@ -1400,24 +1572,25 @@ be exercised on behalf of a claimant by his legal guardian or attorney
 in fact during his lifetime.
   (9) Returns. If a qualified taxpayer is not required to file a return
 pursuant to section six hundred fifty-one, a claim for a credit may be
-taken on a return filed with the tax commission within three years from
-the time it would have been required that a return be filed pursuant to
-such section had the qualified taxpayer had a taxable year ending on
-December thirty-first. Returns under this paragraph shall be in such
-form as shall be prescribed by the tax commission, which shall make
-available such forms and instructions for filing such returns.
-  (10) Proof of claim. The tax commission may require a qualified
-taxpayer to furnish the following information in support of his claim
-for credit under this subsection: household gross income, rent paid,
-name and address of owner or managing agent of the property rented, real
-property taxes levied or that would have been levied in the absence of
-an exemption from real property tax pursuant to section four hundred
-sixty-seven of the real property tax law, the names of members of the
-household and other qualifying taxpayers occupying the same residence
-and their identifying numbers including social security numbers,
-household gross income, size and nature of property claimed as residence
-and all other information which may be required by the tax commission to
-determine the credit.
+taken on a return filed with the commissioner, or a form prescribed by
+the commissioner, within three years from the time it would have been
+required that a return be filed pursuant to such section had the
+qualified taxpayer had a taxable year ending on December thirty-first.
+Returns under this paragraph shall be in such form as shall be
+prescribed by the commissioner, which shall make available such forms
+and instructions for filing such returns.
+  (10) Proof of claim. The commissioner may require a qualified taxpayer
+to furnish the following information in support of their claim for
+credit under this subsection: federal adjusted gross income, household
+gross income, rent paid, name and address of owner or managing agent of
+the property rented, real property taxes levied or that would have been
+levied in the absence of an exemption from real property tax pursuant to
+section four hundred sixty-seven of the real property tax law, the names
+of members of the household and other qualifying taxpayers occupying the
+same residence and their identifying numbers including social security
+numbers, household gross income, size and nature of property claimed as
+residence and all other information which may be required by the
+commissioner to determine the credit.
   (11) Administration. The provisions of this article, including the
 provisions of section six hundred fifty-three, six hundred fifty-eight,
 and six hundred fifty-nine and the provisions of part six of this
@@ -1451,27 +1624,43 @@ refunds under this subsection.
 allowed under this subsection shall be determined after the
 determination and application of any other credits permitted under the
 provisions of this article.
-  (14) The commissioner of taxation and finance shall prepare a
-preliminary written report after July thirty-first and a final written
-report after December thirty-first of each calendar year, which shall
-contain statistical information regarding the credits granted on or
-before such dates under this subsection during such calendar year.
-Copies of these reports shall be submitted by such commissioner to the
-governor, the temporary president of the senate, the speaker of the
-assembly, the chairman of the senate finance committee and the chairman
-of the assembly ways and means committee within sixty days of July
-thirty-first with respect to the preliminary report, and within
-forty-five days of December thirty-first with respect to the final
-report. Such reports shall contain, but need not be limited to, the
-number of credits and the average amount of such credits allowed; and of
+  (14) (A) For calendar years before two thousand twenty-five, the
+commissioner shall prepare a preliminary written report after July
+thirty-first and a final written report after December thirty-first of
+each calendar year, which shall contain statistical information
+regarding the credits granted on or before such dates under this
+subsection during such calendar year. Copies of these reports shall be
+submitted by the commissioner to the governor, the temporary president
+of the senate, the speaker of the assembly, the chair of the senate
+finance committee and the chair of the assembly ways and means committee
+within sixty days of July thirty-first with respect to the preliminary
+report, and within forty-five days of December thirty-first with respect
+to the final report. Such reports shall contain, but need not be limited
+to, the number of credits and the average amount of such credits
+allowed; and of those, the number of credits and the average amount of
+such credits allowed to qualified taxpayers in each county; and of
 those, the number of credits and the average amount of such credits
-allowed to qualified taxpayers in each county; and of those, the number
-of credits and the average amount of such credits allowed to qualified
-taxpayers whose household gross income falls within each of the
-household gross income ranges set forth in paragraph three of this
-subsection; and of those, the number of credits and the average amount
-of such credits allowed to qualified taxpayers whose credit amount falls
-within credit amount ranges set forth in twenty-five dollar increments.
+allowed to qualified taxpayers whose household gross income falls within
+each of the household gross income ranges set forth in paragraph three
+of this subsection; and of those, the number of credits and the average
+amount of such credits allowed to qualified taxpayers whose credit
+amount falls within credit amount ranges set forth in twenty-five dollar
+increments.
+  (B) For calendar years beginning with two thousand twenty-five, the
+commissioner of taxation and finance shall prepare an annual report by
+September first of each such year, which shall contain statistical
+information regarding the credits claimed under this subsection for the
+second preceding taxable year. Copies of such report shall be submitted
+by the commissioner to the governor, the temporary president of the
+senate, the speaker of the assembly, the chair of the senate finance
+committee and the chair of the assembly ways and means committee. Such
+report shall contain, but need not be limited to, the number of credits
+and the amount of such credits allowed; and of those, the number of
+credits and the amount of such credits allowed to qualified taxpayers in
+each county; and of those, the number of credits and the amount of such
+credits allowed to qualified taxpayers whose federal adjusted gross
+income falls within each of the federal adjusted gross income ranges set
+forth in paragraph three of this subsection.
   (e-1) Volunteer firefighters' and ambulance workers' credit. (1) For
 taxable years beginning on and after January first, two thousand seven,
 a resident taxpayer who serves as an active volunteer firefighter as
@@ -1908,11 +2097,15 @@ shall exceed the taxpayer's tax for such year, such excess amount may be
 carried over to the five taxable years next following the taxable year
 with respect to which the credit is allowed and may be deducted from the
 taxpayer's tax for such year or years.
-  (g-4) Geothermal energy systems credit. (1) General. An individual
+  (g-4) Geothermal energy systems credit.  (1) General. An individual
 taxpayer shall be allowed a credit against the tax imposed by this
 article equal to twenty-five percent of qualified geothermal energy
 system expenditures, except as provided in subparagraph (D) of paragraph
-two of this subsection, not to exceed five thousand dollars.
+two of this subsection, not to exceed five thousand dollars for
+qualified geothermal energy systems placed in service on or before June
+thirtieth, two thousand twenty-five, and ten thousand dollars for
+qualified geothermal energy equipment placed in service on or after July
+first, two thousand twenty-five.
   (2) Qualified geothermal energy systems expenditures. (A) The term
 "qualified geothermal energy system expenditures" means expenditures
 for:
@@ -1984,12 +2177,21 @@ system equipment is placed in service and shall be allowed only for
 geothermal energy system equipment placed into service after January
 first, two thousand twenty-two. However, the taxpayer shall be allowed a
 credit for only one such system in any taxable year.
-  (9) Carryover of credit. If the amount of the credit, and carryovers
+  (9) Application of credit. If the amount of the credit, and carryovers
 of such credit, allowable under this subsection for any taxable year
 shall exceed the taxpayer's tax for such year, such excess amount may be
 carried over to the five taxable years next following the taxable year
 with respect to which the credit is allowed and may be deducted from the
-taxpayer's tax for such year or years.
+taxpayer's tax for such year or years. For taxable years beginning on or
+after January first, two thousand twenty-six, taxpayers who are (A)
+married filing jointly or qualifying surviving spouses with a federal
+adjusted gross income of one hundred eighty thousand dollars or less, or
+(B) single, married filing separate, or heads of household with a
+federal adjusted gross income of ninety thousand dollars or less, may
+elect to receive such excess amount as a refund. Any refund paid
+pursuant to this paragraph shall be deemed to be a refund of an
+overpayment of tax as provided in section six hundred eighty-six of this
+article, provided, however, that no interest shall be paid thereon.
   (h) Research and development tax credit.  (1) For taxable years
 commencing prior to January first, nineteen hundred eighty-seven, a
 taxpayer shall be allowed a credit against the tax imposed by this
@@ -2279,7 +2481,7 @@ subsection (u)                       production expenditures and
                                      theatrical production under
                                      subdivision forty-seven of
                                      section two hundred ten-B
-  ** NB Repealed January 1, 2026
+  ** NB Repealed January 1, 2030
 (xl) Workers with disabilities       Amount of
 tax credit under subsection (zz)     credit under subdivision
                                      forty-eight of section two
@@ -2329,7 +2531,7 @@ tax credit                           subdivision fifty-six of
 * (xlviii) New York city musical     Amount of credit under
 and theatrical production            subdivision fifty-seven of
 tax credit                           section two hundred ten-B
-  * NB Repealed January 1, 2026
+  * NB Repealed January 1, 2028
 * (xlix) Farm employer overtime      Amount of credit under
 credit under subsection (nnn)        subdivision fifty-eight of
                                      section two hundred ten-B
@@ -2358,6 +2560,11 @@ subsection (ppp)
 credit under subsection (ppp)        subdivision sixty of
                                      section two hundred ten-B
   * NB There are 2 clause (li)'s
+(lii) Empire state film              Amount of credit for qualified
+production credit under              production costs in production of
+subsection (gg-1)                    a qualified film under
+                                     subdivision twenty-a of
+                                     section two hundred ten-B
   (2) The reduction of a shareholder's proportionate interest in the
 corporation shall be treated as a disposition of property for which a
 redetermination of credit is required under subsections (a), (j) and (l)
@@ -3529,22 +3736,30 @@ services to such individual; and
 claiming the credit for at least one hundred eighty days or four hundred
 hours.
   (3) Amount of credit. Except as provided in paragraph four of this
-subsection, the amount of credit shall be thirty-five percent of the
-first six thousand dollars in qualified first-year wages earned by each
-qualified employee. "Qualified first-year wages" means wages paid or
-incurred by the taxpayer during the taxable year to qualified employees
-which are attributable, with respect to any such employee, to services
-rendered during the one-year period beginning with the day the employee
-begins work for the taxpayer.
+subsection, the amount of credit for taxable years beginning before
+January first, two thousand twenty-five shall be thirty-five percent of
+the first six thousand dollars in qualified first-year wages earned by
+each qualified employee and for taxable years beginning on or after
+January first, two thousand twenty-five shall be the first five thousand
+dollars in qualified first-year wages earned by each qualified employee.
+"Qualified first-year wages" means wages paid or incurred by the
+taxpayer during the taxable year to qualified employees which are
+attributable, with respect to any such employee, to services rendered
+during the one-year period beginning with the day the employee begins
+work for the taxpayer.
   (4) Credit where federal work opportunity tax credit applies. With
 respect to any qualified employee whose qualified first-year wages under
 paragraph three of this subsection also constitute qualified first-year
 wages for purposes of the work opportunity tax credit for vocational
 rehabilitation referrals under section fifty-one of the internal revenue
-code, the amount of credit under this subsection shall be thirty-five
-percent of the first six thousand dollars in qualified second-year wages
-earned by each such employee. "Qualified second-year wages" means wages
-paid or incurred by the taxpayer during the taxable year to qualified
+code, the amount of credit under this subsection shall be for taxable
+years beginning before January first, two thousand twenty-five
+thirty-five percent of the first six thousand dollars in qualified
+second-year wages earned by each such employee and for taxable years
+beginning on or after January first, two thousand twenty-five shall be
+the first five thousand dollars in qualified second-year wages earned by
+each qualified employee. "Qualified second-year wages" means wages paid
+or incurred by the taxpayer during the taxable year to qualified
 employees which are attributable, with respect to any such employee, to
 services rendered during the one-year period beginning one year after
 the employee begins work for the taxpayer.
@@ -3614,7 +3829,7 @@ of recovery years prior to, but not including, the recapture year, and
 the denominator of which is the total recovery period.
   (6) Termination. The credit allowed by this subsection shall not apply
 in taxable years beginning after December thirty-first, two thousand
-twenty-five.
+twenty-eight.
   (q) Qualified emerging technology company employment credit. (1) A
 taxpayer shall be allowed a credit, to be computed as hereinafter
 provided, against the tax imposed by this article, provided:
@@ -3877,7 +4092,7 @@ this subsection for any taxable year exceeds the taxpayer's tax for such
 year, the excess shall be treated as an overpayment of tax to be
 credited or refunded as provided in section six hundred eighty-six of
 this article, provided, however, that no interest shall be paid thereon.
-  ** NB Repealed January 1, 2026
+  ** NB Repealed January 1, 2030
   * (v) Television writers' and directors' fees and salaries credit. (1)
 Allowance of credit. A taxpayer who is eligible pursuant to section
 twenty-four-b of this chapter shall be allowed a credit to be computed
@@ -4001,6 +4216,15 @@ shall be paid thereon.
 taxpayer who is eligible pursuant to section twenty-four of this chapter
 shall be allowed a credit to be computed as provided in such section
 twenty-four against the tax imposed by this article.
+  (2) Application of credit. If the amount of the credit allowable under
+this subsection for any taxable year exceeds the taxpayer's tax for such
+year, the excess shall be treated as an overpayment of tax to be
+credited or refunded as provided in section six hundred eighty-six of
+this article, provided, however, that no interest shall be paid thereon.
+  (gg-1) Empire state independent film production credit. (1) Allowance
+of credit. A taxpayer who is eligible pursuant to section twenty-four-d
+of this chapter shall be allowed a credit to be computed as provided in
+such section twenty-four-d against the tax imposed by this article.
   (2) Application of credit. If the amount of the credit allowable under
 this subsection for any taxable year exceeds the taxpayer's tax for such
 year, the excess shall be treated as an overpayment of tax to be
@@ -4137,7 +4361,7 @@ computed as hereinafter provided, shall be allowed for bioheating fuel,
 used for space heating or hot water production for residential purposes
 within this state and purchased on or after July first, two thousand six
 and before July first, two thousand seven and on or after January first,
-two thousand eight and before January first, two thousand twenty-six.
+two thousand eight and before January first, two thousand twenty-nine.
 Such credit shall be $0.01 per percent of biodiesel per gallon of
 bioheating fuel, not to exceed twenty cents per gallon, purchased by
 such taxpayer. Provided, however, that on or after January first, two
@@ -4346,32 +4570,35 @@ for taxable years beginning on or after January first, two thousand
 twelve.
   (oo) Credit for rehabilitation of historic properties. (1) (A) For
 taxable years beginning on or after January first, two thousand ten and
-before January first, two thousand thirty, a taxpayer shall be allowed a
+before January first, two thousand thirty, a taxpayer, or a transferee
+of such a taxpayer as described in paragraph seven of this subsection,
+shall be allowed a credit as hereinafter provided, against the tax
+imposed by this article, in an amount equal to one hundred percent of
+the amount of credit allowed the taxpayer with respect to a certified
+historic structure, and one hundred fifty percent of the amount of
+credit allowed the taxpayer with respect to a certified historic
+structure that is a small project, under internal revenue code section
+47(c)(3), determined without regard to ratably allocating the credit
+over a five year period as required by subsection (a) of such section
+47, with respect to a certified historic structure located within the
+state. Provided, however, the credit shall not exceed five million
+dollars. For taxable years beginning on or after January first, two
+thousand thirty, a taxpayer, or a transferee of such a taxpayer as
+described in paragraph seven of this subsection, shall be allowed a
 credit as hereinafter provided, against the tax imposed by this article,
-in an amount equal to one hundred percent of the amount of credit
-allowed the taxpayer with respect to a certified historic structure, and
-one hundred fifty percent of the amount of credit allowed the taxpayer
-with respect to a certified historic structure that is a small project,
-under internal revenue code section 47(c)(3), determined without regard
-to ratably allocating the credit over a five year period as required by
-subsection (a) of such section 47, with respect to a certified historic
-structure located within the state. Provided, however, the credit shall
-not exceed five million dollars. For taxable years beginning on or after
-January first, two thousand thirty, a taxpayer shall be allowed a credit
-as hereinafter provided, against the tax imposed by this article, in an
-amount equal to thirty percent of the amount of credit allowed the
+in an amount equal to thirty percent of the amount of credit allowed the
 taxpayer with respect to a certified historic structure under internal
 revenue code section 47(c)(3), determined without regard to ratably
 allocating the credit over a five year period as required by subsection
 (a) of such section 47, with respect to a certified historic structure
 located within the state; provided, however, the credit shall not exceed
 one hundred thousand dollars.
-  (B) If the taxpayer is a partner in a partnership or a shareholder of
-a New York S corporation, then the credit cap imposed in subparagraph
-(A) of this paragraph shall be applied at the entity level, so that the
-aggregate credit allowed to all the partners or shareholders of each
-such entity in the taxable year does not exceed the credit cap that is
-applicable in that taxable year.
+  (B) If the taxpayer or transferee is a partner in a partnership or a
+shareholder of a New York S corporation, then the credit cap imposed in
+subparagraph (A) of this paragraph shall be applied at the entity level,
+so that the aggregate credit allowed to all the partners or shareholders
+of each such entity in the taxable year does not exceed the credit cap
+that is applicable in that taxable year.
   (2) Tax credits allowed pursuant to this subsection shall be allowed
 in the taxable year that the qualified rehabilitation is placed in
 service under section 167 of the federal internal revenue code.
@@ -4380,30 +4607,95 @@ internal revenue code with respect to a qualified rehabilitation that is
 also the subject of the credit allowed by this subsection and that
 credit pursuant to such section 47 is recaptured pursuant to subsection
 (a) of section 50 of the internal revenue code, a portion of the credit
-allowed under this subsection must be added back in the same taxable
-year and in the same proportion as the federal recapture.
+allowed under this subsection must be added back by the taxpayer or
+transferee in the same taxable year and in the same proportion as the
+federal recapture.
   (4) If the amount of the credit allowed under this subsection for any
 taxable year shall exceed the taxpayer's tax for such year, the excess
 shall be treated as an overpayment of tax to be credited or refunded in
 accordance with the provisions of section six hundred eighty-six of this
 article, provided, however, that no interest shall be paid thereon.
-  (5) Except in the case of a qualified rehabilitation project
-undertaken within a state park, state historic site, or other land owned
-by the state, that is under the jurisdiction of the office of parks,
-recreation and historic preservation, to be eligible for the credit
-allowable under this subsection the rehabilitation project shall be in
-whole or in part located within a census tract which is identified as
-being at or below one hundred percent of the state median family income
-as calculated as of April first of each year using the most recent five
-year estimate from the American community survey published by the United
-States Census bureau. If there is a change in the most recent five year
-estimate, a census tract that qualified for eligibility under this
-program before information about the change was released will remain
-eligible for a credit under this subsection for an additional two
-calendar years.
+  (5) To be eligible for the credit allowable under this subsection the
+rehabilitation project shall be in whole or in part located within a
+census tract which is identified as being at or below one hundred
+percent of the state median family income as calculated as of April
+first of each year using the most recent five year estimate from the
+American community survey published by the United States Census bureau.
+If there is a change in the most recent five year estimate, a census
+tract that qualified for eligibility under this program before
+information about the change was released will remain eligible for a
+credit under this subsection for an additional two calendar years. The
+eligibility restrictions set forth in this paragraph shall not be
+applicable if:
+  (A) a qualified rehabilitation project is undertaken within a state
+park, state historic site, or other land owned by the state, that is
+under the jurisdiction of the office of parks, recreation and historic
+preservation; or
+  (B) a qualified rehabilitation project is undertaken for the provision
+of affordable housing and the taxpayer has entered into a regulatory
+agreement with any state or federal agency or authority, or any other
+government entity that is authorized to engage in the financing,
+construction or oversight of affordable housing within such entity's
+jurisdiction, and where such regulatory agreement sets forth
+affordability requirements applicable for a period of not less than
+thirty years and that is binding on all successors of the taxpayer.
   (6) For purposes of this subsection the term "small project" means
 qualified rehabilitation expenditures totaling two million five hundred
 thousand dollars or less.
+  (7)(A) A taxpayer allowed a credit pursuant to this subsection may
+transfer the credit, in whole or in part, to another person or entity,
+who shall be referred to as the transferee, without regard to how any
+tax credit authorized pursuant to section forty-seven of the internal
+revenue code with respect to a qualified rehabilitation project may be
+allocated and notwithstanding that such other person or entity owns no
+interest in the qualified rehabilitation project or in an entity with an
+ownership interest in the qualified rehabilitation project. A transferee
+may not transfer any credit, or portion thereof, acquired by transfer.
+  (B) A taxpayer seeking to transfer a credit allowed pursuant to this
+subsection must enter into a transfer contract with the transferee. The
+transfer contract must specify:
+  (i) the building identification numbers for all buildings in the
+project;
+  (ii) the date each building was placed into service;
+  (iii) the schedule of years for which the transfer credit may be
+claimed and the amount of credit previously claimed;
+  (iv) the amount of consideration received by the taxpayer for the
+transfer credit; and
+  (v) the amount of credit being transferred.
+  (C) No transfer shall be effective unless the taxpayer allowed a
+credit pursuant to this subsection and seeking to transfer the credit
+files a transfer application with the commissioner of parks, recreation
+and historic preservation prior to the transfer and such transfer
+application is approved. The transfer application shall include the name
+and federal identification numbers of the taxpayer and each proposed
+transferee, the amount of credit proposed to be transferred to each
+proposed transferee, a copy of the transfer contract, and such other
+information as the commissioner or the commissioner of parks, recreation
+and historic preservation may require. The commissioner of parks,
+recreation and historic preservation shall approve or deny each transfer
+application and, if an application is denied, shall issue a written
+determination to the taxpayer. If the transfer is approved, the
+commissioner of parks, recreation and historic preservation shall issue
+a transfer approval certificate that provides the name of the transferor
+and all transferees, the amount of credit being transferred and such
+other information as the commissioner of parks, recreation and historic
+preservation and the commissioner deem necessary. A copy of the transfer
+approval certificate must be attached to each transferee's tax return.
+The commissioner of parks, recreation and historic preservation, in
+consultation with the commissioner, may establish such other procedures
+and standards deemed necessary for the transferability of credits
+allowed under this subsection.
+  (D) The commissioner of parks, recreation and historic preservation
+shall forward copies of all transfer applications and attachments
+thereto and approval certificates to the commissioner within thirty days
+after the transfer is approved.
+  (E) A taxpayer allowed a credit pursuant to section forty-seven of the
+internal revenue code with respect to a qualified rehabilitation that is
+also the subject of the credit allowed by this subsection shall remain
+solely liable for all obligations and liabilities imposed on the
+taxpayer with respect to the credit allowed by this subsection, none of
+which shall apply to a party to whom the credit has been subsequently
+transferred.
   (pp) Historic homeownership rehabilitation credit. (1) For taxable
 years beginning on or after January first, two thousand seven, a
 taxpayer shall be allowed a credit, to be computed as hereinafter
@@ -4950,27 +5242,28 @@ for any taxable year shall exceed the taxpayer's tax for such year, the
 excess allowed for a taxable year may be carried over to the following
 year or years and may be deducted from the taxpayer's tax for such year
 or years.
-  (ddd) Employee training incentive program tax credit. (1) A taxpayer
-that has been approved by the commissioner of economic development to
-participate in the employee training incentive program and has been
-issued a certificate of tax credit pursuant to section four hundred
-forty-three of the economic development law shall be allowed to claim a
-credit against the tax imposed by this article. The credit shall equal
-fifty percent of a taxpayer's eligible training costs, up to a credit of
-ten thousand dollars per employee completing eligible training pursuant
-to paragraph (a) of subdivision three of section four hundred forty-one
-of the economic development law. The credit shall equal fifty percent of
-the stipend paid to an intern, up to a credit of three thousand dollars
-per intern completing eligible training pursuant to paragraph (b) of
-subdivision three of section four hundred forty-one of the economic
-development law. In no event shall a taxpayer be allowed a credit
-greater than the amount listed on the certificate of tax credit issued
-by the commissioner of economic development. In the case of a taxpayer
-who is a partner in a partnership, member of a limited liability company
-or shareholder in an S corporation, the taxpayer shall be allowed its
-pro rata share of the credit earned by the partnership, limited
-liability company or S corporation. The credit will be allowed in the
-taxable year in which the eligible training is completed.
+  (ddd) Employee training incentive program tax credit.  (1) For taxable
+years beginning before January first, two thousand twenty-nine, a
+taxpayer that has been approved by the commissioner of economic
+development to participate in the employee training incentive program
+and has been issued a certificate of tax credit pursuant to section four
+hundred forty-three of the economic development law shall be allowed to
+claim a credit against the tax imposed by this article.  The credit
+shall equal fifty percent of a taxpayer's eligible training costs, up to
+a credit of ten thousand dollars per employee completing eligible
+training pursuant to paragraph (a) of subdivision three of section four
+hundred forty-one of the economic development law. The credit shall
+equal fifty percent of the stipend paid to an intern, up to a credit of
+three thousand dollars per intern completing eligible training pursuant
+to paragraph (b) of subdivision three of section four hundred forty-one
+of the economic development law. In no event shall a taxpayer be allowed
+a credit greater than the amount listed on the certificate of tax credit
+issued by the commissioner of economic development. In the case of a
+taxpayer who is a partner in a partnership, member of a limited
+liability company or shareholder in an S corporation, the taxpayer shall
+be allowed its pro rata share of the credit earned by the partnership,
+limited liability company or S corporation. The credit will be allowed
+in the taxable year in which the eligible training is completed.
   (2) If the amount of the credit allowed under this subsection for any
 taxable year exceeds the taxpayer's tax for the taxable year, the excess
 shall be treated as an overpayment of tax to be credited or refunded in
@@ -4999,43 +5292,46 @@ payment of the credit for that taxable year has been issued to the prior
 owner with respect to the same property, unless such resident individual
 can demonstrate that he or she paid qualifying taxes on such property
 during the taxable year, and that the prior owner did not.
-  (B) "Affiliated income" shall mean for purposes of the basic STAR
-credit, the combined income of all of the owners of the parcel who
-resided primarily thereon as of December thirty-first of the taxable
-year, and of any owners' spouses residing primarily thereon as of such
-date, and for purposes of the enhanced STAR credit, the combined income
-of all of the owners of the parcel as of December thirty-first of the
-taxable year, and of any owners' spouses residing primarily thereon as
-of such date; provided that for both purposes the income to be so
-combined shall be the "adjusted gross income" for the taxable year as
-reported for federal income tax purposes, or that would be reported as
-adjusted gross income if a federal income tax return were required to be
-filed, reduced by distributions, to the extent included in federal
-adjusted gross income, received from an individual retirement account
-and an individual retirement annuity. For taxable years beginning on and
-after January first, two thousand nineteen, where an income-eligibility
-determination is wholly or partly based upon the income of one or more
-individuals who did not file a return pursuant to section six hundred
-fifty-one of this article for the applicable income tax year, then in
-order to be eligible for the credit authorized by this subsection, each
-such individual must file a statement with the department showing the
-source or sources of his or her income for that income tax year, and the
-amount or amounts thereof, that would have been reported on such a
-return if one had been filed. Such statement shall be filed at such
-time, and in such form and manner, as may be prescribed by the
-department, and shall be subject to the provisions of section six
-hundred ninety-seven of this article to the same extent that a return
-would be. The department shall make such forms and instructions
-available for the filing of such statements. The local assessor shall
-upon the request of a taxpayer assist such taxpayer in the filing of the
-statement with the department. Provided further, that if the qualified
-taxpayer was an owner of the property during the taxable year but did
-not own it on December thirty-first of the taxable year, then the
-determination as to whether the income of an individual should be
-included in "affiliated income" shall be based upon the ownership and/or
-residency status of that individual as of the first day of the month
-during which the qualified taxpayer ceased to be an owner of the
-property, rather than as of December thirty-first of the taxable year.
+  (B) (i) "Affiliated income" shall mean the combined income of all of
+the owners of the parcel who resided primarily thereon as of July first
+of the taxable year, and of any owners' spouses residing primarily
+thereon as of such date; provided that the income to be so combined
+shall be the "adjusted gross income" for the taxable year as reported
+for federal income tax purposes, or that would be reported as adjusted
+gross income if a federal income tax return were required to be filed,
+reduced by distributions, to the extent included in federal adjusted
+gross income, received from an individual retirement account and an
+individual retirement annuity.
+  (ii) For taxable years beginning on and after January first, two
+thousand nineteen, where an income-eligibility determination is wholly
+or partly based upon the income of one or more individuals who did not
+file a return pursuant to section six hundred fifty-one of this article
+for the applicable income tax year, then in order to be eligible for the
+credit authorized by this subsection, each such individual must file a
+statement with the department showing the source or sources of such
+individual's income for that income tax year, and the amount or amounts
+thereof, that would have been reported on such a return if one had been
+filed. Such statement shall be filed at such time, and in such form and
+manner, as may be prescribed by the department, and shall be subject to
+the provisions of section six hundred ninety-seven of this article to
+the same extent that a return would be. The department shall make such
+forms and instructions available for the filing of such statements. The
+local assessor shall upon the request of a taxpayer assist such taxpayer
+in the filing of the statement with the department.
+  (iii) Notwithstanding the foregoing provisions of this subparagraph,
+where property is owned solely by a person or persons who received the
+credit for three consecutive years without having filed returns for the
+applicable income tax years, but who demonstrated their eligibility for
+the credit to the commissioner's satisfaction by filing statements
+pursuant to clause (ii) of this subparagraph, such person or persons
+shall be presumed to satisfy the applicable income-eligibility
+requirements each year thereafter and shall not be required to continue
+to file such statements in the absence of a specific request therefor
+from the commissioner. Nothing contained herein shall be construed to
+prevent the commissioner from denying a credit pursuant to this
+subsection when the commissioner determines that a property owner has a
+source of income that renders that owner temporarily or permanently
+ineligible for that credit.
   (C) "Associated fiscal year" means the school district fiscal year
 that began on July first of the taxable year or, in the case of a city
 school district that is subject to article fifty-two of the education
@@ -5064,24 +5360,23 @@ was lawfully created to hold title solely for estate planning and asset
 protection purposes, and that the partner or partners who primarily
 reside thereon personally pay all of the real property taxes and other
 costs associated with the property's ownership.
-  (E) "Qualifying taxes" means the school district taxes that were
-levied upon the taxpayer's primary residence for the associated fiscal
-year that were actually paid by the taxpayer during the taxable year;
-or, in the case of a city school district that is subject to article
-fifty-two of the education law, the combined city and school district
-taxes that were levied upon the taxpayer's primary residence for the
-associated fiscal year that were actually paid by the taxpayer during
-the taxable year. Provided, however, that in the case of a cooperative
-apartment, "qualifying taxes" means the school district taxes that would
-have been levied upon the tenant-stockholder's primary residence if it
-were separately assessed, as determined by the commissioner based on the
-statement provided by the assessor pursuant to subparagraph (ii) of
-paragraph (k) of subdivision two of section four hundred twenty-five of
-the real property tax law, or in the case of a cooperative apartment
-corporation that is described in subparagraph (iv) of paragraph (k) of
-subdivision two of section four hundred twenty-five of the real property
-tax law, one third of such amount. In no case shall the term "qualifying
-taxes" be construed to include penalties or interest.
+  (E) "Qualifying taxes" means the school district taxes that were or
+are to be levied upon the taxpayer's primary residence for the
+associated fiscal year; or, in the case of a city school district that
+is subject to article fifty-two of the education law, the combined city
+and school district taxes that were or are to be levied upon the
+taxpayer's primary residence for the associated fiscal year. Provided,
+however, that in the case of a cooperative apartment, "qualifying taxes"
+means the school district taxes that would have been levied upon the
+tenant-stockholder's primary residence if it were separately assessed,
+as determined by the commissioner based on the statement provided by the
+assessor pursuant to subparagraph (ii) of paragraph (k) of subdivision
+two of section four hundred twenty-five of the real property tax law, or
+in the case of a cooperative apartment corporation that is described in
+subparagraph (iv) of paragraph (k) of subdivision two of section four
+hundred twenty-five of the real property tax law, one third of such
+amount. In no case shall the term "qualifying taxes" be construed to
+include penalties or interest.
   (F) "STAR exemption" means the school tax relief (STAR) exemption
 authorized by section four hundred twenty-five of the real property tax
 law.
@@ -5090,18 +5385,6 @@ exemption within a portion of a school district, as determined by the
 commissioner pursuant to subdivision two of section thirteen hundred
 six-a of the real property tax law for purposes of the credit authorized
 by this subsection.
-  (2) Allowance of credit. A qualified taxpayer shall be allowed a
-credit as provided in paragraph three or four of this subsection,
-whichever is applicable, against the taxes imposed by this article
-reduced by the credits permitted by this article, provided that the
-requirements set forth in the applicable subsection are satisfied. If
-the credit exceeds the tax as so reduced for such year under this
-article, the excess shall be treated as an overpayment, to be credited
-or refunded, without interest. If a qualified taxpayer is not required
-to file a return pursuant to section six hundred fifty-one of this
-article, a qualified taxpayer may nevertheless receive the full amount
-of the credit to be credited or repaid as an overpayment, without
-interest.
   (3) Determination of basic STAR credit.  (A) Beginning with taxable
 years after two thousand fifteen, a basic STAR credit shall be available
 to a qualified taxpayer if the affiliated income of the parcel that
@@ -5128,11 +5411,16 @@ for the associated fiscal year, the credit allowable to such taxpayer
 shall be equal to the amount determined pursuant to subparagraph (B) of
 this paragraph multiplied by the percentage that such portion
 represents.
-  (4) Determination of enhanced STAR credit. (A) Beginning with taxable
-years after two thousand fifteen, an enhanced STAR credit shall be
-available to a qualified taxpayer where both of the following conditions
-are satisfied:
-  (i) All of the owners of the parcel that serves as the taxpayer's
+  (4) Determination of enhanced STAR credit. (A) * Beginning with
+taxable years after two thousand fifteen, an enhanced STAR credit shall
+be available to a qualified taxpayer where both of the following
+conditions are satisfied:
+  * NB Effective until January 1, 2026
+  * Beginning with taxable years after two thousand twenty-four, an
+enhanced STAR credit shall be available to a qualified taxpayer where
+both of the following conditions are satisfied:
+  * NB Effective January 1, 2026
+  * (i) All of the owners of the parcel that serves as the taxpayer's
 primary residence are at least sixty-five years of age as of December
 thirty-first of the taxable year or, in the case of property owned by a
 married couple or by siblings, at least one of the owners is at least
@@ -5143,6 +5431,16 @@ by a married couple, one of whom is sixty-five years of age or over, the
 credit, once allowed, shall not be disallowed because of the death of
 the older spouse so long as the surviving spouse is at least sixty-two
 years of age as of December thirty-first of the taxable year.
+  * NB Effective until January 1, 2025
+  * (i) At least one of the owners of the parcel that serves as the
+taxpayer's primary residence is at least sixty-five years of age as of
+December thirty-first of the taxable year. In the case of property owned
+by a married couple, if only one of the spouses is sixty-five years of
+age or over, the credit, once allowed, shall not be disallowed because
+of the death of the older spouse so long as the surviving spouse is at
+least sixty-two years of age as of December thirty-first of the taxable
+year.
+  * NB Effective January 1, 2026
   (ii) The affiliated income of the parcel that serves as the taxpayer's
 primary residence is less than or equal to the income standard for the
 taxable year established by the commissioner for the corresponding
@@ -5445,6 +5743,11 @@ such credit for six years. As used herein, the term "material
 misstatement" shall have the same meaning as set forth in paragraph (a)
 of subdivision thirteen of section four hundred twenty-five of the real
 property tax law.
+  * (14) The process employed by the commissioner in verifying
+eligibility for the basic STAR credit shall be the same as for the
+enhanced STAR credit, except to the extent that differences are required
+by law.
+  * NB Effective January 1, 2026
   (fff) Farm workforce retention credit. (1) A taxpayer shall be allowed
 a credit, to be computed as provided in section forty-two of this
 chapter, against the tax imposed by this article.
@@ -5662,7 +5965,7 @@ year, the excess shall be treated as an overpayment of tax to be
 credited or refunded in accordance with the provisions of section six
 hundred eighty-six of this article, provided, however, that no interest
 shall be paid thereon.
-  * NB Repealed January 1, 2026
+  * NB Repealed January 1, 2028
   * (nnn) Farm employer overtime credit. (1) A taxpayer shall be allowed
 a credit, to be computed as provided in section forty-two-a of this
 chapter, against the tax imposed by this article.
@@ -5750,6 +6053,172 @@ credited or refunded in accordance with the provisions of section six
 hundred eighty-six of this article, provided, however, that no interest
 will be paid thereon.
   * NB There are 2 sb (ppp)'s
+  (qqq) Inflation refund credit. (1) A taxpayer who meets the
+eligibility standards in paragraph two of this subsection shall be
+allowed a credit against the taxes imposed by this article in the amount
+specified in paragraph three of this subsection for tax year two
+thousand twenty-five.
+  (2) To be eligible for the credit, the taxpayer (or taxpayers filing
+joint returns)(a) must have been a full-year resident in the state of
+New York in tax year two thousand twenty-three, (b) (i) must have had
+New York adjusted gross income of three hundred thousand dollars or less
+in tax year two thousand twenty-three if they filed a New York state
+resident income tax return as married taxpayers filing jointly or a
+qualified surviving spouse, or (ii) must have had New York adjusted
+gross income of one hundred fifty thousand dollars or less in tax year
+two thousand twenty-three if they filed a New York state resident income
+tax return as a single taxpayer, married taxpayer filing a separate
+return, or head of household, and (c) must not have been claimed as a
+dependent by another taxpayer in tax year two thousand twenty-three.
+  (3) Amount of credit. (a) For taxpayers who meet the eligibility
+standards in paragraph two who filed a New York state resident income
+tax return as married taxpayers filing jointly or a qualified surviving
+spouse, (i) with New York adjusted gross income of greater than one
+hundred fifty thousand dollars but no greater than three hundred
+thousand dollars in tax year two thousand twenty-three, the credit
+amount shall be three hundred dollars, or (ii) with New York adjusted
+gross income of no greater than one hundred fifty thousand dollars in
+tax year two thousand twenty-three, the credit amount shall be four
+hundred dollars, and (b) for taxpayers who meet the eligibility
+standards in paragraph two who filed a New York state resident income
+tax return as a single taxpayer, married taxpayer filing a separate
+return, or head of household, (i) with New York adjusted gross income of
+greater than seventy-five thousand dollars but no greater than one
+hundred fifty thousand dollars in tax year two thousand twenty-three,
+the credit amount shall be one hundred fifty dollars, or (ii) with New
+York adjusted gross income of no greater than seventy-five thousand
+dollars in tax year two thousand twenty-three, the credit amount shall
+be two hundred dollars.
+  (4) The amount of the credit shall be treated as an overpayment of tax
+to be credited or refunded in accordance with the provisions of section
+six hundred eighty-six of this article, provided, however, that no
+interest shall be paid thereon. The commissioner shall determine the
+taxpayer's eligibility for this credit utilizing the information
+available to the commissioner on the taxpayer's personal income tax
+return filed for tax year two thousand twenty-three. For those taxpayers
+whom the commissioner has determined eligible for this credit, the
+commissioner shall advance a payment in the amount specified in
+paragraph three of this subsection. A taxpayer who failed to receive an
+advance payment that they believe was due, or who received an advance
+payment that they believe is less than the amount that was due, may
+request payment of the claimed deficiency in a manner prescribed by the
+commissioner.
+  (rrr) Semiconductor research and development tax credit. (1) Allowance
+of credit. A taxpayer that has been approved by the commissioner of
+economic development to participate in the semiconductor research and
+development tax credit program and has been issued a certificate of tax
+credit pursuant to section three hundred fifty-nine-e of the economic
+development law shall be allowed to claim a credit against the tax
+imposed by this article. The credit shall equal up to fifteen percent of
+the cost or other basis for federal income tax purposes of the qualified
+investment and shall be allowable in each taxable year for which the
+commissioner of economic development has issued a certificate of tax
+credit, for up to ten consecutive taxable years. In no event shall a
+taxpayer be allowed a credit greater than the amount listed on the
+certificate of tax credit issued by the commissioner of economic
+development. In the case of a taxpayer who is a partner in a
+partnership, member of a limited liability company or shareholder in an
+S corporation, the taxpayer shall be allowed its pro rata share of the
+credit earned by the partnership, limited liability company or S
+corporation. No cost or expense paid or incurred by the taxpayer that is
+the basis for this credit shall be the basis for any other tax credit
+provided by this chapter.
+  (2) Application of credit. If the amount of the credit allowed under
+this subsection for any taxable year exceeds the taxpayer's tax for the
+taxable year, the excess shall be treated as an overpayment of tax to be
+credited or refunded in accordance with the provisions of section six
+hundred eighty-six of this article, provided, however, no interest will
+be paid thereon.
+  (3) Reporting. The taxpayer shall attach to its tax return its
+certificate of tax credit issued by the commissioner of economic
+development pursuant to section three hundred fifty-nine-e of the
+economic development law. In no event shall the taxpayer be allowed a
+credit greater than the amount of the credit listed on the certificate
+of tax credit, or in the case of a taxpayer who is a partner in a
+partnership, a member of a limited liability company, or shareholder in
+an S corporation, its pro rata share of the amount of credit listed on
+the certificate of tax credit.
+  (4) Credit recapture. If a certificate of eligibility or a certificate
+of tax credit issued by the department of economic development under
+article seventeen-A of the economic development law is revoked by such
+department because the taxpayer does not meet the eligibility
+requirement set forth in subdivision six of section three hundred
+fifty-nine-c of economic development law, the amount of credit described
+in this subdivision and claimed by the taxpayer prior to that revocation
+shall be added back to tax in the taxable year in which any such
+revocation becomes final.
+  (sss) Semiconductor workforce training program tax credit. (1)
+Allowance of tax credit. A taxpayer that has been approved by the
+commissioner of economic development to participate in the semiconductor
+workforce training program and has been issued a certificate of tax
+credit pursuant to section five hundred three of the economic
+development law shall be allowed to claim a credit against the tax
+imposed by this article. The credit shall equal seventy-five percent of
+wages, salaries or other compensation, training costs, and wrap around
+services, up to a credit of twenty-five thousand dollars per employee
+receiving eligible training, up to one million dollars per eligible
+non-semiconductor manufacturing business and up to five million dollars
+per eligible semiconductor manufacturing business pursuant to
+subdivision three of section five hundred three of the economic
+development law. In no event shall a taxpayer be allowed a credit
+greater than the amount listed on the certificate of tax credit issued
+by the commissioner of economic development. In the case of a taxpayer
+who is a partner in a partnership, member of a limited liability company
+or shareholder in an S corporation, the taxpayer shall be allowed its
+pro rata share of the credit earned by the partnership, limited
+liability company or S corporation. The credit shall be allowed in the
+taxable year in which the eligible training is completed. No cost or
+expense paid or incurred by the taxpayer that is the basis for this
+credit shall be the basis for any other tax credit provided by this
+chapter.
+  (2) Application of credit. If the amount of the credit allowed under
+this subsection for any taxable year exceeds the taxpayer's tax for the
+taxable year, the excess shall be treated as an overpayment of tax to be
+credited or refunded in accordance with the provisions of section six
+hundred eighty-six of this article, provided, however, no interest will
+be paid thereon.
+  (3) Reporting. The taxpayer shall attach to its tax return its
+certificate of tax credit issued by the commissioner of economic
+development pursuant to section five hundred three of the economic
+development law. In no event shall the taxpayer be allowed a credit
+greater than the amount of the credit listed on the certificate of tax
+credit, or in the case of a taxpayer who is a partner in a partnership,
+a member of a limited liability company, or shareholder in an S
+corporation, its pro rata share of the amount of credit listed on the
+certificate of tax credit.
+  (4) Credit recapture. If a certificate of eligibility or a certificate
+of tax credit issued by the department of economic development under
+article twenty-eight of the economic development law is revoked by such
+department because the taxpayer does not meet the eligibility
+requirement set forth in subdivision three of section five hundred three
+of the economic development law, the amount of credit described in this
+subsection and claimed by the taxpayer prior to that revocation shall be
+added back to tax in the taxable year in which any such revocation
+becomes final.
+  (ttt) Organ donation credit. (1) For taxable years beginning on or
+after January first, two thousand twenty-five, a full-year resident
+taxpayer who, while living, donates one or more of their human organs to
+another human being for human organ transplantation will be allowed a
+credit against the taxes imposed by this article in the amount specified
+in paragraph two of this subsection. For purposes of this paragraph,
+"human organ" means all or part of a liver, pancreas, kidney, intestine,
+lung, or bone marrow.
+  (2) A taxpayer may claim the credit allowed under this subsection only
+once and in the taxable year in which the human organ transplantation
+occurs. Such credit may be claimed, in an amount not to exceed ten
+thousand dollars, for only the following unreimbursed expenses that are
+incurred by the taxpayer and related to the taxpayer's organ donation:
+  (A) travel expenses;
+  (B) lodging expenses; and
+  (C) lost wages.
+Provided, however, that this credit shall not apply to any organ
+donation for which the taxpayer has received benefits under section
+forty-three hundred seventy-one of the public health law.
+  (3) If the amount of the credit allowed under this subsection for any
+taxable year shall exceed the taxpayer's tax for such year, the excess
+shall be treated as an overpayment of tax to be credited or refunded in
+accordance with the provisions of section six hundred eighty-six of this
+article, provided, however, that no interest shall be paid thereon.
   (vvv) Empire state apprenticeship tax credit. (1)(A) A taxpayer that
 has been certified by the commissioner of labor as a certified employer
 pursuant to section twenty-five-c of the labor law shall be allowed a

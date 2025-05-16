@@ -82,6 +82,74 @@ shall be effective only when approved by a justice of the supreme court.
 The commissioner shall promulgate regulations defining what constitutes
 undue economic hardship. The inability to maintain an affluent or
 luxurious lifestyle shall not constitute undue economic hardship.
+  Fifteenth-a. Notwithstanding any other provision of this chapter: (i)
+the commissioner may grant the relief described in paragraph (iii) of
+this subdivision to a limited partner of a limited partnership (but not
+a partner of a limited liability partnership) or a member of a limited
+liability company if such limited partner or member demonstrates to the
+satisfaction of the commissioner that such limited partner's or member's
+ownership interest and the percentage of their distributive share of the
+profits and losses of such limited partnership or limited liability
+company are each less than fifty percent, and such limited partner or
+member was not under a duty to act, and did not act, for such limited
+partnership or limited liability company in complying with any
+requirement of the taxes imposed under article twenty-eight of this
+chapter and pursuant to the authority of article twenty-nine of this
+chapter. Provided, however, the commissioner shall deny an application
+for relief if: (A) such limited partner or member had a duty to act or
+has acted on behalf of such limited partnership or limited liability
+company in complying with any requirement of the taxes imposed under
+article twenty-eight of this chapter and pursuant to the authority of
+article twenty-nine of this chapter; (B) such limited partner or member
+has been convicted of a crime provided in this chapter; (C) such limited
+partner or member has a past-due tax liability, as such term is defined
+in section one hundred seventy-one-v of this article; (D) approval of
+such application would undermine compliance with the taxes or other
+impositions administered by the commissioner; or (E) approval of such
+application would be adverse to the best interests of the state.
+  (ii) The relief described in paragraph (iii) of this subdivision shall
+not be provided unless a limited partner or member submits a properly
+completed application for relief on a form prescribed by the
+commissioner. The information provided in such application must be true
+and complete in all material respects. Providing materially false or
+fraudulent information on such application shall disqualify such limited
+partner or member for the relief described in paragraph (iii) of this
+subdivision, shall void any agreement with the commissioner with respect
+to such relief, and shall result in such limited partner or member
+bearing strict liability for the total amount of tax, interest and
+penalty owed by their respective limited partnership or limited
+liability company under article twenty-eight of this chapter and
+pursuant to the authority of article twenty-nine of this chapter.
+  (iii) If the commissioner approves such application, such limited
+partner or member shall be liable for the percentage of the original
+liability under article twenty-eight of this chapter and pursuant to the
+authority of article twenty-nine of this chapter of their respective
+limited partnership or limited liability company that reflects such
+limited partner's or member's ownership interest or distributive share
+of the profits and losses of such limited partnership or limited
+liability company, whichever is higher. Such original liability shall
+include any interest accrued thereon up to and including the date of
+payment by such limited partner or member at the underpayment rate set
+by the commissioner pursuant to section eleven hundred forty-two of this
+chapter, and shall be reduced by the sum of any payments made by the
+limited partnership or limited liability company. Provided, however,
+such limited partner or member shall not be liable for any penalty owed
+by such limited partnership or limited liability company or any other
+partner or member of such limited partnership or limited liability
+company; and provided further that the sum of the amounts owed by all of
+the persons required to collect tax of a limited partnership or limited
+liability company shall not exceed the total liability of such limited
+partnership or limited liability company.
+  (iv) The denial of a limited partner's or member's application for
+relief shall not be reviewable by the division of tax appeals, but may
+be reviewed pursuant to article seventy-eight of the civil practice law
+and rules by a proceeding commenced within four months of such denial in
+the county where the commissioner has their principal office.
+  (v) Any payment made by a limited partner or member in excess of such
+limited partner's or member's percentage of ownership or distributive
+share, whichever is higher, shall be deemed a payment by the respective
+limited partnership or limited liability company, and such limited
+partner or member shall not be entitled to a refund of such amount.
   Sixteenth. Have authority to compromise any taxes or any warrant or
 judgment for taxes imposed by this chapter and the penalties and
 interest in connection therewith of a tax debtor which is a domestic

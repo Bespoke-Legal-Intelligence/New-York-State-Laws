@@ -23,7 +23,12 @@ nineteen and January fifteenth, two thousand nineteen; or (D) that is
 real or tangible personal property having an actual situs outside New
 York state at the time the gift was made. Provided, however that this
 paragraph shall not apply to the estate of a decedent dying on or after
-January first, two thousand twenty-six.
+January first, two thousand thirty-two. The amount by which the total
+tax imposed under this article exceeds the total tax that would have
+been imposed under this article if this paragraph did not apply shall be
+treated as an obligation of the decedent as of the decedent's death that
+is subject to the provisions of this article (but which shall not be
+deductible for purposes of this article).
   (4) Increased by the value of any property not otherwise already
 included in the decedent's federal gross estate in which the decedent
 had a qualifying income interest for life if a deduction was allowed on

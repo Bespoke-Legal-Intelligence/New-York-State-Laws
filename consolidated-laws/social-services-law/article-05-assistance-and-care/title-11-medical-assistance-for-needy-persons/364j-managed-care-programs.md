@@ -24,15 +24,15 @@ or
 section three hundred sixty-four-f of this title or section forty-four
 hundred three-e of the public health law or section 1915b of the social
 security act; or
-  ** NB Effective until December 31, 2025
+  ** NB Effective until December 31, 2027
   ** (ii) is authorized as a partially capitated program pursuant to
 section three hundred sixty-four-f of this title or section forty-four
 hundred three-e of the public health law or section 1915b of the social
 security act.
-  ** NB Effective December 31, 2025
+  ** NB Effective December 31, 2027
   ** (iii) is authorized to operate under section forty-four hundred
 three-g of the public health law.
-  ** NB Repealed December 31, 2025
+  ** NB Repealed December 31, 2027
   (c) "Managed care program". A statewide program in which medical
 assistance recipients enroll on a voluntary or mandatory basis to
 receive medical assistance services, including case management, directly
@@ -253,7 +253,20 @@ January first, two thousand twenty-seven.
   (d-3) Services provided in school-based health centers shall not be
 provided to medical assistance recipients through managed care programs
 established pursuant to this section until at least April first, two
-thousand twenty-five.
+thousand twenty-six.
+  (d-4) Notwithstanding paragraph (a) of this subdivision, the following
+medical assistance recipients shall not be eligible to participate in
+the managed care program authorized by this section or other care
+coordination model established by article forty-four of the public
+health law: any person who is permanently placed in a residential health
+care facility for a consecutive period of three months or more. However,
+nothing in this paragraph should be construed to apply to enrollees in
+the Medicaid Advantage Plus Program, developed to enroll persons in
+managed long-term care who are nursing home certifiable and who are
+dually eligible pursuant to section forty-four hundred three-f of the
+public health law. In implementing this provision, the department shall
+continue to support service delivery and outcomes that result in
+community living for enrollees.
   (e) The following categories of individuals may be required to enroll
 with a managed care program when program features and reimbursement
 rates are approved by the commissioner of health and, as appropriate,
@@ -1454,7 +1467,7 @@ inconsistent with any provision of section forty-four hundred three-g of
 the public health law, such provision of this section shall not apply to
 an entity authorized to operate pursuant to section forty-four hundred
 three-g of the public health law.
-  ** NB Repealed December 31, 2025
+  ** NB Repealed December 31, 2027
   29. In the event that the department receives approval from the
 Centers for Medicare and Medicaid Services to amend its 1115 waiver or
 receives approval for a new 1115 waiver prior to or following the
@@ -1824,6 +1837,44 @@ special investigation units. The provisions of this subdivision
 notwithstanding, the managed care provider shall continue to comply with
 all the requirements of section forty-four hundred fourteen of the
 public health law.
+  40. (a) The commissioner shall be entitled to penalize managed care
+providers for failure to meet the contractual obligations and
+performance standards of the executed contract between the state and a
+managed care provider in place at the time of the failure.
+  (b) The commissioner shall have sole discretion in determining whether
+to impose a penalty for noncompliance with any provision of such
+contract.
+  (c) (i) Penalties imposed by this subdivision against a managed care
+provider shall be from two hundred fifty dollars up to twenty-five
+thousand dollars per violation depending on the severity of the
+noncompliance as determined by the commissioner.
+  (ii) The commissioner may elect, in their sole discretion, to assess
+penalties imposed by this section from, and as a set off against,
+payments due to the managed care provider, or payments that become due
+any time after the assessment of penalties. Deductions may continue
+until the full amount of the noticed penalties are paid in full.
+  (iii) All penalties imposed by the commissioner pursuant to this
+subdivision shall be paid out of the administrative costs and profits of
+the managed care provider. The managed care provider shall not pass the
+penalties imposed by the commissioner pursuant to this subdivision
+through to any medical services provider and/or subcontractor.
+  (d) For the purposes of this subdivision a violation shall mean a
+determination by the commissioner that the managed care provider failed
+to act as required under the contract between the state and the managed
+care provider in place at the time of the failure, or applicable federal
+and state statutes, rules or regulations governing managed care
+providers. Each instance of a managed care provider failing to furnish
+necessary and/or required medical services or items to each enrollee
+shall be a separate violation and each day that an ongoing violation
+continues shall be a separate violation.
+  (e) No penalties shall be assessed pursuant to this subdivision
+without providing an opportunity for a formal hearing conducted in
+accordance with section twelve-a of the public health law.
+  (f) Nothing in this subdivision shall prohibit the imposition of
+damages, penalties or other relief, otherwise authorized by law,
+including but not limited to cases of fraud, waste or abuse.
+  (g) The commissioner may promulgate any regulations necessary to
+implement the provisions of this subdivision.
   * NB Repealed March 31, 2026 (per ch. 165/1991)
   * NB Repealed March 31, 2026 (per ch. 710/1988)
 ```

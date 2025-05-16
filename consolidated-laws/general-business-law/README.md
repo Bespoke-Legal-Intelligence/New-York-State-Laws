@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | GBS |
 | Type | Consolidated law, chapter 20 |
-| Sections | 1,376 |
-| Last changed | 4 Apr 2025 |
+| Sections | 1,385 |
+| Last changed | 16 May 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Business |
 
@@ -29,10 +29,11 @@ AN ACT relating to general business, constituting chapter twenty of the
   Assembly, do enact as follows:
 ```
 
-[Full chapter text (193 lines)](chapter-text.md)
+[Full chapter text (197 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [16 May 2025](../../changes/2025/2025-05-16.md): 10 amended, 9 added
 - [4 Apr 2025](../../changes/2025/2025-04-04.md): 1 amended
 - [28 Mar 2025](../../changes/2025/2025-03-28.md): 3 amended
 - [7 Mar 2025](../../changes/2025/2025-03-07.md): 2 amended
@@ -42,7 +43,6 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [10 Jan 2025](../../changes/2025/2025-01-10.md): 2 amended
 - [27 Dec 2024](../../changes/2024/2024-12-27.md): 12 amended, 11 added
 - [20 Dec 2024](../../changes/2024/2024-12-20.md): 3 amended, 2 added
-- [13 Dec 2024](../../changes/2024/2024-12-13.md): 1 added
 
 ## Contents
 
@@ -74,6 +74,7 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 11 — Employment Agencies](article-11-employment-agencies/)
 - [Article 11-A — Motor Vehicle Manufacturers](article-11a-motor-vehicle-manufacturers/)
 - [Article 11-B — Franchises For the Sale of Motor Fuels](article-11b-franchises-for-the-sale-of-motor-fuels/)
+- [Article 11-C — Sale of Zero-emission School Buses](article-11c-sale-of-zero-emission-school-buses/)
 - [Article 12 — Hotels and Boarding Houses](article-12-hotels-and-boarding-houses/)
 - [Article 12-B — Mercantile Establishments](article-12b-mercantile-establishments/)
 - [Article 12-C — Trampoline Park Safety](article-12c-trampoline-park-safety/)
@@ -185,3 +186,4 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 44-A — Freelance Isn't Free Act](article-44a-freelance-isnt-free-act/)
 - [Article 45 — Safe For Kids Act](article-45-safe-for-kids-act/)
 - [Article 46 — Laws Repealed; When to Take Effect](article-46-laws-repealed-when-to-take-effect/)
+- [Article 47 — Artificial Intelligence Companion Models](article-47-artificial-intelligence-companion-models/)

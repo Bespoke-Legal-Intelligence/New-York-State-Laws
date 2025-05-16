@@ -16,6 +16,7 @@
 - [§ 205.20 Promoting prison contraband in the second degree](205.20-promoting-prison-contraband-in-the-second-degree.md)
 - [§ 205.25 Promoting prison contraband in the first degree](205.25-promoting-prison-contraband-in-the-first-degree.md)
 - [§ 205.30 Resisting arrest](205.30-resisting-arrest.md)
+- [§ 205.35 Evading arrest by concealment of identity](205.35-evading-arrest-by-concealment-of-identity.md)
 - [§ 205.50 Hindering prosecution; definition of term](205.50-hindering-prosecution-definition-of-term.md)
 - [§ 205.55 Hindering prosecution in the third degree](205.55-hindering-prosecution-in-the-third-degree.md)
 - [§ 205.60 Hindering prosecution in the second degree](205.60-hindering-prosecution-in-the-second-degree.md)
@@ -39,6 +40,7 @@ Section  205.00  Escape and other offenses relating to custody;
          205.20  Promoting prison contraband in the second degree.
          205.25  Promoting prison contraband in the first degree.
          205.30  Resisting arrest.
+         205.35  Evading arrest by concealment of identity.
          205.50  Hindering prosecution; definition of term.
          205.55  Hindering prosecution in the third degree.
          205.60  Hindering prosecution in the second degree

@@ -409,4 +409,75 @@ partnership or electing city resident S corporation attributable to such
 taxpayer on such electing city partnership or electing city resident S
 corporation's return filed pursuant to section eight hundred seventy-two
 of this chapter.
+  (h) Credit for certain taxpayers with incomes below certain
+thresholds.  (1) Notwithstanding any other provision of law to the
+contrary, for taxable years beginning on or after January first, two
+thousand twenty-five, a credit shall be allowed to a taxpayer against
+the tax imposed pursuant to the authority of this article in an amount
+equal to the tax otherwise due under this article for such taxable year,
+reduced by all the credits permitted by this article for such taxable
+year, if:
+  (A) such taxpayer is entitled to a deduction for such taxable year
+under subsection (c) of section one hundred fifty-one of the internal
+revenue code;
+  (B) such taxpayer meets the following income thresholds for such
+taxable year:
+  (i) for city taxpayers who filed a resident income tax return as
+married taxpayers filing jointly or a qualified surviving spouse:
+          If the number of                   Income no greater than:
+          dependents is:
+          1                                  $36,789
+          2                                  $46,350
+          3                                  $54,545
+          4                                  $61,071
+          5                                  $68,403
+          6                                  $75,204
+          7 or more                          $91,902
+  (ii) for city taxpayers who filed a resident income tax return as a
+single taxpayer, married taxpayer filing a separate return, or head of
+household:
+          If the number of                   Income no greater than:
+          dependents is:
+          1                                  $31,503
+          2                                  $36,824
+          3                                  $46,512
+          4                                  $53,711
+          5                                  $59,928
+          6                                  $65,712
+          7                                  $74,565
+          8 or more                          $88,361
+  (iii) for any taxable year beginning on or after January first, two
+thousand twenty-six, the commissioner shall multiply the amounts in this
+subparagraph by one plus the cost-of-living adjustment, which shall be
+the percentage by which the consumer price index for the preceding
+calendar year exceeds the consumer price index for calendar year two
+thousand twenty-four;
+  (C) such taxpayer is not allowed a credit pursuant to:
+  (i) subsection (a) of section eight hundred sixty-three of this
+chapter against the tax imposed pursuant to article twenty-two of this
+chapter; or
+  (ii) subsection (a) of section eight hundred seventy of this chapter
+against the tax imposed pursuant to the authority of article thirty of
+this chapter; and
+  (D) such taxpayer does not report disqualified income in excess of ten
+thousand dollars in the taxable year, as defined in subsection (i) of
+section thirty-two of the internal revenue code.
+  (2) Where the income of a taxpayer exceeds the amount indicated in
+subparagraph (B) of paragraph one of this subsection for such taxpayer
+by five thousand dollars or less, and such taxpayer satisfies
+subparagraph (A) and subparagraphs (C) and (D) of paragraph one of this
+subsection, a credit shall be allowed in the amount determined by
+multiplying: (A) the tax otherwise due under this article for such
+taxable year reduced by all the credits permitted by this article for
+such taxable year by (B) a fraction the numerator of which is five
+thousand dollars minus the amount by which such income exceeds the
+amount indicated in subparagraph (B) of paragraph one of this subsection
+and the denominator of which is five thousand dollars.
+  (3) For purposes of this subsection:
+  (A) "Consumer price index" means the most recent consumer price index
+for all-urban consumers published by the United States department of
+labor. The consumer price index for any calendar year shall be the
+average of the consumer price index as of the close of the twelve-month
+period ending on August thirty-first of such calendar year.
+  (B) "Income" means federal adjusted gross income for the taxable year.
 ```

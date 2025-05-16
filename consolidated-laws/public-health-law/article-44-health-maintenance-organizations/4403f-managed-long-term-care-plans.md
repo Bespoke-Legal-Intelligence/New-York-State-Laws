@@ -610,13 +610,13 @@ demonstration, and consistent with federal regulations promulgated
 pursuant to the Health Insurance Portability and Accountability Act,
 share with such plan or demonstration the following data if it is
 available:
-  * NB Effective until December 31, 2025
+  * NB Effective until December 31, 2027
   * The commissioner shall, upon request by a managed long term care
 plan or operating demonstration, and consistent with federal regulations
 promulgated pursuant to the Health Insurance Portability and
 Accountability Act, share with such plan or demonstration the following
 data if it is available:
-  * NB Effective December 31, 2025
+  * NB Effective December 31, 2027
   (i) information concerning utilization of services and providers by
 each of its enrollees prior to and during enrollment, including but not
 limited to utilization of emergency department services, prescription
@@ -961,7 +961,7 @@ persons with developmental disabilities pursuant to this article
 operating in the person's county of residence to meet the needs of
 persons with developmental disabilities, and that such plans meet the
 standards of this section.
-  ** NB Repealed December 31, 2025
+  ** NB Repealed December 31, 2027
   ** NB There are 2 sb 12's
   ** 13. Notwithstanding any inconsistent provision to the contrary, the
 commissioner may issue a certificate of authority to no more than three
@@ -980,7 +980,7 @@ necessary to allow such managed long term care plans to provide or
 arrange for services for persons with developmental disabilities that
 are adequate and appropriate to meet the needs of such individuals and
 that will ensure their health and safety.
-  ** NB Repealed December 31, 2025
+  ** NB Repealed December 31, 2027
   ** 14. The provisions of subdivisions twelve and thirteen of this
 section shall only be effective if, for so long as, and to the extent
 that federal financial participation is available for the costs of
@@ -995,6 +995,6 @@ that the provisions of subdivision twelve and thirteen of this section
 are inconsistent with other provisions of this article or with the
 provisions of section three hundred sixty-four-j of the social services
 law, the provisions of this subdivision shall prevail.
-  ** NB Repealed December 31, 2025
+  ** NB Repealed December 31, 2027
   * NB Repealed December 31, 2029
 ```

@@ -64,9 +64,9 @@ the amount of the credit allowed under this section shall be equal to
 the product of the total number of eligible farm employees and six
 hundred dollars. For taxable years beginning on or after January first,
 two thousand twenty-two and before January first, two thousand
-twenty-six, the amount of the credit allowed under this section shall be
-equal to the product of the total number of eligible farm employees and
-twelve hundred dollars.
+twenty-nine, the amount of the credit allowed under this section shall
+be equal to the product of the total number of eligible farm employees
+and twelve hundred dollars.
   (f) A taxpayer claiming the credit allowed under this section shall
 not be allowed to claim any other tax credit allowed under this chapter,
 except the credit allowed under section forty-two-a of this article,

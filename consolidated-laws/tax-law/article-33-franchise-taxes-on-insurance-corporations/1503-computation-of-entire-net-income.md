@@ -591,6 +591,33 @@ the intersection of West Houston Street, then east along the centerline
 of West Houston Street, then at the intersection of the Avenue of the
 Americas continuing east along the centerline of East Houston Street to
 the easterly bank of the East River.
+  (17) Depreciation and interest adjustments for covered properties
+owned by an institutional real estate investor. (A) Notwithstanding any
+other provision of this section, in the case of a taxpayer that is an
+institutional real estate investor or partner, member or shareholder of
+an entity that is an institutional real estate investor as defined in
+paragraph (c-4) of subdivision nine of section two hundred eight of this
+chapter, entire net income shall be computed with adjustments for
+depreciation and interest related to covered properties as set forth in
+this paragraph.
+  (B) Depreciation deductions. With respect to covered properties, no
+deduction for depreciation allowed under the internal revenue code or
+this section shall be allowed.
+  (C) Federal interest deductions. With respect to covered properties,
+the interest deduction for federal income tax purposes allowed under
+section one hundred sixty-three of the internal revenue code shall not
+be allowed and must be added back in the computation of entire net
+income, except with respect to interest paid or accrued in the taxable
+year when such covered property is sold to an individual for use as the
+principal residence of such individual or sold to a nonprofit
+organization that has as its principal purpose the creation,
+development, or preservation of affordable housing. For purposes of this
+subparagraph, any amount of interest that would have been allowed under
+section one hundred sixty-three of the internal revenue code in
+connection with a covered property but for an election to treat such
+interest as chargeable to capital account shall be treated as an amount
+allowed under section one hundred sixty-three of the internal revenue
+code.
   (c) Attribution of income to different taxable years. The tax
 commission may, whenever necessary in order to properly reflect the
 entire net income of any taxpayer, determine the year or period in which

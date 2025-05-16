@@ -128,7 +128,7 @@ $25,000,000                           $5,000,000
 Over $25,000,000                      $2,479,135 plus 10.90% of excess over
                                       $25,000,000
   (vi) For taxable years beginning in two thousand twenty-three and
-before two thousand twenty-eight the following rates shall apply:
+before two thousand twenty-six the following rates shall apply:
 If the New York taxable income is:    The tax is:
 Not over $17,150                      4% of the New York taxable income
 Over $17,150 but not over $23,600     $686 plus 4.5% of excess over
@@ -147,21 +147,64 @@ Over $5,000,000 but not over          $418,263 plus 10.30% of excess over
 $25,000,000                           $5,000,000
 Over $25,000,000                      $2,478,263 plus 10.90% of excess over
                                       $25,000,000
-  (vii) For taxable years beginning after two thousand twenty-seven the
+  (vii) For taxable years beginning after two thousand twenty-five and
+before two thousand twenty-seven the following rates shall apply:
+If the New York taxable income is:    The tax is:
+Not over $17,150                      3.90% of the New York taxable
+                                      income
+Over $17,150 but not over $23,600     $669 plus 4.40% of excess over
+                                      $17,150
+Over $23,600 but not over $27,900     $953 plus 5.15% of excess over
+                                      $23,600
+Over $27,900 but not over $161,550    $1,174 plus 5.40% of excess over
+                                      $27,900
+Over $161,550 but not over $323,200   $8,391 plus 5.90% of excess over
+                                      $161,550
+Over $323,200 but not over            $17,928 plus 6.85% of excess
+$2,155,350                            over $323,200
+Over $2,155,350 but not over          $143,430 plus 9.65% of excess
+$5,000,000                            over $2,155,350
+Over $5,000,000 but not over          $417,939 plus 10.30% of excess
+$25,000,000                           over $5,000,000
+Over $25,000,000                      $2,477,939 plus 10.90% of excess
+                                      over $25,000,000
+  (viii) For taxable years beginning after two thousand twenty-six and
+before two thousand thirty-three the following rates shall apply:
+If the New York taxable income is:    The tax is:
+Not over $17,150                      3.80% of the New York taxable
+                                      income
+Over $17,150 but not over $23,600     $652 plus 4.30% of excess over
+                                      $17,150
+Over $23,600 but not over $27,900     $929 plus 5.05% of excess over
+                                      $23,600
+Over $27,900 but not over $161,550    $1,146 plus 5.30% of excess over
+                                      $27,900
+Over $161,550 but not over $323,200   $8,229 plus 5.80% of excess
+                                      over $161,550
+Over $323,200 but not over            $17,605 plus 6.85% of excess
+$2,155,350                            over $323,200
+Over $2,155,350 but not over          $143,107 plus 9.65% of excess
+$5,000,000                            over $2,155,350
+Over $5,000,000 but not over          $417,616 plus 10.30% of excess
+$25,000,000                           over $5,000,000
+Over $25,000,000                      $2,477,616 plus 10.90% of excess
+                                      over $25,000,000
+  (ix) For taxable years beginning after two thousand thirty-two the
 following rates shall apply:
 If the New York taxable income is:    The tax is:
-Not over $17,150                      4% of the New York taxable income
-Over $17,150 but not over $23,600     $686 plus 4.5% of excess over
+Not over $17,150                      3.80% of the New York taxable
+                                      income
+Over $17,150 but not over $23,600     $652 plus 4.30% of excess over
                                       $17,150
-Over $23,600 but not over $27,900     $976 plus 5.25% of excess over
+Over $23,600 but not over $27,900     $929 plus 5.05% of excess over
                                       $23,600
-Over $27,900 but not over $161,550    $1,202 plus 5.5% of excess over
+Over $27,900 but not over $161,550    $1,146 plus 5.30% of excess over
                                       $27,900
-Over $161,550 but not over $323,200   $8,553 plus 6.00% of excess
+Over $161,550 but not over $323,200   $8,229 plus 5.80% of excess
                                       over $161,550
-Over $323,200 but not over            $18,252 plus 6.85% of excess
+Over $323,200 but not over            $17,605 plus 6.85% of excess
 $2,155,350                            over $323,200
-Over $2,155,350                       $143,754 plus  8.82% of excess
+Over $2,155,350                       $143,107 plus 8.82% of excess
                                       over $2,155,350
   (1-a) For taxable years beginning after two thousand eight and before
 two thousand twelve:
@@ -399,7 +442,7 @@ $25,000,000                           $5,000,000
 Over $25,000,000                      $2,494,871 plus 10.90% of excess over
                                       $25,000,000
   (vi) For taxable years beginning in two thousand twenty-three and
-before two thousand twenty-eight the following rates shall apply:
+before two thousand twenty-six the following rates shall apply:
 If the New York taxable income is:    The tax is:
 Not over $12,800                      4% of the New York taxable income
 Over $12,800 but not over $17,650     $512 plus 4.5% of excess over
@@ -418,21 +461,64 @@ Over $5,000,000 but not over          $434,163 plus 10.30% of excess over
 $25,000,000                           $5,000,000
 Over $25,000,000                      $2,494,163 plus 10.90% of excess over
                                       $25,000,000
-  (vii) For taxable years beginning after two thousand twenty-seven the
+  (vii) For taxable years beginning after two thousand twenty-five and
+before two thousand twenty-seven the following rates shall apply:
+If the New York taxable income is:    The tax is:
+Not over $12,800                      3.90% of the New York taxable
+                                      income
+Over $12,800 but not over             $499 plus 4.40% of excess over
+$17,650                               $12,800
+Over $17,650 but not over             $712 plus 5.15% of excess over
+$20,900                               $17,650
+Over $20,900 but not over             $879 plus 5.40% of excess over
+$107,650                              $20,900
+Over $107,650 but not over            $5,564 plus 5.90% of excess
+$269,300                              over $107,650
+Over $269,300 but not over            $15,101 plus 6.85% of excess
+$1,616,450                            over $269,300
+Over $1,616,450 but not over          $107,381 plus 9.65% of excess
+$5,000,000                            over $1,616,450
+Over $5,000,000 but not over          $433,894 plus 10.30% of excess
+$25,000,000                           over $5,000,000
+Over $25,000,000                      $2,493,894 plus 10.90% of excess
+                                      over $25,000,000
+  (viii) For taxable years beginning after two thousand twenty-six and
+before two thousand thirty-three the following rates shall apply:
+If the New York taxable income is:    The tax is:
+Not over $12,800                      3.80% of the New York taxable
+                                      income
+Over $12,800 but not over             $486 plus 4.30% of excess over
+$17,650                               $12,800
+Over $17,650 but not over             $695 plus 5.05% of excess over
+$20,900                               $17,650
+Over $20,900 but not over             $859 plus 5.30% of excess over
+$107,650                              $20,900
+Over $107,650 but not over            $5,457 plus 5.80% of excess
+$269,300                              over $107,650
+Over $269,300 but not over            $14,833 plus 6.85% of excess
+$1,616,450                            over $269,300
+Over $1,616,450 but not over          $107,113 plus 9.65% of excess
+$5,000,000                            over $1,616,450
+Over $5,000,000 but not over          $433,626 plus 10.30% of excess
+$25,000,000                           over $5,000,000
+Over $25,000,000                      $2,493,626 plus 10.90% of excess
+                                      over $25,000,000
+  (ix) For taxable years beginning after two thousand thirty-two the
 following rates shall apply:
 If the New York taxable income is:    The tax is:
-Not over $12,800                      4% of the New York taxable income
-Over $12,800 but not over             $512 plus 4.5% of excess over
+Not over $12,800                      3.80% of the New York taxable
+                                      income
+Over $12,800 but not over             $486 plus 4.30% of excess over
 $17,650                               $12,800
-Over $17,650 but not over             $730 plus 5.25% of excess over
+Over $17,650 but not over             $695 plus 5.05% of excess over
 $20,900                               $17,650
-Over $20,900 but not over             $901 plus 5.5% of excess over
+Over $20,900 but not over             $859 plus 5.30% of excess over
 $107,650                              $20,900
-Over $107,650 but not over            $5,672 plus 6.00% of excess
+Over $107,650 but not over            $5,457 plus 5.80% of excess
 $269,300                              over $107,650
-Over $269,300 but not over            $15,371 plus 6.85% of excess
+Over $269,300 but not over            $14,833 plus 6.85% of excess
 $1,616,450                            over $269,300
-Over $1,616,450                       $107,651 plus  8.82% of excess
+Over $1,616,450                       $107,113 plus 8.82% of excess
                                       over $1,616,450
   (1-a) For taxable years beginning after two thousand eight and before
 two thousand twelve:
@@ -682,7 +768,7 @@ $25,000,000                           $5,000,000
 Over $25,000,000                      $2,510,500 plus 10.90% of excess over
                                       $25,000,000
   (vi) For taxable years beginning in two thousand twenty-three and
-before two thousand twenty-eight the following rates shall apply:
+before two thousand twenty-six the following rates shall apply:
 If the New York taxable income is:    The tax is:
 Not over $8,500                       4% of the New York taxable income
 Over $8,500 but not over $11,700      $340 plus 4.5% of excess over
@@ -701,21 +787,61 @@ Over $5,000,000 but not over          $449,929 plus 10.30% of excess over
 $25,000,000                           $5,000,000
 Over $25,000,000                      $2,509,929 plus 10.90% of excess over
                                       $25,000,000
-  (vii) For taxable years beginning after two thousand twenty-seven the
+  (vii) For taxable years beginning after two thousand twenty-five and
+before two thousand twenty-seven the following rates shall apply:
+If the New York taxable income is:    The tax is:
+Not over $8,500                       3.90% of the New York taxable income
+Over $8,500 but not over $11,700      $332 plus 4.40% of excess over
+                                      $8,500
+Over $11,700 but not over $13,900     $473 plus 5.15% of excess over
+                                      $11,700
+Over $13,900 but not over $80,650     $586 plus 5.40% of excess over
+                                      $13,900
+Over $80,650 but not over $215,400    $4,191 plus 5.90% of excess
+                                      over $80,650
+Over $215,400 but not over            $12,141 plus 6.85% of excess
+$1,077,550                            over $215,400
+Over $1,077,550 but not over          $71,198 plus 9.65% of excess
+$5,000,000                            over $1,077,550
+Over $5,000,000 but not over          $449,714 plus 10.30% of excess
+$25,000,000                           over $5,000,000
+Over $25,000,000                      $2,509,714 plus 10.90% of excess
+                                      over $25,000,000
+  (viii) For taxable years beginning after two thousand twenty-six and
+before two thousand thirty-three the following rates shall apply:
+If the New York taxable income is:    The tax is:
+Not over $8,500                       3.80% of the New York taxable income
+Over $8,500 but not over $11,700      $323 plus 4.30% of excess over
+                                      $8,500
+Over $11,700 but not over $13,900     $461 plus 5.05% of excess over
+                                      $11,700
+Over $13,900 but not over $80,650     $572 plus 5.30% of excess over
+                                      $13,900
+Over $80,650 but not over $215,400    $4,110 plus 5.80% of excess
+                                      over $80,650
+Over $215,400 but not over            $11,926 plus 6.85% of excess
+$1,077,550                            over $215,400
+Over $1,077,550 but not over          $70,983 plus 9.65% of excess
+$5,000,000                            over $1,077,550
+Over $5,000,000 but not over          $449,499 plus 10.30% of excess
+$25,000,000                           over $5,000,000
+Over $25,000,000                      $2,509,499 plus 10.90% of excess
+                                      over $25,000,000
+  (ix) For taxable years beginning after two thousand thirty-two the
 following rates shall apply:
 If the New York taxable income is:    The tax is:
-Not over $8,500                       4% of the New York taxable income
-Over $8,500 but not over $11,700      $340 plus 4.5% of excess over
+Not over $8,500                       3.80% of the New York taxable income
+Over $8,500 but not over $11,700      $323 plus 4.30% of excess over
                                       $8,500
-Over $11,700 but not over $13,900     $484 plus 5.25% of excess over
+Over $11,700 but not over $13,900     $461 plus 5.05% of excess over
                                       $11,700
-Over $13,900 but not over $80,650     $600 plus 5.50% of excess over
+Over $13,900 but not over $80,650     $572 plus 5.30% of excess over
                                       $13,900
-Over $80,650 but not over $215,400    $4,271 plus 6.00% of excess
+Over $80,650 but not over $215,400    $4,110 plus 5.80% of excess
                                       over $80,650
-Over $215,400 but not over            $12,356 plus 6.85% of excess
+Over $215,400 but not over            $11,926 plus 6.85% of excess
 $1,077,550                            over $215,400
-Over $1,077,550                       $71,413 plus 8.82% of excess
+Over $1,077,550                       $70,983 plus 8.82% of excess
                                       over $1,077,550
   (1-a) For taxable years beginning after two thousand eight and before
 two thousand twelve:
@@ -1466,7 +1592,7 @@ paragraph one of subsection (c) of this section.
   (d-4) Alternative tax table benefit recapture. Notwithstanding the
 provisions of subsection (d), (d-1), (d-2) or (d-3) of this section, for
 taxable years beginning on or after two thousand twenty-three and before
-two thousand twenty-eight, there is hereby imposed a supplemental tax in
+two thousand twenty-six, there is hereby imposed a supplemental tax in
 addition to the tax imposed under subsections (a), (b) and (c) of this
 section for the purpose of recapturing the benefit of the tax tables
 contained in such subsections. During these taxable years, any reference
@@ -1585,6 +1711,325 @@ million dollars, the supplemental tax due shall equal the difference
 between the product of 10.90 percent and New York taxable income and the
 tax table computation on the New York taxable income set forth in
 paragraph one of subsection (c) of this section.
+  (d-5) Alternative tax table benefit recapture. Notwithstanding the
+provisions of subsection (d), (d-1), (d-2), (d-3), (d-4), (d-6) or (d-7)
+of this section, for taxable years beginning on or after two thousand
+twenty-six and before two thousand twenty-seven, there is hereby imposed
+a supplemental tax in addition to the tax imposed under subsections (a),
+(b) and (c) of this section for the purpose of recapturing the benefit
+of the tax tables contained in such subsections. During these taxable
+years, any reference in this chapter to subsection (d), (d-1), (d-2),
+(d-3), (d-4), (d-6) or (d-7) of this section shall be read as a
+reference to this subsection.
+  (1) For resident married individuals filing joint returns and resident
+surviving spouses:
+  (A) If New York adjusted gross income is greater than $107,650, but
+not over $25,000,000:
+  (i) the recapture base and incremental benefit shall be determined by
+New York taxable income as follows:
+  Greater than  Not over          Recapture Base    Incremental Benefit
+$27,900         $161,550          $0                $333
+$161,550        $323,200          $333              $807
+$323,200        $2,155,350        $1,140            $3,071
+$2,155,350      $5,000,000        $4,211            $60,350
+$5,000,000      $25,000,000       $64,561           $32,500
+  (ii) the applicable amount shall be determined by New York taxable
+income as follows:
+Greater than Not over    Applicable Amount
+$27,900      $161,550    New York adjusted gross income minus $107,650
+$161,550     $323,200    New York adjusted gross income minus $161,550
+$323,200     $2,155,350  New York adjusted gross income minus $323,200
+$2,155,350   $5,000,000  New York adjusted gross income minus $2,155,350
+$5,000,000   $25,000,000 New York adjusted gross income minus $5,000,000
+  (iii) the phase-in fraction shall be a fraction, the numerator of
+which shall be the lesser of fifty thousand dollars or the applicable
+amount and the denominator of which shall be fifty thousand dollars; and
+  (iv) the supplemental tax due shall equal the sum of the recapture
+base and the product of (i) the incremental benefit and (ii) the
+phase-in fraction. Provided, however, that if the New York taxable
+income of the taxpayer is less than twenty-seven thousand nine hundred
+dollars, the supplemental tax shall equal the difference between the
+product of 5.40 percent and New York taxable income and the tax table
+computation on the New York taxable income set forth in paragraph one of
+subsection (a) of this section, multiplied by a fraction, the numerator
+of which is the lesser of fifty thousand dollars or New York adjusted
+gross income minus one hundred seven thousand six hundred fifty dollars,
+and the denominator of which is fifty thousand dollars.
+  (B) If New York adjusted gross income is greater than twenty-five
+million dollars, the supplemental tax due shall equal the difference
+between the product of 10.90 percent and New York taxable income and the
+tax table computation on the New York taxable income set forth in
+paragraph one of subsection (a) of this section.
+  (2) For resident heads of households:
+  (A) If New York adjusted gross income is greater than $107,650, but
+not over $25,000,000:
+  (i) the recapture base and incremental benefit shall be determined by
+New York taxable income as follows:
+  Greater than   Not over      Recapture Base    Incremental Benefit
+$80,650        $215,400      $0                $567
+$215,400       $1,077,550    $567              $2,047
+$1,077,550     $5,000,000    $2,614            $30,172
+$5,000,000     $25,000,000   $32,786           $32,500
+  (ii) the applicable amount shall be determined by New York taxable
+income as follows:
+  Greater than Not over    Applicable Amount
+$80,650      $215,400    New York adjusted gross income minus $107,650
+$215,400     $1,077,550  New York adjusted gross income minus $215,400
+$1,077,550   $5,000,000  New York adjusted gross income minus $1,077,550
+$5,000,000   $25,000,000 New York adjusted gross income minus $5,000,000
+  (iii) the phase-in fraction shall be a fraction, the numerator of
+which shall be the lesser of fifty thousand dollars or the applicable
+amount and the denominator of which shall be fifty thousand dollars; and
+  (iv) the supplemental tax due shall equal the sum of the recapture
+base and the product of (i) the incremental benefit and (ii) the
+phase-in fraction. Provided, however, that if the New York taxable
+income of the taxpayer is less than eighty thousand six hundred fifty
+dollars, the supplemental tax shall equal the difference between the
+product of 5.90 percent and New York taxable income and the tax table
+computation on the New York taxable income set forth in paragraph one of
+subsection (c) of this section, multiplied by a fraction, the numerator
+of which is the lesser of fifty thousand dollars or New York adjusted
+gross income minus one hundred seven thousand six hundred fifty dollars,
+and the denominator of which is fifty thousand dollars.
+  (B) If New York adjusted gross income is greater than twenty-five
+million dollars, the supplemental tax due shall equal the difference
+between the product of 10.90 percent and New York taxable income and the
+tax table computation on the New York taxable income set forth in
+paragraph one of subsection (c) of this section.
+  (d-6) Alternative tax table benefit recapture. Notwithstanding the
+provisions of subsection (d), (d-1), (d-2), (d-3), (d-4), (d-5) or (d-7)
+of this section, for taxable years beginning on or after two thousand
+twenty-seven and before two thousand thirty-three, there is hereby
+imposed a supplemental tax in addition to the tax imposed under
+subsections (a), (b) and (c) of this section for the purpose of
+recapturing the benefit of the tax tables contained in such subsections.
+During these taxable years, any reference in this chapter to subsection
+(d), (d-1), (d-2), (d-3), (d-4), (d-5) or (d-7) of this section shall be
+read as a reference to this subsection.
+  (1) For resident married individuals filing joint returns and resident
+surviving spouses:
+  (A) If New York adjusted gross income is greater than $107,650, but
+not over $25,000,000:
+  (i) the recapture base and incremental benefit shall be determined by
+New York taxable income as follows:
+  Greater than  Not over     Recapture Base  Incremental Benefit
+  $27,900       $161,550     $0              $333
+  $161,550      $323,200     $333            $808
+  $323,200      $2,155,350   $1,141          $3,393
+  $2,155,350    $5,000,000   $4,534          $60,350
+  $5,000,000    $25,000,000  $64,884         $32,500
+  (ii) the applicable amount shall be determined by New York taxable
+income as follows:
+  Greater than Not over     Applicable Amount
+  $27,900      $161,550     New York adjusted gross income
+                            minus $107,650
+  $161,550     $323,200     New York adjusted gross income
+                            minus $161,550
+  $323,200     $2,155,350   New York adjusted gross income
+                            minus $323,200
+  $2,155,350   $5,000,000   New York adjusted gross income
+                            minus $2,155,350
+  $5,000,000   $25,000,000  New York adjusted gross income
+                            minus $5,000,000
+  (iii) the phase-in fraction shall be a fraction, the numerator of
+which shall be the lesser of fifty thousand dollars or the applicable
+amount and the denominator of which shall be fifty thousand dollars; and
+  (iv) the supplemental tax due shall equal the sum of the recapture
+base and the product of (i) the incremental benefit and (ii) the
+phase-in fraction. Provided, however, that if the New York taxable
+income of the taxpayer is less than twenty-seven thousand nine hundred
+dollars, the supplemental tax shall equal the difference between the
+product of 5.30 percent and New York taxable income and the tax table
+computation on the New York taxable income set forth in paragraph one of
+subsection (a) of this section, multiplied by a fraction, the numerator
+of which is the lesser of fifty thousand dollars or New York adjusted
+gross income minus one hundred seven thousand six hundred fifty dollars,
+and the denominator of which is fifty thousand dollars.
+  (B) If New York adjusted gross income is greater than twenty-five
+million dollars, the supplemental tax due shall equal the difference
+between the product of 10.90 percent and New York taxable income and the
+tax table computation on the New York taxable income set forth in
+paragraph one of subsection (a) of this section.
+  (2) For resident heads of households:
+  (A) If New York adjusted gross income is greater than $107,650, but
+not over $25,000,000:
+  (i) the recapture base and incremental benefit shall be determined by
+New York taxable income as follows:
+  Greater than Not over     Recapture Base        Incremental Benefit
+  $107,650     $269,300     $0                    $787
+  $269,300     $1,616,450   $787                  $2,827
+  $1,616,450   $5,000,000   $3,614                $45,260
+  $5,000,000   $25,000,000  $48,874               $32,500
+  (ii) the applicable amount shall be determined by New York taxable
+income as follows:
+  Greater than Not over     Applicable Amount
+  $107,650     $269,300     New York adjusted gross income
+                            minus $107,650
+  $269,300     $1,616,450   New York adjusted gross income
+                            minus $269,300
+  $1,616,450   $5,000,000   New York adjusted gross income
+                            minus $1,616,450
+  $5,000,000   $25,000,000  New York adjusted gross income
+                            minus $5,000,000
+  (iii) the phase-in fraction shall be a fraction, the numerator of
+which shall be the lesser of fifty thousand dollars or the applicable
+amount and the denominator of which shall be fifty thousand dollars; and
+  (iv) the supplemental tax due shall equal the sum of the recapture
+base and the product of (i) the incremental benefit and (ii) the
+phase-in fraction. Provided, however, that if the New York taxable
+income of the taxpayer is less than one hundred seven thousand six
+hundred fifty dollars, the supplemental tax shall equal the difference
+between the product of 5.80 percent and New York taxable income and the
+tax table computation on the New York taxable income set forth in
+paragraph one of subsection (b) of this section, multiplied by a
+fraction, the numerator of which is the lesser of fifty thousand dollars
+or New York adjusted gross income minus one hundred seven thousand six
+hundred fifty dollars, and the denominator of which is fifty thousand
+dollars.
+  (B) If New York adjusted gross income is greater than twenty-five
+million dollars, the supplemental tax due shall equal the difference
+between the product of 10.90 percent and New York taxable income and the
+tax table computation on the New York taxable income set forth in
+paragraph one of subsection (b) of this section.
+  (3) For resident unmarried individuals, resident married individuals
+filing separate returns and resident estates and trusts:
+  (A) If New York adjusted gross income is greater than $107,650, but
+not over $25,000,000:
+  (i) the recapture base and incremental benefit shall be determined by
+New York taxable income as follows:
+  Greater than Not over     Recapture Base        Incremental Benefit
+  $80,650      $215,400     $0                    $568
+  $215,400     $1,077,550   $568                  $2,261
+  $1,077,550   $5,000,000   $2,829                $30,172
+  $5,000,000   $25,000,000  $33,001               $32,500
+  (ii) the applicable amount shall be determined by New York taxable
+income as follows:
+  Greater than Not over     Applicable Amount
+  $80,650      $215,400     New York adjusted gross income
+                            minus $107,650
+  $215,400     $1,077,550   New York adjusted gross income
+                            minus $215,400
+  $1,077,550   $5,000,000   New York adjusted gross income
+                            minus $1,077,550
+  $5,000,000   $25,000,000  New York adjusted gross income
+                            minus $5,000,000
+  (iii) the phase-in fraction shall be a fraction, the numerator of
+which shall be the lesser of fifty thousand dollars or the applicable
+amount and the denominator of which shall be fifty thousand dollars; and
+  (iv) the supplemental tax due shall equal the sum of the recapture
+base and the product of (i) the incremental benefit and (ii) the
+phase-in fraction. Provided, however, that if the New York taxable
+income of the taxpayer is less than eighty thousand six hundred fifty
+dollars, the supplemental tax shall equal the difference between the
+product of 5.80 percent and New York taxable income and the tax table
+computation on the New York taxable income set forth in paragraph one of
+subsection (c) of this section, multiplied by a fraction, the numerator
+of which is the lesser of fifty thousand dollars or New York adjusted
+gross income minus one hundred seven thousand six hundred fifty dollars,
+and the denominator of which is fifty thousand dollars.
+  (B) If New York adjusted gross income is greater than twenty-five
+million dollars, the supplemental tax due shall equal the difference
+between the product of 10.90 percent and New York taxable income and the
+tax table computation on the New York taxable income set forth in
+paragraph one of subsection (c) of this section.
+  (d-7) Alternative tax table benefit recapture. Notwithstanding the
+provisions of subsection (d), (d-1), (d-2), (d-3), (d-4), (d-5) or (d-6)
+of this section, for taxable years beginning on or after two thousand
+thirty-three, there is hereby imposed a supplemental tax in addition to
+the tax imposed under subsections (a), (b) and (c) of this section for
+the purpose of recapturing the benefit of the tax tables contained in
+such subsections. During these taxable years, any reference in this
+chapter to subsection (d), (d-1), (d-2), (d-3), (d-4), (d-5) or (d-6) of
+this section shall be read as a reference to this subsection.
+  (1) For resident married individuals filing joint returns and resident
+surviving spouses:
+  (A) If New York adjusted gross income is greater than $107,650:
+  (i) the recapture base and incremental benefit shall be determined by
+New York taxable income as follows:
+  Greater than  Not over          Recapture Base    Incremental Benefit
+$27,900         $161,550          $0                $333
+$161,550        $323,200          $333              $808
+$323,200        $2,155,350        $1,141            $3,393
+$2,155,350                        $4,534            $42,461
+  (ii) the applicable amount shall be determined by New York taxable
+income as follows:
+  Greater thaNot over     Applicable Amount
+$27,900      $161,550     New York adjusted gross income minus $107,650
+$161,550     $323,200     New York adjusted gross income minus $161,550
+$323,200     $2,155,350   New York adjusted gross income minus $323,200
+$2,155,350                New York adjusted gross income minus $2,155,350
+  (iii) the phase-in fraction shall be a fraction, the numerator of
+which shall be the lesser of fifty thousand dollars or the applicable
+amount and the denominator of which shall be fifty thousand dollars; and
+  (iv) the supplemental tax due shall equal the sum of the recapture
+base and the product of (i) the incremental benefit and (ii) the
+phase-in fraction. Provided, however, that if the New York taxable
+income of the taxpayer is less than twenty-seven thousand nine hundred
+dollars, the supplemental tax shall equal the difference between the
+product of 5.30 percent and New York taxable income and the tax table
+computation on the New York taxable income set forth in paragraph one of
+subsection (a) of this section, multiplied by a fraction, the numerator
+of which is the lesser of fifty thousand dollars or New York adjusted
+gross income minus one hundred seven thousand six hundred fifty dollars,
+and the denominator of which is fifty thousand dollars.
+  (2) For resident heads of households:
+  (A) If New York adjusted gross income is greater than $107,650:
+  (i) the recapture base and incremental benefit shall be determined by
+New York taxable income as follows:
+  Greater than  Not over          Recapture Base    Incremental Benefit
+$107,650        $269,300          $0                $787
+$269,300        $1,616,450        $787              $2,827
+$1,616,450                        $3,614            $31,844
+  (ii) the applicable amount shall be determined by New York taxable
+income as follows:
+Greater than Not over    Applicable Amount
+$107,650     $269,300    New York adjusted gross income minus $107,650
+$269,300     $1,616,450  New York adjusted gross income minus $269,300
+$1,616,450               New York adjusted gross income minus $1,616,450
+  (iii) the phase-in fraction shall be a fraction, the numerator of
+which shall be the lesser of fifty thousand dollars or the applicable
+amount and the denominator of which shall be fifty thousand dollars; and
+  (iv) the supplemental tax due shall equal the sum of the recapture
+base and the product of (i) the incremental benefit and (ii) the
+phase-in fraction. Provided, however, that if the New York taxable
+income of the taxpayer is less than one hundred seven thousand six
+hundred fifty dollars, the supplemental tax shall equal the difference
+between the product of 5.80 percent and New York taxable income and the
+tax table computation on the New York taxable income set forth in
+paragraph one of subsection (b) of this section, multiplied by a
+fraction, the numerator of which is the lesser of fifty thousand dollars
+or New York adjusted gross income minus one hundred seven thousand six
+hundred fifty dollars, and the denominator of which is fifty thousand
+dollars.
+  (3) For resident unmarried individuals, resident married individuals
+filing separate returns and resident estates and trusts:
+  (A) If New York adjusted gross income is greater than $107,650:
+  (i) the recapture base and incremental benefit shall be determined by
+New York taxable income as follows:
+  Greater than  Not over          Recapture Base    Incremental Benefit
+$80,650         $215,400          $0                $568
+$215,400        $1,077,550        $568              $2,261
+$1,077,550                        $2,829            $21,228
+  (ii) the applicable amount shall be determined by New York taxable
+income as follows:
+Greater than Not over     Applicable Amount
+$80,650      $215,400     New York adjusted gross income minus $107,650
+$215,400     $1,077,550   New York adjusted gross income minus $215,400
+$1,077,550                New York adjusted gross income minus $1,077,550
+  (iii) the phase-in fraction shall be a fraction, the numerator of
+which shall be the lesser of fifty thousand dollars or the applicable
+amount and the denominator of which shall be fifty thousand dollars; and
+  (iv) the supplemental tax due shall equal the sum of the recapture
+base and the product of (i) the incremental benefit and (ii) the
+phase-in fraction. Provided, however, that if the New York taxable
+income of the taxpayer is less than eighty thousand six hundred fifty
+dollars, the supplemental tax shall equal the difference between the
+product of 5.80 percent and New York taxable income and the tax table
+computation on the New York taxable income set forth in paragraph one of
+subsection (c) of this section, multiplied by a fraction, the numerator
+of which is the lesser of fifty thousand dollars or New York adjusted
+gross income minus one hundred seven thousand six hundred fifty dollars,
+and the denominator of which is fifty thousand dollars.
   (e) Nonresidents and part-year residents. (1) General. There is hereby
 imposed for each taxable year on the taxable income which is derived
 from sources in this state of every nonresident and part-year resident

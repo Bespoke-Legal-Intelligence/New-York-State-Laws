@@ -9,11 +9,11 @@
 | Type | Unconsolidated law |
 | Session law | L. 1975, ch. 868 |
 | Sections | 20 |
-| Last changed | 5 Jul 2024 |
+| Last changed | 16 May 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | NYS Financial Emergency Act for the city of NY 868/75 |
 
-**Short title (from the law itself):** * Section 1. Short title. This act shall be known and may be cited as the "New York State Financial Emergency Act for The City of New York". * Terminates July 1, 2008 or ... see § 13
+**Short title (from the law itself):** * Section 1. Short title. This act shall be known and may be cited as the "New York State Financial Emergency Act for The City of New York". * Terminates July 1, 2035 or ... see § 13
 
 ## Chapter text as published
 
@@ -32,6 +32,7 @@ Section  1.   Short title.
 
 ## Recent changes
 
+- [16 May 2025](../../changes/2025/2025-05-16.md): 20 amended
 - [5 Jul 2024](../../changes/2024/2024-07-05.md): 1 amended
 - [8 Jul 2022](../../changes/2022/2022-07-08.md): 1 amended
 - [2 Jul 2021](../../changes/2021/2021-07-02.md): 1 amended

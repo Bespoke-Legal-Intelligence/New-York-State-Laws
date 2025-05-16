@@ -5,11 +5,9 @@
 
 ## Contents
 
-- [§ 666 Tuition awards for part-time undergraduate students](666-tuition-awards-for-part-time.md)
 - [§ 667 Tuition assistance program awards](667-tuition-assistance-program.md)
 - [§ 667-A Supplemental tuition assistance program](667a-supplemental-tuition.md)
 - [§ 667-C Part-time tuition assistance program awards](667c-part-time-tuition-assistance.md)
-- [§ 667-C-1 New York state part-time scholarship (PTS) award program](667c-1-new-york-state-part-time.md)
 - [§ 667-D Enhanced tuition awards](667d-enhanced-tuition-awards.md)
 - [§ 668 Regents awards for children of deceased and disabled veterans](668-regents-awards-for-children.md)
 - [§ 668-A Regents awards for children of deceased police officers, peace officers, firefighters and volunteer firefighters](668a-regents-awards-for-children.md)
@@ -34,12 +32,9 @@
 ```text
                                SUBPART II
                              GENERAL AWARDS
-Section 666.     Tuition awards for part-time undergraduate students.
-        667.     Tuition assistance program awards.
+Section 667.     Tuition assistance program awards.
         667-a.   Supplemental tuition assistance program.
         667-c.   Part-time tuition assistance program awards.
-        667-c-1. New York state part-time scholarship (PTS) award
-                   program.
         667-d.   Enhanced tuition awards.
         668.     Regents awards for children of deceased and disabled
                    veterans.

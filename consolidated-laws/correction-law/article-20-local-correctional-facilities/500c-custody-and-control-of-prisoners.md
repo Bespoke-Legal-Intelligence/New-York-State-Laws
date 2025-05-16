@@ -257,5 +257,5 @@ Oneida county sheriff and the Oneida Indian Nation pursuant to section
 eight hundred fifty-three of the county law, as if such person had been
 judicially committed to the custody of the sheriff and such person may
 be held in the Oneida county correctional facility.
-  * NB Repealed September 1, 2025
+  * NB Repealed September 1, 2027
 ```

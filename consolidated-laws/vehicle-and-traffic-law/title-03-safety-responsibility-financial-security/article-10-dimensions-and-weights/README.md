@@ -6,7 +6,7 @@
 ## Contents
 
 - [§ 385 Dimensions and weights of vehicles](385-dimensions-and-weights-of-vehicles.md)
-- [§ 385-A Owner liability for failure of operator to comply with weight restrictions on interstate route 278 in Kings county](385a-owner-liability-for-failure-of-operator.md)
+- [§ 385-A Owner liability for failure of operator to comply with weight restrictions](385a-owner-liability-for-failure-of-operator.md)
 - [§ 386 Motor vehicle sound level limits](386-motor-vehicle-sound-level-limits.md)
 
 <details>
@@ -17,8 +17,7 @@
                    DIMENSIONS AND WEIGHTS OF VEHICLES
 Section 385.   Dimensions and weights of vehicles.
         385-a. Owner liability for failure of operator to comply with
-                 weight restrictions on interstate route 278 in Kings
-                 county.
+                 weight restrictions.
         386.   Motor vehicle sound level limits.
 ```
 

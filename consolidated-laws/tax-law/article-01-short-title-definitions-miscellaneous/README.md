@@ -37,6 +37,7 @@
 - [§ 24-A Musical and theatrical production credit](24a-musical-and-theatrical-production-credit.md)
 - [§ 24-B Television writers' and directors' fees and salaries credit](24b-television-writers-and-directors-fees-and-salaries-credit.md)
 - [§ 24-C New York city musical and theatrical production tax credit](24c-new-york-city-musical-and-theatrical-production-tax-credit.md)
+- [§ 24-D Empire state independent film production credit](24d-empire-state-independent-film-production-credit.md)
 - [§ 25 Disclosure of certain transactions and related information](25-disclosure-of-certain-transactions-and-related-information.md)
 - [§ 26 Security training tax credit](26-security-training-tax-credit.md)
 - [§ 27 Suspension of tax-exempt status of terrorist organizations](27-suspension-of-tax-exempt-status-of-terrorist-organizations.md)
@@ -126,6 +127,7 @@ Section  1.   Short title.
                 credit.
         24-c. New York city musical and theatrical production tax
                 credit.
+        24-d. Empire state independent film production credit.
         25.   Disclosure of certain transactions and related
                 information.
         26.   Security training tax credit.

@@ -9,44 +9,45 @@ the custody of the comptroller a special account, to  be  known  as  the
 department of health income fund.
   2.  (a)  The commissioner shall, after the first day of July, nineteen
 hundred  seventy-one,  pay  over  moneys  received  by  the   department
-including  moneys  received  from  the  Roswell  Park  Cancer  Institute
-corporation for the care, maintenance and treatment of patients at state
-hospitals in the department as enumerated in section four hundred  three
-of  this  chapter,  together  with  money  received from fees, including
-parking fees, refunds, reimbursements,  payments  received  pursuant  to
-leases,  sales  of property and miscellaneous receipts of such hospitals
-other than gifts, grants, bequests and moneys  received  under  research
-contracts,  and clinical practice income received pursuant to a clinical
-practice plan established pursuant to subdivision  fourteen  of  section
-two  hundred six of this chapter except for the amount of money required
-by the comptroller to be maintained on  deposit  in  the  department  of
-health  income  fund  pursuant to paragraph (c) of this subdivision less
-payments required to be made into pools created by this chapter and  for
-assessments  established  pursuant to this chapter and less refunds made
-pursuant to law, to the comptroller  to  be  deposited  by  him  in  the
-department of health income fund. Such moneys shall be kept separate and
-shall  not  be  commingled  with  any  other  moneys in the hands of the
-comptroller. All deposits of  such  money  shall,  if  required  by  the
-comptroller,  be  secured  by obligations of the United States or of the
-state of market value equal at all times to the amount  of  the  deposit
+including,  subject  to subdivision six of this section, moneys received
+from the  Roswell  Park  Cancer  Institute  corporation  for  the  care,
+maintenance  and  treatment  of  patients  at  state  hospitals  in  the
+department as enumerated in section four hundred three of this  chapter,
+together with money received from fees, including parking fees, refunds,
+reimbursements,  payments received pursuant to leases, sales of property
+and miscellaneous receipts of such hospitals other than  gifts,  grants,
+bequests  and  moneys  received  under  research contracts, and clinical
+practice  income  received  pursuant  to  a   clinical   practice   plan
+established  pursuant to subdivision fourteen of section two hundred six
+of this  chapter  except  for  the  amount  of  money  required  by  the
+comptroller  to  be  maintained  on  deposit in the department of health
+income fund pursuant to paragraph (c) of this subdivision less  payments
+required  to  be  made  into  pools  created  by  this  chapter  and for
+assessments established pursuant to this chapter and less  refunds  made
+pursuant  to  law, to the comptroller to be deposited by the comptroller
+in the department of health income  fund.  Such  moneys  shall  be  kept
+separate  and shall not be commingled with any other moneys in the hands
+of the comptroller. All deposits of such money shall, if required by the
+comptroller, be secured by obligations of the United States  or  of  the
+state  of  market  value equal at all times to the amount of the deposit
 and all banks and trust companies are authorized to give such securities
-for  such  deposits.  The commissioner shall identify to the comptroller
-moneys received from Roswell Park Cancer Institute  corporation  or  its
+for such deposits. The commissioner shall identify  to  the  comptroller
+moneys  received  from  Roswell Park Cancer Institute corporation or its
 subsidiaries.
-  (b)  Subject  to the terms of any agreement between the department and
-the dormitory authority, any such moneys in  the  department  of  health
-income  fund  not  required for immediate use, may, in the discretion of
-the comptroller, be invested by the comptroller in  obligations  of  the
-United  States or the state or obligations the principal and interest of
+  (b) Subject to the terms of any agreement between the  department  and
+the  dormitory  authority,  any  such moneys in the department of health
+income fund not required for immediate use, may, in  the  discretion  of
+the  comptroller,  be  invested by the comptroller in obligations of the
+United States or the state or obligations the principal and interest  of
 which are guaranteed by the United States or the state.
-  (c) The comptroller shall at all times  maintain  on  deposit  in  the
+  (c)  The  comptroller  shall  at  all times maintain on deposit in the
 department of health income fund the aggregate amount of money needed by
-the  department during the next succeeding six calendar months to comply
-in full with all obligations of the department under the terms of  every
-lease,  sublease  or  agreement  of  the  department  with the dormitory
-authority which is then in effect, including without limitation  by  the
-specification  thereof,  (i)  the  amount needed to make rental payments
-thereunder during such semiannual period, and (ii) the amount needed  to
+the department during the next succeeding six calendar months to  comply
+in  full with all obligations of the department under the terms of every
+lease, sublease or  agreement  of  the  department  with  the  dormitory
+authority  which  is then in effect, including without limitation by the
+specification thereof, (i) the amount needed  to  make  rental  payments
+thereunder  during such semiannual period, and (ii) the amount needed to
 establish and maintain reserves thereunder during such period.
   (d) The comptroller shall from time to time but in no event later than
 the last day of March, June, September and December of each year pay
@@ -112,4 +113,21 @@ corporation, which are in excess of the amounts required to comply with
 the provisions of paragraph (c) of subdivision two of this section, into
 a depositary account owned and controlled by the Roswell Park Cancer
 Institute corporation.
+  6. Notwithstanding the foregoing provisions of this section, upon the
+payment or provision for payment of all outstanding bonds issued on or
+before March thirty-first, two thousand twenty-five by the dormitory
+authority to make loans to the department to finance or refinance state
+hospital facilities in accordance with the terms of the bond resolution
+under which such bonds were issued, the provisions of subdivisions two
+and five of this section requiring (i) the payment and identification by
+the department to the comptroller of moneys received from the Roswell
+Park Cancer Institute corporation, (ii) the deposit and maintenance of
+such moneys from the Roswell Park Cancer Institute corporation by the
+comptroller in the department of health income fund, and (iii) the
+release of excess moneys in the department of health income fund
+attributed to the operation of the Roswell Park Cancer Institute
+corporation or its subsidiaries, shall no longer be applicable and,
+thereafter, all such moneys from the operation of the Roswell Park
+Cancer Institute corporation shall remain in the custody and/or control
+of the corporation and/or its subsidiaries.
 ```

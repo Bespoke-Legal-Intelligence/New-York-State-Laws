@@ -58,35 +58,36 @@ be prohibited by the provisions of subsection (c).
   (e) Exceptions where federal changes, corrections or disallowances are
 not reported.---
   (1) If the taxpayer or employer fails to comply with section six
-hundred fifty-nine, instead of the mode and time of assessment provided
-for in subsection (b) of this section, the tax commission may assess a
-deficiency based upon such federal change, correction or disallowance by
-mailing to the taxpayer a notice of additional tax due specifying the
-amount of the deficiency, and such deficiency, together with the
-interest, additions to tax and penalties stated in such notice, shall be
-deemed assessed on the date such notice is mailed unless within thirty
-days after the mailing of such notice a report of the federal change,
-correction or disallowance or an amended return, where such return was
-required by section six hundred fifty-nine, is filed accompanied by a
-statement showing wherein such federal determination and such notice of
-additional tax due are erroneous.
+hundred fifty-nine or section six hundred fifty-nine-a, instead of the
+mode and time of assessment provided for in subsection (b) of this
+section, the commissioner may assess a deficiency based upon such
+federal change, correction or disallowance by mailing to the taxpayer a
+notice of additional tax due specifying the amount of the deficiency,
+and such deficiency, together with the interest, additions to tax and
+penalties stated in such notice, shall be deemed assessed on the date
+such notice is mailed unless within thirty days after the mailing of
+such notice a report of the federal change, correction or disallowance
+or an amended return, where such return was required by section six
+hundred fifty-nine or section six hundred fifty-nine-a, is filed
+accompanied by a statement showing wherein such federal determination
+and such notice of additional tax due are erroneous.
   (2) Such notice shall not be considered as a notice of deficiency for
 the purposes of this section, subsection (f) of section six hundred
-eighty-seven (limiting credits or refunds after petition to the tax
-commission), or subsection (b) of section six hundred eighty-nine
-(authorizing the filing of a petition with the tax commission based on a
-notice of deficiency), nor shall such assessment or the collection
-thereof be prohibited by the provisions of subsection (c).
-  (3) If a husband and wife are jointly liable for tax, a notice of
-additional tax due may be a single joint notice, except that if the tax
-commission has been notified by either spouse that separate residences
-have been established, then, in lieu of the joint notice, a duplicate
-original of the joint notice shall be mailed to each spouse at his or
-her last known address in or out of this state. If the taxpayer is
-deceased or under a legal disability, a notice of additional tax due may
-be mailed to his last known address in or out of this state, unless the
-tax commission has received notice of the existence of a fiduciary
-relationship with respect to the taxpayer.
+eighty-seven (limiting credits or refunds after petition to the division
+of tax appeals), or subsection (b) of section six hundred eighty-nine
+(authorizing the filing of a petition with the division of tax appeals
+based on a notice of deficiency), nor shall such assessment or the
+collection thereof be prohibited by the provisions of subsection (c).
+  (3) If spouses are jointly liable for tax, a notice of additional tax
+due may be a single joint notice, except that if the commissioner has
+been notified by either spouse that separate residences have been
+established, then, in lieu of the joint notice, a duplicate original of
+the joint notice shall be mailed to each spouse at their last known
+address in or out of this state. If the taxpayer is deceased or under a
+legal disability, a notice of additional tax due may be mailed to their
+last known address in or out of this state, unless the commissioner has
+received notice of the existence of a fiduciary relationship with
+respect to the taxpayer.
   (f) Waiver of restrictions.--The taxpayer shall at any time (whether
 or not a notice of deficiency has been issued) have the right to waive
 the restrictions on assessment and collection of the whole or any part

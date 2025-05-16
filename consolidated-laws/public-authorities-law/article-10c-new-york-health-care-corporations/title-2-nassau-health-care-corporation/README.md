@@ -9,6 +9,7 @@
 - [§ 3401 Legislative findings and purpose](3401-legislative-findings-and-purpose.md)
 - [§ 3401-A Definitions](3401a-definitions.md)
 - [§ 3402 Nassau health care corporation](3402-nassau-health-care-corporation.md)
+- [§ 3402-A Study for the modernization and revitalization of the Nassau health care corporation](3402a-study-for-the-modernization.md)
 - [§ 3403 Transfer of officers and employees; civil service](3403-transfer-of-officers-and-employees-civil.md)
 - [§ 3404 General powers of the corporation](3404-general-powers-of-the-corporation.md)
 - [§ 3405 Special powers of the corporation](3405-special-powers-of-the-corporation.md)
@@ -40,10 +41,12 @@ Section 3400.   Short title.
         3401.   Legislative findings and purpose.
         3401-a. Definitions.
         3402.   Nassau health care corporation.
+        3402-a. Study for the modernization and revitalization of the
+                  Nassau health care corporation.
         3403.   Transfer of officers and employees; civil service.
         3404.   General powers of the corporation.
         3405.   Special powers of the corporation.
-        3406.   Transfer  of  property;  relationship  with  the county;
+        3406.   Transfer of property; relationship with the county;
                   certain gifts, loans and guarantees by the county.
         3407.   Bonds or notes of the corporation.
         3408.   Remedies of bondholders.
@@ -56,7 +59,7 @@ Section 3400.   Short title.
         3415.   Actions against corporation.
         3416.   Audit and annual reports.
         3417.   Defense and indemnification.
-        3418.   Transfer   of   applications,   proceedings,   licenses,
+        3418.   Transfer of applications, proceedings, licenses,
                   approvals and permits.
         3419.   Separability.
         3420.   Applicability of laws.

@@ -50,4 +50,9 @@ residential cooperative unit.
 pursuant to article twenty-one of the economic development law to
 businesses located in such areas that are participating in the START-UP
 NY program pursuant to such article twenty-one.
+  (c) Conveyances of real property for open space, parks, or historic
+preservation purposes to any not-for-profit tax exempt corporation
+operated for conservation, environmental, parks or historic preservation
+purposes shall be exempt from payment of additional taxes imposed
+pursuant to section fourteen hundred two-a of this article.
 ```

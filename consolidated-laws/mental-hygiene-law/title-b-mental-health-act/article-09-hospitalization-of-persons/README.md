@@ -41,6 +41,7 @@
 - [§ 9.59 Immunity from liability](9.59-immunity-from-liability.md)
 - [§ 9.60 Assisted outpatient treatment](9.60-assisted-outpatient-treatment.md)
 - [§ 9.63 Transportation of persons to or between hospitals](9.63-transportation-of-persons-to-or-between-hospitals.md)
+- [§ 9.64 Notice of admission determination to community provider](9.64-notice-of-admission-determination-to-community-provider.md)
 
 <details>
 <summary>Official heading of Article 9, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -50,7 +51,8 @@
             HOSPITALIZATION OF PERSONS WITH A MENTAL ILLNESS
 Section 9.01 Definitions.
         9.03 Admission to a hospital.
-        9.05 Examining physicians and medical certificates.
+        9.05 Examining physicians, examining psychiatric nurse
+               practitioners and medical certificates.
         9.07 Notice to all patients of their rights and of the
                availability of the mental hygiene legal service.
         9.09 Notices to mental hygiene legal service concerning minors.
@@ -103,6 +105,7 @@ Section 9.01 Definitions.
         9.60 Assisted outpatient treatment.
         9.61 Involuntary outpatient treatment.
         9.63 Transportation of persons to or between hospitals.
+        9.64 Notice of admission determination to community provider.
 ```
 
 </details>

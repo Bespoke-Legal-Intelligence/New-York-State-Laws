@@ -24,39 +24,47 @@ production of such qualified film equal or exceed seventy-five percent
 of the production costs (excluding post production costs) paid or
 incurred which are attributable to the use of tangible property or the
 performance of services at any film production facility within and
-without the state in the production of such qualified film, and (ii)
-except with respect to a qualified independent film production company
-or pilot, at least ten percent of the total principal photography
-shooting days spent in the production of such qualified film must be
-spent at a qualified film production facility. However, if the qualified
-production costs (excluding post production costs) which are
-attributable to the use of tangible property or the performance of
-services at a qualified film production facility in the production of
-such qualified film is less than three million dollars, then the portion
-of the qualified production costs attributable to the use of tangible
-property or the performance of services in the production of such
-qualified film outside of a qualified film production facility shall be
-allowed only if the shooting days spent in New York outside of a film
-production facility in the production of such qualified film equal or
-exceed seventy-five percent of the total shooting days spent within and
-without New York outside of a film production facility in the production
-of such qualified film. The credit shall be allowed for the taxable year
-in which the production of such qualified film is completed. However, in
-the case of a qualified film that receives funds from additional pool 2,
-no credit shall be claimed before the later of (1) the taxable year the
-production of the qualified film is complete, or (2) the taxable year
-that includes the last day of the allocation year for which the film has
-been allocated credit by the department of economic development. If the
-amount of the credit is at least one million dollars but less than five
-million dollars, the credit shall be claimed over a two year period
+without the state in the production of such qualified film, (ii) except
+with respect to a qualified independent film production company or
+pilot, at least ten percent of the total principal photography shooting
+days spent in the production of such qualified film must be spent at a
+qualified film production facility, and (iii) qualified production costs
+that are attributable to scoring shall be eligible for an additional ten
+percent credit on such scoring costs when incurred within the state and
+when such scoring costs include payment to a minimum of five musicians.
+However, if the qualified production costs (excluding post production
+costs) which are attributable to the use of tangible property or the
+performance of services at a qualified film production facility in the
+production of such qualified film is less than three million dollars,
+then the portion of the qualified production costs attributable to the
+use of tangible property or the performance of services in the
+production of such qualified film outside of a qualified film production
+facility shall be allowed only if the shooting days spent in New York
+outside of a film production facility in the production of such
+qualified film equal or exceed seventy-five percent of the total
+shooting days spent within and without New York outside of a film
+production facility in the production of such qualified film. The credit
+shall be allowed for the taxable year in which the production of such
+qualified film is completed. However, in the case of a qualified film
+that receives funds from additional pool 2, no credit shall be claimed
+before the later of (1) the taxable year the production of the qualified
+film is complete, or (2) the taxable year that includes the last day of
+the allocation year for which the film has been allocated credit by the
+department of economic development. If the amount of the credit is at
+least one million dollars but less than five million dollars, the credit
+shall be claimed over a two year period beginning in the first taxable
+year in which the credit may be claimed and in the next succeeding
+taxable year, with one-half of the amount of credit allowed being
+claimed in each year. If the amount of the credit is at least five
+million dollars, the credit shall be claimed over a three year period
 beginning in the first taxable year in which the credit may be claimed
-and in the next succeeding taxable year, with one-half of the amount of
-credit allowed being claimed in each year. If the amount of the credit
-is at least five million dollars, the credit shall be claimed over a
-three year period beginning in the first taxable year in which the
-credit may be claimed and in the next two succeeding taxable years, with
-one-third of the amount of the credit allowed being claimed in each
-year.
+and in the next two succeeding taxable years, with one-third of the
+amount of the credit allowed being claimed in each year. Provided,
+however, in the case of a qualified film for which the credit
+application was received on or after January first, two thousand
+twenty-five, the credit shall be claimed in the taxable year that
+includes the last day of the allocation year for which the film has been
+allocated a credit by the department of economic development.
   (3) No qualified production costs used by a taxpayer either as the
 basis for the allowance of the credit provided for under this section or
 used in the calculation of the credit provided for under this section
@@ -101,11 +109,11 @@ promote and encourage the training and hiring in the film and television
 industry of New York residents who represent the diversity of the
 State's population.
   (5) For the period two thousand fifteen through two thousand
-thirty-four, in addition to the amount of credit established in
-paragraph two of this subdivision, a taxpayer shall be allowed a credit
-equal to (i) the product (or pro rata share of the product, in the case
-of a member of a partnership) of ten percent and the wages, salaries or
-other compensation constituting qualified production costs as defined in
+thirty-six, in addition to the amount of credit established in paragraph
+two of this subdivision, a taxpayer shall be allowed a credit equal to
+(i) the product (or pro rata share of the product, in the case of a
+member of a partnership) of ten percent and the wages, salaries or other
+compensation constituting qualified production costs as defined in
 paragraph two of subdivision (b) of this section, paid to individuals
 directly employed by a qualified film production company or a qualified
 independent film production company for services performed by those
@@ -135,6 +143,39 @@ Montgomery, Niagara, Oneida, Onondaga, Ontario, Orange, Orleans, Oswego,
 Otsego, Putnam, Rensselaer, Saratoga, Schenectady, Schoharie, Schuyler,
 Seneca, St. Lawrence, Steuben, Sullivan, Tioga, Tompkins, Ulster,
 Warren, Washington, Wayne, Wyoming, or Yates.
+  (6) Production plus program. (i) A qualified independent film
+production company or a qualified film production company, or a company
+that is a majority owner of one or more qualified film production
+companies or qualified independent film production companies, may apply
+to participate in the production plus program after it, or qualified
+film production companies or qualified independent film production
+companies of which it is the majority owner, has submitted two or more
+initial applications to the empire state film production tax credit
+program after January first, two thousand twenty-five.
+  (ii) A qualified film production company or qualified independent film
+production company that has been accepted into the production plus
+program, or is majority-owned by a company that has been accepted into
+the production plus program, may be eligible to receive an additional
+tax credit equal to the product of ten percent and the qualified
+production costs in New York state if program acceptance was based on
+initial applications, the sum of which totaled at least one hundred
+million dollars in qualified production costs in New York state.
+  (iii) A qualified independent film production company that has been
+accepted into the production plus program, or is majority-owned by a
+company that has been accepted into the production plus program, that is
+engaging in the production of a feature length film, television film or
+television series as defined in the regulations promulgated for this
+program, may receive an additional tax credit equal to the product of
+five percent and the qualified production costs incurred on all
+subsequent films or series applied for if program acceptance was based
+on initial applications the sum of which totaled at least twenty million
+dollars in qualified production costs in New York state.
+  (iv) Initial applications for feature length films and new television
+series submitted after December thirty-first, two thousand twenty-eight
+shall not be eligible for the program pursuant to this paragraph;
+provided, however, a television series that enters the program pursuant
+to this paragraph before January first, two thousand twenty-nine shall
+continue to be eligible.
   (b) Definitions. As used in this section, the following terms shall
 have the following meanings:
   (1) "Qualified production costs" means production costs only to the
@@ -152,25 +193,15 @@ aggregate sum total of all other qualified production costs.
   (2) "Production costs" means any costs for tangible property used and
 services performed directly and predominantly in the production
 (including pre-production and post production) of a qualified film.
-"Production costs" shall not include (i) costs for a story, script or
-scenario to be used for a qualified film and (ii) wages or salaries or
-other compensation for writers, directors, composers, and performers
-(other than background actors with no scripted lines) to the extent
-those wages or salaries or other compensation exceed five hundred
-thousand dollars per individual. "Production costs" generally include
-technical and crew production costs, such as expenditures for film
-production facilities, or any part thereof, props, makeup, wardrobe,
-film processing, camera, sound recording, set construction, lighting,
-shooting, editing and meals, and shall include the wages, salaries or
-other compensation of no more than two producers per qualified film, not
-to exceed five hundred thousand dollars per producer, where only one of
-whom is the principal individual responsible for overseeing the creative
-and managerial process of production of the qualified film and only one
-of whom is the principal individual responsible for the day-to-day
-operational management of production of the qualified film; provided,
-however, that such producers are not compensated for any other position
-on the qualified film by a qualified film production company or a
-qualified independent film production company for services performed.
+"Production costs" shall not include costs for a story, script or
+scenario to be used for a qualified film. "Production costs" generally
+include the wages or salaries or other compensation for writers,
+directors, composers and performers, technical and crew production
+costs, such as expenditures for film production facilities, or any part
+thereof, props, makeup, wardrobe, film processing, camera, sound
+recording, set construction, lighting, shooting, editing and meals, and
+shall include the wages, salaries or other compensation of no more than
+two producers per qualified film.
   (3) "Qualified film" means a feature-length film, television film,
 relocated television production, television pilot or television series,
 regardless of the medium by means of which the film, pilot or series is
@@ -259,11 +290,10 @@ principally engaged in the production of a qualified film and controls
 the qualified film during production.
   (7) "Qualified independent film production company" is a corporation,
 partnership, limited partnership, or other entity or individual, that or
-who (i) is principally engaged in the production of a qualified film
-with a maximum budget of fifteen million dollars, and (ii) controls the
-qualified film during production, and (iii) either is not a publicly
-traded entity, or no more than five percent of the beneficial ownership
-of which is owned, directly or indirectly, by a publicly traded entity.
+who (i) is principally engaged in the production of a qualified film,
+(ii) is not publicly traded, and (iii)is not majority owned, fifty-one
+percent or more, by a company publicly traded on a United States stock
+exchange.
   (8) "Relocated television production" shall mean, notwithstanding the
 limitations in subparagraph (i) of paragraph three of this subdivision,
 a television production that is a talk or variety program that filmed at
@@ -350,8 +380,8 @@ subdivision (a) of this section.
 in subdivision (a) of this section shall be increased by an additional
 four hundred twenty million dollars in each year starting in two
 thousand ten through two thousand twenty-three and seven hundred million
-dollars in each year starting in two thousand twenty-four through two
-thousand thirty-four, provided however, seven million dollars of the
+dollars each year starting in two thousand twenty-four through two
+thousand thirty-six, provided however, seven million dollars of the
 annual allocation shall be available for the empire state film post
 production credit pursuant to section thirty-one of this article in two
 thousand thirteen and two thousand fourteen, twenty-five million dollars
@@ -361,7 +391,7 @@ each year starting in two thousand fifteen through two thousand
 twenty-three, and forty-five million dollars of the annual allocation
 shall be available for the empire state film post production credit
 pursuant to section thirty-one of this article in each year starting in
-two thousand twenty-four through two thousand thirty-four. This amount
+two thousand twenty-four through two thousand thirty-six. This amount
 shall be allocated by the department of economic development among
 taxpayers in accordance with subdivision (a) of this section. If the
 commissioner of economic development determines that the aggregate
@@ -400,12 +430,17 @@ film is complete, or (2) the taxable year immediately following the
 allocation year for which the film has been allocated credit by the
 department of economic development. In the case of a qualified film that
 receives funds from additional pool 2 where the taxpayer filed an
-initial application on or after April first, two thousand twenty-three,
-no empire state film production credit shall be claimed before the later
-of (1) the taxable year the production of the qualified film is
-complete, or (2) the taxable year that includes the last day of the
-allocation year for which the film has been allocated credit by the
-department of economic development.
+initial application on or after April first, two thousand twenty-three
+and before January first, two thousand twenty-five, no empire state film
+production credit shall be claimed before the later of (1) the taxable
+year the production of the qualified film is complete, or (2) the
+taxable year that includes the last day of the allocation year for which
+the film has been allocated credit by the department of economic
+development. Provided, however, in the case of a qualified film for
+which the credit application was received on or after January first, two
+thousand twenty-five, the credit shall be claimed in the taxable year
+that includes the last day of the allocation year for which the film has
+been allocated a credit by the department of economic development.
   * NB Effective until the first of January next succeeding the date the
 department of economic development provides notice to the legislative
 bill drafting commission of a determination pursuant to § 7 of chapter
@@ -414,8 +449,8 @@ bill drafting commission of a determination pursuant to § 7 of chapter
 in subdivision (a) of this section shall be increased by an additional
 four hundred twenty million dollars in each year starting in two
 thousand ten through two thousand twenty-three and seven hundred million
-dollars each year starting in two thousand twenty-four through two
-thousand thirty-four, provided however, seven million dollars of the
+dollars in each year starting in two thousand twenty-four through two
+thousand thirty-six, provided however, seven million dollars of the
 annual allocation shall be available for the empire state film post
 production credit pursuant to section thirty-one of this article in two
 thousand thirteen and two thousand fourteen, twenty-five million dollars
@@ -425,11 +460,11 @@ each year starting in two thousand fifteen through two thousand
 twenty-three, and forty-five million dollars of the annual allocation
 shall be available for the empire state film post production credit
 pursuant to section thirty-one of this article in each year starting in
-two thousand twenty-four through two thousand thirty-four. Provided
+two thousand twenty-four through two thousand thirty-six. Provided
 further, five million dollars of the annual allocation shall be made
 available for the television writers' and directors' fees and salaries
 credit pursuant to section twenty-four-b of this article in each year
-starting in two thousand twenty through two thousand thirty-four. This
+starting in two thousand twenty through two thousand thirty-six. This
 amount shall be allocated by the department of economic development
 among taxpayers in accordance with subdivision (a) of this section. If
 the commissioner of economic development determines that the aggregate
@@ -462,18 +497,24 @@ production credit tax form for each year a credit is claimed and include
 a copy of the certificate with their tax return. In the case of a
 qualified film that receives funds from additional pool 2 where the
 taxpayer filed an initial application before April first, two thousand
-twenty-three, no empire state film production credit shall be claimed
-before the later of (1) the taxable year the production of the qualified
-film is complete, or (2) the taxable year immediately following the
-allocation year for which the film has been allocated credit by the
-department of economic development. In the case of a qualified film that
-receives funds from additional pool 2 where the taxpayer filed an
-initial application on or after April first, two thousand twenty-three,
-no empire state film production credit shall be claimed before the later
-of (1) the taxable year the production of the qualified film is
-complete, or (2) the taxable year that includes the last day of the
-allocation year for which the film has been allocated credit by the
-department of economic development.
+twenty-three and before January first, two thousand twenty-five, no
+empire state film production credit shall be claimed before the later of
+(1) the taxable year the production of the qualified film is complete,
+or (2) the taxable year immediately following the allocation year for
+which the film has been allocated credit by the department of economic
+development. In the case of a qualified film that receives funds from
+additional pool 2 where the taxpayer filed an initial application on or
+after April first, two thousand twenty-three and before January first,
+two thousand twenty-five, no empire state film production credit shall
+be claimed before the later of (1) the taxable year the production of
+the qualified film is complete, or (2) the taxable year that includes
+the last day of the allocation year for which the film has been
+allocated credit by the department of economic development. In the case
+of a qualified film for which the taxpayer filed an initial application
+on or after January first, two thousand twenty-five, the credit shall be
+claimed in the taxable year that includes the last day of the allocation
+year for which the production of such qualified film has been allocated
+a credit by the department of economic development.
   * NB Effective on the first of January next succeeding the date the
 department of economic development provides notice to the legislative
 bill drafting commission of a determination pursuant to § 7 of chapter
@@ -519,4 +560,11 @@ empire state entertainment diversity job training development fund an
 amount equal to the total amount of such reductions reported by the
 commissioner of economic development for the period of May sixteenth,
 two thousand twenty through December thirty-first, two thousand twenty.
+  (g) Credit recapture. If a certificate of tax credit issued by the
+department of economic development pursuant to this section is revoked
+by such department because the taxpayer does not meet the eligibility
+requirements of this section, the amount of credit described in this
+section and claimed by the taxpayer prior to that revocation shall be
+added back to tax in the taxable year in which any such revocation
+becomes final.
 ```

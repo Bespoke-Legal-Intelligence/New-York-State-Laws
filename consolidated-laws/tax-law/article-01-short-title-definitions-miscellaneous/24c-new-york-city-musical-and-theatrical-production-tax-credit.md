@@ -91,7 +91,7 @@ theatrical production company" is the period starting on the production
 start date and ending on the earlier of the date the qualified musical
 and theatrical production has expended sufficient qualified production
 expenditures to reach its credit cap, September thirtieth, two thousand
-twenty-five or the date the qualified musical and theatrical production
+twenty-seven or the date the qualified musical and theatrical production
 closes.
   (ii) "The production start date" is the date that is up to twelve
 weeks prior to the first performance of the qualified musical and
@@ -100,7 +100,7 @@ theatrical production.
 paid before the first public appearance.
   (c) The credit shall be allowed for the taxable year beginning on or
 after January first, two thousand twenty-one but before January first,
-two thousand twenty-six. A qualified New York city musical and
+two thousand twenty-eight. A qualified New York city musical and
 theatrical production company shall claim the credit in the year in
 which its credit period ends.
   (d) Cross-references. For application of the credit provided for in
@@ -119,13 +119,13 @@ commissioner and the commissioner of the department of economic
 development may release the names and addresses of any qualified New
 York city musical and theatrical production company entitled to claim
 this credit and the amount of the credit earned by such company.
-  (f) Maximum amount of credits.  (1) The aggregate amount of tax
-credits allowed under this section, subdivision fifty-seven of section
-two hundred ten-B and subsection (mmm) of section six hundred six of
-this chapter shall be three hundred million dollars. Such aggregate
-amount of credits shall be allocated by the department of economic
-development among taxpayers based on the date of first performance of
-the qualified musical and theatrical production.
+  (f) Maximum amount of credits. (1) The aggregate amount of tax credits
+allowed under this section, subdivision fifty-seven of section two
+hundred ten-B and subsection (mmm) of section six hundred six of this
+chapter shall be four hundred million dollars. Such aggregate amount of
+credits shall be allocated by the department of economic development
+among taxpayers based on the date of first performance of the qualified
+musical and theatrical production.
   (2) The commissioner of economic development, after consulting with
 the commissioner, shall promulgate regulations to establish procedures
 for the allocation of tax credits as required by this section. Such
@@ -139,7 +139,7 @@ any other provisions to the contrary in the state administrative
 procedure act, such rules and regulations may be adopted on an emergency
 basis. In no event shall a qualified New York city musical and
 theatrical production submit an application for this program after June
-thirtieth, two thousand twenty-five.
+thirtieth, two thousand twenty-seven.
   (g) Any qualified New York city musical and theatrical production
 company that performs in a level one or level two qualified New York
 city production facility and applies to receive a credit under this
@@ -157,5 +157,5 @@ the total credit amount is reached. Any funds deposited pursuant to this
 subdivision may be used for arts and cultural grant programs of the New
 York state council on the arts as specified in subdivision five of
 section ninety-nine-ll of the state finance law.
-  * NB Repealed January 1, 2026
+  * NB Repealed January 1, 2028
 ```

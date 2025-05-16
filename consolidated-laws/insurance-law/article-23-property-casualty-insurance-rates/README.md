@@ -32,7 +32,7 @@
 - [§ 2325 Accounts and statistics](2325-accounts-and-statistics.md)
 - [§ 2326 Evaluation of competitive rating provisions](2326-evaluation-of-competitive-rating-provisions.md)
 - [§ 2327 Verification of driving history](2327-verification-of-driving-history.md)
-- [§ 2328 Certain motor vehicle insurance rates; prior approval](2328-certain-motor-vehicle-insurance-rates-prior-approval.md)
+- [§ 2328 For hire motor vehicle insurance rates; flexible rating; prior approval](2328-for-hire-motor-vehicle-insurance-rates-flexible-rating-prior-approval.md)
 - [§ 2329 Motor vehicle insurance rates; excess profits](2329-motor-vehicle-insurance-rates-excess-profits.md)
 - [§ 2330 No fault motor vehicle insurance rates; reflection of reduced exposure to loss](2330-no-fault-motor-vehicle-insurance-rates-reflection-of-reduced-exposure-to-loss.md)
 - [§ 2331 Motor vehicle comprehensive insurance rates; age, sex or marital status](2331-motor-vehicle-comprehensive-insurance-rates-age-sex-or-marital-status.md)
@@ -101,7 +101,8 @@ Section 2301.   Purpose.
         2325.   Accounts and statistics.
         2326.   Evaluation of competitive rating provisions.
         2327.   Verification of driving history.
-        2328.   Certain motor vehicle insurance rates; prior approval.
+        2328.   For hire motor vehicle insurance rates; flexible rating;
+                  prior approval.
         2329.   Motor vehicle insurance rates; excess profits.
         2330.   No fault motor vehicle insurance rates; reflection of
                   reduced exposure to loss.

@@ -12,6 +12,7 @@
 - [§ 657 Extensions of time](657-extensions-of-time.md)
 - [§ 658 Requirements concerning returns, notices, records and statements](658-requirements-concerning-returns-notices-records-and-statements.md)
 - [§ 659 Report of federal changes, corrections or disallowances](659-report-of-federal-changes-corrections-or-disallowances.md)
+- [§ 659-A Reporting of federal partnership adjustments](659a-reporting-of-federal-partnership-adjustments.md)
 - [§ 660 Election by shareholders of S corporations](660-election-by-shareholders-of-s-corporations.md)
 - [§ 661 Change of election](661-change-of-election.md)
 - [§ 662 Computation of tax where taxpayer restores substantial amount held under claim of right](662-computation-of-tax-where-taxpayer-restores-substantial-amount-held-under-claim.md)
@@ -22,20 +23,21 @@
 
 ```text
                    PART IV-RETURNS AND PAYMENT OF TAX
-Section 651. Returns and liabilities.
-        652. Time and place for filing returns and paying tax.
-        653. Signing of returns and other documents.
-        654. Relief from joint and several liability on joint return.
-        657. Extensions of time.
-        658. Requirements concerning returns, notices, records and
-               statements.
-        659. Report of federal changes, corrections or disallowances.
-        660. Election by shareholders of S corporations.
-        661. Change of election.
-        662. Computation of tax where taxpayer restores substantial
-               amount held under claim of right.
-        663. Estimated tax on sale or transfer of real property by
-               nonresident.
+Section 651.   Returns and liabilities.
+        652.   Time and place for filing returns and paying tax.
+        653.   Signing of returns and other documents.
+        654.   Relief from joint and several liability on joint return.
+        657.   Extensions of time.
+        658.   Requirements concerning returns, notices, records and
+                 statements.
+        659.   Report of federal changes, corrections or disallowances.
+        659-a. Reporting of federal partnership adjustments.
+        660.   Election by shareholders of S corporations.
+        661.   Change of election.
+        662.   Computation of tax where taxpayer restores substantial
+                 amount held under claim of right.
+        663.   Estimated tax on sale or transfer of real property by
+                 nonresident.
 ```
 
 </details>

@@ -53,7 +53,6 @@
 - [§ 607-F Payment of both pensions for accident and other benefits prohibited; Westchester county district attorney investigators](607f-payment-of-both-pensions-for-accident-and-other-benefits-prohibited-westchester.md)
 - [§ 607-G Retirement for disability benefits incurred in the performance of duty; Westchester county district attorney investigators](607g-retirement-for-disability-benefits-incurred-in-the-performance-of-duty.md)
 - [§ 607-H Disability benefits; Westchester county district attorney investigators](607h-disability-benefits-westchester-county-district-attorney-investigators.md)
-- [§ 607-I COVID-19 benefit](607i-covid-19-benefit.md) *(repealed)*
 - [§ 607-J Performance of duty, disability retirement for chief fire marshals, assistant chief fire marshals, division supervising fire marshals, su...](607j-performance-of-duty-disability-retirement-for-chief-fire-marshals-assistant.md)
 - [§ 607-J\*2 Performance of duty disability retirement benefits for certain first responders in Nassau county](607j-2-performance-of-duty-disability-retirement-benefits-for-certain-first.md)
 - [§ 607-J\*3 Performance of duty disability retirement](607j-3-performance-of-duty-disability-retirement.md)

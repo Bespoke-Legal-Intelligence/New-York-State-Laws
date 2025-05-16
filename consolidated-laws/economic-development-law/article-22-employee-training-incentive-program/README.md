@@ -16,7 +16,7 @@
 <summary>Official heading of Article 22, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                               ARTICLE 22
+                              * ARTICLE 22
                    EMPLOYEE TRAINING INCENTIVE PROGRAM
 Section 441. Definitions.
         442. Eligibility criteria.
@@ -24,6 +24,7 @@ Section 441. Definitions.
         444. Powers and duties of the commissioner.
         445. Recordkeeping requirements.
         446. Cap on tax credit.
+          * NB Repealed December 31, 2028
 ```
 
 </details>

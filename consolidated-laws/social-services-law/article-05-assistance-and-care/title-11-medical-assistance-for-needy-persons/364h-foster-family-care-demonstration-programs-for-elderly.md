@@ -87,5 +87,5 @@ hundred eighty-four shall comply with the provisions of this section but
 shall be in addition to the entities designated in subdivision one of
 this section. Such previously authorized demonstration projects shall be
 subject to the expiration date of this section.
-  * NB Repealed December 31, 2025
+  * NB Repealed December 31, 2027
 ```

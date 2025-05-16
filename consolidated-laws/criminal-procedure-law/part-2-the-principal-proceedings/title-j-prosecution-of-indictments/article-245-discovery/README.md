@@ -20,6 +20,7 @@
 - [§ 245.75 Waiver of discovery by defendant](245.75-waiver-of-discovery-by-defendant.md)
 - [§ 245.80 Remedies or sanctions for non-compliance](245.80-remedies-or-sanctions-for-non.md)
 - [§ 245.85 Admissibility of discovery](245.85-admissibility-of-discovery.md)
+- [§ 245.90 Federal and state constitutional obligations](245.90-federal-and-state-constitutional.md)
 
 <details>
 <summary>Official heading of Article 245, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -42,6 +43,7 @@ Section 245.10 Timing of discovery.
         245.75 Waiver of discovery by defendant.
         245.80 Remedies or sanctions for non-compliance.
         245.85 Admissibility of discovery.
+        245.90 Federal and state constitutional obligations.
 ```
 
 </details>

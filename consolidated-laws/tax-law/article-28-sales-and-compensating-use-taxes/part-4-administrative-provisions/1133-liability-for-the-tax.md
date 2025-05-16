@@ -4,74 +4,17 @@
 [Tax Law](../../README.md) › [Article 28 — Sales and Compensating Use Taxes](../README.md) › [Part 4 — Administrative Provisions](README.md)
 
 ```text
-  § 1133. Liability for the tax. (a) (1) Except as otherwise provided in
-paragraph two of this subdivision and in section eleven hundred
-thirty-seven of this part, every person required to collect any tax
-imposed by this article shall be personally liable for the tax imposed,
-collected or required to be collected under this article. Any such
-person shall have the same right in respect to collecting the tax from
-his customer or in respect to nonpayment of the tax by the customer as
-if the tax were a part of the purchase price of the property or service,
-amusement charge or rent, as the case may be, and payable at the same
-time; provided, however, that the tax commission shall be joined as a
-party in any action or proceeding brought to collect the tax.
-  (2) Notwithstanding any other provision of this article: (i) The
-commissioner shall grant the relief described in subparagraph (iii) of
-this paragraph to a limited partner of a limited partnership (but not a
-partner of a limited liability partnership) or a member of a limited
-liability company if such limited partner or member demonstrates to the
-satisfaction of the commissioner that such limited partner's or member's
-ownership interest and the percentage of the distributive share of the
-profits and losses of such limited partnership or limited liability
-company are each less than fifty percent, and such limited partner or
-member was not under a duty to act for such limited partnership or
-limited liability company in complying with any requirement of this
-article. Provided, however, the commissioner may deny an application for
-relief to any such limited partner or member who the commissioner finds
-has acted on behalf of such limited partnership or limited liability
-company in complying with any requirement of this article or has been
-convicted of a crime provided in this chapter or who has a past-due
-liability, as such term is defined in section one hundred seventy-one-v
-of this chapter.
-  (ii) Such limited partner or member must submit an application for
-relief, on a form prescribed by the commissioner, and the information
-provided in such application must be true and complete in all material
-respects. Providing materially false or fraudulent information on such
-application shall disqualify such limited partner or member for the
-relief described in subparagraph (iii) of this paragraph, shall void any
-agreement with the commissioner with respect to such relief, and shall
-result in such limited partner or member bearing strict liability for
-the total amount of tax, interest and penalty owed by their respective
-limited partnership or limited liability company pursuant to this
-subdivision.
-  (iii) A limited partner of a limited partnership or member of a
-limited liability company, who meets the requirements set forth in this
-paragraph and whose application for relief is approved by the
-commissioner, shall be liable for the percentage of the original sales
-and use tax liability of their respective limited partnership or limited
-liability company that reflects such limited partner's or member's
-ownership interest of distributive share of the profits and losses of
-such limited partnership or limited liability company, whichever is
-higher. Such original liability shall include any interest accrued
-thereon up to and including the date of payment by such limited partner
-or member at the underpayment rate set by the commissioner pursuant to
-section eleven hundred forty-two of this part, and shall be reduced by
-the sum of any payments made by (A) the limited partnership or limited
-liability company; (B) any person required to collect tax not eligible
-for relief; and (C) any person required to collect tax who was eligible
-for relief but had not been approved for relief by the commissioner at
-the time such payment was made. Provided, however, such limited partner
-or member shall not be liable for any penalty owed by such limited
-partnership or limited liability company or any other partner or member
-of such limited partnership or limited liability company. Any payment
-made by a limited partner or member pursuant to the provisions of this
-paragraph shall not be credited against the liability of other limited
-partners or members of their respective limited partnership or limited
-liability company who are eligible for the same relief; provided,
-however that the sum of the amounts owed by all of the persons required
-to collect tax of a limited partnership or limited liability company
-shall not exceed the total liability of such limited partnership or
-limited liability company.
+  § 1133. Liability for the tax.  (a) Except as otherwise provided in
+section eleven hundred thirty-seven of this part, every person required
+to collect any tax imposed by this article shall be personally liable
+for the tax imposed, collected or required to be collected under this
+article. Any such person shall have the same right in respect to
+collecting the tax from their customer or in respect to nonpayment of
+the tax by the customer as if the tax were a part of the purchase price
+of the property or service, amusement charge or rent, as the case may
+be, and payable at the same time; provided, however, that the tax
+commission shall be joined as a party in any action or proceeding
+brought to collect the tax.
   (b) Where any customer has failed to pay a tax imposed by this article
 to the person required to collect the same, then in addition to all
 other rights, obligations and remedies provided, such tax shall be

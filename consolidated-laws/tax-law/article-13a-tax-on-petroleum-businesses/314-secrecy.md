@@ -38,40 +38,44 @@ identity information from a return or returns of one or more petroleum
 or fossil fuel businesses to the department of environmental
 conservation or the New York state energy research and development
 authority for the purpose of implementing the New York state climate
-change superfund act, or the publication of delinquent lists showing the
-names of petroleum businesses who have failed to pay their taxes at the
-time and in the manner provided by section three hundred eight of this
-article together with any relevant information which in the opinion of
-the commissioner may assist in the collection of such delinquent taxes;
-or the inspection by the attorney general or other legal representatives
-of the state of the return of any petroleum business which shall bring
-action to set aside or review the tax based thereon, or against whom an
-action or proceeding under this chapter has been recommended by the
-commissioner or the attorney general or has been instituted; or the
-inspection of the returns of any petroleum business by the comptroller
-or duly designated officer or employee of the state department of audit
-and control, for purposes of the audit of a refund of any tax paid by
-such petroleum business under this article. Provided, further, nothing
-herein shall be construed to prohibit the disclosure of taxpayer
-identity information, including name, mailing address and taxpayer
-identifying number (social security account number, or such other number
-as has been assigned by the secretary of the United States treasury or
-such secretary's delegate, or by the commissioner of taxation and
-finance), with respect to persons who are registered as residual
-petroleum product or aviation fuel businesses under this article or as
-distributors of motor fuel or diesel motor fuel or kero-jet fuel only
-for the purpose of article twelve-A of this chapter or this article,
-whose registration as a residual petroleum product business or as such
-distributor has been cancelled or suspended pursuant to this article or
-such article twelve-A or whose application for registration as a
-residual petroleum product business or as such distributor has been
-refused pursuant to this article or such article twelve-A. In addition,
-the commissioner may disclose the fact that a person is not registered
-as a residual petroleum business under this article or as a distributor
-of motor fuel, diesel motor fuel or kero-jet fuel only under article
-twelve-A of this chapter. Information disclosed pursuant to this
-subdivision shall not, by itself, be construed as proof of compliance or
-noncompliance with the provisions of this chapter.
+change superfund act, the climate leadership and community protection
+act, chapter one hundred six of the laws of two thousand nineteen,
+promulgation of regulations thereunder, and achievement of the statewide
+greenhouse gas emission limits, as defined and established in article
+seventy-five of the environmental conservation law, or the publication
+of delinquent lists showing the names of petroleum businesses who have
+failed to pay their taxes at the time and in the manner provided by
+section three hundred eight of this article together with any relevant
+information which in the opinion of the commissioner may assist in the
+collection of such delinquent taxes; or the inspection by the attorney
+general or other legal representatives of the state of the return of any
+petroleum business which shall bring action to set aside or review the
+tax based thereon, or against whom an action or proceeding under this
+chapter has been recommended by the commissioner or the attorney general
+or has been instituted; or the inspection of the returns of any
+petroleum business by the comptroller or duly designated officer or
+employee of the state department of audit and control, for purposes of
+the audit of a refund of any tax paid by such petroleum business under
+this article. Provided, further, nothing herein shall be construed to
+prohibit the disclosure of taxpayer identity information, including
+name, mailing address and taxpayer identifying number (social security
+account number, or such other number as has been assigned by the
+secretary of the United States treasury or such secretary's delegate, or
+by the commissioner of taxation and finance), with respect to persons
+who are registered as residual petroleum product or aviation fuel
+businesses under this article or as distributors of motor fuel or diesel
+motor fuel or kero-jet fuel only for the purpose of article twelve-A of
+this chapter or this article, whose registration as a residual petroleum
+product business or as such distributor has been cancelled or suspended
+pursuant to this article or such article twelve-A or whose application
+for registration as a residual petroleum product business or as such
+distributor has been refused pursuant to this article or such article
+twelve-A. In addition, the commissioner may disclose the fact that a
+person is not registered as a residual petroleum business under this
+article or as a distributor of motor fuel, diesel motor fuel or kero-jet
+fuel only under article twelve-A of this chapter. Information disclosed
+pursuant to this subdivision shall not, by itself, be construed as proof
+of compliance or noncompliance with the provisions of this chapter.
   (b) Penalty for violation.--(1) Any officer or employee of the state
 who willfully violates the provisions of subdivision (a) of this section
 shall be dismissed from office and be incapable of holding any public

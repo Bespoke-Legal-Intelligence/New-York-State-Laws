@@ -9,24 +9,31 @@ of credit. A taxpayer subject to tax under article nine-A or twenty-two
 of this chapter shall be allowed a credit against such tax, pursuant to
 the provisions referenced in subdivision (e) of this section. The amount
 of the credit is equal to the amount determined pursuant to article
-twenty-seven of the economic development law. A taxpayer that is a
-partner in a partnership, member of a limited liability company or
-shareholder in a subchapter S corporation shall be allowed its pro-rata
-share of the credit allowed for the partnership, limited liability
-company or subchapter S corporation. No cost or expense paid or incurred
-that is included as part of the calculation of this credit shall be the
-basis of any other tax credit allowed under this chapter.
+twenty-seven of the economic development law and shall be based on the
+certificates of tax credit issued to eligible businesses owned by the
+taxpayer or by an entity of which the taxpayer is a partner or
+shareholder. A taxpayer that is a partner in a partnership, member of a
+limited liability company or shareholder in a subchapter S corporation
+shall be allowed its pro-rata share of the credit allowed for the
+partnership, limited liability company or subchapter S corporation. No
+cost or expense paid or incurred that is included as part of the
+calculation of this credit shall be the basis of any other tax credit
+allowed under this chapter.
   (b) Eligibility. To be eligible to claim the newspaper and broadcast
-media jobs tax credit the taxpayer shall have been issued a certificate
-of tax credit by the department of economic development pursuant to
-article twenty-seven of the economic development law, which certificate
-shall set forth the amount of the credit that may be claimed for the
-taxable year. The taxpayer shall be allowed to claim only the amount
-listed on the certificate of tax credit for that taxable year.
+media jobs tax credit the eligible businesses owned by the taxpayer or
+by an entity of which the taxpayer is a partner or shareholder shall
+have been issued a certificate of tax credit by the department of
+economic development pursuant to article twenty-seven of the economic
+development law, which certificate or certificates shall set forth the
+amount of the credit that may be claimed for the taxable year. The
+taxpayer shall be allowed to claim only the amount or amounts listed on
+the certificate or certificates of tax credit issued to eligible
+businesses owned by the taxpayer or by an entity of which the taxpayer
+is a partner or shareholder for that taxable year.
   (c) Tax return requirement. The taxpayer shall be required to attach
 to its tax return, in the form prescribed by the commissioner, proof of
-receipt of its certificate of tax credit issued by the commissioner of
-the department of economic development.
+receipt of its certificate or certificates of tax credit issued by the
+commissioner of the department of economic development.
   (d) Credit recapture. If a certificate of tax credit issued by the
 department of economic development under article twenty-seven of the
 economic development law is revoked by such department, the amount of

@@ -345,9 +345,17 @@ inpatient share.
   (ii) Annual distributions pursuant to such regulations for the two
 thousand twenty through two thousand twenty-five calendar years shall be
 in accord with the following:
-  (A) one hundred thirty-nine million four hundred thousand dollars
+  (A) (1) one hundred thirty-nine million four hundred thousand dollars
 shall be distributed as Medicaid Disproportionate Share Hospital ("DSH")
-payments to major public general hospitals; and
+payments to major public general hospitals;
+  (2) for the calendar years two thousand twenty-five and thereafter,
+the total distributions to major public general hospitals shall be
+subject to an aggregate reduction of one hundred thirteen million four
+hundred thousand dollars annually, provided that general hospitals
+operated by the New York city health and hospitals corporation as
+established by chapter one thousand sixteen of the laws of nineteen
+hundred sixty-nine, as amended, shall not receive distributions pursuant
+to this subdivision; and
   (B) nine hundred sixty-nine million nine hundred thousand dollars as
 Medicaid DSH payments to eligible general hospitals, other than major
 public general hospitals.

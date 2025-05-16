@@ -11,6 +11,7 @@
 - [Title 3-A — City of Rome Parking Authority](title-03a-city-of-rome-parking-authority/)
 - [Title 4 — Syracuse Parking Authority](title-04-syracuse-parking-authority/)
 - [Title 4-A — City of Albany Parking Authority](title-04a-city-of-albany-parking-authority/)
+- [Title 5 — City of Buffalo Parking Authority](title-05-city-of-buffalo-parking-authority/)
 - [Title 7 — Tuckahoe Parking Authority](title-07-tuckahoe-parking-authority/)
 - [Title 7\* — Endicott Parking Authority](title-07-endicott-parking-authority/)
 - [Title 8-A — Harrison Parking Authority](title-08a-harrison-parking-authority/)
@@ -35,6 +36,7 @@ Title 2.   White Plains Parking Authority (Secs. 1425-1443).
  3-A.      City of Rome Parking Authority (Secs. 1470--1470-s).
  4.        Syracuse Parking Authority (Secs. 1475-a--1475-v).
  4-A.      City of Albany Parking Authority (Secs. 1493-a--1493-s).
+ 5.        City of Buffalo Parking Authority (Secs. 1500-a--1500-w).
  7.        Tuckahoe Parking Authority (Secs. 1545-1564).
  7.        Endicott Parking Authority (Secs. 1550-1568).
  8-A.      Harrison Parking Authority (Secs. 1570--1570-v).

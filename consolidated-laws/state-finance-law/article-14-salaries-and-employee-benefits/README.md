@@ -25,6 +25,7 @@
 - [§ 209 Employee benefit fund; professional services](209-employee-benefit-fund-professional-services.md)
 - [§ 209-A Workers' compensation supplementation allowance](209a-workers-compensation-supplementation-allowance.md)
 - [§ 209-B Severance benefits for certain state officers and employees](209b-severance-benefits-for-certain-state-officers-and-employees.md)
+- [§ 210 Optional payment election](210-optional-payment-election.md)
 
 <details>
 <summary>Official heading of Article 14, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -65,6 +66,7 @@ Section 200.   Payment of salaries.
         209-a. Workers' compensation supplementation allowance.
         209-b. Severance benefits for certain state officers and
                  employees.
+        210.   Optional payment election.
 ```
 
 </details>

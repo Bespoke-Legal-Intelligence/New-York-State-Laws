@@ -350,23 +350,25 @@ amount imposed on the delinquent person for all such failures during any
 calendar year shall not exceed ten thousand dollars.
   (2) If any partnership, S corporation, or trust required to file a
 return or report under subsection (c) or subsection (f) of section six
-hundred fifty-eight or under section six hundred fifty-nine of this
-article for any taxable year fails to file such return or report at the
-time prescribed therefor (determined with regard to any extension of
-time for filing), or files a return or report which fails to show the
-information required under such subsection (c) or section six hundred
-fifty-nine of this article, unless it is shown that such failure is due
-to reasonable cause and not due to willful neglect, there shall, upon
-notice and demand by the commissioner and in the same manner as tax, be
-paid by the partnership or S corporation a penalty for each month (or
-fraction thereof) during which such failure continues (but not to exceed
-five months). The amount of such penalty for any month is the product of
-fifty dollars, multiplied by the number of partners in the partnership
-or shareholders in the S corporation during any part of the taxable year
-who were subject to tax under this article during any part of such
-taxable year, except that, in the case of a trust, the penalty shall be
-equal to one hundred fifty dollars a month up to a maximum of fifteen
-hundred dollars per taxable year.
+hundred fifty-eight or under section six hundred fifty-nine or six
+hundred fifty-nine-a of this article for any taxable year fails to file
+such return or report at the time prescribed therefor (determined with
+regard to any extension of time for filing), or files a return or report
+which fails to show the information required under such subsection (c)
+of section six hundred fifty-nine of this article, or files a return or
+report which fails to show the information required under subsection (d)
+of section six hundred fifty-nine-a of this article, unless it is shown
+that such failure is due to reasonable cause and not due to willful
+neglect, there shall, upon notice and demand by the commissioner and in
+the same manner as tax, be paid by the partnership or S corporation a
+penalty for each month (or fraction thereof) during which such failure
+continues (but not to exceed five months). The amount of such penalty
+for any month is the product of fifty dollars, multiplied by the number
+of partners in the partnership or shareholders in the S corporation
+during any part of the taxable year who were subject to tax under this
+article during any part of such taxable year, except that, in the case
+of a trust, the penalty shall be equal to one hundred fifty dollars a
+month up to a maximum of fifteen hundred dollars per taxable year.
   (i) Additional penalty.--Any person who with fraudulent intent shall
 fail to pay, or to deduct or withhold and pay, any tax, or to make,
 render, sign or certify any return, or to supply any information within

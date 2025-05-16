@@ -729,6 +729,41 @@ producer, in accordance with generally accepted accounting principles;
 and in the case of a qualified pipeline, in accordance with the
 taxpayer's regulatory reports filed with the federal energy regulatory
 commission or state department of public service.
+  (c-4) Depreciation and interest deduction adjustments for covered
+properties owned by an institutional real estate investor. (1)
+Notwithstanding any other provision of this section, in the case of a
+corporation or combined group that is an institutional real estate
+investor or a partner, member or shareholder of an entity that is an
+institutional real estate investor, entire net income shall be computed
+with the adjustments for depreciation and interest related to covered
+properties as set forth in this paragraph.
+  (2) Definitions. (A) "Institutional real estate investor" means an
+entity or combined group that, directly or indirectly (i) owns ten or
+more covered properties, (ii) manages funds pooled from investors and
+acts as a fiduciary with respect to one or more investors, and (iii) has
+thirty million dollars or more in net value or assets under management
+on any day during the taxable year. An entity is considered owning a
+covered property if it directly owns the covered property or indirectly
+owns ten percent or more of the covered property.
+  (B) "Covered property" means a residential property consisting of no
+more than two dwelling units located in New York state.
+  (3) Depreciation deductions. With respect to covered properties, no
+deduction for depreciation allowed under the internal revenue code or
+this section shall be allowed.
+  (4) Interest deductions. With respect to covered properties, the
+interest deduction for federal income tax purposes allowed under section
+one hundred sixty-three of the internal revenue code shall not be
+allowed and must be added back in the computation of entire net income,
+except with respect to interest paid or accrued in the taxable year when
+such covered property is sold to an individual for use as the principal
+residence of such individual or sold to a nonprofit organization that
+has as its principal purpose the creation, development, or preservation
+of affordable housing. For purposes of this subparagraph, any amount of
+interest that would have been allowed under section one hundred
+sixty-three of the internal revenue code in connection with a covered
+property but for an election to treat such interest as chargeable to
+capital account shall be treated as an amount allowed under section one
+hundred sixty-three of the internal revenue code.
   (d) The commissioner may, whenever necessary in order properly to
 reflect the entire net income of any taxpayer, determine the year or
 period in which any item of income or deduction shall be included,

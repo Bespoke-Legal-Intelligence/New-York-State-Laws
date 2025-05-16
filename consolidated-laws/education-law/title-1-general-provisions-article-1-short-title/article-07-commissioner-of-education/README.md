@@ -25,6 +25,7 @@
 - [§ 316 Teacher resource and computer training centers](316-teacher-resource-and-computer-training-centers.md)
 - [§ 317 General education development exam](317-general-education-development-exam.md)
 - [§ 318 Distribution of surplus computers](318-distribution-of-surplus-computers.md)
+- [§ 319 Establishment of dual enrollment program policy](319-establishment-of-dual-enrollment-program-policy.md)
 
 <details>
 <summary>Official heading of Article 7, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -56,6 +57,7 @@ Section 301.   Commissioner of education continued.
         316.   Teacher resource and computer training centers.
         317.   General education development exam.
         318.   Distribution of surplus computers.
+        319.   Establishment of dual enrollment program policy.
 ```
 
 </details>

@@ -27,23 +27,24 @@ located elsewhere in the state.
 this section for qualified post production costs, excluding the costs
 for visual effects and animation, unless the qualified post production
 costs, excluding the costs for visual effects and animation, at a
-qualified post production facility meet or exceed seventy-five percent
-of the total post production costs, excluding the costs for visual
-effects and animation, paid or incurred in the post production of the
-qualified film at any post production facility. (ii) A taxpayer shall
-not be eligible for the credit established by this section for qualified
-post production costs which are costs for visual effects or animation
-unless the qualified post production costs for visual effects or
-animation at a qualified post production facility meet or exceed three
-million dollars or twenty percent of the total post production costs for
-visual effects or animation paid or incurred in the post production of a
-qualified film at any post production facility, whichever is less. (iii)
-A taxpayer may claim a credit for qualified post production costs
-excluding the costs for visual effects and animation, and for qualified
-post production costs of visual effects and animation, provided that the
-criteria in subparagraphs (i) and (ii) of this paragraph are both
-satisfied. The credit shall be allowed for the taxable year in which the
-production of such qualified film is completed.
+qualified post production facility meet or exceed one million dollars or
+seventy-five percent of the total post production costs, excluding the
+costs for visual effects and animation, paid or incurred in the post
+production of the qualified film at any post production facility,
+whichever is less. (ii) A taxpayer shall not be eligible for the credit
+established by this section for qualified post production costs which
+are costs for visual effects or animation unless the qualified post
+production costs for visual effects or animation at a qualified post
+production facility meet or exceed five hundred thousand dollars or ten
+percent of the total post production costs for visual effects or
+animation paid or incurred in the post production of a qualified film at
+any post production facility, whichever is less. (iii) A taxpayer may
+claim a credit for qualified post production costs excluding the costs
+for visual effects and animation, and for qualified post production
+costs of visual effects and animation, provided that the criteria in
+subparagraphs (i) and (ii) of this paragraph are both satisfied. The
+credit shall be allowed for the taxable year in which the production of
+such qualified film is completed.
   (4) No qualified post production costs used by a taxpayer either as
 the basis for the allowance of the credit provided for under this
 section or used in the calculation of the credit provided for under this
@@ -58,14 +59,17 @@ the credit is at least five million dollars, the credit shall be claimed
 over a three year period beginning in the first taxable year in which
 the credit may be claimed and in the next two succeeding taxable years,
 with one-third of the amount of the credit allowed being claimed in each
-year.
+year. Provided, however, in the case of a qualified film for which the
+taxpayer filed an initial application on or after January first, two
+thousand twenty-five, the credit shall be claimed for the taxable year
+in which such qualified film is completed.
   (6) For the period two thousand fifteen through two thousand
-thirty-four, in addition to the amount of credit established in
-paragraph two of this subdivision, a taxpayer shall be allowed a credit
-equal to the product (or pro rata share of the product, in the case of a
-member of a partnership) of ten percent and the amount of wages or
-salaries paid to individuals directly employed (excluding those employed
-as writers, directors, composers, producers and performers, other than
+thirty-six, in addition to the amount of credit established in paragraph
+two of this subdivision, a taxpayer shall be allowed a credit equal to
+the product (or pro rata share of the product, in the case of a member
+of a partnership) of ten percent and the amount of wages or salaries
+paid to individuals directly employed (excluding those employed as
+writers, directors, composers, producers and performers, other than
 background actors with no scripted lines) for services performed by
 those individuals in one of the counties specified in this paragraph in
 connection with the post production work on a qualified film with a
@@ -85,12 +89,13 @@ have the following meanings:
   (1) "Qualified film production company" and "qualified film" shall
 have the same meaning as are ascribed to such terms by section
 twenty-four of this article.
-  (2) "Post production costs" means production of original content for a
-qualified film employing traditional, emerging and new workflow
+  (2) " Qualified production costs" means production of original content
+for a qualified film employing traditional, emerging and new workflow
 techniques used in post-production for picture, sound and music
 editorial, rerecording and mixing, visual effects, graphic design,
-original scoring, animation, and musical composition; but shall not
-include the editing of previously produced content for a qualified film.
+original scoring, animation, and musical composition in the state; but
+shall not include the editing of previously produced content for a
+qualified film.
   (3) "Post production facility" means a building and/or complex of
 buildings and their improvements on which film are intended to be post
 produced.
@@ -116,5 +121,12 @@ implement this credit program. Such reductions in tax credit shall be
 deposited into the empire state entertainment diversity job training
 development fund as provided in subdivision (f) of section twenty-four
 of this article.
+  (f) Credit recapture. If a certificate of tax credit issued by the
+department of economic development pursuant to this section is revoked
+by such department because the taxpayer does not meet the eligibility
+requirements of this section, the amount of credit described in this
+section and claimed by the taxpayer prior to that revocation shall be
+added back to tax in the taxable year in which any such revocation
+becomes final.
   * NB There are 2 § 31's
 ```

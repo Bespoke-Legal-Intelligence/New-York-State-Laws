@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Economic Development Law § 502", "kind": "section", "law_id": "COM", "location_id": "502", "path": "ARTICLE 28 › SECTION 502", "repealed": false, "repealed_date": null, "source": "nys-laws:COM/502.md", "title": "Eligibility criteria"} -->
+# Economic Development Law § 502 — Eligibility criteria
+
+[Economic Development Law](../README.md) › [Article 28 — Semiconductor Manufacturing Workforce Training Incentive Program](README.md)
+
+```text
+  § 502. Eligibility criteria. In order to participate in the
+manufacturing workforce training incentive program, a business entity
+must satisfy the following criteria:
+  1. The business entity must operate in the state as a semiconductor
+manufacturing business or a manufacturing business as defined in this
+article;
+  2. The business entity must demonstrate that it is conducting eligible
+training or obtaining eligible training from an approved provider; and
+  3. The business entity must be in compliance with all worker
+protection and environmental laws and regulations. In addition, the
+business entity may not owe past due state taxes or local property
+taxes.
+  4. The business entity must submit a report upon completion of the
+eligible training that specifies the total amount of eligible training
+costs covered, including a breakdown between training expenses, wages,
+and wraparound services; the total number of employees that begin
+training; the total number of employees that finish training; the skills
+or type of training provided, including a list of applicable
+transferrable credentialing opportunities that were provided and
+information on whether or not the program is a registered apprenticeship
+program; information on any formalized agreements or partnerships with
+community or labor organizations to support the training program; the
+name of the training provider; and whether the covered employee is
+retained one year after the completion of the funded training.
+```

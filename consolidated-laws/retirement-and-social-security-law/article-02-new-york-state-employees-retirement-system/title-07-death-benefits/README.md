@@ -13,7 +13,6 @@
 - [§ 60-C Death benefit for vested members who die prior to retirement](60c-death-benefit-for-vested-members-who-die.md)
 - [§ 61 Accidental death benefit](61-accidental-death-benefit.md)
 - [§ 61-A Payment of interest on death benefits and accumulated contributions](61a-payment-of-interest-on-death-benefits.md)
-- [§ 61-B COVID-19 benefit](61b-covid-19-benefit.md) *(repealed)*
 - [§ 62 Ordinary disability retirement](62-ordinary-disability-retirement.md)
 - [§ 63 Accidental disability retirement](63-accidental-disability-retirement.md)
 - [§ 63-A Performance of duty disability retirement](63a-performance-of-duty-disability-retirement.md)

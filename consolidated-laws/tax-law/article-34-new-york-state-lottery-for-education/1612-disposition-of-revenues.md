@@ -165,6 +165,91 @@ pursuant to section five hundred two of the racing, pari-mutuel wagering
 and breeding law, at a rate of forty-five percent of the total revenue
 wagered at the video lottery gaming facility after payout for prizes
 pursuant to this chapter.
+  * (E) notwithstanding clause (B) of this subparagraph, beginning on
+June first, two thousand twenty-five, when the vendor track is located
+in the county of Genesee and within forty miles of a Native American
+class III gaming facility as defined in 25 U.S.C. §2703(8), at a rate of
+fifty-six percent of the total revenue wagered at the vendor track after
+payout for prizes pursuant to this chapter; provided, however, that the
+following additional provisions shall apply to such vendor track:
+  (1) From the vendor fee amount equivalent to fifty-six percent of the
+total revenue wagered at the vendor track after payout for prizes
+pursuant to this clause, a portion equivalent to five percent of the
+total revenue wagered at the vendor track after payout for prizes shall
+be defined as and hereinafter be referred to as the "additional vendor
+fee".
+  (2) Such additional vendor fee shall be accounted for separately by
+the vendor track and shall be used exclusively for the following
+purposes, in proportions determined annually by such vendor track in
+accordance with a plan submitted to the gaming commission pursuant to
+subclause four of this clause:
+  (A) reducing the costs paid by non-executive and non-managerial
+employees of such vendor track for healthcare coverage offered by such
+vendor track;
+  (B) increasing salaries, hourly wages, or benefits paid to
+non-executive and non-managerial employees of such vendor track, or
+funding increases in the number of full-time equivalent non-executive
+and non-managerial employees; and
+  (C) supplementing distributions payable to participating counties or
+municipalities as required under existing law.
+  (3) Additional vendor fee revenue utilized pursuant to this clause
+shall not be included in any calculation used to determine amounts
+payable pursuant to subclause two of this clause or payments required
+under subclause two of this clause to the appropriate breeding fund
+established pursuant to article three of the racing, pari-mutuel
+wagering and breeding law.
+  (4) (A) Such vendor track shall annually submit a plan to the
+commission, no later than sixty days prior to the beginning of its
+fiscal year, detailing the allocation and use of the additional vendor
+fee revenue among the purposes specified in subclause two of this clause
+for the upcoming fiscal year. Such plan shall include specific
+projections for cost reductions in employee healthcare, increases in
+employee compensation specifying the job titles or categories benefiting
+therefrom, and supplemental amounts for local distributions.
+  (B) Such vendor track shall submit a plan to the commission, no later
+than sixty days after the effective date of this clause, detailing the
+allocation and use of such additional vendor fee among the purposes
+specified in subclause two of this clause for the remainder of fiscal
+year two thousand twenty-five. Such plan shall include specific
+projections for cost reductions in employee healthcare, increases in
+employee compensation specifying the job titles or categories benefiting
+therefrom, and projections of supplemental amounts of local
+distributions. Such plan shall also detail allocations already made
+between this act going into effect and the date such plan has been
+submitted to the commission.
+  (5) Such vendor track shall also submit an annual report to the gaming
+commission, the governor, the temporary president of the senate, and the
+speaker of the assembly, no later than ninety days after the end of each
+fiscal year, detailing the actual allocation and use of such additional
+vendor fee during the preceding fiscal year. Such report shall specify
+the amounts applied to each purpose outlined in subclause two of this
+clause, provide data demonstrating the impact on employee healthcare
+costs and compensation including the specific job titles or categories
+that received increased compensation pursuant to item (B) of subclause
+two of this clause, detail the supplemental distributions made to
+localities, compare actual use to the plan, and provide justification
+for any significant variances.
+  (6) (A) The additional vendor fee shall only be used to supplement
+amounts previously allocated or appropriated by the corporation for the
+purposes stated in subclause two of this clause and may not be used to
+replace or backfill such amounts.
+  (B) The gaming commission shall have the authority to audit the use of
+such additional vendor fee by such vendor track. If the gaming
+commission determines, after notice and an opportunity for a hearing,
+that such funds have been used for purposes other than those authorized
+in subclause two of this clause or inconsistent with the plan, including
+a failure to benefit non-executive and non-managerial employees as
+required by item (B) of subclause two of this clause, the gaming
+commission may impose monetary penalties pursuant to its authority under
+the racing, pari-mutuel wagering and breeding law and may require that
+an amount equivalent to any funds used in a manner inconsistent with the
+provisions of this clause shall be expended for authorized purposes
+pursuant to an amended plan.
+  (7) Nothing contained in this clause shall affect any existing
+collective bargaining agreement or the obligation of such vendor track
+to negotiate terms and conditions of employment with any certified
+employee representative.
+  * NB Repealed April 1, 2030
   (iii) less any additional vendor's fees. Additional vendor's fees
 shall be calculated as follows:
   (A) when a vendor track is located within region one and is located

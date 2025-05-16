@@ -51,21 +51,24 @@ before the filing of the claim or the making of the credit or refund, as
 the case may be, plus the portion of the tax paid within the period
 which would be applicable under subsection (a) if a claim had been filed
 on the date the agreement was executed.
-  (c) Notice of federal change or correction.-- A claim for credit or
+  (c) Notice of federal change or correction.--A claim for credit or
 refund of any overpayment of tax attributable to a federal change or
 correction required to be reported pursuant to section six hundred
-fifty-nine shall be filed by the taxpayer within two years from the time
-the notice of such change or correction or such amended return was
-required to be filed with the commissioner of taxation and finance. If
-the report or amended return required by section six hundred fifty-nine
-is not filed within the ninety day period therein specified, no interest
-shall be payable on any claim for credit or refund of the overpayment
-attributable to the federal change or correction. The amount of such
-credit or refund shall not exceed the amount of the reduction in tax
-attributable to such federal change, correction or items amended on the
-taxpayer's amended federal income tax return. This subsection shall not
-affect the time within which or the amount for which a claim for credit
-or refund may be filed apart from this subsection.
+fifty-nine or by a partner of a partnership required to report a federal
+change or correction pursuant to section six hundred fifty-nine-a shall
+be filed by the taxpayer within two years from the time the notice of
+such change or correction or such amended return was required to be
+filed with the commissioner of taxation and finance. If the report or
+amended return required by section six hundred fifty-nine or six hundred
+fifty-nine-a is not filed within the ninety day period therein
+specified, no interest shall be payable on any claim for credit or
+refund of the overpayment attributable to the federal change or
+correction. The amount of such credit or refund shall not exceed the
+amount of the reduction in tax attributable to such federal change,
+correction or items amended on the taxpayer's amended federal income tax
+return. This subsection shall not affect the time within which or the
+amount for which a claim for credit or refund may be filed apart from
+this subsection.
   (d) Overpayment attributable to net operating loss carryback.--A claim
 for credit or refund of so much of an overpayment as is attributable to
 the application to the taxpayer of a net operating loss carryback shall

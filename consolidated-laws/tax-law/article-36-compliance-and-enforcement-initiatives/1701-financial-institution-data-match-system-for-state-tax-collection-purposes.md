@@ -10,14 +10,14 @@ collection purposes. 1. Definitions. As used in this section:
 interest, and penalty, that the commissioner is required by law to
 collect and that have become fixed and final such that the taxpayer no
 longer has any right to administrative or judicial review.
-  * NB Effective until April 1, 2025
+  * NB Effective until April 1, 2030
   * (a) "Debt" means all liabilities, including unpaid tax, interest,
 and penalty, that the commissioner is required by law to collect and
 that have been reduced to judgment by the docketing of a New York state
 tax warrant in the office of a county clerk located in the state of New
 York or by the filing of a copy of the warrant in the office of the
 department of state.
-  * NB Effective April 1, 2025
+  * NB Effective April 1, 2030
   (b) "Tax debtor" means a natural person or any entity other than a
 natural person named on a New York state tax warrant and identified
 thereon as a judgment debtor.
@@ -41,7 +41,7 @@ information it obtains from both the department and the financial
 institution confidential, and any employee, agent or representative of
 that third party is prohibited from disclosing that information to
 anyone other than the department or the financial institution.
-  * NB Effective until April 1, 2025
+  * NB Effective until April 1, 2030
   * (a) To assist the commissioner in the collection of debts, the
 department must develop and operate a financial institution data match
 system for the purpose of identifying and seizing the non-exempt assets
@@ -53,7 +53,7 @@ obtains from both the department and the financial institution
 confidential, and any employee, agent or representative of that third
 party is prohibited from disclosing that information to anyone other
 than the department or the financial institution.
-  * NB Effective April 1, 2025
+  * NB Effective April 1, 2030
   (b) Each financial institution doing business in the state must, in
 conjunction with the commissioner or the commissioner's authorized
 designee, develop and operate a data match system to facilitate the

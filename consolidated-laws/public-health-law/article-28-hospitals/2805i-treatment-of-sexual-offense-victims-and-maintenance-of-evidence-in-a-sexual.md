@@ -7,9 +7,30 @@
   § 2805-i. Treatment of sexual offense victims and maintenance of
 evidence in a sexual offense.  1. Every hospital providing treatment to
 alleged victims of a sexual offense shall be responsible for:
-  (a) maintaining sexual offense evidence and the chain of custody as
+  * (a) maintaining sexual offense evidence and the chain of custody as
 provided in subdivision two of this section;
-  (b) informing sexual offense victims of the availability of rape
+  * NB Effective until May 9, 2027
+  * (a) Maintaining the following full-time, part-time, contracted, or
+on-call staff:
+  (1) One or more hospital sexual violence response coordinators who are
+designated to ensure that the hospital's sexual violence response is
+integrated within the hospital's clinical oversight and quality
+improvement structure, to ensure chain of custody is maintained, and to
+ensure availability and coordination of certified sexual assault
+forensic examiners;
+  (2) Certified sexual assault forensic examiners sufficient to meet
+hospital needs. Such individuals shall:
+  (i) be a registered professional nurse, certified nurse practitioner,
+licensed physician assistant or licensed physician acting within their
+lawful scope of practice and specially trained in forensic examination
+of sexual offense victims and the preservation of forensic evidence in
+such cases and qualified to provide such services, pursuant to
+regulations promulgated by the commissioner; and
+  (ii) have successfully completed a didactic and clinical training
+course and post course preceptorship as appropriate to scope of practice
+that aligns with guidance released by the commissioner.
+  * NB Effective May 9, 2027
+  * (b) informing sexual offense victims of the availability of rape
 crisis and local victim assistance organizations, if any, in the
 geographic area served by the hospital, and contacting a rape crisis or
 local victim assistance organization to establish the coordination of
@@ -17,7 +38,11 @@ non-medical services, including but not limited to transportation within
 the geographic area served by that organization, upon the conclusion of
 initial medical services, free of charge from the medical facility to
 sexual offense victims who request such coordination and services;
-  (c) offering and making available appropriate HIV post-exposure
+  * NB Effective until May 9, 2027
+  * (b) Ensuring that such sexual assault forensic examiners are on-call
+and available on a twenty-four hour a day basis every day of the year;
+  * NB Effective May 9, 2027
+  * (c) offering and making available appropriate HIV post-exposure
 treatment therapies; including a seven day starter pack of HIV
 post-exposure prophylaxis for a person eighteen years of age or older,
 or the full regimen of HIV post-exposure prophylaxis for a person less
@@ -31,12 +56,65 @@ of the victim of a sexual assault, the hospital emergency room
 department shall provide or arrange for an appointment for medical
 follow-up related to HIV post-exposure prophylaxis and other care as
 appropriate; and
-  (d) ensuring sexual assault survivors are not billed for sexual
+  * NB Effective until February 3, 2026
+  * (c) offering and making available appropriate HIV post-exposure
+treatment therapies; including the full regimen of HIV post-exposure
+prophylaxis in cases where it has been determined, in accordance with
+guidelines issued by the commissioner, that a significant exposure to
+HIV has occurred, and informing the victim that payment assistance for
+such therapies and other crime related expenses may be available from
+the office of victim services pursuant to the provisions of article
+twenty-two of the executive law. With the consent of the victim of a
+sexual assault, the hospital emergency room department shall provide or
+arrange for an appointment for medical follow-up related to HIV
+post-exposure prophylaxis and other care as appropriate; and
+  * NB Effective February 3, 2026 until May 9, 2027
+  * (c) Ensuring that such sexual assault forensic examiners maintain a
+current certification from the department, pursuant to regulations, in
+providing sexual assault examinations. The commissioner shall issue
+regulations consistent with subparagraph one of paragraph (b) of
+subdivision four-b of this section, establishing a process for
+individuals to apply for and receive certification upon meeting the
+required criteria, as well as a process for recertification.
+  * NB Effective May 9, 2027
+  * (d) ensuring sexual assault survivors are not billed for sexual
 assault forensic exams and are notified orally and in writing of the
 option to decline to provide private health insurance information and
 have the office of victim services reimburse the hospital for the exam
 pursuant to subdivision thirteen of section six hundred thirty-one of
 the executive law.
+  * NB Effective until May 9, 2027
+  * (d) maintaining sexual offense evidence and the chain of custody as
+provided in subdivision two of this section;
+  * NB Effective May 9, 2027
+  * (e) informing sexual offense victims of the availability of rape
+crisis and local victim assistance organizations, if any, in the
+geographic area served by the hospital, and contacting a rape crisis or
+local victim assistance organization to establish the coordination of
+non-medical services, including but not limited to transportation within
+the geographic area served by that organization, upon the conclusion of
+initial medical services, free of charge from the medical facility to
+sexual offense victims who request such coordination and services;
+  * NB Effective May 9, 2027
+  * (f) offering and making available appropriate HIV post-exposure
+treatment therapies; including the full regimen of HIV post-exposure
+prophylaxis in cases where it has been determined, in accordance with
+guidelines issued by the commissioner, that a significant exposure to
+HIV has occurred, and informing the victim that payment assistance for
+such therapies and other crime related expenses may be available from
+the office of victim services pursuant to the provisions of article
+twenty-two of the executive law. With the consent of the victim of a
+sexual assault, the hospital emergency room department shall provide or
+arrange for an appointment for medical follow-up related to HIV
+post-exposure prophylaxis and other care as appropriate; and
+  * NB Effective May 9, 2027
+  * (g) ensuring sexual assault survivors are not billed for sexual
+assault forensic exams and are notified orally and in writing of the
+option to decline to provide private health insurance information and
+have the office of victim services reimburse the hospital for the exam
+pursuant to subdivision thirteen of section six hundred thirty-one of
+the executive law.
+  * NB Effective May 9, 2027
   2. Sexual offense evidence shall be collected and maintained as
 follows:
   (a) All sexual offense evidence shall be kept in a locked, separate

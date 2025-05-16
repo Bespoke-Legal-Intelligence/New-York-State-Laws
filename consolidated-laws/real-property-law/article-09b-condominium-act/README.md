@@ -40,6 +40,7 @@
 - [§ 339-JJ Borrowing by board of managers](339jj-borrowing-by-board-of-managers.md)
 - [§ 339-KK Rents](339kk-rents.md)
 - [§ 339-LL Electric vehicle charging station installation](339ll-electric-vehicle-charging-station-installation.md)
+- [§ 339-MM Establishment of reserve fund and dedicated capital fund for buildings converting to condominium ownership under section three hundred fi...](339mm-establishment-of-reserve-fund-and-dedicated-capital-fund-for-buildings.md)
 
 <details>
 <summary>Official heading of Article 9-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -89,6 +90,10 @@ Section 339-d.  Short title.
         339-jj. Borrowing by board of managers.
         339-kk. Rents.
         339-ll. Electric vehicle charging station installation.
+        339-mm. Establishment of reserve fund and dedicated capital fund
+                  for buildings converting to condominium ownership
+                  under section three hundred fifty-two-eeeee of the
+                  general business law.
 ```
 
 </details>

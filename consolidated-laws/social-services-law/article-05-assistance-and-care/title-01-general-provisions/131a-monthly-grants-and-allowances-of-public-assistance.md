@@ -243,6 +243,9 @@ expectancy is short, or he or she is deemed uninsurable;
   (e) Provision of allowances as prescribed by regulations of the
 department to meet the needs of a pregnant woman, beginning with the
 fourth month of pregnancy which has been medically verified.
+  * (f-1) a one-time benefit to public assistance recipients upon the
+birth of a new child, as prescribed by regulations of the department.
+  * NB Effective November 5, 2025
   7. Whenever a social services official finds that a recipient of
 public assistance has failed to fully apply the amount allowed in his
 grant for shelter to the payment of rent for his housing accommodations,

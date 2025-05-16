@@ -45,6 +45,7 @@
 - [§ 133 Responsibilities of the commission and its officers and employees](133-responsibilities-of-the-commission-and-its-officers-and-employees.md)
 - [§ 134 Transfer of employees](134-transfer-of-employees.md)
 - [§ 135 Transfer of records](135-transfer-of-records.md)
+- [§ 136 Pari-mutuel wagering tax](136-pari-mutuel-wagering-tax.md)
 
 <details>
 <summary>Official heading of Article 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -96,6 +97,7 @@ Section 100.   Legislative intent.
                  employees.
         134.   Transfer of employees.
         135.   Transfer of records.
+        136.   Pari-mutuel wagering tax.
 ```
 
 </details>

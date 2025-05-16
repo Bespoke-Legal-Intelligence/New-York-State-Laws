@@ -48,7 +48,7 @@ is authorized by any general, special or local law, which are required
 to be made within a specified period of time; or (c) stops of
 individuals suspected of criminal activity within a specified period of
 time.
-  * NB Effective until September 1, 2025
+  * NB Effective until September 1, 2027
   * § 215-a. Discrimination against employees for failure to meet
 certain ticket quotas. 1. No employer or his or her duly authorized
 agent shall transfer or in any other manner penalize or threaten,
@@ -93,5 +93,5 @@ is authorized by any general, special or local law, which are required
 to be made within a specified period of time; or (c) stops of
 individuals suspected of criminal activity within a specified period of
 time.
-  * NB Effective September 1, 2025
+  * NB Effective September 1, 2027
 ```

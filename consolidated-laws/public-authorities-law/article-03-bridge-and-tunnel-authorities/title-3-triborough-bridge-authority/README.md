@@ -19,7 +19,7 @@
 - [§ 553-G Fire training](553g-fire-training.md)
 - [§ 553-H Tokens](553h-tokens.md)
 - [§ 553-I Marine Parkway Bridge; tokens](553i-marine-parkway-bridge-tokens.md)
-- [§ 553-J Additional powers and provisions in relation to central business district tolling program](553j-additional-powers-and-provisions-in-relation.md)
+- [§ 553-J Metropolitan transportation authority capital lockbox fund](553j-metropolitan-transportation-authority-capital-lockbox.md)
 - [§ 553-K Traffic mobility review board](553k-traffic-mobility-review-board.md)
 - [§ 554 Transfer of officers and employees](554-transfer-of-officers-and-employees.md)
 - [§ 555 Selection of site](555-selection-of-site.md)
@@ -70,8 +70,8 @@ Section 550.   Short title.
         553-g. Fire training.
         553-h. Tokens.
         553-i. Marine Parkway Bridge; tokens.
-        553-j. Additional powers and provisions in relation to central
-                 business district tolling program.
+        553-j. Metropolitan transportation authority capital lockbox
+                 fund.
         553-k. Traffic mobility review board.
         554.   Transfer of officers and employees.
         555.   Selection of site.

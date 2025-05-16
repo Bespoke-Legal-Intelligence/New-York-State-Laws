@@ -40,6 +40,7 @@
 - [§ 837-W\*2 Blue alert system](837w-2-blue-alert-system.md)
 - [§ 837-X Cooperation with certain out-of-state investigations](837x-cooperation-with-certain-out-of-state-investigations.md)
 - [§ 837-X\*2 Cooperation with certain out-of-state investigations](837x-2-cooperation-with-certain-out-of-state-investigations.md)
+- [§ 837-Y New York state office of gun violence prevention](837y-new-york-state-office-of-gun-violence-prevention.md)
 - [§ 838 Identification of unknown dead and missing persons](838-identification-of-unknown-dead-and-missing-persons.md)
 - [§ 838-A Maintenance of sexual offense evidence kits](838a-maintenance-of-sexual-offense-evidence-kits.md)
 - [§ 838-B Victim's right to notice](838b-victims-right-to-notice.md)
@@ -61,7 +62,6 @@
 - [§ 845-E Commercial security tax credit program](845e-commercial-security-tax-credit-program.md)
 - [§ 846 Programs for the aging](846-programs-for-the-aging.md)
 - [§ 846\*2 Programs for the aging](846-2-programs-for-the-aging.md)
-- [§ 847 Public awareness of safe storage of firearms](847-public-awareness-of-safe-storage-of-firearms.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 35, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -119,6 +119,7 @@ Section 835.     Definitions.
         837-w*2. Blue alert system.
         837-x.   Cooperation with certain out-of-state investigations.
         837-x*2. Cooperation with certain out-of-state investigations.
+        837-y.   New York state office of gun violence prevention.
         838.     Identification of unknown dead and missing persons.
         838-a.   Maintenance of sexual offense evidence kits.
         838-b.   Victim's right to notice.

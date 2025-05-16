@@ -25,20 +25,21 @@ captive insurance company doing a captive insurance business, as defined
 in subsections (c) and (b), respectively, of section seven thousand two
 of the insurance law; provided, however, "insurance corporation" shall
 not include the metropolitan transportation authority, the power
-authority of New York or any statutory subsidiary thereof, or a public
-benefit corporation or not-for-profit corporation formed by a city with
-a population of one million or more pursuant to subsection (a) of
-section seven thousand five of the insurance law, each of which is
-expressly exempt from the payment of fees, taxes or assessments, whether
-state or local; and provided further "insurance corporation" does not
-include any combinable captive insurance company. The term "insurance
-corporation" shall also include an unauthorized insurer operating from
-an office within the state, pursuant to paragraph five of subsection (b)
-of section one thousand one hundred one and subsection (i) of section
-two thousand one hundred seventeen of the insurance law. The term
-"insurance corporation" also includes a health maintenance organization
-required to obtain a certificate of authority under article forty-four
-of the public health law.
+authority of New York or any statutory subsidiary thereof, the New York
+convention center operating corporation or any statutory subsidiary
+thereof, or a public benefit corporation or not-for-profit corporation
+formed by a city with a population of one million or more pursuant to
+subsection (a) of section seven thousand five of the insurance law, each
+of which is expressly exempt from the payment of fees, taxes or
+assessments, whether state or local; and provided further "insurance
+corporation" does not include any combinable captive insurance company.
+The term "insurance corporation" shall also include an unauthorized
+insurer operating from an office within the state, pursuant to paragraph
+five of subsection (b) of section one thousand one hundred one and
+subsection (i) of section two thousand one hundred seventeen of the
+insurance law. The term "insurance corporation" also includes a health
+maintenance organization required to obtain a certificate of authority
+under article forty-four of the public health law.
   (b) The term "domestic insurance corporation" means an insurance
 corporation incorporated or organized under the laws of this state.
 Provided, however, the savings banks life insurance fund and savings and

@@ -42,7 +42,7 @@ functional limitations and/or chronic illnesses that have the primary
 purpose of supporting the ability of the enrollee to live or work in the
 setting of their choice, which may include the individual's home, a
 worksite, or a provider-owned or controlled residential setting;
-  * NB Effective until December 31, 2025
+  * NB Effective until December 31, 2030
   * (c) "Health care services" means (i) the services and supplies as
 defined by the commissioner in consultation with the superintendent of
 financial services, and shall be consistent with and subject to the
@@ -68,7 +68,7 @@ who have functional limitations and/or chronic illnesses that have the
 primary purpose of supporting the ability of the enrollee to live or
 work in the setting of their choice, which may include the individual's
 home, a worksite, or a provider-owned or controlled residential setting;
-  * NB Effective January 1, 2026 until January 1, 2028
+  * NB Effective January 1, 2031 until January 1, 2028
   * (c) "Health care services" means (i) the services and supplies as
 defined by the commissioner in consultation with the superintendent of
 financial services, and shall be consistent with and subject to the

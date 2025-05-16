@@ -118,6 +118,7 @@ Section 651.     Returns and liabilities.
                    statements.
         659.     Report of federal changes, corrections or
                    disallowances.
+        659-a.   Reporting of federal partnership adjustments.
         660.     Election by shareholders of S corporations.
         661.     Change of election.
         662.     Computation of tax where taxpayer restores substantial

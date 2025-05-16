@@ -56,17 +56,21 @@ taxable income or alternative minimum taxable income within ninety days
 return under this article for such year) after the final determination
 of such change or correction or as required by the commissioner, and
 shall concede the accuracy of such determination or state wherein it is
-erroneous. Any taxpayer filing an amended return with such department
-shall also file within ninety days (or one hundred twenty days, in the
-case of a taxpayer making a combined return under this article for such
-year) thereafter an amended return with the commissioner which shall
-contain such information as the commissioner shall require. The
-allowance of a tentative carryback adjustment based upon a net operating
-loss carryback or net capital loss carryback pursuant to section
-sixty-four hundred eleven of the internal revenue code or upon an
-operations loss carryback pursuant to section eight hundred ten of the
-internal revenue code, shall be treated as a final determination for
-purposes of this subdivision.
+erroneous. Provided, however, if the taxpayer is a direct or indirect
+partner of a partnership required to report adjustments in accordance
+with section six hundred fifty-nine-a of this chapter, such taxpayer
+shall also report such adjustments in accordance with section six
+hundred fifty-nine-a of this chapter. Any taxpayer filing an amended
+return with such department shall also file within ninety days (or one
+hundred twenty days, in the case of a taxpayer making a combined return
+under this article for such year) thereafter an amended return with the
+commissioner which shall contain such information as the commissioner
+shall require. The allowance of a tentative carryback adjustment based
+upon a net operating loss carryback or net capital loss carryback
+pursuant to section sixty-four hundred eleven of the internal revenue
+code or upon an operations loss carryback pursuant to section eight
+hundred ten of the internal revenue code, shall be treated as a final
+determination for purposes of this subdivision.
   (2) If a taxpayer has paid taxes to another state pursuant to a
 statute similar to section one thousand one hundred twelve of the
 insurance law or any other statute or regulation of another state under

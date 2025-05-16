@@ -292,8 +292,9 @@
 - [§ 99-PP\*3 Animal shelter regulation fund](99pp-3-animal-shelter-regulation-fund.md)
 - [§ 99-QQ Hazard mitigation state revolving loan fund](99qq-hazard-mitigation-state-revolving-loan-fund.md)
 - [§ 99-QQ\*2 New York climate action fund](99qq-2-new-york-climate-action-fund.md)
-- [§ 99-RR Healthcare stability fund](99rr-healthcare-stability-fund.md)
-- [§ 99-RR\*2 Air quality improvement fund](99rr-2-air-quality-improvement-fund.md)
+- [§ 99-RR Air quality improvement fund](99rr-air-quality-improvement-fund.md)
+- [§ 99-SS Healthcare stability fund](99ss-healthcare-stability-fund.md)
+- [§ 99-SS\*1 Suicide prevention fund](99ss-1-suicide-prevention-fund.md)
 
 <details>
 <summary>Official heading of Article 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -647,8 +648,9 @@ Section 70.        Classification of funds.
         99-pp*3.   Animal shelter regulation fund.
         99-qq.     Hazard mitigation state revolving loan fund.
         99-qq*2.   New York climate action fund.
-        99-rr.     Healthcare stability fund.
-        99-rr*2.   Air quality improvement fund.
+        99-rr.     Air quality improvement fund.
+        99-ss.     Healthcare stability fund.
+        99-ss 1.   Suicide prevention fund.
 ```
 
 </details>

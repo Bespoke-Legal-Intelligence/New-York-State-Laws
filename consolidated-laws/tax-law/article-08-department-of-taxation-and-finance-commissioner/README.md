@@ -83,8 +83,7 @@ Section 170.     Department of taxation and finance.
         171-r.   Brownfield credit report.
         171-t.   Reciprocal offset agreements with the United States or
                    other states.
-        171-u.   Verification of income eligibility for basic STAR
-                   exemption.
+        171-u.   Verification of eligibility for STAR exemption.
         171-v.   Enforcement of delinquent tax liabilities through the
                    suspension of drivers' licenses.
         171-w.   State support for the local enforcement of past-due

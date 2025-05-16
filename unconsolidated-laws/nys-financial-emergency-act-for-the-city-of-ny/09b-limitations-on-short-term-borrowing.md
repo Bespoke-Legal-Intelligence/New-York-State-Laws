@@ -76,5 +76,5 @@ during which such budget notes were originally issued.
   6. The city shall issue no obligations which shall be inconsistent
 with the financial plan or with the limitations set forth in
 subdivisions one through five of this section.
-  * Terminates July 1, 2008 or ... see § 13
+  * Terminates July 1, 2035 or ... see § 13
 ```

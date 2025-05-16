@@ -652,15 +652,17 @@ paragraph thirty-six of subsection (b) of this section, the amount
 required to be recaptured pursuant to subsection (d) of section 179 of
 the internal revenue code with respect to property upon which such
 modification was based.
-  (38) An amount of up to ten thousand dollars if a taxpayer, while
-living, donates one or more of his or her human organs to another human
-being for human organ transplantation. For purposes of this paragraph,
-"human organ" means all or part of a liver, pancreas, kidney, intestine,
-lung, or bone marrow. A subtract modification allowed under this
-paragraph shall be claimed in the taxable year in which the human organ
-transplantation occurs. Provided, however, that this deduction shall not
-apply to any donation for which the taxpayer has received benefits under
-section forty-three hundred seventy-one of the public health law.
+  (38) For taxable years beginning before January first, two thousand
+twenty-five, an amount of up to ten thousand dollars if a taxpayer,
+while living, donates one or more of the taxpayer's human organs to
+another human being for human organ transplantation. For purposes of
+this paragraph, "human organ" means all or part of a liver, pancreas,
+kidney, intestine, lung, or bone marrow. A subtract modification allowed
+under this paragraph shall be claimed in the taxable year in which the
+human organ transplantation occurs. Provided, however, that this
+deduction shall not apply to any donation for which the taxpayer has
+received benefits under section forty-three hundred seventy-one of the
+public health law.
   (A) A taxpayer shall claim the subtract modification allowed under
 this paragraph only once and such subtract modification shall be claimed
 for only the following unreimbursed expenses which are incurred by the
@@ -1733,4 +1735,30 @@ expenses are those deductions as allowed by paragraph (g) of sections
 one hundred thirty-two and section two hundred seventeen, respectfully,
 of the internal revenue code immediately prior to the enactment of
 Public Law 115-97.
+  (y) Depreciation and interest adjustments for covered properties owned
+by an institutional real estate investor. (1) Notwithstanding any other
+provision of this section, in the case of a taxpayer that is a partner,
+member or shareholder of an entity that is an institutional real estate
+investor as defined in paragraph (c-4) of subdivision nine of section
+two hundred eight of this chapter, New York adjusted gross income shall
+be computed with adjustments for depreciation and interest related to
+covered properties as set forth in this subsection.
+  (2) Depreciation deductions. With respect to covered properties, no
+deduction for depreciation allowed under the internal revenue code or
+this section shall be allowed.
+  (3) Federal interest deductions. With respect to covered properties,
+the interest deduction for federal income tax purposes allowed under
+section one hundred sixty-three of the internal revenue code shall not
+be allowed and must be added back in the computation of New York
+adjusted gross income, except with respect to interest paid or accrued
+in the taxable year when such covered property is sold to an individual
+for use as the principal residence of such individual or sold to a
+nonprofit organization that has as its principal purpose the creation,
+development, or preservation of affordable housing. For purposes of this
+paragraph, any amount of interest that would have been allowed under
+section one hundred sixty-three of the internal revenue code in
+connection with a covered property but for an election to treat such
+interest as chargeable to capital account shall be treated as an amount
+allowed under section one hundred sixty-three of the internal revenue
+code.
 ```

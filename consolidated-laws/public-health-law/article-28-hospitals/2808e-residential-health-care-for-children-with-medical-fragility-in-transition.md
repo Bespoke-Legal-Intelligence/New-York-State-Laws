@@ -126,6 +126,6 @@ psychological and counseling support services.
   7. The commissioner shall have authority to waive any rule or
 regulation to effectuate the demonstration program authorized pursuant
 to subdivision one of this section.
-  * NB Repealed August 17, 2025
+  * NB Repealed August 17, 2027
   * NB There are 2 § 2808-e's
 ```

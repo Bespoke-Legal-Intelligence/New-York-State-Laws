@@ -4,8 +4,8 @@
 [Judiciary Law](../README.md) › [Article 16 — Selection of Jurors](README.md)
 
 ```text
-  § 519. Right of juror to be absent from employment. Any person who is
-summoned to serve as a juror under the provisions of this article and
+  * § 519. Right of juror to be absent from employment. Any person who
+is summoned to serve as a juror under the provisions of this article and
 who notifies his or her employer to that effect prior to the
 commencement of a term of service shall not, on account of absence from
 employment by reason of such jury service, be subject to discharge or
@@ -17,4 +17,19 @@ days of jury service. Withholding of wages in accordance with this
 section shall not be deemed a penalty. Violation of this section shall
 constitute a criminal contempt of court punishable pursuant to section
 seven hundred fifty of this chapter.
+  * NB Effective until June 8, 2025
+  * § 519. Right of juror to be absent from employment. Any person who
+is summoned to serve as a juror under the provisions of this article and
+who notifies their employer to that effect prior to the commencement of
+a term of service shall not, on account of absence from employment by
+reason of such jury service, be subject to discharge or penalty. An
+employer may, however, withhold wages of any such employee serving as a
+juror during the period of such service; provided that an employer who
+employs more than ten employees shall not withhold the first seventy-two
+dollars of such juror's daily wages during the first three days of jury
+service. Withholding of wages in accordance with this section shall not
+be deemed a penalty. Violation of this section shall constitute a
+criminal contempt of court punishable pursuant to section seven hundred
+fifty of this chapter.
+  * NB Effective June 8, 2025
 ```

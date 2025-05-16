@@ -619,6 +619,29 @@ alternative care options intended to optimize patient care developed by
 independent organizations or medical professional societies utilizing a
 transparent methodology and reporting structure and with a conflict of
 interest policy.
+  * (nn) (i) Medical assistance shall include the coverage of the
+following services for individuals when a medical treatment may directly
+or indirectly cause iatrogenic infertility, which is an impairment of
+fertility resulting from surgery, radiation, chemotherapy, sickle cell
+treatment, or other medical treatment affecting reproductive organs or
+processes:
+  (1) standard fertility preservation services to prevent or treat
+infertility, which shall include medically necessary collection,
+freezing, preservation and storage of oocytes or sperm, and such other
+standard services that are not experimental or investigational; together
+with prescription drugs, which shall be limited to federal food and drug
+administration approved medications and subject to medical assistance
+program coverage requirements. In vitro fertilization (IVF) shall not be
+covered as a fertility preservation service; and
+  (2) coverage of the costs of storage of oocytes or sperm shall be
+subject to continued medical assistance program eligibility for
+individuals when a medical treatment may directly or indirectly cause
+iatrogenic infertility, and shall terminate upon any discontinuance of
+medical assistance eligibility.
+  (ii) In the event that federal financial participation for such
+fertility preservation services is not available, medical assistance
+shall not include coverage of these services.
+  * NB Effective October 1, 2025
   3. Any inconsistent provisions of this section notwithstanding,
 medical assistance shall include:
   (a) early and periodic screening and diagnosis of eligible persons
@@ -836,5 +859,5 @@ to conduct enrollment broker and conflict-free evaluation services for
 the Medicaid program, if such contract or contract amendment is for the
 purpose of procuring such assessment services from an independent
 assessor. Contracts entered into, amended, or extended pursuant to this
-subdivision shall not remain in force beyond September 30, 2025.
+subdivision shall not remain in force beyond September 30, 2028.
 ```

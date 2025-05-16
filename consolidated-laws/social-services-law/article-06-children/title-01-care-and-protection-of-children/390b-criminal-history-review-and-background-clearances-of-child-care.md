@@ -315,4 +315,11 @@ shall require that such child day care centers meet the requirements of
 any federal laws and regulations pertaining to the child care
 development and block grant and the related federally approved plans of
 the state of New York.
+  * 12. A child care support center certified pursuant to section three
+hundred ninety-n of this title shall be authorized to request clearances
+for substitute caregivers in accordance with this section. Substitute
+caregivers shall be considered "prospective employees" of a child day
+care program under subparagraph (iii) of paragraph (a) of subdivision
+two of this section.
+  * NB Effective May 9, 2026
 ```

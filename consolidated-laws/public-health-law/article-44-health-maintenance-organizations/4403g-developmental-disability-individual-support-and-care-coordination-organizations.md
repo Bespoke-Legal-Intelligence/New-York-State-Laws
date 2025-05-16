@@ -406,5 +406,5 @@ medical assistance submitted pursuant to section three hundred
 sixty-three-a of the social services law, and/or submit one or more
 applications for waivers of the federal social security act, in order to
 ensure such federal financial participation.
-  * NB Repealed December 31, 2025
+  * NB Repealed December 31, 2027
 ```

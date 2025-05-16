@@ -331,7 +331,7 @@ enforcement action pursuant to this section taken against an operator of
 an adult home or enriched housing program which has been licensed by the
 department of health as a limited home care services agency pursuant to
 section thirty-six hundred five of the public health law.
-  * NB Expires June 30, 2025
+  * NB Expires June 30, 2027
   * 14. If the department receives notice from the department of health
 that an action has been taken against an operator of a limited home care
 services agency, pursuant to section thirty-six hundred five-a of the
@@ -339,7 +339,7 @@ public health law, the department shall review the delivery of services
 provided by the certified operator of an adult home or enriched housing
 program to determine whether such operator is meeting all applicable
 regulations and standards.
-  * NB Expires June 30, 2025
+  * NB Expires June 30, 2027
   15. The department of health shall maintain, on its website, a list of
 all adult homes, enriched housing programs, residences for adults and
 assisted living programs that have received written notice of:

@@ -42,7 +42,7 @@
 - [§ 2803-M Discharge of hospital patients to adult homes](2803m-discharge-of-hospital-patients-to-adult-homes.md)
 - [§ 2803-N Hospital care for maternity patients](2803n-hospital-care-for-maternity-patients.md)
 - [§ 2803-O Hospital care for mastectomy, lumpectomy, and lymph node dissection patients](2803o-hospital-care-for-mastectomy-lumpectomy-and-lymph-node-dissection-patients.md)
-- [§ 2803-O-1 Required protocols for fetal demise](2803o-1-required-protocols-for-fetal-demise.md)
+- [§ 2803-O-1 Required protocols for fetal demise](2803o-1-required-protocols-for-fetal-demise.md) *(repealed)*
 - [§ 2803-P Disclosure of information concerning family violence](2803p-disclosure-of-information-concerning-family-violence.md)
 - [§ 2803-Q Family councils in residential health care facilities](2803q-family-councils-in-residential-health-care-facilities.md)
 - [§ 2803-R Dissemination of information about the abandoned infant protection act](2803r-dissemination-of-information-about-the-abandoned-infant-protection-act.md)
@@ -218,7 +218,6 @@ Section 2800.      Declaration of policy and statement of purpose.
         2803-n.    Hospital care for maternity patients.
         2803-o.    Hospital care for mastectomy, lumpectomy, and lymph
                      node dissection patients.
-        2803-o-1.  Required protocols for fetal demise.
         2803-p.    Disclosure of information concerning family violence.
         2803-q.    Family councils in residential health care
                      facilities.

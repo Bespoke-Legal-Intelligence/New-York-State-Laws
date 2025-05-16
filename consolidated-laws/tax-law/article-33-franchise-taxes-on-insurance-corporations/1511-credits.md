@@ -456,7 +456,7 @@ municipal law to the empire zone enterprise which is the basis of the
 credit.
   (g-1) Hire a vet credit.  (1) Allowance of credit. For taxable years
 beginning on or after January first, two thousand fifteen and before
-January first, two thousand twenty-six, a taxpayer shall be allowed a
+January first, two thousand twenty-nine, a taxpayer shall be allowed a
 credit, to be computed as provided in this subdivision, against the tax
 imposed by this article, for hiring and employing, for not less than
 twelve continuous and uninterrupted months (hereinafter referred to as
@@ -485,7 +485,7 @@ received a discharge other than bad conduct or dishonorable from such
 service;
   (B) who commences employment by the qualified taxpayer on or after
 January first, two thousand fourteen, and before January first, two
-thousand twenty-five; and
+thousand twenty-eight; and
   (C) who certifies by signed affidavit, under penalty of perjury, that
 he or she has not been employed for thirty-five or more hours during any
 week in the one hundred eighty day period immediately prior to his or
@@ -1469,31 +1469,34 @@ and may be deducted from the taxpayer's tax for such year or years.
   * NB There are 3 sb§ (y)'s
   * (y) Credit for rehabilitation of historic properties. (1) (A) For
 taxable years beginning on or after January first, two thousand ten and
-before January first, two thousand thirty, a taxpayer shall be allowed a
+before January first, two thousand thirty, a taxpayer, or a transferee
+of such a taxpayer as described in paragraph seven of this subdivision,
+shall be allowed a credit as hereinafter provided, against the tax
+imposed by this article, in an amount equal to one hundred percent of
+the amount of credit allowed the taxpayer with respect to a certified
+historic structure, and one hundred fifty percent of the amount of
+credit allowed the taxpayer with respect to a certified historic
+structure that is a small project, under internal revenue code section
+47(c)(3), determined without regard to ratably allocating the credit
+over a five year period as required by subsection (a) of such section
+47, with respect to a certified historic structure located within the
+state. Provided, however, the credit shall not exceed five million
+dollars. For taxable years beginning on or after January first, two
+thousand thirty, a taxpayer, or a transferee of such a taxpayer as
+described in paragraph seven of this subdivision, shall be allowed a
 credit as hereinafter provided, against the tax imposed by this article,
-in an amount equal to one hundred percent of the amount of credit
-allowed the taxpayer with respect to a certified historic structure, and
-one hundred fifty percent of the amount of credit allowed the taxpayer
-with respect to a certified historic structure that is a small project,
-under internal revenue code section 47(c)(3), determined without regard
-to ratably allocating the credit over a five year period as required by
-subsection (a) of such section 47, with respect to a certified historic
-structure located within the state. Provided, however, the credit shall
-not exceed five million dollars. For taxable years beginning on or after
-January first, two thousand thirty, a taxpayer shall be allowed a credit
-as hereinafter provided, against the tax imposed by this article, in an
-amount equal to thirty percent of the amount of credit allowed the
+in an amount equal to thirty percent of the amount of credit allowed the
 taxpayer with respect to a certified historic structure under internal
 revenue code section 47(c)(3), determined without regard to ratably
 allocating the credit over a five year period as required by subsection
 (a) of such section 47 with respect to a certified historic structure
-located within the state.  Provided, however, the credit shall not
-exceed one hundred thousand dollars.
-  (B) If the taxpayer is a partner in a partnership, then the cap
-imposed in subparagraph (A) of this paragraph shall be applied at the
-entity level, so that the aggregate credit allowed to all the partners
-of such partnership in the taxable year does not exceed the credit cap
-that is applicable in that taxable year.
+located within the state. Provided, however, the credit shall not exceed
+one hundred thousand dollars.
+  (B) If the taxpayer or transferee is a partner in a partnership, then
+the cap imposed in subparagraph (A) of this paragraph shall be applied
+at the entity level, so that the aggregate credit allowed to all the
+partners of such partnership in the taxable year does not exceed the
+credit cap that is applicable in that taxable year.
   (2) Tax credits allowed pursuant to this subsection shall be allowed
 in the taxable year that the qualified rehabilitation is placed in
 service under section 167 of the federal internal revenue code.
@@ -1503,13 +1506,13 @@ also the subject of the credit allowed by this subdivision and that
 credit pursuant to such section 47 is recaptured pursuant to subsection
 (a) of section 50 of the internal revenue code, a portion of the credit
 allowed under this subdivision in the taxable year the credit was
-claimed must be added back in the same taxable year and in the same
-proportion as the federal recapture.
+claimed must be added back by the taxpayer or transferee in the same
+taxable year and in the same proportion as the federal recapture.
   (4) The credit allowed under this subdivision for any taxable year
 shall not reduce the tax due for such year to less than the minimum
 fixed by paragraph four of subdivision (a) of section fifteen hundred
 two or section fifteen hundred two-a of this article, whichever is
-applicable. However, if the amount of credits allowed under this
+applicable.  However, if the amount of credits allowed under this
 subdivision for any taxable year reduces the tax to such amount, any
 amount of credit thus not deductible in such taxable year shall be
 treated as an overpayment of tax to be credited or refunded in
@@ -1517,23 +1520,87 @@ accordance with the provisions of section one thousand eighty-six of
 this chapter. Provided, however, the provisions of subsection (c) of
 section one thousand eighty-eight of this chapter notwithstanding, no
 interest shall be paid thereon.
-  (5) Except in the case of a qualified rehabilitation project
-undertaken within a state park, state historic site, or other land owned
-by the state, that is under the jurisdiction of the office of parks,
-recreation and historic preservation, to be eligible for the credit
-allowable under this subdivision, the rehabilitation project shall be in
-whole or in part located within a census tract which is identified as
-being at or below one hundred percent of the state median family income
-as calculated as of April first of each year using the most recent five
-year estimate from the American community survey published by the United
-States Census bureau. If there is a change in the most recent five year
-estimate, a census tract that qualified for eligibility under this
-program before information about the change was released will remain
-eligible for a credit under this subdivision for an additional two
-calendar years.
+  (5) To be eligible for the credit allowable under this subdivision,
+the rehabilitation project shall be in whole or in part located within a
+census tract which is identified as being at or below one hundred
+percent of the state median family income as calculated as of April
+first of each year using the most recent five year estimate from the
+American community survey published by the United States Census bureau.
+If there is a change in the most recent five year estimate, a census
+tract that qualified for eligibility under this program before
+information about the change was released will remain eligible for a
+credit under this subdivision for an additional two calendar years. The
+eligibility restrictions set forth in this paragraph shall not be
+applicable if:
+  (A) a qualified rehabilitation project is undertaken within a state
+park, state historic site, or other land owned by the state, that is
+under the jurisdiction of the office of parks, recreation and historic
+preservation; or
+  (B) a qualified rehabilitation project is undertaken for the provision
+of affordable housing and the taxpayer has entered into a regulatory
+agreement with any state or federal agency or authority, or any other
+government entity that is authorized to engage in the financing,
+construction or oversight of affordable housing within such entity's
+jurisdiction, and where such regulatory agreement sets forth
+affordability requirements applicable for a period of not less than
+thirty years and that is binding on all successors of the taxpayer.
   (6) For purposes of this subdivision "small project" means qualified
 rehabilitation expenditures totaling two million five hundred thousand
 dollars or less.
+  (7)(A) A taxpayer allowed a credit pursuant to this subdivision may
+transfer the credit, in whole or in part, to another person or entity,
+who shall be referred to as the transferee, without regard to how any
+tax credit authorized pursuant to section forty-seven of the internal
+revenue code with respect to a qualified rehabilitation project may be
+allocated and notwithstanding that such other person or entity owns no
+interest in the qualified rehabilitation project or in an entity with an
+ownership interest in the qualified rehabilitation project. A transferee
+may not transfer any credit, or portion thereof, acquired by transfer.
+  (B) A taxpayer seeking to transfer a credit allowed pursuant to this
+subdivision must enter into a transfer contract with the transferee. The
+transfer contract must specify:
+  (i) the building identification numbers for all buildings in the
+project;
+  (ii) the date each building was placed into service;
+  (iii) the schedule of years for which the transfer credit may be
+claimed and the amount of credit previously claimed;
+  (iv) the amount of consideration received by the taxpayer for the
+transfer credit; and
+  (v) the amount of credit being transferred.
+  (C) No transfer shall be effective unless the taxpayer allowed a
+credit pursuant to this subdivision and seeking to transfer the credit
+files a transfer application with the commissioner of parks, recreation
+and historic preservation prior to the transfer and such transfer
+application is approved. The transfer application shall include the name
+and federal identification numbers of the taxpayer and each proposed
+transferee, the amount of credit proposed to be transferred to each
+proposed transferee, a copy of the transfer contract, and such other
+information as the commissioner or the commissioner of parks, recreation
+and historic preservation may require. The commissioner of parks,
+recreation and historic preservation shall approve or deny each transfer
+application and, if an application is denied, shall issue a written
+determination to the taxpayer. If the transfer is approved, the
+commissioner of parks, recreation and historic preservation shall issue
+a transfer approval certificate that provides the name of the transferor
+and all transferees, the amount of credit being transferred and such
+other information as the commissioner of parks, recreation and historic
+preservation and the commissioner deem necessary. A copy of the transfer
+approval certificate must be attached to each transferee's tax return.
+The commissioner of parks, recreation and historic preservation, in
+consultation with the commissioner, may establish such other procedures
+and standards deemed necessary for the transferability of credits
+allowed under this subdivision.
+  (D) The commissioner of parks, recreation and historic preservation
+shall forward copies of all transfer applications and attachments
+thereto and approval certificates to the commissioner within thirty days
+after the transfer is approved.
+  (E) A taxpayer allowed a credit pursuant to section forty-seven of the
+internal revenue code with respect to a qualified rehabilitation that is
+also the subject of the credit allowed by this subdivision shall remain
+solely liable for all obligations and liabilities imposed on the
+taxpayer with respect to the credit allowed by this subdivision, none of
+which shall apply to a party to whom the credit has been subsequently
+transferred.
   * NB There are 3 sb§ (y)'s
   (z) Temporary deferral refundable payout credit. (1) Allowance of
 credit. A taxpayer shall be allowed a credit, to be computed as provided

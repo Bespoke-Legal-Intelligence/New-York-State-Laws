@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | RPP |
 | Type | Consolidated law, chapter 50 |
-| Sections | 447 |
-| Last changed | 14 Mar 2025 |
+| Sections | 451 |
+| Last changed | 16 May 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Real Property |
 
@@ -29,10 +29,11 @@ Passed, three-fifths being present.
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (40 lines)](chapter-text.md)
+[Full chapter text (43 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [16 May 2025](../../changes/2025/2025-05-16.md): 2 amended, 4 added
 - [14 Mar 2025](../../changes/2025/2025-03-14.md): 2 amended
 - [7 Mar 2025](../../changes/2025/2025-03-07.md): 7 amended
 - [21 Feb 2025](../../changes/2025/2025-02-21.md): 2 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [29 Nov 2024](../../changes/2024/2024-11-29.md): 4 amended, 1 added
 - [4 Oct 2024](../../changes/2024/2024-10-04.md): 1 amended, 1 added
 - [20 Sep 2024](../../changes/2024/2024-09-20.md): 1 amended
-- [26 Jul 2024](../../changes/2024/2024-07-26.md): 1 amended
 
 ## Contents
 
@@ -69,4 +69,5 @@ Assembly, do enact as follows:
 - [Article 13 — Cemetery Lands](article-13-cemetery-lands/)
 - [Article 14 — Property Condition Disclosure In the Sale of Residential Real Property](article-14-property-condition-disclosure-in-the-sale/)
 - [Article 15 — Prohibition and Disclosure of Private Transfer Fee Obligations](article-15-prohibition-and-disclosure-of-private-transfer/)
+- [Article 16 — Ninety-day Waiting Period For Sale of Single-family and Two-family Residences to Certain Purchasers](article-16-ninety-day-waiting-period-for-sale-of-single/)
 - [Article 20 — Laws Repealed; Construction; When to Take Effect](article-20-laws-repealed-construction-when-to-take-effect/)

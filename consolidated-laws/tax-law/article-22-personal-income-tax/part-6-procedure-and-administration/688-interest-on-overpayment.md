@@ -105,7 +105,8 @@ chapter, such portion of such an overpayment shall cease to bear
 interest on the date of such certification.
   (g) Cross-reference.--For provision with respect to interest after
 failure to file notice of federal change under section six hundred
-fifty-nine, see subsection (c) of section six hundred eighty-seven.
+fifty-nine or six hundred fifty-nine-a, see subsection (c) of section
+six hundred eighty-seven.
   (h) Notwithstanding any other provisions in this section, for taxable
 years beginning on or after January first, two thousand eight and before
 January first, two thousand nine, interest will be allowed on an

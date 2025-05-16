@@ -4,7 +4,7 @@
 [Education Law](../../../README.md) › [Title 4 — Teachers and Pupils](../../README.md) › [Article 65 — Compulsory Education and School Census](../README.md) › [Part 1 — Compulsory Education](README.md)
 
 ```text
-  § 3228. Newspaper carrier. 1. Definition: A "newspaper carrier" is a
+  * § 3228. Newspaper carrier. 1. Definition: A "newspaper carrier" is a
 minor between the ages of eleven and eighteen years of age who engages
 in the occupation of delivering, or selling and delivering, newspapers,
 shopping papers or periodicals to customers at their homes or places of
@@ -55,4 +55,5 @@ section except with respect to the issuance and revocation of permits.
 knowingly deliver or cause to be delivered newspapers, shopping papers
 or periodicals to a newspaper carrier who is not in compliance with the
 provisions of this section.
+  * NB Repealed May 9, 2027
 ```

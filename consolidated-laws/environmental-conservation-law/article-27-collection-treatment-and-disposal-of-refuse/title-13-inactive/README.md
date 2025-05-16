@@ -19,6 +19,10 @@
 - [§ 27-1319 State superfund management board](27-1319-state-superfund-management-board.md)
 - [§ 27-1321 Protection against liability](27-1321-protection-against-liability.md)
 - [§ 27-1323 Liability exemptions and defenses](27-1323-liability-exemptions-and-defenses.md)
+- [§ 27-1325 Financial responsibility provisions](27-1325-financial-responsibility-provisions.md)
+- [§ 27-1327 Recovery of response costs and natural resource damages](27-1327-recovery-of-response-costs-and-natural.md)
+- [§ 27-1329 Abatement actions](27-1329-abatement-actions.md)
+- [§ 27-1331 Community participation](27-1331-community-participation.md)
 
 <details>
 <summary>Official heading of Title 13, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -40,6 +44,11 @@ Section 27-1301. Definitions.
         27-1319. State superfund management board.
         27-1321. Protection against liability.
         27-1323. Liability exemptions and defenses.
+        27-1325. Financial responsibility provisions.
+        27-1327. Recovery   of   response  costs  and  natural  resource
+                   damages.
+        27-1329. Abatement actions.
+        27-1331. Community participation.
 ```
 
 </details>

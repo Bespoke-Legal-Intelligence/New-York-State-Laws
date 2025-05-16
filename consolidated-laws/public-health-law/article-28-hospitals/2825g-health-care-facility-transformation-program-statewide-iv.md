@@ -60,8 +60,8 @@ applications submitted in response to the request for application number
 twenty-one pursuant to section twenty-eight hundred twenty-five-f of
 this article. Authorized amounts to be awarded pursuant to applications
 submitted in response to the request for application number 18406 shall
-be awarded no later than December thirty-first, two thousand twenty-two.
-Provided, however, that a minimum of:
+be awarded no later than February twenty-eighth, two thousand
+twenty-three. Provided, however, that a minimum of:
   (a) twenty-five million dollars of total awarded funds shall be made
 to community-based health care providers, which for purposes of this
 section shall be defined as diagnostic and treatment centers licensed or

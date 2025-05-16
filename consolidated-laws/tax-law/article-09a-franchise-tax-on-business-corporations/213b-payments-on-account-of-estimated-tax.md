@@ -8,7 +8,7 @@
 installments for certain taxpayers.--In privilege periods of twelve
 months ending at any time during the calendar year nineteen hundred
 seventy and thereafter, every taxpayer subject to the tax imposed by
-section two hundred nine of this chapter must pay with the report
+section two hundred nine of this article must pay with the report
 required to be filed for the preceding privilege period, or with an
 application for extension of the time for filing the report, for taxable
 years beginning before January first, two thousand sixteen, and must pay
@@ -16,31 +16,39 @@ on or before the fifteenth day of the third month of such privilege
 periods, for taxable years beginning on or after January first, two
 thousand sixteen, an amount equal to (i) twenty-five percent of the
 second preceding year's tax if the second preceding year's tax exceeded
-one thousand dollars but was equal to or less than one hundred thousand
-dollars, or (ii) forty percent of the second preceding year's tax if the
-second preceding year's tax exceeded one hundred thousand dollars. If
-the second preceding year's tax under section two hundred nine of this
-chapter exceeded one thousand dollars and the taxpayer is subject to the
-tax surcharge imposed by section two hundred nine-B of this chapter, the
-taxpayer must also pay with the tax surcharge report required to be
-filed for the second preceding privilege period, or with an application
-for extension of the time for filing the report, for taxable years
-beginning before January first, two thousand sixteen, and must pay on or
-before the fifteenth day of the third month of such privilege periods,
-for taxable years beginning on or after January first, two thousand
-sixteen, an amount equal to (i) twenty-five percent of the tax surcharge
-imposed for the second preceding year if the second preceding year's tax
-was equal to or less than one hundred thousand dollars, or (ii) forty
+one thousand dollars for taxable years beginning before January first,
+two thousand twenty-six, or five thousand dollars for taxable years
+beginning on or after January first, two thousand twenty-six, but was
+equal to or less than one hundred thousand dollars, or (ii) forty
+percent of the second preceding year's tax if the second preceding
+year's tax exceeded one hundred thousand dollars. If the second
+preceding year's tax under section two hundred nine of this article
+exceeded one thousand dollars for taxable years beginning before January
+first, two thousand twenty-six, or five thousand dollars for taxable
+years beginning on or after January first, two thousand twenty-six, and
+the taxpayer is subject to the tax surcharge imposed by section two
+hundred nine-B of this article, the taxpayer must also pay with the tax
+surcharge report required to be filed for the second preceding privilege
+period, or with an application for extension of the time for filing the
+report, for taxable years beginning before January first, two thousand
+sixteen, and must pay on or before the fifteenth day of the third month
+of such privilege periods, for taxable years beginning on or after
+January first, two thousand sixteen, an amount equal to (i) twenty-five
 percent of the tax surcharge imposed for the second preceding year if
-the second preceding year's tax exceeded one hundred thousand dollars.
-Provided, however, that every taxpayer that is a New York S corporation
-must pay with the report required to be filed for the preceding
-privilege period, or with an application for extension of the time for
-filing the report, an amount equal to (i) twenty-five percent of the
-preceding year's tax if the preceding year's tax exceeded one thousand
-dollars but was equal to or less than one hundred thousand dollars, or
-(ii) forty percent of the preceding year's tax if the preceding year's
-tax exceeded one hundred thousand dollars.
+the second preceding year's tax was equal to or less than one hundred
+thousand dollars, or (ii) forty percent of the tax surcharge imposed for
+the second preceding year if the second preceding year's tax exceeded
+one hundred thousand dollars. Provided, however, that every taxpayer
+that is a New York S corporation must pay with the report required to be
+filed for the preceding privilege period, or with an application for
+extension of the time for filing the report, an amount equal to (i)
+twenty-five percent of the preceding year's tax if the preceding year's
+tax exceeded one thousand dollars for taxable years beginning before
+January first, two thousand twenty-six, or five thousand dollars for
+taxable years beginning on or after January first, two thousand
+twenty-six, but was equal to or less than one hundred thousand dollars,
+or (ii) forty percent of the preceding year's tax if the preceding
+year's tax exceeded one hundred thousand dollars.
   (b) Other installments.--In privilege periods of twelve months ending
 at any time during the calendar year nineteen hundred seventy and
 thereafter, the estimated tax or estimated tax surcharge, with respect

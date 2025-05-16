@@ -1078,7 +1078,7 @@ symptoms of pending or increased risk of sudden cardiac arrest. Such
 information shall include, but not be limited to, the definition of
 sudden cardiac arrest, signs and symptoms of sudden cardiac arrest. Such
 information shall be posted on the department's website.
-  32. (a) On or before July first, two thousand twenty-five, the
+  * 32. (a) On or before July first, two thousand twenty-five, the
 commissioner shall develop and implement a public awareness campaign to
 educate the public on the safe storage of firearms, rifles and shotguns
 and child access and prevention. The public awareness campaign shall
@@ -1102,4 +1102,5 @@ thereafter, the department shall update, as necessary, the educational
 materials developed pursuant to paragraph (a) of this subdivision and
 make available and disseminate the updated materials pursuant to
 paragraph (b) of this subdivision.
+  * NB Repealed June 8, 2025
 ```

@@ -13,6 +13,9 @@ or to the medical examiner.
   2. When notified of any death occurring without medical attendance,
 the coroner or medical examiner shall immediately investigate as
 provided by law and shall certify as provided in subdivision three.
+Provided, however, no coroner or medical examiner shall have the
+authority to investigate a pregnancy loss as provided in section
+forty-one hundred sixty-one of this article.
   3. The coroner or medical examiner whose duty it is to investigate the
 death and to execute the certificate of death, shall state in such
 certificate the name of the disease causing death, or if from external
@@ -23,8 +26,11 @@ required by the commissioner in order to classify the death.
 county of Erie, it shall be the duty of the undertaker or other person
 to whose knowledge the death may come, to notify the medical director of
 such death, and when so notified the medical director shall immediately
-investigate and certify as to the cause of death and shall, if he has
-reason to believe that the death may have been due to an unlawful act or
-neglect, cause a proper investigation and certification in accordance
-with the provisions of this section.
+investigate and certify as to the cause of death and shall, if such
+medical director has reason to believe that the death may have been due
+to an unlawful act or neglect, cause a proper investigation and
+certification in accordance with the provisions of this section.
+Provided, however, the medical director shall not have the authority to
+investigate a pregnancy loss as provided in section forty-one hundred
+sixty-one of this article.
 ```

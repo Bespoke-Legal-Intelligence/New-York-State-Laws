@@ -3120,7 +3120,7 @@ determined in accordance with paragraphs (a), (b) and (c) of this
 subdivision for such prior year and capital related inpatient expenses
 for such prior year calculated based on the hospital's average capital
 related inpatient expenses computed on a per diem basis.
-  * NB Effective through March 31, 2025
+  * NB Effective through March 31, 2029
   * (f) Notwithstanding any inconsistent provision of this section,
 commencing April first, nineteen hundred ninety-five for purposes of
 determining the capital related inpatient expenses component of rates of
@@ -3131,7 +3131,7 @@ shall be decreased by the commissioner to reflect the percentage amount
 by which the budget for the base year two years prior to the rate year
 for capital related inpatient expenses of the hospital exceeded actual
 expenses.
-  * NB Effective through March 31, 2025
+  * NB Effective through March 31, 2029
   * (g) Notwithstanding any inconsistent provision of this article,
 commencing April first, nineteen hundred ninety-five for rates of
 payment for patients eligible for payments made by state governmental
@@ -3143,7 +3143,7 @@ seven of this article shall be adjusted by the commissioner to exclude
 such expenses related to:
   (i) forty-four percent of the costs of major movable equipment; and
   (ii) staff housing.
-  * NB Effective through March 31, 2025
+  * NB Effective through March 31, 2029
   9. Adjustments. For annual rate periods beginning on or after January
 first, nineteen hundred eighty-eight:
   (a) The commissioner shall on his own initiative, or on the basis of a
@@ -7842,20 +7842,19 @@ or any other contrary provision of law and subject to the availability
 of federal financial participation, for each state fiscal year from July
 first, two thousand ten through December thirty-first, two thousand
 twenty-four; and for the calendar year January first, two thousand
-twenty-five through December thirty-first, two thousand twenty-five; and
-for each calendar year thereafter, the commissioner shall make
-additional inpatient hospital payments up to the aggregate upper payment
-limit for inpatient hospital services after all other medical assistance
-payments, but not to exceed two hundred thirty-five million five hundred
-thousand dollars for the period July first, two thousand ten through
-March thirty-first, two thousand eleven, three hundred fourteen million
-dollars for each state fiscal year beginning April first, two thousand
-eleven, through March thirty-first, two thousand thirteen, and no less
-than three hundred thirty-nine million dollars for each state fiscal
-year until December thirty-first, two thousand twenty-four; and then
-from calendar year January first, two thousand twenty-five through
-December thirty-first, two thousand twenty-five; and for each calendar
-year thereafter, to general hospitals, other than major public general
+twenty-five through December thirty-first, two thousand twenty-five, the
+commissioner shall make additional inpatient hospital payments up to the
+aggregate upper payment limit for inpatient hospital services after all
+other medical assistance payments, but not to exceed two hundred
+thirty-five million five hundred thousand dollars for the period July
+first, two thousand ten through March thirty-first, two thousand eleven,
+three hundred fourteen million dollars for each state fiscal year
+beginning April first, two thousand eleven, through March thirty-first,
+two thousand thirteen, and no less than three hundred thirty-nine
+million dollars for each state fiscal year until December thirty-first,
+two thousand twenty-four; and then from calendar year January first, two
+thousand twenty-five through December thirty-first, two thousand
+twenty-five, to general hospitals, other than major public general
 hospitals, providing emergency room services and including safety net
 hospitals, which shall, for the purpose of this paragraph, be defined as
 having either: a Medicaid share of total inpatient hospital discharges

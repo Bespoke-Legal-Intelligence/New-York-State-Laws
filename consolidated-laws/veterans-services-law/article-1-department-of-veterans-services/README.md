@@ -33,7 +33,7 @@
 - [§ 23 Persons who may receive annuity](23-persons-who-may-receive-annuity.md)
 - [§ 24 New York state veterans' cemeteries](24-new-york-state-veterans-cemeteries.md)
 - [§ 25 Veterans health screening](25-veterans-health-screening.md)
-- [§ 26 Payment to parents of veterans](26-payment-to-parents-of-veterans.md)
+- [§ 26 Payment to immediate family members of veterans](26-payment-to-immediate-family-members-of-veterans.md)
 - [§ 27 Cremated remains of a veteran](27-cremated-remains-of-a-veteran.md)
 - [§ 28 New York state silver rose veterans service certificate](28-new-york-state-silver-rose-veterans-service-certificate.md)
 - [§ 29 Intake forms for admission and residency](29-intake-forms-for-admission-and-residency.md)

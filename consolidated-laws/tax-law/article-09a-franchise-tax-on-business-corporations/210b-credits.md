@@ -1367,22 +1367,30 @@ services to such individual; and
 claiming the credit for at least one hundred eighty days or four hundred
 hours.
   (c) Amount of credit. Except as provided in paragraph (d) of this
-subdivision, the amount of credit shall be thirty-five percent of the
-first six thousand dollars in qualified first-year wages earned by each
-qualified employee. "Qualified first-year wages" means wages paid or
-incurred by the taxpayer during the taxable year to qualified employees
-which are attributable, with respect to any such employee, to services
-rendered during the one-year period beginning with the day the employee
-begins work for the taxpayer.
+subdivision, the amount of credit for taxable years beginning before
+January first, two thousand twenty-five shall be thirty-five percent of
+the first six thousand dollars in qualified first-year wages earned by
+each qualified employee and for taxable years beginning on or after
+January first, two thousand twenty-five shall be the first five thousand
+dollars in qualified first-year wages earned by each qualified employee.
+"Qualified first-year wages" means wages paid or incurred by the
+taxpayer during the taxable year to qualified employees which are
+attributable, with respect to any such employee, to services rendered
+during the one-year period beginning with the day the employee begins
+work for the taxpayer.
   (d) Credit where federal work opportunity tax credit applies. With
 respect to any qualified employee whose qualified first-year wages under
 paragraph (c) of this subdivision also constitute qualified first-year
 wages for purposes of the work opportunity tax credit for vocational
 rehabilitation referrals under section fifty-one of the internal revenue
-code, the amount of credit under  this subdivision shall be thirty-five
-percent of the first six thousand dollars in qualified second-year wages
-earned by each such employee. "Qualified second-year wages" means wages
-paid or incurred by the taxpayer during the taxable year to qualified
+code, the amount of credit under this subdivision for taxable years
+beginning before January first, two thousand twenty-five shall be
+thirty-five percent of the first six thousand dollars in qualified
+second-year wages earned by each such employee and for taxable years
+beginning on or after January first, two thousand twenty-five shall be
+the first five thousand dollars in qualified second-year wages earned by
+each qualified employee. "Qualified second-year wages" means wages paid
+or incurred by the taxpayer during the taxable year to qualified
 employees which are attributable, with respect to any such employee, to
 services rendered during the one-year period beginning one year after
 the employee begins work for the taxpayer.
@@ -1531,6 +1539,22 @@ credited or refunded in accordance with the provisions of section one
 thousand eighty-six of this chapter. Provided, however, the provisions
 of subsection (c) of section one thousand eighty-eight of this chapter
 notwithstanding, no interest shall be paid thereon.
+  20-a. Empire state independent film production credit. (a) Allowance
+of credit. A taxpayer who is eligible pursuant to section twenty-four-d
+of this chapter shall be allowed a credit to be computed as provided in
+such section twenty-four-d against the tax imposed by this article.
+  (b) Application of credit. The credit allowed under this subdivision
+for any taxable year shall not reduce the tax due for such year to less
+than the fixed dollar minimum amount prescribed in paragraph (d) of
+subdivision one of section two hundred ten of this article. Provided,
+however, that if the amount of the credit allowable under this
+subdivision for any taxable year reduces the tax to such amount or if
+the taxpayer otherwise pays tax based on the fixed dollar minimum
+amount, the excess shall be treated as an overpayment of tax to be
+credited or refunded in accordance with the provisions of section one
+thousand eighty-six of this chapter. Provided, however, the provisions
+of subsection (c) of section one thousand eighty-eight of this chapter
+notwithstanding, no interest shall be paid thereon.
   21. Security training tax credit. (a) Allowance of credit. A taxpayer
 shall be allowed a credit, to be computed as provided in section
 twenty-six of this chapter, against the tax imposed by this article.
@@ -1650,7 +1674,7 @@ allowed a credit against the tax imposed by this article. Such credit,
 to be computed as hereinafter provided, shall be allowed for bioheating
 fuel, used for space heating or hot water production for residential
 purposes within this state purchased before January first, two thousand
-twenty-six. Such credit shall be $0.01 per percent of biodiesel per
+twenty-nine. Such credit shall be $0.01 per percent of biodiesel per
 gallon of bioheating fuel, not to exceed twenty cents per gallon,
 purchased by such taxpayer.  Provided, however, that on or after January
 first, two thousand seventeen, this credit shall not apply to bioheating
@@ -1678,37 +1702,39 @@ tax to be credited or refunded in accordance with the provisions of
 section one thousand eighty-six of this chapter. Provided, however, the
 provisions of subsection (c) of section one thousand eighty-eight of
 this chapter notwithstanding, no interest shall be paid thereon.
-  26. Credit for rehabilitation of historic properties.  (a) Application
-of credit.  (i) For taxable years beginning on or after January first,
+  26. Credit for rehabilitation of historic properties. (a) Application
+of credit. (i) For taxable years beginning on or after January first,
 two thousand ten, and before January first, two thousand thirty, a
-taxpayer shall be allowed a credit as hereinafter provided, against the
-tax imposed by this article, in an amount equal to one hundred percent
-of the amount of credit allowed the taxpayer for the same taxable year
-with respect to a certified historic structure, and one hundred fifty
-percent of the amount of credit allowed the taxpayer with respect to a
-certified historic structure that is a small project, under internal
-revenue code section 47(c)(3), determined without regard to ratably
-allocating the credit over a five year period as required by subsection
-(a) of such section 47, with respect to a certified historic structure
-located within the state. Provided, however, the credit shall not exceed
-five million dollars.
-  (ii) For taxable years beginning on or after January first, two
-thousand thirty, a taxpayer shall be allowed a credit as hereinafter
+taxpayer, or a transferee of such a taxpayer as described in paragraph
+(g) of this subdivision, shall be allowed a credit as hereinafter
 provided, against the tax imposed by this article, in an amount equal to
-thirty percent of the amount of credit allowed the taxpayer for the same
-taxable year determined without regard to ratably allocating the credit
-over a five year period as required by subsection (a) of section 47 of
-the internal revenue code, with respect to a certified historic
-structure under subsection (c)(3) of section 47 of the internal revenue
-code with respect to a certified historic structure located within the
-state. Provided, however, the credit shall not exceed one hundred
-thousand dollars.
-  (a-1) If the taxpayer is a partner in a partnership or a shareholder
-in a New York S corporation, then the credit caps imposed in paragraph
-(a) of this subdivision shall be applied at the entity level, so that
-the aggregate credit allowed to all the partners or shareholders of each
-such entity in the taxable year does not exceed the credit cap that is
-applicable in that taxable year.
+one hundred percent of the amount of credit allowed the taxpayer for the
+same taxable year with respect to a certified historic structure, and
+one hundred fifty percent of the amount of credit allowed the taxpayer
+with respect to a certified historic structure that is a small project,
+under internal revenue code section 47(c)(3), determined without regard
+to ratably allocating the credit over a five year period as required by
+subsection (a) of such section 47, with respect to a certified historic
+structure located within the state. Provided, however, the credit shall
+not exceed five million dollars.
+  (ii) For taxable years beginning on or after January first, two
+thousand thirty, a taxpayer, or a transferee of such a taxpayer as
+described in paragraph (g) of this subdivision, shall be allowed a
+credit as hereinafter provided, against the tax imposed by this article,
+in an amount equal to thirty percent of the amount of credit allowed the
+taxpayer for the same taxable year determined without regard to ratably
+allocating the credit over a five year period as required by subsection
+(a) of section 47 of the internal revenue code, with respect to a
+certified historic structure under subsection (c)(3) of section 47 of
+the internal revenue code with respect to a certified historic structure
+located within the state. Provided, however, the credit shall not exceed
+one hundred thousand dollars.
+  (a-1) If the taxpayer or transferee is a partner in a partnership or a
+shareholder in a New York S corporation, then the credit caps imposed in
+paragraph (a) of this subdivision shall be applied at the entity level,
+so that the aggregate credit allowed to all the partners or shareholders
+of each such entity in the taxable year does not exceed the credit cap
+that is applicable in that taxable year.
   (b) Tax credits allowed pursuant to this subdivision shall be allowed
 in the taxable year that the qualified rehabilitation is placed in
 service under section 167 of the federal internal revenue code.
@@ -1717,8 +1743,9 @@ internal revenue code with respect to a qualified rehabilitation that is
 also the subject of the credit allowed by this subdivision and that
 credit pursuant to such section 47 is recaptured pursuant to subsection
 (a) of section 50 of the internal revenue code, a portion of the credit
-allowed under this subdivision must be added back in the same taxable
-year and in the same proportion as the federal credit.
+allowed under this subdivision must be added back by the taxpayer or
+transferee in the same taxable year and in the same proportion as the
+federal credit.
   (d) The credit allowed under this subdivision for any taxable year
 shall not reduce the tax due for such year to less than the amount
 prescribed in paragraph (d) of subdivision one of section two hundred
@@ -1731,23 +1758,87 @@ in accordance with the provisions of section one thousand eighty-six of
 this chapter. Provided, however, the provisions of subsection (c) of
 section one thousand eighty-eight of this chapter notwithstanding, no
 interest shall be paid thereon.
-  (e) Except in the case of a qualified rehabilitation project
-undertaken within a state park, state historic site, or other land owned
-by the state, that is under the jurisdiction of the office of parks,
-recreation and historic preservation, to be eligible for the credit
-allowable under this subdivision, the rehabilitation project shall be in
-whole or in part located within a census tract which is identified as
-being at or below one hundred percent of the state median family income
-as calculated as of April first of each year using the most recent five
-year estimate from the American community survey published by the United
-States Census bureau. If there is a change in the most recent five year
-estimate, a census tract that qualified for eligibility under this
-program before information about the change was released will remain
-eligible for a credit under this subdivision for an additional two
-calendar years.
+  (e) To be eligible for the credit allowable under this subdivision,
+the rehabilitation project shall be in whole or in part located within a
+census tract which is identified as being at or below one hundred
+percent of the state median family income as calculated as of April
+first of each year using the most recent five year estimate from the
+American community survey published by the United States Census bureau.
+If there is a change in the most recent five year estimate, a census
+tract that qualified for eligibility under this program before
+information about the change was released will remain eligible for a
+credit under this subdivision for an additional two calendar years. The
+eligibility restrictions set forth in this paragraph shall not be
+applicable if:
+  (i) a qualified rehabilitation project is undertaken within a state
+park, state historic site, or other land owned by the state, that is
+under the jurisdiction of the office of parks, recreation and historic
+preservation; or
+  (ii) a qualified rehabilitation project is undertaken for the
+provision of affordable housing and the taxpayer has entered into a
+regulatory agreement with any state or federal agency or authority, or
+any other government entity that is authorized to engage in the
+financing, construction or oversight of affordable housing within such
+entity's jurisdiction, and where such regulatory agreement sets forth
+affordability requirements applicable for a period of not less than
+thirty years and that is binding on all successors of the taxpayer.
   (f) For purposes of this subdivision "small project" means qualified
 rehabilitation expenditures totaling two million five hundred thousand
 dollars or less.
+  (g)(i) A taxpayer allowed a credit pursuant to this subdivision may
+transfer the credit, in whole or in part, to another person or entity,
+who shall be referred to as the transferee, without regard to how any
+tax credit authorized pursuant to section forty-seven of the internal
+revenue code with respect to a qualified rehabilitation project may be
+allocated and notwithstanding that such other person or entity owns no
+interest in the qualified rehabilitation project or in an entity with an
+ownership interest in the qualified rehabilitation project. A transferee
+may not transfer any credit, or portion thereof, acquired by transfer.
+  (ii) A taxpayer seeking to transfer a credit allowed pursuant to this
+subdivision must enter into a transfer contract with the transferee. The
+transfer contract must specify:
+  (A) the building identification numbers for all buildings in the
+project;
+  (B) the date each building was placed into service;
+  (C) the schedule of years for which the transfer credit may be claimed
+and the amount of credit previously claimed;
+  (D) the amount of consideration received by the taxpayer for the
+transfer credit; and
+  (E) the amount of credit being transferred.
+  (iii) No transfer shall be effective unless the taxpayer allowed a
+credit pursuant to this subdivision and seeking to transfer the credit
+files a transfer application with the commissioner of parks, recreation
+and historic preservation prior to the transfer and such transfer
+application is approved. The transfer application shall include the name
+and federal identification numbers of the taxpayer and each proposed
+transferee, the amount of credit proposed to be transferred to each
+proposed transferee, a copy of the transfer contract, and such other
+information as the commissioner or the commissioner of parks, recreation
+and historic preservation may require. The commissioner of parks,
+recreation and historic preservation shall approve or deny each transfer
+application and, if an application is denied, shall issue a written
+determination to the taxpayer. If the transfer is approved, the
+commissioner of parks, recreation and historic preservation shall issue
+a transfer approval certificate that provides the name of the transferor
+and all transferees, the amount of credit being transferred and such
+other information as the commissioner of parks, recreation and historic
+preservation and the commissioner deem necessary. A copy of the transfer
+approval certificate must be attached to each transferee's tax return.
+The commissioner of parks, recreation and historic preservation, in
+consultation with the commissioner, may establish such other procedures
+and standards deemed necessary for the transferability of credits
+allowed under this subdivision.
+  (iv) The commissioner of parks, recreation and historic preservation
+shall forward copies of all transfer applications and attachments
+thereto and approval certificates to the commissioner within thirty days
+after the transfer is approved.
+  (v) A taxpayer allowed a credit pursuant to section forty-seven of the
+internal revenue code with respect to a qualified rehabilitation that is
+also the subject of the credit allowed by this subdivision shall remain
+solely liable for all obligations and liabilities imposed on the
+taxpayer with respect to the credit allowed by this subdivision, none of
+which shall apply to a party to whom the credit has been subsequently
+transferred.
   27. Credits of New York S corporations. (a) General. Notwithstanding
 the provisions of this section, no carryover of credit allowable in a
 New York C year shall be deducted from the tax otherwise due under this
@@ -1764,7 +1855,7 @@ whether the credit is carried from a New York C year to a New York S
 year or vice-versa.
   29. Hire a vet credit.  (a) Allowance of credit. For taxable years
 beginning on or after January first, two thousand fifteen and before
-January first, two thousand twenty-six, a taxpayer shall be allowed a
+January first, two thousand twenty-nine, a taxpayer shall be allowed a
 credit, to be computed as provided in this subdivision, against the tax
 imposed by this article, for hiring and employing, for not less than
 twelve continuous and uninterrupted months (hereinafter referred to as
@@ -1792,7 +1883,7 @@ services law, and has received a discharge other than bad conduct or
 dishonorable from such service;
   (2) who commences employment by the qualified taxpayer on or after
 January first, two thousand fourteen, and before January first, two
-thousand twenty-five; and
+thousand twenty-eight; and
   (3) who certifies by signed affidavit, under penalty of perjury, that
 he or she has not been employed for thirty-five or more hours during any
 week in the one hundred eighty day period immediately prior to his or
@@ -1889,7 +1980,7 @@ of recovery years prior to, but not including, the recapture year, and
 the denominator of which is the total recovery period.
   (f) Termination. The credit allowed by paragraph (b) of this
 subdivision shall not apply in taxable years beginning after December
-thirty-first, two thousand twenty-five.
+thirty-first, two thousand twenty-eight.
   31. Excelsior jobs program credit. (a) Allowance of credit. A taxpayer
 will be allowed a credit, to be computed as provided in section
 thirty-one of this chapter, against the tax imposed by this article.
@@ -2273,7 +2364,7 @@ accordance with the provisions of section one thousand eighty-six of
 this chapter. Provided, further, the provisions of subsection (c) of
 section one thousand eighty-eight of this chapter notwithstanding, no
 interest shall be paid thereon.
-  * NB Repealed January 1, 2026
+  * NB Repealed January 1, 2030
   48. Workers with disabilities tax credit. (a) A qualified employer, as
 defined in paragraph one of subdivision (b) of section twenty-five-b of
 the labor law, shall be entitled to a credit against the tax imposed by
@@ -2331,24 +2422,25 @@ amount, any amount of credit not deductible in that taxable year will be
 treated as an overpayment of tax to be credited or refunded in
 accordance with the provisions of section one thousand eighty-six of
 this chapter. Provided, however, no interest will be paid thereon.
-  50. Employee training incentive program tax credit. (a) A taxpayer
-that has been approved by the commissioner of economic development to
-participate in the employee training incentive program and has been
-issued a certificate of tax credit pursuant to section four hundred
-forty-three of the economic development law shall be allowed to claim a
-credit against the tax imposed by this article. The credit shall equal
-fifty percent of a taxpayer's eligible training costs, up to a credit of
-ten thousand dollars per employee completing eligible training pursuant
-to paragraph (a) of subdivision three of section four hundred forty-one
-of the economic development law. The credit shall equal fifty percent of
-the stipend paid to an intern, up to a credit of three thousand dollars
-per intern completing eligible training pursuant to paragraph (b) of
-subdivision three of section four hundred forty-one of the economic
-development law. In no event shall a taxpayer be allowed a credit
-greater than the amount of credit listed on the certificate of tax
-credit issued by the commissioner of economic development. The credit
-will be allowed in the taxable year in which the eligible training is
-completed.
+  50. Employee training incentive program tax credit.  (a) For taxable
+years beginning before January first, two thousand twenty-nine, a
+taxpayer that has been approved by the commissioner of economic
+development to participate in the employee training incentive program
+and has been issued a certificate of tax credit pursuant to section four
+hundred forty-three of the economic development law shall be allowed to
+claim a credit against the tax imposed by this article.  The credit
+shall equal fifty percent of a taxpayer's eligible training costs, up to
+a credit of ten thousand dollars per employee completing eligible
+training pursuant to paragraph (a) of subdivision three of section four
+hundred forty-one of the economic development law. The credit shall
+equal fifty percent of the stipend paid to an intern, up to a credit of
+three thousand dollars per intern completing eligible training pursuant
+to paragraph (b) of subdivision three of section four hundred forty-one
+of the economic development law. In no event shall a taxpayer be allowed
+a credit greater than the amount of credit listed on the certificate of
+tax credit issued by the commissioner of economic development. The
+credit will be allowed in the taxable year in which the eligible
+training is completed.
   (b) The credit allowed under this subdivision for any taxable year may
 not reduce the tax due for that year to less than the amount prescribed
 in paragraph (d) of subdivision one of section two hundred ten of this
@@ -2588,7 +2680,7 @@ credited or refunded in accordance with the provisions of section one
 thousand eighty-six of this chapter. Provided, however, the provisions
 of subsection (c) of section one thousand eighty-eight of this chapter
 notwithstanding, no interest shall be paid thereon.
-  * NB Repealed January 1, 2026
+  * NB Repealed January 1, 2028
   * 58. Farm employer overtime credit. (a) Allowance of credit. A
 taxpayer shall be allowed a credit, to be computed as provided in
 section forty-two-a of this chapter, against the tax imposed by this
@@ -2690,4 +2782,100 @@ thousand eighty-six of this chapter. Provided, however, the provisions
 of subsection (c) of section one thousand eighty-eight of this chapter
 notwithstanding, no interest will be paid thereon.
   * NB There are 2 sb 60's
+  61. Semiconductor research and development tax credit. (a) Allowance
+of credit. A taxpayer that has been approved by the commissioner of
+economic development to participate in the semiconductor research and
+development program and has been issued a certificate of tax credit
+pursuant to section three hundred fifty-nine-e of the economic
+development law shall be allowed to claim a credit against the tax
+imposed by this article. The credit shall equal up to fifteen percent of
+the cost or other basis for federal income tax purposes of the qualified
+investment and shall be allowable in each taxable year for which the
+commissioner of economic development has issued a certificate of tax
+credit, for up to ten consecutive taxable years. In no event shall a
+taxpayer be allowed a credit greater than the amount of credit listed on
+the certificate of tax credit issued by the commissioner of economic
+development. No cost or expense paid or incurred by the taxpayer that is
+the basis for this credit shall be the basis for any other tax credit
+provided by this chapter.
+  (b) Application of credit. The credit allowed under this subdivision
+for any taxable year may not reduce the tax due for such year to less
+than the amount prescribed in paragraph (d) of subdivision one of
+section two hundred ten of this article. However, if the amount of
+credit allowed under this subdivision for any taxable year reduces the
+tax to such amount, or if the taxpayer otherwise pays tax based on the
+fixed dollar minimum amount, any amount of credit thus not deductible in
+that taxable year will be treated as an overpayment of tax to be
+credited or refunded in accordance with the provisions of section one
+thousand eighty-six of this chapter. Provided, however, the provisions
+of subsection (c) of section one thousand eighty-eight of this chapter
+notwithstanding, no interest will be paid thereon.
+  (c) Reporting. The taxpayer shall attach to its tax return its
+certificate of tax credit issued by the commissioner of economic
+development pursuant to section three hundred fifty-nine-e of the
+economic development law. In no event shall the taxpayer be allowed a
+credit greater than the amount of the credit listed on the certificate
+of tax credit, or in the case of a taxpayer who is a partner in a
+partnership, a member of a limited liability company, or shareholder in
+an S corporation, its pro rata share of the amount of credit listed on
+the certificate of tax credit.
+  (d) Credit recapture. If a certificate of eligibility or a certificate
+of tax credit issued by the department of economic development under
+article seventeen-A of the economic development law is revoked by such
+department because the taxpayer does not meet the eligibility
+requirement set forth in subdivision six of section three hundred
+fifty-nine-c of the economic development law, the amount of credit
+described in this subdivision and claimed by the taxpayer prior to that
+revocation shall be added back to tax in the taxable year in which any
+such revocation becomes final.
+  62. Semiconductor manufacturing workforce training program tax credit.
+  (a) Allowance of tax credit. A taxpayer that has been approved by the
+commissioner of economic development to participate in the semiconductor
+manufacturing workforce training program and has been issued a
+certificate of tax credit pursuant to section five hundred three of the
+economic development law shall be allowed to claim a credit against the
+tax imposed by this article. The credit shall equal seventy-five percent
+of wages, salaries or other compensation, training costs, and wrap
+around services, up to a credit of twenty-five thousand dollars per
+employee receiving eligible training, up to one million dollars per
+eligible non-semiconductor manufacturing business and up to five million
+dollars per eligible semiconductor manufacturing business pursuant to
+subdivision three of section five hundred three of the economic
+development law. In no event shall a taxpayer be allowed a credit
+greater than the amount of credit listed on the certificate of tax
+credit issued by the commissioner of economic development. The credit
+shall be allowed in the taxable year in which the eligible training is
+completed. No cost or other expense paid or incurred by the taxpayer
+that is the basis for this credit shall be the basis for any other tax
+credit provided by this chapter.
+  (b) Application of credit. The credit allowed under this subdivision
+for any taxable year may not reduce the tax due for such year to less
+than the amount prescribed in paragraph (d) of subdivision one of
+section two hundred ten of this article. However, if the amount of
+credit allowed under this subdivision for any taxable year reduces the
+tax to such amount, or if the taxpayer otherwise pays tax based on the
+fixed dollar minimum amount, any amount of credit thus not deductible in
+that taxable year will be treated as an overpayment of tax to be
+credited or refunded in accordance with the provisions of section one
+thousand eighty-six of this chapter. Provided, however, the provisions
+of subsection (c) of section one thousand eighty-eight of this chapter
+notwithstanding, no interest will be paid thereon.
+  (c) Reporting. The taxpayer shall attach to its tax return its
+certificate of tax credit issued by the commissioner of economic
+development pursuant to section five hundred three of the economic
+development law. In no event shall the taxpayer be allowed a credit
+greater than the amount of the credit listed on the certificate of tax
+credit, or in the case of a taxpayer who is a partner in a partnership,
+a member of a limited liability company, or shareholder in an S
+corporation, its pro rata share of the amount of credit listed in the
+certificate of tax credit.
+  (d) Credit recapture. If a certificate of eligibility or a certificate
+of tax credit issued by the department of the economic development under
+article twenty-eight of the economic development law is revoked by such
+department because the taxpayer does not meet the eligibility
+requirement set forth in subdivision three of section five hundred three
+of the economic development law, the amount of credit described in this
+subdivision and claimed by the taxpayer prior to that revocation shall
+be added back to tax in the taxable year in which any such revocation
+becomes final.
 ```

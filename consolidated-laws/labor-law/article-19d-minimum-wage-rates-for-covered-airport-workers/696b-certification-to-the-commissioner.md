@@ -4,7 +4,7 @@
 [Labor Law](../README.md) › [Article 19-D — Minimum Wage Rates For Covered Airport Workers](README.md)
 
 ```text
-  § 696-b. Certification to the commissioner. 1. No later than March
+  * § 696-b. Certification to the commissioner. 1. No later than March
 thirty-first, two thousand twenty-one, each employer of a covered
 airport worker shall submit to the commissioner a sworn statement
 certifying the total number of workers employed by such employer at a
@@ -73,4 +73,11 @@ to begin or change enrollment in an eligible employer-sponsored plan as
 defined in treasury regulation section 1.5000A-2(c)(1) for coverage
 beginning no later than thirty days after becoming a covered airport
 worker.
+  * NB Effective until January 1, 2026
+  § 696-b. Minimum wage rate for covered airport workers. All employers
+at a covered airport location shall ensure that every covered airport
+worker is compensated at a rate that is no less than the applicable
+standard rate. Nothing in this article shall alter or limit any
+employer's obligation to pay any otherwise applicable prevailing wage
+under article eight or nine of this chapter.
 ```

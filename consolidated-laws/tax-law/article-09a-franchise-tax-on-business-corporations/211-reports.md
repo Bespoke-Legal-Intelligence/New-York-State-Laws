@@ -77,15 +77,19 @@ hundred twenty days, in the case of a taxpayer making a combined report
 under this article for such year) after the final determination of such
 change or correction or renegotiation, or as required by the
 commissioner, and shall concede the accuracy of such determination or
-state wherein it is erroneous. The allowance of a tentative carryback
-adjustment based upon a net operating loss carryback or net capital loss
-carryback pursuant to section sixty-four hundred eleven of the internal
-revenue code, as amended, shall be treated as a final determination for
-purposes of this subdivision. Any taxpayer filing an amended return with
-such department shall also file within ninety days (or one hundred
-twenty days, in the case of a taxpayer making a combined report under
-this article for such year) thereafter an amended report with the
-commissioner.
+state wherein it is erroneous. Provided however, if the taxpayer is a
+direct or indirect partner of a partnership required to report
+adjustments in accordance with section six hundred fifty-nine-a of this
+chapter, such taxpayer shall also report such adjustments in accordance
+with section six hundred fifty-nine-a of this chapter. The allowance of
+a tentative carryback adjustment based upon a net operating loss
+carryback or net capital loss carryback pursuant to section sixty-four
+hundred eleven of the internal revenue code, as amended, shall be
+treated as a final determination for purposes of this subdivision. Any
+taxpayer filing an amended return with such department shall also file
+within ninety days (or one hundred twenty days, in the case of a
+taxpayer making a combined report under this article for such year)
+thereafter an amended report with the commissioner.
   4. For provisions relating to combined reports, see section two
 hundred ten-C of this article.
   5. In case it shall appear to the commissioner that any agreement,

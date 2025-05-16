@@ -121,7 +121,7 @@ terminated for cause. This subdivision shall not apply where both
 parties mutually agree in writing to the termination or non-renewal and
 the plan provides notice to the enrollee at least thirty days in advance
 of the date of contract termination.
-  * NB Repealed June 30, 2025
+  * NB Repealed June 30, 2027
   5-e. At least sixty days prior to the termination of a contract
 between a hospital and a health care plan, the parties shall utilize a
 mutually agreed upon mediator to assist in resolving any outstanding
