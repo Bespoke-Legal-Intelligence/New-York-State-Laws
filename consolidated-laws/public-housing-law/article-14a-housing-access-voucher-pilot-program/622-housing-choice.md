@@ -11,5 +11,5 @@ promote fair housing to the extent possible under this pilot program.
   2. Nothing in this article shall lessen or abridge any fair housing
 obligations promulgated by municipalities, localities, or any other
 applicable jurisdiction.
-  * NB Effective until May 1, 2030
+  * NB Expires May 1, 2030
 ```

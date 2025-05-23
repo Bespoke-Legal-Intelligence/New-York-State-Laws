@@ -4,7 +4,7 @@
 [Veterans' Services Law](../README.md) › [Article 1 — Department of Veterans' Services](README.md)
 
 ```text
-  * § 29-d. Staff sergeant Alex R. Jimenez New York state military
+  § 29-d. Staff sergeant Alex R. Jimenez New York state military
 immigrant family legacy program. 1. For the purposes of this section,
 the following terms shall have the following meanings:
   (a) "Uniformed service member" shall mean a member of the army, navy,
@@ -86,5 +86,4 @@ information provided by intended recipients shall not be retained,
 disclosed, disseminated, or otherwise published or made available by the
 department, the division of military and naval affairs, or the office
 for new Americans.
-  * NB Effective May 20, 2025
 ```

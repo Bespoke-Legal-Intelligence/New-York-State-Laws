@@ -51,7 +51,7 @@ Section 605. Definitions.
         621. Applicable codes.
         622. Housing choice.
         623. Annual reports.
-  * NB Effective until May 1, 2030
+  * NB Expires May 1, 2030
 ```
 
 </details>

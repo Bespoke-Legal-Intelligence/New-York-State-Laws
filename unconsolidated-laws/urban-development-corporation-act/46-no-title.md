@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Urban Development Corporation Act § 46", "kind": "section", "law_id": "UDA", "location_id": "46", "path": "SECTION 46", "repealed": false, "repealed_date": null, "source": "nys-laws:UDA/46.md", "title": "No title"} -->
+﻿<!-- nyslaw {"citation": "Urban Development Corporation Act § 46", "kind": "section", "law_id": "UDA", "location_id": "46", "path": "SECTION 46", "repealed": true, "repealed_date": "2025-05-23", "source": "nys-laws:UDA/46.md", "title": "No title"} -->
 # Urban Development Corporation Act § 46 — No title
 
 [Urban Development Corporation Act](README.md)
+
+**Repealed** (23 May 2025). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 46. 1. Notwithstanding the provisions of any other law to the

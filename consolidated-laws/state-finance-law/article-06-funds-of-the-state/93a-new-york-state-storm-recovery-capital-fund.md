@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "State Finance Law § 93-A", "kind": "section", "law_id": "STF", "location_id": "93-A", "path": "ARTICLE 6 › SECTION 93-A", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/93-A.md", "title": "New York state storm recovery capital fund"} -->
+﻿<!-- nyslaw {"citation": "State Finance Law § 93-A", "kind": "section", "law_id": "STF", "location_id": "93-A", "path": "ARTICLE 6 › SECTION 93-A", "repealed": true, "repealed_date": "2025-05-23", "source": "nys-laws:STF/93-A.md", "title": "New York state storm recovery capital fund"} -->
 # State Finance Law § 93-A — New York state storm recovery capital fund
 
 [State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
+
+**Repealed** (23 May 2025). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 93-a. New York state storm recovery capital fund. 1. (a) There is

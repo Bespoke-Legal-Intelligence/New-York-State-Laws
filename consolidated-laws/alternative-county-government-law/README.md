@@ -8,7 +8,7 @@
 | Senate code | ACG |
 | Type | Consolidated law, chapter 11-B |
 | Sections | 73 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 23 May 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Alternative County Government |
 
@@ -28,6 +28,10 @@ Assembly, do enact as follows:
 ```
 
 [Full chapter text (27 lines)](chapter-text.md)
+
+## Recent changes
+
+- [23 May 2025](../../changes/2025/2025-05-23.md): 2 amended
 
 ## Contents
 

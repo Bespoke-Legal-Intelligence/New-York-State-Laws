@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Education Law § 925", "kind": "section", "law_id": "EDN", "location_id": "925", "path": "TITLE 1 › ARTICLE 19 › SECTION 925", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/925.md", "title": "Community eligibility provision state subsidy"} -->
+﻿<!-- nyslaw {"citation": "Education Law § 925", "kind": "section", "law_id": "EDN", "location_id": "925", "path": "TITLE 1 › ARTICLE 19 › SECTION 925", "repealed": true, "repealed_date": "2025-05-23", "source": "nys-laws:EDN/925.md", "title": "Community eligibility provision state subsidy"} -->
 # Education Law § 925 — Community eligibility provision state subsidy
 
 [Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 19 — Medical and Health Service](README.md)
+
+**Repealed** (23 May 2025). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 925. Community eligibility provision state subsidy.

@@ -8,8 +8,8 @@
 | Senate code | UDA |
 | Type | Unconsolidated law |
 | Session law | L. 1968, ch. 174 |
-| Sections | 109 |
-| Last changed | 16 May 2025 |
+| Sections | 109 (1 repealed) |
+| Last changed | 23 May 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Urban Development Corporation Act 174/68 |
 
@@ -30,10 +30,11 @@ Section   1.       Short title.
           6-a*.    Sale or lease of infrastructure projects.
 ```
 
-[Full chapter text (139 lines)](chapter-text.md)
+[Full chapter text (138 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [23 May 2025](../../changes/2025/2025-05-23.md): 1 repealed
 - [16 May 2025](../../changes/2025/2025-05-16.md): 7 amended
 - [27 Dec 2024](../../changes/2024/2024-12-27.md): 1 amended
 - [3 May 2024](../../changes/2024/2024-05-03.md): 8 amended, 1 added
@@ -43,7 +44,6 @@ Section   1.       Short title.
 - [17 Nov 2023](../../changes/2023/2023-11-17.md): 1 amended
 - [7 Jul 2023](../../changes/2023/2023-07-07.md): 1 amended
 - [12 May 2023](../../changes/2023/2023-05-12.md): 9 amended, 2 added
-- [10 Mar 2023](../../changes/2023/2023-03-10.md): 1 amended
 
 ## Contents
 
@@ -136,7 +136,7 @@ Section   1.       Short title.
 - [§ 43 2008 and 2009 Economic development initiatives](43-2008-and-2009-economic-development-initiatives.md)
 - [§ 44 Issuance of certain bonds or notes](44-issuance-of-certain-bonds-or-notes.md)
 - [§ 45 NY-SUNY 2020](45-ny-suny-2020.md)
-- [§ 46 No title](46-no-title.md)
+- [§ 46 No title](46-no-title.md) *(repealed)*
 - [§ 47 No title](47-no-title.md)
 - [§ 48 Authorization for transportation infrastructure finance and innovation act loans](48-authorization-for-transportation-infrastructure-finance-and-innovation-act-loans.md)
 - [§ 49 No title](49-no-title.md)

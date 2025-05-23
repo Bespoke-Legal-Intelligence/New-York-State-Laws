@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "State Finance Law § 89-G", "kind": "section", "law_id": "STF", "location_id": "89-G", "path": "ARTICLE 6 › SECTION 89-G", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/89-G.md", "title": "Accident prevention course internet, and other technology pilot program fund"} -->
+﻿<!-- nyslaw {"citation": "State Finance Law § 89-G", "kind": "section", "law_id": "STF", "location_id": "89-G", "path": "ARTICLE 6 › SECTION 89-G", "repealed": true, "repealed_date": "2025-05-23", "source": "nys-laws:STF/89-G.md", "title": "Accident prevention course internet, and other technology pilot program fund"} -->
 # State Finance Law § 89-G — Accident prevention course internet, and other technology pilot program fund
 
 [State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
+
+**Repealed** (23 May 2025). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 89-g. Accident prevention course internet, and other technology

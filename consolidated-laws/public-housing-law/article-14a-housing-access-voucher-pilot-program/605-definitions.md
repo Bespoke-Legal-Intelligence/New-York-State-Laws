@@ -152,5 +152,5 @@ the following areas of major life activity:
 special, interdisciplinary, or generic services, individualized
 supports, or other forms of assistance that are of lifelong or extended
 duration and are individually planned and coordinated.
-  * NB Effective until May 1, 2030
+  * NB Expires May 1, 2030
 ```
