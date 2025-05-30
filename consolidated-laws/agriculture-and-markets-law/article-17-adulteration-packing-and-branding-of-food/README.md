@@ -12,7 +12,7 @@
 - [§ 199-C Disposing of tainted food](199c-disposing-of-tainted-food.md)
 - [§ 199-D Prohibition as to sulfites](199d-prohibition-as-to-sulfites.md)
 - [§ 199-E Prohibition as to sale of irradiated foods](199e-prohibition-as-to-sale-of-irradiated-foods.md)
-- [§ 199-F Food allergies notice in food service establishments](199f-food-allergies-notice-in-food-service-establishments.md)
+- [§ 199-F Food allergies and intolerances notice in food service establishments](199f-food-allergies-and-intolerances-notice-in-food-service-establishments.md)
 - [§ 200 Adulteration of food](200-adulteration-of-food.md)
 - [§ 201 Misbranding of food](201-misbranding-of-food.md)
 - [§ 201-A Kosher food and food products; packaging](201a-kosher-food-and-food-products-packaging.md)

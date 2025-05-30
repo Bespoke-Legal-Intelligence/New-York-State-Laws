@@ -5292,7 +5292,7 @@ payment of the credit for that taxable year has been issued to the prior
 owner with respect to the same property, unless such resident individual
 can demonstrate that he or she paid qualifying taxes on such property
 during the taxable year, and that the prior owner did not.
-  (B) (i) "Affiliated income" shall mean the combined income of all of
+  (B) * (i) "Affiliated income" shall mean the combined income of all of
 the owners of the parcel who resided primarily thereon as of July first
 of the taxable year, and of any owners' spouses residing primarily
 thereon as of such date; provided that the income to be so combined
@@ -5302,6 +5302,7 @@ gross income if a federal income tax return were required to be filed,
 reduced by distributions, to the extent included in federal adjusted
 gross income, received from an individual retirement account and an
 individual retirement annuity.
+  * NB Effective January 1, 2026
   (ii) For taxable years beginning on and after January first, two
 thousand nineteen, where an income-eligibility determination is wholly
 or partly based upon the income of one or more individuals who did not

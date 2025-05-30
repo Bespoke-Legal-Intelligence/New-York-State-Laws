@@ -16,7 +16,7 @@
 - [§ 1353 Food places; violations; penalties](1353-food-places-violations-penalties.md)
 - [§ 1354 Contracts for meat inspection](1354-contracts-for-meat-inspection.md)
 - [§ 1355 Food service safety and sanitation training](1355-food-service-safety-and-sanitation-training.md)
-- [§ 1356 Food allergies notice in food service establishments and online food ordering services](1356-food-allergies-notice-in-food-service-establishments-and-online-food.md)
+- [§ 1356 Food allergies and intolerances notice in food service establishments and online food ordering services](1356-food-allergies-and-intolerances-notice-in-food-service-establishments.md)
 
 <details>
 <summary>Official heading of Title 8, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

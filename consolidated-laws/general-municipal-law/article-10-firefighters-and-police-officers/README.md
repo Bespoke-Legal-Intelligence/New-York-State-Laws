@@ -90,6 +90,7 @@
 - [§ 209-FF Provisions relating to certain accidental disability benefits](209ff-provisions-relating-to-certain-accidental-disability-benefits.md)
 - [§ 209-FFF Provisions relating to a membership date in the New York city police pension fund or the fire department pension fund attributable to ser...](209fff-provisions-relating-to-a-membership-date-in-the-new-york-city-police-pension.md)
 - [§ 209-G Liability for outside aid](209g-liability-for-outside-aid.md)
+- [§ 209-GG Symbols of hate](209gg-symbols-of-hate.md)
 - [§ 209-I Emergency service by volunteer firefighters](209i-emergency-service-by-volunteer-firefighters.md)
 - [§ 209-J Mutual aid programs in counties](209j-mutual-aid-programs-in-counties.md)
 - [§ 209-L Removal of volunteer officers and volunteer members of fire departments](209l-removal-of-volunteer-officers-and-volunteer-members-of-fire-departments.md)

@@ -23,6 +23,7 @@ four hundred twenty-five of the real property tax law.
   * (1) The commissioner shall verify the eligibility of properties for
 STAR exemptions in the manner provided by section four hundred
 twenty-five of the real property tax law.
+  * NB Effective January 1, 2026
   * (2) The commissioner shall further develop procedures by which each
 assessor shall be notified of his or her findings, stating in each case
 either that the parcel does or does not meet the income eligibility

@@ -38,7 +38,6 @@
 - [§ 89-D Motor vehicle theft and insurance fraud prevention fund](89d-motor-vehicle-theft-and-insurance-fraud-prevention-fund.md)
 - [§ 89-E Alzheimer's disease assistance fund](89e-alzheimers-disease-assistance-fund.md)
 - [§ 89-F Workers' compensation security fund payment account](89f-workers-compensation-security-fund-payment-account.md)
-- [§ 89-G Accident prevention course internet, and other technology pilot program fund](89g-accident-prevention-course-internet-and-other-technology-pilot-program-fund.md) *(repealed)*
 - [§ 89-H Medical cannabis trust fund](89h-medical-cannabis-trust-fund.md)
 - [§ 89-I Military family relief fund](89i-military-family-relief-fund.md)
 - [§ 89-J The school bus motorist education fund](89j-the-school-bus-motorist-education-fund.md)
@@ -86,7 +85,6 @@
 - [§ 92-II Metropolitan transportation authority capital assistance fund](92ii-metropolitan-transportation-authority-capital-assistance-fund.md)
 - [§ 92-JJ Metropolitan transportation authority paratransit assistance fund](92jj-metropolitan-transportation-authority-paratransit-assistance-fund.md)
 - [§ 93 Capital projects fund](93-capital-projects-fund.md)
-- [§ 93-A New York state storm recovery capital fund](93a-new-york-state-storm-recovery-capital-fund.md) *(repealed)*
 - [§ 93-B Dedicated infrastructure investment fund](93b-dedicated-infrastructure-investment-fund.md)
 - [§ 94 Court facilities incentive aid fund](94-court-facilities-incentive-aid-fund.md)
 - [§ 94-A New York city county clerks' operations offset fund](94a-new-york-city-county-clerks-operations-offset-fund.md)
@@ -294,7 +292,7 @@
 - [§ 99-QQ\*2 New York climate action fund](99qq-2-new-york-climate-action-fund.md)
 - [§ 99-RR Air quality improvement fund](99rr-air-quality-improvement-fund.md)
 - [§ 99-SS Healthcare stability fund](99ss-healthcare-stability-fund.md)
-- [§ 99-SS\*1 Suicide prevention fund](99ss-1-suicide-prevention-fund.md)
+- [§ 99-SS\*2 Suicide prevention fund](99ss-2-suicide-prevention-fund.md)
 
 <details>
 <summary>Official heading of Article 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

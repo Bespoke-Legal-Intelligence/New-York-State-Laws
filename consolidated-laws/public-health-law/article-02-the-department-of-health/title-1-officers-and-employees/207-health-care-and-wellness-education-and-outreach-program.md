@@ -227,7 +227,6 @@ groups and services, respite, and care management; and resources and
 information concerning Alzheimer's disease and any other dementia
 related matters that the commissioner deems appropriate.
   * NB There are 4 par (r)'s
-  * NB Effective May 21, 2025
   * (s) Promoting public awareness of the dangers of fatal and non-fatal
 drowning, including but not limited to the unique risk factors and
 exposures associated with infant and early drowning, childhood and

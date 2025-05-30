@@ -283,36 +283,19 @@ to certify the individual preferred by the child for certification as
 the representative payee or revoke the certification of a representative
 payee upon request of the child pursuant to section four hundred
 fifty-five of this title.
-  * 2. The agreement provided for in subdivision one of this section
-shall be subject to the approval of the department upon the application
-of the social services official; provided, however, that in accordance
-with the regulations of the department, the department may authorize the
-social services official to approve or disapprove the agreement on
-behalf of the department. In either situation, if the agreement is not
-approved or disapproved by the social services official within thirty
-days of submission, the voluntary authorized agency may submit the
-agreement directly to the department for approval or disapproval. If the
-agreement is not disapproved in writing by the department within thirty
-days after its submission to the department, it shall be deemed
-approved. Any such disapproval shall be accompanied by a written
-statement of the reasons therefor.
-  * NB Effective until 90 days following the date that USDHHS approves a
-title IV-E state plan followed by OCFS notification
-  * 2. Any agreement provided for in subdivision one of this section
-shall be subject to the approval of the department upon the application
-of the social services official; provided, however, that in accordance
-with the regulations of the department, the department may authorize the
-social services official to approve or disapprove the agreement on
-behalf of the department. In either situation, if the agreement is not
-approved or disapproved by the social services official within thirty
-days of submission, the voluntary authorized agency may submit the
-agreement directly to the department for approval or disapproval. If the
-agreement is not disapproved in writing by the department within thirty
-days after its submission to the department, it shall be deemed
-approved. Any such disapproval shall be accompanied by a written
-statement of the reasons therefor.
-  * NB Effective 90 days following the date that USDHHS approves a title
-IV-E state plan followed by OCFS notification
+  2. Any agreement provided for in subdivision one of this section shall
+be subject to the approval of the department upon the application of the
+social services official; provided, however, that in accordance with the
+regulations of the department, the department may authorize the social
+services official to approve or disapprove the agreement on behalf of
+the department. In either situation, if the agreement is not approved or
+disapproved by the social services official within thirty days of
+submission, the voluntary authorized agency may submit the agreement
+directly to the department for approval or disapproval. If the agreement
+is not disapproved in writing by the department within thirty days after
+its submission to the department, it shall be deemed approved. Any such
+disapproval shall be accompanied by a written statement of the reasons
+therefor.
   3. The amount of the monthly payment made pursuant to this section
 shall be determined pursuant to regulations of the department and based
 upon the financial need of such persons. The department shall review

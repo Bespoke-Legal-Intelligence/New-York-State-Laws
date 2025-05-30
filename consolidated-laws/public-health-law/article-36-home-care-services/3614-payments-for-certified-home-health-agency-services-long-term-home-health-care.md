@@ -435,7 +435,7 @@ five hundred thousand dollars. For rate periods on and after January
 first, two thousand five through December thirty-first, two thousand
 six, there shall be no such reconciliation of the amount of savings in
 excess of or lower than one million five hundred thousand dollars.
-  * NB Effective until March 31, 2025
+  * NB Effective until March 31, 2029
   * Notwithstanding any inconsistent provision of law or regulation to
 the contrary, for purposes of establishing rates of payment by
 governmental agencies for certified home health agencies and long term
@@ -445,7 +445,7 @@ rule or regulation limit the reimbursable base year administrative and
 general costs of a provider of services to a percentage which is other
 than thirty percent of total reimbursable base year operational costs of
 such provider of services.
-  * NB Effective March 31, 2025
+  * NB Effective March 31, 2029
   No such limit shall be applied to a provider of services reimbursed on
 an initial budget basis, or a new provider, excluding changes in
 ownership or changes in name, who begins operations in the year prior to
