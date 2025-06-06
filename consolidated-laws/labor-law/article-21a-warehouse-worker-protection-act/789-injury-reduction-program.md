@@ -4,7 +4,7 @@
 [Labor Law](../README.md) › [Article 21-A — Warehouse Worker Protection Act](README.md)
 
 ```text
-  * § 789. Injury reduction program. 1. Every employer subject to this
+  § 789. Injury reduction program. 1. Every employer subject to this
 section shall establish and implement an injury reduction program
 designed to identify and minimize the risks of work-related
 musculoskeletal disorders among workers involved in performing manual
@@ -181,5 +181,4 @@ thirty days of receipt of such written request. Copies of revised or new
 worksite evaluations shall be made available to workers and their
 representatives, at no cost, upon request upon completion of such
 worksite evaluation.
-  * NB Effective June 1, 2025
 ```

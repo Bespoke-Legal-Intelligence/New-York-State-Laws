@@ -4,7 +4,7 @@
 [Labor Law](../README.md) › [Article 2 — The Department of Labor](README.md)
 
 ```text
-  * § 27-e. Prevention of retail workplace violence. 1. Definitions. For
+  § 27-e. Prevention of retail workplace violence. 1. Definitions. For
 the purposes of this section:
   a. "Employer" means any person, entity, business, corporation,
 partnership, limited liability company, or an association employing at
@@ -107,7 +107,7 @@ employer shall comply with this subdivision by providing that employee
 an English-language notice.
   d. An employer shall not be penalized for errors or omissions in the
 non-English portions of any notice provided by the commissioner.
-  ** 5. Retail worker requests for assistance. a. Every employer of five
+  * 5. Retail worker requests for assistance. a. Every employer of five
 hundred or more retail employees statewide shall provide every retail
 employee with a silent response button to request immediate assistance
 from a security officer, manager, or supervisor while the employee is
@@ -119,7 +119,7 @@ phone-based button.
 employer-provided equipment, and wearable and mobile phone-based silent
 response buttons shall not be used to track employee locations except
 when the silent response button is triggered.
-  ** NB Effective January 1, 2027
+  * NB Effective January 1, 2027
   6. Rules and regulations. The commissioner may adopt rules and
 regulations necessary to implement the provisions of this section.
   7. Evaluation of policy. Beginning in the year two thousand
@@ -130,5 +130,4 @@ and retail workplace violence prevention policy. Upon the completion of
 each evaluation the department shall update the model retail workplace
 violence prevention guidance document and retail workplace violence
 prevention policy as needed.
-  * NB Effective June 2, 2025
 ```

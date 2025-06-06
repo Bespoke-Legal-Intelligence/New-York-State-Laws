@@ -5292,16 +5292,54 @@ payment of the credit for that taxable year has been issued to the prior
 owner with respect to the same property, unless such resident individual
 can demonstrate that he or she paid qualifying taxes on such property
 during the taxable year, and that the prior owner did not.
-  (B) * (i) "Affiliated income" shall mean the combined income of all of
-the owners of the parcel who resided primarily thereon as of July first
-of the taxable year, and of any owners' spouses residing primarily
-thereon as of such date; provided that the income to be so combined
-shall be the "adjusted gross income" for the taxable year as reported
-for federal income tax purposes, or that would be reported as adjusted
-gross income if a federal income tax return were required to be filed,
-reduced by distributions, to the extent included in federal adjusted
-gross income, received from an individual retirement account and an
-individual retirement annuity.
+  (B) * Affiliated income" shall mean for purposes of the basic STAR
+credit, the combined income of all of the owners of the parcel who
+resided primarily thereon as of December thirty-first of the taxable
+year, and of any owners' spouses residing primarily thereon as of such
+date, and for purposes of the enhanced STAR credit, the combined income
+of all of the owners of the parcel as of December thirty-first of the
+taxable year, and of any owners' spouses residing primarily thereon as
+of such date; provided that for both purposes the income to be so
+combined shall be the "adjusted gross income" for the taxable year as
+reported for federal income tax purposes, or that would be reported as
+adjusted gross income if a federal income tax return were required to be
+filed, reduced by distributions, to the extent included in federal
+adjusted gross income, received from an individual retirement account
+and an individual retirement annuity. For taxable years beginning on and
+after January first, two thousand nineteen, where an income-eligibility
+determination is wholly or partly based upon the income of one or more
+individuals who did not file a return pursuant to section six hundred
+fifty-one of this article for the applicable income tax year, then in
+order to be eligible for the credit authorized by this subsection, each
+such individual must file a statement with the department showing the
+source or sources of his or her income for that income tax year, and the
+amount or amounts thereof, that would have been reported on such a
+return if one had been filed. Such statement shall be filed at such
+time, and in such form and manner, as may be prescribed by the
+department, and shall be subject to the provisions of section six
+hundred ninety-seven of this article to the same extent that a return
+would be. The department shall make such forms and instructions
+available for the filing of such statements. The local assessor shall
+upon the request of a taxpayer assist such taxpayer in the filing of the
+statement with the department. Provided further, that if the qualified
+taxpayer was an owner of the property during the taxable year but did
+not own it on December thirty-first of the taxable year, then the
+determination as to whether the income of an individual should be
+included in "affiliated income" shall be based upon the ownership and/or
+residency status of that individual as of the first day of the month
+during which the qualified taxpayer ceased to be an owner of the
+property, rather than as of December thirty-first of the taxable year.
+  * NB Effective until January 1, 2026
+  * (i) "Affiliated income" shall mean the combined income of all of the
+owners of the parcel who resided primarily thereon as of July first of
+the taxable year, and of any owners' spouses residing primarily thereon
+as of such date; provided that the income to be so combined shall be the
+"adjusted gross income" for the taxable year as reported for federal
+income tax purposes, or that would be reported as adjusted gross income
+if a federal income tax return were required to be filed, reduced by
+distributions, to the extent included in federal adjusted gross income,
+received from an individual retirement account and an individual
+retirement annuity.
   * NB Effective January 1, 2026
   (ii) For taxable years beginning on and after January first, two
 thousand nineteen, where an income-eligibility determination is wholly
