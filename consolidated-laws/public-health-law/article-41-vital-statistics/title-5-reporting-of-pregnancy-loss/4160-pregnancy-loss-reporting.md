@@ -19,8 +19,8 @@ of such loss.
   * 2. A fetal death shall be registered within seventy-two hours after
 expulsion of such fetus, by filing directly with the commissioner a
 certificate of such death. In addition, a report of fetal death shall be
-reprted to the registrar in the district in which the fetal death
-occured.
+reported to the registrar in the district in which the fetal death
+occurred.
   * NB Effective March 30, 2027
   * 3. A pregnancy loss due to an induced termination of pregnancy shall
 be registered within seventy-two hours of such pregnancy loss if the

@@ -1110,29 +1110,4 @@ symptoms of pending or increased risk of sudden cardiac arrest. Such
 information shall include, but not be limited to, the definition of
 sudden cardiac arrest, signs and symptoms of sudden cardiac arrest. Such
 information shall be posted on the department's website.
-  * 32. (a) On or before July first, two thousand twenty-five, the
-commissioner shall develop and implement a public awareness campaign to
-educate the public on the safe storage of firearms, rifles and shotguns
-and child access and prevention. The public awareness campaign shall
-include, but not be limited to, educational materials, resources and
-information related to New York state child access prevention laws and
-laws relating to the safe storage and transport of firearms, rifles and
-shotguns including sections 265.45, 265.46, and 400.00 of the penal law,
-available methods for the safe storage of firearms, rifles and shotguns
-designed to prevent child access, firearm violence prevention resources,
-and county and local specific laws and regulations related to child
-access prevention and safe storage of firearms, rifles and shotguns.
-  (b) On or before July first, two thousand twenty-five, the
-commissioner shall make the educational materials developed for use in
-this public awareness campaign readily shareable in a digital format and
-make the materials available on the public facing portion of the
-department's website. The commissioner shall make the educational
-materials readily available to any agency who requests such educational
-materials for dissemination.
-  (c) On July first, two thousand twenty-six, and each July first
-thereafter, the department shall update, as necessary, the educational
-materials developed pursuant to paragraph (a) of this subdivision and
-make available and disseminate the updated materials pursuant to
-paragraph (b) of this subdivision.
-  * NB Repealed June 8, 2025
 ```

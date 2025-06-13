@@ -4,8 +4,8 @@
 [Banking Law](../README.md) › [Article 2 — Department of Financial Services; Superintendent of Financial Services; Supervisory and Regulatory Powers](README.md)
 
 ```text
-  * § 35. Information pamphlet for residential mortgage applicants. 1.
-The superintendent shall develop a pamphlet known as "what mortgage
+  § 35. Information pamphlet for residential mortgage applicants. 1. The
+superintendent shall develop a pamphlet known as "what mortgage
 applicants need to know" and post such pamphlet on the department's web
 site. Such pamphlet shall be posted and printed in the six most common
 non-English languages spoken by individuals with limited-English
@@ -84,5 +84,4 @@ estate broker has violated any rules, regulations or laws which govern
 such person's conduct in working with you to purchase a home."
   3. The superintendent may modify the language of the pamphlet to
 ensure that the pamphlet is accurate and consistent with applicable law.
-  * NB Effective June 11, 2025
 ```

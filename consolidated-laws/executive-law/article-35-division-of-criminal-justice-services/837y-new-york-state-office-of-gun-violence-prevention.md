@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 35 — Division of Criminal Justice Services](README.md)
 
 ```text
-  * § 837-y. New York state office of gun violence prevention. 1.
+  § 837-y. New York state office of gun violence prevention. 1.
 Establishment and organization. There is hereby established within the
 division of criminal justice services an office of gun violence
 prevention, hereinafter "office".
@@ -63,5 +63,4 @@ and annually thereafter.
 shall provide cooperation and assistance, pursuant to subdivision five
 of section eight hundred thirty-six of this article, to the office in
 the effective performance of its duties.
-  * NB Effective June 8, 2025
 ```

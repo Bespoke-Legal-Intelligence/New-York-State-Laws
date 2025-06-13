@@ -17,8 +17,8 @@ treatment provided by a hospital to a rape survivor following an alleged
 rape.
   (c) "Rape" shall mean any act defined in section 130.25, 130.30 or
 130.35 of the penal law.
-  (d) "Rape survivor" or "survivor" shall mean any female person who
-alleges or is alleged to have been raped and who presents as a patient.
+  (d) "Rape survivor" or "survivor" shall mean any person who alleges or
+is alleged to have been raped and who presents as a patient.
   2. Every hospital providing emergency treatment to a rape survivor
 shall promptly:
   (a) provide such survivor with written information prepared or
@@ -27,8 +27,9 @@ emergency contraception;
   (b) orally inform such survivor of the availability of emergency
 contraception, its use and efficacy; and
   (c) provide emergency contraception to such survivor, unless
-contraindicated, upon her request. No hospital may be required to
-provide emergency contraception to a rape survivor who is pregnant.
+contraindicated, upon such survivor's request. No hospital may be
+required to provide emergency contraception to a rape survivor who is
+pregnant.
   3. The commissioner shall develop, prepare and produce informational
 materials relating to emergency contraception for distribution to and
 use in all hospitals in the state, in quantities sufficient to comply

@@ -29,7 +29,7 @@ AN ACT relating to general business, constituting chapter twenty of the
   Assembly, do enact as follows:
 ```
 
-[Full chapter text (197 lines)](chapter-text.md)
+[Full chapter text (198 lines)](chapter-text.md)
 
 ## Recent changes
 

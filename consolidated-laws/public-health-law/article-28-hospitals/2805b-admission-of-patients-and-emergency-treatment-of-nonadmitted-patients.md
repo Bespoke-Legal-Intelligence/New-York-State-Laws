@@ -78,12 +78,12 @@ for providing out-patient emergency medical care must provide such care
 to any person who, in the opinion of a health care practitioner
 licensed, certified, or authorized under title eight of the education
 law, acting within their lawful scope of practice, requires such care.
-  * 3. (a) Medical screening required. Every general hospital must
-provide appropriate medical screening examination within the capability
-of the general hospital's emergency department, including ancillary
-services routinely available to the emergency department when a request
-is made by an individual or on the individual's behalf for examination
-or treatment for a medical condition to determine whether an emergency
+  3. (a) Medical screening required. Every general hospital must provide
+appropriate medical screening examination within the capability of the
+general hospital's emergency department, including ancillary services
+routinely available to the emergency department when a request is made
+by an individual or on the individual's behalf for examination or
+treatment for a medical condition to determine whether an emergency
 medical condition exists. With respect to a pregnant person, such
 medical screening examination must include a determination by a health
 care practitioner licensed, certified, or authorized under title eight

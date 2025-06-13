@@ -90,7 +90,6 @@ paragraph is culturally and linguistically appropriate for all
 recipients; and (2) meet with representatives from the Down syndrome
 community as necessary to ensure such information is current.
   * NB There are 3 par (h)'s
-  * NB Effective June 11, 2025
   * (h) Drug-induced movement disorders, including the importance of
 screening for and identifying symptoms of drug-induced movement
 disorders, treatment for drug-induced movement disorders, and
