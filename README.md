@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 13 Jun 2025.*
+*Current through the publication of 20 Jun 2025.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [20 Jun 2025](changes/2025/2025-06-20.md): Public Health Law; Tax Law; Vehicle and Traffic Law
 - [13 Jun 2025](changes/2025/2025-06-13.md): Banking Law; Correction Law; Education Law; Executive Law; Judiciary Law; Penal Law; Public Health Law; Social Services Law
 - [6 Jun 2025](changes/2025/2025-06-06.md): Cannabis Law; Labor Law; Public Authorities Law; Racing, Pari-Mutuel Wagering and Breeding Law; Tax Law; Vehicle and Traffic Law; Workers' Compensation Law
 - [30 May 2025](changes/2025/2025-05-30.md): Abandoned Property Law; Agriculture and Markets Law; Banking Law; Civil Service Law; Criminal Procedure Law; Environmental Conservation Law; Executive Law; General Business Law; General Municipal Law; Public Health Law; Racing, Pari-Mutuel Wagering and Breeding Law; Social Services Law; State Finance Law; Tax Law; Vehicle and Traffic Law
@@ -22,24 +23,23 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [16 May 2025](changes/2025/2025-05-16.md): Agriculture and Markets Law; Alcoholic Beverage Control Law; Banking Law; Cannabis Law; Civil Practice Law and Rules; Civil Service Law; Correction Law; County Law; Court of Claims Act; Criminal Procedure Law; Economic Development Law; Education Law; Election Law; Environmental Conservation Law; Executive Law; Family Court Act; General Business Law; General Municipal Law; Insurance Law; Judiciary Law; Labor Law; Legislative Law; Medical Care Facilities Finance Agency; Mental Hygiene Law; Military Law; NYS Financial Emergency Act for the city of NY; New York City Civil Court Act; New York City Criminal Court Act; Penal Law; Private Housing Finance Law; Public Authorities Law; Public Health Law; Public Housing Law; Public Officers Law; Racing, Pari-Mutuel Wagering and Breeding Law; Real Property Law; Real Property Tax Law; Retirement and Social Security Law; Social Services Law; State Finance Law; Tax Law; Town Law; Urban Development Corporation Act; Vehicle and Traffic Law; Veterans' Services Law; Workers' Compensation Law
 - [25 Apr 2025](changes/2025/2025-04-25.md): Cannabis Law; Transportation Law; Vehicle and Traffic Law
 - [18 Apr 2025](changes/2025/2025-04-18.md): Education Law
-- [11 Apr 2025](changes/2025/2025-04-11.md): Domestic Relations Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
 | [Labor Law](consolidated-laws/labor-law/README.md) | 230 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | 193 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 194 |
 | [Education Law](consolidated-laws/education-law/README.md) | 155 |
-| [Tax Law](consolidated-laws/tax-law/README.md) | 137 |
-| [General Business Law](consolidated-laws/general-business-law/README.md) | 128 |
+| [Tax Law](consolidated-laws/tax-law/README.md) | 138 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 127 |
+| [General Business Law](consolidated-laws/general-business-law/README.md) | 127 |
 | [Executive Law](consolidated-laws/executive-law/README.md) | 121 |
 | [Penal Law](consolidated-laws/penal-law/README.md) | 113 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 95 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | 85 |
 | [Family Court Act](court-acts/family-court-act/README.md) | 79 |
-| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 73 |
+| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 74 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | 66 |
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 66 |
 | [Correction Law](consolidated-laws/correction-law/README.md) | 63 |
@@ -109,7 +109,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Private Housing Finance Law](consolidated-laws/private-housing-finance-law/README.md) | PVH | 444 | 16 May 2025 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | PBA | 3,269 | 6 Jun 2025 |
 | [Public Buildings Law](consolidated-laws/public-buildings-law/README.md) | PBB | 57 | 20 Dec 2024 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,784 | 13 Jun 2025 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,784 | 20 Jun 2025 |
 | [Public Housing Law](consolidated-laws/public-housing-law/README.md) | PBG | 378 | 23 May 2025 |
 | [Public Lands Law](consolidated-laws/public-lands-law/README.md) | PBL | 78 | 23 Dec 2022 |
 | [Public Officers Law](consolidated-laws/public-officers-law/README.md) | PBO | 116 | 16 May 2025 |
@@ -131,12 +131,12 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [State Law](consolidated-laws/state-law/README.md) | STL | 99 | 3 Jan 2025 |
 | [State Technology Law](consolidated-laws/state-technology-law/README.md) | STT | 37 | 28 Mar 2025 |
 | [Statute of Local Governments](consolidated-laws/statute-of-local-governments/README.md) | SLG | 9 | no change since 22 Sep 2014 (start of history) |
-| [Tax Law](consolidated-laws/tax-law/README.md) | TAX | 1,348 | 6 Jun 2025 |
+| [Tax Law](consolidated-laws/tax-law/README.md) | TAX | 1,348 | 20 Jun 2025 |
 | [Town Law](consolidated-laws/town-law/README.md) | TWN | 361 | 16 May 2025 |
 | [Transportation Corporations Law](consolidated-laws/transportation-corporations-law/README.md) | TCP | 73 | 8 Jul 2022 |
 | [Transportation Law](consolidated-laws/transportation-law/README.md) | TRA | 326 | 25 Apr 2025 |
 | [Uniform Commercial Code](consolidated-laws/uniform-commercial-code/README.md) | UCC | 627 | 3 Jun 2022 |
-| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | VAT | 971 | 6 Jun 2025 |
+| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | VAT | 971 | 20 Jun 2025 |
 | [Veterans' Services Law](consolidated-laws/veterans-services-law/README.md) | VET | 45 | 23 May 2025 |
 | [Village Law](consolidated-laws/village-law/README.md) | VIL | 243 | 3 Jan 2025 |
 | [Volunteer Ambulance Workers' Benefit Law](consolidated-laws/volunteer-ambulance-workers-benefit-law/README.md) | VAW | 55 | 22 Sep 2023 |

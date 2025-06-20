@@ -1727,7 +1727,7 @@ surviving spouses:
 not over $25,000,000:
   (i) the recapture base and incremental benefit shall be determined by
 New York taxable income as follows:
-  Greater than  Not over          Recapture Base    Incremental Benefit
+Greater than    Not over          Recapture Base    Incremental Benefit
 $27,900         $161,550          $0                $333
 $161,550        $323,200          $333              $807
 $323,200        $2,155,350        $1,140            $3,071
@@ -1765,14 +1765,52 @@ paragraph one of subsection (a) of this section.
 not over $25,000,000:
   (i) the recapture base and incremental benefit shall be determined by
 New York taxable income as follows:
-  Greater than   Not over      Recapture Base    Incremental Benefit
+Greater than    Not over          Recapture Base    Incremental Benefit
+$107,650        $269,300          $0                $787
+$269,300        $1,616,450        $787              $2,559
+$1,616,450      $5,000,000        $3,346            $45,260
+$5,000,000      $25,000,000       $48,606           $32,500
+  (ii) the applicable amount shall be determined by New York taxable
+income as follows:
+Greater than Not over    Applicable Amount
+$107,650     $269,300    New York adjusted gross income minus $107,650
+$269,300     $1,616,450  New York adjusted gross income minus $269,300
+$1,616,450   $5,000,000  New York adjusted gross income minus $1,616,450
+$5,000,000   $25,000,000 New York adjusted gross income minus $5,000,000
+  (iii) the phase-in fraction shall be a fraction, the numerator of
+which shall be the lesser of fifty thousand dollars or the applicable
+amount and the denominator of which shall be fifty thousand dollars; and
+  (iv) the supplemental tax due shall equal the sum of the recapture
+base and the product of (i) the incremental benefit and (ii) the
+phase-in fraction. Provided, however, that if the New York taxable
+income of the taxpayer is less than one hundred seven thousand six
+hundred fifty dollars, the supplemental tax shall equal the difference
+between the product of 5.90 percent and New York taxable income and the
+tax table computation on the New York taxable income set forth in
+paragraph one of subsection (b) of this section, multiplied by a
+fraction, the numerator of which is the lesser of fifty thousand dollars
+or New York adjusted gross income minus one hundred seven thousand six
+hundred fifty dollars, and the denominator of which is fifty thousand
+dollars.
+  (B) If New York adjusted gross income is greater than twenty-five
+million dollars, the supplemental tax due shall equal the difference
+between the product of 10.90 percent and New York taxable income and the
+tax table computation on the New York taxable income set forth in
+paragraph one of subsection (b) of this section.
+  (3) For resident unmarried individuals, resident married individuals
+filing separate returns and resident estates and trusts:
+  (A) If New York adjusted gross income is greater than $107,650, but
+not over $25,000,000:
+  (i) the recapture base and incremental benefit shall be determined by
+New York taxable income as follows:
+Greater than   Not over      Recapture Base    Incremental Benefit
 $80,650        $215,400      $0                $567
 $215,400       $1,077,550    $567              $2,047
 $1,077,550     $5,000,000    $2,614            $30,172
 $5,000,000     $25,000,000   $32,786           $32,500
   (ii) the applicable amount shall be determined by New York taxable
 income as follows:
-  Greater than Not over    Applicable Amount
+Greater than Not over    Applicable Amount
 $80,650      $215,400    New York adjusted gross income minus $107,650
 $215,400     $1,077,550  New York adjusted gross income minus $215,400
 $1,077,550   $5,000,000  New York adjusted gross income minus $1,077,550
@@ -1784,10 +1822,10 @@ amount and the denominator of which shall be fifty thousand dollars; and
 base and the product of (i) the incremental benefit and (ii) the
 phase-in fraction. Provided, however, that if the New York taxable
 income of the taxpayer is less than eighty thousand six hundred fifty
-dollars, the supplemental tax shall equal the difference between the
+dollars, the supplemental tax shall equal  the difference between the
 product of 5.90 percent and New York taxable income and the tax table
 computation on the New York taxable income set forth in paragraph one of
-subsection (c) of this section, multiplied by a fraction, the numerator
+subsection (c) of this section, multiplied by a fraction, the  numerator
 of which is the lesser of fifty thousand dollars or New York adjusted
 gross income minus one hundred seven thousand six hundred fifty dollars,
 and the denominator of which is fifty thousand dollars.
