@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | ELN |
 | Type | Consolidated law, chapter 17 |
-| Sections | 455 (2 repealed) |
-| Last changed | 23 May 2025 |
+| Sections | 455 (3 repealed) |
+| Last changed | 27 Jun 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Election |
 
@@ -31,6 +31,7 @@ of section forty-two of the public officers law and amending such law in
 
 ## Recent changes
 
+- [27 Jun 2025](../../changes/2025/2025-06-27.md): 2 amended, 1 repealed
 - [23 May 2025](../../changes/2025/2025-05-23.md): 1 amended
 - [16 May 2025](../../changes/2025/2025-05-16.md): 16 amended
 - [28 Mar 2025](../../changes/2025/2025-03-28.md): 1 amended
@@ -40,7 +41,6 @@ of section forty-two of the public officers law and amending such law in
 - [3 Jan 2025](../../changes/2025/2025-01-03.md): 3 amended
 - [27 Dec 2024](../../changes/2024/2024-12-27.md): 1 amended, 1 added
 - [29 Nov 2024](../../changes/2024/2024-11-29.md): 2 amended, 1 added
-- [27 Sep 2024](../../changes/2024/2024-09-27.md): 1 amended
 
 ## Contents
 

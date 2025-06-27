@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 42 — Social Media Terms of Service](README.md)
 
 ```text
-  * § 1102. Terms of service report. 1. On a semiannual basis in
+  § 1102. Terms of service report. 1. On a semiannual basis in
 accordance with subdivision two of this section, a social media company
 shall submit to the attorney general a terms of service report. The
 terms of service report shall include, for each social media platform
@@ -95,5 +95,4 @@ twenty-six, in accordance with paragraph (a) of this subdivision.
   3. The attorney general shall make all terms of service reports
 submitted pursuant to this section available to the public in a
 searchable repository on its official internet website.
-  * NB Effective June 19, 2025
 ```

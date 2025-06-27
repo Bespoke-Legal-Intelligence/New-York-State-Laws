@@ -17,14 +17,7 @@ available.
 with established and accepted medical principles for local maternal and
 child health services administered by or under the general supervision
 of the commissioner.
-  * 3. In conjunction with the state department having general
-supervision, the commissioner may make or may cause to be made
-investigation of the conditions affecting the health of children in
-institutions for day care or domiciliary care. If he shall find any
-conditions detrimental to health in such institutions, he shall make and
-report recommendations thereon to the appropriate state department.
-  * NB Effective until June 16, 2025
-  * 3. a. The commissioner shall, in conjunction with hospitals,
+  3. a. The commissioner shall, in conjunction with hospitals,
 obstetricians, midwives, doulas, maternal health care provider
 organizations; mental health care provider organizations; and any
 additional stakeholders that the commissioner deems necessary, evaluate
@@ -51,28 +44,17 @@ health's website and update all relevant materials provided to the
 public through the department to reflect these standards. Such
 recommendations shall be updated at least once after publishing and as
 necessary thereafter.
-  * NB Effective June 16, 2025
-  * 4. The commissioner shall cooperate with other state departments
-having jurisdiction over matters affecting the health of mothers and
-children, to the end that existing activities may be coordinated and
-duplication of effort avoided. He shall cooperate with and stimulate
-local agencies, public and private, in promoting such measures and
-undertakings as may be designed to accomplish the purposes of this
-section.
-  * NB Effective until June 16, 2025
-  * 4. In conjunction with the state department having general
+  4. In conjunction with the state department having general
 supervision, the commissioner may make or may cause to be made
 investigation of the conditions affecting the health of children in
 institutions for day care or domiciliary care. If he shall find any
 conditions detrimental to health in such institutions, he shall make and
 report recommendations thereon to the appropriate state department.
-  * NB Effective June 16, 2025
-  * 5. The commissioner shall cooperate with other state departments
+  5. The commissioner shall cooperate with other state departments
 having jurisdiction over matters affecting the health of mothers and
 children, to the end that existing activities may be coordinated and
 duplication of effort avoided. He shall cooperate with and stimulate
 local agencies, public and private, in promoting such measures and
 undertakings as may be designed to accomplish the purposes of this
 section.
-  * NB Effective June 16, 2025
 ```

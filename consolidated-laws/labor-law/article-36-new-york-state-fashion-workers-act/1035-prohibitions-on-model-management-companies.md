@@ -4,8 +4,8 @@
 [Labor Law](../README.md) › [Article 36 — New York State Fashion Workers Act](README.md)
 
 ```text
-  * § 1035. Prohibitions on model management companies. A model
-management company shall not:
+  § 1035. Prohibitions on model management companies. A model management
+company shall not:
   1. require or collect any fee or deposit from a model upon the signing
 of, or as a condition to entering into, any contract or agreement
 between the model management company and the model;
@@ -32,5 +32,4 @@ or
   10. create, alter, or manipulate a model's digital replica using
 artificial intelligence without clear, conspicuous and separate written
 consent from the model.
-  * NB Effective June 19, 2025
 ```

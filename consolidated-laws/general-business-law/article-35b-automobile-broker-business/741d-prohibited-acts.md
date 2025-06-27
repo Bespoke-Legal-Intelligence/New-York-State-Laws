@@ -4,8 +4,8 @@
 [General Business Law](../README.md) › [Article 35-B — Automobile Broker Business](README.md)
 
 ```text
-  * § 741-d. Prohibited acts. An automobile broker business is
-prohibited from:
+  § 741-d. Prohibited acts. An automobile broker business is prohibited
+from:
   1. advertising that such automobile broker business has any new
 automobile in stock;
   2. advertising any price figure in an advertisement unless such figure
@@ -19,5 +19,4 @@ automobile broker business; and
   4. accepting any payment other than that disclosed under section seven
 hundred thirty-eight or seven hundred forty-one-b of this article,
 whether from the dealer or buyer of the automobile.
-  * NB Effective June 19, 2025
 ```

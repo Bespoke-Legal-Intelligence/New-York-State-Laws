@@ -4,7 +4,7 @@
 [Labor Law](../README.md) › [Article 36 — New York State Fashion Workers Act](README.md)
 
 ```text
-  * § 1031. Definitions. As used in this article:
+  § 1031. Definitions. As used in this article:
   1. "Client" means a person or entity that contracts for and manages
 the performance of modeling services from a model or model management
 company, directly or through intermediaries.
@@ -60,5 +60,4 @@ substantially replicates or replaces the model's appearance or
 performance, excluding routine photographic edits such as color
 correction, minor retouching, or other standard post-production
 modifications.
-  * NB Effective June 19, 2025
 ```

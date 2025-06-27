@@ -4,7 +4,7 @@
 [Elder Law](../../README.md) › [Article 2 — Programs For the Elderly](../README.md) › [Title 3 — Program For Elderly Pharmaceutical Insurance Coverage](README.md)
 
 ```text
-  * § 245. Information regarding the home energy assistance program for
+  § 245. Information regarding the home energy assistance program for
 program participants. 1. For the purposes of this section, the following
 terms shall have the following meanings:
   (a) "OTDA" shall mean the state office of temporary and disability
@@ -27,5 +27,4 @@ participant's household in accordance with OTDA regulations.
   5. OTDA and the department of health, in consultation with each other,
 are authorized to promulgate any rules and regulations necessary to
 carry out the provisions of this section.
-  * NB Effective June 19, 2025
 ```

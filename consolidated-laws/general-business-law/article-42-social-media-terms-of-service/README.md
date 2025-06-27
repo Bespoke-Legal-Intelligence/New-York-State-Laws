@@ -15,14 +15,13 @@
 <summary>Official heading of Article 42, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              * ARTICLE 42
+                               ARTICLE 42
                       SOCIAL MEDIA TERMS OF SERVICE
 Section 1100. Definitions.
         1101. Required disclosure of terms of service.  ,of 16
         1102. Terms of service report.
         1103. Violations and remedies.
         1104. Application.
-  * NB Effective June 19, 2025
 ```
 
 </details>

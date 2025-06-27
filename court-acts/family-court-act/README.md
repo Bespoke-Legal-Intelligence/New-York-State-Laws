@@ -8,7 +8,7 @@
 | Senate code | FCT |
 | Type | Court act |
 | Sections | 700 |
-| Last changed | 16 May 2025 |
+| Last changed | 27 Jun 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Family Court Act |
 
@@ -31,6 +31,7 @@
 
 ## Recent changes
 
+- [27 Jun 2025](../../changes/2025/2025-06-27.md): 8 amended
 - [16 May 2025](../../changes/2025/2025-05-16.md): 2 amended
 - [4 Apr 2025](../../changes/2025/2025-04-04.md): 2 amended
 - [21 Mar 2025](../../changes/2025/2025-03-21.md): 1 amended
@@ -40,7 +41,6 @@
 - [21 Feb 2025](../../changes/2025/2025-02-21.md): 8 amended
 - [24 Jan 2025](../../changes/2025/2025-01-24.md): 8 amended
 - [10 Jan 2025](../../changes/2025/2025-01-10.md): 2 amended
-- [27 Dec 2024](../../changes/2024/2024-12-27.md): 28 amended, 2 added
 
 ## Contents
 

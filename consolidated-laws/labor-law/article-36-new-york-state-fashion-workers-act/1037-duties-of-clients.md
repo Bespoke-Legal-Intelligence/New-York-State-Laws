@@ -4,7 +4,7 @@
 [Labor Law](../README.md) › [Article 36 — New York State Fashion Workers Act](README.md)
 
 ```text
-  * § 1037. Duties of clients. A client shall:
+  § 1037. Duties of clients. A client shall:
   1. compensate models at an hourly rate at least fifty percent higher
 than the contracted hourly rate for any employment, engagement,
 entertainment, exhibition or performance that exceeds eight hours in any
@@ -31,5 +31,4 @@ safety of models; and
   7. obtain clear and conspicuous prior written consent from the model
 for any creation or use of a model's digital replica, detailing the
 scope, purpose, rate of pay, and duration of such use.
-  * NB Effective June 19, 2025
 ```

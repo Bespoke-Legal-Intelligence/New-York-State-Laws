@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 42 — Social Media Terms of Service](README.md)
 
 ```text
-  * § 1101. Required disclosure of terms of service. 1. A social media
+  § 1101. Required disclosure of terms of service. 1. A social media
 company shall post terms of service for each social media platform owned
 or operated by the company in a manner reasonably designed to inform all
 users of the social media platform of the existence and contents of the
@@ -26,5 +26,4 @@ languages spoken by limited-English proficient individuals in the state,
 as outlined in section two hundred two-a of the executive law, in which
 the social media platform offers product features, including, but not
 limited to, menus and prompts.
-  * NB Effective June 19, 2025
 ```

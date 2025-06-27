@@ -20,7 +20,7 @@
 <summary>Official heading of Article 36, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              * ARTICLE 36
+                               ARTICLE 36
                    NEW YORK STATE FASHION WORKERS ACT
 Section 1030. Short title.
         1031. Definitions.
@@ -32,7 +32,6 @@ Section 1030. Short title.
         1037. Duties of clients.
         1038. Violations, penalties and procedures.
         1039. Other legal requirements.
-  * NB Effective June 19, 2025
 ```
 
 </details>

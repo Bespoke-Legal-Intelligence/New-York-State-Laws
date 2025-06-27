@@ -206,5 +206,5 @@ assessment-based treatment plans, as defined in section eighty-four
 hundred one of this article, in a facility setting or other supervised
 settings approved by the department under supervision in accordance with
 the commissioner's regulations.
-  * NB Repealed June 24, 2025
+  * NB Repealed June 24, 2027
 ```

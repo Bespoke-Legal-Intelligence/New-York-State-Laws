@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 39-FF — New York Child Data Protection Act](README.md)
 
 ```text
-  * § 899-jj. Protections for third-party operators. Sections eight
+  § 899-jj. Protections for third-party operators. Sections eight
 hundred ninety-nine-ff and eight hundred ninety-nine-gg of this article
 shall not apply where a third-party operator is processing the personal
 data of a covered user of another website, online service, online
@@ -17,5 +17,4 @@ is a minor; and
   2. the operator does not have actual knowledge that the other website,
 online service, online application, mobile application, or connected
 device, or portion thereof, is primarily directed to minors.
-  * NB Effective June 20, 2025
 ```

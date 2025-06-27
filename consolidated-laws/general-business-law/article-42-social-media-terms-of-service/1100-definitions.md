@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 42 — Social Media Terms of Service](README.md)
 
 ```text
-  * § 1100. Definitions. For purposes of this article, the following
+  § 1100. Definitions. For purposes of this article, the following
 definitions apply:
   1. "Actioned" means a social media company, that due to a suspected or
 confirmed violation of the terms of service, has taken some form of
@@ -48,5 +48,4 @@ activities that are permitted on the internet-based service owned or
 operated by the social media company, and the user behavior and
 activities that may subject the user or an item of content to being
 actioned.
-  * NB Effective June 19, 2025
 ```

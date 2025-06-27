@@ -1024,7 +1024,7 @@ linked back to the vehicle. Such etching kits shall be offered by every
 new motor vehicle dealer and qualified dealer to any person purchasing a
 new motor vehicle, at no more than the cost of such etching kit to such
 dealer.
-  * 22. Compliance. All dealers and automobile broker businesses
+  22. Compliance. All dealers and automobile broker businesses
 registered under subdivisions three and three-a of this section shall
 certify and attest to compliance with sections three hundred
 ninety-nine-cc, as added by chapter 655 of the laws of 2005, three
@@ -1034,8 +1034,7 @@ hundred ninety-nine-oo, three hundred ninety-nine-p, three hundred
 ninety-nine-pp, eight hundred ninety-nine-bb of the general business
 law, and part three hundred fourteen of title sixteen of the code of
 federal regulations as applicable.
-  * NB Effective June 19, 2025
-  * 23. Automobile broker record requirements. (a) For each completed
+  23. Automobile broker record requirements. (a) For each completed
 transaction and within three business days of consummation thereof,
 automobile brokers shall maintain a permanent paper file record that
 clearly evidences and records the make, model, year, color and vehicle
@@ -1059,8 +1058,7 @@ use a computer and appropriate software to maintain the records required
 to be kept by this section, provided all information required by
 paragraphs (a) and (b) of this subdivision are duly recorded and
 maintained in accordance with this subdivision.
-  * NB Effective June 19, 2025
-  * 24. Maintenance records. For each sale or lease of a motor vehicle
+  24. Maintenance records. For each sale or lease of a motor vehicle
 that involves an automobile broker business, the dealer must obtain
 evidence of the automobile broker business' registration and the
 broker's registration number and maintain such records in the deal
@@ -1069,8 +1067,7 @@ copies of the title and registration documents, the bill of sale and the
 retail installment sale contract required under article ten of the
 personal property law or the retail lease agreement required under
 article nine-A of the personal property law.
-  * NB Effective June 19, 2025
-  * 25. Broker compensation. No dealer may offer or pay an automobile
+  25. Broker compensation. No dealer may offer or pay an automobile
 broker business any fee, or commission, other than compensation
 disclosed pursuant to section seven hundred thirty-eight or seven
 hundred forty-one-b of the general business law or section three hundred
@@ -1078,5 +1075,4 @@ two or three hundred thirty-seven of the personal property law;
 provided, however, that the automobile broker business may not accept
 any such fee or commission from the dealer if the broker has or will
 accept payment from the buyer or lessee of the automobile.
-  * NB Effective June 19, 2025
 ```

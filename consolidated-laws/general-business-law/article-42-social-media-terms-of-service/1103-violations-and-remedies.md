@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 42 — Social Media Terms of Service](README.md)
 
 ```text
-  * § 1103. Violations and remedies. 1. (a) A social media company that
+  § 1103. Violations and remedies. 1. (a) A social media company that
 violates the provisions of this article shall be liable for a civil
 penalty not to exceed fifteen thousand dollars per violation per day,
 and may be enjoined in any court of competent jurisdiction.
@@ -33,5 +33,4 @@ the requirements delineated in this article. No civil penalty may be
 imposed against the company provided the violation is verifiably cured
 within the thirty-day timeframe to the satisfaction of the enforcing
 authority.
-  * NB Effective June 19, 2025
 ```

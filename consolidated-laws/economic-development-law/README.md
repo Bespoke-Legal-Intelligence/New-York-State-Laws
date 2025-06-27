@@ -8,7 +8,7 @@
 | Senate code | COM |
 | Type | Consolidated law, chapter 15 |
 | Sections | 221 |
-| Last changed | 16 May 2025 |
+| Last changed | 27 Jun 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Economic Development Law |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [27 Jun 2025](../../changes/2025/2025-06-27.md): 2 amended
 - [16 May 2025](../../changes/2025/2025-05-16.md): 19 amended, 15 added
 - [21 Feb 2025](../../changes/2025/2025-02-21.md): 3 amended
 - [24 Jan 2025](../../changes/2025/2025-01-24.md): 2 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [7 Jul 2023](../../changes/2023/2023-07-07.md): 2 amended
 - [12 May 2023](../../changes/2023/2023-05-12.md): 2 amended, 1 added
 - [7 Apr 2023](../../changes/2023/2023-04-07.md): 1 amended
-- [27 Jan 2023](../../changes/2023/2023-01-27.md): 1 amended
 
 ## Contents
 

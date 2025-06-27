@@ -4,10 +4,10 @@
 [Labor Law](../README.md) › [Article 36 — New York State Fashion Workers Act](README.md)
 
 ```text
-  * § 1038. Violations, penalties and procedures. 1. Any model
-management company or model management group that has failed to comply
-with the registration requirements of section one thousand thirty-two of
-this article shall be deemed to have violated this article.
+  § 1038. Violations, penalties and procedures. 1. Any model management
+company or model management group that has failed to comply with the
+registration requirements of section one thousand thirty-two of this
+article shall be deemed to have violated this article.
   2. Any model management company or model management group that has
 failed to comply within the time specified by law with an order issued
 by the commissioner to comply with the registration requirements of
@@ -117,5 +117,4 @@ complaints with the client, model management company, model management
 group, commissioner, or attorney general. Any violation of this section
 shall be subject to enforcement in the same manner as prescribed in
 section two hundred fifteen of this chapter.
-  * NB Effective June 19, 2025
 ```

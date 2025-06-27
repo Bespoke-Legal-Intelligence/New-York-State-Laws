@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 39-FF — New York Child Data Protection Act](README.md)
 
 ```text
-  * § 899-mm. Remedies. Whenever it appears to the attorney general,
+  § 899-mm. Remedies. Whenever it appears to the attorney general,
 either upon complaint or otherwise, that any person, within or outside
 the state, has engaged in or is about to engage in any of the acts or
 practices stated to be unlawful in this article, the attorney general
@@ -18,5 +18,4 @@ obtained data, to obtain damages caused directly or indirectly by any
 such violation, to obtain civil penalties of up to five thousand dollars
 per violation, and to obtain any such other and further relief as the
 court may deem proper, including preliminary relief.
-  * NB Effective June 20, 2025
 ```

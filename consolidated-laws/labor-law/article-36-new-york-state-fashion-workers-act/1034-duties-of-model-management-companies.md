@@ -4,7 +4,7 @@
 [Labor Law](../README.md) › [Article 36 — New York State Fashion Workers Act](README.md)
 
 ```text
-  * § 1034. Duties of model management companies. A model management
+  § 1034. Duties of model management companies. A model management
 company shall:
   1. be deemed to have a fiduciary duty to the models they represent and
 shall be required to act in good faith, with the utmost honesty and
@@ -67,5 +67,4 @@ contract with a model or client; and
 use of a model's digital replica, detailing the scope, purpose, rate of
 pay, and duration of such use. This consent must be obtained separately
 from the representation agreement.
-  * NB Effective June 19, 2025
 ```

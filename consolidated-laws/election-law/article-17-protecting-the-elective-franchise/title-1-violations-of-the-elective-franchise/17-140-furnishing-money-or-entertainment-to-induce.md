@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Election Law § 17-140", "kind": "section", "law_id": "ELN", "location_id": "17-140", "path": "ARTICLE 17 › TITLE 1 › SECTION 17-140", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/17-140.md", "title": "Furnishing money or entertainment to induce attendance at polls"} -->
+﻿<!-- nyslaw {"citation": "Election Law § 17-140", "kind": "section", "law_id": "ELN", "location_id": "17-140", "path": "ARTICLE 17 › TITLE 1 › SECTION 17-140", "repealed": true, "repealed_date": "2025-06-27", "source": "nys-laws:ELN/17-140.md", "title": "Furnishing money or entertainment to induce attendance at polls"} -->
 # Election Law § 17-140 — Furnishing money or entertainment to induce attendance at polls
 
 [Election Law](../../README.md) › [Article 17 — Protecting the Elective Franchise](../README.md) › [Title 1 — Violations of the Elective Franchise](README.md)
+
+**Repealed** (27 Jun 2025). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 17-140. Furnishing money or entertainment to induce attendance at
