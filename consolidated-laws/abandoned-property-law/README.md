@@ -8,7 +8,7 @@
 | Senate code | ABP |
 | Type | Consolidated law, chapter 1 |
 | Sections | 120 |
-| Last changed | 30 May 2025 |
+| Last changed | 4 Jul 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Abandoned Property |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [4 Jul 2025](../../changes/2025/2025-07-04.md): 4 amended
 - [30 May 2025](../../changes/2025/2025-05-30.md): 4 amended
 - [29 Nov 2024](../../changes/2024/2024-11-29.md): 1 amended
 - [2 Dec 2022](../../changes/2022/2022-12-02.md): 1 amended, 1 added

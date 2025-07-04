@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | STT |
 | Type | Consolidated law, chapter 57-A |
-| Sections | 37 |
-| Last changed | 28 Mar 2025 |
+| Sections | 39 (2 repealed) |
+| Last changed | 4 Jul 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | State Technology |
 
@@ -23,7 +23,7 @@
                           STATE TECHNOLOGY LAW
 Article                                              Section
    I    Office of Information Technology Services    (§§ 101-107)
-   II   Internet Security and Privacy Act            (§§ 201-209)
+   II   Internet Security and Privacy Act            (§§ 201-210)
    III  Electronic Signatures and Records Act        (§§ 301-309)
    IV   Automated decision-making in state           (§§ 401-402)
         government
@@ -33,6 +33,7 @@ Article                                              Section
 
 ## Recent changes
 
+- [4 Jul 2025](../../changes/2025/2025-07-04.md): 3 amended, 2 added, 2 repealed
 - [28 Mar 2025](../../changes/2025/2025-03-28.md): 1 amended, 2 added
 - [21 Feb 2025](../../changes/2025/2025-02-21.md): 3 amended, 1 added, 2 removed
 - [3 Jan 2025](../../changes/2025/2025-01-03.md): 1 amended
@@ -42,7 +43,6 @@ Article                                              Section
 - [21 Jun 2024](../../changes/2024/2024-06-21.md): 1 amended
 - [16 Feb 2024](../../changes/2024/2024-02-16.md): 1 amended
 - [9 Feb 2024](../../changes/2024/2024-02-09.md): 3 amended, 2 added, 2 removed
-- [2 Feb 2024](../../changes/2024/2024-02-02.md): 1 amended
 
 ## Contents
 

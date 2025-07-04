@@ -16,6 +16,7 @@
 - [§ 4-F Credit relating to certain sales and compensating use taxes on electricity used in manufacturing, processing or assembling](04f-credit-relating-to-certain-sales-and-compensating-use-taxes-on-electricity-used.md)
 - [§ 4-H Relocation and employment assistance credit](04h-relocation-and-employment-assistance-credit.md)
 - [§ 4-I Lower Manhattan relocation and employment assistance credit](04i-lower-manhattan-relocation-and-employment-assistance-credit.md)
+- [§ 4-J Relocation assistance credit per employee](04j-relocation-assistance-credit-per-employee.md)
 - [§ 5 Reports](05-reports.md)
 - [§ 6 Payment and lien of tax](06-payment-and-lien-of-tax.md)
 - [§ 7 Declaration of estimated tax](07-declaration-of-estimated-tax.md)

@@ -4,7 +4,7 @@
 [State Technology Law](../README.md) › [Article 4 — Automated Employment Decision-making In State Government](README.md)
 
 ```text
-  * § 401. Definitions. For the purpose of this article:
+  § 401. Definitions. For the purpose of this article:
   1. "Automated employment decision-making tool" shall mean any software
 that uses algorithms, computational models, or artificial intelligence
 techniques, or a combination thereof, to materially automate or replace
@@ -21,5 +21,4 @@ individual within the state.
   2. "State agency" shall mean any department, public authority, board,
 bureau, commission, division, office, council, committee or officer of
 the state. Such terms shall not include the legislature or judiciary.
-  * NB Effective July 1, 2025
 ```

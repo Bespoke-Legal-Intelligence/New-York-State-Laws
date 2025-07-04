@@ -1,29 +1,17 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 6", "kind": "section", "law_id": "TAX", "location_id": "6", "path": "ARTICLE 1 › SECTION 6", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/6.md", "title": "Filing of warrants in the department of state"} -->
-# Tax Law § 6 — Filing of warrants in the department of state
+﻿<!-- nyslaw {"citation": "Tax Law § 6", "kind": "section", "law_id": "TAX", "location_id": "6", "path": "ARTICLE 1 › SECTION 6", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/6.md", "title": "Filing of electronic warrants and warrant-related records in the department of state"} -->
+# Tax Law § 6 — Filing of electronic warrants and warrant-related records in the department of state
 
 [Tax Law](../README.md) › [Article 1 — Short Title; Definitions; Miscellaneous](README.md)
 
 ```text
-  * § 6. Filing of warrants in the department of state. Wherever under
-the provisions of this chapter a warrant is required to be filed in the
-department of state in order to create a lien on personal property such
-requirement shall be satisfied if there is filed a record of the fact of
-the issuance of such warrant, including the name of the person on the
-basis of whose tax liability the warrant is issued, the last known
-address of such person, and the amount of such tax liability, including
-penalties and interest. No fee shall be required to be paid for such
-filing of such warrant or such record. The term "filed" in such
-provisions shall mean presentation to the department of state, for
-filing, of such warrant or such record.
-  * NB Effective until July 1, 2025
-  * § 6. Filing of electronic warrants and warrant-related records in
-the department of state. 1. Notwithstanding any provision of this
-chapter or a related statute to the contrary, all warrants and
-warrant-related records issued by the department shall be filed
-electronically by the department in the department of state. No fee
-shall be required to be paid for such filings. On the date of the
-electronic filing of a warrant, as confirmed by the department of state
-pursuant to subdivision five of this section:
+  § 6. Filing of electronic warrants and warrant-related records in the
+department of state. 1. Notwithstanding any provision of this chapter or
+a related statute to the contrary, all warrants and warrant-related
+records issued by the department shall be filed electronically by the
+department in the department of state. No fee shall be required to be
+paid for such filings. On the date of the electronic filing of a
+warrant, as confirmed by the department of state pursuant to subdivision
+five of this section:
   (a) the amount of the tax stated in the warrant shall become a lien
 upon the title to and interest in all real, personal or other property
 located in New York state, owned by the person or persons named in the
@@ -76,5 +64,4 @@ and the date of such filing.
 place of filing of a tax warrant and the creation thereby of a tax lien
 and judgment, the provisions of this section shall govern such matters
 for purposes of any taxes imposed by or pursuant to this chapter.
-  * NB Effective July 1, 2025
 ```

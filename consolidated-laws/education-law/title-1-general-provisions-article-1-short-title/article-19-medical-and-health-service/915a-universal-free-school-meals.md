@@ -4,14 +4,14 @@
 [Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 19 — Medical and Health Service](README.md)
 
 ```text
-  * § 915-a. Universal free school meals. 1. The department shall
-require all school districts, charter schools and non-public schools in
-the state that participate in the national school lunch program or
-school breakfast program as provided in the Richard B. Russell National
-School Lunch Act and the Child Nutrition Act, as amended, to serve
-breakfast and lunch at no cost to the student. School districts, charter
-schools and non-public schools shall maximize federal reimbursement for
-school breakfast and lunch programs by adopting Provision 2, the federal
+  § 915-a. Universal free school meals. 1. The department shall require
+all school districts, charter schools and non-public schools in the
+state that participate in the national school lunch program or school
+breakfast program as provided in the Richard B. Russell National School
+Lunch Act and the Child Nutrition Act, as amended, to serve breakfast
+and lunch at no cost to the student. School districts, charter schools
+and non-public schools shall maximize federal reimbursement for school
+breakfast and lunch programs by adopting Provision 2, the federal
 Community Eligibility Provision, or any other provision under such Act,
 the National School Lunch Act or the National Child Nutrition Act that,
 in the opinion of the department, maximizes federal funding for meals
@@ -70,5 +70,4 @@ per year, designating children as "Other Source Categorically Eligible",
 as defined by federal regulations, or, for schools not participating in
 the Community Eligibility Provision or Provision 2, by annually
 collecting the free and reduced-price meal application.
-  * NB Effective July 1, 2025
 ```

@@ -18,7 +18,7 @@ contained in section two of the model local law.
   (b) (i) A local law enacted pursuant to the authority of this section
 shall go into effect on the first day of January, nineteen hundred
 eighty-four and shall apply to taxable years beginning on or after such
-date and before two thousand twenty-six. Provided, however, no such
+date and before two thousand twenty-eight. Provided, however, no such
 local law shall be so effective unless such local law is enacted by July
 thirty-first, nineteen hundred eighty-four and unless a certified copy
 of such local law is mailed by registered or certified mail to the
@@ -27,7 +27,7 @@ If the requirements of the preceding sentence are not met, a local law
 enacted pursuant to the authority of this section shall go into effect
 on the first day of the next succeeding January and shall apply to
 taxable years beginning on or after such date and before two thousand
-twenty-six. Provided, however, no such local law shall be so effective
+twenty-eight. Provided, however, no such local law shall be so effective
 unless such local law is enacted at least ninety days prior to the date
 it is to become effective and unless a certified copy of such local law
 is mailed by registered or certified mail to the commissioner at such
@@ -42,15 +42,15 @@ day of January in the year in which such amendment is enacted and shall
 apply to taxable years beginning on or after such date, if such
 amendment is enacted on or before July thirty-first of the year in which
 it is to take effect and a certified copy of such amendment is mailed by
-registered or certified mail to the commissioner at his or her office in
-Albany by such date. (iv) If the requirements of paragraph (iii) of this
-subsection are not met, the amendment of such local law shall go into
-effect on the first day of the next succeeding January and shall apply
-to taxable years beginning on or after such date, provided that no such
-amendment shall take effect unless it is enacted at least ninety days
-prior to the date it is to become effective and a certified copy thereof
-is mailed by registered or certified mail to the commissioner at his or
-her office in Albany by such date.
+registered or certified mail to the commissioner at the commissioner's
+office in Albany by such date. (iv) If the requirements of paragraph
+(iii) of this subsection are not met, the amendment of such local law
+shall go into effect on the first day of the next succeeding January and
+shall apply to taxable years beginning on or after such date, provided
+that no such amendment shall take effect unless it is enacted at least
+ninety days prior to the date it is to become effective and a certified
+copy thereof is mailed by registered or certified mail to the
+commissioner at the commissioner's office in Albany by such date.
   (c) The terms of such local law shall be substantially the same as the
 following model local law.
                       EARNINGS TAX ON NONRESIDENTS
@@ -293,7 +293,7 @@ authority granted by article thirty-A of the tax law.
   § 3. Taxable years to which tax imposed by this local law applies. The
 tax imposed by this local law is imposed for taxable years beginning
 after December thirty-first, nineteen hundred eighty-three and before
-January first, two thousand twenty-six.
+January first, two thousand twenty-eight.
   § 4. Allocation to the city. (a) General. If net earnings from
 self-employment are derived from services performed, or from sources,
 within and without the city, there shall be allocated to the city a fair

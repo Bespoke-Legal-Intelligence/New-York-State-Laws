@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | GCT |
 | Type | Consolidated law, chapter 21 |
-| Sections | 205 |
-| Last changed | 12 May 2023 |
+| Sections | 207 |
+| Last changed | 4 Jul 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General City |
 
@@ -29,10 +29,11 @@ Became a law February 17, 1909, with the approval of the Governor.
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (37 lines)](chapter-text.md)
+[Full chapter text (39 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [4 Jul 2025](../../changes/2025/2025-07-04.md): 2 amended, 2 added
 - [12 May 2023](../../changes/2023/2023-05-12.md): 4 amended
 - [16 Dec 2022](../../changes/2022/2022-12-16.md): 1 amended
 - [19 Aug 2022](../../changes/2022/2022-08-19.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [13 Nov 2020](../../changes/2020/2020-11-13.md): 1 amended
 - [16 Oct 2020](../../changes/2020/2020-10-16.md): 1 amended
 - [25 Sep 2020](../../changes/2020/2020-09-25.md): 1 amended
-- [24 Apr 2020](../../changes/2020/2020-04-24.md): 4 amended
 
 ## Contents
 
@@ -56,6 +56,7 @@ Assembly, do enact as follows:
 - [Article 2-H — Relocation and Employment Assistance Program](article-02h-relocation-and-employment-assistance-program/)
 - [Article 2-I — Rebates of Charges For Energy In Revitalization Areas In Cities Having a Population of One Million or More](article-02i-rebates-of-charges-for-energy-in-revitalization/)
 - [Article 2-J — Lower Manhattan Relocation and Employment Assistance Program](article-02j-lower-manhattan-relocation-and-employment/)
+- [Article 2-K — Relocation Assistance Credit Per Employee](article-02k-relocation-assistance-credit-per-employee/)
 - [Article 3 — No title](article-03-no-title/)
 - [Article 4 — Plumbing and Drainage](article-04-plumbing-and-drainage/)
 - [Article 4-A — Supervision and Regulation of Plastering](article-04a-supervision-and-regulation-of-plastering/)

@@ -11,6 +11,7 @@
 - [§ 711 Reports](711-reports.md)
 - [§ 711-A Analyze and report on the feasibility of implementing tornado warning systems](711a-analyze-and-report-on-the-feasibility-of-implementing-tornado-warning-systems.md)
 - [§ 711-B Review of water supplier vulnerability analysis assessments](711b-review-of-water-supplier-vulnerability-analysis-assessments.md)
+- [§ 711-C Cybersecurity incident reviews](711c-cybersecurity-incident-reviews.md)
 - [§ 712 Miscellaneous](712-miscellaneous.md)
 - [§ 713 Protection of critical infrastructure including energy generating and transmission facilities](713-protection-of-critical-infrastructure-including-energy-generating.md)
 - [§ 714 Protection of critical infrastructure; storage facilities for hazardous substances](714-protection-of-critical-infrastructure-storage-facilities-for-hazardous.md)
@@ -37,6 +38,7 @@ Section 709.   Division of homeland security and emergency services;
                  tornado warning systems.
         711-b. Review of water supplier vulnerability analysis
                  assessments.
+        711-c. Cybersecurity incident reviews.
         712.   Miscellaneous.
         713.   Protection of critical infrastructure including energy
                  generating and transmission facilities.

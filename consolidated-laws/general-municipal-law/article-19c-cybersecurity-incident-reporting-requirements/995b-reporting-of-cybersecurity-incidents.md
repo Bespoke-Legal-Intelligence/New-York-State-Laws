@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 995-B", "kind": "section", "law_id": "GMU", "location_id": "995-B", "path": "ARTICLE 19-C › SECTION 995-B", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/995-B.md", "title": "Reporting of cybersecurity incidents"} -->
+# General Municipal Law § 995-B — Reporting of cybersecurity incidents
+
+[General Municipal Law](../README.md) › [Article 19-C — Cybersecurity Incident Reporting Requirements For Municipal Corporations and Public Authorities](README.md)
+
+```text
+  * § 995-b. Reporting of cybersecurity incidents. 1. Notwithstanding
+any other provision of law to the contrary, all municipal corporations
+and public authorities shall report cybersecurity incidents and when
+applicable, the demand of a ransom payment, to the commissioner of the
+division of homeland security and emergency services in the form and
+method prescribed by such commissioner. Such report shall include
+whether the reporting municipal corporation or public authority is
+requesting or declining advice and/or technical assistance from the
+division of homeland security and emergency services with respect to the
+reported cybersecurity incident or demand for a ransom payment.
+  2. All municipal corporations and public authorities shall report
+cybersecurity incidents, including demands for ransom payment, no later
+than seventy-two hours after the municipal corporation or public
+authority reasonably believes the cybersecurity incident has occurred.
+  3. Any cybersecurity incident report and any records related to a
+ransom payment submitted to the commissioner of the division of homeland
+security and emergency services pursuant to the requirements of this
+article shall be exempt from disclosure under article six of the public
+officers law.
+  * NB Effective July 26, 2025
+```

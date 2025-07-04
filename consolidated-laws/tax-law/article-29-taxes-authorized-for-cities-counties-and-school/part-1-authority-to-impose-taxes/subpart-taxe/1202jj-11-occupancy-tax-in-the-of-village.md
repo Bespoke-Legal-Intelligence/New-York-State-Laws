@@ -6,19 +6,22 @@
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
 ```text
-  * § 1202-jj. Occupancy tax in the of village of Coxsackie. (1)
+  * § 1202-jj. Occupancy tax in the of village of Coxsackie.  (1)
 Notwithstanding any other provisions of law to the contrary, the village
 of Coxsackie, in the county of Greene, is hereby authorized and
 empowered to adopt and amend local laws imposing in such village a tax,
 in addition to any other tax authorized and imposed pursuant to this
 article, such as the legislature has or would have the power and
-authority to impose upon persons occupying any facility or short-term
-rental providing lodging on an overnight basis. The rates of such tax
-shall be four percent of the per diem rental rate for each room
-provided, however, such tax shall not be applicable to a permanent
-resident of facility or short-term rental. For the purposes of this
-section the term "permanent resident" shall mean a person occupying any
-room or rooms in any facility or short-term rental providing lodging on
+authority to impose upon persons occupying any hotel or motel providing
+lodging on an overnight basis. For the purposes of this section, the
+term "hotel" or "motel" shall mean and include any facility providing
+lodging on an overnight basis and shall include those facilities
+designated and commonly known as "bed and breakfast" and "tourist"
+facilities. The rates of such tax shall be four percent of the per diem
+rental rate for each room provided, however, such tax shall not be
+applicable to a permanent resident of a hotel or motel. For the purposes
+of this section the term "permanent resident" shall mean a person
+occupying any room or rooms in any hotel or motel providing lodging on
 an overnight basis for at least thirty consecutive days.
   (2) Such taxes may be collected and administered by the village
 treasurer or other fiscal officers of the village of Coxsackie by such
@@ -26,20 +29,19 @@ means and in such manner as other taxes which are now collected and
 administered by such officers or as otherwise may be provided by such
 local law.
   (3) Such local laws may provide that any taxes imposed shall be paid
-by the person liable therefor to the owner of any facility or short-term
-rental providing lodging on an overnight basis occupied or to the person
-entitled to be paid the rent or charge for the facility or short-term
-rental providing lodging on an overnight basis occupied for and on
-account of the village of Coxsackie imposing the taxes and that such
-owner or person entitled to be paid the rent or charge shall be liable
-for the collection and payment of the taxes; and that such owner or
-person entitled to be paid the rent or charge shall have the same right
-in respect to collecting the taxes from the person occupying the
-facility or short-term rental providing lodging on an overnight basis or
-in respect to nonpayment of the taxes by the person occupying the
-facility or short-term rental providing lodging on an overnight basis,
-as if the taxes were a part of the rent or charge and payable at the
-same time as the rent or charge; provided, however, that the village
+by the person liable therefor to the owner of any hotel or motel
+providing lodging on an overnight basis occupied or to the person
+entitled to be paid the rent or charge for the hotel or motel providing
+lodging on an overnight basis occupied for and on account of the village
+of Coxsackie imposing the taxes and that such owner or person entitled
+to be paid the rent or charge shall be liable for the collection and
+payment of the taxes; and that such owner or person entitled to be paid
+the rent or charge shall have the same right in respect to collecting
+the taxes from the person occupying the hotel or motel providing lodging
+on an overnight basis or in respect to nonpayment of the taxes by the
+person occupying the hotel or motel providing lodging on an overnight
+basis, as if the taxes were a part of the rent or charge and payable at
+the same time as the rent or charge; provided, however, that the village
 treasurer or other fiscal officers of the village, specified in such
 local laws, shall be joined as a party in any action or proceeding
 brought to collect the taxes by the owner or by the person entitled to

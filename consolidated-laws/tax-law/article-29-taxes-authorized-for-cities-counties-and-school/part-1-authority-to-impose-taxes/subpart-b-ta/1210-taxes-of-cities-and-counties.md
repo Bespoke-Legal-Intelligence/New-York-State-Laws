@@ -432,13 +432,13 @@ one percent additional to the three percent rate authorized above in
 this paragraph for such city; and (b) one-half of one percent in
 addition to the other rates authorized in this paragraph for such city
 for the period beginning September first, two thousand fifteen and
-ending November thirtieth, two thousand twenty-five;
-  * NB Effective until November 30, 2025
+ending November thirtieth, two thousand twenty-seven;
+  * NB Effective until November 30, 2027
   * (1) the city of Yonkers is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is one percent additional to the three percent
 rate authorized above in this paragraph for such city;
-  * NB Effective November 30, 2025
+  * NB Effective November 30, 2027
   (2) the city of Mount Vernon is hereby further authorized and
 empowered to adopt and amend local laws, ordinances or resolutions
 imposing such taxes at a rate which is one percent additional to the
@@ -496,7 +496,7 @@ Putnam and Schenectady; one-eighth of one percent and three-eighths of
 one percent for the county of Ontario; one-half of one percent and
 one-half of one percent for the county of Sullivan; one percent and
 one-half of one percent for the city of Yonkers;
-  * NB Effective until November 30, 2025
+  * NB Effective until November 30, 2027
   * (iii) the maximum rate referred to in section twelve hundred
 twenty-four of this article shall be calculated without reference to the
 following additional rates authorized in subparagraphs (i) and (ii) of
@@ -518,7 +518,7 @@ for the county of Rockland; one-half of one percent for the counties of
 Putnam and Schenectady; one-eighth of one percent and three-eighths of
 one percent for the county of Ontario; and one-half of one percent and
 one-half of one percent for the county of Sullivan;
-  * NB Effective November 30, 2025
+  * NB Effective November 30, 2027
   (iv) with respect to certain counties in the metropolitan commuter
 transportation district, if the county of Dutchess, the county of Orange
 or the county of Rockland withdraws from the metropolitan commuter

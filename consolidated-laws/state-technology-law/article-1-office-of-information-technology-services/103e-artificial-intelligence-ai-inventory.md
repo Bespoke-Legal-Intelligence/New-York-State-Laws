@@ -4,7 +4,7 @@
 [State Technology Law](../README.md) › [Article 1 — Office of Information Technology Services](README.md)
 
 ```text
-  * § 103-e. Artificial intelligence (AI) inventory. 1. The office shall
+  § 103-e. Artificial intelligence (AI) inventory. 1. The office shall
 maintain an inventory of state agency artificial intelligence systems.
 The office shall issue guidance to state agencies identifying the data
 elements to be collected and submitted to the office for such inventory,
@@ -49,5 +49,4 @@ under this section.
   5. The office shall submit a copy of the artificial intelligence
 inventory to the governor, the temporary president of the senate, and
 the speaker of the assembly.
-  * NB Effective July 1, 2025
 ```

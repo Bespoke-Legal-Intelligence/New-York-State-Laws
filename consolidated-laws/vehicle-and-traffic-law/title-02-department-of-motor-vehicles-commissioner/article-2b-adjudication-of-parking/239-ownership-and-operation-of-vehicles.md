@@ -192,13 +192,7 @@ of chapter seven hundred seventy-four of the laws of nineteen hundred
 fifty and shall not be applicable to determinations of owner liability
 for the failure of an operator to comply with subdivision (b), (c), (d),
 (f) or (g) of section eleven hundred eighty of this chapter.
-  * NB Effective until July 1, 2025
-  * 4. Applicability. The provisions of paragraph b of subdivision two
-and subdivision three of this section shall not be applicable to
-determinations of owner liability for the failure of an operator to
-comply with subdivision (b), (c), (d), (f) or (g) of section eleven
-hundred eighty of this chapter.
-  * NB Effective July 1, 2025 and Repealed July 1, 2025
+  * NB Effective until July 1, 2030
   * 4. Applicability. The provisions of paragraph b of subdivision two
 and subdivision three of this section shall not be applicable to
 determinations of owner liability for the failure of an operator to
@@ -208,5 +202,5 @@ imposed pursuant to section two thousand nine hundred eighty-five of the
 public authorities law and sections sixteen-a, sixteen-b and sixteen-c
 of chapter seven hundred seventy-four of the laws of nineteen hundred
 fifty.
-  * NB Effective July 1, 2025
+  * NB Effective July 1, 2030
 ```

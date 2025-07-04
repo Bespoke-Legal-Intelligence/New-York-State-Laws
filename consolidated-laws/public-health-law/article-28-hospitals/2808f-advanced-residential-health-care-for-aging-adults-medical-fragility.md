@@ -30,9 +30,9 @@ facility providing services to adults over the age of thirty-five.
 adult health care facilities that meet the following eligibility
 criteria for the demonstration program set forth in subdivision one of
 this section:  (i) is a nonprofit corporation that operates one hundred
-ten adult beds licensed under article sixteen of this chapter; or (ii)
-is licensed to provide diagnostic and treatment services pursuant to
-this article.
+ten adult beds licensed under article sixteen of the mental hygiene law;
+or (ii) is licensed to provide diagnostic and treatment services
+pursuant to this article.
   3. Upon receipt of a certificate of need application from an eligible
 adult residential health care applicant selected by the commissioner for
 the demonstration program authorized under this section, the

@@ -121,5 +121,5 @@ the adoption and enactment of local laws, pursuant to the provisions of
 this section, upon the expiration of any other local law adopted
 pursuant to this section.
   * NB There are 4 § 1202-gg's
-  * NB Repealed September 1, 2025
+  * NB Repealed September 1, 2027
 ```

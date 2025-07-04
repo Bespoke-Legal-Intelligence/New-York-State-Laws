@@ -10,7 +10,7 @@ The text the Senate publishes at the top level of this law. For some laws this i
                           STATE TECHNOLOGY LAW
 Article                                              Section
    I    Office of Information Technology Services    (§§ 101-107)
-   II   Internet Security and Privacy Act            (§§ 201-209)
+   II   Internet Security and Privacy Act            (§§ 201-210)
    III  Electronic Signatures and Records Act        (§§ 301-309)
    IV   Automated decision-making in state           (§§ 401-402)
         government

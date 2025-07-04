@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 995-C", "kind": "section", "law_id": "GMU", "location_id": "995-C", "path": "ARTICLE 19-C › SECTION 995-C", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/995-C.md", "title": "Notice and explanation of ransom payment"} -->
+# General Municipal Law § 995-C — Notice and explanation of ransom payment
+
+[General Municipal Law](../README.md) › [Article 19-C — Cybersecurity Incident Reporting Requirements For Municipal Corporations and Public Authorities](README.md)
+
+```text
+  * § 995-c. Notice and explanation of ransom payment. Notwithstanding
+any other provision of law to the contrary, each municipal corporation
+or public authority shall, in the event of a ransom payment made in
+connection with a cybersecurity incident involving the municipal
+corporation or public authority, provide the commissioner of the
+division of homeland security and emergency services through means
+prescribed by such commissioner with the following:
+  1. within twenty-four hours of the ransom payment, notice of the
+payment; and
+  2. within thirty days of the ransom payment, a written description of
+the reasons payment was necessary, the amount of the ransom payment, the
+means by which the ransom payment was made, a description of
+alternatives to payment considered, all diligence performed to find
+alternatives to payment and all diligence performed to ensure compliance
+with applicable state and federal rules and regulations including those
+of the United States department of the treasury's office of foreign
+assets control.
+  * NB Effective July 26, 2025
+```

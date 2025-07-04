@@ -13,7 +13,7 @@
 - [§ 4 Exemption from certain excise and sales taxes granted to the United Nations](04-exemption-from-certain-excise-and-sales-taxes-granted-to-the-united-nations.md)
 - [§ 5 Obtaining and furnishing taxpayer identification information](05-obtaining-and-furnishing-taxpayer-identification-information.md)
 - [§ 5-A Certification of registration to collect sales and compensating use taxes by certain contractors, affiliates and subcontractors](05a-certification-of-registration-to-collect-sales-and-compensating-use-taxes.md)
-- [§ 6 Filing of warrants in the department of state](06-filing-of-warrants-in-the-department-of-state.md)
+- [§ 6 Filing of electronic warrants and warrant-related records in the department of state](06-filing-of-electronic-warrants-and-warrant-related-records-in-the-department.md)
 - [§ 7 Inapplicability of certain money judgment enforcement procedures](07-inapplicability-of-certain-money-judgment-enforcement-procedures.md)
 - [§ 8 Exemption from taxes granted to REMICs](08-exemption-from-taxes-granted-to-remics.md)
 - [§ 9 Electronic funds transfer by certain taxpayers remitting withholding taxes](09-electronic-funds-transfer-by-certain-taxpayers-remitting-withholding-taxes.md)

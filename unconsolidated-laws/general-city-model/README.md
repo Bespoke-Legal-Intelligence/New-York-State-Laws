@@ -8,8 +8,8 @@
 | Senate code | GCM |
 | Type | Unconsolidated law |
 | Session law | L. 1966, ch. 772 |
-| Sections | 116 |
-| Last changed | 7 Jul 2017 |
+| Sections | 117 |
+| Last changed | 4 Jul 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General City Model 772/66 |
 
@@ -26,10 +26,11 @@ provided, then, in such event, at either of such rates. The terms of
 such local law or local laws shall be, substantially, as follows except
 ```
 
-[Full chapter text (160 lines)](chapter-text.md)
+[Full chapter text (163 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [4 Jul 2025](../../changes/2025/2025-07-04.md): 1 amended, 1 added
 - [7 Jul 2017](../../changes/2017/2017-07-07.md): 1 amended
 
 ## Contents

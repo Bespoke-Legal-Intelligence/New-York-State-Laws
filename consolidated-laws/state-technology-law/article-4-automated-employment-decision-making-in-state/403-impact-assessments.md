@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "State Technology Law § 403", "kind": "section", "law_id": "STT", "location_id": "403", "path": "ARTICLE 4 › SECTION 403", "repealed": false, "repealed_date": null, "source": "nys-laws:STT/403.md", "title": "Impact assessments"} -->
+﻿<!-- nyslaw {"citation": "State Technology Law § 403", "kind": "section", "law_id": "STT", "location_id": "403", "path": "ARTICLE 4 › SECTION 403", "repealed": true, "repealed_date": "2025-07-04", "source": "nys-laws:STT/403.md", "title": "Impact assessments"} -->
 # State Technology Law § 403 — Impact assessments
 
 [State Technology Law](../README.md) › [Article 4 — Automated Employment Decision-making In State Government](README.md)
+
+**Repealed** (4 Jul 2025). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 403. Impact assessments. 1. State agencies seeking to utilize or

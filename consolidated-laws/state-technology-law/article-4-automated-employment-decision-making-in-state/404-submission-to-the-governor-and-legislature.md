@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "State Technology Law § 404", "kind": "section", "law_id": "STT", "location_id": "404", "path": "ARTICLE 4 › SECTION 404", "repealed": false, "repealed_date": null, "source": "nys-laws:STT/404.md", "title": "Submission to the governor and legislature"} -->
+﻿<!-- nyslaw {"citation": "State Technology Law § 404", "kind": "section", "law_id": "STT", "location_id": "404", "path": "ARTICLE 4 › SECTION 404", "repealed": true, "repealed_date": "2025-07-04", "source": "nys-laws:STT/404.md", "title": "Submission to the governor and legislature"} -->
 # State Technology Law § 404 — Submission to the governor and legislature
 
 [State Technology Law](../README.md) › [Article 4 — Automated Employment Decision-making In State Government](README.md)
+
+**Repealed** (4 Jul 2025). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 404. Submission to the governor and legislature. 1. Each impact

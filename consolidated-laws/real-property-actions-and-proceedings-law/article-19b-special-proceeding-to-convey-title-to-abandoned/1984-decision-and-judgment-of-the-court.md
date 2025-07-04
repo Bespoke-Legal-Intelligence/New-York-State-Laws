@@ -60,5 +60,5 @@ has been recorded pursuant to a judgment obtained through this article
 shall not be affected or impaired by a motion or action instituted more
 than one hundred twenty days after such deed vesting title in a city,
 town, or village has been recorded.
-  * NB Repealed June 30, 2025
+  * NB Repealed June 30, 2028
 ```

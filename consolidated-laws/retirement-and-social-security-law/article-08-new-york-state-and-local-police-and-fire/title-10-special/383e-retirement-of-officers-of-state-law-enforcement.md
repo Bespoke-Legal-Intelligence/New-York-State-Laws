@@ -4,16 +4,16 @@
 [Retirement and Social Security Law](../../README.md) › [Article 8 — New York State and Local Police and Fire Retirement System](../README.md) › [Title 10 — Special Retirement Plans Applicable to Specified Classes of Members](README.md)
 
 ```text
-  * § 383-e. Retirement of officers of state law enforcement; twenty
-year retirement plan. a. Membership. Every non-seasonally appointed
-sworn member or officer of the division of law enforcement in the
-department of environmental conservation, a forest ranger in the service
-of the department of environmental conservation, which shall mean a
-person who serves on a full-time basis in the title of forest ranger I,
-forest ranger II, forest ranger III, assistant superintendent of forest
-fire control, superintendent of forest fire control or any successor
-titles or new titles in the forest ranger title series in the department
-of environmental conservation, a police officer in the department of
+  § 383-e. Retirement of officers of state law enforcement; twenty year
+retirement plan. a. Membership. Every non-seasonally appointed sworn
+member or officer of the division of law enforcement in the department
+of environmental conservation, a forest ranger in the service of the
+department of environmental conservation, which shall mean a person who
+serves on a full-time basis in the title of forest ranger I, forest
+ranger II, forest ranger III, assistant superintendent of forest fire
+control, superintendent of forest fire control or any successor titles
+or new titles in the forest ranger title series in the department of
+environmental conservation, a police officer in the department of
 environmental conservation, the regional state park police, and
 university police officers whose date of membership is on or after July
 first, two thousand twenty-five shall be covered by the provisions of
@@ -160,5 +160,4 @@ location pay, and any increased hiring rate pay, but shall not include
 any overtime payments.
   h. The provisions of this section shall be controlling,
 notwithstanding any provision of this article to the contrary.
-  * NB Effective July 1, 2025
 ```

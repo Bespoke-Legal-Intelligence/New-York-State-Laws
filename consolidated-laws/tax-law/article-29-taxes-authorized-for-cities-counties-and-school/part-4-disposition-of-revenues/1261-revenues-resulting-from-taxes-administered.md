@@ -65,7 +65,7 @@ comptroller has reserved such refund fund and such cost shall be paid to
 the special sales and compensating use tax fund for the city of Yonkers
 established by section ninety-two-f of the state finance law at the
 times set forth in the preceding sentence.
-  * NB Effective until November 30, 2025
+  * NB Effective until November 30, 2027
   * (2) However, the taxes, penalties and interest from the additional
 one percent rate which the city of Yonkers is authorized to impose
 pursuant to section twelve hundred ten of this article, after the
@@ -73,7 +73,7 @@ comptroller has reserved such refund fund and such cost shall be paid to
 the special sales and compensating use tax fund for the city of Yonkers
 established by section ninety-two-f of the state finance law at the
 times set forth in the preceding sentence.
-  * NB Effective November 30, 2025
+  * NB Effective November 30, 2027
   (3) However, the taxes, penalties and interest which (i) the county of
 Nassau, (ii) the county of Erie, to the extent the county of Erie is
 contractually or statutorily obligated to allocate and apply or pay net

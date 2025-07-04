@@ -75,11 +75,11 @@ Section 1200.       Authorization to impose occupancy tax on short term
         1202-gg-1.  Hotel or motel taxes in the town of Cornwall.
         1202-h.     Hotel or motel taxes in Chemung county.
         1202-h*2.   Hotel or motel taxes in the county of Oswego.
-        1202-hh.    Hotel or motel taxes in the city of Newburgh.
-        1202-hh*2.  Hotel or motel taxes in the village of Cold Spring.
-        1202-hh*3.  Occupancy tax in the village of Briarcliff Manor.
-        1202-hh*4.  Occupancy tax in the village of Nyack.
+        1202-hh.    Hotel or motel taxes in the village of Cold Spring.
+        1202-hh*2.  Occupancy tax in the village of Briarcliff Manor.
+        1202-hh*3.  Occupancy tax in the village of Nyack.
         1202-hh-1.  Hotel or motel taxes in the town of Chester.
+        1202-hh-3.  Hotel or motel taxes in the city of Newburgh.
         1202-hhh.   Occupancy tax in the town of Skaneateles.
         1202-hhh*2. Occupancy tax in the village of Skaneateles.
         1202-i.     Hotel or motel taxes in Schuyler county.

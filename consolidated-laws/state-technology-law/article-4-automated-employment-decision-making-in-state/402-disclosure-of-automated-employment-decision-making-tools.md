@@ -4,7 +4,7 @@
 [State Technology Law](../README.md) › [Article 4 — Automated Employment Decision-making In State Government](README.md)
 
 ```text
-  * § 402. Disclosure of automated employment decision-making tools. Any
+  § 402. Disclosure of automated employment decision-making tools. Any
 state agency that utilizes an automated employment decision-making tool,
 as defined in section four hundred one of this article, shall publish a
 list of such automated employment decision-making tools on such state
@@ -19,5 +19,4 @@ decision-making tool began;
   3. a summary of the purpose and use of such automated employment
 decision-making tool; and
   4. any other information deemed relevant by the agency.
-  * NB Effective July 1, 2025
 ```
