@@ -89,7 +89,7 @@ have the following meanings:
   (1) "Qualified film production company" and "qualified film" shall
 have the same meaning as are ascribed to such terms by section
 twenty-four of this article.
-  (2) " Qualified production costs" means production of original content
+  (2) "Qualified production costs" means production of original content
 for a qualified film employing traditional, emerging and new workflow
 techniques used in post-production for picture, sound and music
 editorial, rerecording and mixing, visual effects, graphic design,

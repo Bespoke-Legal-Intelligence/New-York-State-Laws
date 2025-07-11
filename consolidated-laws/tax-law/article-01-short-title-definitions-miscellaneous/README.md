@@ -95,7 +95,8 @@ Section  1.   Short title.
          5-a. Certification of registration to collect sales and
                 compensating use taxes by certain contractors,
                 affiliates and subcontractors.
-         6.   Filing of warrants in the department of state.
+         6.   Filing of electronic warrants and warrant-related records
+                in the department of state.
          7.   Inapplicability of certain money judgment enforcement
                 procedures.
          8.   Exemption from taxes granted to REMICs.

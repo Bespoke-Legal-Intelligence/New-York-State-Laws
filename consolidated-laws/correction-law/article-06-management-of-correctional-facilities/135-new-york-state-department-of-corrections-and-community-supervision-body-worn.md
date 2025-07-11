@@ -4,7 +4,7 @@
 [Correction Law](../README.md) › [Article 6 — Management of Correctional Facilities](README.md)
 
 ```text
-  * § 135. New York state department of corrections and community
+  § 135. New York state department of corrections and community
 supervision body-worn cameras program. 1. There is hereby created within
 the department a body-worn cameras program. The purpose of such program
 is to increase accountability and evidence for departmental and law
@@ -105,5 +105,4 @@ answer questions subject to paragraph (g) of subdivision one of section
 two hundred nine-a of the civil service law, or prior to an employment
 disciplinary hearing regarding the potential misconduct of such
 employee.
-  * NB Effective July 8, 2025
 ```

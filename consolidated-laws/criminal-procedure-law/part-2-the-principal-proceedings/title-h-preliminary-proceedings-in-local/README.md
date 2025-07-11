@@ -15,7 +15,7 @@
 - [Article 160 — Fingerprinting and Photographing of Defendant After Arrest--criminal Identification Records and Statistics](article-160-fin/)
 - [Article 170 — Proceedings Upon Information, Simplified Traffic Information, Prosecutor's Information and Misdemeanor Complaint From Arraignment to Plea](article-170-pro/)
 - [Article 180 — Proceedings Upon Felony Complaint From Arraignment Thereon Through Disposition Thereof](article-180-pro/)
-- [Article 182 — Alternate Method of Court Appearance](article-182-alt/)
+- [Article 182 — Electronic Court Appearances](article-182-ele/)
 - [Article 185 — Alternate Method of Arraignment](article-185-alt/)
 
 <details>

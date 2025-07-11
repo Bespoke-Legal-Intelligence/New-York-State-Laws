@@ -291,7 +291,7 @@ the qualified film during production.
   (7) "Qualified independent film production company" is a corporation,
 partnership, limited partnership, or other entity or individual, that or
 who (i) is principally engaged in the production of a qualified film,
-(ii) is not publicly traded, and (iii)is not majority owned, fifty-one
+(ii) is not publicly traded, and (iii) is not majority owned, fifty-one
 percent or more, by a company publicly traded on a United States stock
 exchange.
   (8) "Relocated television production" shall mean, notwithstanding the

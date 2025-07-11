@@ -6,7 +6,7 @@
 ## Contents
 
 - [§ 349 Deceptive acts and practices unlawful](349-deceptive-acts-and-practices-unlawful.md)
-- [§ 349-A Observant consumer protection law](349a-observant-consumer-protection-law.md)
+- [§ 349-A Pricing](349a-pricing.md)
 - [§ 349-B Residential telephone equipment advertising, sale and warranty requirements](349b-residential-telephone-equipment-advertising-sale-and-warranty-requirements.md)
 - [§ 349-B-1 Voice over internet protocol 911 disclosure](349b-1-voice-over-internet-protocol-911-disclosure.md)
 - [§ 349-C Additional civil penalty for consumer frauds against elderly persons](349c-additional-civil-penalty-for-consumer-frauds-against-elderly-persons.md)

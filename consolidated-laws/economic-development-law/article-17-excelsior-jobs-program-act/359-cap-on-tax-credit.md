@@ -4,7 +4,7 @@
 [Economic Development Law](../README.md) › [Article 17 — Excelsior Jobs Program Act](README.md)
 
 ```text
-§ 359. Cap on tax credit. 1. Except with respect to tax credits issued
+  § 359. Cap on tax credit. 1. Except with respect to tax credits issued
 to Green CHIPS projects as articulated in subdivision four of this
 section, the total amount of tax credits issued by the commissioner for
 any taxable year may not exceed the limitations set forth in this

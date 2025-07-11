@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 22-A — Consumer Protection From Deceptive Acts and Practices](README.md)
 
 ```text
-  * § 349-h. Observant consumer protection law. 1. No person selling or
+  § 349-h. Observant consumer protection law. 1. No person selling or
 exposing for sale any mezuzah or tefillin which, to the seller's
 knowledge, does not satisfy orthodox Hebrew ritual requirements shall
 represent, by direct or implied oral or written statement, that such
@@ -37,5 +37,4 @@ upper arm and head during morning prayers, including the parchment or
 other matter upon which passages from the Bible are written, the writing
 thereon, the capsules in which the parchment is contained, and the
 straps affixed thereto.
-  * NB Effective July 8, 2025
 ```

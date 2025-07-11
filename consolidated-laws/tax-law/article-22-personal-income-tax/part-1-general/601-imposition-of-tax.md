@@ -1984,14 +1984,14 @@ surviving spouses:
   (A) If New York adjusted gross income is greater than $107,650:
   (i) the recapture base and incremental benefit shall be determined by
 New York taxable income as follows:
-  Greater than  Not over          Recapture Base    Incremental Benefit
+Greater than    Not over          Recapture Base    Incremental Benefit
 $27,900         $161,550          $0                $333
 $161,550        $323,200          $333              $808
 $323,200        $2,155,350        $1,141            $3,393
 $2,155,350                        $4,534            $42,461
   (ii) the applicable amount shall be determined by New York taxable
 income as follows:
-  Greater thaNot over     Applicable Amount
+Greater than Not over     Applicable Amount
 $27,900      $161,550     New York adjusted gross income minus $107,650
 $161,550     $323,200     New York adjusted gross income minus $161,550
 $323,200     $2,155,350   New York adjusted gross income minus $323,200
@@ -2014,7 +2014,7 @@ and the denominator of which is fifty thousand dollars.
   (A) If New York adjusted gross income is greater than $107,650:
   (i) the recapture base and incremental benefit shall be determined by
 New York taxable income as follows:
-  Greater than  Not over          Recapture Base    Incremental Benefit
+Greater than    Not over          Recapture Base    Incremental Benefit
 $107,650        $269,300          $0                $787
 $269,300        $1,616,450        $787              $2,827
 $1,616,450                        $3,614            $31,844
@@ -2044,7 +2044,7 @@ filing separate returns and resident estates and trusts:
   (A) If New York adjusted gross income is greater than $107,650:
   (i) the recapture base and incremental benefit shall be determined by
 New York taxable income as follows:
-  Greater than  Not over          Recapture Base    Incremental Benefit
+Greater than    Not over          Recapture Base    Incremental Benefit
 $80,650         $215,400          $0                $568
 $215,400        $1,077,550        $568              $2,261
 $1,077,550                        $2,829            $21,228

@@ -1417,9 +1417,9 @@ Over $7,000 but not over $9,000                     5
 Over $9,000 but not over $11,000                    5 1/2
 Over $11,000 but not over $14,000                   6
 Over $14,000 but not over $18,000                   6 1/2
-Notwithstanding  the foregoing provisions, the maximum credit determined
-under this clause may not exceed the  amount  determined  in  accordance
-with the following table:
+  Notwithstanding the foregoing provisions, the maximum credit
+determined under this clause may not exceed the amount determined in
+accordance with the following table:
 If household gross income for the
 taxable year is:                     The maximum credit is:
 -----------------------------------  -----------------------------------
@@ -1441,9 +1441,9 @@ Over $14,000 but not over $15,000                   $137
 Over $15,000 but not over $16,000                   $120
 Over $16,000 but not over $17,000                   $103
 Over $17,000 but not over $18,000                   $ 86
-(ii)  for  all  other  qualified  taxpayers  the  amount  of  the credit
-allowable under this subsection shall be fifty percent  of  excess  real
-property  taxes  or  the  excess  of  the  real  property tax equivalent
+  (ii) for all other qualified taxpayers the amount of the credit
+allowable under this subsection shall be fifty percent of excess real
+property taxes or the excess of the real property tax equivalent
 determined as follows:
                                      Excess real property taxes are the
                                      excess of real property tax equiv-
