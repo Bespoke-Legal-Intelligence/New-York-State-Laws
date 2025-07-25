@@ -41,12 +41,12 @@ adopt and amend local laws, ordinances or resolutions imposing such
 taxes (i) at a rate which is one percent additional to the three percent
 rate authorized above in this paragraph for such county for the period
 beginning January tenth, nineteen hundred eighty-eight and ending
-November thirtieth, two thousand twenty-five; and (ii) at a rate which
+November thirtieth, two thousand twenty-seven; and (ii) at a rate which
 is three-quarters of one percent additional to the three percent rate
 authorized above in this paragraph, and which is also additional to the
 one percent rate also authorized above in this clause for such county,
 for the period beginning December first, two thousand eleven, and ending
-November thirtieth, two thousand twenty-five;
+November thirtieth, two thousand twenty-seven;
   (5) the county of Cattaraugus is hereby further authorized and
 empowered to adopt and amend local laws, ordinances or resolutions
 imposing such taxes at a rate which is one percent additional to the

@@ -1,10 +1,10 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1202-HH", "kind": "section", "law_id": "TAX", "location_id": "1202-HH", "path": "ARTICLE 29 › PART 1 › SUBPART A › SECTION 1202-HH", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1202-HH.md", "title": "Hotel or motel taxes in the village of Cold Spring"} -->
-# Tax Law § 1202-HH — Hotel or motel taxes in the village of Cold Spring
+﻿<!-- nyslaw {"citation": "Tax Law § 1202-HH-2", "kind": "section", "law_id": "TAX", "location_id": "1202-HH-2", "path": "ARTICLE 29 › PART 1 › SUBPART A › SECTION 1202-HH-2", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1202-HH-2.md", "title": "Hotel or motel taxes in the village of Cold Spring"} -->
+# Tax Law § 1202-HH-2 — Hotel or motel taxes in the village of Cold Spring
 
 [Tax Law](../../../README.md) › [Article 29 — Taxes Authorized For Cities, Counties and School Districts](../../README.md) › [Part 1 — Authority to Impose Taxes](../README.md) › [Subpart A — Taxes Administered By Cities, Counties and School Districts](README.md)
 
 ```text
-  * § 1202-hh. Hotel or motel taxes in the village of Cold Spring. (1)
+  * § 1202-hh-2. Hotel or motel taxes in the village of Cold Spring. (1)
 Notwithstanding any other provisions of law to the contrary, the village
 of Cold Spring, in the county of Putnam, is hereby authorized and
 empowered to adopt and amend local laws imposing in such village a tax,
@@ -113,6 +113,5 @@ village. Such revenues may be used for any lawful purpose.
 any person or circumstance shall be held invalid, the remainder of this
 section and the application of such provision to other persons or
 circumstances shall not be affected thereby.
-  * NB Repealed July 21, 2025
-  * NB There are 3 § 1202-hh's
+  * NB Repealed July 21, 2027
 ```

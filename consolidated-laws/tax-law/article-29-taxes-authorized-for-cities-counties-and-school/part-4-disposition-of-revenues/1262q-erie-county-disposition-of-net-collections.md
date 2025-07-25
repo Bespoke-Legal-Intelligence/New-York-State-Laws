@@ -26,7 +26,7 @@ such net collections for any county purpose.
   (2) Net collections from the additional three-quarters of one percent
 rate of sales and compensating use taxes which the county may impose
 during the period commencing December first, two thousand eleven, and
-ending November thirtieth, two thousand twenty-five, pursuant to the
+ending November thirtieth, two thousand twenty-seven, pursuant to the
 authority of item (ii) of clause (4) of subparagraph (i) of the opening
 paragraph of section twelve hundred ten of this article shall be used by
 the county solely for county purposes and shall not be subject to any
