@@ -125,5 +125,5 @@ subparagraph (C) of paragraph two or subparagraph (C) of paragraph three
 of subdivision (a) or under subdivision (b) of this section shall be
 authorized or entitled to receive any cash allocation under section
 twelve hundred sixty-two of this article.
-  * NB Expires November 30, 2025
+  * NB Expires November 30, 2027
 ```

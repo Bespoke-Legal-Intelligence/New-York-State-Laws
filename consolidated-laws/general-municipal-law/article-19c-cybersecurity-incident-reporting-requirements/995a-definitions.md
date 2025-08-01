@@ -4,7 +4,7 @@
 [General Municipal Law](../README.md) › [Article 19-C — Cybersecurity Incident Reporting Requirements For Municipal Corporations and Public Authorities](README.md)
 
 ```text
-  * § 995-a. Definitions. For the purposes of this article: 1.
+  § 995-a. Definitions. For the purposes of this article: 1.
 "Cybersecurity incident" means an event occurring on or conducted
 through a computer network that actually or imminently jeopardizes the
 integrity, confidentiality, or availability of computers, information or
@@ -77,5 +77,4 @@ is:
   (i) not genuine; or
   (ii) made in good faith by an entity in response to a specific request
 by the owner or operator of the information system.
-  * NB Effective July 26, 2025
 ```

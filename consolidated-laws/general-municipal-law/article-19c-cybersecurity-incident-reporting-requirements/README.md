@@ -13,13 +13,12 @@
 <summary>Official heading of Article 19-C, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 19-C
+                              ARTICLE 19-C
 CYBERSECURITY INCIDENT REPORTING REQUIREMENTS FOR MUNICIPAL CORPORATIONS
                          AND PUBLIC AUTHORITIES
 Section 995-a. Definitions.
         995-b. Reporting of cybersecurity incidents.
         995-c. Notice and explanation of ransom payment.
-  * NB Effective July 26, 2025
 ```
 
 </details>

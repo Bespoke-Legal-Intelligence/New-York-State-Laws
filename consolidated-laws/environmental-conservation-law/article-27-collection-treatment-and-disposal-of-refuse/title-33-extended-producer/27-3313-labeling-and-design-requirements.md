@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 27-3313", "kind": "section", "law_id": "ENV", "location_id": "27-3313", "path": "ARTICLE 27 › TITLE 33 › SECTION 27-3313", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/27-3313.md", "title": "Labeling and design requirements"} -->
 # Environmental Conservation Law § 27-3313 — Labeling and design requirements
 
-[Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 33 — Carpet Collection Program](README.md)
+[Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 33 — Extended Producer Responsibility For Carpet](README.md)
 
 ```text
 § 27-3313. Labeling and design requirements.

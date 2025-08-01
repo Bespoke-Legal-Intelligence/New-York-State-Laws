@@ -4,9 +4,9 @@
 [General Municipal Law](../README.md) › [Article 19-C — Cybersecurity Incident Reporting Requirements For Municipal Corporations and Public Authorities](README.md)
 
 ```text
-  * § 995-b. Reporting of cybersecurity incidents. 1. Notwithstanding
-any other provision of law to the contrary, all municipal corporations
-and public authorities shall report cybersecurity incidents and when
+  § 995-b. Reporting of cybersecurity incidents. 1. Notwithstanding any
+other provision of law to the contrary, all municipal corporations and
+public authorities shall report cybersecurity incidents and when
 applicable, the demand of a ransom payment, to the commissioner of the
 division of homeland security and emergency services in the form and
 method prescribed by such commissioner. Such report shall include
@@ -23,5 +23,4 @@ ransom payment submitted to the commissioner of the division of homeland
 security and emergency services pursuant to the requirements of this
 article shall be exempt from disclosure under article six of the public
 officers law.
-  * NB Effective July 26, 2025
 ```

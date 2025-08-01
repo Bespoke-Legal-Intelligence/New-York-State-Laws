@@ -487,7 +487,7 @@ equivalent to or greater than the amount of support due for a period of
 four months or that he or she meets the requirements of subdivision (e)
 of this section, the department shall notify the department of motor
 vehicles that the suspension of driving privileges shall be terminated.
-  * NB Repealed August 31, 2025
+  * NB Repealed August 31, 2027
   13. (a) The commissioner shall enter into the agreement provided for
 in section one hundred seventy-one-g of the tax law and is authorized to
 furnish to the commissioner of taxation and finance any information, and

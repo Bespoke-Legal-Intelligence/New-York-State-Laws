@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 23-A — Fraudulent Practices In Respect to Stocks, Bonds and Other Securities](README.md)
 
 ```text
-§ 352-h.  Trust funds.  Whenever hereafter any person, partnership,
+  § 352-h. Trust funds. Whenever hereafter any person, partnership,
 corporation, company, trust or association, offers or sells securities
 described in subdivision one of section three hundred fifty-two-e of
 this article to the public in or from the state of New York, then all
@@ -24,9 +24,9 @@ effectuate the consummation of the transaction, or if the transaction
 does not result in the acquisition of the real estate, mortgage or lease
 involved for any reason or reasons, then all moneys so collected less
 such amounts actually employed in connection with the consummation of
-the transaction shall be fully returned to the investors.  Any provision
+the transaction shall be fully returned to the investors. Any provision
 of any contract or agreement or understanding, whether oral or in
 writing, whereby a person who so purchases such securities waives any
-provision of this section is absolutely void.  Nothing herein contained
+provision of this section is absolutely void. Nothing herein contained
 shall be deemed to preclude an action against a defaulting investor.
 ```

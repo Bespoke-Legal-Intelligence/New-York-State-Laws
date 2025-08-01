@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 26 — Division of Homeland Security and Emergency Services](README.md)
 
 ```text
-  * § 711-c. Cybersecurity incident reviews. 1. Definitions. As used in
+  § 711-c. Cybersecurity incident reviews. 1. Definitions. As used in
 this section, the terms cybersecurity incident, cyber threat, cyber
 threat indicator, defensive measure, information system, municipal
 corporation, public authority, ransom payment and ransomware attack
@@ -41,5 +41,4 @@ in prioritizing the division's response to the municipal corporation's
 or public authority's cybersecurity incident report, shall provide
 advice to the requesting municipal corporation or public authority and,
 to the extent practicable, provide technical assistance.
-  * NB Effective July 26, 2025
 ```

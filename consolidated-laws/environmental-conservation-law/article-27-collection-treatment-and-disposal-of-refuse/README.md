@@ -37,7 +37,7 @@
 - [Title 30 — Expanded Polystyrene Foam Containers and Polystyrene Loose Fill Packaging Ban](title-30-expanded/)
 - [Title 31 — Construction and Demolition Debris](title-31-construction/)
 - [Title 32 — Small Plastic Bottle Hospitality Personal Care Product Restrictions](title-32-small-plastic/)
-- [Title 33 — Carpet Collection Program](title-33-carpet-collection/)
+- [Title 33 — Extended Producer Responsibility For Carpet](title-33-extended-producer/)
 
 <details>
 <summary>Official heading of Article 27, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

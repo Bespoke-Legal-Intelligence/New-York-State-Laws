@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"kind": "container", "law_id": "ENV", "location_id": "A27T33", "path": "ARTICLE 27 › TITLE 33", "source": "nys-laws:ENV/A27T33.md", "title": "Carpet Collection Program"} -->
-# Title 33 — Carpet Collection Program
+﻿<!-- nyslaw {"kind": "container", "law_id": "ENV", "location_id": "A27T33", "path": "ARTICLE 27 › TITLE 33", "source": "nys-laws:ENV/A27T33.md", "title": "Extended Producer Responsibility For Carpet"} -->
+# Title 33 — Extended Producer Responsibility For Carpet
 
 [Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md)
 
@@ -14,14 +14,15 @@
 - [§ 27-3313 Labeling and design requirements](27-3313-labeling-and-design-requirements.md)
 - [§ 27-3315 Post-consumer content requirements](27-3315-post-consumer-content-requirements.md)
 - [§ 27-3317 Penalties](27-3317-penalties.md)
-- [§ 27-3319 Rules and regulations](27-3319-rules-and-regulations.md)
+- [§ 27-3319 Limits on liability for antitrust, restraint of trade, or unfair trade practices](27-3319-limits-on-liability-for-antitrust.md)
+- [§ 27-3321 Rules and regulations](27-3321-rules-and-regulations.md)
 
 <details>
 <summary>Official heading of Title 33, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
                                 TITLE 33
-                        CARPET COLLECTION PROGRAM
+               EXTENDED PRODUCER RESPONSIBILITY FOR CARPET
 Section 27-3301. Definitions.
         27-3303. Producer plan.
         27-3305. Producer responsibilities.
@@ -31,7 +32,9 @@ Section 27-3301. Definitions.
         27-3313. Labeling and design requirements.
         27-3315. Post-consumer content requirements.
         27-3317. Penalties.
-        27-3319. Rules and regulations.
+        27-3319. Limits on liability for antitrust, restraint of trade,
+                   or unfair trade practices.
+        27-3321. Rules and regulations.
 ```
 
 </details>
