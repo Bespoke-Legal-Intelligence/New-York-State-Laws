@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "General Business Law § 218", "kind": "section", "law_id": "GBS", "location_id": "218", "path": "ARTICLE 12-B › SECTION 218", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/218.md", "title": "Defense of lawful detention"} -->
 # General Business Law § 218 — Defense of lawful detention
 
-[General Business Law](../README.md) › [Article 12-B — Mercantile Establishments](README.md)
+[General Business Law](../README.md) › [Article 12-B — Online Retailers and Mercantile Establishments](README.md)
 
 ```text
   § 218. Defense of lawful detention. In any action for false arrest,

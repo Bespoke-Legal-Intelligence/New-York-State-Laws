@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "General Business Law § 218-AA", "kind": "section", "law_id": "GBS", "location_id": "218-AA", "path": "ARTICLE 12-B › SECTION 218-AA", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/218-AA.md", "title": "Warranty disclosure"} -->
 # General Business Law § 218-AA — Warranty disclosure
 
-[General Business Law](../README.md) › [Article 12-B — Mercantile Establishments](README.md)
+[General Business Law](../README.md) › [Article 12-B — Online Retailers and Mercantile Establishments](README.md)
 
 ```text
   § 218-aa. Warranty disclosure. 1. As used in this section, the term

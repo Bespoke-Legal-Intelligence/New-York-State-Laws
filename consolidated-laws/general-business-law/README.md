@@ -8,7 +8,7 @@
 | Senate code | GBS |
 | Type | Consolidated law, chapter 20 |
 | Sections | 1,385 |
-| Last changed | 1 Aug 2025 |
+| Last changed | 8 Aug 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Business |
 
@@ -33,6 +33,7 @@ AN ACT relating to general business, constituting chapter twenty of the
 
 ## Recent changes
 
+- [8 Aug 2025](../../changes/2025/2025-08-08.md): 2 amended
 - [1 Aug 2025](../../changes/2025/2025-08-01.md): 7 amended
 - [11 Jul 2025](../../changes/2025/2025-07-11.md): 2 amended
 - [4 Jul 2025](../../changes/2025/2025-07-04.md): 1 amended
@@ -42,7 +43,6 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [4 Apr 2025](../../changes/2025/2025-04-04.md): 1 amended
 - [28 Mar 2025](../../changes/2025/2025-03-28.md): 3 amended
 - [7 Mar 2025](../../changes/2025/2025-03-07.md): 2 amended
-- [28 Feb 2025](../../changes/2025/2025-02-28.md): 4 amended
 
 ## Contents
 
@@ -76,7 +76,7 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 11-B — Franchises For the Sale of Motor Fuels](article-11b-franchises-for-the-sale-of-motor-fuels/)
 - [Article 11-C — Sale of Zero-emission School Buses](article-11c-sale-of-zero-emission-school-buses/)
 - [Article 12 — Hotels and Boarding Houses](article-12-hotels-and-boarding-houses/)
-- [Article 12-B — Mercantile Establishments](article-12b-mercantile-establishments/)
+- [Article 12-B — Online Retailers and Mercantile Establishments](article-12b-online-retailers-and-mercantile-establishments/)
 - [Article 12-C — Trampoline Park Safety](article-12c-trampoline-park-safety/)
 - [Article 13 — Silver, Gold and Diamonds](article-13-silver-gold-and-diamonds/)
 - [Article 13-A — Platinum Stamping](article-13a-platinum-stamping/)

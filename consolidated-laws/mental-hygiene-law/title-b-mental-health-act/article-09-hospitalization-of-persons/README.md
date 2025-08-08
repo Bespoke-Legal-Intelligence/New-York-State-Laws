@@ -7,7 +7,7 @@
 
 - [§ 9.01 Definitions](9.01-definitions.md)
 - [§ 9.03 Admission to a hospital](9.03-admission-to-a-hospital.md)
-- [§ 9.05 Examining physicians and medical certificates](9.05-examining-physicians-and-medical-certificates.md)
+- [§ 9.05 Examining physicians, examining psychiatric nurse practitioners and medical certificates](9.05-examining-physicians-examining-psychiatric-nurse-practitioners.md)
 - [§ 9.07 Notice to all patients of their rights and of the availability of the mental hygiene legal service](9.07-notice-to-all-patients-of-their-rights-and-of-the-availability.md)
 - [§ 9.09 Notices to mental hygiene legal service concerning minors](9.09-notices-to-mental-hygiene-legal-service-concerning-minors.md)
 - [§ 9.11 Patients' records](9.11-patients-records.md)

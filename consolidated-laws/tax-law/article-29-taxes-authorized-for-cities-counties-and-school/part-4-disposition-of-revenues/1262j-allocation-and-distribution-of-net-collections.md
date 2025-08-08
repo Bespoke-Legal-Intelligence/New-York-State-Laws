@@ -35,7 +35,7 @@ Suffolk.
 collections received by the county of Suffolk as a result of the
 increase of one percent to the tax authorized by section twelve hundred
 ten of this article for the period beginning June first, two thousand
-one and ending November thirtieth, two thousand twenty-five, imposed by
+one and ending November thirtieth, two thousand twenty-seven, imposed by
 local laws or resolutions (by simple majority) by the county
 legislature, and signed by the county executive, the county of Suffolk
 shall allocate such net collections as follows: no less than one-eighth
