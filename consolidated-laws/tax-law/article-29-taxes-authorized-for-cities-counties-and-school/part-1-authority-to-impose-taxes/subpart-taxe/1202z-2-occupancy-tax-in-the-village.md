@@ -123,5 +123,5 @@ pursuant to this section.
 any person or circumstance shall be held invalid, the remainder of this
 section and the application of such provision to other persons or
 circumstances shall not be affected thereby.
-  * NB Repealed December 31, 2025
+  * NB Repealed December 31, 2027
 ```

@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [§ 1299 Definitions](1299-definitions.md)
 - [§ 1299-A Imposition of tax](1299a-imposition-of-tax.md)
 - [§ 1299-B Liability for surcharge](1299b-liability-for-surcharge.md)
 - [§ 1299-D Returns and payment of surcharge](1299d-returns-and-payment-of-surcharge.md)

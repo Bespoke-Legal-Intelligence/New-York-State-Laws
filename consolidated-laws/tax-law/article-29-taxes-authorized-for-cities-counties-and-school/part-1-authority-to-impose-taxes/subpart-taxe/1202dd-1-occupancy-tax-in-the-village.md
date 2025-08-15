@@ -1,14 +1,12 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1202-DD*5", "kind": "section", "law_id": "TAX", "location_id": "1202-DD*5", "path": "ARTICLE 29 › PART 1 › SUBPART A › SECTION 1202-DD*5", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1202-DD_5.md", "title": "Occupancy tax in the village of Mamaroneck"} -->
-# Tax Law § 1202-DD*5 — Occupancy tax in the village of Mamaroneck
+﻿<!-- nyslaw {"citation": "Tax Law § 1202-DD-1", "kind": "section", "law_id": "TAX", "location_id": "1202-DD-1", "path": "ARTICLE 29 › PART 1 › SUBPART A › SECTION 1202-DD-1", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1202-DD-1.md", "title": "Occupancy tax in the village of Harrison"} -->
+# Tax Law § 1202-DD-1 — Occupancy tax in the village of Harrison
 
 [Tax Law](../../../README.md) › [Article 29 — Taxes Authorized For Cities, Counties and School Districts](../../README.md) › [Part 1 — Authority to Impose Taxes](../README.md) › [Subpart A — Taxes Administered By Cities, Counties and School Districts](README.md)
 
-*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
-
 ```text
-  * § 1202-dd. Occupancy tax in the village of Mamaroneck. (1)
+  * § 1202-dd-1. Occupancy tax in the village of Harrison. (1)
 Notwithstanding any other provision of law to the contrary, the village
-of Mamaroneck, in the county of Westchester, is hereby authorized and
+of Harrison, in the county of Westchester, is hereby authorized and
 empowered to adopt and amend local laws imposing in such village a tax,
 in addition to any other tax authorized and imposed pursuant to this
 article, such as the legislature has or would have the power and
@@ -20,18 +18,18 @@ a motel or a boarding house, whether or not meals are served. The rate
 of such tax shall not exceed three percent of the per diem rental rate
 for each room whether such room is rented on a daily or longer basis.
   (2) Such taxes may be collected and administered by the chief fiscal
-officer of the village of Mamaroneck by such means and in such manner as
+officer of the village of Harrison by such means and in such manner as
 other taxes which are now collected and administered by such officer or
 as otherwise may be provided by such local law.
   (3) Such local laws may provide that any taxes imposed shall be paid
-by the person liable therefore to the owner of the room for hire in the
+by the person liable therefor to the owner of the room for hire in the
 tourist home, inn, club, hotel, motel or other similar place of public
 accommodation occupied or to the person entitled to be paid the rent or
-charge for the room for hire in the tourist home, inn, club, hotel,
-motel or other similar place of public accommodation occupied for and on
-account of the village of Mamaroneck imposing the tax and that such
-owner or person entitled to be paid the rent or charge shall be liable
-for the collection and payment of the tax; and that such owner or person
+charge the room for hire in the tourist home, inn, club, hotel, motel or
+other similar place of public accommodation occupied for and on account
+of the village of Harrison imposing the tax and that such owner or
+person entitled to be paid the rent or charge shall be liable for the
+collection and payment of the tax; and that such owner or person
 entitled to be paid the rent or charge shall have the same right in
 respect to collecting the tax from the person occupying the room for
 hire in the tourist home, inn, club, hotel, motel or other similar place
@@ -112,7 +110,7 @@ after the expiration of more than three years from the date of the
 filing of a return, provided, however, that where no return has been
 filed as provided by law the tax may be assessed at any time.
   (9) All revenues resulting from the imposition of the tax under the
-local laws shall be paid into the treasury of the village of Mamaroneck
+local laws shall be paid into the treasury of the village of Harrison
 and shall be credited to and deposited in the general fund of the
 village. Such revenues may be used for any lawful purpose.
   (10) Each enactment of such a local law may provide for the imposition
@@ -125,6 +123,5 @@ pursuant to this section.
 any person or circumstance shall be held invalid, the remainder of this
 section and the application of such provision to other persons or
 circumstances shall not be affected thereby.
-  * NB There are 6 § 1202-dd's
-  * NB Repealed December 31, 2025
+  * NB Repealed September 1, 2027
 ```

@@ -120,5 +120,5 @@ motel industry within the town of DeWitt.
 any person or circumstance shall be held invalid, the remainder of this
 section and the application of such provision to other persons or
 circumstances shall not be affected thereby.
-  * NB Repealed September 1, 2025
+  * NB Repealed September 1, 2027
 ```

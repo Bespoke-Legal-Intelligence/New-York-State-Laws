@@ -28,5 +28,5 @@ twenty years, and
   3. such deceased volunteer and un-remarried spouse had been receiving
 the exemption for such property prior to the death of such volunteer.
   * NB There are 2 § 466-h's
-  * NB Repealed December 9, 2025
+  * NB Repealed December 9, 2028
 ```

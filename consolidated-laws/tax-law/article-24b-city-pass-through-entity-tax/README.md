@@ -7,6 +7,7 @@
 
 - [§ 867 Definitions](867-definitions.md)
 - [§ 868 City pass-through entity tax election](868-city-pass-through-entity-tax-election.md)
+- [§ 869 Imposition and rate of tax](869-imposition-and-rate-of-tax.md)
 - [§ 870 City pass-through entity tax credit](870-city-pass-through-entity-tax-credit.md)
 - [§ 871 Payment of estimated tax](871-payment-of-estimated-tax.md)
 - [§ 872 Filing of return and payment of tax](872-filing-of-return-and-payment-of-tax.md)

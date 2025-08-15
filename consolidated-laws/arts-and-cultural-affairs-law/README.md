@@ -8,7 +8,7 @@
 | Senate code | ACA |
 | Type | Consolidated law, chapter 11-C |
 | Sections | 254 |
-| Last changed | 27 Jun 2025 |
+| Last changed | 15 Aug 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Arts and Cultural Affairs |
 
@@ -31,6 +31,7 @@ Article
 
 ## Recent changes
 
+- [15 Aug 2025](../../changes/2025/2025-08-15.md): 1 amended
 - [27 Jun 2025](../../changes/2025/2025-06-27.md): 23 amended
 - [21 Feb 2025](../../changes/2025/2025-02-21.md): 1 amended
 - [27 Dec 2024](../../changes/2024/2024-12-27.md): 2 amended
@@ -40,7 +41,6 @@ Article
 - [10 Sep 2021](../../changes/2021/2021-09-10.md): 1 amended
 - [18 Jun 2021](../../changes/2021/2021-06-18.md): 21 amended
 - [20 Dec 2019](../../changes/2019/2019-12-20.md): 1 amended
-- [18 Jan 2019](../../changes/2019/2019-01-18.md): 7 amended
 
 ## Contents
 

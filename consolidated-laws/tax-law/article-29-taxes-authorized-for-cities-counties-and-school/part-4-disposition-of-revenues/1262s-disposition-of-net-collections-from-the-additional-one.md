@@ -11,7 +11,7 @@ if the county of Herkimer imposes the additional one-quarter of one
 percent rate of sales and compensating use taxes authorized by section
 twelve hundred ten-E of this article for all or any portion of the
 period beginning December first, two thousand seven and ending November
-thirtieth, two thousand twenty-five, the county shall use all net
+thirtieth, two thousand twenty-seven, the county shall use all net
 collections from such additional one-quarter of one percent rate to pay
 the county's expenses for the construction of additional correctional
 facilities. The net collections from the additional rate imposed

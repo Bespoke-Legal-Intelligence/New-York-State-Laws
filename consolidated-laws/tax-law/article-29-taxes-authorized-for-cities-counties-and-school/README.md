@@ -54,9 +54,9 @@ Section 1200.       Authorization to impose occupancy tax on short term
         1202-dd*3.  Hotel or motel taxes in the town of Greenburgh and
                       specified villages therein and in the village of
                       Sleepy Hollow.
-        1202-dd*4.  Occupancy tax in the village of Harrison.
-        1202-dd*5.  Occupancy tax in the village of Mamaroneck.
-        1202-dd*6.  Occupancy tax in the village of Port Chester.
+        1202-dd*4.  Occupancy tax in the village of Mamaroneck.
+        1202-dd*5.  Occupancy tax in the village of Port Chester.
+        1202-dd-1.  Occupancy tax in the village of Harrison.
         1202-e.     Hotel or motel taxes in Schenectady county.
         1202-ee.    Hotel or motel taxes in the town of Woodbury.
         1202-eee.   Hotel or motel taxes in the village of Woodbury.
@@ -69,16 +69,16 @@ Section 1200.       Authorization to impose occupancy tax on short term
         1202-g*3.   Hotel or motel taxes in Steuben county.
         1202-g*4.   Hotel or motel taxes in the county of Westchester.
         1202-gg.    Hotel or motel taxes in the city of Ithaca.
-        1202-gg*2.  Hotel or motel taxes in the town of Newburgh.
-        1202-gg*3.  Hotel or motel taxes in the town of Mount Pleasant.
-        1202-gg*4.  Hotel or motel taxes in the town of Wallkill.
+        1202-gg*2.  Hotel or motel taxes in the town of Mount Pleasant.
+        1202-gg*3.  Hotel or motel taxes in the town of Wallkill.
         1202-gg-1.  Hotel or motel taxes in the town of Cornwall.
+        1202-gg-2.  Hotel or motel taxes in the town of Newburgh.
         1202-h.     Hotel or motel taxes in Chemung county.
         1202-h*2.   Hotel or motel taxes in the county of Oswego.
         1202-hh.    Hotel or motel taxes in the village of Cold Spring.
-        1202-hh*2.  Occupancy tax in the village of Briarcliff Manor.
-        1202-hh*3.  Occupancy tax in the village of Nyack.
         1202-hh-1.  Hotel or motel taxes in the town of Chester.
+        1202-hh-2.  Hotel or motel taxes in the village of Cold Spring.
+        1202-hh-2*2.Occupancy tax in the village of Briarcliff Manor.
         1202-hh-3.  Hotel or motel taxes in the city of Newburgh.
         1202-hhh.   Occupancy tax in the town of Skaneateles.
         1202-hhh*2. Occupancy tax in the village of Skaneateles.
@@ -299,6 +299,9 @@ Section 1260.     Revenues resulting from taxes administered by cities
         1262-v.   Allocation of net collections from the additional one
                       percent rate of sales and compensating use taxes
                       in the county of St. Lawrence.
+        1262-w.   Disposition of net collections from the additional
+                      rate of sales and compensating use tax in the
+                      county of Putnam.
         1263.     Deposit of funds and use of funds not having assigned
                       purposes.
         1264.     References to certain taxes or revenues from certain

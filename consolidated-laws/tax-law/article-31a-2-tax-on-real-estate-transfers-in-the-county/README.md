@@ -45,7 +45,7 @@ Section 1439-a. Definitions.
         1439-n. Miscellaneous.
         1439-o. Returns to be secret.
         1439-p. Foreclosure proceedings.
-  * NB Repealed December 31, 2025
+  * NB Repealed December 31, 2027
   * NB There are 3 Article 31-A-2's
 ```
 

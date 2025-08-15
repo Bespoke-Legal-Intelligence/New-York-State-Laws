@@ -112,6 +112,6 @@ therein as a result of a conveyance.
 Columbia.
   10. "Treasurer" means the commissioner of finance of the county of
 Columbia.
-  * NB Repealed December 31, 2025
+  * NB Repealed December 31, 2027
   * NB There are 3 § 1439-a's
 ```

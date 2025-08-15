@@ -11,7 +11,7 @@ county of Livingston imposes the additional one percent rate of sales
 and compensating use taxes authorized by section twelve hundred ten of
 this article for all or any portion of the period beginning June first,
 two thousand three and ending November thirtieth, two thousand
-twenty-five, the county shall use all net collections from such
+twenty-seven, the county shall use all net collections from such
 additional one percent rate to pay the county's expenses for Medicaid.
 The net collections from the additional one percent rate imposed
 pursuant to this section shall be deposited in a special fund to be

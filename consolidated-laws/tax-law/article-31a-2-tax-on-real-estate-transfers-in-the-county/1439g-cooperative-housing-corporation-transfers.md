@@ -56,6 +56,6 @@ including, but not limited to, the names, addresses and employee
 identification numbers or social security numbers of the grantor and the
 grantee, the number of shares conveyed, the date of the conveyance and
 the consideration paid for such conveyance.
-  * NB Repealed December 31, 2025
+  * NB Repealed December 31, 2027
   * NB There are 3 § 1439-g's
 ```

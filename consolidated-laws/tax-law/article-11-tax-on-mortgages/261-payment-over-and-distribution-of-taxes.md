@@ -54,23 +54,23 @@ county if such county provides that the moneys shall be used for mass
 transportation purposes but, if any such county which so withdraws and
 which does not so suspend does not so provide, to the comptroller
 pursuant to paragraph (p) of this subdivision; * (g) with respect to the
-counties of Washington and Warren, to the county treasurer of such
-county to be used to pay for any and all expenses incurred by such
-counties for the support of community colleges pursuant to article one
-hundred twenty-six of the education law; with respect to the county of
-Essex, to the county treasurer of such county to be used to pay for any
-and all expenses incurred by such county for county office and court
-facility projects and, after all such expenses are paid, for any and all
-expenses incurred by such county for county correctional and public
-safety facility projects;
+county of Washington, to the county treasurer of such county to be used
+to pay for any and all expenses incurred by such county for the support
+of community colleges pursuant to article one hundred twenty-six of the
+education law; with respect to the county of Essex, to the county
+treasurer of such county to be used to pay for any and all expenses
+incurred by such county for county office and court facility projects
+and, after all such expenses are paid, for any and all expenses incurred
+by such county for county correctional and public safety facility
+projects;
   * NB Effective until December 1, 2027
-  * (g) with respect to the counties of Washington and Warren, to the
-county treasurer of such county to be used to pay for any and all
-expenses incurred by such counties for the support of community colleges
-pursuant to article one hundred twenty-six of the education law; with
-respect to the county of Essex, to the county treasurer of such county
-to be used to pay for any and all expenses incurred by such county for
-county office and court facility projects;
+  * (g) with respect to the county of Washington, to the county
+treasurer of such county to be used to pay for any and all expenses
+incurred by such county for the support of community colleges pursuant
+to article one hundred twenty-six of the education law; with respect to
+the county of Essex, to the county treasurer of such county to be used
+to pay for any and all expenses incurred by such county for county
+office and court facility projects;
   * NB Effective December 1, 2027
 (h) with respect to the county of Franklin, to the county treasurer of
 such county to be used to pay for any and all expenses incurred by such
@@ -96,14 +96,14 @@ correctional facility and public safety building complex and the county
 composting facility; * (n) with respect to the county of Fulton, to the
 county treasurer of such county for deposit into the general fund of the
 county of Fulton;
-  * NB Repealed November 30, 2025
+  * NB Repealed November 30, 2027
 (o) with respect to the county of Steuben, to the county treasurer of
 such county for deposit into the general fund of the county of Steuben;
 (p) with respect to the remaining counties of the state except
 Cattaraugus county which have not suspended the imposition of such
 additional tax pursuant to subdivision two of section two hundred
-fifty-three of this article, to the comptroller to be paid by him or her
-into the general fund in the state treasury to the credit of the state
+fifty-three of this article, to the comptroller to be paid by them into
+the general fund in the state treasury to the credit of the state
 purposes account; provided that money paid to the comptroller with
 respect to any such remaining county in which on the date of such
 payment any mass transportation, airport or aviation, municipal historic
@@ -114,30 +114,32 @@ will be paid, pursuant to the provisions of title one of chapter seven
 hundred seventeen of the laws of nineteen hundred sixty-seven, section
 17.05 of the parks, recreation and historic preservation law, section
 41.18 of the mental hygiene law, or section 17-1903 of the environmental
-conservation law, shall be applied by him or her to increase the amount
-of aid for which the state is obligated in respect to such project on
-such date, provided that any such increase in state aid may not,
-together with any federal funds paid or to be paid on account of the
-cost of such project, exceed the total cost thereof, and where more than
-one such capital project is being carried out on such date within such
-county, the application of such monies by the comptroller shall be
-pro-rated among such municipalities on the basis of the respective
-amounts of state aid which are so obligated on such date; and (q) with
-respect to the county of Cattaraugus, to the comptroller to be paid by
-him or her into the general fund in the state treasury to the credit of
-the state purposes account for the construction of a county office
-building and a county department of public works office building, or
-debt service thereon being carried out by the county of Cattaraugus up
-to but not exceeding the total cost for such county office building and
-county department of public works building, or debt service thereon less
-the amount of any state aid or federal funds paid or to be paid on
-account of such project or debt service thereon. Notwithstanding the
-provisions of the preceding sentence, additional taxes so imposed and
-paid upon mortgages covering real property situated in two or more
-counties, which under the provisions of section two hundred sixty of
-this article are first to be apportioned by the commissioner, shall be
-paid over by the recording officer receiving the same as provided by the
-determination of said commissioner.
+conservation law, shall be applied by them to increase the amount of aid
+for which the state is obligated in respect to such project on such
+date, provided that any such increase in state aid may not, together
+with any federal funds paid or to be paid on account of the cost of such
+project, exceed the total cost thereof, and where more than one such
+capital project is being carried out on such date within such county,
+the application of such monies by the comptroller shall be pro-rated
+among such municipalities on the basis of the respective amounts of
+state aid which are so obligated on such date; (q) with respect to the
+county of Cattaraugus, to the comptroller to be paid by them into the
+general fund in the state treasury to the credit of the state purposes
+account for the construction of a county office building and a county
+department of public works office building, or debt service thereon
+being carried out by the county of Cattaraugus up to but not exceeding
+the total cost for such county office building and county department of
+public works building, or debt service thereon less the amount of any
+state aid or federal funds paid or to be paid on account of such project
+or debt service thereon; and (r) with respect to the county of Chenango,
+to the county treasurer of such county for deposit into the general fund
+of the county of Chenango. Notwithstanding the provisions of the
+preceding sentence, additional taxes so imposed and paid upon mortgages
+covering real property situated in two or more counties, which under the
+provisions of section two hundred sixty of this article are first to be
+apportioned by the commissioner, shall be paid over by the recording
+officer receiving the same as provided by the determination of said
+commissioner.
   If and to the extent that either metropolitan transportation authority
 or Niagara Frontier transportation authority or Rochester-Genesee
 regional transportation authority or capital district transportation

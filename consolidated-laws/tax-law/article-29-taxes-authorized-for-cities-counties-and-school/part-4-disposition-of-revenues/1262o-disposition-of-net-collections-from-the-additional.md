@@ -55,7 +55,7 @@ the county of Chautauqua imposes the additional one percent rate of
 sales and compensating use taxes authorized by such section twelve
 hundred ten for all or any of the period beginning December first, two
 thousand fifteen and ending November thirtieth, two thousand
-twenty-five, the county shall allocate three-twentieths of the net
+twenty-seven, the county shall allocate three-twentieths of the net
 collections from the additional one percent to the cities, towns and
 villages in the county on the basis of their respective populations,
 determined in accordance with the latest decennial federal census or

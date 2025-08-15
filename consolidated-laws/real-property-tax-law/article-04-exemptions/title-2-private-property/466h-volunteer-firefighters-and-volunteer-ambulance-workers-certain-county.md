@@ -63,5 +63,5 @@ provisions of this article on the effective date of this section shall
 suffer any diminution of such benefit because of the provisions of this
 section.
   * NB There are 2 § 466-h's
-  * NB Repealed December 9, 2025
+  * NB Repealed December 9, 2028
 ```

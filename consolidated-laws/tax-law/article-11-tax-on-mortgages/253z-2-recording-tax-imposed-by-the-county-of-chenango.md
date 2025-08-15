@@ -83,5 +83,5 @@ also be filed with the county clerk of the county of Chenango, the
 secretary of state and the state comptroller within five days after the
 date it is duly enacted.
   * NB There are 2 § 253-z's
-  * NB Repealed December 31, 2025
+  * NB Repealed December 31, 2027
 ```
