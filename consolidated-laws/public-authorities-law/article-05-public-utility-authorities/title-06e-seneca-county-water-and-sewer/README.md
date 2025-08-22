@@ -23,6 +23,7 @@
 - [§ 1149-O Interest in contracts prohibited](1149o-interest-in-contracts-prohibited.md)
 - [§ 1149-P Construction and purchase contracts](1149p-construction-and-purchase-contracts.md)
 - [§ 1149-Q Authority to take affirmative action](1149q-authority-to-take-affirmative-action.md)
+- [§ 1149-R Audit and annual report](1149r-audit-and-annual-report.md)
 - [§ 1149-S Environmental applications, proceedings, approvals and permits](1149s-environmental-applications-proceedings-approvals.md)
 - [§ 1149-T Limited liability](1149t-limited-liability.md)
 - [§ 1149-U Governmental capacity of the authority and municipalities](1149u-governmental-capacity-of-the-authority.md)

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 57-0122", "kind": "section", "law_id": "ENV", "location_id": "57-0122", "path": "ARTICLE 57 › TITLE 1 › SECTION 57-0122", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/57-0122.md", "title": "Carmans River watershed plan amendment"} -->
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 57-0122", "kind": "section", "law_id": "ENV", "location_id": "57-0122", "path": "ARTICLE 57 › TITLE 1 › SECTION 57-0122", "repealed": true, "repealed_date": "2025-08-22", "source": "nys-laws:ENV/57-0122.md", "title": "Carmans River watershed plan amendment"} -->
 # Environmental Conservation Law § 57-0122 — Carmans River watershed plan amendment
 
 [Environmental Conservation Law](../../README.md) › [Article 57 — Long Island Pine Barrens Maritime Reserve Act](../README.md) › [Title 1 — Long Island Pine Barrens Maritime Reserve Act](README.md)
+
+**Repealed** (22 Aug 2025). The text below is what the Senate publishes for this repealed provision.
 
 ```text
 * § 57-0122. Carmans River watershed plan amendment.

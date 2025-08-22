@@ -70,6 +70,8 @@
 - [§ 394-D Privity of contract between franchise seller and customer or patron of dealer](394d-privity-of-contract-between-franchise-seller-and-customer-or-patron-of-dealer.md)
 - [§ 394-E Report on request for abortional services](394e-report-on-request-for-abortional-services.md)
 - [§ 394-F Warrants for reproductive health related electronic data](394f-warrants-for-reproductive-health-related-electronic-data.md)
+- [§ 394-G Geofencing of health care facilities](394g-geofencing-of-health-care-facilities.md)
+- [§ 394-H Electronic health information protections](394h-electronic-health-information-protections.md)
 - [§ 395 Required disclosure of prior use](395-required-disclosure-of-prior-use.md)
 - [§ 395-A Maintenance agreements](395a-maintenance-agreements.md)
 - [§ 395-B Unlawfully installing or maintaining a two-way mirror or other viewing device](395b-unlawfully-installing-or-maintaining-a-two-way-mirror-or-other-viewing-device.md)

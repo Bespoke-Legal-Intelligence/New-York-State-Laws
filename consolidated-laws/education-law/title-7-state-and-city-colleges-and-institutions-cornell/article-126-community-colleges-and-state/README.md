@@ -17,6 +17,7 @@
 - [§ 6308 Defense and indemnification of community college trustees, officers and employees](6308-defense-and-indemnification-of-community.md)
 - [§ 6309 Reimbursement of defense costs incurred by or on behalf of community college trustees, officers and employees](6309-reimbursement-of-defense-costs-incurred.md)
 - [§ 6310 Community college regions - administration and finance](6310-community-college-regions-administration.md)
+- [§ 6311 New York opportunity promise scholarship](6311-new-york-opportunity-promise-scholarship.md)
 
 <details>
 <summary>Official heading of Article 126, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

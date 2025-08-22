@@ -16,7 +16,7 @@
 - [§ 57-0117 Dedications to the Long Island Pine Barrens preserve; legislative protection](57-0117-dedications-to-the-long-island-pine.md)
 - [§ 57-0119 Central Pine Barrens joint planning and policy commission](57-0119-central-pine-barrens-joint-planning.md)
 - [§ 57-0121 Central Pine Barrens comprehensive land use plan; interim regulations](57-0121-central-pine-barrens-comprehensive.md)
-- [§ 57-0122 Carmans River watershed plan amendment](57-0122-carmans-river-watershed-plan.md)
+- [§ 57-0122 Carmans River watershed plan amendment](57-0122-carmans-river-watershed-plan.md) *(repealed)*
 - [§ 57-0123 Implementation of the Central Pine Barrens comprehensive land use plan](57-0123-implementation-of-the-central-pine.md)
 - [§ 57-0125 Addition of towns](57-0125-addition-of-towns.md)
 - [§ 57-0127 Cooperation of state and municipal agencies](57-0127-cooperation-of-state-and-municipal.md)
@@ -50,7 +50,6 @@ Section 57-0101. Short title.
                    commission.
         57-0121. Central Pine Barrens comprehensive land use plan;
                    interim regulations.
-        57-0122. Carmans River watershed plan amendment.
         57-0123. Implementation of the Central Pine Barrens
                    comprehensive land use plan.
         57-0125. Addition of towns.

@@ -13,6 +13,7 @@
 - [§ 4305 Amendments or revocation of the gift](4305-amendments-or-revocation-of-the-gift.md)
 - [§ 4306 Rights and duties at death](4306-rights-and-duties-at-death.md)
 - [§ 4306-A Advanced directives and health care proxies](4306a-advanced-directives-and-health-care-proxies.md)
+- [§ 4306-B Withdrawal of life-sustaining treatment](4306b-withdrawal-of-life-sustaining-treatment.md)
 - [§ 4307 Prohibition of sales and purchases of human organs](4307-prohibition-of-sales-and-purchases-of-human-organs.md)
 - [§ 4308 Prohibition on charging a fee to a donor's estate](4308-prohibition-on-charging-a-fee-to-a-donors-estate.md)
 - [§ 4309 Application](4309-application.md)

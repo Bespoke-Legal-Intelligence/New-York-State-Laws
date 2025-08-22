@@ -188,7 +188,7 @@ subdivision seven-f-three of section forty-nine hundred of this title or
 a step therapy protocol override determination pursuant to subdivisions
 three-a, three-b and three-c of this section shall be deemed to be an
 override of the step therapy protocol.
-  * NB Effective until April 20, 2025
+  * NB Effective until January 1, 2026
   * 7. Failure by the utilization review agent to make a determination
 within the time periods prescribed in this section shall be deemed to be
 an adverse determination subject to appeal pursuant to section
@@ -202,7 +202,7 @@ failure to comply with any of the step therapy protocol requirements
 required in subdivisions five and six of section forty-nine hundred two
 of this title shall be considered a basis for granting an override of
 the step therapy protocol, absent fraud.
-  * NB Effective April 20, 2025
+  * NB Effective January 1, 2026
   8. The commissioner, in conjunction with the superintendent of
 financial services, shall develop standards for prior authorization
 requests to be utilized by all health care plans for the purposes of
