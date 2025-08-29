@@ -12,6 +12,7 @@
 - [§ 6434 Investigation of crimes and crime reporting](6434-investigation-of-crimes-and-crime-reporting.md)
 - [§ 6435 Appointment of private college security officers](6435-appointment-of-private-college-security.md)
 - [§ 6436 Bias related and hate crime prevention information](6436-bias-related-and-hate-crime-prevention.md)
+- [§ 6436-A Designation of a Title VI coordinator and duties](6436a-designation-of-a-title-vi-coordinator.md)
 - [§ 6437 Prohibition on the marketing of credit cards](6437-prohibition-on-the-marketing-of-credit-cards.md)
 - [§ 6438 Notification of fire safety standards and measures in all college-owned or college-operated housing](6438-notification-of-fire-safety-standards.md)
 - [§ 6438-A Opioid overdose prevention in college housing](6438a-opioid-overdose-prevention-in-college-housing.md)
@@ -33,6 +34,7 @@ Section 6430.   General provisions.
         6434.   Investigation of crimes and crime reporting.
         6435.   Appointment of private college security officers.
         6436.   Bias related and hate crime prevention information.
+        6436-a. Designation of a Title VI coordinator and duties.
         6437.   Prohibition on the marketing of credit cards.
         6438.   Notification of fire safety standards and measures in
                   all college-owned or college-operated housing.

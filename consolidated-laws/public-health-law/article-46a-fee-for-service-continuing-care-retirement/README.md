@@ -46,7 +46,6 @@ Section 4650.   Short title.
         4652.   Commissioner; powers and duties.
         4653.   Continuing care retirement community council; powers and
                   duties.
-        4653-a. Closure of assisted living residences.
         4654.   Authorization of fee-for-service continuing care
                   retirement communities.
         4655.   Certificate of authority required; application and

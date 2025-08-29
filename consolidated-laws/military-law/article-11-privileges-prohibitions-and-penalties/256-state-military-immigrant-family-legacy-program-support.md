@@ -4,10 +4,9 @@
 [Military Law](../README.md) › [Article 11 — Privileges, Prohibitions and Penalties](README.md)
 
 ```text
-  * § 256. State military immigrant family legacy program support. The
+  § 256. State military immigrant family legacy program support. The
 adjutant general shall encourage the development of and provide for the
 establishment of a state military immigrant family legacy program
 liaison, as provided in section twenty-nine-b of the veterans' services
 law.
-  * NB Effective May 20, 2025
 ```

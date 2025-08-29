@@ -20,6 +20,7 @@ Section 4652*2. General requirements; applicability of laws to assisted
                   living.
         4653*2. Licensure procedures and requirements for assisted
                   living.
+        4653-A. Closure of assisted living residences.
 ```
 
 </details>

@@ -311,7 +311,7 @@ seven of the state sanitary code; and
   (b) require all qualified lifeguards while on duty at the waterfront
 to not be engaged in duties or activities which distract them from the
 direct supervision of the waterfront.
-  * 5-e. Places of public assembly on-site epinephrine auto-injector
+  5-e. Places of public assembly on-site epinephrine auto-injector
 devices.
   (a) Notwithstanding the provisions of paragraph (r) of subdivision
 five of this section and section three thousand-c of this chapter, the
@@ -366,7 +366,6 @@ the purpose of any statute relating to liability.
   (ii) Operation of an epinephrine auto-injector device pursuant to this
 section shall not constitute the unlawful practice of a profession under
 title eight of the education law.
-  * NB Effective August 22, 2025
   6. The public health council shall, no later than January first,
 nineteen hundred seventy-four, prescribe standards and establish
 regulations for summer day and children's camps which derive all water

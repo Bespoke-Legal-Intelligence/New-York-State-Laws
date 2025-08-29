@@ -404,6 +404,7 @@
 - [§ 344-P\*13 Portion of the state highway system to be designated as the "CW2 Casey N](344p-13-portion-of-the-state-highway-system-to-be-designated-as-the-cw2-casey-n.md)
 - [§ 344-P\*14 Portion of the state highway system to be designated as the "Fort Hamilton Veterans Memorial Highway"](344p-14-portion-of-the-state-highway-system-to-be-designated-as-the-fort-hamilton.md)
 - [§ 344-Q Portion of the state highway system to be designated as the "Detective Sergeant Frank Gualdino Memorial Bridge"](344q-portion-of-the-state-highway-system-to-be-designated-as-the-detective-sergeant.md)
+- [§ 344-R Portion of the state highway system to be dedicated to Sergeant James S](344r-portion-of-the-state-highway-system-to-be-dedicated-to-sergeant-james-s.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 - [§ 345-B Portion of the state highway system to be designated as the "Doc Schelin Memorial Highway"](345b-portion-of-the-state-highway-system-to-be-designated-as-the-doc-schelin-memorial.md)
 - [§ 345-B\*2 Portion of the state highway system to be designated as the "Sergeant Elijah A](345b-2-portion-of-the-state-highway-system-to-be-designated-as-the-sergeant-elijah.md)
@@ -1365,6 +1366,8 @@ Section 340-a.     Designation of state interstate routes.
         344-q.     Portion of the state highway system to be designated
                      as the "Detective Sergeant Frank Gualdino Memorial
                      Bridge".
+        344-r.     Portion of the state highway system to be dedicated
+                     to Sergeant James S. Hayes.
         345-a.     Abandonment and transfer of state highways.
         345-b.     Portion of the state highway system to be designated
                      as the "Doc Schelin Memorial Highway".
