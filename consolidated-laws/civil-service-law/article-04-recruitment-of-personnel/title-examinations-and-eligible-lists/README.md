@@ -21,7 +21,7 @@
 - [§ 55-C\*2 Acceptability of certain high school diplomas](55c-2-acceptability-of-certain-high-school-diplomas.md)
 - [§ 56 Establishment and duration of eligible lists](56-establishment-and-duration-of-eligible-lists.md)
 - [§ 57 Continuous recruitment for certain positions](57-continuous-recruitment-for-certain-positions.md)
-- [§ 58 Requirements for provisional or permanent appointment of certain police officers](58-requirements-for-provisional-or-permanent-appointment.md)
+- [§ 58 Requirements for appointment of certain police officers](58-requirements-for-appointment-of-certain-police-officers.md)
 - [§ 58-A Requirements for provisional or permanent appointment of certain fire fighters](58a-requirements-for-provisional-or-permanent-appointment.md)
 - [§ 59 Placement of county sheriffs' personnel in classified service](59-placement-of-county-sheriffs-personnel-in-classified-service.md)
 - [§ 59-A Placement of detectives and investigators in classified service](59a-placement-of-detectives-and-investigators-in-classified.md)

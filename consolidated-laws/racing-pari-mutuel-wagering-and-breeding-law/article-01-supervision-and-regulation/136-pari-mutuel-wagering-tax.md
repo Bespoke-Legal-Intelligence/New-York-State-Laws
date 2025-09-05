@@ -4,7 +4,7 @@
 [Racing, Pari-Mutuel Wagering and Breeding Law](../README.md) › [Article 1 — Supervision and Regulation](README.md)
 
 ```text
-  * § 136. Pari-mutuel wagering tax. 1. Notwithstanding any law to the
+  § 136. Pari-mutuel wagering tax. 1. Notwithstanding any law to the
 contrary, the excise tax imposed on any racing association or
 corporation or regional off-track betting corporation, authorized to
 conduct pari-mutuel wagering shall be seven-tenths of one percent (0.7%)
@@ -31,5 +31,4 @@ aftercare fund pursuant to section two hundred nine-n of the tax law if
 the bet was made on a thoroughbred race, and to the retired and rescued
 standardbred horse aftercare fund pursuant to section two hundred nine-o
 of the tax law if the bet was made on a standardbred race.
-  * NB Effective September 1, 2025
 ```
