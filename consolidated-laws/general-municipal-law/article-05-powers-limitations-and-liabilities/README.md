@@ -51,6 +51,8 @@
 - [§ 77-I Sports field fence leases in the town of Yorktown, Westchester county](77i-sports-field-fence-leases-in-the-town-of-yorktown-westchester-county.md)
 - [§ 77-J Sports field fence leases in the town of Putnam Valley, Putnam county](77j-sports-field-fence-leases-in-the-town-of-putnam-valley-putnam-county.md)
 - [§ 77-J\*2 Sports field fence leases in the town of Kent, Putnam county](77j-2-sports-field-fence-leases-in-the-town-of-kent-putnam-county.md)
+- [§ 77-K Sports field fence leases in the village of Croton-on-Hudson, Westchester county](77k-sports-field-fence-leases-in-the-village-of-croton-on-hudson-westchester-county.md)
+- [§ 77-K\*2 Sports field fence leases in the city of White Plains, Westchester county](77k-2-sports-field-fence-leases-in-the-city-of-white-plains-westchester-county.md)
 - [§ 78 Insurance of property](78-insurance-of-property.md)
 - [§ 78-B Demolition and removal of unsafe structures](78b-demolition-and-removal-of-unsafe-structures.md)
 - [§ 80 Discrimination against non-residents](80-discrimination-against-non-residents.md)
@@ -205,6 +207,10 @@ Section 70.     Payment of judgments against municipal corporation.
                   Putnam county.
         77-j*2. Sports field fence leases in the town of Kent, Putnam
                   county.
+        77-k.   Sports field fence leases in the village of
+                  Croton-on-Hudson, Westchester county.
+        77-k*2. Sports field fence leases in the city of White Plains,
+                  Westchester county.
         78.     Insurance of property.
         78-b.   Demolition and removal of unsafe structures.
         80.     Discrimination against non-residents.

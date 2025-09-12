@@ -4,7 +4,7 @@
 [Real Property Law](../README.md) › [Article 16 — Ninety-day Waiting Period For Sale of Single-family and Two-family Residences to Certain Purchasers](README.md)
 
 ```text
-  * § 522. Enforcement. Notwithstanding any other provision of law, the
+  § 522. Enforcement. Notwithstanding any other provision of law, the
 attorney general of the state of New York shall have the authority to
 enforce the provisions of section five hundred twenty-one of this
 article by applying, in the name of the people of the state of New York,
@@ -16,5 +16,4 @@ is in the process of being or has been sold in a manner that contravenes
 the requirements of section five hundred twenty-one of this article, and
 imposing civil damages and penalties pursuant to subdivisions three and
 four of section five hundred twenty-one of this article, as applicable.
-  * NB Effective September 6, 2025
 ```

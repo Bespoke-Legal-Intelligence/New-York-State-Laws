@@ -128,9 +128,9 @@ by ___________________________________________________________________ .
 With respect to that subject only, I hereby appoint such person as my
 agent with respect to the disposition of my remains.
 SPECIAL DIRECTIONS:
-Set forth below are any special directions limiting the power granted to
-my agent as well as any instructions or wishes desired to be followed in
-the disposition of my remains:
+  Set forth below are any special directions limiting the power granted
+to my agent as well as any instructions or wishes desired to be followed
+in the disposition of my remains:
 ________________________________________________________________________
 ________________________________________________________________________
 ________________________________________________________________________
@@ -164,18 +164,18 @@ Name: __________________________________________________________________
 Address: _______________________________________________________________
 Telephone Number: ______________________________________________________
 DURATION:
-This appointment becomes effective upon my death.
+  This appointment becomes effective upon my death.
 PRIOR APPOINTMENT REVOKED:
   I hereby revoke any prior appointment of any person to control the
 disposition of my remains.
-Signed this                    day of          ,            .
+Signed this __________________ day of _________,____________.
 ________________________________________________________________________
 (Signature of person making the appointment)
 Statement by witness (must be 18 or older)
-I declare that the person who executed this document is personally known
-to me and appears to be of sound mind and acting of his or her free
-will. He or she signed (or asked another to sign for him or her) this
-document in my presence.
+  I declare that the person who executed this document is personally
+known to me and appears to be of sound mind and acting of his or her
+free will. He or she signed (or asked another to sign for him or her)
+this document in my presence.
 Witness 1: __________________
              (signature)
 Address: _________________

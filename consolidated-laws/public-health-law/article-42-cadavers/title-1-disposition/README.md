@@ -19,7 +19,8 @@
 Section 4200. Cadavers; duty of burial.
         4201. Disposition of remains; responsibility therefor.
         4202. Cremated remains; disposition.
-        4203. Cremated remains of a veteran; disposition.
+        4203. Cremated or naturally organically reduced remains of a
+                veteran; disposition.
 ```
 
 </details>

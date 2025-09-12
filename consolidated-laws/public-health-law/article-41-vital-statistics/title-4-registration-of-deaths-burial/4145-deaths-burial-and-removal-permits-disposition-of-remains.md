@@ -55,7 +55,7 @@ organic reduction, or other disposition.
 person in a cemetery or burial place having no person in charge, the
 funeral director or undertaker shall (a) sign the burial or removal
 permit, giving the date of burial; (b) write across the face of the
-permit the words "No person in charge; " and (c) file the burial or
+permit the words "No person in charge;" and (c) file the burial or
 removal permit within three days with the registrar of the district in
 which the cemetery is located.
   5. The person in charge of the place of burial, cremation, natural

@@ -6,7 +6,6 @@
 ## Contents
 
 - [§ 80 Suspension or demotion upon the abolition or reduction of positions](80-suspension-or-demotion-upon-the-abolition-or-reduction.md)
-- [§ 80-A Suspension or demotion upon the abolition or reduction of non-competitive class positions in the state service](80a-suspension-or-demotion-upon-the-abolition-or-reduction-of-non.md) *(repealed)*
 - [§ 81 Preferred lists; certification and reinstatement therefrom](81-preferred-lists-certification-and-reinstatement-therefrom.md)
 - [§ 81-A Reemployment rosters in the state service; certification and reinstatement therefrom](81a-reemployment-rosters-in-the-state-service-certification.md)
 - [§ 81-B Placement rosters in the state service; certification and appointment therefrom](81b-placement-rosters-in-the-state-service-certification.md)

@@ -4,7 +4,7 @@
 [Real Property Law](../README.md) › [Article 16 — Ninety-day Waiting Period For Sale of Single-family and Two-family Residences to Certain Purchasers](README.md)
 
 ```text
-  * § 521. Ninety-day waiting period. 1. Notwithstanding any other
+  § 521. Ninety-day waiting period. 1. Notwithstanding any other
 provision of law, on and after July first, two thousand twenty-five, it
 shall be unlawful for a covered entity to purchase, acquire, or offer to
 purchase or acquire any interest in a single-family residence or
@@ -80,5 +80,4 @@ Signature Date
 ____________________________
 NOTARY ACKNOWLEDGEMENT
 (insert notary acknowledgement for this form here)"
-  * NB Effective September 6, 2025
 ```

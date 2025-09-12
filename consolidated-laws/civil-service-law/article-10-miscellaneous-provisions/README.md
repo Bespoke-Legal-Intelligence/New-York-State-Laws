@@ -3,8 +3,6 @@
 
 [Civil Service Law](../README.md)
 
-*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
-
 ## Contents
 
 - [§ 150 Suspension of pension and annuity during public employment](150-suspension-of-pension-and-annuity-during-public-employment.md)
@@ -19,7 +17,6 @@
 - [§ 159-A Disability program](159a-disability-program.md)
 - [§ 159-B Excused leave to undertake a screening for cancer](159b-excused-leave-to-undertake-a-screening-for-cancer.md)
 - [§ 159-C Prohibition of retaliation for use of sick leave due to COVID-19; public employers](159c-prohibition-of-retaliation-for-use-of-sick-leave-due-to-covid-19-public.md)
-- [§ 159-C\*2 Prohibition of retaliation for use of sick leave due to COVID-19; public employers](159c-2-prohibition-of-retaliation-for-use-of-sick-leave-due-to-covid-19-public.md) *(repealed)*
 - [§ 159-D Excused leave to donate blood](159d-excused-leave-to-donate-blood.md)
 
 <details>

@@ -15,7 +15,7 @@
            ANATOMICAL GIFT DUTIES OF HOSPITALS AND PROCUREMENT
                               ORGANIZATIONS
 Section 4351. Duties of hospital administrators, organ procurement
-                organizations, banks or storage facilities.
+                organizations, eye banks or tissue banks.
 ```
 
 </details>

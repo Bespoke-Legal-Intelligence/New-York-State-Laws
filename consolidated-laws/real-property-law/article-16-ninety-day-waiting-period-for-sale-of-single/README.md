@@ -13,14 +13,13 @@
 <summary>Official heading of Article 16, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              * ARTICLE 16
+                               ARTICLE 16
                       NINETY-DAY WAITING PERIOD FOR
                   SALE OF SINGLE-FAMILY AND TWO-FAMILY
                     RESIDENCES TO CERTAIN PURCHASERS
 Section 520. Definitions.
         521. Ninety-day waiting period.
         522. Enforcement.
-  * NB Effective September 6, 2025
 ```
 
 </details>

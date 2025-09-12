@@ -145,8 +145,8 @@ equipment" or "equipment" means equipment that utilizes a low dose of
 ionizing radiation to produce an anatomical image capable of detecting
 objects placed on, attached to or secreted within a person's body.
   (e) For the purposes of this subdivision:
-  (i) " Local correctional facility" shall have the same meaning as
-found in subdivision sixteen of section two of the correction law.
+  (i) "Local correctional facility" shall have the same meaning as found
+in subdivision sixteen of section two of the correction law.
   (ii) "State correctional facility" shall mean a "correctional
 facility" as defined in subdivision four of section two of the
 correction law.

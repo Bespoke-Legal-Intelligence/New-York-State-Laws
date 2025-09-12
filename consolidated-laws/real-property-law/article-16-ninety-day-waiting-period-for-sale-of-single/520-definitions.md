@@ -4,8 +4,8 @@
 [Real Property Law](../README.md) › [Article 16 — Ninety-day Waiting Period For Sale of Single-family and Two-family Residences to Certain Purchasers](README.md)
 
 ```text
-  * § 520. Definitions. As used in this article, the following terms
-shall have the following meanings:
+  § 520. Definitions. As used in this article, the following terms shall
+have the following meanings:
   1. "Community land trust" shall mean a nonprofit organization exempt
 from certain taxes pursuant to section 501 (c) (3) or section 501(c) (4)
 of the United States internal revenue code and/or that is incorporated
@@ -58,5 +58,4 @@ interest in the covered entity that seeks to purchase the two-family
 residence; or
   (b) any two-family residence constructed, acquired, or operated with
 federal, state, or local appropriated funding sources.
-  * NB Effective September 6, 2025
 ```
