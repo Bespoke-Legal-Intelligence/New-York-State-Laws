@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 28 — Hospitals](README.md)
 
 ```text
-  * § 2831. Medically fragile young adults. 1. For purposes of this
+  § 2831. Medically fragile young adults. 1. For purposes of this
 section, "medically fragile young adults" shall mean individuals who
 meet the definition of children with medical fragility, but for the fact
 such individuals are aged between twenty-one and thirty-five years old.
@@ -21,5 +21,4 @@ remain at one hundred percent of the Medicaid rate of medically fragile
 children, without any daily limit for this population.
   3. This section shall be effective if, and as long as, federal
 financial participation is available therefor.
-  * NB Effective September 13, 2025
 ```
