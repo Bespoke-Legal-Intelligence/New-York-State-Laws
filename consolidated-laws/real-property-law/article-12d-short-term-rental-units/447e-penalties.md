@@ -4,10 +4,10 @@
 [Real Property Law](../README.md) › [Article 12-D — Short-term Rental Units](README.md)
 
 ```text
-  * § 447-e. Penalties. 1. (a) Except as provided in paragraph (b) of
-this subdivision, any booking service which collects a fee related to
-booking a unit as a short-term rental unit where such short-term rental
-unit is not registered in accordance with this article may be fined in
+  § 447-e. Penalties. 1. (a) Except as provided in paragraph (b) of this
+subdivision, any booking service which collects a fee related to booking
+a unit as a short-term rental unit where such short-term rental unit is
+not registered in accordance with this article may be fined in
 accordance with subdivisions four and five of this section. Any covered
 jurisdiction in which such unregistered short-term rental unit is
 located or the attorney general or the attorney general's designee may
@@ -73,5 +73,4 @@ living or sleeping spaces, with the coverage and requirements of such
 registration system as established pursuant to local law, from
 maintaining, establishing, amending, and effectuating its own penalty
 system related to such registration system.
-  * NB Effective September 22, 2025
 ```

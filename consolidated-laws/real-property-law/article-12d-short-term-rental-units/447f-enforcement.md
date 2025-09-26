@@ -4,7 +4,7 @@
 [Real Property Law](../README.md) › [Article 12-D — Short-term Rental Units](README.md)
 
 ```text
-  * § 447-f. Enforcement. 1. The provisions of this article may be
+  § 447-f. Enforcement. 1. The provisions of this article may be
 enforced in accordance with article eight of the multiple dwelling law
 or article eight of the multiple residence law, as applicable in the
 covered jurisdiction where the short-term unit is located.
@@ -23,5 +23,4 @@ state.
 violation of this article for any such violations of this article
 occurring in the covered jurisdiction, and may notify the attorney
 general.
-  * NB Effective September 22, 2025
 ```

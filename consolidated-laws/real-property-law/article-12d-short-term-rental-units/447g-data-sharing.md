@@ -4,7 +4,7 @@
 [Real Property Law](../README.md) › [Article 12-D — Short-term Rental Units](README.md)
 
 ```text
-  * § 447-g. Data sharing. Booking services shall provide to the
+  § 447-g. Data sharing. Booking services shall provide to the
 department of state, at the same times and on the same recurring basis
 that they provide data pursuant to subdivision three of section four
 hundred forty-seven-b of this article, an electronic report aggregating
@@ -17,5 +17,4 @@ the aggregate number of short-term rental unit guest stays that the
 booking service facilitated during the applicable reporting period for
 each county where the listings are located. Such electronic report shall
 be in a form and manner as determined by the department of state.
-  * NB Effective September 22, 2025
 ```

@@ -4,12 +4,11 @@
 [Real Property Law](../README.md) › [Article 12-D — Short-term Rental Units](README.md)
 
 ```text
-  * § 447-d. Exceptions. This article shall not apply to:
+  § 447-d. Exceptions. This article shall not apply to:
   1. Incidental and occasional occupancy of a dwelling unit for fewer
 than thirty consecutive days by other natural persons when the permanent
 occupants are temporarily absent for personal reasons, such as vacation
 or medical treatment, provided that there is no monetary compensation
 paid to the permanent occupants for such occupancy; or
   2. Temporary housing or lodging permitted by the department of health.
-  * NB Effective September 22, 2025
 ```

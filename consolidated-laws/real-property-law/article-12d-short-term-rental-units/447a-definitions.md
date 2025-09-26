@@ -4,8 +4,8 @@
 [Real Property Law](../README.md) › [Article 12-D — Short-term Rental Units](README.md)
 
 ```text
-  * § 447-a. Definitions. For the purposes of this article, the
-following terms shall have the following meanings:
+  § 447-a. Definitions. For the purposes of this article, the following
+terms shall have the following meanings:
   1. "Covered jurisdiction" means every county, city, town, and village
 in the state except for:
   (a) a city with a population of one million or more;
@@ -71,5 +71,4 @@ and
   (b) charges, collects or receives a fee for the use of such a platform
 or for provision of any service in connection with a short-term rental
 of a short-term rental unit.
-  * NB Effective September 22, 2025
 ```

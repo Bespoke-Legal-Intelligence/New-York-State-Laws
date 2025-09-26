@@ -17,7 +17,7 @@
 <summary>Official heading of Article 12-D, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 12-D
+                              ARTICLE 12-D
                          SHORT-TERM RENTAL UNITS
 Section 447-a. Definitions.
         447-b. Short-term rental units; regulation.
@@ -26,7 +26,6 @@ Section 447-a. Definitions.
         447-e. Penalties.
         447-f. Enforcement.
         447-g. Data sharing.
-  * NB Effective September 22, 2025
 ```
 
 </details>
