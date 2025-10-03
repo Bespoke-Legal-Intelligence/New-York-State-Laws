@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | STF |
 | Type | Consolidated law, chapter 56 |
-| Sections | 579 |
-| Last changed | 8 Aug 2025 |
+| Sections | 579 (1 repealed) |
+| Last changed | 3 Oct 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | State Finance |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [3 Oct 2025](../../changes/2025/2025-10-03.md): 1 repealed
 - [8 Aug 2025](../../changes/2025/2025-08-08.md): 1 amended
 - [4 Jul 2025](../../changes/2025/2025-07-04.md): 3 amended
 - [30 May 2025](../../changes/2025/2025-05-30.md): 2 amended, 1 added, 3 removed
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [14 Mar 2025](../../changes/2025/2025-03-14.md): 1 amended
 - [7 Mar 2025](../../changes/2025/2025-03-07.md): 1 amended
 - [21 Feb 2025](../../changes/2025/2025-02-21.md): 1 amended
-- [10 Jan 2025](../../changes/2025/2025-01-10.md): 1 amended
 
 ## Contents
 

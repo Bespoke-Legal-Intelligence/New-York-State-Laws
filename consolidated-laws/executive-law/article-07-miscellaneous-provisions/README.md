@@ -34,6 +34,7 @@
 - [§ 170-G Collection of demographic information; sexual orientation and gender expression](170g-collection-of-demographic-information-sexual-orientation-and-gender-expression.md)
 - [§ 170-H Additional collection of demographic information](170h-additional-collection-of-demographic-information.md)
 - [§ 170-I Gender-based violence and the workplace](170i-gender-based-violence-and-the-workplace.md)
+- [§ 170-J Mental health references contained in state and municipal forms](170j-mental-health-references-contained-in-state-and-municipal-forms.md)
 - [§ 171 Discovery and disposition of human remains and funerary objects](171-discovery-and-disposition-of-human-remains-and-funerary-objects.md)
 
 <details>
@@ -79,6 +80,8 @@ Section 161.     Certain searches, the filing of papers, and certified
                    orientation and gender expression.
         170-h.   Additional collection of demographic information.
         170-i.   Gender-based violence and the workplace.
+        170-j.   Mental health references contained in state and
+                   municipal forms.
         171.     Discovery and disposition of human remains and funerary
                    objects.
 ```

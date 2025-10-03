@@ -264,17 +264,19 @@ not be affiliated with an insurer, a corporation subject to article
 forty-three of the insurance law, a municipal cooperative health benefit
 plan certified pursuant to article forty-seven of the insurance law, or
 a health maintenance organization certified pursuant to this article.
-  * 8. Space shall be provided on any enrollment, renewal or initial
-online portal process setup forms required of a subscriber or applicant
-for coverage, excepting forms issued by the NY State of Health, the
-official Health Plan Marketplace, other than those specifically
-referenced in subparagraph (iv) of paragraph (a) of subdivision five of
-section forty-three hundred ten and paragraph (v) of subdivision one of
-section two hundred six of this chapter, so that the subscriber or
-applicant for coverage shall register or decline registration in the
-donate life registry for organ, eye and tissue donations under this
-section of the enrollment or renewal form and that the following is
-stated on the form in clear and conspicuous type:
+  * 8. Every contract delivered or issued for delivery in this state
+which provides major medical or similar comprehensive-type coverage
+shall provide space on any enrollment, renewal or initial online portal
+process setup forms required of a subscriber or applicant for coverage,
+excepting forms issued by the NY State of Health, the official Health
+Plan Marketplace, other than those specifically referenced in
+subparagraph (iv) of paragraph (a) of subdivision five of section
+forty-three hundred ten and paragraph (v) of subdivision one of section
+two hundred six of this chapter, so that the subscriber or applicant for
+coverage shall register or decline registration in the donate life
+registry for organ, eye and tissue donations under this section of the
+enrollment or renewal form and that the following is stated on the form
+in clear and conspicuous type:
   "You must fill out the following section: Would you like to be added
 to the Donate Life Registry? Check box for 'yes' or 'skip this
 question'."

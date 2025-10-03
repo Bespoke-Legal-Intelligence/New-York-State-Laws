@@ -8,7 +8,7 @@
 | Senate code | RPA |
 | Type | Consolidated law, chapter 81 |
 | Sections | 363 |
-| Last changed | 22 Aug 2025 |
+| Last changed | 3 Oct 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Real Property Actions & Proceedings |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [3 Oct 2025](../../changes/2025/2025-10-03.md): 1 amended
 - [22 Aug 2025](../../changes/2025/2025-08-22.md): 1 amended
 - [4 Jul 2025](../../changes/2025/2025-07-04.md): 5 amended
 - [13 Dec 2024](../../changes/2024/2024-12-13.md): 1 amended
@@ -40,7 +41,6 @@ Assembly, do enact as follows:
 - [26 Apr 2024](../../changes/2024/2024-04-26.md): 2 amended
 - [5 Apr 2024](../../changes/2024/2024-04-05.md): 1 amended
 - [9 Feb 2024](../../changes/2024/2024-02-09.md): 1 amended
-- [2 Feb 2024](../../changes/2024/2024-02-02.md): 1 amended
 
 ## Contents
 

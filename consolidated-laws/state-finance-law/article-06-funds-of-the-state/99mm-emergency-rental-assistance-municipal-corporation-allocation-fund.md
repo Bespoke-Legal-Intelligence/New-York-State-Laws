@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "State Finance Law § 99-MM", "kind": "section", "law_id": "STF", "location_id": "99-MM", "path": "ARTICLE 6 › SECTION 99-MM", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/99-MM.md", "title": "Emergency rental assistance municipal corporation allocation fund"} -->
+﻿<!-- nyslaw {"citation": "State Finance Law § 99-MM", "kind": "section", "law_id": "STF", "location_id": "99-MM", "path": "ARTICLE 6 › SECTION 99-MM", "repealed": true, "repealed_date": "2025-10-03", "source": "nys-laws:STF/99-MM.md", "title": "Emergency rental assistance municipal corporation allocation fund"} -->
 # State Finance Law § 99-MM — Emergency rental assistance municipal corporation allocation fund
 
 [State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
+
+**Repealed** (3 Oct 2025). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 99-mm. Emergency rental assistance municipal corporation

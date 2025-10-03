@@ -619,7 +619,7 @@ alternative care options intended to optimize patient care developed by
 independent organizations or medical professional societies utilizing a
 transparent methodology and reporting structure and with a conflict of
 interest policy.
-  * (nn) (i) Medical assistance shall include the coverage of the
+  (nn) (i) Medical assistance shall include the coverage of the
 following services for individuals when a medical treatment may directly
 or indirectly cause iatrogenic infertility, which is an impairment of
 fertility resulting from surgery, radiation, chemotherapy, sickle cell
@@ -641,7 +641,6 @@ medical assistance eligibility.
   (ii) In the event that federal financial participation for such
 fertility preservation services is not available, medical assistance
 shall not include coverage of these services.
-  * NB Effective October 1, 2025
   3. Any inconsistent provisions of this section notwithstanding,
 medical assistance shall include:
   (a) early and periodic screening and diagnosis of eligible persons

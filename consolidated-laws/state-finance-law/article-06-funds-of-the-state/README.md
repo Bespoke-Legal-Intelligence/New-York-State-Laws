@@ -282,7 +282,7 @@
 - [§ 99-JJ New York state drug treatment and public education fund](99jj-new-york-state-drug-treatment-and-public-education-fund.md)
 - [§ 99-KK New York state community grants reinvestment fund](99kk-new-york-state-community-grants-reinvestment-fund.md)
 - [§ 99-LL New York state council on the arts cultural programs fund](99ll-new-york-state-council-on-the-arts-cultural-programs-fund.md)
-- [§ 99-MM Emergency rental assistance municipal corporation allocation fund](99mm-emergency-rental-assistance-municipal-corporation-allocation-fund.md)
+- [§ 99-MM Emergency rental assistance municipal corporation allocation fund](99mm-emergency-rental-assistance-municipal-corporation-allocation-fund.md) *(repealed)*
 - [§ 99-NN Opioid settlement fund](99nn-opioid-settlement-fund.md)
 - [§ 99-OO Pharmacy benefit manager regulatory fund](99oo-pharmacy-benefit-manager-regulatory-fund.md)
 - [§ 99-PP Background check fund](99pp-background-check-fund.md)
@@ -634,8 +634,6 @@ Section 70.        Classification of funds.
         99-kk.     New York state community grants reinvestment fund.
         99-ll.     New York state council on the arts cultural programs
                      fund.
-        99-mm.     Emergency rental assistance municipal corporation
-                     allocation fund.
         99-nn.     Opioid settlement fund.
         99-oo.     Pharmacy benefit manager regulatory fund.
         99-pp.     Background check fund.

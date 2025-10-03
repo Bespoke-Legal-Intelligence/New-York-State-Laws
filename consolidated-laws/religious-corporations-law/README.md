@@ -8,7 +8,7 @@
 | Senate code | RCO |
 | Type | Consolidated law, chapter 51 |
 | Sections | 337 |
-| Last changed | 19 Aug 2022 |
+| Last changed | 3 Oct 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Religious Corporations |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [3 Oct 2025](../../changes/2025/2025-10-03.md): 2 amended
 - [19 Aug 2022](../../changes/2022/2022-08-19.md): 1 amended
 - [12 Nov 2021](../../changes/2021/2021-11-12.md): 1 amended
 - [9 Apr 2021](../../changes/2021/2021-04-09.md): 1 amended

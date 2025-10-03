@@ -29,6 +29,7 @@
 - [§ 916-A Pupils with allergies](916a-pupils-with-allergies.md)
 - [§ 916-B Pupils with diabetes](916b-pupils-with-diabetes.md)
 - [§ 917 On-site cardiac automated external defibrillator](917-on-site-cardiac-automated-external-defibrillator.md)
+- [§ 917-A On-site cardiac automated external defibrillator in nonpublic schools](917a-on-site-cardiac-automated-external-defibrillator.md)
 - [§ 918 School district nutrition advisory committees](918-school-district-nutrition-advisory-committees.md)
 - [§ 919 On-site nebulizers](919-on-site-nebulizers.md)
 - [§ 920 Public schools; infestation of bedbugs (Cimex lectularius)](920-public-schools-infestation-of-bedbugs-cimex.md)
@@ -37,6 +38,7 @@
 - [§ 922 Opioid overdose prevention](922-opioid-overdose-prevention.md)
 - [§ 923 Sudden cardiac arrest](923-sudden-cardiac-arrest.md)
 - [§ 924 Ingredient and nutritional information requirements](924-ingredient-and-nutritional-information-requirements.md)
+- [§ 926 Water safety information](926-water-safety-information.md)
 
 <details>
 <summary>Official heading of Article 19, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -73,6 +75,8 @@ Section 901.   School health services to be provided.
         916-a. Pupils with allergies.
         916-b. Pupils with diabetes.
         917.   On-site cardiac automated external defibrillator.
+        917-a. On-site cardiac automated external defibrillator in
+                 nonpublic schools.
         918.   School district nutrition advisory committees.
         919.   On-site nebulizers.
         920.   Public schools; infestation of bedbugs (Cimex
@@ -83,6 +87,7 @@ Section 901.   School health services to be provided.
         922.   Opioid overdose prevention.
         923.   Sudden cardiac arrest.
         924.   Ingredient and nutritional information requirements.
+        926.   Water safety information.
 ```
 
 </details>
