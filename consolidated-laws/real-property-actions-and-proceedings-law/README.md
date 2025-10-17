@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | RPA |
 | Type | Consolidated law, chapter 81 |
-| Sections | 363 |
-| Last changed | 3 Oct 2025 |
+| Sections | 364 |
+| Last changed | 17 Oct 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Real Property Actions & Proceedings |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [17 Oct 2025](../../changes/2025/2025-10-17.md): 1 added
 - [3 Oct 2025](../../changes/2025/2025-10-03.md): 1 amended
 - [22 Aug 2025](../../changes/2025/2025-08-22.md): 1 amended
 - [4 Jul 2025](../../changes/2025/2025-07-04.md): 5 amended
@@ -40,7 +41,6 @@ Assembly, do enact as follows:
 - [3 May 2024](../../changes/2024/2024-05-03.md): 2 amended
 - [26 Apr 2024](../../changes/2024/2024-04-26.md): 2 amended
 - [5 Apr 2024](../../changes/2024/2024-04-05.md): 1 amended
-- [9 Feb 2024](../../changes/2024/2024-02-09.md): 1 amended
 
 ## Contents
 
@@ -69,4 +69,5 @@ Assembly, do enact as follows:
 - [Article 19-A — Special Proceeding to Convey Title to Abandoned Dwelling to City, Town or Village](article-19a-special-proceeding-to-convey-title-to-abandoned/)
 - [Article 19-B — Special Proceeding to Convey Title to Abandoned Commercial and Industrial Real Property to City, Town, or Village](article-19b-special-proceeding-to-convey-title-to-abandoned/)
 - [Article 20 — Enforcement of Covenants and Easements; Recovery of Damages For Breach of Covenant or Injury to Easement](article-20-enforcement-of-covenants-and-easements-recovery/)
+- [Article 20-A — Enforcement of Liens By a Homeowners' Association](article-20a-enforcement-of-liens-by-a-homeowners-association/)
 - [Article 21 — Effective Date; Laws Repealed](article-21-effective-date-laws-repealed/)

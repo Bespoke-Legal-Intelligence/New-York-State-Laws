@@ -18,6 +18,7 @@
 - [§ 402-E Disruption of vital services](402e-disruption-of-vital-services.md)
 - [§ 402-F Searchable ticket database](402f-searchable-ticket-database.md)
 - [§ 402-G Contracting with minority and women owned enterprises and small businesses](402g-contracting-with-minority-and-women-owned.md)
+- [§ 402-H Succession rights](402h-succession-rights.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -40,6 +41,7 @@ Section 400.     Validation.
         402-f.   Searchable ticket database.
         402-g.   Contracting with minority and women owned enterprises
                    and small businesses.
+        402-h.   Succession rights.
 ```
 
 </details>

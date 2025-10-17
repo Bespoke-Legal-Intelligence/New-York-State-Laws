@@ -7,6 +7,7 @@
 
 - [§ 340 Contracts or agreements for monopoly or in restraint of trade illegal and void](340-contracts-or-agreements-for-monopoly-or-in-restraint-of-trade-illegal-and-void.md)
 - [§ 340-A Monies recovered](340a-monies-recovered.md)
+- [§ 340-B Agreements to not compete with respect to residential rental dwelling units](340b-agreements-to-not-compete-with-respect-to-residential-rental-dwelling-units.md)
 - [§ 341 Penalty](341-penalty.md)
 - [§ 342 Action to restrain and prevent](342-action-to-restrain-and-prevent.md)
 - [§ 342-A Recovery of civil penalty by attorney-general](342a-recovery-of-civil-penalty-by-attorney-general.md)
@@ -26,6 +27,8 @@
 Section 340.   Contracts or agreements for monopoly or in restraint of
                  trade illegal and void.
         340-a. Monies recovered.
+        340-b. Agreements to not compete with respect to residential
+                 rental dwelling units.
         341.   Penalty.
         342.   Action to restrain and prevent.
         342-a. Recovery of civil penalty by attorney-general.

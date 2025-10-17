@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "State Finance Law § 92-G", "kind": "section", "law_id": "STF", "location_id": "92-G", "path": "ARTICLE 6 › SECTION 92-G", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/92-G.md", "title": "Motorcycle safety fund"} -->
+﻿<!-- nyslaw {"citation": "State Finance Law § 92-G", "kind": "section", "law_id": "STF", "location_id": "92-G", "path": "ARTICLE 6 › SECTION 92-G", "repealed": true, "repealed_date": "2025-10-17", "source": "nys-laws:STF/92-G.md", "title": "Motorcycle safety fund"} -->
 # State Finance Law § 92-G — Motorcycle safety fund
 
 [State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
+
+**Repealed** (17 Oct 2025). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 92-g. Motorcycle safety fund. 1. There is hereby established in

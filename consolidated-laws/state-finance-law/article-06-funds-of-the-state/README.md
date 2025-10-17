@@ -58,7 +58,7 @@
 - [§ 92-D Municipal assistance tax fund](92d-municipal-assistance-tax-fund.md)
 - [§ 92-E Municipal assistance state aid fund](92e-municipal-assistance-state-aid-fund.md)
 - [§ 92-F Special sales and compensating use tax fund for the city of Yonkers](92f-special-sales-and-compensating-use-tax-fund-for-the-city-of-yonkers.md)
-- [§ 92-G Motorcycle safety fund](92g-motorcycle-safety-fund.md)
+- [§ 92-G Motorcycle safety fund](92g-motorcycle-safety-fund.md) *(repealed)*
 - [§ 92-H Sales tax revenue bond tax fund](92h-sales-tax-revenue-bond-tax-fund.md)
 - [§ 92-I Stock transfer incentive fund](92i-stock-transfer-incentive-fund.md)
 - [§ 92-N Snowmobile trail development and maintenance fund](92n-snowmobile-trail-development-and-maintenance-fund.md)
@@ -359,7 +359,6 @@ Section 70.        Classification of funds.
         92-e.      Municipal assistance state aid fund.
         92-f.      Special sales and compensating use tax fund for the
                      city of Yonkers.
-        92-g.      Motorcycle safety fund.
         92-h.      Sales tax revenue bond tax fund.
         92-i.      Stock transfer incentive fund.
         92-n.      Snowmobile trail development and maintenance fund.

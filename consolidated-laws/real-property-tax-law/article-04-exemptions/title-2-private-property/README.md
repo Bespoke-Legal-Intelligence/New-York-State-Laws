@@ -59,6 +59,7 @@
 - [§ 455 Exemption option](455-exemption-option.md)
 - [§ 456 Municipal railroads](456-municipal-railroads.md)
 - [§ 457 Exemption for first-time homebuyers of newly constructed homes](457-exemption-for-first-time-homebuyers-of-newly-constructed-homes.md)
+- [§ 457-A Exemption for eligible residential property transferred to a low-income household](457a-exemption-for-eligible-residential-property-transferred-to-a-low-income.md)
 - [§ 458 Veterans](458-veterans.md)
 - [§ 458-A Veterans; alternative exemption](458a-veterans-alternative-exemption.md)
 - [§ 458-B Exemption for Cold War veterans](458b-exemption-for-cold-war-veterans.md)
@@ -278,6 +279,8 @@ Section 420-a.   Nonprofit organizations; mandatory class.
         456.     Municipal railroads.
         457.     Exemption for first-time homebuyers of newly
                    constructed homes.
+        457-a.   Exemption for eligible residential property transferred
+                   to a low-income household.
         458.     Veterans.
         458-a.   Veteran; alternative exemption.
         458-b.   Exemption for Cold War veterans.
