@@ -1,75 +1,68 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1202-G*2", "kind": "section", "law_id": "TAX", "location_id": "1202-G*2", "path": "ARTICLE 29 › PART 1 › SUBPART A › SECTION 1202-G*2", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1202-G_2.md", "title": "Tourist home, inn, hotel or motel taxes in Saratoga county and the city of Saratoga Springs"} -->
-# Tax Law § 1202-G*2 — Tourist home, inn, hotel or motel taxes in Saratoga county and the city of Saratoga Springs
+﻿<!-- nyslaw {"citation": "Tax Law § 1202-G-1", "kind": "section", "law_id": "TAX", "location_id": "1202-G-1", "path": "ARTICLE 29 › PART 1 › SUBPART A › SECTION 1202-G-1", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1202-G-1.md", "title": "Hotel or motel taxes in Saratoga county and the city of Saratoga Springs"} -->
+# Tax Law § 1202-G-1 — Hotel or motel taxes in Saratoga county and the city of Saratoga Springs
 
 [Tax Law](../../../README.md) › [Article 29 — Taxes Authorized For Cities, Counties and School Districts](../../README.md) › [Part 1 — Authority to Impose Taxes](../README.md) › [Subpart A — Taxes Administered By Cities, Counties and School Districts](README.md)
 
-*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
-
 ```text
-  * § 1202-g. Tourist home, inn, hotel or motel taxes in Saratoga county
-and the city of Saratoga Springs. (1) Notwithstanding any other
-provisions of law to the contrary, the county of Saratoga is hereby
-authorized and empowered to adopt and amend local laws imposing in such
-county a tax, in addition to any other tax authorized and imposed
-pursuant to this article, such as the legislature has or would have the
-power and authority to impose upon persons occupying tourist home, inn,
-hotel or motel rooms in such county. The rates of such tax shall be one
-percent of the per diem rental rate for each room provided, however,
-such tax shall not be applicable to a permanent resident of such tourist
-home, inn, hotel or motel or to rooms in a tourist home having less than
-four rentable units. For the purposes of this section the term
-"permanent resident" shall mean a person occupying any room or rooms in
-a tourist home, inn, hotel or motel for at least ninety consecutive
-days.
+  § 1202-g-1. Hotel or motel taxes in Saratoga county and the city of
+Saratoga Springs. (1) a. Notwithstanding any other provisions of law to
+the contrary, the county of Saratoga is hereby authorized and empowered
+to adopt and amend local laws imposing in such county a tax, in addition
+to any other tax authorized and imposed pursuant to this article, such
+as the legislature has or would have the power and authority to impose
+upon persons occupying hotel or motel rooms in such county. The rates of
+such tax shall not exceed three percent of the per diem rental rate for
+each room provided, however, such tax shall not be applicable to a
+permanent resident of a hotel or motel.
+  b. For the purposes of this section:
+  (i) "hotel" or "motel" shall mean and include any facility consisting
+of rentable units and providing lodging on an overnight basis and shall
+include those facilities designated and commonly known as "bed and
+breakfast" and "tourist" facilities; and
+  (ii) "permanent resident" shall mean a person occupying any room or
+rooms in a hotel or motel for at least ninety consecutive days.
   (1-a) Notwithstanding any other provisions of law to the contrary, the
 city of Saratoga Springs, in the county of Saratoga, is hereby
 authorized and empowered to adopt and amend local laws imposing in such
 city a tax, in addition to any other tax authorized and imposed pursuant
 to this article, such as the legislature has or would have the power and
-authority to impose upon persons occupying tourist home, inn, hotel or
-motel rooms in such city. The rates of such tax shall be one percent of
-the per diem rental rate for each room provided, however, such tax shall
-not be applicable to a permanent resident of such tourist home, inn,
-hotel or motel or to rooms in such lodging facilities having less than
-four rentable units.
+authority to impose upon persons occupying hotel or motel rooms in such
+city. The rates of such tax shall not exceed one percent of the per diem
+rental rate for each room provided, however, such tax shall not be
+applicable to a permanent resident of such hotel or motel.
   (1-b) Notwithstanding any other provisions of law to the contrary, the
 city of Saratoga Springs, in the county of Saratoga, is hereby
 authorized and empowered to adopt and amend local laws imposing in such
 city a tax, in addition to any other tax authorized and imposed pursuant
 to this article, such as the legislature has or would have the power and
-authority to impose upon persons occupying tourist home, inn, hotel or
-motel rooms in such city. The rates of such additional tax shall not
-exceed two percent of the per diem rental rate for each room provided,
-however, such tax shall not be applicable to a permanent resident of
-such tourist home, inn, hotel or motel or to rooms in such lodging
-facilities having less than four rentable units.
+authority to impose upon persons occupying hotel or motel rooms in such
+city. The rates of such additional tax shall not exceed two percent of
+the per diem rental rate for each room provided, however, such tax shall
+not be applicable to a permanent resident of such hotel or motel.
   (1-c) Notwithstanding any other provisions of law to the contrary, the
 city of Saratoga Springs, in the county of Saratoga, is hereby
 authorized and empowered to adopt and amend local laws imposing in such
 city a tax, in addition to any other tax authorized and imposed pursuant
 to this article, such as the legislature has or would have the power and
-authority to impose upon persons occupying tourist home, inn, hotel or
-motel rooms in such city. The rates of such additional tax shall not
-exceed two percent of the per diem rental rate for each room provided,
-however, such tax shall not be applicable to a permanent resident of
-such tourist home, inn, hotel or motel or to rooms in such lodging
-facilities having less than four rentable units.
+authority to impose upon persons occupying hotel or motel rooms in such
+city. The rates of such additional tax shall not exceed two percent of
+the per diem rental rate for each room provided, however, such tax shall
+not be applicable to a permanent resident of such hotel or motel.
   (2) Such taxes may be collected and administered by the county
 treasurer or other fiscal officers of Saratoga county by such means and
 in such manner as other taxes which are now collected and administered
 by such officers or as otherwise may be provided by such local law.
   (3) Such local laws may provide that any taxes imposed shall be paid
-by the person liable therefor to the owner of the tourist home, inn,
-hotel or motel room occupied or to the person entitled to be paid the
-rent or charge for the tourist home, inn, hotel or motel room occupied
-for and on account of the county of Saratoga and the city of Saratoga
-Springs imposing the taxes and that such owner or person entitled to be
-paid the rent or charge shall be liable for the collection and payment
-of the taxes; and that such owner or person entitled to be paid the rent
-or charge shall have the same right in respect to collecting the taxes
-from the person occupying the tourist home, inn, hotel or motel room, or
-in respect to nonpayment of the taxes by the person occupying the
-tourist home, inn, hotel or motel room, as if the taxes were a part of
+by the person liable therefor to the owner of the hotel or motel room
+occupied or to the person entitled to be paid the rent or charge for the
+hotel or motel room occupied for and on account of the county of
+Saratoga and the city of Saratoga Springs imposing the taxes and that
+such owner or person entitled to be paid the rent or charge shall be
+liable for the collection and payment of the taxes; and that such owner
+or person entitled to be paid the rent or charge shall have the same
+right in respect to collecting the taxes from the person occupying the
+hotel or motel room, or in respect to nonpayment of the taxes by the
+person occupying the hotel or motel room, as if the taxes were a part of
 the rent or charge and payable at the same time as the rent or charge;
 provided, however, that the county treasurer or other fiscal officers of
 the county and fiscal officer of the city, specified in such local laws,
@@ -114,7 +107,7 @@ and approved by the superintendent of financial services of this state
 as to solvency and responsibility, in such amount as a justice of the
 supreme court shall approve to the effect that if such proceeding be
 dismissed or the taxes confirmed the petitioner will pay all costs and
-charges which may accrue in the prosecution of such proceeding or;
+charges which may accrue in the prosecution of such proceeding; or
   b. At the option of the petitioner such undertaking may be in a sum
 sufficient to cover the taxes, interests and penalties stated in such
 determination plus the costs and charges which may accrue against it in
@@ -135,7 +128,7 @@ as a justice of the supreme court shall approve to the effect that if
 such proceeding be dismissed or the taxes confirmed, the petitioner will
 pay all costs and charges which may accrue in the prosecution of such
 proceeding.
-  (8) Except in the case of a wilfully false or fraudulent return with
+  (8) Except in the case of a willfully false or fraudulent return with
 intent to evade the taxes, no assessment of additional taxes shall be
 made after the expiration of more than three years from the date of the
 filing of a return, provided, however, that where no return has been
@@ -144,9 +137,7 @@ filed as provided by law the taxes may be assessed at any time.
 section shall be paid into the treasury of the county of Saratoga and
 shall be credited to and deposited in the general fund of the county;
 the net collections therefrom shall thereafter be allocated by the board
-of supervisors of Saratoga county fifty percent for the promotion of
-tourism and conventions and fifty percent to the Saratoga County
-Prosperity Partnership, Inc. for the promotion of tourism and other
+of supervisors of Saratoga county for the promotion of tourism and other
 economic development-related purposes provided, however, that the net
 collections pursuant to subdivision one-a of this section shall be paid
 to the general fund of the city of Saratoga Springs, the net collections
@@ -158,28 +149,9 @@ section shall be placed in an interest bearing capital reserve account
 to fund the expansion and renovation of the City Center until such time
 as the expansion and renovation has been completed, and thereafter shall
 be placed in a special account which may be drawn upon to offset any
-operating deficit maintained by the City Center. A committee of nine
-persons to advise the board on expenditures made by the county for the
-promotion of tourism and conventions shall be appointed by such board of
-supervisors, four of whom shall be members of such body who shall
-include the chair of the board of supervisors, the chair of the board's
-economic development committee, the chair of the board's law and finance
-committee, and one member of the board of supervisors who also serves as
-a director of the Saratoga County Prosperity Partnership, Inc. and five
-additional members who shall include a representative from the Saratoga
-county chamber of commerce, a representative from the chamber of
-southern Saratoga county, a representative from the Saratoga convention
-and tourism bureau, a representative from the Saratoga Springs city
-center authority and the Saratoga county treasurer.
-  (10) Such local laws as may be enacted pursuant to this section shall
-remain in full force and effect only so long as the board of supervisors
-of Saratoga county shall continue to expend for industrial and tourist
-promotion at least fifty thousand dollars per annum of funds other than
-those revenues collected pursuant to this section and the local laws
-passed hereunder.
-  (11) If any provision of this section or the application thereof to
+operating deficit maintained by the City Center.
+  (10) If any provision of this section or the application thereof to
 any person or circumstance shall be held invalid, the remainder of this
 section and the application of such provision to other persons or
 circumstances shall not be affected thereby.
-  * NB There are 4 § 1202-g's
 ```

@@ -9,6 +9,7 @@
 
 - [§ 4652\*2 General requirements; applicability of laws to assisted living](4652-2-general-requirements-applicability-of-laws-to-assisted-living.md)
 - [§ 4653\*2 Licensure procedures and requirements for assisted living](4653-2-licensure-procedures-and-requirements-for-assisted-living.md)
+- [§ 4653-A Closure of assisted living residences](4653a-closure-of-assisted-living-residences.md)
 
 <details>
 <summary>Official heading of Title 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

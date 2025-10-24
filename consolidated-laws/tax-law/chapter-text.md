@@ -79,6 +79,8 @@ Article 1.      Short title; definitions; miscellaneous (§§ 1-49*2).
                    (§§ 1439-a*3--1439-p*3).
        31-A-3.   Tax on real estate transfers in the town of Northeast
                    (§§ 1439-aa--1439-pp).
+       31-A-4.   Tax on real estate transfers in the town of Chester
+                   (§§ 1439-aaa--1439-ppp).
        31-B.     Tax on real estate transfers in the town of Brookhaven
                    (§§ 1440--1448-f).
        31-B-1.   Tax on real estate transfers in the county of Essex

@@ -141,6 +141,9 @@ Article
   20.      Reporting of Alzheimer's Disease (§§ 2000--2004-a).
   20-A.    Alzheimer's Community Assistance Program (§§ 2005-2009).
   20-B.    State Parkinson's disease registry (§§ 2010-2014).
+  20-C.    State Frontotemporal Degeneration registry (§§ 2015-2019).
+  20-C*2.  State Amyotrophic Lateral Sclerosis and Motor Neuron Disease
+            registry (§§ 2020-2024).
   21.      Control of acute communicable diseases
            Title    I.   General provisions (§§ 2100-2112).
                    II.   Control of patients (§§ 2120-2125).

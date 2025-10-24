@@ -117,6 +117,11 @@ and enrolled in the assisted living program, subject to the availability
 of federal financial participation. The commissioner shall make
 regulations and take other actions reasonably necessary and appropriate
 to implement this subparagraph.
+  (e) Medical evaluations. Medical evaluations used to determine that
+the assisted living program can support the physical, supervisory and
+psycho-social needs of a resident must be conducted within thirty days
+prior to the date of admission and signed by either a physician,
+physician assistant or nurse practitioner.
   3. Assisted living program approval. (a) An eligible applicant
 proposing to operate an assisted living program shall submit an
 application to the department. Upon receipt, the department shall

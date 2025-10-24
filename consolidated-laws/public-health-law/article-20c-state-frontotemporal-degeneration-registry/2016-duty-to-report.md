@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2016", "kind": "section", "law_id": "PBH", "location_id": "2016", "path": "ARTICLE 20-C › SECTION 2016", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2016.md", "title": "Duty to report"} -->
+# Public Health Law § 2016 — Duty to report
+
+[Public Health Law](../README.md) › [Article 20-C — State Frontotemporal Degeneration Registry](README.md)
+
+```text
+  * § 2016. Duty to report. 1. Every physician, nurse practitioner,
+physician assistant and general hospital that diagnoses or is treating a
+patient diagnosed with FTD disorder shall give notice no later than one
+hundred eighty days of every case of FTD disorders coming under their
+care, to the department, in a format to be determined by the
+commissioner, except as otherwise provided in this article.
+  2. All patients diagnosed with FTD disorders shall be provided written
+and verbal notice regarding the collection of information and patient
+data on FTD disorders. Patients who do not wish to participate in the
+collection of data shall affirmatively opt-out in writing after ample
+opportunity to review such notice, provided that, the mere incidence of
+a patient with an FTD disorder shall be the sole required information
+for the registry under section two thousand seventeen of this article
+for any patient who chooses not to participate.
+  * NB Effective January 14, 2026
+```

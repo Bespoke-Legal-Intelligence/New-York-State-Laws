@@ -25,22 +25,7 @@ blood transfusion, immunization, prior pregnancy or a previous failed
 kidney transplant;
   (c) organ sharing with other organ procurement organizations in
 accordance with organ sharing agreements approved by the commissioner.
-  2. No organ procurement organization designated to serve any part of
-New York state shall place any person on a waiting list for the
-allocation of organs for transplantation if that person is listed on any
-other waiting list for the allocation of that organ maintained by any
-other organ procurement organization designated to serve any part of New
-York state.
-  3. No person may place his or her name on a waiting list for the
-allocation of organs for transplantation maintained by an organ
-procurement organization designated to serve any part of New York state
-if the person is listed on any other waiting list for the allocation of
-that organ maintained by any other organ procurement organization
-designated to serve any part of New York state. Each facility performing
-transplant services shall inform a patient of the prohibition against
-being placed on multiple waiting lists before arranging for the
-placement of the patient on a waiting list.
-  4. In policies and procedures for distributing organs, no organ
+  2. In policies and procedures for distributing organs, no organ
 procurement organization shall consider or give any preference to
 patients in a facility based upon the facility's past or present
 procurement performance or its past or present relationship with a donor

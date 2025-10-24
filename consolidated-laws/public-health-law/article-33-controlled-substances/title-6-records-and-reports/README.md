@@ -8,7 +8,6 @@
 - [§ 3370 Preserving and inspection of records](3370-preserving-and-inspection-of-records.md)
 - [§ 3371 Confidentiality of certain records, reports, and information](3371-confidentiality-of-certain-records-reports-and-information.md)
 - [§ 3371-A Disclosure of certain records, reports, and information to another state](3371a-disclosure-of-certain-records-reports-and-information-to-another-state.md)
-- [§ 3372 Practitioner patient reporting](3372-practitioner-patient-reporting.md)
 - [§ 3373 Confidential communications](3373-confidential-communications.md)
 - [§ 3374 Notification by licensee](3374-notification-by-licensee.md)
 
@@ -23,7 +22,6 @@ Section 3370.   Preserving and inspection of records.
                   information.
         3371-a. Disclosure of certain records, reports, and information
                   to another state.
-        3372.   Practitioner patient reporting.
         3373.   Confidential communications.
         3374.   Notification by licensee.
 ```

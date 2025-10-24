@@ -9,7 +9,6 @@
 
 - [§ 3401 Insurable interest in property](3401-insurable-interest-in-property.md)
 - [§ 3402 Executory contract not a change in interest, title or possession](3402-executory-contract-not-a-change-in-interest-title-or-possession.md)
-- [§ 3403 Anti-arson application](3403-anti-arson-application.md)
 - [§ 3404 Fire insurance contracts; standard policy provisions; permissible variations](3404-fire-insurance-contracts-standard-policy-provisions-permissible-variations.md)
 - [§ 3405 Fire insurance contract; losses from nuclear reaction or radiation](3405-fire-insurance-contract-losses-from-nuclear-reaction-or-radiation.md)
 - [§ 3406 Copy of examination of insured to be delivered to insured](3406-copy-of-examination-of-insured-to-be-delivered-to-insured.md)
@@ -43,6 +42,7 @@
 - [§ 3436 Medical malpractice insurance; type of coverage](3436-medical-malpractice-insurance-type-of-coverage.md)
 - [§ 3436\*2 Group credit unemployment insurance and individual credit unemployment insurance](3436-2-group-credit-unemployment-insurance-and-individual-credit-unemployment-insurance.md)
 - [§ 3436-A Adverse action against legal reproductive health care or gender-affirming care](3436a-adverse-action-against-legal-reproductive-health-care-or-gender-affirming-care.md)
+- [§ 3437 Credit insurance for in-vitro fertilization or intrauterine insemination](3437-credit-insurance-for-in-vitro-fertilization-or-intrauterine-insemination.md)
 - [§ 3439 Reinsurance contracts excepted](3439-reinsurance-contracts-excepted.md)
 - [§ 3440 Insurance covering private passenger motor vehicles; rental vehicle coverage](3440-insurance-covering-private-passenger-motor-vehicles-rental-vehicle-coverage.md)
 - [§ 3442 Credit card, debit card, or checking account group policies](3442-credit-card-debit-card-or-checking-account-group-policies.md)
@@ -80,7 +80,6 @@
 Section 3401.   Insurable interest in property.
         3402.   Executory contract not a change in interest, title or
                   possession.
-        3403.   Anti-arson application.
         3404.   Fire insurance contracts; standard policy provisions;
                   permissible variations.
         3405.   Fire insurance contract; losses from nuclear reaction or
@@ -147,6 +146,8 @@ Section 3401.   Insurable interest in property.
                   credit unemployment insurance.
         3436-a. Adverse action against legal reproductive health care or
                   gender-affirming care.
+        3437.   Credit insurance for in-vitro fertilization or
+                  intrauterine insemination.
         3439.   Reinsurance contracts excepted.
         3440.   Insurance covering private passenger motor vehicles;
                   rental vehicle coverage.

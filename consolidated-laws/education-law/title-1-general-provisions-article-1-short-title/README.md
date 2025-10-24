@@ -7,6 +7,7 @@
 
 - [Article 1 — Short Title and Definitions](article-01-short-title-and-definitions/)
 - [Article 2 — Dignity For All Students](article-02-dignity-for-all-students/)
+- [Article 2-A — Jack Reid Law: Protect All Students Act](article-02a-jack-reid-law-protect-all-students/)
 - [Article 3 — Education Department](article-03-education-department/)
 - [Article 5 — University of the State of New York](article-05-university-of-the-state-of-new-york/)
 - [Article 6 — No title](article-06-no-title/)

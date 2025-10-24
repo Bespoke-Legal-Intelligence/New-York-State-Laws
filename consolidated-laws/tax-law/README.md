@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | TAX |
 | Type | Consolidated law, chapter 60 |
-| Sections | 1,351 |
-| Last changed | 22 Aug 2025 |
+| Sections | 1,379 |
+| Last changed | 24 Oct 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Tax |
 
@@ -29,10 +29,11 @@ Became a law February 17, 1909, with the approval of the Governor.
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (102 lines)](chapter-text.md)
+[Full chapter text (104 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [24 Oct 2025](../../changes/2025/2025-10-24.md): 4 amended, 29 added, 1 removed
 - [22 Aug 2025](../../changes/2025/2025-08-22.md): 1 amended
 - [15 Aug 2025](../../changes/2025/2025-08-15.md): 70 amended, 6 added, 3 removed
 - [8 Aug 2025](../../changes/2025/2025-08-08.md): 2 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [4 Jul 2025](../../changes/2025/2025-07-04.md): 17 amended, 1 added, 1 removed
 - [20 Jun 2025](../../changes/2025/2025-06-20.md): 1 amended
 - [6 Jun 2025](../../changes/2025/2025-06-06.md): 1 amended
-- [30 May 2025](../../changes/2025/2025-05-30.md): 2 amended
 
 ## Contents
 
@@ -92,6 +92,7 @@ Assembly, do enact as follows:
 - [Article 31-A-2\*2 — Tax On Real Estate Transfers In the Town of Chatham](article-31a-2-2-tax-on-real-estate-transfers-in-the-town/)
 - [Article 31-A-2\*3 — Tax On Real Estate Transfers In the Town of Fishkill](article-31a-2-3-tax-on-real-estate-transfers-in-the-town/)
 - [Article 31-A-3 — Tax On Real Estate Transfers In the Town of Northeast](article-31a-3-tax-on-real-estate-transfers-in-the-town/)
+- [Article 31-A-4 — Tax On Real Estate Transfers In the Town of Chester](article-31a-4-tax-on-real-estate-transfers-in-the-town/)
 - [Article 31-B — Tax On Real Estate Transfers In the Town of Brookhaven](article-31b-tax-on-real-estate-transfers-in-the-town/)
 - [Article 31-B-1 — Tax On Real Estate Transfers In the County of Essex](article-31b-1-tax-on-real-estate-transfers-in-the-county/)
 - [Article 31-C — Tax On Real Estate Transfers In the County of Broome](article-31c-tax-on-real-estate-transfers-in-the-county/)

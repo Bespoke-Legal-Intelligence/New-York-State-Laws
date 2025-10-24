@@ -27,6 +27,7 @@
 - [§ 137 Program of treatment, control, discipline at correctional facilities](137-program-of-treatment-control-discipline-at-correctional-facilities.md)
 - [§ 138 Institutional rules and regulations for incarcerated individuals at all correctional facilities](138-institutional-rules-and-regulations-for-incarcerated-individuals-at-all.md)
 - [§ 138-A Notification of visitation policies](138a-notification-of-visitation-policies.md)
+- [§ 138-B Permitted entry by peer support advocates](138b-permitted-entry-by-peer-support-advocates.md)
 - [§ 139 Grievance procedures](139-grievance-procedures.md)
 - [§ 140 Provision for routine medical, dental and mental health services and treatment](140-provision-for-routine-medical-dental-and-mental-health-services-and-treatment.md)
 - [§ 141 Contagious disease in facility](141-contagious-disease-in-facility.md)
@@ -78,6 +79,7 @@ Section 112.   Powers and duties of commissioner relating to
         138.   Institutional rules and regulations for incarcerated
                  individuals at all correctional facilities.
         138-a. Notification of visitation policies.
+        138-b. Permitted entry by peer support advocates.
         139.   Grievance procedures.
         140.   Provision for routine medical, dental and mental health
                  services and treatment.

@@ -5,7 +5,15 @@
 
 ## Contents
 
-- [§ 500 Special powers and duties of the department with respect to retail food stores, food service establishments and food warehouses](500-special-powers-and-duties-of-the-department-with-respect-to-retail-food.md)
+- [§ 500-A Definitions](500a-definitions.md)
+- [§ 500-B Licensure](500b-licensure.md)
+- [§ 500-C Granting, suspending or revoking licenses](500c-granting-suspending-or-revoking-licenses.md)
+- [§ 500-D Review](500d-review.md)
+- [§ 500-E Power of commissioner to investigate](500e-power-of-commissioner-to-investigate.md)
+- [§ 500-F Sanitary inspections](500f-sanitary-inspections.md)
+- [§ 500-G Penalties](500g-penalties.md)
+- [§ 500-H Remedies](500h-remedies.md)
+- [§ 500-I Severability](500i-severability.md)
 
 <details>
 <summary>Official heading of Article 28, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -15,9 +23,15 @@
        SPECIAL POWERS AND DUTIES OF THE DEPARTMENT WITH RESPECT TO
         RETAIL FOOD STORES, FOOD SERVICE ESTABLISHMENTS AND FOOD
                                WAREHOUSES
-Section 500. Special powers and duties of the department with respect to
-               retail food stores, food service establishments and food
-               warehouses.
+Section 500-a. Definitions.
+        500-b. Licensure.
+        500-c. Granting, suspending or revoking licenses.
+        500-d. Review.
+        500-e. Power of commissioner to investigate.
+        500-f. Sanitary inspections.
+        500-g. Penalties.
+        500-h. Remedies.
+        500-i. Severability.
 ```
 
 </details>

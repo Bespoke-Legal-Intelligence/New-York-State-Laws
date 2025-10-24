@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2015", "kind": "section", "law_id": "PBH", "location_id": "2015", "path": "ARTICLE 20-C › SECTION 2015", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2015.md", "title": "Definitions"} -->
+# Public Health Law § 2015 — Definitions
+
+[Public Health Law](../README.md) › [Article 20-C — State Frontotemporal Degeneration Registry](README.md)
+
+```text
+  * § 2015. Definitions. As used in this article, the following terms
+shall have the following meanings:
+  1. "Frontotemporal degeneration disorders" or "FTD disorders" means a
+group of clinical disorders caused by progressive nerve cell loss in the
+brain's frontal lobes and/or temporal lobes which can lead to loss of
+function in these brain regions, which variably cause deterioration in
+behavior, personality and/or difficulty with producing or comprehending
+language, as well as loss of motor control and movement. For the
+purposes of this title frontotemporal degeneration disorders is the same
+as "FTD" and includes, but is not limited to behavioral variant FTD,
+primary progressive aphasia, corticobasal syndrome, and progressive
+supranuclear palsy. Some individuals with FTD may also be diagnosed with
+ALS.
+  2. "Dementia" means a usually progressive condition marked by the
+development of multiple cognitive deficits, which may include but is not
+exclusive to memory impairment, aphasia, and the inability to plan and
+initiate complex behavior. Dementia has numerous different causes
+including but not limited to FTD, Alzheimer's disease, Lewy Body
+Dementia and Vascular Dementia.
+  * NB Effective January 14, 2026
+```

@@ -1,7 +1,7 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 4653-A", "kind": "section", "law_id": "PBH", "location_id": "4653-A", "path": "ARTICLE 46-A › SECTION 4653-A", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4653-A.md", "title": "Closure of assisted living residences"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 4653-A", "kind": "section", "law_id": "PBH", "location_id": "4653-A", "path": "ARTICLE 46-B › TITLE 2 › SECTION 4653-A", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4653-A.md", "title": "Closure of assisted living residences"} -->
 # Public Health Law § 4653-A — Closure of assisted living residences
 
-[Public Health Law](../README.md) › [Article 46-A — Fee-for-service Continuing Care Retirement Communities Demonstration Program](README.md)
+[Public Health Law](../../README.md) › [Article 46-B — Assisted Living](../README.md) › [Title 2 — Assisted Living](README.md)
 
 ```text
   § 4653-a. Closure of assisted living residences. 1. In the event that

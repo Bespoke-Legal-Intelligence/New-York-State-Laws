@@ -4,7 +4,7 @@
 [Tax Law](../../../README.md) › [Article 29 — Taxes Authorized For Cities, Counties and School Districts](../../README.md) › [Part 1 — Authority to Impose Taxes](../README.md) › [Subpart A — Taxes Administered By Cities, Counties and School Districts](README.md)
 
 ```text
-  § 1202-z. Hotel or motel taxes in Clinton county. (1) Notwithstanding
+  § 1202-z. Hotel or motel taxes in Clinton county.  (1) Notwithstanding
 any other provisions of law to the contrary, the county of Clinton is
 hereby authorized and empowered to adopt and amend local laws imposing
 in such county a tax, in addition to any other tax authorized and
@@ -15,7 +15,7 @@ the term "hotel" or "motel" shall mean and include any facility
 providing lodging on an overnight basis and shall include those
 facilities designated and commonly known as "bed and breakfast" and
 "tourist" facilities.
-  The rates of such tax shall not exceed three percent of the per diem
+  The rates of such tax shall not exceed five percent of the per diem
 rental rate for each room, provided however, that such tax shall not be
 applicable to a permanent resident of a hotel or motel. For the purposes
 of this section the term "permanent resident" shall mean a person

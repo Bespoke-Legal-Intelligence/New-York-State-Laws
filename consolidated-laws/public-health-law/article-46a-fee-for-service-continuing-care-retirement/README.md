@@ -9,7 +9,6 @@
 - [§ 4651 Definitions](4651-definitions.md)
 - [§ 4652 Commissioner; powers and duties](4652-commissioner-powers-and-duties.md)
 - [§ 4653 Continuing care retirement community council; powers and duties](4653-continuing-care-retirement-community-council-powers-and-duties.md)
-- [§ 4653-A Closure of assisted living residences](4653a-closure-of-assisted-living-residences.md)
 - [§ 4654 Authorization of fee-for-service continuing care retirement communities](4654-authorization-of-fee-for-service-continuing-care-retirement-communities.md)
 - [§ 4655 Certificate of authority required; application and approval](4655-certificate-of-authority-required-application-and-approval.md)
 - [§ 4656 Certificate of authority; authority of operator](4656-certificate-of-authority-authority-of-operator.md)

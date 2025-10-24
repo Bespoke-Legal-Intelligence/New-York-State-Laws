@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1202-G*3", "kind": "section", "law_id": "TAX", "location_id": "1202-G*3", "path": "ARTICLE 29 › PART 1 › SUBPART A › SECTION 1202-G*3", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1202-G_3.md", "title": "Hotel or motel taxes in Steuben county"} -->
-# Tax Law § 1202-G*3 — Hotel or motel taxes in Steuben county
+﻿<!-- nyslaw {"citation": "Tax Law § 1202-G*2", "kind": "section", "law_id": "TAX", "location_id": "1202-G*2", "path": "ARTICLE 29 › PART 1 › SUBPART A › SECTION 1202-G*2", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1202-G_2.md", "title": "Hotel or motel taxes in Steuben county"} -->
+# Tax Law § 1202-G*2 — Hotel or motel taxes in Steuben county
 
 [Tax Law](../../../README.md) › [Article 29 — Taxes Authorized For Cities, Counties and School Districts](../../README.md) › [Part 1 — Authority to Impose Taxes](../README.md) › [Subpart A — Taxes Administered By Cities, Counties and School Districts](README.md)
 
@@ -130,5 +130,5 @@ tourism.
 any person or circumstance shall be held invalid, the remainder of this
 section and the application of such provision to other persons or
 circumstances shall not be affected thereby.
-  * NB There are 4 § 1202-g's
+  * NB There are 3 § 1202-g's
 ```

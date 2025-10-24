@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBH |
 | Type | Consolidated law, chapter 45 |
-| Sections | 1,784 |
-| Last changed | 3 Oct 2025 |
+| Sections | 1,793 |
+| Last changed | 24 Oct 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Health |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER 45 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (357 lines)](chapter-text.md)
+[Full chapter text (360 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [24 Oct 2025](../../changes/2025/2025-10-24.md): 1 amended, 10 added, 1 removed
 - [3 Oct 2025](../../changes/2025/2025-10-03.md): 1 amended
 - [19 Sep 2025](../../changes/2025/2025-09-19.md): 2 amended
 - [12 Sep 2025](../../changes/2025/2025-09-12.md): 3 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [4 Jul 2025](../../changes/2025/2025-07-04.md): 1 amended
 - [27 Jun 2025](../../changes/2025/2025-06-27.md): 2 amended
 - [20 Jun 2025](../../changes/2025/2025-06-20.md): 1 amended
-- [13 Jun 2025](../../changes/2025/2025-06-13.md): 5 amended
 
 ## Contents
 
@@ -78,6 +78,8 @@ Assembly, do enact as follows:
 - [Article 20 — Reporting of Alzheimer's Disease](article-20-reporting-of-alzheimers-disease/)
 - [Article 20-A — Alzheimer's Community Assistance Program](article-20a-alzheimers-community-assistance-program/)
 - [Article 20-B — State Parkinson's Disease Registry](article-20b-state-parkinsons-disease-registry/)
+- [Article 20-C — State Frontotemporal Degeneration Registry](article-20c-state-frontotemporal-degeneration-registry/)
+- [Article 20-C\*2 — State Amyotrophic Lateral Sclerosis and Motor Neuron Disease Registry](article-20c-2-state-amyotrophic-lateral-sclerosis-and-motor/)
 - [Article 21 — Control of Acute Communicable Diseases](article-21-control-of-acute-communicable-diseases/)
 - [Article 21-A — Long-term Care Resident and Employee Immunization Act](article-21a-long-term-care-resident-and-employee/)
 - [Article 22 — Control of Tuberculosis](article-22-control-of-tuberculosis/)

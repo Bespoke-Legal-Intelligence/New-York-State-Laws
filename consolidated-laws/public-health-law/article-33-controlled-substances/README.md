@@ -116,7 +116,6 @@ Section 3360.   Definitions.
 Section 3370.   Preserving and inspection of records.
         3371.   Confidentiality of certain records, reports, and
                   information.
-        3372.   Practitioner patient reporting.
         3373.   Confidential communications.
         3374.   Notification by licensee.
                                 TITLE VII
