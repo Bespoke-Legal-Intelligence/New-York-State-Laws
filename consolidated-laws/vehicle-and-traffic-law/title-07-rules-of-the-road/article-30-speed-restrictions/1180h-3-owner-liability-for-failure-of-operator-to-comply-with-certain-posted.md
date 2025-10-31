@@ -1,41 +1,41 @@
-﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 1180-D", "kind": "section", "law_id": "VAT", "location_id": "1180-D", "path": "TITLE 7 › ARTICLE 30 › SECTION 1180-D", "repealed": true, "repealed_date": "2025-01-10", "source": "nys-laws:VAT/1180-D.md", "title": "Owner liability for failure of operator to comply with certain posted maximum speed limits"} -->
-# Vehicle and Traffic Law § 1180-D — Owner liability for failure of operator to comply with certain posted maximum speed limits
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 1180-H*3", "kind": "section", "law_id": "VAT", "location_id": "1180-H*3", "path": "TITLE 7 › ARTICLE 30 › SECTION 1180-H*3", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/1180-H_3.md", "title": "Owner liability for failure of operator to comply with certain posted maximum speed limits"} -->
+# Vehicle and Traffic Law § 1180-H*3 — Owner liability for failure of operator to comply with certain posted maximum speed limits
 
 [Vehicle and Traffic Law](../../README.md) › [Title 7 — Rules of the Road](../README.md) › [Article 30 — Speed Restrictions](README.md)
 
-**Repealed** (10 Jan 2025). The text below is what the Senate publishes for this repealed provision.
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
 ```text
-  * § 1180-d. Owner liability for failure of operator to comply with
+  * § 1180-h. Owner liability for failure of operator to comply with
 certain posted maximum speed limits. (a) 1. Notwithstanding any other
-provision of law, the city of Buffalo is hereby authorized to establish
-a demonstration program imposing monetary liability on the owner of a
-vehicle for failure of an operator thereof to comply with posted maximum
-speed limits in a school speed zone within the city (i) when a school
-speed limit is in effect as provided in paragraphs one and two of
-subdivision (c) of section eleven hundred eighty of this article or (ii)
-when other speed limits are in effect as provided in subdivision (b),
-(d), (f) or (g) of section eleven hundred eighty of this article during
-the following times: (A) on school days during school hours and one hour
+provision of law, the city of White Plains is hereby authorized to
+establish a demonstration program imposing monetary liability on the
+owner of a vehicle for failure of an operator thereof to comply with
+posted maximum speed limits in a school speed zone within such city (i)
+when a school speed limit is in effect as provided in paragraphs one and
+two of subdivision (c) of section eleven hundred eighty of this article
+or (ii) when other speed limits are in effect as provided in subdivision
+(b), (d), (f) or (g) of section eleven hundred eighty of this article
+during the following times: (A) on school days during school hours and
+one hour before and one hour after the school day, and (B) a period
+during student activities at the school and up to thirty minutes
+immediately before and up to thirty minutes immediately after such
+student activities. Such demonstration program shall empower the city of
+White Plains to install photo speed violation monitoring systems within
+no more than three school speed zones within such city at any one time
+and to operate such systems within such zones (iii) when a school speed
+limit is in effect as provided in paragraphs one and two of subdivision
+(c) of section eleven hundred eighty of this article or (iv) when other
+speed limits are in effect as provided in subdivision (b), (d), (f) or
+(g) of section eleven hundred eighty of this article during the
+following times: (A) on school days during school hours and one hour
 before and one hour after the school day, and (B) a period during
 student activities at the school and up to thirty minutes immediately
 before and up to thirty minutes immediately after such student
-activities. Such demonstration program shall empower the city to install
-photo speed violation monitoring systems within no more than twenty
-school speed zones within the city at any one time and to operate such
-systems within such zones (iii) when a school speed limit is in effect
-as provided in paragraphs one and two of subdivision (c) of section
-eleven hundred eighty of this article or (iv) when other speed limits
-are in effect as provided in subdivision (b), (d), (f) or (g) of section
-eleven hundred eighty of this article during the following times: (A) on
-school days during school hours and one hour before and one hour after
-the school day, and (B) a period during student activities at the school
-and up to thirty minutes immediately before and up to thirty minutes
-immediately after such student activities. In selecting a school speed
-zone in which to install and operate a photo speed violation monitoring
-system, the city shall consider criteria including, but not limited to
-the speed data, crash history, and the roadway geometry applicable to
-such school speed zone.
+activities. In selecting a school speed zone in which to install and
+operate a photo speed violation monitoring system, the city shall
+consider criteria including, but not limited to, the speed data, crash
+history, and the roadway geometry applicable to such school speed zone.
   2. No photo speed violation monitoring system shall be used in a
 school speed zone unless (i) on the day it is to be used it has
 successfully passed a self-test of its functions; and (ii) it has
@@ -57,8 +57,8 @@ producing a recorded image that day. The city shall retain each such
 daily log until the later of the date on which the photo speed violation
 monitoring system to which it applies has been permanently removed from
 use or the final resolution of all cases involving notices of liability
-issued based on photographs, microphotographs, video or other recorded
-images produced by such system.
+issued based on photographs, microphotographs, videotape or other
+recorded images produced by such system.
   4. Each photo speed violation monitoring system shall undergo an
 annual calibration check performed by an independent calibration
 laboratory which shall issue a signed certificate of calibration. The
@@ -131,7 +131,7 @@ this state; and
   (3) may, if lawfully obtained pursuant to this clause and clause (A)
 of this subparagraph and otherwise admissible, be used in such criminal
 action or proceeding.
-  (b) If the city of Buffalo establishes a demonstration program
+  (b) If the city of White Plains establishes a demonstration program
 pursuant to subdivision (a) of this section, the owner of a vehicle
 shall be liable for a penalty imposed pursuant to this section if such
 vehicle was used or operated with the permission of the owner, express
@@ -167,8 +167,8 @@ section; and
 thousand three hundred twenty feet on a highway passing a school
 building, entrance or exit of a school abutting on the highway.
   (d) A certificate, sworn to or affirmed by a technician employed by
-the city of Buffalo, or a facsimile thereof, based upon inspection of
-photographs, microphotographs, videotape or other recorded images
+the city of White Plains, or a facsimile thereof, based upon inspection
+of photographs, microphotographs, videotape or other recorded images
 produced by a photo speed violation monitoring system, shall be prima
 facie evidence of the facts contained therein. Any photographs,
 microphotographs, videotape or other recorded images evidencing such a
@@ -182,11 +182,12 @@ or (g) of section eleven hundred eighty of this article pursuant to a
 demonstration program established pursuant to this section shall be
 liable for monetary penalties in accordance with a schedule of fines and
 penalties to be promulgated by the parking violations bureau of the city
-of Buffalo. The liability of the owner pursuant to this section shall
-not exceed fifty dollars for each violation; provided, however, that
-such parking violations bureau may provide for an additional penalty not
-in excess of twenty-five dollars for each violation for the failure to
-respond to a notice of liability within the prescribed time period.
+of White Plains. The liability of the owner pursuant to this section
+shall not exceed fifty dollars for each violation; provided, however,
+that such parking violations bureau may provide for an additional
+penalty not in excess of twenty-five dollars for each violation for the
+failure to respond to a notice of liability within the prescribed time
+period.
   (f) An imposition of liability under the demonstration program
 established pursuant to this section shall not be deemed a conviction as
 an operator and shall not be made part of the operating record of the
@@ -218,10 +219,10 @@ contain a prominent warning to advise the person charged that failure to
 contest in the manner and time provided shall be deemed an admission of
 liability and that a default judgment may be entered thereon.
   4. The notice of liability shall be prepared and mailed by the city of
-Buffalo, or by any other entity authorized by the city to prepare and
-mail such notice of liability.
+White Plains, or by any other entity authorized by the city to prepare
+and mail such notice of liability.
   (h) Adjudication of the liability imposed upon owners of this section
-shall be by the city of Buffalo parking violations bureau.
+shall be by the city of White Plains parking violations bureau.
   (i) If an owner receives a notice of liability pursuant to this
 section for any time period during which the vehicle or the number plate
 or plates of such vehicle was reported to the police department as
@@ -234,12 +235,10 @@ occurred and had not been recovered by such time. For purposes of
 asserting the defense provided by this subdivision, it shall be
 sufficient that a certified copy of the police report on the stolen
 vehicle or number plate or plates of such vehicle be sent by first class
-mail to the city of Buffalo parking violations bureau or by any other
-entity authorized by the city to prepare and mail such notice of
+mail to the city of White Plains parking violations bureau or by any
+other entity authorized by the city to prepare and mail such notice of
 liability.
-  (j) Adjudication of the liability imposed upon owners of this section
-shall be by the city of Buffalo parking violations bureau.
-  (k) 1. An owner who is a lessor of a vehicle to which a notice of
+  (j) 1. An owner who is a lessor of a vehicle to which a notice of
 liability was issued pursuant to subdivision (g) of this section shall
 not be liable for the violation of subdivision (b), (c), (d), (f) or (g)
 of section eleven hundred eighty of this article pursuant to this
@@ -247,15 +246,14 @@ section, provided that:
   (i) prior to the violation, the lessor has filed with such parking
 violations bureau in accordance with the provisions of section two
 hundred thirty-nine of this chapter; and
-  (ii) within thirty-seven days after receiving notice from such
-division of the date and time of a liability, together with the other
-information contained in the original notice of liability, the lessor
-submits to such division the correct name and address of the lessee of
-the vehicle identified in the notice of liability at the time of such
-violation, together with such other additional information contained in
-the rental, lease or other contract document, as may be reasonably
-required by such division pursuant to regulations that may be
-promulgated for such purpose.
+  (ii) within thirty-seven days after receiving notice from such bureau
+of the date and time of a liability, together with the other information
+contained in the original notice of liability, the lessor submits to
+such bureau the correct name and address of the lessee of the vehicle
+identified in the notice of liability at the time of such violation,
+together with such other additional information contained in the rental,
+lease or other contract document, as may be reasonably required by such
+bureau pursuant to regulations that may be promulgated for such purpose.
   2. Failure to comply with subparagraph (ii) of paragraph one of this
 subdivision shall render the owner liable for the penalty prescribed in
 this section.
@@ -264,8 +262,8 @@ this subdivision, the lessee of such vehicle on the date of such
 violation shall be deemed to be the owner of such vehicle for purposes
 of this section, shall be subject to liability for such violation
 pursuant to this section and shall be sent a notice of liability
-pursuant to subdivision (i) of this section.
-  (l) 1. If the owner liable for a violation of subdivision (c) or (d)
+pursuant to subdivision (g) of this section.
+  (k) 1. If the owner liable for a violation of subdivision (c) or (d)
 of section eleven hundred eighty of this article pursuant to this
 section was not the operator of the vehicle at the time of the
 violation, the owner may maintain an action for indemnification against
@@ -277,17 +275,19 @@ without the consent of the owner at the time such operator operated such
 vehicle in violation of subdivision (b), (c), (d), (f) or (g) of section
 eleven hundred eighty of this article. For purposes of this subdivision
 there shall be a presumption that the operator of such vehicle was
-operating such vehicle with the consent of the owner at the time of such
+operating such vehicle with the consent of the owner at the time such
 operator operated such vehicle in violation of subdivision (b), (c),
 (d), (f) or (g) of section eleven hundred eighty of this article.
-  (m) Nothing in this section shall be construed to limit the liability
+  (l) Nothing in this section shall be construed to limit the liability
 of an operator of a vehicle for any violation of subdivision (c) or (d)
 of section eleven hundred eighty of this article.
-  (n) If the city adopts a demonstration program pursuant to subdivision
-(a) of this section it shall conduct a study and submit a report on the
-results of the use of photo devices to the governor, the temporary
-president of the senate and the speaker of the assembly. Such report
-shall include:
+  (m) If the city adopts a demonstration program pursuant to subdivision
+(a) of this section it shall conduct a study and submit an annual report
+on the results of the use of photo devices to the governor, the
+temporary president of the senate and the speaker of the assembly on or
+before the first day of June next succeeding the effective date of this
+section and on the same date in each succeeding year in which the
+demonstration program is operable. Such report shall include:
   1. the locations where and dates when photo speed violation monitoring
 systems were used;
   2. the aggregate number, type and severity of crashes, fatalities,
@@ -334,10 +334,12 @@ with the program;
   12. the expenses incurred by the city in connection with the program;
 and
   13. the quality of the adjudication process and its results.
-  (o) It shall be a defense to any prosecution for a violation of
+  (n) It shall be a defense to any prosecution for a violation of
 subdivision (b), (c), (d), (f) or (g) of section eleven hundred eighty
 of this article pursuant to this section that such photo speed violation
 monitoring system was malfunctioning at the time of the alleged
 violation.
-  * NB Repealed September 6, 2024
+  * NB Effective November 26, 2025
+  * NB Repealed December 31, 2030
+  * NB There are 3 § 1180-h's
 ```

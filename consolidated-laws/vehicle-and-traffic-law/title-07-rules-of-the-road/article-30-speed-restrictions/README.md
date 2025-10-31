@@ -10,11 +10,13 @@
 - [§ 1180 Basic rule and maximum limits](1180-basic-rule-and-maximum-limits.md)
 - [§ 1180-A Maximum speed limits](1180a-maximum-speed-limits.md)
 - [§ 1180-B Owner liability for failure of operator to comply with certain posted maximum speed limits](1180b-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md)
-- [§ 1180-D Owner liability for failure of operator to comply with certain posted maximum speed limits](1180d-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md) *(repealed)*
 - [§ 1180-E Owner liability for failure of operator to comply with certain posted maximum speed limits; highway construction or maintenance work area](1180e-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md)
 - [§ 1180-F Owner liability for failure of operator to comply with certain posted maximum speed limits](1180f-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md)
 - [§ 1180-F\*2 Owner liability for failure of operator to comply with certain posted maximum speed limits](1180f-2-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md)
 - [§ 1180-G Owner liability for failure of operator to comply with certain posted maximum speed limits](1180g-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md)
+- [§ 1180-H Owner liability for failure of operator to comply with certain posted maximum speed limits; Mt](1180h-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md)
+- [§ 1180-H\*2 Owner liability for failure of operator to comply with certain posted maximum speed limits; city of Schenectady](1180h-2-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md)
+- [§ 1180-H\*3 Owner liability for failure of operator to comply with certain posted maximum speed limits](1180h-3-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md)
 - [§ 1181 Minimum speed regulations](1181-minimum-speed-regulations.md)
 - [§ 1182 Speed contests and races](1182-speed-contests-and-races.md)
 - [§ 1182-A Multi-jurisdictional speed contests, races and similar special events](1182a-multi-jurisdictional-speed-contests-races-and-similar-special-events.md)
@@ -37,6 +39,13 @@ Section 1180.     Basic rule and maximum limits.
         1180-f*2. Owner liability for failure of operator to comply with
                     certain posted maximum speed limits.
         1180-g.   Owner liability for failure of operator to comply with
+                    certain posted maximum speed limits.
+        1180-h.   Owner liability for failure of operator to comply with
+                    certain posted maximum speed limits; Mt. Vernon.
+        1180-h*2. Owner liability for failure of operator to comply with
+                    certain posted maximum speed limits; city of
+                    Schenectady.
+        1180-h*3. Owner liability for failure of operator to comply with
                     certain posted maximum speed limits.
         1181.     Minimum speed regulations.
         1182.     Speed contests and races.
