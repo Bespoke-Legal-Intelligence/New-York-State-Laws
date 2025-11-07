@@ -39,6 +39,5 @@ the premises or lesser estate therein, a mortgagee or vendee in
 possession, assignee of rents, receiver, executor, trustee, lessee,
 agent, or any other person, firm or corporation, directly or indirectly
 in control of a dwelling.
-  * NB Effective November 3, 2025
   * NB Repealed November 3, 2028
 ```

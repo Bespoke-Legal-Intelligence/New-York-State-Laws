@@ -15,14 +15,13 @@
 <summary>Official heading of Article 47, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              * ARTICLE 47
+                               ARTICLE 47
                 ARTIFICIAL INTELLIGENCE COMPANION MODELS
 Section. 1700. Definitions.
          1701. Prohibitions and requirements.
          1702. Notifications.
          1703. Enforcement.
          1704. Severability.
-           * NB Effective November 5, 2025
 ```
 
 </details>

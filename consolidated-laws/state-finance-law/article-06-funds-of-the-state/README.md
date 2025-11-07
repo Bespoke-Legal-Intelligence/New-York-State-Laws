@@ -58,7 +58,6 @@
 - [§ 92-D Municipal assistance tax fund](92d-municipal-assistance-tax-fund.md)
 - [§ 92-E Municipal assistance state aid fund](92e-municipal-assistance-state-aid-fund.md)
 - [§ 92-F Special sales and compensating use tax fund for the city of Yonkers](92f-special-sales-and-compensating-use-tax-fund-for-the-city-of-yonkers.md)
-- [§ 92-G Motorcycle safety fund](92g-motorcycle-safety-fund.md) *(repealed)*
 - [§ 92-H Sales tax revenue bond tax fund](92h-sales-tax-revenue-bond-tax-fund.md)
 - [§ 92-I Stock transfer incentive fund](92i-stock-transfer-incentive-fund.md)
 - [§ 92-N Snowmobile trail development and maintenance fund](92n-snowmobile-trail-development-and-maintenance-fund.md)
@@ -282,7 +281,6 @@
 - [§ 99-JJ New York state drug treatment and public education fund](99jj-new-york-state-drug-treatment-and-public-education-fund.md)
 - [§ 99-KK New York state community grants reinvestment fund](99kk-new-york-state-community-grants-reinvestment-fund.md)
 - [§ 99-LL New York state council on the arts cultural programs fund](99ll-new-york-state-council-on-the-arts-cultural-programs-fund.md)
-- [§ 99-MM Emergency rental assistance municipal corporation allocation fund](99mm-emergency-rental-assistance-municipal-corporation-allocation-fund.md) *(repealed)*
 - [§ 99-NN Opioid settlement fund](99nn-opioid-settlement-fund.md)
 - [§ 99-OO Pharmacy benefit manager regulatory fund](99oo-pharmacy-benefit-manager-regulatory-fund.md)
 - [§ 99-PP Background check fund](99pp-background-check-fund.md)
@@ -293,6 +291,7 @@
 - [§ 99-RR Air quality improvement fund](99rr-air-quality-improvement-fund.md)
 - [§ 99-SS Healthcare stability fund](99ss-healthcare-stability-fund.md)
 - [§ 99-SS\*2 Suicide prevention fund](99ss-2-suicide-prevention-fund.md)
+- [§ 99-TT Veterans' services fund](99tt-veterans-services-fund.md)
 
 <details>
 <summary>Official heading of Article 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -642,7 +641,8 @@ Section 70.        Classification of funds.
         99-qq*2.   New York climate action fund.
         99-rr.     Air quality improvement fund.
         99-ss.     Healthcare stability fund.
-        99-ss 1.   Suicide prevention fund.
+        99-ss*2.   Suicide prevention fund.
+        99-tt.     Veterans' services fund.
 ```
 
 </details>

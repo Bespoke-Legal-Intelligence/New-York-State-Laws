@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 47 — Artificial Intelligence Companion Models](README.md)
 
 ```text
-  * § 1701. Prohibitions and requirements. It shall be unlawful for any
+  § 1701. Prohibitions and requirements. It shall be unlawful for any
 operator to operate for or provide an AI companion to a user unless such
 AI companion contains a protocol to take reasonable efforts for
 detecting and addressing suicidal ideation or expressions of self-harm
@@ -15,5 +15,4 @@ service providers such as the 9-8-8 suicide prevention and behavioral
 health crisis hotline under section 36.03 of the mental hygiene law, a
 crisis text line, or other appropriate crisis services upon detection of
 such user's expressions of suicidal ideation or self-harm.
-  * NB Effective November 5, 2025
 ```

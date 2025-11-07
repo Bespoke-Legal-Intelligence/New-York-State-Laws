@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 47 — Artificial Intelligence Companion Models](README.md)
 
 ```text
-  * § 1703. Enforcement. 1. Whenever the attorney general shall believe
+  § 1703. Enforcement. 1. Whenever the attorney general shall believe
 from evidence satisfactory to them that an operator has engaged in or is
 about to engage in any of the acts or practices stated to be unlawful in
 this article or in violation of section seventeen hundred one or
@@ -18,5 +18,4 @@ appropriate.
   2. All fees, fines and penalties collected under this article shall be
 deposited into the suicide prevention fund as established pursuant to
 section ninety-nine-ss of the state finance law.
-  * NB Effective November 5, 2025
 ```

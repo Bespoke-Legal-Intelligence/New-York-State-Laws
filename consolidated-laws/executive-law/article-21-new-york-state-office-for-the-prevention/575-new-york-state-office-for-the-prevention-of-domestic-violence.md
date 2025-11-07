@@ -459,8 +459,8 @@ domestic violence fatality reviews completed pursuant to this
 subdivision. The cumulative report shall thereafter be made available to
 the public, consistent with federal and state confidentiality
 protections.
-  * 11. Gender-based violence and the workplace policies. The office
-shall consult with the division of human rights, department of labor, an
+  11. Gender-based violence and the workplace policies. The office shall
+consult with the division of human rights, department of labor, an
 organization designated by the federal department of health and human
 services to coordinate statewide improvements within local communities,
 social services systems, and programming regarding the prevention and
@@ -479,5 +479,4 @@ hundred seventy-i of this chapter. Such model gender-based violence and
 the workplace policy shall be publicly available and posted on the
 websites of the office, the department of labor and the division of
 human rights.
-  * NB Effective November 5, 2025
 ```

@@ -4,10 +4,9 @@
 [General Business Law](../README.md) › [Article 47 — Artificial Intelligence Companion Models](README.md)
 
 ```text
-  * § 1702. Notifications. An operator shall provide a clear and
+  § 1702. Notifications. An operator shall provide a clear and
 conspicuous notification to a user at the beginning of any AI companion
 interaction which need not exceed once per day and at least every three
 hours for continuing AI companion interactions which states either
 verbally or in writing that the user is not communicating with a human.
-  * NB Effective November 5, 2025
 ```

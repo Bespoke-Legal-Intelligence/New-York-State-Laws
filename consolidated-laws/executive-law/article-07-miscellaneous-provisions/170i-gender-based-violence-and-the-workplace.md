@@ -4,11 +4,11 @@
 [Executive Law](../README.md) › [Article 7 — Miscellaneous Provisions](README.md)
 
 ```text
-  * § 170-i. Gender-based violence and the workplace. 1. Each state
-agency shall formulate and issue a gender-based violence and the
-workplace policy for such agency. In formulating such policy, the state
-agency shall refer to the model gender-based violence and the workplace
-policy distributed by the office for the prevention of domestic violence
+  § 170-i. Gender-based violence and the workplace. 1. Each state agency
+shall formulate and issue a gender-based violence and the workplace
+policy for such agency. In formulating such policy, the state agency
+shall refer to the model gender-based violence and the workplace policy
+distributed by the office for the prevention of domestic violence
 pursuant to subdivision eleven of section five hundred seventy-five of
 this chapter, and adopt its provisions as appropriate.
   2. Each state agency shall designate at least one domestic violence
@@ -51,5 +51,4 @@ seventy-three of the public officers law.
 prevention of domestic violence and furnish such information, reporting,
 and assistance as the office determines is reasonably necessary to
 accomplish the purposes of this section.
-  * NB Effective November 5, 2025
 ```

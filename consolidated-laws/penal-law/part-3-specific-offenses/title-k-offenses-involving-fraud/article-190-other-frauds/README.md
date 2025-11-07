@@ -40,6 +40,7 @@
 - [§ 190.86 Unlawful possession of a skimmer device in the first degree](190.86-unlawful-possession-of-a-skimmer-device-in-the-first.md)
 - [§ 190.87 Immigrant assistant services fraud in the second degree](190.87-immigrant-assistant-services-fraud-in-the-second-degree.md)
 - [§ 190.89 Immigrant assistance services fraud in the first degree](190.89-immigrant-assistance-services-fraud-in-the-first-degree.md)
+- [§ 190.90 Unlawful compensation in a veterans' benefits matter](190.90-unlawful-compensation-in-a-veterans-benefits-matter.md)
 
 <details>
 <summary>Official heading of Article 190, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -90,6 +91,7 @@ Section 190.00   Issuing a bad check; definitions of terms.
                    degree.
         190.89   Immigrant assistance services fraud in the first
                    degree.
+        190.90   Unlawful compensation in a veterans' benefits matter.
 ```
 
 </details>

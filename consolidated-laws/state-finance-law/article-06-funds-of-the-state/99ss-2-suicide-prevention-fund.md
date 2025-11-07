@@ -30,5 +30,4 @@ used for such disbursements;
   (c) the amount awarded to each; and
   (d) the purposes for which such awards were granted.
   * NB There are two § 99-ss's
-  * NB Effective November 5, 2025
 ```

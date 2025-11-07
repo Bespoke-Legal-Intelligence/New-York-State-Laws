@@ -42,6 +42,7 @@
 - [§ 29-B Veterans' liaisons](29b-veterans-liaisons.md)
 - [§ 29-C Veteran maternity care](29c-veteran-maternity-care.md)
 - [§ 29-D Staff sergeant Alex R](29d-staff-sergeant-alex-r.md)
+- [§ 29-E Protecting veterans from fraud and unaccredited representatives](29e-protecting-veterans-from-fraud-and-unaccredited-representatives.md)
 
 <details>
 <summary>Official heading of Article 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -95,6 +96,8 @@ Section 1.      Definitions.
         29-c.   Veteran maternity care.
         29-d.   Staff sergeant Alex R. Jimenez New York state military
                   immigrant family legacy program.
+        29-e.   Protecting veterans from fraud and unaccredited
+                  representatives.
 ```
 
 </details>

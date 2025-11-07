@@ -97,6 +97,5 @@ established in subdivision five of this section, and such other
 information as the commissioner determines. The information provided in
 the report shall reflect statewide activities in the aggregate and
 activities for each community of concern.
-  * NB Effective November 3, 2025
   * NB Repealed November 3, 2028
 ```

@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 47 — Artificial Intelligence Companion Models](README.md)
 
 ```text
-  * § 1700. Definitions. As used in this article, the following terms
+  § 1700. Definitions. As used in this article, the following terms
 shall have the following meanings:
   1. "Artificial intelligence", "artificial intelligence technology", or
 "AI" means a machine-based system that can, for a given set of
@@ -60,5 +60,4 @@ within the state and who is not an operator or agent or affiliate of the
 operator of the AI companion.
   9. "Self-harm" means intentional self-injury with or without the
 intent to cause death.
-  * NB Effective November 5, 2025
 ```
