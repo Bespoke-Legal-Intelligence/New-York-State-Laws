@@ -311,24 +311,21 @@ seven of the state sanitary code; and
   (b) require all qualified lifeguards while on duty at the waterfront
 to not be engaged in duties or activities which distract them from the
 direct supervision of the waterfront.
-  5-e. Places of public assembly on-site epinephrine auto-injector
-devices.
+  5-e. Places of public assembly on-site epinephrine devices.
   (a) Notwithstanding the provisions of paragraph (r) of subdivision
 five of this section and section three thousand-c of this chapter, the
 sanitary code shall provide that each place of public assembly as
 specified in this section shall be required to maintain and make
-available on-site epinephrine auto-injector devices, as defined in
-paragraph (b) of subdivision one of section three thousand-c of this
-chapter, in quantities and types deemed by the commissioner to be
-adequate to ensure ready and appropriate access for use during
-emergencies.
+available on-site epinephrine devices, as defined in paragraph (b) of
+subdivision one of section three thousand-c of this chapter, in
+quantities and types deemed by the commissioner to be adequate to ensure
+ready and appropriate access for use during emergencies.
   (b) Whenever places of public assembly are used for public or private
 sponsored events or activities the owners, operators and administrators
 responsible for such place of public assembly shall ensure the presence
 of at least one staff person or volunteer who is trained, pursuant to
 paragraph (c) of subdivision two of section three thousand-c of this
-chapter, in the operation and use of an epinephrine auto-injector
-device.
+chapter, in the operation and use of an epinephrine device.
   (c) For the purposes of this subdivision, "places of public assembly"
 shall mean those with an occupancy capacity of at least one thousand
 people and shall include: (i) all stadiums, ballparks, gymnasiums, field
@@ -343,29 +340,28 @@ defined by section two hundred fifty-three of the education law.
 (b) of this subdivision shall be subject to the requirements and
 limitations of section three thousand-c of this chapter.
   (e) Pursuant to sections three thousand-a and three thousand-c of this
-chapter, any public access epinephrine auto-injector device provider, or
-any employee or other agent of the provider who, in accordance with the
-provisions of this section, voluntarily and without expectation of
-monetary compensation renders emergency medical or first aid treatment
-using an epinephrine auto-injector device which has been made available
-pursuant to this section, to a person who is unconscious, ill or
-injured, shall be liable only pursuant to section three thousand-a of
-this chapter.
+chapter, any public access epinephrine device provider, or any employee
+or other agent of the provider who, in accordance with the provisions of
+this section, voluntarily and without expectation of monetary
+compensation renders emergency medical or first aid treatment using an
+epinephrine device which has been made available pursuant to this
+section, to a person who is unconscious, ill or injured, shall be liable
+only pursuant to section three thousand-a of this chapter.
   (f) Nothing in this subdivision shall be construed to prohibit a
 political subdivision of the state from continuing to implement and
 enforce any local law or regulation related to the placement of
-epinephrine auto-injector devices in places of public assembly as
-defined in this subdivision, in effect prior to the effective date of
-this subdivision. Where a political subdivision has a local law in
-effect prior to the effective date of this subdivision, the provisions
-of this subdivision shall have no force and effect until such time as
-the political subdivision repeals its local law.
-  (g) (i) Operation of an epinephrine auto-injector device pursuant to
-this section shall be considered first aid or emergency treatment for
-the purpose of any statute relating to liability.
-  (ii) Operation of an epinephrine auto-injector device pursuant to this
-section shall not constitute the unlawful practice of a profession under
-title eight of the education law.
+epinephrine devices in places of public assembly as defined in this
+subdivision, in effect prior to the effective date of this subdivision.
+Where a political subdivision has a local law in effect prior to the
+effective date of this subdivision, the provisions of this subdivision
+shall have no force and effect until such time as the political
+subdivision repeals its local law.
+  (g) (i) Operation of an epinephrine device pursuant to this section
+shall be considered first aid or emergency treatment for the purpose of
+any statute relating to liability.
+  (ii) Operation of an epinephrine device pursuant to this section shall
+not constitute the unlawful practice of a profession under title eight
+of the education law.
   6. The public health council shall, no later than January first,
 nineteen hundred seventy-four, prescribe standards and establish
 regulations for summer day and children's camps which derive all water

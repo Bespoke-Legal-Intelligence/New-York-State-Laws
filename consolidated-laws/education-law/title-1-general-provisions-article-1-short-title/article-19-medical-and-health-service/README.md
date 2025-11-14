@@ -34,7 +34,7 @@
 - [§ 919 On-site nebulizers](919-on-site-nebulizers.md)
 - [§ 920 Public schools; infestation of bedbugs (Cimex lectularius)](920-public-schools-infestation-of-bedbugs-cimex.md)
 - [§ 921 Training of unlicensed school personnel to administer certain medications](921-training-of-unlicensed-school-personnel-to-administer.md)
-- [§ 921-A On-site epinephrine auto-injector](921a-on-site-epinephrine-auto-injector.md)
+- [§ 921-A On-site epinephrine device](921a-on-site-epinephrine-device.md)
 - [§ 922 Opioid overdose prevention](922-opioid-overdose-prevention.md)
 - [§ 923 Sudden cardiac arrest](923-sudden-cardiac-arrest.md)
 - [§ 924 Ingredient and nutritional information requirements](924-ingredient-and-nutritional-information-requirements.md)
@@ -83,7 +83,7 @@ Section 901.   School health services to be provided.
                  lectularius).
         921.   Training of unlicensed school personnel to administer
                  certain medications.
-        921-a. On-site epinephrine auto-injector.
+        921-a. On-site epinephrine device.
         922.   Opioid overdose prevention.
         923.   Sudden cardiac arrest.
         924.   Ingredient and nutritional information requirements.

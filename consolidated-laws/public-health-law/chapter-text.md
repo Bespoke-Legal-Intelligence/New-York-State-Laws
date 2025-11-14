@@ -109,7 +109,7 @@ Article
                           1335-1336).
                    VI.   Bathing establishments (§§ 1340-1342).
                   VII.   Hotel sanitation (§§ 1345-1348).
-                 VIII.   Food handling (§§ 1350-1356).
+                 VIII.   Food handling (§§ 1350-1357).
                    IX.   Location and disposition of radioactive gold
                           jewelry (§ 1360).
                     X.   Control of lead poisoning (§§ 1370-1377).

@@ -16,20 +16,23 @@ services; (7) the commissioner of the office of addiction services and
 supports; (8) the director of the office of victim services; (9) the
 executive director of the office for the prevention of domestic
 violence; (10) the superintendent of the division of state police; (11)
-the secretary of state; and the following additional members, who shall
-be promptly appointed by the governor, each for a term of two years,
-provided that such person's membership shall continue after such two
-year term until a successor is appointed and provided, further, that a
-member may be reappointed if again recommended in the manner specified
-in this subdivision: (12) two members, who shall be appointed on the
-recommendation of the temporary president of the senate; (13) two
+the secretary of state; (12) the commissioner of the department of
+transportation; (13) the commissioner of the department of motor
+vehicles; (14) the executive director of the New York state thruway
+authority; and the following additional members, who shall be promptly
+appointed by the governor, each for a term of two years, provided that
+such person's membership shall continue after such two year term until a
+successor is appointed and provided, further, that a member may be
+reappointed if again recommended in the manner specified in this
+subdivision: (15) two members, who shall be appointed on the
+recommendation of the temporary president of the senate; (16) two
 members, who shall be appointed on the recommendation of the speaker of
-the assembly; (14) two members, who shall be appointed on the
+the assembly; (17) two members, who shall be appointed on the
 recommendation of the not-for-profit organization in New York state that
 receives the largest share of funds, appropriated by and through the
 state budget, for providing services to victims of human trafficking, as
 shall be identified annually in writing by the director of the budget;
-and (15) one member, who shall be appointed on the recommendation of the
+and (18) one member, who shall be appointed on the recommendation of the
 president of the New York state bar association; and others as may be
 necessary to carry out the duties and responsibilities under this
 section. The task force will be co-chaired by the commissioners of the

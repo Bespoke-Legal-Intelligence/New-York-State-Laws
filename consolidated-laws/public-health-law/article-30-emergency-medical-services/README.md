@@ -8,7 +8,7 @@
 - [§ 3000 Declaration of policy and statement of purpose](3000-declaration-of-policy-and-statement-of-purpose.md)
 - [§ 3000-A Emergency medical treatment](3000a-emergency-medical-treatment.md)
 - [§ 3000-B Automated external defibrillators: Public access providers](3000b-automated-external-defibrillators-public-access-providers.md)
-- [§ 3000-C Epinephrine auto-injector devices](3000c-epinephrine-auto-injector-devices.md)
+- [§ 3000-C Epinephrine devices](3000c-epinephrine-devices.md)
 - [§ 3000-D Availability of resuscitation equipment in certain public places](3000d-availability-of-resuscitation-equipment-in-certain-public-places.md)
 - [§ 3000-E Rescue inhaler treatment devices](3000e-rescue-inhaler-treatment-devices.md)
 - [§ 3000-F Automated external defibrillator; camps and youth sports programs](3000f-automated-external-defibrillator-camps-and-youth-sports-programs.md)
@@ -54,7 +54,7 @@ Section 3000.   Declaration of policy and statement of purpose.
         3000-a. Emergency medical treatment.
         3000-b. Automated external defibrillators: Public access
                   providers.
-        3000-c. Epinephrine auto-injector devices.
+        3000-c. Epinephrine devices.
         3000-d. Availability of resuscitation equipment in certain
                   public places.
         3000-e. Rescue inhaler treatment devices.

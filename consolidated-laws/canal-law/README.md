@@ -8,7 +8,7 @@
 | Senate code | CAL |
 | Type | Consolidated law, chapter 5 |
 | Sections | 88 (5 repealed) |
-| Last changed | 31 Oct 2025 |
+| Last changed | 14 Nov 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Canal |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [14 Nov 2025](../../changes/2025/2025-11-14.md): 1 amended
 - [31 Oct 2025](../../changes/2025/2025-10-31.md): 1 amended
 - [10 Jan 2025](../../changes/2025/2025-01-10.md): 5 repealed
 - [8 Jul 2022](../../changes/2022/2022-07-08.md): 5 amended
@@ -40,7 +41,6 @@ Assembly, do enact as follows:
 - [27 Apr 2018](../../changes/2018/2018-04-27.md): 1 amended
 - [8 Dec 2017](../../changes/2017/2017-12-08.md): 5 added
 - [13 Jan 2017](../../changes/2017/2017-01-13.md): 3 amended
-- [8 Apr 2016](../../changes/2016/2016-04-08.md): 3 amended
 
 ## Contents
 

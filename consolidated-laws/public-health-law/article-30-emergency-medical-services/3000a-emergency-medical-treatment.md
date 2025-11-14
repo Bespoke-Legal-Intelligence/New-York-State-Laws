@@ -27,19 +27,19 @@ services in the normal and ordinary course of his or her practice.
   2. (i) Any person or entity that purchases, operates, facilitates
 implementation or makes available resuscitation equipment that
 facilitates first aid, an automated external defibrillator or an
-epinephrine auto-injector device as required by or pursuant to law or
-local law, or that conducts training under section three thousand-c of
-this article, or (ii) an emergency health care provider under a
-collaborative agreement pursuant to section three thousand-b of this
-article with respect to an automated external defibrillator, or (iii) a
-health care practitioner that prescribes, dispenses or provides an
-epinephrine auto-injector device under section three thousand-c of this
-article, shall not be liable for damages arising either from the use of
-that equipment by a person who voluntarily and without expectation of
-monetary compensation renders first aid or emergency treatment at the
-scene of an accident or medical emergency, or from the use of
-defectively manufactured equipment; provided that this subdivision shall
-not limit the person's or entity's, the emergency health care
-provider's, or other health care practitioner's liability for his, her
-or its own negligence, gross negligence or intentional misconduct.
+epinephrine device as required by or pursuant to law or local law, or
+that conducts training under section three thousand-c of this article,
+or (ii) an emergency health care provider under a collaborative
+agreement pursuant to section three thousand-b of this article with
+respect to an automated external defibrillator, or (iii) a health care
+practitioner that prescribes, dispenses or provides an epinephrine
+device under section three thousand-c of this article, shall not be
+liable for damages arising either from the use of that equipment by a
+person who voluntarily and without expectation of monetary compensation
+renders first aid or emergency treatment at the scene of an accident or
+medical emergency, or from the use of defectively manufactured
+equipment; provided that this subdivision shall not limit the person's
+or entity's, the emergency health care provider's, or other health care
+practitioner's liability for their own negligence, gross negligence or
+intentional misconduct.
 ```
