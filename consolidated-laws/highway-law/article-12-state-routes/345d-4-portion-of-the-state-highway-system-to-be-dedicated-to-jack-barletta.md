@@ -13,5 +13,5 @@ Schipps Lane in the town of Montgomery, county of Orange, and continuing
 in a generally southerly direction to its intersection with Otter Road
 in the town of Hamptonburgh, county of Orange, shall be dedicated to
 Jack Barletta.
-  * NB There are 4 345-d's
+  * NB There are 4 § 345-d's
 ```

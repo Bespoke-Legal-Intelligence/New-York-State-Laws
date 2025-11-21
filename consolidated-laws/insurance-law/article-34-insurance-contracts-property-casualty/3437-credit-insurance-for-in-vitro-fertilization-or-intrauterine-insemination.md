@@ -4,7 +4,7 @@
 [Insurance Law](../README.md) › [Article 34 — Insurance Contracts-property/casualty](README.md)
 
 ```text
-  * § 3437. Credit insurance for in-vitro fertilization or intrauterine
+  § 3437. Credit insurance for in-vitro fertilization or intrauterine
 insemination. (a) Except as provided in subsection (b) of this section,
 an insurer that issues a credit insurance policy pursuant to clause
 (III) of item (i) of subparagraph (D) of paragraph seventeen of
@@ -16,5 +16,4 @@ insurance policy is not a substitute for comprehensive health insurance.
 pursuant to section two thousand one hundred five of this chapter shall
 provide the statement required by subsection (a) of this section on
 behalf of the insurer.
-  * NB Effective November 15, 2025
 ```

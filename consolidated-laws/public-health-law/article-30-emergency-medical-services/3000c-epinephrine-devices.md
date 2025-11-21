@@ -4,7 +4,8 @@
 [Public Health Law](../README.md) › [Article 30 — Emergency Medical Services](README.md)
 
 ```text
-§ 3000-c. Epinephrine devices. 1. Definitions. As used in this section:
+  § 3000-c. Epinephrine devices. 1. Definitions. As used in this
+section:
   (a) "Eligible person or entity" means: (i) an ambulance service or
 advanced life support first response service; a certified first
 responder, firefighter in a county, city, town or village having a

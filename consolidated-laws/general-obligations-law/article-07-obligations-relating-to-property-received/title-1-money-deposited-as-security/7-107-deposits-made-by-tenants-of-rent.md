@@ -1,35 +1,13 @@
-﻿<!-- nyslaw {"citation": "General Obligations Law § 7-107", "kind": "section", "law_id": "GOB", "location_id": "7-107", "path": "ARTICLE 7 › TITLE 1 › SECTION 7-107", "repealed": false, "repealed_date": null, "source": "nys-laws:GOB/7-107.md", "title": "Liability of a grantee or assignee for deposits made by tenants upon conveyance of rent stabilized dwelling units"} -->
-# General Obligations Law § 7-107 — Liability of a grantee or assignee for deposits made by tenants upon conveyance of rent stabilized dwelling units
+﻿<!-- nyslaw {"citation": "General Obligations Law § 7-107", "kind": "section", "law_id": "GOB", "location_id": "7-107", "path": "ARTICLE 7 › TITLE 1 › SECTION 7-107", "repealed": false, "repealed_date": null, "source": "nys-laws:GOB/7-107.md", "title": "Deposits made by tenants of rent stabilized dwelling units"} -->
+# General Obligations Law § 7-107 — Deposits made by tenants of rent stabilized dwelling units
 
 [General Obligations Law](../../README.md) › [Article 7 — Obligations Relating to Property Received As Security](../README.md) › [Title 1 — Money Deposited As Security to Be Held In Trust In Certain Cases](README.md)
 
 ```text
-  * § 7-107. Liability of a grantee or assignee for deposits made by
-tenants upon conveyance of rent stabilized dwelling units. 1. This
-section shall apply only to dwelling units subject to the New York city
-rent stabilization law of nineteen hundred sixty-nine or the emergency
-tenant protection act of nineteen seventy-four.
-  2. (a) Any grantee or assignee of any dwelling unit referred to in
-subdivision one of this section shall be liable to a tenant for any sum
-of money or any other thing of value deposited as security for the full
-performance by such tenant of the terms of his lease, plus any accrued
-interest, if his or its predecessor in interest was liable for such
-funds. Such liability shall attach whether or not the successor in
-interest has, upon the conveyance of such dwelling unit, received the
-sum as deposited.
-  (b) The liability of a receiver for payment of any security deposit
-plus accrued interest pursuant to this subdivision shall be limited to
-the amount of such deposit actually turned over to him or it pursuant to
-subdivision one of section 7-105 of this chapter and to the operating
-income in excess of expenses generated during his or its period of
-receivership.
-  3. Any agreement by a lessee or tenant of a dwelling unit waiving or
-modifying his rights as set forth in this section shall be void.
-  * NB Effective until November 15, 2025
-  * § 7-107.  Deposits made by tenants of rent stabilized dwelling
-units.  1. This section shall apply only to dwelling units subject to
-the New York city rent stabilization law of nineteen hundred sixty-nine
-or the emergency tenant protection act of nineteen seventy-four.
+  § 7-107. Deposits made by tenants of rent stabilized dwelling units.
+1. This section shall apply only to dwelling units subject to the New
+York city rent stabilization law of nineteen hundred sixty-nine or the
+emergency tenant protection act of nineteen seventy-four.
   2. No deposit or advance shall exceed the amount of one month's rent,
 under any contract for the lease or tenancy of a dwelling unit subject
 to this section.
@@ -140,5 +118,4 @@ receivership.
   10. Any agreement by a lessee or tenant of a dwelling waiving or
 modifying their rights as set forth in this section shall be absolutely
 void.
-  * NB Effective November 15, 2025
 ```

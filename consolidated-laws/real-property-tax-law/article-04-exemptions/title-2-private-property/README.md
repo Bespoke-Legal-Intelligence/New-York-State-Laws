@@ -166,7 +166,7 @@
 - [§ 485-O New residential property exemption; certain cities](485o-new-residential-property-exemption-certain-cities.md)
 - [§ 485-P Economic transformation area exemption](485p-economic-transformation-area-exemption.md)
 - [§ 485-Q Residential investment exemption; certain cities](485q-residential-investment-exemption-certain-cities.md)
-- [§ 485-R Residential redevelopment inhibited property exemption; certain cities](485r-residential-redevelopment-inhibited-property-exemption-certain-cities.md)
+- [§ 485-R Residential redevelopment inhibited property exemption](485r-residential-redevelopment-inhibited-property-exemption.md)
 - [§ 485-S Residential reassessment exemption](485s-residential-reassessment-exemption.md)
 - [§ 485-S\*2 Residential reassessment exemption](485s-2-residential-reassessment-exemption.md)
 - [§ 485-S\*3 Mixed use exemption program for villages](485s-3-mixed-use-exemption-program-for-villages.md)
