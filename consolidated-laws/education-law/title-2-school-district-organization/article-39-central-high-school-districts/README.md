@@ -8,7 +8,6 @@
 - [§ 1901 Central high school districts; number and election of members of board of education](1901-central-high-school-districts-number-and-election-of-members.md)
 - [§ 1902 Other districts may join central high school district](1902-other-districts-may-join-central-high-school-district.md)
 - [§ 1903 Powers of board of education; laws applicable](1903-powers-of-board-of-education-laws-applicable.md)
-- [§ 1904 Annual organizational meeting of board of education in the county of Nassau](1904-annual-organizational-meeting-of-board-of-education.md)
 - [§ 1905 District treasurer and clerk; custody and disbursement of funds](1905-district-treasurer-and-clerk-custody-and-disbursement.md)
 - [§ 1906 District meetings; vote upon school taxes](1906-district-meetings-vote-upon-school-taxes.md)
 - [§ 1907 Transportation of pupils](1907-transportation-of-pupils.md)
@@ -34,8 +33,6 @@ Section 1901.   Central high school districts; number and election of
                   members of board of education.
         1902.   Other districts may join central high school district.
         1903.   Powers of board of education; laws applicable.
-        1904.   Annual organizational meeting of board of education in
-                  the county of Nassau.
         1905.   District treasurer and clerk; custody and disbursement
                   of funds.
         1906.   District meetings; vote upon school taxes.

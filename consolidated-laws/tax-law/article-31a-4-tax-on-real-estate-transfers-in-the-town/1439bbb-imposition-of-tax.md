@@ -28,4 +28,5 @@ evidence such as the recording of the contract, payment of a deposit or
 other facts and circumstances as determined by the treasurer.
   * NB Effective January 14, 2026
   * NB Repealed December 31, 2045
+  * NB There are 2 § 1439-bbb's
 ```

@@ -43,6 +43,7 @@
 - [§ 391-U\*2 Restrictions on the sale and use of firefighting equipment containing PFAS chemicals](391u-2-restrictions-on-the-sale-and-use-of-firefighting-equipment-containing-pfas.md)
 - [§ 391-V Third-party food delivery agreements](391v-third-party-food-delivery-agreements.md)
 - [§ 391-W Unauthorized restaurant reservations](391w-unauthorized-restaurant-reservations.md)
+- [§ 391-X Hair relaxer labeling](391x-hair-relaxer-labeling.md)
 - [§ 392 Second-hand watches](392-second-hand-watches.md)
 - [§ 392-A Sale of new computers](392a-sale-of-new-computers.md)
 - [§ 392-B False labels and misrepresentations](392b-false-labels-and-misrepresentations.md)
@@ -95,6 +96,7 @@
 - [§ 396-H Fraudulent sale of poppies, forget-me-nots, daisies, flags and other articles sold for patriotic purposes](396h-fraudulent-sale-of-poppies-forget-me-nots-daisies-flags-and-other-articles-sold.md)
 - [§ 396-HH Sale of poppies, forget-me-nots, daisies, flags and other articles for patriotic purposes](396hh-sale-of-poppies-forget-me-nots-daisies-flags-and-other-articles-for-patriotic.md)
 - [§ 396-I Acceptance of unexpired gift certificates](396i-acceptance-of-unexpired-gift-certificates.md)
+- [§ 396-II Cashless policies prohibited](396ii-cashless-policies-prohibited.md)
 - [§ 396-J Sale or possession of master or manipulative keys for motor vehicles](396j-sale-or-possession-of-master-or-manipulative-keys-for-motor-vehicles.md)
 - [§ 396-K Hazardous toys and other articles intended primarily for use by children; prohibition and enforcement](396k-hazardous-toys-and-other-articles-intended-primarily-for-use-by-children.md)
 - [§ 396-K\*2 Sale of certain motor vehicles damaged by the ravages of natural disaster](396k-2-sale-of-certain-motor-vehicles-damaged-by-the-ravages-of-natural-disaster.md)
@@ -261,6 +263,7 @@ Section 390.         Substitution of spurious oils for internal
                        equipment containing PFAS chemicals.
         391-v.       Third-party food delivery agreements.
         391-w.       Unauthorized restaurant reservations.
+        391-x.       Hair relaxer labeling.
         392.         Second-hand watches.
         392-a.       Sale of new computers.
         392-b.       False labels and misrepresentations.
@@ -328,6 +331,7 @@ Section 390.         Substitution of spurious oils for internal
         396-hh.      Sale of poppies, forget-me-nots, daisies, flags and
                        other articles for patriotic purposes.
         396-i.       Acceptance of unexpired gift certificates.
+        396-ii.      Cashless policies prohibited.
         396-j.       Sale or possession of master or manipulative keys
                        for motor vehicles.
         396-k.       Hazardous toys and other articles intended

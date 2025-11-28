@@ -4,8 +4,8 @@
 [Public Health Law](../README.md) › [Article 33-A — Controlled Substances Therapeutic Research Act](README.md)
 
 ```text
-  § 3397-c. Antonio G. Olivieri controlled substances therapeutic
-research program established; participation.  1. The Antonio G. Olivieri
+  * § 3397-c. Antonio G. Olivieri controlled substances therapeutic
+research program established; participation. 1. The Antonio G. Olivieri
 controlled substances therapeutic research program is hereby established
 in the department of health. The commissioner shall promulgate rules and
 regulations necessary for the proper administration of the controlled
@@ -28,4 +28,5 @@ treatment with conventional controlled substances.
   3. The commissioner, on behalf of the department, shall apply to the
 food and drug administration for an investigational new drug permit
 within ninety days after the effective date of this section.
+  * NB Repealed May 20, 2026
 ```

@@ -55,17 +55,37 @@ domestic partner,
   (vi) a brother or sister eighteen years of age or older,
   (vii) an adult grandchild of the decedent,
   (viii) a grandparent of the decedent,
-  (ix) a guardian of the person of the decedent at the time of his or
+  * (ix) a guardian of the person of the decedent at the time of his or
 her death, or
-  (x) any other person authorized or under the obligation to dispose of
-the body.
-  (b) If there is more than one member of a class listed in subparagraph
-(iv), (vi), (vii), or (viii) of paragraph (a) of this subdivision
-entitled to make an anatomical gift, an anatomical gift may be made by a
-member of the class unless that member or person knows of an objection
-by another member of the class. If an objection is known, the gift may
-be made only by a majority of the members of the class who are
-reasonably available.
+  * NB Effective until January 1, 2026
+  * (ix) a guardian of the person of the decedent at the time of his or
+her death,
+  * NB Effective January 1, 2026
+  * (x) any other person authorized or under the obligation to dispose
+of the body.
+  * NB Effective until January 1, 2026
+  * (x) a close friend as defined in subdivision four of section
+twenty-nine hundred ninety-four-a of this chapter, or
+  * NB Effective January 1, 2026
+  * (xi) any other person authorized or under the obligation to dispose
+of the body.
+  * NB Effective January 1, 2026
+  * (b) If there is more than one member of a class listed in
+subparagraph (iv), (vi), (vii), or (viii) of paragraph (a) of this
+subdivision entitled to make an anatomical gift, an anatomical gift may
+be made by a member of the class unless that member or person knows of
+an objection by another member of the class. If an objection is known,
+the gift may be made only by a majority of the members of the class who
+are reasonably available.
+  * NB Effective until January 1, 2026
+  * (b) If there is more than one member of a class listed in
+subparagraph (iv), (vi), (vii), (viii), or (x) of paragraph (a) of this
+subdivision entitled to make an anatomical gift, an anatomical gift may
+be made by a member of the class unless that member or person knows of
+an objection by another member of the class. If an objection is known,
+the gift may be made only by a majority of the members of the class who
+are reasonably available.
+  * NB Effective January 1, 2026
   3. An anatomical gift may not be made by a person listed in
 subdivision two of this section if:
   (a) a person in a prior class is reasonably available;

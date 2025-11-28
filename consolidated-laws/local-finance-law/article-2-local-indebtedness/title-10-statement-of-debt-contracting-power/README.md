@@ -10,7 +10,7 @@
 - [§ 132.00 Debt statements; agency preparing](132.00-debt-statements-agency-preparing.md)
 - [§ 135.00 Statement of total debt; inclusions in ascertaining gross indebtedness](135.00-statement-of-total-debt-inclusions-in-ascertaining-gross.md)
 - [§ 136.00 Statement of total debt; deductions from gross indebtedness](136.00-statement-of-total-debt-deductions-from-gross-indebtedness.md)
-- [§ 137.00 Debt statement of school districts outside cities](137.00-debt-statement-of-school-districts-outside-cities.md)
+- [§ 137.00 Debt statement of school districts outside cities with one hundred twenty-five thousand inhabitants or more according to the latest feder...](137.00-debt-statement-of-school-districts-outside-cities-with-one.md)
 - [§ 138.00 Debt statement to show net indebtedness](138.00-debt-statement-to-show-net-indebtedness.md)
 - [§ 139.00 Debt statement to show valuations of taxable real property](139.00-debt-statement-to-show-valuations-of-taxable-real-property.md)
 - [§ 140.00 Debt statement to show debt-contracting margin](140.00-debt-statement-to-show-debt-contracting-margin.md)
@@ -33,7 +33,9 @@ Section 130.00 Application of title.
                  indebtedness.
         136.00 Statement of total debt; deductions from gross
                  indebtedness.
-        137.00 Debt statement of school districts outside cities.
+        137.00 Debt statement of school districts outside cities with
+                 one hundred twenty-five thousand inhabitants or more
+                 according to the latest federal census.
         138.00 Debt statement to show net indebtedness.
         139.00 Debt statement to show valuations of taxable real
                  property.

@@ -135,4 +135,5 @@ vacant land; or
 residential condominium.
   * NB Effective January 14, 2026
   * NB Repealed December 31, 2045
+  * NB There are 2 § 1439-aaa's
 ```

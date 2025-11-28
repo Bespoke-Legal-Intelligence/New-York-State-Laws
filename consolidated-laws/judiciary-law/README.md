@@ -8,7 +8,7 @@
 | Senate code | JUD |
 | Type | Consolidated law, chapter 30 |
 | Sections | 543 |
-| Last changed | 15 Aug 2025 |
+| Last changed | 28 Nov 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Judiciary |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [28 Nov 2025](../../changes/2025/2025-11-28.md): 3 amended
 - [15 Aug 2025](../../changes/2025/2025-08-15.md): 1 amended
 - [13 Jun 2025](../../changes/2025/2025-06-13.md): 2 amended
 - [16 May 2025](../../changes/2025/2025-05-16.md): 3 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [18 Oct 2024](../../changes/2024/2024-10-18.md): 1 amended
 - [6 Sep 2024](../../changes/2024/2024-09-06.md): 1 amended
 - [26 Jul 2024](../../changes/2024/2024-07-26.md): 1 amended
-- [26 Apr 2024](../../changes/2024/2024-04-26.md): 1 amended, 1 added
 
 ## Contents
 

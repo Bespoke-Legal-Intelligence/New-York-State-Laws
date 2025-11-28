@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"kind": "container", "law_id": "PBH", "location_id": "A33T5", "path": "ARTICLE 33 › TITLE 5", "source": "nys-laws:PBH/A33T5.md", "title": "Dispensing to Addicts and Habitual Users"} -->
-# Title 5 — Dispensing to Addicts and Habitual Users
+﻿<!-- nyslaw {"kind": "container", "law_id": "PBH", "location_id": "A33T5", "path": "ARTICLE 33 › TITLE 5", "source": "nys-laws:PBH/A33T5.md", "title": "Dispensing to Persons With Substance Use Disorder and Habitual Users"} -->
+# Title 5 — Dispensing to Persons With Substance Use Disorder and Habitual Users
 
 [Public Health Law](../../README.md) › [Article 33 — Controlled Substances](../README.md)
 
@@ -14,7 +14,7 @@
 
 ```text
                                  TITLE V
-                DISPENSING TO ADDICTS AND HABITUAL USERS
+  DISPENSING TO PERSONS WITH SUBSTANCE USE DISORDER AND HABITUAL USERS
 Section 3350. Dispensing prohibition.
         3351. Dispensing for medical use.
         3352. Reports and records.

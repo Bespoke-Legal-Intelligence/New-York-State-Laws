@@ -11,7 +11,9 @@ and hold hearings pursuant thereto; provided that in a city with a
 population of more than one million it shall also mean an officer or
 employee or any agency of such city that is authorized to enforce any
 local law of such city related to the regulation of the sale of tobacco
-products to minors.
+products to minors, or for the purposes of section thirteen hundred
+ninety-nine-ee of this article, the office of administrative trials and
+hearings of such city.
   2. "Food service establishment" means any area, including outdoor
 seating areas, in which the business is the sale of food for on-premises
 consumption.

@@ -33,6 +33,7 @@
 - [§ 2020 Penalty for false declaration or unauthorized vote](2020-penalty-for-false-declaration-or-unauthorized.md)
 - [§ 2021 Powers of voters](2021-powers-of-voters.md)
 - [§ 2022 Vote on school district budgets and on the election of school district trustees and board of education members](2022-vote-on-school-district-budgets.md)
+- [§ 2022-A Disaster; additional day for voting](2022a-disaster-additional-day-for-voting.md)
 - [§ 2023 Levy of tax for certain purposes without vote; contingency budget](2023-levy-of-tax-for-certain-purposes-without-vote.md)
 - [§ 2023-A Limitations upon school district tax levies](2023a-limitations-upon-school-district-tax-levies.md)
 - [§ 2023-B Certification of compliance with tax levy limit](2023b-certification-of-compliance-with-tax-levy.md)
@@ -102,6 +103,7 @@ Section 2001.     Notice of first meeting of district.
         2022.     Vote on school district budgets and on the election of
                     school district trustees and board of education
                     members.
+        2022-a.   Disaster; additional day for voting.
         2023.     Levy of tax for certain purposes without vote;
                     contingency budget.
         2023-a.   Limitations upon school district tax levies.

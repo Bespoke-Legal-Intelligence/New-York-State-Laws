@@ -43,7 +43,7 @@ Section 4130.   Births; registration.
                   parentage; change of name of registrant or parent;
                   gender transition of registrant or parent.
         4138-a. Certificate of birth data.
-        4138-b. Birth certificate: foreign country adoption.
+        4138-b. Birth certificate: foreign adoption.
         4138-c. Adoption information registry.
         4138-d. Mutual consent voluntary adoption registry.
         4138-e. Adoptee's right to a certified copy of his or her birth

@@ -4,8 +4,8 @@
 [Public Health Law](../README.md) › [Article 33-A — Controlled Substances Therapeutic Research Act](README.md)
 
 ```text
-  § 3397-d. State patient qualification review board; composition;
-powers and duties.  1. The commissioner shall appoint a state patient
+  * § 3397-d. State patient qualification review board; composition;
+powers and duties. 1. The commissioner shall appoint a state patient
 qualification review board of no less than three nor more than five
 members. The state patient qualification review board shall be comprised
 of:
@@ -29,4 +29,5 @@ the pleasure of the commissioner.
 dollars as prescribed by the commissioner for each day devoted to board
 work not to exceed forty-five hundred dollars in any one year, and shall
 be reimbursed for necessary expenses.
+  * NB Repealed May 20, 2026
 ```

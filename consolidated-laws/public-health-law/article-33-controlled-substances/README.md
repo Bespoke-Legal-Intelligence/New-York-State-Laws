@@ -10,7 +10,7 @@
 - [Title 2-A — Opioid Stewardship Act](title-2a-opioid-stewardship-act/)
 - [Title 3 — Research, Instructional Activities, and Chemical Analysis Relating to Controlled Substances](title-3-research-instructional-activities/)
 - [Title 4 — Dispensing to Ultimate Users](title-4-dispensing-to-ultimate-users/)
-- [Title 5 — Dispensing to Addicts and Habitual Users](title-5-dispensing-to-addicts-and-habitual/)
+- [Title 5 — Dispensing to Persons With Substance Use Disorder and Habitual Users](title-5-dispensing-to-persons-with-substance/)
 - [Title 5-A — Medical Use of Marihuana](title-5a-medical-use-of-marihuana/)
 - [Title 6 — Records and Reports](title-6-records-and-reports/)
 - [Title 7 — Offenses, Violations and Enforcement](title-7-offenses-violations-and-enforcement/)
@@ -89,7 +89,7 @@ Section 3330.   Schedule I substances.
         3345.   Possession of controlled substances by ultimate users
                   original container.
                                  TITLE V
-                DISPENSING TO ADDICTS AND HABITUAL USERS
+  DISPENSING TO PERSONS WITH SUBSTANCE USE DISORDER AND HABITUAL USERS
 Section 3350.   Dispensing prohibition.
         3351.   Dispensing for medical use.
         3352.   Reports and records.

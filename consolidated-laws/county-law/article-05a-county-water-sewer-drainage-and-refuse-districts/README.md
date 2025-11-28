@@ -40,6 +40,7 @@
 - [§ 275 Sale of water district facilities](275-sale-of-water-district-facilities.md)
 - [§ 276 Jurisdiction of other state agencies](276-jurisdiction-of-other-state-agencies.md)
 - [§ 277 Establishment of certain county sewer districts in Suffolk county](277-establishment-of-certain-county-sewer-districts-in-suffolk-county.md)
+- [§ 277-A Conveyance or lease to the county of Westchester by a city, town or village in the county's New Rochelle sanitary sewer district of sewer...](277a-conveyance-or-lease-to-the-county-of-westchester-by-a-city-town-or-village.md)
 - [§ 278 Definitions](278-definitions.md)
 - [§ 279 Operation of certain collection and disposal facilities in Suffolk county](279-operation-of-certain-collection-and-disposal-facilities-in-suffolk-county.md)
 - [§ 279-A Acquisition of real property for future districts in Suffolk county](279a-acquisition-of-real-property-for-future-districts-in-suffolk-county.md)
@@ -96,6 +97,12 @@ Section 250.    Purpose.
         276.    Jurisdiction of other state agencies.
         277.    Establishment of certain county sewer districts in
                   Suffolk county.
+        277-a.  Conveyance or lease to the county of Westchester by a
+                  city, town or village in the county's New Rochelle
+                  sanitary sewer district of sewer system property and
+                  the establishment of certain county sewer districts,
+                  extensions or special transitional zones of assessment
+                  in the county of Westchester.
         278.    Definitions.
         279.    Operation of certain collection and disposal facilities
                   in Suffolk county.

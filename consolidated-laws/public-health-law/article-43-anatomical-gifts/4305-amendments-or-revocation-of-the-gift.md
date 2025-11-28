@@ -39,12 +39,20 @@ persons, at least one of whom is a disinterested witness; or
   (iii) a later-executed document of gift that amends or revokes a
 previous anatomical gift or portion of an anatomical gift made by that
 individual, either expressly or by inconsistency.
-  (b) If more than one member of a class listed in subparagraph (iv),
+  * (b) If more than one member of a class listed in subparagraph (iv),
 (vi), (vii), or (viii) of paragraph (a) of subdivision two of section
 forty-three hundred one of this article is reasonably available, a gift
 made pursuant to subdivision two of section forty-three hundred one of
 this article shall be amended or revoked only if a majority of the
 reasonably available members agree.
+  * NB Effective until January 1, 2026
+  * (b) If more than one member of a class listed in subparagraph (iv),
+(vi), (vii), (viii), or (x) of paragraph (a) of subdivision two of
+section forty-three hundred one of this article is reasonably available,
+a gift made pursuant to subdivision two of section forty-three hundred
+one of this article shall be amended or revoked only if a majority of
+the reasonably available members agree.
+  * NB Effective January 1, 2026
   (c) An amendment or revocation is effective only if, before an
 incision has been made to remove a part from the donor's body or before
 invasive procedures have begun to prepare the recipient, the procurement

@@ -4,8 +4,8 @@
 [Public Health Law](../README.md) › [Article 33-A — Controlled Substances Therapeutic Research Act](README.md)
 
 ```text
-  § 3397-f. Antonio G. Olivieri controlled substances therapeutic
-research program; distribution.  1. The commissioner shall obtain
+  * § 3397-f. Antonio G. Olivieri controlled substances therapeutic
+research program; distribution. 1. The commissioner shall obtain
 marijuana through whatever means he deems most appropriate, consistent
 with regulations promulgated by the national institute on drug abuse,
 the food and drug administration and the drug enforcement administration
@@ -22,4 +22,5 @@ the receipt of controlled substances.
   3. The commissioner shall cause such marijuana to be transferred to a
 hospital for distribution to the certified patient pursuant to this
 article.
+  * NB Repealed May 20, 2026
 ```

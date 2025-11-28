@@ -81,6 +81,8 @@ Article 1.      Short title; definitions; miscellaneous (§§ 1-49*2).
                    (§§ 1439-aa--1439-pp).
        31-A-4.   Tax on real estate transfers in the town of Chester
                    (§§ 1439-aaa--1439-ppp).
+       31-A-4*2. Tax on real estate transfers in the town of Orangetown
+                   (§§ 1439-aaa*2--1439-ppp*2).
        31-B.     Tax on real estate transfers in the town of Brookhaven
                    (§§ 1440--1448-f).
        31-B-1.   Tax on real estate transfers in the county of Essex
@@ -99,6 +101,8 @@ Article 1.      Short title; definitions; miscellaneous (§§ 1-49*2).
                    (§§ 1449-aaaaaa--1449-pppppp).
        31-I.     Tax on real estate transfers in the county of Cortland
                    (§§ 1449-aaaaaaa--1449-ppppppp).
+       31-J.     Tax on real estate transfers in the town of Copake
+                   (§§ 1450-a--1450-p).
        33.       Franchise taxes on insurance corporations
                    (§§ 1500-1520).
        33-A.     Tax on independently procured insurance

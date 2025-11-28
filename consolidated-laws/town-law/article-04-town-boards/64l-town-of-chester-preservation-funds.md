@@ -4,7 +4,7 @@
 [Town Law](../README.md) › [Article 4 — Town Boards](README.md)
 
 ```text
-  § 64-l. Town of Chester preservation funds. 1. As used in this
+  * § 64-l. Town of Chester preservation funds. 1. As used in this
 section, the following words and terms shall have the following
 meanings:
   (a) "Town" means the town of Chester.
@@ -185,4 +185,5 @@ preserved in perpetuity by a permanent conservation easement or other
 instrument that similarly preserves the community character referenced
 in subdivision five of this section, and (b) the proceeds from such sale
 shall be deposited in the community preservation fund.
+  * NB There are 3 § 64-l's
 ```

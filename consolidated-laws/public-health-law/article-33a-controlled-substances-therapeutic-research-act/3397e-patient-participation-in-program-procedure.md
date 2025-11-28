@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 33-A — Controlled Substances Therapeutic Research Act](README.md)
 
 ```text
-  § 3397-e. Patient participation in program; procedure.  1. Any
+  * § 3397-e. Patient participation in program; procedure. 1. Any
 hospital may establish a hospital patient qualification review committee
 subject to the rules and regulations promulgated by the commissioner. A
 hospital may designate a hospital human research review committee as set
@@ -33,4 +33,5 @@ human research project proposed hereunder and shall certify to the
 hospital patient qualification review committee that such project meets
 the requirements of this article and article twenty-four-A of this
 chapter.
+  * NB Repealed May 20, 2026
 ```

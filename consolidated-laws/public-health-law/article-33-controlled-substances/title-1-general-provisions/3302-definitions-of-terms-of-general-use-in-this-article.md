@@ -8,9 +8,9 @@
 where different meanings are expressly specified in subsequent
 provisions of this article, the following terms have the following
 meanings:
-  1. "Addict" means a person who habitually uses a controlled substance
-for a non-legitimate or unlawful use, and who by reason of such use is
-dependent thereon.
+  1. "Person with substance use disorder" means a person who habitually
+uses a controlled substance for a non-legitimate or unlawful use, and
+who by reason of such use is dependent thereon.
   2. "Administer" means the direct application of a controlled
 substance, whether by injection, inhalation, ingestion, or any other
 means, to the body of a patient or research subject.

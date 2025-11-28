@@ -7,7 +7,8 @@
   § 3331. Scheduled substances administering and dispensing by
 practitioners. 1. Except as provided in titles III or V of this article,
 no substance in schedules II, III, IV, or V may be prescribed for or
-dispensed or administered to an addict or habitual user.
+dispensed or administered to a person with substance use disorder or
+habitual user.
   2. A practitioner, in good faith, and in the course of his or her
 professional practice only, may prescribe, administer and dispense
 substances listed in schedules II, III, IV, and V, or he or she may

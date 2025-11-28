@@ -16,7 +16,7 @@
 <summary>Official heading of Article 33-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              ARTICLE 33-A
+                             * ARTICLE 33-A
              CONTROLLED SUBSTANCES THERAPEUTIC RESEARCH ACT
 Section 3397-a. Legislative findings.
         3397-b. Definitions.
@@ -27,6 +27,7 @@ Section 3397-a. Legislative findings.
         3397-e. Patient participation in program; procedure.
         3397-f. Antonio G. Olivieri controlled substances therapeutic
                   research program; distribution.
+          * NB Repealed May 20, 2026
 ```
 
 </details>

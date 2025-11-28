@@ -10,4 +10,5 @@ apportionment for determining the amount of tax due whenever the real
 property or interest therein is situated within and without the town.
   * NB Effective January 14, 2026
   * NB Repealed December 31, 2045
+  * NB There are 2 § 1439-mmm's
 ```

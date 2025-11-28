@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Public Health Law § 3352", "kind": "section", "law_id": "PBH", "location_id": "3352", "path": "ARTICLE 33 › TITLE 5 › SECTION 3352", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/3352.md", "title": "Reports and records"} -->
 # Public Health Law § 3352 — Reports and records
 
-[Public Health Law](../../README.md) › [Article 33 — Controlled Substances](../README.md) › [Title 5 — Dispensing to Addicts and Habitual Users](README.md)
+[Public Health Law](../../README.md) › [Article 33 — Controlled Substances](../README.md) › [Title 5 — Dispensing to Persons With Substance Use Disorder and Habitual Users](README.md)
 
 ```text
   § 3352. Reports and records. Persons certified pursuant to article

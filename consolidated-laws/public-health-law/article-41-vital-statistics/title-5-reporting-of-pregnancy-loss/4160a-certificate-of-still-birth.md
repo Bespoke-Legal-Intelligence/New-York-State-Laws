@@ -50,9 +50,8 @@ estimate of the twentieth week of gestation.
   8. A certificate of still birth may be requested and issued regardless
 of the date on which the pregnancy loss certificate was issued.
   9. The department, or in the city of New York, the New York city
-department of health and mental hygiene may charge a fee for the
-issuance of a certificate under this section equal to the fee authorized
-by law for the certification of a birth or death.
+department of health and mental hygiene shall not charge any fee for the
+issuance of a certificate under this section.
   10. This section shall apply to the city of New York, notwithstanding
 section forty-one hundred four of this article.
 ```

@@ -21,4 +21,5 @@ of proving the contrary shall be on the person liable for payment of the
 tax.
   * NB Effective January 14, 2026
   * NB Repealed December 31, 2045
+  * NB There are 2 § 1439-ddd's
 ```

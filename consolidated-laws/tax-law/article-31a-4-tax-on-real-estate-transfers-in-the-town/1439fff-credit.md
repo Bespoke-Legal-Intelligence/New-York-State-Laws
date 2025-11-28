@@ -18,4 +18,5 @@ be entitled to receive after such date), and the denominator of which is
 the total value of the consideration used to compute such tax paid.
   * NB Effective January 14, 2026
   * NB Repealed December 31, 2045
+  * NB There are 2 § 1439-fff's
 ```

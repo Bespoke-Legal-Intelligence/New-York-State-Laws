@@ -27,6 +27,8 @@
 - [§ 64-J Town of Northeast preservation funds](64j-town-of-northeast-preservation-funds.md)
 - [§ 64-K Peconic Bay region community housing fund](64k-peconic-bay-region-community-housing-fund.md)
 - [§ 64-L Town of Chester preservation funds](64l-town-of-chester-preservation-funds.md)
+- [§ 64-L\*2 Town of Orangetown preservation funds](64l-2-town-of-orangetown-preservation-funds.md)
+- [§ 64-L\*3 Town of Copake preservation funds](64l-3-town-of-copake-preservation-funds.md)
 - [§ 65 Actions and proceedings by and against towns](65-actions-and-proceedings-by-and-against-towns.md)
 - [§ 65-A Liability of towns and town superintendents of highways in certain actions](65a-liability-of-towns-and-town-superintendents-of-highways-in-certain-actions.md)
 - [§ 66 Place of trial of actions and proceedings against towns; inhabitants not incompetent to act thereat](66-place-of-trial-of-actions-and-proceedings-against-towns-inhabitants-not.md)
@@ -65,6 +67,8 @@ Section 60.     Town board constituted.
         64-j.   Town of Northeast preservation funds.
         64-k.   Peconic Bay region community housing fund.
         64-l.   Town of Chester preservation funds.
+        64-l*2. Town of Orangetown preservation funds.
+        64-l*3. Town of Copake preservation funds.
         65.     Actions and proceedings by and against towns.
         65-a.   Liability of towns and town superintendents of highways
                   in certain actions.
