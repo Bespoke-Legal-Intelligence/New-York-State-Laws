@@ -7,7 +7,7 @@
 
 - [§ 27-1901 Definitions](27-1901-definitions.md)
 - [§ 27-1903 Waste tire management priorities](27-1903-waste-tire-management-priorities.md)
-- [§ 27-1905 Mandatory tire acceptance](27-1905-mandatory-tire-acceptance.md)
+- [§ 27-1905 Mandatory tire acceptance; notices](27-1905-mandatory-tire-acceptance-notices.md)
 - [§ 27-1907 Abatement of noncompliant waste tire stockpiles](27-1907-abatement-of-noncompliant-waste-tire.md)
 - [§ 27-1909 Market development](27-1909-market-development.md)
 - [§ 27-1911 Prohibition on land burial](27-1911-prohibition-on-land-burial.md)
