@@ -32,14 +32,16 @@ health care worker.
 association.
   8. "Temporary health care services agency" or "agency" means a person,
 firm, corporation, partnership, association or other entity in the
-business of providing or procuring temporary employment of health care
-personnel for health care entities. Temporary health care services
-agency shall include a nurses' registry licensed under article eleven of
-the general business law and entities that utilize apps or other
-technology-based solutions to provide or procure temporary employment of
-health care personnel in health care entities. Temporary health care
-services agency shall not include: (a) an individual who only engages in
-providing the individual's own services on a temporary basis to health
-care entities; or (b) a home care agency licensed under article
-thirty-six of this chapter.
+business of providing or procuring temporary employment or engaging
+individuals to provide health care services for health care entities, or
+of enabling health care entities to engage individuals to perform health
+care services. Temporary health care services agency shall include a
+nurses' registry licensed under article eleven of the general business
+law and entities that utilize apps or other technology-based solutions
+to provide, procure or enable health care entities to engage individuals
+to perform health care services. Temporary health care services agency
+shall not include: (a) an individual who only engages in providing the
+individual's own services on a temporary basis to health care entities;
+or (b) a home care agency licensed under article thirty-six of this
+chapter.
 ```

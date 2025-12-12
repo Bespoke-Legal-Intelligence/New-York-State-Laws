@@ -12,6 +12,7 @@
 - [§ 9-312 Perfection of Security Interests in Chattel Paper, Deposit Accounts, Documents, Goods Covered by Documents, Instruments, Investment Prope...](9-312-perfection-of-security-interests-in-chattel.md)
 - [§ 9-313 When Possession by or Delivery to Secured Party Perfects Security Interest Without Filing](9-313-when-possession-by-or-delivery-to-secured.md)
 - [§ 9-314 Perfection by Control](9-314-perfection-by-control.md)
+- [§ 9-314A Perfection by Possession and Control of Chattel Paper](9-314a-perfection-by-possession-and-control.md)
 - [§ 9-315 Secured Party's Rights on Disposition of Collateral and in Proceeds](9-315-secured-partys-rights-on-disposition.md)
 - [§ 9-316 Effect of Change in Governing Law](9-316-effect-of-change-in-governing-law.md)
 

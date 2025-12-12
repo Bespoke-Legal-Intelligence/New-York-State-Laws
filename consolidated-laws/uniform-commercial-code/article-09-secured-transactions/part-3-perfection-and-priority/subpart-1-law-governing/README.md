@@ -11,6 +11,8 @@
 - [§ 9-304 Law Governing Perfection and Priority of Security Interests in Deposit Accounts](9-304-law-governing-perfection-and-priority.md)
 - [§ 9-305 Law Governing Perfection and Priority of Security Interests in Investment Property](9-305-law-governing-perfection-and-priority.md)
 - [§ 9-306 Law Governing Perfection and Priority of Security Interests in Letter-of-credit Rights](9-306-law-governing-perfection-and-priority.md)
+- [§ 9-306A Law Governing Perfection and Priority of Security Interests in Chattel Paper](9-306a-law-governing-perfection-and-priority.md)
+- [§ 9-306B Law Governing Perfection and Priority of Security Interests in Controllable Accounts, Controllable Electronic Records, and Controllable P...](9-306b-law-governing-perfection-and-priority.md)
 - [§ 9-307 Location of Debtor](9-307-location-of-debtor.md)
 
 <details>

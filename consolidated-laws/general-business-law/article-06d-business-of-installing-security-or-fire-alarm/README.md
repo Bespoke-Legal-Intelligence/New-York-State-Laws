@@ -19,6 +19,7 @@
 - [§ 69-U Judicial review](69u-judicial-review.md)
 - [§ 69-V Violations and penalties](69v-violations-and-penalties.md)
 - [§ 69-VV Civil penalties](69vv-civil-penalties.md)
+- [§ 69-VVV Fines for false alarms](69vvv-fines-for-false-alarms.md)
 - [§ 69-W Official acts used as evidence](69w-official-acts-used-as-evidence.md)
 - [§ 69-X Disposition of moneys derived from operation of article](69x-disposition-of-moneys-derived-from-operation-of-article.md)
 - [§ 69-Y Separability clause](69y-separability-clause.md)
@@ -30,25 +31,26 @@
 ```text
                                ARTICLE 6-D
           BUSINESS OF INSTALLING SECURITY OR FIRE ALARM SYSTEMS
-Section 69-l.  Definitions.
-        69-m.  License required.
-        69-n.  Powers of the secretary of state.
-        69-o.  License after examination; application.
-        69-p.  License without examination.
-        69-pp. Licensed master electrician waiver.
-        69-q.  Licenses; display; renewal; duplicates.
-        69-r.  Fees.
-        69-s.  Suspension and revocation of licenses.
-        69-ss. Revocation, suspension, reprimands, fines; unlicensed
-                 activities.
-        69-t.  Hearing on charges; decision.
-        69-u.  Judicial review.
-        69-v.  Violations and penalties.
-        69-vv. Civil penalties.
-        69-w.  Official acts used as evidence.
-        69-x.  Disposition of moneys derived from operation of article.
-        69-y.  Separability clause.
-        69-z.  Applicability.
+Section 69-l.   Definitions.
+        69-m.   License required.
+        69-n.   Powers of the secretary of state.
+        69-o.   License after examination; application.
+        69-p.   License without examination.
+        69-pp.  Licensed master electrician waiver.
+        69-q.   Licenses; display; renewal; duplicates.
+        69-r.   Fees.
+        69-s.   Suspension and revocation of licenses.
+        69-ss.  Revocation, suspension, reprimands, fines; unlicensed
+                  activities.
+        69-t.   Hearing on charges; decision.
+        69-u.   Judicial review.
+        69-v.   Violations and penalties.
+        69-vv.  Civil penalties.
+        69-vvv. Fines for false alarms.
+        69-w.   Official acts used as evidence.
+        69-x.   Disposition of moneys derived from operation of article.
+        69-y.   Separability clause.
+        69-z.   Applicability.
 ```
 
 </details>

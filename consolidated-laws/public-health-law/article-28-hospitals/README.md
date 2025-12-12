@@ -25,6 +25,7 @@
 - [§ 2803-AA Sickle cell disease information distribution](2803aa-sickle-cell-disease-information-distribution.md)
 - [§ 2803-AA\*2 Nursing home infection control competency audit](2803aa-2-nursing-home-infection-control-competency-audit.md)
 - [§ 2803-B Uniform reports and accounting systems for hospital costs](2803b-uniform-reports-and-accounting-systems-for-hospital-costs.md)
+- [§ 2803-BB Provision of language assistance](2803bb-provision-of-language-assistance.md)
 - [§ 2803-C Rights of patients in certain medical facilities](2803c-rights-of-patients-in-certain-medical-facilities.md)
 - [§ 2803-C-1 Rights of patients in certain medical facilities; long-term care ombudsman program](2803c-1-rights-of-patients-in-certain-medical-facilities-long-term-care-ombudsman.md)
 - [§ 2803-C-2 Lesbian, gay, bisexual and transgender, and people living with HIV long-term care facility residents' bill of rights](2803c-2-lesbian-gay-bisexual-and-transgender-and-people-living-with-hiv-long-term-care.md)
@@ -192,6 +193,7 @@ Section 2800.      Declaration of policy and statement of purpose.
         2803-aa*2. Nursing home infection control competency audit.
         2803-b.    Uniform reports and accounting systems for hospital
                      costs.
+        2803-bb.   Provision of language assistance.
         2803-c.    Rights of patients in certain medical facilities.
         2803-c-1.  Rights of patients in certain medical facilities;
                      long-term care ombudsman program.

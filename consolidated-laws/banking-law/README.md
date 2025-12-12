@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | BNK |
 | Type | Consolidated law, chapter 2 |
-| Sections | 882 |
-| Last changed | 1 Aug 2025 |
+| Sections | 899 |
+| Last changed | 12 Dec 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Banking |
 
@@ -29,10 +29,11 @@ Became a law April 16, 1914, with the approval of the Governor.  Passed,
   The  People  of  the  State  of  New  York,  represented in Senate and
 ```
 
-[Full chapter text (76 lines)](chapter-text.md)
+[Full chapter text (77 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [12 Dec 2025](../../changes/2025/2025-12-12.md): 2 amended, 17 added
 - [1 Aug 2025](../../changes/2025/2025-08-01.md): 1 amended
 - [27 Jun 2025](../../changes/2025/2025-06-27.md): 1 amended
 - [13 Jun 2025](../../changes/2025/2025-06-13.md): 1 amended
@@ -42,7 +43,6 @@ Became a law April 16, 1914, with the approval of the Governor.  Passed,
 - [27 Dec 2024](../../changes/2024/2024-12-27.md): 2 amended
 - [20 Dec 2024](../../changes/2024/2024-12-20.md): 1 added
 - [30 Aug 2024](../../changes/2024/2024-08-30.md): 2 amended
-- [12 Apr 2024](../../changes/2024/2024-04-12.md): 1 amended
 
 ## Contents
 
@@ -87,6 +87,7 @@ Became a law April 16, 1914, with the approval of the Governor.  Passed,
 - [Article 13-C — State Transmitter of Money Insurance Fund](article-13c-state-transmitter-of-money-insurance-fund/)
 - [Article 13-D — Misconduct Relating to Banking Organizations](article-13d-misconduct-relating-to-banking-organizations/)
 - [Article 13-E — Joint Deposits and Shares;](article-13e-joint-deposits-and-shares/)
+- [Article 13-F — Uniform Special Deposits Act](article-13f-uniform-special-deposits-act/)
 - [Article 14 — Laws Repealed; Construction; When to Take Effect](article-14-laws-repealed-construction-when-to-take-effect/)
 - [Article 14-A — Student Loan Servicers](article-14a-student-loan-servicers/)
 - [Article 14-B — Buy-now-pay-later Lenders](article-14b-buy-now-pay-later-lenders/)

@@ -4,9 +4,16 @@
 [Uniform Commercial Code](../../README.md) › [Article 2 — Sales](../README.md) › [Part 2 — Form, Formation and Readjustment of Contract](README.md)
 
 ```text
-Section 2--203. Seals Inoperative.
+* Section 2--203. Seals Inoperative.
   The affixing of a seal to a writing evidencing a contract for sale or
 an offer to buy or sell goods does not constitute the writing a sealed
 instrument and the law with respect to sealed instruments does not apply
 to such a contract or offer.
+  * NB Effective until June 3, 2026
+* Section 2--203. Seals Inoperative.
+  The affixing of a seal to a record evidencing a contract for sale or
+an offer to buy or sell goods does not constitute the record a sealed
+instrument and the law with respect to sealed instruments does not apply
+to such a contract or offer.
+  * NB Effective June 3, 2026
 ```

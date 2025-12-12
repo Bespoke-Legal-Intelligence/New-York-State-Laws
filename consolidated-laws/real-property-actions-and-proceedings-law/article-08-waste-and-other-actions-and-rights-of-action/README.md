@@ -22,6 +22,7 @@
 - [§ 861 Action for cutting, removing, injuring or destroying trees or timber, and damaging lands thereon](861-action-for-cutting-removing-injuring-or-destroying-trees.md)
 - [§ 871 Action for the removal of encroaching structures](871-action-for-the-removal-of-encroaching-structures.md)
 - [§ 881 Access to adjoining property to make improvements or repairs](881-access-to-adjoining-property-to-make-improvements.md)
+- [§ 882 Severability](882-severability.md)
 
 <details>
 <summary>Official heading of Article 8, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -54,6 +55,7 @@ Section 801. Who liable to action for waste.
         871. Action for the removal of encroaching structures.
         881. Access to adjoining property to make improvements or
                repairs.
+        882. Severability.
 ```
 
 </details>

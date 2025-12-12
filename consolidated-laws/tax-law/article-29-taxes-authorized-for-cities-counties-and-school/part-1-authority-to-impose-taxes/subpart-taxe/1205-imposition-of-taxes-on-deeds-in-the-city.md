@@ -14,19 +14,19 @@ and as authorized in subdivision (b) of this section.
   (b) There is hereby imposed in the city of Mount Vernon a tax on each
 deed by which any real property is conveyed (measured by the
 consideration or value of the interest or property conveyed) at a rate
-not to exceed one percent of such consideration or value with respect to
-all conveyances, provided that such city may allow deductions for any
-liens on such interest or property and may also allow an exemption not
-in excess of one hundred thousand dollars on the consideration or value
-of the interest or property conveyed. Provided, further, that such taxes
-shall not apply if the contract for any such conveyance was made prior
-to September first, nineteen hundred eighty-four. Such taxes may be
-imposed on any conveyance or transfer of real property or interest
-therein by deed where the real property is located in such city
-regardless of where transactions, negotiations, transfers of deeds or
-other actions with regard to the transfer or conveyance take place,
-subject only to the restrictions contained in section twelve hundred
-thirty. The payment of, and the filing of a return relating to, any such
-taxes may be required as a condition precedent to the recording of a
-deed.
+not to exceed one and one-half percent of such consideration or value
+with respect to all conveyances, provided that such city may allow
+deductions for any liens on such interest or property and may also allow
+an exemption not in excess of one hundred thousand dollars on the
+consideration or value of the interest or property conveyed. Provided,
+further, that such taxes shall not apply if the contract for any such
+conveyance was made prior to September first, nineteen hundred
+eighty-four. Such taxes may be imposed on any conveyance or transfer of
+real property or interest therein by deed where the real property is
+located in such city regardless of where transactions, negotiations,
+transfers of deeds or other actions with regard to the transfer or
+conveyance take place, subject only to the restrictions contained in
+section twelve hundred thirty. The payment of, and the filing of a
+return relating to, any such taxes may be required as a condition
+precedent to the recording of a deed.
 ```

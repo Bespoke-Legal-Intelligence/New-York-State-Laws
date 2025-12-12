@@ -15,6 +15,7 @@
 - [§ 9-324 Priority of Purchase-money Security Interests](9-324-priority-of-purchase-money-security-interests.md)
 - [§ 9-325 Priority of Security Interests in Transferred Collateral](9-325-priority-of-security-interests-in-transferred.md)
 - [§ 9-326 Priority of Security Interests Created by New Debtor](9-326-priority-of-security-interests-created-by-new.md)
+- [§ 9-326A Priority of Security Interest in Controllable Account, Controllable Electronic Record, and Controllable Payment Intangible](9-326a-priority-of-security-interest-in-controllable.md)
 - [§ 9-327 Priority of Security Interests in Deposit Account](9-327-priority-of-security-interests-in-deposit.md)
 - [§ 9-328 Priority of Security Interests in Investment Property](9-328-priority-of-security-interests-in-investment.md)
 - [§ 9-329 Priority of Security Interests in Letter-of-credit Right](9-329-priority-of-security-interests-in-letter.md)

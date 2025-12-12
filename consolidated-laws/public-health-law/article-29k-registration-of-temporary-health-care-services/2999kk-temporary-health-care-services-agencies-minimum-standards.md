@@ -13,9 +13,9 @@ administrator.
 agreement or contract with each health care entity, which shall include,
 at a minimum:
   (a) The required minimum licensing, training, and continuing education
-requirements for each assigned health care personnel.
+requirements for each individual engaged in a health care position.
   (b) Any requirement for minimum advance notice in order to ensure
-prompt arrival of assigned health care personnel.
+prompt arrival of individuals engaged to provide health care services.
   (c) The maximum rates that can be billed or charged by the temporary
 health care services agency pursuant to section twenty-nine hundred
 ninety-nine-mm of this article and any applicable regulations.
@@ -25,19 +25,21 @@ agency.
 about the performance of temporary health care services agency
 personnel.
   (f) Procedures for notice from health care entities of failure of
-medical personnel to report to assignments.
+individuals engaged to provide health care services to report to an
+agreed upon scheduled shift.
   (g) Procedures for notice of actual or suspected abuse, theft,
 tampering or other diversion of controlled substances by medical
 personnel.
-  (h) The types and qualifications of health care personnel available
-for assignment through the temporary health care services agency.
+  (h) The types and qualifications of individuals engaged to provide
+health care services available through the temporary health care
+services agency.
   3. A temporary health care services agency shall submit to the
 department copies of all contracts between the agency and a health care
-entity to which it assigns or refers health care personnel, and copies
-of all invoices to health care entities personnel. Executed contracts
-must be sent to the department within five business days of their
-effective date and are not subject to disclosure under article six of
-the public officers law.
+entity to which it assigns or otherwise connects individuals engaged to
+provide health care services, and copies of all invoices to health care
+entities personnel. Executed contracts must be sent to the department
+within five business days of their effective date and are not subject to
+disclosure under article six of the public officers law.
   4. The commissioner may promulgate regulations to implement the
 requirements of this section and to establish additional minimum
 standards for the operation of temporary health care services agencies,

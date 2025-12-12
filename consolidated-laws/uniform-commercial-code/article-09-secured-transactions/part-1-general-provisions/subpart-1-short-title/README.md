@@ -10,8 +10,11 @@
 - [§ 9-103 Purchase-money Security Interest; Application of Payments; Burden of Establishing](9-103-purchase-money-security-interest-application.md)
 - [§ 9-104 Control of Deposit Account](9-104-control-of-deposit-account.md)
 - [§ 9-105 Control of Electronic Chattel Paper](9-105-control-of-electronic-chattel-paper.md)
+- [§ 9-105A Control of Electronic Money](9-105a-control-of-electronic-money.md)
 - [§ 9-106 Control of Investment Property](9-106-control-of-investment-property.md)
 - [§ 9-107 Control of Letter-of-credit Right](9-107-control-of-letter-of-credit-right.md)
+- [§ 9-107A Control of Controllable Electronic Record, Controllable Account, or Controllable Payment Intangible](9-107a-control-of-controllable-electronic-record.md)
+- [§ 9-107B No Requirement to Acknowledge or Confirm; No Duties](9-107b-no-requirement-to-acknowledge-or-confirm-no.md)
 - [§ 9-108 Sufficiency of Description](9-108-sufficiency-of-description.md)
 
 <details>

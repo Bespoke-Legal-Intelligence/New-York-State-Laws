@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | RPP |
 | Type | Consolidated law, chapter 50 |
-| Sections | 451 |
-| Last changed | 7 Nov 2025 |
+| Sections | 452 |
+| Last changed | 12 Dec 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Real Property |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [12 Dec 2025](../../changes/2025/2025-12-12.md): 1 added
 - [7 Nov 2025](../../changes/2025/2025-11-07.md): 2 amended
 - [17 Oct 2025](../../changes/2025/2025-10-17.md): 2 amended
 - [26 Sep 2025](../../changes/2025/2025-09-26.md): 7 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [16 May 2025](../../changes/2025/2025-05-16.md): 2 amended, 4 added
 - [14 Mar 2025](../../changes/2025/2025-03-14.md): 2 amended
 - [7 Mar 2025](../../changes/2025/2025-03-07.md): 7 amended
-- [21 Feb 2025](../../changes/2025/2025-02-21.md): 2 amended
 
 ## Contents
 

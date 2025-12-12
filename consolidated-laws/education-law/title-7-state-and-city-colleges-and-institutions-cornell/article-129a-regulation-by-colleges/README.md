@@ -18,6 +18,7 @@
 - [§ 6438-A Opioid overdose prevention in college housing](6438a-opioid-overdose-prevention-in-college-housing.md)
 - [§ 6438-B Access to medication abortion prescription drugs](6438b-access-to-medication-abortion-prescription.md)
 - [§ 6438-C Student-athlete compensation](6438c-student-athlete-compensation.md)
+- [§ 6438-D Notification of alcohol or controlled substance violations](6438d-notification-of-alcohol-or-controlled.md)
 
 <details>
 <summary>Official heading of Article 129-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -41,6 +42,8 @@ Section 6430.   General provisions.
         6438-a. Opioid overdose prevention in college housing.
         6438-b. Access to medication abortion prescription drugs.
         6438-c. Student-athlete compensation.
+        6438-d. Notification of alcohol or controlled substance
+                  violations.
 ```
 
 </details>

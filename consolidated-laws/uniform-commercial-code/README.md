@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | UCC |
 | Type | Consolidated law, chapter 38 |
-| Sections | 627 |
-| Last changed | 3 Jun 2022 |
+| Sections | 650 |
+| Last changed | 12 Dec 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Uniform Commercial Code |
 
@@ -27,10 +27,11 @@ Section 1--101. Short Title
         1--102. Scope of Article
 ```
 
-[Full chapter text (983 lines)](chapter-text.md)
+[Full chapter text (1,033 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [12 Dec 2025](../../changes/2025/2025-12-12.md): 79 amended, 23 added
 - [3 Jun 2022](../../changes/2022/2022-06-03.md): 1 amended
 - [28 Jan 2022](../../changes/2022/2022-01-28.md): 1 amended
 - [3 Dec 2021](../../changes/2021/2021-12-03.md): 1 amended
@@ -40,7 +41,6 @@ Section 1--101. Short Title
 - [20 May 2016](../../changes/2016/2016-05-20.md): 1 amended
 - [27 Feb 2015](../../changes/2015/2015-02-27.md): 1 amended
 - [20 Feb 2015](../../changes/2015/2015-02-20.md): 5 amended
-- [2 Jan 2015](../../changes/2015/2015-01-02.md): 1 amended
 
 ## Contents
 
@@ -55,4 +55,6 @@ Section 1--101. Short Title
 - [Article 8 — Investment Securities](article-08-investment-securities/)
 - [Article 9 — Secured Transactions](article-09-secured-transactions/)
 - [Article 11 — Provisions For Transition From Original Article 9 to Revised Article](article-11-provisions-for-transition-from-original-article/)
+- [Article 12 — Controllable Electronic Records](article-12-controllable-electronic-records/)
+- [Article 12-A — Transitional Provisions For Uniform Commercial Code Amendments](article-12a-transitional-provisions-for-uniform-commercial/)
 - [Article 13 — Effective Date and Repealer](article-13-effective-date-and-repealer/)

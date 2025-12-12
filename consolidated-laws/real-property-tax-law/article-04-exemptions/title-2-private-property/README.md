@@ -71,6 +71,7 @@
 - [§ 460 Clergy](460-clergy.md)
 - [§ 462 Religious corporations; property used for residential purposes](462-religious-corporations-property-used-for-residential-purposes.md)
 - [§ 464 Incorporated associations of volunteer firefighters](464-incorporated-associations-of-volunteer-firefighters.md)
+- [§ 465 Volunteer auxiliary police officers; certain counties](465-volunteer-auxiliary-police-officers-certain-counties.md)
 - [§ 466 Volunteer firefighters and fire companies in villages](466-volunteer-firefighters-and-fire-companies-in-villages.md)
 - [§ 466-A Volunteer firefighters and volunteer ambulance workers; certain counties](466a-volunteer-firefighters-and-volunteer-ambulance-workers-certain-counties.md)
 - [§ 466-A\*2 Volunteer firefighters and volunteer ambulance workers](466a-2-volunteer-firefighters-and-volunteer-ambulance-workers.md)
@@ -295,6 +296,7 @@ Section 420-a.   Nonprofit organizations; mandatory class.
         462.     Religious corporations; property used for residential
                    purposes.
         464.     Incorporated associations of volunteer firefighters.
+        465.     Volunteer auxiliary police officers; certain counties.
         466.     Volunteer firefighters and fire companies in villages.
         466-a.   Volunteer firefighters and volunteer ambulance workers;
                    certain counties.

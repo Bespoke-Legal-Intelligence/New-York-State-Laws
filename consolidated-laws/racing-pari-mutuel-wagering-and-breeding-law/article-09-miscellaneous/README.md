@@ -11,9 +11,9 @@
 - [§ 904 On-track wagers on the Kentucky Derby, the Preakness and the Breeders' Cup](904-on-track-wagers-on-the-kentucky-derby-the-preakness-and-the-breeders-cup.md)
 - [§ 905 Combination of New York wagers with wagers made in other states or foreign countries](905-combination-of-new-york-wagers-with-wagers-made-in-other-states-or-foreign.md)
 - [§ 906 Handicapping tournaments](906-handicapping-tournaments.md)
-- [§ 908 Non-refundable tax credit](908-non-refundable-tax-credit.md) *(repealed)*
 - [§ 910 Reciprocity of licenses](910-reciprocity-of-licenses.md)
 - [§ 911 Advance deposit wagering](911-advance-deposit-wagering.md)
+- [§ 912 Prohibition of online sweepstakes games and revenue from illegal markets](912-prohibition-of-online-sweepstakes-games-and-revenue-from-illegal-markets.md)
 
 <details>
 <summary>Official heading of Article 9, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -31,6 +31,8 @@ Section 901. Reduction in retained commission.
         906. Handicapping tournaments.
         910. Reciprocity of licenses.
         911. Advance deposit wagering.
+        912. Prohibition of online sweepstakes games and revenue from
+               illegal markets.
 ```
 
 </details>

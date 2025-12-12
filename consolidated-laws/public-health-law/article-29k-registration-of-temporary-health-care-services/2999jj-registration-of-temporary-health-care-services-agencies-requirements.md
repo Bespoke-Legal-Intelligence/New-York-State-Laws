@@ -27,10 +27,10 @@ registry.
 necessary to properly evaluate an application for registration.
   3. As a condition of registration, a temporary health care services
 agency:
-  (a) Shall document that each health care personnel provided to or
-contracted with health care entities currently meets the minimum
-licensing, training, and continuing education standards for the position
-in which the health care personnel will be working.
+  (a) Shall document that each individual engaged to provide health care
+services to health care entities currently meets the minimum licensing,
+training, and continuing education standards for the position in which
+the health care personnel will be working.
   (b) Shall comply with all pertinent requirements and qualifications
 for personnel employed in health care entities.
   (c) Shall not restrict in any manner the employment opportunities of

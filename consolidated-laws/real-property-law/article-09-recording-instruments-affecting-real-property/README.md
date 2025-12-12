@@ -66,6 +66,7 @@
 - [§ 325 Recording of conveyances made by treasurer of Connecticut](325-recording-of-conveyances-made-by-treasurer-of-connecticut.md)
 - [§ 326 Revocation to be recorded](326-revocation-to-be-recorded.md)
 - [§ 327 Penalty for using long forms of covenants](327-penalty-for-using-long-forms-of-covenants.md)
+- [§ 327-A Modification of restrictive covenants](327a-modification-of-restrictive-covenants.md)
 - [§ 328 Certain acts not affected](328-certain-acts-not-affected.md)
 - [§ 329 Actions to have certain instruments canceled of record](329-actions-to-have-certain-instruments-canceled-of-record.md)
 - [§ 329-A Lapse of oil and gas interest within Allegany state park](329a-lapse-of-oil-and-gas-interest-within-allegany-state-park.md)
@@ -179,6 +180,7 @@ Section 290.    Definitions; effect of article.
                   Connecticut.
         326.    Revocation to be recorded.
         327.    Penalty for using long forms of covenants.
+        327-a.  Modification of restrictive covenants.
         328.    Certain acts not affected.
         329.    Actions to have certain instruments canceled of record.
         329-a.  Lapse of oil and gas interest within Allegany state
