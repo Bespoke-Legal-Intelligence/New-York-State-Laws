@@ -8,7 +8,7 @@
 | Senate code | PBB |
 | Type | Consolidated law, chapter 44 |
 | Sections | 57 |
-| Last changed | 27 Jun 2025 |
+| Last changed | 19 Dec 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Buildings |
 
@@ -33,6 +33,7 @@ Article 1.   Short title (§ 1)
 
 ## Recent changes
 
+- [19 Dec 2025](../../changes/2025/2025-12-19.md): 1 amended
 - [27 Jun 2025](../../changes/2025/2025-06-27.md): 1 amended
 - [20 Dec 2024](../../changes/2024/2024-12-20.md): 1 amended
 - [26 Nov 2023](../../changes/2023/2023-11-26.md): 1 added
@@ -42,7 +43,6 @@ Article 1.   Short title (§ 1)
 - [13 Aug 2021](../../changes/2021/2021-08-13.md): 3 amended
 - [18 Dec 2020](../../changes/2020/2020-12-18.md): 1 added
 - [10 Apr 2020](../../changes/2020/2020-04-10.md): 1 amended
-- [20 Mar 2020](../../changes/2020/2020-03-20.md): 1 amended
 
 ## Contents
 

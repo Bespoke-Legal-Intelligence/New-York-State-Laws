@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 26-C — Regulation of Animal Shelters](README.md)
 
 ```text
-  * § 433. Violations. 1. Any animal shelter that violates any provision
+  § 433. Violations. 1. Any animal shelter that violates any provision
 of this article may be subject to licensure denial, revocation,
 suspension, or refusal of license renewal in accordance with the
 provisions of subdivision seven of section four hundred twenty-one of
@@ -47,5 +47,4 @@ satisfaction of the commissioner.
   5. Upon identification of one of more violations, the commissioner
 shall provide the animal shelter with a written description of all
 violations issued and the steps necessary to correct such deficiencies.
-  * NB Effective December 15, 2025
 ```

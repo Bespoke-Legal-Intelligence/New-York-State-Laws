@@ -162,6 +162,8 @@
 - [§ 2830 Surgical smoke evacuation](2830-surgical-smoke-evacuation.md)
 - [§ 2830\*2 Regulation of the billing of facility fees](2830-2-regulation-of-the-billing-of-facility-fees.md)
 - [§ 2831 Medically fragile young adults](2831-medically-fragile-young-adults.md)
+- [§ 2832 Violence prevention program](2832-violence-prevention-program.md)
+- [§ 2832-A Emergency department security](2832a-emergency-department-security.md)
 
 <details>
 <summary>Official heading of Article 28, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -394,6 +396,8 @@ Section 2800.      Declaration of policy and statement of purpose.
         2830.      Surgical smoke evacuation.
         2830*2.    Regulation of the billing of facility fees.
         2831.      Medically fragile young adults.
+        2832.      Violence prevention program.
+        2832-a.    Emergency department security.
 ```
 
 </details>

@@ -4,8 +4,8 @@
 [Agriculture and Markets Law](../README.md) › [Article 26-C — Regulation of Animal Shelters](README.md)
 
 ```text
-  * § 428. Animal husbandry. 1. (a) Each animal shelter shall provide
-each animal under its care with fresh, potable water at all times unless
+  § 428. Animal husbandry. 1. (a) Each animal shelter shall provide each
+animal under its care with fresh, potable water at all times unless
 otherwise directed by a duly licensed veterinarian.
   (b) Each animal shelter shall feed each animal under its care a
 complete and nutritionally balanced, species-specific and
@@ -49,5 +49,4 @@ cat boxes, nets, towels, or other equipment appropriate for handling
 fractious animals may be used. Squeeze cages, feral cat boxes, or humane
 traps with dividers shall be used for restraining cats and administering
 tranquilizers prior to handling.
-  * NB Effective December 15, 2025
 ```

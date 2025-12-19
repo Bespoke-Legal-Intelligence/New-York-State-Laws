@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 26 — Animals](README.md)
 
 ```text
-  * § 383. Examination of seized animals or animals taken possession of.
+  § 383. Examination of seized animals or animals taken possession of.
 1. Consistent with the provisions of section one hundred seventeen of
 this chapter and sections three hundred seventy-three and three hundred
 seventy-four of this article, no later than twenty-four hours, or as
@@ -38,5 +38,4 @@ or records or reports that are readily available of animals reported to
 be lost, reasonable efforts shall be made to identify and provide actual
 notice to the owner of the animal by any means reasonably calculated to
 provide actual notice to the owner.
-  * NB Effective December 15, 2025
 ```

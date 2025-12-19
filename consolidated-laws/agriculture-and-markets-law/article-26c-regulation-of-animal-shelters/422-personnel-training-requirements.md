@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 26-C — Regulation of Animal Shelters](README.md)
 
 ```text
-  * § 422. Personnel training requirements. 1. Each animal shelter
+  § 422. Personnel training requirements. 1. Each animal shelter
 licensed pursuant to this article shall provide training to all staff
 members and volunteers having direct animal care responsibilities. Such
 training shall be provided within the first sixty days of employment and
@@ -33,5 +33,4 @@ following:
   (b) the topic or topics of the training session; and
   (c) the provider of the training and a list of training course
 attendees.
-  * NB Effective December 15, 2025
 ```

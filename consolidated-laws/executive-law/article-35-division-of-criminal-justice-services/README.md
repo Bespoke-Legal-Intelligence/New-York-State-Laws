@@ -41,6 +41,7 @@
 - [§ 837-X Cooperation with certain out-of-state investigations](837x-cooperation-with-certain-out-of-state-investigations.md)
 - [§ 837-X\*2 Cooperation with certain out-of-state investigations](837x-2-cooperation-with-certain-out-of-state-investigations.md)
 - [§ 837-Y New York state office of gun violence prevention](837y-new-york-state-office-of-gun-violence-prevention.md)
+- [§ 837-Z Law enforcement peer support program](837z-law-enforcement-peer-support-program.md)
 - [§ 838 Identification of unknown dead and missing persons](838-identification-of-unknown-dead-and-missing-persons.md)
 - [§ 838-A Maintenance of sexual offense evidence kits](838a-maintenance-of-sexual-offense-evidence-kits.md)
 - [§ 838-B Victim's right to notice](838b-victims-right-to-notice.md)
@@ -120,6 +121,7 @@ Section 835.     Definitions.
         837-x.   Cooperation with certain out-of-state investigations.
         837-x*2. Cooperation with certain out-of-state investigations.
         837-y.   New York state office of gun violence prevention.
+        837-z.   Law enforcement peer support program.
         838.     Identification of unknown dead and missing persons.
         838-a.   Maintenance of sexual offense evidence kits.
         838-b.   Victim's right to notice.

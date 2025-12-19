@@ -134,11 +134,10 @@ use of opioids and benzodiazepine or nonbenzodiazepine sedative
 hypnotics.
   8. The commissioner shall establish guidelines for onsite opioid
 overdose response capacity in nightlife establishments.
-  * 9. The commissioner shall, in full accordance with the standards,
+  9. The commissioner shall, in full accordance with the standards,
 powers and authorizations established by this section, coordinate with
 the commissioner of general services to effectuate the duty established
 by subdivision two-a of section one hundred forty of the public
 buildings law to equip public institutions and buildings with opioid
 antagonists.
-  * NB Effective December 17, 2025
 ```

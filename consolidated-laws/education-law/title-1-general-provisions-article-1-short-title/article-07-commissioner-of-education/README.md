@@ -3,6 +3,8 @@
 
 [Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md)
 
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
 ## Contents
 
 - [§ 301 Commissioner of education continued](301-commissioner-of-education-continued.md)
@@ -26,6 +28,7 @@
 - [§ 317 General education development exam](317-general-education-development-exam.md)
 - [§ 318 Distribution of surplus computers](318-distribution-of-surplus-computers.md)
 - [§ 319 Establishment of dual enrollment program policy](319-establishment-of-dual-enrollment-program-policy.md)
+- [§ 319\*2 Center for dyslexia and dysgraphia](319-2-center-for-dyslexia-and-dysgraphia.md)
 
 <details>
 <summary>Official heading of Article 7, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -58,6 +61,7 @@ Section 301.   Commissioner of education continued.
         317.   General education development exam.
         318.   Distribution of surplus computers.
         319.   Establishment of dual enrollment program policy.
+        319*2. Center for dyslexia and dysgraphia.
 ```
 
 </details>

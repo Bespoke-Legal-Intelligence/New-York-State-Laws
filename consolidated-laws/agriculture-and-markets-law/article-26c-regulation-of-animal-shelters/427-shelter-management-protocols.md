@@ -4,10 +4,10 @@
 [Agriculture and Markets Law](../README.md) › [Article 26-C — Regulation of Animal Shelters](README.md)
 
 ```text
-  * § 427. Shelter management protocols. 1. Each animal shelter shall
-have a clear, written, management structure that defines staff
-authority, reporting structure and responsibilities, and is readily
-accessible to all staff and volunteers.
+  § 427. Shelter management protocols. 1. Each animal shelter shall have
+a clear, written, management structure that defines staff authority,
+reporting structure and responsibilities, and is readily accessible to
+all staff and volunteers.
   2. Staffing shall be sufficient to allow adequate time, per animal,
 for cleaning and daily feeding, and to meet the minimum requirements for
 socialization and exercise of animals as prescribed in section four
@@ -23,5 +23,4 @@ declaration of the disaster or emergency has been made.
   4. All animals shall be observed daily by a manager or designee to
 identify each animal's needs for care, housing and service and to ensure
 that each animal has a plan to advance efficiently through the shelter.
-  * NB Effective December 15, 2025
 ```

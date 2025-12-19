@@ -4,7 +4,7 @@
 [Correction Law](../README.md) › [Article 6 — Management of Correctional Facilities](README.md)
 
 ```text
-  * § 138-b. Permitted entry by peer support advocates. Peer support
+  § 138-b. Permitted entry by peer support advocates. Peer support
 advocates who are certified or licensed by a state agency, or a state
 authorized entity including the New York certification board, or a
 nationally recognized accrediting agency or association, and are
@@ -14,5 +14,4 @@ medication assistant treatment, pursuant to section 19.18-c of the
 mental hygiene law, shall not be unreasonably denied entry into
 correctional facilities solely based on such advocates' history of prior
 incarceration.
-  * NB Effective December 15, 2025
 ```

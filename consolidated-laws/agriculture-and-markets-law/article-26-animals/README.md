@@ -47,7 +47,7 @@
 - [§ 378 Unlawful tampering with animal research](378-unlawful-tampering-with-animal-research.md)
 - [§ 379 Prohibition of the selling of fur, hair, skin or flesh of a dog or cat](379-prohibition-of-the-selling-of-fur-hair-skin-or-flesh-of-a-dog-or-cat.md)
 - [§ 380 Use of elephants in entertainment acts](380-use-of-elephants-in-entertainment-acts.md)
-- [§ 380\*2 Examination of seized animals or animals taken possession of](380-2-examination-of-seized-animals-or-animals-taken-possession.md)
+- [§ 380\*2 Examination of seized animals or animals taken possession of](380-2-examination-of-seized-animals-or-animals-taken-possession.md) *(repealed)*
 - [§ 381 Prohibition of the declawing of cats](381-prohibition-of-the-declawing-of-cats.md)
 - [§ 382 Prohibition of the slaughter of race horses and race horse breeding stock](382-prohibition-of-the-slaughter-of-race-horses-and-race-horse-breeding-stock.md)
 - [§ 383 Examination of seized animals or animals taken possession of](383-examination-of-seized-animals-or-animals-taken-possession.md)

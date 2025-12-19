@@ -27,6 +27,7 @@
 - [§ 217 Record of hearings](217-record-of-hearings.md)
 - [§ 218 Special classification of vehicles](218-special-classification-of-vehicles.md)
 - [§ 219 Interstate compacts](219-interstate-compacts.md)
+- [§ 219-A State membership in a multistate voter list maintenance organization](219a-state-membership-in-a-multistate-voter-list.md)
 - [§ 220 Exemptions for safety equipment](220-exemptions-for-safety-equipment.md)
 - [§ 221 Annual compilation of this chapter](221-annual-compilation-of-this-chapter.md)
 - [§ 222 Exemptions for testing, demonstration or experimentation](222-exemptions-for-testing-demonstration.md)
@@ -65,6 +66,8 @@ Section 200.   Department of motor vehicles; commissioner.
         217.   Record of hearings.
         218.   Special classification of vehicles.
         219.   Interstate compacts.
+        219-a. State membership in a multistate voter list maintenance
+                 organization.
         220.   Exemptions for safety equipment.
         221.   Annual compilation of this chapter.
         222.   Exemptions for testing, demonstration or experimentation.

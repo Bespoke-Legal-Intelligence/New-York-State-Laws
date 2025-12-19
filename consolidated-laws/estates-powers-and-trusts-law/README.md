@@ -7,12 +7,12 @@
 |---|---|
 | Senate code | EPT |
 | Type | Consolidated law, chapter 17-B |
-| Sections | 361 |
-| Last changed | 16 Sep 2022 |
+| Sections | 370 |
+| Last changed | 19 Dec 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Estates, Powers & Trusts |
 
-**Short title (from the law itself):** § 6-6.7 Short title This part may be cited as "The New York uniform disposition of community property rights at death act".
+**Short title (from the law itself):** * § 3-6.1 Short title This part may be cited as the New York electronic wills act. * NB Effective June 10, 2027
 
 ## Chapter text as published
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [19 Dec 2025](../../changes/2025/2025-12-19.md): 2 amended, 9 added
 - [16 Sep 2022](../../changes/2022/2022-09-16.md): 2 amended
 - [19 Feb 2021](../../changes/2021/2021-02-19.md): 2 amended
 - [17 Apr 2020](../../changes/2020/2020-04-17.md): 2 amended
@@ -40,7 +41,6 @@ Assembly, do enact as follows:
 - [11 Oct 2019](../../changes/2019/2019-10-11.md): 1 amended
 - [31 Aug 2018](../../changes/2018/2018-08-31.md): 2 amended
 - [5 Jan 2018](../../changes/2018/2018-01-05.md): 1 amended
-- [15 Sep 2017](../../changes/2017/2017-09-15.md): 1 amended
 
 ## Contents
 

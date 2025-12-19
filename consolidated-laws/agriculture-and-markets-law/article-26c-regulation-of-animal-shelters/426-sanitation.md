@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 26-C — Regulation of Animal Shelters](README.md)
 
 ```text
-  * § 426. Sanitation. Any animal shelter licensed pursuant to this
+  § 426. Sanitation. Any animal shelter licensed pursuant to this
 article shall establish and maintain sanitation protocols that include
 the following:
   1. use of one or more agents that have cleaning and disinfectant
@@ -40,5 +40,4 @@ cleaning and intensive animal-handling activities within an animal
 shelter; and
   11. proper hygiene of shelter staff, volunteers, and visitors,
 including signage, supervision, and hand sanitation.
-  * NB Effective December 15, 2025
 ```

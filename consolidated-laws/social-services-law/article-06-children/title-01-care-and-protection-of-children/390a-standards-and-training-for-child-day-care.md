@@ -4,17 +4,19 @@
 [Social Services Law](../../README.md) › [Article 6 — Children](../README.md) › [Title 1 — Care and Protection of Children](README.md)
 
 ```text
-  § 390-a. Standards and training for child day care. 1. All office of
+  § 390-a. Standards and training for child day care.  1. All office of
 children and family services and municipal staff employed to accept
 registrations, issue licenses or conduct inspections of child day care
 homes, programs or facilities, subject to the amounts appropriated
-therefor, shall receive training in at least the following: regulations
+therefor, shall receive training in at least the following:  regulations
 promulgated by the office of children and family services pursuant to
 section three hundred ninety of this title; child abuse prevention and
 identification; safety and security procedures in child day care
-settings; the principles of childhood development, and the laws,
-regulations and procedures governing the protection of children from
-abuse or maltreatment.
+settings, which shall include recognizing the presence of controlled
+substances as defined under section thirty-three hundred six of the
+public health law; the principles of childhood development, and the
+laws, regulations and procedures governing the protection of children
+from abuse or maltreatment.
   2. No license or registration shall be issued to a family day care
 home, group family day care home, school age child care program or child
 day care center and no such registration or license shall be renewed

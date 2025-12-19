@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | RPP |
 | Type | Consolidated law, chapter 50 |
-| Sections | 452 |
-| Last changed | 12 Dec 2025 |
+| Sections | 463 |
+| Last changed | 19 Dec 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Real Property |
 
@@ -29,10 +29,11 @@ Passed, three-fifths being present.
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (43 lines)](chapter-text.md)
+[Full chapter text (45 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [19 Dec 2025](../../changes/2025/2025-12-19.md): 1 amended, 11 added
 - [12 Dec 2025](../../changes/2025/2025-12-12.md): 1 added
 - [7 Nov 2025](../../changes/2025/2025-11-07.md): 2 amended
 - [17 Oct 2025](../../changes/2025/2025-10-17.md): 2 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [4 Jul 2025](../../changes/2025/2025-07-04.md): 1 amended
 - [16 May 2025](../../changes/2025/2025-05-16.md): 2 amended, 4 added
 - [14 Mar 2025](../../changes/2025/2025-03-14.md): 2 amended
-- [7 Mar 2025](../../changes/2025/2025-03-07.md): 7 amended
 
 ## Contents
 
@@ -60,6 +60,7 @@ Assembly, do enact as follows:
 - [Article 9-B — Condominium Act](article-09b-condominium-act/)
 - [Article 9-C — Solar Rights Act](article-09c-solar-rights-act/)
 - [Article 9-D — Electric Vehicle Rights Act](article-09d-electric-vehicle-rights-act/)
+- [Article 9-E — Conveyance and Encumbrance of Manufactured Homes As Real Property](article-09e-conveyance-and-encumbrance-of-manufactured-homes/)
 - [Article 10 — Discharge of Ancient Mortgages](article-10-discharge-of-ancient-mortgages/)
 - [Article 12 — Registering Title to Real Property](article-12-registering-title-to-real-property/)
 - [Article 12-A — Real Estate Brokers and Real Estate Salespersons](article-12a-real-estate-brokers-and-real-estate-salespersons/)

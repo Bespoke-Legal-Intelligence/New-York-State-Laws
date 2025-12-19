@@ -16,7 +16,6 @@
 - [§ 13.09 Solicitation restricted](13.09-solicitation-restricted.md)
 - [§ 13.10 Littering and dumping on park lands prohibited](13.10-littering-and-dumping-on-park-lands.md)
 - [§ 13.11 Real property abutting parks or parkways](13.11-real-property-abutting-parks.md)
-- [§ 13.12 Littering on park lands prohibited](13.12-littering-on-park-lands-prohibited.md) *(repealed)*
 - [§ 13.13 Regulation of boating and water sports](13.13-regulation-of-boating-and-water-sports.md)
 - [§ 13.14 Closure of lands owned, held or administered by the office](13.14-closure-of-lands-owned-held.md)
 - [§ 13.15 Fees and deposits; refunds](13.15-fees-and-deposits-refunds.md)

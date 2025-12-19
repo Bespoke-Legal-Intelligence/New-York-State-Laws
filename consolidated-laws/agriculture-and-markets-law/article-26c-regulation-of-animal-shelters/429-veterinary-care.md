@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 26-C — Regulation of Animal Shelters](README.md)
 
 ```text
-  * § 429. Veterinary care. 1. Prescription medications and treatments
+  § 429. Veterinary care. 1. Prescription medications and treatments
 shall be administered by each animal shelter under the advisement of or
 in accordance with written protocols provided by a duly licensed
 veterinarian.
@@ -101,5 +101,4 @@ recently spayed or neutered animals.
   (c) Written protocols required by section four hundred twenty-three of
 this chapter, shall be followed to handle related post-operative
 emergencies.
-  * NB Effective December 15, 2025
 ```

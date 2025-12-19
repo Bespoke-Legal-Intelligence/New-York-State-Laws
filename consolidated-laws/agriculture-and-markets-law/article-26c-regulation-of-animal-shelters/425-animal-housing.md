@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 26-C — Regulation of Animal Shelters](README.md)
 
 ```text
-  * § 425. Animal housing. 1. Each licensed animal shelter shall provide
+  § 425. Animal housing. 1. Each licensed animal shelter shall provide
 each animal in its custody or possession with a suitable primary
 enclosure that meets the requirements prescribed in this section.
   2. Unsupervised tethering for periods exceeding thirty minutes is
@@ -125,5 +125,4 @@ animal's size;
   (b) foster care in a private home, office, or other suitable off-site
 location; or
   (c) room housing.
-  * NB Effective December 15, 2025
 ```

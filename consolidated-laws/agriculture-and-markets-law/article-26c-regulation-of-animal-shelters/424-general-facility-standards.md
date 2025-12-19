@@ -4,12 +4,12 @@
 [Agriculture and Markets Law](../README.md) › [Article 26-C — Regulation of Animal Shelters](README.md)
 
 ```text
-  * § 424. General facility standards. 1. All facilities and all
-interior components of each animal shelter shall be constructed of
-materials that ensure a sound physical structure, and shall be
-maintained so as to protect animals from injury, ensure containment of
-animals within the property, and restrict unauthorized entry of other
-animals and humans to the building.
+  § 424. General facility standards. 1. All facilities and all interior
+components of each animal shelter shall be constructed of materials that
+ensure a sound physical structure, and shall be maintained so as to
+protect animals from injury, ensure containment of animals within the
+property, and restrict unauthorized entry of other animals and humans to
+the building.
   2. Indoor building surfaces in direct contact with animals shall be
 constructed of materials that are non-porous, water resistant, non-toxic
 and able to withstand regular cleaning and disinfection. Adequate
@@ -62,5 +62,4 @@ contamination, and infestation once opened, if packaging has been
 damaged, or as otherwise required by such plan.
   13. The use of unattended drop boxes for intake of animals is
 prohibited.
-  * NB Effective December 15, 2025
 ```

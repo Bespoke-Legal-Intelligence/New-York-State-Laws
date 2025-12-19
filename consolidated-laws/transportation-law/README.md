@@ -8,7 +8,7 @@
 | Senate code | TRA |
 | Type | Consolidated law, chapter 61-A |
 | Sections | 326 |
-| Last changed | 25 Apr 2025 |
+| Last changed | 19 Dec 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Transportation |
 
@@ -33,6 +33,7 @@ Article 1.   Short title; definitions (§§ 1-2).
 
 ## Recent changes
 
+- [19 Dec 2025](../../changes/2025/2025-12-19.md): 1 amended
 - [25 Apr 2025](../../changes/2025/2025-04-25.md): 2 amended
 - [14 Mar 2025](../../changes/2025/2025-03-14.md): 1 amended
 - [29 Nov 2024](../../changes/2024/2024-11-29.md): 2 amended
@@ -42,7 +43,6 @@ Article 1.   Short title; definitions (§§ 1-2).
 - [20 Jan 2023](../../changes/2023/2023-01-20.md): 1 amended
 - [23 Dec 2022](../../changes/2022/2022-12-23.md): 1 added
 - [16 Dec 2022](../../changes/2022/2022-12-16.md): 1 amended
-- [23 Sep 2022](../../changes/2022/2022-09-23.md): 1 amended
 
 ## Contents
 

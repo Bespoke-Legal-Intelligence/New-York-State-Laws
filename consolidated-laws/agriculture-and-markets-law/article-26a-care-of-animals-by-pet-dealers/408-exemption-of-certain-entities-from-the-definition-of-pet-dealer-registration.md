@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 408", "kind": "section", "law_id": "AGM", "location_id": "408", "path": "ARTICLE 26-A › SECTION 408", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/408.md", "title": "Exemption of certain entities from the definition of pet dealer; registration required"} -->
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 408", "kind": "section", "law_id": "AGM", "location_id": "408", "path": "ARTICLE 26-A › SECTION 408", "repealed": true, "repealed_date": "2025-12-19", "source": "nys-laws:AGM/408.md", "title": "Exemption of certain entities from the definition of pet dealer; registration required"} -->
 # Agriculture and Markets Law § 408 — Exemption of certain entities from the definition of pet dealer; registration required
 
 [Agriculture and Markets Law](../README.md) › [Article 26-A — Care of Animals By Pet Dealers](README.md)
+
+**Repealed** (19 Dec 2025). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 408. Exemption of certain entities from the definition of pet

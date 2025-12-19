@@ -14,6 +14,7 @@
 - [§ 3.11 Designation of deputies or agents](3.11-designation-of-deputies-or-agents.md)
 - [§ 3.13 Subpoenas](3.13-subpoenas.md)
 - [§ 3.15 Statewide park and recreation plan](3.15-statewide-park-and-recreation-plan.md)
+- [§ 3.16 Operational safety plans](3.16-operational-safety-plans.md)
 - [§ 3.17 Acquisition and disposition of property](3.17-acquisition-and-disposition-of-property.md)
 - [§ 3.19 Acquisition of property by eminent domain](3.19-acquisition-of-property-by-eminent.md)
 - [§ 3.21 Limitation on use of Connetquot river state park water resources](3.21-limitation-on-use-of-connetquot-river.md)
@@ -36,6 +37,7 @@ Section 3.01 Declaration of policy.
         3.11 Designation of deputies or agents.
         3.13 Subpoenas.
         3.15 Statewide park and recreation plan.
+        3.16 Operational safety plans.
         3.17 Acquisition and disposition of property.
         3.19 Acquisition of property by eminent domain.
         3.21 Limitation on use of Connetquot river state park water

@@ -19,6 +19,7 @@
 - [§ 804-B Education regarding child development](804b-education-regarding-child-development.md)
 - [§ 804-C Cardiopulmonary resuscitation instruction](804c-cardiopulmonary-resuscitation-instruction.md)
 - [§ 804-D Automated external defibrillator instruction](804d-automated-external-defibrillator-instruction.md)
+- [§ 805 Asian American, Native Hawaiians and Pacific Islander history advisory committee; appointment; powers and duties](805-asian-american-native-hawaiians-and-pacific.md)
 - [§ 806 Courses of instruction in highway safety and traffic regulation; school safety patrols](806-courses-of-instruction-in-highway-safety.md)
 - [§ 806-A Driver education](806a-driver-education.md)
 - [§ 807 Fire and emergency drills](807-fire-and-emergency-drills.md)
@@ -64,6 +65,9 @@ Section 801.   Courses of instruction in patriotism and citizenship and
         804-b. Education regarding child development.
         804-c. Cardiopulmonary resuscitation instruction.
         804-d. Automated external defibrillator instruction.
+        805.   Asian American, Native Hawaiians and Pacific Islander
+                 history advisory committee; appointment; powers and
+                 duties.
         806.   Courses of instruction in highway safety and traffic
                  regulation; school safety patrols.
         806-a. Driver education.

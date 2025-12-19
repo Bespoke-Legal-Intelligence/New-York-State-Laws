@@ -4,8 +4,8 @@
 [Agriculture and Markets Law](../README.md) › [Article 26-C — Regulation of Animal Shelters](README.md)
 
 ```text
-  * § 420. Definitions. For purposes of this article, the following
-terms shall have the following meanings:
+  § 420. Definitions. For purposes of this article, the following terms
+shall have the following meanings:
   1. "Adoption" means the transfer of legal ownership to and possession
 by any natural person eighteen years of age or older, for the limited
 purpose of harboring a pet, of any dog or cat, owned by the animal
@@ -129,5 +129,4 @@ environment include canine and feline parvoviruses, feline calicivirus,
 and canine adenovirus-2.
   37. "Zoonotic" shall mean any disease that may be transmitted between
 humans and animals.
-  * NB Effective December 15, 2025
 ```

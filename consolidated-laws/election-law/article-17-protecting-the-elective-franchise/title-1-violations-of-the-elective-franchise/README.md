@@ -24,7 +24,6 @@
 - [§ 17-132 Illegal voting](17-132-illegal-voting.md)
 - [§ 17-134 Unlawful use of pasters](17-134-unlawful-use-of-pasters.md)
 - [§ 17-136 False returns; unlawful acts respecting returns](17-136-false-returns-unlawful-acts-respecting-returns.md)
-- [§ 17-140 Furnishing money or entertainment to induce attendance at polls](17-140-furnishing-money-or-entertainment-to-induce.md) *(repealed)*
 - [§ 17-142 Giving consideration for franchise](17-142-giving-consideration-for-franchise.md)
 - [§ 17-144 Receiving consideration for franchise](17-144-receiving-consideration-for-franchise.md)
 - [§ 17-146 Offender a competent witness; witnesses' immunity](17-146-offender-a-competent-witness-witnesses-immunity.md)

@@ -1,0 +1,45 @@
+﻿<!-- nyslaw {"citation": "Real Property Law § 344-B", "kind": "section", "law_id": "RPP", "location_id": "344-B", "path": "ARTICLE 9-E › SECTION 344-B", "repealed": false, "repealed_date": null, "source": "nys-laws:RPP/344-B.md", "title": "Conversion procedure"} -->
+# Real Property Law § 344-B — Conversion procedure
+
+[Real Property Law](../README.md) › [Article 9-E — Conveyance and Encumbrance of Manufactured Homes As Real Property](README.md)
+
+```text
+  * § 344-b. Conversion procedure. (a) A manufactured home shall be
+deemed to be real property and shall be governed by the laws applicable
+thereto when the following conditions are satisfied:
+  (i) The manufactured home shall be affixed to a permanent foundation;
+  (ii) The ownership interests in the manufactured home and the real
+property to which the manufactured home is or shall be affixed shall be
+identical, provided, however, that the owner of the manufactured home,
+if not the owner of the real property, is in possession of the real
+property under the terms of a lease in recordable form, and the owner
+has the written consent of the lessor of the real property; and
+  (iii) Each person having an ownership interest in such home shall
+execute and record with the recording officer of the county or counties
+in which the real property is located an affidavit of affixation as
+provided in section three hundred forty-four-c of this article, and
+satisfy the other applicable requirements of this article.
+  (b) Upon receipt of the recorded original affidavit of affixation
+pursuant to section three hundred forty-four-e of this article, any
+person designated therein for filing with the commissioner of motor
+vehicles shall file the recorded original affidavit of affixation with
+the commissioner.
+  (i) In the case where the home is covered by a manufacturer's
+certificate of origin, the recorded original affidavit of affixation and
+the original manufacturer's certificate of origin shall be filed with
+the commissioner pursuant to section twenty-one hundred seventeen-a of
+the vehicle and traffic law.
+  (ii) In the case the home is covered by a certificate of title, the
+recorded original affidavit of affixation and the original certificate
+of title shall be filed with the commissioner in accordance with section
+twenty-one hundred seventeen-b of the vehicle and traffic law.
+  (iii) In the case the home is not covered by a manufacturer's
+certificate of origin or a certificate of title, or where a manufactured
+home that is covered by a manufacturer's certificate of origin or
+certificate of title but which the owner or owners, after diligent
+search and inquiry, are unable to produce, the recorded original
+affidavit of affixation shall be filed with the commissioner in
+accordance with section twenty-one hundred seventeen-c of the vehicle
+and traffic law.
+  * NB Effective December 12, 2026
+```

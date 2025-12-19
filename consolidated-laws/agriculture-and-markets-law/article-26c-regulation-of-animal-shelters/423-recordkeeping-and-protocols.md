@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 26-C — Regulation of Animal Shelters](README.md)
 
 ```text
-  * § 423. Recordkeeping and protocols. 1. Each animal shelter shall
+  § 423. Recordkeeping and protocols. 1. Each animal shelter shall
 examine an animal upon intake for unique identifiers and any other form
 of identification that may allow for reunification with an owner, as
 prescribed in sections one hundred seventeen and three hundred
@@ -86,5 +86,4 @@ in this article:
 section shall be reviewed annually and updated as necessary by
 designated administrative and managerial staff. Such protocols shall be
 made readily accessible to appropriate staff and volunteers.
-  * NB Effective December 15, 2025
 ```

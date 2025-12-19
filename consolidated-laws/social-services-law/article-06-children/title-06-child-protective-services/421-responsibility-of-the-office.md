@@ -54,7 +54,7 @@ maltreated child when such child is an individual with an intellectual
 or developmental disability as defined in section 1.03 of the mental
 hygiene law. The office may utilize existing programs or materials
 established pursuant to section twenty-d of this chapter.
-  3. promulgate regulations setting forth requirements for the
+  3. * promulgate regulations setting forth requirements for the
 performance by local social services departments of the duties and
 powers imposed and conferred upon them by the provisions of this title
 and of article ten of the family court act. Such regulations shall
@@ -62,6 +62,16 @@ establish uniform requirements for the investigation of reports of child
 abuse or maltreatment under this title. The department shall also issue
 guidelines which shall set forth the circumstances or conditions under
 which:
+  * NB Effective until March 12, 2026
+  * promulgate regulations setting forth requirements for the
+performance by local social services departments of the duties and
+powers imposed and conferred upon them by the provisions of this title
+and of article ten of the family court act. Such regulations shall
+establish uniform requirements for the investigation of reports of child
+abuse or maltreatment under this title. The office of children and
+family services shall also issue guidelines which shall set forth the
+circumstances or conditions under which:
+  * NB Effective March 12, 2026
   (a) personal contact shall be made with the child named in the report
 and any other children in the same household, including interviewing
 such child or children absent the subject of the report whenever
@@ -72,8 +82,8 @@ for;
   (c) medical examination of a child who may be a victim of abuse or
 maltreatment and documentation of findings of such examination, shall be
 required.
-  The department shall promulgate regulations to establish standards for
-intervention, criteria for case closings, criteria for determining
+  * The department shall promulgate regulations to establish standards
+for intervention, criteria for case closings, criteria for determining
 whether or not to initiate a child protective proceeding, and criteria
 for the formulation of treatment plans and for the delivery of child
 protective services including specification of the services to be
@@ -90,6 +100,30 @@ of the family court act. Such regulations shall also require local child
 protective services to comply with notification requirements of the
 family court act in connection with such monitoring and supervisory
 responsibilities.
+  * NB Effective until March 12, 2026
+  *The office of children and family services shall promulgate
+regulations to establish standards for the development of a training
+curriculum for child protective services workers which teaches
+appropriate investigatory techniques for reports of sexual abuse and
+mandates on-going training for child protective services workers,
+standards for intervention, criteria for case closings, criteria for
+determining whether or not to initiate a child protective proceeding,
+and criteria for the formulation of treatment plans and for the delivery
+of child protective services including specification of the services to
+be classified as child protective services, which shall also apply to
+any society for the prevention of cruelty to children which has entered
+into a currently valid contract with a local department of social
+services to investigate child abuse or maltreatment reports. The office
+of children and family services shall promulgate regulations
+establishing minimum standards and practices for the delivery of child
+protective services in connection with monitoring and supervising
+respondents and their families as ordered by a family court pursuant to
+section ten hundred thirty-nine and paragraphs (i), (iii), (iv) and (v)
+of subdivision (a) of section ten hundred fifty-two of the family court
+act. Such regulations shall also require local child protective services
+to comply with notification requirements of the family court act in
+connection with such monitoring and supervisory responsibilities.
+  * NB Effective March 12, 2026
   4. (a) after consultation with the local child protective services,
 promulgate regulations relating to staff qualifications for
 non-supervisory child protective services workers, prescribing any
@@ -114,7 +148,7 @@ training program for employees of the department and of each local
 department of social services employed in the provision and supervision
 of child protective services or in other activities required in
 accordance with the provisions of this title.
-  (b) promulgate regulations setting forth training requirements which
+  * (b) promulgate regulations setting forth training requirements which
 shall specify, among other things, that all persons hired by a child
 protective service on or after April first, nineteen hundred eighty-six
 shall have satisfactorily completed a course approved by the department
@@ -140,6 +174,34 @@ of the protocols for identification and investigation of child abuse and
 maltreatment, any developments in legal, treatment and prevention issues
 in child protection, and review and analysis of field experiences of
 child protective services workers.
+  * NB Effective until March 12, 2026
+  * (b) promulgate regulations setting forth training requirements which
+shall specify, among other things, that all persons hired by a child
+protective service on or after April first, nineteen hundred eighty-six
+shall have satisfactorily completed a course approved by the office of
+children and family services within the first three months of
+employment, in the fundamentals of child protection, provided, however,
+that on or after April first, two thousand twenty-five, such course may
+be satisfactorily completed through distance learning methods which
+evince that all participants are in attendance for the duration of the
+course and are able to ask questions of the instructor. Each county
+shall be authorized to adopt a local law, ordinance or resolution to
+provide for a local department of social services to fulfill the
+training requirement established by this paragraph through a distance
+learning method, excluding the annual in service training requirement.
+Such course shall include at least basic training in the principles and
+techniques of investigations, including relationships with other
+investigative bodies, legal issues in child protection, and methods of
+remediation, diagnosis, treatment and prevention. Such regulations shall
+also specify that all persons employed by a child protective service on
+or after December first, two thousand six shall satisfactorily complete
+six hours of annual in service training, beginning in their second year
+of employment. Such annual in service training shall include, but is not
+limited to, review of the protocols for identification and investigation
+of child abuse and maltreatment, any developments in legal, treatment
+and prevention issues in child protection, and review and analysis of
+field experiences of child protective services workers.
+  * NB Effective March 12, 2026
   (c) require all persons assigned to be a supervisor by a child
 protective service on or after April first, nineteen hundred eighty-six,
 shall have satisfactorily completed, within the first three months of
@@ -169,10 +231,16 @@ make local procedural manuals and service directories available to
 employees of a child protective service, service providers and other
 professionals involved in the prevention of child abuse and
 maltreatment.
-  7. take all reasonable and necessary actions to assure that the local
-departments of social services are kept apprised on a current basis of
-the laws, regulations and policies of the department concerning child
-abuse and maltreatment.
+  * 7. take all reasonable and necessary actions to assure that the
+local departments of social services are kept apprised on a current
+basis of the laws, regulations and policies of the department concerning
+child abuse and maltreatment.
+  * NB Effective until March 12, 2026
+  * 7. take all reasonable and necessary actions to assure that the
+local departments of social services are kept apprised on a current
+basis of the laws, regulations and policies of the office of children
+and family services concerning child abuse and maltreatment.
+  * NB Effective March 12, 2026
   8. monitor and supervise the performance of the local departments of
 social services.
 ```

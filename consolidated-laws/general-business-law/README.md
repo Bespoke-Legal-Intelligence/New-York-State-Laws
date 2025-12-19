@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | GBS |
 | Type | Consolidated law, chapter 20 |
-| Sections | 1,391 |
-| Last changed | 12 Dec 2025 |
+| Sections | 1,397 |
+| Last changed | 19 Dec 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Business |
 
@@ -29,10 +29,11 @@ AN ACT relating to general business, constituting chapter twenty of the
   Assembly, do enact as follows:
 ```
 
-[Full chapter text (198 lines)](chapter-text.md)
+[Full chapter text (200 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [19 Dec 2025](../../changes/2025/2025-12-19.md): 3 amended, 6 added
 - [12 Dec 2025](../../changes/2025/2025-12-12.md): 1 amended, 1 added
 - [28 Nov 2025](../../changes/2025/2025-11-28.md): 3 amended, 2 added
 - [14 Nov 2025](../../changes/2025/2025-11-14.md): 1 amended
@@ -42,7 +43,6 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [8 Aug 2025](../../changes/2025/2025-08-08.md): 2 amended
 - [1 Aug 2025](../../changes/2025/2025-08-01.md): 7 amended
 - [11 Jul 2025](../../changes/2025/2025-07-11.md): 2 amended
-- [4 Jul 2025](../../changes/2025/2025-07-04.md): 1 amended
 
 ## Contents
 
@@ -160,6 +160,7 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 36-B — Warranties On Sales of New Homes](article-36b-warranties-on-sales-of-new-homes/)
 - [Article 36-C — Down Payments In the Purchase and Sale of Residential Real Estate](article-36c-down-payments-in-the-purchase-and-sale/)
 - [Article 36-D — Home Heating System Conversion](article-36d-home-heating-system-conversion/)
+- [Article 36-E — Prohibition of Unfair Real Estate Service Agreements](article-36e-prohibition-of-unfair-real-estate-service/)
 - [Article 37 — Deposits On Construction of New Homes](article-37-deposits-on-construction-of-new-homes/)
 - [Article 37-A — Registration of Hearing Aid Dispensers](article-37a-registration-of-hearing-aid-dispensers/)
 - [Article 38 — Vessel Dealer Agreements](article-38-vessel-dealer-agreements/)

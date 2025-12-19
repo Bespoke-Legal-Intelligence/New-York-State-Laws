@@ -4,8 +4,8 @@
 [Agriculture and Markets Law](../README.md) › [Article 26-C — Regulation of Animal Shelters](README.md)
 
 ```text
-  * § 430. Behavior. 1. Each animal shelter shall take measures, by way
-of written questionnaire, personal interview or other means deemed
+  § 430. Behavior. 1. Each animal shelter shall take measures, by way of
+written questionnaire, personal interview or other means deemed
 necessary by the commissioner, to collect a behavioral history for each
 animal in its custody or possession at the time of intake.
   2. Routine care and handling of any animal in the custody or
@@ -69,5 +69,4 @@ results of any systematic behavioral evaluations performed.
   9. Any animal in the custody or possession of a licensed animal
 shelter that is observed to be experiencing mental suffering or
 behavioral deterioration shall be assessed and appropriately treated.
-  * NB Effective December 15, 2025
 ```

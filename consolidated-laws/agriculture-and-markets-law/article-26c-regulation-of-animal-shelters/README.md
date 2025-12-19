@@ -25,7 +25,7 @@
 <summary>Official heading of Article 26-C, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 26-C
+                              ARTICLE 26-C
                       REGULATION OF ANIMAL SHELTERS
 Section 420. Definitions.
         421. License required and inspection of facilities.
@@ -42,7 +42,6 @@ Section 420. Definitions.
         432. Foster care provider requirements.
         433. Violations.
         434. Waiving of requirements authorized.
-  * NB Effective December 15, 2025
 ```
 
 </details>

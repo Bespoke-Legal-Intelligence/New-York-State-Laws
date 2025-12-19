@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 7 — Commissioner of Education](README.md)
 
 ```text
-  § 319. Establishment of dual enrollment program policy. 1. For
+  * § 319. Establishment of dual enrollment program policy. 1. For
 purposes of this section:
   (a) "Dual enrollment program" means any program that is a partnership
 between at least one school and at least one institution of higher
@@ -45,4 +45,5 @@ twenty-six.
 commissioner, the chancellor of the state university of New York, the
 chancellor of the city university of New York, and the governor shall
 jointly establish data points to be submitted pursuant to this section.
+  * NB There are 2 § 319's
 ```

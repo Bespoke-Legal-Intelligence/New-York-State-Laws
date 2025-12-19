@@ -9,7 +9,6 @@
 - [§ 791 Terminated call center contract](791-terminated-call-center-contract.md)
 - [§ 792 Entering into a call center contract](792-entering-into-a-call-center-contract.md)
 - [§ 793 No conflict with collective bargaining agreements](793-no-conflict-with-collective-bargaining-agreements.md)
-- [§ 794 No conflict with collective bargaining agreements](794-no-conflict-with-collective-bargaining-agreements.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 21-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

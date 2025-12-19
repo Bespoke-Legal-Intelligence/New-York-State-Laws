@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 219-A", "kind": "section", "law_id": "VAT", "location_id": "219-A", "path": "TITLE 2 › ARTICLE 2 › SECTION 219-A", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/219-A.md", "title": "State membership in a multistate voter list maintenance organization"} -->
+# Vehicle and Traffic Law § 219-A — State membership in a multistate voter list maintenance organization
+
+[Vehicle and Traffic Law](../../README.md) › [Title 2 — Department of Motor Vehicles; Commissioner](../README.md) › [Article 2 — Department of Motor Vehicles; Commissioner](README.md)
+
+```text
+  § 219-a. State membership in a multistate voter list maintenance
+organization. 1. Notwithstanding any other provision of law to the
+contrary, the commissioner is authorized to provide to the state's
+representative to a multistate voter list maintenance organization,
+designated under section 5-1001 of the election law, the following
+information: (a) all name fields; (b) all address fields; (c) DMV ID
+number; (d) last four digits of the DMV ID holder's social security
+number; (e) date of birth; (f) current record status; (g) phone number;
+and (h) email address, provided that the conditions and terms of
+membership are consistent with the provisions of this chapter and title
+ten of article five of the election law pertaining to such membership or
+reciprocal recognition of vehicle registrations.
+  2. The commissioner shall not knowingly provide any information
+pursuant to this section of persons who are not citizens.
+```
