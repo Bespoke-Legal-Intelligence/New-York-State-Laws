@@ -7,8 +7,6 @@
 
 - [§ 401 Definitions](401-definitions.md)
 - [§ 402 Disclosure of automated employment decision-making tools](402-disclosure-of-automated-employment-decision-making-tools.md)
-- [§ 403 Impact assessments](403-impact-assessments.md) *(repealed)*
-- [§ 404 Submission to the governor and legislature](404-submission-to-the-governor-and-legislature.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 4, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

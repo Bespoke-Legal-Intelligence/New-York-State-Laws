@@ -315,4 +315,46 @@ include:
 maintenance organization certified pursuant to this article; and
   (ii) a third-party administrator, affiliated with an insurer or health
 maintenance organization, who administers a health benefit plan.
+  * 14. (a) A health care plan may pay a claim for reimbursement made by
+a provider using a credit card, virtual credit card, or electronic funds
+transfer payment method that imposes on the provider a specifically
+identified fee or similar dedicated charge to process the payment if in
+advance of using such reimbursement method:
+  (i) The health care plan notifies the provider of the potential fees
+or other charges associated with the use of the credit card, virtual
+credit card, or electronic funds transfer payment;
+  (ii) The health care plan offers the provider an alternative payment
+method that does not impose fees or similar charges on the provider; and
+  (iii) The provider or a designee of the provider elects to accept
+payment of the claim using the credit card, virtual credit card, or
+electronic funds transfer payment method.
+  (b) A decision pursuant to paragraph (a) of this subdivision shall
+remain in effect until the provider notifies the health care plan, in
+writing, of a change to the designated payment type.
+  (c) If a health care plan contracts with a vendor to process payments
+of providers' claims, the health care plan shall require the vendor to
+comply with the provisions of paragraph (a) of this subdivision.
+  (d) No policy or contract issued, renewed, modified, altered or
+amended after the effective date of this section shall contain
+provisions allowing for waiver of the notice requirements contained in
+this subdivision.
+  (e) For any contract that is in effect on or before the effective date
+of this subdivision or that is entered into, amended or renewed on or
+after the effective date of this subdivision, a health care plan that
+initiates a payment to a provider using, or changes the payment method
+to, a health care electronic funds transfers and remittance advice
+transaction shall not charge a fee solely to transmit the payment to the
+provider unless the provider elects to accept payment in accordance with
+subparagraph (ii) of paragraph (a) of this subdivision.
+  (f) For purposes of this section, the following definitions shall
+apply:
+  (i) "Provider" shall mean a health care professional or a group of
+health care professionals licensed pursuant to title eight of the
+education law that has a participating provider contract with a health
+care plan to provide health care services to an enrollee.
+  (ii) "Virtual credit card" shall mean a single-use series of numbers
+linked to a fixed dollar amount and provided by a health care plan to a
+provider for the purpose of paying a claim for health care services
+performed by the provider.
+  * NB Effective June 17, 2026
 ```

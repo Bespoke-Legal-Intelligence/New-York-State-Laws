@@ -8,7 +8,7 @@
 | Senate code | ENV |
 | Type | Consolidated law, chapter 43-B |
 | Sections | 1,849 |
-| Last changed | 19 Dec 2025 |
+| Last changed | 26 Dec 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Environmental Conservation |
 
@@ -33,6 +33,7 @@ An ACT to repeal and reenact chapter forty-three-B of the consolidated
 
 ## Recent changes
 
+- [26 Dec 2025](../../changes/2025/2025-12-26.md): 7 amended
 - [19 Dec 2025](../../changes/2025/2025-12-19.md): 1 added
 - [5 Dec 2025](../../changes/2025/2025-12-05.md): 3 amended
 - [14 Nov 2025](../../changes/2025/2025-11-14.md): 1 amended
@@ -42,7 +43,6 @@ An ACT to repeal and reenact chapter forty-three-B of the consolidated
 - [15 Aug 2025](../../changes/2025/2025-08-15.md): 7 amended
 - [8 Aug 2025](../../changes/2025/2025-08-08.md): 1 amended
 - [1 Aug 2025](../../changes/2025/2025-08-01.md): 9 amended, 1 added
-- [30 May 2025](../../changes/2025/2025-05-30.md): 1 amended
 
 ## Contents
 
@@ -64,7 +64,7 @@ An ACT to repeal and reenact chapter forty-three-B of the consolidated
 - [Article 23 — Mineral Resources](article-23-mineral-resources/)
 - [Article 24 — Freshwater Wetlands](article-24-freshwater-wetlands/)
 - [Article 25 — Tidal Wetlands](article-25-tidal-wetlands/)
-- [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](article-27-collection-treatment-and-disposal-of-refuse/)
+- [Article 27 — Reduction, Collection, Reuse, Recycling, Treatment and Disposal of Solid Waste](article-27-reduction-collection-reuse-recycling-treatment/)
 - [Article 28 — Pollution Prevention](article-28-pollution-prevention/)
 - [Article 29 — Low-level Radioactive Waste Facilities](article-29-low-level-radioactive-waste-facilities/)
 - [Article 30 — Decommissioning Nuclear Power Plant Discharges Into the Hudson River](article-30-decommissioning-nuclear-power-plant-discharges/)

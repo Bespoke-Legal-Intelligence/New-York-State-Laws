@@ -620,7 +620,7 @@ the purpose of establishing reimbursement rates pursuant to this
 article. All fees pursuant to this section shall be payable to the
 department of health for deposit into the special revenue funds - other,
 miscellaneous special revenue fund - 339, certificate of need account.
-  * 17. (a) Diagnostic or treatment centers or other facilities managed
+  17. (a) Diagnostic or treatment centers or other facilities managed
 and administered by a local health department for the purpose of
 providing limited health care services as defined by the commissioner
 may be operated by a local health department. Such facilities shall be
@@ -635,5 +635,4 @@ guidelines for advertising and signage, disclosure of ownership
 interests, informed consent, record keeping, referral for treatment,
 case reporting to the patient's primary care or other health care
 providers, design, construction, fixtures, and equipment.
-  * NB Effective December 22, 2025
 ```

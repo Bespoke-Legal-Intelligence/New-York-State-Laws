@@ -30,6 +30,7 @@
 - [§ 230.35 Promoting or compelling prostitution; accomplice](230.35-promoting-or-compelling-prostitution.md)
 - [§ 230.36 Sex trafficking; accomplice](230.36-sex-trafficking-accomplice.md)
 - [§ 230.40 Permitting prostitution](230.40-permitting-prostitution.md)
+- [§ 230.45 Limited immunity from prosecution](230.45-limited-immunity-from-prosecution.md)
 
 <details>
 <summary>Official heading of Article 230, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -70,6 +71,7 @@ Section 230.00    Prostitution.
         230.35    Promoting or compelling prostitution; accomplice.
         230.36    Sex trafficking; accomplice.
         230.40    Permitting prostitution.
+        230.45    Limited immunity from prosecution.
 ```
 
 </details>

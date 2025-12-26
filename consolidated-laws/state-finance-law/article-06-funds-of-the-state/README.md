@@ -291,6 +291,7 @@
 - [§ 99-RR Air quality improvement fund](99rr-air-quality-improvement-fund.md)
 - [§ 99-SS Healthcare stability fund](99ss-healthcare-stability-fund.md)
 - [§ 99-SS\*2 Suicide prevention fund](99ss-2-suicide-prevention-fund.md)
+- [§ 99-SS\*3 Nursing home worker recruitment and safety fund](99ss-3-nursing-home-worker-recruitment-and-safety-fund.md)
 - [§ 99-TT Veterans' services fund](99tt-veterans-services-fund.md)
 
 <details>
@@ -642,6 +643,7 @@ Section 70.        Classification of funds.
         99-rr.     Air quality improvement fund.
         99-ss.     Healthcare stability fund.
         99-ss*2.   Suicide prevention fund.
+        99-ss*3.   Nursing home worker recruitment and safety fund.
         99-tt.     Veterans' services fund.
 ```
 

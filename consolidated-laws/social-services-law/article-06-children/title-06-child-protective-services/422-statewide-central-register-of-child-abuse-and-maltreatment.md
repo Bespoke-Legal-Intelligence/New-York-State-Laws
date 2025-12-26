@@ -8,7 +8,7 @@
 There shall be established in the office of children and family services
 a statewide central register of child abuse and maltreatment reports
 made pursuant to this title.
-  2. (a) The central register shall be capable of receiving telephone
+  2. * (a) The central register shall be capable of receiving telephone
 calls alleging child abuse or maltreatment and of immediately
 identifying prior reports of child abuse or maltreatment and capable of
 monitoring the provision of child protective service twenty-four hours a
@@ -57,6 +57,57 @@ the subject of the report, the office of children and family services
 shall identify the report as such and note any prior reports when
 transmitting the report to the local child protective services for
 investigation.
+  * NB Effective until June 17, 2026
+  * (a) The central register shall be capable of receiving telephone
+calls alleging child abuse or maltreatment and of immediately
+identifying prior reports of child abuse or maltreatment and capable of
+monitoring the provision of child protective service twenty-four hours a
+day, seven days a week. To effectuate this purpose, but subject to the
+provisions of the appropriate local plan for the provision of child
+protective services, there shall be a single statewide telephone number
+that all persons, whether mandated by the law or not, may use to make
+telephone calls alleging child abuse or maltreatment and that all
+persons so authorized by this title may use for determining the
+existence of prior reports in order to evaluate the condition or
+circumstances of a child.  In addition to the single statewide telephone
+number, there shall be a special unlisted express telephone number and a
+telephone facsimile number for use only by persons mandated by law to
+make telephone calls, or to transmit telephone facsimile information on
+a form provided by the commissioner of children and family services,
+alleging child abuse or maltreatment, and for use by all persons so
+authorized by this title for determining the existence of prior reports
+in order to evaluate the condition or circumstances of a child. When any
+allegations contained in such telephone calls could reasonably
+constitute a report of child abuse or maltreatment, after utilizing
+protocols that would reduce implicit bias from the decision-making
+process, such allegations, the caller's name, the caller's contact
+information and any previous reports to the central registry involving
+the subject of such report or children named in such report, including
+any previous report containing allegations of child abuse and
+maltreatment alleged to have occurred in other counties and districts in
+New York state shall be immediately transmitted orally or electronically
+by the office of children and family services to the appropriate local
+child protective service for investigation. The inability of the person
+calling the register to identify the alleged perpetrator shall, in no
+circumstance, constitute the sole cause for the register to reject such
+allegation or fail to transmit such allegation for investigation. If the
+records indicate a previous report concerning a subject of the report,
+the child alleged to be abused or maltreated, a sibling, other children
+in the household, other persons named in the report or other pertinent
+information, the appropriate local child protective service shall be
+immediately notified of the fact. If the report involves either (i) an
+allegation of an abused child described in paragraph (i), (ii) or (iii)
+of subdivision (e) of section one thousand twelve of the family court
+act or sexual abuse of a child or the death of a child or (ii) suspected
+maltreatment which alleges any physical harm when the report is made by
+a person required to report pursuant to section four hundred thirteen of
+this title within six months of any other two reports that were
+indicated, or may still be pending, involving the same child, sibling,
+or other children in the household or the subject of the report, the
+office of children and family services shall identify the report as such
+and note any prior reports when transmitting the report to the local
+child protective services for investigation.
+  * NB Effective June 17, 2026
   (b) Any telephone call made by a person required to report cases of
 suspected child abuse or maltreatment pursuant to section four hundred
 thirteen of this chapter containing allegations, which if true would
@@ -76,6 +127,36 @@ the most expedient means available the information contained in such
 telephone call to the appropriate law enforcement agency, district
 attorney or other public official empowered to provide necessary aid or
 assistance.
+  (d) A caller making a report of suspected child abuse or maltreatment
+to the central registry shall be asked for their name and contact
+information. No report shall be transmitted to a local child protective
+service for investigation unless the caller's name and contact
+information is provided. Except for disclosures authorized by
+subparagraphs (a) through (c) and (e) through (bb) of paragraph (A) of
+subdivision four of this section, and disclosure to the local child
+protective service as required pursuant to paragraph (a) of this
+subdivision, neither the commissioner nor the central register shall
+release the name and contact information of a caller who made a report
+of suspected child abuse or maltreatment unless ordered by an
+administrative law judge or a court of competent jurisdiction; provided,
+however, that this provision shall not apply to individuals who are
+mandated to report suspected child abuse or maltreatment pursuant to
+section four hundred thirteen of this title. Prior to the entry of any
+such order, the petitioner or social services official may move for a
+protective order to withhold the identity of such individual if such
+disclosure is likely to endanger the life or health of the person
+reporting such suspected child abuse or maltreatment.
+  (e) If a caller declines to provide their name and contact
+information, they will be connected with a supervisor at the central
+register, who will inform the caller of the statutory provisions that
+protect callers' confidentiality. If the caller declines to provide
+their name and contact information to the supervisor, the supervisor
+shall inform the caller that (i) concerns of suspected abuse or
+maltreatment may be addressed through support services if the caller
+contacts the department's HEARS Family Line or community-based service
+providers and (ii) knowingly reporting false, retaliatory or baseless
+allegations is a violation of subdivision four of section 240.50 of the
+penal law.
   3. The central register shall include but not be limited to the
 following information: all the information in the written report; a
 record of the final disposition of the report, including services
@@ -478,13 +559,18 @@ a request pursuant to subdivision eight of this section or section four
 hundred twenty-four-a of this title.
   7. At any time, a subject of a report and other persons named in the
 report may receive, upon request, a copy of all information contained in
-the central register; provided, however, that the commissioner is
-authorized to prohibit the release of data that would identify the
-person who made the report or who cooperated in a subsequent
-investigation or the agency, institution, organization, program or other
-entity where such person is employed or with which he is associated,
-which he reasonably finds will be detrimental to the safety or interests
-of such person.
+the central register; provided, however, that the office of children and
+family services shall not release information identifying a person who
+made a report pursuant to section four hundred fourteen of this title
+except with that person's permission or pursuant to subdivision (b) of
+section one thousand thirty-eight of the family court act or pursuant to
+section four hundred twenty-four-a of this title; and that the
+commissioner is authorized to prohibit the release of data that would
+identify the person who made the report or who cooperated in a
+subsequent investigation or the agency, institution, organization,
+program or other entity where such person is employed or with which such
+person is associated, which the commissioner reasonably finds will be
+detrimental to the safety or interests of such person.
   8. (a) (i) At any time subsequent to the completion of the
 investigation but in no event later than ninety days after the subject
 of the report is notified that the report is indicated the subject may

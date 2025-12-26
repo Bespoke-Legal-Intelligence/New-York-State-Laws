@@ -21,6 +21,7 @@
 - [§ 21 Acquisition of real property by purchase and acquisition](21-acquisition-of-real-property-by-purchase-and-acquisition.md)
 - [§ 22 Institution officers not to be interested in institution contracts](22-institution-officers-not-to-be-interested-in-institution-contracts.md)
 - [§ 22-A Qualification for employment as a correction officer](22a-qualification-for-employment-as-a-correction-officer.md)
+- [§ 22-B Disclosure of video footage related to the death of incarcerated individuals involving correctional officers](22b-disclosure-of-video-footage-related-to-the-death-of-incarcerated-individuals.md)
 - [§ 23 Transfer of incarcerated individuals from one correctional facility to another; treatment in outside hospitals](23-transfer-of-incarcerated-individuals-from-one-correctional-facility-to-another.md)
 - [§ 24 Civil actions against department personnel](24-civil-actions-against-department-personnel.md)
 - [§ 24-A Actions against persons rendering health care services at the request of the department; defense and indemnification](24a-actions-against-persons-rendering-health-care-services-at-the-request.md)
@@ -55,6 +56,9 @@ Section 5.     Department of corrections and community supervision;
         22.    Institution officers not to be interested in institution
                  contracts.
         22-a.  Qualification for employment as a correction officer.
+        22-b.  Disclosure of video footage related to the death of
+                 incarcerated individuals involving correctional
+                 officers.
         23.    Transfer of incarcerated individuals from one
                  correctional facility to another; treatment in outside
                  hospitals.

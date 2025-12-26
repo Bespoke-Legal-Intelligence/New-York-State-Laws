@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 46 — Continuing Care Retirement Communities](README.md)
 
 ```text
-  § 4614. Audits. 1. The commissioner, or designee; and the
+  § 4614. Audits. * 1. The commissioner, or designee; and the
 superintendent, or designee; may at any time, and shall at least once
 every three years, visit each community and examine the business of any
 applicant for a certificate of authority and any operator engaged in the
@@ -23,13 +23,40 @@ timely access to all of its records. The representative or examiner
 designated by the commissioners or superintendent, respectively, may, at
 any time, examine the records and affairs and inspect the community's
 facilities, whether in connection with a formal examination or not.
-  2. Any duly authorized officer, employee, or agent of the health
+  * NB Effective until June 1, 2026
+  * 1. The commissioner, or designee may at any time, and shall at least
+once every three years, visit each community and examine the business of
+any applicant for a certificate of authority and any operator engaged in
+the execution of continuing care retirement contracts or continuing care
+at home contracts or engaged in the performance of obligations under
+such contracts. Routine examinations may be conducted by having
+documents designated by and submitted to such commissioner, which shall
+include financial documents and records conforming to commonly accepted
+accounting principles and practices. The final written report of each
+such examination conducted by such commissioner shall be filed with the
+commissioner and, when so filed, shall constitute a public record. A
+copy of each report shall be provided to members of the continuing care
+retirement community council. Any operator being examined shall, upon
+request, give reasonable and timely access to all of its records. The
+representative or examiner designated by the commissioner may, at any
+time, examine the records and affairs and inspect the community's
+facilities, whether in connection with a formal examination or not.
+  * NB Effective June 1, 2026
+  * 2. Any duly authorized officer, employee, or agent of the health
 department, or department of financial services may, upon presentation
 of proper identification, have access to, and inspect, any records
 maintained by the community relevant to the respective agency's
 regulatory authority, with or without advance notice, to secure
 compliance with, or to prevent a violation of, any provision of this
 article.
+  * NB Effective until June 1, 2026
+  * 2. Any duly authorized officer, employee, or agent of the department
+may, upon presentation of proper identification, have access to, and
+inspect, any records maintained by the community relevant to the
+agency's regulatory authority, with or without advance notice, to secure
+compliance with, or to prevent a violation of, any provision of this
+article.
+  * NB Effective June 1, 2026
   3. Reports of the results of such examinations and inspections shall
 be kept on file by the commissioner and shall be open to public
 inspection at the community, provided any records, reports, or documents

@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 14 — Regulation of Camps For Children](README.md)
 
 ```text
-  * § 1408. Registry for children's non-regulated camps. The department
+  § 1408. Registry for children's non-regulated camps. The department
 shall establish and maintain an electronic database containing
 information collected pursuant to this section and section three hundred
 ninety-eight-f of the general business law for the purposes of providing
@@ -16,5 +16,4 @@ annual fee to register shall be two hundred fifty dollars, except that
 no fee shall be charged in the case of a children's non-regulated camp
 operated by a person, firm, corporation or association for charitable,
 philanthropic or religious purposes.
-  * NB Effective December 22, 2025
 ```

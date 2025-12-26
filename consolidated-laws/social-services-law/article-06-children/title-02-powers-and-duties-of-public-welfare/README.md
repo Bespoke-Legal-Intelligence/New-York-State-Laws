@@ -14,6 +14,7 @@
 - [§ 398-C Powers and duties of the commissioner in relation to children](398c-powers-and-duties-of-the-commissioner-in-relation-to-children.md)
 - [§ 398-D Child welfare services community demonstration projects](398d-child-welfare-services-community-demonstration-projects.md)
 - [§ 398-E Eligibility for protective services, foster care services, and residential services for victims of domestic violence](398e-eligibility-for-protective-services-foster-care-services.md)
+- [§ 398-F Duty to provide luggage to foster children](398f-duty-to-provide-luggage-to-foster-children.md)
 - [§ 399 Children discharged from state institutions](399-children-discharged-from-state-institutions.md)
 - [§ 400 Removal of children](400-removal-of-children.md)
 - [§ 401 Births to inmates of public homes](401-births-to-inmates-of-public-homes.md)
@@ -42,6 +43,7 @@ Section 395.   Responsibility of public welfare districts for the
         398-d. Child welfare services community demonstration projects.
         398-e. Eligibility for protective services and residential
                  services for victims of domestic violence.
+        398-f. Duty to provide luggage to foster children.
         399.   Children discharged from state institutions.
         400.   Removal of children.
         401.   Births to inmates of public homes.

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | STT |
 | Type | Consolidated law, chapter 57-A |
-| Sections | 39 (2 repealed) |
-| Last changed | 19 Dec 2025 |
+| Sections | 42 |
+| Last changed | 26 Dec 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | State Technology |
 
@@ -29,10 +29,11 @@ Article                                              Section
         state government
 ```
 
-[Chapter text page](chapter-text.md)
+[Full chapter text (10 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [26 Dec 2025](../../changes/2025/2025-12-26.md): 1 amended, 5 added, 2 removed
 - [19 Dec 2025](../../changes/2025/2025-12-19.md): 1 amended
 - [4 Jul 2025](../../changes/2025/2025-07-04.md): 3 amended, 2 added, 2 repealed
 - [28 Mar 2025](../../changes/2025/2025-03-28.md): 1 amended, 2 added
@@ -42,7 +43,6 @@ Article                                              Section
 - [29 Nov 2024](../../changes/2024/2024-11-29.md): 3 amended, 1 added
 - [5 Jul 2024](../../changes/2024/2024-07-05.md): 1 amended
 - [21 Jun 2024](../../changes/2024/2024-06-21.md): 1 amended
-- [16 Feb 2024](../../changes/2024/2024-02-16.md): 1 amended
 
 ## Contents
 
@@ -50,3 +50,4 @@ Article                                              Section
 - [Article 2 — Internet Security and Privacy Act](article-2-internet-security-and-privacy-act/)
 - [Article 3 — Electronic Signatures and Records Act](article-3-electronic-signatures-and-records-act/)
 - [Article 4 — Automated Employment Decision-making In State Government](article-4-automated-employment-decision-making-in-state/)
+- [Article 5 — Automated Decision-making In Government Agencies](article-5-automated-decision-making-in-government-agencies/)

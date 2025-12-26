@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | GBS |
 | Type | Consolidated law, chapter 20 |
-| Sections | 1,397 |
-| Last changed | 19 Dec 2025 |
+| Sections | 1,429 |
+| Last changed | 26 Dec 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Business |
 
@@ -29,10 +29,11 @@ AN ACT relating to general business, constituting chapter twenty of the
   Assembly, do enact as follows:
 ```
 
-[Full chapter text (200 lines)](chapter-text.md)
+[Full chapter text (207 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [26 Dec 2025](../../changes/2025/2025-12-26.md): 9 amended, 32 added
 - [19 Dec 2025](../../changes/2025/2025-12-19.md): 3 amended, 6 added
 - [12 Dec 2025](../../changes/2025/2025-12-12.md): 1 amended, 1 added
 - [28 Nov 2025](../../changes/2025/2025-11-28.md): 3 amended, 2 added
@@ -42,7 +43,6 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [22 Aug 2025](../../changes/2025/2025-08-22.md): 2 added
 - [8 Aug 2025](../../changes/2025/2025-08-08.md): 2 amended
 - [1 Aug 2025](../../changes/2025/2025-08-01.md): 7 amended
-- [11 Jul 2025](../../changes/2025/2025-07-11.md): 2 amended
 
 ## Contents
 
@@ -133,6 +133,7 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 29-GG — Sale of Traffic Control Devices](article-29gg-sale-of-traffic-control-devices/)
 - [Article 29-H — Debt Collection Procedures](article-29h-debt-collection-procedures/)
 - [Article 29-HH — Debt Collection Procedures Related to Identity Theft](article-29hh-debt-collection-procedures-related-to-identity/)
+- [Article 29-HHH — Actions Involving Coerced Debts](article-29hhh-actions-involving-coerced-debts/)
 - [Article 29-I — The Storage of Household Goods](article-29i-the-storage-of-household-goods/)
 - [Article 29-J — Film Ratings Labeling](article-29j-film-ratings-labeling/)
 - [Article 29-K — Motor Vehicle Parts Warranty](article-29k-motor-vehicle-parts-warranty/)
@@ -179,12 +180,15 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 39-F — Notification of Unauthorized Acquisition of Private Information; Data Security Protections](article-39f-notification-of-unauthorized-acquisition/)
 - [Article 39-FF — New York Child Data Protection Act](article-39ff-new-york-child-data-protection-act/)
 - [Article 39-G — Document Destruction Contractors](article-39g-document-destruction-contractors/)
+- [Article 39-H — Third Party Litigation Financing](article-39h-third-party-litigation-financing/)
 - [Article 40 — Peer-to-peer Car Sharing Programs](article-40-peer-to-peer-car-sharing-programs/)
 - [Article 41 — Combative Sports](article-41-combative-sports/)
 - [Article 42 — Social Media Terms of Service](article-42-social-media-terms-of-service/)
 - [Article 43 — New York State Secure Choice Savings Program](article-43-new-york-state-secure-choice-savings-program/)
 - [Article 44 — Regulation of Surrogacy Programs and Assisted Reproduction Service Providers](article-44-regulation-of-surrogacy-programs-and-assisted/)
 - [Article 44-A — Freelance Isn't Free Act](article-44a-freelance-isnt-free-act/)
+- [Article 44-B — Responsible Ai Safety and Education (raise) Act](article-44b-responsible-ai-safety-and-education-raise-act/)
 - [Article 45 — Safe For Kids Act](article-45-safe-for-kids-act/)
+- [Article 45-A — Warning Labels For Addictive Social Media Platforms](article-45a-warning-labels-for-addictive-social-media/)
 - [Article 46 — Laws Repealed; When to Take Effect](article-46-laws-repealed-when-to-take-effect/)
 - [Article 47 — Artificial Intelligence Companion Models](article-47-artificial-intelligence-companion-models/)

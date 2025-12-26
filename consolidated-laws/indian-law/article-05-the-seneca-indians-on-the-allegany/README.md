@@ -12,6 +12,7 @@
 - [§ 75 Vacancies in elective offices](75-vacancies-in-elective-offices.md)
 - [§ 77 Police officers at annual fair](77-police-officers-at-annual-fair.md)
 - [§ 78 Leases and rights of way](78-leases-and-rights-of-way.md)
+- [§ 79 Law enforcement agreements](79-law-enforcement-agreements.md)
 
 <details>
 <summary>Official heading of Article 5, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -28,6 +29,7 @@ Section 70. Confirmation of nationality.
         75. Vacancies in elective offices.
         77. Police officers at annual fair.
         78. Leases and rights of way.
+        79. Law enforcement agreements.
 ```
 
 </details>

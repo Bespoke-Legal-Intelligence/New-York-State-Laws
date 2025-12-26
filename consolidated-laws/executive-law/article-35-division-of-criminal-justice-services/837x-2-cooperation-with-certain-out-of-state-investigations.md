@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 837-X*2", "kind": "section", "law_id": "EXC", "location_id": "837-X*2", "path": "ARTICLE 35 › SECTION 837-X*2", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/837-X_2.md", "title": "Cooperation with certain out-of-state investigations"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 837-X*2", "kind": "section", "law_id": "EXC", "location_id": "837-X*2", "path": "ARTICLE 35 › SECTION 837-X*2", "repealed": true, "repealed_date": "2025-12-26", "source": "nys-laws:EXC/837-X_2.md", "title": "Cooperation with certain out-of-state investigations"} -->
 # Executive Law § 837-X*2 — Cooperation with certain out-of-state investigations
 
 [Executive Law](../README.md) › [Article 35 — Division of Criminal Justice Services](README.md)
+
+**Repealed** (26 Dec 2025). The text below is what the Senate publishes for this repealed provision.
 
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 

@@ -28,10 +28,12 @@ obtaining a certificate of authority, for the purpose of evaluating
 market demand for a proposed continuing care retirement community and
 for the purpose of guaranteeing to prospective residents an opportunity
 for priority placement in a continuing care retirement community. A
-priority reservation fee shall not exceed two thousand dollars. A
+priority reservation fee shall not exceed two thousand dollars unless
+the commissioner, in the discretion of such commissioner, establishes
+that a priority reservation fee may exceed two thousand dollars. A
 non-refundable priority reservation agreement application fee shall not
-exceed the maximum amount for such fee as set forth in regulations
-adopted by the council.
+exceed the maximum amount established by the commissioner, in such
+commissioner's discretion.
   2. In order to receive authorization by the commissioner to enter into
 cancelable priority reservation agreements and to solicit, collect or
 receive any refundable priority reservation fee, a person, partnership,
@@ -121,7 +123,7 @@ reservation fee funds shall be deposited into the entrance fee escrow
 account provided for in section forty-six hundred ten of this article.
   g. If the funds in an escrow account under this section, and any
 interest thereon, are not released to the applicant within such time as
-provided by rules and regulations adopted by the council, then such
+provided by rules and regulations adopted by the commissioner, then such
 funds shall be returned by the escrow agent to the person who had made
 the payments or the person's legal representative.
   h. A priority reservation fee, and the interest accrued thereon, held

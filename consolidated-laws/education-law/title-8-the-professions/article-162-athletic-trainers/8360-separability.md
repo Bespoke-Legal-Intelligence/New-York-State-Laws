@@ -4,9 +4,8 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 162 — Athletic Trainers](README.md)
 
 ```text
-  * § 8360. Separability. If any section of this article, or part
-thereof, shall be adjudged by any court of competent jurisdiction to be
-invalid, such judgment shall not affect, impair or invalidate the
-remainder of any other section or part thereof.
-  * NB Effective December 22, 2025
+  § 8360. Separability. If any section of this article, or part thereof,
+shall be adjudged by any court of competent jurisdiction to be invalid,
+such judgment shall not affect, impair or invalidate the remainder of
+any other section or part thereof.
 ```

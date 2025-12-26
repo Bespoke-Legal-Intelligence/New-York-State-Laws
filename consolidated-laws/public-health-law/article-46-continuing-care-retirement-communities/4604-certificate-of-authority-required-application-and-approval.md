@@ -114,7 +114,7 @@ The number of residential health care facility beds available pursuant
 to subdivision five of this section, without proof of public need
 therefor, shall be reduced by the number of residential health care
 demonstration facility beds that are approved pursuant to this article.
-  4. No certificate of authority shall be issued unless an application
+  * 4. No certificate of authority shall be issued unless an application
 meeting the requirements of this section and all other requirements
 established by law has been approved by:
   a. (i) the superintendent of financial services as to the actuarial
@@ -176,6 +176,72 @@ communities statewide; and
   e. the attorney general as to those aspects of the application
 relating to a cooperative, condominium or other equity arrangement for
 the independent living unit, if any.
+  * NB Effective until June 1, 2026
+  * 4. No certificate of authority shall be issued unless the
+commissioner has approved an application meeting the requirements of
+this section and all other requirements established by law including:
+  a. the actuarial principles involved, the financial feasibility of the
+facility, the form and content of the proposed contracts to be entered
+into with residents and insurance contracts between an operator and an
+insurer requiring the insurer to assume, wholly or in part, the cost of
+medical or health related services to be provided to a resident,
+provided that the review may be conducted by the commissioner or the
+designee of such commissioner, including any necessary independent
+actuarial review;
+  b. the rates and rating methodology, if any, to be used by the
+operator to determine any entrance fee, monthly care fee and/or any
+separate charges for the housing component of the continuing care
+contract including but not limited to a cooperative or condominium fee
+charged to the resident as proposed in said operator's application for
+certificate of authority. Subsequent increases in any entrance or
+monthly care fee in excess of fees calculated pursuant to the approved
+rating methodology shall require approval of the commissioner. The term
+"rating methodology" as used herein shall incorporate a combination of
+variables including but not limited to a pricing structure for
+comparable services, projected operating and health care costs and the
+applicable inflationary impact thereon, projected income and occupancy
+rates and the refundability component of the continuing care retirement
+contract;
+  c. any monthly care fee charged to a resident which may be increased
+or decreased subject to approval by the commissioner, provided, that
+monthly care fees may be increased or decreased without specific
+approval as long as such increase or decrease does not exceed a relevant
+cost index or indices which reflect all components of continuing care
+including the costs associated with provision of health care as
+determined and promulgated at least annually by the commissioner or the
+designee of such commissioner, including any necessary independent
+actuarial review, and provided further that the commissioner is notified
+of any such increase or decrease prior to its taking effect;
+  d. the requirement that an individual resident's monthly care fee
+shall not be modified because of the increased need for services of that
+resident;
+  e. aspects of the application relating to adult care facility beds, if
+any;
+  f. review by the public health and health planning council as to the
+establishment of a skilled nursing facility by the applicant and as to
+such other facilities and services as may require the public health and
+health planning council's approval of the application; provided,
+however, that the recommendations of the health systems agency having
+geographical jurisdiction of the area where the continuing care
+retirement community is located shall not be required with respect to
+the establishment of an on-site or affiliated residential health care
+facility to serve residents as part of the continuing care retirement
+community, for up to the total number of residential health care
+facility beds provided for in subdivision five of this section in
+communities statewide;
+  provided, further, that, the recommendations of the public health and
+health planning council and the health systems agency having
+geographical jurisdiction of the area where the continuing care
+retirement community is located shall not be required with respect to
+the construction of an on-site or affiliated residential health care
+facility to serve residents as part of the continuing care retirement
+community, for up to the total number of residential health care
+facility beds provided for in subdivision five of this section in
+communities statewide; and
+  g. upon consultation with the attorney general, as to those aspects of
+the application relating to a cooperative, condominium or other equity
+arrangement for the independent living unit, if any.
+  * NB Effective June 1, 2026
   5. Up to two thousand residential health care facility beds, as
 authorized herein, that may be approved as components of continuing care
 retirement communities shall not be considered by the department and the
@@ -185,11 +251,10 @@ the community seeking to construct such beds does not provide life care
 to all residents, it must adequately make the assurances required by
 subdivision two of section forty-six hundred twenty-four of this
 article.
-  6. If the approvals required by subdivision four of this section have
-been obtained, the council shall, by majority vote, either approve or
-reject the application within sixty days of the date on which the last
-such approval has been obtained. In order to approve the application,
-the council shall have determined that:
+  6. If the applicant has satisfied the criteria required by subdivision
+four of this section, the commissioner shall either approve or reject
+the application. In order to approve the application, the commissioner
+shall have determined that:
   a. the proposed community will meet a need and will fulfill the
 purposes of this article;
   b. the applicant has satisfied the requirements of this article;
@@ -219,9 +284,10 @@ the residential health care facility component.
   7. Any change in the legal entity operating the continuing care
 retirement community, or in a controlling person of the community shall
 require approval in the same manner as an original application;
-provided, however, that the council may waive any requirement to provide
-information that is not relevant to such change and provided, further,
-that the continued public need for the community shall be presumed.
+provided, however, that the commissioner may waive any requirement to
+provide information that is not relevant to such change and provided,
+further, that the continued public need for the community shall be
+presumed.
   8. The operator shall designate and make knowledgeable personnel
 available to prospective residents to answer questions about any
 information contained in the disclosure statement or contract. The
@@ -232,6 +298,6 @@ contract. In evaluating the disclosure statement and the contract prior
 to any commitment, it is recommended that you consult with an attorney
 and financial advisor of your choice, if you so elect, who can review
 these documents with you."
-  9. If the council approves the application, the commissioner shall
-issue the certificate of authority to the applicant.
+  9. The commissioner shall issue the certificate of authority to the
+applicant upon approval of the application.
 ```

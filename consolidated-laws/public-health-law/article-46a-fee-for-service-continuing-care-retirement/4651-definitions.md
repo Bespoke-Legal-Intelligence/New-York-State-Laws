@@ -6,10 +6,10 @@
 ```text
   * § 4651. Definitions. As used in this article:
   2. "Certificates" or "certificate of authority" shall mean an
-authorization in writing, approved by the council and issued by the
-commissioner, for an operator to operate a fee-for-service continuing
-care retirement community and to enter into fee-for-service continuing
-care contracts pertaining to such community.
+authorization in writing, approved and issued by the commissioner, for
+an operator to operate a fee-for-service continuing care retirement
+community and to enter into fee-for-service continuing care contracts
+pertaining to such community.
   3. "Community" shall mean a fee-for-service continuing care retirement
 community established pursuant to this article.
   4. "Control", "controlling", "controlled by", and "under common

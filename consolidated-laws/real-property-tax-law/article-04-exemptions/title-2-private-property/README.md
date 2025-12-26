@@ -64,6 +64,7 @@
 - [§ 458-A Veterans; alternative exemption](458a-veterans-alternative-exemption.md)
 - [§ 458-B Exemption for Cold War veterans](458b-exemption-for-cold-war-veterans.md)
 - [§ 458-C Improvements to property of severely injured members of the armed forces of the United States](458c-improvements-to-property-of-severely-injured-members-of-the-armed-forces.md)
+- [§ 458-D Active service exemption](458d-active-service-exemption.md)
 - [§ 459 Persons who are physically disabled](459-persons-who-are-physically-disabled.md)
 - [§ 459-A Improvements to property made pursuant to the Americans with Disabilities Act of 1990](459a-improvements-to-property-made-pursuant-to-the-americans-with-disabilities-act.md)
 - [§ 459-B Physically disabled crime victims](459b-physically-disabled-crime-victims.md)
@@ -125,6 +126,7 @@
 - [§ 468 Fire patrol and salvage corps](468-fire-patrol-and-salvage-corps.md)
 - [§ 469 Assessment exemption for living quarters for parent or grandparent](469-assessment-exemption-for-living-quarters-for-parent-or-grandparent.md)
 - [§ 470 Exemption for improvements to real property meeting certification standards for green buildings](470-exemption-for-improvements-to-real-property-meeting-certification-standards.md)
+- [§ 471 Surviving spouses of police officers killed in the line of duty](471-surviving-spouses-of-police-officers-killed-in-the-line-of-duty.md)
 - [§ 472 Pharmaceutical societies](472-pharmaceutical-societies.md)
 - [§ 474 Dental societies](474-dental-societies.md)
 - [§ 476-A Railroad passenger stations](476a-railroad-passenger-stations.md)
@@ -287,6 +289,7 @@ Section 420-a.   Nonprofit organizations; mandatory class.
         458-b.   Exemption for Cold War veterans.
         458-c.   Improvements to property of severely injured members of
                    the armed forces of the United States.
+        458-d.   Active service exemption.
         459.     Persons who are physically disabled.
         459-a.   Improvements to property made pursuant to the Americans
                    with Disabilities Act of 1990.
@@ -406,6 +409,8 @@ Section 420-a.   Nonprofit organizations; mandatory class.
                    grandparent.
         470.     Exemption for improvements to real property meeting
                    certification standards for green buildings.
+        471.     Surviving spouses of police officers killed in the line
+                   of duty.
         472.     Pharmaceutical societies.
         474.     Dental societies.
         476-a.   Railroad passenger stations.

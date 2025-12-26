@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Public Health Law § 1399-MM-1", "kind": "section", "law_id": "PBH", "location_id": "1399-MM-1", "path": "ARTICLE 13-F › SECTION 1399-MM-1", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/1399-MM-1.md", "title": "Sale of flavored products prohibited"} -->
 # Public Health Law § 1399-MM-1 — Sale of flavored products prohibited
 
-[Public Health Law](../README.md) › [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes and Smoking Paraphernalia; Distribution to Minors](README.md)
+[Public Health Law](../README.md) › [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes, Kratom and Smoking Paraphernalia; Distribution to Minors](README.md)
 
 ```text
   § 1399-mm-1. Sale of flavored products prohibited. 1. For the purposes

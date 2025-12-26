@@ -192,18 +192,13 @@ cognitive, educational, social, cultural, physical, emotional, language
 and recreational development of children in care in a safe, healthy and
 caring environment (ii) principles of childhood development (iii)
 appropriate staff/child ratios for family day care homes, group family
-day care homes, school age day care programs and day care centers,
-provided however that such staff/child ratios shall not be less
-stringent than applicable staff/child ratios as set forth in part four
-hundred fourteen, four hundred sixteen, four hundred seventeen or four
-hundred eighteen of title eighteen of the New York code of rules and
-regulations as of January first, two thousand (iv) appropriate levels of
-supervision of children in care (v) minimum standards for sanitation,
-health, infection control, nutrition, buildings and equipment, safety,
-security procedures, first aid, fire prevention, fire safety, evacuation
-plans and drills, prevention of child abuse and maltreatment, staff
-qualifications and training, record keeping, and child behavior
-management.
+day care homes, school age day care programs and day care centers (iv)
+appropriate levels of supervision of children in care (v) minimum
+standards for sanitation, health, infection control, nutrition,
+buildings and equipment, safety, security procedures, first aid, fire
+prevention, fire safety, evacuation plans and drills, prevention of
+child abuse and maltreatment, staff qualifications and training, record
+keeping, and child behavior management.
   (b) The use of electronic monitors as a sole means of supervision of
 children in day care shall be prohibited, except that electronic
 monitors may be used in family day care homes and group family day care

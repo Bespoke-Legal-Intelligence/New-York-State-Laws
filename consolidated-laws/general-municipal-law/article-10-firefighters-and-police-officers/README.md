@@ -39,6 +39,7 @@
 - [§ 206-B Exemption of benefits payable under blanket accident insurance covering volunteer firefighters](206b-exemption-of-benefits-payable-under-blanket-accident-insurance-covering.md)
 - [§ 207 Hospitalization of members of fire departments in certain cities](207-hospitalization-of-members-of-fire-departments-in-certain-cities.md)
 - [§ 207-A Payment of salary, medical and hospital expenses of firefighters with injuries or illness incurred in performance of duties](207a-payment-of-salary-medical-and-hospital-expenses-of-firefighters-with-injuries.md)
+- [§ 207-AA Disabilities of members of the uniformed force of sanitation departments in certain cities](207aa-disabilities-of-members-of-the-uniformed-force-of-sanitation-departments.md)
 - [§ 207-B Additional retirement benefits for certain firefighters in cities](207b-additional-retirement-benefits-for-certain-firefighters-in-cities.md)
 - [§ 207-C Payment of salary, wages, medical and hospital expenses of police officers with injuries or illness incurred in the performance of duties](207c-payment-of-salary-wages-medical-and-hospital-expenses-of-police-officers.md)
 - [§ 207-D Additional retirement benefits for certain police officers in cities and certain villages](207d-additional-retirement-benefits-for-certain-police-officers-in-cities-and-certain.md)
@@ -171,6 +172,8 @@ Section 200.      Defining qualifications of exempt volunteer
         207-a.    Payment of salary, medical and hospital expenses of
                     firefighters with injuries or illness incurred in
                     performance of duties.
+        207-aa.   Disabilities of members of the uniformed force of
+                    sanitation departments in certain cities.
         207-b.    Additional retirement benefits for certain
                     firefighters in cities.
         207-c.    Payment of salary, wages, medical and hospital

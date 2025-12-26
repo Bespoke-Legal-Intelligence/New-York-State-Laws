@@ -8,7 +8,7 @@
 | Senate code | RSS |
 | Type | Consolidated law, chapter 51-A |
 | Sections | 574 |
-| Last changed | 19 Dec 2025 |
+| Last changed | 26 Dec 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Retirement & Social Security |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [26 Dec 2025](../../changes/2025/2025-12-26.md): 2 amended
 - [19 Dec 2025](../../changes/2025/2025-12-19.md): 1 amended
 - [5 Sep 2025](../../changes/2025/2025-09-05.md): 1 amended
 - [11 Jul 2025](../../changes/2025/2025-07-11.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [10 Jan 2025](../../changes/2025/2025-01-10.md): 4 repealed
 - [20 Dec 2024](../../changes/2024/2024-12-20.md): 5 amended
 - [29 Nov 2024](../../changes/2024/2024-11-29.md): 3 amended
-- [12 Jul 2024](../../changes/2024/2024-07-12.md): 1 amended
 
 ## Contents
 

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | CVP |
 | Type | Consolidated law, chapter 8 |
-| Sections | 812 |
-| Last changed | 28 Nov 2025 |
+| Sections | 814 |
+| Last changed | 26 Dec 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Civil Practice Law & Rules |
 
@@ -27,10 +27,11 @@ AN ACT in relation to civil practice and prescribing rules of civil
   The People of the State of New York, represented in Senate and
 ```
 
-[Full chapter text (99 lines)](chapter-text.md)
+[Full chapter text (101 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [26 Dec 2025](../../changes/2025/2025-12-26.md): 4 amended, 2 added
 - [28 Nov 2025](../../changes/2025/2025-11-28.md): 1 amended
 - [24 Oct 2025](../../changes/2025/2025-10-24.md): 1 amended
 - [16 May 2025](../../changes/2025/2025-05-16.md): 1 amended
@@ -40,13 +41,13 @@ AN ACT in relation to civil practice and prescribing rules of civil
 - [20 Dec 2024](../../changes/2024/2024-12-20.md): 6 amended
 - [29 Nov 2024](../../changes/2024/2024-11-29.md): 2 amended
 - [11 Oct 2024](../../changes/2024/2024-10-11.md): 4 amended
-- [6 Sep 2024](../../changes/2024/2024-09-06.md): 2 amended
 
 ## Contents
 
 - [Article 1 — Short Title; Applicability and Definitions](article-001-short-title-applicability-and-definitions/)
 - [Article 2 — Limitations of Time](article-002-limitations-of-time/)
 - [Article 3 — Jurisdiction and Service, Appearance and Choice of Court](article-003-jurisdiction-and-service-appearance-and-choice/)
+- [Article 3-A — Conflict of Law In Actions Related to Legally Protected Health Activity](article-003a-conflict-of-law-in-actions-related-to-legally/)
 - [Article 4 — Special Proceedings](article-004-special-proceedings/)
 - [Article 5 — Venue](article-005-venue/)
 - [Article 6 — Joinder of Claims, Consolidation and Severance](article-006-joinder-of-claims-consolidation-and-severance/)

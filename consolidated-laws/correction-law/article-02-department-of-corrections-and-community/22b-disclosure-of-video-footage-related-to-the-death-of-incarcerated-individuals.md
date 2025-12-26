@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Correction Law § 22-B", "kind": "section", "law_id": "COR", "location_id": "22-B", "path": "ARTICLE 2 › SECTION 22-B", "repealed": false, "repealed_date": null, "source": "nys-laws:COR/22-B.md", "title": "Disclosure of video footage related to the death of incarcerated individuals involving correctional officers"} -->
+# Correction Law § 22-B — Disclosure of video footage related to the death of incarcerated individuals involving correctional officers
+
+[Correction Law](../README.md) › [Article 2 — Department of Corrections and Community Supervision](README.md)
+
+```text
+  § 22-b. Disclosure of video footage related to the death of
+incarcerated individuals involving correctional officers. 1. Definition.
+As used in this section the term "video footage" shall include, but not
+be limited to, recordings from fixed or stationary cameras, body-worn
+cameras, handheld devices, or any other recording equipment maintained
+or used by correctional staff within an institution or correctional
+facility.
+  2. Duty to disclose. The department shall disclose to the attorney
+general's office of special investigation any video footage that such
+office deems to be related to the death of an incarcerated individual.
+This shall include any case in which the attorney general's office of
+special investigation determines the death involves a correctional
+officer.
+  3. Timeframe for disclosure. Such video footage shall be disclosed
+within seventy-two hours of the occurrence of the death.
+  4. Redactions and exceptions. (a) No redactions shall be made to the
+video footage before it is disclosed to the attorney general's office of
+special investigation. The attorney general's office of special
+investigation shall maintain the confidentiality of all video footage
+and will determine redactions pursuant to its published video release
+policy.
+  (b) Disclosure may be delayed only if the attorney general's office of
+special investigation certifies that such disclosure would compromise an
+ongoing criminal investigation or prosecution. Such delay shall not
+exceed ninety days without additional certification.
+```

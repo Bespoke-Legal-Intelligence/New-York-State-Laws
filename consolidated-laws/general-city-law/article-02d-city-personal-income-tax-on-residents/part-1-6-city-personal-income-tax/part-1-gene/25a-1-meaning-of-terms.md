@@ -4,7 +4,7 @@
 [General City Law](../../../README.md) › [Article 2-D — City Personal Income Tax On Residents](../../README.md) › [Part 1-6 — City Personal Income Tax On Residents](../README.md) › [Part 1 — General](README.md)
 
 ```text
-  § 1. Meaning of terms.-- As used in this local law, the following
+  Section 1. Meaning of terms.--As used in this local law, the following
 terms shall mean and include:
   (a) "Administrator" means the finance administrator or other fiscal
 officer of the city charged with administration beginning in nineteen
@@ -49,7 +49,7 @@ sentence thereof) "city" shall be read as "state"; "corporation counsel
 or appropriate officer of the city" or "corporation counsel of the city"
 shall be read as "state attorney general"; and the words "it" or "its"
 shall apply instead of the pronouns used where the reference is to state
-tax commission.  Provided, however, with respect to declaration of
+tax commission. Provided, however, with respect to declaration of
 estimated tax and payments of such tax and the withholding tax
 requirements, until and including the thirty-first day of December,
 nineteen hundred seventy-one, any such terms shall be so read with

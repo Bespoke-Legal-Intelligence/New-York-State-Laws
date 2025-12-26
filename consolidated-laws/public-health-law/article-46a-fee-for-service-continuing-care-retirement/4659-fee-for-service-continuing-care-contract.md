@@ -7,8 +7,8 @@
   * § 4659. Fee-for-service continuing care contract. A fee-for-service
 continuing care contract shall contain all of the following information
 in no less than twelve point type and in plain language, in addition to
-any other terms or matter as may be required by regulations adopted by
-the council and issued by the commissioner:
+any other terms or matter as may be required by regulations issued by
+the commissioner:
   1. The amount of all money transferred, including, but not limited to,
 donations, subscriptions, deposits, fees, and any other amounts paid or
 payable by, or on behalf of, the resident or residents;

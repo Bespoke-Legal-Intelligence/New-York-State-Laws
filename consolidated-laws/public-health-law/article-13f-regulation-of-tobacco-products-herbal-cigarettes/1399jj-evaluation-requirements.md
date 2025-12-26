@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Public Health Law § 1399-JJ", "kind": "section", "law_id": "PBH", "location_id": "1399-JJ", "path": "ARTICLE 13-F › SECTION 1399-JJ", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/1399-JJ.md", "title": "Evaluation requirements"} -->
 # Public Health Law § 1399-JJ — Evaluation requirements
 
-[Public Health Law](../README.md) › [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes and Smoking Paraphernalia; Distribution to Minors](README.md)
+[Public Health Law](../README.md) › [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes, Kratom and Smoking Paraphernalia; Distribution to Minors](README.md)
 
 ```text
   § 1399-jj. Evaluation requirements. 1. The commissioner shall evaluate

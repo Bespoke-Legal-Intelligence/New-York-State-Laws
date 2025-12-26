@@ -104,4 +104,18 @@ required by the commissioner.
   (b) A nursing home shall post a summary of this section, provided by
 the department, in proximity to each posting required by paragraph (a)
 of this subdivision.
+  5. Fines and civil penalties. (a) All fines and civil penalties
+collected by the commissioner pursuant to this section shall be
+deposited into a nursing home worker recruitment and safety fund
+established pursuant to section ninety-nine-ss of the state finance law
+to enhance the quality of employment for residential health care
+facility employees and assist in the recruitment and safety of
+residential health care facility staff.
+  (b) The commissioner shall distribute monies made available for this
+purpose under this subdivision in the form of grants to providers. In
+determining the funding for providers, the commissioner shall consider
+criteria including, but not limited to, the overall census of a facility
+and the rate region the facility is located within. The commissioner
+shall promulgate the rules and regulations necessary for implementing
+the program.
 ```

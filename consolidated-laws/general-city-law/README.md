@@ -8,7 +8,7 @@
 | Senate code | GCT |
 | Type | Consolidated law, chapter 21 |
 | Sections | 207 |
-| Last changed | 28 Nov 2025 |
+| Last changed | 26 Dec 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General City |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [26 Dec 2025](../../changes/2025/2025-12-26.md): 3 amended
 - [28 Nov 2025](../../changes/2025/2025-11-28.md): 1 amended
 - [12 Sep 2025](../../changes/2025/2025-09-12.md): 1 amended
 - [4 Jul 2025](../../changes/2025/2025-07-04.md): 2 amended, 2 added
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [6 Aug 2021](../../changes/2021/2021-08-06.md): 1 amended
 - [11 Dec 2020](../../changes/2020/2020-12-11.md): 1 amended
 - [27 Nov 2020](../../changes/2020/2020-11-27.md): 1 amended
-- [13 Nov 2020](../../changes/2020/2020-11-13.md): 1 amended
 
 ## Contents
 

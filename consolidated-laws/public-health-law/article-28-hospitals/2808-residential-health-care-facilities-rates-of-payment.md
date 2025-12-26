@@ -654,34 +654,51 @@ lease transaction without thirty days prior notice in writing to the
 commissioner.
   (b) On and after April first, two thousand ten, no non-public
 residential health care facility may withdraw equity or transfer assets
-which in the aggregate exceed three percent of such facility's total
-reported annual revenue for patient care services, based on the
-facility's most recently available reported data, without prior written
-notification to the commissioner. Notification shall be made in a form
-acceptable to the department by certified or registered mail.
+which in the aggregate exceed:
+  (i) three percent of such facility's total reported annual revenue for
+patient care services, based on the facility's most recently available
+reported data, without prior written notification to the commissioner;
+or
+  (ii) in the case of a residential health care facility which, over the
+two immediately preceding successive quarters, has been compliant with
+the minimum staffing level requirements prescribed by section
+twenty-eight hundred ninety-five-b of this chapter, five percent of such
+facility's total reported annual revenue for patient care services,
+based on the facility's most recently available reported data, without
+prior written notification to the commissioner. Notification shall be
+made in a form acceptable to the department by certified or registered
+mail.
   (c) Notwithstanding any inconsistent provision of this subdivision, on
 and after April first, two thousand ten, no non-public residential
 health care facility, whether operated as a for-profit facility or as a
 not-for-profit facility, may withdraw equity or transfer assets which in
-the aggregate exceed three percent of such facility's total reported
-annual revenue for patient care services, based on the facility's most
-recently available reported data, without the prior written approval of
-the commissioner. The commissioner shall make a determination to approve
-or disapprove a request for withdrawal of equity or assets under this
-subdivision within sixty days of the date of the receipt of a written
-request from the facility. Requests shall be made in a form acceptable
-to the department by certified or registered mail. In reviewing such
-requests the commissioner shall consider the facility's overall
-financial condition, any indications of financial distress, whether the
-facility is delinquent in any payment owed to the department, whether
-the facility has been cited for immediate jeopardy or substandard
-quality of care, and such other factors as the commissioner deems
-appropriate. In addition to any other remedy or penalty available under
-this chapter, and after opportunity for a hearing, the commissioner may
-require replacement of the withdrawn equity or assets and may impose a
-penalty for violation of the provisions of this subdivision in an amount
-not to exceed ten percent of any amount withdrawn without prior
-approval.
+the aggregate exceed:
+  (i) three percent of such facility's total reported annual revenue for
+patient care services, based on the facility's most recently available
+reported data, without the prior written approval of the commissioner;
+or
+  (ii) in the case of a residential health care facility which, over the
+two immediately preceding successive quarters, has been compliant with
+the minimum staffing level requirements prescribed by section
+twenty-eight hundred ninety-five-b of this chapter, five percent of such
+facility's total reported annual revenue for patient care services,
+based on the facility's most recently available reported data, without
+prior written notification to the commissioner. The commissioner shall
+make a determination to approve or disapprove a request for withdrawal
+of equity or assets under this subdivision within sixty days of the date
+of the receipt of a written request from the facility. Requests shall be
+made in a form acceptable to the department by certified or registered
+mail. In reviewing such requests the commissioner shall consider the
+facility's overall financial condition, any indications of financial
+distress, whether the facility is delinquent in any payment owed to the
+department, whether the facility has been cited for immediate jeopardy
+or substandard quality of care, and such other factors as the
+commissioner deems appropriate. In addition to any other remedy or
+penalty available under this chapter, and after opportunity for a
+hearing, the commissioner may require replacement of the withdrawn
+equity or assets and may impose a penalty for violation of the
+provisions of this subdivision in an amount not to exceed ten percent of
+any amount withdrawn without prior approval.
   * 6. Prior to the approval by the state hospital review and planning
 council of any regulations promulgated pursuant to this section, the
 commissioner shall convene a public hearing, upon at least seven days

@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Public Health Law § 1399-II", "kind": "section", "law_id": "PBH", "location_id": "1399-II", "path": "ARTICLE 13-F › SECTION 1399-II", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/1399-II.md", "title": "Tobacco and vapor product use prevention and control program"} -->
 # Public Health Law § 1399-II — Tobacco and vapor product use prevention and control program
 
-[Public Health Law](../README.md) › [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes and Smoking Paraphernalia; Distribution to Minors](README.md)
+[Public Health Law](../README.md) › [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes, Kratom and Smoking Paraphernalia; Distribution to Minors](README.md)
 
 ```text
   § 1399-ii. Tobacco and vapor product use prevention and control

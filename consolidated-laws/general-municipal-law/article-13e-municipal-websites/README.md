@@ -11,10 +11,9 @@
 <summary>Official heading of Article 13-E, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 13-E
+                              ARTICLE 13-E
                            MUNICIPAL WEBSITES
 Section 300. Municipal websites.
-  * NB Effective December 21, 2025
 ```
 
 </details>

@@ -28,25 +28,13 @@ services;
 regarding childhood and adult obesity and asthma, and the prevention or
 mitigation thereof;
   (f) follow-up of patient participation in prenatal care services;
-  * (g) identification of regional perinatal health care system barriers
-and limitations that lead to poor perinatal outcomes and development of
-strategies to address such barriers and limitations; and
-  * NB Effective until December 21, 2025
-  * (g) identification of regional perinatal health care system barriers
+  (g) identification of regional perinatal health care system barriers
 and limitations that lead to poor perinatal outcomes and development of
 strategies to address such barriers and limitations;
-  * NB Effective December 21, 2025
-  * (h) coordination of service delivery by community-based
-organizations among health care providers and health plans using health
-information technology and uniform screening criteria for perinatal
-risk.
-  * NB Effective until December 21, 2025
-  * (h) coordination of service delivery by community-based
-organizations among health care providers and health plans using health
-information technology and uniform screening criteria for perinatal
-risk; and
-  * NB Effective December 21, 2025
-  * (i) promotion of training and continuing medical education
+  (h) coordination of service delivery by community-based organizations
+among health care providers and health plans using health information
+technology and uniform screening criteria for perinatal risk; and
+  (i) promotion of training and continuing medical education
 opportunities in military cultural competency for providers of prenatal
 care to veterans. For purposes of this subdivision, the term "veteran"
 shall have the same meaning as such term is defined in section one of
@@ -56,5 +44,4 @@ services law, and has received a discharge other than bad conduct or
 dishonorable from such service, or is a discharged LGBT veteran, as
 defined in section one of the veterans' services law, and has received a
 discharge other than bad conduct or dishonorable from such service.
-  * NB Effective December 21, 2025
 ```

@@ -55,6 +55,7 @@
 - [§ 392-H Trash receptacles; dumpsters](392h-trash-receptacles-dumpsters.md)
 - [§ 392-I Prices reduced to reflect change in sales tax computation](392i-prices-reduced-to-reflect-change-in-sales-tax-computation.md)
 - [§ 392-J Sales of sparkling devices](392j-sales-of-sparkling-devices.md)
+- [§ 392-K Motor vehicle glass repair and replacement; calibration and recalibration of advanced driver assistance systems; consumer disclosure](392k-motor-vehicle-glass-repair-and-replacement-calibration-and-recalibration.md)
 - [§ 393 Lime; standard barrels](393-lime-standard-barrels.md)
 - [§ 393-A Non fire rated wood paneling](393a-non-fire-rated-wood-paneling.md)
 - [§ 393-B Written solicitation](393b-written-solicitation.md)
@@ -73,6 +74,7 @@
 - [§ 394-F Warrants for reproductive health related electronic data](394f-warrants-for-reproductive-health-related-electronic-data.md)
 - [§ 394-G Geofencing of health care facilities](394g-geofencing-of-health-care-facilities.md)
 - [§ 394-H Electronic health information protections](394h-electronic-health-information-protections.md)
+- [§ 394-I Legally protected health activities](394i-legally-protected-health-activities.md)
 - [§ 395 Required disclosure of prior use](395-required-disclosure-of-prior-use.md)
 - [§ 395-A Maintenance agreements](395a-maintenance-agreements.md)
 - [§ 395-B Unlawfully installing or maintaining a two-way mirror or other viewing device](395b-unlawfully-installing-or-maintaining-a-two-way-mirror-or-other-viewing-device.md)
@@ -133,6 +135,7 @@
 - [§ 398-D Disposal of abandoned molds](398d-disposal-of-abandoned-molds.md)
 - [§ 398-E Indemnity provision in motor carrier transportation contracts](398e-indemnity-provision-in-motor-carrier-transportation-contracts.md)
 - [§ 398-F Children's non-regulated camp](398f-childrens-non-regulated-camp.md)
+- [§ 398-G Kratom package labeling](398g-kratom-package-labeling.md)
 - [§ 399 Cigarette package labeling](399-cigarette-package-labeling.md)
 - [§ 399-A Pay toilets; prohibition](399a-pay-toilets-prohibition.md)
 - [§ 399-AA Prohibition of the selling of fur, hair, skin or flesh of a dog or cat](399aa-prohibition-of-the-selling-of-fur-hair-skin-or-flesh-of-a-dog-or-cat.md)
@@ -277,7 +280,10 @@ Section 390.         Substitution of spurious oils for internal
         392-h.       Trash receptacles; dumpsters.
         392-i.       Prices reduced to reflect change in sales tax
                        computation.
-        392-j.        Sales of sparkling devices.
+        392-j.       Sales of sparkling devices.
+        392-k.       Motor vehicle glass repair and replacement;
+                       calibration and recalibration of advanced driver
+                       assistance systems; consumer disclosure.
         393.         Lime; standard barrels.
         393-a.       Non fire rated wood paneling.
         393-b.       Written solicitation.
@@ -300,6 +306,7 @@ Section 390.         Substitution of spurious oils for internal
                        data.
         394-g.       Geofencing of health care facilities.
         394-h.       Electronic health information protections.
+        394-i.       Legally protected health activities.
         395.         Required disclosure of prior use.
         395-a.       Maintenance agreements.
         395-b.       Unlawfully installing or maintaining a two-way
@@ -387,6 +394,7 @@ Section 390.         Substitution of spurious oils for internal
         398-e.       Indemnity provision in motor carrier transportation
                        contracts.
         398-f.       Children's non-regulated camp.
+        398-g.       Kratom package labeling.
         399.         Cigarette package labeling.
         399-a.       Pay toilets; prohibition.
         399-aa.      Prohibition of the selling of fur, hair, skin or

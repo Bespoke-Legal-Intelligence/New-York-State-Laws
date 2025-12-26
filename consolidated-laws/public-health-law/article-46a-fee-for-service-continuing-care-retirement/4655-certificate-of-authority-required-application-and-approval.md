@@ -165,11 +165,10 @@ sixty days in advance of any change in the rates to be charged to a
 resident by the operator for any entrance fee, monthly care fee and/or
 any separate charges for the housing component including, but not
 limited to, cooperative or condominium fees.
-  5. If the approvals required by subdivision four-a of this section
-have been obtained, the council shall, by majority vote, either approve
-or reject the application within sixty days of the date on which the
-last such approval has been obtained. In order to approve the
-application, the council shall have determined that:
+  5. If the applicant has satisfied the criteria required by subdivision
+four-a of this section have been obtained, the commissioner shall either
+approve or reject the application. In order to approve the application,
+the commissioner shall have determined that:
   a. the proposed fee-for-service continuing care retirement community
 will meet a need and will fulfill the purposes of this article;
   b. the applicant has satisfied the requirements of this article;
@@ -199,7 +198,7 @@ the residential health care facility component.
   6. Any change in the legal entity operating the fee-for-service
 continuing care retirement community, or in a controlling person of the
 community shall require approval in the same manner as an original
-application; provided, however, that the council may waive any
+application; provided, however, that the commissioner may waive any
 requirement to provide information that is not relevant to such change
 and provided, further, that the continued public need for the community
 shall be presumed.
@@ -213,7 +212,7 @@ contract. In evaluating the disclosure statement and the contract prior
 to any commitment, it is recommended that you consult with an attorney
 and financial advisor of your choice, if you so elect, who can review
 these documents with you."
-  8. If the council approves the application, the commissioner shall
-issue a certificate of authority to the applicant.
+  8. The commissioner shall issue a certificate of authority to the
+applicant upon approval of the application.
   * NB There are 2 § 4655's
 ```

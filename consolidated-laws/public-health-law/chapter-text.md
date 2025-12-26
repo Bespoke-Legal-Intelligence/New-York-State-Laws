@@ -128,7 +128,7 @@ Article
   13-E.    Regulation of smoking and vaping in certain public areas (§§
             1399-n--1399-x).
   13-F.    Regulation of tobacco products and herbal cigarettes;
-            distribution to minors (§§ 1399-aa--1399-mm-3).
+            distribution to minors (§§ 1399-aa--1399-mmm).
   13-G.    Tobacco escrow funds (§§ 1399-nn--1399-pp).
   13-H.    Regulation of sharps (§§ 1399-ss--1399-ww).
   14.      Regulation of camps for children (§§ 1400-1408).

@@ -39,7 +39,7 @@
 - [§ 837-W Technological viability of microstamping-enabled firearms](837w-technological-viability-of-microstamping-enabled-firearms.md)
 - [§ 837-W\*2 Blue alert system](837w-2-blue-alert-system.md)
 - [§ 837-X Cooperation with certain out-of-state investigations](837x-cooperation-with-certain-out-of-state-investigations.md)
-- [§ 837-X\*2 Cooperation with certain out-of-state investigations](837x-2-cooperation-with-certain-out-of-state-investigations.md)
+- [§ 837-X\*2 Cooperation with certain out-of-state investigations](837x-2-cooperation-with-certain-out-of-state-investigations.md) *(repealed)*
 - [§ 837-Y New York state office of gun violence prevention](837y-new-york-state-office-of-gun-violence-prevention.md)
 - [§ 837-Z Law enforcement peer support program](837z-law-enforcement-peer-support-program.md)
 - [§ 838 Identification of unknown dead and missing persons](838-identification-of-unknown-dead-and-missing-persons.md)
@@ -119,7 +119,6 @@ Section 835.     Definitions.
                    firearms.
         837-w*2. Blue alert system.
         837-x.   Cooperation with certain out-of-state investigations.
-        837-x*2. Cooperation with certain out-of-state investigations.
         837-y.   New York state office of gun violence prevention.
         837-z.   Law enforcement peer support program.
         838.     Identification of unknown dead and missing persons.

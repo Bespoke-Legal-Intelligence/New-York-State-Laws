@@ -1,0 +1,14 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 27-0922", "kind": "section", "law_id": "ENV", "location_id": "27-0922", "path": "ARTICLE 27 › TITLE 9 › SECTION 27-0922", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/27-0922.md", "title": "Prohibitions"} -->
+# Environmental Conservation Law § 27-0922 — Prohibitions
+
+[Environmental Conservation Law](../../README.md) › [Article 27 — Reduction, Collection, Reuse, Recycling, Treatment and Disposal of Solid Waste](../README.md) › [Title 9 — Industrial Hazardous Waste Management](README.md)
+
+```text
+§ 27-0922. Prohibitions.
+  The use of waste oil or used oil or other material which is
+contaminated or mixed with any chlorinated dibenzo-p-dioxin, or any
+other hazardous waste identified or listed according to the regulations
+promulgated pursuant to section 27-0903 of this title (other than a
+waste identified solely on the basis of ignitability), for dust
+suppression or road treatment is prohibited.
+```

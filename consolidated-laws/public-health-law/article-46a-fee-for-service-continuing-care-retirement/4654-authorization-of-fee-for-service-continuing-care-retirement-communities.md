@@ -4,9 +4,8 @@
 [Public Health Law](../README.md) › [Article 46-A — Fee-for-service Continuing Care Retirement Communities Demonstration Program](README.md)
 
 ```text
-  * § 4654. Authorization of fee-for-service continuing care retirement
-communities. The commissioner, upon approval of the continuing care
-retirement community council, shall approve up to eight fee-for-service
+  § 4654. Authorization of fee-for-service continuing care retirement
+communities. The commissioner shall approve up to eight fee-for-service
 continuing care retirement communities to encourage affordable care
 options for middle income seniors, up to two of which may be operated by
 a for-profit entity.

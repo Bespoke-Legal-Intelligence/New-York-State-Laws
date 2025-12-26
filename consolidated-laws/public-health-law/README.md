@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBH |
 | Type | Consolidated law, chapter 45 |
-| Sections | 1,797 |
-| Last changed | 19 Dec 2025 |
+| Sections | 1,798 |
+| Last changed | 26 Dec 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Health |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [26 Dec 2025](../../changes/2025/2025-12-26.md): 38 amended, 1 added
 - [19 Dec 2025](../../changes/2025/2025-12-19.md): 1 amended, 2 added
 - [12 Dec 2025](../../changes/2025/2025-12-12.md): 3 amended, 1 added
 - [28 Nov 2025](../../changes/2025/2025-11-28.md): 17 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [24 Oct 2025](../../changes/2025/2025-10-24.md): 1 amended, 10 added, 1 removed
 - [3 Oct 2025](../../changes/2025/2025-10-03.md): 1 amended
 - [19 Sep 2025](../../changes/2025/2025-09-19.md): 2 amended
-- [12 Sep 2025](../../changes/2025/2025-09-12.md): 3 amended
 
 ## Contents
 
@@ -68,7 +68,7 @@ Assembly, do enact as follows:
 - [Article 13-B — Regulation of Overnight, Summer Day, and Traveling Summer Day Camps For Children](article-13b-regulation-of-overnight-summer-day-and-traveling/)
 - [Article 13-D — Regulation of Housing; Used As Accommodations By Employees of Certain Motels and Hotels](article-13d-regulation-of-housing-used-as-accommodations/)
 - [Article 13-E — Regulation of Smoking and Vaping In Certain Public Areas](article-13e-regulation-of-smoking-and-vaping-in-certain/)
-- [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes and Smoking Paraphernalia; Distribution to Minors](article-13f-regulation-of-tobacco-products-herbal-cigarettes/)
+- [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes, Kratom and Smoking Paraphernalia; Distribution to Minors](article-13f-regulation-of-tobacco-products-herbal-cigarettes/)
 - [Article 13-G — Tobacco Escrow Funds](article-13g-tobacco-escrow-funds/)
 - [Article 13-H — Regulation of Sharps](article-13h-regulation-of-sharps/)
 - [Article 14 — Regulation of Camps For Children](article-14-regulation-of-camps-for-children/)

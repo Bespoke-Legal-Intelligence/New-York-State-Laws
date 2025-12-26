@@ -136,7 +136,9 @@ reasonable belief that an act or omission that constitutes a crime under
 the law of the state of New York, any other state, or the United States
 has been committed by the licensee, the board for professional medical
 conduct or office of professional medical conduct shall notify the
-appropriate law enforcement official or authority.
+appropriate law enforcement official or authority except when the act or
+omission constitutes legally protected health activity, as defined by
+section 570.17 of the criminal procedure law.
   9-b. Neither the board for professional medical conduct nor the office
 of professional medical conduct shall charge a licensee with misconduct
 as defined in sections sixty-five hundred thirty and sixty-five hundred
@@ -163,25 +165,16 @@ sixty-five hundred thirty and sixty-five hundred thirty-one of the
 education law, or cause a report made to the director of such office to
 be investigated beyond a preliminary review as set forth in clause (A)
 of subparagraph (i) of paragraph (a) of subdivision ten of this section,
-where such report is determined to be based solely upon the performance,
-recommendation, or provision of any reproductive health services as
-defined in section sixty-five hundred thirty-one-b of the education law,
-or gender-affirming care, as defined in paragraph (c) of subdivision one
-of section sixty-five hundred thirty-one-b of the education law, for a
-particular patient by such licensee where such patient resides in a
-state wherein the performance, recommendation or provision of such
-reproductive health services or gender-affirming care is illegal.
+where such report is determined to be based solely upon any legally
+protected health activity, as defined by section 570.17 of the criminal
+procedure law.
   (b) When a licensee, acting within their scope of practice, and in
 accordance with paragraph e of subdivision four of section sixty-five
-hundred twenty-seven of the education law, performs, recommends or
-provides any reproductive health services or gender-affirming care for a
-patient who resides in a state wherein the performance, recommendation,
-or provision of any such reproductive health services or
-gender-affirming care is illegal, such performance, recommendation, or
-provision of such reproductive health services or gender-affirming care
-for such patient, shall not, by itself, constitute professional
-misconduct. The licensee shall otherwise abide by all other applicable
-professional requirements.
+hundred twenty-seven of the education law, engages in legally protected
+health activity, as defined by section 570.17 of the criminal procedure
+law, such legally protected activity shall not, by itself, constitute
+professional misconduct. The licensee shall otherwise abide by all other
+applicable professional requirements.
   10. Professional misconduct proceedings shall consist of:
   * (a) Investigation.  (i) (A) The board for professional medical
 conduct, by the director of the office of professional medical conduct,

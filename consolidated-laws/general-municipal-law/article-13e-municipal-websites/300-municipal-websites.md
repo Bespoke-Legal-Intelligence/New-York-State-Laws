@@ -4,7 +4,7 @@
 [General Municipal Law](../README.md) › [Article 13-E — Municipal Websites](README.md)
 
 ```text
-  * § 300. Municipal websites. 1. All municipal corporations having a
+  § 300. Municipal websites. 1. All municipal corporations having a
 population, as shown by the latest preceding decennial federal census,
 equal to or greater than one thousand five hundred persons, shall
 maintain an official website with a ".gov" domain name that is
@@ -38,5 +38,4 @@ that any municipal corporation having a population, as shown by the
 latest preceding decennial federal census, of less than one thousand
 five hundred persons, shall comply with the provisions of this section
 to the extent practicable.
-  * NB Effective December 21, 2025
 ```

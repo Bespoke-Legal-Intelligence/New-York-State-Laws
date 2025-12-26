@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"kind": "container", "law_id": "PBH", "location_id": "A13-F", "path": "ARTICLE 13-F", "source": "nys-laws:PBH/A13-F.md", "title": "Regulation of Tobacco Products, Herbal Cigarettes and Smoking Paraphernalia; Distribution to Minors"} -->
-# Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes and Smoking Paraphernalia; Distribution to Minors
+﻿<!-- nyslaw {"kind": "container", "law_id": "PBH", "location_id": "A13-F", "path": "ARTICLE 13-F", "source": "nys-laws:PBH/A13-F.md", "title": "Regulation of Tobacco Products, Herbal Cigarettes, Kratom and Smoking Paraphernalia; Distribution to Minors"} -->
+# Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes, Kratom and Smoking Paraphernalia; Distribution to Minors
 
 [Public Health Law](../README.md)
 
@@ -27,13 +27,14 @@
 - [§ 1399-MM-1 Sale of flavored products prohibited](1399mm-1-sale-of-flavored-products-prohibited.md)
 - [§ 1399-MM-2 Sale in pharmacies](1399mm-2-sale-in-pharmacies.md)
 - [§ 1399-MM-3 Carrier oils](1399mm-3-carrier-oils.md)
+- [§ 1399-MMM Sale of kratom prohibited](1399mmm-sale-of-kratom-prohibited.md)
 
 <details>
 <summary>Official heading of Article 13-F, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
                               ARTICLE 13-F
-      REGULATION OF TOBACCO PRODUCTS, HERBAL CIGARETTES AND SMOKING
+  REGULATION OF TOBACCO PRODUCTS, HERBAL CIGARETTES, KRATOM AND SMOKING
                   PARAPHERNALIA; DISTRIBUTION TO MINORS
 Section 1399-aa.   Definitions.
         1399-bb.   Distribution of tobacco products, vapor products, or
@@ -65,6 +66,7 @@ Section 1399-aa.   Definitions.
         1399-mm-1. Sale of flavored products prohibited.
         1399-mm-2. Sale in pharmacies.
         1399-mm-3. Carrier oils.
+        1399-mmm.  Sale of kratom prohibited.
 ```
 
 </details>

@@ -17,7 +17,7 @@
 - [§ 4137 Births; notice of recording](4137-births-notice-of-recording.md)
 - [§ 4138 Birth certificate; new certificate in case of subsequent marriage of unwed parents; adoption; adjudication of parentage; change of name o...](4138-birth-certificate-new-certificate-in-case-of-subsequent-marriage-of-unwed.md)
 - [§ 4138-A Certificate of birth data](4138a-certificate-of-birth-data.md)
-- [§ 4138-B Birth certificate: foreign country adoption](4138b-birth-certificate-foreign-country-adoption.md)
+- [§ 4138-B Birth certificate: foreign adoption](4138b-birth-certificate-foreign-adoption.md)
 - [§ 4138-C Adoption information registry](4138c-adoption-information-registry.md)
 - [§ 4138-D Mutual consent voluntary adoption registry](4138d-mutual-consent-voluntary-adoption-registry.md)
 - [§ 4138-E Adoptee's right to a certified copy of his or her birth certificate](4138e-adoptees-right-to-a-certified-copy-of-his-or-her-birth-certificate.md)

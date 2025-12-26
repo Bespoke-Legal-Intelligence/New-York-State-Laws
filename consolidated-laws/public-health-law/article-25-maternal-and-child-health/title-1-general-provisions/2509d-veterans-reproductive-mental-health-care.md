@@ -4,8 +4,8 @@
 [Public Health Law](../../README.md) › [Article 25 — Maternal and Child Health](../README.md) › [Title 1 — General Provisions](README.md)
 
 ```text
-  * § 2509-d. Veterans reproductive mental health care. 1. As used in
-this section:
+  § 2509-d. Veterans reproductive mental health care. 1. As used in this
+section:
   (a) "Maternal health care provider" means a physician, midwife, nurse
 practitioner, physician assistant, or other health care practitioner
 acting within their lawful scope of practice, attending a pregnant
@@ -60,5 +60,4 @@ not-for-profit corporations and other community resources.
   4. The commissioner, in consultation with the women veterans
 coordinator, shall make any regulations necessary to implement this
 section.
-  * NB Effective December 21, 2025
 ```

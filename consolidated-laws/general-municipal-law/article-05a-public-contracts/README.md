@@ -17,6 +17,7 @@
 - [§ 103-E Conspiracies to prevent competitive bidding or competitive offering on public contracts](103e-conspiracies-to-prevent-competitive-bidding-or-competitive-offering-on-public.md)
 - [§ 103-F Security bonds; municipal projects](103f-security-bonds-municipal-projects.md)
 - [§ 103-G Iranian energy sector divestment](103g-iranian-energy-sector-divestment.md)
+- [§ 103-H Restriction on purchasing certain technology which poses a security threat](103h-restriction-on-purchasing-certain-technology-which-poses-a-security-threat.md)
 - [§ 104 Purchase through office of general services; purchases from other public contracts; certain federal contracts](104-purchase-through-office-of-general-services-purchases-from-other-public.md)
 - [§ 104-A Purchasing of products for public use](104a-purchasing-of-products-for-public-use.md)
 - [§ 104-B Procurement policies and procedures](104b-procurement-policies-and-procedures.md)
@@ -33,6 +34,7 @@
 - [§ 109-B Installment contracts](109b-installment-contracts.md)
 - [§ 109-C Purchases through county contracts by certain not-for-profit corporations](109c-purchases-through-county-contracts-by-certain-not-for-profit-corporations.md)
 - [§ 109-D Emergency vehicle warranties](109d-emergency-vehicle-warranties.md)
+- [§ 109-E Additional requirements for right-of-way permits](109e-additional-requirements-for-right-of-way-permits.md)
 
 <details>
 <summary>Official heading of Article 5-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -58,6 +60,8 @@ Section 100.   Definitions.
                  competitive offering on public contracts.
         103-f. Security bonds; municipal projects.
         103-g. Iranian energy sector divestment.
+        103-h. Restriction on purchasing certain technology which poses
+                 a security threat.
         104.   Purchase through office of general services; purchases
                  from other public contracts; certain federal contracts.
         104-a. Purchasing of products for public use.
@@ -79,6 +83,7 @@ Section 100.   Definitions.
         109-c. Purchases through county contracts by certain
                  not-for-profit corporations.
         109-d. Emergency vehicle warranties.
+        109-e. Additional requirements for right-of-way permits.
 ```
 
 </details>

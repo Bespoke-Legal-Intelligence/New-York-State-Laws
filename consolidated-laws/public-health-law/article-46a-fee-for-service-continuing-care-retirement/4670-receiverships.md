@@ -4,42 +4,42 @@
 [Public Health Law](../README.md) › [Article 46-A — Fee-for-service Continuing Care Retirement Communities Demonstration Program](README.md)
 
 ```text
-  § 4670. Receiverships. 1. The council may, if it determines that
-serious operational deficiencies exist or serious financial problems
-exist and such action is desirable, enter into an agreement with the
-operator or owners of a fee-for-service continuing care retirement
-community with respect to the appointment of a receiver to take charge
-of the community under conditions as found acceptable by both parties.
-Receivership commenced in accordance with the provisions of this
-subdivision shall terminate at such time as may be provided in the
-receivership agreement, or at such time as either party notifies the
+  § 4670. Receiverships. 1. The commissioner may, upon a determination
+that serious operational deficiencies exist or serious financial
+problems exist and such action is desirable, enter into an agreement
+with the operator or owners of a fee-for-service continuing care
+retirement community with respect to the appointment of a receiver to
+take charge of the community under conditions as found acceptable by
+both parties. Receivership commenced in accordance with the provisions
+of this subdivision shall terminate at such time as may be provided in
+the receivership agreement, or at such time as either party notifies the
 other in writing that it wishes to terminate such receivership.
-  2. Upon request of the council, the commissioner shall, at the time of
-revocation, suspension or temporary suspension of a certificate of
-authority, apply to the supreme court where the community is situated
-for an order directing the owner of the land and/or structure on or in
-which the community is located, to show cause why a receiver should not
-be appointed to take charge of the community. In those cases where the
-certificate of authority has been revoked, suspended or temporarily
-suspended, the supreme court shall appoint a receiver that, where
-reasonably possible, is a legal entity that holds a valid certificate of
-authority. Such application shall contain proof by affidavit that the
-facility has had its certificate of authority revoked, suspended or
-temporarily suspended. Such order to show cause shall be returnable not
-less than five days after service is completed and shall provide for
-personal service of a copy thereof and the papers on which it is based,
-on the owner or owners of the land and/or structures on or in which the
-community is located. If any such owner and manager cannot with due
-diligence be served personally within the county where the property is
-located and within the time fixed in such order, then service may be
-made on such person by posting a copy thereof in a conspicuous place
-within the community in question, and by sending a copy thereof by
-registered mail, return receipt requested, to such owner at the last
-address registered by him or her with the department or in the absence
-of such registration to the address set forth in the last recorded deed
-with respect to the facility. Service shall be deemed complete on filing
-proof of service thereof in the office of the county clerk, or the clerk
-of the city of New York, as the case may be.
+  2. The commissioner shall, at the time of revocation, suspension or
+temporary suspension of a certificate of authority, apply to the supreme
+court where the community is situated for an order directing the owner
+of the land and/or structure on or in which the community is located, to
+show cause why a receiver should not be appointed to take charge of the
+community. In those cases where the certificate of authority has been
+revoked, suspended or temporarily suspended, the supreme court shall
+appoint a receiver that, where reasonably possible, is a legal entity
+that holds a valid certificate of authority. Such application shall
+contain proof by affidavit that the facility has had its certificate of
+authority revoked, suspended or temporarily suspended. Such order to
+show cause shall be returnable not less than five days after service is
+completed and shall provide for personal service of a copy thereof and
+the papers on which it is based, on the owner or owners of the land
+and/or structures on or in which the community is located. If any such
+owner and manager cannot with due diligence be served personally within
+the county where the property is located and within the time fixed in
+such order, then service may be made on such person by posting a copy
+thereof in a conspicuous place within the community in question, and by
+sending a copy thereof by registered mail, return receipt requested, to
+such owner at the last address registered by such owner with the
+department or in the absence of such registration to the address set
+forth in the last recorded deed with respect to the facility. Service
+shall be deemed complete on filing proof of service thereof in the
+office of the county clerk, or the clerk of the city of New York, as the
+case may be.
   3. On the return of said order to show cause, the matter shall have
 precedence over every other business of the court unless the court shall
 find that some other pending proceeding, having a similar statutory
@@ -112,11 +112,11 @@ nor shall any contract or rights be forfeited or impaired, nor any
 forfeiture or liability be incurred, by reason of any omission to pay
 any operator, owner, contractor or other person any sum so paid to the
 receiver.
-  8. Any other provision of this article notwithstanding, the council
-may, if it deems appropriate, grant to any community operating or
-scheduled to operate under a receivership authorized by this section a
-certificate of authority, the duration of which shall be limited to the
-duration of the receivership.
+  8. Any other provision of this article notwithstanding, the
+commissioner may, if such commissioner deems appropriate, grant to any
+community operating or scheduled to operate under a receivership
+authorized by this section a certificate of authority, the duration of
+which shall be limited to the duration of the receivership.
   9. a. No provision of this section shall be deemed to relieve the
 operator, owner or manager of any civil or criminal liability incurred,
 or any duty imposed by law, by reason of acts or omissions of the

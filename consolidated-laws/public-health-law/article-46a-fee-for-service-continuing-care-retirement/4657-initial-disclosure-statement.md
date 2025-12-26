@@ -119,14 +119,14 @@ organization subscriber contract;
 community must clearly include a description of the services offered as
 part of its contract, and must clearly differentiate among the various
 types of contracts which it offers;
-  14. In accordance with regulations promulgated by the council, the
-operator shall prepare a standard information sheet for each approved
-fee-for-service continuing care retirement community, which must be
-approved by the department, distributed with the community's marketing
-materials and attached to the initial disclosure statement prepared in
-accordance with this section. The standard information sheet shall be
-prepared in plain language and in twelve point type and shall include,
-but shall not be limited to the following information:
+  14. In accordance with regulations promulgated by the commissioner,
+the operator shall prepare a standard information sheet for each
+approved fee-for-service continuing care retirement community, which
+must be approved by the department, distributed with the community's
+marketing materials and attached to the initial disclosure statement
+prepared in accordance with this section. The standard information sheet
+shall be prepared in plain language and in twelve point type and shall
+include, but shall not be limited to the following information:
   a. a brief description of the community, including its name and
 location and amenities and services available;
   b. the name, address, and telephone number of the operator and a
@@ -143,6 +143,6 @@ consumer in comparing the benefits and costs of different continuing
 care retirement communities and fee-for-service continuing care
 retirement communities; and
   15. Any other information as may be required by regulations
-promulgated by the council.
+promulgated by the commissioner.
   * NB There are 2 § 4657's
 ```

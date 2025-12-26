@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Public Health Law § 1399-GG", "kind": "section", "law_id": "PBH", "location_id": "1399-GG", "path": "ARTICLE 13-F › SECTION 1399-GG", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/1399-GG.md", "title": "Out-of-package sales and minimum package sizes"} -->
 # Public Health Law § 1399-GG — Out-of-package sales and minimum package sizes
 
-[Public Health Law](../README.md) › [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes and Smoking Paraphernalia; Distribution to Minors](README.md)
+[Public Health Law](../README.md) › [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes, Kratom and Smoking Paraphernalia; Distribution to Minors](README.md)
 
 ```text
   § 1399-gg. Out-of-package sales and minimum package sizes. 1. All

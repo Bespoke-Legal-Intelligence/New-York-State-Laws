@@ -5,7 +5,7 @@
 
 ```text
   § 4668. Revocation, suspension or annulment of certificate of
-authority. 1. The council may revoke, suspend, limit or annul the
+authority.  1. The commissioner may revoke, suspend, limit or annul the
 certificate of authority of an operator upon proof that:
   a. The operator failed to continue to meet the requirements for the
 authority originally granted;
@@ -46,8 +46,8 @@ shall not abridge the full time provided in this subdivision.
   3. Any state agency which seeks to revoke, suspend, limit or annul the
 certificate of authority or any other license or certificate required to
 be obtained by an operator of a community pursuant to law, shall request
-the council to commence a hearing pursuant to this section.
-  4. The council shall fix a time and place for the hearing. The
+the commissioner to commence a hearing pursuant to this section.
+  4. The commissioner shall fix a time and place for the hearing. The
 commissioner shall cause to be served in person or mailed by registered
 or certified mail to the operator at least ten days before the date
 fixed for the hearing a copy of the charges, together with the notice of

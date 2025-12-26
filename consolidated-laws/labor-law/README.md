@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | LAB |
 | Type | Consolidated law, chapter 31 |
-| Sections | 765 |
-| Last changed | 19 Dec 2025 |
+| Sections | 774 |
+| Last changed | 26 Dec 2025 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Labor |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                                LABOR LAW.
 ```
 
-[Full chapter text (84 lines)](chapter-text.md)
+[Full chapter text (86 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [26 Dec 2025](../../changes/2025/2025-12-26.md): 1 amended, 9 added
 - [19 Dec 2025](../../changes/2025/2025-12-19.md): 3 amended, 2 added, 1 removed
 - [12 Sep 2025](../../changes/2025/2025-09-12.md): 3 amended
 - [15 Aug 2025](../../changes/2025/2025-08-15.md): 2 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [16 May 2025](../../changes/2025/2025-05-16.md): 25 amended
 - [14 Mar 2025](../../changes/2025/2025-03-14.md): 2 amended
 - [7 Mar 2025](../../changes/2025/2025-03-07.md): 1 amended
-- [21 Feb 2025](../../changes/2025/2025-02-21.md): 16 amended, 1 repealed
 
 ## Contents
 
@@ -79,6 +79,7 @@ Assembly, do enact as follows:
 - [Article 21 — New York Call Center Jobs Act](article-21-new-york-call-center-jobs-act/)
 - [Article 21-A — Warehouse Worker Protection Act](article-21a-warehouse-worker-protection-act/)
 - [Article 21-B — Protection of Call Center Workers From Displacement](article-21b-protection-of-call-center-workers/)
+- [Article 21-C — Tower Technician Protections](article-21c-tower-technician-protections/)
 - [Article 22 — Boards of Inquiry In Labor Disputes](article-22-boards-of-inquiry-in-labor-disputes/)
 - [Article 22-A — Injunctions In Labor Disputes](article-22a-injunctions-in-labor-disputes/)
 - [Article 23 — Apprenticeship Training](article-23-apprenticeship-training/)
@@ -102,4 +103,5 @@ Assembly, do enact as follows:
 - [Article 34 — Certification of Public Service Employment](article-34-certification-of-public-service-employment/)
 - [Article 35 — New York Youth Jobs Connector Program](article-35-new-york-youth-jobs-connector-program/)
 - [Article 36 — New York State Fashion Workers Act](article-36-new-york-state-fashion-workers-act/)
+- [Article 37 — Trapped At Work Act](article-37-trapped-at-work-act/)
 - [Article 40 — When to Take Effect](article-40-when-to-take-effect/)

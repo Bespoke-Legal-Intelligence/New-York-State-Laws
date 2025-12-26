@@ -7,11 +7,11 @@
 
 - [§ 4600 Legislative findings and purpose](4600-legislative-findings-and-purpose.md)
 - [§ 4601 Definitions](4601-definitions.md)
-- [§ 4602 Continuing care retirement community council; powers and duties](4602-continuing-care-retirement-community-council-powers-and-duties.md)
-- [§ 4603 Commissioner; powers and duties](4603-commissioner-powers-and-duties.md)
+- [§ 4602 Commissioner; powers and duties](4602-commissioner-powers-and-duties.md)
+- [§ 4603 Continuing care retirement community council; powers and duties](4603-continuing-care-retirement-community-council-powers-and-duties.md)
 - [§ 4603-A Residential health care demonstration facilities](4603a-residential-health-care-demonstration-facilities.md)
 - [§ 4604 Certificate of authority required; application and approval](4604-certificate-of-authority-required-application-and-approval.md)
-- [§ 4604-A Council approval required for industrial development agency financing in connection with continuing care retirement communities](4604a-council-approval-required-for-industrial-development-agency-financing.md)
+- [§ 4604-A Commissioner approval required for industrial development agency financing in connection with continuing care retirement communities](4604a-commissioner-approval-required-for-industrial-development-agency-financing.md)
 - [§ 4605 Certificate of authority; authority of operator](4605-certificate-of-authority-authority-of-operator.md)
 - [§ 4605-A Certificate of authority; authority to offer continuing care at home contracts](4605a-certificate-of-authority-authority-to-offer-continuing-care-at-home-contracts.md)
 - [§ 4605-B Certificate of authority; limitation on continuing care at home contracts](4605b-certificate-of-authority-limitation-on-continuing-care-at-home-contracts.md)
@@ -44,15 +44,15 @@
                  CONTINUING CARE RETIREMENT COMMUNITIES
 Section 4600.   Legislative findings and purpose.
         4601.   Definitions.
-        4602.   Continuing care retirement community council; powers and
+        4602.   Commissioner; powers and duties.
+        4603.   Continuing care retirement community council; powers and
                   duties.
-        4603.   Commissioner; powers and duties.
         4603-a. Residential health care demonstration facilities.
         4604.   Certificate of authority required; application and
                   approval.
-        4604-a. Council approval required for industrial development
-                  agency financing in connection with continuing care
-                  retirement communities.
+        4604-a. Commissioner approval required for industrial
+                  development agency financing in connection with
+                  continuing care retirement communities.
         4605.   Certificate of authority; authority of operator.
         4605-a. Certificate of authority; authority to offer continuing
                   care at home contracts.

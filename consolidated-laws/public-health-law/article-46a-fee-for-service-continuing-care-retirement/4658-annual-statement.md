@@ -12,7 +12,7 @@ calendar or fiscal year. If the commissioner does not receive the annual
 statement within four months of the end of the operator's fiscal year or
 has not granted an extension of time to file, the council may charge a
 late fee.
-  2. The annual statement shall be in such form as the council
+  2. The annual statement shall be in such form as the commissioner
 prescribes and shall contain at least the following:
   a. Any change in status with respect to the information required to be
 submitted pursuant to section forty-six hundred fifty-seven of this
@@ -29,8 +29,8 @@ income and expenses, (C) a statement of equity or fund balances, and (D)
 a statement of changes in financial position;
   c. A detailed listing of the assets maintained for the reserves; and
   d. Such other reasonable financial and other information as the
-council may require with respect to the operator or the community, or
-its directors, controlling persons, trustees, members, branches,
+commissioner may require with respect to the operator or the community,
+or its directors, controlling persons, trustees, members, branches,
 subsidiaries or affiliates to determine the financial status of the
 community and the management capabilities of the operator.
   3. Sixty days before commencement of each calendar or fiscal year or

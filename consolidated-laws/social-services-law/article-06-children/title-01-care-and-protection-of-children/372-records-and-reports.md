@@ -4,47 +4,11 @@
 [Social Services Law](../../README.md) › [Article 6 — Children](../README.md) › [Title 1 — Care and Protection of Children](README.md)
 
 ```text
-  § 372. Records and reports.  * 1. Every court, and every public board,
+  § 372. Records and reports. 1. Every court, and every public board,
 commission, institution, or officer having powers or charged with duties
 in relation to abandoned, delinquent, destitute, neglected or dependent
 children who shall receive, accept or commit any child shall provide and
 keep a record showing:
-  (a) the full and true name of the child,
-  (b) his sex and date and place of birth, if ascertainable, or his
-apparent age,
-  (c) the full and true names and places of birth of his parents, and
-their actual residence if living, or their latest known residence, if
-deceased or whereabouts unknown and the name and actual residence of any
-other person having custody of the child, as nearly as the same can
-reasonably be ascertained,
-  (d) the religious faith of the parents and of the child,
-  (e) the name and address of any person, agency, institution or other
-organization to which the child is committed, placed out, boarded out,
-or otherwise given into care, custody or control,
-  (f) the religious faith and occupation of the head or heads of the
-family with whom the child is placed out or boarded out and their
-relationship, if any, to the child,
-  (g) if any such child shall die, the date and cause of death and place
-of burial,
-  (h) any further disposition or change in care, custody or control of
-the child,
-  (i) the date or dates of reception and of any subsequent disposition
-or change in care, custody or control and, in case of adoption, the name
-and title of the judge or surrogate making the order of adoption, the
-date of such order and the date and place of filing of such order,
-  (j) the reasons for any act performed in reference to such child
-herein required to be recorded, together with such further information
-as the department may require; and shall make to the department upon
-blanks provided by the department reports of each such child placed out,
-or boarded out, containing the information herein required to be kept;
-and shall furnish such information to any authorized agency to which any
-such child shall be committed or otherwise given into custody.
-  * NB Effective until December 21, 2025
-  * 1. Every court, and every public board, commission, institution, or
-officer having powers or charged with duties in relation to abandoned,
-delinquent, destitute, neglected or dependent children who shall
-receive, accept or commit any child shall provide and keep a record
-showing:
   (a) the full and true name of the child;
   (b) the child's sex and date and place of birth, if ascertainable, or
 the child's apparent age;
@@ -78,7 +42,6 @@ such child shall be committed or otherwise given into custody; and
   (k) if any such child shall have a developmental disability as defined
 pursuant to subdivision twenty-two of section 1.03 of the mental hygiene
 law, and, if so, the type of such developmental disability.
-  * NB Effective December 21, 2025
   2. Every charitable, eleemosynary, reformatory, or correctional
 institution, public or private, incorporated or unincorporated, and
 every agency, association, corporation, institution, society or other

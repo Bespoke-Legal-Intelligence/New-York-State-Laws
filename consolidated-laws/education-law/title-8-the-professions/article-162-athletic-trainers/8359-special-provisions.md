@@ -4,8 +4,7 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 162 — Athletic Trainers](README.md)
 
 ```text
-  * § 8359. Special provisions. Any person who is certified as an
-athletic trainer on the effective date of this article shall be licensed
-as an athletic trainer without meeting any additional requirements.
-  * NB Effective December 22, 2025
+  § 8359. Special provisions. Any person who is certified as an athletic
+trainer on the effective date of this article shall be licensed as an
+athletic trainer without meeting any additional requirements.
 ```
