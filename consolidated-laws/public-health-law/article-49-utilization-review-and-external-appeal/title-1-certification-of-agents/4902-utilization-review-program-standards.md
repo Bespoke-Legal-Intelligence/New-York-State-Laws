@@ -139,7 +139,7 @@ override determination, a utilization review agent shall utilize, in
 addition to any other requirements of this article, recognized
 evidence-based and peer reviewed clinical review criteria that is
 appropriate for the enrollee and the enrollee's medical condition.
-  * 5. When establishing a step therapy protocol, a utilization review
+  5. When establishing a step therapy protocol, a utilization review
 agent shall ensure that the protocol cannot:
   (a) require a prescription drug that has not been approved by the
 United States Food and Drug Administration for the medical condition
@@ -170,12 +170,10 @@ management change that impacts the coverage criteria for the prescribed
 drug until the approved override expires, unless a specifically
 identified and evidence-based safety concern exists and a different
 therapeutic alternative drug exists.
-  * NB Effective January 1, 2026
-  * 6. When establishing a step therapy protocol, a utilization review
+  6. When establishing a step therapy protocol, a utilization review
 agent shall ensure that the protocol accepts any written or electronic
 attestation submitted by the enrollee's health care professional, as
 defined in section forty-nine hundred of this title, who prescribed the
 drug and stating that a required drug has failed, as evidence that the
 required drug has failed.
-  * NB Effective January 1, 2026
 ```

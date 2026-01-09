@@ -27,7 +27,7 @@
 <summary>Official heading of Article 13-F, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                            * ARTICLE XIII-F
+                             ARTICLE XIII-F
                       UNIFORM SPECIAL DEPOSITS ACT
 Section 680.   Short title.
         680-a. Definitions.
@@ -46,7 +46,6 @@ Section 680.   Short title.
         680-n. Uniformity of application and construction.
         680-o. Transitional provision.
         680-p. Severability.
-  * NB Effective January 1, 2026
 ```
 
 </details>

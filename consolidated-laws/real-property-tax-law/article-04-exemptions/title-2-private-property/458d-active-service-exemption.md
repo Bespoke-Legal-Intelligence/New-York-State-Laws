@@ -4,7 +4,7 @@
 [Real Property Tax Law](../../README.md) › [Article 4 — Exemptions](../README.md) › [Title 2 — Private Property](README.md)
 
 ```text
-  * § 458-d. Active service exemption. 1. For the purposes of this
+  § 458-d. Active service exemption. 1. For the purposes of this
 section:
   (a) "active military service member" shall mean an individual serving
 on active duty.
@@ -75,5 +75,4 @@ March of the appropriate year.
 repealed by the governing body of the applicable county, city, town, or
 village. Such repeal shall occur at least ninety days prior to the
 taxable status date of such county, city, town, or village.
-  * NB Effective January 2, 2026
 ```

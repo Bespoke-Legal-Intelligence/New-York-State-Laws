@@ -4,7 +4,7 @@
 [Banking Law](../README.md) › [Article 13-F — Uniform Special Deposits Act](README.md)
 
 ```text
-  * § 680-j. Recoupment or set off. 1. Except as provided in subdivision
+  § 680-j. Recoupment or set off. 1. Except as provided in subdivision
 two or three of this section, a bank shall not exercise a right of
 recoupment or set off against a special deposit.
   2. An account agreement may authorize the bank to debit the special
@@ -22,5 +22,4 @@ and restitution.
   3. The bank holding a special deposit may exercise a right of
 recoupment or set off against an obligation to pay a beneficiary, even
 if the bank funds payment from the special deposit.
-  * NB Effective January 1, 2026
 ```

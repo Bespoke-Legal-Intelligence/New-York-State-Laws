@@ -44,5 +44,5 @@ equipment; or
 guarantee to replace information and communications technology resident
 in equipment, systems, or services before the effective date of this
 section.
-  * NB Effective December 19, 2028
+  * NB Effective December 19, 2027
 ```

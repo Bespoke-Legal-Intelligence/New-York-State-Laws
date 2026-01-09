@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 100-B", "kind": "section", "law_id": "EXC", "location_id": "100-B", "path": "ARTICLE 6 › SECTION 100-B", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/100-B.md", "title": "Business entity database"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 100-B", "kind": "section", "law_id": "EXC", "location_id": "100-B", "path": "ARTICLE 6 › SECTION 100-B", "repealed": true, "repealed_date": "2026-01-09", "source": "nys-laws:EXC/100-B.md", "title": "Business entity database"} -->
 # Executive Law § 100-B — Business entity database
 
 [Executive Law](../README.md) › [Article 6 — Department of State](README.md)
+
+**Repealed** (9 Jan 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 100-b. Business entity database. 1. The secretary of state shall

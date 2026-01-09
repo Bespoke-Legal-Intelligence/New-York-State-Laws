@@ -4,7 +4,7 @@
 [Real Property Tax Law](../../README.md) › [Article 4 — Exemptions](../README.md) › [Title 2 — Private Property](README.md)
 
 ```text
-  * § 471. Surviving spouses of police officers killed in the line of
+  § 471. Surviving spouses of police officers killed in the line of
 duty. 1. After the local legislative body of a county, city, town, or
 village passes a local law, or a school district passes a resolution,
 notwithstanding any other provision of law, real property owned by a
@@ -59,5 +59,4 @@ town, special district and county assessor's office. The listing of
 acceptable records shall be made available on the internet websites of
 the division of criminal justice services and the office of real
 property tax services.
-  * NB Effective January 1, 2026
 ```

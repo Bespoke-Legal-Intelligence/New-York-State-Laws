@@ -4,8 +4,8 @@
 [Real Property Tax Law](../../README.md) › [Article 4 — Exemptions](../README.md) › [Title 2 — Private Property](README.md)
 
 ```text
-  * § 465. Volunteer auxiliary police officers; certain counties. 1.
-Real property owned by an active auxiliary police officer in a local law
+  § 465. Volunteer auxiliary police officers; certain counties. 1. Real
+property owned by an active auxiliary police officer in a local law
 enforcement agency or such active officer and spouse residing in any
 county having a population of more than three hundred thirty-eight
 thousand and less than three hundred forty thousand, determined in
@@ -48,5 +48,4 @@ the exemption if such applicant receives either a real property tax
 exemption pursuant to this title, or an income tax credit pursuant to
 section six hundred six of the tax law, related to services as a
 volunteer firefighter or ambulance worker.
-  * NB Effective January 1, 2026
 ```

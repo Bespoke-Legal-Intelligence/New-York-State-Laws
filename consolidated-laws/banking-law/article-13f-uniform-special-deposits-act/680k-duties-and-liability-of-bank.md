@@ -4,7 +4,7 @@
 [Banking Law](../README.md) › [Article 13-F — Uniform Special Deposits Act](README.md)
 
 ```text
-  * § 680-k. Duties and liability of bank. 1. A bank does not have a
+  § 680-k. Duties and liability of bank. 1. A bank does not have a
 fiduciary duty to any person with respect to a special deposit.
   2. When the bank holding a special deposit becomes obligated to pay a
 beneficiary, a debtor-creditor relationship arises between the bank and
@@ -28,5 +28,4 @@ appears on its face to be genuine.
   7. Unless the account agreement provides otherwise, the bank is not
 required to determine whether a permissible purpose stated in the
 agreement continues to exist.
-  * NB Effective January 1, 2026
 ```

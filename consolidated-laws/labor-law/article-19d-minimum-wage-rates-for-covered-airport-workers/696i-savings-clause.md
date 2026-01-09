@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Labor Law § 696-I", "kind": "section", "law_id": "LAB", "location_id": "696-I", "path": "ARTICLE 19-D › SECTION 696-I", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/696-I.md", "title": "Savings clause"} -->
+﻿<!-- nyslaw {"citation": "Labor Law § 696-I", "kind": "section", "law_id": "LAB", "location_id": "696-I", "path": "ARTICLE 19-D › SECTION 696-I", "repealed": true, "repealed_date": "2026-01-09", "source": "nys-laws:LAB/696-I.md", "title": "Savings clause"} -->
 # Labor Law § 696-I — Savings clause
 
 [Labor Law](../README.md) › [Article 19-D — Minimum Wage Rates For Covered Airport Workers](README.md)
+
+**Repealed** (9 Jan 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 696-i. Savings clause. 1. If any provision of this article or the

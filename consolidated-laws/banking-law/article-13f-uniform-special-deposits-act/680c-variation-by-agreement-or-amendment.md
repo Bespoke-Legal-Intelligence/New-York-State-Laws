@@ -4,7 +4,7 @@
 [Banking Law](../README.md) › [Article 13-F — Uniform Special Deposits Act](README.md)
 
 ```text
-  * § 680-c. Variation by agreement or amendment. 1. The effect of this
+  § 680-c. Variation by agreement or amendment. 1. The effect of this
 section and sections six hundred eighty-a, six hundred eighty-b, six
 hundred eighty-d, six hundred eighty-e, six hundred eighty-g, six
 hundred eighty-h, six hundred eighty-i, six hundred eighty-j and six
@@ -30,5 +30,4 @@ bank and the depositor do not know whether the beneficiary has knowledge
 of the agreement's terms, the bank and the depositor may amend the
 agreement without the consent of the beneficiary only if the amendment
 is made in good faith.
-  * NB Effective January 1, 2026
 ```

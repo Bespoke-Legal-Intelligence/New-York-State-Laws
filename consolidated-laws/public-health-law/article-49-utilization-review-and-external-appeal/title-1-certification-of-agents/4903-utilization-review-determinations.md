@@ -121,12 +121,7 @@ twenty-four hours of the receipt of information that includes supporting
 rationale and documentation from a health care professional
 demonstrating one or more of the standards provided for in subdivision
 three-a of this section.
-  * 3-c. Upon a determination that the step therapy protocol should be
-overridden, the health plan shall authorize immediate coverage for the
-prescription drug or drugs prescribed by the enrollee's treating health
-care professional.
-  * NB Effective until January 1, 2026
-  * 3-c. Upon a determination that the step therapy protocol should be
+  3-c. Upon a determination that the step therapy protocol should be
 overridden, the health care plan shall authorize immediate coverage for
 the prescription drug or drugs prescribed by the enrollee's treating
 health care professional. Any approval of a step therapy protocol
@@ -134,7 +129,6 @@ override determination request shall be honored until the lesser of
 either treatment duration based on current evidence-based treatment
 guidelines or twelve months following the date of the approval of the
 request or renewal of the enrollee's coverage.
-  * NB Effective January 1, 2026
   4. A utilization review agent shall make a utilization review
 determination involving health care services which have been delivered
 within thirty days of receipt of the necessary information.
@@ -179,17 +173,7 @@ upheld after reconsideration, the utilization review agent shall provide
 notice as required pursuant to subdivision five of this section. Nothing
 in this section shall preclude the enrollee from initiating an appeal
 from an adverse determination.
-  * 7. Failure by the utilization review agent to make a determination
-within the time periods prescribed in this section shall be deemed to be
-an adverse determination subject to appeal pursuant to section
-forty-nine hundred four of this title, provided, however, that failure
-to meet such time periods for a step therapy protocol as defined in
-subdivision seven-f-three of section forty-nine hundred of this title or
-a step therapy protocol override determination pursuant to subdivisions
-three-a, three-b and three-c of this section shall be deemed to be an
-override of the step therapy protocol.
-  * NB Effective until January 1, 2026
-  * 7. Failure by the utilization review agent to make a determination
+  7. Failure by the utilization review agent to make a determination
 within the time periods prescribed in this section shall be deemed to be
 an adverse determination subject to appeal pursuant to section
 forty-nine hundred four of this title, provided, however, that failure
@@ -202,7 +186,6 @@ failure to comply with any of the step therapy protocol requirements
 required in subdivisions five and six of section forty-nine hundred two
 of this title shall be considered a basis for granting an override of
 the step therapy protocol, absent fraud.
-  * NB Effective January 1, 2026
   8. The commissioner, in conjunction with the superintendent of
 financial services, shall develop standards for prior authorization
 requests to be utilized by all health care plans for the purposes of

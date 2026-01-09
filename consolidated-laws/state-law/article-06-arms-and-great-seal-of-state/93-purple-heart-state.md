@@ -4,8 +4,7 @@
 [State Law](../README.md) › [Article 6 — Arms and Great Seal of State](README.md)
 
 ```text
-  * § 93. Purple Heart state. The state of New York is designated a
+  § 93. Purple Heart state. The state of New York is designated a
 "purple heart state", honoring our combat veterans for their service and
 sacrifice.
-  * NB Effective January 1, 2026
 ```

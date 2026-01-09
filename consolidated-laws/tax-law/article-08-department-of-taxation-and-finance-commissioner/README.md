@@ -27,7 +27,7 @@
 - [§ 171-P Costs or fees imposed by the United States or other states for crediting tax overpayments against outstanding tax debts owed to the state...](171p-costs-or-fees-imposed-by-the-united-states-or-other-states-for-crediting-tax.md)
 - [§ 171-R Brownfield credit report](171r-brownfield-credit-report.md)
 - [§ 171-T Reciprocal offset agreements with the United States or other states](171t-reciprocal-offset-agreements-with-the-united-states-or-other-states.md)
-- [§ 171-U Verification of income eligibility for basic STAR exemption](171u-verification-of-income-eligibility-for-basic-star-exemption.md)
+- [§ 171-U Verification of eligibility for STAR exemption](171u-verification-of-eligibility-for-star-exemption.md)
 - [§ 171-V Enforcement of delinquent tax liabilities through the suspension of drivers' licenses](171v-enforcement-of-delinquent-tax-liabilities-through-the-suspension-of-drivers.md)
 - [§ 171-W State support for the local enforcement of past-due property taxes](171w-state-support-for-the-local-enforcement-of-past-due-property-taxes.md)
 - [§ 171-Z Information sharing with the comptroller regarding unclaimed funds](171z-information-sharing-with-the-comptroller-regarding-unclaimed-funds.md)

@@ -1,17 +1,10 @@
-﻿<!-- nyslaw {"citation": "Labor Law § 696-C", "kind": "section", "law_id": "LAB", "location_id": "696-C", "path": "ARTICLE 19-D › SECTION 696-C", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/696-C.md", "title": "Minimum wage rate for covered airport workers"} -->
-# Labor Law § 696-C — Minimum wage rate for covered airport workers
+﻿<!-- nyslaw {"citation": "Labor Law § 696-C", "kind": "section", "law_id": "LAB", "location_id": "696-C", "path": "ARTICLE 19-D › SECTION 696-C", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/696-C.md", "title": "Commissioner's powers of investigation"} -->
+# Labor Law § 696-C — Commissioner's powers of investigation
 
 [Labor Law](../README.md) › [Article 19-D — Minimum Wage Rates For Covered Airport Workers](README.md)
 
 ```text
-  * § 696-c. Minimum wage rate for covered airport workers. All covered
-employers shall ensure that every covered airport worker is compensated
-at a rate that is no less than the applicable standard rate. Nothing in
-this article shall alter or limit any employer's obligation to pay any
-otherwise applicable prevailing wage under article eight or nine of this
-chapter.
-  * NB Effective until January 1, 2026
-  * § 696-c. Commissioner's powers of investigation. The commissioner or
+  § 696-c. Commissioner's powers of investigation. The commissioner or
 such commissioner's authorized representative shall have the power to:
   1. investigate the compensation of covered airport workers in the
 state;
@@ -24,5 +17,4 @@ rules and regulations promulgated hereunder are being complied with; and
   3. require from any employer full and correct statements and reports
 in writing, at such times as the commissioner may deem necessary, of the
 compensation provided to and the hours by such employer's employees.
-  * NB Effective January 1, 2026
 ```

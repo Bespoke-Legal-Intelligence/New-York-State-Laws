@@ -4,7 +4,7 @@
 [Banking Law](../README.md) › [Article 13-F — Uniform Special Deposits Act](README.md)
 
 ```text
-  * § 680-o. Transitional provision. This article applies to:
+  § 680-o. Transitional provision. This article applies to:
   1. a special deposit made under an account agreement executed on or
 after the effective date of this article; and
   2. a deposit made under an agreement executed before the effective
@@ -13,5 +13,4 @@ date of this article, if:
 deposit a special deposit governed by this article; and
   (b) the special deposit referenced in the amended agreement satisfies
 the provisions of section six hundred eighty-d of this article.
-  * NB Effective January 1, 2026
 ```

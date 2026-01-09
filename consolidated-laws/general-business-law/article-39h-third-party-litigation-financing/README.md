@@ -34,6 +34,7 @@ Section 899-ccc. Definitions.
         899-kkk. Registration.
         899-lll. Reporting.
         899-mmm. Severability.
+  * NB Effective June 17, 2026
 ```
 
 </details>

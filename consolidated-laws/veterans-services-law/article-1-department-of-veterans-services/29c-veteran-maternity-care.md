@@ -4,7 +4,7 @@
 [Veterans' Services Law](../README.md) › [Article 1 — Department of Veterans' Services](README.md)
 
 ```text
-  * § 29-c. Veteran maternity care. The women veterans coordinator shall
+  § 29-c. Veteran maternity care. The women veterans coordinator shall
 administer a veteran maternity care program. The duties and
 responsibilities of the women veterans coordinator with respect to such
 program shall be:
@@ -34,5 +34,4 @@ courses for non-department medical professionals provided on the
 internet website of the U.S. Department of Veterans Affairs pursuant to
 section 123 of the VA Maintaining Internal Systems and Strengthening
 Integrated Outside Networks Act of 2018 (P.L.115-182);
-  * NB Effective December 21, 2025
 ```

@@ -4,7 +4,7 @@
 [Banking Law](../README.md) › [Article 13-F — Uniform Special Deposits Act](README.md)
 
 ```text
-  * § 680-l. Term and termination. 1. Unless otherwise provided in the
+  § 680-l. Term and termination. 1. Unless otherwise provided in the
 account agreement, a special deposit terminates five years after the
 date the special deposit was first funded.
   2. Unless otherwise provided in the account agreement, if the bank
@@ -15,5 +15,4 @@ as a beneficiary or beneficiaries.
   3. A bank that pays the remaining balance as provided under
 subdivision two of this section has no further obligation with respect
 to the special deposit.
-  * NB Effective January 1, 2026
 ```

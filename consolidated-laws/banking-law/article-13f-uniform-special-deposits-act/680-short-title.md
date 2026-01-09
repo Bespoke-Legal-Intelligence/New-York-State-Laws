@@ -4,7 +4,6 @@
 [Banking Law](../README.md) › [Article 13-F — Uniform Special Deposits Act](README.md)
 
 ```text
-  * § 680. Short title. This article shall be known and may be cited as
+  § 680. Short title. This article shall be known and may be cited as
 the "uniform special deposits act".
-  * NB Effective January 1, 2026
 ```

@@ -4,7 +4,7 @@
 [Banking Law](../README.md) › [Article 13-F — Uniform Special Deposits Act](README.md)
 
 ```text
-  * § 680-b. Scope; choice of law; forum. 1. This article applies to a
+  § 680-b. Scope; choice of law; forum. 1. This article applies to a
 special deposit under an account agreement that states the intention of
 the parties to establish a special deposit governed by this article,
 regardless of whether a party to the account agreement or a transaction
@@ -20,5 +20,4 @@ reasonable relation to this state.
 deposit under this article; or
   (b) the voidability of a deposit or transfer that is fraudulent or
 voidable under other law.
-  * NB Effective January 1, 2026
 ```

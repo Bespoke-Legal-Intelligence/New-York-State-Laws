@@ -8,7 +8,7 @@
 | Senate code | CNS |
 | Type | Constitution |
 | Sections | 201 |
-| Last changed | 10 Jan 2025 |
+| Last changed | 9 Jan 2026 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Constitution |
 
@@ -29,6 +29,7 @@
 
 ## Recent changes
 
+- [9 Jan 2026](../changes/2026/2026-01-09.md): 1 amended
 - [10 Jan 2025](../changes/2025/2025-01-10.md): 1 amended
 - [12 Jan 2024](../changes/2024/2024-01-12.md): 2 amended
 - [7 Jan 2022](../changes/2022/2022-01-07.md): 1 amended, 1 added

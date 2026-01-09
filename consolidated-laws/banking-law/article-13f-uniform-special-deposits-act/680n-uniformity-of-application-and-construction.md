@@ -4,9 +4,8 @@
 [Banking Law](../README.md) › [Article 13-F — Uniform Special Deposits Act](README.md)
 
 ```text
-  * § 680-n. Uniformity of application and construction. In applying and
+  § 680-n. Uniformity of application and construction. In applying and
 construing the provisions of this uniform special deposits act, a court
 shall consider the promotion of uniformity of the law among
 jurisdictions that enact it.
-  * NB Effective January 1, 2026
 ```

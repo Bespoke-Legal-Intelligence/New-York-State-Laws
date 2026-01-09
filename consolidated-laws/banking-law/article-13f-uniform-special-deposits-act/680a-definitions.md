@@ -4,7 +4,7 @@
 [Banking Law](../README.md) › [Article 13-F — Uniform Special Deposits Act](README.md)
 
 ```text
-  * § 680-a. Definitions. As used in this article, the following terms
+  § 680-a. Definitions. As used in this article, the following terms
 shall have the following meanings:
   1. "Account agreement" means an agreement that:
   (a) is in a record between a bank and one or more depositors;
@@ -92,5 +92,4 @@ hundred eighty-d of this article.
 Columbia, Puerto Rico, the United States Virgin Islands, or any other
 territory or possession subject to the jurisdiction of the United
 States. The term includes an agency or instrumentality of the state.
-  * NB Effective January 1, 2026
 ```
