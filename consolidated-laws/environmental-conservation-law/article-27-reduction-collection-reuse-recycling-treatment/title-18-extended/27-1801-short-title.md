@@ -5,6 +5,6 @@
 
 ```text
 § 27-1801. Short title.
-  This title shall be known as and may be cited as the " Extended
+  This title shall be known as and may be cited as the "Extended
 Producer Responsibility Law for Rechargeable Batteries".
 ```

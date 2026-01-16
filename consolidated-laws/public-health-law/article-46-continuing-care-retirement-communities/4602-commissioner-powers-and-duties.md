@@ -50,10 +50,10 @@ the provisions of this article;
   k. to revoke, suspend, limit, or annul a certificate of authority
 under conditions set forth in section forty-six hundred fifteen of this
 article, including when such action is taken at the specific request of
-any participating council agency. l. to carry out any other
-responsibilities entrusted to the commissioner pursuant to this chapter
-that may be necessary with regard to the health care activities of
-continuing care retirement communities;
+any participating council agency.
+  l. to carry out any other responsibilities entrusted to the
+commissioner pursuant to this chapter that may be necessary with regard
+to the health care activities of continuing care retirement communities;
   m. to make available to all prospective operators all pertinent
 regulations regarding health and insurance necessary to comply with this
 article;

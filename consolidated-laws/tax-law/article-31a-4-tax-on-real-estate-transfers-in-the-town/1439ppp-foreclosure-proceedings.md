@@ -10,7 +10,6 @@ foreclosure proceeding ordering the sale of such property, the referee
 or sheriff effectuating such transfer shall not be liable for any
 interest or penalties that are authorized pursuant to this article or
 article thirty-seven of this chapter.
-  * NB Effective January 14, 2026
   * NB Repealed December 31, 2045
   * NB There are 2 § 1439-ppp's
 ```

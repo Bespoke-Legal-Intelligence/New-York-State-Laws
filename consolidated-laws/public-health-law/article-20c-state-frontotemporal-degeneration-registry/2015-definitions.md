@@ -23,5 +23,4 @@ exclusive to memory impairment, aphasia, and the inability to plan and
 initiate complex behavior. Dementia has numerous different causes
 including but not limited to FTD, Alzheimer's disease, Lewy Body
 Dementia and Vascular Dementia.
-  * NB Effective January 14, 2026
 ```

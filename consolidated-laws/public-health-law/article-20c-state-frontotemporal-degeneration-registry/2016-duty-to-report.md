@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 20-C — State Frontotemporal Degeneration Registry](README.md)
 
 ```text
-  * § 2016. Duty to report. 1. Every physician, nurse practitioner,
+  § 2016. Duty to report. 1. Every physician, nurse practitioner,
 physician assistant and general hospital that diagnoses or is treating a
 patient diagnosed with FTD disorder shall give notice no later than one
 hundred eighty days of every case of FTD disorders coming under their
@@ -18,5 +18,4 @@ opportunity to review such notice, provided that, the mere incidence of
 a patient with an FTD disorder shall be the sole required information
 for the registry under section two thousand seventeen of this article
 for any patient who chooses not to participate.
-  * NB Effective January 14, 2026
 ```

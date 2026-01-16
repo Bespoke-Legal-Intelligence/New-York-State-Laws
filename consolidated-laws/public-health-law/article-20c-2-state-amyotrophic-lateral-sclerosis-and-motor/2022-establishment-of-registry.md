@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 20-C*2 — State Amyotrophic Lateral Sclerosis and Motor Neuron Disease Registry](README.md)
 
 ```text
-  * § 2022. Establishment of registry. 1. The department shall establish
+  § 2022. Establishment of registry. 1. The department shall establish
 an ALS and MND registry for the collection of information on the
 incidence and prevalence of ALS and MND. The department may consult with
 ALS and MND experts, including neurologists, patients living with ALS
@@ -27,5 +27,4 @@ department shall create and maintain a public website called the "New
 York state ALS and MN Disease registry" which shall include information
 on the incidence and prevalence of ALS and MND in the state by county,
 and demographic information on affected patients.
-  * NB Effective January 14, 2026
 ```

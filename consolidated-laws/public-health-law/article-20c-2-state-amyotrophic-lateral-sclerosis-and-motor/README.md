@@ -26,7 +26,6 @@ Section 2020. Definitions.
         2023. Duties of the department.
         2024. Duties of the commissioner.
   * NB There are 2 Art 20-C's
-  * NB Effective January 14, 2026
 ```
 
 </details>

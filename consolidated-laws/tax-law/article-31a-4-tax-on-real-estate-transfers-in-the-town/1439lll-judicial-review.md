@@ -41,7 +41,6 @@ officers in such amount and with such sureties as a justice of the
 supreme court shall approve to the effect that if such proceeding be
 dismissed or the tax confirmed, the petitioner will pay all costs and
 charges which may accrue in the prosecution of such proceeding.
-  * NB Effective January 14, 2026
   * NB Repealed December 31, 2045
   * NB There are 2 § 1439-lll's
 ```

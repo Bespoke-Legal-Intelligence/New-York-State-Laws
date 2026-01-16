@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 20-C*2 — State Amyotrophic Lateral Sclerosis and Motor Neuron Disease Registry](README.md)
 
 ```text
-  * § 2021. Duty to report. 1. Every physician, nurse practitioner,
+  § 2021. Duty to report. 1. Every physician, nurse practitioner,
 physician assistant and general hospital that diagnoses or is treating a
 patient diagnosed with ALS or MND shall give notice no later than one
 hundred eighty days of each case of ALS or MND coming under their care,
@@ -18,5 +18,4 @@ ample opportunity to review such notice, provided that the mere
 incidence of a patient with ALS or MND shall be the sole required
 information for the registry under section two thousand twenty-two of
 this article for any patient who chooses not to participate.
-  * NB Effective January 14, 2026
 ```

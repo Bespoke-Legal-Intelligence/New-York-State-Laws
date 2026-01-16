@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 20-C*2 — State Amyotrophic Lateral Sclerosis and Motor Neuron Disease Registry](README.md)
 
 ```text
-  * § 2023. Duties of the department. 1. ALS and MND reports and data
+  § 2023. Duties of the department. 1. ALS and MND reports and data
 shall be maintained by the department in a manner suitable for research
 purposes and shall be made available to people as set forth in section
 two thousand twenty-two of this article.
@@ -28,5 +28,4 @@ confidentiality, discloses any information provided under this article,
 or who uses information provided under this article in a manner other
 than that prescribed by the commissioner, may be denied further access
 to any confidential information maintained by the department.
-  * NB Effective January 14, 2026
 ```

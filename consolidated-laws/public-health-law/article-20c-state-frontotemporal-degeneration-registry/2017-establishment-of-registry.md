@@ -4,8 +4,8 @@
 [Public Health Law](../README.md) › [Article 20-C — State Frontotemporal Degeneration Registry](README.md)
 
 ```text
-  * § 2017. Establishment of registry. 1. The department shall establish
-a frontotemporal degeneration registry for the collection of information
+  § 2017. Establishment of registry. 1. The department shall establish a
+frontotemporal degeneration registry for the collection of information
 on the rate of clinical diagnoses of FTD disorders. The department shall
 consult with FTD disorders experts, including neurologists, patients
 living with FTD disorders, and FTD disorders researchers to assist in
@@ -27,5 +27,4 @@ department shall create and maintain a public website called the "New
 York state frontotemporal degeneration registry" which shall include
 information on the rate of clinical diagnoses of FTD disorders in the
 state by county, and demographic information on affected patients.
-  * NB Effective January 14, 2026
 ```
