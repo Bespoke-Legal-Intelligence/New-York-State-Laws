@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1445", "kind": "section", "law_id": "TAX", "location_id": "1445", "path": "ARTICLE 31-B › SECTION 1445", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1445.md", "title": "Credit"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 1445", "kind": "section", "law_id": "TAX", "location_id": "1445", "path": "ARTICLE 31-B › SECTION 1445", "repealed": true, "repealed_date": "2026-01-30", "source": "nys-laws:TAX/1445.md", "title": "Credit"} -->
 # Tax Law § 1445 — Credit
 
 [Tax Law](../README.md) › [Article 31-B — Tax On Real Estate Transfers In the Town of Brookhaven](README.md)
+
+**Repealed** (30 Jan 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 1445. Credit. A grantee shall be allowed a credit against the tax

@@ -3,12 +3,14 @@
 
 [Public Health Law](../../README.md) › [Article 25 — Maternal and Child Health](../README.md)
 
+**Repealed.**
+
 ## Contents
 
-- [§ 2560 Community doula expansion grant program](2560-community-doula-expansion-grant-program.md)
-- [§ 2561 Definitions](2561-definitions.md)
-- [§ 2562 Rules](2562-rules.md)
-- [§ 2563 Report](2563-report.md)
+- [§ 2560 Community doula expansion grant program](2560-community-doula-expansion-grant-program.md) *(repealed)*
+- [§ 2561 Definitions](2561-definitions.md) *(repealed)*
+- [§ 2562 Rules](2562-rules.md) *(repealed)*
+- [§ 2563 Report](2563-report.md) *(repealed)*
 
 <details>
 <summary>Official heading of Title 3-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

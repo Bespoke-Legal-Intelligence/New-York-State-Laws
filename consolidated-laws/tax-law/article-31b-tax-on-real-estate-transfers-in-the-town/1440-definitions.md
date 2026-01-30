@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1440", "kind": "section", "law_id": "TAX", "location_id": "1440", "path": "ARTICLE 31-B › SECTION 1440", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1440.md", "title": "Definitions"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 1440", "kind": "section", "law_id": "TAX", "location_id": "1440", "path": "ARTICLE 31-B › SECTION 1440", "repealed": true, "repealed_date": "2026-01-30", "source": "nys-laws:TAX/1440.md", "title": "Definitions"} -->
 # Tax Law § 1440 — Definitions
 
 [Tax Law](../README.md) › [Article 31-B — Tax On Real Estate Transfers In the Town of Brookhaven](README.md)
+
+**Repealed** (30 Jan 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 1440. Definitions. When used in this article, unless otherwise

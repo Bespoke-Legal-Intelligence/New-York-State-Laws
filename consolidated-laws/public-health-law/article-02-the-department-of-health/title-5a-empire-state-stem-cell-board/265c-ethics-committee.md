@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 265-C", "kind": "section", "law_id": "PBH", "location_id": "265-C", "path": "ARTICLE 2 › TITLE 5-A › SECTION 265-C", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/265-C.md", "title": "Ethics committee"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 265-C", "kind": "section", "law_id": "PBH", "location_id": "265-C", "path": "ARTICLE 2 › TITLE 5-A › SECTION 265-C", "repealed": true, "repealed_date": "2026-01-30", "source": "nys-laws:PBH/265-C.md", "title": "Ethics committee"} -->
 # Public Health Law § 265-C — Ethics committee
 
 [Public Health Law](../../README.md) › [Article 2 — The Department of Health](../README.md) › [Title 5-A — Empire State Stem Cell Board](README.md)
+
+**Repealed** (30 Jan 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 265-c. Ethics committee. 1. There shall be an ethics committee

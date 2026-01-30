@@ -19,7 +19,7 @@
 - [Title 4 — Spinal Cord Injury Research Board](title-4-spinal-cord-injury-research-board/)
 - [Title 5 — Health Care Practitioner Volunteer Pilot Program](title-5-health-care-practitioner-volunteer/)
 - [Title 5\* — Obesity Prevention Act](title-5-obesity-prevention-act/)
-- [Title 5-A — Empire State Stem Cell Board](title-5a-empire-state-stem-cell-board/)
+- [Title 5-A — Empire State Stem Cell Board](title-5a-empire-state-stem-cell-board/) *(repealed)*
 - [Title 6 — Women's Health](title-6-womens-health/)
 - [Title 6-A — The 21st Century Workgroup For Disease Elimination and Reduction](title-6a-the-21st-century-workgroup/)
 - [Title 7 — Ny State of Health](title-7-ny-state-of-health/)
@@ -43,7 +43,6 @@ Title    I.   Officers and employees (§§ 200--211-a).
         IV.   Spinal cord injury research board (§§ 250-251).
          V.   Health care practitioner volunteer pilot program (§ 260).
          V.   Obesity prevention act (§§ 260-263).
-         5-A. Empire State Stem Cell Board (§§ 265--265-f).
          VI.  Women's Health (§§ 266-268).
          6.   The 21st century workgroup for disease elimination and
               reduction (§ 266).

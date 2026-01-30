@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"citation": "State Finance Law § 97-WWW*4", "kind": "section", "law_id": "STF", "location_id": "97-WWW*4", "path": "ARTICLE 6 › SECTION 97-WWW*4", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/97-WWW_4.md", "title": "Consumer protection account"} -->
-# State Finance Law § 97-WWW*4 — Consumer protection account
+﻿<!-- nyslaw {"citation": "State Finance Law § 97-WWW*3", "kind": "section", "law_id": "STF", "location_id": "97-WWW*3", "path": "ARTICLE 6 › SECTION 97-WWW*3", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/97-WWW_3.md", "title": "Consumer protection account"} -->
+# State Finance Law § 97-WWW*3 — Consumer protection account
 
 [State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
 
@@ -24,5 +24,5 @@ activities.
 and warrant of the state comptroller on vouchers certified or approved
 by the department of state or any officer or employee designated by the
 secretary of state.
-  * NB There are 5 § 97-www's
+  * NB There are 4 § 97-www's
 ```

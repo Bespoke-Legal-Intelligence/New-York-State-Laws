@@ -83,8 +83,6 @@ Article 1.      Short title; definitions; miscellaneous (§§ 1-49*2).
                    (§§ 1439-aaa--1439-ppp).
        31-A-4*2. Tax on real estate transfers in the town of Orangetown
                    (§§ 1439-aaa*2--1439-ppp*2).
-       31-B.     Tax on real estate transfers in the town of Brookhaven
-                   (§§ 1440--1448-f).
        31-B-1.   Tax on real estate transfers in the county of Essex
                    (§§ 1448-g--1448-v).
        31-C.     Tax on real estate transfers in the county of Broome

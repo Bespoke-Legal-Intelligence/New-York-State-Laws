@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1202-II*3", "kind": "section", "law_id": "TAX", "location_id": "1202-II*3", "path": "ARTICLE 29 › PART 1 › SUBPART A › SECTION 1202-II*3", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1202-II_3.md", "title": "Hotel, motel or seasonal rental occupancy taxes in Wayne county"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 1202-II*3", "kind": "section", "law_id": "TAX", "location_id": "1202-II*3", "path": "ARTICLE 29 › PART 1 › SUBPART A › SECTION 1202-II*3", "repealed": true, "repealed_date": "2026-01-30", "source": "nys-laws:TAX/1202-II_3.md", "title": "Hotel, motel or seasonal rental occupancy taxes in Wayne county"} -->
 # Tax Law § 1202-II*3 — Hotel, motel or seasonal rental occupancy taxes in Wayne county
 
 [Tax Law](../../../README.md) › [Article 29 — Taxes Authorized For Cities, Counties and School Districts](../../README.md) › [Part 1 — Authority to Impose Taxes](../README.md) › [Subpart A — Taxes Administered By Cities, Counties and School Districts](README.md)
+
+**Repealed** (30 Jan 2026). The text below is what the Senate publishes for this repealed provision.
 
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 

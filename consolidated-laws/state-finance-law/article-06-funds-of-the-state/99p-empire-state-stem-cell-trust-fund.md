@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "State Finance Law § 99-P", "kind": "section", "law_id": "STF", "location_id": "99-P", "path": "ARTICLE 6 › SECTION 99-P", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/99-P.md", "title": "Empire state stem cell trust fund"} -->
+﻿<!-- nyslaw {"citation": "State Finance Law § 99-P", "kind": "section", "law_id": "STF", "location_id": "99-P", "path": "ARTICLE 6 › SECTION 99-P", "repealed": true, "repealed_date": "2026-01-30", "source": "nys-laws:STF/99-P.md", "title": "Empire state stem cell trust fund"} -->
 # State Finance Law § 99-P — Empire state stem cell trust fund
 
 [State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
+
+**Repealed** (30 Jan 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 99-p. Empire state stem cell trust fund. 1. There is hereby

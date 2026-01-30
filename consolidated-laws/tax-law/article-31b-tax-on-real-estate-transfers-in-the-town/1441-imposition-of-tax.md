@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1441", "kind": "section", "law_id": "TAX", "location_id": "1441", "path": "ARTICLE 31-B › SECTION 1441", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1441.md", "title": "Imposition of tax"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 1441", "kind": "section", "law_id": "TAX", "location_id": "1441", "path": "ARTICLE 31-B › SECTION 1441", "repealed": true, "repealed_date": "2026-01-30", "source": "nys-laws:TAX/1441.md", "title": "Imposition of tax"} -->
 # Tax Law § 1441 — Imposition of tax
 
 [Tax Law](../README.md) › [Article 31-B — Tax On Real Estate Transfers In the Town of Brookhaven](README.md)
+
+**Repealed** (30 Jan 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 1441. Imposition of tax. Notwithstanding any other provisions of

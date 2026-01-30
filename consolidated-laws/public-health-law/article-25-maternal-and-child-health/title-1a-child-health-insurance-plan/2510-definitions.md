@@ -150,17 +150,6 @@ household income is between one hundred thirty-three percent and one
 hundred eighty-five percent of the non-farm federal poverty level or the
 gross equivalent of such net income, but no more than twenty-seven
 dollars per month per family; and
-  *(iii) fifteen dollars per month for each eligible child whose family
-net household income is between one hundred eighty-six percent and one
-hundred ninety-two percent of the non-farm federal poverty level or the
-gross equivalent of such net income, but no more than forty-five dollars
-per month per family, and, effective July first, two thousand, fifteen
-dollars per month for each eligible child whose family net household
-income is between one hundred eighty-six percent and two hundred eight
-percent of the non-farm federal poverty level or the gross equivalent of
-such net income, but no more than forty-five dollars per month per
-family; and
-  * NB Expires July 1, 2025
   (iv) effective September first, two thousand eight, twenty dollars per
 month for each eligible child whose family gross household income is
 between two hundred fifty-one percent and three hundred percent of the

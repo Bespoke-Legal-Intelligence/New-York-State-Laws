@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 265-E", "kind": "section", "law_id": "PBH", "location_id": "265-E", "path": "ARTICLE 2 › TITLE 5-A › SECTION 265-E", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/265-E.md", "title": "Public and financial accountability standards"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 265-E", "kind": "section", "law_id": "PBH", "location_id": "265-E", "path": "ARTICLE 2 › TITLE 5-A › SECTION 265-E", "repealed": true, "repealed_date": "2026-01-30", "source": "nys-laws:PBH/265-E.md", "title": "Public and financial accountability standards"} -->
 # Public Health Law § 265-E — Public and financial accountability standards
 
 [Public Health Law](../../README.md) › [Article 2 — The Department of Health](../README.md) › [Title 5-A — Empire State Stem Cell Board](README.md)
+
+**Repealed** (30 Jan 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 265-e. Public and financial accountability standards. 1. Report.

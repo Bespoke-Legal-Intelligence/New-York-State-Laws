@@ -89,8 +89,6 @@ Section 1200.        Authorization to impose occupancy tax on short term
         1202-i.      Hotel or motel taxes in Schuyler county.
         1202-ii.     Hotel or motel taxes in the town of Goshen.
         1202-ii*2.   Hotel or motel taxes in the village of Goshen.
-        1202-ii*3.   Hotel, motel or seasonal rental occupancy taxes in
-                       Wayne county.
         1202-iii.    Hotel or motel taxes in the town of Highlands.
         1202-j.      Hotel or motel taxes in Otsego county.
         1202-j*2.    Hotel and motel taxes in Sullivan county.

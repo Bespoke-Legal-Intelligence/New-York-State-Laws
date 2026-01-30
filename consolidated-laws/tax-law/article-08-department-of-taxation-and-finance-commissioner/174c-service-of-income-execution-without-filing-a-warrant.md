@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 174-C", "kind": "section", "law_id": "TAX", "location_id": "174-C", "path": "ARTICLE 8 › SECTION 174-C", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/174-C.md", "title": "Service of income execution without filing a warrant"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 174-C", "kind": "section", "law_id": "TAX", "location_id": "174-C", "path": "ARTICLE 8 › SECTION 174-C", "repealed": true, "repealed_date": "2026-01-30", "source": "nys-laws:TAX/174-C.md", "title": "Service of income execution without filing a warrant"} -->
 # Tax Law § 174-C — Service of income execution without filing a warrant
 
 [Tax Law](../README.md) › [Article 8 — Department of Taxation and Finance; Commissioner of Taxation and Finance](README.md)
+
+**Repealed** (30 Jan 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 174-c. Service of income execution without filing a warrant. 1.

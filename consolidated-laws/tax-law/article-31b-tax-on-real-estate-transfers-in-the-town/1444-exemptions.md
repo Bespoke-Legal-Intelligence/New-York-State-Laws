@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1444", "kind": "section", "law_id": "TAX", "location_id": "1444", "path": "ARTICLE 31-B › SECTION 1444", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1444.md", "title": "Exemptions"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 1444", "kind": "section", "law_id": "TAX", "location_id": "1444", "path": "ARTICLE 31-B › SECTION 1444", "repealed": true, "repealed_date": "2026-01-30", "source": "nys-laws:TAX/1444.md", "title": "Exemptions"} -->
 # Tax Law § 1444 — Exemptions
 
 [Tax Law](../README.md) › [Article 31-B — Tax On Real Estate Transfers In the Town of Brookhaven](README.md)
+
+**Repealed** (30 Jan 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 1444. Exemptions. 1. The following shall be exempt from the

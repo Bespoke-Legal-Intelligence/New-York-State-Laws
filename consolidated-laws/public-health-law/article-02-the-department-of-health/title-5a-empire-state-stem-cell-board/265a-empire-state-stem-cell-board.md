@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 265-A", "kind": "section", "law_id": "PBH", "location_id": "265-A", "path": "ARTICLE 2 › TITLE 5-A › SECTION 265-A", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/265-A.md", "title": "Empire state stem cell board"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 265-A", "kind": "section", "law_id": "PBH", "location_id": "265-A", "path": "ARTICLE 2 › TITLE 5-A › SECTION 265-A", "repealed": true, "repealed_date": "2026-01-30", "source": "nys-laws:PBH/265-A.md", "title": "Empire state stem cell board"} -->
 # Public Health Law § 265-A — Empire state stem cell board
 
 [Public Health Law](../../README.md) › [Article 2 — The Department of Health](../README.md) › [Title 5-A — Empire State Stem Cell Board](README.md)
+
+**Repealed** (30 Jan 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 265-a. Empire state stem cell board. 1. The empire state stem cell

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 2562", "kind": "section", "law_id": "PBH", "location_id": "2562", "path": "ARTICLE 25 › TITLE 3-A › SECTION 2562", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2562.md", "title": "Rules"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 2562", "kind": "section", "law_id": "PBH", "location_id": "2562", "path": "ARTICLE 25 › TITLE 3-A › SECTION 2562", "repealed": true, "repealed_date": "2026-01-30", "source": "nys-laws:PBH/2562.md", "title": "Rules"} -->
 # Public Health Law § 2562 — Rules
 
 [Public Health Law](../../README.md) › [Article 25 — Maternal and Child Health](../README.md) › [Title 3-A — Community Doula Expansion Program](README.md)
+
+**Repealed** (30 Jan 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 2562. Rules. 1. The commissioner shall establish a community doula

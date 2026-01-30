@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1448-F", "kind": "section", "law_id": "TAX", "location_id": "1448-F", "path": "ARTICLE 31-B › SECTION 1448-F", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1448-F.md", "title": "Returns to be secret"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 1448-F", "kind": "section", "law_id": "TAX", "location_id": "1448-F", "path": "ARTICLE 31-B › SECTION 1448-F", "repealed": true, "repealed_date": "2026-01-30", "source": "nys-laws:TAX/1448-F.md", "title": "Returns to be secret"} -->
 # Tax Law § 1448-F — Returns to be secret
 
 [Tax Law](../README.md) › [Article 31-B — Tax On Real Estate Transfers In the Town of Brookhaven](README.md)
+
+**Repealed** (30 Jan 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 1448-f. Returns to be secret. 1. Except in accordance with proper

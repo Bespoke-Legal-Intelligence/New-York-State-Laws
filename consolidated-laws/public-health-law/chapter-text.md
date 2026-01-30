@@ -40,7 +40,6 @@ Article
                     V.   Health care practitioner volunteer pilot
                            program (§ 260).
                    V*.   Obesity prevention act (§§ 260*-263).
-                  5-A.   Empire State Stem Cell Board (§§ 265--265-f).
                    VI.   Women's Health (§§ 266-268).
                   6-A.   The 21st century workgroup for disease
                            elimination and reduction (§ 266-a).
@@ -185,8 +184,6 @@ Article
                   II-A.  Early intervention program for infants and
                           toddlers with disabilities and their families
                           (§§ 2540--2559-b).
-                 III-A.  Community doula expansion program (§§
-                          250-2563).
                     IV.  Institutions for children (§§ 2570-2575).
                      V.  Children with physical disabilities (§§
                           2580-2584).

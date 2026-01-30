@@ -113,17 +113,6 @@ Pursuant to section 19.27 of the mental hygiene law, the office of
 alcoholism and substance abuse services shall make available to such
 employers information on recognizing the signs of unlawful
 methamphetamine laboratories.
-  * 5. The office of children and family services shall update training
-issued to persons and officials required to report cases of suspected
-child abuse or maltreatment to include protocols to reduce implicit bias
-in the decision-making processes, strategies for identifying adverse
-childhood experiences as defined in paragraph (c) of subdivision one of
-section twenty-d of this chapter, and guidelines to assist in
-recognizing signs of abuse or maltreatment while interacting virtually.
-Such persons and officials shall have three years from the effective
-date of the chapter of the laws of two thousand twenty-one that added
-this subdivision to receive such updated mandated reported training.
-  * NB Repealed April 1, 2025
   6. The office of children and family services shall update training
 issued to persons and officials required to report cases of suspected
 child abuse or maltreatment to include guidance on identifying an abused

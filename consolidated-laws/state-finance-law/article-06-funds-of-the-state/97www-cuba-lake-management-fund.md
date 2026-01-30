@@ -68,5 +68,5 @@ that one or more accounts are not collectable by it, the Cuba Lake
 district shall identify each such account to the commissioner of general
 services with a request that such account be referred to the attorney
 general for collection or eviction.
-  * NB There are 5 § 97-www's
+  * NB There are 4 § 97-www's
 ```

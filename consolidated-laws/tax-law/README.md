@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | TAX |
 | Type | Consolidated law, chapter 60 |
-| Sections | 1,411 |
-| Last changed | 16 Jan 2026 |
+| Sections | 1,411 (18 repealed) |
+| Last changed | 30 Jan 2026 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Tax |
 
@@ -29,10 +29,11 @@ Became a law February 17, 1909, with the approval of the Governor.
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (108 lines)](chapter-text.md)
+[Full chapter text (106 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [30 Jan 2026](../../changes/2026/2026-01-30.md): 3 amended, 18 repealed
 - [16 Jan 2026](../../changes/2026/2026-01-16.md): 16 amended
 - [9 Jan 2026](../../changes/2026/2026-01-09.md): 2 amended
 - [26 Dec 2025](../../changes/2025/2025-12-26.md): 2 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [24 Oct 2025](../../changes/2025/2025-10-24.md): 4 amended, 29 added, 1 removed
 - [22 Aug 2025](../../changes/2025/2025-08-22.md): 1 amended
 - [15 Aug 2025](../../changes/2025/2025-08-15.md): 70 amended, 6 added, 3 removed
-- [8 Aug 2025](../../changes/2025/2025-08-08.md): 2 amended
 
 ## Contents
 
@@ -94,7 +94,7 @@ Assembly, do enact as follows:
 - [Article 31-A-3 — Tax On Real Estate Transfers In the Town of Northeast](article-31a-3-tax-on-real-estate-transfers-in-the-town/)
 - [Article 31-A-4 — Tax On Real Estate Transfers In the Town of Chester](article-31a-4-tax-on-real-estate-transfers-in-the-town/)
 - [Article 31-A-4\*2 — Tax On Real Estate Transfers In the Town of Orangetown](article-31a-4-2-tax-on-real-estate-transfers-in-the-town/)
-- [Article 31-B — Tax On Real Estate Transfers In the Town of Brookhaven](article-31b-tax-on-real-estate-transfers-in-the-town/)
+- [Article 31-B — Tax On Real Estate Transfers In the Town of Brookhaven](article-31b-tax-on-real-estate-transfers-in-the-town/) *(repealed)*
 - [Article 31-B-1 — Tax On Real Estate Transfers In the County of Essex](article-31b-1-tax-on-real-estate-transfers-in-the-county/)
 - [Article 31-C — Tax On Real Estate Transfers In the County of Broome](article-31c-tax-on-real-estate-transfers-in-the-county/)
 - [Article 31-D — Tax On Real Estate Transfers In Towns In the Peconic Bay Region](article-31d-tax-on-real-estate-transfers-in-towns/)

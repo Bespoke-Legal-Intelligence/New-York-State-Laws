@@ -15,16 +15,4 @@ provisions of such code which are applicable to the determination of the
 tax imposed by this article shall be read as a reference to June
 thirtieth, nineteen hundred seventy-eight or July first, nineteen
 hundred seventy-eight, respectively.
-  * (b) Disposition to surviving spouse who is not a United States
-citizen.  In the case of an estate where a federal estate tax return is
-not required for federal estate tax purposes, a disposition to a
-surviving spouse that would qualify for the federal estate tax marital
-deduction under section 2056 of the internal revenue code if not for the
-limitation imposed by subsection (d)(1) of such section shall
-nonetheless be treated as qualifying for the federal estate tax marital
-deduction for purposes of computing the tax imposed by section nine
-hundred fifty-two of this part, without requiring that such disposition
-pass to the surviving spouse in a qualified domestic trust as required
-for federal purposes by internal revenue code section 2056(d)(2).
-  * NB Repealed July 1, 2025
 ```
