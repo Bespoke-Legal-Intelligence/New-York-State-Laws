@@ -43,21 +43,6 @@ sexual offense victims who request such coordination and services;
 and available on a twenty-four hour a day basis every day of the year;
   * NB Effective May 9, 2027
   * (c) offering and making available appropriate HIV post-exposure
-treatment therapies; including a seven day starter pack of HIV
-post-exposure prophylaxis for a person eighteen years of age or older,
-or the full regimen of HIV post-exposure prophylaxis for a person less
-than eighteen years of age, in cases where it has been determined, in
-accordance with guidelines issued by the commissioner, that a
-significant exposure to HIV has occurred, and informing the victim that
-payment assistance for such therapies and other crime related expenses
-may be available from the office of victim services pursuant to the
-provisions of article twenty-two of the executive law. With the consent
-of the victim of a sexual assault, the hospital emergency room
-department shall provide or arrange for an appointment for medical
-follow-up related to HIV post-exposure prophylaxis and other care as
-appropriate; and
-  * NB Effective until February 3, 2026
-  * (c) offering and making available appropriate HIV post-exposure
 treatment therapies; including the full regimen of HIV post-exposure
 prophylaxis in cases where it has been determined, in accordance with
 guidelines issued by the commissioner, that a significant exposure to
@@ -68,7 +53,7 @@ twenty-two of the executive law. With the consent of the victim of a
 sexual assault, the hospital emergency room department shall provide or
 arrange for an appointment for medical follow-up related to HIV
 post-exposure prophylaxis and other care as appropriate; and
-  * NB Effective February 3, 2026 until May 9, 2027
+  * NB Effective until May 9, 2027
   * (c) Ensuring that such sexual assault forensic examiners maintain a
 current certification from the department, pursuant to regulations, in
 providing sexual assault examinations. The commissioner shall issue

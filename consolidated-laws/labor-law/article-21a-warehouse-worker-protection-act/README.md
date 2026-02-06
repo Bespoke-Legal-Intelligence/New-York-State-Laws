@@ -31,6 +31,7 @@ Section 780. Definitions.
         786. Unlawful retaliation.
         787. Enforcement.
         788. Other powers.
+        789. Injury reduction program.
 ```
 
 </details>

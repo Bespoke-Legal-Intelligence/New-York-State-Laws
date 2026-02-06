@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [§ 1200 When to Take Effect](1200-when-to-take-effect.md)
+- [§ 1200 When to take effect](1200-when-to-take-effect.md)
 
 <details>
 <summary>Official heading of Article 40, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

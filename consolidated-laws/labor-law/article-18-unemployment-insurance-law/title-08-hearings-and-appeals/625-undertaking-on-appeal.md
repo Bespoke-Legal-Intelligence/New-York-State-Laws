@@ -4,7 +4,7 @@
 [Labor Law](../../README.md) › [Article 18 — Unemployment Insurance Law](../README.md) › [Title 8 — Hearings and Appeals](README.md)
 
 ```text
-  § 625. Undertaking on appeal. No appeal shall be taken by an employer
+  625. Undertaking on appeal. No appeal shall be taken by an employer
 from a decision of the appeal board determining a sum to be due from
 such employer unless the amount involved, with interest and penalties
 thereon, if any, shall be first deposited with the commissioner and an
