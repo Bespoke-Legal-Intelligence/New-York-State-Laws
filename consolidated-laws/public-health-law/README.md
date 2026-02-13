@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBH |
 | Type | Consolidated law, chapter 45 |
-| Sections | 1,798 (11 repealed) |
-| Last changed | 6 Feb 2026 |
+| Sections | 1,803 |
+| Last changed | 13 Feb 2026 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Health |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER 45 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (357 lines)](chapter-text.md)
+[Full chapter text (358 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [13 Feb 2026](../../changes/2026/2026-02-13.md): 16 added, 11 removed
 - [6 Feb 2026](../../changes/2026/2026-02-06.md): 1 amended
 - [30 Jan 2026](../../changes/2026/2026-01-30.md): 1 amended, 11 repealed
 - [16 Jan 2026](../../changes/2026/2026-01-16.md): 11 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [12 Dec 2025](../../changes/2025/2025-12-12.md): 3 amended, 1 added
 - [28 Nov 2025](../../changes/2025/2025-11-28.md): 17 amended
 - [21 Nov 2025](../../changes/2025/2025-11-21.md): 1 amended
-- [14 Nov 2025](../../changes/2025/2025-11-14.md): 3 amended, 1 added
 
 ## Contents
 
@@ -116,6 +116,7 @@ Assembly, do enact as follows:
 - [Article 28-C — Nurse Manpower Center](article-28c-nurse-manpower-center/)
 - [Article 28-D — Practice of Nursing Home Administration](article-28d-practice-of-nursing-home-administration/)
 - [Article 28-E — Review of Criminal History Information Concerning Prospective Employees of Nursing Homes and Home Care Services Agencies](article-28e-review-of-criminal-history-information/)
+- [Article 28-F — Medical Aid In Dying](article-28f-medical-aid-in-dying/)
 - [Article 29 — Hospital Survey, Planning and Review](article-29-hospital-survey-planning-and-review/)
 - [Article 29-A — Access to Community Health Care Services In Rural Areas](article-29a-access-to-community-health-care-services/)
 - [Article 29-AA — Patient Centered Medical Homes](article-29aa-patient-centered-medical-homes/)

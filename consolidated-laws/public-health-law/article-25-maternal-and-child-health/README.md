@@ -13,7 +13,6 @@
 - [Title 2 — Prenatal Care](title-2-prenatal-care/)
 - [Title 2-A — Early Intervention Program For Infants and Toddlers With Disabilities and Their Families](title-2a-early-intervention-program/)
 - [Title 3 Control of Midwifery](title-3-control-of-midwifery.md)
-- [Title 3-A — Community Doula Expansion Program](title-3a-community-doula-expansion-program/) *(repealed)*
 - [Title 4 — Institutions For Children](title-4-institutions-for-children/)
 - [Title 5 — Children With Physical Disabilities](title-5-children-with-physical-disabilities/)
 - [Title 6\* — Federal Child Care and Adult Food Program](title-6-federal-child-care-and-adult-food/)

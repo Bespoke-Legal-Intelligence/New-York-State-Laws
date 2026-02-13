@@ -4,8 +4,8 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 137 — Pharmacy](README.md)
 
 ```text
-  * § 6811-d. Notification of permanent pharmacy discontinuance. 1.
-Every registered pharmacy that sells prescription drugs at retail shall
+  § 6811-d. Notification of permanent pharmacy discontinuance. 1. Every
+registered pharmacy that sells prescription drugs at retail shall
 provide public notice at least thirty days prior to its permanent
 discontinuance. Such notice shall:
   (a) be provided, to the extent possible, to customers who have had a
@@ -26,5 +26,4 @@ pharmacy; and
   (d) information regarding the disposition of prescription records if a
 customer fails to transfer a prescription prior to such pharmacy's
 discontinuance.
-  * NB Effective February 10, 2026
 ```

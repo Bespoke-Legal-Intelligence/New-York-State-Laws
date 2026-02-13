@@ -1,0 +1,44 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2899-L", "kind": "section", "law_id": "PBH", "location_id": "2899-L", "path": "ARTICLE 28-F › SECTION 2899-L", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2899-L.md", "title": "Protection and immunities"} -->
+# Public Health Law § 2899-L — Protection and immunities
+
+[Public Health Law](../README.md) › [Article 28-F — Medical Aid In Dying](README.md)
+
+```text
+  * § 2899-l. Protection and immunities. 1. A physician, pharmacist,
+other health care provider or other person shall not be subject to
+civil, administrative, or criminal liability or penalty or professional
+disciplinary action by any government entity for taking any reasonable
+good-faith action or refusing to act under this article, including, but
+not limited to: (a) engaging in discussions with a patient relating to
+the risks and benefits of end-of-life options in the circumstances
+described in this article, (b) providing a patient, upon request, with a
+referral to another health care provider, (c) being present when a
+qualified individual self-administers medication, (d) refraining from
+acting to prevent the qualified individual from self-administering such
+medication, or (e) refraining from acting to resuscitate the qualified
+individual after the qualified individual self-administers such
+medication.
+  2. A health care provider or other person shall not be subject to
+employment, credentialing, or contractual liability or penalty for any
+reasonable good-faith action or refusing to act under this article,
+including, but not limited to:
+  (a) engaging in discussions with a patient relating to the risks and
+benefits of end-of-life options in the circumstances described in this
+article;
+  (b) providing a patient, upon request, with a referral to another
+health care provider;
+  (c) being present when a qualified individual self-administers
+medication;
+  (d) refraining from acting to prevent the qualified individual from
+self-administering such medication; or
+  (e) refraining from acting to resuscitate the qualified individual
+after the qualified individual self-administers such medication.
+However, this subdivision does not bar a health care facility from
+acting under paragraph (c) of subdivision two of section twenty-eight
+hundred ninety-nine-m of this article.
+  3. Nothing in this section shall limit civil, administrative, or
+criminal liability or penalty or any professional disciplinary action,
+or employment, credentialing, or contractual liability or penalty for
+negligence, recklessness or intentional misconduct.
+  * NB Effective August 5, 2026
+```

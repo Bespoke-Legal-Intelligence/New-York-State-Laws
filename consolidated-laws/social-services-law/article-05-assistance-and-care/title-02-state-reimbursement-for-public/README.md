@@ -10,7 +10,7 @@
 - [§ 153-B Reimbursement for services](153b-reimbursement-for-services.md)
 - [§ 153-F State reimbursement of home energy grant expenses](153f-state-reimbursement-of-home-energy-grant-expenses.md)
 - [§ 153-K Funding for children and family services](153k-funding-for-children-and-family-services.md)
-- [§ 154 3](154-3.md)
+- [§ 154 3](154-3.md) *(repealed)*
 
 <details>
 <summary>Official heading of Title 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

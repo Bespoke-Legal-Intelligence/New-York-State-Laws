@@ -45,14 +45,14 @@ former recipients, information which relates to a particular former
 recipient shall be provided with client identifying data deleted) for
 the purpose of evaluating the effect of participation in such programs
 on such current and former recipients, and
-  * NB There are 2 ¶(c)'s
+  * NB There are 2 par (c)'s
   * (c) to the federal parent locator service, maintained by the federal
 department of health and human services, as required by section one
 hundred twenty-four of the federal family support act of nineteen
 hundred eighty-eight, for the purpose of enabling the department to
 fulfill obligations and responsibilities otherwise incumbent upon the
 state department of labor.
-  * NB There are 2 ¶(c)'s
+  * NB There are 2 par (c)'s
   (d) to the federal social security administration or public agency of
 another state with which the department has an agreement with respect to
 wage information pursuant to paragraph (i) of subdivision three of

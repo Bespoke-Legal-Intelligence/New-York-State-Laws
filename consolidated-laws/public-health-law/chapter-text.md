@@ -234,6 +234,7 @@ Article
   28-E.    Review of criminal history information concerning prospective
             employees of nursing homes and home care services agencies
             (§§ 2899--2899-a).
+  28-F.    Medical aid in dying (§§ 2899-d--2899-s).
   29.      Hospital survey, planning and review (§§ 2901-2907).
   29-A.    Access to community health care services in rural areas.
            Title    I.   Rural health care access (§§ 2950-2958).
