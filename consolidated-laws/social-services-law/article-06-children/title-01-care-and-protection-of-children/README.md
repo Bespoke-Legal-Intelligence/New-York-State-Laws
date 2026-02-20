@@ -64,6 +64,7 @@
 - [§ 390-L Securing of furniture](390l-securing-of-furniture.md)
 - [§ 390-M Window coverings](390m-window-coverings.md)
 - [§ 390-N Child care support center; operating certificate required](390n-child-care-support-center-operating-certificate-required.md)
+- [§ 390-O Prohibit the use of infant walkers in child care facilities](390o-prohibit-the-use-of-infant-walkers-in-child-care-facilities.md)
 - [§ 391 Violation; injunction](391-violation-injunction.md)
 - [§ 392 Services for relative and non-relative kinship caregivers](392-services-for-relative-and-non-relative-kinship-caregivers.md)
 - [§ 393 Court review of placement in a qualified residential treatment program](393-court-review-of-placement-in-a-qualified-residential-treatment-program.md)
@@ -152,6 +153,8 @@ Section 371.     Definitions.
         390-m.   Window coverings.
         390-n.   Child care support center; operating certificate
                    required.
+        390-o.   Prohibit the use of infant walkers in child care
+                   facilities.
         391.     Violation; injunction.
         392.     Services for relative caregivers.
         393.     Court review of placement in a qualified residential

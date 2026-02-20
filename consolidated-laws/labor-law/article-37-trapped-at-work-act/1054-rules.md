@@ -4,6 +4,7 @@
 [Labor Law](../README.md) › [Article 37 — Trapped At Work Act](README.md)
 
 ```text
-  § 1054. Rules. The commissioner may promulgate rules and regulations
+  * § 1054. Rules. The commissioner may promulgate rules and regulations
 necessary to carry out the provisions of this article.
+  * NB Effective December 19, 2026
 ```

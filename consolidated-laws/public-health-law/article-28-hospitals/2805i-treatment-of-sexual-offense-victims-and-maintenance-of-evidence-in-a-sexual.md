@@ -121,14 +121,30 @@ request. The alleged sexual offense victim shall be given the option of
 providing contact information for purposes of receiving notice of the
 planned destruction of such evidence after the expiration of the
 twenty-year period.
-  (d) Until September thirtieth, two thousand twenty-two, or earlier if
-determined feasible by the director of budget, hospitals shall be
+  * (d) Until September thirtieth, two thousand twenty-two, or earlier
+if determined feasible by the director of budget, hospitals shall be
 responsible for securing long-term sexual offense evidence pursuant to
 this section, after which such storage shall be the responsibility of
 the office of victim services. Hospitals may enter into contracts with
 other entities that will ensure appropriate and secure long-term storage
 of sexual offense evidence pursuant to this section until September
 thirtieth, two thousand twenty-two.
+  * NB Effective until June 19, 2026
+  * (d) Until September thirtieth, two thousand twenty-two, or earlier
+if determined feasible by the director of budget, hospitals shall be
+responsible for securing long-term sexual offense evidence pursuant to
+this section, after which such storage shall be the responsibility of
+the office of victim services, provided, however, that law enforcement
+shall transfer sexual offense evidence that is reported to law
+enforcement but for which consent is later withdrawn to the office of
+victim services for long-term storage. Storage of reported kits
+transferred to the office of victim services or retained by law
+enforcement shall comport with the provisions of this subdivision.
+Hospitals may enter into contracts with other entities that will ensure
+appropriate and secure long-term storage of sexual offense evidence
+pursuant to this section until September thirtieth, two thousand
+twenty-two.
+  * NB Effective June 19, 2026
   (e) Beginning April first, two thousand eighteen, the department, the
 office of victim services, the division of criminal justice services and
 the division of state police shall jointly study, evaluate and make
@@ -158,19 +174,34 @@ sexual offense evidence will be discarded in compliance with state and
 local health codes and that the alleged sexual offense victim's clothes
 and personal effects will be returned to the alleged sexual offense
 victim upon request.
-  (j) Notwithstanding any other provision in this section, sexual
+  * (j) Notwithstanding any other provision in this section, sexual
+offense evidence shall not continue to be stored where: (i) such
+evidence is not privileged and law enforcement requests its release, in
+which case the custodian(s) shall comply with such request; or (ii) such
+evidence is privileged and either (A) the alleged sexual offense victim
+gives permission to release the evidence to law enforcement, or (B) the
+alleged sexual offense victim signs a statement directing the
+custodian(s) to dispose of the evidence, in which case the sexual
+offense evidence will be discarded in compliance with state and local
+health codes.
+  * NB Effective until June 19, 2026
+  * (j) Notwithstanding any other provision in this section, sexual
 offense evidence shall not continue to be stored where: (i) such
 evidence is not privileged and law enforcement requests its release, in
 which case the custodian or custodians shall comply with such request;
 or (ii) such evidence is privileged and either (A) the alleged sexual
 offense victim gives permission to release the evidence to law
-enforcement, upon which law enforcement must retrieve the evidence
-within seven days of such permission and report such evidence in the
-statewide electronic tracking system pursuant to subdivision eight of
-this section, or (B) the alleged sexual offense victim signs a statement
-directing the custodian or custodians to dispose of the evidence, in
-which case the sexual offense evidence will be discarded in compliance
-with state and local health codes.
+enforcement, upon which the hospital collecting such evidence must
+record the collection of such evidence in the electronic tracking system
+and notify the appropriate law enforcement agency within forty-eight
+hours and law enforcement must retrieve the evidence within ten days of
+such notice and report such evidence in the statewide electronic
+tracking system pursuant to subdivision eight of this section, or (B)
+the alleged sexual offense victim signs a statement directing the
+custodian or custodians to dispose of the evidence, in which case the
+sexual offense evidence will be discarded in compliance with state and
+local health codes.
+  * NB Effective June 19, 2026
   3. Upon admittance or commencement of treatment of the alleged sexual
 offense victim, the hospital shall advise the victim of the availability
 of the services of a local rape crisis or victim assistance
@@ -337,34 +368,81 @@ program in obtaining useful forensic evidence in sexual offense cases
 and assuring quality treatment to sex offense victims. Such report shall
 also recommend whether this program should be expanded and shall
 estimate the financial cost, if any, of such expansion.
-  8. (a) The division of criminal justice services in consultation with
-the department, the office of victim services, the division of state
-police, and the New York State Coalition Against Sexual Assault shall
-develop a statewide electronic tracking system for reported evidence
+  * 8. (a) The division of criminal justice services in consultation
+with the department, the office of victim services, the division of
+state police, and the New York State Coalition Against Sexual Assault
+shall develop a statewide electronic tracking system for evidence
 collection kits used to collect and preserve evidence of a sexual
-assault or other sex offense. Such statewide electronic tracking system
-shall not include unreported evidence collection kits, provided,
-however, that any unreported evidence collection kits released by the
-office of victim services to law enforcement pursuant to clause (A) of
-subparagraph (ii) of paragraph j of subdivision two of this section
-shall be designated as reported evidence collection kits subject to the
-tracking requirements set forth in this subdivision.
+assault or other sex offense that are submitted to the custody of law
+enforcement. Such statewide electronic tracking system shall not include
+evidence collection kits not in the custody of law enforcement.
   (b) The division of criminal justice services shall promulgate rules
 and guidelines to ensure that sexual assault evidence collection kits
+that are submitted to the custody of law enforcement are trackable on a
+statewide electronic tracking system developed pursuant to this
+subdivision, and that survivors are given notice of how they may track
+their own sexual assault evidence collection kit after it has been
+submitted to the custody of law enforcement. Any law enforcement agency,
+forensic laboratory, or prosecutor that has taken custody of an evidence
+collection kit used for a forensic medical examination shall comply with
+the established protocols, rules and guidelines established by the
+division of criminal justice services pursuant to this paragraph.
+  (c) The statewide electronic tracking system shall:
+  (1) Track the location and status of each evidence collection kit
+after such kit has been submitted to the custody of law enforcement;
+  (2) Allow a law enforcement agency, accredited crime laboratory,
+prosecutor, employees of the long-term sexual offense evidence storage
+facility, or any other entity providing a chain of custody for an
+evidence collection kit, to update and track the status and location of
+the kits that have been submitted to the custody of law enforcement; and
+  (3) Allow a survivor to anonymously track or receive updates regarding
+the status and location of such survivor's evidence collection kit that
+has been submitted to the custody of law enforcement.
+  (d) No later than January first, two thousand twenty-five, any law
+enforcement agency, accredited crime laboratory, prosecutor, employee of
+the long-term sexual offense evidence storage facility, or any other
+entity providing a chain of custody for an evidence collection kit to
+update and track the status and location of such kit, shall participate
+in the tracking system and comply with all established protocols, rules
+and guidelines. A participating entity shall be permitted to access the
+entity's tracking information through the statewide electronic tracking
+system.
+  (e) Records entered into the tracking system are confidential. Records
+relating to an evidence collection kit shall be accessed only by the
+survivor for whom the evidence collection kit was completed.
+  (f) The provisions of this subdivision shall apply to all evidence
+collection kits submitted prior to, on, or after the effective date of
+this subdivision.
+  (g) For purposes of this section:
+  (1) "evidence collection kit" shall mean a human biological specimen
+or specimens collected by a healthcare provider during a forensic
+medical examination from the victim of a sexual assault or other sex
+offense; and
+  (2) "survivor" shall mean an individual who is the victim of a sexual
+offense from whom a human biological specimen or specimens collected by
+a healthcare provider during a forensic medical examination.
+  * NB Effective until June 19, 2026
+  * 8. (a) The division of criminal justice services in consultation
+with the department, the office of victim services, the division of
+state police, and the New York State Coalition Against Sexual Assault
+shall develop a statewide electronic tracking system for reported
+evidence collection kits used to collect and preserve evidence of a
+sexual assault or other sex offense. Such statewide electronic tracking
+system shall not include unreported evidence collection kits, provided,
+however, that any unreported evidence collection kits released by the
+office of victim services to law enforcement pursuant to clause (A) of
+subparagraph (ii) of paragraph (j) of subdivision two of this section
+shall then be designated as reported evidence collection kits subject to
+the tracking requirements set forth in this subdivision.
+  (b) The division of criminal justice services shall promulgate rules
+and guidelines to ensure that sexual offense evidence collection kits
 are trackable on a statewide electronic tracking system developed
 pursuant to this subdivision, and that survivors are given notice of how
-they may track their own reported evidence collection kit. Such rules
-and guidelines shall require that (i) hospitals collecting evidence
-collection kits record the collection of any reported evidence
-collection kits in the electronic tracking system and notify the
-appropriate law enforcement agency within forty-eight hours of such
-collection, and (ii) law enforcement retrieve any reported evidence
-collection kit from a hospital within seven days of being notified by a
-hospital that a reported evidence collection kit has been collected. Any
-hospital, law enforcement agency, forensic laboratory, or prosecutor
-that has taken custody of an evidence collection kit used for a forensic
-medical examination shall comply with the established protocols, rules
-and guidelines established by the division of criminal justice services
+they may track their own reported evidence collection kit. Any law
+enforcement agency, forensic laboratory, or prosecutor that has taken
+custody of an evidence collection kit used for a forensic medical
+examination shall comply with the established protocols, rules and
+guidelines established by the division of criminal justice services
 pursuant to this paragraph.
   (c) The statewide electronic tracking system shall:
   (1) Track the location and status of each reported evidence collection
@@ -399,13 +477,15 @@ or specimens collected by a healthcare provider during a forensic
 medical examination from the victim of a sexual assault or other sex
 offense;
   (2) "survivor" shall mean an individual who is the victim of a sexual
-offense from whom a human biological specimen or specimens collected by
-a healthcare provider during a forensic medical examination;
-  (3) "reported evidence collection kit" means a sexual assault evidence
+offense from whom a human biological specimen or specimens were
+collected by a healthcare provider during a forensic medical
+examination;
+  (3) "reported evidence collection kit" means a sexual offense evidence
 kit in which the survivor has consented to evidence collection and
 reporting the sexual assault or other sex offense to law enforcement;
 and
-  (4) "unreported evidence collection kit" means evidence collection
-kits controlled by the office of victims services pursuant to paragraph
-(d) of subdivision two of this section.
+  (4) "unreported evidence collection kit" means a sexual offense
+evidence collection kit for which the survivor has not consented to or
+withdraws their consent to release to law enforcement.
+  * NB Effective June 19, 2026
 ```

@@ -4,41 +4,7 @@
 [Public Health Law](../../README.md) › [Article 33 — Controlled Substances](../README.md) › [Title 5 — Dispensing to Persons With Substance Use Disorder and Habitual Users](README.md)
 
 ```text
-  * § 3351. Dispensing for medical use. 1. Controlled substances may be
-prescribed for, or administered or dispensed to a person with substance
-use disorder or habitual user:
-  (a) during emergency medical treatment unrelated to abuse of
-controlled substances;
-  (b) who is a bona fide patient suffering from an incurable and fatal
-disease such as cancer or advanced tuberculosis;
-  (c) who is aged, infirm, or suffering from serious injury or illness
-and the withdrawal from controlled substances would endanger the life or
-impede or inhibit the recovery of such person.
-  2. Controlled substances may be ordered for use by a person with
-substance use disorder or habitual user by a practitioner and
-administered by a practitioner or registered nurse to relieve acute
-withdrawal symptoms.
-  3. Methadone, or such other controlled substance designated by the
-commissioner as appropriate for such use, may be ordered for use of a
-person with substance use disorder by a practitioner and dispensed or
-administered by a practitioner or a practitioner's designated agent as
-interim treatment for a person with substance use disorder on a waiting
-list for admission to an authorized maintenance program.
-  4. Methadone, or such other controlled substance designated by the
-commissioner as appropriate for such use, may be administered to a
-person with substance use disorder by a practitioner or by a
-practitioner's designated agent acting under the direction and
-supervision of a practitioner, as part of a regime designed and intended
-to withdraw a patient from addiction to controlled substances.
-  5. Methadone, or such other controlled substance designated by the
-commissioner as appropriate for such use, may be administered to a
-person with substance use disorder by a practitioner or by a
-practitioner's designated agent acting under the direction and
-supervision of a practitioner, as part of a substance use or chemical
-dependence program approved pursuant to article thirty-two of the mental
-hygiene law.
-  * NB Effective until February 19, 2026
-  * § 3351. Dispensing for medical use. 1. Controlled substances may be
+  § 3351. Dispensing for medical use. 1. Controlled substances may be
 prescribed for, or administered or dispensed to a person with substance
 use disorder or habitual user:
   (a) during emergency medical treatment unrelated to abuse of
@@ -55,7 +21,7 @@ withdrawal symptoms.
   3. A practitioner may prescribe, administer, and dispense any schedule
 III, IV, or V narcotic drug approved by the federal food and drug
 administration specifically for use in maintenance or detoxification
-treatment to an addict or habitual user.
+treatment to a person with substance use disorder or habitual user.
   4. Methadone, or such other controlled substance designated by the
 commissioner as appropriate for such use, may be ordered for use of a
 person with substance use disorder by a practitioner and dispensed or
@@ -77,5 +43,4 @@ practitioner or by a such practitioner's designated agent acting under
 the direction and supervision of a practitioner, as part of a substance
 use or chemical dependence program approved pursuant to article
 thirty-two of the mental hygiene law.
-  * NB Effective February 19, 2026
 ```

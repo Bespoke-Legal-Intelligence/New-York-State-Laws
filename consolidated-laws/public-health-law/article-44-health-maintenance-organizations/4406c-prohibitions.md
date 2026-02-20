@@ -327,17 +327,28 @@ credit card, or electronic funds transfer payment;
 method that does not impose fees or similar charges on the provider; and
   (iii) The provider or a designee of the provider elects to accept
 payment of the claim using the credit card, virtual credit card, or
-electronic funds transfer payment method.
+electronic funds transfer payment method. Such payment type election
+shall be made by the provider within thirty days of receipt of the
+notice from the insurer. If the provider fails to make any payment type
+election within thirty days, the insurer shall pay the provider using
+the alternative payment method offered in the notice unless the insurer
+is unable to pay the provider using that alternative method due to the
+insurer lacking information necessary to make the alternative payment.
+In that instance, the insurer may use another fee-free method of payment
+in order to meet the timeframes established in section three thousand
+two hundred twenty-four-a of the insurance law.
   (b) A decision pursuant to paragraph (a) of this subdivision shall
 remain in effect until the provider notifies the health care plan, in
 writing, of a change to the designated payment type.
   (c) If a health care plan contracts with a vendor to process payments
 of providers' claims, the health care plan shall require the vendor to
-comply with the provisions of paragraph (a) of this subdivision.
-  (d) No policy or contract issued, renewed, modified, altered or
-amended after the effective date of this section shall contain
-provisions allowing for waiver of the notice requirements contained in
-this subdivision.
+comply with the provisions of paragraph (a) of this subdivision. This
+paragraph shall not apply to a vendor used by the provider in order to
+receive payments from an insurer.
+  (d) No contract between a health care plan and provider issued,
+renewed, modified, altered or amended after the effective date of this
+subdivision shall contain provisions allowing for waiver of the notice
+requirements contained in this subdivision.
   (e) For any contract that is in effect on or before the effective date
 of this subdivision or that is entered into, amended or renewed on or
 after the effective date of this subdivision, a health care plan that
@@ -345,8 +356,8 @@ initiates a payment to a provider using, or changes the payment method
 to, a health care electronic funds transfers and remittance advice
 transaction shall not charge a fee solely to transmit the payment to the
 provider unless the provider elects to accept payment in accordance with
-subparagraph (ii) of paragraph (a) of this subdivision.
-  (f) For purposes of this section, the following definitions shall
+subparagraph (iii) of paragraph (a) of this subdivision.
+  (f) For purposes of this subdivision, the following definitions shall
 apply:
   (i) "Provider" shall mean a health care professional or a group of
 health care professionals licensed pursuant to title eight of the

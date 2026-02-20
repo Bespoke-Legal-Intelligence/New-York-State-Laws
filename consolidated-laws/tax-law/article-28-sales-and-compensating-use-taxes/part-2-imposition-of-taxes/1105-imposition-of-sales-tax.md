@@ -267,7 +267,7 @@ the regulations of the commissioner of education, or is incorporated by
 the regents of the university of the State of New York or with their
 consent or the consent of the commissioner of education as provided in
 section two hundred sixteen of the education law; and
-  * NB Effective until June 1, 2026
+  * NB Effective until July 1, 2026
   * (B) food or drink sold to a student of a nursery school,
 kindergarten, elementary or secondary school at a restaurant or
 cafeteria located on the premises of such a school, or food or drink,
@@ -288,7 +288,7 @@ education, or is incorporated by the regents of the university of the
 State of New York or with their consent or the consent of the
 commissioner of education as provided in section two hundred sixteen of
 the education law; and
-  * NB Effective June 1, 2026
+  * NB Effective July 1, 2026
   (C) Sales by a brewery licensed under section fifty-one of the
 alcoholic beverage control law, or a farm brewery licensed under section
 fifty-one-a of such law, of no more than four samples of beer not

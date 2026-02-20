@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | FIS |
 | Type | Consolidated law, chapter 18-A |
-| Sections | 65 |
-| Last changed | 12 Dec 2025 |
+| Sections | 76 |
+| Last changed | 20 Feb 2026 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Financial Services Law |
 
@@ -25,6 +25,7 @@
 
 ## Recent changes
 
+- [20 Feb 2026](../../changes/2026/2026-02-20.md): 11 added
 - [12 Dec 2025](../../changes/2025/2025-12-12.md): 3 amended, 1 added
 - [21 Feb 2025](../../changes/2025/2025-02-21.md): 3 amended
 - [3 Jan 2025](../../changes/2025/2025-01-03.md): 2 amended
@@ -34,7 +35,6 @@
 - [22 Apr 2022](../../changes/2022/2022-04-22.md): 9 amended
 - [7 Jan 2022](../../changes/2022/2022-01-07.md): 12 amended
 - [30 Jul 2021](../../changes/2021/2021-07-30.md): 1 amended
-- [19 Feb 2021](../../changes/2021/2021-02-19.md): 12 amended
 
 ## Contents
 
@@ -47,3 +47,4 @@
 - [Article 7 — Student Debt Consultants](article-07-student-debt-consultants/)
 - [Article 8 — Commercial Financing](article-08-commercial-financing/)
 - [Article 9 — Private Education Debt Reporting](article-09-private-education-debt-reporting/)
+- [Article 10 — Litigation Funding](article-10-litigation-funding/)

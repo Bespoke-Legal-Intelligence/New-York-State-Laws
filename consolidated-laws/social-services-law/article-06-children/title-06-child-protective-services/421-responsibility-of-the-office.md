@@ -62,7 +62,7 @@ establish uniform requirements for the investigation of reports of child
 abuse or maltreatment under this title. The department shall also issue
 guidelines which shall set forth the circumstances or conditions under
 which:
-  * NB Effective until March 12, 2026
+  * NB Effective until December 12, 2026
   * promulgate regulations setting forth requirements for the
 performance by local social services departments of the duties and
 powers imposed and conferred upon them by the provisions of this title
@@ -71,7 +71,7 @@ establish uniform requirements for the investigation of reports of child
 abuse or maltreatment under this title. The office of children and
 family services shall also issue guidelines which shall set forth the
 circumstances or conditions under which:
-  * NB Effective March 12, 2026
+  * NB Effective December 12, 2026
   (a) personal contact shall be made with the child named in the report
 and any other children in the same household, including interviewing
 such child or children absent the subject of the report whenever
@@ -101,11 +101,9 @@ protective services to comply with notification requirements of the
 family court act in connection with such monitoring and supervisory
 responsibilities.
   * NB Effective until March 12, 2026
-  *The office of children and family services shall promulgate
-regulations to establish standards for the development of a training
-curriculum for child protective services workers which teaches
-appropriate investigatory techniques for reports of sexual abuse and
-mandates on-going training for child protective services workers,
+  * The office of children and family services shall promulgate
+regulations to establish training requirements for child protective
+services workers consistent with subdivision five of this section,
 standards for intervention, criteria for case closings, criteria for
 determining whether or not to initiate a child protective proceeding,
 and criteria for the formulation of treatment plans and for the delivery
@@ -174,7 +172,7 @@ of the protocols for identification and investigation of child abuse and
 maltreatment, any developments in legal, treatment and prevention issues
 in child protection, and review and analysis of field experiences of
 child protective services workers.
-  * NB Effective until March 12, 2026
+  * NB Effective until December 12, 2026
   * (b) promulgate regulations setting forth training requirements which
 shall specify, among other things, that all persons hired by a child
 protective service on or after April first, nineteen hundred eighty-six
@@ -201,7 +199,7 @@ limited to, review of the protocols for identification and investigation
 of child abuse and maltreatment, any developments in legal, treatment
 and prevention issues in child protection, and review and analysis of
 field experiences of child protective services workers.
-  * NB Effective March 12, 2026
+  * NB Effective December 12, 2026
   (c) require all persons assigned to be a supervisor by a child
 protective service on or after April first, nineteen hundred eighty-six,
 shall have satisfactorily completed, within the first three months of
@@ -226,6 +224,13 @@ protective service supervisors.
 districts, for the salaries of employees of child protective services
 who do not comply with the background review, educational, experience or
 training requirements of this title.
+  * (e) promulgate regulations setting forth training requirements for
+child protective services workers assigned to a multidisciplinary
+investigative team established pursuant to subdivision six of section
+four hundred twenty-three of this title, which shall include appropriate
+techniques for investigating reports of sexual abuse and requirements
+for ongoing training.
+  * NB Effective December 12, 2026
   6. promulgate regulations which require social services districts to
 make local procedural manuals and service directories available to
 employees of a child protective service, service providers and other
@@ -235,12 +240,12 @@ maltreatment.
 local departments of social services are kept apprised on a current
 basis of the laws, regulations and policies of the department concerning
 child abuse and maltreatment.
-  * NB Effective until March 12, 2026
+  * NB Effective until December 12, 2026
   * 7. take all reasonable and necessary actions to assure that the
 local departments of social services are kept apprised on a current
 basis of the laws, regulations and policies of the office of children
 and family services concerning child abuse and maltreatment.
-  * NB Effective March 12, 2026
+  * NB Effective December 12, 2026
   8. monitor and supervise the performance of the local departments of
 social services.
 ```

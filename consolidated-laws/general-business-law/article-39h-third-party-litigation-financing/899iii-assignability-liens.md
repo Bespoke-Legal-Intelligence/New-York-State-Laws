@@ -12,5 +12,5 @@ subject of the consumer litigation funding or medicare or other
 statutory liens related to the legal claim shall take priority over any
 lien of the consumer litigation funding company. All other liens shall
 take priority by normal operation of law.
-  * NB Effective June 17, 2026
+  * NB Effective and Repealed June 17, 2026
 ```

@@ -4,12 +4,12 @@
 [Agriculture and Markets Law](../README.md) › [Article 28 — Special Powers and Duties of the Department With Respect to Retail Food Stores, Food Service Establishments and Food Warehouses](README.md)
 
 ```text
-  * § 500-f. Sanitary inspections. 1. The department shall assign at
-least one retail food specialist to each inspection zone. Such
-specialists shall assist retail food stores, food service
-establishments, and food warehouses in remedying chronic deficiencies
-and shall ensure that effective pest control and other sanitary measures
-are properly implemented.
+  § 500-f. Sanitary inspections. 1. The department shall assign at least
+one retail food specialist to each inspection zone. Such specialists
+shall assist retail food stores, food service establishments, and food
+warehouses in remedying chronic deficiencies and shall ensure that
+effective pest control and other sanitary measures are properly
+implemented.
   2. Such specialists shall be given additional training to that
 normally provided to sanitary inspectors to qualify them for their
 duties under this section, with particular emphasis on the problems
@@ -29,5 +29,4 @@ copy of the date and results of its most recent sanitary inspection by
 the department in a conspicuous location near each public entrance, as
 prescribed by the commissioner. Such copies shall also be made available
 to the public upon request.
-  * NB Effective February 13, 2026
 ```

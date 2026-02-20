@@ -4,8 +4,8 @@
 [Agriculture and Markets Law](../README.md) › [Article 28 — Special Powers and Duties of the Department With Respect to Retail Food Stores, Food Service Establishments and Food Warehouses](README.md)
 
 ```text
-  * § 500-b. Licensure. No person shall maintain or operate a retail
-food store, food service establishment or food warehouse unless such
+  § 500-b. Licensure. No person shall maintain or operate a retail food
+store, food service establishment or food warehouse unless such
 establishment is licensed pursuant to the provisions of this article,
 provided, however, that establishments registered, permitted or licensed
 by the department pursuant to other provisions of this chapter, under
@@ -33,5 +33,4 @@ applicant that is a chain store, as defined by subdivision five of
 section two hundred fifty-one-z-two of this chapter, issue such license
 for a period ending on the same date as the licenses of the other chain
 stores that are a part of the same network.
-  * NB Effective February 13, 2026
 ```

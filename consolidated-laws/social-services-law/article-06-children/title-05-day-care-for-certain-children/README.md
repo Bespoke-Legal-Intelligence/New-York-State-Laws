@@ -7,6 +7,7 @@
 
 - [§ 410 Day care; when public welfare official to furnish](410-day-care-when-public-welfare-official-to-furnish.md)
 - [§ 410-A Day care; when department to furnish](410a-day-care-when-department-to-furnish.md)
+- [§ 410-AA Waitlist requirements](410aa-waitlist-requirements.md)
 - [§ 410-B Federal grants](410b-federal-grants.md)
 - [§ 410-BB Grants to not-for-profit facilities providing day care for children for employee salary and benefit enhancements](410bb-grants-to-not-for-profit-facilities-providing-day-care-for-children.md)
 - [§ 410-C State reimbursement](410c-state-reimbursement.md)
@@ -21,6 +22,7 @@
                       DAY CARE FOR CERTAIN CHILDREN
 Section 410.     Day care; when public welfare official to furnish.
         410-a.   Day care; when department to furnish.
+        410-aa.  Waitlist requirements.
         410-b.   Federal grants.
         410-bb.  Grants to not-for-profit facilities providing day care
                    for children for employee salary and benefit

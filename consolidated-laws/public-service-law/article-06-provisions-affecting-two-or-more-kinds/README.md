@@ -27,7 +27,7 @@
 - [§ 119-B Protection of underground facilities](119b-protection-of-underground-facilities.md)
 - [§ 119-C Tax reduction benefit to ratepayers](119c-tax-reduction-benefit-to-ratepayers.md)
 - [§ 119-D Maintenance of utility poles](119d-maintenance-of-utility-poles.md)
-- [§ 119-E Utility pole and attachment identification](119e-utility-pole-and-attachment-identification.md)
+- [§ 119-E Utility pole attachment report](119e-utility-pole-attachment-report.md)
 
 <details>
 <summary>Official heading of Article 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -68,7 +68,7 @@ Section 105.   Purposes of article.
         119-b. Protection of underground facilities.
         119-c. Tax reduction benefit to ratepayers.
         119-d. Maintenance of utility poles.
-        119-e. Utility pole and attachment identification.
+        119-e. Utility pole attachment report.
 ```
 
 </details>

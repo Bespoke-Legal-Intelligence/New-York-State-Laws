@@ -41,4 +41,6 @@ person in charge of such hospital or such person's designated
 representative shall ensure that the certificate is promptly prepared in
 accordance with the provisions of this article and regulations as
 promulgated by the commissioner.
+  5. A local registrar shall not charge a fee for the issuance of a
+certificate of pregnancy loss under this article.
 ```

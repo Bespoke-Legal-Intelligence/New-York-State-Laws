@@ -4,7 +4,8 @@
 [Labor Law](../README.md) › [Article 37 — Trapped At Work Act](README.md)
 
 ```text
-  § 1051. Scope. The rights and remedies provided pursuant to this
+  * § 1051. Scope. The rights and remedies provided pursuant to this
 article shall not supersede any other rights and remedies provided by
 statute or common law.
+  * NB Effective December 19, 2026
 ```

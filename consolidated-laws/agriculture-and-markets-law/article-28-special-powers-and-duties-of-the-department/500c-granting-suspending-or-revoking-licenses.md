@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 28 — Special Powers and Duties of the Department With Respect to Retail Food Stores, Food Service Establishments and Food Warehouses](README.md)
 
 ```text
-  * § 500-c. Granting, suspending or revoking licenses. The commissioner
+  § 500-c. Granting, suspending or revoking licenses. The commissioner
 may decline to grant a new license, may decline to renew a license, may
 suspend or revoke a license already granted after due notice and
 opportunity for hearing whenever such commissioner finds that:
@@ -28,5 +28,4 @@ thereto; or
 director, partner or any stockholder, exercising any position of
 management or control has been convicted of a felony in any court of the
 United States or any state or territory.
-  * NB Effective February 13, 2026
 ```

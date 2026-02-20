@@ -46,6 +46,4 @@ individual who experienced the pregnancy loss, such individual's lawful
 representative and to authorized personnel of the department. Nothing in
 this section shall prohibit disclosure of deidentified information in
 compliance with federal reporting requirements.
-  6. A local registrar shall not charge a fee for the issuance of a
-certificate of pregnancy loss under this article.
 ```

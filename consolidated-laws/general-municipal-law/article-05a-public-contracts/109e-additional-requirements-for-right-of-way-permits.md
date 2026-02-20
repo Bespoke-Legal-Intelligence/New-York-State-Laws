@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 109-E", "kind": "section", "law_id": "GMU", "location_id": "109-E", "path": "ARTICLE 5-A › SECTION 109-E", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/109-E.md", "title": "Additional requirements for right-of-way permits"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 109-E", "kind": "section", "law_id": "GMU", "location_id": "109-E", "path": "ARTICLE 5-A › SECTION 109-E", "repealed": true, "repealed_date": "2026-02-20", "source": "nys-laws:GMU/109-E.md", "title": "Additional requirements for right-of-way permits"} -->
 # General Municipal Law § 109-E — Additional requirements for right-of-way permits
 
 [General Municipal Law](../README.md) › [Article 5-A — Public Contracts](README.md)
+
+**Repealed** (20 Feb 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 109-e. Additional requirements for right-of-way permits. As a

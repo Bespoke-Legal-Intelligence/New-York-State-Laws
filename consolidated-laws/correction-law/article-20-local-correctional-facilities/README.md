@@ -22,7 +22,7 @@
 - [§ 500-N Prisoners; unlawful fees prohibited](500n-prisoners-unlawful-fees-prohibited.md)
 - [§ 500-O Agreements for custody of incarcerated individuals from other states](500o-agreements-for-custody-of-incarcerated-individuals-from-other-states.md)
 - [§ 500-P Prohibition on the custody of youth in Rikers Island facilities](500p-prohibition-on-the-custody-of-youth-in-rikers-island-facilities.md)
-- [§ 500-Q Disclosure of video footage related to the death of incarcerated individuals involving correctional officers](500q-disclosure-of-video-footage-related-to-the-death-of-incarcerated-individuals.md)
+- [§ 500-Q Disclosure of video footage related to the death of incarcerated individuals involving correction officers or peace officers employed at ...](500q-disclosure-of-video-footage-related-to-the-death-of-incarcerated-individuals.md)
 - [§ 501 Jail physician](501-jail-physician.md)
 - [§ 502 Use of liquor in jails](502-use-of-liquor-in-jails.md)
 - [§ 503 Permit to bring liquor into jail](503-permit-to-bring-liquor-into-jail.md)
@@ -63,8 +63,9 @@ Section 500.   Application of article.
         500-p. Prohibition on the custody of youth in Rikers Island
                  facilities.
         500-q. Disclosure of video footage related to the death of
-                 incarcerated individuals involving correctional
-                 officers.
+                 incarcerated individuals involving correction officers
+                 or peace officers employed at a local correctional
+                 facility.
         501.   Jail physician.
         502.   Use of liquors in jails.
         503.   Permit to bring liquor into jails.

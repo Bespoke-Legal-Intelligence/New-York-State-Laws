@@ -35,7 +35,6 @@
 - [§ 625 Menstrual products](625-menstrual-products.md)
 - [§ 626 Medication assisted treatment in correctional facilities](626-medication-assisted-treatment-in-correctional-facilities.md)
 - [§ 627 Breast cancer screening and diagnostic testing](627-breast-cancer-screening-and-diagnostic-testing.md)
-- [§ 628 Surveillance, recording, and investigations](628-surveillance-recording-and-investigations.md)
 
 <details>
 <summary>Official heading of Article 22, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -83,7 +82,6 @@ Section 600.   Certain correctional officers to administer oaths.
         625.   Menstrual products.
         626.   Medication assisted treatment in correctional facilities.
         627.   Breast cancer screening and diagnostic testing.
-        628.   Surveillance, recording, and investigations.
 ```
 
 </details>
