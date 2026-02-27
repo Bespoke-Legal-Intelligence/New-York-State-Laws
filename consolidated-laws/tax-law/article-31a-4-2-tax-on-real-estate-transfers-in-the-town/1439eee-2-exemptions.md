@@ -73,7 +73,6 @@ the consideration of the conveyance of improved real property or an
 interest therein, and an exemption of fifty thousand dollars shall be
 allowed on the consideration of the conveyance of unimproved real
 property.
-  * NB Effective February 19, 2026
   * NB Repealed December 31, 2045
   * NB There are 2 § 1439-eee's
 ```

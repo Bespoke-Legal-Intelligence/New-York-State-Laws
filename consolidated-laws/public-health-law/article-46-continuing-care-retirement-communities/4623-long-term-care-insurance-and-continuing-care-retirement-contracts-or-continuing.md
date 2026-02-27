@@ -16,12 +16,12 @@ by the resident or by medical assistance payments in accordance with the
 partnership for long term care program pursuant to section three hundred
 sixty-seven-f of the social services law and section three thousand two
 hundred twenty-nine of the insurance law or (b) other group or
-individual long term care insurance approved by the superintendent and
-the council in connection with the application. The council, in
-consultation with the superintendent, shall provide for adequate
-disclosure to residents of their options, rights and obligations under
-such an arrangement, and shall establish standards for the remittance
-and collection of premiums and monthly care fees.
+individual long term care insurance approved by the superintendent in
+connection with the application. The commissioner, in consultation with
+the superintendent, shall provide for adequate disclosure to residents
+of their options, rights and obligations under such an arrangement, and
+shall establish standards for the remittance and collection of premiums
+and monthly care fees.
   2. With regard to nursing facility or home health care services which
 are part of the continuing care retirement contract or continuing care
 at home contract, any elimination or waiting periods and any

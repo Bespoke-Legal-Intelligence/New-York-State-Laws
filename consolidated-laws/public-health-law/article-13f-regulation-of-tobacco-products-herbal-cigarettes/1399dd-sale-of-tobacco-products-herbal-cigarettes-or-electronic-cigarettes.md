@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Public Health Law § 1399-DD", "kind": "section", "law_id": "PBH", "location_id": "1399-DD", "path": "ARTICLE 13-F › SECTION 1399-DD", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/1399-DD.md", "title": "Sale of tobacco products, herbal cigarettes or electronic cigarettes in vending machines"} -->
 # Public Health Law § 1399-DD — Sale of tobacco products, herbal cigarettes or electronic cigarettes in vending machines
 
-[Public Health Law](../README.md) › [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes, Kratom and Smoking Paraphernalia; Distribution to Minors](README.md)
+[Public Health Law](../README.md) › [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes and Smoking Paraphernalia; Distribution to Minors](README.md)
 
 ```text
   § 1399-dd. Sale of tobacco products, herbal cigarettes or electronic

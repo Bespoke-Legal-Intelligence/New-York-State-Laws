@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "State Technology Law § 504", "kind": "section", "law_id": "STT", "location_id": "504", "path": "ARTICLE 5 › SECTION 504", "repealed": false, "repealed_date": null, "source": "nys-laws:STT/504.md", "title": "Submission to the governor and legislature"} -->
+﻿<!-- nyslaw {"citation": "State Technology Law § 504", "kind": "section", "law_id": "STT", "location_id": "504", "path": "ARTICLE 5 › SECTION 504", "repealed": true, "repealed_date": "2026-02-27", "source": "nys-laws:STT/504.md", "title": "Submission to the governor and legislature"} -->
 # State Technology Law § 504 — Submission to the governor and legislature
 
 [State Technology Law](../README.md) › [Article 5 — Automated Decision-making In Government Agencies](README.md)
+
+**Repealed** (27 Feb 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 504. Submission to the governor and legislature. 1. Each impact
@@ -30,5 +32,5 @@ action, such government agency may redact such information for the
 purposes of this subdivision, provided that an explanatory statement on
 the process by which the government agency made such determination is
 published along with the redacted impact assessment.
-  * NB Effective December 19, 2026
+  * NB Repealed July 1, 2028
 ```

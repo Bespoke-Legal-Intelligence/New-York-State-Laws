@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Arts and Cultural Affairs Law, Misc ATTN", "kind": "misc", "law_id": "ACA", "location_id": "ATTN", "path": "MISC ATTN", "repealed": false, "repealed_date": null, "source": "nys-laws:ACA/ATTN.md", "title": "Notwithstanding That Chapter 73 of the Laws of 1983 Amends Subdivision (b) of"} -->
+﻿<!-- nyslaw {"citation": "Arts and Cultural Affairs Law, Misc ATTN", "kind": "misc", "law_id": "ACA", "location_id": "ATTN", "path": "MISC ATTN", "repealed": true, "repealed_date": "2026-02-27", "source": "nys-laws:ACA/ATTN.md", "title": "Notwithstanding That Chapter 73 of the Laws of 1983 Amends Subdivision (b) of"} -->
 # Arts and Cultural Affairs Law, Misc ATTN — Notwithstanding That Chapter 73 of the Laws of 1983 Amends Subdivision (b) of
 
 [Arts and Cultural Affairs Law](README.md)
+
+**Repealed** (27 Feb 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * Notwithstanding that Chapter 73 of the Laws of 1983 amends

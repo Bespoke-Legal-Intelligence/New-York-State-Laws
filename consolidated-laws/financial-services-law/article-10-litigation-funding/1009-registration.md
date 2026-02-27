@@ -59,5 +59,5 @@ litigation funding contracts, while their application remains pending
 with the department.
   (g) The superintendent is hereby authorized to adopt rules and
 regulations to implement the provisions of this article as needed.
-  * NB Effective June 17, 2026
+  * NB Effective December 19, 2026
 ```

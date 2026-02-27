@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Public Health Law § 1399-CC", "kind": "section", "law_id": "PBH", "location_id": "1399-CC", "path": "ARTICLE 13-F › SECTION 1399-CC", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/1399-CC.md", "title": "Sale of tobacco products, herbal cigarettes, liquid nicotine, shisha, rolling papers or smoking paraphernalia to minors prohibited"} -->
 # Public Health Law § 1399-CC — Sale of tobacco products, herbal cigarettes, liquid nicotine, shisha, rolling papers or smoking paraphernalia to minors prohibited
 
-[Public Health Law](../README.md) › [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes, Kratom and Smoking Paraphernalia; Distribution to Minors](README.md)
+[Public Health Law](../README.md) › [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes and Smoking Paraphernalia; Distribution to Minors](README.md)
 
 ```text
   § 1399-cc. Sale of tobacco products, herbal cigarettes, liquid

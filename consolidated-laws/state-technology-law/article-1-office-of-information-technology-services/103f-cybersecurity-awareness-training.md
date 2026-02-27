@@ -4,7 +4,7 @@
 [State Technology Law](../README.md) › [Article 1 — Office of Information Technology Services](README.md)
 
 ```text
-  * § 103-f. Cybersecurity awareness training. 1. (a) Employees of the
+  § 103-f. Cybersecurity awareness training. 1. (a) Employees of the
 state who use technology as a part of their official job duties shall
 take annual cybersecurity awareness training beginning January first,
 two thousand twenty-six. Employees of the state shall be required to
@@ -29,5 +29,4 @@ of other cybersecurity awareness training.
 employee's regular working hours and employees shall receive
 compensation at their regular rate of pay for any time spent
 participating in such training.
-  * NB There are 2 § 103-f's
 ```

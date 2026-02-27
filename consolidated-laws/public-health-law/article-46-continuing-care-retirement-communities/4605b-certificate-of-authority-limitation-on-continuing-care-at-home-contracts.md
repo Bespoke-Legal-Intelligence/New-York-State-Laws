@@ -17,8 +17,8 @@ that can be supported in the existing or approved future capacity of the
 adult care facility and skilled nursing facility consistent with the
 provisions set forth in section forty-six hundred five-a of this
 article; and
-  3. Conditions set forth by the department, based upon the
-commissioner's assessment of the following:
+  3. Conditions set forth by the New York state department of financial
+services, based upon the superintendent's assessment of the following:
   (a) the overall financial impact on the community; and
   (b) the submitted materials set forth in section forty-six hundred
 five-a of this article.

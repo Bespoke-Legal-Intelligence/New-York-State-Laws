@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Public Health Law § 1399-LL*2", "kind": "section", "law_id": "PBH", "location_id": "1399-LL*2", "path": "ARTICLE 13-F › SECTION 1399-LL*2", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/1399-LL_2.md", "title": "Sale of bidis prohibited"} -->
 # Public Health Law § 1399-LL*2 — Sale of bidis prohibited
 
-[Public Health Law](../README.md) › [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes, Kratom and Smoking Paraphernalia; Distribution to Minors](README.md)
+[Public Health Law](../README.md) › [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes and Smoking Paraphernalia; Distribution to Minors](README.md)
 
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 

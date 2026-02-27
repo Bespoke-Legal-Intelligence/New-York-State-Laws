@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "State Technology Law § 103-F*2", "kind": "section", "law_id": "STT", "location_id": "103-F*2", "path": "ARTICLE 1 › SECTION 103-F*2", "repealed": false, "repealed_date": null, "source": "nys-laws:STT/103-F_2.md", "title": "Automated decision-making tool inventory"} -->
+﻿<!-- nyslaw {"citation": "State Technology Law § 103-F*2", "kind": "section", "law_id": "STT", "location_id": "103-F*2", "path": "ARTICLE 1 › SECTION 103-F*2", "repealed": true, "repealed_date": "2026-02-27", "source": "nys-laws:STT/103-F_2.md", "title": "Automated decision-making tool inventory"} -->
 # State Technology Law § 103-F*2 — Automated decision-making tool inventory
 
 [State Technology Law](../README.md) › [Article 1 — Office of Information Technology Services](README.md)
+
+**Repealed** (27 Feb 2026). The text below is what the Senate publishes for this repealed provision.
 
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
@@ -28,5 +30,6 @@ under this section.
   4. The office shall submit a copy of the artificial intelligence
 inventory to the governor, the temporary president of the senate, and
 the speaker of the assembly.
+  * NB Repealed July 1, 2028
   * NB There are 2 § 103-f's
 ```

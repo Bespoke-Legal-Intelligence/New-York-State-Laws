@@ -7,7 +7,7 @@
 
 - [§ 30 Certification of patients](30-certification-of-patients.md)
 - [§ 31 Lawful medical use](31-lawful-medical-use.md)
-- [§ 32 Registry identification cards](32-registry-identification-cards.md)
+- [§ 32 Validating medical cannabis certifications](32-validating-medical-cannabis-certifications.md)
 - [§ 32-A Medical cannabis patient reciprocity](32a-medical-cannabis-patient-reciprocity.md)
 - [§ 33 Registration as a designated caregiver facility](33-registration-as-a-designated-caregiver-facility.md)
 - [§ 34 Registered organizations](34-registered-organizations.md)

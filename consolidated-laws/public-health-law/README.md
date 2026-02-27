@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBH |
 | Type | Consolidated law, chapter 45 |
-| Sections | 1,803 |
-| Last changed | 20 Feb 2026 |
+| Sections | 1,804 |
+| Last changed | 27 Feb 2026 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Health |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER 45 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (358 lines)](chapter-text.md)
+[Full chapter text (360 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [27 Feb 2026](../../changes/2026/2026-02-27.md): 19 amended, 1 added
 - [20 Feb 2026](../../changes/2026/2026-02-20.md): 9 amended
 - [13 Feb 2026](../../changes/2026/2026-02-13.md): 16 added, 11 removed
 - [6 Feb 2026](../../changes/2026/2026-02-06.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [26 Dec 2025](../../changes/2025/2025-12-26.md): 38 amended, 1 added
 - [19 Dec 2025](../../changes/2025/2025-12-19.md): 1 amended, 2 added
 - [12 Dec 2025](../../changes/2025/2025-12-12.md): 3 amended, 1 added
-- [28 Nov 2025](../../changes/2025/2025-11-28.md): 17 amended
 
 ## Contents
 
@@ -68,9 +68,10 @@ Assembly, do enact as follows:
 - [Article 13-B — Regulation of Overnight, Summer Day, and Traveling Summer Day Camps For Children](article-13b-regulation-of-overnight-summer-day-and-traveling/)
 - [Article 13-D — Regulation of Housing; Used As Accommodations By Employees of Certain Motels and Hotels](article-13d-regulation-of-housing-used-as-accommodations/)
 - [Article 13-E — Regulation of Smoking and Vaping In Certain Public Areas](article-13e-regulation-of-smoking-and-vaping-in-certain/)
-- [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes, Kratom and Smoking Paraphernalia; Distribution to Minors](article-13f-regulation-of-tobacco-products-herbal-cigarettes/)
+- [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes and Smoking Paraphernalia; Distribution to Minors](article-13f-regulation-of-tobacco-products-herbal-cigarettes/)
 - [Article 13-G — Tobacco Escrow Funds](article-13g-tobacco-escrow-funds/)
 - [Article 13-H — Regulation of Sharps](article-13h-regulation-of-sharps/)
+- [Article 13-I — Regulation of Supplements and Other Products; Distribution to Minors](article-13i-regulation-of-supplements-and-other-products/)
 - [Article 14 — Regulation of Camps For Children](article-14-regulation-of-camps-for-children/)
 - [Article 15 — Insect Control](article-15-insect-control/)
 - [Article 16 — Pesticide Control Board](article-16-pesticide-control-board/)

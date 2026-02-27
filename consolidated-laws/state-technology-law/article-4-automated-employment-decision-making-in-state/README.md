@@ -6,7 +6,8 @@
 ## Contents
 
 - [§ 401 Definitions](401-definitions.md)
-- [§ 402 Disclosure of automated employment decision-making tools](402-disclosure-of-automated-employment-decision-making-tools.md)
+- [§ 402 Disclosure of automated employment decision-making tools used by state agencies](402-disclosure-of-automated-employment-decision-making-tools-used-by-state.md)
+- [§ 402-A Disclosure of automated employment decision-making tools used by covered entities](402a-disclosure-of-automated-employment-decision-making-tools-used-by-covered.md)
 
 <details>
 <summary>Official heading of Article 4, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -15,7 +16,10 @@
                                ARTICLE IV
         AUTOMATED EMPLOYMENT DECISION-MAKING IN STATE GOVERNMENT
 Section 401. Definitions.
-        402. Disclosure of automated employment decision-making tools.
+        402. Disclosure of automated employment decision-making tools
+               used by state agencies.
+        402-aDisclosure of automated employment decision-making tools
+               used by covered entities.
 ```
 
 </details>

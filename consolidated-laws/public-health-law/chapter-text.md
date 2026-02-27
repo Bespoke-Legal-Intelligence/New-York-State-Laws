@@ -130,6 +130,8 @@ Article
             distribution to minors (§§ 1399-aa--1399-mmm).
   13-G.    Tobacco escrow funds (§§ 1399-nn--1399-pp).
   13-H.    Regulation of sharps (§§ 1399-ss--1399-ww).
+  13-I.    Regulation of supplements and other products; distribution to
+            minors (§ 1399-xx).
   14.      Regulation of camps for children (§§ 1400-1408).
   15.      Insect control
            Title    I.   Municipal insect control (§§ 1500-1503).

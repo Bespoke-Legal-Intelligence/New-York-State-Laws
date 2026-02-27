@@ -45,7 +45,6 @@ Section 1450-a. Definitions.
         1450-n. Miscellaneous.
         1450-o. Returns to be secret.
         1450-p. Foreclosure proceedings.
-  * NB Effective February 19, 2026
   * NB Repealed December 31, 2045
 ```
 

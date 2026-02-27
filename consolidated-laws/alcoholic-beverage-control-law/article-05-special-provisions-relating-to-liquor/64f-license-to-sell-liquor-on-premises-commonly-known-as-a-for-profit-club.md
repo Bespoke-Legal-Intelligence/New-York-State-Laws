@@ -4,7 +4,7 @@
 [Alcoholic Beverage Control Law](../README.md) › [Article 5 — Special Provisions Relating to Liquor](README.md)
 
 ```text
-  * § 64-f. License to sell liquor on premises commonly known as a
+  § 64-f. License to sell liquor on premises commonly known as a
 for-profit club. 1. Any person may make an application to the state
 liquor authority to operate a "for-profit club" which is operated solely
 for a recreational, social, patriotic, political, benevolent, communal
@@ -206,5 +206,4 @@ the general obligations law shall accrue to the licensee.
   10. All for-profit club licensees shall be subject to such rules and
 regulations by the authority as is deemed necessary and are in
 conformity with the provisions of this chapter.
-  * NB Effective February 18, 2026
 ```

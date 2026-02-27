@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | STT |
 | Type | Consolidated law, chapter 57-A |
-| Sections | 42 |
-| Last changed | 9 Jan 2026 |
+| Sections | 43 (5 repealed) |
+| Last changed | 27 Feb 2026 |
 | First in this history | 22 Sep 2014 |
 | Senate name | State Technology |
 
@@ -25,14 +25,15 @@ Article                                              Section
    I    Office of Information Technology Services    (§§ 101-107)
    II   Internet Security and Privacy Act            (§§ 201-210)
    III  Electronic Signatures and Records Act        (§§ 301-309)
-   IV   Automated employment decision-making in      (§§ 401-402)
+   IV   Automated employment decision-making in      (§§ 401-402-a)
         state government
 ```
 
-[Full chapter text (10 lines)](chapter-text.md)
+[Chapter text page](chapter-text.md)
 
 ## Recent changes
 
+- [27 Feb 2026](../../changes/2026/2026-02-27.md): 8 amended, 1 added, 5 repealed
 - [9 Jan 2026](../../changes/2026/2026-01-09.md): 4 amended
 - [26 Dec 2025](../../changes/2025/2025-12-26.md): 1 amended, 5 added, 2 removed
 - [19 Dec 2025](../../changes/2025/2025-12-19.md): 1 amended
@@ -42,7 +43,6 @@ Article                                              Section
 - [3 Jan 2025](../../changes/2025/2025-01-03.md): 1 amended
 - [27 Dec 2024](../../changes/2024/2024-12-27.md): 1 amended, 4 added
 - [29 Nov 2024](../../changes/2024/2024-11-29.md): 3 amended, 1 added
-- [5 Jul 2024](../../changes/2024/2024-07-05.md): 1 amended
 
 ## Contents
 
@@ -50,4 +50,4 @@ Article                                              Section
 - [Article 2 — Internet Security and Privacy Act](article-2-internet-security-and-privacy-act/)
 - [Article 3 — Electronic Signatures and Records Act](article-3-electronic-signatures-and-records-act/)
 - [Article 4 — Automated Employment Decision-making In State Government](article-4-automated-employment-decision-making-in-state/)
-- [Article 5 — Automated Decision-making In Government Agencies](article-5-automated-decision-making-in-government-agencies/)
+- [Article 5 — Automated Decision-making In Government Agencies](article-5-automated-decision-making-in-government-agencies/) *(repealed)*

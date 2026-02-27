@@ -80,33 +80,35 @@ in order to evaluate the condition or circumstances of a child. When any
 allegations contained in such telephone calls could reasonably
 constitute a report of child abuse or maltreatment, after utilizing
 protocols that would reduce implicit bias from the decision-making
-process, such allegations, the caller's name, the caller's contact
-information and any previous reports to the central registry involving
-the subject of such report or children named in such report, including
-any previous report containing allegations of child abuse and
-maltreatment alleged to have occurred in other counties and districts in
-New York state shall be immediately transmitted orally or electronically
-by the office of children and family services to the appropriate local
-child protective service for investigation. The inability of the person
-calling the register to identify the alleged perpetrator shall, in no
-circumstance, constitute the sole cause for the register to reject such
-allegation or fail to transmit such allegation for investigation. If the
-records indicate a previous report concerning a subject of the report,
-the child alleged to be abused or maltreated, a sibling, other children
-in the household, other persons named in the report or other pertinent
-information, the appropriate local child protective service shall be
-immediately notified of the fact. If the report involves either (i) an
-allegation of an abused child described in paragraph (i), (ii) or (iii)
-of subdivision (e) of section one thousand twelve of the family court
-act or sexual abuse of a child or the death of a child or (ii) suspected
-maltreatment which alleges any physical harm when the report is made by
-a person required to report pursuant to section four hundred thirteen of
-this title within six months of any other two reports that were
-indicated, or may still be pending, involving the same child, sibling,
-or other children in the household or the subject of the report, the
-office of children and family services shall identify the report as such
-and note any prior reports when transmitting the report to the local
-child protective services for investigation.
+process, such allegations, the caller's name pursuant to paragraph (d)
+of this subdivision, the caller's contact information pursuant to
+paragraph (d) of this subdivision and any previous reports to the
+central registry involving the subject of such report or children named
+in such report, including any previous report containing allegations of
+child abuse and maltreatment alleged to have occurred in other counties
+and districts in New York state shall be immediately transmitted orally
+or electronically by the office of children and family services to the
+appropriate local child protective service for investigation. The
+inability of the person calling the register to identify the alleged
+perpetrator shall, in no circumstance, constitute the sole cause for the
+register to reject such allegation or fail to transmit such allegation
+for investigation. If the records indicate a previous report concerning
+a subject of the report, the child alleged to be abused or maltreated, a
+sibling, other children in the household, other persons named in the
+report or other pertinent information, the appropriate local child
+protective service shall be immediately notified of the fact. If the
+report involves either (i) an allegation of an abused child described in
+paragraph (i), (ii) or (iii) of subdivision (e) of section one thousand
+twelve of the family court act or sexual abuse of a child or the death
+of a child or (ii) suspected maltreatment which alleges any physical
+harm when the report is made by a person required to report pursuant to
+section four hundred thirteen of this title within six months of any
+other two reports that were indicated, or may still be pending,
+involving the same child, sibling, or other children in the household or
+the subject of the report, the office of children and family services
+shall identify the report as such and note any prior reports when
+transmitting the report to the local child protective services for
+investigation.
   * NB Effective June 17, 2026
   (b) Any telephone call made by a person required to report cases of
 suspected child abuse or maltreatment pursuant to section four hundred
@@ -127,36 +129,26 @@ the most expedient means available the information contained in such
 telephone call to the appropriate law enforcement agency, district
 attorney or other public official empowered to provide necessary aid or
 assistance.
-  (d) A caller making a report of suspected child abuse or maltreatment
-to the central registry shall be asked for their name and contact
-information. No report shall be transmitted to a local child protective
-service for investigation unless the caller's name and contact
-information is provided. Except for disclosures authorized by
-subparagraphs (a) through (c) and (e) through (bb) of paragraph (A) of
-subdivision four of this section, and disclosure to the local child
-protective service as required pursuant to paragraph (a) of this
-subdivision, neither the commissioner nor the central register shall
-release the name and contact information of a caller who made a report
-of suspected child abuse or maltreatment unless ordered by an
-administrative law judge or a court of competent jurisdiction; provided,
-however, that this provision shall not apply to individuals who are
-mandated to report suspected child abuse or maltreatment pursuant to
-section four hundred thirteen of this title. Prior to the entry of any
-such order, the petitioner or social services official may move for a
-protective order to withhold the identity of such individual if such
-disclosure is likely to endanger the life or health of the person
-reporting such suspected child abuse or maltreatment.
-  (e) If a caller declines to provide their name and contact
-information, they will be connected with a supervisor at the central
-register, who will inform the caller of the statutory provisions that
-protect callers' confidentiality. If the caller declines to provide
-their name and contact information to the supervisor, the supervisor
-shall inform the caller that (i) concerns of suspected abuse or
-maltreatment may be addressed through support services if the caller
-contacts the department's HEARS Family Line or community-based service
-providers and (ii) knowingly reporting false, retaliatory or baseless
+  * (d) A caller making a report of suspected child abuse or
+maltreatment to the central register shall be asked for their name and
+contact information. The central register may not transmit a report to a
+local child protective service for investigation if the caller's name
+and contact information are not provided, unless the central register
+reasonably believes the caller is a child under the age of eighteen.
+  * NB Effective June 17, 2026
+  * (e) If a caller declines to provide their name and contact
+information, the central register must connect the caller with a
+supervisor, who shall inform the caller of the statutory provisions that
+protect callers' confidentiality. If the caller, including a caller
+reasonably believed to be a child under the age of eighteen, declines to
+provide their name and contact information to the supervisor, the
+supervisor shall inform the caller that (i) preventive and supportive
+services may be available to assist in addressing concerns relative to
+the care and well-being of a child and referrals for such services may
+be provided upon request; and (ii) knowingly reporting false or baseless
 allegations is a violation of subdivision four of section 240.50 of the
 penal law.
+  * NB Effective June 17, 2026
   3. The central register shall include but not be limited to the
 following information: all the information in the written report; a
 record of the final disposition of the report, including services

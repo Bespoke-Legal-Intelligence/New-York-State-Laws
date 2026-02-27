@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Public Health Law § 1399-AA", "kind": "section", "law_id": "PBH", "location_id": "1399-AA", "path": "ARTICLE 13-F › SECTION 1399-AA", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/1399-AA.md", "title": "Definitions"} -->
 # Public Health Law § 1399-AA — Definitions
 
-[Public Health Law](../README.md) › [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes, Kratom and Smoking Paraphernalia; Distribution to Minors](README.md)
+[Public Health Law](../README.md) › [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes and Smoking Paraphernalia; Distribution to Minors](README.md)
 
 ```text
   § 1399-aa. Definitions. As used in this article:
@@ -90,7 +90,8 @@ of article thirty-three of this chapter.
   18. "Vapor products dealer" means a person licensed by the
 commissioner of taxation and finance to sell vapor products in this
 state.
-  19. "Kratom" means any part of the plant Mitragyna speciosa, whether
+  * 19. "Kratom" means any part of the plant Mitragyna speciosa, whether
 growing or not, and any compound, manufacture, salt, derivative,
 mixture, or preparation of such plant.
+  * NB Effective and Repealed June 17, 2026
 ```

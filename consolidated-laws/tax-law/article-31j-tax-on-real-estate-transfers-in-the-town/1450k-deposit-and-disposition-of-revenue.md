@@ -47,6 +47,5 @@ reasonable in view of the overpayment or underpayment and all other
 facts and circumstances.
   4. All monies received from the treasurer shall be deposited in the
 fund of the town, pursuant to section sixty-four-l of the town law.
-  * NB Effective February 19, 2026
   * NB Repealed December 31, 2045
 ```

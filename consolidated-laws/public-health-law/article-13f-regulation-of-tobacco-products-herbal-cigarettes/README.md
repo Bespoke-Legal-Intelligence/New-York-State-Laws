@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"kind": "container", "law_id": "PBH", "location_id": "A13-F", "path": "ARTICLE 13-F", "source": "nys-laws:PBH/A13-F.md", "title": "Regulation of Tobacco Products, Herbal Cigarettes, Kratom and Smoking Paraphernalia; Distribution to Minors"} -->
-# Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes, Kratom and Smoking Paraphernalia; Distribution to Minors
+﻿<!-- nyslaw {"kind": "container", "law_id": "PBH", "location_id": "A13-F", "path": "ARTICLE 13-F", "source": "nys-laws:PBH/A13-F.md", "title": "Regulation of Tobacco Products, Herbal Cigarettes and Smoking Paraphernalia; Distribution to Minors"} -->
+# Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes and Smoking Paraphernalia; Distribution to Minors
 
 [Public Health Law](../README.md)
 
@@ -34,8 +34,12 @@
 
 ```text
                               ARTICLE 13-F
-  REGULATION OF TOBACCO PRODUCTS, HERBAL CIGARETTES, KRATOM AND SMOKING
+     * REGULATION OF TOBACCO PRODUCTS, HERBAL CIGARETTES AND SMOKING
                   PARAPHERNALIA; DISTRIBUTION TO MINORS
+  * NB Effective until June 17, 2026
+          * REGULATION OF TOBACCO PRODUCTS, HERBAL CIGARETTES AND
+              SMOKING PARAPHERNALIA; DISTRIBUTION TO MINORS
+  * NB Effective June 17, 2026
 Section 1399-aa.   Definitions.
         1399-bb.   Distribution of tobacco products, vapor products, or
                      herbal cigarettes without charge.

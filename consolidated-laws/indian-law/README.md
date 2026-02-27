@@ -8,7 +8,7 @@
 | Senate code | IND |
 | Type | Consolidated law, chapter 26 |
 | Sections | 98 |
-| Last changed | 26 Dec 2025 |
+| Last changed | 27 Feb 2026 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Indian |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [27 Feb 2026](../../changes/2026/2026-02-27.md): 2 amended
 - [26 Dec 2025](../../changes/2025/2025-12-26.md): 1 amended, 1 added
 - [11 Jan 2019](../../changes/2019/2019-01-11.md): 2 amended
 - [4 Aug 2017](../../changes/2017/2017-08-04.md): 1 amended

@@ -8,33 +8,34 @@
 duties.  1. The continuing care retirement community council is hereby
 established, to consist of the following, or their designees: the
 attorney general; the commissioner; the director of the office for the
-aging; and eight public members appointed by the governor with the
-advice and consent of the senate. Such public members shall be
-representative of the public, and have a demonstrated expertise or
-interest in continuing care retirement communities; provided that no
-more than one such member shall be a sponsor, owner, operator, manager,
-member of a board of directors, or shareholder of a continuing care
-retirement community. At least two public members shall be residents of
-a continuing care retirement community. At least one of the public
-members shall be a representative of an organization with demonstrated
-experience in representing the interests of senior citizens. The public
-members of the council shall have fixed terms of four years. The council
-shall be chaired by the commissioner or the designee of such
-commissioner.
-  Members of such council shall serve without compensation for their
+aging; and eight public members appointed by the governor. Such public
+members shall be representative of the public, and have a demonstrated
+expertise or interest in continuing care retirement communities;
+provided that no more than one such member shall be a sponsor, owner,
+operator, manager, member of a board of directors, or shareholder of a
+continuing care retirement community. At least two public members shall
+be residents of a continuing care retirement community. At least one of
+the public members shall be a representative of an organization with
+demonstrated experience in representing the interests of senior
+citizens. The public members of the council shall have fixed terms of
+four years. The council shall be chaired by the commissioner or the
+designee of such commissioner.
+  (a) Members of such council shall serve without compensation for their
 services as members of the council, except that each of them may be
 allowed the necessary and actual expenses which such member shall incur
 in the performance of their duties under this article.
-  2. The council shall meet as often as may be deemed necessary to
-fulfill its responsibilities. The council shall have the following
-powers and duties:
-  a. to assist the commissioner on policy matters related to the
+  (b) A majority of the appointed voting membership of the council shall
+constitute a quorum.
+  2. The council shall meet as often as the commissioner may deem
+necessary to fulfill its responsibilities. The council shall have the
+following powers and duties:
+  a. to advise the commissioner on policy matters related to the
 establishment and operation of continuing care retirement communities;
-  b. to assist the commissioner in the development of the state's
+  b. to advise the commissioner in the development of the state's
 overall policy regarding continuing care retirement communities and
 cause studies and research to be conducted as it may deem advisable and
 necessary; and
-  c. to make such recommendations to the governor and the legislature as
-may be necessary to encourage or further regulate the development of
-continuing care retirement communities.
+  c. to make any other recommendations to the commissioner as may be
+necessary to encourage or further regulate the development of continuing
+care retirement communities.
 ```

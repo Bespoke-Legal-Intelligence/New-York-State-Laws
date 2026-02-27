@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Public Health Law § 1399-BB", "kind": "section", "law_id": "PBH", "location_id": "1399-BB", "path": "ARTICLE 13-F › SECTION 1399-BB", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/1399-BB.md", "title": "Distribution of tobacco products, vapor products, or herbal cigarettes without charge"} -->
 # Public Health Law § 1399-BB — Distribution of tobacco products, vapor products, or herbal cigarettes without charge
 
-[Public Health Law](../README.md) › [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes, Kratom and Smoking Paraphernalia; Distribution to Minors](README.md)
+[Public Health Law](../README.md) › [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes and Smoking Paraphernalia; Distribution to Minors](README.md)
 
 ```text
   § 1399-bb. Distribution of tobacco products, vapor products, or herbal

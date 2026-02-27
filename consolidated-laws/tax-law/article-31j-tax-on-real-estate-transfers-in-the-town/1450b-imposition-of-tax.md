@@ -26,6 +26,5 @@ written contracts entered into prior to such date, provided that the
 date of execution of such contract is confirmed by independent evidence
 such as the recording of the contract, payment of a deposit or other
 facts and circumstances as determined by the treasurer.
-  * NB Effective February 19, 2026
   * NB Repealed December 31, 2045
 ```

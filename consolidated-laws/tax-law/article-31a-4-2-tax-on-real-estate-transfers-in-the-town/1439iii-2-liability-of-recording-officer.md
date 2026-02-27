@@ -12,7 +12,6 @@ pursuant to this article that such recording officer shall collect so
 long as they shall compute and collect such tax on the amount of
 consideration or the value of the interest conveyed as such amounts are
 provided to the recording officer by the person paying the tax.
-  * NB Effective February 19, 2026
   * NB Repealed December 31, 2045
   * NB There are 2 § 1439-iii's
 ```

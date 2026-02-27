@@ -3,12 +3,14 @@
 
 [State Technology Law](../README.md)
 
+**Repealed.**
+
 ## Contents
 
-- [§ 501 Definitions](501-definitions.md)
-- [§ 502 Disclosure of automated decision-making tools by government agencies](502-disclosure-of-automated-decision-making-tools-by-government-agencies.md)
-- [§ 503 Impact assessments](503-impact-assessments.md)
-- [§ 504 Submission to the governor and legislature](504-submission-to-the-governor-and-legislature.md)
+- [§ 501 Definitions](501-definitions.md) *(repealed)*
+- [§ 502 Disclosure of automated decision-making tools by government agencies](502-disclosure-of-automated-decision-making-tools-by-government-agencies.md) *(repealed)*
+- [§ 503 Impact assessments](503-impact-assessments.md) *(repealed)*
+- [§ 504 Submission to the governor and legislature](504-submission-to-the-governor-and-legislature.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 5, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -21,7 +23,7 @@ Section 501. Definitions.
                agencies.
         503. Impact assessments.
         504. Submission to the governor and legislature.
-  * NB Effective December 19, 2026
+  * NB Repealed July 1, 2028
 ```
 
 </details>

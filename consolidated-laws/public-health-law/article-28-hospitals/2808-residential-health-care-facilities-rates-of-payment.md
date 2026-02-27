@@ -659,15 +659,21 @@ which in the aggregate exceed:
 patient care services, based on the facility's most recently available
 reported data, without prior written notification to the commissioner;
 or
-  (ii) in the case of a residential health care facility which, over the
-two immediately preceding successive quarters, has been compliant with
-the minimum staffing level requirements prescribed by section
-twenty-eight hundred ninety-five-b of this chapter, five percent of such
-facility's total reported annual revenue for patient care services,
-based on the facility's most recently available reported data, without
-prior written notification to the commissioner. Notification shall be
-made in a form acceptable to the department by certified or registered
-mail.
+  (ii) in the case of a residential health care facility which (1) over
+the two immediately preceding successive quarters for which relevant
+data is available to the department, has been compliant with the minimum
+staffing level requirements prescribed by section twenty-eight hundred
+ninety-five-b of this chapter; (2) is not in the special focus facility
+program operated by the centers for medicare and Medicaid services or
+subject to a denial of payment for new admissions imposed by the centers
+for medicare and Medicaid services; and (3) has not been the subject of
+an enforcement action brought by the department or the centers for
+medicare and Medicaid services in the previous eighteen months that
+resulted in a finding of deficiency, five percent of such facility's
+total reported annual revenue for patient care services, based on the
+facility's most recently available reported data, without prior written
+notification to the commissioner. Notification shall be made in a form
+acceptable to the department by certified or registered mail.
   (c) Notwithstanding any inconsistent provision of this subdivision, on
 and after April first, two thousand ten, no non-public residential
 health care facility, whether operated as a for-profit facility or as a
@@ -677,16 +683,23 @@ the aggregate exceed:
 patient care services, based on the facility's most recently available
 reported data, without the prior written approval of the commissioner;
 or
-  (ii) in the case of a residential health care facility which, over the
-two immediately preceding successive quarters, has been compliant with
-the minimum staffing level requirements prescribed by section
-twenty-eight hundred ninety-five-b of this chapter, five percent of such
-facility's total reported annual revenue for patient care services,
-based on the facility's most recently available reported data, without
-prior written notification to the commissioner. The commissioner shall
-make a determination to approve or disapprove a request for withdrawal
-of equity or assets under this subdivision within sixty days of the date
-of the receipt of a written request from the facility. Requests shall be
+  (ii) in the case of a residential health care facility which (1) over
+the two immediately preceding successive quarters for which relevant
+data is available to the department, has been compliant with the minimum
+staffing level requirements prescribed by section twenty-eight hundred
+ninety-five-b of this chapter; (2) is not in the special focus facility
+program operated by the centers for medicare and Medicaid services or
+subject to a denial of payment for new admissions imposed by the centers
+for medicare and Medicaid services; and (3) has not been the subject of
+an enforcement action brought by the department or the centers for
+medicare and Medicaid services in the previous eighteen months that
+resulted in a finding of deficiency, five percent of such facility's
+total reported annual revenue for patient care services, based on the
+facility's most recently available reported data, without prior written
+notification to the commissioner. The commissioner shall make a
+determination to approve or disapprove a request for withdrawal of
+equity or assets under this subdivision within sixty days of the date of
+the receipt of a written request from the facility. Requests shall be
 made in a form acceptable to the department by certified or registered
 mail. In reviewing such requests the commissioner shall consider the
 facility's overall financial condition, any indications of financial

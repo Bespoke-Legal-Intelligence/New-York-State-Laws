@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Public Health Law § 1399-MM-3", "kind": "section", "law_id": "PBH", "location_id": "1399-MM-3", "path": "ARTICLE 13-F › SECTION 1399-MM-3", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/1399-MM-3.md", "title": "Carrier oils"} -->
 # Public Health Law § 1399-MM-3 — Carrier oils
 
-[Public Health Law](../README.md) › [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes, Kratom and Smoking Paraphernalia; Distribution to Minors](README.md)
+[Public Health Law](../README.md) › [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes and Smoking Paraphernalia; Distribution to Minors](README.md)
 
 ```text
   § 1399-mm-3. Carrier oils. 1. For the purposes of this section

@@ -8,7 +8,7 @@
 | Senate code | GBS |
 | Type | Consolidated law, chapter 20 |
 | Sections | 1,429 |
-| Last changed | 20 Feb 2026 |
+| Last changed | 27 Feb 2026 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Business |
 
@@ -33,6 +33,7 @@ AN ACT relating to general business, constituting chapter twenty of the
 
 ## Recent changes
 
+- [27 Feb 2026](../../changes/2026/2026-02-27.md): 12 amended
 - [20 Feb 2026](../../changes/2026/2026-02-20.md): 16 amended
 - [30 Jan 2026](../../changes/2026/2026-01-30.md): 1 amended
 - [23 Jan 2026](../../changes/2026/2026-01-23.md): 1 amended
@@ -42,7 +43,6 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [28 Nov 2025](../../changes/2025/2025-11-28.md): 3 amended, 2 added
 - [14 Nov 2025](../../changes/2025/2025-11-14.md): 1 amended
 - [7 Nov 2025](../../changes/2025/2025-11-07.md): 11 amended
-- [17 Oct 2025](../../changes/2025/2025-10-17.md): 1 added
 
 ## Contents
 
@@ -93,7 +93,7 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 21 — Publications](article-21-publications/)
 - [Article 21-A — Fraudulent Transactions In Securities](article-21a-fraudulent-transactions-in-securities/)
 - [Article 22 — Monopolies](article-22-monopolies/)
-- [Article 22-A — Consumer Protection From Deceptive Acts and Practices](article-22a-consumer-protection-from-deceptive-acts/)
+- [Article 22-A — Protection From Unfair, Deceptive, or Abusive Acts and Practices](article-22a-protection-from-unfair-deceptive-or-abusive-acts/)
 - [Article 22-B — Water Treatment Units](article-22b-water-treatment-units/)
 - [Article 23 — Bucket Shops](article-23-bucket-shops/)
 - [Article 23-A — Fraudulent Practices In Respect to Stocks, Bonds and Other Securities](article-23a-fraudulent-practices-in-respect-to-stocks-bonds/)
@@ -189,6 +189,6 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 44-A — Freelance Isn't Free Act](article-44a-freelance-isnt-free-act/)
 - [Article 44-B — Responsible Ai Safety and Education (raise) Act](article-44b-responsible-ai-safety-and-education-raise-act/)
 - [Article 45 — Safe For Kids Act](article-45-safe-for-kids-act/)
-- [Article 45-A — Warning Labels For Addictive Social Media Platforms](article-45a-warning-labels-for-addictive-social-media/)
+- [Article 45-A — Warning Labels For Addictive Feature Platforms](article-45a-warning-labels-for-addictive-feature-platforms/)
 - [Article 46 — Laws Repealed; When to Take Effect](article-46-laws-repealed-when-to-take-effect/)
 - [Article 47 — Artificial Intelligence Companion Models](article-47-artificial-intelligence-companion-models/)

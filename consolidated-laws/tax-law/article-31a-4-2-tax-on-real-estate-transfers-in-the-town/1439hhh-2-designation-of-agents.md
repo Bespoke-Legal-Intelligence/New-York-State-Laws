@@ -14,7 +14,6 @@ designated as agent subject to such terms and conditions as the
 treasurer shall prescribe. The real estate transfer tax shall be paid to
 such agent as provided in section fourteen hundred thirty-nine-ccc of
 this article.
-  * NB Effective February 19, 2026
   * NB Repealed December 31, 2045
   * NB There are 2 § 1439-hhh's
 ```

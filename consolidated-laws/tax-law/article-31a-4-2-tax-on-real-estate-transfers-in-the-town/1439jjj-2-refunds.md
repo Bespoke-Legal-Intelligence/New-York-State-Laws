@@ -12,7 +12,6 @@ to this article were paid in error, the treasurer may cause such moneys
 to be refunded pursuant to such requirements as they may prescribe,
 provided that any application for such refund is filed with the
 treasurer within two years from the date the erroneous payment was made.
-  * NB Effective February 19, 2026
   * NB Repealed December 31, 2045
   * NB There are 2 § 1439-jjj's
 ```

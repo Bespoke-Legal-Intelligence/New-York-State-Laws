@@ -4,7 +4,7 @@
 [Education Law](../../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../../README.md) › [Article 3 — Education Department](../README.md) › [Part 1 — General Provisions](README.md)
 
 ```text
-  § 115. Use of artificial intelligence systems and automated
+  * § 115. Use of artificial intelligence systems and automated
 decision-making tools by the state university of New York, the city
 university of New York, or community colleges. 1. The use of artificial
 intelligence systems as defined by section one hundred three-e of the
@@ -30,4 +30,5 @@ employment, civil service status, and collective bargaining unit
 membership status of all existing employees of the state university of
 New York, the city university of New York, or community colleges shall
 be preserved and protected.
+  * NB Repealed July 1, 2028
 ```

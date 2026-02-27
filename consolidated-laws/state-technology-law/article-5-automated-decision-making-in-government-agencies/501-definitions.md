@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "State Technology Law § 501", "kind": "section", "law_id": "STT", "location_id": "501", "path": "ARTICLE 5 › SECTION 501", "repealed": false, "repealed_date": null, "source": "nys-laws:STT/501.md", "title": "Definitions"} -->
+﻿<!-- nyslaw {"citation": "State Technology Law § 501", "kind": "section", "law_id": "STT", "location_id": "501", "path": "ARTICLE 5 › SECTION 501", "repealed": true, "repealed_date": "2026-02-27", "source": "nys-laws:STT/501.md", "title": "Definitions"} -->
 # State Technology Law § 501 — Definitions
 
 [State Technology Law](../README.md) › [Article 5 — Automated Decision-making In Government Agencies](README.md)
+
+**Repealed** (27 Feb 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 501. Definitions. For the purpose of this article:
@@ -36,5 +38,5 @@ district including police or fire districts; (g) a public authority,
 commission or public benefit corporation; or (h) any other public
 corporation, agency, instrumentality or unit of government which
 exercises governmental power under the laws of this state.
-  * NB Effective December 19, 2026
+  * NB Repealed July 1, 2028
 ```

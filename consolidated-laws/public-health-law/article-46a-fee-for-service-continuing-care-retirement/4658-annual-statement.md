@@ -10,8 +10,8 @@ granted, the operator shall file an annual statement with the
 commissioner showing the condition as of the last day of the preceding
 calendar or fiscal year. If the commissioner does not receive the annual
 statement within four months of the end of the operator's fiscal year or
-has not granted an extension of time to file, the council may charge a
-late fee.
+has not granted an extension of time to file, the commissioner may
+charge a late fee.
   2. The annual statement shall be in such form as the commissioner
 prescribes and shall contain at least the following:
   a. Any change in status with respect to the information required to be

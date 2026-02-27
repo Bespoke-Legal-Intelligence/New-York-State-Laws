@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "State Technology Law § 503", "kind": "section", "law_id": "STT", "location_id": "503", "path": "ARTICLE 5 › SECTION 503", "repealed": false, "repealed_date": null, "source": "nys-laws:STT/503.md", "title": "Impact assessments"} -->
+﻿<!-- nyslaw {"citation": "State Technology Law § 503", "kind": "section", "law_id": "STT", "location_id": "503", "path": "ARTICLE 5 › SECTION 503", "repealed": true, "repealed_date": "2026-02-27", "source": "nys-laws:STT/503.md", "title": "Impact assessments"} -->
 # State Technology Law § 503 — Impact assessments
 
 [State Technology Law](../README.md) › [Article 5 — Automated Decision-making In Government Agencies](README.md)
+
+**Repealed** (27 Feb 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 503. Impact assessments. 1. Government agencies seeking to utilize
@@ -58,5 +60,5 @@ an impact assessment finds that the automated decision-making tool
 produces discriminatory or biased outcomes, the government agency shall
 cease any utilization, application, or function of such automated
 decision-making tool, and of any information produced using such tool.
-  * NB Effective December 19, 2026
+  * NB Repealed July 1, 2028
 ```

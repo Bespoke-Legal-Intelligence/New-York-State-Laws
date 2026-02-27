@@ -20,8 +20,7 @@ management in the conduct of business under the certificate of
 authority;
   f. The operator converted or withheld funds;
   g. The operator failed to comply with, or violated, any proper order,
-rule or regulation of the council or violated any provision of this
-article;
+rule or regulation, or violated any provision of this article;
   h. The unsound business practices of the operator renders its further
 transactions in this state hazardous or injurious to the public;
   i. The operator has refused to be examined or to produce its accounts,

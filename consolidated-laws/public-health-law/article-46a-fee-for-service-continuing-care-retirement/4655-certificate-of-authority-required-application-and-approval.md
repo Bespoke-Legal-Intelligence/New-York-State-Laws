@@ -165,10 +165,10 @@ sixty days in advance of any change in the rates to be charged to a
 resident by the operator for any entrance fee, monthly care fee and/or
 any separate charges for the housing component including, but not
 limited to, cooperative or condominium fees.
-  5. If the applicant has satisfied the criteria required by subdivision
-four-a of this section have been obtained, the commissioner shall either
-approve or reject the application. In order to approve the application,
-the commissioner shall have determined that:
+  5. If the approvals required by subdivision four-a of this section
+have been obtained, the commissioner shall either approve or reject the
+application. In order to approve the application, the commissioner shall
+have determined that:
   a. the proposed fee-for-service continuing care retirement community
 will meet a need and will fulfill the purposes of this article;
   b. the applicant has satisfied the requirements of this article;

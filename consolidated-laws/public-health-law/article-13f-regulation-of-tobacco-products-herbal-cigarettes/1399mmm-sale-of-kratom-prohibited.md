@@ -1,10 +1,10 @@
 ﻿<!-- nyslaw {"citation": "Public Health Law § 1399-MMM", "kind": "section", "law_id": "PBH", "location_id": "1399-MMM", "path": "ARTICLE 13-F › SECTION 1399-MMM", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/1399-MMM.md", "title": "Sale of kratom prohibited"} -->
 # Public Health Law § 1399-MMM — Sale of kratom prohibited
 
-[Public Health Law](../README.md) › [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes, Kratom and Smoking Paraphernalia; Distribution to Minors](README.md)
+[Public Health Law](../README.md) › [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes and Smoking Paraphernalia; Distribution to Minors](README.md)
 
 ```text
-  § 1399-mmm. Sale of kratom prohibited. 1. No person shall knowingly
+  * § 1399-mmm. Sale of kratom prohibited. 1. No person shall knowingly
 sell or provide kratom to any other person under twenty-one years of
 age. Any person who violates the provisions of this subdivision shall be
 subject to a civil penalty of not more than five hundred dollars.
@@ -77,4 +77,5 @@ birth, (iii) driver's license or non-driver identification number, and
 electronically readable format", "card holder" and "transaction scan"
 shall have the same meanings as are ascribed to such terms by section
 thirteen hundred ninety-nine-cc of this article.
+  * NB Effective and Repealed June 17, 2026
 ```

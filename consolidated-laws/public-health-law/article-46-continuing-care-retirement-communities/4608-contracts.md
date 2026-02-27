@@ -131,15 +131,10 @@ and the community has not purchased such coverage, the community will be
 responsible for any expenses which would have been covered by medicare
 and medicare supplement coverage. The community may add the amount of
 such expenses to the resident's or contract holder's monthly fees.
-  * 16. A statement that any amendment to the contract and any change in
+  16. A statement that any amendment to the contract and any change in
 fees or charges, other than those within the guidelines of an approved
 rating system, must be approved by the superintendent of financial
 services;
-  * NB Effective until June 1, 2026
-  * 16. A statement that any amendment to the contract and any change in
-fees or charges, other than those within the guidelines of an approved
-rating system, must be approved by the commissioner;
-  * NB Effective June 1, 2026
   17. A statement that property shall not be substituted as payment for
 either the entrance fee or monthly fee;
   18. A statement describing the method by which the community will

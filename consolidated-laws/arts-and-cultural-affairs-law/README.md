@@ -62,4 +62,4 @@ Article
 - [Title V — American Museum of Natural History Planetarium Authority](title-v-american-museum-of-natural-history-planetarium/)
 - [Title V-1 — Sale of Autographed Sports Collectibles](title-v-1-sale-of-autographed-sports-collectibles/)
 - [Title W — Miscellaneous Provisions](title-w-miscellaneous-provisions/)
-- [Misc ATTN Notwithstanding That Chapter 73 of the Laws of 1983 Amends Subdivision (b) of](misc-attn-notwithstanding-that-chapter-73-of-the-laws-of-1983-amends-subdivision-b.md)
+- [Misc ATTN Notwithstanding That Chapter 73 of the Laws of 1983 Amends Subdivision (b) of](misc-attn-notwithstanding-that-chapter-73-of-the-laws-of-1983-amends-subdivision-b.md) *(repealed)*
