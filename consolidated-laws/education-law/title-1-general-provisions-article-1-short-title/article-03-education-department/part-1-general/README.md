@@ -22,7 +22,7 @@
 - [§ 112-A Students confined in certain facilities; responsibility for issuance of diplomas](112a-students-confined-in-certain-facilities.md)
 - [§ 113 Leaves of absence to professional members of the department](113-leaves-of-absence-to-professional-members.md)
 - [§ 114 Reduction of salaries for investment in custodial accounts](114-reduction-of-salaries-for-investment.md)
-- [§ 115 Use of artificial intelligence systems and automated decision-making tools by the state university of New York, the city university of Ne...](115-use-of-artificial-intelligence-systems.md)
+- [§ 115 Use of artificial intelligence systems and automated decision-making tools by the state university of New York, the city university of Ne...](115-use-of-artificial-intelligence-systems.md) *(repealed)*
 - [§ 140 Historical documentary heritage grants and aid](140-historical-documentary-heritage-grants.md)
 
 <details>

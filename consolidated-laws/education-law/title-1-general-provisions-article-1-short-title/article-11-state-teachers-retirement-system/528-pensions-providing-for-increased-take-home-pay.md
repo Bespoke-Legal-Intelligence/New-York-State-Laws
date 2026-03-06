@@ -4,8 +4,8 @@
 [Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 11 — State Teachers' Retirement System For Public School Teachers](README.md)
 
 ```text
-  § 528. Pensions-providing-for-increased-take-home-pay. 1.
-Notwithstanding any other provision of law to the contrary,
+  § 528. Pensions-providing-for-increased-take-home-pay.
+1. Notwithstanding any other provision of law to the contrary,
   a. beginning with the payroll period the first day of which is nearest
 to April first, nineteen hundred sixty, and ending with the payroll
 period immediately prior to that the first day of which is nearest to

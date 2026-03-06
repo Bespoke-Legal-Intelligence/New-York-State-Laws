@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Education Law § 115", "kind": "section", "law_id": "EDN", "location_id": "115", "path": "TITLE 1 › ARTICLE 3 › PART 1 › SECTION 115", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/115.md", "title": "Use of artificial intelligence systems and automated decision-making tools by the state university of New York, the city university of Ne..."} -->
+﻿<!-- nyslaw {"citation": "Education Law § 115", "kind": "section", "law_id": "EDN", "location_id": "115", "path": "TITLE 1 › ARTICLE 3 › PART 1 › SECTION 115", "repealed": true, "repealed_date": "2026-03-06", "source": "nys-laws:EDN/115.md", "title": "Use of artificial intelligence systems and automated decision-making tools by the state university of New York, the city university of Ne..."} -->
 # Education Law § 115 — Use of artificial intelligence systems and automated decision-making tools by the state university of New York, the city university of Ne...
 
 [Education Law](../../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../../README.md) › [Article 3 — Education Department](../README.md) › [Part 1 — General Provisions](README.md)
+
+**Repealed** (6 Mar 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 115. Use of artificial intelligence systems and automated

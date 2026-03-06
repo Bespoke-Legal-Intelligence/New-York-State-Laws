@@ -189,7 +189,7 @@
 - [§ 97-WWW\*2 Quality child care and protection fund](97www-2-quality-child-care-and-protection-fund.md)
 - [§ 97-WWW\*3 Consumer protection account](97www-3-consumer-protection-account.md)
 - [§ 97-WWW\*4 Percy T](97www-4-percy-t.md)
-- [§ 97-WWW\*5 Percy T](97www-5-percy-t.md)
+- [§ 97-WWW\*5 Percy T](97www-5-percy-t.md) *(repealed)*
 - [§ 97-XXX Additional mass transportation assistance fund](97xxx-additional-mass-transportation-assistance-fund.md)
 - [§ 97-XXX\*2 Agriculture in the classroom fund](97xxx-2-agriculture-in-the-classroom-fund.md)
 - [§ 97-YYY Children and family services quality enhancement fund](97yyy-children-and-family-services-quality-enhancement-fund.md)
