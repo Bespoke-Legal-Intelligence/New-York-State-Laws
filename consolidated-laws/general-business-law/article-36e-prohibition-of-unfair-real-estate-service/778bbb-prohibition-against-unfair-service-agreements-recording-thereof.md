@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 36-E — Prohibition of Unfair Real Estate Service Agreements](README.md)
 
 ```text
-  * § 778-bbb. Prohibition against unfair service agreements; recording
+  § 778-bbb. Prohibition against unfair service agreements; recording
 thereof. 1. No unfair real estate service agreement shall be enforceable
 in the state.
   2.(a) No person shall record or cause to be recorded an unfair real
@@ -17,5 +17,4 @@ is recorded, any person with an interest in the real property that is
 the subject of that agreement may apply to a court in the county where
 the recording exists to record a court order declaring the agreement
 unenforceable.
-  * NB Effective March 12, 2026
 ```

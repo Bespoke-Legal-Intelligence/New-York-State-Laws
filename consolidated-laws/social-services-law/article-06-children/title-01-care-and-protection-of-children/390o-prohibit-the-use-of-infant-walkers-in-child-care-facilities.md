@@ -4,8 +4,8 @@
 [Social Services Law](../../README.md) › [Article 6 — Children](../README.md) › [Title 1 — Care and Protection of Children](README.md)
 
 ```text
-  * § 390-o. Prohibit the use of infant walkers in child care
-facilities.  1. For the purposes of this section:
+  § 390-o. Prohibit the use of infant walkers in child care facilities.
+1. For the purposes of this section:
   (a) "Infant walker" shall mean a mobile unit that enables a child to
 move on a horizontal surface when propelled by the child sitting or
 standing within the walker.
@@ -25,5 +25,4 @@ practicable thereafter, and such notice shall also be given to each
 applicant for license or registration pursuant to section three hundred
 ninety of this title and each applicant for a permit pursuant to article
 forty-seven of the New York city health code.
-  * NB Effective March 12, 2026
 ```

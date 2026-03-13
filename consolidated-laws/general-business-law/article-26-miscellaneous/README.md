@@ -172,7 +172,7 @@
 - [§ 399-II\*2 Prohibit the sale of crib bumper pads and restrict use of such pads in certain settings](399ii-2-prohibit-the-sale-of-crib-bumper-pads-and-restrict-use-of-such-pads-in-certain.md)
 - [§ 399-J Safety standards; moveable soccer goals](399j-safety-standards-moveable-soccer-goals.md)
 - [§ 399-K Access to toilet facilities for utility workers](399k-access-to-toilet-facilities-for-utility-workers.md)
-- [§ 399-KK Prohibit the sale of infant walkers and restrict use of such walkers in certain settings](399kk-prohibit-the-sale-of-infant-walkers-and-restrict-use-of-such-walkers-in-certain.md)
+- [§ 399-KK Prohibit the sale of infant walkers and restrict use of such walkers in certain settings](399kk-prohibit-the-sale-of-infant-walkers-and-restrict-use-of-such-walkers-in-certain.md) *(repealed)*
 - [§ 399-M Disclosures in advertisement and sale of unassembled goods](399m-disclosures-in-advertisement-and-sale-of-unassembled-goods.md)
 - [§ 399-N Approval of electrical devices](399n-approval-of-electrical-devices.md)
 - [§ 399-NN Sale of digital electronic equipment; diagnostic and repair information](399nn-sale-of-digital-electronic-equipment-diagnostic-and-repair-information.md)
@@ -444,8 +444,6 @@ Section 390.         Substitution of spurious oils for internal
                        use of such pads in certain settings.
         399-j.       Safety standards; moveable soccer goals.
         399-k.       Access to toilet facilities for utility workers.
-        399-kk.      Prohibit the sale of infant walkers and restrict
-                       use of such walkers in certain settings.
         399-m.       Disclosures in advertisement and sale of
                        unassembled goods.
         399-n.       Approval of electrical devices.

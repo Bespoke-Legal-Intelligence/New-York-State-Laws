@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Business Law § 399-KK", "kind": "section", "law_id": "GBS", "location_id": "399-KK", "path": "ARTICLE 26 › SECTION 399-KK", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/399-KK.md", "title": "Prohibit the sale of infant walkers and restrict use of such walkers in certain settings"} -->
+﻿<!-- nyslaw {"citation": "General Business Law § 399-KK", "kind": "section", "law_id": "GBS", "location_id": "399-KK", "path": "ARTICLE 26 › SECTION 399-KK", "repealed": true, "repealed_date": "2026-03-13", "source": "nys-laws:GBS/399-KK.md", "title": "Prohibit the sale of infant walkers and restrict use of such walkers in certain settings"} -->
 # General Business Law § 399-KK — Prohibit the sale of infant walkers and restrict use of such walkers in certain settings
 
 [General Business Law](../README.md) › [Article 26 — Miscellaneous](README.md)
+
+**Repealed** (13 Mar 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 399-kk. Prohibit the sale of infant walkers and restrict use of

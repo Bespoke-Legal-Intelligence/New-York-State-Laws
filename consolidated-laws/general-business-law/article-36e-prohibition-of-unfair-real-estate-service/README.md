@@ -15,7 +15,7 @@
 <summary>Official heading of Article 36-E, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 36-E
+                              ARTICLE 36-E
           PROHIBITION OF UNFAIR REAL ESTATE SERVICE AGREEMENTS
 Section 778-aaa. Definitions.
         778-bbb. Prohibition against unfair service agreements;
@@ -23,7 +23,6 @@ Section 778-aaa. Definitions.
         778-ccc. Deceptive acts and practices.
         778-ddd. Enforcement; action by the attorney general.
         778-eee. Severability.
-  * NB Effective March 12, 2026
 ```
 
 </details>
