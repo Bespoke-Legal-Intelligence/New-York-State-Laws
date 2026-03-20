@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 44-B — Responsible Ai Safety and Education (raise) Act](README.md)
 
 ```text
-  * § 1421. Transparency requirements regarding frontier model training
+  § 1421. Transparency requirements regarding frontier model training
 and use. 1. Before deploying a frontier model, the large developer of
 such frontier model shall do all of the following:
   (a) Implement a written safety and security protocol;
@@ -51,5 +51,4 @@ statement describing the safety incident.
   5. A large developer shall not knowingly make false or materially
 misleading statements or omissions in or regarding documents produced
 pursuant to this section.
-  * NB Effective March 19, 2026
 ```

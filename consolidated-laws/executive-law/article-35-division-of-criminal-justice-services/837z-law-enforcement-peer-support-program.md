@@ -4,9 +4,8 @@
 [Executive Law](../README.md) › [Article 35 — Division of Criminal Justice Services](README.md)
 
 ```text
-  * § 837-z. Law enforcement peer support program. 1. Definitions. As
-used in this section the following terms shall have the following
-meanings:
+  § 837-z. Law enforcement peer support program. 1. Definitions. As used
+in this section the following terms shall have the following meanings:
   (a) "Law enforcement agency" means any department, division, agency,
 board, commission, or public authority of the state or any subdivision
 thereof that employs police officers.
@@ -73,5 +72,4 @@ that requirement under subdivisions three and four of this section.
 training courses that meet the division's identified minimum standards
 and may promulgate rules and regulations necessary to effectuate this
 section.
-  * NB Effective March 18, 2026
 ```

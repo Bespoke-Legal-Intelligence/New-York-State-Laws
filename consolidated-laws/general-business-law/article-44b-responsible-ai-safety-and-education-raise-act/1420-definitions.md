@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 44-B — Responsible Ai Safety and Education (raise) Act](README.md)
 
 ```text
-  * § 1420. Definitions. As used in this article, the following terms
+  § 1420. Definitions. As used in this article, the following terms
 shall have the following meanings:
   1. "Appropriate redactions" means redactions to a safety and security
 protocol that a developer may make when necessary to:
@@ -134,5 +134,4 @@ means by, other persons who can obtain economic value from its
 disclosure or use; and
   (b) Is the subject of efforts that are reasonable under the
 circumstances to maintain its secrecy.
-  * NB Effective March 19, 2026
 ```

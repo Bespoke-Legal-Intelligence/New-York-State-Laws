@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 44-B — Responsible Ai Safety and Education (raise) Act](README.md)
 
 ```text
-  * § 1422. Violations. 1. The attorney general may bring a civil action
+  § 1422. Violations. 1. The attorney general may bring a civil action
 for a violation of this article and to recover all of the following,
 determined based on severity of the violation:
   (a) For a violation of section fourteen hundred twenty-one of this
@@ -20,5 +20,4 @@ developer from asserting that another person, entity, or factor may be
 responsible for any alleged harm, injury, or damage resulting from a
 critical harm or a violation of this article.
   4. This section does not limit the application of other laws.
-  * NB Effective March 19, 2026
 ```

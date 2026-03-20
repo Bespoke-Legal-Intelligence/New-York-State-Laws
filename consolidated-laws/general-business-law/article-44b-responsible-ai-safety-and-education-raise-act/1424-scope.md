@@ -4,8 +4,7 @@
 [General Business Law](../README.md) › [Article 44-B — Responsible Ai Safety and Education (raise) Act](README.md)
 
 ```text
-  * § 1424. Scope. This article shall only apply to frontier models that
+  § 1424. Scope. This article shall only apply to frontier models that
 are developed, deployed, or operating in whole or in part in New York
 state.
-  * NB Effective March 19, 2026
 ```

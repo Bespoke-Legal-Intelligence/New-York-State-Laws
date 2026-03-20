@@ -16,7 +16,7 @@
 <summary>Official heading of Article 44-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 44-B
+                              ARTICLE 44-B
              RESPONSIBLE AI SAFETY AND EDUCATION (RAISE) ACT
 Section 1420. Definitions.
         1421. Transparency requirements regarding frontier model
@@ -25,7 +25,6 @@ Section 1420. Definitions.
         1423. Duties and obligations.
         1424. Scope.
         1425. Severability.
-  * NB Effective March 19, 2026
 ```
 
 </details>
