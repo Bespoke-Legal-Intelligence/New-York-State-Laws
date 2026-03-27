@@ -4,8 +4,8 @@
 [Business Corporation Law](../README.md) › [Article 3 — Corporate Name and Service of Process](README.md)
 
 ```text
-  § 304. Statutory designation of secretary of state as agent for
-service of process.
+§ 304. Statutory designation of secretary of state as agent for service
+         of process.
   (a) The secretary of state shall be the agent of every domestic
 corporation and every authorized foreign corporation upon whom process
 against the corporation may be served.

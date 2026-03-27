@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 20 Mar 2026.*
+*Current through the publication of 27 Mar 2026.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [27 Mar 2026](changes/2026/2026-03-27.md): Abandoned Property Law; Business Corporation Law; Family Court Act; General Business Law
 - [20 Mar 2026](changes/2026/2026-03-20.md): County Law; Criminal Procedure Law; Estates, Powers and Trusts Law; Executive Law; General Business Law; Real Property Tax Law; Veterans' Services Law
 - [13 Mar 2026](changes/2026/2026-03-13.md): Alcoholic Beverage Control Law; Education Law; General Business Law; Social Services Law
 - [6 Mar 2026](changes/2026/2026-03-06.md): Education Law; Labor Law; State Finance Law; State Technology Law
@@ -22,20 +23,19 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [20 Feb 2026](changes/2026/2026-02-20.md): Agriculture and Markets Law; Civil Practice Law and Rules; Civil Service Law; Correction Law; County Law; Court of Claims Act; Criminal Procedure Law; Education Law; Elder Law; Environmental Conservation Law; Executive Law; Financial Services Law; General Business Law; General Municipal Law; Insurance Law; Labor Law; Mental Hygiene Law; Parks, Recreation and Historic Preservation Law; Public Authorities Law; Public Health Law; Public Service Law; Real Property Actions and Proceedings Law; Real Property Law; Social Services Law; State Finance Law; Tax Law
 - [13 Feb 2026](changes/2026/2026-02-13.md): Cannabis Law; Education Law; Public Health Law; Social Services Law
 - [6 Feb 2026](changes/2026/2026-02-06.md): Economic Development Law; Election Law; Emergency Tenant Protection Act; Executive Law; Labor Law; Public Health Law; Social Services Law; State Finance Law
-- [30 Jan 2026](changes/2026/2026-01-30.md): Election Law; General Business Law; Public Health Law; Public Officers Law; Social Services Law; State Finance Law; Tax Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
 | [Tax Law](consolidated-laws/tax-law/README.md) | 330 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | 246 |
-| [General Business Law](consolidated-laws/general-business-law/README.md) | 181 |
-| [Education Law](consolidated-laws/education-law/README.md) | 172 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 116 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 243 |
+| [General Business Law](consolidated-laws/general-business-law/README.md) | 182 |
+| [Education Law](consolidated-laws/education-law/README.md) | 170 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 115 |
 | [Uniform Commercial Code](consolidated-laws/uniform-commercial-code/README.md) | 102 |
 | [Labor Law](consolidated-laws/labor-law/README.md) | 89 |
-| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 76 |
+| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 75 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 73 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | 69 |
 | [State Finance Law](consolidated-laws/state-finance-law/README.md) | 64 |
@@ -48,14 +48,14 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 | Law | Code | Sections | Last changed |
 |---|---|---:|---|
-| [Abandoned Property Law](consolidated-laws/abandoned-property-law/README.md) | ABP | 120 | 4 Jul 2025 |
+| [Abandoned Property Law](consolidated-laws/abandoned-property-law/README.md) | ABP | 120 | 27 Mar 2026 |
 | [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | AGM | 722 | 20 Feb 2026 |
 | [Alcoholic Beverage Control Law](consolidated-laws/alcoholic-beverage-control-law/README.md) | ABC | 191 | 13 Mar 2026 |
 | [Alternative County Government Law](consolidated-laws/alternative-county-government-law/README.md) | ACG | 73 | 23 May 2025 |
 | [Arts and Cultural Affairs Law](consolidated-laws/arts-and-cultural-affairs-law/README.md) | ACA | 254 | 28 Nov 2025 |
 | [Banking Law](consolidated-laws/banking-law/README.md) | BNK | 899 | 9 Jan 2026 |
 | [Benevolent Orders Law](consolidated-laws/benevolent-orders-law/README.md) | BVO | 20 | 5 May 2017 |
-| [Business Corporation Law](consolidated-laws/business-corporation-law/README.md) | BSC | 250 | 26 Jul 2024 |
+| [Business Corporation Law](consolidated-laws/business-corporation-law/README.md) | BSC | 250 | 27 Mar 2026 |
 | [Canal Law](consolidated-laws/canal-law/README.md) | CAL | 88 | 14 Nov 2025 |
 | [Cannabis Law](consolidated-laws/cannabis-law/README.md) | CAN | 107 | 27 Feb 2026 |
 | [Civil Practice Law and Rules](consolidated-laws/civil-practice-law-and-rules/README.md) | CVP | 814 | 27 Feb 2026 |
@@ -79,7 +79,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 945 | 20 Mar 2026 |
 | [Financial Services Law](consolidated-laws/financial-services-law/README.md) | FIS | 76 | 27 Feb 2026 |
 | [General Associations Law](consolidated-laws/general-associations-law/README.md) | GAS | 24 | 6 Jan 2023 |
-| [General Business Law](consolidated-laws/general-business-law/README.md) | GBS | 1,431 | 20 Mar 2026 |
+| [General Business Law](consolidated-laws/general-business-law/README.md) | GBS | 1,431 | 27 Mar 2026 |
 | [General City Law](consolidated-laws/general-city-law/README.md) | GCT | 207 | 26 Dec 2025 |
 | [General Construction Law](consolidated-laws/general-construction-law/README.md) | GCN | 97 | 12 Dec 2025 |
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | GMU | 1,090 | 20 Feb 2026 |
@@ -185,7 +185,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | Law | Code | Sections | Last changed |
 |---|---|---:|---|
 | [Court of Claims Act](court-acts/court-of-claims-act/README.md) | CTC | 35 | 20 Feb 2026 |
-| [Family Court Act](court-acts/family-court-act/README.md) | FCT | 700 | 27 Feb 2026 |
+| [Family Court Act](court-acts/family-court-act/README.md) | FCT | 700 | 27 Mar 2026 |
 | [New York City Civil Court Act](court-acts/new-york-city-civil-court-act/README.md) | CCA | 158 | 16 May 2025 |
 | [New York City Criminal Court Act](court-acts/new-york-city-criminal-court-act/README.md) | CRC | 34 | 16 May 2025 |
 | [Surrogate's Court Procedure Act](court-acts/surrogates-court-procedure-act/README.md) | SCP | 386 | 23 Jan 2026 |
