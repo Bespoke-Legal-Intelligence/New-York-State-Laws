@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Business Corporation Law § 110", "kind": "section", "law_id": "BSC", "location_id": "110", "path": "ARTICLE 1 › SECTION 110", "repealed": false, "repealed_date": null, "source": "nys-laws:BSC/110.md", "title": "Reservation of power"} -->
 # Business Corporation Law § 110 — Reservation of power
 
-[Business Corporation Law](../README.md) › [Article 1 — Short Title; Definitions; Applications; Certificates, Miscellaneous](README.md)
+[Business Corporation Law](../README.md) › [Article 1 — Short Title; Definitions; Application; Certificates, Miscellaneous](README.md)
 
 ```text
 § 110. Reservation of power.

@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Business Corporation Law § 108", "kind": "section", "law_id": "BSC", "location_id": "108", "path": "ARTICLE 1 › SECTION 108", "repealed": false, "repealed_date": null, "source": "nys-laws:BSC/108.md", "title": "When notice or lapse of time unnecessary; notices dispensed with when delivery is prohibited"} -->
 # Business Corporation Law § 108 — When notice or lapse of time unnecessary; notices dispensed with when delivery is prohibited
 
-[Business Corporation Law](../README.md) › [Article 1 — Short Title; Definitions; Applications; Certificates, Miscellaneous](README.md)
+[Business Corporation Law](../README.md) › [Article 1 — Short Title; Definitions; Application; Certificates, Miscellaneous](README.md)
 
 ```text
 § 108. When notice or lapse of time unnecessary; notices dispensed with

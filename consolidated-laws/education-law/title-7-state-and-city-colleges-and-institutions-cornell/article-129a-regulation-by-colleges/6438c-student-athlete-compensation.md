@@ -163,5 +163,4 @@ skills, make positive decisions, and manage conflict; and
 student-athletes in transferring the valuable skills developed during
 intercollegiate athletic participation, to a successful post-college
 career.
-  * NB There are 2 § 6438-a's
 ```

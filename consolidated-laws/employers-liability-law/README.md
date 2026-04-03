@@ -8,11 +8,11 @@
 | Senate code | EML |
 | Type | Consolidated law, chapter 74 |
 | Sections | 18 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 3 Apr 2026 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Employers' Liability |
 
-**Short title (from the law itself):** § 1. Short title. This chapter shall be known as the "employers' liability law. "
+**Short title (from the law itself):** § 1. Short title. This chapter shall be known as the "employers' liability law."
 
 ## Chapter text as published
 
@@ -28,6 +28,10 @@ Assembly, do enact as follows:
 ```
 
 [Full chapter text (12 lines)](chapter-text.md)
+
+## Recent changes
+
+- [3 Apr 2026](../../changes/2026/2026-04-03.md): 1 amended
 
 ## Contents
 

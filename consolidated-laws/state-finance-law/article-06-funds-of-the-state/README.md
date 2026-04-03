@@ -189,7 +189,6 @@
 - [§ 97-WWW\*2 Quality child care and protection fund](97www-2-quality-child-care-and-protection-fund.md)
 - [§ 97-WWW\*3 Consumer protection account](97www-3-consumer-protection-account.md)
 - [§ 97-WWW\*4 Percy T](97www-4-percy-t.md)
-- [§ 97-WWW\*5 Percy T](97www-5-percy-t.md) *(repealed)*
 - [§ 97-XXX Additional mass transportation assistance fund](97xxx-additional-mass-transportation-assistance-fund.md)
 - [§ 97-XXX\*2 Agriculture in the classroom fund](97xxx-2-agriculture-in-the-classroom-fund.md)
 - [§ 97-YYY Children and family services quality enhancement fund](97yyy-children-and-family-services-quality-enhancement-fund.md)
@@ -246,7 +245,6 @@
 - [§ 99-L\*2 Love your library fund](99l-2-love-your-library-fund.md)
 - [§ 99-N Highway construction and maintenance safety education fund](99n-highway-construction-and-maintenance-safety-education-fund.md)
 - [§ 99-O Arts institutions revolving loan fund](99o-arts-institutions-revolving-loan-fund.md)
-- [§ 99-P Empire state stem cell trust fund](99p-empire-state-stem-cell-trust-fund.md) *(repealed)*
 - [§ 99-Q Volunteer firefighting and volunteer emergency services recruitment and retention fund](99q-volunteer-firefighting-and-volunteer-emergency-services-recruitment.md)
 - [§ 99-S Youth facility per diem account](99s-youth-facility-per-diem-account.md)
 - [§ 99-T New York state medical indemnity fund account](99t-new-york-state-medical-indemnity-fund-account.md)

@@ -5,5 +5,5 @@
 
 ```text
   § 1. Short title. This chapter shall be known as the "employers'
-liability law. "
+liability law."
 ```

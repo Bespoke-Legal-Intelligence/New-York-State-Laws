@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Business Corporation Law § 103", "kind": "section", "law_id": "BSC", "location_id": "103", "path": "ARTICLE 1 › SECTION 103", "repealed": false, "repealed_date": null, "source": "nys-laws:BSC/103.md", "title": "Application"} -->
 # Business Corporation Law § 103 — Application
 
-[Business Corporation Law](../README.md) › [Article 1 — Short Title; Definitions; Applications; Certificates, Miscellaneous](README.md)
+[Business Corporation Law](../README.md) › [Article 1 — Short Title; Definitions; Application; Certificates, Miscellaneous](README.md)
 
 ```text
 § 103. Application.

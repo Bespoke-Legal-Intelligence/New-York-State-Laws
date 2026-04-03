@@ -7,6 +7,7 @@
 
 - [§ 10 Department of economic development; commissioner](10-department-of-economic-development-commissioner.md)
 - [§ 11 Investing in care](11-investing-in-care.md)
+- [§ 12 Technical assistance to municipalities related to college and university closures](12-technical-assistance-to-municipalities-related-to-college-and-university.md)
 
 <details>
 <summary>Official heading of Article 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -16,6 +17,8 @@
                    DEPARTMENT OF ECONOMIC DEVELOPMENT
 Section 10. Department of economic development; commissioner.
         11. Investing in care.
+        12. Technical assistance to municipalities related to college
+              and university closures.
 ```
 
 </details>

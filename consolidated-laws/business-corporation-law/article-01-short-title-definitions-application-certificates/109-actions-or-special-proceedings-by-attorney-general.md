@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Business Corporation Law § 109", "kind": "section", "law_id": "BSC", "location_id": "109", "path": "ARTICLE 1 › SECTION 109", "repealed": false, "repealed_date": null, "source": "nys-laws:BSC/109.md", "title": "Actions or special proceedings by attorney-general"} -->
 # Business Corporation Law § 109 — Actions or special proceedings by attorney-general
 
-[Business Corporation Law](../README.md) › [Article 1 — Short Title; Definitions; Applications; Certificates, Miscellaneous](README.md)
+[Business Corporation Law](../README.md) › [Article 1 — Short Title; Definitions; Application; Certificates, Miscellaneous](README.md)
 
 ```text
 § 109. Actions or special proceedings by attorney-general.

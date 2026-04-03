@@ -4,7 +4,7 @@
 [Labor Law](../README.md) › [Article 21-C — Tower Technician Protections](README.md)
 
 ```text
-  § 795. Definitions. For the purposes of this article, the following
+  * § 795. Definitions. For the purposes of this article, the following
 terms shall have the following meanings:
   1. "Bidder" means any individual, business, vendor or other legal
 entity, or any employee, agent, consultant or person acting on behalf
@@ -36,4 +36,5 @@ licensing agreements regarding the use of state-owned telecommunications
 towers.
   8. "OSHA" means the federal occupational safety and health
 administration.
+  * NB Effective and Repealed July 1, 2026
 ```

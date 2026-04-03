@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Business Corporation Law § 106", "kind": "section", "law_id": "BSC", "location_id": "106", "path": "ARTICLE 1 › SECTION 106", "repealed": false, "repealed_date": null, "source": "nys-laws:BSC/106.md", "title": "Certificates as evidence"} -->
 # Business Corporation Law § 106 — Certificates as evidence
 
-[Business Corporation Law](../README.md) › [Article 1 — Short Title; Definitions; Applications; Certificates, Miscellaneous](README.md)
+[Business Corporation Law](../README.md) › [Article 1 — Short Title; Definitions; Application; Certificates, Miscellaneous](README.md)
 
 ```text
 § 106. Certificates as evidence.

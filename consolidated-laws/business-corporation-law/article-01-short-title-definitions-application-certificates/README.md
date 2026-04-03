@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"kind": "container", "law_id": "BSC", "location_id": "A1", "path": "ARTICLE 1", "source": "nys-laws:BSC/A1.md", "title": "Short Title; Definitions; Applications; Certificates, Miscellaneous"} -->
-# Article 1 — Short Title; Definitions; Applications; Certificates, Miscellaneous
+﻿<!-- nyslaw {"kind": "container", "law_id": "BSC", "location_id": "A1", "path": "ARTICLE 1", "source": "nys-laws:BSC/A1.md", "title": "Short Title; Definitions; Application; Certificates, Miscellaneous"} -->
+# Article 1 — Short Title; Definitions; Application; Certificates, Miscellaneous
 
 [Business Corporation Law](../README.md)
 
@@ -13,7 +13,7 @@
 - [§ 105 Certificates; corrections](105-certificates-corrections.md)
 - [§ 106 Certificates as evidence](106-certificates-as-evidence.md)
 - [§ 107 Corporate seal as evidence](107-corporate-seal-as-evidence.md)
-- [§ 108 When notice or lapse of time unnecessary; notices dispensed with when delivery is prohibited](108-when-notice-or-lapse-of-time-unnecessary-notices-dispensed-with-when-delivery-is.md)
+- [§ 108 When notice or lapse of time unnecessary; notices dispensed with when delivery is prohibited](108-when-notice-or-lapse-of-time-unnecessary-notices-dispensed-with-when.md)
 - [§ 109 Actions or special proceedings by attorney-general](109-actions-or-special-proceedings-by-attorney-general.md)
 - [§ 110 Reservation of power](110-reservation-of-power.md)
 - [§ 111 Effect of invalidity of part of chapter; severability](111-effect-of-invalidity-of-part-of-chapter-severability.md)
@@ -24,7 +24,7 @@
 
 ```text
                                 ARTICLE 1
-                 SHORT TITLE; DEFINITIONS; APPLICATIONS;
+                 SHORT TITLE; DEFINITIONS; APPLICATION;
                        CERTIFICATES, MISCELLANEOUS
 Section 101.   Short title.
         102.   Definitions.

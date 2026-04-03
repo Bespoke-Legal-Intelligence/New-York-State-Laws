@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Business Corporation Law § 104-A", "kind": "section", "law_id": "BSC", "location_id": "104-A", "path": "ARTICLE 1 › SECTION 104-A", "repealed": false, "repealed_date": null, "source": "nys-laws:BSC/104-A.md", "title": "Fees"} -->
 # Business Corporation Law § 104-A — Fees
 
-[Business Corporation Law](../README.md) › [Article 1 — Short Title; Definitions; Applications; Certificates, Miscellaneous](README.md)
+[Business Corporation Law](../README.md) › [Article 1 — Short Title; Definitions; Application; Certificates, Miscellaneous](README.md)
 
 ```text
 § 104-A. Fees.

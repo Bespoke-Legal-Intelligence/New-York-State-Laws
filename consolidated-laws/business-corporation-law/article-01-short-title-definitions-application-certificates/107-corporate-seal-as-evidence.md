@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Business Corporation Law § 107", "kind": "section", "law_id": "BSC", "location_id": "107", "path": "ARTICLE 1 › SECTION 107", "repealed": false, "repealed_date": null, "source": "nys-laws:BSC/107.md", "title": "Corporate seal as evidence"} -->
 # Business Corporation Law § 107 — Corporate seal as evidence
 
-[Business Corporation Law](../README.md) › [Article 1 — Short Title; Definitions; Applications; Certificates, Miscellaneous](README.md)
+[Business Corporation Law](../README.md) › [Article 1 — Short Title; Definitions; Application; Certificates, Miscellaneous](README.md)
 
 ```text
 § 107. Corporate seal as evidence.

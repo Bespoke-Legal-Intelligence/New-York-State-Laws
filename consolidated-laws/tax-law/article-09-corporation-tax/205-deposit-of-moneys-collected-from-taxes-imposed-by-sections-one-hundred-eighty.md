@@ -73,7 +73,7 @@ the revenue accumulation fund and five and six-tenths percent shall be
 deposited in such mass transportation operating assistance fund to the
 credit of such metropolitan mass transportation operating assistance
 account.
-  * NB Effective until April 1, 2026
+  * NB Effective until April 1, 2028
   * 2. Of moneys collected from taxes imposed by sections one hundred
 eighty-three and one hundred eighty-four of this chapter subsequent to
 June thirtieth, nineteen hundred eighty-two, sixty percent shall be
@@ -118,7 +118,7 @@ thirty-four and four-tenths percent shall be deposited in the revenue
 accumulation fund and five and six-tenths percent shall be deposited in
 such mass transportation operating assistance fund to the credit of such
 metropolitan mass transportation operating assistance account.
-  * NB Effective April 1, 2026
+  * NB Effective April 1, 2028
   3. The moneys collected from the taxes imposed by sections one hundred
 eighty-three and one hundred eighty-four of this article on and after
 April first, two thousand thirteen, after reserving amounts for refunds

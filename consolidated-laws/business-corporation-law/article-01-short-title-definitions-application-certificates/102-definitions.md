@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Business Corporation Law § 102", "kind": "section", "law_id": "BSC", "location_id": "102", "path": "ARTICLE 1 › SECTION 102", "repealed": false, "repealed_date": null, "source": "nys-laws:BSC/102.md", "title": "Definitions"} -->
 # Business Corporation Law § 102 — Definitions
 
-[Business Corporation Law](../README.md) › [Article 1 — Short Title; Definitions; Applications; Certificates, Miscellaneous](README.md)
+[Business Corporation Law](../README.md) › [Article 1 — Short Title; Definitions; Application; Certificates, Miscellaneous](README.md)
 
 ```text
 § 102. Definitions.

@@ -49,7 +49,7 @@
 - [§ 2035 Use of voting machines at school district meetings or elections](2035-use-of-voting-machines-at-school-district.md)
 - [§ 2036 Effect of failure to appoint or elect qualified voters as district meeting or election officials](2036-effect-of-failure-to-appoint-or-elect-qualified.md)
 - [§ 2037 Determination of meeting or election disputes](2037-determination-of-meeting-or-election-disputes.md)
-- [§ 2038 Application of article](2038-application-of-article.md)
+- [§ 2038 Transmission of publicly available data to the New York voting and elections database](2038-transmission-of-publicly-available-data.md)
 - [§ 2039 Application of article](2039-application-of-article.md)
 
 <details>

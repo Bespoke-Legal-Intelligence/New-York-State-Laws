@@ -4,7 +4,7 @@
 [Labor Law](../README.md) › [Article 21-C — Tower Technician Protections](README.md)
 
 ```text
-  § 795-a. Tower technician protections. 1. For any procurement
+  * § 795-a. Tower technician protections. 1. For any procurement
 contracts for tower services entered into by New York state, or any
 agency, department, division, bureau, office, or other subdivision
 thereof and a private entity, the requirements of this section shall be
@@ -53,4 +53,5 @@ application process.
   6. Nothing in this section shall be deemed to diminish the rights,
 privileges, or remedies of any employee under any collective bargaining
 agreement to the contrary.
+  * NB Effective and Repealed July 1, 2026
 ```

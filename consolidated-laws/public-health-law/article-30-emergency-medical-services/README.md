@@ -37,6 +37,7 @@
 - [§ 3016 Continuance of rules and regulations](3016-continuance-of-rules-and-regulations.md)
 - [§ 3017 Emergency medical service, Suffolk county](3017-emergency-medical-service-suffolk-county.md)
 - [§ 3018 Community-based paramedicine demonstration program](3018-community-based-paramedicine-demonstration-program.md)
+- [§ 3019 Department review of comprehensive county emergency medical system plans](3019-department-review-of-comprehensive-county-emergency-medical-system-plans.md)
 - [§ 3020 Recruitment and retention](3020-recruitment-and-retention.md)
 - [§ 3030 Advanced life support services](3030-advanced-life-support-services.md)
 - [§ 3031 Advanced life support system](3031-advanced-life-support-system.md)
@@ -91,6 +92,8 @@ Section 3000.   Declaration of policy and statement of purpose.
         3016.   Continuance of rules and regulations.
         3017.   Emergency medical service, Suffolk county.
         3018.   Community-based paramedicine demonstration program.
+        3019.   Department review of comprehensive county emergency
+                  medical system plans.
         3020.   Recruitment and retention.
         3030.   Advanced life support services.
         3031.   Advanced life support system.

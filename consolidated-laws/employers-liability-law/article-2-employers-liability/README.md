@@ -24,7 +24,7 @@
 <summary>Official heading of Article 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                ARTICLE 2
+                               ARTICLE 2.
                           EMPLOYERS' LIABILITY.
 Section  2. Employers' liability for injuries.
          3. Notice to be served.
