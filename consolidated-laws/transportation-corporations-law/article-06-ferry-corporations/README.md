@@ -13,8 +13,8 @@
 <summary>Official heading of Article 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                ARTICLE 6
-                           FERRY CORPORATIONS
+                               ARTICLE 6.
+                           FERRY CORPORATIONS.
 Section 70. Definition.
         71. Powers.
         72. Posting of schedules of rates.

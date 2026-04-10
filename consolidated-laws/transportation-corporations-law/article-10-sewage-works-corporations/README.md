@@ -20,8 +20,8 @@
 <summary>Official heading of Article 10, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                               ARTICLE 10
-                        SEWAGE-WORKS CORPORATIONS
+                               ARTICLE 10.
+                       SEWAGE-WORKS CORPORATIONS.
 Section 115. Definitions.
         116. Consent to incorporation.
         117. Approval by department of health.

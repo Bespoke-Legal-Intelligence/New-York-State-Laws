@@ -8,13 +8,17 @@
 | Senate code | MHA |
 | Type | Consolidated law |
 | Sections | 19 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 10 Apr 2026 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Municipal Housing Authorities |
 
 > Article 5 of the former State Housing Law, repealed by L. 1939, ch. 808, s 227; reproduced because it continues to apply to the New York City Housing Authority under Public Housing Law s 401 (per the Senate heading)
 
 **Short title (from the law itself):** * § 60. Short title. This article shall be known and may be cited and referred to as the "municipal housing authorities law." * NB The text of Article 5 of the former State Housing Law (cited herein as the "Municipal Housing Authorities Law"), as such article existed immediately prior to its repeal pursuant to section 227 of Chapter 808 of the Laws of 1939, is provided here for ease of reference a
+
+## Recent changes
+
+- [10 Apr 2026](../../changes/2026/2026-04-10.md): 5 amended
 
 ## Contents
 

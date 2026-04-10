@@ -4,7 +4,7 @@
 [Municipal Housing Authorities Law](../README.md) › [Article 5 — Of the Former State Housing Law (cited Herein As the "municipal Housing Authorities Law"), As Such Article Existed Immediately Prior to Its Repeal Pursuant to Section 227 of Chapter 808 of the Laws of 1939, Is Provided Here For Ease of Reference and Historical Purposes As Such Text Continues to Be Applicable For the New York City Housing Authority Pursuant to the Provisions of Section 401 of the Current Public Housing Law](README.md)
 
 ```text
-* § 75. Foreclosure and other remedies. 1. In an action to foreclose a
+  * § 75. Foreclosure and other remedies. 1. In an action to foreclose a
 mortgage on real property of an authority, the authority and the
 municipality, in addition to all other necessary parties, shall be made
 parties defendant and shall take such steps in said action as may be
@@ -13,8 +13,8 @@ awarded against them. Wherever under the instrument creating a lien a
 notice of default in writing is required to be served upon an authority
 before the institution of foreclosure proceedings, a copy of such notice
 shall be served upon the municipality before the institution of such
-proceedings. At  such a sale of the property of the authority pursuant
-to foreclosure or other proceedings, the municipality may purchase the
+proceedings. At such a sale of the property of the authority pursuant to
+foreclosure or other proceedings, the municipality may purchase the
 property affected.
   2. In addition to any other rights and remedies, but subject to such
 limitations as may be made by contract, any lessor or mortgagee, or any

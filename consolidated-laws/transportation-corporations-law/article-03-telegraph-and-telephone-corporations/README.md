@@ -19,8 +19,8 @@
 <summary>Official heading of Article 3, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                ARTICLE 3
-                  TELEGRAPH AND TELEPHONE CORPORATIONS
+                               ARTICLE 3.
+                  TELEGRAPH AND TELEPHONE CORPORATIONS.
 Section 25.   Definitions.
         26.   Extension of lines.
         27.   Construction of lines.

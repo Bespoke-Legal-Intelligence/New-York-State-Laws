@@ -20,8 +20,8 @@
 <summary>Official heading of Article 8, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                ARTICLE 8
-                      FREIGHT TERMINAL CORPORATIONS
+                               ARTICLE 8.
+                     FREIGHT TERMINAL CORPORATIONS.
 Section 100. Definition.
         101. Limitation of powers.
         102. Rates; discrimination; liability.

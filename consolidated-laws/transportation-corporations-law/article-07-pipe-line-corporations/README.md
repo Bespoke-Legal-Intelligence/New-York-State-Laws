@@ -25,8 +25,8 @@
 <summary>Official heading of Article 7, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                ARTICLE 7
-                         PIPE LINE CORPORATIONS
+                               ARTICLE 7.
+                         PIPE LINE CORPORATIONS.
 Section 80.   Definitions.
         81.   Additional powers.
         81-a. Misconduct of officers and agents of pipe-line

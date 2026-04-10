@@ -16,8 +16,8 @@
 <summary>Official heading of Article 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                ARTICLE 2
-                      GAS AND ELECTRIC CORPORATIONS
+                               ARTICLE 2.
+                     GAS AND ELECTRIC CORPORATIONS.
 Section 10. Definitions.
         11. Powers.
         12. Gas and electricity must be supplied on application.
