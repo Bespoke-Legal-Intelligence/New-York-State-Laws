@@ -12,7 +12,7 @@
 - [§ 305 Summons; supplemental summons, amendment](305-summons-supplemental-summons-amendment.md)
 - [§ 306 Proof of service](306-proof-of-service.md)
 - [§ 306-A Index number in an action or proceeding commenced in supreme or county court](306a-index-number-in-an-action-or-proceeding-commenced-in-supreme.md)
-- [§ 306-B Service of the summons and complaint, summons with notice, third-party summons and complaint, or petition with a notice of petition or or...](306b-service-of-the-summons-and-complaint-summons-with-notice-third.md)
+- [§ 306-B Service of the summons and complaint, summons with notice, or petition with a notice of petition or order to show cause](306b-service-of-the-summons-and-complaint-summons-with-notice.md)
 - [§ 306-C Notice of commencement of action for personal injuries by recipient of medical assistance](306c-notice-of-commencement-of-action-for-personal-injuries.md)
 - [§ 306-D Additional mailing of notice in an action arising out of a consumer credit transaction](306d-additional-mailing-of-notice-in-an-action-arising-out.md)
 - [§ 307 Personal service upon the state](307-personal-service-upon-the-state.md)

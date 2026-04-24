@@ -1701,7 +1701,7 @@ ineligible for the receipt of federal funds or any court of competent
 jurisdiction finally determines that such Part K would render New York
 state out of compliance with federal law or regulation (see chapter 58
 of 2024 Part K § 11)
-  * 57. Stretch limousine age and mileage parameters. (a) It shall be
+  57. Stretch limousine age and mileage parameters. (a) It shall be
 unlawful to operate or cause to be operated a stretch limousine
 registered in this state on any public highway or private road open to
 public motor vehicle traffic if the vehicle is more than ten years old
@@ -1738,5 +1738,4 @@ that the odometer reading of a limousine differs from the number of
 miles the stretch limousine has actually traveled shall disclose that
 status to the commissioner or the department of transportation
 immediately.
-  * NB Effective April 20, 2026
 ```

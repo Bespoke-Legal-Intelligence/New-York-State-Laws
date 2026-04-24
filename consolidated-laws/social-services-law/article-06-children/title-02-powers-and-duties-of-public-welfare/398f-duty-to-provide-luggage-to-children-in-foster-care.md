@@ -4,7 +4,7 @@
 [Social Services Law](../../README.md) › [Article 6 — Children](../README.md) › [Title 2 — Powers and Duties of Public Welfare Officials](README.md)
 
 ```text
-  * § 398-f. Duty to provide luggage to children in foster care. 1. For
+  § 398-f. Duty to provide luggage to children in foster care. 1. For
 the purposes of this section, "luggage" means a durable suitcase, duffel
 bag, backpack, or similar reusable container that is new or is in
 new-like condition, and is designed to hold an individual's personal
@@ -21,5 +21,4 @@ voluntary authorized agencies, or the child's foster parent.
 luggage for children in foster care under this section shall be subject
 to state reimbursement under the foster care block grant in accordance
 with section one hundred fifty-three-k of this chapter.
-  * NB Effective April 18, 2026
 ```
