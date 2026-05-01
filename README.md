@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 24 Apr 2026.*
+*Current through the publication of 1 May 2026.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [1 May 2026](changes/2026/2026-05-01.md): Executive Law; General Municipal Law; Multiple Residence Law
 - [24 Apr 2026](changes/2026/2026-04-24.md): Civil Practice Law and Rules; General Business Law; Social Services Law; Vehicle and Traffic Law
 - [17 Apr 2026](changes/2026/2026-04-17.md): Municipal Home Rule Law; Public Service Law
 - [10 Apr 2026](changes/2026/2026-04-10.md): Municipal Housing Authorities Law; Transportation Corporations Law
@@ -22,7 +23,6 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [27 Mar 2026](changes/2026/2026-03-27.md): Abandoned Property Law; Business Corporation Law; Family Court Act; General Business Law
 - [20 Mar 2026](changes/2026/2026-03-20.md): County Law; Criminal Procedure Law; Estates, Powers and Trusts Law; Executive Law; General Business Law; Real Property Tax Law; Veterans' Services Law
 - [13 Mar 2026](changes/2026/2026-03-13.md): Alcoholic Beverage Control Law; Education Law; General Business Law; Social Services Law
-- [6 Mar 2026](changes/2026/2026-03-06.md): Education Law; Labor Law; State Finance Law; State Technology Law
 
 ## Most changed in the past 12 months
 
@@ -32,10 +32,10 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | 231 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | 192 |
 | [Education Law](consolidated-laws/education-law/README.md) | 170 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 114 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 115 |
 | [Uniform Commercial Code](consolidated-laws/uniform-commercial-code/README.md) | 102 |
 | [Labor Law](consolidated-laws/labor-law/README.md) | 92 |
-| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 81 |
+| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 78 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 74 |
 | [State Finance Law](consolidated-laws/state-finance-law/README.md) | 70 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | 67 |
@@ -76,13 +76,13 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Energy Law](consolidated-laws/energy-law/README.md) | ENG | 70 | 26 Dec 2025 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,849 | 3 Apr 2026 |
 | [Estates, Powers and Trusts Law](consolidated-laws/estates-powers-and-trusts-law/README.md) | EPT | 370 | 20 Mar 2026 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 945 | 3 Apr 2026 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 945 | 1 May 2026 |
 | [Financial Services Law](consolidated-laws/financial-services-law/README.md) | FIS | 76 | 27 Feb 2026 |
 | [General Associations Law](consolidated-laws/general-associations-law/README.md) | GAS | 24 | 6 Jan 2023 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | GBS | 1,434 | 24 Apr 2026 |
 | [General City Law](consolidated-laws/general-city-law/README.md) | GCT | 207 | 26 Dec 2025 |
 | [General Construction Law](consolidated-laws/general-construction-law/README.md) | GCN | 97 | 12 Dec 2025 |
-| [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | GMU | 1,090 | 3 Apr 2026 |
+| [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | GMU | 1,090 | 1 May 2026 |
 | [General Obligations Law](consolidated-laws/general-obligations-law/README.md) | GOB | 209 | 21 Nov 2025 |
 | [Highway Law](consolidated-laws/highway-law/README.md) | HAY | 732 | 21 Nov 2025 |
 | [Indian Law](consolidated-laws/indian-law/README.md) | IND | 98 | 27 Feb 2026 |
@@ -96,7 +96,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Mental Hygiene Law](consolidated-laws/mental-hygiene-law/README.md) | MHY | 520 | 27 Feb 2026 |
 | [Military Law](consolidated-laws/military-law/README.md) | MIL | 306 | 3 Apr 2026 |
 | [Multiple Dwelling Law](consolidated-laws/multiple-dwelling-law/README.md) | MDW | 193 | 26 Apr 2024 |
-| [Multiple Residence Law](consolidated-laws/multiple-residence-law/README.md) | MRE | 106 | 16 Feb 2024 |
+| [Multiple Residence Law](consolidated-laws/multiple-residence-law/README.md) | MRE | 106 | 1 May 2026 |
 | [Municipal Home Rule Law](consolidated-laws/municipal-home-rule-law/README.md) | MHR | 35 | 17 Apr 2026 |
 | [Municipal Housing Authorities Law](consolidated-laws/municipal-housing-authorities-law/README.md) | MHA | 19 | 10 Apr 2026 |
 | [Navigation Law](consolidated-laws/navigation-law/README.md) | NAV | 222 | 29 Nov 2024 |

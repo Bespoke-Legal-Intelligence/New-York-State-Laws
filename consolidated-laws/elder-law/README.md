@@ -27,7 +27,7 @@ Section 101.   Short title.
                                  TITLE 1
 ```
 
-[Full chapter text (71 lines)](chapter-text.md)
+[Full chapter text (73 lines)](chapter-text.md)
 
 ## Recent changes
 
