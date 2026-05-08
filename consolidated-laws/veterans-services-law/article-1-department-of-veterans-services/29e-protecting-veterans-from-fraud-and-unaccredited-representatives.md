@@ -4,7 +4,7 @@
 [Veterans' Services Law](../README.md) › [Article 1 — Department of Veterans' Services](README.md)
 
 ```text
-  * § 29-e. Protecting veterans from fraud and unaccredited
+  § 29-e. Protecting veterans from fraud and unaccredited
 representatives.
   1. For the purposes of this section, the following terms shall have
 the following meanings:
@@ -100,5 +100,4 @@ reported to such employees.
 recommendations to the legislature regarding such program shall be
 included in the annual report required under subdivision seventeen of
 section four of this article.
-  * NB Effective May 4, 2026
 ```
