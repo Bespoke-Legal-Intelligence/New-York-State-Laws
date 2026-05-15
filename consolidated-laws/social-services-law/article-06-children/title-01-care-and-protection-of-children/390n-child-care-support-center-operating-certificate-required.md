@@ -4,9 +4,9 @@
 [Social Services Law](../../README.md) › [Article 6 — Children](../README.md) › [Title 1 — Care and Protection of Children](README.md)
 
 ```text
-  * § 390-n. Child care support center; operating certificate required.
-1.  For purposes of this section, "child care support center" shall mean
-an entity operating as a child care resource and referral program as
+  § 390-n. Child care support center; operating certificate required. 1.
+For purposes of this section, "child care support center" shall mean an
+entity operating as a child care resource and referral program as
 defined in title five-B of this article that is certified by the office
 of children and family services to place individuals as substitute
 caregivers at child day care centers, group family day care homes,
@@ -47,5 +47,4 @@ accordance with applicable state or federal law.
 application for certification of a child care support center if the
 applicant had an operating certificate revoked within the two years
 prior to the date of application.
-  * NB Effective May 9, 2026
 ```

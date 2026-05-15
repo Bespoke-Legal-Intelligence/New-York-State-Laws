@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Correction Law § 44", "kind": "section", "law_id": "COR", "location_id": "44", "path": "ARTICLE 3 › SECTION 44", "repealed": false, "repealed_date": null, "source": "nys-laws:COR/44.md", "title": "Chair of commission"} -->
+# Correction Law § 44 — Chair of commission
+
+[Correction Law](../README.md) › [Article 3 — State Commission of Correction](README.md)
+
+```text
+  § 44. Chair of commission. 1. The chair shall be the executive officer
+of the commission, the board and the council, and may serve as the chair
+of the board or council at any time necessitated by a commission member
+vacancy.
+  2. The chair may appoint such assistants, officers and employees,
+committees and consultants for the board and the council as necessary,
+prescribe their powers and duties, fix their compensation and provide
+for reimbursement of their expenses within amounts appropriated
+therefor.
+  3. The chair may, from time to time, create, abolish, transfer and
+consolidate bureaus and other units within the commission, the board and
+the council not expressly established by law as necessary for the
+efficient operation of the commission, the board and the council,
+subject to the approval of the director of the budget.
+  4. The chair may request and receive from any department, division,
+board, bureau, commission or other agency of the state or any political
+subdivision thereof or any public authority such assistance, information
+and data as will enable the commission, the board and the council
+properly to carry out its functions, powers and duties.
+```
