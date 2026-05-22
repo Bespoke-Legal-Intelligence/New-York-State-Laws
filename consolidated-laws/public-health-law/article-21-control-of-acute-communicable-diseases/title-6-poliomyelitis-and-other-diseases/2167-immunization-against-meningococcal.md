@@ -17,10 +17,14 @@ defined in section one thousand three hundred ninety-two of this
 chapter, where the person attending such camp remains overnight for a
 period of not fewer than seven days.
   c. The term "immunization" means an adequate dose or doses of an
-immunizing agent against meningococcal meningitis which meets the
-standards approved by the United States public health service for such
-biological products and which is approved by the department under such
-conditions as may be specified by the public health council.
+immunizing agent against meningococcal meningitis in accordance with
+regulations issued by the commissioner, utilizing generally accepted
+medical standards and taking into consideration recommendations of the
+American Academy of Pediatrics, the American Academy of Family
+Physicians, the American College of Obstetricians and Gynecologists, the
+American College of Physicians, the Advisory Committee on Immunization
+Practices, and/or other similar nationally or internationally recognized
+scientific organizations.
   2. Each institution shall distribute, in a form provided or approved
 by the commissioner, written information about meningococcal meningitis
 and meningitis immunization to all students. The information provided by

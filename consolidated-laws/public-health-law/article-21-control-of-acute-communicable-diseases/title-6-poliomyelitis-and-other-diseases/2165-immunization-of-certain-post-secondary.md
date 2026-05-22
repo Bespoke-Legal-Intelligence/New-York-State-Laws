@@ -17,11 +17,14 @@ four but less than eight semester hours per quarter at an institution.
   c. The term "health practitioner" means any person authorized by law
 to administer an immunization.
   d. The term "immunization" means an adequate dose or doses of an
-immunizing agent against measles, mumps and rubella which meets the
-standards approved by the United States public health service for such
-biological products, and which is approved by the state department of
-health under such conditions as may be specified by the public health
-council.
+immunizing agent against measles, mumps and rubella in accordance with
+regulations issued by the commissioner, utilizing generally accepted
+medical standards and taking into consideration recommendations of the
+American Academy of Pediatrics, the American Academy of Family
+Physicians, the American College of Obstetricians and Gynecologists, the
+American College of Physicians, the Advisory Committee on Immunization
+Practices, and/or other similar nationally or internationally recognized
+scientific organizations.
   2. Each student at an institution shall provide to the institution a
 certificate from a health practitioner or other acceptable evidence of
 such student's immunization, unless such student presents a certificate

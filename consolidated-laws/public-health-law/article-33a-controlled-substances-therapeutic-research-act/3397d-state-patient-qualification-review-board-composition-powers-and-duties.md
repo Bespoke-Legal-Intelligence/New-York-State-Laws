@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 3397-D", "kind": "section", "law_id": "PBH", "location_id": "3397-D", "path": "ARTICLE 33-A › SECTION 3397-D", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/3397-D.md", "title": "State patient qualification review board; composition; powers and duties"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 3397-D", "kind": "section", "law_id": "PBH", "location_id": "3397-D", "path": "ARTICLE 33-A › SECTION 3397-D", "repealed": true, "repealed_date": "2026-05-22", "source": "nys-laws:PBH/3397-D.md", "title": "State patient qualification review board; composition; powers and duties"} -->
 # Public Health Law § 3397-D — State patient qualification review board; composition; powers and duties
 
 [Public Health Law](../README.md) › [Article 33-A — Controlled Substances Therapeutic Research Act](README.md)
+
+**Repealed** (22 May 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 3397-d. State patient qualification review board; composition;

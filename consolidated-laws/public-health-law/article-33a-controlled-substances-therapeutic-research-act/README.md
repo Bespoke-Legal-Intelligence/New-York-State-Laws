@@ -3,14 +3,16 @@
 
 [Public Health Law](../README.md)
 
+**Repealed.**
+
 ## Contents
 
-- [§ 3397-A Legislative findings](3397a-legislative-findings.md)
-- [§ 3397-B Definitions](3397b-definitions.md)
-- [§ 3397-C Antonio G](3397c-antonio-g.md)
-- [§ 3397-D State patient qualification review board; composition; powers and duties](3397d-state-patient-qualification-review-board-composition-powers-and-duties.md)
-- [§ 3397-E Patient participation in program; procedure](3397e-patient-participation-in-program-procedure.md)
-- [§ 3397-F Antonio G](3397f-antonio-g.md)
+- [§ 3397-A Legislative findings](3397a-legislative-findings.md) *(repealed)*
+- [§ 3397-B Definitions](3397b-definitions.md) *(repealed)*
+- [§ 3397-C Antonio G](3397c-antonio-g.md) *(repealed)*
+- [§ 3397-D State patient qualification review board; composition; powers and duties](3397d-state-patient-qualification-review-board-composition-powers-and-duties.md) *(repealed)*
+- [§ 3397-E Patient participation in program; procedure](3397e-patient-participation-in-program-procedure.md) *(repealed)*
+- [§ 3397-F Antonio G](3397f-antonio-g.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 33-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

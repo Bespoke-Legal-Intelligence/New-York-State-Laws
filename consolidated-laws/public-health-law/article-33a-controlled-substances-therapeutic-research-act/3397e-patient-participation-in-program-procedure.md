@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 3397-E", "kind": "section", "law_id": "PBH", "location_id": "3397-E", "path": "ARTICLE 33-A › SECTION 3397-E", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/3397-E.md", "title": "Patient participation in program; procedure"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 3397-E", "kind": "section", "law_id": "PBH", "location_id": "3397-E", "path": "ARTICLE 33-A › SECTION 3397-E", "repealed": true, "repealed_date": "2026-05-22", "source": "nys-laws:PBH/3397-E.md", "title": "Patient participation in program; procedure"} -->
 # Public Health Law § 3397-E — Patient participation in program; procedure
 
 [Public Health Law](../README.md) › [Article 33-A — Controlled Substances Therapeutic Research Act](README.md)
+
+**Repealed** (22 May 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 3397-e. Patient participation in program; procedure. 1. Any

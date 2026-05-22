@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBH |
 | Type | Consolidated law, chapter 45 |
-| Sections | 1,805 |
-| Last changed | 3 Apr 2026 |
+| Sections | 1,805 (6 repealed) |
+| Last changed | 22 May 2026 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Health |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER 45 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (360 lines)](chapter-text.md)
+[Full chapter text (358 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [22 May 2026](../../changes/2026/2026-05-22.md): 6 amended, 6 repealed
 - [3 Apr 2026](../../changes/2026/2026-04-03.md): 1 added
 - [27 Feb 2026](../../changes/2026/2026-02-27.md): 19 amended, 1 added
 - [20 Feb 2026](../../changes/2026/2026-02-20.md): 9 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [16 Jan 2026](../../changes/2026/2026-01-16.md): 11 amended
 - [9 Jan 2026](../../changes/2026/2026-01-09.md): 6 amended
 - [26 Dec 2025](../../changes/2025/2025-12-26.md): 38 amended, 1 added
-- [19 Dec 2025](../../changes/2025/2025-12-19.md): 1 amended, 2 added
 
 ## Contents
 
@@ -141,7 +141,7 @@ Assembly, do enact as follows:
 - [Article 32 — Live Pathogenic Microorganisms or Viruses](article-32-live-pathogenic-microorganisms-or-viruses/)
 - [Article 32-A — Recombinant Dna Experiments](article-32a-recombinant-dna-experiments/)
 - [Article 33 — Controlled Substances](article-33-controlled-substances/)
-- [Article 33-A — Controlled Substances Therapeutic Research Act](article-33a-controlled-substances-therapeutic-research-act/)
+- [Article 33-A — Controlled Substances Therapeutic Research Act](article-33a-controlled-substances-therapeutic-research-act/) *(repealed)*
 - [Article 33-B — Regulation of Cannabinoid Hemp and Hemp Extract](article-33b-regulation-of-cannabinoid-hemp-and-hemp-extract/)
 - [Article 34 — Funeral Directing](article-34-funeral-directing/)
 - [Article 35 — Practice of Radiologic Technology](article-35-practice-of-radiologic-technology/)

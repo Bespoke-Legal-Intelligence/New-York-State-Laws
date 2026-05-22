@@ -97,9 +97,7 @@ children immunized at the recommended ages. The immunization schedule
 shall also include the toll-free telephone number operated by the
 department as part of its immunization education efforts. The
 immunization schedule shall be in accordance with recommendations
-established by the New York state department of health and the
-immunization practices advisory committee of the United States
-department of health and human services.
+established by the New York state department of health.
   (b) The commissioner shall provide the immunization schedule to the
 local registrars for distribution pursuant to paragraph (b) of
 subdivision one of section four thousand one hundred thirty-seven of

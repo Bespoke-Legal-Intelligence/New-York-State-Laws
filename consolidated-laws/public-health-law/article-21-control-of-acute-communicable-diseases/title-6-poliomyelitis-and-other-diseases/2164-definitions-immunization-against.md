@@ -30,31 +30,40 @@ law to administer an immunization.
 have administered to such child an adequate dose or doses of an
 immunizing agent against poliomyelitis, mumps, measles, diphtheria,
 rubella, varicella, Haemophilus influenzae type b (Hib), pertussis,
-tetanus, pneumococcal disease, and hepatitis B, which meets the
-standards approved by the United States public health service for such
-biological products, and which is approved by the department under such
-conditions as may be specified by the public health council.
+tetanus, pneumococcal disease, and hepatitis B, in accordance with
+regulations issued by the commissioner, utilizing generally accepted
+medical standards and taking into consideration recommendations of the
+American Academy of Pediatrics, the American Academy of Family
+Physicians, the American College of Obstetricians and Gynecologists, the
+American College of Physicians, the Advisory Committee on Immunization
+Practices, and/or other similar nationally or internationally recognized
+scientific organizations.
   b. Every person in parental relation to a child in this state born on
 or after January first, nineteen hundred ninety-four and entering sixth
 grade or a comparable age level special education program with an
 unassigned grade on or after September first, two thousand seven, shall
 have administered to such child a booster immunization containing
-diphtheria and tetanus toxoids, and an acellular pertussis vaccine,
-which meets the standards approved by the United States public health
-service for such biological products, and which is approved by the
-department under such conditions as may be specified by the public
-health council.
+diphtheria and tetanus toxoids, and an acellular pertussis vaccine, in
+accordance with regulations issued by the commissioner, utilizing
+generally accepted medical standards and taking into consideration
+recommendations of the American Academy of Pediatrics, the American
+Academy of Family Physicians, the American College of Obstetricians and
+Gynecologists, the American College of Physicians, the Advisory
+Committee on Immunization Practices, and/or other similar nationally or
+internationally recognized scientific organizations.
   c. Every person in parental relation to a child in this state entering
 or having entered seventh grade and twelfth grade or a comparable age
 level special education program with an unassigned grade on or after
 September first, two thousand sixteen, shall have administered to such
 child an adequate dose or doses of immunizing agents against
-meningococcal disease as recommended by the advisory committee on
-immunization practices of the centers for disease control and
-prevention, which meets the standards approved by the United States
-public health service for such biological products, and which is
-approved by the department under such conditions as may be specified by
-the public health and planning council.
+meningococcal disease in accordance with regulations issued by the
+commissioner, utilizing generally accepted medical standards and taking
+into consideration recommendations of the American Academy of
+Pediatrics, the American Academy of Family Physicians, the American
+College of Obstetricians and Gynecologists, the American College of
+Physicians, the Advisory Committee on Immunization Practices, and/or
+other similar nationally or internationally recognized scientific
+organizations.
   3. The person in parental relation to any such child who has not
 previously received such immunization shall present the child to a
 health practitioner and request such health practitioner to administer

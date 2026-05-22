@@ -166,10 +166,8 @@ respect to the conduct which was the subject of the conviction.
 recipients of public assistance with children five years of age or less
 with information and a schedule regarding age-appropriate immunizations
 for children in accordance with the recommendations of the department of
-health and the immunization practices advisory committee of the United
-States department of health and human services. The telephone number of
-the local county health department shall be included on the immunization
-schedule.
+health. The telephone number of the local county health department shall
+be included on the immunization schedule.
   14. (a) Notwithstanding any provision of this chapter or other law to
 the contrary, no public assistance shall be given to any individual who
 is (i) fleeing to avoid prosecution or custody or conviction under the

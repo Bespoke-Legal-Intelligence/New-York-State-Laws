@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 3397-A", "kind": "section", "law_id": "PBH", "location_id": "3397-A", "path": "ARTICLE 33-A › SECTION 3397-A", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/3397-A.md", "title": "Legislative findings"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 3397-A", "kind": "section", "law_id": "PBH", "location_id": "3397-A", "path": "ARTICLE 33-A › SECTION 3397-A", "repealed": true, "repealed_date": "2026-05-22", "source": "nys-laws:PBH/3397-A.md", "title": "Legislative findings"} -->
 # Public Health Law § 3397-A — Legislative findings
 
 [Public Health Law](../README.md) › [Article 33-A — Controlled Substances Therapeutic Research Act](README.md)
+
+**Repealed** (22 May 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 3397-a. Legislative findings. The legislature finds that recent

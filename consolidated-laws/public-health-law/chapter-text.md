@@ -295,8 +295,6 @@ Article
                    VI.   Records and reports (§§ 3370-3374).
                   VII.   Offenses, violations and enforcement (§§
                           3380-3397).
-  33-A.    Controlled substances therapeutic research act (§§
-            3397-a--3397-f).
   33-B     Regulation of cannabinoid hemp and hemp extract (§§
             3398--3398-u).
   34.      Funeral directing
