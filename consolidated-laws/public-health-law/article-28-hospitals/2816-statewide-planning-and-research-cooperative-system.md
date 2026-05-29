@@ -108,7 +108,7 @@ be necessary to provide funding for the system.
   9. The commissioner shall publish an annual report relating to health
 care utilization, cost, quality, and safety, including data on health
 disparities.
-  * NB Effective until March 31, 2026
+  * NB Effective until March 31, 2029
   * § 2816. Statewide planning and research cooperative system. 1. The
 statewide planning and research cooperative system in the department is
 continued, as provided in this section. The statewide planning and
@@ -139,5 +139,5 @@ subparagraph (i), (ii), (iii) or (iv) of this paragraph.
 collected and released under this section.
   (c) Standards for the publication and release of data reported in
 accordance with this section.
-  * NB Effective March 31, 2026
+  * NB Effective March 31, 2029
 ```

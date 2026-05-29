@@ -4,7 +4,7 @@
 [Workers' Compensation Law](../README.md) › [Article 2 — Compensation](README.md)
 
 ```text
-  § 13-m. Care and treatment of injured employees by duly licensed
+  * § 13-m. Care and treatment of injured employees by duly licensed
 psychologists. 1. Where the term "chairman" is hereinafter used, it
 shall be deemed to mean the chair of the workers' compensation board of
 the state of New York.
@@ -225,4 +225,5 @@ the professionals constituting the partnerships, corporations, or groups
 be prohibited from sharing, dividing or apportioning the fees and moneys
 received by them or by the partnership, corporation or group in
 accordance with a partnership or other agreement.
+  * NB Repealed January 1, 2028
 ```

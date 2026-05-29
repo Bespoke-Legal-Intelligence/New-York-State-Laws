@@ -7,6 +7,7 @@
 
 - [§ 3201 Discrimination on account of race, creed, color or national origin prohibited](3201-discrimination-on-account-of-race-creed.md)
 - [§ 3201-A Discrimination on account of sex](3201a-discrimination-on-account-of-sex.md)
+- [§ 3201-B Denial of a free public education prohibited; additional prohibited practices](3201b-denial-of-a-free-public-education.md)
 - [§ 3202 Public schools free to resident pupils; tuition from nonresident pupils](3202-public-schools-free-to-resident-pupils.md)
 - [§ 3203 Selection of school for attendance of children when district line intersects a dwelling](3203-selection-of-school-for-attendance.md)
 - [§ 3204 Instruction required](3204-instruction-required.md)
@@ -54,6 +55,8 @@
 Section 3201.   Discrimination on account of race, creed, color or
                   national origin prohibited.
         3201-a. Discrimination on account of sex.
+        3201-b. Denial of a free public education prohibited; additional
+                  prohibited practices.
         3202.   Public schools free to resident pupils; tuition from
                   nonresident pupils.
         3203.   Selection of school for attendance of children when

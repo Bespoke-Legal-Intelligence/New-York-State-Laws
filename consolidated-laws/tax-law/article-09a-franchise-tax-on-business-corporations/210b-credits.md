@@ -238,7 +238,7 @@ refunded in accordance with the provisions of section ten hundred
 eighty-six of this chapter, and (ii) any such taxpayer that is an
 eligible farmer, as defined in subdivision eleven of this section, may
 for taxable years beginning before January first, two thousand
-twenty-eight, elect to treat the amount of such carryover as an
+thirty-three, elect to treat the amount of such carryover as an
 overpayment of tax to be credited or refunded in accordance with the
 provisions of section one thousand eighty-six of this chapter, provided,
 however, the provisions of subsection (c) of section ten hundred

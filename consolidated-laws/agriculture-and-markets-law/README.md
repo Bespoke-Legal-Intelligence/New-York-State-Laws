@@ -7,12 +7,10 @@
 |---|---|
 | Senate code | AGM |
 | Type | Consolidated law, chapter 69 |
-| Sections | 722 (2 repealed) |
-| Last changed | 20 Feb 2026 |
+| Sections | 725 |
+| Last changed | 29 May 2026 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Agriculture & Markets |
-
-*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
 **Short title (from the law itself):** § 1. Short title. This chapter shall be known as the agriculture and markets law.
 
@@ -29,10 +27,11 @@ Assembly, do enact as follows:
                    CHAPTER 69 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (106 lines)](chapter-text.md)
+[Full chapter text (107 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [29 May 2026](../../changes/2026/2026-05-29.md): 5 added, 2 removed
 - [20 Feb 2026](../../changes/2026/2026-02-20.md): 11 amended
 - [26 Dec 2025](../../changes/2025/2025-12-26.md): 1 amended
 - [19 Dec 2025](../../changes/2025/2025-12-19.md): 20 amended, 2 repealed
@@ -42,7 +41,6 @@ Assembly, do enact as follows:
 - [24 Oct 2025](../../changes/2025/2025-10-24.md): 1 amended, 9 added, 1 removed
 - [3 Oct 2025](../../changes/2025/2025-10-03.md): 2 amended
 - [30 May 2025](../../changes/2025/2025-05-30.md): 1 amended
-- [16 May 2025](../../changes/2025/2025-05-16.md): 3 added
 
 ## Contents
 
@@ -94,12 +92,13 @@ Assembly, do enact as follows:
 - [Article 20 — Licensing of Farm Products Dealers](article-20-licensing-of-farm-products-dealers/)
 - [Article 20-C — Licensing of Food Processing Establishments](article-20c-licensing-of-food-processing-establishments/)
 - [Article 21 — Milk Control](article-21-milk-control/)
-- [Article 21-AA Dairy Promotion Act](article-21aa-dairy-promotion-act.md)
+- [Article 21-AA — Dairy Promotion Act](article-21aa-dairy-promotion-act/)
 - [Article 21-B — Dry Milk Powder Control](article-21b-dry-milk-powder-control/)
 - [Article 21-C — Northeast Interstate Dairy Compact](article-21c-northeast-interstate-dairy-compact/)
 - [Article 22 — Farmers' Markets](article-22-farmers-markets/)
 - [Article 23 — Direct Marketing](article-23-direct-marketing/)
 - [Article 24 — Promotion of Agriculture and Domestic Arts; Agricultural Societies](article-24-promotion-of-agriculture-and-domestic-arts/)
+- [Article 25 — Marketing of Agricultural Products](article-25-marketing-of-agricultural-products/)
 - [Article 25-A — Food and Agriculture Industry Development](article-25a-food-and-agriculture-industry-development/)
 - [Article 25-AA — Agricultural Districts](article-25aa-agricultural-districts/)
 - [Article 25-AAA — Agricultural and Farmland Protection Programs](article-25aaa-agricultural-and-farmland-protection-programs/)

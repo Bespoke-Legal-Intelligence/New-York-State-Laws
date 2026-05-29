@@ -7,7 +7,8 @@
 
 - [§ 235 Jurisdiction](235-jurisdiction.md)
 - [§ 236 Creation, personnel](236-creation-personnel.md)
-- [§ 237 Functions, powers and duties](237-functions-powers-and-duties.md)
+- [§ 237 Functions, powers and duties of parking violations bureaus](237-functions-powers-and-duties-of-parking.md)
+- [§ 237-A Functions, powers and duties of traffic camera violations bureaus](237a-functions-powers-and-duties-of-traffic.md)
 - [§ 238 Notice of violation](238-notice-of-violation.md)
 - [§ 239 Ownership and operation of vehicles; liability](239-ownership-and-operation-of-vehicles.md)
 - [§ 240 Hearings, notice and conduct](240-hearings-notice-and-conduct.md)
@@ -28,7 +29,10 @@ Section 235.   Jurisdiction.
         235*2. Jurisdiction.
         235*3. Jurisdiction.
         236.   Creation, personnel.
-        237.   Functions, powers and duties.
+        237.   Functions, powers and duties of parking violations
+                 bureaus.
+        237-a. Functions, powers and duties of traffic camera violations
+                 bureaus.
         238.   Notice of violation.
         239.   Ownership and operation of vehicles; liability.
         240.   Hearings, notice and conduct.

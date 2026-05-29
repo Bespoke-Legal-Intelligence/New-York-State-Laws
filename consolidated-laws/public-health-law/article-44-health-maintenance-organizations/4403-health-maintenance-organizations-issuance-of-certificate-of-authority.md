@@ -225,7 +225,7 @@ organization necessary medical information related to such care; and
 including but not limited to procedures regarding referrals and
 obtaining pre-authorization and a treatment plan approved by the
 organization.
-  (f) If a new enrollee whose health care provider is not a member of
+  * (f) If a new enrollee whose health care provider is not a member of
 the health maintenance organization's provider network enrolls in the
 health maintenance organization, the organization shall permit the
 enrollee to continue an ongoing course of treatment with the enrollee's
@@ -253,6 +253,34 @@ organization. In no event shall this paragraph be construed to require a
 health maintenance organization to provide coverage for benefits not
 otherwise covered or to diminish or impair pre-existing condition
 limitations contained within the subscriber's contract.
+  * NB Effective until January 1, 2027
+  * (f) If a new enrollee whose health care provider is not a member of
+the health maintenance organization's provider network enrolls in the
+health maintenance organization, the organization shall permit the
+enrollee to continue an ongoing course of treatment with the enrollee's
+current health care provider during a transitional period of up to
+ninety days from the effective date of enrollment. If the enrollee is
+pregnant at the effective date of enrollment, the transitional period
+shall include the provision of care for the duration of the pregnancy
+and postpartum care directly related to the delivery. If an enrollee
+elects to continue to receive care from such health care provider
+pursuant to this paragraph, such care shall be authorized by the health
+maintenance organization for the transitional period only if the health
+care provider agrees: (A) to accept reimbursement from the health
+maintenance organization at rates established by the health maintenance
+organization as payment in full, which rates shall be no more than the
+level of reimbursement applicable to similar providers within the health
+maintenance organization's network for such services; (B) to adhere to
+the organization's quality assurance requirements and agrees to provide
+to the organization necessary medical information related to such care;
+and (C) to otherwise adhere to the organization's policies and
+procedures including, but not limited to, procedures regarding referrals
+and obtaining pre-authorization and a treatment plan approved by the
+organization. In no event shall this paragraph be construed to require a
+health maintenance organization to provide coverage for benefits not
+otherwise covered or to diminish or impair pre-existing condition
+limitations contained within the subscriber's contract.
+  * NB Effective January 1, 2027
   7. A health maintenance organization that requires or provides for
 designation by an enrollee of a participating primary care provider
 shall permit the enrollee to designate any participating primary care

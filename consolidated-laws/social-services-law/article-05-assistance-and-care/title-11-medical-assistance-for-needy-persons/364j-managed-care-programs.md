@@ -249,7 +249,7 @@ waiver, granted pursuant to subsection (c) of section 1915 of the
 federal social security act, to persons qualifying for nursing home
 diversion and transition services, shall not be provided to medical
 assistance recipients through managed care programs until at least
-January first, two thousand twenty-seven.
+January first, two thousand twenty-eight.
   (d-3) Services provided in school-based health centers shall not be
 provided to medical assistance recipients through managed care programs
 established pursuant to this section until at least April first, two
@@ -1875,6 +1875,6 @@ damages, penalties or other relief, otherwise authorized by law,
 including but not limited to cases of fraud, waste or abuse.
   (g) The commissioner may promulgate any regulations necessary to
 implement the provisions of this subdivision.
-  * NB Repealed March 31, 2026 (per ch. 165/1991)
-  * NB Repealed March 31, 2026 (per ch. 710/1988)
+  * NB Repealed March 31, 2029 (per ch. 165/1991)
+  * NB Repealed March 31, 2029 (per ch. 710/1988)
 ```

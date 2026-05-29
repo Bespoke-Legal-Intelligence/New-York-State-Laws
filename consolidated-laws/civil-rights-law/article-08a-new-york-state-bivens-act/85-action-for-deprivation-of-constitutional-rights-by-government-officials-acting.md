@@ -1,0 +1,39 @@
+﻿<!-- nyslaw {"citation": "Civil Rights Law § 85", "kind": "section", "law_id": "CVR", "location_id": "85", "path": "ARTICLE 8-A › SECTION 85", "repealed": false, "repealed_date": null, "source": "nys-laws:CVR/85.md", "title": "Action for deprivation of constitutional rights by government officials acting under color of law"} -->
+# Civil Rights Law § 85 — Action for deprivation of constitutional rights by government officials acting under color of law
+
+[Civil Rights Law](../README.md) › [Article 8-A — New York State Bivens Act](README.md)
+
+```text
+  § 85. Action for deprivation of constitutional rights by government
+officials acting under color of law. 1. Liability. Any person who, under
+color of any law, statute, ordinance, regulation, custom, or usage of
+the United States and of any state or territory or the District of
+Columbia, subjects, or causes to be subjected, any citizen of the United
+States or other person within the jurisdiction thereof to the
+deprivation of any rights, privileges, or immunities secured by the
+constitution of the United States, shall be liable to the party injured
+in an action at law, suit in equity, or other proper proceeding for
+redress, except that in any action brought against a judicial officer
+for an act or omission taken in such officer's judicial capacity,
+injunctive relief shall not be granted unless a declaratory decree was
+violated or declaratory relief was unavailable.
+  2. Remedies. In any action brought under this section, the court may
+award:
+  a. Compensatory damages, including damages for emotional distress,
+pain and suffering, and other non-economic damages;
+  b. Punitive damages where the violation is found to be malicious,
+wanton, willful, or in reckless disregard of the plaintiff's rights;
+  c. Injunctive and declaratory relief;
+  d. Nominal damages; and
+  e. Reasonable attorneys' fees and costs to a prevailing plaintiff,
+except that in any action brought against a judicial officer for an act
+or omission taken in such officer's judicial capacity such officer shall
+not be held liable for any costs, including attorneys' fees, unless such
+action was clearly in excess of such officer's jurisdiction.
+  3. This section shall apply retroactively to January first, two
+thousand twenty-five, provided that for any claim for a violation of the
+United States Constitution that occurred between January first, two
+thousand twenty-five, and the effective date of this section, the only
+monetary damages that shall be available pursuant to this section for
+such constitutional violation are nominal and compensatory damages.
+```

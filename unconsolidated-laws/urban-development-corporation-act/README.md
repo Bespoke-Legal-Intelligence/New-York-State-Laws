@@ -8,8 +8,8 @@
 | Senate code | UDA |
 | Type | Unconsolidated law |
 | Session law | L. 1968, ch. 174 |
-| Sections | 109 (1 repealed) |
-| Last changed | 23 May 2025 |
+| Sections | 109 (2 repealed) |
+| Last changed | 29 May 2026 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Urban Development Corporation Act 174/68 |
 
@@ -34,6 +34,7 @@ Section   1.       Short title.
 
 ## Recent changes
 
+- [29 May 2026](../../changes/2026/2026-05-29.md): 10 amended, 1 repealed
 - [23 May 2025](../../changes/2025/2025-05-23.md): 1 repealed
 - [16 May 2025](../../changes/2025/2025-05-16.md): 7 amended
 - [27 Dec 2024](../../changes/2024/2024-12-27.md): 1 amended
@@ -43,7 +44,6 @@ Section   1.       Short title.
 - [15 Dec 2023](../../changes/2023/2023-12-15.md): 1 amended
 - [17 Nov 2023](../../changes/2023/2023-11-17.md): 1 amended
 - [7 Jul 2023](../../changes/2023/2023-07-07.md): 1 amended
-- [12 May 2023](../../changes/2023/2023-05-12.md): 9 amended, 2 added
 
 ## Contents
 
@@ -104,7 +104,7 @@ Section   1.       Short title.
 - [§ 16-FF COVID-19 pandemic small business recovery grant program](16ff-covid-19-pandemic-small-business-recovery-grant-program.md)
 - [§ 16-GG Small business seed funding grant program](16gg-small-business-seed-funding-grant-program.md)
 - [§ 16-GG\*2 Division of Broadband Access](16gg-2-division-of-broadband-access.md)
-- [§ 16-HH Small business and entrepreneurs grant program](16hh-small-business-and-entrepreneurs-grant-program.md)
+- [§ 16-HH Small business and entrepreneurs grant program](16hh-small-business-and-entrepreneurs-grant-program.md) *(repealed)*
 - [§ 16-II Empire AI consortium reports](16ii-empire-ai-consortium-reports.md)
 - [§ 17 Bonds and notes of the corporation](17-bonds-and-notes-of-the-corporation.md)
 - [§ 18 Bond authorization](18-bond-authorization.md)

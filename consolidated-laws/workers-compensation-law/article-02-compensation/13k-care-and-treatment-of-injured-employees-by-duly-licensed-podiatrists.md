@@ -4,7 +4,7 @@
 [Workers' Compensation Law](../README.md) › [Article 2 — Compensation](README.md)
 
 ```text
-  § 13-k. Care and treatment of injured employees by duly licensed
+  * § 13-k. Care and treatment of injured employees by duly licensed
 podiatrists.  1. When the term "chairman" is hereinafter used, it shall
 be deemed to mean the chair of the workers' compensation board of the
 state of New York.
@@ -241,4 +241,5 @@ applicable as fully as if set forth herein.
   13. Upon the referral which may be directive as to treatment of an
 authorized podiatrist physical therapy care may be rendered by a duly
 licensed physical therapist.
+  * NB Repealed January 1, 2028
 ```

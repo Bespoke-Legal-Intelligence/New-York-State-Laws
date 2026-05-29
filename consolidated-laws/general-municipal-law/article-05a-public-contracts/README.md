@@ -34,7 +34,6 @@
 - [§ 109-B Installment contracts](109b-installment-contracts.md)
 - [§ 109-C Purchases through county contracts by certain not-for-profit corporations](109c-purchases-through-county-contracts-by-certain-not-for-profit-corporations.md)
 - [§ 109-D Emergency vehicle warranties](109d-emergency-vehicle-warranties.md)
-- [§ 109-E Additional requirements for right-of-way permits](109e-additional-requirements-for-right-of-way-permits.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 5-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

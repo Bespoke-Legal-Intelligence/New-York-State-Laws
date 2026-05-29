@@ -597,7 +597,7 @@ the memorandum of understanding is not executed or is breached, the
 commissioner, in consultation with the director of the budget, may
 either cancel or reduce payment of such rate add-on to achieve
 compliance with the enacted budget financial plan.
-  * NB Repealed March 31, 2026
+  * NB Repealed March 31, 2029
   (f)(i) The commissioner shall periodically measure the utilization and
 intensity of services provided to medical assistance recipients in
 ambulatory settings. Such analysis shall include, but not be limited to:
@@ -1315,7 +1315,7 @@ published on the applicable website of the authorizing commissioner and
 shall include a description of each waiver, including a citation of each
 regulation waived, and a description of the project of which such relief
 was granted.
-  * NB Expires April 1, 2026
+  * NB Expires April 1, 2028
   21. (a) Notwithstanding any contrary provision of law and subject to
 the receipt of all necessary federal approvals and the availability of
 federal financial participation, the commissioner is authorized to enter

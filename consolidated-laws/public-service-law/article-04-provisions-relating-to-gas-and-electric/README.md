@@ -35,8 +35,11 @@
 - [§ 66-U Gas safety reports](66u-gas-safety-reports.md)
 - [§ 66-V Requirements for certain climate risk-related and energy transition projects](66v-requirements-for-certain-climate-risk-related-and-energy-transition-projects.md)
 - [§ 66-W Finality of charges; small non-residential customers](66w-finality-of-charges-small-non-residential-customers.md)
+- [§ 66-X Energy affordability index](66x-energy-affordability-index.md)
+- [§ 66-AA Interconnection reforms](66aa-interconnection-reforms.md)
 - [§ 67 Inspection of gas and electric meters](67-inspection-of-gas-and-electric-meters.md)
 - [§ 67-A Charges for past services](67a-charges-for-past-services.md)
+- [§ 67-B Excelsior power program](67b-excelsior-power-program.md)
 - [§ 68 Certificate of public convenience and necessity](68-certificate-of-public-convenience-and-necessity.md)
 - [§ 68-A Statements of nature and extent of interests to be filed upon request](68a-statements-of-nature-and-extent-of-interests-to-be-filed-upon-request.md)
 - [§ 69 Approval of issues of stock, bonds and other forms of indebtedness; approval of mergers or consolidations](69-approval-of-issues-of-stock-bonds-and-other-forms-of-indebtedness-approval.md)
@@ -107,8 +110,11 @@ Section 64.     Application of article.
         66-v.   Requirements for certain climate risk-related and energy
                   transition projects.
         66-w.   Finality of charges; small non-residential customers.
+        66-x.   Energy affordability index.
+        66-aa.  Interconnection reforms.
         67.     Inspection of gas and electric meters.
         67-a.   Charges for past services.
+        67-b.   Excelsior power program.
         68.     Certificate of public convenience and necessity.
         68-a.   Statements of nature and extent of interests to be filed
                   upon request.

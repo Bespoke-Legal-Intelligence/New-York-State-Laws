@@ -426,7 +426,7 @@ initial prescription plus all subsequent prescriptions for the same
 underlying condition for up to a total of thirty-days supply of such
 opioid shall not exceed the amount set forth in subparagraph (iii) of
 this paragraph.
-  * NB Repealed March 31, 2026
+  * NB Repealed March 31, 2029
   (d) Co-payments shall apply to the following services, subject to such
 exceptions for subcategories of these services as recognized by the
 commissioner in regulations, provided in accordance with section three
@@ -551,7 +551,7 @@ manufacturer (as provided for under section 1927.4(b)(1)(A) of the
 federal social security act) shall provide such data by zip code, if
 requested, for drugs covered under a rebate agreement.
   * (e) During the period from April first, two thousand fifteen through
-March thirty-first, two thousand twenty-six, the commissioner may, in
+March thirty-first, two thousand twenty-nine, the commissioner may, in
 lieu of a managed care provider or pharmacy benefit manager, negotiate
 directly and enter into an arrangement with a pharmaceutical
 manufacturer for the provision of supplemental rebates relating to
@@ -722,7 +722,7 @@ condition or a reduction in the symptoms of such disease or condition
 that materially improves the patient's length or quality of life; and
 (E) is expected to achieve the result described in clause (D) of this
 subparagraph after not more than three administrations.
-  * NB Repealed March 31, 2029
+  * NB Repealed March 31, 2032
   * 8. No government agency shall purchase, pay for, or make
 reimbursement or grants-in-aid for any service in a residential
 treatment facility for children and youth or a comprehensive psychiatric

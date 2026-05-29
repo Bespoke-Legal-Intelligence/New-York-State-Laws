@@ -35,6 +35,7 @@
 - [§ 170-H Additional collection of demographic information](170h-additional-collection-of-demographic-information.md)
 - [§ 170-I Gender-based violence and the workplace](170i-gender-based-violence-and-the-workplace.md)
 - [§ 170-J Mental health references contained in state and municipal forms](170j-mental-health-references-contained-in-state-and-municipal-forms.md)
+- [§ 170-K Local cops, local crimes act](170k-local-cops-local-crimes-act.md)
 - [§ 171 Discovery and disposition of human remains and funerary objects](171-discovery-and-disposition-of-human-remains-and-funerary-objects.md)
 
 <details>
@@ -82,6 +83,7 @@ Section 161.     Certain searches, the filing of papers, and certified
         170-i.   Gender-based violence and the workplace.
         170-j.   Mental health references contained in state and
                    municipal forms.
+        170-k.   Local cops, local crimes act.
         171.     Discovery and disposition of human remains and funerary
                    objects.
 ```

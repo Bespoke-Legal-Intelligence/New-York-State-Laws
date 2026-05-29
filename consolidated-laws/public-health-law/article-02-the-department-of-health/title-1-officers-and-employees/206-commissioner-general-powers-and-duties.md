@@ -775,7 +775,7 @@ workgroup, on or before December first, two thousand fourteen; and
 senate and the speaker of the assembly, which shall fully consider the
 evaluation and recommendations of the workgroup, on or before December
 first, two thousand fifteen.
-  * NB Effective until March 31, 2026
+  * NB Effective until March 31, 2029
   * (b) The commissioner shall make such rules and regulations as may be
 necessary to implement federal policies and disburse funds as required
 by the American Recovery and Reinvestment Act of 2009 and to promote the
@@ -787,7 +787,7 @@ privacy and security. Such rules and regulations shall include, but not
 be limited to, requirements for organizations covered by 42 U.S.C. 17938
 or any other organizations that exchange health information through the
 SHIN-NY.
-  * NB Effective March 31, 2026
+  * NB Effective March 31, 2029
   (c) The members of the workgroup shall include, at a minimum, three
 members who represent RHIOs, two members employed by the department who
 are involved in the development of the SHIN-NY and the APD, two members
@@ -819,7 +819,7 @@ such subparagraph (iv) then the commissioner shall consider the report
 and recommendations of the workgroup. If the commissioner acts in a
 manner inconsistent with the input or recommendations of the workgroup,
 he or she shall provide the reasons therefor.
-  * NB Effective until March 31, 2026
+  * NB Effective until March 31, 2029
   * 19. The commissioner is authorized and directed to promulgate rules
 and regulations as may be necessary, with respect to the form and
 content of applications for licenses, the fees to be charged for

@@ -321,13 +321,13 @@ subdivision five-b of this section.
 section twenty-eight hundred seven-w of this article or any other
 contrary provision of law, and subject to the availability of federal
 financial participation, for periods on and after January first, two
-thousand twenty, through March thirty-first, two thousand twenty-six,
-all funds available for distribution pursuant to this section, except
-for funds distributed pursuant to paragraph (b) of subdivision five-b of
-this section, and all funds available for distribution pursuant to
-section twenty-eight hundred seven-w of this article, shall be reserved
-and set aside and distributed in accordance with the provisions of this
-subdivision.
+thousand twenty, through December thirty-first, two thousand
+twenty-nine, all funds available for distribution pursuant to this
+section, except for funds distributed pursuant to paragraph (b) of
+subdivision five-b of this section, and all funds available for
+distribution pursuant to section twenty-eight hundred seven-w of this
+article, shall be reserved and set aside and distributed in accordance
+with the provisions of this subdivision.
   (b) The commissioner shall promulgate regulations, and may promulgate
 emergency regulations, establishing methodologies for the distribution
 of funds as described in paragraph (a) of this subdivision and such
@@ -343,7 +343,7 @@ uninsured patients, and as further adjusted by application of a nominal
 need computation that shall take into account each facility's medicaid
 inpatient share.
   (ii) Annual distributions pursuant to such regulations for the two
-thousand twenty through two thousand twenty-five calendar years shall be
+thousand twenty through two thousand twenty-nine calendar years shall be
 in accord with the following:
   (A) (1) one hundred thirty-nine million four hundred thousand dollars
 shall be distributed as Medicaid Disproportionate Share Hospital ("DSH")
@@ -368,7 +368,7 @@ that qualify as enhanced safety net hospitals under section two thousand
 eight hundred seven-c of this article shall not be subject to such
 reduction.
   For the calendar years two thousand twenty-three through two thousand
-twenty-five, the total distributions to eligible general hospitals,
+twenty-nine, the total distributions to eligible general hospitals,
 other than major public general hospitals, shall be subject to an
 aggregate reduction of two hundred thirty-five million four hundred
 thousand dollars annually, provided that eligible general hospitals,
@@ -381,7 +381,7 @@ by the commissioner. Such methodologies may take into account the payor
 mix of each non-public general hospital, including the percentage of
 inpatient days paid by Medicaid.
   (iii) For calendar years two thousand twenty through two thousand
-twenty-five, sixty-four million six hundred thousand dollars shall be
+twenty-nine, sixty-four million six hundred thousand dollars shall be
 distributed to eligible general hospitals, other than major public
 general hospitals, that experience a reduction in indigent care pool
 payments pursuant to this subdivision, and that qualify as enhanced

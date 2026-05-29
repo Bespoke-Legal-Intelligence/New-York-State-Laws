@@ -7,15 +7,23 @@
 
 - [§ 100 Laws repealed](100-laws-repealed.md)
 - [§ 101 When to take effect](101-when-to-take-effect.md)
+- [§ 102 Identification required](102-identification-required.md)
 
 <details>
 <summary>Official heading of Article 10, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                               ARTICLE 10
+                              * ARTICLE 10
                    Laws Repealed; When to Take Effect
 Section 100. Laws repealed.
         101. When to take effect.
+  * NB Effective until June 26, 2026
+                               * ARTICLE 10
+                     LAW ENFORCEMENT FACE COVERINGS
+Section 100. Definitions.
+        101. Face coverings prohibited.
+        102. Identification required.
+  * NB Effective June 26, 2026
 ```
 
 </details>

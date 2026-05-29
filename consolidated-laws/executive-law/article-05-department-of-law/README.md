@@ -13,6 +13,7 @@
 - [§ 63-B Action by attorney-general against usurper of office or franchise](63b-action-by-attorney-general-against-usurper-of-office-or-franchise.md)
 - [§ 63-C Action by the people for illegal receipt or disposition of public funds or other property](63c-action-by-the-people-for-illegal-receipt-or-disposition-of-public-funds-or-other.md)
 - [§ 63-D Attorney-general; death penalty prosecutions](63d-attorney-general-death-penalty-prosecutions.md)
+- [§ 63-E Office of immigrant trust](63e-office-of-immigrant-trust.md)
 - [§ 64 Costs recovered](64-costs-recovered.md)
 - [§ 65 Register](65-register.md)
 - [§ 66 Destruction of certain records, books and other data by the attorney-general](66-destruction-of-certain-records-books-and-other-data-by-the-attorney-general.md)
@@ -44,6 +45,7 @@ Section 60.   Department of law.
         63-c. Action by the people for illegal receipt or disposition of
                 public funds or other property.
         63-d. Attorney-general; death penalty prosecutions.
+        63-e. Office of immigrant trust.
         64.   Costs recovered.
         65.   Register.
         66.   Destruction of certain records, books and other data by

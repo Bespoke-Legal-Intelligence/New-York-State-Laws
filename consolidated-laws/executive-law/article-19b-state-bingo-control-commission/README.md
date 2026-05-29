@@ -15,7 +15,6 @@
 - [§ 438 Privilege against self-incrimination](438-privilege-against-self-incrimination.md)
 - [§ 439 Filing and availability of rules and regulations](439-filing-and-availability-of-rules-and-regulations.md)
 - [§ 439-A Municipality to file copies of local laws and ordinances; reports](439a-municipality-to-file-copies-of-local-laws-and-ordinances-reports.md)
-- [§ 441 repealed by 62/2003, § 1, Pt](441-repealed-by-62-2003-1-pt.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 19-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

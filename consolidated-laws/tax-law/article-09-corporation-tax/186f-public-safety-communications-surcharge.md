@@ -137,17 +137,8 @@ legislature annually;
   (b) The sum of one million five hundred thousand dollars must be
 deposited into the New York state emergency services revolving loan fund
 annually; provided, however, that such sums shall not be deposited for
-state fiscal years two thousand eleven--two thousand twelve, two
-thousand twelve--two thousand thirteen, two thousand fourteen--two
-thousand fifteen, two thousand fifteen--two thousand sixteen, two
-thousand sixteen--two thousand seventeen, two thousand seventeen--two
-thousand eighteen, two thousand eighteen--two thousand nineteen, two
-thousand nineteen--two thousand twenty, two thousand twenty--two
-thousand twenty-one, two thousand twenty-one--two thousand twenty-two,
-two thousand twenty-two--two thousand twenty-three, two thousand
-twenty-three--two thousand twenty-four, two thousand twenty-four--two
-thousand twenty-five, and two thousand twenty-five--two thousand
-twenty-six;
+any state fiscal year between two thousand eleven--two thousand twelve,
+and two thousand twenty-seven--two thousand twenty-eight;
   (c) Up to the sum of seventy-five million dollars annually may be used
 for the provision of grants or reimbursements to counties for the
 development, consolidation, or operation of public safety communications

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | GMU |
 | Type | Consolidated law, chapter 24 |
-| Sections | 1,090 (1 repealed) |
-| Last changed | 1 May 2026 |
+| Sections | 1,091 |
+| Last changed | 29 May 2026 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Municipal |
 
@@ -29,10 +29,11 @@ Became a law February 17, 1909, with the approval of the Governor.
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (112 lines)](chapter-text.md)
+[Full chapter text (114 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [29 May 2026](../../changes/2026/2026-05-29.md): 2 amended, 2 added, 1 removed
 - [1 May 2026](../../changes/2026/2026-05-01.md): 1 amended
 - [3 Apr 2026](../../changes/2026/2026-04-03.md): 1 amended
 - [20 Feb 2026](../../changes/2026/2026-02-20.md): 11 amended, 1 repealed
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [15 Aug 2025](../../changes/2025/2025-08-15.md): 1 amended
 - [8 Aug 2025](../../changes/2025/2025-08-08.md): 1 amended
 - [1 Aug 2025](../../changes/2025/2025-08-01.md): 3 amended
-- [4 Jul 2025](../../changes/2025/2025-07-04.md): 1 amended, 3 added
 
 ## Contents
 
@@ -120,4 +120,5 @@ Assembly, do enact as follows:
 - [Article 19-A — Business Improvement Districts](article-19a-business-improvement-districts/)
 - [Article 19-B — Municipal Theme Districts](article-19b-municipal-theme-districts/)
 - [Article 19-C — Cybersecurity Incident Reporting Requirements For Municipal Corporations and Public Authorities](article-19c-cybersecurity-incident-reporting-requirements/)
+- [Article 19-D — Duties of Municipal Governments and Their Employees Pertaining to Immigration Enforcement](article-19d-duties-of-municipal-governments/)
 - [Article 20 — Laws Repealed; When to Take Effect](article-20-laws-repealed-when-to-take-effect/)

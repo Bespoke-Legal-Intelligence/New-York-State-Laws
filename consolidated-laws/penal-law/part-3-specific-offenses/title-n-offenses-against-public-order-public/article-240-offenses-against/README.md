@@ -32,6 +32,7 @@
 - [§ 240.62 Placing a false bomb or hazardous substance in the first degree](240.62-placing-a-false-bomb-or-hazardous.md)
 - [§ 240.63 Placing a false bomb or hazardous substance in a sports stadium or arena, mass transportation facility or enclosed shopping mall](240.63-placing-a-false-bomb-or-hazardous.md)
 - [§ 240.65 Unlawful prevention of public access to records](240.65-unlawful-prevention-of-public-access.md)
+- [§ 240.69 Criminal interference with access to a place of religious worship](240.69-criminal-interference-with-access.md)
 - [§ 240.70 Criminal interference with health care services or religious worship in the second degree](240.70-criminal-interference-with-health-care.md)
 - [§ 240.71 Criminal interference with health care services or religious worship in the first degree](240.71-criminal-interference-with-health-care.md)
 - [§ 240.72 Aggravated interference with health care services in the second degree](240.72-aggravated-interference-with-health-care.md)
@@ -82,6 +83,8 @@ Section 240.00 Offenses against public order; definitions of terms.
                  stadium or arena, mass transportation facility or
                  enclosed shopping mall.
         240.65 Unlawful prevention of public access to records.
+        240.69 Criminal interference with access to a place of religious
+                 worship.
         240.70 Criminal interference with health care services or
                  religious worship in the second degree.
         240.71 Criminal interference with health care services or

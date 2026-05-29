@@ -37,6 +37,7 @@
 - [§ 1641 Additional traffic regulations on all highways except state highways maintained by the state in cities and villages](1641-additional-traffic-regulations-on-all-highways.md)
 - [§ 1642 Additional traffic regulations in cities having a population in excess of one million](1642-additional-traffic-regulations-in-cities-having.md)
 - [§ 1642-A Bus permit system in cities having a population of one million or more](1642a-bus-permit-system-in-cities-having-a-population.md)
+- [§ 1642-B Installation and operation of intelligent speed assistance devices; demonstration program in the city of New York](1642b-installation-and-operation-of-intelligent-speed.md)
 - [§ 1643 Speed limits on highways in cities and villages](1643-speed-limits-on-highways-in-cities-and-villages.md)
 - [§ 1644 Special speed limits on bridges and other elevated structures in cities and villages](1644-special-speed-limits-on-bridges-and-other.md)
 - [§ 1645 Exempting fuel oil trucks from use of truck routes in cities having a population in excess of one million](1645-exempting-fuel-oil-trucks-from-use-of-truck.md)
@@ -111,6 +112,9 @@ Section 1640.     Traffic regulations in all cities and villages.
                     population in excess of one million.
         1642-a.   Bus permit system in cities having a population of one
                     million or more.
+        1642-b.   Installation and operation of intelligent speed
+                    assistance devices; demonstration program in the
+                    city of New York.
         1643.     Speed limits on highways in cities and villages.
         1644.     Special speed limits on bridges and other elevated
                     structures in cities and villages.

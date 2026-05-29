@@ -11,5 +11,5 @@ approved by the commissioner, as a training method for the
 administration and completion of an approved accident prevention course
 for the purposes of granting point and insurance premium reduction
 benefits.
-  * NB Repealed April 1, 2026
+  * NB Repealed April 1, 2028
 ```

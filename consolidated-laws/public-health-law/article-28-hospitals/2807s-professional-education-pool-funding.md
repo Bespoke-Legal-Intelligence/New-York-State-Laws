@@ -403,5 +403,5 @@ article, and shall not be included in gross revenue received for
 purposes of the assessments pursuant to section twenty-eight hundred
 seven-d of this article, subject to the provisions of subdivision twelve
 of section twenty-eight hundred seven-d of this article.
-  * NB Expires December 31, 2026
+  * NB Expires December 31, 2029
 ```

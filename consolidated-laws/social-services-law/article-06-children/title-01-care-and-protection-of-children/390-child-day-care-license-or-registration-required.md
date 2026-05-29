@@ -669,8 +669,8 @@ parcel used for residential purposes and registered as a family day care
 home pursuant to this section, shall consider the use or registration of
 such parcel as a family day care home.
   13. Notwithstanding any other provision of law, this section, except
-for paragraph (a-1) of subdivision two-a of this section, shall not
-apply to child day care centers in the city of New York.
+for subdivision fifteen of this section, shall not apply to child day
+care centers in the city of New York.
   14. The office of children and family services, in conjunction with
 the department of health, shall be required to annually distribute
 informational materials related to the occurrence, transmission, birth
@@ -678,4 +678,24 @@ defects, methods of diagnosis and preventive measures of Cytomegalovirus
 established pursuant to subdivision six of section two hundred sixty-six
 of the public health law to every licensed, registered or enrolled child
 care provider and their staff.
+  15. (a) Each child day care provider, enrolled legally-exempt
+provider, enrolled legally-exempt group provider, and child care program
+permitted under the New York City health code shall establish written
+procedures that identify the actions the provider or program shall take
+if the provider or program becomes aware that the parent or guardian
+shall be unavailable to retrieve the child at the conclusion of the
+child care program hours or the child is not picked up as scheduled, and
+such child is in need of an alternate plan for pickup for any reason,
+including that the parent or guardian has been detained by federal
+immigration authorities.
+  (b) Such procedures shall be established and implemented no later than
+ninety days after the effective date of this subdivision, and shall be
+provided to families upon implementation, admission, and revision.
+  (c) Such procedures shall include, at a minimum, that the provider
+shall not contact the statewide central register for child abuse and
+maltreatment unless the provider has made reasonable efforts to contact
+all known individuals authorized by the parent or guardian to retrieve
+the child, and that the provider shall retain the child on the premises
+until such child is picked up by an individual authorized by the parent
+or guardian or by law.
 ```

@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 137 — Pharmacy](README.md)
 
 ```text
-  * § 6809. Shared pharmacy services. 1. General requirements. No
+  § 6809. Shared pharmacy services. 1. General requirements. No
 pharmacist or pharmacy shall provide shared pharmacy services unless
 they are registered in accordance with sections sixty-eight hundred
 five, sixty-eight hundred eight, or sixty-eight hundred eight-b of this
@@ -133,5 +133,4 @@ and integrity of protected patient information; and
 the pharmacy's electronic database.
   8. Effect. Failure to meet any or all of the requirements of this
 section may result in a denial of renewal of registration.
-  * NB Effective May 22, 2026
 ```

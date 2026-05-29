@@ -37,11 +37,11 @@ the originating site nor the distant site occur within the clinic or
 other facility. The commissioner, in consultation with the
 superintendent, may promulgate regulations to implement the provisions
 of this section.
-  * NB Repealed April 1, 2026
+  * NB Repealed April 1, 2028
   * 4. A health maintenance organization that provides comprehensive
 coverage for hospital, medical, or surgical care with a network of
 health care providers shall ensure that such network is adequate to meet
 the telehealth needs of insured individuals for services covered under
 the policy when medically appropriate.
-  * NB Repealed April 1, 2026
+  * NB Repealed April 1, 2028
 ```

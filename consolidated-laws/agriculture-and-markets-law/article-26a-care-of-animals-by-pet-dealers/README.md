@@ -13,7 +13,6 @@
 - [§ 405 Inspection of pet dealers](405-inspection-of-pet-dealers.md)
 - [§ 406 Violations](406-violations.md)
 - [§ 407 Construction with other laws](407-construction-with-other-laws.md)
-- [§ 408 Exemption of certain entities from the definition of pet dealer; registration required](408-exemption-of-certain-entities-from-the-definition-of-pet-dealer-registration.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 26-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

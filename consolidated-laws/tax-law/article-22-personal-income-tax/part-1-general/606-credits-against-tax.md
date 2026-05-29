@@ -254,7 +254,7 @@ qualifies as an owner of a new business for purposes of paragraph ten of
 this subsection may, at the taxpayer's option, receive such excess as a
 refund, and (B) a taxpayer that is an eligible farmer as defined in
 subsection (n) of this section may, at the taxpayer's option, for
-taxable years beginning before January first, two thousand twenty-eight
+taxable years beginning before January first, two thousand thirty-three,
 receive such excess as a refund. Any refund paid pursuant to this
 paragraph shall be deemed to be a refund of an overpayment of tax as
 provided in section six hundred eighty-six of this article, provided,

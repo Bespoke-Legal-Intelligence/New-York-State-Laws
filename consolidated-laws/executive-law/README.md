@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | EXC |
 | Type | Consolidated law, chapter 18 |
-| Sections | 945 (3 repealed) |
-| Last changed | 8 May 2026 |
+| Sections | 947 |
+| Last changed | 29 May 2026 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Executive |
 
@@ -29,10 +29,11 @@ The People of the State of New York, represented in Senate and Assembly,
                  CHAPTER EIGHTEEN OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (115 lines)](chapter-text.md)
+[Full chapter text (117 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [29 May 2026](../../changes/2026/2026-05-29.md): 1 amended, 6 added, 4 removed
 - [8 May 2026](../../changes/2026/2026-05-08.md): 1 amended
 - [1 May 2026](../../changes/2026/2026-05-01.md): 1 amended
 - [3 Apr 2026](../../changes/2026/2026-04-03.md): 1 amended
@@ -42,7 +43,6 @@ The People of the State of New York, represented in Senate and Assembly,
 - [6 Feb 2026](../../changes/2026/2026-02-06.md): 1 amended
 - [9 Jan 2026](../../changes/2026/2026-01-09.md): 1 amended, 1 repealed
 - [2 Jan 2026](../../changes/2026/2026-01-02.md): 6 amended
-- [26 Dec 2025](../../changes/2025/2025-12-26.md): 5 amended, 1 repealed
 
 ## Contents
 
@@ -79,6 +79,7 @@ The People of the State of New York, represented in Senate and Assembly,
 - [Article 14 — Division of Alcoholic Beverage Control](article-14-division-of-alcoholic-beverage-control/)
 - [Article 15 — Human Rights Law](article-15-human-rights-law/)
 - [Article 15-A — Participation By Minority Group Members and Women With Respect to State Contracts](article-15a-participation-by-minority-group-members/)
+- [Article 15-AA — Restrictions On Immigration Enforcement By State Employees](article-15aa-restrictions-on-immigration-enforcement-by-state/)
 - [Article 15-B — New York State Martin Luther King, Jr Institute For Nonviolence Act](article-15b-new-york-state-martin-luther-king-jr-institute/)
 - [Article 15-C — Religious Accommodation For Licensing Examinations](article-15c-religious-accommodation-for-licensing/)
 - [Article 16 — Martin Luther King, Jr Commission](article-16-martin-luther-king-jr-commission/)

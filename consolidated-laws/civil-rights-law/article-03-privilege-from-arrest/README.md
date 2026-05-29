@@ -17,6 +17,7 @@
 - [§ 27 Discharge of exempt witness](27-discharge-of-exempt-witness.md)
 - [§ 28 Medical attention for persons under arrest](28-medical-attention-for-persons-under-arrest.md)
 - [§ 28\*2 Civil arrest; certain locations](28-2-civil-arrest-certain-locations.md)
+- [§ 29 Sensitive locations](29-sensitive-locations.md)
 
 <details>
 <summary>Official heading of Article 3, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -38,6 +39,7 @@ Section 20.   No imprisonment for non-payment of costs in certain cases.
         27.   Discharge of exempt witness.
         28.   Medical attention for persons under arrest.
         28*2. Civil arrest; certain locations.
+        29.   Sensitive locations.
 ```
 
 </details>

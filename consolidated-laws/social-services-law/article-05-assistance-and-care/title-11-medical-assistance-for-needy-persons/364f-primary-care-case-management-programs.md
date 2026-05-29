@@ -109,5 +109,5 @@ diminish the scope of available medical services to which a recipient is
 entitled.
   7. This section shall be effective if, and as long as, federal
 financial participation is available therefor.
-  * NB Expires March 31, 2026
+  * NB Expires March 31, 2029
 ```

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | CVR |
 | Type | Consolidated law, chapter 6 |
-| Sections | 132 |
-| Last changed | 26 Dec 2025 |
+| Sections | 138 |
+| Last changed | 29 May 2026 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Civil Rights |
 
@@ -29,10 +29,11 @@
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (32 lines)](chapter-text.md)
+[Full chapter text (34 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [29 May 2026](../../changes/2026/2026-05-29.md): 2 amended, 6 added
 - [26 Dec 2025](../../changes/2025/2025-12-26.md): 1 amended
 - [19 Dec 2025](../../changes/2025/2025-12-19.md): 1 amended
 - [4 Apr 2025](../../changes/2025/2025-04-04.md): 2 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [3 May 2024](../../changes/2024/2024-05-03.md): 4 amended
 - [2 Feb 2024](../../changes/2024/2024-02-02.md): 1 amended
 - [17 Nov 2023](../../changes/2023/2023-11-17.md): 1 added
-- [10 Mar 2023](../../changes/2023/2023-03-10.md): 2 amended
 
 ## Contents
 
@@ -59,5 +59,7 @@ Assembly, do enact as follows:
 - [Article 6-A — Change of Sex Designation](article-06a-change-of-sex-designation/)
 - [Article 7 — Miscellaneous Rights and Immunities](article-07-miscellaneous-rights-and-immunities/)
 - [Article 8 — Causes of Action For Alienation of Affections, Criminal Conversation, Seduction and Breach of Contract to Marry Abolished](article-08-causes-of-action-for-alienation-of-affections/)
+- [Article 8-A — New York State Bivens Act](article-08a-new-york-state-bivens-act/)
 - [Article 9 — Right to Call Police and Emergency Assistance/victim Protections](article-09-right-to-call-police-and-emergency-assistance/)
 - [Article 10 — Laws Repealed; When to Take Effect](article-10-laws-repealed-when-to-take-effect/)
+- [Article 15 — Laws Repealed; When to Take Effect](article-15-laws-repealed-when-to-take-effect/)

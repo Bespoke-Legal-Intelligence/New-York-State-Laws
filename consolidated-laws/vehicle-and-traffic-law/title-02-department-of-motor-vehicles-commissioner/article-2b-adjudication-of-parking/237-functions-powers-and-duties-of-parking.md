@@ -1,11 +1,12 @@
-﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 237", "kind": "section", "law_id": "VAT", "location_id": "237", "path": "TITLE 2 › ARTICLE 2-B › SECTION 237", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/237.md", "title": "Functions, powers and duties"} -->
-# Vehicle and Traffic Law § 237 — Functions, powers and duties
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 237", "kind": "section", "law_id": "VAT", "location_id": "237", "path": "TITLE 2 › ARTICLE 2-B › SECTION 237", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/237.md", "title": "Functions, powers and duties of parking violations bureaus"} -->
+# Vehicle and Traffic Law § 237 — Functions, powers and duties of parking violations bureaus
 
 [Vehicle and Traffic Law](../../README.md) › [Title 2 — Department of Motor Vehicles; Commissioner](../README.md) › [Article 2-B — Adjudication of Parking Infractions](README.md)
 
 ```text
-  § 237. Functions, powers and duties. The parking violations bureau
-shall have the following functions, powers and duties:
+  § 237. Functions, powers and duties of parking violations bureaus. The
+parking violations bureau shall have the following functions, powers and
+duties:
   1. To accept pleas to, and to hear and determine, charges of parking
 violations and, except in a city with a population of one million or
 more, abandoned vehicle violations;

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | GBS |
 | Type | Consolidated law, chapter 20 |
-| Sections | 1,434 |
-| Last changed | 15 May 2026 |
+| Sections | 1,444 |
+| Last changed | 29 May 2026 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Business |
 
@@ -29,10 +29,11 @@ AN ACT relating to general business, constituting chapter twenty of the
   Assembly, do enact as follows:
 ```
 
-[Full chapter text (207 lines)](chapter-text.md)
+[Full chapter text (208 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [29 May 2026](../../changes/2026/2026-05-29.md): 3 amended, 10 added
 - [15 May 2026](../../changes/2026/2026-05-15.md): 1 amended
 - [8 May 2026](../../changes/2026/2026-05-08.md): 1 amended
 - [24 Apr 2026](../../changes/2026/2026-04-24.md): 2 amended
@@ -42,7 +43,6 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [13 Mar 2026](../../changes/2026/2026-03-13.md): 5 amended, 1 repealed
 - [27 Feb 2026](../../changes/2026/2026-02-27.md): 12 amended
 - [20 Feb 2026](../../changes/2026/2026-02-20.md): 16 amended
-- [30 Jan 2026](../../changes/2026/2026-01-30.md): 1 amended
 
 ## Contents
 
@@ -190,5 +190,6 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 44-B — Responsible Ai Safety and Education (raise) Act](article-44b-responsible-ai-safety-and-education-raise-act/)
 - [Article 45 — Safe For Kids Act](article-45-safe-for-kids-act/)
 - [Article 45-A — Warning Labels For Addictive Feature Platforms](article-45a-warning-labels-for-addictive-feature-platforms/)
+- [Article 45-B — Safe By Design Act](article-45b-safe-by-design-act/)
 - [Article 46 — Laws Repealed; When to Take Effect](article-46-laws-repealed-when-to-take-effect/)
 - [Article 47 — Artificial Intelligence Companion Models](article-47-artificial-intelligence-companion-models/)

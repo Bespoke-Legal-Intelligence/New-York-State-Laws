@@ -4,7 +4,7 @@
 [Workers' Compensation Law](../README.md) › [Article 9 — Disability Benefits](README.md)
 
 ```text
-  § 232. Fees for testimony of physicians, podiatrists, chiropractors,
+  * § 232. Fees for testimony of physicians, podiatrists, chiropractors,
 dentists, psychologists and health care providers. Whenever his or her
 attendance at a hearing, deposition or arbitration before the board or
 the chair's designee, pursuant to section two hundred twenty-one of this
@@ -19,4 +19,15 @@ disqualified from testifying under the provisions of section thirteen-l,
 and except such psychologists as are disqualified from testifying under
 the provisions of section thirteen-m, or health care provider shall be
 entitled to receive a fee in accordance with regulations of the chair.
+  * NB Effective until January 1, 2028
+  * § 232. Fees for testimony of physicians, podiatrists, chiropractors,
+dentists, psychologists and health care providers. Whenever their
+attendance at a hearing, deposition or arbitration before the board or
+the chair's designee, pursuant to section two hundred twenty-one of this
+article, is required, the attending physician or attending podiatrist or
+attending chiropractor or attending dentist or attending psychologist or
+attending certified nurse midwife of the disabled employee, or health
+care provider shall be entitled to receive a fee in accordance with
+regulations of the chair.
+  * NB Effective January 1, 2028
 ```

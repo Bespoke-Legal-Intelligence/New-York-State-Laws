@@ -48,6 +48,7 @@
 - [§ 2338 Appeal from rate service organization action](2338-appeal-from-rate-service-organization-action.md)
 - [§ 2339 Charging or receiving of rates; deviations](2339-charging-or-receiving-of-rates-deviations.md)
 - [§ 2340 Credit property insurance](2340-credit-property-insurance.md)
+- [§ 2341 Prohibition against the use of employment, education, homeownership, and zip code for private passenger motor vehicle insurance rates](2341-prohibition-against-the-use-of-employment-education-homeownership-and-zip-code.md)
 - [§ 2342 Expiration of certain provisions](2342-expiration-of-certain-provisions.md)
 - [§ 2343 Medical malpractice insurance rates; special additional provisions regarding such rates](2343-medical-malpractice-insurance-rates-special-additional-provisions-regarding-such.md)
 - [§ 2344 Flexible rate limitations in problem markets](2344-flexible-rate-limitations-in-problem-markets.md)
@@ -61,6 +62,7 @@
 - [§ 2351 Homeowners' insurance policies](2351-homeowners-insurance-policies.md)
 - [§ 2352 Multiple rating programs](2352-multiple-rating-programs.md)
 - [§ 2353 For-hire motor vehicle safety program; reduction in rates of certain commercial risk insurance premiums for motor vehicles](2353-for-hire-motor-vehicle-safety-program-reduction-in-rates-of-certain-commercial.md)
+- [§ 2356 Premium change explanations](2356-premium-change-explanations.md)
 
 <details>
 <summary>Official heading of Article 23, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -132,6 +134,9 @@ Section 2301.   Purpose.
         2338.   Appeal from rate service organization action.
         2339.   Charging or receiving of rates; deviations.
         2340.   Credit property insurance.
+        2341.   Prohibition against the use of employment, education,
+                  homeownership, and zip code for private passenger
+                  motor vehicle insurance rates.
         2342.   Expiration of certain provisions.
         2343.   Medical malpractice insurance rates; special additional
                   provisions regarding such rates.
@@ -152,6 +157,7 @@ Section 2301.   Purpose.
         2353.   For-hire motor vehicle safety program; reduction in
                   rates of certain commercial risk insurance premiums
                   for motor vehicles.
+        2356.   Premium change explanations.
 ```
 
 </details>

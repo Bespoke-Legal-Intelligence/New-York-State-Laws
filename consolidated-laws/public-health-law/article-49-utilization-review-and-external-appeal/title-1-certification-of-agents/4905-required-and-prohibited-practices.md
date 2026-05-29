@@ -32,9 +32,23 @@ review agent shall not, pursuant to retrospective review, revise or
 modify the specific standards, criteria or procedures used for the
 utilization review for procedures, treatment and services delivered to
 the enrollee during the same course of treatment.
-  6. Utilization review shall not be conducted more frequently than is
+  * 6. Utilization review shall not be conducted more frequently than is
 reasonably required to assess whether the health care services under
 review are medically necessary.
+  * NB Effective until January 1, 2027
+  * 6. Utilization review shall not be conducted more frequently than is
+reasonably required to assess whether the health care services under
+review are medically necessary provided, however, that utilization
+review shall not be conducted more than once per year for an outpatient
+course of treatment for a chronic health condition starting from the
+date of a pre-authorization approval for the course of treatment unless
+the enrollee's attending provider recommends a change to the course of
+treatment, then utilization review may be conducted for the new course
+of treatment. Any new treatment, testing or procedures related to the
+specific medical problem, condition, or illness being managed but not
+already included in the approved course of treatment may be subject to a
+separate pre-authorization.
+  * NB Effective January 1, 2027
   7. When making prospective, concurrent and retrospective
 determinations, utilization review agents shall collect only such
 information as is necessary to make such determination and shall not

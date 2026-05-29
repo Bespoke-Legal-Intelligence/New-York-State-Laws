@@ -108,5 +108,5 @@ twelve-month certifications.
   (c) A practitioner may make a certification under this subdivision
 regardless of whether he or she has previously received a waiver under
 paragraph (c) of subdivision three of this section.
-  * NB Repealed June 1, 2026
+  * NB Repealed June 1, 2029
 ```

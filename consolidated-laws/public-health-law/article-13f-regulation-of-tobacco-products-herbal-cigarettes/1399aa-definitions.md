@@ -5,15 +5,7 @@
 
 ```text
   § 1399-aa. Definitions. As used in this article:
-  * 1. "Enforcement officer" means the enforcement officer designated
-pursuant to article thirteen-E of this chapter to enforce such article
-and hold hearings pursuant thereto; provided that in a city with a
-population of more than one million it shall also mean an officer or
-employee or any agency of such city that is authorized to enforce any
-local law of such city related to the regulation of the sale of tobacco
-products to minors.
-  * NB Effective until May 21, 2026
-  * 1. "Enforcement officer" means the enforcement officer designated
+  1. "Enforcement officer" means the enforcement officer designated
 pursuant to article thirteen-E of this chapter to enforce such article
 and hold hearings pursuant thereto; provided that in a city with a
 population of more than one million it shall also mean an officer or
@@ -22,7 +14,6 @@ local law of such city related to the regulation of the sale of tobacco
 products to minors, or for the purposes of section thirteen hundred
 ninety-nine-ee of this article, the office of administrative trials and
 hearings of such city.
-  * NB Effective May 21, 2026
   2. "Food service establishment" means any area, including outdoor
 seating areas, in which the business is the sale of food for on-premises
 consumption.

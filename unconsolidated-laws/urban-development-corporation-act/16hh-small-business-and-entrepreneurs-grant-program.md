@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Urban Development Corporation Act § 16-HH", "kind": "section", "law_id": "UDA", "location_id": "16-HH", "path": "SECTION 16-HH", "repealed": false, "repealed_date": null, "source": "nys-laws:UDA/16-HH.md", "title": "Small business and entrepreneurs grant program"} -->
+﻿<!-- nyslaw {"citation": "Urban Development Corporation Act § 16-HH", "kind": "section", "law_id": "UDA", "location_id": "16-HH", "path": "SECTION 16-HH", "repealed": true, "repealed_date": "2026-05-29", "source": "nys-laws:UDA/16-HH.md", "title": "Small business and entrepreneurs grant program"} -->
 # Urban Development Corporation Act § 16-HH — Small business and entrepreneurs grant program
 
 [Urban Development Corporation Act](README.md)
+
+**Repealed** (29 May 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 16-hh. Small business and entrepreneurs grant program. 1. The
