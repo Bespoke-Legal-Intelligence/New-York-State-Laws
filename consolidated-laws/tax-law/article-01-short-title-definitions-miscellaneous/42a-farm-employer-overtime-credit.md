@@ -13,15 +13,8 @@ of this chapter, pursuant to the provisions referenced in subdivision
   (b) For purposes of this section, the term "eligible farm employer"
 means a taxpayer who received an overtime expense certificate pursuant
 to section three hundred thirty-five of the agriculture and markets law
-and whose federal gross income from farming as defined in subsection (n)
-of section six hundred six of this chapter for the taxable year is at
-least two-thirds of excess federal gross income. Excess federal gross
-income means the amount of federal gross income from all sources for the
-taxable year in excess of thirty thousand dollars. For purposes of this
-section, payments from the state's farmland protection program,
-administered by the department of agriculture and markets, shall be
-included as federal gross income from farming for otherwise eligible
-farmers.
+and who is an eligible farmer, as defined in subsection (n) of section
+six hundred six of this chapter for the taxable year.
   (c) Special rules. If more than fifty percent of such eligible farm
 employer's federal gross income from farming is from the sale of wine
 from a licensed farm winery as provided for in article six of the

@@ -20,7 +20,7 @@
 - [§ 9-328 Priority of Security Interests in Investment Property](9-328-priority-of-security-interests-in-investment.md)
 - [§ 9-329 Priority of Security Interests in Letter-of-credit Right](9-329-priority-of-security-interests-in-letter.md)
 - [§ 9-330 Priority of Purchaser of Chattel Paper or Instrument](9-330-priority-of-purchaser-of-chattel-paper.md)
-- [§ 9-331 Priority of Rights of Purchasers of Instruments, Documents, and Securities under Other Articles; Priority of Interests in Financial Asset...](9-331-priority-of-rights-of-purchasers.md)
+- [§ 9-331 Priority of Rights of Purchasers of Controllable Accounts, Controllable Electronic Records, Controllable Payment Intangibles, Documents, ...](9-331-priority-of-rights-of-purchasers.md)
 - [§ 9-332 Transfer of Money; Transfer of Funds from Deposit Account](9-332-transfer-of-money-transfer-of-funds.md)
 - [§ 9-333 Priority of Certain Liens Arising by Operation of Law](9-333-priority-of-certain-liens-arising-by-operation.md)
 - [§ 9-334 Priority of Security Interests in Fixtures and Crops](9-334-priority-of-security-interests-in-fixtures.md)

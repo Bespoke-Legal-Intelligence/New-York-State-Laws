@@ -4,7 +4,7 @@
 [Uniform Commercial Code](../../README.md) › [Article 12-A — Transitional Provisions For Uniform Commercial Code Amendments](../README.md) › [Part 1 — General Provisions and Definitions](README.md)
 
 ```text
-* Section 12-A-102. Definitions.
+Section 12-A-102. Definitions.
   (a) Article A Definitions. In this article:
   (1) "Adjustment date" means the date that is one year after the
 effective date.
@@ -28,5 +28,4 @@ articles of this code apply to this article.
   (c) Article 1 definitions and principles. Article 1 contains general
 definitions and principles of construction and interpretation applicable
 throughout this article.
-  * NB Effective June 3, 2026
 ```

@@ -4,8 +4,7 @@
 [Uniform Commercial Code](../../README.md) › [Article 12-A — Transitional Provisions For Uniform Commercial Code Amendments](../README.md) › [Part 3 — Transitional Provisions For Articles 9 and 12](README.md)
 
 ```text
-* Section 12-A-304. Effectiveness of Actions Taken Before Effective
-Date.
+Section 12-A-304. Effectiveness of Actions Taken Before Effective Date.
   (a) Pre-effective-date action; attachment and perfection before
 adjustment date. If action, other than the filing of a financing
 statement, is taken before the effective date of the UCC Revision Act
@@ -26,5 +25,4 @@ before the effective date of the UCC Revision Act is sufficient for the
 enforceability of a security interest on the effective date of the UCC
 Revision Act if the action would satisfy the requirements for
 enforceability under the revised UCC.
-  * NB Effective June 3, 2026
 ```

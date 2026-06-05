@@ -1,4 +1,4 @@
-﻿<!-- nyslaw {"kind": "chapter", "law_id": "CNS", "location_id": "AS", "source": "nys-laws:CNS/AS.md", "title": "Constitution"} -->
+﻿<!-- nyslaw {"kind": "chapter", "law_id": "CNS", "location_id": "ASCHED", "source": "nys-laws:CNS/ASCHED.md", "title": "Constitution"} -->
 # New York State Constitution — chapter text as published
 
 [New York State Constitution](README.md)

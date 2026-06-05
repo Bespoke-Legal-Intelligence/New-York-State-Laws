@@ -3046,29 +3046,29 @@ expenses per discharge. Adjustments shall be made to capital related
 costs and statistics to reflect capital related inpatient expenses
 reimbursed on a per diem basis in accordance with paragraphs (a), (d),
 (e), (g) and (i) of subdivision four of this section.
-  (c) In order to reconcile capital related inpatient expenses included
-in rates of payment based on a budget to actual expenses and statistics
-for the rate period for a general hospital, rates of payment for a
-general hospital shall be adjusted to reflect the dollar value of the
-difference between capital related inpatient expenses included in the
-computation of rates of payment for a prior rate period based on a
+  (c) (i) In order to reconcile capital related inpatient expenses
+included in rates of payment based on a budget to actual expenses and
+statistics for the rate period for a general hospital, rates of payment
+for a general hospital shall be adjusted to reflect the dollar value of
+the difference between capital related inpatient expenses included in
+the computation of rates of payment for a prior rate period based on a
 budget and actual capital related inpatient expenses for such prior rate
 period, each as determined in accordance with paragraph (a) of this
 subdivision, adjusted to reflect increases or decreases in volume of
 service in such prior rate period compared to statistics applied in
 determining the capital related inpatient expenses component of rates of
 payment based on a budget for such prior rate period.
-  For rates effective April first, two thousand twenty through March
-thirty-first, two thousand twenty-one, the budgeted capital-related
-expenses add-on as described in paragraph (a) of this subdivision, based
-on a budget submitted in accordance to paragraph (a) of this
-subdivision, shall be reduced by five percent relative to the rate in
-effect on such date; and the actual capital expenses add-on as described
-in paragraph (a) of this subdivision, based on actual expenses and
-statistics through appropriate audit procedures in accordance with
+  (ii) For rates effective April first, two thousand twenty through
+March thirty-first, two thousand twenty-one, the budgeted
+capital-related expenses add-on as described in paragraph (a) of this
+subdivision, based on a budget submitted in accordance to paragraph (a)
+of this subdivision, shall be reduced by five percent relative to the
+rate in effect on such date; and the actual capital expenses add-on as
+described in paragraph (a) of this subdivision, based on actual expenses
+and statistics through appropriate audit procedures in accordance with
 paragraph (a) of this subdivision shall be reduced by five percent
 relative to the rate in effect on such date.
-  For rates effective April first, two thousand twenty-one through
+  (iii) For rates effective April first, two thousand twenty-one through
 September thirtieth, two thousand twenty-four, the budgeted
 capital-related expenses add-on as described in paragraph (a) of this
 subdivision, based on a budget submitted in accordance to paragraph (a)
@@ -3078,26 +3078,44 @@ described in paragraph (a) of this subdivision, based on actual expenses
 and statistics through appropriate audit procedures in accordance with
 paragraph (a) of this subdivision shall be reduced by ten percent
 relative to the rate in effect on such date.
-  For rates effective on and after October first, two thousand
-twenty-four, the budgeted capital-related expenses add-on as described
-in paragraph (a) of this subdivision, based on a budget submitted in
+  (iv) For rates effective October first, two thousand twenty-four
+through March thirty-first, two thousand twenty-six, the budgeted
+capital-related expenses add-on as described in paragraph (a) of this
+subdivision, based on a budget submitted in accordance with paragraph
+(a) of this subdivision, shall be reduced by twenty percent relative to
+the rate in effect on such date; and the actual capital expenses add-on
+as described in paragraph (a) of this subdivision shall be reduced by
+twenty percent relative to the rate in effect on such date.
+  (v) For rates effective on and after April first, two thousand
+twenty-six, the budgeted capital-related expenses add-on as described in
+paragraph (a) of this subdivision, based on a budget submitted in
 accordance with paragraph (a) of this subdivision, shall be reduced by
-twenty percent relative to the rate in effect on such date; and the
-actual capital expenses add-on as described in paragraph (a) of this
-subdivision shall be reduced by twenty percent relative to the rate in
-effect on such date.
-  For any rate year, all reconciliation add-on amounts calculated for
-the period of April first, two thousand twenty through September
+ten percent relative to the rate in effect on such date; and the actual
+capital expenses add-on as described in paragraph (a) of this
+subdivision shall be reduced by ten percent relative to the rate in
+effect on such date. Such rate adjustments shall be subject to federal
+financial participation.
+  (vi) For any rate year, all reconciliation add-on amounts calculated
+for the period of April first, two thousand twenty through September
 thirtieth, two thousand twenty-four shall be reduced by ten percent, and
 all reconciliation recoupment amounts calculated for the period of April
 first, two thousand twenty through September thirtieth, two thousand
 twenty-four shall increase by ten percent.
-  For any rate year, all reconciliation add-on amounts calculated on and
-after October first, two thousand twenty-four shall be reduced by twenty
-percent, and all reconciliation recoupment amounts calculated on or
-after October first, two thousand twenty-four shall increase by twenty
-percent.
-  Notwithstanding any inconsistent provision of subparagraph (i) of
+  (vii) For any rate year, all reconciliation add-on amounts calculated
+for the period October first, two thousand twenty-four through March
+thirty-first, two thousand twenty-six shall be reduced by twenty
+percent, and all reconciliation recoupment amounts calculated for the
+period October first, two thousand twenty-four through March
+thirty-first, two thousand twenty-six, shall increase by twenty percent.
+Such rate adjustments shall be subject to federal financial
+participation.
+  (viii) For any rate year, all reconciliation add-on amounts calculated
+on and after April first, two thousand twenty-six shall be reduced by
+ten percent, and all reconciliation recoupment amounts calculated on or
+after April first, two thousand twenty-six shall increase by ten
+percent. Such rate adjustments shall be subject to federal financial
+participation.
+  (ix) Notwithstanding any inconsistent provision of subparagraph (i) of
 paragraph (e) of subdivision nine of this section, capital related
 inpatient expenses of a general hospital included in the computation of
 rates of payment based on a budget shall not be included in the

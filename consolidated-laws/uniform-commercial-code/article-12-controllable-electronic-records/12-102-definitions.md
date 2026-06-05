@@ -4,7 +4,7 @@
 [Uniform Commercial Code](../README.md) › [Article 12 — Controllable Electronic Records](README.md)
 
 ```text
-* Section 12--102. Definitions.
+Section 12--102. Definitions.
   (a) In this article:
   (1) "Controllable electronic record" means a record stored in an
 electronic medium that can be subjected to control under Section 12-105.
@@ -51,5 +51,4 @@ account", "electronic money", and "investment property" apply to this
 article.
   (2) Article 1 contains general definitions and principles of
 construction and interpretation applicable throughout this article.
-  * NB Effective June 3, 2026
 ```

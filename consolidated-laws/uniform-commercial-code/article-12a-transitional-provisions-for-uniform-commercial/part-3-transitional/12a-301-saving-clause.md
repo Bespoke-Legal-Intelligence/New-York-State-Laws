@@ -4,7 +4,7 @@
 [Uniform Commercial Code](../../README.md) › [Article 12-A — Transitional Provisions For Uniform Commercial Code Amendments](../README.md) › [Part 3 — Transitional Provisions For Articles 9 and 12](README.md)
 
 ```text
-* Section 12-A-301. Saving Clause.
+Section 12-A-301. Saving Clause.
   (a) Pre-effective-date transaction, lien, or interest. Except as
 provided in this part, Article 9 as amended by the UCC Revision Act and
 Article 12 apply to a transaction, lien, or other interest in property,
@@ -27,5 +27,4 @@ effect.
   (c) Pre-effective-date proceeding. The UCC Revision Act does not
 affect an action, case, or proceeding commenced before the effective
 date of the UCC Revision Act.
-  * NB Effective June 3, 2026
 ```

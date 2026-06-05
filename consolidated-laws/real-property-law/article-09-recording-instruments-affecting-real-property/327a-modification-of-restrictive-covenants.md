@@ -4,7 +4,7 @@
 [Real Property Law](../README.md) › [Article 9 — Recording Instruments Affecting Real Property](README.md)
 
 ```text
-  * § 327-a. Modification of restrictive covenants. 1. As used in this
+  § 327-a. Modification of restrictive covenants. 1. As used in this
 section, the following terms shall have the following meanings:
   (a) "Protected class" shall mean any class or category of persons
 protected from unlawful discriminatory practices under subdivision five
@@ -54,5 +54,4 @@ county recorder shall not incur any liability for recording such
 document.
   8. This section shall not apply to any lawful covenants, conditions,
 or restrictions under state or federal law.
-  * NB Effective June 3, 2026
 ```

@@ -76,8 +76,8 @@ registry at his or her option prior to prescribing or dispensing any
 controlled substance. The duty to consult the registry shall not apply
 to:
   (i) veterinarians;
-  (ii) a practitioner dispensing pursuant to subdivision three of
-section thirty-three hundred fifty-one of this article;
+  (ii) a practitioner dispensing pursuant to subdivision four of section
+thirty-three hundred fifty-one of this article;
   (iii) a practitioner administering a controlled substance;
   (iv) a practitioner prescribing or ordering a controlled substance for
 use on the premises of an institutional dispenser pursuant to section

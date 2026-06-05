@@ -68,28 +68,34 @@ penalty of not more than two hundred dollars for each ten unaffixed
 false, altered or counterfeit cigarette tax stamps, imprints or
 impressions, or fraction thereof, in the possession or under the control
 of any person. In addition, the commissioner may impose a penalty of not
-more than seventy-five dollars for each fifty cigars or one pound of
-tobacco, or fraction thereof, in excess of two hundred fifty cigars or
-five pounds of tobacco in the possession or under the control of any
-person and a penalty of not more than one hundred fifty dollars for each
-fifty cigars or pound of tobacco, or fraction thereof, in excess of five
-hundred cigars or ten pounds of tobacco in the possession or under the
-control of any person, with respect to which the tobacco products tax
-has not been paid or assumed by a distributor or tobacco products
+more than seventy-five dollars for each fifty cigars, one pound of
+tobacco, or fifteen units of alternative nicotine products, or fraction
+thereof, in excess of two hundred fifty cigars, five pounds of tobacco,
+or seventy-five units of alternative nicotine products, in the
+possession or under the control of any person and a penalty of not more
+than one hundred fifty dollars for each fifty cigars, pound of tobacco,
+or fifteen units of alternative nicotine products, or fraction thereof,
+in excess of five hundred cigars, ten pounds of tobacco, or one hundred
+fifty units of alternative nicotine products, in the possession or under
+the control of any person, with respect to which the tobacco products
+tax has not been paid or assumed by a distributor or tobacco products
 dealer; provided, however, that any such penalty imposed shall not
 exceed seven thousand five hundred dollars in the aggregate. The
 commissioner may impose a penalty of not more than seventy-five dollars
-for each fifty cigars or one pound of tobacco, or fraction thereof, in
-excess of fifty cigars or one pound of tobacco in the possession or
-under the control of any tobacco products dealer or distributor
-appointed by the commissioner, and a penalty of not more than one
-hundred fifty dollars for each fifty cigars or pound of tobacco, or
-fraction thereof, in excess of two hundred fifty cigars or five pounds
-of tobacco in the possession or under the control of any such dealer or
-distributor, with respect to which the tobacco products tax has not been
-paid or assumed by a distributor or a tobacco products dealer; provided,
-however, that any such penalty imposed shall not exceed fifteen thousand
-dollars in the aggregate.
+for each fifty cigars, one pound of tobacco, or fifteen units of
+alternative nicotine products, or fraction thereof, in excess of fifty
+cigars, one pound of tobacco, or fifteen units of alternative nicotine
+products, in the possession or under the control of any tobacco products
+dealer or distributor appointed by the commissioner, and a penalty of
+not more than one hundred fifty dollars for each fifty cigars, pound of
+tobacco, or fifteen units of alternative nicotine products, or fraction
+thereof, in excess of two hundred fifty cigars, five pounds of tobacco,
+or seventy-five units of alternative nicotine products, in the
+possession or under the control of any such dealer or distributor, with
+respect to which the tobacco products tax has not been paid or assumed
+by a distributor or a tobacco products dealer; provided, however, that
+any such penalty imposed shall not exceed fifteen thousand dollars in
+the aggregate.
   (ii) The penalties imposed by this subparagraph may be imposed by the
 commissioner in addition to any other penalty imposed by this article,
 but in lieu of the penalties imposed by subparagraph (i) of this
@@ -129,33 +135,38 @@ excess of one thousand unaffixed false, altered or counterfeit cigarette
 tax stamps, imprints or impressions, knowingly in the possession or
 knowingly under the control of any person.
   (B)(I) not less than twenty-five dollars but not more than one hundred
-dollars for each fifty cigars or one pound of tobacco, or fraction
-thereof, in excess of two hundred fifty cigars or five pounds of tobacco
-knowingly in the possession or knowingly under the control of any
-person, with respect to which the tobacco products tax has not been paid
-or assumed by a distributor or tobacco products dealer; and
+dollars for each fifty cigars, one pound of tobacco, or fifteen units of
+alternative nicotine products, or fraction thereof, in excess of two
+hundred fifty cigars, five pounds of tobacco, or seventy-five units of
+alternative nicotine products, knowingly in the possession or knowingly
+under the control of any person, with respect to which the tobacco
+products tax has not been paid or assumed by a distributor or tobacco
+products dealer; and
   (II) not less than fifty dollars but not more than two hundred dollars
-for each fifty cigars or pound of tobacco, or fraction thereof, in
-excess of five hundred cigars or ten pounds of tobacco knowingly in the
-possession or knowingly under the control of any person, with respect to
-which the tobacco products tax has not been paid or assumed by a
-distributor or tobacco products dealer; provided, however, that any such
-penalty imposed under this clause shall not exceed ten thousand dollars
-in the aggregate.
+for each fifty cigars, pound of tobacco, or fifteen units of alternative
+nicotine products, or fraction thereof, in excess of five hundred
+cigars, ten pounds of tobacco, or one hundred fifty units of alternative
+nicotine products, knowingly in the possession or knowingly under the
+control of any person, with respect to which the tobacco products tax
+has not been paid or assumed by a distributor or tobacco products
+dealer; provided, however, that any such penalty imposed under this
+clause shall not exceed ten thousand dollars in the aggregate.
   (C)(I) not less than twenty-five dollars but not more than one hundred
-dollars for each fifty cigars or one pound of tobacco, or fraction
-thereof, in excess of fifty cigars or one pound of tobacco knowingly in
-the possession or knowingly under the control of any person, with
-respect to which the tobacco products tax has not been paid or assumed
-by a distributor or tobacco products dealer; and
+dollars for each fifty cigars, one pound of tobacco, or fifteen units of
+alternative nicotine products, or fraction thereof, in excess of fifty
+cigars, one pound of tobacco, or fifteen units of alternative nicotine
+products, knowingly in the possession or knowingly under the control of
+any person, with respect to which the tobacco products tax has not been
+paid or assumed by a distributor or tobacco products dealer; and
   (II) not less than fifty dollars but not more than two hundred dollars
-for each fifty cigars or pound of tobacco, or fraction thereof, in
-excess of two hundred fifty cigars or five pounds of tobacco knowingly
-in the possession or knowingly under the control of any person, with
-respect to which the tobacco products tax has not been paid or assumed
-by a distributor or a tobacco products dealer; provided, however, that
-any such penalty imposed under this clause shall not exceed twenty
-thousand dollars in the aggregate.
+for each fifty cigars, pound of tobacco, or fifteen units of alternative
+nicotine products, or fraction thereof, in excess of two hundred fifty
+cigars, five pounds of tobacco, or seventy-five units of alternative
+nicotine products, knowingly in the possession or knowingly under the
+control of any person, with respect to which the tobacco products tax
+has not been paid or assumed by a distributor or a tobacco products
+dealer; provided, however, that any such penalty imposed under this
+clause shall not exceed twenty thousand dollars in the aggregate.
   (iii) Any penalty provided for in this paragraph shall be determined
 as provided in section four hundred seventy-eight of this chapter, and
 may be reviewed only pursuant to such section. Such penalty shall be
@@ -183,7 +194,8 @@ manufacturer or distributor under this chapter.
 cigarettes in unstamped or unlawfully stamped packages or more than two
 hundred fifty cigars, or more than five pounds of tobacco other than
 roll-your-own tobacco, or more than thirty-six ounces of roll-your-own
-tobacco by any person other than an agent or distributor, as the case
+tobacco, or more than seventy-five units of alternative nicotine
+products, by any person other than an agent or distributor, as the case
 may be, at any one time shall be presumptive evidence that such
 cigarettes or tobacco products are subject to tax as provided by this
 article.

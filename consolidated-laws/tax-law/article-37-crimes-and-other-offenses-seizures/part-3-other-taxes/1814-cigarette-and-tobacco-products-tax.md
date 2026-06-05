@@ -7,10 +7,11 @@
   § 1814. Cigarette and tobacco products tax.--(a) Any person who
 willfully attempts in any manner to evade or defeat the taxes imposed by
 article twenty of this chapter or payment thereof on (i) ten thousand
-cigarettes or more (ii) twenty-two thousand cigars or more, or (iii)
-four hundred forty pounds of tobacco or more or has previously been
-convicted two or more times of a violation of paragraph one of this
-subdivision shall be guilty of a class E felony.
+cigarettes or more, (ii) twenty-two thousand cigars or more, (iii) four
+hundred forty pounds of tobacco or more, or (iv) six thousand six
+hundred units of alternative nicotine products or more, or has
+previously been convicted two or more times of a violation of paragraph
+one of this subdivision shall be guilty of a class E felony.
   (b) Any person, other than an agent licensed by the commissioner, who
 possesses or transports for the purpose of sale any unstamped or
 unlawfully stamped packages of cigarettes subject to tax imposed by
@@ -87,46 +88,49 @@ imprint made by a metering machine, the design of which has been
 approved by such commission.
   (h) (1) Any dealer, other than a distributor appointed by the
 commissioner of taxation and finance under article twenty of this
-chapter, who shall knowingly transport or have in his custody,
-possession or under his control more than ten pounds of tobacco or more
-than five hundred cigars upon which the taxes imposed by article twenty
-of this chapter have not been assumed or paid by a distributor appointed
-by the commissioner of taxation and finance under article twenty of this
-chapter, or other person treated as a distributor pursuant to section
-four hundred seventy-one-d of this chapter, shall be guilty of a
-misdemeanor punishable by a fine of not more than five thousand dollars
-or by a term of imprisonment not to exceed thirty days.
+chapter, who shall knowingly transport or have in their custody,
+possession or under their control more than ten pounds of tobacco, more
+than five hundred cigars, or more than one hundred fifty units of
+alternative nicotine products, upon which the taxes imposed by article
+twenty of this chapter have not been assumed or paid by a distributor
+appointed by the commissioner of taxation and finance under article
+twenty of this chapter, or other person treated as a distributor
+pursuant to section four hundred seventy-one-d of this chapter, shall be
+guilty of a misdemeanor punishable by a fine of not more than five
+thousand dollars or by a term of imprisonment not to exceed thirty days.
   (2) Any person, other than a dealer or a distributor appointed by the
 commissioner under article twenty of this chapter, who shall knowingly
-transport or have in his custody, possession or under his control more
-than fifteen pounds of tobacco or more than seven hundred fifty cigars
-upon which the taxes imposed by article twenty of this chapter have not
-been assumed or paid by a distributor appointed by the commissioner
-under article twenty of this chapter, or other person treated as a
-distributor pursuant to section four hundred seventy-one-d of this
-chapter shall be guilty of a misdemeanor punishable by a fine of not
-more than five thousand dollars or by a term of imprisonment not to
+transport or have in their custody, possession or under their control
+more than fifteen pounds of tobacco, more than seven hundred fifty
+cigars, or more than two hundred twenty-five units of alternative
+nicotine products, upon which the taxes imposed by article twenty of
+this chapter have not been assumed or paid by a distributor appointed by
+the commissioner under article twenty of this chapter, or other person
+treated as a distributor pursuant to section four hundred seventy-one-d
+of this chapter shall be guilty of a misdemeanor punishable by a fine of
+not more than five thousand dollars or by a term of imprisonment not to
 exceed thirty days.
   (3) Any person, other than a distributor appointed by the commissioner
 under article twenty of this chapter, who shall knowingly transport or
-have in his custody, possession or under his control twenty-five hundred
-or more cigars or fifty or more pounds of tobacco upon which the taxes
-imposed by article twenty of this chapter have not been assumed or paid
-by a distributor appointed by the commissioner under article twenty of
-this chapter, or other person treated as a distributor pursuant to
-section four hundred seventy-one-d of this chapter shall be guilty of a
-misdemeanor. Provided further, that any person who has twice been
-convicted under this subdivision shall be guilty of a class E felony for
-any subsequent violation of this section, regardless of the amount of
-tobacco products involved in such violation.
+have in their custody, possession or under their control twenty-five
+hundred or more cigars, fifty or more pounds of tobacco, or seven
+hundred fifty units or more of alternative nicotine products, upon which
+the taxes imposed by article twenty of this chapter have not been
+assumed or paid by a distributor appointed by the commissioner under
+article twenty of this chapter, or other person treated as a distributor
+pursuant to section four hundred seventy-one-d of this chapter shall be
+guilty of a misdemeanor. Provided further, that any person who has twice
+been convicted under this subdivision shall be guilty of a class E
+felony for any subsequent violation of this section, regardless of the
+amount of tobacco products involved in such violation.
   (4) For purposes of this subdivision, such person shall knowingly
-transport or have in his custody, possession or under his control
-tobacco or cigars on which such taxes have not been assumed or paid by a
-distributor appointed by the commissioner where such person has
-knowledge of the requirement of the tax on tobacco products and, where
-to his knowledge, such taxes have not been assumed or paid on such
-tobacco products by a distributor appointed by the commissioner of
-taxation and finance.
+transport or have in their custody, possession or under their control
+tobacco, cigars, or alternative nicotine products, on which such taxes
+have not been assumed or paid by a distributor appointed by the
+commissioner where such person has knowledge of the requirement of the
+tax on tobacco products and, where to their knowledge, such taxes have
+not been assumed or paid on such tobacco products by a distributor
+appointed by the commissioner of taxation and finance.
   (i) Any person who falsely or fraudulently makes, alters or
 counterfeits a registration certificate or sticker required under the
 provisions of section four hundred eighty-a of this chapter, or causes

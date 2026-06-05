@@ -4,7 +4,7 @@
 [Uniform Commercial Code](../../README.md) › [Article 12-A — Transitional Provisions For Uniform Commercial Code Amendments](../README.md) › [Part 2 — General Transitional Provision](README.md)
 
 ```text
-* Section 12-A-201. Saving Clause.
+Section 12-A-201. Saving Clause.
   Except as provided in Part 3, a transaction validly entered into
 before the effective date of this article and the rights, duties, and
 interests flowing from the transaction remain valid thereafter and may
@@ -12,5 +12,4 @@ be terminated, completed, consummated, or enforced as required or
 permitted by law other than the Uniform Commercial Code or, if
 applicable, the Uniform Commercial Code as though the UCC Revision Act
 had not taken effect.
-  * NB Effective June 3, 2026
 ```

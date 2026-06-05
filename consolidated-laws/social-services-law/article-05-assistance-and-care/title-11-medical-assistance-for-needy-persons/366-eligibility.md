@@ -123,24 +123,19 @@ under twenty-one years of age and living with such child, unless such
 child is receiving benefits under this title or under title 1-A of
 article twenty-five of the public health law, or otherwise is enrolled
 in minimum essential coverage.
-  (2) A pregnant woman or an infant younger than one year of age is
-eligible for standard coverage if his or her MAGI household income does
-not exceed the MAGI-equivalent of two hundred percent of the federal
-poverty line for the applicable family size, which shall be calculated
-in accordance with guidance issued by the secretary of the United States
-department of health and human services, or an infant younger than one
-year of age who meets the presumptive eligibility requirements of
-subdivision four of section three hundred sixty-four-i of this title.
+  (2) A pregnant person or an infant younger than one year of age is
+eligible for standard coverage if their MAGI household income does not
+exceed the MAGI-equivalent of two hundred percent of the federal poverty
+line for the applicable family size, which shall be calculated in
+accordance with guidance issued by the secretary of the United States
+department of health and human services.
   (3) A child who is at least one year of age but younger than nineteen
-years of age is eligible for standard coverage if his or her MAGI
+years of age is eligible for standard coverage if such child's MAGI
 household income does not exceed the MAGI-equivalent of one hundred
 thirty-three percent of the federal poverty line for the applicable
 family size, which shall be calculated in accordance with guidance
 issued by the Secretary of the United States department of health and
-human services, or a child who is at least one year of age but younger
-than nineteen years of age who meets the presumptive eligibility
-requirements of subdivision four of section three hundred sixty-four-i
-of this title.
+human services.
   (4) An individual who is a pregnant woman or is a member of a family
 that contains a dependent child living with a parent or other caretaker
 relative is eligible for standard coverage if their MAGI household
@@ -269,11 +264,11 @@ least forty hours per month; or
   (7) An individual receiving treatment for breast or cervical cancer
 who meets the eligibility requirements of paragraph (d) of subdivision
 four of this section or the presumptive eligibility requirements of
-subdivision five of section three hundred sixty-four-i of this title.
+subdivision four of section three hundred sixty-four-i of this title.
   (8) An individual receiving treatment for colon or prostate cancer who
 meets the eligibility requirements of paragraph (e) of subdivision four
 of this section or the presumptive eligibility requirements of
-subdivision five of section three hundred sixty-four-i of this title.
+subdivision four of section three hundred sixty-four-i of this title.
   (9) An individual who:
   (i) is under twenty-six years of age; and
   (ii) was in foster care under the responsibility of the state on his
@@ -403,7 +398,7 @@ is pending, in accordance with applicable provisions of this title.
 are otherwise eligible for medical assistance under this section, but
 for their immigration status, are eligible for medical assistance
 according to the following:
-  (b) individuals eligible for medical assistance pursuant to
+  * (b) individuals eligible for medical assistance pursuant to
 subparagraph (a) of this paragraph shall participate in and receive
 covered benefits available through a managed care provider under section
 three hundred sixty-four-j of this article that is certified pursuant to
@@ -413,6 +408,17 @@ managed care providers as of January first, two thousand twenty-three
 are transitioned to fee-for-service coverage, then such individuals
 shall continue to be entitled to these benefits in the fee-for-service
 program, rather than through a managed care provider.
+  * NB Effective until January 1, 2027
+  * (b) individuals eligible for medical assistance pursuant to clause
+(a) of this subparagraph shall receive the equivalent of the covered
+benefits available through a managed care provider under section three
+hundred sixty-four-j of this article that is certified pursuant to
+section forty-four hundred three of the public health law through the
+fee-for-service program, including any covered benefits available
+through such managed care providers as of January first, two thousand
+twenty-three that were subsequently transitioned to fee-for-service
+coverage.
+  * NB Effective January 1, 2027
   1-a. Notwithstanding any other provision of law, in the event that a
 person who is an incarcerated individual of a state or local
 correctional facility, as defined in section two of the correction law,
@@ -950,12 +956,12 @@ assistance on the date of such birth and to remain eligible for such
 assistance for a period of one year, so long as the child is a member of
 the woman's household and the woman remains eligible for such assistance
 or would remain eligible for such assistance if she were pregnant.
-  (3) (A) A child between the ages of six and nineteen who is determined
-eligible for medical assistance under the provisions of this section,
-shall, consistent with applicable federal requirements, remain eligible
-for such assistance until the last day of the month which is twelve
-months following the determination or renewal of eligibility for such
-assistance.
+  * (3) (A) A child between the ages of six and nineteen who is
+determined eligible for medical assistance under the provisions of this
+section, shall, consistent with applicable federal requirements, remain
+eligible for such assistance until the last day of the month which is
+twelve months following the determination or renewal of eligibility for
+such assistance.
   (B) A child under the age of six who is determined eligible for
 medical assistance under the provisions of this section, shall,
 consistent with applicable federal requirements, remain continuously
@@ -964,6 +970,16 @@ eligible for medical assistance coverage until the later of:
 renewal of eligibility for such assistance; or
   (ii) the last day of the month in which the child reaches the age of
 six.
+  * NB Effective until July 1, 2026
+  * (3) A child under the age of nineteen who is determined eligible for
+medical assistance under the provisions of this section, shall,
+consistent with applicable federal requirements, remain eligible for
+such assistance until the earlier of:
+  (A) the last day of the month which is twelve months following the
+determination or renewal of eligibility for such assistance; or
+  (B) the last day of the month in which the child reaches the age of
+nineteen.
+  * NB Effective July 1, 2026
   (4) An infant eligible under subparagraph two or four of paragraph (b)
 of subdivision one of this section who is receiving medically necessary
 in-patient services for which medical assistance is provided on the date
@@ -1048,7 +1064,7 @@ payment of the cost of medical care, services and supplies available
 under this paragraph.
   (iii) An individual shall be eligible for presumptive eligibility for
 medical assistance under this paragraph in accordance with subdivision
-five of section three hundred sixty-four-i of this title.
+four of section three hundred sixty-four-i of this title.
   (5) The commissioner of health shall, consistent with this title, make
 any necessary amendments to the state plan for medical assistance
 submitted pursuant to section three hundred sixty-three-a of this title,
@@ -1070,7 +1086,7 @@ federal income official poverty line as defined and annually revised by
 the federal office of management and budget.
   (3) An individual shall be eligible for presumptive eligibility for
 medical assistance under this paragraph in accordance with subdivision
-five of section three hundred sixty-four-i of this title.
+four of section three hundred sixty-four-i of this title.
   (4) Medical assistance is available under this paragraph to persons
 who are under sixty-five years of age, and are not otherwise covered
 under creditable coverage as defined in the federal Public Health
@@ -1339,7 +1355,7 @@ of the federal social security act.
   (v) "resources" has the same meaning given to such term in section
 1613 of the federal social security act, without regard to the exclusion
 provided for in subsection (a)(1) of such section.
-  (vi) "look-back period" means the sixty-month period immediately
+  * (vi) "look-back period" means the sixty-month period immediately
 preceding the date that an institutionalized individual is both
 institutionalized and has applied for medical assistance, or in the case
 of a non-institutionalized individual, subject to federal approval, the
@@ -1349,6 +1365,18 @@ of long term care services. Nothing herein precludes a review of
 eligibility for retroactive authorization for medical expenses incurred
 during the three months prior to the month of application for medical
 assistance.
+  * NB Effective until January 1, 2027
+  * (vi) "look-back period" means the sixty-month period immediately
+preceding the date that an institutionalized individual is both
+institutionalized and has applied for medical assistance, or in the case
+of a non-institutionalized individual, subject to federal approval, the
+thirty-month period immediately preceding the date that such
+non-institutionalized individual applies for medical assistance coverage
+of long term care services. Nothing herein precludes a review of
+eligibility for retroactive authorization for medical expenses incurred
+during the maximum allowable retroactive eligibility period under
+federal law.
+  * NB Effective January 1, 2027
   (vii) "institutionalized individual" means any individual who is an
 in-patient in a nursing facility, including an intermediate care
 facility for individuals with developmental disabilities, or who is an

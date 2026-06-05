@@ -13,6 +13,7 @@
 - [§ 606 Hold harmless for insureds from bills for emergency services and surprise bills](606-hold-harmless-for-insureds-from-bills-for-emergency-services-and-surprise.md)
 - [§ 607 Dispute resolution for surprise bills](607-dispute-resolution-for-surprise-bills.md)
 - [§ 608 Payment for independent dispute resolution entity](608-payment-for-independent-dispute-resolution-entity.md)
+- [§ 609 Reporting on new criteria for determining a reasonable fee](609-reporting-on-new-criteria-for-determining-a-reasonable-fee.md)
 
 <details>
 <summary>Official heading of Article 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -29,6 +30,7 @@ Section 601. Dispute resolution process established.
                services and surprise bills.
         607. Dispute resolution for surprise bills.
         608. Payment for independent dispute resolution entity.
+        609. Reporting on new criteria for determining a reasonable fee.
 ```
 
 </details>

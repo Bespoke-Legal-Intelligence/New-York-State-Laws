@@ -23,8 +23,8 @@ national accrediting body appropriate to the profession; and
 health care provider who typically manages the medical condition or
 disease or provides the health care service or treatment under review;
 or
-  (iii) for purposes of a determination involving substance use disorder
-treatment:
+  * (iii) for purposes of a determination involving substance use
+disorder treatment:
   (A) a physician who possesses a current and valid non-restricted
 license to practice medicine and who specializes in behavioral health
 and has experience in the delivery of substance use disorder courses of
@@ -36,6 +36,21 @@ possesses a current and valid non-restricted license, certificate or
 registration or, where no provision for a license, certificate or
 registration exists, is credentialed by the national accrediting body
 appropriate to the profession; or
+  * NB Effective until January 1, 2027
+  * (iii) for purposes of a determination involving substance-related
+and addictive disorder treatment:
+  (A) a physician who possesses a current and valid non-restricted
+license to practice medicine and who specializes in behavioral health
+and has experience in the delivery of substance-related and addictive
+disorder courses of treatment; or
+  (B) a health care professional other than a licensed physician who
+specializes in behavioral health and has experience in the delivery of
+substance-related and addictive disorder courses of treatment and, where
+applicable, possesses a current and valid non-restricted license,
+certificate or registration or, where no provision for a license,
+certificate or registration exists, is credentialed by the national
+accrediting body appropriate to the profession; or
+  * NB Effective January 1, 2027
   (iv) for purposes of a determination involving treatment for a mental
 health condition:
   (A) a physician who possesses a current and valid non-restricted
@@ -60,11 +75,18 @@ the medical condition or disease or provides the health care service or
 treatment under appeal;
   (C) for purposes of title two of this article, has been practicing in
 such area of specialty for a period of at least five years;
-  (D) for purposes of a determination involving substance use disorder
+  * (D) for purposes of a determination involving substance use disorder
 treatment, possesses a current and valid non-restricted license to
 practice medicine and specializes in behavioral health and has
 experience in the delivery of substance use disorder courses of
 treatment;
+  * NB Effective until January 1, 2027
+  * (D) for purposes of a determination involving substance-related and
+addictive disorder treatment, possesses a current and valid
+non-restricted license to practice medicine and specializes in
+behavioral health and has experience in the delivery of
+substance-related and addictive disorder courses of treatment;
+  * NB Effective January 1, 2027
   (E) for purposes of a determination involving treatment for a mental
 health condition, possesses a current and valid non-restricted license
 to practice medicine and who specializes in behavioral health and has
@@ -83,13 +105,23 @@ under appeal;
 such area of specialty for a period of at least five years;
   (D) is knowledgeable about the health care service or treatment under
 appeal;
-  (E) for purposes of a determination involving substance use disorder,
-specializes in behavioral health and has experience in the delivery of
-substance use disorder courses of treatment and, where applicable,
-possesses a current and valid non-restricted license, certificate or
-registration or, where no provision for a license, certificate or
-registration exists, is credentialed by the national accrediting body
-appropriate to the profession;
+  * (E) for purposes of a determination involving substance use
+disorder, specializes in behavioral health and has experience in the
+delivery of substance use disorder courses of treatment and, where
+applicable, possesses a current and valid non-restricted license,
+certificate or registration or, where no provision for a license,
+certificate or registration exists, is credentialed by the national
+accrediting body appropriate to the profession;
+  * NB Effective until January 1, 2027
+  * (E) for purposes of a determination involving substance-related and
+addictive disorder, specializes in behavioral health and has experience
+in the delivery of substance-related and addictive disorder courses of
+treatment and, where applicable, possesses a current and valid
+non-restricted license, certificate or registration or, where no
+provision for a license, certificate or registration exists, is
+credentialed by the national accrediting body appropriate to the
+profession;
+  * NB Effective January 1, 2027
   (F) for purposes of a determination involving treatment for a mental
 health condition, specializes in behavioral health and has experience in
 the delivery of mental health courses of treatment and, where

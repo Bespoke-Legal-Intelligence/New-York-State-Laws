@@ -621,6 +621,15 @@ thirty-first, two thousand twenty-five, up to one hundred million
 dollars;
   (u) for the period April first, two thousand twenty-five through March
 thirty-first, two thousand twenty-six, up to one hundred million
+dollars;
+  (v) for the period April first, two thousand twenty-six through March
+thirty-first, two thousand twenty-seven, up to one hundred million
+dollars;
+  (w) for the period April first, two thousand twenty-seven through
+March thirty-first, two thousand twenty-eight, up to one hundred million
+dollars;
+  (x) for the period April first, two thousand twenty-eight through
+March thirty-first, two thousand twenty-nine, up to one hundred million
 dollars.
   10. (a) Such adjustments to rates of payments shall be allocated
 proportionally based on each certified home health agency, long term

@@ -17,15 +17,15 @@ preferred drug list. A prescriber seeking prior authorization shall
 consult with the program call line to reasonably present his or her
 justification for the prescription and give the program's qualified
 health care professional a reasonable opportunity to respond.
-  3.  * (a) When a patient's health care provider prescribes a
-prescription drug that is not on the preferred drug list or the
-statewide formulary of opioid dependence agents and opioid antagonists
-established pursuant to subparagraph (vii) of paragraph (e) of
-subdivision seven of section three hundred sixty-seven-a of the social
-services law, the prescriber shall consult with the program to confirm
-that in his or her reasonable professional judgment, the patient's
-clinical condition is consistent with the criteria for approval of the
-non-preferred drug. Such criteria shall include:
+  3. (a) When a patient's health care provider prescribes a prescription
+drug that is not on the preferred drug list or the statewide formulary
+of opioid dependence agents and opioid antagonists established pursuant
+to subparagraph (vii) of paragraph (e) of subdivision seven of section
+three hundred sixty-seven-a of the social services law, the prescriber
+shall consult with the program to confirm that in his or her reasonable
+professional judgment, the patient's clinical condition is consistent
+with the criteria for approval of the non-preferred drug. Such criteria
+shall include:
   (i) the preferred drug has been tried by the patient and has failed to
 produce the desired health outcomes;
   (ii) the patient has tried the preferred drug and has experienced
@@ -39,34 +39,14 @@ medical needs of special populations, including children, elderly,
 chronically ill, persons with mental health conditions, and persons
 affected by HIV/AIDS, pregnant persons, and persons with an opioid use
 disorder.
-  * NB Effective until March 31, 2026
-  * (a) When a patient's health care provider prescribes a prescription
-drug that is not on the preferred drug list, the prescriber shall
-consult with the program to confirm that in his or her reasonable
-professional judgment, the patient's clinical condition is consistent
-with the criteria for approval of the non-preferred drug. Such criteria
-shall include:
-  (i) the preferred drug has been tried by the patient and has failed to
-produce the desired health outcomes;
-  (ii) the patient has tried the preferred drug and has experienced
-unacceptable side effects;
-  (iii) the patient has been stabilized on a non-preferred drug and
-transition to the preferred drug would be medically contraindicated; or
-  (iv) other clinical indications identified by the committee for the
-patient's use of the non-preferred drug, which shall include
-consideration of the medical needs of special populations, including
-children, elderly, chronically ill, persons with mental health
-conditions, and persons affected by HIV/AIDS.
-  * NB Effective March 31, 2026
-  * (a-1) When a patient's health care provider prescribes a
-prescription drug that is on the statewide formulary of opioid
-dependence agents and opioid antagonists established pursuant to
-subparagraph (vii) of paragraph (e) of subdivision seven of section
-three hundred sixty-seven-a of the social services law, the department
-shall not require prior authorization unless required by the
-department's drug use review program established pursuant to section
-1927(g) of the Social Security Act.
-  * NB Repealed March 31, 2026
+  (a-1) When a patient's health care provider prescribes a prescription
+drug that is on the statewide formulary of opioid dependence agents and
+opioid antagonists established pursuant to subparagraph (vii) of
+paragraph (e) of subdivision seven of section three hundred
+sixty-seven-a of the social services law, the department shall not
+require prior authorization unless required by the department's drug use
+review program established pursuant to section 1927(g) of the Social
+Security Act.
   (b) In the event that the patient does not meet the criteria in
 paragraph (a) of this subdivision, the prescriber may provide additional
 information to the program to justify the use of a prescription drug

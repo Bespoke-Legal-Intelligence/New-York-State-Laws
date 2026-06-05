@@ -4,7 +4,7 @@
 [Uniform Commercial Code](../../README.md) › [Article 12-A — Transitional Provisions For Uniform Commercial Code Amendments](../README.md) › [Part 3 — Transitional Provisions For Articles 9 and 12](README.md)
 
 ```text
-* Section 12-A-305. Priority.
+Section 12-A-305. Priority.
   (a) Determination of priority. Subject to subsections (b) and (c), the
 revised UCC determines the priority of conflicting claims to collateral.
   (b) Established priorities. Subject to subsection (c), if the
@@ -17,5 +17,4 @@ amended by the UCC Revision Act modify the priorities established before
 the effective date of the UCC Revision Act, the priorities of claims to
 Article 12 property and electronic money established before the
 effective date of the UCC Revision Act cease to apply.
-  * NB Effective June 3, 2026
 ```

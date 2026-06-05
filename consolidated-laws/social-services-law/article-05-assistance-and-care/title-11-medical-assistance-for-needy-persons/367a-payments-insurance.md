@@ -75,9 +75,9 @@ which such eligible persons or such qualified medicare beneficiaries
 would be liable under federal law were they not eligible for medical
 assistance or were they not qualified medicare beneficiaries with
 respect to such benefits under such part B.
-  (iii) With respect to items and services provided to eligible persons
-who are also beneficiaries under part B of title XVIII of the federal
-social security act and items and services provided to qualified
+  * (iii) With respect to items and services provided to eligible
+persons who are also beneficiaries under part B of title XVIII of the
+federal social security act and items and services provided to qualified
 medicare beneficiaries under part B of title XVIII of the federal social
 security act, the amount payable for services covered under this title
 shall be the amount of any co-insurance liability of such eligible
@@ -104,7 +104,37 @@ such eligible persons or such qualified medicare beneficiaries would be
 liable under federal law were they not eligible for medical assistance
 or were they not qualified medicare beneficiaries with respect to such
 benefits under part B.
-  (iv) If a health plan participating in part C of title XVIII of the
+  * NB Effective until April 1, 2027
+  * (iii) With respect to items and services provided to eligible
+persons who are also beneficiaries under part B of title XVIII of the
+federal social security act and items and services provided to qualified
+medicare beneficiaries under part B of title XVIII of the federal social
+security act, the amount payable for services covered under this title
+shall be the amount of any co-insurance liability of such eligible
+persons pursuant to federal law were they not eligible for medical
+assistance or were they not qualified medicare beneficiaries with
+respect to such benefits under such part B, but shall not exceed the
+amount that otherwise would be made under this title if provided to an
+eligible person other than a person who is also a beneficiary under part
+B or is a qualified medicare beneficiary minus the amount payable under
+part B; provided, however, amounts payable under this title for items
+and services provided to eligible persons who are also beneficiaries
+under part B or to qualified medicare beneficiaries by an ambulance
+service under the authority of an operating certificate issued pursuant
+to article thirty of the public health law, or a facility under the
+authority of an operating certificate issued pursuant to article
+sixteen, thirty-one or thirty-two of the mental hygiene law and with
+respect to outpatient hospital and clinic items and services provided by
+a facility under the authority of an operating certificate issued
+pursuant to article twenty-eight of the public health law, shall not be
+less than the amount of any co-insurance liability of such eligible
+persons or such qualified medicare beneficiaries, or for which such
+eligible persons or such qualified medicare beneficiaries would be
+liable under federal law were they not eligible for medical assistance
+or were they not qualified medicare beneficiaries with respect to such
+benefits under part B.
+  * NB Effective April 1, 2027
+  * (iv) If a health plan participating in part C of title XVIII of the
 federal social security act pays for items and services provided to
 eligible persons who are also beneficiaries under part B of title XVIII
 of the federal social security act or to qualified medicare
@@ -124,6 +154,30 @@ medicare beneficiaries, or for which such eligible persons or such
 qualified medicare beneficiaries would be liable under federal law were
 they not eligible for medical assistance or were they not qualified
 medicare beneficiaries with respect to such benefits under part B.
+  * NB Effective until April 1, 2027
+  * (iv) If a health plan participating in part C of title XVIII of the
+federal social security act pays for items and services provided to
+eligible persons who are also beneficiaries under part B of title XVIII
+of the federal social security act or to qualified medicare
+beneficiaries, the amount payable for services under this title shall be
+the amount of any co-insurance liability of such eligible persons
+pursuant to federal law if they were not eligible for medical assistance
+or were not qualified medicare beneficiaries with respect to such
+benefits under such part B, but shall not exceed the amount that
+otherwise would be made under this title if provided to an eligible
+person other than a person who is also a beneficiary under part B or is
+a qualified medicare beneficiary minus the amount payable under part B;
+provided, however, amounts payable under this title for items and
+services provided to eligible persons who are also beneficiaries under
+part B or to qualified medicare beneficiaries by an ambulance service
+under the authority of an operating certificate issued pursuant to
+article thirty of the public health law shall not be less than the
+amount of any coinsurance liability of such eligible persons or such
+qualified medicare beneficiaries, or for which such eligible persons or
+such qualified medicare beneficiaries would be liable under federal law
+were they not eligible for medical assistance or were they not qualified
+medicare beneficiaries with respect to such benefits under part B.
+  * NB Effective April 1, 2027
   (e) Amounts payable under this title for medical assistance in the
 form of clinic services pursuant to article twenty-eight of the public
 health law, article sixteen of the mental hygiene law and independent

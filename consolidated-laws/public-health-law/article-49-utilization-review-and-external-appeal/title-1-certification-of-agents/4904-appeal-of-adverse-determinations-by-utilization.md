@@ -46,7 +46,7 @@ this title; or
   (b) an adverse determination in which the health care provider
 believes an immediate appeal is warranted except any retrospective
 determination; or
-  (c) potential court-ordered mental health and/or substance use
+  * (c) potential court-ordered mental health and/or substance use
 disorder services pursuant to paragraph (b) of subdivision two of
 section forty-nine hundred three of this title. Such process shall
 include mechanisms which facilitate resolution of the appeal including
@@ -74,6 +74,37 @@ utilization review agent shall not deny on the basis of medical
 necessity or lack of prior authorization such substance use disorder
 treatment while a determination by the utilization review agent or
 external appeal agent is pending.
+  * NB Effective until January 1, 2027
+  * (c) potential court-ordered mental health and/or substance-related
+and addictive disorder services pursuant to paragraph (b) of subdivision
+two of section forty-nine hundred three of this title. Such process
+shall include mechanisms which facilitate resolution of the appeal
+including but not limited to the sharing of information from the
+enrollee's health care provider and the utilization review agent by
+telephonic means or by facsimile. The utilization review agent shall
+provide reasonable access to its clinical peer reviewer within one
+business day of receiving notice of the taking of an expedited appeal.
+Expedited appeals shall be determined within two business days of
+receipt of necessary information to conduct such appeal except, with
+respect to inpatient substance-related and addictive disorder treatment
+provided pursuant to paragraph (c) of subdivision three of section
+forty-nine hundred three of this title, expedited appeals shall be
+determined within twenty-four hours of receipt of such appeal. Expedited
+appeals which do not result in a resolution satisfactory to the
+appealing party may be further appealed through the standard appeal
+process, or through the external appeal process pursuant to section
+forty-nine hundred fourteen of this article as applicable. Provided that
+the enrollee or the enrollee's health care provider files an expedited
+internal and external appeal within twenty-four hours from receipt of an
+adverse determination for inpatient substance-related and addictive
+disorder treatment for which coverage was provided while the initial
+utilization review determination was pending pursuant to paragraph (c)
+of subdivision three of section forty-nine hundred three of this title,
+a utilization review agent shall not deny on the basis of medical
+necessity or lack of prior authorization such substance-related and
+addictive disorder treatment while a determination by the utilization
+review agent or external appeal agent is pending.
+  * NB Effective January 1, 2027
   3. A utilization review agent shall establish a standard appeal
 process which includes procedures for appeals to be filed in writing or
 by telephone. A utilization review agent must establish a period of no

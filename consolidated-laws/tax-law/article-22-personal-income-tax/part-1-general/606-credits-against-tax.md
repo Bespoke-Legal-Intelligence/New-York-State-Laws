@@ -718,8 +718,9 @@ the credit otherwise allowed his or her household, except as limited by
 paragraph one of this subsection.
   (c) Credit for certain household and dependent care services necessary
 for gainful employment.
-  (1) A taxpayer shall be allowed a credit as provided herein equal to
-the applicable percentage of the credit allowable under section
+  (1) For taxable years beginning before January first, two thousand
+twenty-six, a taxpayer shall be allowed a credit as provided herein
+equal to the applicable percentage of the credit allowable under section
 twenty-one of the internal revenue code for the same taxable year
 (without regard to whether the taxpayer in fact claimed the credit under
 such section twenty-one for such taxable year). The applicable
@@ -978,6 +979,111 @@ less than twenty-five dollars.
 allowed to taxpayers who timely filed returns pursuant to section six
 hundred fifty-one of this article, determined with regard to extensions
 pursuant to section six hundred fifty-seven of this article.
+  (c-2) New York state child and dependent care credit. (1) For taxable
+years beginning on or after January first, two thousand twenty-six, an
+eligible taxpayer shall be allowed a credit as provided herein to enable
+the eligible taxpayer to be gainfully employed or a full-time student at
+an educational institution for any period of the taxable year. If the
+amount of the credit allowed under this subsection for any taxable year
+shall exceed the eligible taxpayer's tax for such year, the excess shall
+be treated as an overpayment of tax to be credited or refunded in
+accordance with the provisions of six hundred eighty-six of this
+article, provided, however, that no interest shall be paid thereon.
+  (2) For the purposes of this subsection:
+  (A) "Eligible taxpayer" shall mean a resident individual as defined in
+paragraph one of subsection (b) of section six hundred five of this
+article who, during the taxable year: (i) is not a dependent of another
+taxpayer pursuant to section one hundred fifty-two of the internal
+revenue code; and (ii) is not a resident married individual filing a
+separate return unless such individual meets the conditions in paragraph
+four of subdivision (e) of section twenty-one of the internal revenue
+code. Provided, however, where married individuals file a joint federal
+return, but are required to determine their New York taxes separately
+pursuant to subsection (b) of section six hundred fifty-one of this
+article, the credit allowed pursuant to this subsection may only be
+applied against the tax imposed on the spouse with the lower New York
+adjusted gross income.
+  (B) "Qualifying individual" shall mean an individual who: (i) is under
+the age of thirteen at the close of the taxable year or is physically or
+mentally incapable of caring for themselves during the taxable year;
+(ii) resides with the eligible taxpayer for more than one-half of the
+taxable year; and (iii) is claimed as a dependent pursuant to section
+one hundred fifty-two of the internal revenue code, or could otherwise
+be claimed as a dependent. Provided, a qualifying individual shall also
+include an individual where a noncustodial parent claims such individual
+under subsection (e) of section one hundred fifty-two of the internal
+revenue code or the individual is the eligible taxpayer's spouse who is
+physically or mentally incapable of caring for themselves during the
+taxable year and resides with the eligible taxpayer for more than
+one-half of the taxable year.
+  (C) "Earned income" shall mean the wages, salaries, tips and other
+employee compensation, and those items of gross income which are
+includible in the computation of net earnings from self-employment.
+  (D) (i) "Qualifying expenses" shall mean the sum of the amount
+incurred and paid in the taxable year directly by an eligible taxpayer
+for: a.  services provided in and about the eligible taxpayer's
+residence to provide care for any qualifying individual, including such
+expenses for the room and board of any such caregiver; and b.
+non-overnight services provided outside of the eligible taxpayer's
+residence to provide care for any qualifying individual; provided,
+however, that amounts incurred or paid for which the primary purpose is
+educational shall not be included.
+  (ii) Provided, however, "qualifying expenses" shall not include: a.
+any amounts paid whereby the taxpayer receives reimbursement or are paid
+from funds provided by a government entity, dependent care account, or
+other third party; b. any amounts paid to a dependent of the taxpayer
+for which the taxpayer or the taxpayer's spouse is entitled to a
+deduction for the taxable year under subsection (c) of section one
+hundred fifty-one of the internal revenue code; or c. any amounts paid
+to a child of the taxpayer as defined in paragraph one of subsection (f)
+of section one hundred fifty-two of the internal revenue code who has
+not attained the age of nineteen at the close of the taxable year.
+  (iii) For the purposes of the credit provided pursuant to this
+subsection, an eligible taxpayer's qualifying expenses shall not exceed:
+  a. three thousand dollars, in the case of an eligible taxpayer with
+one qualifying individual;
+  b. six thousand dollars, in the case of an eligible taxpayer with two
+qualifying individuals;
+  c. seven thousand five hundred dollars, in the case of an eligible
+taxpayer with three qualifying individuals;
+  d. eight thousand five hundred dollars, in the case of an eligible
+taxpayer with four qualifying individuals; and
+  e. nine thousand dollars, in the case of an eligible taxpayer with
+five or more qualifying individuals.
+  Provided, further, that an eligible taxpayer's qualifying expenses
+shall not exceed such eligible taxpayer's earned income as defined in
+subparagraph (C) of this paragraph, or in the case of a married eligible
+taxpayer filing a joint return, the lesser of the earned income of each
+spouse determined separately.
+  (E) "Applicable percentage" shall mean: (i) fifty-five percent in the
+case of an eligible taxpayer with a New York adjusted gross income
+determined pursuant to section six hundred twelve of this article of
+fifteen thousand dollars or less; or (ii) fifty-five percent reduced by
+twenty-five hundred thousandths of a percentage point for each dollar of
+an eligible taxpayer's New York adjusted gross income determined
+pursuant to section six hundred twelve of this article in excess of
+fifteen thousand dollars. Provided, however, that the applicable
+percentage for an eligible taxpayer shall not be reduced below four
+percent.
+  (3) The amount of the credit allowed to an eligible taxpayer under
+this subsection shall be the product of the eligible taxpayer's
+qualifying expenses determined pursuant to subparagraph (D) of paragraph
+two of this subsection and the applicable percentage determined pursuant
+to subparagraph (E) of paragraph two of this subsection. Provided,
+however, the credit allowed under this subsection shall be reduced by
+twenty dollars for each one thousand dollars by which the eligible
+taxpayer's New York adjusted gross income determined pursuant to section
+six hundred twelve of this article exceeds seven hundred fifty thousand
+dollars.
+  (4) To be eligible for the credit provided by this subsection, an
+eligible taxpayer shall provide the following information to the
+satisfaction of the commissioner: (i) the amount of qualifying expenses;
+(ii) identifying information related to the care provider; (iii)
+identifying information related to the qualifying individual for whom
+the expenses were incurred; and (iv) any other information as required.
+  (5) Any references to the internal revenue code in this subsection
+shall be to the internal revenue code as it existed prior to January
+first, two thousand twenty-five.
   (d) Earned income credit. (1) General. A taxpayer shall be allowed a
 credit as provided herein equal to (i) the applicable percentage of the
 earned income credit allowed under section thirty-two of the internal
@@ -3308,31 +3414,28 @@ the taxable year reduced by the credits permitted by this article. If
 the credit exceeds the tax as so reduced, the taxpayer may receive, and
 the comptroller, subject to a certificate of the commissioner, shall pay
 as an overpayment, without interest, the amount of such excess.
-  (2) Eligible farmer. For purposes of this subsection, the term
-"eligible farmer" means a taxpayer whose federal gross income from
-farming for the taxable year is at least two-thirds of excess federal
-gross income. The term "eligible farmer" also includes an individual
-other than the taxpayer of record for qualified agricultural land who
-has paid the school district property taxes on such land pursuant to a
-contract for the future purchase of such land; provided that such
-individual has a federal gross income from farming for the taxable year
-which is at least two-thirds of excess federal gross income; and
-provided further that, in determining such income eligibility, a
-taxpayer may, for any taxable year, use the average of such federal
-gross income from farming for that taxable year and such income for the
-two consecutive taxable years immediately preceding such taxable year.
-Excess federal gross income means the amount of federal gross income
-from all sources for the taxable year reduced by the sum (not to exceed
-thirty thousand dollars) of those items included in federal gross income
-which consist of (i) earned income, (ii) pension payments, including
-social security payments, (iii) interest, and (iv) dividends. For
-purposes of this paragraph, the term "earned income" shall mean wages,
-salaries, tips and other employee compensation, and those items of gross
-income which are includible in the computation of net earnings from
-self-employment. For the purposes of this paragraph, payments from the
+  (1-a) New York gross income from farming. For purposes of this
+subsection, the term "New York gross income from farming" means a
+taxpayer's federal gross income from farming, plus payments from the
 state's farmland protection program, administered by the department of
-agriculture and markets, shall be included as federal gross income from
-farming for otherwise eligible farmers.
+agriculture and markets, income from a commercial horse boarding
+operation as defined by subdivision thirteen of section three hundred
+one of the agriculture and markets law, and income from the production
+or sale of maple syrup, Christmas trees, and cider or wine from a
+licensed New York state farm cidery or winery, as provided for in
+section fifty-eight-c and article six of the alcoholic beverage control
+law.
+  (2) Eligible farmer. For purposes of this subsection, the term
+"eligible farmer" means a taxpayer whose New York gross income from
+farming for the taxable year, or whose average New York gross income
+from farming for the current year and two prior taxable years, is at
+least two-thirds of such taxpayer's federal gross income from all
+sources less thirty thousand dollars. The term "eligible farmer" also
+includes an individual other than the taxpayer of record for qualified
+agricultural land who has paid the school district property taxes on
+such land pursuant to a contract for the future purchase of such land;
+provided that such individual meets the definition of "eligible farmer"
+pursuant to this paragraph.
   (3) School district property taxes. For purposes of this subsection,
 the term "school district property taxes" means all property taxes,
 special ad valorem levies and special assessments, exclusive of
@@ -3474,16 +3577,6 @@ thousand thirty-three of the internal revenue code.
   (D) Conversion to nonqualified use. For purposes of this paragraph, a
 sale or other disposition of qualified agricultural property alone shall
 not constitute a conversion to a nonqualified use.
-  (8) Special rules. For purposes of this subsection, the term "federal
-gross income from farming" shall include gross income from the
-production of maple syrup, cider, Christmas trees derived from a managed
-Christmas tree operation whether dug for transplanting or cut from the
-stump, or from a commercial horse boarding operation as defined in
-subdivision thirteen of section three hundred one of the agriculture and
-markets law, or from the sale of wine from a licensed farm winery as
-provided for in article six of the alcoholic beverage control law, or
-from the sale of cider from a licensed farm cidery as provided for in
-section fifty-eight-c of the alcoholic beverage control law.
   (9) Election to deem gross income of New York C corporation to
 shareholders. (A) General. For purposes of the credit under this
 subsection, the shareholders of an eligible corporation may elect to
@@ -3661,33 +3754,29 @@ spouses who file a joint federal return but who are required to
 determine their New York taxes separately, the credit allowed pursuant
 to this subsection may be applied against the tax of either or divided
 between them as they may elect.
-  (n-2) Credit for farm donations to food pantries. (1) General. In the
+  (n-2) Credit for farm donations to food pantries.  (1) General. In the
 case of a taxpayer who is an eligible farmer, there shall be allowed a
 credit, to be computed as hereinafter provided, against the tax imposed
 by this article for taxable years beginning on and after January first,
 two thousand eighteen. The amount of the credit shall be twenty-five
 percent of the fair market value of the taxpayer's qualified donations
 made to any eligible food pantry during the taxable year, not to exceed
-five thousand dollars per taxable year. If the taxpayer is a partner in
+five thousand dollars per taxable year for taxable years ending before
+January first, two thousand twenty-six, and fifty percent of the fair
+market value of the taxpayer's qualified donations made to any eligible
+food pantry during the taxable year, not to exceed twenty thousand
+dollars per taxable year, for taxable years beginning on and after
+January first, two thousand twenty-six. If the taxpayer is a partner in
 a partnership or a shareholder of a New York S corporation, then the cap
 imposed by the preceding sentence shall be applied at the entity level,
 so that the aggregate credit allowed to all partners or shareholders of
-such entity in the taxable year does not exceed five thousand dollars.
+such entity in the taxable year does not exceed five thousand dollars
+for taxable years ending before January first, two thousand twenty-six,
+and twenty thousand dollars for taxable years beginning on and after
+January first, two thousand twenty-six.
   (2) Eligible farmer. For purposes of this subsection, the term
-"eligible farmer" means a taxpayer whose federal gross income from
-farming for the taxable year is at least two-thirds of excess federal
-gross income.  Excess federal gross income means the amount of federal
-gross income from all sources for the taxable year reduced by the sum
-(not to exceed thirty thousand dollars) of those items included in
-federal gross income that consist of: (i) earned income, (ii) pension
-payments, including social security payments, (iii) interest, and (iv)
-dividends. For purposes of this paragraph, the term "earned income"
-shall mean wages, salaries, tips and other employee compensation, and
-those items of gross income that are includible in the computation of
-net earnings from self-employment. For the purposes of this paragraph,
-payments from the state's farmland protection program, administered by
-the department of agriculture and markets, shall be included as federal
-gross income from farming for otherwise eligible farmers.
+"eligible farmer" shall have the same meaning as set forth in subsection
+(n) of this section.
   (3) Qualified donation. For purposes of this subsection, the term
 "qualified donation" means a donation of any apparently wholesome food,
 as defined in section 170(e)(3)(C)(vi) of the internal revenue code,
@@ -5272,26 +5361,14 @@ article, provided, however, no interest will be paid thereon.
   (eee) School tax relief (STAR) credit. (1) Definitions. For purposes
 of this subsection:
   (A) "Qualified taxpayer" means a resident individual of the state, who
-maintained his or her primary residence in this state on December
-thirty-first of the taxable year, and who was an owner of that property
-on that date, provided however: (i) A taxpayer whose primary residence
-received a STAR exemption for the associated fiscal year shall not be
-considered a qualified taxpayer for purposes of this subsection.
+maintained their primary residence in this state on July first of the
+taxable year, and who was an owner of that property on that date,
+provided however:
+  (i) A taxpayer whose primary residence received a STAR exemption for
+the associated fiscal year shall not be considered a qualified taxpayer
+for purposes of this subsection.
   (ii) An individual may be considered a qualified taxpayer with respect
 to no more than one primary residence during any given taxable year.
-  (iii) If a resident individual was an owner of the property during the
-taxable year but did not own it on December thirty-first of the taxable
-year, he or she shall be considered a qualified taxpayer if the property
-was his or her primary residence during the taxable year and he or she
-paid qualifying taxes on that property while he or she was still an
-owner of that property.
-  (iv) If a resident individual has acquired ownership of property
-during a taxable year, such resident individual shall not be considered
-a qualified taxpayer for that taxable year to the extent that an advance
-payment of the credit for that taxable year has been issued to the prior
-owner with respect to the same property, unless such resident individual
-can demonstrate that he or she paid qualifying taxes on such property
-during the taxable year, and that the prior owner did not.
   (B) (i) "Affiliated income" shall mean the combined income of all of
 the owners of the parcel who resided primarily thereon as of July first
 of the taxable year, and of any owners' spouses residing primarily
@@ -5385,6 +5462,18 @@ exemption within a portion of a school district, as determined by the
 commissioner pursuant to subdivision two of section thirteen hundred
 six-a of the real property tax law for purposes of the credit authorized
 by this subsection.
+  (2) Allowance of credit. A qualified taxpayer shall be allowed a
+credit as provided in paragraph three or four of this subsection,
+whichever is applicable, against the taxes imposed by this article
+reduced by the credits permitted by this article, provided that the
+requirements set forth in the applicable subsection are satisfied. If
+the credit exceeds the tax as so reduced for such year under this
+article, the excess shall be treated as an overpayment, to be credited
+or refunded, without interest. If a qualified taxpayer is not required
+to file a return pursuant to section six hundred fifty-one of this
+article, a qualified taxpayer may nevertheless receive the full amount
+of the credit to be credited or repaid as an overpayment, without
+interest thereon.
   (3) Determination of basic STAR credit.  (A) Beginning with taxable
 years after two thousand fifteen, a basic STAR credit shall be available
 to a qualified taxpayer if the affiliated income of the parcel that
@@ -5412,7 +5501,7 @@ shall be equal to the amount determined pursuant to subparagraph (B) of
 this paragraph multiplied by the percentage that such portion
 represents.
   (4) Determination of enhanced STAR credit. (A) Beginning with taxable
-years after two thousand twenty-four, an enhanced STAR credit shall be
+years after two thousand twenty-five, an enhanced STAR credit shall be
 available to a qualified taxpayer where both of the following conditions
 are satisfied:
   (i) At least one of the owners of the parcel that serves as the
@@ -5709,12 +5798,7 @@ preliminary advance payment that is above or below the advance payment
 to which he or she was entitled under this subsection, the commissioner
 shall provide notice to such taxpayer that the next advance payment due
 to such taxpayer under this subsection shall be adjusted to reconcile
-such underpayment or overpayment; provided, however, the commissioner
-shall permit a taxpayer to request that such adjustment be made on an
-originally filed timely income tax return for the tax year in which such
-overpayment or underpayment occurred, provided such return is filed on
-or before the due date for such return, determined without regard to
-extensions.
+such underpayment or overpayment.
   (D) A taxpayer who received a preliminary advance payment that
 constitutes an overpayment shall not be required to pay interest on the
 amount of the overpayment.
@@ -6199,6 +6283,55 @@ taxable year shall exceed the taxpayer's tax for such year, the excess
 shall be treated as an overpayment of tax to be credited or refunded in
 accordance with the provisions of section six hundred eighty-six of this
 article, provided, however, that no interest shall be paid thereon.
+  (uuu) Protecting our wallets energy rebate (POWER) credit. (1) A
+taxpayer who meets the eligibility standards in paragraph two of this
+subsection shall be allowed a credit against the taxes imposed by this
+article in the amount specified in paragraph three of this subsection
+for tax year two thousand twenty-six.
+  (2) To be eligible for the credit, the taxpayer (or taxpayers filing
+joint returns) (A) must have been a full-year resident of the state of
+New York in tax year two thousand twenty-four, (B) must have timely
+filed a return for tax year two thousand twenty-four pursuant to section
+six hundred fifty-one of this article, determined with regard to
+extensions pursuant to section six hundred fifty-seven of this article,
+(C) (i) must have had New York adjusted gross income of three hundred
+thousand dollars or less in tax year two thousand twenty-four if they
+filed a New York state resident income tax return as married taxpayers
+filing jointly or a qualified surviving spouse, or (ii) must have had
+New York adjusted gross income of one hundred fifty thousand dollars or
+less in tax year two thousand twenty-four if they filed a New York state
+resident income tax return as a single taxpayer, married taxpayer filing
+a separate return, or head of household, and (D) must not have been
+claimed as a dependent by another taxpayer in tax year two thousand
+twenty-four.
+  (3) Amount of credit. (A) For taxpayers who meet the eligibility
+standards in paragraph two who filed a New York state resident income
+tax return as married taxpayers filing jointly or a qualified surviving
+spouse, (i) with a New York adjusted gross income of greater than one
+hundred fifty thousand dollars but no greater than three hundred
+thousand dollars in tax year two thousand twenty-four, the credit amount
+shall be one hundred fifty dollars, or (ii) with a New York adjusted
+gross income of no greater than one hundred fifty thousand dollars in
+tax year two thousand twenty-four, the credit amount shall be two
+hundred dollars, and (B) for taxpayers who meet the eligibility
+standards in paragraph two who filed a New York state resident income
+tax return as a single taxpayer, married taxpayer filing a separate
+return, or head of household with a New York adjusted gross income of no
+greater than one hundred fifty thousand dollars in tax year two thousand
+twenty-four, the credit amount shall be one hundred dollars.
+  (4) The amount of the credit shall be treated as an overpayment of tax
+to be credited or refunded in accordance with the provisions of section
+six hundred eighty-six of this article, provided, however, that no
+interest shall be paid thereon. The commissioner shall determine the
+taxpayer's eligibility for this credit utilizing information available
+to the commissioner on the taxpayer's personal income tax return filed
+for tax year two thousand twenty-four. For those taxpayers whom the
+commissioner has determined eligible for this credit, the commissioner
+shall advance a payment in the amount specified in paragraph three of
+this subsection. A taxpayer who failed to receive an advance payment
+that they believe was due, or who received an advance payment that they
+believe is less than the amount that was due, may request payment of the
+claimed deficiency in a manner prescribed by the commissioner.
   (vvv) Empire state apprenticeship tax credit. (1)(A) A taxpayer that
 has been certified by the commissioner of labor as a certified employer
 pursuant to section twenty-five-c of the labor law shall be allowed a

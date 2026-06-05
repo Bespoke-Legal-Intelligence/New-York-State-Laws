@@ -11,17 +11,11 @@ acting within such health care provider's scope of practice, including
 spontaneous miscarriage, still birth, or any termination of pregnancy
 which is consistent with the requirements of article twenty-five-A of
 this chapter.
-  * 2. A pregnancy loss caused by spontaneous miscarriage or still birth
-shall be registered within seventy-two hours of the pregnancy loss by
-electronically filing directly with the department of health, a report
-of such loss.
-  * NB Effective until March 30, 2027
-  * 2. A fetal death shall be registered within seventy-two hours after
+  2. A fetal death shall be registered within seventy-two hours after
 expulsion of such fetus, by filing directly with the commissioner a
 certificate of such death. In addition, a report of fetal death shall be
 reported to the registrar in the district in which the fetal death
 occurred.
-  * NB Effective March 30, 2027
   * 3. A pregnancy loss due to an induced termination of pregnancy shall
 be registered within seventy-two hours of such pregnancy loss if the
 individual experiencing the pregnancy loss requests such registration to

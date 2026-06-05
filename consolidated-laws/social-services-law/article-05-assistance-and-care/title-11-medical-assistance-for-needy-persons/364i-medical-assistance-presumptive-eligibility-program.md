@@ -76,39 +76,7 @@ department shall submit to the governor and legislature an evaluation of
 the program, including the program's effects on access, quality and cost
 of care, and any recommendations for future modifications to improve the
 program.
-  4. (a) Notwithstanding any inconsistent provision of law to the
-contrary, a child shall be presumed to be eligible for medical
-assistance under this title beginning on the date that a qualified
-entity, as defined in paragraph (c) of this subdivision, determine, on
-the basis of preliminary information, that the MAGI household income of
-the child does not exceed the applicable level for eligibility as
-provided for pursuant to subparagraph two or three of paragraph (b) of
-subdivision one of section three hundred sixty-six of this title.
-  (b) Such presumptive eligibility shall continue through the earlier of
-the day on which eligibility is determined pursuant to this title, or in
-the case of a child on whose behalf an application is not filed by the
-last day of the month following the month during which the qualified
-entity makes a preliminary determination, the last day of the month
-following the month in which the qualified entity makes a determination
-in paragraph (a) of this subdivision.
-  (c) For the purposes of this subdivision, and consistent with the
-applicable provisions of section 1920A of the federal social security
-act, "qualified entity" means an entity determined by the department of
-health to be capable of making presumptive eligibility determinations.
-  (d) Notwithstanding any inconsistent provision of law to the contrary,
-care, services and supplies, as set forth in section three hundred
-sixty-five-a of this title, that are furnished to a child during a
-presumptive eligibility period by an entity that is eligible for
-payments under this title shall be deemed to be medical assistance for
-purposes of payment and state and federal reimbursement.
-  (e) Presumptive eligibility pursuant to this subdivision shall be
-implemented effective December first, two thousand seven contingent upon
-a determination by the commissioner of health that all necessary systems
-and processes are in place to enroll children appropriately in
-accordance with the requirements set forth in this title; provided,
-however, presumptive eligibility pursuant to this subdivision shall be
-implemented no later than April first, two thousand eight.
-  5. Persons in need of treatment for breast, cervical, colon or
+  4. Persons in need of treatment for breast, cervical, colon or
 prostate cancer; presumptive eligibility. (a) An individual shall be
 presumed to be eligible for medical assistance under this title
 beginning on the date that a qualified entity, as defined in paragraph
@@ -131,7 +99,7 @@ sixty-five-a of this title, that are furnished to an individual during a
 presumptive eligibility period under this subdivision by an entity that
 is eligible for payments under this title shall be deemed to be medical
 assistance for purposes of payment and state reimbursement.
-  6. (a) A pregnant woman shall be presumed to be eligible for medical
+  5. (a) A pregnant woman shall be presumed to be eligible for medical
 assistance under this title, excluding inpatient services and
 institutional long term care, beginning on the date that a prenatal care
 provider, licensed under article twenty-eight of the public health law
@@ -184,7 +152,7 @@ presumptively eligible for medical assistance but not yet enrolled in
 the medical assistance program, and assist women in submitting
 appropriate documentation to the social services district as required by
 the commissioner.
-  7. Notwithstanding any other section of law, where care, services, or
+  6. Notwithstanding any other section of law, where care, services, or
 supplies are received prior to the date an individual is determined
 eligible for assistance under this title, medical assistance
 reimbursement, regardless of funding source, shall be available for such
@@ -194,7 +162,7 @@ application for medical assistance and the recipient is determined to
 have been eligible in the month in which the care, service, or supply
 was received, or (b) if provided during a period of presumptive
 eligibility pursuant to this section.
-  8. (a) The following individuals shall be presumed to be eligible for
+  7. (a) The following individuals shall be presumed to be eligible for
 medical assistance under this title beginning on the date that a
 qualified hospital, as defined in paragraph (b) of this subdivision,
 determines, on the basis of preliminary information, that:

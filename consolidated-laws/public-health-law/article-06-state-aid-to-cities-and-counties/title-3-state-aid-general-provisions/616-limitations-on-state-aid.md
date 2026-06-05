@@ -9,13 +9,11 @@ provided pursuant to this article shall be limited to the amount of the
 annual appropriation made by the legislature. In no event, however,
 shall such state aid be less than an amount to provide the full base
 grant and, as otherwise provided by subdivision two of section six
-hundred five of this article, no less than thirty-six per centum, except
-for the city of New York which shall receive no less than twenty per
-centum, of the difference between the amount of moneys expended by the
-municipality for eligible public health services pursuant to an approved
-application for state aid during the fiscal year and the base grant
-provided pursuant to subdivision one of section six hundred five of this
-article.
+hundred five of this article, no less than thirty-six per centum of the
+difference between the amount of moneys expended by the municipality for
+eligible public health services pursuant to an approved application for
+state aid during the fiscal year and the base grant provided pursuant to
+subdivision one of section six hundred five of this article.
   2. No payments shall be made from moneys appropriated for the purpose
 of this article to a municipality for contributions by the municipality
 for indirect costs.

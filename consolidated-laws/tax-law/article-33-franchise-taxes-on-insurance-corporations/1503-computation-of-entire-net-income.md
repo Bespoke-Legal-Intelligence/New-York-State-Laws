@@ -141,6 +141,30 @@ code.
 in a previous taxable year pursuant to subparagraph (Z) of paragraph two
 of this subdivision that is included in federal gross income for the
 taxable year.
+  (X) For taxable years beginning on or after January first, two
+thousand twenty-five, in the case of qualified production property
+described in paragraph two of subsection (n) of section one hundred
+sixty-eight of the internal revenue code, the amount of any deduction
+allowed pursuant to subsection (a) of section one hundred sixty-seven of
+the internal revenue code as if the taxpayer has not made an election
+pursuant to subsection (n) of section one hundred sixty-eight of the
+internal revenue code.
+  (Y) For taxable years beginning on or after January first, two
+thousand twenty-five, the amount of any foreign and domestic research or
+experimental expenditures, as defined in sections one hundred
+seventy-four and 174A of the internal revenue code, paid or incurred in
+each taxable year on and after January first, two thousand twenty-five,
+amortized over a sixty-month period as if the election in subsection (c)
+of section 174A of the internal revenue code applied to such foreign and
+domestic research or experimental expenditures.
+  (Z) For taxable years beginning on or after January first, two
+thousand twenty-five, the remaining amount of any foreign and domestic
+research or experimental expenditures, as defined in sections one
+hundred seventy-four and 174A of the internal revenue code, paid or
+incurred prior to January first, two thousand twenty-five, determined as
+if section one hundred seventy-four of the internal revenue code in
+effect as of January first, two thousand twenty-two, applied to such
+expenditures.
   (2) Entire net income shall be determined without the exclusion,
 deduction or credit of:
   (A) the amount of any specific exemption or credit allowed in any law
@@ -293,6 +317,22 @@ article twenty-three of this chapter.
   (Z) The amount of any gain excluded from federal gross income for the
 taxable year by subparagraph (A) of paragraph (1) of subsection (a) of
 section 1400Z-2 of the internal revenue code.
+  (AA) For taxable years beginning on or after January first, two
+thousand twenty-five, in the case of qualified production property
+described in paragraph two of subsection (n) of section one hundred
+sixty-eight of the internal revenue code, any amount which the taxpayer
+claimed as a deduction under subsection (a) of section one hundred
+sixty-seven of the internal revenue code that included an allowance
+solely as a result of an election made pursuant to subsection (n) of
+section one hundred sixty-eight of the internal revenue code.
+  (BB) For taxable years beginning on or after January first, two
+thousand twenty-five, any amount claimed as a deduction under sections
+one hundred seventy-four and 174A of the internal revenue code in effect
+as of January first, two thousand twenty-five, and any amount claimed as
+a deduction pursuant to federal Public Law 119-21, title VII, section
+70302(f)(2)(a), for foreign and domestic research or experimental
+expenditures, as defined in sections one hundred seventy-four and 174A
+of the internal revenue code.
   (3) In determining entire net income, there shall be subtracted, to
 the extent not deductible in determining federal taxable income:
   (A) interest on indebtedness incurred or continued to purchase or

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | TAX |
 | Type | Consolidated law, chapter 60 |
-| Sections | 1,411 (18 repealed) |
-| Last changed | 29 May 2026 |
+| Sections | 1,400 |
+| Last changed | 5 Jun 2026 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Tax |
 
@@ -29,10 +29,11 @@ Became a law February 17, 1909, with the approval of the Governor.
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (106 lines)](chapter-text.md)
+[Full chapter text (108 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [5 Jun 2026](../../changes/2026/2026-06-05.md): 28 amended, 7 added, 18 removed
 - [29 May 2026](../../changes/2026/2026-05-29.md): 3 amended
 - [3 Apr 2026](../../changes/2026/2026-04-03.md): 2 amended
 - [27 Feb 2026](../../changes/2026/2026-02-27.md): 32 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [9 Jan 2026](../../changes/2026/2026-01-09.md): 2 amended
 - [26 Dec 2025](../../changes/2025/2025-12-26.md): 2 amended
 - [12 Dec 2025](../../changes/2025/2025-12-12.md): 1 amended
-- [28 Nov 2025](../../changes/2025/2025-11-28.md): 16 amended, 32 added
 
 ## Contents
 
@@ -85,6 +85,7 @@ Assembly, do enact as follows:
 - [Article 30 — City Personal Income Tax](article-30-city-personal-income-tax/)
 - [Article 30-A — City Income Tax Surcharge](article-30a-city-income-tax-surcharge/)
 - [Article 30-B — City Earnings Tax On Nonresidents](article-30b-city-earnings-tax-on-nonresidents/)
+- [Article 30-C — City Surcharge On Property That Does Not Serve As a Primary Residence](article-30c-city-surcharge-on-property-that-does-not-serve/)
 - [Article 31 — Real Estate Transfer Tax](article-31-real-estate-transfer-tax/)
 - [Article 31-A — Tax On Real Property Transfers For Transportation Assistance](article-31a-tax-on-real-property-transfers/)
 - [Article 31-A-1 — Tax On Real Estate Transfers In the Town of Red Hook](article-31a-1-tax-on-real-estate-transfers-in-the-town-of-red/)
@@ -94,7 +95,6 @@ Assembly, do enact as follows:
 - [Article 31-A-3 — Tax On Real Estate Transfers In the Town of Northeast](article-31a-3-tax-on-real-estate-transfers-in-the-town/)
 - [Article 31-A-4 — Tax On Real Estate Transfers In the Town of Chester](article-31a-4-tax-on-real-estate-transfers-in-the-town/)
 - [Article 31-A-4\*2 — Tax On Real Estate Transfers In the Town of Orangetown](article-31a-4-2-tax-on-real-estate-transfers-in-the-town/)
-- [Article 31-B — Tax On Real Estate Transfers In the Town of Brookhaven](article-31b-tax-on-real-estate-transfers-in-the-town/) *(repealed)*
 - [Article 31-B-1 — Tax On Real Estate Transfers In the County of Essex](article-31b-1-tax-on-real-estate-transfers-in-the-county/)
 - [Article 31-C — Tax On Real Estate Transfers In the County of Broome](article-31c-tax-on-real-estate-transfers-in-the-county/)
 - [Article 31-D — Tax On Real Estate Transfers In Towns In the Peconic Bay Region](article-31d-tax-on-real-estate-transfers-in-towns/)

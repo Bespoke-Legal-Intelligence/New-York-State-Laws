@@ -23,4 +23,12 @@ percent collected or received under those sections must be deposited to
 the credit of the tobacco control and insurance initiatives pool to be
 established and distributed by the commissioner of health in accordance
 with section twenty-eight hundred seven-v of the public health law.
+  (c) From the taxes, interest and penalties collected or received by
+the commissioner under section four hundred seventy-one-b of this
+article, effective April first, two thousand twenty-seven, fifty million
+dollars from the moneys collected or received under such section shall
+be deposited annually to the credit of the tobacco control and insurance
+initiatives pool to be established and distributed by the commissioner
+of health in accordance with section twenty-eight hundred seven-v of the
+public health law.
 ```

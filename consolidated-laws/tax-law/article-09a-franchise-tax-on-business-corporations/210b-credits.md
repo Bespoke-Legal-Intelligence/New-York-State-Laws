@@ -1182,25 +1182,28 @@ district property taxes" means the school district property taxes paid
 during the taxable year on qualified agricultural property, subject to
 the acreage limitation provided in paragraph (e) of this subdivision and
 the income limitation provided in paragraph (f) of this subdivision.
+  (a-1) New York gross income from farming. For purposes of this
+subdivision, the term "New York gross income from farming" means a
+taxpayer's federal gross income from farming, plus payments from the
+state's farmland protection program, administered by the department of
+agriculture and markets, income from a commercial horse boarding
+operation as defined by subdivision thirteen of section three hundred
+one of the agriculture and markets law, and income from the production
+or sale of maple syrup, Christmas trees, and cider or wine from a
+licensed New York state farm cidery or winery, as provided for in
+section fifty-eight-c and article six of the alcoholic beverage control
+law.
   (b) Eligible farmer. For purposes of this subdivision, the term
-"eligible farmer" means a taxpayer whose federal gross income from
-farming for the taxable year is at least two-thirds of excess federal
-gross income. The term "eligible farmer" also includes a corporation
-other than the taxpayer of record for qualified agricultural land which
-has paid the school district property taxes on such land pursuant to a
-contract for the future purchase of such land; provided that such
-corporation has a federal gross income from farming for the taxable year
-which is at least two-thirds of excess federal gross income; and
-provided further that, in determining such income eligibility, a
-taxpayer may, for any taxable year, use the average of such federal
-gross income from farming for that taxable year and such income for the
-two consecutive taxable years immediately preceding such taxable year.
-Excess federal gross income means the amount of federal gross income
-from all sources for the taxable year in excess of thirty thousand
-dollars. For the purposes of this paragraph, payments from the state's
-farmland protection program, administered by the department of
-agriculture and markets, shall be included as federal gross income from
-farming for otherwise eligible farmers.
+"eligible farmer" means a taxpayer whose New York gross income from
+farming for the taxable year, or whose average New York gross income
+from farming for the current year and two prior taxable years, is at
+least two-thirds of such taxpayer's federal gross income from all
+sources less thirty thousand dollars. The term "eligible farmer" also
+includes a corporation other than the taxpayer of record for qualified
+agricultural land which has paid the school district property taxes on
+such land pursuant to a contract for the future purchase of such land;
+provided that such corporation meets the definition of eligible farmer
+pursuant to this paragraph.
   (c) School district property taxes. For purposes of this subdivision,
 the term "school district property taxes" means all property taxes,
 special ad valorem levies and special assessments, exclusive of
@@ -1334,16 +1337,6 @@ thousand thirty-three of the internal revenue code.
   (iv) Conversion to nonqualified use. For purposes of this paragraph, a
 sale or other disposition of qualified agricultural property alone shall
 not constitute a conversion to a nonqualified use.
-  (i) Special rules. For purposes of this subdivision, the term "federal
-gross income from farming" shall include gross income from the
-production of maple syrup, cider, Christmas trees derived from a managed
-Christmas tree operation whether dug for transplanting or cut from the
-stump, or from a commercial horse boarding operation as defined in
-subdivision thirteen of section three hundred one of the agriculture and
-markets law, or from the sale of wine from a licensed farm winery as
-provided for in article six of the alcoholic beverage control law, or
-from the sale of cider from a licensed farm cidery as provided for in
-section fifty-eight-c of the alcoholic beverage control law.
   (j) Election to deem gross income of New York C corporation to
 shareholders. For purposes of this subdivision, federal gross income
 from farming shall be zero for any taxable year of a New York C
@@ -2495,27 +2488,28 @@ this chapter. Provided, further, the provisions of subsection (c) of
 section one thousand eighty-eight of this chapter notwithstanding, no
 interest shall be paid thereon.
   * NB There are 2 sb 52's
-  * 52. Credit for farm donations to food pantries. (a) General. In the
+  * 52. Credit for farm donations to food pantries.  (a) General. In the
 case of a taxpayer that is an eligible farmer, there shall be allowed a
 credit, to be computed as hereinafter provided against the tax imposed
 by this article for taxable years beginning on and after January first,
 two thousand eighteen. The amount of the credit shall be twenty-five
 percent of the fair market value of the taxpayer's qualified donations
 made to any eligible food pantry during the taxable year, not to exceed
-five thousand dollars per taxable year. If the taxpayer is a partner in
+five thousand dollars per taxable year for taxable years ending before
+January first, two thousand twenty-six, and fifty percent of the fair
+market value of the taxpayer's qualified donations made to any eligible
+food pantry during the taxable year, not to exceed twenty thousand
+dollars per taxable year, for taxable years beginning on and after
+January first, two thousand twenty-six. If the taxpayer is a partner in
 a partnership, then the cap imposed by the preceding sentence shall be
 applied at the entity level, so that the aggregate credit allowed to all
 partners of such entity in the taxable year does not exceed five
-thousand dollars.
+thousand dollars for taxable years ending before January first, two
+thousand twenty-six, and twenty thousand dollars for taxable years
+beginning on and after January first, two thousand twenty-six.
   (b) Eligible farmer. For purposes of this subdivision, the term
-"eligible farmer" means a taxpayer whose federal gross income from
-farming for the taxable year is at least two-thirds of excess federal
-gross income. Excess federal gross income means the amount of federal
-gross income from all sources for the taxable year in excess of thirty
-thousand dollars. For purposes of this paragraph, payments from the
-state's farmland protection program, administered by the department of
-agriculture and markets, shall be included as federal gross income from
-farming for otherwise eligible farmers.
+"eligible farmer" shall have the same meaning as set forth subdivision
+eleven of this section.
   (c) Qualified donation. For purposes of this subdivision, the term
 "qualified donation" means a donation of apparently wholesome food, as
 defined in section 170(e)(3)(C)(vi) of the internal revenue code, grown

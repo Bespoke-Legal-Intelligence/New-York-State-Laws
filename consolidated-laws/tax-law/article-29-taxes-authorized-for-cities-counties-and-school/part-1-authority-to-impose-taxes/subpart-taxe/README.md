@@ -66,7 +66,6 @@
 - [§ 1202-I Hotel or motel taxes in Schuyler county](1202i-hotel-or-motel-taxes-in-schuyler-county.md)
 - [§ 1202-II Hotel or motel taxes in the town of Goshen](1202ii-hotel-or-motel-taxes-in-the-town.md)
 - [§ 1202-II\*2 Hotel or motel taxes in the village of Goshen](1202ii-2-hotel-or-motel-taxes-in-the-village.md)
-- [§ 1202-II\*3 Hotel, motel or seasonal rental occupancy taxes in Wayne county](1202ii-3-hotel-motel-or-seasonal-rental.md) *(repealed)*
 - [§ 1202-III Hotel or motel taxes in the town of Highlands](1202iii-hotel-or-motel-taxes-in-the-town.md)
 - [§ 1202-J Hotel or motel taxes in Otsego county](1202j-hotel-or-motel-taxes-in-otsego-county.md)
 - [§ 1202-J\*2 Hotel and motel taxes in Sullivan county](1202j-2-hotel-and-motel-taxes-in-sullivan.md)

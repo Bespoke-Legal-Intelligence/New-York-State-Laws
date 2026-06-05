@@ -4,7 +4,7 @@
 [Education Law](../../../README.md) › [Title 5 — Taxation and Financial Administration](../../README.md) › [Article 73 — Apportionment of Public Moneys](../README.md) › [Part 1 — General Provisions](README.md)
 
 ```text
-  § 3602-ee. Statewide universal full-day pre-kindergarten program. 1.
+  * § 3602-ee. Statewide universal full-day pre-kindergarten program. 1.
 The purpose of the universal full-day pre-kindergarten program is to
 incentivize and fund state-of-the-art innovative pre-kindergarten
 programs and to encourage program creativity through competition.
@@ -233,4 +233,5 @@ the two thousand nineteen--two thousand twenty school year and
 thereafter, the commissioner is directed to include the grant amounts
 awarded pursuant to this section in the amount set forth for such school
 district as "UNIVERSAL PRE-KINDERGARTEN."
+  * NB Repealed July 1, 2026
 ```

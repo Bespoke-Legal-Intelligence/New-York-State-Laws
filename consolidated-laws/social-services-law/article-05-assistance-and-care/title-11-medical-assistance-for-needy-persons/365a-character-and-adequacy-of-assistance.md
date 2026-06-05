@@ -593,13 +593,8 @@ food and drug administration or indicated tests for a food and drug
 administration approved drug;
   (2) centers for medicare and medicaid services national coverage
 determinations or medicare administrative contractor local coverage
-determinations;
-  (3) nationally recognized clinical practice guidelines; or
-  (4) peer-reviewed literature and peer-reviewed scientific studies
-published in or accepted for publication by medical journals that meet
-nationally recognized requirements for scientific manuscripts and that
-submit most of their published articles for review by experts who are
-not part of the editorial staff.
+determinations; or
+  (3) nationally recognized clinical practice guidelines.
   (ii) As used in this paragraph, the following terms shall have the
 following meanings:
   (1) "Biomarker" means a characteristic that is measured as an
@@ -619,6 +614,10 @@ alternative care options intended to optimize patient care developed by
 independent organizations or medical professional societies utilizing a
 transparent methodology and reporting structure and with a conflict of
 interest policy.
+  (iii) Coverage of biomarker precision medical testing provided under
+this paragraph shall not require a deviation from the review for
+standard coverage or any existing process used to determine medical
+necessity.
   (nn) (i) Medical assistance shall include the coverage of the
 following services for individuals when a medical treatment may directly
 or indirectly cause iatrogenic infertility, which is an impairment of
@@ -776,15 +775,15 @@ procedures or any care, services or supplies related to such surgery
 other than those authorized by this subdivision.
   6. Any inconsistent provision of law notwithstanding, medical
 assistance shall also include payment for medical care, services or
-supplies furnished to eligible pregnant women pursuant to paragraph (o)
-of subdivision four of section three hundred sixty-six and subdivision
-six of section three hundred sixty-four-i of this title, to the extent
-that and for so long as federal financial participation is available
-therefor; provided, however, that nothing in this section shall be
-deemed to affect payment for such medical care, services or supplies if
-federal financial participation is not available for such care, services
-and supplies solely by reason of the immigration status of the otherwise
-eligible pregnant woman.
+supplies furnished to eligible pregnant persons pursuant to section
+three hundred sixty-six and subdivision five of section three hundred
+sixty-four-i of this title, to the extent that and for so long as
+federal financial participation is available therefor; provided,
+however, that nothing in this section shall be deemed to affect payment
+for such medical care, services or supplies if federal financial
+participation is not available for such care, services and supplies
+solely by reason of the immigration status of the otherwise eligible
+pregnant person.
   7. Medical assistance shall also include disproportionate share
 payments to general hospitals under the public health law.
   8. When a non-governmental entity is authorized by the department

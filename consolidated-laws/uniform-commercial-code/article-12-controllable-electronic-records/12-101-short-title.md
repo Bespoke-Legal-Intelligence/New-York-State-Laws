@@ -4,8 +4,7 @@
 [Uniform Commercial Code](../README.md) › [Article 12 — Controllable Electronic Records](README.md)
 
 ```text
-* Section 12--101. Short title.
+Section 12--101. Short title.
   This article may be cited as Uniform Commercial Code--Controllable
 Electronic Records.
-  * NB Effective June 3, 2026
 ```

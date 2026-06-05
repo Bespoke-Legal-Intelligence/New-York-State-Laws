@@ -12,10 +12,10 @@ substance is flavored, adulterated or mixed with any other ingredient,
 the wrapper or cover of which is made of paper or any other substance or
 material but is not made in whole or in part of tobacco. "Cigarette"
 shall not include a research tobacco product.
-  2. "Tobacco products." Any cigar, including a little cigar, or
-tobacco, other than cigarettes, intended for consumption by smoking,
-chewing, or as snuff. "Tobacco products" shall not include research
-tobacco products.
+  2. "Tobacco products." Any cigar, including a little cigar, tobacco,
+or alternative nicotine product, other than cigarettes, intended for
+consumption by smoking, chewing, or as snuff. "Tobacco products" shall
+not include research tobacco products.
   2-a. "Roll-your-own tobacco." Any tobacco product that, because of its
 appearance, type, packaging or labeling, is suitable for use and likely
 to be offered to, or purchased by, consumers as tobacco for making
@@ -64,12 +64,12 @@ be made.
 finance to purchase and affix adhesive or meter stamps on packages of
 cigarettes under this article.
   12. "Distributor." Any person who imports or causes to be imported
-into this state any tobacco product (in excess of fifty cigars or one
-pound of tobacco) for sale, or who manufactures any tobacco product in
-this state, and any person within or without the state who is authorized
-by the commissioner of taxation and finance to make returns and pay the
-tax on tobacco products sold, shipped or delivered by him to any person
-in the state.
+into this state any tobacco product (in excess of fifty cigars, one
+pound of tobacco, or fifteen units of alternative nicotine products) for
+sale, or who manufactures any tobacco product in this state, and any
+person within or without the state who is authorized by the commissioner
+of taxation and finance to make returns and pay the tax on tobacco
+products sold, shipped or delivered by them to any person in the state.
   13. "Unstamped or unlawfully stamped packages of cigarettes." A
 package of cigarettes which bears no tax stamp, or which bears a tax
 stamp of another state or taxing jurisdiction is considered to be an
@@ -125,4 +125,15 @@ where an ownership interest of more than five percent, whether direct or
 indirect, is held in each of such persons by another person, or by a
 group of other persons that are affiliated persons with respect to each
 other.
+  22. "Alternative nicotine product." Any noncombustible product, other
+than vapor products, which contains nicotine but not tobacco and is
+intended for human consumption, whether chewed, absorbed, dissolved, or
+ingested by any other means. "Alternative nicotine product" does not
+include any product regulated as a drug or device by the U.S. Food and
+Drug Administration (FDA) under Chapter V (21 U.S.C. § 351 et seq.) of
+the Federal Food, Drug, and Cosmetic Act. The term "unit" as it relates
+to alternative nicotine products means any cannister, pack, box, carton,
+or container of any kind or, if no other container, any wrapping, in
+which an alternative nicotine product is offered for sale, sold, or
+otherwise distributed to consumers.
 ```

@@ -4,7 +4,7 @@
 [Uniform Commercial Code](../../README.md) › [Article 12-A — Transitional Provisions For Uniform Commercial Code Amendments](../README.md) › [Part 3 — Transitional Provisions For Articles 9 and 12](README.md)
 
 ```text
-* Section  12-A-306. Priority of Claims When Priority Rules of Article 9
+Section  12-A-306. Priority of Claims When Priority Rules of Article 9
                     Do Not Apply.
   (a) Determination of priority. Subject to subsections (b) and (c),
 Article 12 determines the priority of conflicting claims to Article 12
@@ -22,5 +22,4 @@ the priorities established before the effective date of the UCC Revision
 Act, the priorities of claims to Article 12 property established before
 the effective date of of the UCC Revision Act cease to apply on the
 adjustment date.
-  * NB Effective June 3, 2026
 ```

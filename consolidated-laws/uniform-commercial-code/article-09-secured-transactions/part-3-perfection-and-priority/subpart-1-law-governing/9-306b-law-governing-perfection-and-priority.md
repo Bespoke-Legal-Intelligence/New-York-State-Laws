@@ -4,7 +4,7 @@
 [Uniform Commercial Code](../../../README.md) › [Article 9 — Secured Transactions](../../README.md) › [Part 3 — Perfection and Priority](../README.md) › [Subpart 1 — Law Governing Perfection and Priority](README.md)
 
 ```text
-* Section 9-306B. Law Governing Perfection and Priority of Security
+Section 9-306B. Law Governing Perfection and Priority of Security
                    Interests in Controllable Accounts, Controllable
                    Electronic Records, and Controllable Payment
                    Intangibles.
@@ -24,5 +24,4 @@ filing; and
   (2) automatic perfection of a security interest in a controllable
 payment intangible created by a sale of the controllable payment
 intangible.
-  * NB Effective June 3, 2026
 ```

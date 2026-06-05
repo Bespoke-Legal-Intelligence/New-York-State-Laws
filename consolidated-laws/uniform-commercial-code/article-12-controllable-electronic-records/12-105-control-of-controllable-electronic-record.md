@@ -4,7 +4,7 @@
 [Uniform Commercial Code](../README.md) › [Article 12 — Controllable Electronic Records](README.md)
 
 ```text
-* Section 12--105. Control of Controllable Electronic Record.
+Section 12--105. Control of Controllable Electronic Record.
   (a) General rule: control of controllable electronic record. A person
 has control of a controllable electronic record if the electronic
 record, a record attached to or logically associated with the electronic
@@ -63,5 +63,4 @@ will obtain control on behalf of another person, unless the person
 otherwise agrees or law other than this article or Article 9 otherwise
 provides, the person does not owe any duty to the other person and is
 not required to confirm the acknowledgment to any other person.
-  * NB Effective June 3, 2026
 ```

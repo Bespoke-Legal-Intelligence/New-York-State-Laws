@@ -4,7 +4,7 @@
 [Uniform Commercial Code](../../README.md) › [Article 12-A — Transitional Provisions For Uniform Commercial Code Amendments](../README.md) › [Part 3 — Transitional Provisions For Articles 9 and 12](README.md)
 
 ```text
-* Section 12-A-303. Security Interest Unperfected Before Effective Date.
+Section 12-A-303. Security Interest Unperfected Before Effective Date.
   A security interest that is enforceable immediately before the
 effective date of the UCC Revision Act but is unperfected at that time:
   (1) remains an enforceable security interest until the adjustment
@@ -19,5 +19,4 @@ Act if the requirements for perfection under the revised UCC are
 satisfied before or at that time; or
   (B) when the requirements for perfection are satisfied if the
 requirements are satisfied after that time.
-  * NB Effective June 3, 2026
 ```

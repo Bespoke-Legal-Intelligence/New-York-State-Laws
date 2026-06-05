@@ -250,8 +250,8 @@ January first, two thousand fifteen through December thirty-first, two
 thousand twenty-one, for amounts collected in the aggregate in excess of
 one billion forty-five million dollars on an annual basis, and for the
 period January first, two thousand twenty-two to December thirty-first,
-two thousand twenty-six for amounts collected in the aggregate in excess
-of one billion eighty-five million dollars on an annual basis,
+two thousand twenty-nine for amounts collected in the aggregate in
+excess of one billion eighty-five million dollars on an annual basis,
 prospective adjustments shall be suspended if the annual reconciliation
 calculation from the prior year would otherwise result in a decrease to
 the regional allocation of the specified gross annual payment amount for
@@ -262,7 +262,7 @@ collections on an annual basis over and above one billion forty-five
 million dollars on an annual basis for the period on and after January
 first, two thousand fifteen through December thirty-first, two thousand
 twenty-one and for the period January first, two thousand twenty-two to
-December thirty-first, two thousand twenty-six for amounts collected in
+December thirty-first, two thousand twenty-nine for amounts collected in
 the aggregate in excess of one billion eighty-five million dollars on an
 annual basis have been reserved and set aside for deposit in the HCRA
 resources fund. Any amounts collected in the aggregate at or below one
@@ -270,7 +270,7 @@ billion forty-five million dollars on an annual basis for the period on
 and after January first, two thousand fifteen through December
 thirty-first, two thousand twenty-two, and for the period January first,
 two thousand twenty-three to December thirty-first, two thousand
-twenty-six for amounts collected in the aggregate in excess of one
+twenty-nine for amounts collected in the aggregate in excess of one
 billion eighty-five million dollars on an annual basis, shall be subject
 to regional adjustments reconciling any decreases or increases to the
 regional allocation in accordance with paragraph (a) of this

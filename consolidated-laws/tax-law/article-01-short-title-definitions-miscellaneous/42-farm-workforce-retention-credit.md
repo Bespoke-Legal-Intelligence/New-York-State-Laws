@@ -12,16 +12,9 @@ this section.
   (b) A farm employer is a corporation (including a New York S
 corporation), a sole proprietorship, a limited liability company or a
 partnership who is also an eligible farmer.
-  (c) For purposes of this section, the term "eligible farmer" means a
-taxpayer whose federal gross income from farming as defined in
-subsection (n) of section six hundred six of this chapter for the
-taxable year is at least two-thirds of excess federal gross income.
-Excess federal gross income means the amount of federal gross income
-from all sources for the taxable year in excess of thirty thousand
-dollars. For purposes of this section, payments from the state's
-farmland protection program, administered by the department of
-agriculture and markets, shall be included as federal gross income from
-farming for otherwise eligible farmers.
+  (c) For purposes of this section, the term "eligible farmer" shall
+have the same meaning as set forth in subsection (n) of section six
+hundred six of this chapter.
   (d) An eligible farm employee is an individual who is employed for
 five hundred hours or more per taxable year, by a farm employer in New
 York state, but excluding general executive officers of the farm

@@ -250,7 +250,124 @@ collective bargaining agreement or the obligation of such vendor track
 to negotiate terms and conditions of employment with any certified
 employee representative.
   * NB Repealed April 1, 2030
-  (iii) less any additional vendor's fees. Additional vendor's fees
+  * (iii) less any additional vendor's fees. Additional vendor's fees
+shall be calculated as follows:
+  (A) when a vendor track is located within region one and is located
+within Orange county or region two of development zone two, as such zone
+is defined in section thirteen hundred ten of the racing, pari-mutuel
+wagering and breeding law, or is located within region six of such
+development zone two and is located within Ontario county, the
+additional vendor fee received by the vendor track shall be calculated
+pursuant to subclause one of this clause; provided, however, such
+additional vendor fee shall not exceed ten percent.
+  (1) The additional vendor fee is a percentage of the total revenue
+wagered at the vendor track after payout for prizes pursuant to this
+chapter. That percentage is calculated by subtracting the effective tax
+rate on all taxable gross gaming revenue paid by a gaming facility
+within the same region as the vendor track from the percentage that is
+ninety percent less the vendor track's vendor fee percentage and less
+the additional vendor fee percentage authorized pursuant to clause (D)
+of this subparagraph. For purposes of this clause, Seneca and Wayne
+counties shall be deemed to be located within region six of development
+zone two.
+  (2) The additional vendor fee paid pursuant to this clause shall
+commence with the state fiscal year beginning on April first, two
+thousand nineteen and shall be paid to a vendor track no later than
+ninety days after the close of the fiscal year. The additional vendor
+fee authorized by this clause shall only be applied to revenue wagered
+at a vendor track while a gaming facility in the same region as that
+vendor track is open and operating pursuant to an operation certificate
+issued pursuant to section thirteen hundred thirty-one of the racing,
+pari-mutuel wagering and breeding law.
+  ** (B) for a vendor track that is located within Oneida county, within
+fifteen miles of a Native American class III gaming facility, such
+additional vendor fee shall be six and four-tenths percent of the total
+revenue wagered at the vendor after payout for prizes pursuant to this
+chapter. The vendor track shall forfeit this additional vendor fee for
+any time period that the vendor track does not maintain at least seventy
+percent of full-time equivalent employees as they employed in the year
+two thousand sixteen.
+  ** NB Repealed March 31, 2027
+  (C) (1) for a vendor track that is located within development zone one
+as defined by section thirteen hundred ten of the racing, pari-mutuel
+wagering and breeding law, such additional vendor fee shall be six and
+five-tenths percent of the total revenue wagered at the vendor track
+after payout for prizes pursuant to this chapter. At the conclusion of
+each fiscal year, if the effective tax rate on all taxable gross gaming
+revenue paid by a gaming facility that is licensed under title two-A of
+article thirteen of the racing, pari-mutuel wagering and breeding law,
+and located within New York city is below forty-four percent, the vendor
+track shall receive an additional calculated amount no later than ninety
+days after the close of the fiscal year. For the purposes of this
+clause, an additional calculated amount shall be the differential
+between forty-four percent and the effective tax rate on all taxable
+gross gaming revenue paid by the applicable gaming facility applied to
+revenue wagered at such vendor track after payout for prizes pursuant to
+this chapter. The vendor track must maintain at least ninety percent of
+full-time equivalent gaming employees as they employed in the year two
+thousand twenty-five to receive the additional vendor fee and additional
+calculated amount. The additional vendor fee and additional calculated
+amount authorized by this clause shall only be applied to revenue
+wagered at a vendor track while the applicable gaming facility
+referenced pursuant to this clause is open and operating pursuant to an
+operation certificate issued pursuant to section thirteen hundred
+thirty-one of the racing, pari-mutuel wagering and breeding law.
+  (2) To be eligible to receive the additional vendor fee authorized
+pursuant to this clause, a vendor track must submit an application to
+the gaming commission. Such application shall identify the number of
+full-time equivalent gaming employees employed at the facility in
+calendar year two thousand twenty-five.
+  (3) The additional vendor fee authorized by this clause shall be
+applicable commencing on the date that an eligible facility submits
+their application under subclause two of this clause to the gaming
+commission.
+  (D) (1) five percent for the following:
+  (I) any video lottery gaming facility located in either Nassau or
+Suffolk county that is operated by a corporation established pursuant to
+section five hundred two of the racing, pari-mutuel wagering and
+breeding law;
+  (II) a vendor track located within region one and located within
+Orange county;
+  (III) any vendor track located within fifteen miles of a Native
+American class III gaming facility as defined in 25 U.S.C §2703(8); and
+  (IV) a vendor track located more than fifteen miles but less than
+fifty miles from a destination resort gaming facility authorized
+pursuant to article thirteen of the racing, pari-mutuel wagering and
+breeding law.
+  (2) To be eligible to receive the additional vendor fee authorized
+pursuant to this clause, a vendor track or video lottery gaming facility
+must submit an application to the gaming commission. Such application
+shall identify the number of full-time equivalent gaming employees
+employed at the facility in calendar year two thousand twenty-five.
+  (3) On July first of each year beginning on July first, two thousand
+twenty-seven, each track or facility shall certify to the gaming
+commission the number of full-time equivalent gaming employees employed
+by the facility for the preceding calendar year. If the number of
+full-time equivalent gaming employees certified to the gaming commission
+is less than the number of full-time equivalent gaming employees
+employed by the facility in the year two thousand twenty-five, the
+gaming commission may reduce the additional vendor fee received by such
+track or facility pursuant to this clause by the following amount:
+  (I) if the number of certified full-time equivalent gaming employees
+is less than one hundred percent but more than or equal to ninety-five
+percent of the original amount, one percent;
+  (II) if the number of certified full-time equivalent gaming employees
+is less than ninety-five percent but more than or equal to ninety
+percent of the original amount, two percent;
+  (III) if the number of certified full-time equivalent gaming employees
+is less than ninety percent but more than or equal to eighty-five
+percent of the original amount, three percent;
+  (IV) if the number of certified full-time equivalent gaming employees
+is less than eighty-five percent but more than or equal to eighty
+percent of the original amount, four percent; and
+  (V) if the number of certified full-time equivalent gaming employees
+is less than eighty percent of the original amount, the full five
+percent.
+  (4) The additional vendor fee authorized by this clause shall be
+applicable commencing on the date that an eligible facility submits its
+application under subclause two of this clause to the gaming commission.
+  * NB Effective until May 28, 2029
+  * (iii) less any additional vendor's fees. Additional vendor's fees
 shall be calculated as follows:
   (A) when a vendor track is located within region one and is located
 within Orange county or region two of development zone two, as such zone
@@ -277,7 +394,7 @@ at a vendor track while a gaming facility in the same region as that
 vendor track is open and operating pursuant to an operation certificate
 issued pursuant to section thirteen hundred thirty-one of the racing,
 pari-mutuel wagering and breeding law.
-  * (B) for a vendor track that is located within Oneida county, within
+  ** (B) for a vendor track that is located within Oneida county, within
 fifteen miles of a Native American class III gaming facility, such
 additional vendor fee shall be six and four-tenths percent of the total
 revenue wagered at the vendor after payout for prizes pursuant to this
@@ -285,7 +402,8 @@ chapter. The vendor track shall forfeit this additional vendor fee for
 any time period that the vendor track does not maintain at least seventy
 percent of full-time equivalent employees as they employed in the year
 two thousand sixteen.
-  * NB Repealed March 31, 2027
+  ** NB Repealed March 31, 2027
+  * NB Effective May 28, 2029
   1-a. (i) Notwithstanding any provision of law to the contrary, any
 operators of a vendor track or the operators of any other video lottery
 gaming facility eligible to receive a capital award as of December

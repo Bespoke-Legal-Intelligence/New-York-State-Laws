@@ -13,10 +13,9 @@
 <summary>Official heading of Article 12-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 12-A
+                              ARTICLE 12-A
              TRANSITIONAL PROVISIONS FOR UNIFORM COMMERCIAL
                              CODE AMENDMENTS
-  * NB Effective June 3, 2026
 ```
 
 </details>

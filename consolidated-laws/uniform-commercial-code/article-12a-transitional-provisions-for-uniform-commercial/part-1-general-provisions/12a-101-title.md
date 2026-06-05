@@ -4,8 +4,7 @@
 [Uniform Commercial Code](../../README.md) › [Article 12-A — Transitional Provisions For Uniform Commercial Code Amendments](../README.md) › [Part 1 — General Provisions and Definitions](README.md)
 
 ```text
-* Section 12-A-101. Title. This article may be cited as Transitional
+Section 12-A-101. Title. This article may be cited as Transitional
                     Provisions for the 2025 Uniform Commercial Code
                     Amendments.
-  * NB Effective June 3, 2026
 ```

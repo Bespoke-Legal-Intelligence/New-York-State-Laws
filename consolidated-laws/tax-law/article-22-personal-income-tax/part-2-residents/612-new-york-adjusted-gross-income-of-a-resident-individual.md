@@ -332,6 +332,22 @@ article.
 a taxpayer who claims a credit allowed under subsection (g) of section
 thirteen hundred ten of this chapter, an amount equal to the amount of
 such credit.
+  (44) For taxable years beginning on or after January first, two
+thousand twenty-five, in the case of qualified production property
+described in paragraph two of subsection (n) of section one hundred
+sixty-eight of the internal revenue code, any amount which the taxpayer
+claimed as a deduction under subsection (a) of section one hundred
+sixty-seven of the internal revenue code that included an allowance
+solely as a result of an election made pursuant to subsection (n) of
+section one hundred sixty-eight of the internal revenue code.
+  (45) For taxable years beginning on or after January first, two
+thousand twenty-five, any amount claimed as a deduction under sections
+one hundred seventy-four and 174A of the internal revenue code in effect
+as of January first, two thousand twenty-five, and any amount claimed as
+a deduction pursuant to federal Public Law 119-21, title VII, section
+70302(f)(2)(a), for foreign and domestic research or experimental
+expenditures, as defined in sections one hundred seventy-four and 174A
+of the internal revenue code.
   (c) Modifications reducing federal adjusted gross income. There shall
 be subtracted from federal adjusted gross income:
   (1) Interest income on obligations of the United States and its
@@ -834,6 +850,40 @@ thousand twenty-three, the amount of any student loan discharged or
 forgiven by the secretary of education pursuant to any federally
 authorized program, to the extent included in federal adjusted gross
 income.
+  * (48) For taxable years beginning on or after January first, two
+thousand twenty-six, an amount of up to twenty-five thousand dollars to
+the extent allowed as a federal deduction pursuant to section two
+hundred twenty-four of the internal revenue code.
+  * NB There are 3 par (48)'s
+  * (48) For taxable years beginning on or after January first, two
+thousand twenty-five, in the case of qualified production property
+described in paragraph two of subsection (n) of section one hundred
+sixty-eight of the internal revenue code, the amount of any deduction
+allowed pursuant to subsection (a) of section one hundred sixty-seven of
+the internal revenue code as if the taxpayer has not made an election
+pursuant to subsection (n) of section one hundred sixty-eight of the
+internal revenue code.
+  * NB There are 3 par (48)'s
+  * (48) The amount of any distribution included in federal adjusted
+gross income pursuant to subsection (d) of section nine hundred
+sixty-two of the internal revenue code.
+  * NB There are 3 par (48)'s
+  (49) For taxable years beginning on or after January first, two
+thousand twenty-five, the amount of any foreign and domestic research or
+experimental expenditures, as defined in sections one hundred
+seventy-four and 174A of the internal revenue code, paid or incurred in
+each taxable year on and after January first, two thousand twenty-five,
+amortized over a sixty-month period as if the election in subsection (c)
+of section 174A of the internal revenue code applied to such foreign and
+domestic research or experimental expenditures.
+  (50) For taxable years beginning on or after January first, two
+thousand twenty-five, the remaining amount of any foreign and domestic
+research or experimental expenditures, as defined in sections one
+hundred seventy-four and 174A of the internal revenue code, paid or
+incurred prior to January first, two thousand twenty-five, determined as
+if section one hundred seventy-four of the internal revenue code in
+effect as of January first, two thousand twenty-two, applied to such
+expenditures.
   (d) Modification for New York fiduciary adjustment. There shall be
 added to or subtracted from federal adjusted gross income (as the case
 may be) the taxpayer's share, as beneficiary of an estate or trust, of

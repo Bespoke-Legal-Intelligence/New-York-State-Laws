@@ -125,7 +125,7 @@
 - [§ 97-S Nelson A](97s-nelson.md)
 - [§ 97-T Lawyers' fund for client protection of the state of New York](97t-lawyers-fund-for-client-protection-of-the-state-of-new-york.md)
 - [§ 97-V The New York interest on lawyer account (IOLA) fund](97v-the-new-york-interest-on-lawyer-account-iola-fund.md)
-- [§ 97-V\*2 New York state musical instrument revolving fund](97v-2-new-york-state-musical-instrument-revolving-fund.md)
+- [§ 97-V\*2 New York state music grant fund](97v-2-new-york-state-music-grant-fund.md)
 - [§ 97-W Chemical dependence service fund](97w-chemical-dependence-service-fund.md)
 - [§ 97-X Statewide planning and research cooperative system; assessment of annual fees on general hospitals](97x-statewide-planning-and-research-cooperative-system-assessment-of-annual-fees.md)
 - [§ 97-Y Business and licensing services account](97y-business-and-licensing-services-account.md)
@@ -188,7 +188,7 @@
 - [§ 97-WWW Cuba lake management fund](97www-cuba-lake-management-fund.md)
 - [§ 97-WWW\*2 Quality child care and protection fund](97www-2-quality-child-care-and-protection-fund.md)
 - [§ 97-WWW\*3 Consumer protection account](97www-3-consumer-protection-account.md)
-- [§ 97-WWW\*4 Percy T](97www-4-percy-t.md)
+- [§ 97-WWW\*4 New York State Dental Foundation fund](97www-4-new-york-state-dental-foundation-fund.md)
 - [§ 97-XXX Additional mass transportation assistance fund](97xxx-additional-mass-transportation-assistance-fund.md)
 - [§ 97-XXX\*2 Agriculture in the classroom fund](97xxx-2-agriculture-in-the-classroom-fund.md)
 - [§ 97-YYY Children and family services quality enhancement fund](97yyy-children-and-family-services-quality-enhancement-fund.md)
@@ -517,10 +517,8 @@ Section 70.        Classification of funds.
         97-vvv.    Universal prekindergarten reserve fund.
         97-www.    Cuba lake management fund.
         97-www*2.  Quality child care and protection fund.
-        97-www*3.  Underground facilities safety training account.
-        97-www*4.  Consumer protection account.
-        97-www*5.  Percy T. Phillips educational foundation of the
-                     Dental Society of the state of New York fund.
+        97-www*3.  Consumer protection account.
+        97-www*4.  New York State Dental Foundation fund.
         97-xxx.    Additional mass transportation assistance fund.
         97-xxx*2.  Agriculture in the classroom fund.
         97-yyy.    Children and family services quality enhancement

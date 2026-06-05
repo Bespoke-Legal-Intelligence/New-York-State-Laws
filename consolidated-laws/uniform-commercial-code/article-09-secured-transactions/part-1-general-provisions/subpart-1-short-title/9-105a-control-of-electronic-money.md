@@ -4,7 +4,7 @@
 [Uniform Commercial Code](../../../README.md) › [Article 9 — Secured Transactions](../../README.md) › [Part 1 — General Provisions](../README.md) › [Subpart 1 — Short Title, Definitions, and General Concepts](README.md)
 
 ```text
-* Section 9--105A. Control of Electronic Money.
+Section 9--105A. Control of Electronic Money.
   (a) General rule: control of electronic money. A person has control of
 electronic money if:
   (1) the electronic money, a record attached to or logically associated
@@ -52,5 +52,4 @@ control on behalf of the person; or
   (2) obtains control of the electronic money after having acknowledged
 that it will obtain control of the electronic money on behalf of the
 person.
-  * NB Effective June 3, 2026
 ```

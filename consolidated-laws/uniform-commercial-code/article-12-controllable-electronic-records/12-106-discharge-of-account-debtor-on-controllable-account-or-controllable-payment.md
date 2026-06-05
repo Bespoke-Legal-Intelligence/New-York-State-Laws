@@ -4,8 +4,8 @@
 [Uniform Commercial Code](../README.md) › [Article 12 — Controllable Electronic Records](README.md)
 
 ```text
-* Section 12--106. Discharge of Account Debtor on Controllable Account
-or Controllable Payment Intangible.
+Section 12--106. Discharge of Account Debtor on Controllable Account or
+Controllable Payment Intangible.
   (a) Discharge of account debtor. An account debtor on a controllable
 account or controllable payment intangible may discharge its obligation
 by paying:
@@ -80,5 +80,4 @@ option under subsection (d)(3).
 law other than this article which establishes a different rule for an
 account debtor who is an individual and who incurred the obligation
 primarily for personal, family, or household purposes.
-  * NB Effective June 3, 2026
 ```

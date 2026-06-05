@@ -223,6 +223,15 @@ and the state of New York based on each municipality's share and the
 state's share of early intervention program expenditures not
 reimbursable by the medical assistance program for the latest twelve
 month period for which such data is available.
+  (xvii) A gross annual statewide amount for the period January first,
+two thousand twenty-seven to December thirty-first, two thousand
+twenty-nine shall be one billion eighty-five million dollars, forty
+million dollars annually of which shall be allocated under section
+twenty-eight hundred seven-o of this article among the municipalities of
+and the state of New York based on each municipality's share and the
+state's share of early intervention program expenditures not
+reimbursable by the medical assistance program for the latest twelve
+month period for which such data is available.
   (b) The amount specified in paragraph (a) of this subdivision shall be
 allocated among the regions based on each region's proportional share of
 the sum of the estimated revenue of all general hospitals in the region,
@@ -322,7 +331,7 @@ for the period April first, two thousand eleven through March
 thirty-first, two thousand twelve;
   (xiii) twenty-three million eight hundred thirty-six thousand dollars
 each state fiscal year for the period April first, two thousand twelve
-through March thirty-first, two thousand twenty-six;
+through March thirty-first, two thousand twenty-nine;
   (xiv) provided, however, for periods prior to January first, two
 thousand nine, amounts set forth in this paragraph may be reduced by the
 commissioner in an amount to be approved by the director of the budget

@@ -404,6 +404,30 @@ twenty-C of this chapter, not used as the basis for any other tax
 deduction, exemption, or credit and not otherwise required to be added
 back by paragraph (b) of this subdivision in computing entire net
 income.
+  (24) For taxable years beginning on or after January first, two
+thousand twenty-five, in the case of qualified production property
+described in paragraph two of subsection (n) of section one hundred
+sixty-eight of the internal revenue code, the amount of any deduction
+allowed pursuant to subsection (a) of section one hundred sixty-seven of
+the internal revenue code as if the taxpayer has not made an election
+pursuant to subsection (n) of section one hundred sixty-eight of the
+internal revenue code.
+  (25) For taxable years beginning on or after January first, two
+thousand twenty-five, the amount of any foreign and domestic research or
+experimental expenditures, as defined in sections one hundred
+seventy-four and 174A of the internal revenue code, paid or incurred in
+each taxable year on and after January first, two thousand twenty-five,
+amortized over a sixty-month period as if the election in subsection (c)
+of section 174A of the internal revenue code applied to such foreign and
+domestic research or experimental expenditures.
+  (26) For taxable years beginning on or after January first, two
+thousand twenty-five, the remaining amount of any foreign and domestic
+research or experimental expenditures, as defined in sections one
+hundred seventy-four and 174A of the internal revenue code, paid or
+incurred prior to January first, two thousand twenty-five, determined as
+if section one hundred seventy-four of the internal revenue code in
+effect as of January first, two thousand twenty-two, applied to such
+expenditures.
   (b) Entire net income shall be determined without the exclusion,
 deduction or credit of:
   (1) in the case of an alien corporation that under any provision of
@@ -562,6 +586,22 @@ revenue code.
   (27) The amount of any gain excluded from federal gross income for the
 taxable year by subparagraph (A) of paragraph (1) of subsection (a) of
 section 1400Z-2 of the internal revenue code.
+  (28) For taxable years beginning on or after January first, two
+thousand twenty-five, in the case of qualified production property
+described in paragraph two of subsection (n) of section one hundred
+sixty-eight of the internal revenue code, any amount which the taxpayer
+claimed as a deduction under subsection (a) of section one hundred
+sixty-seven of the internal revenue code that included an allowance
+solely as a result of an election made pursuant to subsection (n) of
+section one hundred sixty-eight of the internal revenue code.
+  (29) For taxable years beginning on or after January first, two
+thousand twenty-five, any amount claimed as a deduction under sections
+one hundred seventy-four and 174A of the internal revenue code in effect
+as of January first, two thousand twenty-five, and any amount claimed as
+a deduction pursuant to federal Public Law 119-21, title VII, section
+70302(f)(2)(a), for foreign and domestic research or experimental
+expenditures, as defined in sections one hundred seventy-four and 174A
+of the internal revenue code.
   (c-1)(1) Notwithstanding any other provision of this article, in the
 case of a taxpayer which is a foreign air carrier holding a foreign air
 carrier permit issued by the United States department of transportation

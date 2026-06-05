@@ -94,166 +94,167 @@ officers or employees from furnishing information to the office of
 temporary and disability assistance relating to the payment of the
 credit for certain household and dependent care services necessary for
 gainful employment under subsection (c) of section six hundred six of
-this article and the earned income credit under subsection (d) of
-section six hundred six of this article and the enhanced earned income
-credit under subsection (d-1) of section six hundred six of this
-article, or pursuant to a local law enacted by a city having a
-population of one million or more pursuant to subsection (f) of section
-thirteen hundred ten of this chapter, only to the extent necessary to
-calculate qualified state expenditures under paragraph seven of
-subdivision (a) of section four hundred nine of the federal social
-security act or to document the proper expenditure of federal temporary
-assistance for needy families funds under section four hundred three of
-such act. The office of temporary and disability assistance may
-redisclose such information to the United States department of health
-and human services only to the extent necessary to calculate such
-qualified state expenditures or to document the proper expenditure of
-such federal temporary assistance for needy families funds. Nothing
-herein shall be construed to prohibit the delivery by the commissioner
-to a commissioner of jurors, appointed pursuant to section five hundred
-four of the judiciary law, or, in counties within cities having a
-population of one million or more, to the county clerk of such county,
-or to the clerk of the court or jury administrator of a United States
-district court appointed pursuant to title twenty-eight of the United
-States Code, section 1836(b)(2), of a mailing list of individuals to
-whom income tax forms are mailed by the commissioner for the sole
-purpose of compiling a list of prospective jurors as provided in article
-sixteen of the judiciary law or title twenty-eight of the United States
-Code. Provided, however, such delivery shall only be made pursuant to an
-order of the chief administrator of the courts, appointed pursuant to
-section two hundred ten of the judiciary law or an order of a chief
-judge of any United States district court in New York State. No such
-order may be issued unless such chief administrator or chief judge of
-such United States district court is satisfied that such mailing list is
-needed to compile a proper list of prospective jurors for the county or
-such United States district court for which such order is sought and
-that, in view of the responsibilities imposed by the various laws of the
-state on the department, it is reasonable to require the commissioner to
-furnish such list. Such order shall provide that such list shall be used
-for the sole purpose of compiling a list of prospective jurors and that
-such commissioner of jurors, or such county clerk, or clerk of the court
-or jury administrator of such United States district court shall take
-all necessary steps to insure that the list is kept confidential and
-that there is no unauthorized use or disclosure of such list.
-Furthermore, nothing herein shall be construed to prohibit the delivery
-to a taxpayer or his or her duly authorized representative of a
-certified copy of any return or report filed in connection with his or
-her tax or to prohibit the publication of statistics so classified as to
-prevent the identification of particular reports or returns and the
-items thereof, or the inspection by the attorney general or other legal
-representatives of the state of the report or return of any taxpayer or
-of any employer filed under section one hundred seventy-one-h of this
-chapter, where such taxpayer or employer shall bring action to set aside
-or review the tax based thereon, or against whom an action or proceeding
-under this chapter or under this chapter and article eighteen of the
-labor law has been recommended by the commissioner, the commissioner of
-labor with respect to unemployment insurance matters, or the attorney
-general or has been instituted, or the inspection of the reports or
-returns required under this article by the comptroller or duly
-designated officer or employee of the state department of audit and
-control, for purposes of the audit of a refund of any tax paid by a
-taxpayer under this article, or the furnishing to the state department
-of labor of unemployment insurance information obtained or derived from
-quarterly combined withholding, wage reporting and unemployment
-insurance returns required to be filed by employers pursuant to
-paragraph four of subsection (a) of section six hundred seventy-four of
-this article, for purposes of administration of such department's
-unemployment insurance program, employment services program, federal and
-state employment and training programs, employment statistics and labor
-market information programs, worker protection programs, federal
-programs for which the department has administrative responsibility or
-for other purposes deemed appropriate by the commissioner of labor
-consistent with the provisions of the labor law, and redisclosure of
-such information in accordance with the provisions of sections five
-hundred thirty-six and five hundred thirty-seven of the labor law or any
-other applicable law, or the furnishing to the state office of temporary
-and disability assistance of information obtained or derived from New
-York state personal income tax returns as described in paragraph (b) of
-subdivision two of section one hundred seventy-one-g of this chapter for
-the purpose of reviewing support orders enforced pursuant to title six-A
-of article three of the social services law to aid in the determination
-of whether such orders should be adjusted, or the furnishing of
-information obtained from the reports required to be submitted by
-employers regarding newly hired or re-hired employees pursuant to
-section one hundred seventy-one-h of this chapter to the state office of
-temporary and disability assistance, the state department of health, the
-state department of labor and the workers' compensation board for
-purposes of administration of the child support enforcement program,
-verification of individuals' eligibility for one or more of the programs
-specified in subsection (b) of section eleven hundred thirty-seven of
-the federal social security act and for other public assistance programs
-authorized by state law, and administration of the state's employment
-security and workers' compensation programs, and to the national
-directory of new hires established pursuant to section four hundred
-fifty-three-A of the federal social security act for the purposes
-specified in such section, or the furnishing to the state office of
-temporary and disability assistance of the amount of an overpayment of
+this article, the New York state child and dependent care credit under
+subsection (c-2) of section six hundred six of this article, and the
+earned income credit under subsection (d) of section six hundred six of
+this article and the enhanced earned income credit under subsection
+(d-1) of section six hundred six of this article, or pursuant to a local
+law enacted by a city having a population of one million or more
+pursuant to subsection (f) of section thirteen hundred ten of this
+chapter, only to the extent necessary to calculate qualified state
+expenditures under paragraph seven of subdivision (a) of section four
+hundred nine of the federal social security act or to document the
+proper expenditure of federal temporary assistance for needy families
+funds under section four hundred three of such act. The office of
+temporary and disability assistance may redisclose such information to
+the United States department of health and human services only to the
+extent necessary to calculate such qualified state expenditures or to
+document the proper expenditure of such federal temporary assistance for
+needy families funds. Nothing herein shall be construed to prohibit the
+delivery by the commissioner to a commissioner of jurors, appointed
+pursuant to section five hundred four of the judiciary law, or, in
+counties within cities having a population of one million or more, to
+the county clerk of such county, or to the clerk of the court or jury
+administrator of a United States district court appointed pursuant to
+title twenty-eight of the United States Code, section 1836(b)(2), of a
+mailing list of individuals to whom income tax forms are mailed by the
+commissioner for the sole purpose of compiling a list of prospective
+jurors as provided in article sixteen of the judiciary law or title
+twenty-eight of the United States Code. Provided, however, such delivery
+shall only be made pursuant to an order of the chief administrator of
+the courts, appointed pursuant to section two hundred ten of the
+judiciary law or an order of a chief judge of any United States district
+court in New York State. No such order may be issued unless such chief
+administrator or chief judge of such United States district court is
+satisfied that such mailing list is needed to compile a proper list of
+prospective jurors for the county or such United States district court
+for which such order is sought and that, in view of the responsibilities
+imposed by the various laws of the state on the department, it is
+reasonable to require the commissioner to furnish such list. Such order
+shall provide that such list shall be used for the sole purpose of
+compiling a list of prospective jurors and that such commissioner of
+jurors, or such county clerk, or clerk of the court or jury
+administrator of such United States district court shall take all
+necessary steps to insure that the list is kept confidential and that
+there is no unauthorized use or disclosure of such list. Furthermore,
+nothing herein shall be construed to prohibit the delivery to a taxpayer
+or their duly authorized representative of a certified copy of any
+return or report filed in connection with their tax or to prohibit the
+publication of statistics so classified as to prevent the identification
+of particular reports or returns and the items thereof, or the
+inspection by the attorney general or other legal representatives of the
+state of the report or return of any taxpayer or of any employer filed
+under section one hundred seventy-one-h of this chapter, where such
+taxpayer or employer shall bring action to set aside or review the tax
+based thereon, or against whom an action or proceeding under this
+chapter or under this chapter and article eighteen of the labor law has
+been recommended by the commissioner, the commissioner of labor with
+respect to unemployment insurance matters, or the attorney general or
+has been instituted, or the inspection of the reports or returns
+required under this article by the comptroller or duly designated
+officer or employee of the state department of audit and control, for
+purposes of the audit of a refund of any tax paid by a taxpayer under
+this article, or the furnishing to the state department of labor of
+unemployment insurance information obtained or derived from quarterly
+combined withholding, wage reporting and unemployment insurance returns
+required to be filed by employers pursuant to paragraph four of
+subsection (a) of section six hundred seventy-four of this article, for
+purposes of administration of such department's unemployment insurance
+program, employment services program, federal and state employment and
+training programs, employment statistics and labor market information
+programs, worker protection programs, federal programs for which the
+department has administrative responsibility or for other purposes
+deemed appropriate by the commissioner of labor consistent with the
+provisions of the labor law, and redisclosure of such information in
+accordance with the provisions of sections five hundred thirty-six and
+five hundred thirty-seven of the labor law or any other applicable law,
+or the furnishing to the state office of temporary and disability
+assistance of information obtained or derived from New York state
+personal income tax returns as described in paragraph (b) of subdivision
+two of section one hundred seventy-one-g of this chapter for the purpose
+of reviewing support orders enforced pursuant to title six-A of article
+three of the social services law to aid in the determination of whether
+such orders should be adjusted, or the furnishing of information
+obtained from the reports required to be submitted by employers
+regarding newly hired or re-hired employees pursuant to section one
+hundred seventy-one-h of this chapter to the state office of temporary
+and disability assistance, the state department of health, the state
+department of labor and the workers' compensation board for purposes of
+administration of the child support enforcement program, verification of
+individuals' eligibility for one or more of the programs specified in
+subsection (b) of section eleven hundred thirty-seven of the federal
+social security act and for other public assistance programs authorized
+by state law, and administration of the state's employment security and
+workers' compensation programs, and to the national directory of new
+hires established pursuant to section four hundred fifty-three-A of the
+federal social security act for the purposes specified in such section,
+or the furnishing to the state office of temporary and disability
+assistance of the amount of an overpayment of income tax and interest
+thereon certified to the comptroller to be credited against past-due
+support pursuant to section one hundred seventy-one-c of this chapter
+and of the name and social security number of the taxpayer who made such
+overpayment, or the disclosing to the commissioner of finance of the
+city of New York, pursuant to section one hundred seventy-one-l of this
+chapter, of the amount of an overpayment and interest thereon certified
+to the comptroller to be credited against a city of New York tax warrant
+judgment debt and of the name and social security number of the taxpayer
+who made such overpayment, or the furnishing to the New York state
+higher education services corporation of the amount of an overpayment of
 income tax and interest thereon certified to the comptroller to be
-credited against past-due support pursuant to section one hundred
-seventy-one-c of this chapter and of the name and social security number
-of the taxpayer who made such overpayment, or the disclosing to the
-commissioner of finance of the city of New York, pursuant to section one
-hundred seventy-one-l of this chapter, of the amount of an overpayment
-and interest thereon certified to the comptroller to be credited against
-a city of New York tax warrant judgment debt and of the name and social
+credited against the amount of a default in repayment of any education
+loan debt, including judgments, owed to the federal or New York state
+government that is being collected by the New York state higher
+education services corporation, and of the name and social security
+number of the taxpayer who made such overpayment, or the furnishing to
+the state department of health of the information required by paragraph
+(f) of subdivision two and subdivision two-a of section two thousand
+five hundred eleven of the public health law and by subdivision eight of
+section three hundred sixty-six-a of the social services law, or the
+furnishing to the state university of New York or the city university of
+New York respectively or the attorney general on behalf of such state or
+city university the amount of an overpayment of income tax and interest
+thereon certified to the comptroller to be credited against the amount
+of a default in repayment of a state university loan pursuant to section
+one hundred seventy-one-e of this chapter and of the name and social
 security number of the taxpayer who made such overpayment, or the
-furnishing to the New York state higher education services corporation
-of the amount of an overpayment of income tax and interest thereon
-certified to the comptroller to be credited against the amount of a
-default in repayment of any education loan debt, including judgments,
-owed to the federal or New York state government that is being collected
-by the New York state higher education services corporation, and of the
-name and social security number of the taxpayer who made such
-overpayment, or the furnishing to the state department of health of the
-information required by paragraph (f) of subdivision two and subdivision
-two-a of section two thousand five hundred eleven of the public health
-law and by subdivision eight of section three hundred sixty-six-a of the
-social services law, or the furnishing to the state university of New
-York or the city university of New York respectively or the attorney
-general on behalf of such state or city university the amount of an
-overpayment of income tax and interest thereon certified to the
-comptroller to be credited against the amount of a default in repayment
-of a state university loan pursuant to section one hundred seventy-one-e
-of this chapter and of the name and social security number of the
-taxpayer who made such overpayment, or the disclosing to a state agency,
-pursuant to section one hundred seventy-one-f of this chapter, of the
-amount of an overpayment and interest thereon certified to the
-comptroller to be credited against a past-due legally enforceable debt
-owed to such agency and of the name and social security number of the
-taxpayer who made such overpayment, or the furnishing of employee and
-employer information obtained through the wage reporting system,
-pursuant to section one hundred seventy-one-a of this chapter, as added
-by chapter five hundred forty-five of the laws of nineteen hundred
-seventy-eight, to the state office of temporary and disability
-assistance, the department of health or to the state office of the
-medicaid inspector general for the purpose of verifying eligibility for
-and entitlement to amounts of benefits under the social services law or
-similar law of another jurisdiction, locating absent parents or other
-persons legally responsible for the support of applicants for or
-recipients of public assistance and care under the social services law
-and persons legally responsible for the support of a recipient of
-services under section one hundred eleven-g of the social services law
-and, in appropriate cases, establishing support obligations pursuant to
-the social services law and the family court act or similar provision of
-law of another jurisdiction for the purpose of evaluating the effect on
-earnings of participation in employment, training or other programs
-designed to promote self-sufficiency authorized pursuant to the social
-services law by current recipients of public assistance and care and by
-former applicants and recipients of public assistance and care, (except
-that with regard to former recipients, information which relates to a
-particular former recipient shall be provided with client identifying
-data deleted), to the state office of temporary and disability
-assistance for the purpose of determining the eligibility of any child
-in the custody, care and custody or custody and guardianship of a local
-social services district or of the office of children and family
-services for federal payments for foster care and adoption assistance
-pursuant to the provisions of title IV-E of the federal social security
-act by providing information with respect to the parents, the
-stepparents, the child and the siblings of the child who were living in
-the same household as such child during the month that the court
-proceedings leading to the child's removal from the household were
-initiated, or the written instrument transferring care and custody of
-the child pursuant to the provisions of section three hundred
+disclosing to a state agency, pursuant to section one hundred
+seventy-one-f of this chapter, of the amount of an overpayment and
+interest thereon certified to the comptroller to be credited against a
+past-due legally enforceable debt owed to such agency and of the name
+and social security number of the taxpayer who made such overpayment, or
+the furnishing of employee and employer information obtained through the
+wage reporting system, pursuant to section one hundred seventy-one-a of
+this chapter, as added by chapter five hundred forty-five of the laws of
+nineteen hundred seventy-eight, to the state office of temporary and
+disability assistance, the department of health or to the state office
+of the medicaid inspector general for the purpose of verifying
+eligibility for and entitlement to amounts of benefits under the social
+services law or similar law of another jurisdiction, locating absent
+parents or other persons legally responsible for the support of
+applicants for or recipients of public assistance and care under the
+social services law and persons legally responsible for the support of a
+recipient of services under section one hundred eleven-g of the social
+services law and, in appropriate cases, establishing support obligations
+pursuant to the social services law and the family court act or similar
+provision of law of another jurisdiction for the purpose of evaluating
+the effect on earnings of participation in employment, training or other
+programs designed to promote self-sufficiency authorized pursuant to the
+social services law by current recipients of public assistance and care
+and by former applicants and recipients of public assistance and care,
+(except that with regard to former recipients, information which relates
+to a particular former recipient shall be provided with client
+identifying data deleted), to the state office of temporary and
+disability assistance for the purpose of determining the eligibility of
+any child in the custody, care and custody or custody and guardianship
+of a local social services district or of the office of children and
+family services for federal payments for foster care and adoption
+assistance pursuant to the provisions of title IV-E of the federal
+social security act by providing information with respect to the
+parents, the stepparents, the child and the siblings of the child who
+were living in the same household as such child during the month that
+the court proceedings leading to the child's removal from the household
+were initiated, or the written instrument transferring care and custody
+of the child pursuant to the provisions of section three hundred
 fifty-eight-a or three hundred eighty-four-a of the social services law
 was signed, provided however that the office of temporary and disability
 assistance shall only use the information obtained pursuant to this

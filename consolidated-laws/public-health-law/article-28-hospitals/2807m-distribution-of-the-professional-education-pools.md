@@ -474,7 +474,7 @@ state fiscal year for the period April first, two thousand twenty
 through March thirty-first, two thousand twenty-three, and up to eight
 million six hundred twelve thousand dollars each state fiscal year for
 the period April first, two thousand twenty-three through March
-thirty-first, two thousand twenty-six, shall be set aside and reserved
+thirty-first, two thousand twenty-nine, shall be set aside and reserved
 by the commissioner from the regional pools established pursuant to
 subdivision two of this section to be allocated regionally with
 two-thirds of the available funding going to New York city and one-third
@@ -632,21 +632,23 @@ seven hundred five thousand dollars each state fiscal year for the
 period April first, two thousand seventeen through March thirty-first,
 two thousand twenty, up to one million seven hundred five thousand
 dollars each state fiscal year for the period April first, two thousand
-twenty through March thirty-first, two thousand twenty-three, and up to
-one million seven hundred five thousand dollars each state fiscal year
-for the period April first, two thousand twenty-three through March
-thirty-first, two thousand twenty-six, shall be set aside and reserved
-by the commissioner from the regional pools established pursuant to
-subdivision two of this section and shall be available for purposes of
-physician loan repayment in accordance with subdivision ten of this
-section. Notwithstanding any contrary provision of this section,
-sections one hundred twelve and one hundred sixty-three of the state
-finance law, or any other contrary provision of law, such funding shall
-be allocated regionally with one-third of available funds going to New
-York city and two-thirds of available funds going to the rest of the
-state and shall be distributed in a manner to be determined by the
-commissioner without a competitive bid or request for proposal process
-as follows:
+twenty through March thirty-first, two thousand twenty-three, up to one
+million seven hundred five thousand dollars each state fiscal year for
+the period April first, two thousand twenty-three through March
+thirty-first, two thousand twenty-six, and up to one million seven
+hundred five thousand dollars each state fiscal year for the period
+April first, two thousand twenty-six through March thirty-first, two
+thousand twenty-nine, shall be set aside and reserved by the
+commissioner from the regional pools established pursuant to subdivision
+two of this section and shall be available for purposes of physician
+loan repayment in accordance with subdivision ten of this section.
+Notwithstanding any contrary provision of this section, sections one
+hundred twelve and one hundred sixty-three of the state finance law, or
+any other contrary provision of law, such funding shall be allocated
+regionally with one-third of available funds going to New York city and
+two-thirds of available funds going to the rest of the state and shall
+be distributed in a manner to be determined by the commissioner without
+a competitive bid or request for proposal process as follows:
   (i) Funding shall first be awarded to repay loans of up to twenty-five
 physicians who train in primary care or specialty tracks in teaching
 general hospitals, and who enter and remain in primary care or specialty
@@ -691,19 +693,22 @@ for the period April first, two thousand seventeen through March
 thirty-first, two thousand twenty, up to four million three hundred
 sixty thousand dollars for each fiscal year for the period April first,
 two thousand twenty through March thirty-first, two thousand
-twenty-three, and up to four million three hundred sixty thousand
-dollars for each fiscal year for the period April first, two thousand
-twenty-three through March thirty-first, two thousand twenty-six, shall
-be set aside and reserved by the commissioner from the regional pools
-established pursuant to subdivision two of this section and shall be
-available for purposes of physician practice support. Notwithstanding
-any contrary provision of this section, sections one hundred twelve and
-one hundred sixty-three of the state finance law, or any other contrary
-provision of law, such funding shall be allocated regionally with
-one-third of available funds going to New York city and two-thirds of
-available funds going to the rest of the state and shall be distributed
-in a manner to be determined by the commissioner without a competitive
-bid or request for proposal process as follows:
+twenty-three, up to four million three hundred sixty thousand dollars
+for each fiscal year for the period April first, two thousand
+twenty-three through March thirty-first, two thousand twenty-six, and up
+to four million three hundred sixty thousand dollars for each fiscal
+year for the period April first, two thousand twenty-six through March
+thirty-first, two thousand twenty-nine, shall be set aside and reserved
+by the commissioner from the regional pools established pursuant to
+subdivision two of this section and shall be available for purposes of
+physician practice support. Notwithstanding any contrary provision of
+this section, sections one hundred twelve and one hundred sixty-three of
+the state finance law, or any other contrary provision of law, such
+funding shall be allocated regionally with one-third of available funds
+going to New York city and two-thirds of available funds going to the
+rest of the state and shall be distributed in a manner to be determined
+by the commissioner without a competitive bid or request for proposal
+process as follows:
   (i) Preference in funding shall first be accorded to teaching general
 hospitals for up to twenty-five awards, to support costs incurred by
 physicians trained in primary or specialty tracks who thereafter
@@ -746,46 +751,52 @@ thousand dollars for each state fiscal year for the period April first,
 two thousand seventeen through March thirty-first, two thousand twenty,
 up to four hundred eighty-seven thousand dollars each state fiscal year
 for the period April first, two thousand twenty through March
-thirty-first, two thousand twenty-three, and up to four hundred
-eighty-seven thousand dollars each state fiscal year for the period
-April first, two thousand twenty-three through March thirty-first, two
-thousand twenty-six, shall be set aside and reserved by the commissioner
-from the regional pools established pursuant to subdivision two of this
-section and shall be available to fund a study of physician workforce
-needs and solutions including, but not limited to, an analysis of
-residency programs and projected physician workforce and community
-needs. The commissioner shall enter into agreements with one or more
-organizations to conduct such study based on a request for proposal
-process.
-  (g) Diversity in medicine/post-baccalaureate program. Notwithstanding
-any inconsistent provision of section one hundred twelve or one hundred
-sixty-three of the state finance law or any other law, one million nine
-hundred sixty thousand dollars annually for the period January first,
-two thousand eight through December thirty-first, two thousand ten, four
-hundred ninety thousand dollars for the period January first, two
-thousand eleven through March thirty-first, two thousand eleven, one
-million seven hundred thousand dollars each state fiscal year for the
-period April first, two thousand eleven through March thirty-first, two
-thousand fourteen, up to one million six hundred five thousand dollars
-each state fiscal year for the period April first, two thousand fourteen
-through March thirty-first, two thousand seventeen, up to one million
-six hundred five thousand dollars each state fiscal year for the period
-April first, two thousand seventeen through March thirty-first, two
-thousand twenty, up to one million six hundred five thousand dollars
-each state fiscal year for the period April first, two thousand twenty
-through March thirty-first, two thousand twenty-three, and up to one
+thirty-first, two thousand twenty-three, up to four hundred eighty-seven
+thousand dollars each state fiscal year for the period April first, two
+thousand twenty-three through March thirty-first, two thousand
+twenty-six, and up to four hundred eighty-seven thousand dollars each
+state fiscal year for the period April first, two thousand twenty-six
+through March thirty-first, two thousand twenty-nine, shall be set aside
+and reserved by the commissioner from the regional pools established
+pursuant to subdivision two of this section and shall be available to
+fund a study of physician workforce needs and solutions including, but
+not limited to, an analysis of residency programs and projected
+physician workforce and community needs. The commissioner shall enter
+into agreements with one or more organizations to conduct such study
+based on a request for proposal process.
+  (g) Scholars in medicine and science and scholarships in medicine
+programs. Notwithstanding any inconsistent provision of section one
+hundred twelve or one hundred sixty-three of the state finance law or
+any other law, one million nine hundred sixty thousand dollars annually
+for the period January first, two thousand eight through December
+thirty-first, two thousand ten, four hundred ninety thousand dollars for
+the period January first, two thousand eleven through March
+thirty-first, two thousand eleven, one million seven hundred thousand
+dollars each state fiscal year for the period April first, two thousand
+eleven through March thirty-first, two thousand fourteen, up to one
 million six hundred five thousand dollars each state fiscal year for the
-period April first, two thousand twenty-three through March
-thirty-first, two thousand twenty-six, shall be set aside and reserved
+period April first, two thousand fourteen through March thirty-first,
+two thousand seventeen, up to one million six hundred five thousand
+dollars each state fiscal year for the period April first, two thousand
+seventeen through March thirty-first, two thousand twenty, up to one
+million six hundred five thousand dollars each state fiscal year for the
+period April first, two thousand twenty through March thirty-first, two
+thousand twenty-three, up to one million six hundred five thousand
+dollars each state fiscal year for the period April first, two thousand
+twenty-three through March thirty-first, two thousand twenty-six, and up
+to one million six hundred five thousand dollars each state fiscal year
+for the period April first, two thousand twenty-six through March
+thirty-first, two thousand twenty-nine, shall be set aside and reserved
 by the commissioner from the regional pools established pursuant to
 subdivision two of this section and shall be available for distributions
-to the Associated Medical Schools of New York to fund its diversity
-program including existing and new post-baccalaureate programs for
-minority and economically disadvantaged students and encourage
-participation from all medical schools in New York. The associated
-medical schools of New York shall report to the commissioner on an
-annual basis regarding the use of funds for such purpose in such form
-and manner as specified by the commissioner.
+to the Associated Medical Schools of New York to fund its scholars in
+medicine and science and scholarships in medicine programs including
+existing and new post-baccalaureate programs for minority and
+economically disadvantaged students and encourage participation from all
+medical schools in New York. The associated medical schools of New York
+shall report to the commissioner on an annual basis regarding the use of
+funds for such purpose in such form and manner as specified by the
+commissioner.
   (h) In the event there are undistributed funds within amounts made
 available for distributions pursuant to this subdivision, such funds may
 be reallocated and distributed in current or subsequent distribution

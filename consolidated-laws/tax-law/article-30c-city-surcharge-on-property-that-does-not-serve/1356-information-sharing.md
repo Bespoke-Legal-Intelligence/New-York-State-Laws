@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 1356", "kind": "section", "law_id": "TAX", "location_id": "1356", "path": "ARTICLE 30-C › SECTION 1356", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1356.md", "title": "Information sharing"} -->
+# Tax Law § 1356 — Information sharing
+
+[Tax Law](../README.md) › [Article 30-C — City Surcharge On Property That Does Not Serve As a Primary Residence](README.md)
+
+```text
+  * § 1356. Information sharing. A city having a population of one
+million or more imposing a surcharge pursuant to this article shall,
+upon request by the commissioner of taxation and finance, provide the
+department of taxation and finance with any records in its possession
+used or considered in determining whether a covered property, or, in the
+case of a residential cooperative property, a residential cooperative
+dwelling unit, is not a primary residence. The department of taxation
+and finance shall, upon request by such city, provide such city with any
+records in its possession contained in any return filed pursuant to
+article thirty of this chapter or disclosed by any investigation of tax
+liability under such article for the purposes of implementing such
+surcharge. Information shared pursuant to this subsection shall not be
+subject to disclosure pursuant to article six of the public officers
+law.
+  * NB Repealed June 30, 2031
+```

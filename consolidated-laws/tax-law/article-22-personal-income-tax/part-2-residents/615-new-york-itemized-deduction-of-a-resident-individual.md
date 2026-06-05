@@ -187,24 +187,43 @@ seventy-five thousand dollars and the denominator of which is fifty
 thousand dollars.
   (g) Notwithstanding subsection (a) of this section, the New York
 itemized deduction for charitable contributions shall be the amount
-allowed under section one hundred seventy of the internal revenue code,
+allowed under section one hundred seventy of the internal revenue code
+or the amount allowable pursuant to paragraph three of this subsection,
 as modified by paragraph nine of subsection (c) of this section and as
 limited by this subsection. (1) With respect to an individual whose New
 York adjusted gross income is over one million dollars and no more than
 ten million dollars, the New York itemized deduction shall be an amount
 equal to fifty percent of any charitable contribution deduction allowed
-under section one hundred seventy of the internal revenue code for
-taxable years beginning after two thousand nine and before two thousand
+under section one hundred seventy of the internal revenue code or
+allowable pursuant to paragraph three of this subsection for taxable
+years beginning after two thousand nine and before two thousand
 twenty-five. With respect to an individual whose New York adjusted gross
 income is over one million dollars, the New York itemized deduction
 shall be an amount equal to fifty percent of any charitable contribution
 deduction allowed under section one hundred seventy of the internal
-revenue code for taxable years beginning in two thousand nine or after
-two thousand twenty-four.
+revenue code or allowable pursuant to paragraph three of this subsection
+for taxable years beginning in two thousand nine or after two thousand
+twenty-four.
   (2) With respect to an individual whose New York adjusted gross income
 is over ten million dollars, the New York itemized deduction shall be an
 amount equal to twenty-five percent of any charitable contribution
 deduction allowed under section one hundred seventy of the internal
-revenue code for taxable years beginning after two thousand nine and
-ending before two thousand thirty.
+revenue code or allowable pursuant to paragraph three of this subsection
+for taxable years beginning after two thousand nine and ending before
+two thousand thirty.
+  (3) Contributions to an organization that meets the definition of an
+exempt organization under paragraph four of subdivision (a) of section
+eleven hundred sixteen of this chapter or to organizations that have
+applied for, and were approved for tax-exempt status under subsection
+(c) of section five hundred one of the internal revenue code by the
+internal revenue service before January first, two thousand twenty-five,
+will continue to qualify as charitable contributions allowable as a New
+York itemized deduction under this subsection, to the extent otherwise
+allowable under section one hundred seventy of the internal revenue
+code, even if the internal revenue service revokes such organization's
+tax-exempt status, so long as the organization establishes that the
+revocation was unrelated to the organization's charitable mission and
+that it continues to meet the statutory requirements of paragraph three
+of subsection (c) of section five hundred one of the internal revenue
+code and the regulations and authorities promulgated thereunder.
 ```

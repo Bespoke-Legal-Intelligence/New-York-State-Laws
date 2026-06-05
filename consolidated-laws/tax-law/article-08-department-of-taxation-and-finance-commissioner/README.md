@@ -38,7 +38,6 @@
 - [§ 174 Oaths, acknowledgments, subpoenas and commissions to take testimony](174-oaths-acknowledgments-subpoenas-and-commissions-to-take-testimony.md)
 - [§ 174-A Duration of warrant liens on real property](174a-duration-of-warrant-liens-on-real-property.md)
 - [§ 174-B Limitation on the time to collect tax liabilities](174b-limitation-on-the-time-to-collect-tax-liabilities.md)
-- [§ 174-C Service of income execution without filing a warrant](174c-service-of-income-execution-without-filing-a-warrant.md) *(repealed)*
 - [§ 175 Manner of execution of instruments by the commissioner](175-manner-of-execution-of-instruments-by-the-commissioner.md)
 - [§ 176 Transfer of the powers and duties of the comptroller in relation to the assessment or collection of certain taxes](176-transfer-of-the-powers-and-duties-of-the-comptroller-in-relation.md)
 - [§ 177 Construction](177-construction.md)

@@ -4,7 +4,7 @@
 [Uniform Commercial Code](../README.md) › [Article 12 — Controllable Electronic Records](README.md)
 
 ```text
-* Section 12--107. Governing Law.
+Section 12--107. Governing Law.
   (a) Governing law: general rule. Except as provided in subsection (b),
 the local law of a controllable electronic record's jurisdiction governs
 a matter covered by this article.
@@ -60,5 +60,4 @@ bear any relation to the controllable electronic record's jurisdiction.
 acquired under Section 12--104 by a purchaser or qualifying purchaser
 are governed by the law applicable under this section at the time of
 purchase.
-  * NB Effective June 3, 2026
 ```

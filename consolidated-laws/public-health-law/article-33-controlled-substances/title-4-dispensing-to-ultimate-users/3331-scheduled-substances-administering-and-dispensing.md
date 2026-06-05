@@ -71,7 +71,7 @@ or pain being treated as part of palliative care practices.
 information pursuant to such dispensing with the department by
 electronic means in such manner and detail as the commissioner shall, by
 regulation, require. This requirement shall not apply to the dispensing
-by a practitioner pursuant to subdivision five of section thirty-three
+by a practitioner pursuant to subdivision six of section thirty-three
 hundred fifty-one of this article.
   7. A practitioner may not administer, prescribe or dispense any
 substance referred to in subdivision (h) of Schedule II, and subdivision

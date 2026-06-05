@@ -8,6 +8,7 @@
 - [§ 241.00 Harassment of a rent regulated tenant; definition of terms](241.00-harassment-of-a-rent-regulated-tenant.md)
 - [§ 241.02 Harassment of a rent regulated tenant in the second degree](241.02-harassment-of-a-rent-regulated-tenant.md)
 - [§ 241.05 Harassment of a rent regulated tenant in the first degree](241.05-harassment-of-a-rent-regulated-tenant.md)
+- [§ 241.07 Aggravated harassment of a rent regulated tenant](241.07-aggravated-harassment-of-a-rent.md)
 
 <details>
 <summary>Official heading of Article 241, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -21,6 +22,7 @@ Section 241.00 Harassment of a rent regulated tenant; definition of
                  degree.
         241.05 Harassment of a rent regulated tenant in the first
                  degree.
+        241.07 Aggravated harassment of a rent regulated tenant.
 ```
 
 </details>

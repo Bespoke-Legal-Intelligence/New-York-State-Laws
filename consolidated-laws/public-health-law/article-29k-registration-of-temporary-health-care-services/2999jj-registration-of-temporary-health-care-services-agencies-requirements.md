@@ -25,7 +25,7 @@ registry.
   (e) The state of incorporation of the agency.
   (f) Any additional information that the commissioner determines is
 necessary to properly evaluate an application for registration.
-  3. As a condition of registration, a temporary health care services
+  * 3. As a condition of registration, a temporary health care services
 agency:
   (a) Shall document that each individual engaged to provide health care
 services to health care entities currently meets the minimum licensing,
@@ -49,6 +49,39 @@ accurately reflect the financial condition or financial transactions of
 the agency.
   (g) Shall comply with any additional requirements the department may
 deem necessary.
+  * NB Effective until May 28, 2027
+  * 3. As a condition of registration, a temporary health care services
+agency:
+  (a) Shall document that each individual engaged to provide health care
+services to health care entities currently meets the minimum licensing,
+training, and continuing education standards for the position in which
+the individual will be working.
+  (b) Shall comply with all pertinent requirements and qualifications
+for personnel employed in health care entities.
+  (c) Shall not restrict in any manner the employment opportunities of
+individuals it connects with health care entities to provide health care
+services.
+  (d) Shall not require the payment of liquidated damages, employment
+fees, or other compensation should the individuals it connects with
+health care entities to provide health care services be hired as a
+permanent employee, contractor, or contingent worker of a health care
+entity in any contract with any individual engaged to provide health
+care services or health care entity or otherwise.
+  (e) Shall not require the payment of fees or other compensation from
+the individual engaged to provide health care services for placement or
+connection with a health care entity.
+  (f) Shall retain all records related to individuals engaged to provide
+health care services for six years and make them available to the
+department upon request.
+  (g) Shall comply with any requests made by the department to examine
+the books and records of the agency, subpoena witnesses and documents
+and make such other investigation as is necessary in the event that the
+department has reason to believe that the books or records do not
+accurately reflect the financial condition or financial transactions of
+the agency.
+  (h) Shall comply with any additional requirements the department may
+deem necessary.
+  * NB Effective May 28, 2027
   4. A registration issued by the commissioner according to this section
 shall be effective for a period of one year, unless the registration is
 revoked or suspended, or unless ownership interest of ten percent or

@@ -236,16 +236,17 @@ for eligible facilities that elect to refinance their mortgage loans
 pursuant to paragraph (d) of subdivision two-a of this section, shall be
 reduced by the commissioner by five percent; and (C) provided, however,
 notwithstanding any inconsistent provision of this article, commencing
-April first, two thousand twenty-four for rates of payment for patients
-eligible for payments made by state governmental agencies, the capital
-cost component determined in accordance with this subparagraph and
-inclusive of any shared savings for eligible facilities that elect to
-refinance their mortgage loans pursuant to paragraph (d) of subdivision
-two-a of this section, shall be reduced by the commissioner by an
-additional ten percent, provided, however, that such reduction shall not
-apply to rates of payment for patients in pediatric residential health
-care facilities as defined in paragraph (c) of subdivision two of
-section twenty-eight hundred eight-e of this article.
+April first, two thousand twenty-four and ending March thirty-first, two
+thousand twenty-six for rates of payment for patients eligible for
+payments made by state governmental agencies, the capital cost component
+determined in accordance with this subparagraph and inclusive of any
+shared savings for eligible facilities that elect to refinance their
+mortgage loans pursuant to paragraph (d) of subdivision two-a of this
+section, shall be reduced by the commissioner by an additional ten
+percent, provided, however, that such reduction shall not apply to rates
+of payment for patients in pediatric residential health care facilities
+as defined in paragraph (c) of subdivision two of section twenty-eight
+hundred eight-e of this article.
   (v) The direct component of the operating component of rates of
 payment shall include allowable direct therapy costs and associated
 overhead costs and shall exclude administrative overhead costs related

@@ -4,7 +4,7 @@
 [Uniform Commercial Code](../../../README.md) › [Article 9 — Secured Transactions](../../README.md) › [Part 1 — General Provisions](../README.md) › [Subpart 1 — Short Title, Definitions, and General Concepts](README.md)
 
 ```text
-* Section 9--107B. No Requirement to Acknowledge or Confirm; No Duties.
+Section 9--107B. No Requirement to Acknowledge or Confirm; No Duties.
   (a) No requirement to acknowledge. A person that has control under
 Section 9--104, 9--105, or 9--105A is not required to acknowledge that
 it has control on behalf of another person.
@@ -13,5 +13,4 @@ will obtain control on behalf of another person, unless the person
 otherwise agrees or law other than this article otherwise provides, the
 person does not owe any duty to the other person and is not required to
 confirm the acknowledgment to any other person.
-  * NB Effective June 3, 2026
 ```

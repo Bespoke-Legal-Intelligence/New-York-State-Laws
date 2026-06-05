@@ -119,13 +119,13 @@ commissioner and the commissioner of the department of economic
 development may release the names and addresses of any qualified New
 York city musical and theatrical production company entitled to claim
 this credit and the amount of the credit earned by such company.
-  (f) Maximum amount of credits. (1) The aggregate amount of tax credits
-allowed under this section, subdivision fifty-seven of section two
-hundred ten-B and subsection (mmm) of section six hundred six of this
-chapter shall be four hundred million dollars. Such aggregate amount of
-credits shall be allocated by the department of economic development
-among taxpayers based on the date of first performance of the qualified
-musical and theatrical production.
+  (f) Maximum amount of credits.  (1) The aggregate amount of tax
+credits allowed under this section, subdivision fifty-seven of section
+two hundred ten-B and subsection (mmm) of section six hundred six of
+this chapter shall be five hundred fifty million dollars. Such aggregate
+amount of credits shall be allocated by the department of economic
+development among taxpayers based on the date of first performance of
+the qualified musical and theatrical production.
   (2) The commissioner of economic development, after consulting with
 the commissioner, shall promulgate regulations to establish procedures
 for the allocation of tax credits as required by this section. Such

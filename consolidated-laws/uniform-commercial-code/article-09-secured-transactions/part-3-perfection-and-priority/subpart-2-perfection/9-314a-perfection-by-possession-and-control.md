@@ -4,7 +4,7 @@
 [Uniform Commercial Code](../../../README.md) › [Article 9 — Secured Transactions](../../README.md) › [Part 3 — Perfection and Priority](../README.md) › [Subpart 2 — Perfection](README.md)
 
 ```text
-* Section 9-314A. Perfection by Possession and Control of Chattel Paper.
+Section 9-314A. Perfection by Possession and Control of Chattel Paper.
   (a) Perfection by possession and control. A secured party may perfect
 a security interest in chattel paper by taking possession of each
 authoritative tangible copy of the record evidencing the chattel paper
@@ -19,5 +19,4 @@ control.
 chattel paper. Section 9--313(c) and (f) through (i) applies to
 perfection by possession of an authoritative tangible copy of a record
 evidencing chattel paper.
-  * NB Effective June 3, 2026
 ```

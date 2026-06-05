@@ -6,7 +6,7 @@
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
 ```text
-  * § 1689-i. Public school districts; authority financing of projects
+  ** § 1689-i. Public school districts; authority financing of projects
 under the expanding our children's education and learning (EXCEL)
 program. 1. The dormitory authority is authorized to finance EXCEL
 projects for those school districts which are eligible to receive an
@@ -105,5 +105,6 @@ respect to such bonds as to limit, impair or impede the rights and
 remedies granted to bondholders under this title or otherwise diminish
 the security pledged to such purchasers, holders and owners or
 significantly impair the prospect of payment of any such bond.
+  * NB Repealed December 31, 2029
   * NB There are 2 § 1689-i's
 ```

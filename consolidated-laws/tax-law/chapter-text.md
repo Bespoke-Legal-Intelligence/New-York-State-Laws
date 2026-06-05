@@ -66,6 +66,8 @@ Article 1.      Short title; definitions; miscellaneous (§§ 1-49*2).
        30.       City personal income tax (§§ 1300-1313).
        30-A.     City income tax surcharge (§§ 1320-1333)
        30-B.     City earnings tax on nonresidents (§§ 1340-1343).
+       30-C.     City surcharge on property that does not serve as a
+                   primary residence (§§ 1350-1356).
        31.       Real estate transfer tax (§§ 1400-1423).
        31-A.     Tax on real property transfers for transportation
                    assistance (§§ 1424-1437).

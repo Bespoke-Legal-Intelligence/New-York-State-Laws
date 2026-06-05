@@ -4,7 +4,7 @@
 [Uniform Commercial Code](../../../README.md) › [Article 9 — Secured Transactions](../../README.md) › [Part 3 — Perfection and Priority](../README.md) › [Subpart 1 — Law Governing Perfection and Priority](README.md)
 
 ```text
-* Section 9-306A. Law Governing Perfection and Priority of Security
+Section 9-306A. Law Governing Perfection and Priority of Security
                    Interests in Chattel Paper.
   (a) Chattel paper evidenced by authoritative electronic copy. Except
 as provided in subsection (d), if chattel paper is evidenced only by an
@@ -54,5 +54,4 @@ security interest in the chattel paper.
 located. The local law of the jurisdiction in which the debtor is
 located governs perfection of a security interest in chattel paper by
 filing.
-  * NB Effective June 3, 2026
 ```

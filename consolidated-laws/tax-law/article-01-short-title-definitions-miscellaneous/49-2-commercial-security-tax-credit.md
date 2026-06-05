@@ -6,9 +6,9 @@
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
 ```text
-  * § 49. Commercial security tax credit. (a) Allowance of credit. For
+  * § 49. Commercial security tax credit.  (a) Allowance of credit. For
 taxable years beginning on or after January first, two thousand
-twenty-four and before January first, two thousand twenty-six, a
+twenty-four and before January first, two thousand twenty-nine, a
 taxpayer required to file a return pursuant to articles nine, nine-A or
 twenty-two of this chapter shall be allowed a credit against such tax,
 pursuant to the provisions referenced in subdivision (f) of this

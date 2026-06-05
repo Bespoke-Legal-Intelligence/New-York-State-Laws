@@ -28,17 +28,15 @@ municipality under this title, shall be made if the municipality is
 providing some or all of the core public health services identified in
 section six hundred two of this title, pursuant to an approved
 application for state aid, at a rate of no less than thirty-six per
-centum, except for the city of New York which shall receive no less than
-twenty per centum, of the difference between the amount of moneys
-expended by the municipality for public health services required by
-section six hundred two of this title during the fiscal year and the
-base grant provided pursuant to subdivision one of this section.
-Provided, however, that a municipality's documented fringe benefit costs
-submitted under an application for state aid and otherwise eligible for
-reimbursement under this article shall not exceed fifty per centum of
-the municipality's eligible personnel services. No such reimbursement
-shall be provided for services that are not eligible for state aid
-pursuant to this article.
+centum of the difference between the amount of moneys expended by the
+municipality for public health services required by section six hundred
+two of this title during the fiscal year and the base grant provided
+pursuant to subdivision one of this section. Provided, however, that a
+municipality's documented fringe benefit costs submitted under an
+application for state aid and otherwise eligible for reimbursement under
+this article shall not exceed fifty per centum of the municipality's
+eligible personnel services. No such reimbursement shall be provided for
+services that are not eligible for state aid pursuant to this article.
   3. Municipalities shall make every reasonable effort to collect
 payments for public health services provided. All such revenues shall be
 reported to the commissioner pursuant to section six hundred six of this

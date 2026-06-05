@@ -11,8 +11,9 @@ in section four hundred seventy-one-b of this article is paid, or (2) on
 the use of tobacco products which are exempt from the tax imposed by
 said section, or (3) on the use of two hundred fifty cigars or less, or
 five pounds or less of tobacco other than roll-your-own tobacco, or
-thirty-six ounces or less of roll-your-own tobacco brought into the
-state on, or in the possession of, any person.
+thirty-six ounces or less of roll-your-own tobacco, or seventy-five
+units or less of alternative nicotine products, brought into the state
+on, or in the possession of, any person.
   (i) Such tax on tobacco products other than snuff and little cigars
 shall be at the rate of seventy-five percent of the wholesale price.
   (ii) Such tax on snuff shall be at the rate of two dollars per ounce

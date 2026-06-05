@@ -7,28 +7,29 @@
   § 1846-a. Forfeiture action with respect to tobacco products. (a)
 Whenever a police officer designated in section 1.20 of the criminal
 procedure law or a peace officer designated in subdivision four of
-section 2.10 of such law, acting pursuant to his special duties, shall
-discover any tobacco products in excess of five hundred cigars or ten
-pounds of tobacco which are being imported for sale in the state where
-the person importing or causing such tobacco products to be imported has
-not been appointed as a distributor pursuant to section four hundred
-seventy-two of this chapter, such police officer or peace officer is
-hereby authorized and empowered forthwith to seize and take possession
-of such tobacco products. Such tobacco products seized by a police
-officer or peace officer shall be turned over to the commissioner. Such
-seized tobacco products shall be forfeited to the state. All tobacco
-products forfeited to the state shall be destroyed or used for law
-enforcement purposes, except that tobacco products that violate, or are
-suspected of violating, federal trademark laws or import laws shall not
-be used for law enforcement purposes. If the commissioner determines the
-tobacco products may not be used for law enforcement purposes, the
-commissioner must, within a reasonable time thereafter, upon publication
-in the state registry of a notice to such effect before the day of
-destruction, destroy such forfeited tobacco products. The commissioner
-may, prior to any destruction of tobacco products, permit the true
-holder of the trademark rights in the tobacco products to inspect such
-forfeited products in order to assist in any investigation regarding
-such tobacco products.
+section 2.10 of such law, acting pursuant to their special duties, shall
+discover any tobacco products in excess of five hundred cigars, ten
+pounds of tobacco, or one hundred fifty units of alternative nicotine
+products, which are possessed for the purpose of sale in the state when
+the excise taxes on such tobacco products have not been assumed or paid
+by a distributor appointed pursuant to section four hundred seventy-two
+of this chapter, such police officer or peace officer is hereby
+authorized and empowered forthwith to seize and take possession of such
+tobacco products. Such tobacco products seized by a police officer or
+peace officer shall be turned over to the commissioner. Such seized
+tobacco products shall be forfeited to the state. All tobacco products
+forfeited to the state shall be destroyed or used for law enforcement
+purposes, except that tobacco products that violate, or are suspected of
+violating, federal trademark laws or import laws shall not be used for
+law enforcement purposes. If the commissioner determines the tobacco
+products may not be used for law enforcement purposes, the commissioner
+must, within a reasonable time thereafter, upon publication in the state
+registry of a notice to such effect before the day of destruction,
+destroy such forfeited tobacco products. The commissioner may, prior to
+any destruction of tobacco products, permit the true holder of the
+trademark rights in the tobacco products to inspect such forfeited
+products in order to assist in any investigation regarding such tobacco
+products.
   (a-1) Whenever a police officer designated in section 1.20 of the
 criminal procedure law or a peace officer designated in subdivision four
 of section 2.10 of the criminal procedure law, acting pursuant to his or

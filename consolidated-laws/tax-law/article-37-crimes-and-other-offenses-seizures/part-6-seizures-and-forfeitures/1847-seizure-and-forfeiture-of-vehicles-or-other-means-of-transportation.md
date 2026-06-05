@@ -20,11 +20,12 @@ transaction of business as such common carrier, and such vehicle or
 other means of transportation shall be subject to forfeiture as
 hereinafter in this section provided.
   (b) Any peace officer designated in subdivision four of section 2.10
-of the criminal procedure law, acting pursuant to his special duties, or
-any police officer designated in section 1.20 of the criminal procedure
-law may seize any vehicle or other means of transportation used to
-import tobacco products in excess of five hundred cigars or ten pounds
-of tobacco for sale where the person importing or causing such tobacco
+of the criminal procedure law, acting pursuant to their special duties,
+or any police officer designated in section 1.20 of the criminal
+procedure law may seize any vehicle or other means of transportation
+used to import tobacco products in excess of five hundred cigars, ten
+pounds of tobacco, or one hundred fifty units of alternative nicotine
+products, for sale where the person importing or causing such tobacco
 products to be imported has not been appointed a distributor pursuant to
 section four hundred seventy-two of this chapter, other than a vehicle
 or other means of transportation used by any person as a common carrier

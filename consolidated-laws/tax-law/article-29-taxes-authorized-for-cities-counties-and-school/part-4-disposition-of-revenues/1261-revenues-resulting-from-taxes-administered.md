@@ -172,33 +172,7 @@ the comptroller is required to withhold amounts and make payments
 described in this paragraph, the city of New York has no right, title or
 interest in or to those taxes, penalties and interest required to be
 paid into the above referenced miscellaneous special revenue funds.
-  * (ii) After withholding the taxes, penalties and interest imposed by
-the city of New York on and after August first, two thousand eight as
-provided in subparagraph (i) of this paragraph, the comptroller shall
-withhold a portion of such taxes, penalties and interest sufficient to
-deposit annually into the central business district tolling capital
-lockbox established pursuant to section five hundred fifty-three-j of
-the public authorities law: (A) in state fiscal year two thousand
-nineteen - two thousand twenty, one hundred twenty-seven million five
-hundred thousand dollars; (B) in state fiscal year two thousand twenty -
-two thousand twenty-one, one hundred seventy million dollars; (C) in
-state fiscal year two thousand twenty-one - two thousand twenty-two and
-every succeeding state fiscal year, an amount equal to one hundred one
-percent of the amount deposited in the immediately preceding state
-fiscal year. The funds shall be deposited monthly in equal installments.
-During the period that the comptroller is required to withhold amounts
-and make payments described in this paragraph, the city of New York has
-no right, title or interest in or to those taxes, penalties and interest
-required to be paid into the above referenced central business district
-tolling capital lockbox. In addition, the comptroller shall withhold a
-portion of such taxes, penalties and interest in the amount of one
-hundred fifty million dollars, to be withheld in four quarterly
-installments on January fifteenth, April fifteenth, July fifteenth and
-October fifteenth of each year, and shall deposit such amounts into the
-New York State Agency Trust Fund, Distressed Provider Assistance
-Account.
-  * NB Effective until April 3, 2028
-  * (ii) After withholding the taxes, penalties and interest imposed by
+  (ii) After withholding the taxes, penalties and interest imposed by
 the city of New York on and after August first, two thousand eight as
 provided in subparagraph (i) of this paragraph, the comptroller shall
 withhold a portion of such taxes, penalties and interest sufficient to
@@ -217,7 +191,6 @@ and make payments described in this paragraph, the city of New York has
 no right, title or interest in or to those taxes, penalties and interest
 required to be paid into the above referenced central business district
 tolling capital lockbox.
-  * NB Effective April 3, 2028
   (6) Where the amount so paid over to any city, county, school district
 or the special sales and compensating use tax fund for the city of
 Yonkers in any such distribution or to any such authority is more or

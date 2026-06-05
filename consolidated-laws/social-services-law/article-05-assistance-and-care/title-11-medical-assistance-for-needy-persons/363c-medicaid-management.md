@@ -34,17 +34,16 @@ shall include, but is not limited to:
   (a) amounts paid to each agency according to category of service; and
   (b) rates paid to each state agency and the associated methodology
 used in developing those rates.
-  * 4. Notwithstanding any laws or regulations to the contrary, all
-social services districts, providers and other recipients of medical
-assistance program funds shall make available to the commissioner or the
-director of the division of budget in a prompt fashion all fiscal and
-statistical records and reports, other contemporaneous records
-demonstrating their right to receive payment, and all underlying books,
-records, documentation and reports, which may be requested by the
-commissioner or the director of the division of the budget as may be
-determined necessary to manage and oversee the Medicaid program provided
-however, any personally identifying information obtained pursuant to
-this subdivision shall remain confidential and shall be used solely for
-the purposes of this subdivision.
-  * NB Repealed April 3, 2028
+  4. Notwithstanding any laws or regulations to the contrary, all social
+services districts, providers and other recipients of medical assistance
+program funds shall make available to the commissioner or the director
+of the division of budget in a prompt fashion all fiscal and statistical
+records and reports, other contemporaneous records demonstrating their
+right to receive payment, and all underlying books, records,
+documentation and reports, which may be requested by the commissioner or
+the director of the division of the budget as may be determined
+necessary to manage and oversee the Medicaid program provided however,
+any personally identifying information obtained pursuant to this
+subdivision shall remain confidential and shall be used solely for the
+purposes of this subdivision.
 ```

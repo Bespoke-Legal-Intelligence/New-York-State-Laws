@@ -87,7 +87,7 @@ an enrollee shall not be subject to prior authorization nor shall
 reimbursement for such services be denied on retrospective review;
 provided, however, that such services are medically necessary to
 stabilize or treat an emergency condition.
-  (i) When conducting utilization review for purposes of determining
+  * (i) When conducting utilization review for purposes of determining
 health care coverage for substance use disorder treatment, a utilization
 review agent shall utilize an evidence-based and peer reviewed clinical
 review tool that is appropriate to the age of the patient. When
@@ -98,6 +98,19 @@ substance abuse services that is consistent with the treatment service
 levels within the office of alcoholism and substance abuse services
 system. All approved tools shall have inter rater reliability testing
 completed by December thirty-first, two thousand sixteen.
+  * NB Effective until January 1, 2027
+  * (i) When conducting utilization review for purposes of determining
+health care coverage for substance-related and addictive disorder
+treatment, a utilization review agent shall utilize an evidence-based
+and peer reviewed clinical review tool that is appropriate to the age of
+the patient. When conducting such utilization review for treatment
+provided in this state, a utilization review agent shall utilize an
+evidence-based and peer reviewed clinical tool designated by the office
+of addiction services and supports that is consistent with the treatment
+service levels within the office of addiction services and supports
+system. All approved tools shall have inter rater reliability testing
+completed by December thirty-first, two thousand sixteen.
+  * NB Effective January 1, 2027
   (j) When conducting utilization review for purposes of determining
 health care coverage for a mental health condition, a utilization review
 agent shall utilize evidence-based and peer reviewed clinical review

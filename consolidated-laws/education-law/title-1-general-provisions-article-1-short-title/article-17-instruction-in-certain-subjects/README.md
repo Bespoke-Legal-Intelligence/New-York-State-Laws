@@ -40,6 +40,7 @@
 - [§ 817 Expanding access to advanced courses to improve educational equity](817-expanding-access-to-advanced-courses-to-improve.md)
 - [§ 817\*2 Student government](817-2-student-government.md)
 - [§ 818 Evidence-based and scientifically based reading instruction](818-evidence-based-and-scientifically-based-reading.md)
+- [§ 819 Evidence-based mathematics instruction](819-evidence-based-mathematics-instruction.md)
 
 <details>
 <summary>Official heading of Article 17, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -94,6 +95,7 @@ Section 801.   Courses of instruction in patriotism and citizenship and
         817*2. Student government.
         818.   Evidence-based and scientifically based reading
                  instruction.
+        819.   Evidence-based mathematics instruction.
 ```
 
 </details>

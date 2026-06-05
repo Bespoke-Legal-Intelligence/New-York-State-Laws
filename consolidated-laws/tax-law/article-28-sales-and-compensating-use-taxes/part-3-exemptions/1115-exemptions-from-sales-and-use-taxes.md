@@ -19,7 +19,7 @@ and compensating use taxes, whether or not the item is sold in liquid
 form. Nothing in this subparagraph shall be construed as exempting food
 or drink from the tax imposed under subdivision (d) of section eleven
 hundred five of this article.
-  (B) Until May thirty-first, two thousand twenty-six, the food and
+  (B) Until May thirty-first, two thousand twenty-nine, the food and
 drink excluded from the exemption provided by clauses (i), (ii) and
 (iii) of subparagraph (A) of this paragraph, and bottled water, shall be
 exempt under this subparagraph: (i) when sold for one dollar and fifty
@@ -1542,5 +1542,5 @@ storage equipment that is: (A) owned by a person other than the
 purchaser of such electricity; (B) installed on residential property of
 the purchaser of such electricity; and (C) used to provide heating,
 cooling, hot water or electricity.
-  * NB Repealed June 1, 2026
+  * NB Repealed June 1, 2028
 ```

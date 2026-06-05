@@ -4,7 +4,7 @@
 [Uniform Commercial Code](../../README.md) › [Article 12-A — Transitional Provisions For Uniform Commercial Code Amendments](../README.md) › [Part 3 — Transitional Provisions For Articles 9 and 12](README.md)
 
 ```text
-* Section 12-A-302. Security Interest Perfected Before Effective Date.
+Section 12-A-302. Security Interest Perfected Before Effective Date.
   (a) Continuing perfection: perfection requirements satisfied. A
 security interest that is enforceable and perfected immediately before
 the effective date of the UCC Revision Act is a perfected security
@@ -26,5 +26,4 @@ amended by the UCC Revision Act; and
   (3) remains perfected thereafter only if the requirements for
 perfection under the revised UCC are satisfied before the time specified
 in paragraph (1).
-  * NB Effective June 3, 2026
 ```

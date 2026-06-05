@@ -18,8 +18,9 @@ subject to the provisions of this article.
   2. Every person who shall possess or transport more than two hundred
 fifty cigars, or more than five pounds of tobacco other than
 roll-your-own tobacco, or more than thirty-six ounces of roll-your-own
-tobacco upon the public highways, roads or streets of the state, shall
-be required to have in his actual possession invoices or delivery
+tobacco, or more than seventy-five units of alternative nicotine
+products, upon the public highways, roads or streets of the state, shall
+be required to have in their actual possession invoices or delivery
 tickets for such tobacco products. Such invoices or delivery tickets
 shall show the name and address of the consignor or seller, the name and
 address of the consignee or purchaser, the quantity and brands of the
@@ -31,9 +32,10 @@ tobacco products in this state and subject to the requirements of this
 article.
   3. Every dealer or distributor or employee thereof, or other person
 acting on behalf of a dealer or distributor, who shall possess or
-transport more than fifty cigars or more than one pound of tobacco upon
-the public highways, roads or streets of the state, shall be required to
-have in his actual possession invoices or delivery tickets for such
+transport more than fifty cigars, more than one pound of tobacco, or
+more than fifteen units of alternative nicotine products, upon the
+public highways, roads or streets of the state, shall be required to
+have in their actual possession invoices or delivery tickets for such
 tobacco products. Such invoices or delivery tickets shall show the name
 and address of the consignor or seller, the name and address of the
 consignee or purchaser, the quantity and brands of the tobacco products

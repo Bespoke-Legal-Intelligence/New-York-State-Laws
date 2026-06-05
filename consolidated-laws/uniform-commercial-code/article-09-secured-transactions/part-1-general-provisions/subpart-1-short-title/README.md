@@ -9,7 +9,7 @@
 - [§ 9-102 Definitions And Index of Definitions](9-102-definitions-and-index-of-definitions.md)
 - [§ 9-103 Purchase-money Security Interest; Application of Payments; Burden of Establishing](9-103-purchase-money-security-interest-application.md)
 - [§ 9-104 Control of Deposit Account](9-104-control-of-deposit-account.md)
-- [§ 9-105 Control of Electronic Chattel Paper](9-105-control-of-electronic-chattel-paper.md)
+- [§ 9-105 Control of Electronic Copy of Record Evidencing Chattel Paper](9-105-control-of-electronic-copy-of-record-evidencing.md)
 - [§ 9-105A Control of Electronic Money](9-105a-control-of-electronic-money.md)
 - [§ 9-106 Control of Investment Property](9-106-control-of-investment-property.md)
 - [§ 9-107 Control of Letter-of-credit Right](9-107-control-of-letter-of-credit-right.md)

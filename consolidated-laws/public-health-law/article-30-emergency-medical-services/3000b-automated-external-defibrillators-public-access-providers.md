@@ -5,87 +5,74 @@
 
 ```text
   § 3000-b. Automated external defibrillators: Public access providers.
-1.  Definitions. As used in this section, unless the context clearly
-requires otherwise, the following terms shall have the following
-meanings:
+1.  As used in this section, unless the context clearly requires
+otherwise, the following terms shall have the following meanings:
   (a) "Automated external defibrillator" means a medical device,
-approved by the United States food and drug administration, that: (i) is
-capable of recognizing the presence or absence, in a patient, of
-ventricular fibrillation and rapid ventricular tachycardia; (ii) is
-capable of determining, without intervention by an operator, whether
-defibrillation should be performed on the patient; (iii) upon
-determining that defibrillation should be performed, automatically
-charges and requests delivery of an electrical impulse to the patient's
-heart; and (iv) then, upon action by an operator, delivers an
-appropriate electrical impulse to the patient's heart to perform
-defibrillation.
-  (b) "Emergency health care provider" means (i) a physician with
-knowledge and experience in the delivery of emergency cardiac care; (ii)
-a physician assistant or nurse practitioner with knowledge and
-experience in the delivery of emergency cardiac care, and who is acting
-within his or her scope of practice; or (iii) a hospital licensed under
-article twenty-eight of this chapter that provides emergency cardiac
-care.
-  (c) "Public access defibrillation provider" means a person, firm,
+approved by the United States food and drug administration, that is
+capable with or without intervention by an operator of: recognizing the
+presence or absence, in a patient, of ventricular fibrillation and rapid
+ventricular tachycardia; determining whether defibrillation should be
+performed on the patient; upon determining that defibrillation should be
+performed, automatically charging; and delivering an appropriate
+electrical impulse to the patient's heart to perform defibrillation.
+  (b) "Public access defibrillation provider" means a person, firm,
 organization or other entity possessing or operating an automated
-external defibrillator pursuant to a collaborative agreement under this
-section.
-  (d) "Nationally-recognized organization" means a national organization
-approved by the department for the purpose of training people in use of
-an automated external defibrillator.
-  2. Collaborative agreement. A person, firm, organization or other
-entity may purchase, acquire, possess and operate an automated external
-defibrillator pursuant to a collaborative agreement with an emergency
-health care provider. The collaborative agreement shall include a
-written agreement and written practice protocols, and policies and
-procedures that shall assure compliance with this section. The public
-access defibrillation provider shall file a copy of the collaborative
-agreement with the department and with the appropriate regional council
-prior to operating the automated external defibrillator.
-  3. Possession and operation of automated external defibrillator.
-Possession and operation of an automated external defibrillator by a
-public access defibrillation provider shall comply with the following:
-  (a) No person may operate an automated external defibrillator unless
-the person has successfully completed a training course in the operation
-of an automated external defibrillator approved by a
-nationally-recognized organization or the state emergency medical
-services council. However, this section shall not prohibit operation of
-an automated external defibrillator, (i) by a health care practitioner
-licensed or certified under title VIII of the education law or a person
-certified under this article acting within his or her lawful scope of
-practice; (ii) by a person acting pursuant to a lawful prescription; or
-(iii) by a person who operates the automated external defibrillator
-other than as part of or incidental to his or her employment or regular
-duties, who is acting in good faith, with reasonable care, and without
-expectation of monetary compensation, to provide first aid that includes
-operation of an automated external defibrillator; nor shall this section
-limit any good samaritan protections provided in section three
-thousand-a of this article.
+external defibrillator pursuant to this section.
+  2. A person, firm, organization or other entity may purchase, acquire,
+possess and operate an automated external defibrillator pursuant to this
+section. Operation of an automated external defibrillator under this
+section shall be authorized in accordance with regulations promulgated
+by the department.
+  3. A public access defibrillation provider in possession of an
+automated external defibrillator shall comply with the following
+requirements, in a manner prescribed by the department:
+  (a) The public access defibrillation provider shall provide training
+in the use of an automated external defibrillator and cardiopulmonary
+resuscitation consistent with standards approved by the department,
+including but not limited to programs developed or authorized by the
+department or determined by the department to be consistent with
+accepted standards of practice. At least one individual associated with
+the public access defibrillation provider shall be designated to receive
+such training and to be familiar with the operation and routine
+maintenance of the automated external defibrillator.
   (b) The public access defibrillation provider shall cause the
 automated external defibrillator to be maintained and tested according
 to applicable standards of the manufacturer and any appropriate
 government agency.
-  (c) The public access defibrillation provider shall notify the
-regional council of the existence, location and type of any automated
-external defibrillator it possesses.
+  (c) (i) The public access defibrillation provider shall register the
+existence, location and type of any automated external defibrillator it
+possesses with the department.
+  (ii) The department shall establish and maintain an electronic
+database, accessible to the public, containing information collected
+under this paragraph. The database shall include the location and type
+of each automated external defibrillator reported to the department.
   (d) Every use of an automated external defibrillator on a patient
 shall be immediately reported to the appropriate local emergency medical
-services system, emergency communications center or emergency vehicle
-dispatch center as appropriate and promptly reported to the emergency
-health care provider.
-  (e) The emergency health care provider shall participate in the
-regional quality improvement program pursuant to subdivision one of
-section three thousand four-a of this article.
+services system or public safety answering point.
+  (e) The public access defibrillator provider shall report data related
+to the use of automated external defibrillators to the department. When
+available, the department shall incorporate data related to patient
+health outcomes, response times, whether a bystander administered CPR or
+used an automated external defibrillator, and any other information
+deemed appropriate by the commissioner into statewide or regional
+quality improvement and cardiac arrest surveillance programs, including
+participation in nationally recognized registries, as determined by the
+department. Confidential patient information shall be deidentified prior
+to incorporation.
   (f) The public access defibrillation provider shall post a sign or
 notice at the main entrance to the facility or building in which the
 automated external defibrillator is stored, indicating the location
 where any such automated external defibrillator is stored or maintained
 in such building or facility on a regular basis.
-  4. Application of other laws. (a) Operation of an automated external
-defibrillator pursuant to this section shall be considered first aid or
-emergency treatment for the purpose of any statute relating to
-liability.
-  (b) Operation of an automated external defibrillator pursuant to this
-section shall not constitute the unlawful practice of a profession under
-title VIII of the education law.
+  4. Operation of an automated external defibrillator pursuant to this
+section shall be considered first aid or emergency treatment for the
+purpose of any statute relating to liability and shall not constitute
+the unlawful practice of a profession under title VIII of the education
+law.
+  5. Any manufacturer, distributor, retailer, or reseller that sells or
+otherwise transfers an automated external defibrillator for use in this
+state shall, at the time of sale or transfer, provide the purchaser with
+written or electronic notice of applicable requirements under this
+section, including registration, maintenance, and reporting obligations,
+in a form prescribed by the department.
 ```

@@ -250,45 +250,33 @@ eaten.
   (ii) The tax imposed by this subdivision shall not apply to:
   (A) food or drink which is sold to an air line for consumption while
 in flight;
-  * (B) food or drink sold to a student of a nursery school,
-kindergarten, elementary or secondary school at a restaurant or
-cafeteria located on the premises of such a school, or food or drink,
-other than beer, wine, or other alcoholic beverages, sold at a
-restaurant, tavern or other establishment located on the premises of a
-college, university or a school (other than a nursery school,
-kindergarten, elementary or secondary school) to a student enrolled
-therein who purchases such food or drink under a contractual arrangement
-whereby the student does not pay cash at the time he is served, provided
-the school, college or university described in this subparagraph is
-operated by an exempt organization described in subdivision (a) of
-section eleven hundred sixteen, or is created, incorporated, registered,
-or licensed by the state legislature or pursuant to the education law or
-the regulations of the commissioner of education, or is incorporated by
-the regents of the university of the State of New York or with their
-consent or the consent of the commissioner of education as provided in
-section two hundred sixteen of the education law; and
-  * NB Effective until July 1, 2026
-  * (B) food or drink sold to a student of a nursery school,
-kindergarten, elementary or secondary school at a restaurant or
-cafeteria located on the premises of such a school, or food or drink,
-other than beer, wine, or other alcoholic beverages, sold at a
-restaurant, tavern or other establishment located on the premises of a
-college, university or a school (other than a nursery school,
-kindergarten, elementary or secondary school) to a student enrolled
-therein who purchases such food or drink under a contractual arrangement
-whereby the student does not pay cash at the time such student is
-served, including food sold to a student enrolled therein purchasing a
-meal using an approved donation program of funds or food points,
-provided the school, college or university described in this
-subparagraph is operated by an exempt organization described in
-subdivision (a) of section eleven hundred sixteen, or is created,
-incorporated, registered, or licensed by the state legislature or
-pursuant to the education law or the regulations of the commissioner of
-education, or is incorporated by the regents of the university of the
-State of New York or with their consent or the consent of the
-commissioner of education as provided in section two hundred sixteen of
-the education law; and
-  * NB Effective July 1, 2026
+  (B) food or drink sold to a student of a nursery school, kindergarten,
+elementary or secondary school at a restaurant or cafeteria located on
+the premises of such a school, or food or drink, other than beer, wine,
+or other alcoholic beverages, sold at a restaurant, tavern or other
+establishment located on the premises of a college, university or a
+school (other than a nursery school, kindergarten, elementary or
+secondary school) to a student enrolled therein who purchases such food
+or drink under a contractual arrangement whereby the student does not
+pay cash at the time such student is served, provided the school,
+college or university described in this subparagraph is operated by an
+exempt organization described in subdivision (a) of section eleven
+hundred sixteen, or is created, incorporated, registered, or licensed by
+the state legislature or pursuant to the education law or the
+regulations of the commissioner of education, or is incorporated by the
+regents of the university of the State of New York or with their consent
+or the consent of the commissioner of education as provided in section
+two hundred sixteen of the education law; provided, further, that the
+contractual arrangement between an enrolled student and a college,
+university or school may include a provision permitting such enrolled
+student to donate unused meal funds, meals or meal points to other
+students enrolled in such school, college or university who are facing
+food insecurity through a program operated by such school, college or
+university directly or through a contract with a nonprofit organization
+that is exempt from federal taxation pursuant to subsection (c) of
+section five hundred one of the internal revenue code, provided that no
+part of the donated funds, meals or meal points inure to the benefit of
+such school, college, university or nonprofit organization; and
   (C) Sales by a brewery licensed under section fifty-one of the
 alcoholic beverage control law, or a farm brewery licensed under section
 fifty-one-a of such law, of no more than four samples of beer not

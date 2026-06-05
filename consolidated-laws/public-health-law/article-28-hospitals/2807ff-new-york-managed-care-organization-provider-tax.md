@@ -27,36 +27,49 @@ pursuant to section two hundred sixty-eight-b of this chapter; or
   (e) Any other comprehensive coverage subject to articles thirty-two,
 forty-two and forty-three of the insurance law, or article forty-four of
 this chapter.
+  1-a. On or after April first, two thousand twenty-six, the
+commissioner, subject to the approval of the director of the budget,
+shall apply for an amendment of the MCO provider tax, subject to
+approval by the centers for Medicare and Medicaid services, to impose an
+amended MCO provider tax as an assessment upon health plans no sooner
+than January first, two thousand twenty-seven, as established in
+paragraph (b) of subdivision four of this section.
   2. The MCO provider tax shall comply with all relevant provisions of
 federal laws, rules and regulations.
   3. The department shall post on its website the MCO provider tax
 approval letter by the centers for Medicare and Medicaid services (the
 "approval letter").
-  4. A health plan, as defined in subdivision one of this section, shall
-pay the MCO provider tax for each calendar year as follows:
-  (a) For Medicaid member months below two hundred fifty thousand member
+  4. (a) Prior to January first, two thousand twenty-seven, a health
+plan, as defined in subdivision one of this section, shall pay the MCO
+provider tax for each calendar year as follows:
+  (i) For Medicaid member months below two hundred fifty thousand member
 months, a health plan shall pay one hundred twenty-six dollars per
 member month;
-  (b) For Medicaid member months greater than or equal to two hundred
+  (ii) For Medicaid member months greater than or equal to two hundred
 fifty thousand member months but less than five hundred thousand member
 months, a health plan shall pay eighty-eight dollars per member month;
-  (c) For Medicaid member months greater than or equal to five hundred
+  (iii) For Medicaid member months greater than or equal to five hundred
 thousand member months, a health plan shall pay twenty-five dollars per
 member month;
-  (d) For essential plan member months less than two hundred fifty
+  (iv) For essential plan member months less than two hundred fifty
 thousand member months, a health plan shall pay thirteen dollars per
 member month;
-  (e) For essential plan member months greater than or equal to two
+  (v) For essential plan member months greater than or equal to two
 hundred fifty thousand member months, a health plan shall pay seven
 dollars per member month;
-  (f) For non-essential plan non-Medicaid member months, consisting of
+  (vi) For non-essential plan non-Medicaid member months, consisting of
 the populations covered by the products described in paragraphs (b),
 (d), and (e) of subdivision one of this section, less than two hundred
 fifty thousand member months, a health plan shall pay two dollars per
 member month; and
-  (g) For non-essential plan non-Medicaid member months greater than or
-equal to two hundred fifty thousand member months, a health plan shall
-pay one dollar and fifty cents per member month.
+  (vii) For non-essential plan non-Medicaid member months greater than
+or equal to two hundred fifty thousand member months, a health plan
+shall pay one dollar and fifty cents per member month.
+  (b) Effective January first, two thousand twenty-seven, subject to any
+required approvals by the centers for Medicare and Medicaid services, a
+health plan, as defined in subdivision one of this section, shall pay
+the MCO provider tax for each calendar year at a rate of 0.35% of the
+health plan's total premium revenue.
   5. A health plan shall remit the MCO provider tax due pursuant to this
 section to the commissioner or their designee quarterly or at a
 frequency defined by the commissioner.

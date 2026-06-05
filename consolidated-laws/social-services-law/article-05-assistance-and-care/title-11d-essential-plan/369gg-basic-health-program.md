@@ -33,16 +33,9 @@ of other similar providers to be included in the approved organization's
 network, provided that such terms shall include reimbursement of such
 center at no less than the fee-for-service medicaid payment rate and
 methodology applicable to the center's inpatient and outpatient
-services; (ii) dental and vision services as defined by the
-commissioner, and (iii) as defined by the commissioner and subject to
-federal approval, certain services and supports provided to enrollees
-eligible pursuant to subparagraph one of paragraph (g) of subdivision
-one of section three hundred sixty-six of this article who have
-functional limitations and/or chronic illnesses that have the primary
-purpose of supporting the ability of the enrollee to live or work in the
-setting of their choice, which may include the individual's home, a
-worksite, or a provider-owned or controlled residential setting;
-  * NB Effective until December 31, 2030
+services; and (ii) dental and vision services as defined by the
+commissioner;
+  * NB Effective until January 1, 2031
   * (c) "Health care services" means (i) the services and supplies as
 defined by the commissioner in consultation with the superintendent of
 financial services, and shall be consistent with and subject to the
@@ -61,29 +54,16 @@ of other similar providers to be included in the approved organization's
 network, provided that such terms shall include reimbursement of such
 center at no less than the fee-for-service medicaid payment rate and
 methodology applicable to the center's inpatient and outpatient
-services; and (ii) dental and vision services as defined by the
-commissioner, and (iii) as defined by the commissioner and subject to
+services; (ii) dental and vision services as defined by the
+commissioner; and (iii) as defined by the commissioner and subject to
 federal approval, certain services and supports provided to enrollees
-who have functional limitations and/or chronic illnesses that have the
-primary purpose of supporting the ability of the enrollee to live or
-work in the setting of their choice, which may include the individual's
-home, a worksite, or a provider-owned or controlled residential setting;
-  * NB Effective January 1, 2031 until January 1, 2028
-  * (c) "Health care services" means (i) the services and supplies as
-defined by the commissioner in consultation with the superintendent of
-financial services, and shall be consistent with and subject to the
-essential health benefits as defined by the commissioner in accordance
-with the provisions of the patient protection and affordable care act
-(P.L. 111-148) and consistent with the benefits provided by the
-reference plan selected by the commissioner for the purposes of defining
-such benefits, and (ii) as defined by the commissioner and subject to
-federal approval, certain services and supports provided to enrollees
-who have functional limitations and/or chronic illnesses that have the
-primary purpose of supporting the ability of the enrollee to live or
-work in the setting of their choice, which may include the individual's
-home, a worksite, or a provider-owned or controlled residential setting;
-  * NB Effective January 1, 2028 if federal approval is withdrawn or 42
-U.S.C. 18051 is repealed
+eligible pursuant to subparagraph one of paragraph (g) of subdivision
+one of section three hundred sixty-six of this article who have
+functional limitations and/or chronic illnesses that have the primary
+purpose of supporting the ability of the enrollee to live or work in the
+setting of their choice, which may include the individual's home, a
+worksite, or a provider-owned or controlled residential setting;
+  * NB Effective January 1, 2031
   (d) "Qualified health plan" means a health plan that meets the
 criteria for certification described in § 1311(c) of the Patient
 Protection and Affordable Care Act (P.L. 111-148), and is offered to

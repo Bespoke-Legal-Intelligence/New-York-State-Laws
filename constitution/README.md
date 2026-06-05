@@ -61,7 +61,3 @@
 - [Article XVIII — Housing](article-xviii-housing/)
 - [Article XIX — Amendments to Constitution](article-xix-amendments-to-constitution/)
 - [Article XX — When to Take Effect](article-xx-when-to-take-effect/)
-- [Index A-D Index range: A-D](index-a-d-index-range-a-d.md)
-- [Index E-K Index range: E-K](index-e-k-index-range-e-k.md)
-- [Index L-Q Index range: L-Q](index-l-q-index-range-l-q.md)
-- [Index R-Y Index range: R-Y](index-r-y-index-range-r-y.md)

@@ -4,11 +4,7 @@
 [Uniform Commercial Code](../../README.md) › [Article 2-A — Leases](../README.md) › [Part 1 — General Provisions](README.md)
 
 ```text
-* Section 2-A-102. Scope.
-  This Article applies to any transaction, regardless of form, that
-creates a lease.
-  * NB Effective until June 3, 2026
-* Section 2-A-102. Scope.
+Section 2-A-102. Scope.
   (1) This Article applies to any transaction, regardless of form, that
 creates a lease and, in the case of a hybrid lease, it applies to the
 extent provided in subsection (2).
@@ -25,5 +21,4 @@ to possession and use of the leased goods; and
 the transaction, but does not preclude application in appropriate
 circumstances of other law to aspects of the lease which do not relate
 to the lease of goods.
-  * NB Effective June 3, 2026
 ```

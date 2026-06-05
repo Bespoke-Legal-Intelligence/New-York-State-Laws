@@ -252,8 +252,7 @@ assistance recipients through managed care programs until at least
 January first, two thousand twenty-eight.
   (d-3) Services provided in school-based health centers shall not be
 provided to medical assistance recipients through managed care programs
-established pursuant to this section until at least April first, two
-thousand twenty-six.
+established pursuant to this section.
   (d-4) Notwithstanding paragraph (a) of this subdivision, the following
 medical assistance recipients shall not be eligible to participate in
 the managed care program authorized by this section or other care

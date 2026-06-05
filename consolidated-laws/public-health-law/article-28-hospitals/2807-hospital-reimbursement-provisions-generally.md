@@ -402,7 +402,7 @@ commissioner determines appropriate and necessary to establish the rates
 provided for in this subparagraph and/or exempt pediatric diagnostic and
 treatment centers from the ambulatory payment group reimbursement
 methodology applicable to diagnostic and treatment centers.
-  * NB Repealed April 1, 2027
+  * NB Repealed April 1, 2029
   (h) Notwithstanding any inconsistent provisions of this subdivision or
 any other law, except as provided in section 43.02 of the mental hygiene
 law, the commissioner may, in accordance with rules and regulations

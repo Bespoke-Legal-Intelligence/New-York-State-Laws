@@ -9,7 +9,7 @@
 - [§ 9-309 Security Interest Perfected upon Attachment](9-309-security-interest-perfected-upon-attachment.md)
 - [§ 9-310 When Filing Required to Perfect Security Interest or Agricultural Lien; Security Interests and Agricultural Liens to Which Filing Provisi...](9-310-when-filing-required-to-perfect-security.md)
 - [§ 9-311 Perfection of Security Interests in Property Subject to Certain Statutes, Regulations, and Treaties](9-311-perfection-of-security-interests-in-property.md)
-- [§ 9-312 Perfection of Security Interests in Chattel Paper, Deposit Accounts, Documents, Goods Covered by Documents, Instruments, Investment Prope...](9-312-perfection-of-security-interests-in-chattel.md)
+- [§ 9-312 Perfection of Security Interests in Chattel Paper, Controllable Accounts, Controllable Electronic Records, Controllable Payment Intangibl...](9-312-perfection-of-security-interests-in-chattel.md)
 - [§ 9-313 When Possession by or Delivery to Secured Party Perfects Security Interest Without Filing](9-313-when-possession-by-or-delivery-to-secured.md)
 - [§ 9-314 Perfection by Control](9-314-perfection-by-control.md)
 - [§ 9-314A Perfection by Possession and Control of Chattel Paper](9-314a-perfection-by-possession-and-control.md)
