@@ -32,7 +32,6 @@
 - [§ 7.43 The children's plan](7.43-the-childrens-plan.md)
 - [§ 7.45 Retaliatory personnel actions](7.45-retaliatory-personnel-actions.md)
 - [§ 7.47 Mental illness anti-stigma grants](7.47-mental-illness-anti-stigma-grants.md)
-- [§ 7.48 Addictive social media platform warning labels](7.48-addictive-social-media-platform-warning-labels.md) *(repealed)*
 - [§ 7.49 Reporting obligations](7.49-reporting-obligations.md)
 
 <details>

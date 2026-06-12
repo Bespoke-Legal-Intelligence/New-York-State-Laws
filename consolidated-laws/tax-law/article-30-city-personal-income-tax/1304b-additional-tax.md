@@ -4,14 +4,14 @@
 [Tax Law](../README.md) › [Article 30 — City Personal Income Tax](README.md)
 
 ```text
-  § 1304-B. Additional tax. (a) (1) In addition to any other taxes
+  § 1304-B. Additional tax.  (a) (1) In addition to any other taxes
 authorized by this article, any city imposing such taxes is hereby
 authorized and empowered to adopt and amend local laws imposing in any
 such city for each taxable year beginning after nineteen hundred ninety
-but before two thousand twenty-seven, an additional tax on the city
-taxable income of every city resident individual, estate and trust, to
-be calculated for each taxable year as follows: (i) for each taxable
-year beginning after nineteen hundred ninety but before nineteen hundred
+but before two thousand thirty, an additional tax on the city taxable
+income of every city resident individual, estate and trust, to be
+calculated for each taxable year as follows: (i) for each taxable year
+beginning after nineteen hundred ninety but before nineteen hundred
 ninety-nine, at the rate of fourteen percent of the sum of the taxes for
 each such taxable year determined pursuant to section thirteen hundred
 four and section thirteen hundred four-A of this article; and (ii) for
@@ -20,11 +20,11 @@ rate of fourteen percent of the tax for such taxable year determined
 pursuant to such section thirteen hundred four.
   (2) Notwithstanding paragraph one of this subsection, for each taxable
 year beginning after nineteen hundred ninety-nine but before two
-thousand twenty-seven, any city imposing such additional tax may by
-local law impose such tax at a rate that is less than fourteen percent
-and may impose such tax at more than one rate depending upon the filing
-status and city taxable income of such city resident individual, estate
-or trust.
+thousand thirty, any city imposing such additional tax may by local law
+impose such tax at a rate that is less than fourteen percent and may
+impose such tax at more than one rate depending upon the filing status
+and city taxable income of such city resident individual, estate or
+trust.
   (3) A local law enacted pursuant to paragraph two of this subsection
 shall be applicable with respect to any taxable year only if it has been
 enacted on or before July thirty-first of such year. A certified copy of

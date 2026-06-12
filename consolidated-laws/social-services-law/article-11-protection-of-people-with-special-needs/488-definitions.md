@@ -181,6 +181,11 @@ law, or services provided in programs or facilities that are operated by
 the office of mental health and located in state correctional facilities
 under the jurisdiction of the department of corrections and community
 supervision;
+  * (a-1) an integrated behavioral health services program licensed
+under section 36.08 of the mental hygiene law;
+  * NB Effective on the date that the rates of reimbursement for
+integrated behavioral health services are approved and certified by
+parties set forth in chapter 60 of 2026 § 8
   (b) any program or facility that is operated by the office of children
 and family services for juvenile delinquents or juvenile offenders
 placed in the custody of the commissioner of such office and any

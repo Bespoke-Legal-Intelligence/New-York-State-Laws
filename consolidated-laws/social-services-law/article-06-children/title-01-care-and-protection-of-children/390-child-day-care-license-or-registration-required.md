@@ -98,7 +98,7 @@ pursuant to this section and that is enrolled to be a caregiver and
 provide subsidized child care services to eligible families in
 accordance with title five-C of this article and the regulations of the
 office of children and family services.
-  2. (a) Child day care centers caring for seven or more children and
+  2. * (a) Child day care centers caring for seven or more children and
 group family day care programs, as defined in subdivision one of this
 section, shall obtain a license from the office of children and family
 services and shall operate in accordance with the terms of such license
@@ -106,6 +106,16 @@ and the regulations of such office. Initial licenses and subsequent
 licenses shall be valid for a period of up to four years so long as the
 provider remains substantially in compliance with applicable law and
 regulations during such period.
+  * NB Effective until June 5, 2027
+  * (a) Child day care centers caring for seven or more children and
+group family day care programs, as defined in subdivision one of this
+section, shall obtain a license from the office of children and family
+services and shall operate in accordance with the terms of such license
+and the regulations of such office. Initial licenses and subsequent
+licenses shall be valid for a period of up to six years so long as the
+provider remains substantially in compliance with applicable law and
+regulations during such period.
+  * NB Effective June 5, 2027
   (b) Family day care homes, child day care centers caring for at least
 three but fewer than seven children, and school-age child care programs
 shall register with the department and shall operate in compliance with
@@ -121,10 +131,16 @@ registration or renewing a license shall include a satisfactory
 inspection of the facility by the office of children and family services
 prior to issuance of the license or registration or renewal of the
 license.
-  (ii) (A) Initial registrations and subsequent registrations shall be
+  (ii) * (A) Initial registrations and subsequent registrations shall be
 valid for a period of up to four years so long as the provider remains
 substantially in compliance with applicable law and regulations during
 such period.
+  * NB Effective until June 5, 2027
+  * (A) Initial registrations and subsequent registrations shall be
+valid for a period of up to six years so long as the provider remains
+substantially in compliance with applicable law and regulations during
+such period.
+  * NB Effective June 5, 2027
   (B) After initial registration by the child day care provider, the
 office of children and family services shall not accept any subsequent
 registration by such provider, unless:

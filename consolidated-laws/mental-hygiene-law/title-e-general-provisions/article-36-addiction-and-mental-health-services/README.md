@@ -12,6 +12,7 @@
 - [§ 36.05 Certified community behavioral health clinics indigent care program](36.05-certified-community-behavioral-health-clinics-indigent.md)
 - [§ 36.06 Review of criminal history information](36.06-review-of-criminal-history-information.md)
 - [§ 36.07 Behavioral health crisis technical assistance center](36.07-behavioral-health-crisis-technical-assistance-center.md)
+- [§ 36.08 Integrated behavioral health services](36.08-integrated-behavioral-health-services.md)
 
 <details>
 <summary>Official heading of Article 36, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -28,6 +29,7 @@ Section 36.01 Crisis stabilization centers.
                 care program.
         36.06 Review of criminal history information.
         36.07 Behavioral health crisis technical assistance center.
+        36.08 Integrated behavioral health services.
 ```
 
 </details>

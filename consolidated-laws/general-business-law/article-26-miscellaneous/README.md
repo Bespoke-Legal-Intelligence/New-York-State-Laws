@@ -71,7 +71,7 @@
 - [§ 394-CCC Social media networks; hateful conduct prohibited](394ccc-social-media-networks-hateful-conduct-prohibited.md)
 - [§ 394-D Privity of contract between franchise seller and customer or patron of dealer](394d-privity-of-contract-between-franchise-seller-and-customer-or-patron-of-dealer.md)
 - [§ 394-E Report on request for abortional services](394e-report-on-request-for-abortional-services.md)
-- [§ 394-F Warrants for reproductive health related electronic data](394f-warrants-for-reproductive-health-related-electronic-data.md)
+- [§ 394-F Warrants for electronic data related to legally protected health activities](394f-warrants-for-electronic-data-related-to-legally-protected-health-activities.md)
 - [§ 394-G Geofencing of health care facilities](394g-geofencing-of-health-care-facilities.md)
 - [§ 394-H Electronic health information protections](394h-electronic-health-information-protections.md)
 - [§ 394-I Legally protected health activities](394i-legally-protected-health-activities.md)
@@ -302,8 +302,8 @@ Section 390.         Substitution of spurious oils for internal
         394-d.       Privity of contract between franchise seller and
                        customer or patron of dealer.
         394-e.       Report on request for abortional services.
-        394-f.       Warrants for reproductive health related electronic
-                       data.
+        394-f.       Warrants for electronic data related to legally
+                       protected health activities.
         394-g.       Geofencing of health care facilities.
         394-h.       Electronic health information protections.
         394-i.       Legally protected health activities.

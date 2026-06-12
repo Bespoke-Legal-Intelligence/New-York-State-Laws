@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Labor Law § 958", "kind": "section", "law_id": "LAB", "location_id": "958", "path": "ARTICLE 33 › SECTION 958", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/958.md", "title": "Inspection of elevators and conveyances"} -->
+﻿<!-- nyslaw {"citation": "Labor Law § 958", "kind": "section", "law_id": "LAB", "location_id": "958", "path": "ARTICLE 33 › SECTION 958", "repealed": true, "repealed_date": "2026-06-12", "source": "nys-laws:LAB/958.md", "title": "Inspection of elevators and conveyances"} -->
 # Labor Law § 958 — Inspection of elevators and conveyances
 
 [Labor Law](../README.md) › [Article 33 — Elevators and Other Conveyances; Licensing](README.md)
+
+**Repealed** (12 Jun 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 958. Inspection of elevators and conveyances. Except in a city

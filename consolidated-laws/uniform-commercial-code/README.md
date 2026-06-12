@@ -8,7 +8,7 @@
 | Senate code | UCC |
 | Type | Consolidated law, chapter 38 |
 | Sections | 650 |
-| Last changed | 5 Jun 2026 |
+| Last changed | 12 Jun 2026 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Uniform Commercial Code |
 
@@ -31,6 +31,7 @@ Section 1--101. Short Title
 
 ## Recent changes
 
+- [12 Jun 2026](../../changes/2026/2026-06-12.md): 8 amended
 - [5 Jun 2026](../../changes/2026/2026-06-05.md): 102 amended
 - [12 Dec 2025](../../changes/2025/2025-12-12.md): 79 amended, 23 added
 - [3 Jun 2022](../../changes/2022/2022-06-03.md): 1 amended
@@ -40,7 +41,6 @@ Section 1--101. Short Title
 - [31 Aug 2018](../../changes/2018/2018-08-31.md): 4 amended
 - [16 Sep 2016](../../changes/2016/2016-09-16.md): 1 amended
 - [20 May 2016](../../changes/2016/2016-05-20.md): 1 amended
-- [27 Feb 2015](../../changes/2015/2015-02-27.md): 1 amended
 
 ## Contents
 

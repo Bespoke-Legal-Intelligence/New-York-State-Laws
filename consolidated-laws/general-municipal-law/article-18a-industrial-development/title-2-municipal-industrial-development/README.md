@@ -86,8 +86,8 @@
 - [§ 911-C Town of Montgomery industrial development agency](911c-town-of-montgomery-industrial-development-agency.md)
 - [§ 911-D Town of Colonie industrial development agency](911d-town-of-colonie-industrial-development-agency.md)
 - [§ 912 Tioga county industrial development agency](912-tioga-county-industrial-development-agency.md)
-- [§ 912\*2 Orange county industrial development agency](912-2-orange-county-industrial-development-agency.md)
 - [§ 912-A County of Putnam industrial development agency](912a-county-of-putnam-industrial-development-agency.md)
+- [§ 912-B Orange county industrial development agency](912b-orange-county-industrial-development-agency.md)
 - [§ 913 City of Newburgh industrial development agency](913-city-of-newburgh-industrial-development-agency.md)
 - [§ 913\*2 City of Newburgh industrial development agency](913-2-city-of-newburgh-industrial-development-agency.md)
 - [§ 914 St](914-st.md)
@@ -222,8 +222,8 @@ Section 890.     Wayne county industrial development agency.
         911-c.   Town of Montgomery industrial development agency.
         911-d.   Town of Colonie industrial development agency.
         912.     Tioga county industrial development agency.
-        912*2.   Orange county industrial development agency.
         912-a.   County of Putnam industrial development agency.
+        912-b.   Orange county industrial development agency.
         913.     City of Newburgh industrial development agency.
         913*2.   City of Newburgh industrial development agency.
         914.     St. Lawrence county industrial development agency.

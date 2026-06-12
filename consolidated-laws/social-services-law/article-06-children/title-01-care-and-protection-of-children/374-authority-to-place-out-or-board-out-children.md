@@ -72,7 +72,7 @@ paid as provided by this chapter.
   5. Nothing contained in this section shall deprive any hospital of any
 right or power conferred upon it by its charter or act of incorporation
 or specified in its certificate of incorporation.
-  6. An authorized agency, as defined in paragraphs (a) and (c) of
+  * 6. An authorized agency, as defined in paragraphs (a) and (c) of
 subdivision ten of section three hundred seventy-one of this title, may
 charge or accept a fee or other compensation to or from a person or
 persons with whom it has placed out a child, for the reasonable and
@@ -130,6 +130,66 @@ authorized agency provides adoption services to such birth parent or
 adoptive parent, where the authorized agency provides foster care for
 the child, or where the authorized agency is directly or indirectly
 involved in the placing out of such child for adoption.
+  * NB Effective until July 5, 2026
+  * 6. (a) An authorized agency, as defined in paragraphs (a) and (c) of
+subdivision ten of section three hundred seventy-one of this title, may
+charge or accept a fee or other compensation to or from a person or
+persons with whom it has placed out a child, for the reasonable and
+necessary expenses of such placement; and no agency, association,
+corporation, institution, society or organization, except such an
+authorized agency, and no person may or shall request, accept or receive
+any compensation or thing of value, directly or indirectly, in
+connection with the placing out or adoption of a child or for assisting
+a birth parent, relative or guardian of a child in arranging for the
+placement of the child for the purpose of adoption; and no person may or
+shall pay or give to any person or to any agency, association,
+corporation, institution, society or organization, except such an
+authorized agency, any compensation or thing of value in connection with
+the placing out or adoption of a child or for assisting a birth parent,
+relative or guardian of a child in arranging for the placement of the
+child for the purpose of adoption. The prohibition set forth in this
+section applies to any adoptive placement activity involving a child
+born in New York state or brought into this state or involving a New
+York resident seeking to bring a child into New York state for the
+purpose of adoption.
+  (b) This subdivision shall not be construed to prevent the payment of
+salaries or other compensation by an authorized agency to the officers
+or employees thereof; nor shall it be construed to prevent the payment
+by a person with whom a child has been placed out of reasonable and
+actual medical fees or hospital charges for services rendered in
+connection with the birth of such child or of other necessary expenses
+incurred by the birth mother in connection with or as a result of such
+birth mother's pregnancy or the birth of the child, or of reasonable and
+actual nursing, medical or hospital fees for the care of such child, if
+such payment is made to the physician, nurse or hospital who or which
+rendered the services or to the birth mother of the child, or to prevent
+the receipt of such payment by such physician, nurse, hospital or birth
+mother. This subdivision shall not be construed to prevent the payment
+by an adoptive parent, as defined in section one hundred nine of the
+domestic relations law, of the birth mother's reasonable and actual
+expenses for housing, maternity clothing, clothing for the child and
+transportation for a reasonable period not to exceed one hundred eighty
+days prior to the birth and the later of forty-five days after the birth
+or forty-five days after the parental consent to the adoption, unless a
+court determines, in writing, that circumstances exist which require the
+payment of the birth mother's expenses beyond the time periods stated in
+this sentence. This subdivision shall not be construed to prevent the
+payment by an adoptive parent, as defined in section one hundred nine of
+the domestic relations law, of reasonable and actual legal fees charged
+for consultation and legal advice, preparation of papers and
+representation and other legal services rendered in connection with an
+adoption proceeding or of necessary disbursements incurred for or in an
+adoption proceeding. No attorney or law firm shall serve as the attorney
+for, or provide any legal services to both the birth parent and adoptive
+parent in regard to the placing out of a child for adoption or in an
+adoption proceeding. No attorney or law firm shall serve as the attorney
+for, or provide any legal services to, both an authorized agency and
+adoptive parent or both an authorized agency and birth parent where the
+authorized agency provides adoption services to such birth parent or
+adoptive parent, where the authorized agency provides foster care for
+the child, or where the authorized agency is directly or indirectly
+involved in the placing out of such child for adoption.
+  * NB Effective July 5, 2026
   7. After receipt of notice from the state commissioner of health or
 the department of health of the city of New York, as the case may be,
 that an application has been received by such commissioner or department
