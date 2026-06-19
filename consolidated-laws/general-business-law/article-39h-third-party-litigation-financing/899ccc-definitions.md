@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Business Law § 899-CCC", "kind": "section", "law_id": "GBS", "location_id": "899-CCC", "path": "ARTICLE 39-H › SECTION 899-CCC", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/899-CCC.md", "title": "Definitions"} -->
+﻿<!-- nyslaw {"citation": "General Business Law § 899-CCC", "kind": "section", "law_id": "GBS", "location_id": "899-CCC", "path": "ARTICLE 39-H › SECTION 899-CCC", "repealed": true, "repealed_date": "2026-06-19", "source": "nys-laws:GBS/899-CCC.md", "title": "Definitions"} -->
 # General Business Law § 899-CCC — Definitions
 
 [General Business Law](../README.md) › [Article 39-H — Third Party Litigation Financing](README.md)
+
+**Repealed** (19 Jun 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 899-ccc. Definitions. As used in this article, the following terms

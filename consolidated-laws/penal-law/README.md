@@ -29,7 +29,7 @@ Assembly, do enact as follows:
                    CHAPTER 40 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (117 lines)](chapter-text.md)
+[Full chapter text (119 lines)](chapter-text.md)
 
 ## Recent changes
 

@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 26 — Miscellaneous](README.md)
 
 ```text
-  * § 392-k. Motor vehicle glass repair and replacement; calibration and
+  § 392-k. Motor vehicle glass repair and replacement; calibration and
 recalibration of advanced driver assistance systems; consumer
 disclosure. 1. Definitions. For the purposes of this section, the
 following terms shall have the following meanings:
@@ -136,5 +136,4 @@ vehicle glass repair or replacement, or recalibration on a motor vehicle
 equipped with an advanced driver assistance system, from complying with
 all applicable provisions of article twelve-A of the vehicle and traffic
 law and any rules or regulations promulgated thereunder.
-  * NB Effective June 17, 2026
 ```

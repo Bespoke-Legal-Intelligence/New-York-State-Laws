@@ -4,8 +4,8 @@
 [New York City Civil Court Act](../README.md) › [Article 14 — Judgment](README.md)
 
 ```text
-  § 1402. Default judgment.
-  A judgment by default may be entered as provided in CPLR § 3215.
+  § 1402. Default judgment. A judgment by default may be entered as
+provided in CPLR § 3215.
   A summons stating the amount for which the plaintiff will take
 judgment if the defendant fails to appear and answer, and containing a
 statement of the nature and substance of the cause of action, or a

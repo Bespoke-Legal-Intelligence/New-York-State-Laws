@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 13-I — Regulation of Supplements and Other Products; Distribution to Minors](README.md)
 
 ```text
-  * § 1399-xx. Sale or distribution of kratom products to minors. 1. For
+  § 1399-xx. Sale or distribution of kratom products to minors. 1. For
 purposes of this section the following terms shall have the following
 meanings:
   (a) "A device capable of deciphering any electronically readable
@@ -133,5 +133,4 @@ been finally determined, the commissioner may bring an action to recover
 the civil penalty in any court of competent jurisdiction. Nothing herein
 shall be construed to prohibit an enforcement officer from commencing a
 proceeding for injunctive relief to compel compliance with this section.
-  * NB Effective June 17, 2026
 ```

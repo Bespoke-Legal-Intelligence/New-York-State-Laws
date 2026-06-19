@@ -35,7 +35,7 @@
 - [§ 2128 Commission and fee sharing prohibited](2128-commission-and-fee-sharing-prohibited.md)
 - [§ 2129 Duty to have an agent or broker at each place of business](2129-duty-to-have-an-agent-or-broker-at-each-place-of-business.md)
 - [§ 2130 Excess line association](2130-excess-line-association.md)
-- [§ 2131 Limited license for rental vehicle companies, wireless communications equipment vendors and self-service storage companies](2131-limited-license-for-rental-vehicle-companies-wireless-communications-equipment.md)
+- [§ 2131 Limited license for rental vehicle companies, peer-to-peer car sharing program administrators, wireless communications equipment vendors ...](2131-limited-license-for-rental-vehicle-companies-peer-to-peer-car-sharing-program.md)
 - [§ 2132 Continuing education](2132-continuing-education.md)
 - [§ 2133 Forged insurance identification cards](2133-forged-insurance-identification-cards.md)
 - [§ 2134 Change of address](2134-change-of-address.md)

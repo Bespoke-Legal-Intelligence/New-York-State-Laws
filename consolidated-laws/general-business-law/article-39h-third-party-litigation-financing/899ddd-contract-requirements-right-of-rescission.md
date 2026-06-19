@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Business Law § 899-DDD", "kind": "section", "law_id": "GBS", "location_id": "899-DDD", "path": "ARTICLE 39-H › SECTION 899-DDD", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/899-DDD.md", "title": "Contract requirements; right of rescission"} -->
+﻿<!-- nyslaw {"citation": "General Business Law § 899-DDD", "kind": "section", "law_id": "GBS", "location_id": "899-DDD", "path": "ARTICLE 39-H › SECTION 899-DDD", "repealed": true, "repealed_date": "2026-06-19", "source": "nys-laws:GBS/899-DDD.md", "title": "Contract requirements; right of rescission"} -->
 # General Business Law § 899-DDD — Contract requirements; right of rescission
 
 [General Business Law](../README.md) › [Article 39-H — Third Party Litigation Financing](README.md)
+
+**Repealed** (19 Jun 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 899-ddd. Contract requirements; right of rescission. 1. All

@@ -4,8 +4,8 @@
 [Financial Services Law](../README.md) › [Article 10 — Litigation Funding](README.md)
 
 ```text
-  * § 1002. Contract requirements; right of rescission. (a) All
-litigation funding contracts shall meet the following requirements:
+  § 1002. Contract requirements; right of rescission. (a) All litigation
+funding contracts shall meet the following requirements:
   (i) a contract shall be written in a clear and coherent manner using
 words with common, everyday meanings to enable the average consumer who
 makes a reasonable effort under ordinary circumstances to read and
@@ -68,5 +68,4 @@ and/or retains a new attorney with respect to the legal claim.
 of the general obligations law, no prepayment penalties or fees shall be
 charged or collected on consumer litigation funding. A prepayment
 penalty on a litigation funding contract shall be unenforceable.
-  * NB Effective June 17, 2026
 ```

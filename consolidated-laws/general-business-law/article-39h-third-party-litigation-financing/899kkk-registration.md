@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Business Law § 899-KKK", "kind": "section", "law_id": "GBS", "location_id": "899-KKK", "path": "ARTICLE 39-H › SECTION 899-KKK", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/899-KKK.md", "title": "Registration"} -->
+﻿<!-- nyslaw {"citation": "General Business Law § 899-KKK", "kind": "section", "law_id": "GBS", "location_id": "899-KKK", "path": "ARTICLE 39-H › SECTION 899-KKK", "repealed": true, "repealed_date": "2026-06-19", "source": "nys-laws:GBS/899-KKK.md", "title": "Registration"} -->
 # General Business Law § 899-KKK — Registration
 
 [General Business Law](../README.md) › [Article 39-H — Third Party Litigation Financing](README.md)
+
+**Repealed** (19 Jun 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 899-kkk. Registration. 1. Unless a consumer litigation funding

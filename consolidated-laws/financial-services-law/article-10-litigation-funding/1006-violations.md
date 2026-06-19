@@ -4,7 +4,7 @@
 [Financial Services Law](../README.md) › [Article 10 — Litigation Funding](README.md)
 
 ```text
-  * § 1006. Violations. (a) Any litigation funding company found in
+  § 1006. Violations. (a) Any litigation funding company found in
 willful violation of any provision of this article in a specific funding
 case: (i) waives its right to recover the charges, as defined in
 subsection (b) of section one thousand one of this article, in that
@@ -16,5 +16,4 @@ by the attorney general.
 exercise of powers or the performance of the duties of the New York
 state attorney general, which such attorney general is authorized to
 exercise or perform by law.
-  * NB Effective June 17, 2026
 ```

@@ -81,8 +81,4 @@ of article thirty-three of this chapter.
   18. "Vapor products dealer" means a person licensed by the
 commissioner of taxation and finance to sell vapor products in this
 state.
-  * 19. "Kratom" means any part of the plant Mitragyna speciosa, whether
-growing or not, and any compound, manufacture, salt, derivative,
-mixture, or preparation of such plant.
-  * NB Effective and Repealed June 17, 2026
 ```

@@ -17,7 +17,7 @@
 <summary>Official heading of Article 29-HHH, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                            * ARTICLE 29-HHH
+                             ARTICLE 29-HHH
                      ACTIONS INVOLVING COERCED DEBTS
 Section 604-aa. Definitions.
         604-bb. Notice of coerced debt.
@@ -27,7 +27,6 @@ Section 604-aa. Definitions.
                   incur coerced debt.
         604-ff. Attorney general enforcement.
         604-gg. Scope.
-  * NB Effective June 17, 2026
 ```
 
 </details>

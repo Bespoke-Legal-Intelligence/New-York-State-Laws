@@ -543,7 +543,7 @@ container.
 exclusively in the engine of a motor vehicle and natural gas purchased
 and converted into CNG, for use or for sale for use or consumption
 directly and exclusively in the engine of a motor vehicle.
-  * NB Repealed September 1, 2026
+  * NB Repealed September 1, 2031
   (43) Ferry boats used directly and predominantly to provide ferry
 service for vehicles and passengers within a county or counties by a
 ferry company whose rates for that ferry service are regulated by the
@@ -758,7 +758,7 @@ if all of such fuel is consumed other than on the public highways of
 this state (except for the use of the public highways to reach adjacent
 farmlands or adjacent lands used in a commercial horse boarding
 operation, or both).
-  * NB Effective until September 1, 2026
+  * NB Effective until September 1, 2031
   * (j) The exemptions provided in this section shall not apply to the
 tax required to be prepaid pursuant to the provisions of section eleven
 hundred two of this article nor to the taxes imposed by sections eleven
@@ -780,7 +780,7 @@ if all of such fuel is consumed other than on the public highways of
 this state (except for the use of the public highways to reach adjacent
 farmlands or adjacent lands used in a commercial horse boarding
 operation, or both).
-  * NB Effective September 1, 2026
+  * NB Effective September 1, 2031
   (k) Receipts from the sale of food eligible to be purchased with
 coupons issued under or pursuant to the federal food stamp act of
 nineteen hundred seventy-seven (7 U.S.C. § 2011 et seq.), as amended,

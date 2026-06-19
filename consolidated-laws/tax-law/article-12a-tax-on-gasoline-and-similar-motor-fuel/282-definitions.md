@@ -144,7 +144,7 @@ which sells motor fuel within the boundaries of a qualified reservation.
   * 22. "E85" means a fuel blend consisting of ethanol and motor fuel,
 which meets the ASTM International active standard D5798 for fuel
 ethanol.
-  * NB Repealed September 1, 2026
+  * NB Repealed September 1, 2031
   * 23. "B20" means a mixture consisting by volume of twenty percent
 biodiesel and the remainder of which is diesel motor fuel. "Biodiesel"
 shall mean either "qualified biodiesel" or "unqualified biodiesel."
@@ -157,15 +157,15 @@ D6751 for biodiesel fuel. "Unqualified biodiesel" means a diesel motor
 fuel substitute produced from nonpetroleum renewable resources that does
 not meet the ASTM International active standard D6751 for biodiesel
 fuel.
-  * NB Repealed September 1, 2026
+  * NB Repealed September 1, 2031
   * 24. "CNG" means fuel comprised primarily of methane, stored in
 either a gaseous or liquid state, suitable for use and consumption in
 the engine of a motor vehicle.
-  * NB Repealed September 1, 2026
+  * NB Repealed September 1, 2031
   * 25. "Hydrogen" means fuel comprised primarily of molecular hydrogen,
 stored in either a gaseous or liquid state, suitable for use and
 consumption in the engine of a motor vehicle.
-  * NB Repealed September 1, 2026
+  * NB Repealed September 1, 2031
   26. "Public highway" means public highway as defined in subdivision
 six of section five hundred one of this chapter.
   27. "Wholesaler of motor fuel" means any person, firm, association or

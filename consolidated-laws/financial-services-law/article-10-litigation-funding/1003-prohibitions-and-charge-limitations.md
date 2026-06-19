@@ -4,7 +4,7 @@
 [Financial Services Law](../README.md) › [Article 10 — Litigation Funding](README.md)
 
 ```text
-  * § 1003. Prohibitions and charge limitations. Litigation funding
+  § 1003. Prohibitions and charge limitations. Litigation funding
 companies shall be prohibited from:
   (a) paying or offering to pay commissions, referral fees, or any other
 form of consideration to any attorney, law firm, medical provider,
@@ -59,5 +59,4 @@ fund litigation; and
 litigation funding company has any reasonable basis to believe that the
 consumer's legal claim is frivolous, based on a false statement of facts
 or otherwise that it is not meritorious.
-  * NB Effective June 17, 2026
 ```

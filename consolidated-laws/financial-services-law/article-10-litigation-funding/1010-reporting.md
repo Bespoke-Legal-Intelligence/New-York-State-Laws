@@ -4,7 +4,7 @@
 [Financial Services Law](../README.md) › [Article 10 — Litigation Funding](README.md)
 
 ```text
-  * § 1010. Reporting. (a) Beginning in two thousand twenty-seven, each
+  § 1010. Reporting. (a) Beginning in two thousand twenty-seven, each
 litigation funding company that engages in business in this state shall
 submit an annual report to the department in a form and manner
 determined by the department no later than the thirty-first day of
@@ -30,5 +30,4 @@ public, in a manner which maintains the confidentiality of the name of
 each company and consumer and other personally identifiable information
 of the consumer, no later than ninety days after the reports are
 submitted.
-  * NB Effective December 19, 2026
 ```

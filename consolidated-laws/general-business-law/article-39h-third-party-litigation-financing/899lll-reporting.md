@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Business Law § 899-LLL", "kind": "section", "law_id": "GBS", "location_id": "899-LLL", "path": "ARTICLE 39-H › SECTION 899-LLL", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/899-LLL.md", "title": "Reporting"} -->
+﻿<!-- nyslaw {"citation": "General Business Law § 899-LLL", "kind": "section", "law_id": "GBS", "location_id": "899-LLL", "path": "ARTICLE 39-H › SECTION 899-LLL", "repealed": true, "repealed_date": "2026-06-19", "source": "nys-laws:GBS/899-LLL.md", "title": "Reporting"} -->
 # General Business Law § 899-LLL — Reporting
 
 [General Business Law](../README.md) › [Article 39-H — Third Party Litigation Financing](README.md)
+
+**Repealed** (19 Jun 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 899-lll. Reporting. 1. Each consumer litigation funding company

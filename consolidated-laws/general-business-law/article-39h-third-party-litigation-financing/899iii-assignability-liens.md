@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Business Law § 899-III", "kind": "section", "law_id": "GBS", "location_id": "899-III", "path": "ARTICLE 39-H › SECTION 899-III", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/899-III.md", "title": "Assignability; liens"} -->
+﻿<!-- nyslaw {"citation": "General Business Law § 899-III", "kind": "section", "law_id": "GBS", "location_id": "899-III", "path": "ARTICLE 39-H › SECTION 899-III", "repealed": true, "repealed_date": "2026-06-19", "source": "nys-laws:GBS/899-III.md", "title": "Assignability; liens"} -->
 # General Business Law § 899-III — Assignability; liens
 
 [General Business Law](../README.md) › [Article 39-H — Third Party Litigation Financing](README.md)
+
+**Repealed** (19 Jun 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 899-iii. Assignability; liens. 1. The contingent right to receive

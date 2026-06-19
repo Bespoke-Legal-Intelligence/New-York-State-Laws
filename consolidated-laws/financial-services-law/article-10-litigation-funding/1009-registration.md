@@ -4,7 +4,7 @@
 [Financial Services Law](../README.md) › [Article 10 — Litigation Funding](README.md)
 
 ```text
-  * § 1009. Registration. (a) Except as provided in this section, no
+  § 1009. Registration. (a) Except as provided in this section, no
 person may engage in litigation funding in this state without being
 registered with the department. The registration requirement shall not
 apply to a banking organization as defined in subdivision eleven of
@@ -59,5 +59,4 @@ litigation funding contracts, while their application remains pending
 with the department.
   (g) The superintendent is hereby authorized to adopt rules and
 regulations to implement the provisions of this article as needed.
-  * NB Effective December 19, 2026
 ```

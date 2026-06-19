@@ -315,8 +315,8 @@ include:
 maintenance organization certified pursuant to this article; and
   (ii) a third-party administrator, affiliated with an insurer or health
 maintenance organization, who administers a health benefit plan.
-  * 14. (a) A health care plan may pay a claim for reimbursement made by
-a provider using a credit card, virtual credit card, or electronic funds
+  14. (a) A health care plan may pay a claim for reimbursement made by a
+provider using a credit card, virtual credit card, or electronic funds
 transfer payment method that imposes on the provider a specifically
 identified fee or similar dedicated charge to process the payment if in
 advance of using such reimbursement method:
@@ -367,5 +367,4 @@ care plan to provide health care services to an enrollee.
 linked to a fixed dollar amount and provided by a health care plan to a
 provider for the purpose of paying a claim for health care services
 performed by the provider.
-  * NB Effective June 17, 2026
 ```

@@ -4,7 +4,7 @@
 [State Finance Law](../README.md) › [Article 11 — State Purchasing](README.md)
 
 ```text
-  ** § 163. Purchasing services and commodities. 1. Definitions. For the
+  * § 163. Purchasing services and commodities. 1. Definitions. For the
 purposes of this section, the following terms shall have the following
 meanings unless otherwise specified:
   a. "Consortium" means like entities which agree to collectively
@@ -827,5 +827,5 @@ public officers law provided that in disclosing such reports pursuant to
 the public officers law, the agency making the disclosure shall redact
 the name or social security number of any individual employee that is
 included in such document.
-  ** NB Repealed June 30, 2031
+  * NB Repealed June 30, 2031
 ```

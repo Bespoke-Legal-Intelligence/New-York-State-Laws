@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Business Law § 899-MMM", "kind": "section", "law_id": "GBS", "location_id": "899-MMM", "path": "ARTICLE 39-H › SECTION 899-MMM", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/899-MMM.md", "title": "Severability"} -->
+﻿<!-- nyslaw {"citation": "General Business Law § 899-MMM", "kind": "section", "law_id": "GBS", "location_id": "899-MMM", "path": "ARTICLE 39-H › SECTION 899-MMM", "repealed": true, "repealed_date": "2026-06-19", "source": "nys-laws:GBS/899-MMM.md", "title": "Severability"} -->
 # General Business Law § 899-MMM — Severability
 
 [General Business Law](../README.md) › [Article 39-H — Third Party Litigation Financing](README.md)
+
+**Repealed** (19 Jun 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 899-mmm. Severability. If any provision of this article is, for

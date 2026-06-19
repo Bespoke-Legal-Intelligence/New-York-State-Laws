@@ -534,7 +534,7 @@ of one million or more by section eleven hundred seven of this article
 shall be imposed on eighty percent of the receipts from the retail sale
 of or the consideration given or contracted to be given for, or for the
 use of, such B20.
-  * NB Repealed September 1, 2026
+  * NB Repealed September 1, 2031
   (o) (1) If a transportation service subject to tax under paragraph ten
 of subdivision (c) of section eleven hundred five of this part is
 provided by vehicle, and the owner or lessor of the vehicle leases or

@@ -21,7 +21,7 @@
 <summary>Official heading of Article 10, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              * ARTICLE 10
+                               ARTICLE 10
                            LITIGATION FUNDING
 Section 1001. Definitions.
         1002. Contract requirements; right of rescission.
@@ -34,7 +34,6 @@ Section 1001. Definitions.
         1009. Registration.
         1010. Reporting.
         1011. Severability.
-  * NB Effective June 17, 2026
 ```
 
 </details>

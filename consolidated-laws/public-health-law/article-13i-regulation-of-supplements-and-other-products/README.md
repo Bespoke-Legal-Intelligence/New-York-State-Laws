@@ -11,11 +11,10 @@
 <summary>Official heading of Article 13-I, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 13-I
+                              ARTICLE 13-I
        REGULATION OF SUPPLEMENTS AND OTHER PRODUCTS; DISTRIBUTION
                                 TO MINORS
 Section 1399-xx. Sale or distribution of kratom products to minors.
-  * NB Effective June 17, 2026
 ```
 
 </details>

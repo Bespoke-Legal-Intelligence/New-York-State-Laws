@@ -4,7 +4,7 @@
 [Financial Services Law](../README.md) › [Article 10 — Litigation Funding](README.md)
 
 ```text
-  * § 1001. Definitions. As used in this article, the following terms
+  § 1001. Definitions. As used in this article, the following terms
 shall have the following meanings:
   (a) "Advertise" means publishing or disseminating any written, oral,
 electronic or printed communication or any communication by means of
@@ -41,5 +41,4 @@ transferred to the consumer by the litigation funding company.
   (i) "Immediate family member" means a parent; sibling; child by blood,
 adoption, or marriage; spouse; grandparent; or grandchild.
   (j) "Legal claim" means a civil claim or cause of action.
-  * NB Effective June 17, 2026
 ```

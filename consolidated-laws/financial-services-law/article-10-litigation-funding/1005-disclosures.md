@@ -4,7 +4,7 @@
 [Financial Services Law](../README.md) › [Article 10 — Litigation Funding](README.md)
 
 ```text
-  * § 1005. Disclosures. All litigation funding contracts shall contain
+  § 1005. Disclosures. All litigation funding contracts shall contain
 the disclosures specified in this section, which shall constitute
 material terms of the contract. Unless otherwise specified, such
 disclosures shall be typed in at least twelve point bold type font and
@@ -64,5 +64,4 @@ TO THE LAWS OF THE STATE OF NEW YORK, THE MAXIMUM AMOUNT YOU MAY BE
 REQUIRED TO PAY CANNOT EXCEED 25% OF THE GROSS RECOVERED AMOUNT RECEIVED
 FOR YOUR CLAIM PLUS THE AMOUNT PAID TO YOU BY THE LITIGATION FUNDING
 COMPANY."
-  * NB Effective June 17, 2026
 ```

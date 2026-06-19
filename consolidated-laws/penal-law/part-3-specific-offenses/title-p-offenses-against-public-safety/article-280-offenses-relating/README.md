@@ -13,11 +13,12 @@
 <summary>Official heading of Article 280, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                               ARTICLE 280
+                              * ARTICLE 280
               OFFENSES RELATING TO UNLAWFUL USE OF A DRONE
 Section 280.00 Definitions.
         280.05 Unlawful use of a drone.
         280.10 Applicability and restrictions.
+  * NB Effective August 25, 2026
 ```
 
 </details>
