@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 30 — Emergency Medical Services](README.md)
 
 ```text
-  * § 3019. Department review of comprehensive county emergency medical
+  § 3019. Department review of comprehensive county emergency medical
 system plans. 1. The department, in consultation with the state
 emergency medical services council, the regional emergency medical
 services councils, or any other group the department deems necessary,
@@ -21,5 +21,4 @@ system plan submitted to the department pursuant to section one hundred
 twenty-two-b of the general municipal law, the department shall review
 such plan and provide written feedback and any recommendations, within
 sixty days of such plan's submission, for review by the county.
-  * NB Effective June 19, 2026
 ```

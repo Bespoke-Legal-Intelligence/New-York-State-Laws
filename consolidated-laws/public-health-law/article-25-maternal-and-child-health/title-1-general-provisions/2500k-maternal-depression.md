@@ -4,24 +4,8 @@
 [Public Health Law](../../README.md) › [Article 25 — Maternal and Child Health](../README.md) › [Title 1 — General Provisions](README.md)
 
 ```text
-  § 2500-k. Maternal depression. * 1. Definitions. As used in this
+  § 2500-k. Maternal depression.  1. Definitions. As used in this
 section:
-  (a) "Maternal depression" means a wide range of emotional and
-psychological reactions a woman may experience during pregnancy or after
-childbirth. These reactions may include, but are not limited to,
-feelings of despair or extreme guilt, prolonged sadness, lack of energy,
-difficulty concentrating, fatigue, extreme changes in appetite, and
-thoughts of suicide or of harming the baby. Maternal depression may
-include prenatal depression, the "baby blues," postpartum depression, or
-postpartum psychosis -- the severest form.
-  (b) "Maternal health care provider" means a physician, midwife, nurse
-practitioner, or physician assistant, or other health care practitioner
-acting within his or her lawful scope of practice, attending a pregnant
-woman or a woman up to one year after childbirth, including a
-practitioner attending the woman's child up to one year after
-childbirth.
-  * NB Effective until June 21, 2026
-  * 1. Definitions. As used in this section:
   (a) "Maternal depression" means a wide range of emotional and
 psychological reactions an individual may experience throughout
 pregnancy and the postpartum period. These reactions may include, but
@@ -36,7 +20,6 @@ practitioner, or physician assistant, or other health care practitioner
 acting within his or her lawful scope of practice, attending a perinatal
 individual, including any practitioner attending the individual's child,
 from conception up to one year postpartum.
-  * NB Effective June 21, 2026
   2. Maternal depression information. (a) The commissioner, in
 consultation with the commissioner of mental health, shall make
 available to maternal health care providers information on maternal
@@ -56,17 +39,7 @@ members, as appropriate and consistent with patient confidentiality.
 department's website. The commissioner shall, in collaboration with the
 commissioner of mental health, update and review the information on
 maternal depression, as necessary.
-  * 3. Maternal depression treatment. The commissioner, in consultation
-with the commissioner of mental health, shall:
-  (a) inform providers of the need to raise awareness about maternal
-depression; and
-  (b) provide information on the department's and office of mental
-health's websites regarding how to locate available providers who treat
-or provide support for maternal depression including, but not limited
-to, mental health professionals, other licensed professionals, peer
-support, not-for-profit corporations and other community resources.
-  * NB Effective until June 21, 2026
-  * 3. Maternal depression screenings. (a) The commissioner, in
+  3. Maternal depression screenings. (a) The commissioner, in
 consultation with the office of mental health, the office of addiction
 services and supports, and other relevant stakeholders as determined by
 the commissioner, shall publish guidance for incorporating maternal
@@ -100,11 +73,7 @@ shall include the following topics:
   (vi) pharmacotherapy;
   (vii) trauma-informed, patient-centered care; and
   (viii) other topics as identified by the commissioner.
-  * NB Effective June 21, 2026
-  * 4. The commissioner shall make any regulations necessary to
-implement this section.
-  * NB Effective until June 21, 2026
-  * 4. Maternal depression treatment. The commissioner, in consultation
+  4. Maternal depression treatment. The commissioner, in consultation
 with the commissioner of mental health, shall:
   (a) inform providers of the need to raise awareness about maternal
 depression; and
@@ -113,8 +82,6 @@ health's websites regarding how to locate available providers who treat
 or provide support for maternal depression including, but not limited
 to, mental health professionals, other licensed professionals, peer
 support, not-for-profit corporations and other community resources.
-  * NB Effective June 21, 2026
-  * 5. The commissioner shall make any regulations necessary to
-implement this section.
-  * NB Effective June 21, 2026
+  5. The commissioner shall make any regulations necessary to implement
+this section.
 ```
