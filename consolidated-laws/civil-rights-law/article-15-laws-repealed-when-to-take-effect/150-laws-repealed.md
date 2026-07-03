@@ -4,7 +4,6 @@
 [Civil Rights Law](../README.md) › [Article 15 — Laws Repealed; When to Take Effect](README.md)
 
 ```text
-  * § 150. Laws repealed. Of the laws enumerated in the schedule hereto
+  § 150. Laws repealed. Of the laws enumerated in the schedule hereto
 annexed, that portion specified in the last column is hereby repealed.
-  * NB Effective June 26, 2026
 ```

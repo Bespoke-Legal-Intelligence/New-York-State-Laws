@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 25 — Marketing of Agricultural Products](README.md)
 
 ```text
-  * § 292. Definitions. For the purposes of this article, the following
+  § 292. Definitions. For the purposes of this article, the following
 terms shall have the following meanings:
   1. "Agricultural commodity" means any and all agricultural,
 horticultural, vineyard products, corn for grain, oats, soybeans,
@@ -54,5 +54,4 @@ pursuant to this article, prescribing rules and regulations governing
 the marketing for processing, the distributing, the sale of, or the
 handling in any manner of any agricultural commodity or aquatic product
 sold in this state during any specified period or periods.
-  * NB Effective July 1, 2026
 ```

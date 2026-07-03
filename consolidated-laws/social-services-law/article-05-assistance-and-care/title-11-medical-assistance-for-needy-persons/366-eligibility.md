@@ -956,22 +956,7 @@ assistance on the date of such birth and to remain eligible for such
 assistance for a period of one year, so long as the child is a member of
 the woman's household and the woman remains eligible for such assistance
 or would remain eligible for such assistance if she were pregnant.
-  * (3) (A) A child between the ages of six and nineteen who is
-determined eligible for medical assistance under the provisions of this
-section, shall, consistent with applicable federal requirements, remain
-eligible for such assistance until the last day of the month which is
-twelve months following the determination or renewal of eligibility for
-such assistance.
-  (B) A child under the age of six who is determined eligible for
-medical assistance under the provisions of this section, shall,
-consistent with applicable federal requirements, remain continuously
-eligible for medical assistance coverage until the later of:
-  (i) the last day of the twelfth month following the determination or
-renewal of eligibility for such assistance; or
-  (ii) the last day of the month in which the child reaches the age of
-six.
-  * NB Effective until July 1, 2026
-  * (3) A child under the age of nineteen who is determined eligible for
+  (3) A child under the age of nineteen who is determined eligible for
 medical assistance under the provisions of this section, shall,
 consistent with applicable federal requirements, remain eligible for
 such assistance until the earlier of:
@@ -979,7 +964,6 @@ such assistance until the earlier of:
 determination or renewal of eligibility for such assistance; or
   (B) the last day of the month in which the child reaches the age of
 nineteen.
-  * NB Effective July 1, 2026
   (4) An infant eligible under subparagraph two or four of paragraph (b)
 of subdivision one of this section who is receiving medically necessary
 in-patient services for which medical assistance is provided on the date

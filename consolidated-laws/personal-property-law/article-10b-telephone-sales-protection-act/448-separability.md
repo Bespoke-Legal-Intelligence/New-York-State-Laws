@@ -4,8 +4,8 @@
 [Personal Property Law](../README.md) › [Article 10-B — Telephone Sales Protection Act](README.md)
 
 ```text
-§ 448. Separability. If any provision of this article or the application
-of such provision in certain circumstances shall be held invalid, the
-validity of the remainder of this article and its applicability to other
-circumstances shall not be affected.
+  § 448. Separability. If any provision of this article or the
+application of such provision in certain circumstances shall be held
+invalid, the validity of the remainder of this article and its
+applicability to other circumstances shall not be affected.
 ```

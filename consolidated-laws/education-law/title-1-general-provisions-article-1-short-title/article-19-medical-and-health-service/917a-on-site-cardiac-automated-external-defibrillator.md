@@ -4,16 +4,16 @@
 [Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 19 — Medical and Health Service](README.md)
 
 ```text
-  * § 917-a. On-site cardiac automated external defibrillator in
-nonpublic schools. 1. Nonpublic schools shall provide and maintain
-on-site in each instructional school facility automated external
-defibrillator (AED) equipment, as defined in paragraph (a) of
-subdivision one of section three thousand-b of the public health law, in
-quantities and types deemed by the commissioner in consultation with the
-commissioner of health to be adequate to ensure ready and appropriate
-access for use during emergencies. Nonpublic schools shall cause such
-AED to be maintained and tested according to such applicable standards
-of the manufacturer and any appropriate government agency.
+  § 917-a. On-site cardiac automated external defibrillator in nonpublic
+schools. 1. Nonpublic schools shall provide and maintain on-site in each
+instructional school facility automated external defibrillator (AED)
+equipment, as defined in paragraph (a) of subdivision one of section
+three thousand-b of the public health law, in quantities and types
+deemed by the commissioner in consultation with the commissioner of
+health to be adequate to ensure ready and appropriate access for use
+during emergencies. Nonpublic schools shall cause such AED to be
+maintained and tested according to such applicable standards of the
+manufacturer and any appropriate government agency.
   2. Whenever nonpublic school facilities pursuant to subdivision one of
 this section are used for school-sponsored or school-approved curricular
 or extracurricular events or activities and whenever a school-sponsored
@@ -56,5 +56,4 @@ purpose of any statute relating to liability; and
   (b) Operation of an AED pursuant to this section in a nonpublic school
 shall not constitute the unlawful practice of a profession under title
 eight of this chapter.
-  * NB Effective July 1, 2026
 ```

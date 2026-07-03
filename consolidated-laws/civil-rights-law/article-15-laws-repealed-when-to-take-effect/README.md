@@ -12,11 +12,10 @@
 <summary>Official heading of Article 15, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              * ARTICLE 15
+                               ARTICLE 15
                    Laws Repealed; When to Take Effect
 Section 150. Laws repealed.
         151. When to take effect.
-  * NB Effective June 26, 2026
 ```
 
 </details>

@@ -1,10 +1,10 @@
 ﻿<!-- nyslaw {"citation": "Civil Rights Law § 102", "kind": "section", "law_id": "CVR", "location_id": "102", "path": "ARTICLE 10 › SECTION 102", "repealed": false, "repealed_date": null, "source": "nys-laws:CVR/102.md", "title": "Identification required"} -->
 # Civil Rights Law § 102 — Identification required
 
-[Civil Rights Law](../README.md) › [Article 10 — Laws Repealed; When to Take Effect](README.md)
+[Civil Rights Law](../README.md) › [Article 10 — Law Enforcement Face Coverings](README.md)
 
 ```text
-  * § 102. Identification required. 1. Any uniformed law enforcement
+  § 102. Identification required. 1. Any uniformed law enforcement
 officer while interacting with the public in the performance of their
 duties shall visibly display:
   (a) the name of the agency or department employing such officer; and
@@ -46,5 +46,4 @@ the applicable standards or requirements of this section, or which
 exceed the provisions of this section beyond the requirements set forth
 in the chapter of the laws of two thousand twenty-six that added this
 section.
-  * NB Effective June 26, 2026
 ```

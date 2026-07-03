@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 25 — Marketing of Agricultural Products](README.md)
 
 ```text
-  * § 294. Rules and regulations; enforcement. 1. The commissioner may
+  § 294. Rules and regulations; enforcement. 1. The commissioner may
 make and promulgate such rules and regulations as may be necessary to
 effectuate the provisions and intent of this article and to enforce the
 provision of any marketing agreement or order, all of which shall have
@@ -19,5 +19,4 @@ without being compelled to allege or prove that an adequate remedy at
 law does not exist. Such application may be made to the supreme court in
 any district or county as provided in the civil practice law and rules,
 or to the supreme court in the third judicial district.
-  * NB Effective July 1, 2026
 ```

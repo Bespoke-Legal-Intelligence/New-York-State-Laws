@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Labor Law § 795-B", "kind": "section", "law_id": "LAB", "location_id": "795-B", "path": "ARTICLE 21-C › SECTION 795-B", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/795-B.md", "title": "Severability"} -->
+﻿<!-- nyslaw {"citation": "Labor Law § 795-B", "kind": "section", "law_id": "LAB", "location_id": "795-B", "path": "ARTICLE 21-C › SECTION 795-B", "repealed": true, "repealed_date": "2026-07-03", "source": "nys-laws:LAB/795-B.md", "title": "Severability"} -->
 # Labor Law § 795-B — Severability
 
 [Labor Law](../README.md) › [Article 21-C — Tower Technician Protections](README.md)
+
+**Repealed** (3 Jul 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 795-b. Severability. If any clause, sentence, paragraph,

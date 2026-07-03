@@ -4,7 +4,7 @@
 [Personal Property Law](../README.md) › [Article 10-B — Telephone Sales Protection Act](README.md)
 
 ```text
-§ 447. Enforcement; penalties. Whenever there shall be a violation of
+  § 447. Enforcement; penalties. Whenever there shall be a violation of
 this article, an application may be made by the attorney general in the
 name of the people of the state of New York to a court or justice having
 jurisdiction by a special proceeding to issue an injunction, and upon

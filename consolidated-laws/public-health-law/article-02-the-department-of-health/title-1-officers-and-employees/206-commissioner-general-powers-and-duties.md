@@ -1092,22 +1092,41 @@ indirectly, request or receive from any manufacturer or other entity a
 drug, device, or health care service having a condition that the dentist
 meet any quota for the number of patients on whom the dentist uses the
 drug, device, or health care service.
-  28. The commissioner shall assist the commissioner of education in
+  * 28. The commissioner shall assist the commissioner of education in
 developing rules and regulations, relating to pupils who suffer mild
 traumatic brain injuries, in accordance with subdivision forty-two of
 section three hundred five of the education law, and provide for the
 posting on the department's internet website of such information as
 shall be required pursuant to such subdivision.
+  * NB Effective until August 25, 2026
+  * 28. The commissioner shall assist the commissioner of education in
+developing rules and regulations, relating to pupils who suffer mild
+traumatic brain injuries and the physicians and nurse practitioners
+authorized to evaluate such pupils, in accordance with subdivision
+forty-two of section three hundred five of the education law, and
+provide for the posting on the department's internet website of such
+information as shall be required pursuant to such subdivision.
+  * NB Effective August 25, 2026
   * 30. The commissioner shall notify the commissioner of education in
 any instance in which a registered professional nurse engages in
 improper behavior while supervising an advanced home health aide
 pursuant to subdivision two of section sixty-nine hundred eight of the
 education law.
   * NB Repealed March 31, 2029
-  31. The commissioner shall develop information, in conjunction with
+  * 31. The commissioner shall develop information, in conjunction with
 the commissioner of education related to students who exhibit signs or
 symptoms of pending or increased risk of sudden cardiac arrest. Such
 information shall include, but not be limited to, the definition of
 sudden cardiac arrest, signs and symptoms of sudden cardiac arrest. Such
 information shall be posted on the department's website.
+  * NB Effective until August 25, 2026
+  * 31. The commissioner shall develop information, in conjunction with
+the commissioner of education related to students who exhibit signs or
+symptoms of pending or increased risk of sudden cardiac arrest. Such
+information shall include, but not be limited to, the definition of
+sudden cardiac arrest, signs and symptoms of sudden cardiac arrest, and
+information for the physicians and nurse practitioners authorized to
+evaluate whether a student may resume athletic activity. Such
+information shall be posted on the department's website.
+  * NB Effective August 25, 2026
 ```

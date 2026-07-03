@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Labor Law § 795-A", "kind": "section", "law_id": "LAB", "location_id": "795-A", "path": "ARTICLE 21-C › SECTION 795-A", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/795-A.md", "title": "Tower technician protections"} -->
+﻿<!-- nyslaw {"citation": "Labor Law § 795-A", "kind": "section", "law_id": "LAB", "location_id": "795-A", "path": "ARTICLE 21-C › SECTION 795-A", "repealed": true, "repealed_date": "2026-07-03", "source": "nys-laws:LAB/795-A.md", "title": "Tower technician protections"} -->
 # Labor Law § 795-A — Tower technician protections
 
 [Labor Law](../README.md) › [Article 21-C — Tower Technician Protections](README.md)
+
+**Repealed** (3 Jul 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 795-a. Tower technician protections. 1. For any procurement

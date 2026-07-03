@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Labor Law § 795", "kind": "section", "law_id": "LAB", "location_id": "795", "path": "ARTICLE 21-C › SECTION 795", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/795.md", "title": "Definitions"} -->
+﻿<!-- nyslaw {"citation": "Labor Law § 795", "kind": "section", "law_id": "LAB", "location_id": "795", "path": "ARTICLE 21-C › SECTION 795", "repealed": true, "repealed_date": "2026-07-03", "source": "nys-laws:LAB/795.md", "title": "Definitions"} -->
 # Labor Law § 795 — Definitions
 
 [Labor Law](../README.md) › [Article 21-C — Tower Technician Protections](README.md)
+
+**Repealed** (3 Jul 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 795. Definitions. For the purposes of this article, the following

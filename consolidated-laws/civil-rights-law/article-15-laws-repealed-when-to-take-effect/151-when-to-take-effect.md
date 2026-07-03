@@ -4,7 +4,6 @@
 [Civil Rights Law](../README.md) › [Article 15 — Laws Repealed; When to Take Effect](README.md)
 
 ```text
-  * § 151. When to take effect. This chapter shall take effect
+  § 151. When to take effect. This chapter shall take effect
 immediately.
-  * NB Effective June 26, 2026
 ```

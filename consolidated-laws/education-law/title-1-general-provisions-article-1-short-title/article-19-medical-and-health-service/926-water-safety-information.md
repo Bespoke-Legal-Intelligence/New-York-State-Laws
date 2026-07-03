@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 19 — Medical and Health Service](README.md)
 
 ```text
-  * § 926. Water safety information. 1. At the beginning of the two
+  § 926. Water safety information. 1. At the beginning of the two
 thousand twenty-six--two thousand twenty-seven school year, each school
 district shall provide, to the parent or guardian of each student
 enrolled in such school district, information on drowning prevention,
@@ -23,5 +23,4 @@ necessary, such information in consultation with the commissioner. The
 commissioner shall provide such information to each school district.
 Each school district shall publish such information on its website in a
 clearly visible and accessible location.
-  * NB Effective July 1, 2026
 ```

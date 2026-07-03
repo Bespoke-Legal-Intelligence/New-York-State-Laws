@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 25 — Marketing of Agricultural Products](README.md)
 
 ```text
-  * § 293. Powers and duties of the commissioner. 1. In order to
+  § 293. Powers and duties of the commissioner. 1. In order to
 effectuate the declared policy of this article, the commissioner may,
 after due notice and opportunity for hearing, approve marketing
 agreements, which marketing agreements shall thereupon be binding upon
@@ -190,5 +190,4 @@ information and data necessary to the proper administration of the
 order.
   (vi) The performance of such other duties in connection with the
 marketing order as the commissioner shall designate.
-  * NB Effective July 1, 2026
 ```

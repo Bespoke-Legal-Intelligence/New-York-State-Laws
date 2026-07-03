@@ -11,7 +11,7 @@
 - [§ 3602-C Apportionment of moneys to school districts for the provision of services to pupils attending nonpublic schools](3602c-apportionment-of-moneys-to-school.md)
 - [§ 3602-D Work-prep education program](3602d-work-prep-education-program.md)
 - [§ 3602-E Universal prekindergarten program](3602e-universal-prekindergarten-program.md)
-- [§ 3602-EE Statewide universal full-day pre-kindergarten program](3602ee-statewide-universal-full-day-pre.md)
+- [§ 3602-EE Statewide universal full-day pre-kindergarten program](3602ee-statewide-universal-full-day-pre.md) *(repealed)*
 - [§ 3602-F Apportionment of moneys to school districts that result from the partitioning of territory and formation of new school districts by distr...](3602f-apportionment-of-moneys-to-school.md)
 - [§ 3604 Conditions under which districts are entitled to apportionment](3604-conditions-under-which-districts-are.md)
 - [§ 3606 Nonresident academic attendance; manner of certifying and paying apportionment](3606-nonresident-academic-attendance-manner.md)
@@ -45,7 +45,6 @@ Section 3601.    When apportioned and how applied.
                    schools.
         3602-d.  Work-prep education program.
         3602-e.  Universal prekindergarten program.
-        3602-ee. Statewide universal full-day pre-kindergarten program.
         3602-f.  Apportionment of moneys to school districts that result
                    from the partitioning of territory and formation of
                    new school districts by district superintendents.

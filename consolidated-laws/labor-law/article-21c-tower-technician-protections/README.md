@@ -3,11 +3,13 @@
 
 [Labor Law](../README.md)
 
+**Repealed.**
+
 ## Contents
 
-- [§ 795 Definitions](795-definitions.md)
-- [§ 795-A Tower technician protections](795a-tower-technician-protections.md)
-- [§ 795-B Severability](795b-severability.md)
+- [§ 795 Definitions](795-definitions.md) *(repealed)*
+- [§ 795-A Tower technician protections](795a-tower-technician-protections.md) *(repealed)*
+- [§ 795-B Severability](795b-severability.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 21-C, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

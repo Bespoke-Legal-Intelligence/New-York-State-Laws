@@ -1,13 +1,10 @@
-﻿<!-- nyslaw {"citation": "Civil Rights Law § 100", "kind": "section", "law_id": "CVR", "location_id": "100", "path": "ARTICLE 10 › SECTION 100", "repealed": false, "repealed_date": null, "source": "nys-laws:CVR/100.md", "title": "Laws repealed"} -->
-# Civil Rights Law § 100 — Laws repealed
+﻿<!-- nyslaw {"citation": "Civil Rights Law § 100", "kind": "section", "law_id": "CVR", "location_id": "100", "path": "ARTICLE 10 › SECTION 100", "repealed": false, "repealed_date": null, "source": "nys-laws:CVR/100.md", "title": "Definitions"} -->
+# Civil Rights Law § 100 — Definitions
 
-[Civil Rights Law](../README.md) › [Article 10 — Laws Repealed; When to Take Effect](README.md)
+[Civil Rights Law](../README.md) › [Article 10 — Law Enforcement Face Coverings](README.md)
 
 ```text
-  * § 100. Laws repealed. Of the laws enumerated in the schedule hereto
-annexed, that portion specified in the last column is hereby repealed.
-  * NB Effective until June 26, 2026
-  * § 100. Definitions. For purposes of this article:
+  § 100. Definitions. For purposes of this article:
   1. The term "face covering" means any item that is used to conceal,
 disguise, or obscure the facial identity, including any opaque mask,
 garment, helmet, headgear, balaclava, ski mask, neck gaiter, or tactical
@@ -43,5 +40,4 @@ procedure law;
 procedure law; or
   (c) any federal law enforcement officer, as defined in section 2.15 of
 the criminal procedure law.
-  * NB Effective June 26, 2026
 ```

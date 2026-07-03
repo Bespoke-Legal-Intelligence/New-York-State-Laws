@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Education Law § 3602-EE", "kind": "section", "law_id": "EDN", "location_id": "3602-EE", "path": "TITLE 5 › ARTICLE 73 › PART 1 › SECTION 3602-EE", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/3602-EE.md", "title": "Statewide universal full-day pre-kindergarten program"} -->
+﻿<!-- nyslaw {"citation": "Education Law § 3602-EE", "kind": "section", "law_id": "EDN", "location_id": "3602-EE", "path": "TITLE 5 › ARTICLE 73 › PART 1 › SECTION 3602-EE", "repealed": true, "repealed_date": "2026-07-03", "source": "nys-laws:EDN/3602-EE.md", "title": "Statewide universal full-day pre-kindergarten program"} -->
 # Education Law § 3602-EE — Statewide universal full-day pre-kindergarten program
 
 [Education Law](../../../README.md) › [Title 5 — Taxation and Financial Administration](../../README.md) › [Article 73 — Apportionment of Public Moneys](../README.md) › [Part 1 — General Provisions](README.md)
+
+**Repealed** (3 Jul 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 3602-ee. Statewide universal full-day pre-kindergarten program. 1.

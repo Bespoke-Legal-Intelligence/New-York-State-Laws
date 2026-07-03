@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 25 — Marketing of Agricultural Products](README.md)
 
 ```text
-  * § 291. Legislative declaration. It is hereby declared that the
+  § 291. Legislative declaration. It is hereby declared that the
 marketing of agricultural commodities and aquatic products in this
 state, in excess of reasonable and normal market demands therefor;
 disorderly marketing of such commodities; improper preparation for
@@ -36,5 +36,4 @@ agricultural commodities and aquatic products.
 producers and the agricultural producers of this state.
   7. To aid agricultural and aquatic producers in maintaining an income
 at an adequate and equitable level.
-  * NB Effective July 1, 2026
 ```

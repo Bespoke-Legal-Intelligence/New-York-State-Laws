@@ -4,7 +4,7 @@
 [Education Law](../../../README.md) › [Title 2 — School District Organization](../../README.md) › [Article 41 — District Meetings](../README.md) › [Part 1 — General Provisions](README.md)
 
 ```text
-  * § 2022-a. Disaster; additional day for voting. 1. Upon request of a
+  § 2022-a. Disaster; additional day for voting. 1. Upon request of a
 school district, or upon the determination of the commissioner, the
 commissioner may provide for an additional day of voting for the annual
 meeting and election if they determine that less than eight percent of
@@ -64,5 +64,4 @@ invalidate any absentee, military, or special ballot duly received on
 the original date of the annual meeting and election. Such additional
 day of voting shall not be considered a resubmission of such item to the
 voters.
-  * NB Effective July 1, 2026
 ```
