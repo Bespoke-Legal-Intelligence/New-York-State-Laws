@@ -57,28 +57,32 @@ performed, sponsored or advertised by the tourism promotion agency with
 the intent to attract transient guests to the county.
   (6) Such local law shall provide that all revenues resulting from the
 imposition of the tax payable hereunder shall be paid into the treasury
-of the county of Suffolk and shall be distributed within thirty days of
-receipt by the county proportional to the annual amount due under the
-following formula: (a) six million dollars per fiscal year, shall be
-delivered to a not-for-profit tourism promotion agency that has
-experience with tourism promotion in the Long Island Region which the
-county of Suffolk contracts with pursuant to the provisions of
-subdivision five of this section; (b) two million two hundred fifty
-thousand dollars per fiscal year shall be utilized by the county of
-Suffolk in support of cultural programs and activities relevant to the
-continuation and enhancement of the tourism industry, provided that one
-million dollars per fiscal year shall be utilized in support of cultural
+of the county of Suffolk and shall be distributed by the county
+proportional to the annual amount due under the following formula: (a)
+four million five hundred thousand dollars per fiscal year, shall be
+delivered to a not-for-profit tourism promotion agency for the purpose
+of tourism promotion in the county of Suffolk pursuant to a contract in
+accordance with the provisions of subdivision five of this section and
+subject to an awarding of contract through request for proposal; (a-1)
+one hundred fifty thousand dollars per fiscal year shall be delivered to
+a not-for-profit agency that represents the hospitality sector to be
+used to promote and support the hospitality sector in the county of
+Suffolk; (b) two million eight hundred fifty thousand dollars per fiscal
+year shall be utilized by the county of Suffolk in support of cultural
+programs and activities relevant to the continuation and enhancement of
+the tourism industry, provided that one million six hundred thousand
+dollars per fiscal year shall be utilized in support of cultural
 programs and activities in the towns of Babylon, Brookhaven, Huntington,
 Islip and Smithtown; one million dollars per fiscal year shall be
 utilized in support of cultural programs and activities in the towns of
 Riverhead, Southold, Shelter Island, Southampton and East Hampton and
 two hundred fifty thousand dollars per fiscal year shall fund cultural
 grant programs administered by the county department of economic
-development and planning; (c) one million two hundred fifty thousand
-dollars per fiscal year shall be utilized by the county of Suffolk for
-the support of any museum accredited by the American Association of
-Museums, which is located in such county's first dedicated park and is
-also listed on the National Register of Historic Places; (d) one million
+development and planning; (c) one million five hundred thousand dollars
+per fiscal year shall be utilized by the county of Suffolk for the
+support of any museum accredited by the American Association of Museums,
+which is located in such county's first dedicated park and is also
+listed on the National Register of Historic Places; (d) one million
 dollars per fiscal year shall be utilized by the county of Suffolk for
 the support of other museums, and historical societies, historic
 residences and historic birthplaces; (d-1) two hundred fifty thousand
@@ -106,38 +110,70 @@ metro airport that does not operate in the same airspace as airports
 located in New York city and two hundred fifty thousand dollars to an
 east end tourism agency which the county of Suffolk contracts with to
 administer programs designed to develop, encourage, solicit and enhance
-business and tourism on the east end of the county of Suffolk; (h) all
-remaining revenue collected by the county of Suffolk shall be deposited
-into a special fund to be designated as the "Suffolk County
+business and tourism on the east end of the county of Suffolk; (g-1) two
+hundred fifty thousand dollars per fiscal year shall be utilized by the
+county of Suffolk for program support of a not-for-profit organization
+that manages and owns the first lighthouse built in New York, a national
+register of historic places site in Suffolk county that has been named a
+national historic landmark and is a New York state historic site; and
+(h) all remaining revenue collected by the county of Suffolk shall be
+deposited into a special fund to be designated as the "Suffolk County
 Infrastructure Fund," to be created by said county therefore separate
-and apart from any other funds and accounts of the county. Moneys in
+and apart from any other funds and accounts of the county. Monies in
 such fund shall be deposited and secured in the manner provided by
 section ten of the general municipal law, and, pending expenditure, may
 be invested in the manner provided by section ten of the general
 municipal law. Any interest earned or capital gain realized on monies
 deposited shall accrue to and become part of the fund. In no event shall
 monies deposited in the fund be transferred to any other fund except as
-set forth in this subdivision. Monies in said fund may be appropriated
+set forth in this subdivision. Monies in such fund may be appropriated
 from and transferred or expended in any fiscal year for the planning,
-design, and construction of a convention center and surrounding
+design, and construction of projects that enhance tourism that meet one
+of the following criteria: (i) a convention center and surrounding
 infrastructure, including but not limited to, utilities, underground
 infrastructure, wastewater improvements, parking facilities, traffic
 improvements, pedestrian access and multi-modal projects, community
 impact projects, transportation facilities and related improvements and
 to repay any indebtedness or obligations incurred, pursuant to local
-finance law, for these purposes; and (i) the funding amounts identified
-in paragraphs (a) through (g) of this subdivision shall be increased by
-one percent over the prior fiscal years' funding each fiscal year.
+finance law, for these purposes; and (ii) except that from January
+first, two thousand twenty-six through December thirty-first, two
+thousand twenty-nine remaining revenue may also be expended on such
+purposes as capital improvements of (A) historic designated structures,
+parks, marinas, golf courses and campgrounds used to promote tourism on
+county-owned properties; (B) not-for-profit owned accredited museums and
+performance venues; (C) the Smith Point and Ponquogue bridge
+reconstruction projects; (D) Shinnecock canal infrastructure; (E) new or
+expanded wastewater treatment infrastructure or shoreline protection and
+coastal resiliency projects that protects and enhances water quality,
+improves coastal resiliency, and preserves or expands occupancy capacity
+at beach destinations; provided during such period the Suffolk county
+infrastructure fund retains a minimum balance of five million dollars.
+As applicable, funds disbursed for construction shall comply with
+article eight of the labor law; and (i) the funding amounts identified
+in paragraphs (a) through (g-1) of this subdivision shall be increased
+by one percent over the prior fiscal years' funding each fiscal year,
+except that the funding for the support of any museum accredited by the
+American Association of Museums, which is located in such county's first
+dedicated park and is also listed on the National Register of Historic
+Places; for the support of a not-for-profit museum organization that
+manages a National Register of Historic Places site in Suffolk county
+that has been named a National Treasure, is part of a National
+Recreational Trail and is a New York state historic site; and for the
+support of a not-for-profit organization that manages and owns the first
+lighthouse built in New York shall be increased by a percentage over the
+prior years' funding each fiscal year to be determined by resolution of
+the Suffolk county legislature by a minimum of one percent but not to
+exceed five percent in any given fiscal year.
   In the event that revenues resulting from the imposition of the tax
 payable hereunder are insufficient to fund according to the amounts
-identified in paragraphs (a) through (g) of this subdivision, the county
-of Suffolk shall utilize funds from the Suffolk County Infrastructure
-Fund to fund according to the amounts identified in paragraphs (a)
-through (g) of this subdivision, however, if the funds from the Suffolk
-County Infrastructure Fund are still insufficient to provide funding
-according to paragraphs (a) through (g), distributions set forth in
-paragraphs (a) through (g) of this subdivision shall be reduced on a
-proportional basis.
+identified in paragraphs (a) through (g-1) of this subdivision, the
+county of Suffolk shall utilize funds from the Suffolk County
+Infrastructure Fund to fund according to the amounts identified in
+paragraphs (a) through (g-1) of this subdivision, however, if the funds
+from the Suffolk County Infrastructure Fund are still insufficient to
+provide funding according to paragraphs (a) through (g-1), distributions
+set forth in paragraphs (a) through (g-1) of this subdivision shall be
+reduced on a proportional basis.
   Schedules of availability of all historic and cultural activities and
 events funded from any part of these revenues shall be provided to the
 aforementioned tourism promotion agency which is contracted with by the
