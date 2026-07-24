@@ -8,7 +8,7 @@
 | Senate code | PML |
 | Type | Consolidated law, chapter 47-A |
 | Sections | 377 |
-| Last changed | 26 Jun 2026 |
+| Last changed | 24 Jul 2026 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Racing, Pari-Mutuel Wagering and Breeding Law |
 
@@ -29,6 +29,7 @@ Article I.    Supervision and regulation. (§§ 101-136)
 
 ## Recent changes
 
+- [24 Jul 2026](../../changes/2026/2026-07-24.md): 1 amended
 - [26 Jun 2026](../../changes/2026/2026-06-26.md): 1 amended
 - [12 Jun 2026](../../changes/2026/2026-06-12.md): 1 amended
 - [5 Jun 2026](../../changes/2026/2026-06-05.md): 22 amended, 1 added
@@ -38,7 +39,6 @@ Article I.    Supervision and regulation. (§§ 101-136)
 - [14 Nov 2025](../../changes/2025/2025-11-14.md): 1 amended
 - [5 Sep 2025](../../changes/2025/2025-09-05.md): 2 amended, 1 repealed
 - [6 Jun 2025](../../changes/2025/2025-06-06.md): 1 amended
-- [30 May 2025](../../changes/2025/2025-05-30.md): 2 amended
 
 ## Contents
 

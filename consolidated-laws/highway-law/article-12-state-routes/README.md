@@ -418,6 +418,7 @@
 - [§ 344-R\*10 Portion of the state highway system to be dedicated to Detective Thomas Inman](344r-10-portion-of-the-state-highway-system-to-be-dedicated-to-detective-thomas-inman.md)
 - [§ 344-R\*11 Portion of the state highway system in Oneida county to be dedicated to Officer Michael E](344r-11-portion-of-the-state-highway-system-in-oneida-county-to-be-dedicated-to-officer.md)
 - [§ 344-R\*12 Portion of the state highway system to be dedicated to Trooper James M](344r-12-portion-of-the-state-highway-system-to-be-dedicated-to-trooper-james-m.md)
+- [§ 344-S Portion of the state highway system to be dedicated to Lt](344s-portion-of-the-state-highway-system-to-be-dedicated-to-lt.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 - [§ 345-B Portion of the state highway system to be designated as the "Doc Schelin Memorial Highway"](345b-portion-of-the-state-highway-system-to-be-designated-as-the-doc-schelin-memorial.md)
 - [§ 345-B\*2 Portion of the state highway system to be designated as the "Sergeant Elijah A](345b-2-portion-of-the-state-highway-system-to-be-designated-as-the-sergeant-elijah.md)
@@ -1411,6 +1412,8 @@ Section 340-a.     Designation of state interstate routes.
                      to be dedicated to Officer Michael E. Jensen.
         344-r*12.  Portion of the state highway system to be dedicated
                      to Trooper James M. MacLarnon.
+        344-s.     Portion of the state highway system to be dedicated
+                     to Lt. Gary A. Scott.
         345-a.     Abandonment and transfer of state highways.
         345-b.     Portion of the state highway system to be designated
                      as the "Doc Schelin Memorial Highway".
