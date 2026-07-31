@@ -94,14 +94,13 @@ referenced in subparagraph (iv) of this paragraph and paragraph (v) of
 subdivision one of section two hundred six of this chapter; and
 provided, however, that nothing in this section shall apply to the
 medical assistance program under title eleven of article five of the
-social services law; (xi) transactions conducted through the
-patient-facing portal of an individual's electronic health record; or
-(xii) through any other method identified by the commissioner. The
-department shall establish a means by which to register the consent
-given by individuals who are sixteen or seventeen years of age in the
-donate life registry, and shall make registration available by any of
-the methods provided in subparagraphs (i), (ii), (iii), (iv), (v), (vi),
-(vii), (viii), (ix), (x), (xi) and (xii) of this paragraph.
+social services law; or (xi) through any other method identified by the
+commissioner. The department shall establish a means by which to
+register the consent given by individuals who are sixteen or seventeen
+years of age in the donate life registry, and shall make registration
+available by any of the methods provided in subparagraphs (i), (ii),
+(iii), (iv), (v), (vi), (vii), (viii), (ix), (x) and (xi) of this
+paragraph.
   * NB Effective until December 21, 2026
   * (a) Such organ, eye and tissue registration of consent to make an
 anatomical gift can be made through: (i) indication made on the
@@ -110,25 +109,37 @@ on a non-driver identification card application or renewal form, (iii)
 indication made on a voter registration form pursuant to subdivision
 five of section 5-210 of the election law, (iv) indication made on the
 application for, or manual renewal application by an account holder of,
-health care coverage offered through the state health benefit exchange,
-(v) enrollment through the donate life registry website, (vi) paper
-enrollment submitted to the donate life registry, (vii) indication made
-on the application or renewal form of a hunting, fishing or trapping
-license issued pursuant to title seven of article eleven of the
-environmental conservation law, (viii) indication made on transactions
-administered by the office of temporary and disability assistance
-through the mybenefits.ny.gov website, or any such successor website;
-(ix) indication made on applications, renewals or related transactions
-for college financial aid, grants, or scholarships offered or
-administered through any website maintained by the higher education
-services corporation; (x) transactions conducted through the
-patient-facing portal of an individual's electronic health records; or
-(xi) through any other method identified by the commissioner. The
+health care coverage offered through the NY State of Health, the
+official Health Plan Marketplace, (v) enrollment through the donate life
+registry website, (vi) paper enrollment submitted to the donate life
+registry, (vii) indication made on the application or renewal form of a
+hunting, fishing or trapping license issued pursuant to title seven of
+article eleven of the environmental conservation law, (viii) indication
+made on transactions administered by the office of temporary and
+disability assistance through the mybenefits.ny.gov website, or any such
+successor website; (ix) indication made on applications, renewals or
+related transactions for college financial aid, grants, or scholarships
+offered or administered through any website maintained by the higher
+education services corporation; (x) indication made by an insured and/or
+applicant for insurance during enrollments, renewals, and the initial
+process for an insured in setting up an online member service portal
+with their insurer for accident and health insurance policies and
+contracts issued pursuant to article forty-four of this chapter, article
+forty-two of the insurance law, or article forty-three of the insurance
+law, excepting renewals made through the NY State of Health, the
+official Health Plan Marketplace, other than those specifically
+referenced in subparagraph (iv) of this paragraph and paragraph (v) of
+subdivision one of section two hundred six of this chapter; and
+provided, however, that nothing in this section shall apply to the
+medical assistance program under title eleven of article five of the
+social services law; (xi) transactions conducted through the
+patient-facing portal of an individual's electronic health record; or
+(xii) through any other method identified by the commissioner. The
 department shall establish a means by which to register the consent
 given by individuals who are sixteen or seventeen years of age in the
 donate life registry, and shall make registration available by any of
 the methods provided in subparagraphs (i), (ii), (iii), (iv), (v), (vi),
-(vii), (viii), (ix), (x) and (xi) of this paragraph.
+(vii), (viii), (ix), (x), (xi) and (xii) of this paragraph.
   * NB Effective December 21, 2026
   (b) * (i) Where required by law for transactions described in
 subparagraphs (i), (ii), (iv), (vii), (viii), (ix), (x), (xi) and (xii)
