@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 28-F — Medical Aid In Dying](README.md)
 
 ```text
-  * § 2899-s. Severability. If any provision of this article or any
+  § 2899-s. Severability. If any provision of this article or any
 application of any provision of this article, is held to be invalid, or
 to violate or be inconsistent with any federal law or regulation, that
 shall not affect the validity or effectiveness of any other provision of
@@ -12,5 +12,4 @@ this article, or of any other application of any provision of this
 article, which can be given effect without that provision or
 application; and to that end, the provisions and applications of this
 article are severable.
-  * NB Effective August 5, 2026
 ```

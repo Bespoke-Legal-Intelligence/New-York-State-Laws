@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 28-F — Medical Aid In Dying](README.md)
 
 ```text
-  * § 2899-q. Reporting. 1. The commissioner shall annually review a
+  § 2899-q. Reporting. 1. The commissioner shall annually review a
 sample of the records maintained under sections twenty-eight hundred
 ninety-nine-j and twenty-eight hundred ninety-nine-p of this article.
 The commissioner shall adopt regulations establishing reporting
@@ -22,5 +22,4 @@ enforcement.
 relevant data regarding utilization and compliance with this article and
 shall send such report to the legislature, and post such report on the
 department's website.
-  * NB Effective August 5, 2026
 ```

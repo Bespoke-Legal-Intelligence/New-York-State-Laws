@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 28-F — Medical Aid In Dying](README.md)
 
 ```text
-  * § 2899-i. Mental health professional responsibilities. 1. Before a
+  § 2899-i. Mental health professional responsibilities. 1. Before a
 patient who is requesting medication may receive a prescription for
 medication under this article, a mental health professional must
 evaluate the patient and report, in writing, to the attending physician
@@ -21,5 +21,4 @@ shall not prescribe medication to the patient.
   2. A determination made pursuant to this section that an adult patient
 lacks decision-making capacity shall not be construed as a finding that
 the patient lacks decision-making capacity for any other purpose.
-  * NB Effective August 5, 2026
 ```

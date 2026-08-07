@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 28-F — Medical Aid In Dying](README.md)
 
 ```text
-  * § 2899-n. Relation to other laws and contracts. 1. (a) A patient who
+  § 2899-n. Relation to other laws and contracts. 1. (a) A patient who
 requests medication under this article shall not, because of that
 request, be considered to be a person who is suicidal, and
 self-administering medication under this article shall not be deemed to
@@ -56,5 +56,4 @@ the patient.
 insurance policy or the rate charged for the policy shall not be
 conditioned upon or affected by whether the insured does or does not
 take or participate in any action under this article.
-  * NB Effective August 5, 2026
 ```

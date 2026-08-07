@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 28-F — Medical Aid In Dying](README.md)
 
 ```text
-  * § 2899-e. Request process. 1. Oral and written request. A patient
+  § 2899-e. Request process. 1. Oral and written request. A patient
 wishing to request medication under this article shall make an oral
 request and submit a written request to the patient's attending
 physician. If a patient is not physically capable of making an oral
@@ -55,5 +55,4 @@ solely because of age or disability.
 the qualified individual and may not be made by any other individual,
 including the qualified individual's health care agent, or other agent
 or surrogate, or via advance healthcare directive.
-  * NB Effective August 5, 2026
 ```

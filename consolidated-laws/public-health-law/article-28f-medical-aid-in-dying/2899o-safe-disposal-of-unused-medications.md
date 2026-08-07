@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 28-F — Medical Aid In Dying](README.md)
 
 ```text
-  * § 2899-o. Safe disposal of unused medications. A person who has
+  § 2899-o. Safe disposal of unused medications. A person who has
 custody or control of any unused medication prescribed under this
 article after the death of the qualified individual shall personally
 deliver the unused medication for disposal to the nearest qualified
@@ -19,5 +19,4 @@ medication is a controlled substance. The commissioner may make
 regulations as may be appropriate for the safe disposal of unused
 medications prescribed, dispensed or ordered under this article as
 provided in this section.
-  * NB Effective August 5, 2026
 ```

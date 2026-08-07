@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 28-F — Medical Aid In Dying](README.md)
 
 ```text
-  * § 2899-d. Definitions. As used in this article:
+  § 2899-d. Definitions. As used in this article:
   1. "Adult" means an individual who is eighteen years of age or older.
   2. "Attending physician" means the physician who has primary
 responsibility for the care of the patient and treatment of the
@@ -82,5 +82,4 @@ licensed or certified under article thirty-two, forty-three or
 forty-seven of the insurance law, or article forty-four of the public
 health law; or an entity such as a pharmacy benefits manager or
 third-party administrator.
-  * NB Effective August 5, 2026
 ```

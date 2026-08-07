@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 28-F — Medical Aid In Dying](README.md)
 
 ```text
-  * § 2899-k. Form of written request and witness attestation. 1. A
+  § 2899-k. Form of written request and witness attestation. 1. A
 request for medication under this article shall be in substantially the
 following form:
                    REQUEST FOR MEDICATION TO END MY LIFE
@@ -178,5 +178,4 @@ twenty-nine hundred eighty of this chapter, under the patient's health
 care proxy; or (vi) be an agent, as defined in section 5-1501 of the
 general obligations law, acting under a power of attorney for the
 patient.
-  * NB Effective August 5, 2026
 ```

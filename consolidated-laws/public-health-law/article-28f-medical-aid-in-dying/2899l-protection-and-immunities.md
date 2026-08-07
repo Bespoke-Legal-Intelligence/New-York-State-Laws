@@ -4,9 +4,9 @@
 [Public Health Law](../README.md) › [Article 28-F — Medical Aid In Dying](README.md)
 
 ```text
-  * § 2899-l. Protection and immunities. 1. A physician, pharmacist,
-other health care provider or other person shall not be subject to
-civil, administrative, or criminal liability or penalty or professional
+  § 2899-l. Protection and immunities. 1. A physician, pharmacist, other
+health care provider or other person shall not be subject to civil,
+administrative, or criminal liability or penalty or professional
 disciplinary action by any government entity for taking any reasonable
 good-faith action or refusing to act under this article, including, but
 not limited to: (a) engaging in discussions with a patient relating to
@@ -40,5 +40,4 @@ hundred ninety-nine-m of this article.
 criminal liability or penalty or any professional disciplinary action,
 or employment, credentialing, or contractual liability or penalty for
 negligence, recklessness or intentional misconduct.
-  * NB Effective August 5, 2026
 ```

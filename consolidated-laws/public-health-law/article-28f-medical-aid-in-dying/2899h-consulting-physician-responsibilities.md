@@ -4,14 +4,13 @@
 [Public Health Law](../README.md) › [Article 28-F — Medical Aid In Dying](README.md)
 
 ```text
-  * § 2899-h. Consulting physician responsibilities. Before a patient
-who is requesting medication may receive a prescription for medication
-under this article, a consulting physician must:
+  § 2899-h. Consulting physician responsibilities. Before a patient who
+is requesting medication may receive a prescription for medication under
+this article, a consulting physician must:
   1. examine the patient and such patient's relevant medical records;
   2. confirm, in writing, to the attending physician and the patient,
 whether: (a) the patient has a terminal illness or condition; (b) the
 patient is making an informed decision; (c) the patient has
 decision-making capacity; and (d) the patient is acting voluntarily, of
 the patient's own volition and without coercion.
-  * NB Effective August 5, 2026
 ```

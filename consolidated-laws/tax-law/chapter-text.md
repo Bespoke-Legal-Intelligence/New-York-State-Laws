@@ -103,6 +103,8 @@ Article 1.      Short title; definitions; miscellaneous (§§ 1-49*2).
                    (§§ 1449-aaaaaaa--1449-ppppppp).
        31-J.     Tax on real estate transfers in the town of Copake
                    (§§ 1450-a--1450-p).
+       31-K.     Tax on real estate transfers in the town of Clarkstown
+                   (§§ 1450-aa--1450-pp).
        33.       Franchise taxes on insurance corporations
                    (§§ 1500-1520).
        33-A.     Tax on independently procured insurance

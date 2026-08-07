@@ -4,11 +4,10 @@
 [Public Health Law](../README.md) › [Article 28-F — Medical Aid In Dying](README.md)
 
 ```text
-  * § 2899-p. Death certificate. 1. If otherwise authorized by law, the
+  § 2899-p. Death certificate. 1. If otherwise authorized by law, the
 attending physician may sign the qualified individual's death
 certificate.
   2. The cause of death listed on a qualified individual's death
 certificate who dies after self-administering medication under this
 article will be the underlying terminal illness or condition.
-  * NB Effective August 5, 2026
 ```

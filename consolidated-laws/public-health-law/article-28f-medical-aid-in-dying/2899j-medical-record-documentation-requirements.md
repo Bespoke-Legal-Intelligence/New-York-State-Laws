@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 28-F — Medical Aid In Dying](README.md)
 
 ```text
-  * § 2899-j. Medical record documentation requirements. An attending
+  § 2899-j. Medical record documentation requirements. An attending
 physician shall document or file the following in the patient's medical
 record:
   1. the dates of all oral requests by the patient for medication under
@@ -22,5 +22,4 @@ twenty-eight hundred ninety-nine-i of this article; and
 under this article have been met and indicating the steps taken to carry
 out the request, including a notation of the medication prescribed or
 ordered.
-  * NB Effective August 5, 2026
 ```

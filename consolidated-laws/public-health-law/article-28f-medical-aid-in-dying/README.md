@@ -26,7 +26,7 @@
 <summary>Official heading of Article 28-F, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 28-F
+                              ARTICLE 28-F
                           MEDICAL AID IN DYING
 Section 2899-d. Definitions.
         2899-e. Request process.
@@ -45,7 +45,6 @@ Section 2899-d. Definitions.
         2899-q. Reporting.
         2899-r. Penalties.
         2899-s. Severability.
-  * NB Effective August 5, 2026
 ```
 
 </details>

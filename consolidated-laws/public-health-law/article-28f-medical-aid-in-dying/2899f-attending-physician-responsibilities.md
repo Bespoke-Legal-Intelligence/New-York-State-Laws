@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 28-F — Medical Aid In Dying](README.md)
 
 ```text
-  * § 2899-f. Attending physician responsibilities. 1. Upon a patient's
+  § 2899-f. Attending physician responsibilities. 1. Upon a patient's
 request for a medical aid-in-dying prescription, the attending physician
 shall examine the patient in person and the patient's relevant medical
 records, provided, however, that the attending physician may waive the
@@ -101,5 +101,4 @@ filled.
 physician and the consent of the patient, the patient may
 self-administer the medication to themselves. A health care professional
 or other person shall not administer the medication to the patient.
-  * NB Effective August 5, 2026
 ```

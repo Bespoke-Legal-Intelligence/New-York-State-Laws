@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | TAX |
 | Type | Consolidated law, chapter 60 |
-| Sections | 1,400 |
-| Last changed | 10 Jul 2026 |
+| Sections | 1,416 |
+| Last changed | 7 Aug 2026 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Tax |
 
@@ -29,10 +29,11 @@ Became a law February 17, 1909, with the approval of the Governor.
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (108 lines)](chapter-text.md)
+[Full chapter text (110 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [7 Aug 2026](../../changes/2026/2026-08-07.md): 16 added
 - [10 Jul 2026](../../changes/2026/2026-07-10.md): 1 amended
 - [19 Jun 2026](../../changes/2026/2026-06-19.md): 9 amended
 - [12 Jun 2026](../../changes/2026/2026-06-12.md): 4 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [27 Feb 2026](../../changes/2026/2026-02-27.md): 32 amended
 - [20 Feb 2026](../../changes/2026/2026-02-20.md): 2 amended
 - [30 Jan 2026](../../changes/2026/2026-01-30.md): 3 amended, 18 repealed
-- [16 Jan 2026](../../changes/2026/2026-01-16.md): 16 amended
 
 ## Contents
 
@@ -104,6 +104,7 @@ Assembly, do enact as follows:
 - [Article 31-H — Tax On Real Estate Transfers In the County of Madison](article-31h-tax-on-real-estate-transfers-in-the-county/)
 - [Article 31-I — Tax On Real Estate Transfers In the County of Cortland](article-31i-tax-on-real-estate-transfers-in-the-county/)
 - [Article 31-J — Tax On Real Estate Transfers In the Town of Copake](article-31j-tax-on-real-estate-transfers-in-the-town/)
+- [Article 31-K — Tax On Real Estate Transfers In the Town of Clarkstown](article-31k-tax-on-real-estate-transfers-in-the-town/)
 - [Article 33 — Franchise Taxes On Insurance Corporations](article-33-franchise-taxes-on-insurance-corporations/)
 - [Article 33-A — Tax On Independently Procured Insurance](article-33a-tax-on-independently-procured-insurance/)
 - [Article 33-B — Tax On Real Estate Transfers In Towns](article-33b-tax-on-real-estate-transfers-in-towns/)

@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"citation": "Highway Law § 344-R*10", "kind": "section", "law_id": "HAY", "location_id": "344-R*10", "path": "ARTICLE 12 › SECTION 344-R*10", "repealed": false, "repealed_date": null, "source": "nys-laws:HAY/344-R_10.md", "title": "Portion of the state highway system to be dedicated to Detective Thomas Inman"} -->
-# Highway Law § 344-R*10 — Portion of the state highway system to be dedicated to Detective Thomas Inman
+﻿<!-- nyslaw {"citation": "Highway Law § 344-R*10", "kind": "section", "law_id": "HAY", "location_id": "344-R*10", "path": "ARTICLE 12 › SECTION 344-R*10", "repealed": false, "repealed_date": null, "source": "nys-laws:HAY/344-R_10.md", "title": "Portion of the state highway system to be dedicated to Detective Thomas M"} -->
+# Highway Law § 344-R*10 — Portion of the state highway system to be dedicated to Detective Thomas M
 
 [Highway Law](../README.md) › [Article 12 — State Routes](README.md)
 
@@ -7,9 +7,9 @@
 
 ```text
   * § 344-r. Portion of the state highway system to be dedicated to
-Detective Thomas Inman. The bridge over the eastbound and westbound
+Detective Thomas M. Inman. The bridge over the eastbound and westbound
 lanes of the Southern State Parkway on state route two hundred
 thirty-one in the town of Babylon, county of Suffolk, shall be dedicated
-to Detective Thomas Inman.
+to Detective Thomas M. Inman.
   * NB There are 12 § 344-r's
 ```

@@ -4,12 +4,11 @@
 [Public Health Law](../README.md) › [Article 28-F — Medical Aid In Dying](README.md)
 
 ```text
-  * § 2899-g. Right to rescind request; requirement to offer opportunity
+  § 2899-g. Right to rescind request; requirement to offer opportunity
 to rescind. 1. A patient may at any time rescind the request for
 medication under this article without regard to the patient's
 decision-making capacity.
   2. A prescription for medication may not be written without the
 attending physician offering the qualified individual an opportunity to
 rescind the request.
-  * NB Effective August 5, 2026
 ```

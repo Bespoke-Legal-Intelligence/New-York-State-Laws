@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 28-F — Medical Aid In Dying](README.md)
 
 ```text
-  * § 2899-m. Permissible refusals and prohibitions. 1. (a) A physician,
+  § 2899-m. Permissible refusals and prohibitions. 1. (a) A physician,
 nurse, pharmacist, other health care provider or other person shall not
 be under any duty, by law or contract, to participate in the provision
 of medication to a patient under this article.
@@ -49,5 +49,4 @@ health care facility has previously notified the health care provider,
 employee or independent contractor of the prohibition in writing.
   3. Nothing in this section shall be construed to restrict a patient at
 home from accessing care under this article.
-  * NB Effective August 5, 2026
 ```

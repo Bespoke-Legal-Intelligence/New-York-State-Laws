@@ -122,6 +122,7 @@
 - [§ 343-D Portion of state highway system to be designated as the "Jackie Robinson Parkway"](343d-portion-of-state-highway-system-to-be-designated-as-the-jackie-robinson-parkway.md)
 - [§ 343-DD Portion of state highway system to be designated as the "Justine L](343dd-portion-of-state-highway-system-to-be-designated-as-the-justine-l.md)
 - [§ 343-E Portion of state highway system in the county of Rockland to be designated as the "Vietnam Veterans Memorial Highway"](343e-portion-of-state-highway-system-in-the-county-of-rockland-to-be-designated.md)
+- [§ 343-EE Portion of the state highway system to be dedicated to Clara H](343ee-portion-of-the-state-highway-system-to-be-dedicated-to-clara-h.md)
 - [§ 343-F Portion of the state highway system to be designated as "The Norman J](343f-portion-of-the-state-highway-system-to-be-designated-as-the-norman-j.md)
 - [§ 343-F\*2 Portion of state highway system in the county of Monroe to be designated as a "POW-MIA Memorial Highway"](343f-2-portion-of-state-highway-system-in-the-county-of-monroe-to-be-designated.md)
 - [§ 343-G Portion of the state highway system to be designated as the "Don Reile Boulevard"](343g-portion-of-the-state-highway-system-to-be-designated-as-the-don-reile-boulevard.md)
@@ -415,10 +416,18 @@
 - [§ 344-R\*7 Portion of the state highway system to be dedicated to Maintenance Supervisor Stephen C](344r-7-portion-of-the-state-highway-system-to-be-dedicated-to-maintenance-supervisor.md)
 - [§ 344-R\*8 Portion of the state highway system to be dedicated to Lieutenant Donald R](344r-8-portion-of-the-state-highway-system-to-be-dedicated-to-lieutenant-donald-r.md)
 - [§ 344-R\*9 Portion of the state highway system to be dedicated to John F](344r-9-portion-of-the-state-highway-system-to-be-dedicated-to-john-f.md)
-- [§ 344-R\*10 Portion of the state highway system to be dedicated to Detective Thomas Inman](344r-10-portion-of-the-state-highway-system-to-be-dedicated-to-detective-thomas-inman.md)
+- [§ 344-R\*10 Portion of the state highway system to be dedicated to Detective Thomas M](344r-10-portion-of-the-state-highway-system-to-be-dedicated-to-detective-thomas-m.md)
 - [§ 344-R\*11 Portion of the state highway system in Oneida county to be dedicated to Officer Michael E](344r-11-portion-of-the-state-highway-system-in-oneida-county-to-be-dedicated-to-officer.md)
 - [§ 344-R\*12 Portion of the state highway system to be dedicated to Trooper James M](344r-12-portion-of-the-state-highway-system-to-be-dedicated-to-trooper-james-m.md)
 - [§ 344-S Portion of the state highway system to be dedicated to Lt](344s-portion-of-the-state-highway-system-to-be-dedicated-to-lt.md)
+- [§ 344-S\*2 Portion of the state highway system to be dedicated to Port Authority Police Officer Arthur M](344s-2-portion-of-the-state-highway-system-to-be-dedicated-to-port-authority-police.md)
+- [§ 344-S\*3 Portion of the state highway system to be dedicated to Assembly Member Bobby D'Andrea](344s-3-portion-of-the-state-highway-system-to-be-dedicated-to-assembly-member-bobby.md)
+- [§ 344-S\*4 Portion of the state highway system to be dedicated to Nathaniel Reynolds](344s-4-portion-of-the-state-highway-system-to-be-dedicated-to-nathaniel-reynolds.md)
+- [§ 344-S\*5 Portion of the state highway system to be dedicated to War Dogs](344s-5-portion-of-the-state-highway-system-to-be-dedicated-to-war-dogs.md)
+- [§ 344-S\*6 Portion of the state highway system to be dedicated to Police Officer Frederick G](344s-6-portion-of-the-state-highway-system-to-be-dedicated-to-police-officer-frederick.md)
+- [§ 344-S\*7 Portion of the state highway system to be dedicated to PFC Travis C](344s-7-portion-of-the-state-highway-system-to-be-dedicated-to-pfc-travis-c.md)
+- [§ 344-S\*8 Portion of the state highway system to be dedicated to Patrick LaFortune Jr](344s-8-portion-of-the-state-highway-system-to-be-dedicated-to-patrick-lafortune-jr.md)
+- [§ 344-S\*9 Portion of the state highway system to be dedicated to Trooper Gerard B](344s-9-portion-of-the-state-highway-system-to-be-dedicated-to-trooper-gerard-b.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 - [§ 345-B Portion of the state highway system to be designated as the "Doc Schelin Memorial Highway"](345b-portion-of-the-state-highway-system-to-be-designated-as-the-doc-schelin-memorial.md)
 - [§ 345-B\*2 Portion of the state highway system to be designated as the "Sergeant Elijah A](345b-2-portion-of-the-state-highway-system-to-be-designated-as-the-sergeant-elijah.md)
@@ -429,6 +438,13 @@
 - [§ 345-D\*2 Portion of the state highway system to be dedicated to TSgt Kory Wade](345d-2-portion-of-the-state-highway-system-to-be-dedicated-to-tsgt-kory-wade.md)
 - [§ 345-D\*3 Portion of the state highway system to be dedicated to Major Andrew D](345d-3-portion-of-the-state-highway-system-to-be-dedicated-to-major-andrew-d.md)
 - [§ 345-D\*4 Portion of the state highway system to be dedicated to Jack Barletta](345d-4-portion-of-the-state-highway-system-to-be-dedicated-to-jack-barletta.md)
+- [§ 345-E Portion of the state highway system to be dedicated to East Fishkill veterans](345e-portion-of-the-state-highway-system-to-be-dedicated-to-east-fishkill-veterans.md)
+- [§ 345-E\*2 Portion of the state highway system to be dedicated to Jomani Wright](345e-2-portion-of-the-state-highway-system-to-be-dedicated-to-jomani-wright.md)
+- [§ 345-E\*3 Portion of the state highway system to be dedicated to Robert Bornt](345e-3-portion-of-the-state-highway-system-to-be-dedicated-to-robert-bornt.md)
+- [§ 345-E\*4 Portion of the state highway system to be dedicated to Officer Stephen L](345e-4-portion-of-the-state-highway-system-to-be-dedicated-to-officer-stephen-l.md)
+- [§ 345-E\*5 Portion of the state highway system to be dedicated to Sergeant Gregory L](345e-5-portion-of-the-state-highway-system-to-be-dedicated-to-sergeant-gregory-l.md)
+- [§ 345-E\*6 Portion of the state highway system to be dedicated as the Donald Roy McAnn Memorial Highway](345e-6-portion-of-the-state-highway-system-to-be-dedicated-as-the-donald-roy-mcann.md)
+- [§ 345-E\*7 Portion of the state highway system to be dedicated to Detective Stephen J](345e-7-portion-of-the-state-highway-system-to-be-dedicated-to-detective-stephen-j.md)
 
 <details>
 <summary>Official heading of Article 12, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -690,6 +706,8 @@ Section 340-a.     Designation of state interstate routes.
         343-e.     Portion of state highway system in the county of
                      Rockland to be designated as the "Vietnam Veterans
                      Memorial Highway".
+        343-ee.    Portion of the state highway system to be dedicated
+                     to Clara H. Barton.
         343-f.     Portion of the state highway system to be designated
                      as "The Norman J. Levy Memorial Highway".
         343-f*2.   Portion of state highway system in the county of
@@ -1407,13 +1425,30 @@ Section 340-a.     Designation of state interstate routes.
         344-r*9.   Portion of the state highway system to be dedicated
                      to John F. McArdle.
         344-r*10.  Portion of the state highway system to be dedicated
-                     to Detective Thomas Inman.
+                     to Detective Thomas M. Inman.
         344-r*11.  Portion of the state highway system in Oneida county
                      to be dedicated to Officer Michael E. Jensen.
         344-r*12.  Portion of the state highway system to be dedicated
                      to Trooper James M. MacLarnon.
         344-s.     Portion of the state highway system to be dedicated
                      to Lt. Gary A. Scott.
+        344-s*2.   Portion of the state highway system to be dedicated
+                     to Port Authority Police Officer Arthur M. Ansert
+                     Jr.
+        344-s*3.   Portion of the state highway system to be dedicated
+                     to Assembly Member Bobby D'Andrea.
+        344-s*4.   Portion of the state highway system to be dedicated
+                     to Nathaniel Reynolds.
+        344-s*5.   Portion of the state highway system to be dedicated
+                     to War Dogs.
+        344-s*6.   Portion of the state highway system to be dedicated
+                     to Police Officer Frederick G. Maley.
+        344-s*7.   Portion of the state highway system to be dedicated
+                     to PFC Travis C. Krege.
+        344-s*8.   Portion of the state highway system to be dedicated
+                     to Patrick LaFortune Jr.
+        344-s*9.   Portion of the state highway system to be dedicated
+                     to Trooper Gerard B. Kane.
         345-a.     Abandonment and transfer of state highways.
         345-b.     Portion of the state highway system to be designated
                      as the "Doc Schelin Memorial Highway".
@@ -1436,6 +1471,20 @@ Section 340-a.     Designation of state interstate routes.
                      to Major Andrew D. Byers.
         345-d*4.   Portion of the state highway system to be dedicated
                      to Jack Barletta.
+        345-e.     Portion of the state highway system to be dedicated
+                     to East Fishkill veterans.
+        345-e*2.   Portion of the state highway system to be dedicated
+                     to Jomani Wright.
+        345-e*3.   Portion of the state highway system to be dedicated
+                     to Robert Bornt.
+        345-e*4.   Portion of the state highway system to be dedicated
+                     to Officer Stephen L. Raymond.
+        345-e*5.   Portion of the state highway system to be dedicated
+                     to Sergeant Gregory L. Wahl.
+        345-e*6.   Portion of the state highway system to be dedicated
+                     as the Donald Roy McAnn Memorial Highway.
+        345-e*7.   Portion of the state highway system to be dedicated
+                     to Detective Stephen J. Mullen.
 ```
 
 </details>
