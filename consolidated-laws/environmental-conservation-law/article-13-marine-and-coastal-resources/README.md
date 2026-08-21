@@ -9,6 +9,7 @@
 - [Title 3 — Marine Fisheries](title-3-marine-fisheries/)
 - [Title 5 — The Marine and Coastal District of New York Conservation, Education, and Research Grants Program](title-5-the-marine-and-coastal-district/)
 - [Title 7 — Seagrass Protection Act](title-7-seagrass-protection-act/)
+- [Title 9 — No title](title-9-no-title/)
 
 <details>
 <summary>Official heading of Article 13, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

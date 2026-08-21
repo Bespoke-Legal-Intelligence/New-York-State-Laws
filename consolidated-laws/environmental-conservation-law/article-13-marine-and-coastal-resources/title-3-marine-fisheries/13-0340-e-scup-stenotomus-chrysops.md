@@ -6,7 +6,7 @@
 ```text
 § 13-0340-e. Scup (Stenotomus chrysops).
   The department may, until December thirty-first, two thousand
-twenty-six, fix by regulation measures for the management of scup
+twenty-nine, fix by regulation measures for the management of scup
 (Stenotomus chrysops), including size limits, catch and possession
 limits, open and closed seasons, closed areas, restrictions on the
 manner of taking and landing, requirements for permits and eligibility

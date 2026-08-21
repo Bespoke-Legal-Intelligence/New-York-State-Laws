@@ -25,6 +25,10 @@
 - [§ 1111-H Owner liability for failure of operator to comply with traffic-control indications; town of Greenburgh](1111h-owner-liability-for-failure-of-operator-to-comply.md)
 - [§ 1111-I Owner liability for failure of operator to comply with traffic-control indications; city of Peekskill](1111i-owner-liability-for-failure-of-operator-to-comply.md)
 - [§ 1111-I\*2 Owner liability for failure of operator to comply with traffic-control indications; village of Croton-on-Hudson](1111i-2-owner-liability-for-failure-of-operator-to-comply.md)
+- [§ 1111-J Owner liability for failure of operator to comply with traffic-control indications; city of Poughkeepsie](1111j-owner-liability-for-failure-of-operator-to-comply.md)
+- [§ 1111-J\*2 Owner liability for failure of operator to comply with traffic-control indications; city of Ithaca](1111j-2-owner-liability-for-failure-of-operator-to-comply.md)
+- [§ 1111-J\*3 Owner liability for failure of operator to comply with traffic-control indications; town of Woodbury](1111j-3-owner-liability-for-failure-of-operator-to-comply.md)
+- [§ 1111-J\*4 Owner liability for failure of operator to comply with traffic-control indications; town of Palm Tree](1111j-4-owner-liability-for-failure-of-operator-to-comply.md)
 - [§ 1112 Pedestrian-control signal indications](1112-pedestrian-control-signal-indications.md)
 - [§ 1113 Flashing signal indications](1113-flashing-signal-indications.md)
 - [§ 1114 Display of unauthorized signs, signals, or markings](1114-display-of-unauthorized-signs-signals-or-markings.md)
@@ -73,6 +77,12 @@ Section 1110.     Obedience to and required traffic-control devices.
         1111-i*2. Owner liability for failure of operator to comply with
                     traffic-control indications; village of
                     Croton-on-Hudson.
+        1111-j.   Owner liability for failure of operator to comply with
+                    traffic-control indications; city of Poughkeepsie.
+        1111-j*2. Owner liability for failure of operator to comply with
+                    traffic-control indications; city of Ithaca.
+        1111-j*3. Owner liability for failure of operator to comply with
+                    traffic-control indications; town of Woodbury.
         1112.     Pedestrian-control signal indications.
         1113.     Flashing signal indications.
         1114.     Display of unauthorized signs, signals, or markings.

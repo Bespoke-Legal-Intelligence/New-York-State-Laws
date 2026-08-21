@@ -42,6 +42,7 @@
 - [§ 13-0340-E Scup (Stenotomus chrysops)](13-0340-e-scup-stenotomus-chrysops.md)
 - [§ 13-0340-F Black sea bass (Centropristis striata)](13-0340-f-black-sea-bass-centropristis-striata.md)
 - [§ 13-0340-G Monkfish (Lophius americanus, Lophius reticulatus and Lophius gastrophysus)](13-0340-g-monkfish-lophius-americanus-lophius-reticulatus.md)
+- [§ 13-0340-H Atlantic bonito (Sarda sarda) and false albacore (Euthynnus alletteratus)](13-0340-h-atlantic-bonito-sarda-sarda-and-false-albacore.md)
 - [§ 13-0341 Trawls; use prohibited in certain waters](13-0341-trawls-use-prohibited-in-certain-waters.md)
 - [§ 13-0342 Marine fisheries data](13-0342-marine-fisheries-data.md)
 - [§ 13-0343 Nets other than trawls; restrictions on use of nets and trawls](13-0343-nets-other-than-trawls-restrictions-on-use-of-nets.md)
@@ -116,6 +117,8 @@ Section 13-0301.    Lease of state-owned underwater lands for shellfish
         13-0340-f.  Black sea bass (Centropristis striata).
         13-0340-g.  Monkfish (Lophius americanus, Lophius reticulatus
                       and Lophius gastrophysus).
+        13-0340-h.  Atlantic bonito (Sarda sarda) and false albacore
+                      (Euthynnus alletteratus).
         13-0341.    Trawls; use prohibited in certain waters.
         13-0342.    Marine fisheries data.
         13-0343.    Nets other than trawls; restrictions on use of nets

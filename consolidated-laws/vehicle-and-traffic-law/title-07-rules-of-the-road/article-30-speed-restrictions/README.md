@@ -10,6 +10,7 @@
 - [§ 1180 Basic rule and maximum limits](1180-basic-rule-and-maximum-limits.md)
 - [§ 1180-A Maximum speed limits](1180a-maximum-speed-limits.md)
 - [§ 1180-B Owner liability for failure of operator to comply with certain posted maximum speed limits](1180b-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md)
+- [§ 1180-C Owner liability for failure of operator to comply with certain posted maximum speed limits](1180c-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md)
 - [§ 1180-E Owner liability for failure of operator to comply with certain posted maximum speed limits; highway construction or maintenance work area](1180e-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md)
 - [§ 1180-F Owner liability for failure of operator to comply with certain posted maximum speed limits](1180f-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md)
 - [§ 1180-F\*2 Owner liability for failure of operator to comply with certain posted maximum speed limits](1180f-2-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md)
@@ -17,6 +18,10 @@
 - [§ 1180-H Owner liability for failure of operator to comply with certain posted maximum speed limits; Mt](1180h-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md)
 - [§ 1180-H\*2 Owner liability for failure of operator to comply with certain posted maximum speed limits; city of Schenectady](1180h-2-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md)
 - [§ 1180-H\*3 Owner liability for failure of operator to comply with certain posted maximum speed limits](1180h-3-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md)
+- [§ 1180-I Owner liability for failure of operator to comply with certain posted maximum speed limits; village of Pelham](1180i-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md)
+- [§ 1180-I\*2 Owner liability for failure of operator to comply with certain posted maximum speed limits](1180i-2-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md)
+- [§ 1180-I\*3 Owner liability for failure of operator to comply with certain posted maximum speed limits; city of Ithaca](1180i-3-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md)
+- [§ 1180-I\*4 Owner liability for failure of operator to comply with certain posted maximum speed limits](1180i-4-owner-liability-for-failure-of-operator-to-comply-with-certain-posted.md)
 - [§ 1181 Minimum speed regulations](1181-minimum-speed-regulations.md)
 - [§ 1182 Speed contests and races](1182-speed-contests-and-races.md)
 - [§ 1182-A Multi-jurisdictional speed contests, races and similar special events](1182a-multi-jurisdictional-speed-contests-races-and-similar-special-events.md)
@@ -32,6 +37,8 @@ Section 1180.     Basic rule and maximum limits.
         1180-a.   Maximum speed limits.
         1180-b.   Owner liability for failure of operator to comply with
                     certain posted maximum speed limits.
+        1180-c.   Owner liability for failure of operator to comply with
+                    certain posted maximum speed limits.
         1180-e.   Owner liability for failure of operator to comply with
                     certain posted maximum speed limits.
         1180-f.   Owner liability for failure of operator to comply with
@@ -46,6 +53,20 @@ Section 1180.     Basic rule and maximum limits.
                     certain posted maximum speed limits; city of
                     Schenectady.
         1180-h*3. Owner liability for failure of operator to comply with
+                    certain posted maximum speed limits.
+        1180-i.   Owner liability for failure of operator to comply with
+                    certain posted maximum speed limits; village of
+                    Pelham.
+        1180-i*2. Owner liability for failure of operator to comply with
+                    certain posted maximum speed limits.
+        1180-i*3. Owner liability for failure of operator to comply with
+                    certain posted maximum speed limits; city of Ithaca.
+        1180-i*4. Owner liability for failure of operator to comply with
+                    certain posted maximum speed limits.
+        1180-i*5. Owner liability for failure of operator to comply with
+                    certain posted maximum speed limits; city of
+                    Amsterdam.
+        1180-i*6. Owner liability for failure of operator to comply with
                     certain posted maximum speed limits.
         1181.     Minimum speed regulations.
         1182.     Speed contests and races.
