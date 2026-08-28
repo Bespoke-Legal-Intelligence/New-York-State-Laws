@@ -111,12 +111,21 @@ Section 1200.        Authorization to impose occupancy tax on short term
         1202-kk.     Hotel or motel taxes in the city of Buffalo.
         1202-kk*2.   Hotel or motel taxes in the village of Chester.
         1202-kk*3.   Occupancy tax in the town of Dickinson.
+        1202-kk*4.   Occupancy tax in the city of Oneonta.
         1202-kkk.    Hotel or motel taxes in the city of Mount Vernon.
         1202-kkk*2.  Occupancy tax in the town of Cheektowaga.
         1202-l.      Hotel and motel taxes in Ulster county.
         1202-l*2.    Hotel or motel taxes in the city of Canandaigua.
-        1202-l*3.    Hotel or motel taxes in the county of St. Lawrence.
-        1202-l*4.    Hotel or motel taxes in Niagara Falls.
+        1202-l*3.    Hotel or motel taxes in Niagara Falls.
+        1202-ll.     Occupancy tax in the town of Clinton.
+        1202-ll*2.   Occupancy tax in the city of Kingston.
+        1202-ll*3.   Occupancy tax in the town of Amherst.
+        1202-ll*4.   Hotel or motel taxes in the town of Monroe.
+        1202-ll*5.   Hotel or motel taxes in the town of Gardiner.
+        1202-ll*6.   Hotel, motel or beach club taxes in the village of
+                       Atlantic Beach.
+        1202-ll*7.   Occupancy tax in the town of Rhinebeck.
+        1202-ll*8.   Hotel or motel taxes in the county of St. Lawrence.
         1202-m.      Hotel or motel taxes in Livingston county.
         1202-mm.     Hotel or motel taxes in the city of Beacon.
         1202-n.      Hotel or motel taxes in Rensselaer county.
@@ -134,6 +143,8 @@ Section 1200.        Authorization to impose occupancy tax on short term
         1202-q.      Hotel and motel taxes in Nassau county.
         1202-q*2.    Hotel or motel taxes in Cayuga county.
         1202-r.      Hotel or motel taxes in Genesee county.
+        1202-rr.     Hotel or motel taxes in the city of Batavia.
+        1202-rr*2.   Occupancy tax in the town of Lancaster.
         1202-s.      Hotel or motel taxes in Essex county.
         1202-t.      Hotel or motel taxes in Niagara county.
         1202-t*2.    Hotel or motel taxes in Ontario county.
@@ -142,6 +153,9 @@ Section 1200.        Authorization to impose occupancy tax on short term
         1202-u*3.    Hotel or motel taxes in Orleans county.
         1202-u*4.    Hotel and motel taxes in Cattaraugus county.
         1202-uu.     Hotel or motel taxes in the city of Olean.
+        1202-uuu.    Hotel or motel taxes in the village of
+                       Ellicottville.
+        1202-uuu*2.  Hotel or motel taxes in the town of Minisink.
         1202-v.      Hotel or motel taxes in Lewis county.
         1202-w.      Hotel or motel taxes in Wyoming county.
         1202-x.      Occupancy tax in the city of Yonkers.
@@ -161,6 +175,7 @@ Section 1200.        Authorization to impose occupancy tax on short term
                        Croton-on-Hudson.
         1202-zz-2*2. Hotel or motel taxes in the town of Patterson.
         1202-zz-2*3. Occupancy tax in the village of Baldwinsville.
+        1202-zz-3.   Occupancy tax in the county of Herkimer.
         1203.        Taxes administered by cities under one million.
         1204.        Taxes administered by cities with populations of
                        less than one hundred twenty-five thousand on

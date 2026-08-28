@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6210", "kind": "section", "law_id": "EDN", "location_id": "6210", "path": "TITLE 7 › ARTICLE 125 › SECTION 6210", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6210.md", "title": "Non-Instructional positions"} -->
 # Education Law § 6210 — Non-Instructional positions
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 125 — City University of New York](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 125 — City University of New York](README.md)
 
 ```text
   § 6210. Non-Instructional positions.  1. All persons hereafter

@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6306", "kind": "section", "law_id": "EDN", "location_id": "6306", "path": "TITLE 7 › ARTICLE 126 › SECTION 6306", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6306.md", "title": "Administration of community colleges--boards of trustees"} -->
 # Education Law § 6306 — Administration of community colleges--boards of trustees
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 126 — Community Colleges and State-aided Four-year Colleges](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 126 — Community Colleges and State-aided Four-year Colleges](README.md)
 
 ```text
   § 6306. Administration of community colleges--boards of trustees. 1.

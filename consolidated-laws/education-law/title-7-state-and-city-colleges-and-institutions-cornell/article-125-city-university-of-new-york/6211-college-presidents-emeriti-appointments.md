@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6211", "kind": "section", "law_id": "EDN", "location_id": "6211", "path": "TITLE 7 › ARTICLE 125 › SECTION 6211", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6211.md", "title": "College presidents emeriti; appointments, duties, qualifications, salary"} -->
 # Education Law § 6211 — College presidents emeriti; appointments, duties, qualifications, salary
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 125 — City University of New York](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 125 — City University of New York](README.md)
 
 ```text
   § 6211. College presidents emeriti; appointments, duties,

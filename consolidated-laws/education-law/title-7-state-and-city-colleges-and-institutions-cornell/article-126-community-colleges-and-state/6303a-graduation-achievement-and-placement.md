@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6303-A", "kind": "section", "law_id": "EDN", "location_id": "6303-A", "path": "TITLE 7 › ARTICLE 126 › SECTION 6303-A", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6303-A.md", "title": "Graduation, achievement and placement program"} -->
 # Education Law § 6303-A — Graduation, achievement and placement program
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 126 — Community Colleges and State-aided Four-year Colleges](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 126 — Community Colleges and State-aided Four-year Colleges](README.md)
 
 ```text
   § 6303-a. Graduation, achievement and placement program. 1.

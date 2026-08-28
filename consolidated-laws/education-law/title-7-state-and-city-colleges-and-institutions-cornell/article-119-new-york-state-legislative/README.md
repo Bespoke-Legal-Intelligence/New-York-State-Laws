@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"kind": "container", "law_id": "EDN", "location_id": "A119", "path": "TITLE 7 › ARTICLE 119", "source": "nys-laws:EDN/A119.md", "title": "New York State Legislative Institute"} -->
 # Article 119 — New York State Legislative Institute
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md)
 
 ## Contents
 

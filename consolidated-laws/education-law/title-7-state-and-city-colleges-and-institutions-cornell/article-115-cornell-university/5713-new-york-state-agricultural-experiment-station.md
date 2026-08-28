@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 5713", "kind": "section", "law_id": "EDN", "location_id": "5713", "path": "TITLE 7 › ARTICLE 115 › SECTION 5713", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/5713.md", "title": "New York state agricultural experiment station"} -->
 # Education Law § 5713 — New York state agricultural experiment station
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 115 — Cornell University](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 115 — Cornell University](README.md)
 
 ```text
   § 5713. New York state agricultural experiment station. 1. The

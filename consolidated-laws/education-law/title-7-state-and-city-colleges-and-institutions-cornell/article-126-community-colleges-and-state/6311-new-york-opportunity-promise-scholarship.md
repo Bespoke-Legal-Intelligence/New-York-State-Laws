@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6311", "kind": "section", "law_id": "EDN", "location_id": "6311", "path": "TITLE 7 › ARTICLE 126 › SECTION 6311", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6311.md", "title": "New York opportunity promise scholarship"} -->
 # Education Law § 6311 — New York opportunity promise scholarship
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 126 — Community Colleges and State-aided Four-year Colleges](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 126 — Community Colleges and State-aided Four-year Colleges](README.md)
 
 ```text
   § 6311. New York opportunity promise scholarship. 1. Eligibility. A

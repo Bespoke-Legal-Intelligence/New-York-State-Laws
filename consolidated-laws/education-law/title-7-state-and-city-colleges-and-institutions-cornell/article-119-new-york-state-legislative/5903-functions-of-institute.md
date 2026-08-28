@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 5903", "kind": "section", "law_id": "EDN", "location_id": "5903", "path": "TITLE 7 › ARTICLE 119 › SECTION 5903", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/5903.md", "title": "Functions of institute"} -->
 # Education Law § 5903 — Functions of institute
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 119 — New York State Legislative Institute](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 119 — New York State Legislative Institute](README.md)
 
 ```text
   § 5903. Functions of institute.  The legislative institute shall

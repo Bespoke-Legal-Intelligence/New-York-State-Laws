@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6234", "kind": "section", "law_id": "EDN", "location_id": "6234", "path": "TITLE 7 › ARTICLE 125 › SECTION 6234", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6234.md", "title": "Perfection of security interests"} -->
 # Education Law § 6234 — Perfection of security interests
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 125 — City University of New York](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 125 — City University of New York](README.md)
 
 ```text
   § 6234. Perfection of security interests.  If made in connection with

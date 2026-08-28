@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 5702", "kind": "section", "law_id": "EDN", "location_id": "5702", "path": "TITLE 7 › ARTICLE 115 › SECTION 5702", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/5702.md", "title": "Objects and powers of the corporation"} -->
 # Education Law § 5702 — Objects and powers of the corporation
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 115 — Cornell University](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 115 — Cornell University](README.md)
 
 ```text
   § 5702. Objects and powers of the corporation.  The leading object of

@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6453", "kind": "section", "law_id": "EDN", "location_id": "6453", "path": "TITLE 7 › ARTICLE 130 › SECTION 6453", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6453.md", "title": "Special nursing education program"} -->
 # Education Law § 6453 — Special nursing education program
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 130 — Arthur O Eve Opportunity For Higher Education](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 130 — Arthur O Eve Opportunity For Higher Education](README.md)
 
 ```text
   * § 6453. Special nursing education program.  To grant greater

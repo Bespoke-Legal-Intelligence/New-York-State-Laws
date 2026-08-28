@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"kind": "container", "law_id": "EDN", "location_id": "A129-A", "path": "TITLE 7 › ARTICLE 129-A", "source": "nys-laws:EDN/A129-A.md", "title": "Regulation By Colleges of Conduct On Campuses and Other College Property Used For Educational Purposes"} -->
 # Article 129-A — Regulation By Colleges of Conduct On Campuses and Other College Property Used For Educational Purposes
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md)
 
 ## Contents
 

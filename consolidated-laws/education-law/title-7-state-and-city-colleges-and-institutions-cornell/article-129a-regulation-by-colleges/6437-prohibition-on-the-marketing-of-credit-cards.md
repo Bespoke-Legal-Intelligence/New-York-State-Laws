@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6437", "kind": "section", "law_id": "EDN", "location_id": "6437", "path": "TITLE 7 › ARTICLE 129-A › SECTION 6437", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6437.md", "title": "Prohibition on the marketing of credit cards"} -->
 # Education Law § 6437 — Prohibition on the marketing of credit cards
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 129-A — Regulation By Colleges of Conduct On Campuses and Other College Property Used For Educational Purposes](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 129-A — Regulation By Colleges of Conduct On Campuses and Other College Property Used For Educational Purposes](README.md)
 
 ```text
   § 6437. Prohibition on the marketing of credit cards. Each college

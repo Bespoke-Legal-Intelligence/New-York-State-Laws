@@ -16,7 +16,7 @@ recognized by the regents of the state of New York shall not be subject
 to the tax imposed by this article.
   3. The gross receipts from any such matches or exhibitions where the
 contestants are all amateurs sponsored by or under the supervision of
-the U. S. Amateur Boxing Federation or its local affiliates or the
+the U.S. Amateur Boxing Federation or its local affiliates or the
 American Olympic Association shall not be subject to the tax imposed by
 this article.
   4. For the purpose of this section, an amateur is deemed to mean a

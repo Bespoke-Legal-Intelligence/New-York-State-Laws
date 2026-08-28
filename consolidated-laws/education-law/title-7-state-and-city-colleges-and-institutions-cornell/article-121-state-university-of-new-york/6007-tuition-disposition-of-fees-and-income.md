@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6007", "kind": "section", "law_id": "EDN", "location_id": "6007", "path": "TITLE 7 › ARTICLE 121 › SECTION 6007", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6007.md", "title": "Tuition; disposition of fees and income"} -->
 # Education Law § 6007 — Tuition; disposition of fees and income
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 121 — State University of New York College of Environmental Science and Forestry](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 121 — State University of New York College of Environmental Science and Forestry](README.md)
 
 ```text
   § 6007. Tuition; disposition of fees and income.  The state university

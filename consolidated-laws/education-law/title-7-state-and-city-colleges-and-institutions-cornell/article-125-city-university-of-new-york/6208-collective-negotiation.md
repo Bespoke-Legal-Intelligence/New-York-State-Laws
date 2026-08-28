@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6208", "kind": "section", "law_id": "EDN", "location_id": "6208", "path": "TITLE 7 › ARTICLE 125 › SECTION 6208", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6208.md", "title": "Collective negotiation"} -->
 # Education Law § 6208 — Collective negotiation
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 125 — City University of New York](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 125 — City University of New York](README.md)
 
 ```text
   § 6208. Collective negotiation.  For the purposes of article fourteen

@@ -8,7 +8,7 @@
 | Senate code | MDW |
 | Type | Consolidated law, chapter 61-A |
 | Sections | 193 |
-| Last changed | 26 Apr 2024 |
+| Last changed | 28 Aug 2026 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Multiple Dwelling |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [28 Aug 2026](../../changes/2026/2026-08-28.md): 7 amended
 - [26 Apr 2024](../../changes/2024/2024-04-26.md): 1 amended, 3 added
 - [16 Feb 2024](../../changes/2024/2024-02-16.md): 1 amended
 - [2 Feb 2024](../../changes/2024/2024-02-02.md): 1 amended
@@ -40,7 +41,6 @@ Assembly, do enact as follows:
 - [3 Dec 2021](../../changes/2021/2021-12-03.md): 1 amended
 - [28 Jun 2019](../../changes/2019/2019-06-28.md): 6 amended
 - [28 Oct 2016](../../changes/2016/2016-10-28.md): 1 added
-- [3 Jul 2015](../../changes/2015/2015-07-03.md): 5 amended
 
 ## Contents
 

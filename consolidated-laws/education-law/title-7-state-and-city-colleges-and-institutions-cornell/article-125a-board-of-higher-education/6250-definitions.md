@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6250", "kind": "section", "law_id": "EDN", "location_id": "6250", "path": "TITLE 7 › ARTICLE 125-A › SECTION 6250", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6250.md", "title": "Definitions"} -->
 # Education Law § 6250 — Definitions
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 125-A — Board of Higher Education Optional Retirement Program](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 125-A — Board of Higher Education Optional Retirement Program](README.md)
 
 ```text
   § 6250.  Definitions. Wherever used in this article:

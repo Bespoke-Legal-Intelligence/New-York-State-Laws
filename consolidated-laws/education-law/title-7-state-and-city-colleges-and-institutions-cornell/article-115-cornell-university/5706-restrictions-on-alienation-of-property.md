@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 5706", "kind": "section", "law_id": "EDN", "location_id": "5706", "path": "TITLE 7 › ARTICLE 115 › SECTION 5706", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/5706.md", "title": "Restrictions on alienation of property"} -->
 # Education Law § 5706 — Restrictions on alienation of property
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 115 — Cornell University](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 115 — Cornell University](README.md)
 
 ```text
   § 5706. Restrictions on alienation of property.  That portion of said

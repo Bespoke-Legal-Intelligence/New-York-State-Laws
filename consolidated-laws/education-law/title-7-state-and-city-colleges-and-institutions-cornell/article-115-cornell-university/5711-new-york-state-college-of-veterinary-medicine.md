@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 5711", "kind": "section", "law_id": "EDN", "location_id": "5711", "path": "TITLE 7 › ARTICLE 115 › SECTION 5711", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/5711.md", "title": "New York state college of veterinary medicine"} -->
 # Education Law § 5711 — New York state college of veterinary medicine
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 115 — Cornell University](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 115 — Cornell University](README.md)
 
 ```text
   § 5711. New York state college of veterinary medicine. 1. The state

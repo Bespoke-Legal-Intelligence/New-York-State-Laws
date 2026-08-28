@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"kind": "container", "law_id": "EDN", "location_id": "A125-B", "path": "TITLE 7 › ARTICLE 125-B", "source": "nys-laws:EDN/A125-B.md", "title": "City University Construction Fund"} -->
 # Article 125-B — City University Construction Fund
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md)
 
 ## Contents
 

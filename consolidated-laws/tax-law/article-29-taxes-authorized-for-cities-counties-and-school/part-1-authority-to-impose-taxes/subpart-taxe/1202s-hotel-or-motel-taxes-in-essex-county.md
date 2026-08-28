@@ -114,25 +114,22 @@ filing of a return, provided, however, that where no return has been
 filed as provided by law the tax may be assessed at any time.
   (10) All revenues resulting from the imposition of the tax under the
 local laws shall be paid into the treasury of the county of Essex and
-shall be credited and deposited into a special tourism development and
-promotion fund, thereafter to be allocated for publicizing the
-advantages of the county of Essex pursuant to subdivision fourteen of
-section two hundred twenty-four of the county law; provided, however,
-that such local laws shall provide that the county shall:
-  a. be authorized to retain up to a maximum of five percent of such
-revenue to defer the necessary expenses of the county in administering
-such tax;
-  b. endeavor to expend the revenues in such fund in a manner reasonably
-intended to publicize the areas within the county of Essex commensurate
-with the amount of revenues generated from such areas; and
-  c. contract with the Lake Placid-Essex county visitors bureau, for the
-expenditure of the revenues in such fund pursuant to subdivision
-fourteen of section two hundred twenty-four of the county law, provided
-however that the county of Essex may terminate such contract and/or
-enter into other contracts in the event that the Lake Placid-Essex
-county visitors bureau dissolves or in the determination of the board of
-supervisors of the county of Essex after public hearing ceases to
-adequately perform such contract.
+shall be credited and deposited into the general fund of the county
+thereby to be allocated at the discretion of the county legislature of
+the county of Essex for the purposes of tourism promotion and
+development and economic development which supports tourism promotion
+and development, provided, however, that the county shall be authorized
+to retain up to a maximum of five percent of such revenue to defer the
+necessary expenses of the county in administering such tax. The revenue
+derived from the tax, after deducting the amount provided for
+administering such tax, as so authorized by local law, shall be
+allocated exclusively to the promotion and development of tourism and
+economic development which supports tourism promotion and development of
+Essex county, its cities, towns and villages, and other directly related
+and supporting activities, and shall not be used for any other purpose.
+In soliciting contracts for services and in the expenditure of monies
+under this law, the county of Essex shall follow all applicable federal,
+state and county procurement laws, policies, rules and procedures.
   (11) If any provision of this section or the application thereof to
 any person or circumstance shall be held invalid, the remainder of this
 section and the application of such provision to other persons or

@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6276", "kind": "section", "law_id": "EDN", "location_id": "6276", "path": "TITLE 7 › ARTICLE 125-B › SECTION 6276", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6276.md", "title": "Agreements with dormitory authority"} -->
 # Education Law § 6276 — Agreements with dormitory authority
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 125-B — City University Construction Fund](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 125-B — City University Construction Fund](README.md)
 
 ```text
   § 6276. Agreements with dormitory authority. (a) To fulfill the

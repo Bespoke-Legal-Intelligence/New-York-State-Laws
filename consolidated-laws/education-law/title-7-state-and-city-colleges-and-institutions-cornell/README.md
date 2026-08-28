@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"kind": "container", "law_id": "EDN", "location_id": "T7", "path": "TITLE 7", "source": "nys-laws:EDN/T7.md", "title": "State and City Colleges and Institutions-cornell University"} -->
-# Title 7 — State and City Colleges and Institutions-cornell University
+﻿<!-- nyslaw {"kind": "container", "law_id": "EDN", "location_id": "T7", "path": "TITLE 7", "source": "nys-laws:EDN/T7.md", "title": "State and City Colleges and Institutions--cornell University"} -->
+# Title 7 — State and City Colleges and Institutions--cornell University
 
 [Education Law](../README.md)
 
@@ -24,7 +24,7 @@
 
 ```text
                                 TITLE VII
-       STATE AND CITY COLLEGES AND INSTITUTIONS-CORNELL UNIVERSITY
+      STATE AND CITY COLLEGES AND INSTITUTIONS--CORNELL UNIVERSITY
 Article 115    Cornell University (§§ 5701-5716).
         119    New York State Legislative Institute (§§ 5901-5905).
         121    State University of New York College of Environmental

@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 5708", "kind": "section", "law_id": "EDN", "location_id": "5708", "path": "TITLE 7 › ARTICLE 115 › SECTION 5708", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/5708.md", "title": "Powers to police grounds and regulate traffic thereon"} -->
 # Education Law § 5708 — Powers to police grounds and regulate traffic thereon
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 115 — Cornell University](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 115 — Cornell University](README.md)
 
 ```text
   § 5708. Powers to police grounds and regulate traffic thereon.  1. For

@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6213", "kind": "section", "law_id": "EDN", "location_id": "6213", "path": "TITLE 7 › ARTICLE 125 › SECTION 6213", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6213.md", "title": "Establishment of collegiate centers"} -->
 # Education Law § 6213 — Establishment of collegiate centers
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 125 — City University of New York](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 125 — City University of New York](README.md)
 
 ```text
   § 6213. Establishment of collegiate centers. 1. The board of trustees

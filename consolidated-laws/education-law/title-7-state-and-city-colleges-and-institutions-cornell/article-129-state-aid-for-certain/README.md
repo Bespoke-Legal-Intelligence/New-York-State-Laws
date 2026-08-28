@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"kind": "container", "law_id": "EDN", "location_id": "A129", "path": "TITLE 7 › ARTICLE 129", "source": "nys-laws:EDN/A129.md", "title": "State Aid For Certain Independent Institutions of Higher Education"} -->
 # Article 129 — State Aid For Certain Independent Institutions of Higher Education
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md)
 
 ## Contents
 

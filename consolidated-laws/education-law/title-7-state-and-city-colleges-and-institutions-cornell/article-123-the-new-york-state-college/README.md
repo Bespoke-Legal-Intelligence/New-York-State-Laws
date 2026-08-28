@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"kind": "container", "law_id": "EDN", "location_id": "A123", "path": "TITLE 7 › ARTICLE 123", "source": "nys-laws:EDN/A123.md", "title": "The New York State College of Ceramics At Alfred University"} -->
 # Article 123 — The New York State College of Ceramics At Alfred University
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md)
 
 ## Contents
 

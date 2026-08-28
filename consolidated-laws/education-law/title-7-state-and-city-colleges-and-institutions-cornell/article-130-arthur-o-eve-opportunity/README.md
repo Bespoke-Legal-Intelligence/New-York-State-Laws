@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"kind": "container", "law_id": "EDN", "location_id": "A130", "path": "TITLE 7 › ARTICLE 130", "source": "nys-laws:EDN/A130.md", "title": "Arthur O Eve Opportunity For Higher Education"} -->
 # Article 130 — Arthur O Eve Opportunity For Higher Education
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md)
 
 ## Contents
 

@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6004", "kind": "section", "law_id": "EDN", "location_id": "6004", "path": "TITLE 7 › ARTICLE 121 › SECTION 6004", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6004.md", "title": "College board of trustees; powers and duties"} -->
 # Education Law § 6004 — College board of trustees; powers and duties
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 121 — State University of New York College of Environmental Science and Forestry](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 121 — State University of New York College of Environmental Science and Forestry](README.md)
 
 ```text
   § 6004. College board of trustees; powers and duties. The college

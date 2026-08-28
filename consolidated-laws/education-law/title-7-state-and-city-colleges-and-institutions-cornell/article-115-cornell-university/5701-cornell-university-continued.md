@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 5701", "kind": "section", "law_id": "EDN", "location_id": "5701", "path": "TITLE 7 › ARTICLE 115 › SECTION 5701", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/5701.md", "title": "Cornell university continued"} -->
 # Education Law § 5701 — Cornell university continued
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 115 — Cornell University](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 115 — Cornell University](README.md)
 
 ```text
   § 5701. Cornell university continued.  The corporation known as

@@ -6,7 +6,7 @@
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
 ```text
-  * § 1202-h. Hotel or motel taxes in the county of Oswego.  (1)
+  * § 1202-h. Hotel or motel taxes in the county of Oswego.  ** (1)
 Notwithstanding any other provisions of law to the contrary, the county
 of Oswego is hereby authorized and empowered to adopt and amend local
 laws imposing in such county a tax, in addition to any other tax
@@ -17,27 +17,60 @@ rates of such tax shall be four percent of the per diem rental rate for
 each room provided, however, such tax shall not be applicable to a
 permanent resident of such tourist home, inn, hotel or motel or to rooms
 in such lodging facilities having less than six rentable units.
+  ** NB Effective until January 1, 2027
+  ** (1) Notwithstanding any other provisions of law to the contrary,
+the county of Oswego is hereby authorized and empowered to adopt and
+amend local laws imposing in such county a tax, in addition to any other
+tax authorized and imposed pursuant to this article, such as the
+legislature has or would have the power and authority to impose upon
+persons occupying a hotel or motel room in such county. For the purposes
+of this section, the term "hotel" or "motel" shall mean any facility
+providing lodging on an overnight basis. The rates of such tax shall be
+four percent of the per diem rental rate for each room provided,
+however, such tax shall not be applicable to a permanent resident of
+such hotel or motel. For the purposes of this section, the term
+"permanent resident" shall mean a person occupying any room or rooms in
+a hotel or motel for at least thirty consecutive days.
+  ** NB Effective January 1, 2027
   (2) Such taxes may be collected and administered by the county
 treasurer or other fiscal officers of Oswego county by such means and in
 such manner as other taxes which are now collected and administered by
 such officers or as otherwise may be provided by such local law.
-  (3) Such local laws may provide that any taxes imposed shall be paid
-by the person liable therefor to the owner of the tourist home, inn,
-hotel or motel room occupied or to the person entitled to be paid the
-rent or charge for the tourist home, inn, hotel or motel room occupied
-for and on account of the county of Oswego imposing the taxes and that
-such owner or person entitled to be paid the rent or charge shall be
-liable for the collection and payment of the taxes; and that such owner
-or person entitled to be paid the rent or charge shall have the same
-right in respect to collecting the taxes from the person occupying the
-tourist home, inn, hotel or motel room, or in respect to nonpayment of
-the taxes by the person occupying the tourist home, inn, hotel or motel
-room, as if the taxes were a part of the rent or charge and payable at
-the same time as the rent or charge; provided, however, that the county
-treasurer or other fiscal officers of the county , specified in such
+  ** (3) Such local laws may provide that any taxes imposed shall be
+paid by the person liable therefor to the owner of the tourist home,
+inn, hotel or motel room occupied or to the person entitled to be paid
+the rent or charge for the tourist home, inn, hotel or motel room
+occupied for and on account of the county of Oswego imposing the taxes
+and that such owner or person entitled to be paid the rent or charge
+shall be liable for the collection and payment of the taxes; and that
+such owner or person entitled to be paid the rent or charge shall have
+the same right in respect to collecting the taxes from the person
+occupying the tourist home, inn, hotel or motel room, or in respect to
+nonpayment of the taxes by the person occupying the tourist home, inn,
+hotel or motel room, as if the taxes were a part of the rent or charge
+and payable at the same time as the rent or charge; provided, however,
+that the county treasurer or other fiscal officers of the county ,
+specified in such local laws, shall be joined as a party in any action
+or proceeding brought to collect the taxes by the owner or by the person
+entitled to be paid the rent or charge.
+  ** NB Effective until January 1, 2027
+  ** (3) Such local laws may provide that any taxes imposed shall be
+paid by the person liable therefor to the owner of the hotel or motel
+room occupied or to the person entitled to be paid the rent or charge
+for the hotel or motel room occupied for and on account of the county of
+Oswego imposing the taxes and that such owner or person entitled to be
+paid the rent or charge shall be liable for the collection and payment
+of the taxes; and that such owner or person entitled to be paid the rent
+or charge shall have the same right in respect to collecting the taxes
+from the person occupying the hotel or motel room, or in respect to
+nonpayment of the taxes by the person occupying the hotel or motel room,
+as if the taxes were a part of the rent or charge and payable at the
+same time as the rent or charge; provided, however, that the county
+treasurer or other fiscal officers of the county, specified in such
 local laws, shall be joined as a party in any action or proceeding
 brought to collect the taxes by the owner or by the person entitled to
 be paid the rent or charge.
+  ** NB Effective January 1, 2027
   (4) Such local laws may provide for the filing of returns and the
 payment of the taxes on a monthly basis or on the basis of any longer or
 shorter period of time.
@@ -102,7 +135,7 @@ intent to evade the taxes, no assessment of additional taxes shall be
 made after the expiration of more than three years from the date of the
 filing of a return, provided, however, that where no return has been
 filed as provided by law the taxes may be assessed at any time.
-  (9) Revenues resulting from the imposition of the tax authorized by
+  ** (9) Revenues resulting from the imposition of the tax authorized by
 this section shall be paid into the treasury of the county of Oswego and
 shall be credited to and deposited in a special tourism and convention
 fund and the collections therefrom, excluding the cost of
@@ -111,6 +144,18 @@ of Oswego county only for tourism and convention development. The funds
 so allocated shall be used for the purpose of promoting Oswego county,
 its cities, towns and villages, in order to increase convention/trade
 show and tourist business.
+  ** NB Effective until January 1, 2027
+  ** (9) Revenues resulting from the imposition of the tax authorized by
+this section shall be paid into the treasury of the county of Oswego and
+shall be credited to and deposited in a special tourism and convention
+fund and the collections therefrom, excluding the cost of
+administration, shall thereafter be allocated by the county legislature
+of Oswego county only for tourism and convention development. The funds
+so allocated shall be used for the purpose of promoting Oswego county,
+its cities, towns and villages, in order to increase convention/trade
+show and tourist business, and making tourism related capital
+improvements.
+  ** NB Effective January 1, 2027
   (10) If any provision of this section or the application thereof to
 any person or circumstance shall be held invalid, the remainder of this
 section and the application of such provision to other persons or

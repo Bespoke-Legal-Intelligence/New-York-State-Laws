@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 5704", "kind": "section", "law_id": "EDN", "location_id": "5704", "path": "TITLE 7 › ARTICLE 115 › SECTION 5704", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/5704.md", "title": "Trustees shall make reports; university subject to visitation of regents; services for state agencies"} -->
 # Education Law § 5704 — Trustees shall make reports; university subject to visitation of regents; services for state agencies
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 115 — Cornell University](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 115 — Cornell University](README.md)
 
 ```text
   § 5704. Trustees shall make reports; university subject to visitation

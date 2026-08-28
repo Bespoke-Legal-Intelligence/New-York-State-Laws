@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6102", "kind": "section", "law_id": "EDN", "location_id": "6102", "path": "TITLE 7 › ARTICLE 123 › SECTION 6102", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6102.md", "title": "Administration"} -->
 # Education Law § 6102 — Administration
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 123 — The New York State College of Ceramics At Alfred University](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 123 — The New York State College of Ceramics At Alfred University](README.md)
 
 ```text
   § 6102. Administration.  Such college shall continue to be

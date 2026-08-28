@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6231", "kind": "section", "law_id": "EDN", "location_id": "6231", "path": "TITLE 7 › ARTICLE 125 › SECTION 6231", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6231.md", "title": "Certain payment by the state of New York to the city of New York"} -->
 # Education Law § 6231 — Certain payment by the state of New York to the city of New York
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 125 — City University of New York](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 125 — City University of New York](README.md)
 
 ```text
   § 6231. Certain payment by the state of New York to the city of New

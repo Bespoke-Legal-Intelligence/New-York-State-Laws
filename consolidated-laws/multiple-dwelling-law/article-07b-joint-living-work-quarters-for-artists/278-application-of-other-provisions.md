@@ -4,7 +4,7 @@
 [Multiple Dwelling Law](../README.md) › [Article 7-B — Joint Living-work Quarters For Artists, or General Residential Occupancy of Loft, Commercial or Manufacturing Buildings](README.md)
 
 ```text
-§ 278. Application of other provisions. 1. The provisions of this
+  § 278. Application of other provisions. 1. The provisions of this
 article apply to buildings with residential, mixed or joint living-work
 quarters or artists' occupancy as herein provided and to such buildings
 only. In addition to the provisions of this article, the following

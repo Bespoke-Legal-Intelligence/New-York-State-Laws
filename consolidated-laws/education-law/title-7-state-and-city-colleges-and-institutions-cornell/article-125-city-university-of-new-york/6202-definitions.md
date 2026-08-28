@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6202", "kind": "section", "law_id": "EDN", "location_id": "6202", "path": "TITLE 7 › ARTICLE 125 › SECTION 6202", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6202.md", "title": "Definitions"} -->
 # Education Law § 6202 — Definitions
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 125 — City University of New York](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 125 — City University of New York](README.md)
 
 ```text
   § 6202. Definitions. As used in this article, the following terms

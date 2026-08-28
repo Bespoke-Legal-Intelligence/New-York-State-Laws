@@ -8,7 +8,7 @@
 | Senate code | VAT |
 | Type | Consolidated law, chapter 71 |
 | Sections | 990 |
-| Last changed | 21 Aug 2026 |
+| Last changed | 28 Aug 2026 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Vehicle & Traffic |
 
@@ -33,6 +33,7 @@ to enact as follows:
 
 ## Recent changes
 
+- [28 Aug 2026](../../changes/2026/2026-08-28.md): 6 amended
 - [21 Aug 2026](../../changes/2026/2026-08-21.md): 1 amended, 9 added
 - [3 Jul 2026](../../changes/2026/2026-07-03.md): 6 amended
 - [19 Jun 2026](../../changes/2026/2026-06-19.md): 1 amended
@@ -42,7 +43,6 @@ to enact as follows:
 - [24 Apr 2026](../../changes/2026/2026-04-24.md): 1 amended
 - [3 Apr 2026](../../changes/2026/2026-04-03.md): 5 amended
 - [27 Feb 2026](../../changes/2026/2026-02-27.md): 2 amended
-- [26 Dec 2025](../../changes/2025/2025-12-26.md): 1 amended
 
 ## Contents
 

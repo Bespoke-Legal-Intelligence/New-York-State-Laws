@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6274", "kind": "section", "law_id": "EDN", "location_id": "6274", "path": "TITLE 7 › ARTICLE 125-B › SECTION 6274", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6274.md", "title": "Administration of fund"} -->
 # Education Law § 6274 — Administration of fund
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 125-B — City University Construction Fund](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 125-B — City University Construction Fund](README.md)
 
 ```text
   § 6274. Administration of fund. (1) For the period beginning July

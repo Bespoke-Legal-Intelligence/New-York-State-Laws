@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6438-D", "kind": "section", "law_id": "EDN", "location_id": "6438-D", "path": "TITLE 7 › ARTICLE 129-A › SECTION 6438-D", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6438-D.md", "title": "Notification of alcohol or controlled substance violations"} -->
 # Education Law § 6438-D — Notification of alcohol or controlled substance violations
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 129-A — Regulation By Colleges of Conduct On Campuses and Other College Property Used For Educational Purposes](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 129-A — Regulation By Colleges of Conduct On Campuses and Other College Property Used For Educational Purposes](README.md)
 
 ```text
   § 6438-d. Notification of alcohol or controlled substance violations.

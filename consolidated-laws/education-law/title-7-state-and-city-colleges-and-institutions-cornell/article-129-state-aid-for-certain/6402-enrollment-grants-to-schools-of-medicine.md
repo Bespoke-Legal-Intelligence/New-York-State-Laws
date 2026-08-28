@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6402", "kind": "section", "law_id": "EDN", "location_id": "6402", "path": "TITLE 7 › ARTICLE 129 › SECTION 6402", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6402.md", "title": "Enrollment grants to schools of medicine and dentistry"} -->
 # Education Law § 6402 — Enrollment grants to schools of medicine and dentistry
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 129 — State Aid For Certain Independent Institutions of Higher Education](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 129 — State Aid For Certain Independent Institutions of Higher Education](README.md)
 
 ```text
   § 6402. Enrollment grants to schools of medicine and dentistry.  1.

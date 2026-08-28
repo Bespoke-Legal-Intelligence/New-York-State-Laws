@@ -8,7 +8,7 @@
 | Senate code | EDN |
 | Type | Consolidated law, chapter 16 |
 | Sections | 1,947 (1 repealed) |
-| Last changed | 7 Aug 2026 |
+| Last changed | 28 Aug 2026 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Education |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [28 Aug 2026](../../changes/2026/2026-08-28.md): 3 amended
 - [7 Aug 2026](../../changes/2026/2026-08-07.md): 1 amended
 - [3 Jul 2026](../../changes/2026/2026-07-03.md): 20 amended, 1 repealed
 - [19 Jun 2026](../../changes/2026/2026-06-19.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [22 May 2026](../../changes/2026/2026-05-22.md): 4 amended
 - [3 Apr 2026](../../changes/2026/2026-04-03.md): 5 amended
 - [13 Mar 2026](../../changes/2026/2026-03-13.md): 5 amended
-- [6 Mar 2026](../../changes/2026/2026-03-06.md): 4 amended, 1 repealed
 
 ## Contents
 
@@ -51,6 +51,6 @@ Assembly, do enact as follows:
 - [Title 4 — Teachers and Pupils](title-4-teachers-and-pupils/)
 - [Title 5 — Taxation and Financial Administration](title-5-taxation-and-financial-administration/)
 - [Title 6 — Special Schools and Instruction](title-6-special-schools-and-instruction/)
-- [Title 7 — State and City Colleges and Institutions-cornell University](title-7-state-and-city-colleges-and-institutions-cornell/)
+- [Title 7 — State and City Colleges and Institutions--cornell University](title-7-state-and-city-colleges-and-institutions-cornell/)
 - [Title 8 — The Professions](title-8-the-professions/)
 - [Title 9 — Laws Repealed; Saving Clause; When to Take Effect](title-9-laws-repealed-saving-clause-when-to-take-effect/)

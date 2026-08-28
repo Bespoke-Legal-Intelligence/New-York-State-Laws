@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6434", "kind": "section", "law_id": "EDN", "location_id": "6434", "path": "TITLE 7 › ARTICLE 129-A › SECTION 6434", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6434.md", "title": "Investigation of crimes and crime reporting"} -->
 # Education Law § 6434 — Investigation of crimes and crime reporting
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 129-A — Regulation By Colleges of Conduct On Campuses and Other College Property Used For Educational Purposes](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 129-A — Regulation By Colleges of Conduct On Campuses and Other College Property Used For Educational Purposes](README.md)
 
 ```text
   § 6434. Investigation of crimes and crime reporting. 1. Each college

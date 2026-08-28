@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6433", "kind": "section", "law_id": "EDN", "location_id": "6433", "path": "TITLE 7 › ARTICLE 129-A › SECTION 6433", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6433.md", "title": "Campus crime reporting and statistics"} -->
 # Education Law § 6433 — Campus crime reporting and statistics
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 129-A — Regulation By Colleges of Conduct On Campuses and Other College Property Used For Educational Purposes](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 129-A — Regulation By Colleges of Conduct On Campuses and Other College Property Used For Educational Purposes](README.md)
 
 ```text
   § 6433. Campus crime reporting and statistics. Each college that

@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6220", "kind": "section", "law_id": "EDN", "location_id": "6220", "path": "TITLE 7 › ARTICLE 125 › SECTION 6220", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6220.md", "title": "Salary schedules in certain public institutions of higher learning"} -->
 # Education Law § 6220 — Salary schedules in certain public institutions of higher learning
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 125 — City University of New York](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 125 — City University of New York](README.md)
 
 ```text
   § 6220. Salary schedules in certain public institutions of higher

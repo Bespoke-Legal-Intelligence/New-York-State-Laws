@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 5714", "kind": "section", "law_id": "EDN", "location_id": "5714", "path": "TITLE 7 › ARTICLE 115 › SECTION 5714", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/5714.md", "title": "New York state college of human ecology"} -->
 # Education Law § 5714 — New York state college of human ecology
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 115 — Cornell University](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 115 — Cornell University](README.md)
 
 ```text
   § 5714. New York state college of human ecology.  1. The school of

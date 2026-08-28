@@ -1,12 +1,12 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1202-L*3", "kind": "section", "law_id": "TAX", "location_id": "1202-L*3", "path": "ARTICLE 29 › PART 1 › SUBPART A › SECTION 1202-L*3", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1202-L_3.md", "title": "Hotel or motel taxes in the county of St"} -->
-# Tax Law § 1202-L*3 — Hotel or motel taxes in the county of St
+﻿<!-- nyslaw {"citation": "Tax Law § 1202-LL*8", "kind": "section", "law_id": "TAX", "location_id": "1202-LL*8", "path": "ARTICLE 29 › PART 1 › SUBPART A › SECTION 1202-LL*8", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1202-LL_8.md", "title": "Hotel or motel taxes in the county of St"} -->
+# Tax Law § 1202-LL*8 — Hotel or motel taxes in the county of St
 
 [Tax Law](../../../README.md) › [Article 29 — Taxes Authorized For Cities, Counties and School Districts](../../README.md) › [Part 1 — Authority to Impose Taxes](../README.md) › [Subpart A — Taxes Administered By Cities, Counties and School Districts](README.md)
 
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
 ```text
-  * § 1202-l. Hotel or motel taxes in the county of St. Lawrence. (1)
+  * § 1202-ll. Hotel or motel taxes in the county of St. Lawrence. (1)
 Notwithstanding any other provisions of law to the contrary, the county
 of St. Lawrence is hereby authorized and empowered to adopt and amend
 local laws imposing in such county a tax, in addition to any other tax
@@ -17,7 +17,7 @@ section, the term "hotel" shall mean a building or portion of it which
 is regularly used and kept open as such for the lodging of guests. The
 term "hotel" includes an apartment hotel, a motel or a boarding house,
 whether or not meals are served. Such tax shall be imposed at a rate or
-rates not to exceed three percent of the per diem rental rate for each
+rates not to exceed five percent of the per diem rental rate for each
 room whether such room is rented on a daily or longer basis.
   (2) Such tax may be collected and administered by the commissioner of
 finance or other fiscal officer of the county of St. Lawrence by such
@@ -117,5 +117,5 @@ of legislators of the county of St. Lawrence for any county purpose.
 any person or circumstance shall be held invalid, the remainder of this
 section and the application of such provision to other persons or
 circumstances shall not be affected thereby.
-  * NB There are 4 § 1202-l's
+  * NB There are 8 § 1202-ll's
 ```

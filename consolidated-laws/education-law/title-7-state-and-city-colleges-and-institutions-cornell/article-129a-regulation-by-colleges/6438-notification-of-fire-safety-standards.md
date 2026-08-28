@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6438", "kind": "section", "law_id": "EDN", "location_id": "6438", "path": "TITLE 7 › ARTICLE 129-A › SECTION 6438", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6438.md", "title": "Notification of fire safety standards and measures in all college-owned or college-operated housing"} -->
 # Education Law § 6438 — Notification of fire safety standards and measures in all college-owned or college-operated housing
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 129-A — Regulation By Colleges of Conduct On Campuses and Other College Property Used For Educational Purposes](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 129-A — Regulation By Colleges of Conduct On Campuses and Other College Property Used For Educational Purposes](README.md)
 
 ```text
   § 6438. Notification of fire safety standards and measures in all

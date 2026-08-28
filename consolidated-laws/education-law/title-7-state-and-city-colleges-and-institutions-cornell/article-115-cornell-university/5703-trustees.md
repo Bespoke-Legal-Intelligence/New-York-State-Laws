@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 5703", "kind": "section", "law_id": "EDN", "location_id": "5703", "path": "TITLE 7 › ARTICLE 115 › SECTION 5703", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/5703.md", "title": "Trustees"} -->
 # Education Law § 5703 — Trustees
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 115 — Cornell University](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 115 — Cornell University](README.md)
 
 ```text
   § 5703. Trustees.  1. Appointment and election. The board of trustees

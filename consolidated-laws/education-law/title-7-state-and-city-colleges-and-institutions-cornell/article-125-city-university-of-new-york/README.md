@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"kind": "container", "law_id": "EDN", "location_id": "A125", "path": "TITLE 7 › ARTICLE 125", "source": "nys-laws:EDN/A125.md", "title": "City University of New York"} -->
 # Article 125 — City University of New York
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md)
 
 ## Contents
 

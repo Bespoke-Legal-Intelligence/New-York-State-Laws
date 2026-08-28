@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6436-A", "kind": "section", "law_id": "EDN", "location_id": "6436-A", "path": "TITLE 7 › ARTICLE 129-A › SECTION 6436-A", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6436-A.md", "title": "Designation of a Title VI coordinator and duties"} -->
 # Education Law § 6436-A — Designation of a Title VI coordinator and duties
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 129-A — Regulation By Colleges of Conduct On Campuses and Other College Property Used For Educational Purposes](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 129-A — Regulation By Colleges of Conduct On Campuses and Other College Property Used For Educational Purposes](README.md)
 
 ```text
   * § 6436-a. Designation of a Title VI coordinator and duties. 1.

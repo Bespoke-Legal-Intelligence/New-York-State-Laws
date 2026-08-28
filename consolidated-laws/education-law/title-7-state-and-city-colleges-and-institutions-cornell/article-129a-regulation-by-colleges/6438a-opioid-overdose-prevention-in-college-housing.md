@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6438-A", "kind": "section", "law_id": "EDN", "location_id": "6438-A", "path": "TITLE 7 › ARTICLE 129-A › SECTION 6438-A", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6438-A.md", "title": "Opioid overdose prevention in college housing"} -->
 # Education Law § 6438-A — Opioid overdose prevention in college housing
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 129-A — Regulation By Colleges of Conduct On Campuses and Other College Property Used For Educational Purposes](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 129-A — Regulation By Colleges of Conduct On Campuses and Other College Property Used For Educational Purposes](README.md)
 
 ```text
   § 6438-a. Opioid overdose prevention in college housing. 1. Every

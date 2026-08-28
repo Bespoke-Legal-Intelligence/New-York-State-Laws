@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6212", "kind": "section", "law_id": "EDN", "location_id": "6212", "path": "TITLE 7 › ARTICLE 125 › SECTION 6212", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6212.md", "title": "Tenure"} -->
 # Education Law § 6212 — Tenure
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 125 — City University of New York](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 125 — City University of New York](README.md)
 
 ```text
   § 6212. Tenure. 1. The following words and phrases, for the purposes

@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6222", "kind": "section", "law_id": "EDN", "location_id": "6222", "path": "TITLE 7 › ARTICLE 125 › SECTION 6222", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6222.md", "title": "Admission of non-residents of the city of New York to each community college of the city university"} -->
 # Education Law § 6222 — Admission of non-residents of the city of New York to each community college of the city university
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 125 — City University of New York](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 125 — City University of New York](README.md)
 
 ```text
   § 6222. Admission of non-residents of the city of New York to each

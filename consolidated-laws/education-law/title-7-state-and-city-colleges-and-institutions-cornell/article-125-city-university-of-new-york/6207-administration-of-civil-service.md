@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6207", "kind": "section", "law_id": "EDN", "location_id": "6207", "path": "TITLE 7 › ARTICLE 125 › SECTION 6207", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6207.md", "title": "Administration of civil service"} -->
 # Education Law § 6207 — Administration of civil service
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 125 — City University of New York](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 125 — City University of New York](README.md)
 
 ```text
   § 6207. Administration of civil service.  The city university, for the

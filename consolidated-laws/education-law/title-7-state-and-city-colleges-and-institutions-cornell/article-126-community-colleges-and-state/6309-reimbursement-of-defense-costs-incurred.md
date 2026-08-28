@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6309", "kind": "section", "law_id": "EDN", "location_id": "6309", "path": "TITLE 7 › ARTICLE 126 › SECTION 6309", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6309.md", "title": "Reimbursement of defense costs incurred by or on behalf of community college trustees, officers and employees"} -->
 # Education Law § 6309 — Reimbursement of defense costs incurred by or on behalf of community college trustees, officers and employees
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 126 — Community Colleges and State-aided Four-year Colleges](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 126 — Community Colleges and State-aided Four-year Colleges](README.md)
 
 ```text
   § 6309. Reimbursement of defense costs incurred by or on behalf of

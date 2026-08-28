@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6430", "kind": "section", "law_id": "EDN", "location_id": "6430", "path": "TITLE 7 › ARTICLE 129-A › SECTION 6430", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6430.md", "title": "General provisions"} -->
 # Education Law § 6430 — General provisions
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 129-A — Regulation By Colleges of Conduct On Campuses and Other College Property Used For Educational Purposes](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 129-A — Regulation By Colleges of Conduct On Campuses and Other College Property Used For Educational Purposes](README.md)
 
 ```text
   § 6430. General provisions. 1. The trustees or other governing board

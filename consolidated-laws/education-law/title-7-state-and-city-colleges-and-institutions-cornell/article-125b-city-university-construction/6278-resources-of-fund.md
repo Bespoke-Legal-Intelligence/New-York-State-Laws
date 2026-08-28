@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6278", "kind": "section", "law_id": "EDN", "location_id": "6278", "path": "TITLE 7 › ARTICLE 125-B › SECTION 6278", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6278.md", "title": "Resources of fund"} -->
 # Education Law § 6278 — Resources of fund
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 125-B — City University Construction Fund](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 125-B — City University Construction Fund](README.md)
 
 ```text
   § 6278. Resources of fund. (a) Subject to the provisions of this

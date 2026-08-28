@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6446", "kind": "section", "law_id": "EDN", "location_id": "6446", "path": "TITLE 7 › ARTICLE 129-B › SECTION 6446", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6446.md", "title": "Options for confidential disclosure"} -->
 # Education Law § 6446 — Options for confidential disclosure
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 129-B — Implementation By Colleges and Universities of Sexual Assault, Dating Violence, Domestic Violence and Stalking Prevention and Response Policies and Procedures](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 129-B — Implementation By Colleges and Universities of Sexual Assault, Dating Violence, Domestic Violence and Stalking Prevention and Response Policies and Procedures](README.md)
 
 ```text
   § 6446. Options for confidential disclosure. 1. In accordance with

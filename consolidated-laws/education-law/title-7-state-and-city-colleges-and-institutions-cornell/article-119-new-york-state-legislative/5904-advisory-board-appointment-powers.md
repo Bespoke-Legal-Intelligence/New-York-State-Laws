@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 5904", "kind": "section", "law_id": "EDN", "location_id": "5904", "path": "TITLE 7 › ARTICLE 119 › SECTION 5904", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/5904.md", "title": "Advisory board; appointment; powers and duties"} -->
 # Education Law § 5904 — Advisory board; appointment; powers and duties
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 119 — New York State Legislative Institute](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 119 — New York State Legislative Institute](README.md)
 
 ```text
   § 5904. Advisory board; appointment; powers and duties.  1. A

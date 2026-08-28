@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6206", "kind": "section", "law_id": "EDN", "location_id": "6206", "path": "TITLE 7 › ARTICLE 125 › SECTION 6206", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6206.md", "title": "Powers and duties"} -->
 # Education Law § 6206 — Powers and duties
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 125 — City University of New York](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 125 — City University of New York](README.md)
 
 ```text
   § 6206. Powers and duties. 1. The board of trustees shall have the

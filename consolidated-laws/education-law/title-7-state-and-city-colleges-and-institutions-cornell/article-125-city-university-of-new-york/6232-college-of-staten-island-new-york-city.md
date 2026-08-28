@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6232", "kind": "section", "law_id": "EDN", "location_id": "6232", "path": "TITLE 7 › ARTICLE 125 › SECTION 6232", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6232.md", "title": "College of Staten Island, New York city college of technology and Medgar Evers college programs"} -->
 # Education Law § 6232 — College of Staten Island, New York city college of technology and Medgar Evers college programs
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 125 — City University of New York](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 125 — City University of New York](README.md)
 
 ```text
   § 6232. College of Staten Island, New York city college of technology

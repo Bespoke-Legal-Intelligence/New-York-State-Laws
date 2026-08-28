@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 5716", "kind": "section", "law_id": "EDN", "location_id": "5716", "path": "TITLE 7 › ARTICLE 115 › SECTION 5716", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/5716.md", "title": "Acquisition by the state of land and interests in land of Cornell university upon which buildings have heretofore or may hereafter be ere..."} -->
 # Education Law § 5716 — Acquisition by the state of land and interests in land of Cornell university upon which buildings have heretofore or may hereafter be ere...
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 115 — Cornell University](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 115 — Cornell University](README.md)
 
 ```text
   § 5716. Acquisition by the state of land and interests in land of

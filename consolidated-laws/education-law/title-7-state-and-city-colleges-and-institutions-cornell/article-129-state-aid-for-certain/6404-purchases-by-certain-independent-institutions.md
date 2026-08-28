@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6404", "kind": "section", "law_id": "EDN", "location_id": "6404", "path": "TITLE 7 › ARTICLE 129 › SECTION 6404", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6404.md", "title": "Purchases by certain independent institutions"} -->
 # Education Law § 6404 — Purchases by certain independent institutions
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 129 — State Aid For Certain Independent Institutions of Higher Education](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 129 — State Aid For Certain Independent Institutions of Higher Education](README.md)
 
 ```text
   § 6404. Purchases by certain independent institutions. Any

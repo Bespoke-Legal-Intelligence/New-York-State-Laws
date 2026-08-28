@@ -108,17 +108,21 @@ filing of a return, provided, however, that where no return has been
 filed as provided by law the tax may be assessed at any time.
   (9) All revenues resulting from the imposition of the tax under the
 local laws shall be paid into the treasury of Cortland county and shall
-be credited to and deposited in the general fund of the county,
-thereafter to be allocated for tourist and convention development;
-provided, however, that such local laws shall provide that the county
-shall be authorized to retain up to a maximum of ten percent of such
-revenue to defer the necessary expenses of the county in administering
-such tax. The revenue derived from the tax, after deducting the amount
-provided for administering such tax, as so authorized by local law,
-shall be allocated to enhance the general economy of Cortland county,
-its cities, towns, and villages, through promotion of tourist
-activities, conventions, trade shows, special events, and other directly
-related and supporting activities.
+be credited to and deposited into a reserve account to be allocated for
+tourist and convention development and any other lawful purpose of the
+county related to economic development as set forth herein; provided,
+however, that such local laws shall provide that the county shall be
+authorized to retain up to a maximum of ten percent of such revenue to
+defer the necessary expenses of the county in administering such tax.
+The revenue derived from the tax, after deducting the amount provided
+for administering such tax, as so authorized by local law, shall be
+allocated as follows: at least seventy-five percent of up to the first
+one million dollars of net annual occupancy receipts shall be utilized
+to support and enhance the planning, promotion, marketing and growth of
+tourism, tourist activities and attractions, and tourist product
+development, and the remaining net occupancy tax proceeds shall be
+designated for any lawful county purpose related to economic
+development.
   (10) If any provision of this section or the application thereof to
 any person or circumstance shall be held invalid, the remainder of this
 section and the application of such provision to other persons or

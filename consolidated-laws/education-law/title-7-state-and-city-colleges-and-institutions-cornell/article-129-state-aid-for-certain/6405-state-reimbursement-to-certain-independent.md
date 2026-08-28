@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6405", "kind": "section", "law_id": "EDN", "location_id": "6405", "path": "TITLE 7 › ARTICLE 129 › SECTION 6405", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6405.md", "title": "State reimbursement to certain independent institutions of higher education which participate in the federal work study program"} -->
 # Education Law § 6405 — State reimbursement to certain independent institutions of higher education which participate in the federal work study program
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 129 — State Aid For Certain Independent Institutions of Higher Education](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 129 — State Aid For Certain Independent Institutions of Higher Education](README.md)
 
 ```text
   § 6405. State reimbursement to certain independent institutions of

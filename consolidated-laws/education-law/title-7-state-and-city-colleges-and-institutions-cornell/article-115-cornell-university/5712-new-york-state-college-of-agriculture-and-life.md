@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 5712", "kind": "section", "law_id": "EDN", "location_id": "5712", "path": "TITLE 7 › ARTICLE 115 › SECTION 5712", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/5712.md", "title": "New York state college of agriculture and life sciences"} -->
 # Education Law § 5712 — New York state college of agriculture and life sciences
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 115 — Cornell University](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 115 — Cornell University](README.md)
 
 ```text
   § 5712. New York state college of agriculture and life sciences.  1.

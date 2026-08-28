@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6279", "kind": "section", "law_id": "EDN", "location_id": "6279", "path": "TITLE 7 › ARTICLE 125-B › SECTION 6279", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6279.md", "title": "Payments to fund"} -->
 # Education Law § 6279 — Payments to fund
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 125-B — City University Construction Fund](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 125-B — City University Construction Fund](README.md)
 
 ```text
   § 6279. Payments to fund. To enable the fund to realize its corporate

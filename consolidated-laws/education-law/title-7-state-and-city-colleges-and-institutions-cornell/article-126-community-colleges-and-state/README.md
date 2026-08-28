@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"kind": "container", "law_id": "EDN", "location_id": "A126", "path": "TITLE 7 › ARTICLE 126", "source": "nys-laws:EDN/A126.md", "title": "Community Colleges and State-aided Four-year Colleges"} -->
 # Article 126 — Community Colleges and State-aided Four-year Colleges
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md)
 
 ## Contents
 

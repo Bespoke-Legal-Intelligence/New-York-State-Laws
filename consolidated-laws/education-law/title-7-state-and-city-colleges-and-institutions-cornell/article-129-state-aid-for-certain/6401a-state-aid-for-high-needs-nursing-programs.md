@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6401-A", "kind": "section", "law_id": "EDN", "location_id": "6401-A", "path": "TITLE 7 › ARTICLE 129 › SECTION 6401-A", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6401-A.md", "title": "State aid for high needs nursing programs for certain independent institutions of higher learning"} -->
 # Education Law § 6401-A — State aid for high needs nursing programs for certain independent institutions of higher learning
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 129 — State Aid For Certain Independent Institutions of Higher Education](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 129 — State Aid For Certain Independent Institutions of Higher Education](README.md)
 
 ```text
   § 6401-a. State aid for high needs nursing programs for certain

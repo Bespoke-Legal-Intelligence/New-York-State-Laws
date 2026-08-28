@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6233-A", "kind": "section", "law_id": "EDN", "location_id": "6233-A", "path": "TITLE 7 › ARTICLE 125 › SECTION 6233-A", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6233-A.md", "title": "Master capital plan"} -->
 # Education Law § 6233-A — Master capital plan
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 125 — City University of New York](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 125 — City University of New York](README.md)
 
 ```text
   § 6233-a. Master capital plan. On or before November fifteenth of each

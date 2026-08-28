@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6205", "kind": "section", "law_id": "EDN", "location_id": "6205", "path": "TITLE 7 › ARTICLE 125 › SECTION 6205", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6205.md", "title": "Liability of board of trustees and liability of city university of New York"} -->
 # Education Law § 6205 — Liability of board of trustees and liability of city university of New York
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 125 — City University of New York](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 125 — City University of New York](README.md)
 
 ```text
   § 6205.  Liability of board of trustees and liability of city

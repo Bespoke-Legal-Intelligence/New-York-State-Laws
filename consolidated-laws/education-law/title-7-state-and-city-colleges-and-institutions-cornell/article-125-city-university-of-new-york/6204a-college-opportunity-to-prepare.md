@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6204-A", "kind": "section", "law_id": "EDN", "location_id": "6204-A", "path": "TITLE 7 › ARTICLE 125 › SECTION 6204-A", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6204-A.md", "title": "College opportunity to prepare for employment"} -->
 # Education Law § 6204-A — College opportunity to prepare for employment
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 125 — City University of New York](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 125 — City University of New York](README.md)
 
 ```text
   § 6204-a. College opportunity to prepare for employment.  1. The city

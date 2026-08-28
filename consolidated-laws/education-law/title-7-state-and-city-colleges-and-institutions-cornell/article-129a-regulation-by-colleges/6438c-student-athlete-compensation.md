@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6438-C", "kind": "section", "law_id": "EDN", "location_id": "6438-C", "path": "TITLE 7 › ARTICLE 129-A › SECTION 6438-C", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6438-C.md", "title": "Student-athlete compensation"} -->
 # Education Law § 6438-C — Student-athlete compensation
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 129-A — Regulation By Colleges of Conduct On Campuses and Other College Property Used For Educational Purposes](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 129-A — Regulation By Colleges of Conduct On Campuses and Other College Property Used For Educational Purposes](README.md)
 
 ```text
   § 6438-c. Student-athlete compensation. 1. For the purposes of this

@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 5709", "kind": "section", "law_id": "EDN", "location_id": "5709", "path": "TITLE 7 › ARTICLE 115 › SECTION 5709", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/5709.md", "title": "Special deputy sheriffs; powers and duties"} -->
 # Education Law § 5709 — Special deputy sheriffs; powers and duties
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 115 — Cornell University](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 115 — Cornell University](README.md)
 
 ```text
   § 5709. Special deputy sheriffs; powers and duties.  1. For the

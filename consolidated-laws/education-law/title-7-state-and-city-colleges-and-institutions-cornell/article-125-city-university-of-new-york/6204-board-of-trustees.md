@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6204", "kind": "section", "law_id": "EDN", "location_id": "6204", "path": "TITLE 7 › ARTICLE 125 › SECTION 6204", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6204.md", "title": "Board of trustees"} -->
 # Education Law § 6204 — Board of trustees
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 125 — City University of New York](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 125 — City University of New York](README.md)
 
 ```text
   § 6204. Board of trustees. 1. The board of trustees shall govern and

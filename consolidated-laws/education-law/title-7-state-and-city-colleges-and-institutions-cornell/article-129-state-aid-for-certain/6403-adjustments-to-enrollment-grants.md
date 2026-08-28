@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6403", "kind": "section", "law_id": "EDN", "location_id": "6403", "path": "TITLE 7 › ARTICLE 129 › SECTION 6403", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6403.md", "title": "Adjustments to enrollment grants"} -->
 # Education Law § 6403 — Adjustments to enrollment grants
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 129 — State Aid For Certain Independent Institutions of Higher Education](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 129 — State Aid For Certain Independent Institutions of Higher Education](README.md)
 
 ```text
   § 6403. Adjustments to enrollment grants. 1. The grants provided

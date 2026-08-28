@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 5705", "kind": "section", "law_id": "EDN", "location_id": "5705", "path": "TITLE 7 › ARTICLE 115 › SECTION 5705", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/5705.md", "title": "Extent to which property may be held"} -->
 # Education Law § 5705 — Extent to which property may be held
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 115 — Cornell University](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 115 — Cornell University](README.md)
 
 ```text
   § 5705. Extent to which property may be held.  The said corporation

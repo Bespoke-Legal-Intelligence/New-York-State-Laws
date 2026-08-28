@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6275", "kind": "section", "law_id": "EDN", "location_id": "6275", "path": "TITLE 7 › ARTICLE 125-B › SECTION 6275", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6275.md", "title": "General powers"} -->
 # Education Law § 6275 — General powers
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 125-B — City University Construction Fund](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 125-B — City University Construction Fund](README.md)
 
 ```text
   § 6275. General powers. The fund shall have the following powers in

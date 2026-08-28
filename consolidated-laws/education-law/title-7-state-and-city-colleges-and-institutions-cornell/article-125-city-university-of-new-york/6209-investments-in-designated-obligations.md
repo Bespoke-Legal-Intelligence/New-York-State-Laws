@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6209", "kind": "section", "law_id": "EDN", "location_id": "6209", "path": "TITLE 7 › ARTICLE 125 › SECTION 6209", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6209.md", "title": "Investments in designated obligations; indemnification"} -->
 # Education Law § 6209 — Investments in designated obligations; indemnification
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 125 — City University of New York](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 125 — City University of New York](README.md)
 
 ```text
   § 6209. Investments in designated obligations; indemnification.  1.

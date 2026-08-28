@@ -21,7 +21,6 @@
                              PART I-GENERAL
 Section 601.     Imposition of tax.
         601-a.   Cost of living adjustment.
-        602.     Minimum income tax.
         603.     Separate tax on the ordinary income portion of lump sum
                    distributions.
         605.     General provisions and definitions.

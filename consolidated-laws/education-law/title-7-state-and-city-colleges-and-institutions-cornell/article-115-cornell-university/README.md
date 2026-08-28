@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"kind": "container", "law_id": "EDN", "location_id": "A115", "path": "TITLE 7 › ARTICLE 115", "source": "nys-laws:EDN/A115.md", "title": "Cornell University"} -->
 # Article 115 — Cornell University
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md)
 
 ## Contents
 
@@ -26,7 +26,7 @@
 
 ```text
                                ARTICLE 115
-                           Cornell University
+                           CORNELL UNIVERSITY
 Section 5701. Cornell university continued.
         5702. Objects and powers of the corporation.
         5703. Trustees.

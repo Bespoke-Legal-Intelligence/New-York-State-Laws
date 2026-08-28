@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6103", "kind": "section", "law_id": "EDN", "location_id": "6103", "path": "TITLE 7 › ARTICLE 123 › SECTION 6103", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6103.md", "title": "Appropriations and expenditures"} -->
 # Education Law § 6103 — Appropriations and expenditures
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 123 — The New York State College of Ceramics At Alfred University](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 123 — The New York State College of Ceramics At Alfred University](README.md)
 
 ```text
   § 6103. Appropriations and expenditures.  The state university

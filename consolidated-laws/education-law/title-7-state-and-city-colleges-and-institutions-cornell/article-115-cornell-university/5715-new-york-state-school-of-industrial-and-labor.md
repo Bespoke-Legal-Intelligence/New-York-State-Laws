@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 5715", "kind": "section", "law_id": "EDN", "location_id": "5715", "path": "TITLE 7 › ARTICLE 115 › SECTION 5715", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/5715.md", "title": "New York state school of industrial and labor relations"} -->
 # Education Law § 5715 — New York state school of industrial and labor relations
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 115 — Cornell University](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 115 — Cornell University](README.md)
 
 ```text
   § 5715. New York state school of industrial and labor relations.  1.

@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6435", "kind": "section", "law_id": "EDN", "location_id": "6435", "path": "TITLE 7 › ARTICLE 129-A › SECTION 6435", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6435.md", "title": "Appointment of private college security officers"} -->
 # Education Law § 6435 — Appointment of private college security officers
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 129-A — Regulation By Colleges of Conduct On Campuses and Other College Property Used For Educational Purposes](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 129-A — Regulation By Colleges of Conduct On Campuses and Other College Property Used For Educational Purposes](README.md)
 
 ```text
   § 6435. Appointment of private college security officers. 1.

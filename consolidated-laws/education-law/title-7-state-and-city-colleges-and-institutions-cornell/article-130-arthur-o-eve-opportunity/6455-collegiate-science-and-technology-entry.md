@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6455", "kind": "section", "law_id": "EDN", "location_id": "6455", "path": "TITLE 7 › ARTICLE 130 › SECTION 6455", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6455.md", "title": "Collegiate science and technology entry program"} -->
 # Education Law § 6455 — Collegiate science and technology entry program
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 130 — Arthur O Eve Opportunity For Higher Education](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 130 — Arthur O Eve Opportunity For Higher Education](README.md)
 
 ```text
   § 6455. Collegiate science and technology entry program. 1. General

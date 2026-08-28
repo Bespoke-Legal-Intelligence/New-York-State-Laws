@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 6201", "kind": "section", "law_id": "EDN", "location_id": "6201", "path": "TITLE 7 › ARTICLE 125 › SECTION 6201", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6201.md", "title": "Legislative findings and intent"} -->
 # Education Law § 6201 — Legislative findings and intent
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 125 — City University of New York](README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md) › [Article 125 — City University of New York](README.md)
 
 ```text
   § 6201.  Legislative findings and intent.  1. The legislature finds

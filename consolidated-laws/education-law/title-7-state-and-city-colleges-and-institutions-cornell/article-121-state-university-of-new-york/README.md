@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"kind": "container", "law_id": "EDN", "location_id": "A121", "path": "TITLE 7 › ARTICLE 121", "source": "nys-laws:EDN/A121.md", "title": "State University of New York College of Environmental Science and Forestry"} -->
 # Article 121 — State University of New York College of Environmental Science and Forestry
 
-[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md)
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions--cornell University](../README.md)
 
 ## Contents
 
