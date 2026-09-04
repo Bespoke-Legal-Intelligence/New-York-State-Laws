@@ -717,37 +717,36 @@ file a separate New York income tax return shall be permitted one-half
 the credit otherwise allowed his or her household, except as limited by
 paragraph one of this subsection.
   (c) Credit for certain household and dependent care services necessary
-for gainful employment.
-  (1) For taxable years beginning before January first, two thousand
-twenty-six, a taxpayer shall be allowed a credit as provided herein
-equal to the applicable percentage of the credit allowable under section
-twenty-one of the internal revenue code for the same taxable year
-(without regard to whether the taxpayer in fact claimed the credit under
-such section twenty-one for such taxable year). The applicable
-percentage shall be the sum of (i) twenty percent and (ii) a multiplier
-multiplied by a fraction. For taxable years beginning in nineteen
-hundred ninety-six and nineteen hundred ninety-seven, the numerator of
-such fraction shall be the lesser of (i) four thousand dollars or (ii)
-fourteen thousand dollars less the New York adjusted gross income for
-the taxable year, provided, however, the numerator shall not be less
-than zero. For the taxable year beginning in nineteen hundred
-ninety-eight, the numerator of such fraction shall be the lesser of (i)
-thirteen thousand dollars or (ii) thirty thousand dollars less the New
-York adjusted gross income for the taxable year, provided, however, the
-numerator shall not be less than zero. For taxable years beginning in
-nineteen hundred ninety-nine, the numerator of such fraction shall be
-the lesser of (i) fifteen thousand dollars or (ii) fifty thousand
-dollars less the New York adjusted gross income for the taxable year,
-provided, however, the numerator shall not be less than zero. For
-taxable years beginning after nineteen hundred ninety-nine, the
-numerator of such fraction shall be the lesser of (i) fifteen thousand
-dollars or (ii) sixty-five thousand dollars less the New York adjusted
+for gainful employment.  (1) For taxable years beginning before January
+first, two thousand twenty-six, a taxpayer shall be allowed a credit as
+provided herein equal to the applicable percentage of the credit
+allowable under section twenty-one of the internal revenue code for the
+same taxable year (without regard to whether the taxpayer in fact
+claimed the credit under such section twenty-one for such taxable year).
+The applicable percentage shall be the sum of (i) twenty percent and
+(ii) a multiplier multiplied by a fraction. For taxable years beginning
+in nineteen hundred ninety-six and nineteen hundred ninety-seven, the
+numerator of such fraction shall be the lesser of (i) four thousand
+dollars or (ii) fourteen thousand dollars less the New York adjusted
 gross income for the taxable year, provided, however, the numerator
-shall not be less than zero. The denominator of such fraction shall be
-four thousand dollars for taxable years beginning in nineteen hundred
-ninety-six and nineteen hundred ninety-seven, thirteen thousand dollars
-for the taxable year beginning in nineteen hundred ninety-eight, and
-fifteen thousand dollars for taxable years beginning after nineteen
+shall not be less than zero. For the taxable year beginning in nineteen
+hundred ninety-eight, the numerator of such fraction shall be the lesser
+of (i) thirteen thousand dollars or (ii) thirty thousand dollars less
+the New York adjusted gross income for the taxable year, provided,
+however, the numerator shall not be less than zero. For taxable years
+beginning in nineteen hundred ninety-nine, the numerator of such
+fraction shall be the lesser of (i) fifteen thousand dollars or (ii)
+fifty thousand dollars less the New York adjusted gross income for the
+taxable year, provided, however, the numerator shall not be less than
+zero. For taxable years beginning after nineteen hundred ninety-nine,
+the numerator of such fraction shall be the lesser of (i) fifteen
+thousand dollars or (ii) sixty-five thousand dollars less the New York
+adjusted gross income for the taxable year, provided, however, the
+numerator shall not be less than zero. The denominator of such fraction
+shall be four thousand dollars for taxable years beginning in nineteen
+hundred ninety-six and nineteen hundred ninety-seven, thirteen thousand
+dollars for the taxable year beginning in nineteen hundred ninety-eight,
+and fifteen thousand dollars for taxable years beginning after nineteen
 hundred ninety-eight. The multiplier shall be ten percent for taxable
 years beginning in nineteen hundred ninety-six, forty percent for
 taxable years beginning in nineteen hundred ninety-seven, and eighty
@@ -2424,10 +2423,9 @@ allowed for actual use shall be determined by multiplying the original
 credit by the ratio which the months of qualified use bear to the total
 number of months over which the taxpayer chooses to deduct the property
 under the internal revenue code.
-  (i) S corporation credits.
-  (1) For purposes of determining the application under this section of
-the credit provisions enumerated in the following table, a shareholder
-of a New York S corporation:
+  (i) S corporation credits.  (1) For purposes of determining the
+application under this section of the credit provisions enumerated in
+the following table, a shareholder of a New York S corporation:
   (A) shall be treated as the taxpayer with respect to his or her pro
 rata share of the corresponding credit base of such corporation,
 determined for the corporation's taxable year ending with or within the

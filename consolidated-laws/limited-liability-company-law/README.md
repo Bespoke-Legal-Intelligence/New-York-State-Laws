@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | LLC |
 | Type | Consolidated law, chapter 34 |
-| Sections | 124 |
-| Last changed | 14 Jun 2024 |
+| Sections | 124 (2 repealed) |
+| Last changed | 4 Sep 2026 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Limited Liability Company Law |
 
@@ -20,7 +20,7 @@
                    CHAPTER 34 OF THE CONSOLIDATED LAWS
                       LIMITED LIABILITY COMPANY LAW
 Article     I. Short title and definitions. (§§ 101-102)
-           II. Formation. (§§ 201-215)
+           II. Formation. (§§ 201-214)
           III. Service of process. (§§ 301-305)
            IV. Management by members or managers. (§§ 401-420)
             V. Contributions and distributions. (§§ 501-509)
@@ -31,6 +31,7 @@ Article     I. Short title and definitions. (§§ 101-102)
 
 ## Recent changes
 
+- [4 Sep 2026](../../changes/2026/2026-09-04.md): 9 amended, 2 repealed
 - [14 Jun 2024](../../changes/2024/2024-06-14.md): 2 amended
 - [8 Mar 2024](../../changes/2024/2024-03-08.md): 9 amended, 3 added
 - [29 Dec 2023](../../changes/2023/2023-12-29.md): 5 amended, 2 added
@@ -40,7 +41,6 @@ Article     I. Short title and definitions. (§§ 101-102)
 - [3 Dec 2021](../../changes/2021/2021-12-03.md): 1 amended
 - [23 Apr 2021](../../changes/2021/2021-04-23.md): 12 amended, 1 added
 - [14 Feb 2020](../../changes/2020/2020-02-14.md): 1 amended
-- [20 Dec 2019](../../changes/2019/2019-12-20.md): 1 amended
 
 ## Contents
 

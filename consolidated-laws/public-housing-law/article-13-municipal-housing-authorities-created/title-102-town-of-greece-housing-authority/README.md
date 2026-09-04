@@ -12,7 +12,7 @@
 
 ```text
                                * TITLE 102
-                    TOWN OF GREECE HOUSING AUTHORITY.
+                    TOWN OF GREECE HOUSING AUTHORITY
 Section 505. Town of Greece Housing Authority.
   * NB There are 3 Title 102's
 ```

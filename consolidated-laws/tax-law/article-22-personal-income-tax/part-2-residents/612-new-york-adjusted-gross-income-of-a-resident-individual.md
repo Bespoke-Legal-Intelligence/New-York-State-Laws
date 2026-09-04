@@ -1551,7 +1551,7 @@ option of the taxpayer, with respect to the taxable year in which the
 new business investment gain is realized or the year containing the last
 day of the six-month retention period described in this paragraph.
   4. The state tax commission may prescribe such rules and regulations
-as may be necessary to carry out the purposes of this subdivision.
+as may be necessary to carry out the purposes of this subsection.
   (p) New business investment deferral. For taxable years beginning
 before January first, nineteen hundred eighty-eight, at the option of
 the taxpayer, there may be subtracted from federal adjusted gross income

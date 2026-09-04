@@ -4,7 +4,7 @@
 [Limited Liability Company Law](../README.md) › [Article 11 — Miscellaneous](README.md)
 
 ```text
-  * § 1107. Beneficial ownership disclosure. (a) All reporting companies
+  § 1107. Beneficial ownership disclosure. (a) All reporting companies
 shall file with the department of state a beneficial ownership
 disclosure in such form and manner as directed by the department of
 state, identifying each beneficial owner of the reporting company and
@@ -67,5 +67,4 @@ state.
   (h) The department of state shall establish provisions for sharing
 information with agencies permitted to access information relating to
 beneficial owners in accordance with subdivision (f) of this section.
-  * NB Effective January 1, 2026
 ```

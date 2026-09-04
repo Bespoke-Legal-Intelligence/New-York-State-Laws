@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 13-A — Tax On Petroleum Businesses](README.md)
 
 ```text
-  § 308. Returns and payment of tax.--* (a) General.--Every petroleum
+  § 308. Returns and payment of tax.-- (a) General.--Every petroleum
 business subject to tax under this article shall monthly, on or before
 the twentieth day following the close of its taxable month, file a
 return which shall state (i) the number of gallons of motor fuel
@@ -44,7 +44,7 @@ in effect, as provided for in sections three hundred one-a and three
 hundred one-e of this article, which take effect on the first day of
 January of each year shall, with respect to such quarterly return, take
 effect on the first day of the next succeeding March. Returns shall be
-filed with the commissioner in a form prescribed by the commissioner,
+filed with the commissioner on a form prescribed by the commissioner,
 setting forth such other information as the commissioner may prescribe.
 Every petroleum business shall also transmit such other returns and such
 facts and information as the commissioner may require in the
@@ -59,81 +59,19 @@ insure the payment of the tax imposed by this article, require returns
 to be made at such times and covering such periods as the commissioner
 may deem necessary. Notwithstanding the foregoing provisions of this
 subdivision, the commissioner may require any corporation or
-unincorporated business which engages in transactions involving
-petroleum or similar products, including aviation fuels, to file a
-monthly return, which shall contain any data specified by him,
+unincorporated business that engages in transactions involving petroleum
+or similar products, including aviation fuels, to file a monthly return,
+which shall contain such information as the commissioner prescribes,
 regardless of whether such corporation or unincorporated business is
-subject to tax under this article.
-  * NB Effective until September 1, 2026
-  * (a) General.--Every petroleum business subject to tax under this
-article shall monthly, on or before the twentieth day following the
-close of its taxable month, file a return which shall state (i) the
-number of gallons of motor fuel imported or caused to be imported into
-this state for use, distribution, storage or sale in the state or
-produced, refined, manufactured or compounded in the state during the
-preceding calendar month, (ii) the number of gallons of diesel motor
-fuel sold or used or, with respect to gallonage which prior thereto has
-not been included in the measure of the tax imposed by this article,
-delivered by the petroleum business to a filling station or into the
-fuel tank connecting with the engine of a motor vehicle for use in the
-operation thereof during the preceding calendar month, (iii) the number
-of gallons of, and the resultant product produced, manufactured or
-blended, using diesel motor fuel as a component of such resultant
-product and the sales of such resultant product, and (iv) the number of
-gallons of residual petroleum product sold or used in this state and the
-sales of such residual petroleum product, for the period covered by such
-return. A residual petroleum business shall include in its reports the
-number of gallons of residual petroleum product imported into the state
-or purchased in this state, the number of gallons of diesel motor fuel
-purchased in this state and the number of gallons of, and the resultant
-product produced, manufactured or blended by such petroleum business,
-using diesel motor fuel as a component of such resultant product. The
-commissioner of taxation and finance may permit the filing of a return
-on a quarterly basis in the case of a petroleum business which only
-makes sales of diesel motor fuel solely for residential heating purposes
-and which is registered under article twelve-A of this chapter as a
-diesel motor fuel distributor under a limited registration applicable
-only to the importation, sale and distribution of diesel motor fuel for
-the purposes described in subparagraph (i) of paragraph (b) of
-subdivision three of section two hundred eighty-two-a of this chapter or
-in the case of a petroleum business registered as a "distributor of
-kero-jet fuel only" pursuant to the provisions of subdivision two of
-section two hundred eighty-two-a of this chapter. In the case of such
-returns permitted to be filed on a quarterly basis, the adjustments to
-the rates of tax then in effect, as provided for in sections three
-hundred one-a and three hundred one-e of this article, which take effect
-on the first day of January of each year shall, with respect to such
-quarterly return, take effect on the first day of the next succeeding
-March. Returns shall be filed with the commissioner on a form prescribed
-by the commissioner, setting forth such other information as the
-commissioner may prescribe. Every petroleum business shall also transmit
-such other returns and such facts and information as the commissioner
-may require in the administration of this article. Every petroleum
-business which is a corporation subject to tax under this article and
-which ceases to exercise its franchise or to be subject to the tax
-imposed by this article shall transmit to the commissioner a return on
-the date of such cessation, or at such other time as the commissioner
-may require, covering each month or period for which no return was
-theretofore filed. The commissioner may, if the commissioner deems it
-necessary in order to insure the payment of the tax imposed by this
-article, require returns to be made at such times and covering such
-periods as the commissioner may deem necessary. Notwithstanding the
-foregoing provisions of this subdivision, the commissioner may require
-any corporation or unincorporated business that engages in transactions
-involving petroleum or similar products, including aviation fuels, to
-file a monthly return, which shall contain such information as the
-commissioner prescribes, regardless of whether such corporation or
-unincorporated business is subject to tax under this article.
-Notwithstanding the provisions of this subdivision, every petroleum
-business that operates a "commercial vessel", as defined in subdivision
-(b) of section eleven hundred one of this chapter, shall annually file
-the returns required under this section, on a form and containing such
-information as the commissioner prescribes. Such "commercial vessel"
-returns shall be filed annually on or before March twentieth and shall
-cover the four sales tax quarterly periods described in subdivision (b)
-of section eleven hundred thirty-six of this chapter immediately
-preceding such date.
-  * NB Effective September 1, 2026
+subject to tax under this article. Notwithstanding the provisions of
+this subdivision, every petroleum business that operates a "commercial
+vessel", as defined in subdivision (b) of section eleven hundred one of
+this chapter, shall annually file the returns required under this
+section, on a form and containing such information as the commissioner
+prescribes. Such "commercial vessel" returns shall be filed annually on
+or before March twentieth and shall cover the four sales tax quarterly
+periods described in subdivision (b) of section eleven hundred
+thirty-six of this chapter immediately preceding such date.
   (b) Payment of tax. Each petroleum business shall pay to the
 commissioner of taxation and finance with the filing of the return or
 returns the tax imposed by this article during the period covered by the
@@ -199,15 +137,13 @@ and storers of any product included in the measure of the tax imposed by
 this article. All such records shall be preserved for a period of three
 years, except that the commissioner may consent to their destruction
 within that period or may require that they be kept longer.
-  * (j) Every petroleum business subject to tax under this article that
-is also a distributor, as defined in section two hundred eighty-two of
-this chapter, must charge the tax imposed by this article to the
-purchaser on each gallon sold, unless otherwise exempt. If the taxes
-imposed by this article have not already been assumed or paid by such
-petroleum business on any quantity of such fuel for any reason,
-including, but not limited to, the expansion of such fuel as a result of
-temperature fluctuation, such petroleum business must remit such taxes
-to the commissioner on the return for the period in which such sale was
-made.
-  * NB Effective September 1, 2023
+  (j) Every petroleum business subject to tax under this article that is
+also a distributor, as defined in section two hundred eighty-two of this
+chapter, must charge the tax imposed by this article to the purchaser on
+each gallon sold, unless otherwise exempt. If the taxes imposed by this
+article have not already been assumed or paid by such petroleum business
+on any quantity of such fuel for any reason, including, but not limited
+to, the expansion of such fuel as a result of temperature fluctuation,
+such petroleum business must remit such taxes to the commissioner on the
+return for the period in which such sale was made.
 ```

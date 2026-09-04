@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Limited Liability Company Law § 215", "kind": "section", "law_id": "LLC", "location_id": "215", "path": "ARTICLE 2 › SECTION 215", "repealed": false, "repealed_date": null, "source": "nys-laws:LLC/215.md", "title": "Beneficial ownership disclosure"} -->
+﻿<!-- nyslaw {"citation": "Limited Liability Company Law § 215", "kind": "section", "law_id": "LLC", "location_id": "215", "path": "ARTICLE 2 › SECTION 215", "repealed": true, "repealed_date": "2026-09-04", "source": "nys-laws:LLC/215.md", "title": "Beneficial ownership disclosure"} -->
 # Limited Liability Company Law § 215 — Beneficial ownership disclosure
 
 [Limited Liability Company Law](../README.md) › [Article 2 — Formation](README.md)
+
+**Repealed** (4 Sep 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 215. Beneficial ownership disclosure. (a) When filing the articles

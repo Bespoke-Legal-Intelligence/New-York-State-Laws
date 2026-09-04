@@ -43,7 +43,6 @@ Section 611.     New York taxable income of a resident individual.
         620-A.   Credit against separate tax.
         621.     Credit to trust beneficiary receiving accumulation
                    distribution.
-        622.     New York minimum taxable income of resident individual.
         624.     Computation of separate tax on the ordinary income
                    portion of lump sum distributions received by
                    resident individuals, estates and trusts.
@@ -54,13 +53,14 @@ Section 611.     New York taxable income of a resident individual.
         627.     Gift for breast cancer research and education.
         627-a.   Gift for honor and remembrance of veterans.
         627-b.   Gift for assisting homeless veterans.
+        627-c.   Gift for New York state veterans' homes.
         628.     Gift for missing and exploited children clearinghouse
                    fund.
         629.     Gift for Alzheimer's disease support services.
         629-a.   Gift for eliminating the stigma relating to mental
                    illness.
         629-b.   Gift for substance use disorder education and recovery.
-        630.     Gift for prostate cancer research, detection and
+        630.     Gift for prostate and testicular cancer research and
                    education.
         630-a.   Gift for World Trade Center memorial foundation.
         630-b.   Gift for volunteer firefighting and volunteer emergency
@@ -71,6 +71,11 @@ Section 611.     New York taxable income of a resident individual.
         630-e.   Gift to the love your library fund.
         630-f.   Gift for organ and tissue donation outreach and
                    research.
+        630-f*2. Gift for ALS research and education.
+        630-f*3. Gift for school-based health centers.
+        630-f*4. Gift for lupus education and prevention.
+        630-f*5. Gift for military families.
+        630-f*6. Gift for city university of New York.
         630-g.   Gift for leukemia, lymphoma and myeloma research,
                    education and treatment.
         630-g*2. Gift for the William B. Hoyt Memorial children and
@@ -98,8 +103,6 @@ Section 631.     New York source income of a nonresident individual.
                    York sources.
         635.     Credit to trust beneficiary receiving accumulation
                    distribution.
-        636.     New York minimum taxable income of nonresidents or
-                   part-year residents.
         637.     Computation of separate tax on the ordinary income
                    portion of lump sum distributions received by
                    nonresident or part-year resident individuals,

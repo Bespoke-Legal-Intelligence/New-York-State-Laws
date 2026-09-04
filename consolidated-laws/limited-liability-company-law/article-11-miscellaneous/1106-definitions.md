@@ -4,7 +4,7 @@
 [Limited Liability Company Law](../README.md) › [Article 11 — Miscellaneous](README.md)
 
 ```text
-  * § 1106. Definitions. For the purposes of this section and sections
+  § 1106. Definitions. For the purposes of this section and sections
 eleven hundred seven and eleven hundred eight of this article:
   (a) "Beneficial owner" shall have the same meaning as defined in 31
 U.S.C. § 5336(a)(3), as amended, and any regulations promulgated
@@ -20,5 +20,4 @@ that meets a condition for exemption enumerated in 31 U.S.C. §
   (d) "Applicant" shall have the same meaning as defined in 31 U.S.C. §
 5336(a)(2), as amended, and any regulations promulgated thereunder, but
 shall only include those relating to limited liability companies.
-  * NB Effective January 1, 2026
 ```

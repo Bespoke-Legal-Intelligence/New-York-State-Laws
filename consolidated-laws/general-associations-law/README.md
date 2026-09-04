@@ -8,7 +8,7 @@
 | Senate code | GAS |
 | Type | Consolidated law, chapter 29 |
 | Sections | 24 |
-| Last changed | 6 Jan 2023 |
+| Last changed | 4 Sep 2026 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Associations |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [4 Sep 2026](../../changes/2026/2026-09-04.md): 1 amended
 - [6 Jan 2023](../../changes/2023/2023-01-06.md): 3 amended
 - [23 Apr 2021](../../changes/2021/2021-04-23.md): 2 amended, 1 added
 - [9 Jan 2015](../../changes/2015/2015-01-09.md): 1 amended

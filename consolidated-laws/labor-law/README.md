@@ -8,7 +8,7 @@
 | Senate code | LAB |
 | Type | Consolidated law, chapter 31 |
 | Sections | 774 (5 repealed) |
-| Last changed | 3 Jul 2026 |
+| Last changed | 4 Sep 2026 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Labor |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [4 Sep 2026](../../changes/2026/2026-09-04.md): 1 amended
 - [3 Jul 2026](../../changes/2026/2026-07-03.md): 1 amended, 3 repealed
 - [19 Jun 2026](../../changes/2026/2026-06-19.md): 1 amended
 - [12 Jun 2026](../../changes/2026/2026-06-12.md): 2 amended, 1 repealed
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [20 Feb 2026](../../changes/2026/2026-02-20.md): 9 amended
 - [6 Feb 2026](../../changes/2026/2026-02-06.md): 5 amended
 - [9 Jan 2026](../../changes/2026/2026-01-09.md): 8 amended, 1 repealed
-- [26 Dec 2025](../../changes/2025/2025-12-26.md): 1 amended, 9 added
 
 ## Contents
 

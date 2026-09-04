@@ -11,7 +11,7 @@ the senior wellness in nutrition fund for the purpose of providing home
 delivered meals to seniors. Such contribution shall be in any whole
 dollar amount and shall not reduce the amount of state tax owed by such
 individual. The commissioner shall include space on the personal income
-tax return, entitled " Home Delivered Meals for Seniors", to enable a
+tax return, entitled "Home Delivered Meals for Seniors", to enable a
 taxpayer to make such contribution. Notwithstanding any other provision
 of law, all revenues collected pursuant to this section shall be
 credited to the senior wellness in nutrition fund and used only for the

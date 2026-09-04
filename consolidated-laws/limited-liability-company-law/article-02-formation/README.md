@@ -20,7 +20,7 @@
 - [§ 212 Certificate of correction](212-certificate-of-correction.md)
 - [§ 213 Authorization of amendment of articles of organization](213-authorization-of-amendment-of-articles-of-organization.md)
 - [§ 214 Restated articles of organization](214-restated-articles-of-organization.md)
-- [§ 215 Beneficial ownership disclosure](215-beneficial-ownership-disclosure.md)
+- [§ 215 Beneficial ownership disclosure](215-beneficial-ownership-disclosure.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -44,7 +44,6 @@ Section 201.   Purpose.
         212.   Certificate of correction.
         213.   Authorization of amendment of articles of organization.
         214.   Restated articles of organization.
-        215.   Beneficial ownership disclosure.
 ```
 
 </details>

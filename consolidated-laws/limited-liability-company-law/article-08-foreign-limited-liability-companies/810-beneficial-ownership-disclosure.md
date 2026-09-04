@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Limited Liability Company Law § 810", "kind": "section", "law_id": "LLC", "location_id": "810", "path": "ARTICLE 8 › SECTION 810", "repealed": false, "repealed_date": null, "source": "nys-laws:LLC/810.md", "title": "Beneficial ownership disclosure"} -->
+﻿<!-- nyslaw {"citation": "Limited Liability Company Law § 810", "kind": "section", "law_id": "LLC", "location_id": "810", "path": "ARTICLE 8 › SECTION 810", "repealed": true, "repealed_date": "2026-09-04", "source": "nys-laws:LLC/810.md", "title": "Beneficial ownership disclosure"} -->
 # Limited Liability Company Law § 810 — Beneficial ownership disclosure
 
 [Limited Liability Company Law](../README.md) › [Article 8 — Foreign Limited Liability Companies](README.md)
+
+**Repealed** (4 Sep 2026). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 810. Beneficial ownership disclosure. (a) When filing the
