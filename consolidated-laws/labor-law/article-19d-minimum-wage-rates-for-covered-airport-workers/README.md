@@ -13,7 +13,6 @@
 - [§ 696-F Civil action](696f-civil-action.md)
 - [§ 696-G Regulations](696g-regulations.md)
 - [§ 696-H Savings clause](696h-savings-clause.md)
-- [§ 696-I Savings clause](696i-savings-clause.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 19-D, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

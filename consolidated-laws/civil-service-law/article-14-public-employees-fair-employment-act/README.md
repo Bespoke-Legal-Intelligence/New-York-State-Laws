@@ -23,6 +23,7 @@
 - [§ 213 Judicial review and enforcement](213-judicial-review-and-enforcement.md)
 - [§ 214 Management and confidential employees; membership and office in employee organizations](214-management-and-confidential-employees-membership-and-office-in-employee.md)
 - [§ 215 Dues or agency shop fee deductions](215-dues-or-agency-shop-fee-deductions.md)
+- [§ 216 Falsely impersonating an employee organization or employee organization representative](216-falsely-impersonating-an-employee-organization-or-employee-organization.md)
 
 <details>
 <summary>Official heading of Article 14, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -53,6 +54,8 @@ Section 200.   Statement of policy.
         214.   Management and confidential employees; membership and
                  office in employee organizations.
         215.   Dues or agency shop fee deductions.
+        216.   Falsely impersonating an employee organization or
+                 employee organization representative.
 ```
 
 </details>

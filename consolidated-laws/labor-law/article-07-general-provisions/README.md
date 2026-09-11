@@ -50,6 +50,7 @@
 - [§ 209-A Fraudulent representation in labor organizations](209a-fraudulent-representation-in-labor-organizations.md)
 - [§ 210 Proceedings for nonenforcement](210-proceedings-for-nonenforcement.md)
 - [§ 210-A Legal duty to employees](210a-legal-duty-to-employees.md)
+- [§ 210-B Access to personnel records](210b-access-to-personnel-records.md)
 - [§ 211 Protection of employees](211-protection-of-employees.md)
 - [§ 211-A Prohibition against use of funds](211a-prohibition-against-use-of-funds.md)
 - [§ 212 Drinking water for farm laborers](212-drinking-water-for-farm-laborers.md)
@@ -143,6 +144,7 @@ Section 200.   General duty to protect health and safety of employees;
         209-a. Fraudulent representation in labor organizations.
         210.   Proceedings for nonenforcement.
         210-a. Legal duty to employees.
+        210-b. Access to personnel records.
         211.   Protection of employees.
         211-a. Prohibition against use of funds.
         212.   Drinking water for farm laborers.

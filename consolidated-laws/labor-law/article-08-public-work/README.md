@@ -32,6 +32,7 @@
 - [§ 224-E Wage requirements for certain broadband projects](224e-wage-requirements-for-certain-broadband-projects.md)
 - [§ 224-F Wage requirements for certain climate risk-related and energy transition projects](224f-wage-requirements-for-certain-climate-risk-related-and-energy-transition.md)
 - [§ 224-F\*2 Workers on excavations](224f-2-workers-on-excavations.md)
+- [§ 224-G Wage requirements for reporting and scheduling pay](224g-wage-requirements-for-reporting-and-scheduling-pay.md)
 
 <details>
 <summary>Official heading of Article 8, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -74,6 +75,7 @@ Section 220.     Hours, wages and supplements.
         224-f.   Wage requirements for certain climate risk-related and
                    energy transition projects.
         224-f*2. Workers on excavations.
+        224-g.   Wage requirements for reporting and scheduling pay.
 ```
 
 </details>

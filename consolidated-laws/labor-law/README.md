@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | LAB |
 | Type | Consolidated law, chapter 31 |
-| Sections | 774 (5 repealed) |
-| Last changed | 4 Sep 2026 |
+| Sections | 772 |
+| Last changed | 11 Sep 2026 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Labor |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [11 Sep 2026](../../changes/2026/2026-09-11.md): 3 added, 5 removed
 - [4 Sep 2026](../../changes/2026/2026-09-04.md): 1 amended
 - [3 Jul 2026](../../changes/2026/2026-07-03.md): 1 amended, 3 repealed
 - [19 Jun 2026](../../changes/2026/2026-06-19.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [27 Feb 2026](../../changes/2026/2026-02-27.md): 3 amended
 - [20 Feb 2026](../../changes/2026/2026-02-20.md): 9 amended
 - [6 Feb 2026](../../changes/2026/2026-02-06.md): 5 amended
-- [9 Jan 2026](../../changes/2026/2026-01-09.md): 8 amended, 1 repealed
 
 ## Contents
 
@@ -79,7 +79,6 @@ Assembly, do enact as follows:
 - [Article 21 — New York Call Center Jobs Act](article-21-new-york-call-center-jobs-act/)
 - [Article 21-A — Warehouse Worker Protection Act](article-21a-warehouse-worker-protection-act/)
 - [Article 21-B — Protection of Call Center Workers From Displacement](article-21b-protection-of-call-center-workers/)
-- [Article 21-C — Tower Technician Protections](article-21c-tower-technician-protections/) *(repealed)*
 - [Article 22 — Boards of Inquiry In Labor Disputes](article-22-boards-of-inquiry-in-labor-disputes/)
 - [Article 22-A — Injunctions In Labor Disputes](article-22a-injunctions-in-labor-disputes/)
 - [Article 23 — Apprenticeship Training](article-23-apprenticeship-training/)

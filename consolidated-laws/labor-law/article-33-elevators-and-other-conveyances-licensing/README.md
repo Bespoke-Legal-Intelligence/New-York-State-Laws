@@ -13,7 +13,6 @@
 - [§ 955 Powers of the commissioner](955-powers-of-the-commissioner.md)
 - [§ 956 New York state elevator safety and standards advisory board](956-new-york-state-elevator-safety-and-standards-advisory-board.md)
 - [§ 957 Exempt persons](957-exempt-persons.md)
-- [§ 958 Inspection of elevators and conveyances](958-inspection-of-elevators-and-conveyances.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 33, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

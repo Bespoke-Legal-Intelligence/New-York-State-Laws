@@ -20,6 +20,7 @@
 - [§ 196-A Complaints by employees to commissioner](196a-complaints-by-employees-to-commissioner.md)
 - [§ 196-B Sick leave requirements](196b-sick-leave-requirements.md)
 - [§ 196-D Gratuities](196d-gratuities.md)
+- [§ 196-E Construction industry reporting pay provisions](196e-construction-industry-reporting-pay-provisions.md)
 - [§ 197 Civil penalty](197-civil-penalty.md)
 - [§ 198 Costs, remedies](198-costs-remedies.md)
 - [§ 198-A Criminal penalties](198a-criminal-penalties.md)
@@ -53,6 +54,7 @@ Section 190.   Definitions.
         196-a. Complaints by employees to commissioner.
         196-b. Sick leave requirements.
         196-d. Gratuities.
+        196-e. Construction industry reporting pay provisions.
         197.   Civil penalty.
         198.   Costs, remedies.
         198-a. Criminal penalties.

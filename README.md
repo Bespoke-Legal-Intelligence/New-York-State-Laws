@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 4 Sep 2026.*
+*Current through the publication of 11 Sep 2026.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [11 Sep 2026](changes/2026/2026-09-11.md): Civil Service Law; Education Law; General Municipal Law; Labor Law; Military Law; Retirement and Social Security Law; Workers' Compensation Law
 - [4 Sep 2026](changes/2026/2026-09-04.md): Business Corporation Law; Correction Law; Environmental Conservation Law; Financial Services Law; General Associations Law; General Municipal Law; Labor Law; Limited Liability Company Law; Local Finance Law; Medical Care Facilities Finance Agency; Not-for-Profit Corporation Law; Partnership Law; Public Authorities Law; Public Housing Law; Public Officers Law; Real Property Law; Tax Law
 - [28 Aug 2026](changes/2026/2026-08-28.md): Alcoholic Beverage Control Law; Criminal Procedure Law; Education Law; Executive Law; Insurance Law; Judiciary Law; Multiple Dwelling Law; Penal Law; Public Health Law; Tax Law; Vehicle and Traffic Law
 - [21 Aug 2026](changes/2026/2026-08-21.md): Elder Law; Environmental Conservation Law; Family Court Act; Judiciary Law; Public Officers Law; Vehicle and Traffic Law
@@ -22,7 +23,6 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [31 Jul 2026](changes/2026/2026-07-31.md): Alcoholic Beverage Control Law; Criminal Procedure Law; General Business Law; Public Health Law
 - [24 Jul 2026](changes/2026/2026-07-24.md): Highway Law; Racing, Pari-Mutuel Wagering and Breeding Law
 - [10 Jul 2026](changes/2026/2026-07-10.md): Social Services Law; Tax Law
-- [3 Jul 2026](changes/2026/2026-07-03.md): Agriculture and Markets Law; Arts and Cultural Affairs Law; Civil Practice Law and Rules; Civil Rights Law; Economic Development Law; Education Law; Environmental Conservation Law; Executive Law; General Municipal Law; Insurance Law; Judiciary Law; Labor Law; Local Finance Law; NYS Financial Emergency Act for the city of NY; Navigation Law; New York City Civil Court Act; Personal Property Law; Public Health Law; Public Officers Law; Public Service Law; Real Property Actions and Proceedings Law; Real Property Tax Law; Retirement and Social Security Law; Social Services Law; State Finance Law; Vehicle and Traffic Law
 
 ## Most changed in the past 12 months
 
@@ -31,18 +31,18 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Tax Law](consolidated-laws/tax-law/README.md) | 277 |
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | 272 |
 | [Uniform Commercial Code](consolidated-laws/uniform-commercial-code/README.md) | 212 |
-| [Education Law](consolidated-laws/education-law/README.md) | 192 |
+| [Education Law](consolidated-laws/education-law/README.md) | 191 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | 185 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | 105 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 87 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 70 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 69 |
+| [Labor Law](consolidated-laws/labor-law/README.md) | 66 |
 | [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | 62 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | 61 |
-| [Labor Law](consolidated-laws/labor-law/README.md) | 58 |
 | [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 49 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 49 |
 | [State Finance Law](consolidated-laws/state-finance-law/README.md) | 48 |
-| [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 45 |
+| [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 46 |
 
 ## Consolidated Laws
 
@@ -60,7 +60,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Cannabis Law](consolidated-laws/cannabis-law/README.md) | CAN | 107 | 7 Aug 2026 |
 | [Civil Practice Law and Rules](consolidated-laws/civil-practice-law-and-rules/README.md) | CVP | 814 | 3 Jul 2026 |
 | [Civil Rights Law](consolidated-laws/civil-rights-law/README.md) | CVR | 138 | 3 Jul 2026 |
-| [Civil Service Law](consolidated-laws/civil-service-law/README.md) | CVS | 176 | 19 Jun 2026 |
+| [Civil Service Law](consolidated-laws/civil-service-law/README.md) | CVS | 177 | 11 Sep 2026 |
 | [Cooperative Corporations Law](consolidated-laws/cooperative-corporations-law/README.md) | CCO | 64 | 20 Dec 2019 |
 | [Correction Law](consolidated-laws/correction-law/README.md) | COR | 341 | 4 Sep 2026 |
 | [County Law](consolidated-laws/county-law/README.md) | CNT | 409 | 29 May 2026 |
@@ -68,7 +68,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Debtor and Creditor Law](consolidated-laws/debtor-and-creditor-law/README.md) | DCD | 194 | 28 Nov 2025 |
 | [Domestic Relations Law](consolidated-laws/domestic-relations-law/README.md) | DOM | 175 | 7 Aug 2026 |
 | [Economic Development Law](consolidated-laws/economic-development-law/README.md) | COM | 222 | 3 Jul 2026 |
-| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,947 | 28 Aug 2026 |
+| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,947 | 11 Sep 2026 |
 | [Elder Law](consolidated-laws/elder-law/README.md) | ELD | 48 | 21 Aug 2026 |
 | [Election Law](consolidated-laws/election-law/README.md) | ELN | 457 | 12 Jun 2026 |
 | [Eminent Domain Procedure Law](consolidated-laws/eminent-domain-procedure-law/README.md) | EDP | 50 | 3 May 2024 |
@@ -82,19 +82,19 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [General Business Law](consolidated-laws/general-business-law/README.md) | GBS | 1,444 | 31 Jul 2026 |
 | [General City Law](consolidated-laws/general-city-law/README.md) | GCT | 207 | 26 Dec 2025 |
 | [General Construction Law](consolidated-laws/general-construction-law/README.md) | GCN | 97 | 12 Dec 2025 |
-| [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | GMU | 1,091 | 4 Sep 2026 |
+| [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | GMU | 1,091 | 11 Sep 2026 |
 | [General Obligations Law](consolidated-laws/general-obligations-law/README.md) | GOB | 209 | 21 Nov 2025 |
 | [Highway Law](consolidated-laws/highway-law/README.md) | HAY | 749 | 7 Aug 2026 |
 | [Indian Law](consolidated-laws/indian-law/README.md) | IND | 98 | 27 Feb 2026 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | ISC | 1,072 | 28 Aug 2026 |
 | [Judiciary Law](consolidated-laws/judiciary-law/README.md) | JUD | 543 | 28 Aug 2026 |
-| [Labor Law](consolidated-laws/labor-law/README.md) | LAB | 774 | 4 Sep 2026 |
+| [Labor Law](consolidated-laws/labor-law/README.md) | LAB | 772 | 11 Sep 2026 |
 | [Legislative Law](consolidated-laws/legislative-law/README.md) | LEG | 128 | 29 May 2026 |
 | [Lien Law](consolidated-laws/lien-law/README.md) | LIE | 175 | 24 Apr 2020 |
 | [Limited Liability Company Law](consolidated-laws/limited-liability-company-law/README.md) | LLC | 124 | 4 Sep 2026 |
 | [Local Finance Law](consolidated-laws/local-finance-law/README.md) | LFN | 164 | 4 Sep 2026 |
 | [Mental Hygiene Law](consolidated-laws/mental-hygiene-law/README.md) | MHY | 520 | 26 Jun 2026 |
-| [Military Law](consolidated-laws/military-law/README.md) | MIL | 306 | 3 Apr 2026 |
+| [Military Law](consolidated-laws/military-law/README.md) | MIL | 306 | 11 Sep 2026 |
 | [Multiple Dwelling Law](consolidated-laws/multiple-dwelling-law/README.md) | MDW | 193 | 28 Aug 2026 |
 | [Multiple Residence Law](consolidated-laws/multiple-residence-law/README.md) | MRE | 106 | 1 May 2026 |
 | [Municipal Home Rule Law](consolidated-laws/municipal-home-rule-law/README.md) | MHR | 35 | 29 May 2026 |
@@ -121,7 +121,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Real Property Law](consolidated-laws/real-property-law/README.md) | RPP | 463 | 4 Sep 2026 |
 | [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | RPT | 811 | 7 Aug 2026 |
 | [Religious Corporations Law](consolidated-laws/religious-corporations-law/README.md) | RCO | 337 | 19 Dec 2025 |
-| [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | RSS | 574 | 3 Jul 2026 |
+| [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | RSS | 574 | 11 Sep 2026 |
 | [Rural Electric Cooperative Law](consolidated-laws/rural-electric-cooperative-law/README.md) | REL | 46 | 9 Jul 2021 |
 | [Second Class Cities Law](consolidated-laws/second-class-cities-law/README.md) | SCC | 147 | 19 Jun 2026 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | SOS | 728 | 10 Jul 2026 |
@@ -141,7 +141,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Village Law](consolidated-laws/village-law/README.md) | VIL | 243 | 12 Dec 2025 |
 | [Volunteer Ambulance Workers' Benefit Law](consolidated-laws/volunteer-ambulance-workers-benefit-law/README.md) | VAW | 55 | 22 Sep 2023 |
 | [Volunteer Firefighters' Benefit Law](consolidated-laws/volunteer-firefighters-benefit-law/README.md) | VOL | 59 | 15 May 2026 |
-| [Workers' Compensation Law](consolidated-laws/workers-compensation-law/README.md) | WKC | 320 | 29 May 2026 |
+| [Workers' Compensation Law](consolidated-laws/workers-compensation-law/README.md) | WKC | 320 | 11 Sep 2026 |
 
 ## Unconsolidated Laws
 
