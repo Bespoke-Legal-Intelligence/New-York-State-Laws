@@ -4,7 +4,7 @@
 [Surrogate's Court Procedure Act](../README.md) › [Article 2 — Jurisdiction and Powers](README.md)
 
 ```text
-§ 212. Service of process
+  § 212. Service of process
   All processes of the court may be served and executed in any part of
 the state and without the state when authorized by law.
 ```

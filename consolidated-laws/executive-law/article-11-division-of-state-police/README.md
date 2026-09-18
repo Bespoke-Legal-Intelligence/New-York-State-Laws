@@ -54,6 +54,7 @@
 - [§ 233 Municipal gun buyback program](233-municipal-gun-buyback-program.md)
 - [§ 234 New York state police body-worn cameras program](234-new-york-state-police-body-worn-cameras-program.md)
 - [§ 235 Firearms safety training, and licensing appeals](235-firearms-safety-training-and-licensing-appeals.md)
+- [§ 236 Drones](236-drones.md)
 
 <details>
 <summary>Official heading of Article 11, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
