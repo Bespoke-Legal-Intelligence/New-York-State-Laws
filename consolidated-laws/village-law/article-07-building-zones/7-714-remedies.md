@@ -4,7 +4,7 @@
 [Village Law](../README.md) › [Article 7 — Building Zones](README.md)
 
 ```text
-  § 7-714 Remedies. In case any building or structure is erected,
+  § 7-714. Remedies. In case any building or structure is erected,
 constructed, reconstructed, altered, repaired, converted, or maintained;
 or any building, structure or land is used, or any land is divided into
 lots, blocks or sites in violation of this act, or of any local law or

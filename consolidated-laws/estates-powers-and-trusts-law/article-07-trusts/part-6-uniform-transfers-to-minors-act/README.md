@@ -36,7 +36,7 @@
 <summary>Official heading of Part 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                 PART 6
+                                 PART 6.
                      UNIFORM TRANSFERS TO MINORS ACT
 Section
 7-6.1  Definitions.

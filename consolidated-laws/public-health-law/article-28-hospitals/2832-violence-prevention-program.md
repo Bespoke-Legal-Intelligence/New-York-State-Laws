@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 28 — Hospitals](README.md)
 
 ```text
-  * § 2832. Violence prevention program. 1. For the purposes of this
+  § 2832. Violence prevention program. 1. For the purposes of this
 section, the term "facility" shall mean a general hospital or a nursing
 home as defined in section twenty-eight hundred one of this article.
   2. Within twelve months of the effective date of this section, every
@@ -79,5 +79,4 @@ nursing home with the federal regulations 42 CFR 483.71(a)(3) and
 (b)(1), and 42 CFR 483.73(a)(1), governing nursing homes shall satisfy
 the requirements of this section for such facilities, provided that such
 assessments and plans address workplace violence threats and hazards.
-  * NB Effective September 18, 2026
 ```

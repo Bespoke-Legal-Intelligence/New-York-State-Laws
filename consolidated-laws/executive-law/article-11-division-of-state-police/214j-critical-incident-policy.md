@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 11 — Division of State Police](README.md)
 
 ```text
-  * § 214-j. Critical incident policy. 1. As used in this section, the
+  § 214-j. Critical incident policy. 1. As used in this section, the
 following terms shall have the following meanings:
   (a) "Critical incident" shall mean the following actions when
 performed by a member or experienced by a member in the course of
@@ -80,5 +80,4 @@ fraud, deceit, or misrepresentation.
   7. The superintendent is authorized to promulgate rules and
 regulations to implement, administer, and enforce the provisions of this
 section.
-  * NB Effective September 24, 2026
 ```

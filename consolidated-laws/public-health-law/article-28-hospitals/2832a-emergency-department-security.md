@@ -4,10 +4,10 @@
 [Public Health Law](../README.md) › [Article 28 — Hospitals](README.md)
 
 ```text
-  * § 2832-a. Emergency department security. 1. A general hospital
-located in a city or county with a population of one million or more
-shall be required to have at least one off-duty law enforcement officer
-or trained security personnel be present at all times in the emergency
+  § 2832-a. Emergency department security. 1. A general hospital located
+in a city or county with a population of one million or more shall be
+required to have at least one off-duty law enforcement officer or
+trained security personnel be present at all times in the emergency
 department, subject to emergent circumstance in any hospital that
 requires an adjustment in personnel.
   2. A general hospital located in a city or county with a population
@@ -29,5 +29,4 @@ times in a manner that prioritizes physical presence near, or within
 close proximity to, the emergency department of such hospital with
 direct responsibility to the emergency department, over a reasonable
 period of time.
-  * NB Effective September 18, 2026
 ```
