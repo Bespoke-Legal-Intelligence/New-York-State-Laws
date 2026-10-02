@@ -482,8 +482,8 @@ percent for the counties of Rensselaer, Erie, Cattaraugus, Chautauqua,
 Wyoming, Ulster, Albany, Suffolk, Essex, Greene, Orleans, Franklin,
 Hamilton, Herkimer, Jefferson, Genesee, Columbia, Schuyler, Chenango,
 Monroe, Steuben, Chemung, Seneca, Livingston, Niagara, Yates, Tioga,
-Montgomery, Delaware, Wayne, Schoharie, Putnam, Clinton, St. Lawrence
-and Onondaga and the cities of Mount Vernon and New Rochelle;
+Montgomery, Delaware, Wayne, Schoharie, Putnam, Clinton, St. Lawrence,
+Cortland and Onondaga and the cities of Mount Vernon and New Rochelle;
 three-quarters of one percent for the counties of Dutchess, Lewis, and
 Orange; one percent and three-quarters of one percent or one-half of one
 percent for the county of Oneida; three-quarters of one percent and
@@ -505,19 +505,19 @@ percent for the counties of Rensselaer, Erie, Cattaraugus, Chautauqua,
 Wyoming, Ulster, Albany, Suffolk, Essex, Greene, Orleans, Franklin,
 Hamilton, Herkimer, Jefferson, Genesee, Columbia, Schuyler, Chenango,
 Monroe, Steuben, Chemung, Seneca, Livingston, Niagara, Yates, Tioga,
-Montgomery, Delaware, Wayne, Schoharie, Putnam, Clinton, St. Lawrence
-and Onondaga and the cities of Yonkers, Mount Vernon and New Rochelle;
-three-quarters of one percent for the counties of Dutchess, Lewis, and
-Orange; one percent and three-quarters of one percent or one-half of one
-percent for the county of Oneida; three-quarters of one percent and
-one-half of one percent for the county of Nassau; one-half of one
-percent and one-quarter of one percent and one-quarter of one percent
-for the city of White Plains; one-half or one percent for the county of
-Tompkins; three-eighths of one percent and five-eighths of one percent
-for the county of Rockland; one-half of one percent for the counties of
-Putnam and Schenectady; one-eighth of one percent and three-eighths of
-one percent for the county of Ontario; and one-half of one percent and
-one-half of one percent for the county of Sullivan;
+Montgomery, Delaware, Wayne, Schoharie, Putnam, Clinton, St. Lawrence,
+Cortland and Onondaga and the cities of Yonkers, Mount Vernon and New
+Rochelle; three-quarters of one percent for the counties of Dutchess,
+Lewis, and Orange; one percent and three-quarters of one percent or
+one-half of one percent for the county of Oneida; three-quarters of one
+percent and one-half of one percent for the county of Nassau; one-half
+of one percent and one-quarter of one percent and one-quarter of one
+percent for the city of White Plains; one-half or one percent for the
+county of Tompkins; three-eighths of one percent and five-eighths of one
+percent for the county of Rockland; one-half of one percent for the
+counties of Putnam and Schenectady; one-eighth of one percent and
+three-eighths of one percent for the county of Ontario; and one-half of
+one percent and one-half of one percent for the county of Sullivan;
   * NB Effective November 30, 2027
   (iv) with respect to certain counties in the metropolitan commuter
 transportation district, if the county of Dutchess, the county of Orange

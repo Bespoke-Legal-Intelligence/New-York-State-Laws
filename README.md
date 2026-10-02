@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 25 Sep 2026.*
+*Current through the publication of 2 Oct 2026.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [2 Oct 2026](changes/2026/2026-10-02.md): Criminal Procedure Law; Education Law; Executive Law; Insurance Law; Public Authorities Law; Real Property Tax Law; Retirement and Social Security Law; Social Services Law; State Finance Law; Tax Law
 - [25 Sep 2026](changes/2026/2026-09-25.md): Education Law; Estates, Powers and Trusts Law; Executive Law; Public Health Law; Village Law
 - [18 Sep 2026](changes/2026/2026-09-18.md): Executive Law; Public Officers Law; Surrogate's Court Procedure Act; Vehicle and Traffic Law
 - [11 Sep 2026](changes/2026/2026-09-11.md): Civil Service Law; Education Law; General Municipal Law; Labor Law; Military Law; Retirement and Social Security Law; Workers' Compensation Law
@@ -22,27 +23,26 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [28 Aug 2026](changes/2026/2026-08-28.md): Alcoholic Beverage Control Law; Criminal Procedure Law; Education Law; Executive Law; Insurance Law; Judiciary Law; Multiple Dwelling Law; Penal Law; Public Health Law; Tax Law; Vehicle and Traffic Law
 - [21 Aug 2026](changes/2026/2026-08-21.md): Elder Law; Environmental Conservation Law; Family Court Act; Judiciary Law; Public Officers Law; Vehicle and Traffic Law
 - [7 Aug 2026](changes/2026/2026-08-07.md): Cannabis Law; Domestic Relations Law; Education Law; Highway Law; Navigation Law; Private Housing Finance Law; Public Health Law; Real Property Tax Law; Tax Law; Town Law
-- [31 Jul 2026](changes/2026/2026-07-31.md): Alcoholic Beverage Control Law; Criminal Procedure Law; General Business Law; Public Health Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
-| [Tax Law](consolidated-laws/tax-law/README.md) | 277 |
+| [Tax Law](consolidated-laws/tax-law/README.md) | 280 |
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | 269 |
 | [Uniform Commercial Code](consolidated-laws/uniform-commercial-code/README.md) | 212 |
-| [Education Law](consolidated-laws/education-law/README.md) | 191 |
+| [Education Law](consolidated-laws/education-law/README.md) | 195 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | 185 |
-| [Insurance Law](consolidated-laws/insurance-law/README.md) | 102 |
+| [Insurance Law](consolidated-laws/insurance-law/README.md) | 103 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 96 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 71 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 73 |
 | [Labor Law](consolidated-laws/labor-law/README.md) | 63 |
+| [Social Services Law](consolidated-laws/social-services-law/README.md) | 62 |
 | [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | 62 |
-| [Social Services Law](consolidated-laws/social-services-law/README.md) | 61 |
-| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 49 |
+| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 51 |
+| [State Finance Law](consolidated-laws/state-finance-law/README.md) | 49 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 49 |
-| [State Finance Law](consolidated-laws/state-finance-law/README.md) | 48 |
-| [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 44 |
+| [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | 45 |
 
 ## Consolidated Laws
 
@@ -64,11 +64,11 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Cooperative Corporations Law](consolidated-laws/cooperative-corporations-law/README.md) | CCO | 64 | 20 Dec 2019 |
 | [Correction Law](consolidated-laws/correction-law/README.md) | COR | 341 | 4 Sep 2026 |
 | [County Law](consolidated-laws/county-law/README.md) | CNT | 409 | 29 May 2026 |
-| [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | CPL | 591 | 28 Aug 2026 |
+| [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | CPL | 591 | 2 Oct 2026 |
 | [Debtor and Creditor Law](consolidated-laws/debtor-and-creditor-law/README.md) | DCD | 194 | 28 Nov 2025 |
 | [Domestic Relations Law](consolidated-laws/domestic-relations-law/README.md) | DOM | 175 | 7 Aug 2026 |
 | [Economic Development Law](consolidated-laws/economic-development-law/README.md) | COM | 222 | 3 Jul 2026 |
-| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,947 | 25 Sep 2026 |
+| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,947 | 2 Oct 2026 |
 | [Elder Law](consolidated-laws/elder-law/README.md) | ELD | 48 | 21 Aug 2026 |
 | [Election Law](consolidated-laws/election-law/README.md) | ELN | 457 | 12 Jun 2026 |
 | [Eminent Domain Procedure Law](consolidated-laws/eminent-domain-procedure-law/README.md) | EDP | 50 | 3 May 2024 |
@@ -76,7 +76,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Energy Law](consolidated-laws/energy-law/README.md) | ENG | 70 | 26 Dec 2025 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,851 | 4 Sep 2026 |
 | [Estates, Powers and Trusts Law](consolidated-laws/estates-powers-and-trusts-law/README.md) | EPT | 370 | 25 Sep 2026 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 950 | 25 Sep 2026 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 950 | 2 Oct 2026 |
 | [Financial Services Law](consolidated-laws/financial-services-law/README.md) | FIS | 77 | 4 Sep 2026 |
 | [General Associations Law](consolidated-laws/general-associations-law/README.md) | GAS | 24 | 4 Sep 2026 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | GBS | 1,444 | 31 Jul 2026 |
@@ -86,7 +86,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [General Obligations Law](consolidated-laws/general-obligations-law/README.md) | GOB | 209 | 21 Nov 2025 |
 | [Highway Law](consolidated-laws/highway-law/README.md) | HAY | 749 | 7 Aug 2026 |
 | [Indian Law](consolidated-laws/indian-law/README.md) | IND | 98 | 27 Feb 2026 |
-| [Insurance Law](consolidated-laws/insurance-law/README.md) | ISC | 1,072 | 28 Aug 2026 |
+| [Insurance Law](consolidated-laws/insurance-law/README.md) | ISC | 1,072 | 2 Oct 2026 |
 | [Judiciary Law](consolidated-laws/judiciary-law/README.md) | JUD | 543 | 28 Aug 2026 |
 | [Labor Law](consolidated-laws/labor-law/README.md) | LAB | 772 | 11 Sep 2026 |
 | [Legislative Law](consolidated-laws/legislative-law/README.md) | LEG | 128 | 29 May 2026 |
@@ -107,7 +107,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Penal Law](consolidated-laws/penal-law/README.md) | PEN | 897 | 28 Aug 2026 |
 | [Personal Property Law](consolidated-laws/personal-property-law/README.md) | PEP | 135 | 3 Jul 2026 |
 | [Private Housing Finance Law](consolidated-laws/private-housing-finance-law/README.md) | PVH | 444 | 7 Aug 2026 |
-| [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | PBA | 3,272 | 4 Sep 2026 |
+| [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | PBA | 3,273 | 2 Oct 2026 |
 | [Public Buildings Law](consolidated-laws/public-buildings-law/README.md) | PBB | 57 | 19 Dec 2025 |
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,805 | 25 Sep 2026 |
 | [Public Housing Law](consolidated-laws/public-housing-law/README.md) | PBG | 379 | 4 Sep 2026 |
@@ -119,19 +119,19 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Rapid Transit Law](consolidated-laws/rapid-transit-law/README.md) | RAT | 79 | 26 Jun 2026 |
 | [Real Property Actions and Proceedings Law](consolidated-laws/real-property-actions-and-proceedings-law/README.md) | RPA | 365 | 3 Jul 2026 |
 | [Real Property Law](consolidated-laws/real-property-law/README.md) | RPP | 463 | 4 Sep 2026 |
-| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | RPT | 811 | 7 Aug 2026 |
+| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | RPT | 811 | 2 Oct 2026 |
 | [Religious Corporations Law](consolidated-laws/religious-corporations-law/README.md) | RCO | 337 | 19 Dec 2025 |
-| [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | RSS | 574 | 11 Sep 2026 |
+| [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | RSS | 574 | 2 Oct 2026 |
 | [Rural Electric Cooperative Law](consolidated-laws/rural-electric-cooperative-law/README.md) | REL | 46 | 9 Jul 2021 |
 | [Second Class Cities Law](consolidated-laws/second-class-cities-law/README.md) | SCC | 147 | 19 Jun 2026 |
-| [Social Services Law](consolidated-laws/social-services-law/README.md) | SOS | 728 | 10 Jul 2026 |
+| [Social Services Law](consolidated-laws/social-services-law/README.md) | SOS | 728 | 2 Oct 2026 |
 | [Soil and Water Conservation Districts Law](consolidated-laws/soil-and-water-conservation-districts-law/README.md) | SWC | 18 | 28 Apr 2023 |
 | [State Administrative Procedure Act](consolidated-laws/state-administrative-procedure-act/README.md) | SAP | 33 | 15 Aug 2025 |
-| [State Finance Law](consolidated-laws/state-finance-law/README.md) | STF | 579 | 3 Jul 2026 |
+| [State Finance Law](consolidated-laws/state-finance-law/README.md) | STF | 579 | 2 Oct 2026 |
 | [State Law](consolidated-laws/state-law/README.md) | STL | 100 | 9 Jan 2026 |
 | [State Technology Law](consolidated-laws/state-technology-law/README.md) | STT | 43 | 6 Mar 2026 |
 | [Statute of Local Governments](consolidated-laws/statute-of-local-governments/README.md) | SLG | 9 | no change since 22 Sep 2014 (start of history) |
-| [Tax Law](consolidated-laws/tax-law/README.md) | TAX | 1,429 | 4 Sep 2026 |
+| [Tax Law](consolidated-laws/tax-law/README.md) | TAX | 1,429 | 2 Oct 2026 |
 | [Town Law](consolidated-laws/town-law/README.md) | TWN | 365 | 7 Aug 2026 |
 | [Transportation Corporations Law](consolidated-laws/transportation-corporations-law/README.md) | TCP | 73 | 10 Apr 2026 |
 | [Transportation Law](consolidated-laws/transportation-law/README.md) | TRA | 326 | 19 Dec 2025 |

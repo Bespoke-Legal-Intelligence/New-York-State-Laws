@@ -4,17 +4,10 @@
 [Social Services Law](../../README.md) › [Article 6 — Children](../README.md) › [Title 5-C — Block Grant For Child Care](README.md)
 
 ```text
-  * § 410-z. Reporting requirements. Each social services district shall
-collect and submit to the department, in such form and at such times as
-specified by the department, such data and information regarding child
-care assistance provided under the block grant as the department may
-need to comply with federal reporting requirements.
-  * NB Effective until October 1, 2026
-  * § 410-z. Reporting requirements. Each social services district shall
+  § 410-z. Reporting requirements. Each social services district shall
 collect and submit to the office of children and family services, in
 such form and at such times as specified by the office of children and
 family services, such data and information regarding child care
 assistance provided under the block grant as the office of children and
 family services may need to comply with federal reporting requirements.
-  * NB Effective October 1, 2026
 ```

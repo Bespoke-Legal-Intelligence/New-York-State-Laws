@@ -759,4 +759,15 @@ three percent rate referred to in this section shall be calculated
 without reference to the additional one percent rate of tax which the
 county of Westchester is authorized and empowered to adopt pursuant to
 section twelve hundred ten of this article.
+  (kk) The county of Cortland shall have the sole right to impose the
+additional one percent rate of tax which such county is authorized to
+impose pursuant to the authority of section twelve hundred ten of this
+article. Such additional rate of tax shall be in addition to any other
+tax which such county may impose or may be imposing pursuant to this
+article or any other law and such additional rate of tax shall not be
+subject to preemption. The maximum three percent rate referred to in
+this section shall be calculated without reference to the additional one
+percent rate of tax which the county of Cortland is authorized and
+empowered to adopt pursuant to section twelve hundred ten of this
+article.
 ```
