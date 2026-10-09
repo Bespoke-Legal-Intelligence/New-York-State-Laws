@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 2 Oct 2026.*
+*Current through the publication of 9 Oct 2026.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [9 Oct 2026](changes/2026/2026-10-09.md): Public Health Law; Transportation Law
 - [2 Oct 2026](changes/2026/2026-10-02.md): Criminal Procedure Law; Education Law; Executive Law; Insurance Law; Public Authorities Law; Real Property Tax Law; Retirement and Social Security Law; Social Services Law; State Finance Law; Tax Law
 - [25 Sep 2026](changes/2026/2026-09-25.md): Education Law; Estates, Powers and Trusts Law; Executive Law; Public Health Law; Village Law
 - [18 Sep 2026](changes/2026/2026-09-18.md): Executive Law; Public Officers Law; Surrogate's Court Procedure Act; Vehicle and Traffic Law
@@ -22,7 +23,6 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [4 Sep 2026](changes/2026/2026-09-04.md): Business Corporation Law; Correction Law; Environmental Conservation Law; Financial Services Law; General Associations Law; General Municipal Law; Labor Law; Limited Liability Company Law; Local Finance Law; Medical Care Facilities Finance Agency; Not-for-Profit Corporation Law; Partnership Law; Public Authorities Law; Public Housing Law; Public Officers Law; Real Property Law; Tax Law
 - [28 Aug 2026](changes/2026/2026-08-28.md): Alcoholic Beverage Control Law; Criminal Procedure Law; Education Law; Executive Law; Insurance Law; Judiciary Law; Multiple Dwelling Law; Penal Law; Public Health Law; Tax Law; Vehicle and Traffic Law
 - [21 Aug 2026](changes/2026/2026-08-21.md): Elder Law; Environmental Conservation Law; Family Court Act; Judiciary Law; Public Officers Law; Vehicle and Traffic Law
-- [7 Aug 2026](changes/2026/2026-08-07.md): Cannabis Law; Domestic Relations Law; Education Law; Highway Law; Navigation Law; Private Housing Finance Law; Public Health Law; Real Property Tax Law; Tax Law; Town Law
 
 ## Most changed in the past 12 months
 
@@ -31,17 +31,17 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Tax Law](consolidated-laws/tax-law/README.md) | 280 |
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | 269 |
 | [Uniform Commercial Code](consolidated-laws/uniform-commercial-code/README.md) | 212 |
-| [Education Law](consolidated-laws/education-law/README.md) | 195 |
+| [Education Law](consolidated-laws/education-law/README.md) | 193 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | 185 |
-| [Insurance Law](consolidated-laws/insurance-law/README.md) | 103 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 96 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 73 |
+| [Insurance Law](consolidated-laws/insurance-law/README.md) | 96 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 71 |
 | [Labor Law](consolidated-laws/labor-law/README.md) | 63 |
-| [Social Services Law](consolidated-laws/social-services-law/README.md) | 62 |
-| [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | 62 |
+| [Social Services Law](consolidated-laws/social-services-law/README.md) | 60 |
+| [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | 60 |
 | [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 51 |
-| [State Finance Law](consolidated-laws/state-finance-law/README.md) | 49 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 49 |
+| [State Finance Law](consolidated-laws/state-finance-law/README.md) | 48 |
 | [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | 45 |
 
 ## Consolidated Laws
@@ -109,7 +109,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Private Housing Finance Law](consolidated-laws/private-housing-finance-law/README.md) | PVH | 444 | 7 Aug 2026 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | PBA | 3,273 | 2 Oct 2026 |
 | [Public Buildings Law](consolidated-laws/public-buildings-law/README.md) | PBB | 57 | 19 Dec 2025 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,805 | 25 Sep 2026 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,805 | 9 Oct 2026 |
 | [Public Housing Law](consolidated-laws/public-housing-law/README.md) | PBG | 379 | 4 Sep 2026 |
 | [Public Lands Law](consolidated-laws/public-lands-law/README.md) | PBL | 78 | 23 Dec 2022 |
 | [Public Officers Law](consolidated-laws/public-officers-law/README.md) | PBO | 116 | 18 Sep 2026 |
@@ -134,7 +134,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Tax Law](consolidated-laws/tax-law/README.md) | TAX | 1,429 | 2 Oct 2026 |
 | [Town Law](consolidated-laws/town-law/README.md) | TWN | 365 | 7 Aug 2026 |
 | [Transportation Corporations Law](consolidated-laws/transportation-corporations-law/README.md) | TCP | 73 | 10 Apr 2026 |
-| [Transportation Law](consolidated-laws/transportation-law/README.md) | TRA | 326 | 19 Dec 2025 |
+| [Transportation Law](consolidated-laws/transportation-law/README.md) | TRA | 326 | 9 Oct 2026 |
 | [Uniform Commercial Code](consolidated-laws/uniform-commercial-code/README.md) | UCC | 650 | 12 Jun 2026 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | VAT | 990 | 18 Sep 2026 |
 | [Veterans' Services Law](consolidated-laws/veterans-services-law/README.md) | VET | 46 | 8 May 2026 |
