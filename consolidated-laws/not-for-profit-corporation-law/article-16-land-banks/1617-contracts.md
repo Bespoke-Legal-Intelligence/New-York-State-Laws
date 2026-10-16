@@ -4,7 +4,7 @@
 [Not-for-Profit Corporation Law](../README.md) › [Article 16 — Land Banks](README.md)
 
 ```text
-  § 1617. Contracts.
+§ 1617. Contracts.
   (a) The land bank may, in its discretion, assign contracts for
 supervision and coordination to the successful bidder for any
 subdivision of work for which the land bank receives bids. Any
