@@ -40,6 +40,7 @@
 - [§ 265.45 Failure to safely store rifles, shotguns, and firearms in the first degree](265.45-failure-to-safely-store-rifles-shotguns.md)
 - [§ 265.46 Failure to safely store rifles, shotguns, and firearms in the second degree](265.46-failure-to-safely-store-rifles-shotguns.md)
 - [§ 265.50 Criminal manufacture, sale, or transport of an undetectable firearm, rifle or shotgun](265.50-criminal-manufacture-sale-or-transport.md)
+- [§ 265.51 Failure to safely store rifles, shotguns, and firearms when accessible by a minor or prohibited person](265.51-failure-to-safely-store-rifles-shotguns.md)
 - [§ 265.55 Criminal possession of an undetectable firearm, rifle or shotgun](265.55-criminal-possession-of-an-undetectable-firearm.md)
 - [§ 265.60 Criminal sale of a ghost gun in the second degree](265.60-criminal-sale-of-a-ghost-gun-in-the-second.md)
 - [§ 265.61 Criminal sale of a ghost gun in the first degree](265.61-criminal-sale-of-a-ghost-gun-in-the-first.md)
@@ -101,6 +102,8 @@ Section 265.00   Definitions.
                    in the second degree.
         265.50   Criminal manufacture, sale, or transport of an
                    undetectable firearm, rifle or shotgun.
+        265.51   Failure to safely store rifles, shotguns, and firearms
+                   when accessible by a minor or prohibited person.
         265.55   Criminal possession of an undetectable firearm, rifle
                    or shotgun.
         265.60   Criminal sale of a ghost gun in the second degree.

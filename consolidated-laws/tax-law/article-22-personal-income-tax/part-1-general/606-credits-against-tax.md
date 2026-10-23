@@ -1766,7 +1766,7 @@ each county; and of those, the number of credits and the amount of such
 credits allowed to qualified taxpayers whose federal adjusted gross
 income falls within each of the federal adjusted gross income ranges set
 forth in paragraph three of this subsection.
-  (e-1) Volunteer firefighters' and ambulance workers' credit. (1) For
+  * (e-1) Volunteer firefighters' and ambulance workers' credit. (1) For
 taxable years beginning on and after January first, two thousand seven,
 a resident taxpayer who serves as an active volunteer firefighter as
 defined in subdivision one of section two hundred fifteen of the general
@@ -1795,6 +1795,54 @@ taxable year shall exceed the taxpayer's tax for such year, the excess
 shall be treated as an overpayment of tax to be credited or refunded in
 accordance with the provisions of section six hundred eighty-six of this
 article, provided, however, that no interest shall be paid thereon.
+  * NB Effective until April 1, 2027
+  * (e-1) Volunteer firefighters' and ambulance workers' credit. (1) For
+taxable years beginning on and after January first, two thousand seven
+and before January first, two thousand twenty-six, a resident taxpayer
+who serves as an active volunteer firefighter as defined in subdivision
+one of section two hundred fifteen of the general municipal law or as a
+volunteer ambulance worker as defined in subdivision fourteen of section
+two hundred nineteen-k of the general municipal law shall be allowed a
+credit against the tax imposed by this article equal to two hundred
+dollars. For taxable years beginning on and after January first, two
+thousand twenty-six, a resident taxpayer who serves as an active
+volunteer firefighter as defined in subdivision one of section two
+hundred fifteen of the general municipal law or as a volunteer ambulance
+worker as defined in subdivision fourteen of section two hundred
+nineteen-k of the general municipal law shall be allowed a credit
+against the tax imposed by this article equal to eight hundred dollars.
+In order to receive this credit a volunteer firefighter or volunteer
+ambulance worker must have been active for the entire taxable year for
+which the credit is sought.
+  (2) For taxable years beginning before January first, two thousand
+twenty-six, if a taxpayer receives a real property tax exemption
+relating to such service under title two of article four of the real
+property tax law, such taxpayer shall not be eligible for this credit;
+provided, however (A) if the taxpayer receives such real property tax
+exemption in the two thousand seven taxable year as a result of making
+application therefor in a prior year or (B) if the taxpayer notifies
+such taxpayer's assessor in writing by December thirty-first, two
+thousand seven of the taxpayer's intent to discontinue such real
+property tax exemption by not re-applying for such real property tax
+exemption by the next taxable status date, such taxpayer shall be
+eligible for this credit for the two thousand seven taxable year. For
+taxable years beginning on or after January first, two thousand
+twenty-six, a taxpayer is eligible for this credit even if they receive
+a real property tax exemption relating to such service under title two
+of article four of the real property tax law.
+  (3) In the case of spouses who file a joint return and who both
+individually qualify for the credit under this subsection for taxable
+years beginning on and after January first, two thousand seven and
+before January first, two thousand twenty-six, the amount of the credit
+allowed shall be four hundred dollars. For taxable years beginning on
+and after January first, two thousand twenty-six, the amount of the
+credit shall be sixteen hundred dollars.
+  (4) If the amount of the credit allowed under this subsection for any
+taxable year shall exceed the taxpayer's tax for such year, the excess
+shall be treated as an overpayment of tax to be credited or refunded in
+accordance with the provisions of section six hundred eighty-six of this
+article, provided, however, that no interest shall be paid thereon.
+  * NB Effective April 1, 2027
   (e-2) Real property tax relief credit. (1) For purposes of this
 subsection:
   (A) "Qualified taxpayer" means a resident individual of the state who
