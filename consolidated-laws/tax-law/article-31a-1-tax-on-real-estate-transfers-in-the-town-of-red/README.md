@@ -44,7 +44,7 @@ Section 1438-a. Definitions.
         1438-n. Miscellaneous.
         1438-o. Returns to be secret.
         1438-p. Foreclosure proceedings.
-        * NB Repealed December 31, 2026
+        * NB Repealed December 31, 2051
 ```
 
 </details>

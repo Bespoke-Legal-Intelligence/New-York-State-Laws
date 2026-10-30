@@ -8,6 +8,5 @@
 Clarkstown, pursuant to this article, shall provide for a method of
 apportionment for determining the amount of tax due whenever the real
 property or interest therein is situated within and without the town.
-  * NB Effective August 30, 2026
   * NB Repealed December 31, 2046
 ```

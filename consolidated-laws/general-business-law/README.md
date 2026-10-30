@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | GBS |
 | Type | Consolidated law, chapter 20 |
-| Sections | 1,444 (11 repealed) |
-| Last changed | 31 Jul 2026 |
+| Sections | 1,440 |
+| Last changed | 30 Oct 2026 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Business |
 
@@ -29,10 +29,11 @@ AN ACT relating to general business, constituting chapter twenty of the
   Assembly, do enact as follows:
 ```
 
-[Full chapter text (208 lines)](chapter-text.md)
+[Full chapter text (210 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [30 Oct 2026](../../changes/2026/2026-10-30.md): 1 amended, 7 added, 11 removed
 - [31 Jul 2026](../../changes/2026/2026-07-31.md): 9 amended
 - [19 Jun 2026](../../changes/2026/2026-06-19.md): 12 amended, 11 repealed
 - [12 Jun 2026](../../changes/2026/2026-06-12.md): 3 amended
@@ -42,7 +43,6 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [24 Apr 2026](../../changes/2026/2026-04-24.md): 2 amended
 - [3 Apr 2026](../../changes/2026/2026-04-03.md): 7 amended, 4 added, 1 removed
 - [27 Mar 2026](../../changes/2026/2026-03-27.md): 1 amended
-- [20 Mar 2026](../../changes/2026/2026-03-20.md): 10 amended, 3 added, 1 removed
 
 ## Contents
 
@@ -180,7 +180,6 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 39-F — Notification of Unauthorized Acquisition of Private Information; Data Security Protections](article-39f-notification-of-unauthorized-acquisition/)
 - [Article 39-FF — New York Child Data Protection Act](article-39ff-new-york-child-data-protection-act/)
 - [Article 39-G — Document Destruction Contractors](article-39g-document-destruction-contractors/)
-- [Article 39-H — Third Party Litigation Financing](article-39h-third-party-litigation-financing/) *(repealed)*
 - [Article 40 — Peer-to-peer Car Sharing Programs](article-40-peer-to-peer-car-sharing-programs/)
 - [Article 41 — Combative Sports](article-41-combative-sports/)
 - [Article 42 — Social Media Terms of Service](article-42-social-media-terms-of-service/)
@@ -193,3 +192,4 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 45-B — Safe By Design Act](article-45b-safe-by-design-act/)
 - [Article 46 — Laws Repealed; When to Take Effect](article-46-laws-repealed-when-to-take-effect/)
 - [Article 47 — Artificial Intelligence Companion Models](article-47-artificial-intelligence-companion-models/)
+- [Article 48 — Prohibition On Unsafe Ai Companion Features For Minors](article-48-prohibition-on-unsafe-ai-companion-features/)

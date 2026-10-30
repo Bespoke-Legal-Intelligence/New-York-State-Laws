@@ -23,5 +23,5 @@ to be transferred to an incinerator or landfill for disposal.
   5. Each landfill and transfer station shall post, in a conspicuous
 location at the facility, a sign stating that mercury-added thermostats
 are not accepted at the facility.
-  * NB Repealed January 1, 2027
+  * NB Repealed January 1, 2028
 ```

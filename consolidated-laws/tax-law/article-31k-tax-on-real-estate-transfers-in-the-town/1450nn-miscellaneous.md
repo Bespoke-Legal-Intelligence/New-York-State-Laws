@@ -14,6 +14,5 @@ shall be identical to the corresponding provisions of the real estate
 transfer tax imposed by article thirty-one of this chapter, so far as
 such provisions can be made applicable to the tax imposed pursuant to
 this article.
-  * NB Effective August 30, 2026
   * NB Repealed December 31, 2046
 ```

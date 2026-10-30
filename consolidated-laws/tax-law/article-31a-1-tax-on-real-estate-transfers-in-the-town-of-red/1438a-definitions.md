@@ -133,5 +133,5 @@ three family residential property that has been newly constructed on
 vacant land; or
   (c) the transfer report form indicates that the property is a
 residential condominium.
-  * NB Repealed December 31, 2026
+  * NB Repealed December 31, 2051
 ```

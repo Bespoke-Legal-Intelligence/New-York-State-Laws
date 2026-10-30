@@ -31,6 +31,5 @@ orders them to be destroyed.
 conveyance unless the return required by this section has been filed and
 the tax imposed pursuant to this article shall have been paid as
 required in this section.
-  * NB Effective August 30, 2026
   * NB Repealed December 31, 2046
 ```

@@ -10,6 +10,5 @@ to this article were paid in error, they may cause such moneys to be
 refunded pursuant to such requirements as they may prescribe, provided
 that any application for such refund is filed with the treasurer within
 two years from the date the erroneous payment was made.
-  * NB Effective August 30, 2026
   * NB Repealed December 31, 2046
 ```

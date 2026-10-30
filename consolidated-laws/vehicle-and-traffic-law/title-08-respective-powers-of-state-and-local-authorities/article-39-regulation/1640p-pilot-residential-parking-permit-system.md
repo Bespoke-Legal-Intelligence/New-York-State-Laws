@@ -4,7 +4,7 @@
 [Vehicle and Traffic Law](../../README.md) › [Title 8 — Respective Powers of State and Local Authorities](../README.md) › [Article 39 — Regulation of Traffic By Cities and Villages](README.md)
 
 ```text
-  * § 1640-p. Pilot residential parking permit system in the city of
+  § 1640-p. Pilot residential parking permit system in the city of
 Buffalo. 1. Notwithstanding the provisions of any law to the contrary,
 the city of Buffalo may, by adoption of a local law or ordinance,
 provide for a residential parking permit system and fix and require the
@@ -47,5 +47,4 @@ the city of Buffalo.
   5. No ordinance shall be adopted pursuant to this section until a
 public hearing thereon has been had in the same manner as required for
 public hearings on a local law pursuant to the municipal home rule law.
-  * NB Repealed December 31, 2026
 ```

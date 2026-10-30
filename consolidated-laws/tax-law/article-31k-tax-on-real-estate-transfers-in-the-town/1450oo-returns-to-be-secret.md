@@ -40,6 +40,5 @@ thereon.
 violates the provisions of this section shall be dismissed from office
 and be incapable of holding any public office in this state for a period
 of five years thereafter.
-  * NB Effective August 30, 2026
   * NB Repealed December 31, 2046
 ```

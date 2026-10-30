@@ -72,6 +72,5 @@ by the office of real property services pursuant to section four hundred
 twenty-five of the real property tax law, shall be allowed on the
 consideration of the conveyance of improved or unimproved real property
 or an interest therein.
-  * NB Effective August 30, 2026
   * NB Repealed December 31, 2046
 ```

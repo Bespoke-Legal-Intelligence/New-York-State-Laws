@@ -21,6 +21,7 @@
 - [§ 663 Civil action](663-civil-action.md)
 - [§ 664 Referrals by employment agencies](664-referrals-by-employment-agencies.md)
 - [§ 665 Savings clause](665-savings-clause.md)
+- [§ 669 Savings clause](669-savings-clause.md)
 
 <details>
 <summary>Official heading of Article 19, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -43,7 +44,8 @@ Section 650. Statement of public policy.
         662. Penalties.
         663. Civil action.
         664. Referrals by employment agencies.
-        665. Savings clause.
+        665. Cannabis industry wage board.
+        669. Savings clause.
 ```
 
 </details>
