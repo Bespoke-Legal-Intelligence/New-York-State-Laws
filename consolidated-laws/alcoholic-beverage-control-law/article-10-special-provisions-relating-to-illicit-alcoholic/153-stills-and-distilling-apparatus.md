@@ -4,12 +4,12 @@
 [Alcoholic Beverage Control Law](../README.md) › [Article 10 — Special Provisions Relating to Illicit Alcoholic Beverages and Stills](README.md)
 
 ```text
-  § 153. Stills and distilling apparatus.  Any person who shall
+  § 153. Stills and distilling apparatus. Any person who shall
 manufacture any illicit alcoholic beverage or who, not being duly
 licensed as a distiller under the provisions of the alcoholic beverage
 control law, shall own, operate, possesses or have under his control any
-still or distilling apparatus is guilty of a felony. "Still" or "
-distilling apparatus" shall mean any apparatus designed, intended,
+still or distilling apparatus is guilty of a felony. "Still" or
+"distilling apparatus" shall mean any apparatus designed, intended,
 actually used, or capable of being used for or in connection with the
 separating of alcoholic or spirituous vapors, or alcohol or spirituous
 solutions, or alcohol or spirits, from alcohol or spirituous solutions

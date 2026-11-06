@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 30 Oct 2026.*
+*Current through the publication of 6 Nov 2026.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [6 Nov 2026](changes/2026/2026-11-06.md): Alcoholic Beverage Control Law
 - [30 Oct 2026](changes/2026/2026-10-30.md): Alcoholic Beverage Control Law; Cannabis Law; Election Law; Environmental Conservation Law; Executive Law; General Business Law; Labor Law; Navigation Law; Not-for-Profit Corporation Law; Public Officers Law; Real Property Tax Law; State Administrative Procedure Act; Tax Law; Town Law; Vehicle and Traffic Law; Village Law
 - [23 Oct 2026](changes/2026/2026-10-23.md): Arts and Cultural Affairs Law; Executive Law; Penal Law; Real Property Tax Law; State Finance Law; Tax Law
 - [16 Oct 2026](changes/2026/2026-10-16.md): County Law; Not-for-Profit Corporation Law
@@ -22,7 +23,6 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [2 Oct 2026](changes/2026/2026-10-02.md): Criminal Procedure Law; Education Law; Executive Law; Insurance Law; Public Authorities Law; Real Property Tax Law; Retirement and Social Security Law; Social Services Law; State Finance Law; Tax Law
 - [25 Sep 2026](changes/2026/2026-09-25.md): Education Law; Estates, Powers and Trusts Law; Executive Law; Public Health Law; Village Law
 - [18 Sep 2026](changes/2026/2026-09-18.md): Executive Law; Public Officers Law; Surrogate's Court Procedure Act; Vehicle and Traffic Law
-- [11 Sep 2026](changes/2026/2026-09-11.md): Civil Service Law; Education Law; General Municipal Law; Labor Law; Military Law; Retirement and Social Security Law; Workers' Compensation Law
 
 ## Most changed in the past 12 months
 
@@ -33,14 +33,14 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Uniform Commercial Code](consolidated-laws/uniform-commercial-code/README.md) | 212 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | 203 |
 | [Education Law](consolidated-laws/education-law/README.md) | 188 |
-| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 96 |
+| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 89 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | 88 |
 | [Executive Law](consolidated-laws/executive-law/README.md) | 68 |
 | [Labor Law](consolidated-laws/labor-law/README.md) | 66 |
-| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 64 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | 59 |
-| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 51 |
-| [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | 49 |
+| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 59 |
+| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 50 |
+| [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | 48 |
 | [State Finance Law](consolidated-laws/state-finance-law/README.md) | 47 |
 | [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | 45 |
 
@@ -50,7 +50,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 |---|---|---:|---|
 | [Abandoned Property Law](consolidated-laws/abandoned-property-law/README.md) | ABP | 120 | 27 Mar 2026 |
 | [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | AGM | 725 | 3 Jul 2026 |
-| [Alcoholic Beverage Control Law](consolidated-laws/alcoholic-beverage-control-law/README.md) | ABC | 191 | 30 Oct 2026 |
+| [Alcoholic Beverage Control Law](consolidated-laws/alcoholic-beverage-control-law/README.md) | ABC | 191 | 6 Nov 2026 |
 | [Alternative County Government Law](consolidated-laws/alternative-county-government-law/README.md) | ACG | 73 | 23 May 2025 |
 | [Arts and Cultural Affairs Law](consolidated-laws/arts-and-cultural-affairs-law/README.md) | ACA | 254 | 23 Oct 2026 |
 | [Banking Law](consolidated-laws/banking-law/README.md) | BNK | 899 | 9 Jan 2026 |
